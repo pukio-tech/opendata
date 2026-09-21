@@ -3,8 +3,11 @@
 import React from 'react';
 import Link from 'next/link';
 import { Icons } from './Icons';
+import { useLanguage } from '../context/LanguageContext';
 
 export const Footer = () => {
+  const { t } = useLanguage();
+
   return (
     <footer className="bg-slate-950 text-slate-400 border-t border-slate-800/80 pt-16 pb-12 mt-auto">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -20,13 +23,13 @@ export const Footer = () => {
               </span>
             </Link>
             <p className="text-xs text-slate-400 leading-relaxed max-w-sm">
-              Plataforma nacional de datos abiertos para la consulta, georreferenciación y exploración interactiva de los recursos y atractivos turísticos del Perú.
+              {t('footer.desc')}
             </p>
 
             {/* Redes Sociales */}
             <div className="pt-2">
               <span className="text-xs font-bold text-slate-300 uppercase tracking-wider block mb-3">
-                Conéctate con Nosotros
+                {t('footer.connect')}
               </span>
               <div className="flex items-center gap-2.5">
                 <a
@@ -89,26 +92,26 @@ export const Footer = () => {
 
           {/* Column 3: Navegación */}
           <div className="space-y-3">
-            <h4 className="text-xs font-bold text-white uppercase tracking-wider">Navegación</h4>
+            <h4 className="text-xs font-bold text-white uppercase tracking-wider">{t('footer.nav')}</h4>
             <ul className="space-y-2 text-xs">
               <li>
                 <Link href="/" className="hover:text-sky-400 transition-colors">
-                  Inicio (Portal General)
+                  {t('footer.navHome')}
                 </Link>
               </li>
               <li>
                 <Link href="/turismo" className="hover:text-sky-400 transition-colors">
-                  Turismo y Explorador
+                  {t('footer.navTurismo')}
                 </Link>
               </li>
               <li>
                 <Link href="/turismo#mapa" className="hover:text-sky-400 transition-colors">
-                  Mapa de Regiones
+                  {t('footer.navMap')}
                 </Link>
               </li>
               <li>
                 <Link href="/turismo#listado-atractivos" className="hover:text-sky-400 transition-colors">
-                  Catálogo Georreferenciado
+                  {t('footer.navCatalog')}
                 </Link>
               </li>
             </ul>
@@ -116,7 +119,7 @@ export const Footer = () => {
 
           {/* Column 4: Datos y API */}
           <div className="space-y-3">
-            <h4 className="text-xs font-bold text-white uppercase tracking-wider">Datos Abiertos & API</h4>
+            <h4 className="text-xs font-bold text-white uppercase tracking-wider">{t('footer.dataApi')}</h4>
             <ul className="space-y-2 text-xs">
               <li className="flex items-center gap-1.5">
                 <Icons.Database className="w-3.5 h-3.5 text-sky-400" />
@@ -139,31 +142,31 @@ export const Footer = () => {
 
           {/* Column 5: Marco Legal & Políticas */}
           <div className="space-y-3">
-            <h4 className="text-xs font-bold text-white uppercase tracking-wider">Transparencia</h4>
+            <h4 className="text-xs font-bold text-white uppercase tracking-wider">{t('footer.transparency')}</h4>
             <ul className="space-y-2 text-xs">
               <li>
                 <Link href="/terminos-y-condiciones" className="hover:text-amber-400 transition-colors">
-                  Términos y Condiciones
+                  {t('footer.terms')}
                 </Link>
               </li>
               <li>
                 <Link href="/politicas-de-privacidad" className="hover:text-sky-400 transition-colors">
-                  Políticas de Privacidad
+                  {t('footer.privacy')}
                 </Link>
               </li>
               <li>
                 <Link href="/terminos-y-condiciones#licencia" className="hover:text-slate-300 transition-colors">
-                  Licencia de Datos Abiertos
+                  {t('footer.license')}
                 </Link>
               </li>
               <li>
                 <span className="cursor-pointer hover:text-sky-400 transition-colors">
-                  Libro de Reclamaciones
+                  {t('footer.claims')}
                 </span>
               </li>
               <li>
                 <span className="cursor-pointer hover:text-sky-400 transition-colors">
-                  Preguntas Frecuentes (FAQ)
+                  {t('footer.faq')}
                 </span>
               </li>
             </ul>
@@ -175,7 +178,7 @@ export const Footer = () => {
           <div className="flex items-center gap-2">
             <span className="w-2 h-2 rounded-full bg-emerald-500 animate-pulse" />
             <span className="text-slate-400">
-              OpenData © {new Date().getFullYear()} • Repositorio Nacional de Datos de Turismo del Perú
+              OpenData © {new Date().getFullYear()} • {t('footer.rights')}
             </span>
           </div>
 

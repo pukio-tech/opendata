@@ -7,6 +7,9 @@ import { apiService, API_BASE_URL } from '../../../services/api';
 import { FichaDetail, FichaRutaAcceso, FichaEpocaPropicia } from '../../../types/mincetur';
 import { extractCodeFromSlug } from '../../../utils/slug';
 import { Icons } from '../../../components/Icons';
+import { useLanguage } from '../../../context/LanguageContext';
+import { translateMinceturText } from '../../../utils/minceturTranslate';
+import { DynamicText } from '../../../utils/dynamicTranslate';
 
 const formatPhotoUrl = (url: string | null | undefined): string => {
   if (!url) return '';
@@ -18,30 +21,30 @@ const formatPhotoUrl = (url: string | null | undefined): string => {
 const getActivityIcon = (actName: string) => {
   const a = (actName || '').toLowerCase();
   if (a.includes('caminata') || a.includes('trekking') || a.includes('senderismo') || a.includes('escalada') || a.includes('ciclismo')) {
-    return <Icons.Footprints className="w-4 h-4 text-emerald-400 flex-shrink-0" />;
+    return <Icons.Footprints className="w-4 h-4 text-emerald-600 flex-shrink-0" />;
   }
   if (a.includes('foto') || a.includes('film') || a.includes('video') || a.includes('audiovisual')) {
-    return <Icons.Camera className="w-4 h-4 text-sky-400 flex-shrink-0" />;
+    return <Icons.Camera className="w-4 h-4 text-sky-600 flex-shrink-0" />;
   }
   if (a.includes('ave') || a.includes('fauna') || a.includes('flora') || a.includes('observ') || a.includes('paisaje')) {
-    return <Icons.Trees className="w-4 h-4 text-teal-400 flex-shrink-0" />;
+    return <Icons.Trees className="w-4 h-4 text-teal-600 flex-shrink-0" />;
   }
   if (a.includes('bote') || a.includes('canoa') || a.includes('pesca') || a.includes('kayak') || a.includes('rio') || a.includes('agua') || a.includes('mar') || a.includes('natacion') || a.includes('termal')) {
-    return <Icons.Waves className="w-4 h-4 text-cyan-400 flex-shrink-0" />;
+    return <Icons.Waves className="w-4 h-4 text-cyan-600 flex-shrink-0" />;
   }
   if (a.includes('camp') || a.includes('camping')) {
-    return <Icons.Trees className="w-4 h-4 text-amber-400 flex-shrink-0" />;
+    return <Icons.Trees className="w-4 h-4 text-amber-600 flex-shrink-0" />;
   }
   if (a.includes('artesan') || a.includes('compra') || a.includes('mercado') || a.includes('souvenir')) {
-    return <Icons.Award className="w-4 h-4 text-amber-400 flex-shrink-0" />;
+    return <Icons.Award className="w-4 h-4 text-amber-600 flex-shrink-0" />;
   }
   if (a.includes('estudio') || a.includes('investig') || a.includes('cientif') || a.includes('arqueol')) {
-    return <Icons.Database className="w-4 h-4 text-indigo-400 flex-shrink-0" />;
+    return <Icons.Database className="w-4 h-4 text-indigo-600 flex-shrink-0" />;
   }
   if (a.includes('ritual') || a.includes('mistic') || a.includes('tradicion') || a.includes('folclor') || a.includes('danza') || a.includes('fiesta') || a.includes('cultura')) {
-    return <Icons.Sparkles className="w-4 h-4 text-rose-400 flex-shrink-0" />;
+    return <Icons.Sparkles className="w-4 h-4 text-rose-600 flex-shrink-0" />;
   }
-  return <Icons.Compass className="w-4 h-4 text-sky-400 flex-shrink-0" />;
+  return <Icons.Compass className="w-4 h-4 text-sky-600 flex-shrink-0" />;
 };
 
 function SmallActivityIcon({ url, name }: { url?: string; name: string }) {
@@ -49,14 +52,14 @@ function SmallActivityIcon({ url, name }: { url?: string; name: string }) {
 
   if (hasError || !url) {
     return (
-      <div className="w-7 h-7 rounded-lg bg-slate-800 border border-slate-700 flex items-center justify-center p-1 flex-shrink-0">
+      <div className="w-7 h-7 rounded-lg bg-slate-100 border border-slate-200 flex items-center justify-center p-1 flex-shrink-0">
         {getActivityIcon(name)}
       </div>
     );
   }
 
   return (
-    <div className="w-7 h-7 rounded-lg bg-white/95 border border-slate-600/60 p-0.5 flex items-center justify-center flex-shrink-0 shadow-sm">
+    <div className="w-7 h-7 rounded-lg bg-white border border-slate-200 p-0.5 flex items-center justify-center flex-shrink-0 shadow-sm">
       <img
         src={url}
         alt={name}
@@ -71,18 +74,17 @@ function SmallActivityIcon({ url, name }: { url?: string; name: string }) {
 const getTransportIcon = (transport: string) => {
   const t = (transport || '').toLowerCase();
   if (t.includes('pie') || t.includes('caminata')) {
-    return <Icons.Footprints className="w-4 h-4 text-emerald-400" />;
+    return <Icons.Footprints className="w-4 h-4 text-emerald-600" />;
   }
   if (t.includes('bus') || t.includes('combi') || t.includes('colectivo') || t.includes('minivan')) {
-    return <Icons.Bus className="w-4 h-4 text-sky-400" />;
+    return <Icons.Bus className="w-4 h-4 text-sky-600" />;
   }
   if (t.includes('bote') || t.includes('lancha') || t.includes('canoa') || t.includes('fluvial') || t.includes('maritimo')) {
-    return <Icons.Waves className="w-4 h-4 text-cyan-400" />;
+    return <Icons.Waves className="w-4 h-4 text-cyan-600" />;
   }
-  return <Icons.Car className="w-4 h-4 text-amber-400" />;
+  return <Icons.Car className="w-4 h-4 text-amber-600" />;
 };
 
-// Parser robusto de Rutas de Acceso (soporta array estructurado o texto concatenado de MINCETUR)
 function parseRutasList(ficha: FichaDetail | null): FichaRutaAcceso[] {
   if (ficha?.rutas_acceso && ficha.rutas_acceso.length > 0) {
     return ficha.rutas_acceso;
@@ -99,44 +101,35 @@ function parseRutasList(ficha: FichaDetail | null): FichaRutaAcceso[] {
     .replace(/^Recorrido\s+Tramo\s+Detalle\s+Tipo de Acceso\s+Medio de transporte\s+Tipo de V[íi]a(?:\s+Terrestre)?\s+Distancia en kms\.\/tiempo\s*/i, '')
     .trim();
 
-  // Buscar patrones numéricos tipo: "1 Huánuco/... - Huánuco/... Plaza de Jesús - Plaza de Cauri Terrestre Camioneta... 11.2 Km / 24 Min"
-  const regex = /(?:(\d+)\s+)?([A-Za-zÁÉÍÓÚáéíóúñÑ0-9\s\/]+?\s*-\s*[A-Za-zÁÉÍÓÚáéíóúñÑ0-9\s\/]+?)\s+([A-Za-zÁÉÍÓÚáéíóúñÑ0-9\s\/]+?\s*-\s*[A-Za-zÁÉÍÓÚáéíóúñÑ0-9\s\/]+?)\s+(Terrestre|Fluvial|A[ée]reo)?\s*([A-Za-zÁÉÍÓÚáéíóúñÑ0-9\s]+?)\s+(Asfaltado|Afirmado|Sendero|Trocha|Fluvial|A[ée]reo|Pavimentado)\s+([\d\.,]+\s*(?:Km|Mts|m|km|mts|Metros)\s*\/\s*[\d\s\w]+)/gi;
+  const tramoRegex = /(\d+)\s+([^\d]+?)\s+(Terrestre|Fluvial|Marítimo|Aéreo|Lacustre)\s+([^\d]+?)\s+(Trocha carrozable|Asfaltado|Afirmado|Sendero|Camino de herradura|Sin vía|Pavimentado|Río|Lago|Mar|[A-Za-z\s]+?)\s+(\d+[\d\s\.,\w\/\-]+?(?:km|horas?|minutos?|días?|m\b|\.|$))/gi;
 
   const results: FichaRutaAcceso[] = [];
-  let m: RegExpExecArray | null;
+  let match;
 
-  while ((m = regex.exec(text)) !== null) {
+  while ((match = tramoRegex.exec(text)) !== null) {
     results.push({
-      recorrido: m[1] || '1',
-      tramo: m[2]?.trim(),
-      detalle: m[3]?.trim(),
-      tipo_acceso: m[4]?.trim() || 'Terrestre',
-      medio_transporte: m[5]?.trim(),
-      tipo_via: m[6]?.trim(),
-      distancia_tiempo: m[7]?.trim(),
+      tramo: match[2]?.trim() || `Tramo ${match[1]}`,
+      detalle: match[2]?.trim() || '',
+      tipo_acceso: match[3]?.trim(),
+      medio_transporte: match[4]?.trim(),
+      tipo_via: match[5]?.trim(),
+      distancia_tiempo: match[6]?.trim(),
     });
   }
 
-  // Si el regex no captura por variaciones, separar por tramos "1 ..."
-  if (results.length === 0) {
-    const segments = text.split(/(?=\b\d+\s+[A-ZÁÉÍÓÚ])/g);
-    for (const seg of segments) {
-      const clean = seg.trim();
-      if (!clean) continue;
-      results.push({
-        tramo: clean,
-        detalle: '',
-        medio_transporte: clean.toLowerCase().includes('a pie') ? 'A pie' : 'Vehicular / Terrestre',
-        tipo_via: clean.toLowerCase().includes('asfaltado') ? 'Asfaltado' : clean.toLowerCase().includes('afirmado') ? 'Afirmado' : 'Sendero / Vía oficial',
-        distancia_tiempo: clean.match(/[\d\.,]+\s*(?:Km|Mts|km|mts)\s*\/\s*[\d\s\w]+/i)?.[0] || '',
-      });
-    }
+  if (results.length > 0) return results;
+
+  const lines = text.split('\n').map((l) => l.trim()).filter((l) => l.length > 0);
+  for (const line of lines) {
+    results.push({
+      tramo: line,
+      detalle: line,
+    });
   }
 
   return results;
 }
 
-// Parser robusto de Época Propicia (soporta array estructurado o texto concatenado de MINCETUR)
 function parseEpocaList(ficha: FichaDetail | null): FichaEpocaPropicia[] {
   if (ficha?.epoca_propicia && ficha.epoca_propicia.length > 0) {
     return ficha.epoca_propicia;
@@ -149,40 +142,35 @@ function parseEpocaList(ficha: FichaDetail | null): FichaEpocaPropicia[] {
 
   if (!rawSection || !rawSection.contenido_texto) return [];
 
-  const text = rawSection.contenido_texto
-    .replace(/^Época propicia de visita al recurso\s+Especificación\s+Hora de visita especificación\s+Observaciones\s*/i, '')
-    .trim();
+  const text = rawSection.contenido_texto;
+  const epocaMatch = text.match(/Época propicia de visita\s*:\s*([^\n]+)/i);
+  const espMatch = text.match(/Especificación\s*:\s*([^\n]+)/i);
+  const horMatch = text.match(/Horario de visita\s*:\s*([^\n]+)/i);
+  const obsMatch = text.match(/Observaciones\s*:\s*([^\n]+)/i);
 
-  // Detectar época, horario y observaciones
-  const horarioMatch = text.match(/(\d{1,2}:\d{2}\s*(?:a\.?m\.?|p\.?m\.?)\s*-\s*\d{1,2}:\d{2}\s*(?:a\.?m\.?|p\.?m\.?))/i);
-  const horario = horarioMatch ? horarioMatch[1] : '08:00 a.m. - 05:00 p.m.';
-
-  let epoca = 'Todo el Año';
-  if (text.toLowerCase().includes('mayo a octubre')) epoca = 'Mayo a Octubre';
-  else if (text.toLowerCase().includes('abril a noviembre')) epoca = 'Abril a Noviembre';
-  else if (text.toLowerCase().includes('todo el a')) epoca = 'Todo el Año';
-
-  let observaciones = '';
-  const obsIndex = text.toLowerCase().indexOf('se recomienda');
-  if (obsIndex !== -1) {
-    observaciones = text.substring(obsIndex).trim();
-  } else {
-    observaciones = text.replace(horario, '').replace(epoca, '').replace(/--/g, '').trim();
+  if (epocaMatch || horMatch) {
+    return [
+      {
+        epoca: epocaMatch ? epocaMatch[1].trim() : 'Todo el Año',
+        especificacion: espMatch ? espMatch[1].trim() : '',
+        horario: horMatch ? horMatch[1].trim() : '08:00 a.m. - 05:00 p.m.',
+        observaciones: obsMatch ? obsMatch[1].trim() : '',
+      },
+    ];
   }
 
   return [
     {
-      epoca,
-      especificacion: '--',
-      horario,
-      observaciones: observaciones || 'Consultar con guías oficiales y autoridades locales antes de la visita.',
+      epoca: 'Todo el Año',
+      especificacion: '',
+      horario: text.trim() || '08:00 a.m. - 05:00 p.m.',
+      observaciones: '',
     },
   ];
 }
 
 function cleanLabel(text: string | null | undefined): string {
   if (!text) return '';
-  // Elimina prefijos como "1. ", "2. ", "j. ", "a. ", "a) ", "1) ", "I. ", etc.
   let cleaned = text
     .replace(/^[0-9a-zA-Z]{1,3}[\.\)\-]\s*/, '')
     .replace(/^[\.\-\/\s]+/, '')
@@ -190,7 +178,6 @@ function cleanLabel(text: string | null | undefined): string {
 
   if (!cleaned) cleaned = text.trim();
 
-  // Convertir a formato Capitalizado / Minúsculas limpio (Title Case)
   const prepositions = ['de', 'del', 'la', 'las', 'el', 'los', 'en', 'y', 'a', 'e', 'o', 'u', 'por', 'con', 'al'];
   return cleaned
     .toLowerCase()
@@ -204,30 +191,35 @@ function cleanLabel(text: string | null | undefined): string {
     .join(' ');
 }
 
-function cleanAltitud(alt: string | null | undefined): string {
-  if (!alt) return 'Consultar en sitio';
-  const trimmed = alt.trim();
-  if (/^\d+$/.test(trimmed)) {
-    return `${Number(trimmed).toLocaleString()} m.s.n.m.`;
+function cleanAltitud(altitud: string | null | undefined): string {
+  if (!altitud || altitud.trim() === '--' || altitud.trim() === '') return 'No especificada';
+  const val = altitud.trim();
+  if (val.toLowerCase().includes('m.s.n.m') || val.toLowerCase().includes('msnm') || val.toLowerCase().includes('metros')) {
+    return val;
   }
-  return trimmed;
+  if (!isNaN(Number(val))) {
+    return `${Number(val).toLocaleString()} m.s.n.m.`;
+  }
+  return `${val} m.s.n.m.`;
 }
 
-export default function FichaDetailPage() {
+export default function FichaTurismoPage() {
+  const { language, t } = useLanguage();
   const params = useParams();
   const router = useRouter();
-  const slug = Array.isArray(params?.slug) ? params.slug[0] : (params?.slug as string) || '';
+  const slug = (params?.slug as string) || '';
   const codFicha = extractCodeFromSlug(slug);
 
   const [ficha, setFicha] = useState<FichaDetail | null>(null);
   const [loading, setLoading] = useState<boolean>(true);
   const [error, setError] = useState<string | null>(null);
+
   const [selectedPhoto, setSelectedPhoto] = useState<string | null>(null);
   const [imgError, setImgError] = useState<boolean>(false);
 
   useEffect(() => {
     if (!codFicha) {
-      setError('Código de recurso turístico no válido.');
+      setError('Código de ficha no válido');
       setLoading(false);
       return;
     }
@@ -237,7 +229,7 @@ export default function FichaDetailPage() {
 
     apiService
       .getFichaDetail(codFicha)
-      .then((data) => {
+      .then((data: FichaDetail | null) => {
         setFicha(data);
         if (data?.galeria_fotos?.length) {
           setSelectedPhoto(data.galeria_fotos[0]);
@@ -245,14 +237,13 @@ export default function FichaDetailPage() {
           setSelectedPhoto(data.foto_principal);
         }
       })
-      .catch((err) => {
+      .catch((err: unknown) => {
         console.error('Error al cargar la ficha:', err);
         setError('Esta ficha no existe o ha sido dada de baja del inventario oficial.');
       })
       .finally(() => setLoading(false));
   }, [codFicha]);
 
-  // Extraer YouTube Embed URL
   const extractYouTubeEmbed = () => {
     if (ficha?.youtube_embed_url) return ficha.youtube_embed_url;
     if (ficha?.youtube_id) return `https://www.youtube.com/embed/${ficha.youtube_id}`;
@@ -271,29 +262,25 @@ export default function FichaDetailPage() {
 
   const youtubeEmbedUrl = extractYouTubeEmbed();
 
-  // Listas parseadas y estructuradas
   const rutasAcceso = useMemo(() => parseRutasList(ficha), [ficha]);
   const epocaPropicia = useMemo(() => parseEpocaList(ficha), [ficha]);
 
-  // Otras Secciones que no sean Descripción, Rutas, Época, Actividades ni Responsable
   const otherSections = (ficha?.secciones || []).filter((sec) => {
-    const t = sec.titulo.toLowerCase();
+    const title = sec.titulo.toLowerCase();
     return (
-      !t.includes('descrip') &&
-      !t.includes('ruta de acceso') &&
-      !t.includes('acceso') &&
-      !t.includes('epoca propicia') &&
-      !t.includes('época propicia') &&
-      !t.includes('actividad') &&
-      !t.includes('responsable')
+      !title.includes('descrip') &&
+      !title.includes('ruta de acceso') &&
+      !title.includes('acceso') &&
+      !title.includes('epoca propicia') &&
+      !title.includes('época propicia') &&
+      !title.includes('actividad') &&
+      !title.includes('responsable')
     );
   });
 
-  // Dividir descripción en párrafos limpios, legibles y sin duplicados
   const descriptionParagraphs = useMemo(() => {
     if (!ficha?.descripcion) return [];
     let cleanDesc = ficha.descripcion.trim();
-    // Eliminar posible duplicado idéntico si se concatenó dos veces
     const half = Math.floor(cleanDesc.length / 2);
     if (cleanDesc.length > 100 && cleanDesc.substring(0, half).trim() === cleanDesc.substring(half).trim()) {
       cleanDesc = cleanDesc.substring(0, half).trim();
@@ -303,7 +290,6 @@ export default function FichaDetailPage() {
       .map((p) => p.trim())
       .filter((p) => p.length > 0);
 
-    // Filtrar párrafos duplicados
     const uniqueParagraphs: string[] = [];
     for (const p of paragraphs) {
       if (!uniqueParagraphs.some((existing) => existing === p || existing.includes(p) || p.includes(existing))) {
@@ -314,57 +300,57 @@ export default function FichaDetailPage() {
   }, [ficha?.descripcion]);
 
   return (
-    <div className="min-h-screen bg-slate-950 text-slate-100 pt-6 sm:pt-8 pb-20 px-4 sm:px-6 lg:px-8">
+    <main className="flex-1 bg-white text-slate-900 min-h-screen pt-8 pb-20 px-4 sm:px-6 lg:px-8">
       <div className="max-w-6xl mx-auto space-y-6 sm:space-y-8">
         {/* Navigation Breadcrumb */}
         <div className="flex flex-wrap items-center justify-between gap-4">
-          <nav className="flex items-center gap-2 text-xs sm:text-sm text-slate-400">
-            <Link href="/" className="hover:text-amber-400 transition-colors flex items-center gap-1.5">
+          <nav className="flex items-center gap-2 text-xs sm:text-sm text-slate-500">
+            <Link href="/" className="hover:text-amber-600 transition-colors flex items-center gap-1.5">
               <Icons.Compass className="w-4 h-4" />
-              <span>Inicio</span>
+              <span>{t('ficha.breadcrumbHome')}</span>
             </Link>
-            <span className="text-slate-600">/</span>
-            <Link href="/turismo" className="hover:text-sky-400 transition-colors">
-              Turismo
+            <span className="text-slate-300">/</span>
+            <Link href="/turismo" className="hover:text-sky-600 transition-colors">
+              {t('ficha.breadcrumbTurismo')}
             </Link>
-            <span className="text-slate-600">/</span>
-            <span className="text-slate-200 font-semibold truncate max-w-[200px] sm:max-w-md">
-              {ficha?.nombre || `Ficha #${codFicha}`}
+            <span className="text-slate-300">/</span>
+            <span className="text-slate-800 font-semibold truncate max-w-[200px] sm:max-w-md">
+              {ficha?.nombre || `${t('card.recordNum')} #${codFicha}`}
             </span>
           </nav>
 
           <button
             onClick={() => router.back()}
-            className="flex items-center gap-2 px-4 py-2 rounded-xl bg-slate-900 border border-slate-700 hover:border-slate-500 text-xs font-semibold text-slate-300 hover:text-white transition-all shadow-md cursor-pointer"
+            className="flex items-center gap-2 px-4 py-2 rounded-xl bg-slate-50 border border-slate-200 hover:bg-slate-100 text-xs font-semibold text-slate-700 hover:text-slate-900 transition-all shadow-sm cursor-pointer"
           >
             <Icons.ChevronRight className="w-4 h-4 rotate-180" />
-            <span>Volver al Catálogo</span>
+            <span>{t('ficha.backToCatalog')}</span>
           </button>
         </div>
 
         {/* Loading State */}
         {loading && (
-          <div className="py-32 flex flex-col items-center justify-center gap-4 bg-slate-900/60 rounded-3xl border border-slate-800 backdrop-blur-md">
-            <div className="w-12 h-12 border-3 border-amber-400 border-t-transparent rounded-full animate-spin" />
-            <p className="text-sm font-semibold text-slate-300">Cargando información oficial del recurso...</p>
+          <div className="py-32 flex flex-col items-center justify-center gap-4 bg-slate-50 rounded-3xl border border-slate-200">
+            <div className="w-12 h-12 border-3 border-amber-500 border-t-transparent rounded-full animate-spin" />
+            <p className="text-sm font-semibold text-slate-600">{t('ficha.loading')}</p>
           </div>
         )}
 
         {/* Error State */}
         {!loading && error && (
-          <div className="py-24 text-center bg-slate-900/60 rounded-3xl border border-rose-500/30 p-8 backdrop-blur-md">
-            <div className="w-16 h-16 rounded-2xl bg-rose-500/10 border border-rose-500/30 flex items-center justify-center mx-auto mb-4 text-rose-400">
+          <div className="py-24 text-center bg-slate-50 rounded-3xl border border-rose-200 p-8">
+            <div className="w-16 h-16 rounded-2xl bg-rose-50 border border-rose-200 flex items-center justify-center mx-auto mb-4 text-rose-600">
               <Icons.Info className="w-8 h-8" />
             </div>
-            <h2 className="text-xl font-bold text-white mb-2">{error}</h2>
-            <p className="text-xs text-slate-400 max-w-md mx-auto mb-6">
-              El recurso solicitado no se encuentra publicado o no está registrado en el inventario oficial.
+            <h2 className="text-xl font-bold text-slate-900 mb-2">{t('ficha.notFound')}</h2>
+            <p className="text-xs text-slate-500 max-w-md mx-auto mb-6">
+              {t('ficha.notFoundDesc')}
             </p>
             <Link
               href="/turismo"
-              className="inline-flex items-center gap-2 px-6 py-2.5 rounded-xl bg-gradient-to-r from-amber-500 to-orange-500 text-slate-950 font-bold text-xs shadow-lg hover:brightness-110 transition-all"
+              className="inline-flex items-center gap-2 px-6 py-2.5 rounded-xl bg-gradient-to-r from-amber-500 to-orange-500 text-slate-950 font-bold text-xs shadow-md hover:brightness-105 transition-all"
             >
-              Explorar otros destinos oficiales
+              {t('ficha.exploreOther')}
             </Link>
           </div>
         )}
@@ -373,24 +359,24 @@ export default function FichaDetailPage() {
         {!loading && ficha && (
           <div className="space-y-8 animate-fadeIn">
             {/* Header Card */}
-            <div className="relative rounded-3xl overflow-hidden bg-slate-900/90 border border-slate-700/80 p-6 sm:p-10 shadow-2xl backdrop-blur-xl">
+            <div className="relative rounded-3xl overflow-hidden bg-slate-50 border border-slate-200 p-6 sm:p-10 shadow-lg">
               <div className="flex flex-col lg:flex-row lg:items-center justify-between gap-6">
                 <div>
                   <div className="flex flex-wrap items-center gap-2 mb-3">
-                    <span className="text-xs font-mono font-bold px-3 py-1 rounded-full bg-amber-500/20 text-amber-400 border border-amber-500/30">
-                      Ficha Oficial N° {ficha.cod_ficha}
+                    <span className="text-xs font-mono font-bold px-3 py-1 rounded-full bg-amber-100 text-amber-800 border border-amber-200">
+                      {t('card.recordNum')} #{ficha.cod_ficha}
                     </span>
                     {ficha.categoria && (
-                      <span className="text-xs font-semibold px-3 py-1 rounded-full bg-slate-800 text-slate-300 border border-slate-700">
-                        {cleanLabel(ficha.categoria)}
+                      <span className="text-xs font-semibold px-3 py-1 rounded-full bg-slate-100 text-slate-700 border border-slate-200">
+                        <DynamicText text={cleanLabel(ficha.categoria)} />
                       </span>
                     )}
                   </div>
-                  <h1 className="text-2xl sm:text-4xl lg:text-5xl font-black text-white tracking-tight leading-tight">
+                  <h1 className="text-2xl sm:text-4xl lg:text-5xl font-black text-slate-900 tracking-tight leading-tight">
                     {ficha.nombre}
                   </h1>
-                  <p className="text-xs sm:text-sm text-slate-400 flex items-center gap-2 mt-3">
-                    <Icons.MapPin className="w-4 h-4 text-rose-400 flex-shrink-0" />
+                  <p className="text-xs sm:text-sm text-slate-600 flex items-center gap-2 mt-3">
+                    <Icons.MapPin className="w-4 h-4 text-rose-600 flex-shrink-0" />
                     <span>
                       {ficha.departamento} &gt; {ficha.provincia} &gt; {ficha.distrito}
                     </span>
@@ -402,9 +388,9 @@ export default function FichaDetailPage() {
                     href={ficha.url_ficha}
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="px-5 py-3 rounded-2xl bg-slate-800 hover:bg-slate-700 border border-slate-600 text-xs font-bold text-slate-200 transition-all flex items-center gap-2 shadow-lg"
+                    className="px-5 py-3 rounded-2xl bg-white hover:bg-slate-100 border border-slate-300 text-xs font-bold text-slate-800 transition-all flex items-center gap-2 shadow-sm"
                   >
-                    <span>Ficha Fuente</span>
+                    <span>{t('ficha.sourceFile')}</span>
                     <Icons.ExternalLink className="w-4 h-4" />
                   </a>
                 </div>
@@ -415,14 +401,14 @@ export default function FichaDetailPage() {
             <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
               {/* Photo Showcase (Col 2) */}
               <div className="lg:col-span-2 space-y-4">
-                <div className="rounded-3xl overflow-hidden bg-slate-900 border border-slate-800 shadow-2xl p-4">
-                  <h3 className="text-xs font-bold uppercase tracking-widest text-slate-400 mb-3 flex items-center gap-2">
-                    <Icons.Camera className="w-4 h-4 text-sky-400" />
-                    <span>Fotografía Oficial del Recurso</span>
+                <div className="rounded-3xl overflow-hidden bg-white border border-slate-200 shadow-md p-4">
+                  <h3 className="text-xs font-bold uppercase tracking-widest text-slate-500 mb-3 flex items-center gap-2">
+                    <Icons.Camera className="w-4 h-4 text-sky-600" />
+                    <span>{t('ficha.officialPhoto')}</span>
                   </h3>
 
                   {/* Main Image Container */}
-                  <div className="relative w-full h-80 sm:h-[440px] rounded-2xl overflow-hidden bg-slate-950 border border-slate-800 flex items-center justify-center">
+                  <div className="relative w-full h-80 sm:h-[440px] rounded-2xl overflow-hidden bg-slate-100 border border-slate-200 flex items-center justify-center">
                     {selectedPhoto && !imgError ? (
                       <img
                         src={formatPhotoUrl(selectedPhoto)}
@@ -433,8 +419,8 @@ export default function FichaDetailPage() {
                       />
                     ) : (
                       <div className="text-center p-8 flex flex-col items-center justify-center">
-                        <Icons.Camera className="w-12 h-12 text-slate-600 mb-2" />
-                        <span className="text-xs font-medium text-slate-400">Sin fotografía digitalizada en ficha oficial</span>
+                        <Icons.Camera className="w-12 h-12 text-slate-400 mb-2" />
+                        <span className="text-xs font-medium text-slate-500">{t('card.noPhoto')}</span>
                       </div>
                     )}
                   </div>
@@ -442,8 +428,8 @@ export default function FichaDetailPage() {
                   {/* Thumbnails Row */}
                   {ficha.galeria_fotos && ficha.galeria_fotos.length > 1 && (
                     <div className="mt-4">
-                      <span className="text-[11px] font-bold text-slate-400 uppercase tracking-wider block mb-2">
-                        Galería Oficial ({ficha.galeria_fotos.length} fotos)
+                      <span className="text-[11px] font-bold text-slate-500 uppercase tracking-wider block mb-2">
+                        {t('ficha.officialGallery')} ({ficha.galeria_fotos.length} {t('ficha.photos')})
                       </span>
                       <div className="flex gap-3 overflow-x-auto pb-2">
                         {ficha.galeria_fotos.map((photo, index) => (
@@ -455,8 +441,8 @@ export default function FichaDetailPage() {
                             }}
                             className={`relative w-28 h-20 rounded-xl overflow-hidden flex-shrink-0 border-2 transition-all cursor-pointer ${
                               selectedPhoto === photo
-                                ? 'border-amber-400 ring-2 ring-amber-400/40 opacity-100 scale-105'
-                                : 'border-slate-800 opacity-60 hover:opacity-100'
+                                ? 'border-amber-500 ring-2 ring-amber-400/40 opacity-100 scale-105'
+                                : 'border-slate-200 opacity-60 hover:opacity-100'
                             }`}
                           >
                             <img src={formatPhotoUrl(photo)} alt="" className="w-full h-full object-cover" />
@@ -469,21 +455,21 @@ export default function FichaDetailPage() {
 
                 {/* 1. Descripción en Párrafos Estructurados y Legibles */}
                 {descriptionParagraphs.length > 0 && (
-                  <div className="bg-slate-900/90 rounded-3xl p-6 sm:p-8 border border-slate-800 shadow-xl space-y-4">
-                    <div className="flex items-center justify-between pb-3 border-b border-slate-800/80">
-                      <h2 className="text-sm font-bold uppercase tracking-widest text-amber-400 flex items-center gap-2">
-                        <Icons.Info className="w-4 h-4 text-amber-400" />
-                        <span>Descripción Oficial del Atractivo</span>
+                  <div className="bg-slate-50 rounded-3xl p-6 sm:p-8 border border-slate-200 shadow-md space-y-4">
+                    <div className="flex items-center justify-between pb-3 border-b border-slate-200">
+                      <h2 className="text-sm font-bold uppercase tracking-widest text-amber-700 flex items-center gap-2">
+                        <Icons.Info className="w-4 h-4 text-amber-600" />
+                        <span>{t('ficha.officialDescription')}</span>
                       </h2>
-                      <span className="text-[10px] font-mono font-bold text-slate-500 uppercase">
-                        Inventario MINCETUR
+                      <span className="text-[10px] font-mono font-bold text-slate-400 uppercase">
+                        {t('ficha.minceturInventory')}
                       </span>
                     </div>
 
-                    <div className="space-y-4 text-xs sm:text-sm text-slate-300 leading-relaxed">
+                    <div className="space-y-4 text-xs sm:text-sm text-slate-700 leading-relaxed">
                       {descriptionParagraphs.map((paragraph, pIdx) => (
-                        <p key={pIdx} className="text-slate-300 leading-relaxed">
-                          {paragraph}
+                        <p key={pIdx} className="text-slate-700 leading-relaxed">
+                          <DynamicText text={paragraph} />
                         </p>
                       ))}
                     </div>
@@ -494,33 +480,39 @@ export default function FichaDetailPage() {
               {/* Sidebar Specifications (Col 1) */}
               <div className="space-y-6">
                 {/* Classification Box */}
-                <div className="bg-slate-900/90 rounded-3xl p-6 border border-slate-800 shadow-xl space-y-4">
-                  <h3 className="text-xs font-bold uppercase tracking-widest text-slate-400 flex items-center gap-2">
-                    <Icons.Layers className="w-4 h-4 text-sky-400" />
-                    <span>Ficha Técnica Oficial</span>
+                <div className="bg-slate-50 rounded-3xl p-6 border border-slate-200 shadow-md space-y-4">
+                  <h3 className="text-xs font-bold uppercase tracking-widest text-slate-700 flex items-center gap-2">
+                    <Icons.Layers className="w-4 h-4 text-sky-600" />
+                    <span>{t('ficha.techSpecs')}</span>
                   </h3>
 
-                  <div className="space-y-3 divide-y divide-slate-800/80 text-xs">
+                  <div className="space-y-3 divide-y divide-slate-200 text-xs">
                     <div className="pt-2 flex justify-between gap-2">
-                      <span className="text-slate-400">Categoría:</span>
-                      <span className="font-bold text-white text-right">{cleanLabel(ficha.categoria) || 'No especificada'}</span>
+                      <span className="text-slate-500">{t('ficha.category')}</span>
+                      <span className="font-bold text-slate-900 text-right">
+                        {ficha.categoria ? <DynamicText text={cleanLabel(ficha.categoria)} /> : t('ficha.notSpecified')}
+                      </span>
                     </div>
                     <div className="pt-2 flex justify-between gap-2">
-                      <span className="text-slate-400">Tipo:</span>
-                      <span className="font-bold text-white text-right">{cleanLabel(ficha.tipo) || 'No especificado'}</span>
+                      <span className="text-slate-500">{t('ficha.type')}</span>
+                      <span className="font-bold text-slate-900 text-right">
+                        {ficha.tipo ? <DynamicText text={cleanLabel(ficha.tipo)} /> : t('ficha.notSpecifiedMale')}
+                      </span>
                     </div>
                     <div className="pt-2 flex justify-between gap-2">
-                      <span className="text-slate-400">Subtipo:</span>
-                      <span className="font-bold text-white text-right">{cleanLabel(ficha.subtipo) || 'No especificado'}</span>
+                      <span className="text-slate-500">{t('ficha.subtype')}</span>
+                      <span className="font-bold text-slate-900 text-right">
+                        {ficha.subtipo ? <DynamicText text={cleanLabel(ficha.subtipo)} /> : t('ficha.notSpecifiedMale')}
+                      </span>
                     </div>
                     <div className="pt-2 flex justify-between gap-2">
-                      <span className="text-slate-400">Altitud:</span>
-                      <span className="font-bold text-sky-300 text-right">{cleanAltitud(ficha.altitud)}</span>
+                      <span className="text-slate-500">{t('ficha.altitude')}</span>
+                      <span className="font-bold text-sky-700 text-right">{cleanAltitud(ficha.altitud)}</span>
                     </div>
                   </div>
 
                   {/* Enlace Oficial a Google Maps / Ubicación Georreferenciada */}
-                  <div className="pt-2 border-t border-slate-800/80">
+                  <div className="pt-2 border-t border-slate-200">
                     <a
                       href={
                         ficha.google_maps_url ||
@@ -532,25 +524,25 @@ export default function FichaDetailPage() {
                       }
                       target="_blank"
                       rel="noopener noreferrer"
-                      className="w-full py-2.5 px-3.5 rounded-xl bg-gradient-to-r from-sky-500 to-blue-600 hover:from-sky-400 hover:to-blue-500 text-white font-bold text-xs flex items-center justify-center gap-2 shadow-lg shadow-sky-500/20 transition-all hover:scale-[1.02] cursor-pointer"
+                      className="w-full py-2.5 px-3.5 rounded-xl bg-gradient-to-r from-sky-500 to-blue-600 hover:from-sky-400 hover:to-blue-500 text-white font-bold text-xs flex items-center justify-center gap-2 shadow-md transition-all hover:scale-[1.02] cursor-pointer"
                     >
                       <Icons.MapPin className="w-4 h-4 text-amber-300 flex-shrink-0" />
-                      <span>Ver Ubicación en Mapa</span>
+                      <span>{t('ficha.viewOnMap')}</span>
                       <Icons.ExternalLink className="w-3.5 h-3.5 opacity-80" />
                     </a>
                   </div>
                 </div>
 
-                {/* Época Propicia de Visita y Horarios (Ubicado directamente debajo de Ficha Técnica Oficial) */}
+                {/* Época Propicia de Visita y Horarios */}
                 {epocaPropicia.length > 0 && (
-                  <div className="bg-slate-900/90 rounded-3xl p-6 border border-slate-800 shadow-xl space-y-4">
-                    <div className="flex items-center justify-between pb-2 border-b border-slate-800/80">
-                      <h3 className="text-xs font-bold uppercase tracking-widest text-slate-300 flex items-center gap-2">
-                        <Icons.Calendar className="w-4 h-4 text-amber-400" />
-                        <span>Época Propicia y Horarios</span>
+                  <div className="bg-slate-50 rounded-3xl p-6 border border-slate-200 shadow-md space-y-4">
+                    <div className="flex items-center justify-between pb-2 border-b border-slate-200">
+                      <h3 className="text-xs font-bold uppercase tracking-widest text-slate-800 flex items-center gap-2">
+                        <Icons.Calendar className="w-4 h-4 text-amber-600" />
+                        <span>{t('ficha.seasonAndHours')}</span>
                       </h3>
-                      <span className="text-[10px] font-mono font-bold px-2 py-0.5 rounded-full bg-amber-950/40 text-amber-300 border border-amber-800/40">
-                        Visita
+                      <span className="text-[10px] font-mono font-bold px-2 py-0.5 rounded-full bg-amber-100 text-amber-800 border border-amber-200">
+                        {t('ficha.visit')}
                       </span>
                     </div>
 
@@ -558,39 +550,41 @@ export default function FichaDetailPage() {
                       {epocaPropicia.map((ep, idx) => (
                         <div key={idx} className="space-y-3">
                           {/* Temporada */}
-                          <div className="p-3.5 rounded-2xl bg-slate-950/80 border border-slate-800 space-y-1">
-                            <span className="text-[10px] font-bold text-amber-400 uppercase tracking-wider block flex items-center gap-1.5">
+                          <div className="p-3.5 rounded-2xl bg-white border border-slate-200 space-y-1 shadow-sm">
+                            <span className="text-[10px] font-bold text-amber-700 uppercase tracking-wider block flex items-center gap-1.5">
                               <Icons.Sun className="w-3.5 h-3.5" />
-                              Temporada Recomendada
+                              {t('ficha.recommendedSeason')}
                             </span>
-                            <p className="text-sm font-black text-white">
-                              {ep.epoca || 'Todo el Año'}
+                            <p className="text-sm font-black text-slate-900">
+                              <DynamicText text={cleanLabel(ep.epoca) || 'Todo el Año'} />
                             </p>
                             {ep.especificacion && ep.especificacion !== '--' && (
-                              <p className="text-[11px] text-slate-400">{ep.especificacion}</p>
+                              <p className="text-[11px] text-slate-600">
+                                <DynamicText text={ep.especificacion} />
+                              </p>
                             )}
                           </div>
 
                           {/* Horario */}
-                          <div className="p-3.5 rounded-2xl bg-slate-950/80 border border-slate-800 space-y-1">
-                            <span className="text-[10px] font-bold text-sky-400 uppercase tracking-wider block flex items-center gap-1.5">
+                          <div className="p-3.5 rounded-2xl bg-white border border-slate-200 space-y-1 shadow-sm">
+                            <span className="text-[10px] font-bold text-sky-700 uppercase tracking-wider block flex items-center gap-1.5">
                               <Icons.Clock className="w-3.5 h-3.5" />
-                              Horario de Visita
+                              {t('ficha.visitingHours')}
                             </span>
-                            <p className="text-sm font-black text-white">
+                            <p className="text-sm font-black text-slate-900">
                               {ep.horario || '08:00 a.m. - 05:00 p.m.'}
                             </p>
                           </div>
 
                           {/* Recomendaciones */}
                           {ep.observaciones && (
-                            <div className="p-3.5 rounded-2xl bg-slate-950/80 border border-slate-800 space-y-1">
-                              <span className="text-[10px] font-bold text-emerald-400 uppercase tracking-wider block flex items-center gap-1.5">
+                            <div className="p-3.5 rounded-2xl bg-white border border-slate-200 space-y-1 shadow-sm">
+                              <span className="text-[10px] font-bold text-emerald-700 uppercase tracking-wider block flex items-center gap-1.5">
                                 <Icons.Shield className="w-3.5 h-3.5" />
-                                Recomendaciones
+                                {t('ficha.recommendations')}
                               </span>
-                              <p className="text-xs text-slate-300 leading-relaxed font-medium">
-                                {ep.observaciones}
+                              <p className="text-xs text-slate-700 leading-relaxed font-medium">
+                                <DynamicText text={ep.observaciones} />
                               </p>
                             </div>
                           )}
@@ -603,41 +597,46 @@ export default function FichaDetailPage() {
                 {/* Actividades Desarrolladas dentro del recurso turístico (Lista completa sin scroll) */}
                 {((ficha.actividades_detalle && ficha.actividades_detalle.length > 0) ||
                   (ficha.actividades_permitidas && ficha.actividades_permitidas.length > 0)) && (
-                  <div className="bg-slate-900/90 rounded-3xl p-6 border border-slate-800 shadow-xl space-y-3.5">
-                    <div className="flex items-center justify-between pb-2 border-b border-slate-800/80">
-                      <h3 className="text-xs font-bold uppercase tracking-widest text-slate-300 flex items-center gap-2">
-                        <Icons.Compass className="w-4 h-4 text-amber-400" />
-                        <span>Actividades en el Recurso</span>
+                  <div className="bg-slate-50 rounded-3xl p-6 border border-slate-200 shadow-md space-y-3.5">
+                    <div className="flex items-center justify-between pb-2 border-b border-slate-200">
+                      <h3 className="text-xs font-bold uppercase tracking-widest text-slate-800 flex items-center gap-2">
+                        <Icons.Compass className="w-4 h-4 text-amber-600" />
+                        <span>{t('ficha.activitiesInResource')}</span>
                       </h3>
-                      <span className="text-[10px] font-mono font-bold px-2 py-0.5 rounded-full bg-slate-800 text-slate-400 border border-slate-700/60">
+                      <span className="text-[10px] font-mono font-bold px-2 py-0.5 rounded-full bg-slate-200 text-slate-700">
                         {(ficha.actividades_detalle || ficha.actividades_permitidas).length}
                       </span>
                     </div>
 
                     <div className="space-y-2">
                       {ficha.actividades_detalle && ficha.actividades_detalle.length > 0
-                        ? ficha.actividades_detalle.map((act, idx) => (
-                            <div
-                              key={idx}
-                              className="flex items-center gap-2.5 p-2.5 rounded-xl bg-slate-800/60 border border-slate-700/60 hover:bg-slate-800 hover:border-slate-600 transition-all shadow-sm"
-                            >
-                              <SmallActivityIcon url={act.icono_url} name={act.tipo || act.actividad} />
-                              <span className="text-xs font-medium text-slate-200 leading-snug" title={act.tipo}>
-                                {act.tipo}
-                              </span>
-                            </div>
-                          ))
-                        : ficha.actividades_permitidas.map((act, idx) => (
-                            <div
-                              key={idx}
-                              className="flex items-center gap-2.5 p-2.5 rounded-xl bg-slate-800/60 border border-slate-700/60 hover:bg-slate-800 hover:border-slate-600 transition-all shadow-sm"
-                            >
-                              <SmallActivityIcon name={act} />
-                              <span className="text-xs font-medium text-slate-200 leading-snug" title={act}>
-                                {act}
-                              </span>
-                            </div>
-                          ))}
+                        ? ficha.actividades_detalle.map((act, idx) => {
+                            const actName = act.tipo || act.actividad;
+                            return (
+                              <div
+                                key={idx}
+                                className="flex items-center gap-2.5 p-2.5 rounded-xl bg-white border border-slate-200 hover:border-slate-300 transition-all shadow-sm"
+                              >
+                                <SmallActivityIcon url={act.icono_url} name={actName} />
+                                <span className="text-xs font-medium text-slate-800 leading-snug" title={actName}>
+                                  <DynamicText text={actName} />
+                                </span>
+                              </div>
+                            );
+                          })
+                        : ficha.actividades_permitidas.map((act, idx) => {
+                            return (
+                              <div
+                                key={idx}
+                                className="flex items-center gap-2.5 p-2.5 rounded-xl bg-white border border-slate-200 hover:border-slate-300 transition-all shadow-sm"
+                              >
+                                <SmallActivityIcon name={act} />
+                                <span className="text-xs font-medium text-slate-800 leading-snug" title={act}>
+                                  <DynamicText text={act} />
+                                </span>
+                              </div>
+                            );
+                          })}
                     </div>
                   </div>
                 )}
@@ -646,19 +645,19 @@ export default function FichaDetailPage() {
 
             {/* 2. Ruta de Acceso al Recurso (Paso a Paso Visual / Timeline Cards) */}
             {rutasAcceso.length > 0 && (
-              <div className="bg-slate-900/90 rounded-3xl p-6 sm:p-8 border border-slate-800 shadow-xl space-y-6">
-                <div className="flex flex-col sm:flex-row sm:items-center justify-between pb-4 border-b border-slate-800/80 gap-2">
+              <div className="bg-slate-50 rounded-3xl p-6 sm:p-8 border border-slate-200 shadow-md space-y-6">
+                <div className="flex flex-col sm:flex-row sm:items-center justify-between pb-4 border-b border-slate-200 gap-2">
                   <div>
-                    <h2 className="text-base sm:text-lg font-bold text-white flex items-center gap-2">
-                      <Icons.Navigation className="w-5 h-5 text-sky-400" />
-                      <span>Ruta de Acceso al Recurso (Cómo Llegar)</span>
+                    <h2 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2">
+                      <Icons.Navigation className="w-5 h-5 text-sky-600" />
+                      <span>{t('ficha.howToGet')}</span>
                     </h2>
-                    <p className="text-xs text-slate-400 mt-1">
-                      Itinerario oficial registrado tramo por tramo con medios de transporte, tipo de vía y tiempos estimados.
+                    <p className="text-xs text-slate-600 mt-1">
+                      {t('ficha.howToGetDesc')}
                     </p>
                   </div>
-                  <span className="text-xs font-mono font-bold px-3 py-1 rounded-xl bg-sky-950/40 text-sky-300 border border-sky-800/40 self-start sm:self-auto">
-                    {rutasAcceso.length} Tramos Registrados
+                  <span className="text-xs font-mono font-bold px-3 py-1 rounded-xl bg-sky-50 text-sky-800 border border-sky-200 self-start sm:self-auto">
+                    {rutasAcceso.length} {t('ficha.registeredSections')}
                   </span>
                 </div>
 
@@ -666,47 +665,47 @@ export default function FichaDetailPage() {
                   {rutasAcceso.map((ruta, idx) => (
                     <div
                       key={idx}
-                      className="p-4 sm:p-5 rounded-2xl bg-slate-950/70 border border-slate-800/90 hover:border-sky-500/40 transition-all flex flex-col md:flex-row md:items-center justify-between gap-4"
+                      className="p-4 sm:p-5 rounded-2xl bg-white border border-slate-200 hover:border-sky-400 transition-all flex flex-col md:flex-row md:items-center justify-between gap-4 shadow-sm"
                     >
                       {/* Paso e Itinerario */}
                       <div className="flex items-start gap-3.5 flex-1">
-                        <div className="w-8 h-8 rounded-xl bg-sky-500/10 border border-sky-500/30 text-sky-400 flex items-center justify-center text-xs font-black flex-shrink-0 mt-0.5">
+                        <div className="w-8 h-8 rounded-xl bg-sky-50 border border-sky-200 text-sky-700 flex items-center justify-center text-xs font-black flex-shrink-0 mt-0.5">
                           {idx + 1}
                         </div>
                         <div className="space-y-1">
-                          <h4 className="text-xs sm:text-sm font-bold text-white leading-snug">
-                            {ruta.detalle || ruta.tramo}
+                          <h4 className="text-xs sm:text-sm font-bold text-slate-900 leading-snug">
+                            <DynamicText text={ruta.detalle || ruta.tramo} />
                           </h4>
                           {ruta.detalle && ruta.tramo && ruta.detalle !== ruta.tramo && (
-                            <p className="text-[11px] text-slate-400">
-                              {ruta.tramo}
+                            <p className="text-[11px] text-slate-500">
+                              <DynamicText text={ruta.tramo} />
                             </p>
                           )}
                         </div>
                       </div>
 
                       {/* Badges de Transporte, Vía y Distancia/Tiempo */}
-                      <div className="flex flex-wrap items-center gap-2 pt-2 md:pt-0 border-t md:border-t-0 border-slate-800/60">
+                      <div className="flex flex-wrap items-center gap-2 pt-2 md:pt-0 border-t md:border-t-0 border-slate-200">
                         {/* Medio de transporte */}
                         {ruta.medio_transporte && (
-                          <div className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-xl bg-slate-900 border border-slate-700 text-slate-300 text-xs font-medium">
+                          <div className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-xl bg-slate-50 border border-slate-200 text-slate-700 text-xs font-medium">
                             {getTransportIcon(ruta.medio_transporte)}
-                            <span>{ruta.medio_transporte}</span>
+                            <DynamicText text={ruta.medio_transporte} />
                           </div>
                         )}
 
                         {/* Tipo de Vía */}
                         {ruta.tipo_via && (
-                          <div className="px-3 py-1.5 rounded-xl bg-slate-900/90 border border-slate-700/80 text-slate-400 text-xs font-medium">
-                            {ruta.tipo_via}
+                          <div className="px-3 py-1.5 rounded-xl bg-slate-50 border border-slate-200 text-slate-600 text-xs font-medium">
+                            <DynamicText text={ruta.tipo_via} />
                           </div>
                         )}
 
                         {/* Distancia y Tiempo */}
                         {ruta.distancia_tiempo && (
-                          <div className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-xl bg-amber-500/15 border border-amber-500/30 text-amber-300 text-xs font-bold">
-                            <Icons.Clock className="w-3.5 h-3.5 text-amber-400" />
-                            <span>{ruta.distancia_tiempo}</span>
+                          <div className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-xl bg-amber-50 border border-amber-200 text-amber-800 text-xs font-bold">
+                            <Icons.Clock className="w-3.5 h-3.5 text-amber-600" />
+                            <DynamicText text={ruta.distancia_tiempo} />
                           </div>
                         )}
                       </div>
@@ -718,14 +717,14 @@ export default function FichaDetailPage() {
 
             {/* YouTube Video Iframe Live Embed (Solo si existe recurso de video) */}
             {youtubeEmbedUrl && (
-              <div className="bg-slate-900/90 rounded-3xl p-6 sm:p-8 border border-red-500/30 shadow-2xl space-y-4">
+              <div className="bg-slate-50 rounded-3xl p-6 sm:p-8 border border-red-200 shadow-md space-y-4">
                 <div className="flex items-center gap-3">
                   <span className="w-3 h-3 rounded-full bg-red-500 animate-pulse" />
-                  <h2 className="text-sm font-bold uppercase tracking-widest text-white flex items-center gap-2">
-                    <span>Material Audiovisual Oficial (Video en Vivo)</span>
+                  <h2 className="text-sm font-bold uppercase tracking-widest text-slate-900 flex items-center gap-2">
+                    <span>{t('ficha.liveVideo')}</span>
                   </h2>
                 </div>
-                <div className="w-full aspect-video rounded-2xl overflow-hidden border border-slate-800 bg-black shadow-2xl">
+                <div className="w-full aspect-video rounded-2xl overflow-hidden border border-slate-200 bg-black shadow-xl">
                   <iframe
                     src={youtubeEmbedUrl}
                     title={`Video oficial de ${ficha.nombre}`}
@@ -740,24 +739,24 @@ export default function FichaDetailPage() {
             {/* Otras Secciones Oficiales Adicionales (si existen) */}
             {otherSections.length > 0 && (
               <div className="space-y-6">
-                <h2 className="text-lg font-extrabold text-white flex items-center gap-2">
-                  <Icons.Layers className="w-5 h-5 text-amber-400" />
-                  <span>Información Adicional del Inventario Oficial</span>
+                <h2 className="text-lg font-extrabold text-slate-900 flex items-center gap-2">
+                  <Icons.Layers className="w-5 h-5 text-amber-600" />
+                  <span>{t('ficha.additionalInfo')}</span>
                 </h2>
 
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                   {otherSections.map((sec, idx) => (
                     <div
                       key={sec.id || idx}
-                      className="bg-slate-900/80 rounded-3xl p-6 border border-slate-800 shadow-xl space-y-3"
+                      className="bg-slate-50 rounded-3xl p-6 border border-slate-200 shadow-md space-y-3"
                     >
-                      <h3 className="text-xs font-bold uppercase tracking-widest text-sky-400 flex items-center gap-2">
-                        <Icons.CheckCircle className="w-4 h-4 text-sky-400" />
-                        <span>{sec.titulo}</span>
+                      <h3 className="text-xs font-bold uppercase tracking-widest text-sky-700 flex items-center gap-2">
+                        <Icons.CheckCircle className="w-4 h-4 text-sky-600" />
+                        <DynamicText text={sec.titulo} />
                       </h3>
-                      <p className="text-xs sm:text-sm text-slate-300 leading-relaxed whitespace-pre-line">
-                        {sec.contenido_texto}
-                      </p>
+                      <div className="text-xs sm:text-sm text-slate-700 leading-relaxed whitespace-pre-line">
+                        <DynamicText text={sec.contenido_texto} />
+                      </div>
                     </div>
                   ))}
                 </div>
@@ -766,6 +765,6 @@ export default function FichaDetailPage() {
           </div>
         )}
       </div>
-    </div>
+    </main>
   );
 }

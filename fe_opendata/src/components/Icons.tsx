@@ -117,6 +117,11 @@ export const Icons = {
       <polyline points="15 18 9 12 15 6" />
     </svg>
   ),
+  ChevronDown: ({ className = 'w-5 h-5' }: { className?: string }) => (
+    <svg className={className} fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+      <polyline points="6 9 12 15 18 9" />
+    </svg>
+  ),
   ChevronRight: ({ className = 'w-5 h-5' }: { className?: string }) => (
     <svg className={className} fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.75}>
       <polyline points="9 18 15 12 9 6" />

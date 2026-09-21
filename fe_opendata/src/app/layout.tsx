@@ -2,6 +2,7 @@ import type { Metadata } from 'next';
 import './globals.css';
 import { Navbar } from '../components/Navbar';
 import { Footer } from '../components/Footer';
+import { LanguageProvider } from '../context/LanguageContext';
 
 export const metadata: Metadata = {
   title: 'OpenData Perú | Plataforma Nacional de Datos Abiertos de Turismo',
@@ -15,13 +16,16 @@ export default function RootLayout({
 }) {
   return (
     <html lang="es" suppressHydrationWarning>
-      <body className="min-h-screen flex flex-col bg-slate-950 text-slate-100 antialiased" suppressHydrationWarning>
-        <Navbar />
-        <div className="flex-1 flex flex-col">
-          {children}
-        </div>
-        <Footer />
+      <body className="min-h-screen flex flex-col bg-white text-slate-900 antialiased" suppressHydrationWarning>
+        <LanguageProvider>
+          <Navbar />
+          <div className="flex-1 flex flex-col bg-white text-slate-900">
+            {children}
+          </div>
+          <Footer />
+        </LanguageProvider>
       </body>
     </html>
   );
 }
+

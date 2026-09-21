@@ -11,14 +11,18 @@ import {
 import { ResourceCard } from '../../components/ResourceCard';
 import { Pagination } from '../../components/Pagination';
 import { Icons } from '../../components/Icons';
+import { useLanguage } from '../../context/LanguageContext';
+import { translateMinceturText } from '../../utils/minceturTranslate';
 
 export default function TurismoPage() {
+  const { language, t } = useLanguage();
+
   // Datos base
   const [departments, setDepartments] = useState<DepartmentItem[]>([]);
   const [categories, setCategories] = useState<CategoryItem[]>([]);
   const [activities, setActivities] = useState<ActivityItem[]>([]);
 
-  // Estados de Filtros en Formulario (solo región, categoría y actividad afuera)
+  // Estados de Filtros en Formulario
   const [searchTerm, setSearchTerm] = useState<string>('');
   const [selectedDept, setSelectedDept] = useState<string>('');
   const [selectedCategory, setSelectedCategory] = useState<string>('');
@@ -26,7 +30,7 @@ export default function TurismoPage() {
   const [searchCode, setSearchCode] = useState<string>('');
   const [isAdvancedSearchOpen, setIsAdvancedSearchOpen] = useState<boolean>(false);
 
-  // Estados de Filtros Aplicados (se activan al pulsar el botón Buscar)
+  // Estados de Filtros Aplicados
   const [appliedFilters, setAppliedFilters] = useState({
     search: '',
     dept: '',
@@ -64,7 +68,6 @@ export default function TurismoPage() {
         const codeFilter = rawCode ? Number(rawCode) : undefined;
         const searchVal = appliedFilters.search.trim();
 
-        // Si searchVal es un número, también se puede interpretar como código de ficha
         const effectiveCode = !isNaN(Number(codeFilter))
           ? codeFilter
           : /^\d+$/.test(searchVal)
@@ -95,12 +98,11 @@ export default function TurismoPage() {
     [appliedFilters],
   );
 
-  // Trigger al cambiar filtros aplicados o página
   useEffect(() => {
     fetchResources(page);
   }, [fetchResources, page]);
 
-  // Manejar búsqueda al pulsar el botón Buscar o presionar Enter
+  // Manejar búsqueda
   const handleSearchSubmit = (e?: React.FormEvent) => {
     if (e) e.preventDefault();
     setAppliedFilters({
@@ -132,15 +134,6 @@ export default function TurismoPage() {
     setPage(1);
   };
 
-  // Filtrado rápido al seleccionar departamento en el mapa o bento
-  const handleSelectDept = (deptId: string) => {
-    setSelectedDept(deptId);
-    setAppliedFilters((prev) => ({ ...prev, dept: deptId }));
-    setPage(1);
-    const el = document.getElementById('listado-atractivos');
-    if (el) el.scrollIntoView({ behavior: 'smooth' });
-  };
-
   const hasActiveFilters = Boolean(
     appliedFilters.search ||
       appliedFilters.dept ||
@@ -150,33 +143,36 @@ export default function TurismoPage() {
   );
 
   return (
-    <main className="flex-1 bg-slate-950 text-slate-100 pb-20">
+    <main className="flex-1 bg-white text-slate-900 pb-20">
       {/* Hero Header de Turismo */}
-      <section className="relative overflow-hidden bg-slate-950 border-b border-slate-800/80 pt-12 pb-16 px-4 sm:px-6 lg:px-8">
+      <section className="relative overflow-hidden bg-slate-950 border-b border-slate-800 pt-12 pb-16 px-4 sm:px-6 lg:px-8">
         <div className="absolute inset-0 z-0">
           <img
             src="https://images.unsplash.com/photo-1587595431973-160d0d94add1?q=80&w=1920&auto=format&fit=crop"
             alt="Perú Turismo"
-            className="w-full h-full object-cover opacity-20 scale-105"
+            className="w-full h-full object-cover opacity-25 scale-105"
           />
-          <div className="absolute inset-0 bg-gradient-to-t from-slate-950 via-slate-950/85 to-slate-900/65" />
+          <div className="absolute inset-0 bg-gradient-to-t from-slate-950 via-slate-950/85 to-slate-900/70" />
         </div>
 
         <div className="max-w-6xl mx-auto relative z-10 text-center w-full">
           <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-white/10 backdrop-blur-md border border-white/20 text-xs font-bold text-amber-300 mb-6 tracking-widest uppercase shadow-lg">
             <Icons.Compass className="w-4 h-4 text-amber-400" />
-            <span>Módulo de Exploración y Búsqueda Turística</span>
+            <span>{t('turismo.badge')}</span>
           </div>
 
           <h1 className="text-3xl sm:text-5xl lg:text-6xl font-black tracking-tight text-white uppercase leading-none mb-4">
-            Catálogo de <span className="text-transparent bg-clip-text bg-gradient-to-r from-amber-400 via-orange-300 to-sky-400">Recursos Turísticos</span>
+            {t('turismo.title')}{' '}
+            <span className="text-transparent bg-clip-text bg-gradient-to-r from-amber-400 via-orange-300 to-sky-400">
+              {t('turismo.titleHighlight')}
+            </span>
           </h1>
           <p className="text-xs sm:text-sm text-slate-300 font-medium max-w-2xl mx-auto mb-8">
-            Consulta, filtra y localiza más de 5,000 atractivos georreferenciados en todo el territorio peruano.
+            {t('turismo.subtitle')}
           </p>
 
-          {/* Caja de Búsqueda y Filtros Principales (Todos afuera, Avanzado solo Código de Ficha) */}
-          <div id="busqueda-avanzada" className="max-w-5xl mx-auto glass-card p-5 sm:p-7 rounded-3xl shadow-2xl border border-slate-700/80 text-left space-y-4">
+          {/* Caja de Búsqueda y Filtros Principales */}
+          <div id="busqueda-avanzada" className="max-w-5xl mx-auto bg-white p-5 sm:p-7 rounded-3xl shadow-2xl border border-slate-200 text-left space-y-4">
             <form onSubmit={handleSearchSubmit} className="space-y-4">
               {/* Fila 1: Buscador de texto + Botón Avanzado + Botón Buscar */}
               <div className="flex flex-col sm:flex-row items-center gap-3">
@@ -186,14 +182,14 @@ export default function TurismoPage() {
                     type="text"
                     value={searchTerm}
                     onChange={(e) => setSearchTerm(e.target.value)}
-                    placeholder="Buscar por nombre o palabra clave (ej: Machu Picchu, Colca, Lago Titicaca...)"
-                    className="w-full bg-slate-900/90 text-white placeholder-slate-400 text-xs sm:text-sm pl-12 pr-10 py-3.5 rounded-2xl border border-slate-700 focus:outline-none focus:border-amber-400 transition-colors shadow-inner"
+                    placeholder={t('turismo.searchPlaceholder')}
+                    className="w-full bg-slate-50 text-slate-900 placeholder-slate-400 text-xs sm:text-sm pl-12 pr-10 py-3.5 rounded-2xl border border-slate-300 focus:outline-none focus:border-amber-500 focus:bg-white transition-colors"
                   />
                   {searchTerm && (
                     <button
                       type="button"
                       onClick={() => setSearchTerm('')}
-                      className="absolute right-3.5 top-1/2 -translate-y-1/2 text-slate-400 hover:text-white"
+                      className="absolute right-3.5 top-1/2 -translate-y-1/2 text-slate-400 hover:text-slate-700"
                     >
                       <Icons.X className="w-4 h-4" />
                     </button>
@@ -206,40 +202,40 @@ export default function TurismoPage() {
                     onClick={() => setIsAdvancedSearchOpen(!isAdvancedSearchOpen)}
                     className={`py-3.5 px-4 rounded-2xl text-xs font-bold border transition-all flex items-center justify-center gap-2 flex-1 sm:flex-none cursor-pointer ${
                       isAdvancedSearchOpen || searchCode
-                        ? 'bg-amber-500/20 text-amber-300 border-amber-500/40 shadow-sm'
-                        : 'bg-slate-900/80 text-slate-300 border-slate-700 hover:bg-slate-800'
+                        ? 'bg-amber-50 text-amber-700 border-amber-300 shadow-sm'
+                        : 'bg-slate-50 text-slate-700 border-slate-300 hover:bg-slate-100'
                     }`}
                   >
-                    <Icons.Sliders className="w-4 h-4 text-amber-400" />
-                    <span>Avanzado (Código)</span>
+                    <Icons.Sliders className="w-4 h-4 text-amber-600" />
+                    <span>{t('turismo.btnAdvanced')}</span>
                   </button>
 
                   <button
                     type="submit"
-                    className="py-3.5 px-7 rounded-2xl bg-gradient-to-r from-amber-500 via-orange-500 to-amber-500 hover:from-amber-400 hover:to-orange-400 text-slate-950 font-black text-xs uppercase tracking-wider shadow-xl shadow-amber-500/25 transition-all hover:scale-105 flex items-center justify-center gap-2 flex-1 sm:flex-none cursor-pointer"
+                    className="py-3.5 px-7 rounded-2xl bg-gradient-to-r from-amber-500 via-orange-500 to-amber-500 hover:from-amber-400 hover:to-orange-400 text-slate-950 font-black text-xs uppercase tracking-wider shadow-lg shadow-amber-500/25 transition-all hover:scale-105 flex items-center justify-center gap-2 flex-1 sm:flex-none cursor-pointer"
                   >
                     <Icons.Search className="w-4 h-4" />
-                    <span>Buscar</span>
+                    <span>{t('turismo.btnSearch')}</span>
                   </button>
                 </div>
               </div>
 
-              {/* Fila 2: Filtros AFUERA visibles directamente (Región, Categoría y Actividad) */}
+              {/* Fila 2: Filtros AFUERA visibles directamente */}
               <div className="grid grid-cols-1 sm:grid-cols-3 gap-3 pt-1">
                 {/* 1. Departamento / Región */}
-                <div className="bg-slate-900/90 p-3 rounded-2xl border border-slate-700/80 hover:border-slate-600 transition-colors">
-                  <label className="text-[10px] font-bold text-sky-400 uppercase tracking-wider block mb-1 flex items-center gap-1.5">
-                    <Icons.MapPin className="w-3.5 h-3.5" />
-                    Región / Departamento
+                <div className="bg-slate-50 p-3 rounded-2xl border border-slate-200 hover:border-slate-300 transition-colors">
+                  <label className="text-[10px] font-bold text-sky-700 uppercase tracking-wider block mb-1 flex items-center gap-1.5">
+                    <Icons.MapPin className="w-3.5 h-3.5 text-sky-600" />
+                    {t('turismo.filterRegion')}
                   </label>
                   <select
                     value={selectedDept}
                     onChange={(e) => setSelectedDept(e.target.value)}
-                    className="w-full bg-transparent text-white text-xs font-medium focus:outline-none cursor-pointer"
+                    className="w-full bg-transparent text-slate-900 text-xs font-medium focus:outline-none cursor-pointer"
                   >
-                    <option value="" className="bg-slate-900 text-white">Todas las regiones (25)</option>
+                    <option value="">{t('turismo.allRegions')}</option>
                     {departments.map((d) => (
-                      <option key={d.iddpto} value={d.iddpto} className="bg-slate-900 text-white">
+                      <option key={d.iddpto} value={d.iddpto}>
                         {d.departamento}
                       </option>
                     ))}
@@ -247,39 +243,39 @@ export default function TurismoPage() {
                 </div>
 
                 {/* 2. Categoría */}
-                <div className="bg-slate-900/90 p-3 rounded-2xl border border-slate-700/80 hover:border-slate-600 transition-colors">
-                  <label className="text-[10px] font-bold text-emerald-400 uppercase tracking-wider block mb-1 flex items-center gap-1.5">
-                    <Icons.Layers className="w-3.5 h-3.5" />
-                    Categoría
+                <div className="bg-slate-50 p-3 rounded-2xl border border-slate-200 hover:border-slate-300 transition-colors">
+                  <label className="text-[10px] font-bold text-emerald-700 uppercase tracking-wider block mb-1 flex items-center gap-1.5">
+                    <Icons.Layers className="w-3.5 h-3.5 text-emerald-600" />
+                    {t('turismo.filterCategory')}
                   </label>
                   <select
                     value={selectedCategory}
                     onChange={(e) => setSelectedCategory(e.target.value)}
-                    className="w-full bg-transparent text-white text-xs font-medium focus:outline-none cursor-pointer"
+                    className="w-full bg-transparent text-slate-900 text-xs font-medium focus:outline-none cursor-pointer"
                   >
-                    <option value="" className="bg-slate-900 text-white">Todas las categorías</option>
+                    <option value="">{t('turismo.allCategories')}</option>
                     {categories.map((c) => (
-                      <option key={c.atrac_categ} value={c.categoria} className="bg-slate-900 text-white">
-                        {c.categoria}
+                      <option key={c.atrac_categ} value={c.categoria}>
+                        {translateMinceturText(c.categoria, language)}
                       </option>
                     ))}
                   </select>
                 </div>
 
                 {/* 3. Actividad */}
-                <div className="bg-slate-900/90 p-3 rounded-2xl border border-slate-700/80 hover:border-slate-600 transition-colors">
-                  <label className="text-[10px] font-bold text-amber-400 uppercase tracking-wider block mb-1 flex items-center gap-1.5">
-                    <Icons.Compass className="w-3.5 h-3.5" />
-                    Actividad
+                <div className="bg-slate-50 p-3 rounded-2xl border border-slate-200 hover:border-slate-300 transition-colors">
+                  <label className="text-[10px] font-bold text-amber-700 uppercase tracking-wider block mb-1 flex items-center gap-1.5">
+                    <Icons.Compass className="w-3.5 h-3.5 text-amber-600" />
+                    {t('turismo.filterActivity')}
                   </label>
                   <select
                     value={selectedActivity}
                     onChange={(e) => setSelectedActivity(e.target.value)}
-                    className="w-full bg-transparent text-white text-xs font-medium focus:outline-none cursor-pointer"
+                    className="w-full bg-transparent text-slate-900 text-xs font-medium focus:outline-none cursor-pointer"
                   >
-                    <option value="" className="bg-slate-900 text-white">Todas las actividades</option>
+                    <option value="">{t('turismo.allActivities')}</option>
                     {activities.map((a) => (
-                      <option key={a.id || a.codigo} value={a.nombre} className="bg-slate-900 text-white">
+                      <option key={a.id || a.codigo} value={a.nombre}>
                         {a.nombre}
                       </option>
                     ))}
@@ -287,24 +283,24 @@ export default function TurismoPage() {
                 </div>
               </div>
 
-              {/* Fila 3: Panel Avanzado (Únicamente Código de Ficha) */}
+              {/* Fila 3: Panel Avanzado (Código de Ficha) */}
               {isAdvancedSearchOpen && (
-                <div className="pt-3 border-t border-slate-800 animate-fadeIn">
-                  <div className="bg-slate-900/95 p-4 rounded-2xl border border-amber-500/40 shadow-lg flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4">
+                <div className="pt-3 border-t border-slate-200 animate-fadeIn">
+                  <div className="bg-amber-50/70 p-4 rounded-2xl border border-amber-200 shadow-sm flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4">
                     <div className="flex-1 w-full">
-                      <label className="text-[11px] font-bold text-amber-400 uppercase tracking-wider block mb-1.5 flex items-center gap-2">
-                        <Icons.Code className="w-4 h-4" />
-                        <span>Búsqueda Avanzada por Código Oficial de Ficha</span>
+                      <label className="text-[11px] font-bold text-amber-800 uppercase tracking-wider block mb-1.5 flex items-center gap-2">
+                        <Icons.Code className="w-4 h-4 text-amber-600" />
+                        <span>{t('turismo.advancedTitle')}</span>
                       </label>
                       <input
                         type="number"
                         value={searchCode}
                         onChange={(e) => setSearchCode(e.target.value)}
-                        placeholder="Ingresa el número de ficha (ej: 62, 154, 820, 7482...)"
-                        className="w-full bg-slate-950/90 text-white text-xs font-semibold px-4 py-2.5 rounded-xl border border-slate-700 focus:outline-none focus:border-amber-400 placeholder-slate-500"
+                        placeholder={t('turismo.advancedPlaceholder')}
+                        className="w-full bg-white text-slate-900 text-xs font-semibold px-4 py-2.5 rounded-xl border border-amber-300 focus:outline-none focus:border-amber-500 placeholder-slate-400"
                       />
-                      <p className="text-[10px] text-slate-400 mt-1">
-                        Búsqueda directa por el identificador numérico único registrado en el inventario.
+                      <p className="text-[10px] text-amber-700 mt-1">
+                        {t('turismo.advancedDesc')}
                       </p>
                     </div>
 
@@ -312,10 +308,10 @@ export default function TurismoPage() {
                       <button
                         type="button"
                         onClick={() => setSearchCode('')}
-                        className="text-xs text-rose-400 hover:text-rose-300 font-semibold px-3 py-2 rounded-xl bg-rose-950/30 border border-rose-800/40 transition-all flex items-center gap-1 self-end sm:self-center"
+                        className="text-xs text-rose-600 hover:text-rose-700 font-semibold px-3 py-2 rounded-xl bg-rose-50 border border-rose-200 transition-all flex items-center gap-1 self-end sm:self-center"
                       >
                         <Icons.X className="w-3.5 h-3.5" />
-                        <span>Quitar código</span>
+                        <span>{t('turismo.removeCode')}</span>
                       </button>
                     )}
                   </div>
@@ -324,17 +320,17 @@ export default function TurismoPage() {
 
               {/* Botón Reset / Filtros Activos */}
               {(searchTerm || selectedDept || selectedCategory || selectedActivity || searchCode || hasActiveFilters) && (
-                <div className="flex flex-wrap items-center justify-between gap-2 pt-2 border-t border-slate-800/60">
-                  <span className="text-[11px] font-semibold text-slate-400">
-                    {hasActiveFilters ? 'Filtros aplicados en la búsqueda actual' : 'Filtros seleccionados listos para buscar'}
+                <div className="flex flex-wrap items-center justify-between gap-2 pt-2 border-t border-slate-200">
+                  <span className="text-[11px] font-semibold text-slate-500">
+                    {hasActiveFilters ? t('turismo.filtersApplied') : t('turismo.filtersReady')}
                   </span>
                   <button
                     type="button"
                     onClick={handleClearFilters}
-                    className="text-xs text-rose-400 hover:text-rose-300 flex items-center gap-1.5 font-bold transition-colors cursor-pointer"
+                    className="text-xs text-rose-600 hover:text-rose-700 flex items-center gap-1.5 font-bold transition-colors cursor-pointer"
                   >
                     <Icons.X className="w-3.5 h-3.5" />
-                    <span>Limpiar todos los filtros</span>
+                    <span>{t('turismo.clearFilters')}</span>
                   </button>
                 </div>
               )}
@@ -343,38 +339,38 @@ export default function TurismoPage() {
         </div>
       </section>
 
-      {/* Contenedor Principal */}
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mt-8">
+      {/* Contenedor Principal en Blanco */}
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mt-10">
         {/* Sección de Catálogo de Recursos */}
         <section id="listado-atractivos">
-          <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 pb-6 border-b border-slate-800 mb-8">
+          <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 pb-6 border-b border-slate-200 mb-8">
             <div>
-              <span className="text-xs font-bold uppercase tracking-wider text-sky-400 flex items-center gap-1.5 mb-1">
+              <span className="text-xs font-bold uppercase tracking-wider text-sky-600 flex items-center gap-1.5 mb-1">
                 <Icons.Compass className="w-4 h-4" />
-                Exploración Abierta
+                {t('turismo.sectionBadge')}
               </span>
-              <h2 className="text-2xl sm:text-3xl font-bold text-white tracking-tight">
+              <h2 className="text-2xl sm:text-3xl font-bold text-slate-900 tracking-tight">
                 {appliedFilters.dept
-                  ? `Recursos en ${departments.find((d) => d.iddpto === appliedFilters.dept)?.departamento || 'Región'}`
+                  ? `${t('turismo.resourcesIn')} ${departments.find((d) => d.iddpto === appliedFilters.dept)?.departamento || 'Región'}`
                   : appliedFilters.code
-                  ? `Ficha con Código N° ${appliedFilters.code}`
+                  ? `${t('turismo.codeSearch')} ${appliedFilters.code}`
                   : appliedFilters.search
-                  ? `Resultados para "${appliedFilters.search}"`
-                  : 'Todos los Recursos Turísticos Registrados'}
+                  ? `${t('turismo.resultsFor')} "${appliedFilters.search}"`
+                  : t('turismo.allResources')}
               </h2>
             </div>
 
             <div className="flex items-center gap-3 self-start sm:self-auto">
-              <span className="text-xs font-semibold px-3 py-1.5 rounded-xl bg-slate-900 border border-slate-800 text-slate-300">
-                {total.toLocaleString()} atractivos encontrados
+              <span className="text-xs font-semibold px-3.5 py-1.5 rounded-xl bg-slate-100 border border-slate-200 text-slate-700">
+                {total.toLocaleString()} {t('turismo.foundCount')}
               </span>
               {hasActiveFilters && (
                 <button
                   onClick={handleClearFilters}
-                  className="text-xs font-semibold text-rose-400 hover:text-rose-300 bg-rose-950/30 border border-rose-800/40 px-3 py-1.5 rounded-xl transition-colors flex items-center gap-1 cursor-pointer"
+                  className="text-xs font-semibold text-rose-600 hover:text-rose-700 bg-rose-50 border border-rose-200 px-3 py-1.5 rounded-xl transition-colors flex items-center gap-1 cursor-pointer"
                 >
                   <Icons.X className="w-3.5 h-3.5" />
-                  <span>Restablecer</span>
+                  <span>{t('turismo.reset')}</span>
                 </button>
               )}
             </div>
@@ -383,9 +379,9 @@ export default function TurismoPage() {
           {/* Grilla de Recursos */}
           {loading ? (
             <div className="py-24 flex flex-col items-center justify-center gap-4">
-              <div className="w-12 h-12 border-3 border-sky-500 border-t-transparent rounded-full animate-spin" />
-              <p className="text-xs font-semibold text-slate-400 tracking-wider">
-                Consultando base de datos abierta...
+              <div className="w-12 h-12 border-3 border-amber-500 border-t-transparent rounded-full animate-spin" />
+              <p className="text-xs font-semibold text-slate-500 tracking-wider">
+                {t('turismo.loading')}
               </p>
             </div>
           ) : resources.length > 0 ? (
@@ -413,18 +409,18 @@ export default function TurismoPage() {
               />
             </>
           ) : (
-            <div className="text-center py-20 bg-slate-900/50 rounded-3xl border border-slate-800 p-8">
-              <Icons.Compass className="w-12 h-12 text-slate-600 mx-auto mb-3" />
-              <h3 className="text-lg font-bold text-white mb-1">No se encontraron atractivos turísticos</h3>
-              <p className="text-xs text-slate-400 max-w-md mx-auto mb-6">
-                Intenta ajustar los criterios de búsqueda, cambiar de departamento o borrar los filtros aplicados.
+            <div className="text-center py-20 bg-slate-50 rounded-3xl border border-slate-200 p-8">
+              <Icons.Compass className="w-12 h-12 text-slate-400 mx-auto mb-3" />
+              <h3 className="text-lg font-bold text-slate-900 mb-1">{t('turismo.noResults')}</h3>
+              <p className="text-xs text-slate-500 max-w-md mx-auto mb-6">
+                {t('turismo.noResultsDesc')}
               </p>
               <button
                 onClick={handleClearFilters}
-                className="inline-flex items-center gap-2 px-5 py-2.5 rounded-xl bg-sky-500 hover:bg-sky-400 text-slate-950 font-bold text-xs transition-colors"
+                className="inline-flex items-center gap-2 px-5 py-2.5 rounded-xl bg-amber-500 hover:bg-amber-400 text-slate-950 font-bold text-xs transition-colors"
               >
                 <Icons.X className="w-4 h-4" />
-                <span>Restablecer todos los filtros</span>
+                <span>{t('turismo.reset')}</span>
               </button>
             </div>
           )}
