@@ -98,15 +98,15 @@ export const ResourceCard: React.FC<ResourceCardProps> = ({ resource }) => {
   return (
     <Link
       href={`/turismo/${slug}`}
-      className="group relative rounded-3xl overflow-hidden bg-white border border-slate-200/90 hover:border-amber-400 transition-all duration-300 hover:-translate-y-2 hover:shadow-xl flex flex-col justify-between select-none h-full"
+      className="group relative rounded-3xl overflow-hidden bg-white dark:bg-slate-900/90 border border-slate-200/90 dark:border-slate-800 hover:border-amber-400 dark:hover:border-amber-400 transition-all duration-300 hover:-translate-y-2 hover:shadow-xl dark:hover:shadow-amber-500/10 flex flex-col justify-between select-none h-full"
     >
       <div>
         {/* Photo Container */}
-        <div className="relative h-52 sm:h-56 w-full bg-slate-100 overflow-hidden flex items-center justify-center">
+        <div className="relative h-52 sm:h-56 w-full bg-slate-100 dark:bg-slate-800 overflow-hidden flex items-center justify-center">
           {imgLoading && !hasError && (
-            <div className="absolute inset-0 bg-slate-100 animate-pulse flex flex-col items-center justify-center gap-2 z-10">
+            <div className="absolute inset-0 bg-slate-100 dark:bg-slate-800 animate-pulse flex flex-col items-center justify-center gap-2 z-10">
               <div className="w-8 h-8 border-2 border-amber-500 border-t-transparent rounded-full animate-spin" />
-              <span className="text-[11px] font-semibold text-slate-500">{t('card.loadingPhoto')}</span>
+              <span className="text-[11px] font-semibold text-slate-500 dark:text-slate-400">{t('card.loadingPhoto')}</span>
             </div>
           )}
 
@@ -129,26 +129,26 @@ export const ResourceCard: React.FC<ResourceCardProps> = ({ resource }) => {
             />
           ) : (
             /* Portada Visual Temática Oficial cuando no tiene foto adjunta */
-            <div className={`w-full h-full bg-gradient-to-br ${theme.bg} p-5 flex flex-col justify-between relative overflow-hidden border-b ${theme.border}`}>
+            <div className={`w-full h-full bg-gradient-to-br ${theme.bg} dark:from-slate-900 dark:via-slate-800 dark:to-slate-900 p-5 flex flex-col justify-between relative overflow-hidden border-b ${theme.border} dark:border-slate-800`}>
               <div className="flex items-center justify-between z-10">
-                <span className="text-[10px] font-mono font-bold tracking-widest text-slate-600 uppercase bg-white/90 px-2 py-0.5 rounded-lg border border-slate-200">
+                <span className="text-[10px] font-mono font-bold tracking-widest text-slate-600 dark:text-slate-300 uppercase bg-white/90 dark:bg-slate-800/90 px-2 py-0.5 rounded-lg border border-slate-200 dark:border-slate-700">
                   {t('card.recordNum')} #{resource.codigo}
                 </span>
-                <span className={`text-[10px] font-bold px-2.5 py-0.5 rounded-lg bg-white/90 border ${theme.border} ${theme.text}`}>
+                <span className={`text-[10px] font-bold px-2.5 py-0.5 rounded-lg bg-white/90 dark:bg-slate-800/90 border ${theme.border} dark:border-slate-700 ${theme.text} dark:text-amber-400`}>
                   {theme.label}
                 </span>
               </div>
 
               <div className="my-auto text-center z-10 flex flex-col items-center">
-                <div className={`w-10 h-10 rounded-2xl bg-white border ${theme.border} ${theme.text} flex items-center justify-center mb-1.5 shadow-md group-hover:scale-110 transition-transform`}>
+                <div className={`w-10 h-10 rounded-2xl bg-white dark:bg-slate-800 border ${theme.border} dark:border-slate-700 ${theme.text} dark:text-amber-400 flex items-center justify-center mb-1.5 shadow-md group-hover:scale-110 transition-transform`}>
                   <ThemeIcon className="w-5 h-5" />
                 </div>
-                <span className="text-[10px] font-semibold text-slate-600 tracking-wide">
+                <span className="text-[10px] font-semibold text-slate-600 dark:text-slate-300 tracking-wide">
                   {t('card.inventoryTitle')}
                 </span>
               </div>
 
-              <div className="text-[10px] text-slate-400 text-center z-10">
+              <div className="text-[10px] text-slate-400 dark:text-slate-500 text-center z-10">
                 {t('card.noPhoto')}
               </div>
             </div>
@@ -173,32 +173,32 @@ export const ResourceCard: React.FC<ResourceCardProps> = ({ resource }) => {
         {/* Card Body with perfectly aligned uniform heights */}
         <div className="p-5 sm:p-6 space-y-3">
           {/* 1. Nombre: Altura fija a 2 líneas */}
-          <h3 className="text-sm sm:text-base font-black text-slate-900 group-hover:text-amber-600 transition-colors line-clamp-2 leading-snug h-10 sm:h-11 flex items-start">
+          <h3 className="text-sm sm:text-base font-black text-slate-900 dark:text-white group-hover:text-amber-600 dark:group-hover:text-amber-400 transition-colors line-clamp-2 leading-snug h-10 sm:h-11 flex items-start">
             {resource.nombre}
           </h3>
 
           {/* 2. Descripción: Altura fija a 2 líneas (Traducida según idioma activo) */}
-          <p className="text-xs text-slate-600 line-clamp-2 leading-relaxed h-8 sm:h-9 flex items-start">
+          <p className="text-xs text-slate-600 dark:text-slate-400 line-clamp-2 leading-relaxed h-8 sm:h-9 flex items-start">
             {cardDescription}
           </p>
 
           {/* 3. Etiqueta de tipo/subtipo (PRIMERO, sin contorno/borde, traducida) */}
           <div className="h-5 flex items-center">
             {categoryTag ? (
-              <span className="text-[11px] font-medium text-amber-700/95 truncate block">
+              <span className="text-[11px] font-medium text-amber-700 dark:text-amber-400 truncate block">
                 <DynamicText text={categoryTag} />
               </span>
             ) : (
-              <span className="text-[11px] text-slate-400 italic">
+              <span className="text-[11px] text-slate-400 dark:text-slate-500 italic">
                 {t('card.touristResource')}
               </span>
             )}
           </div>
 
           {/* 4. Ubicación con Icono de Ubicación (ABAJO de la etiqueta) */}
-          <div className="flex items-center gap-1.5 text-xs text-slate-500 font-medium h-5">
+          <div className="flex items-center gap-1.5 text-xs text-slate-500 dark:text-slate-400 font-medium h-5">
             <Icons.MapPin className="w-3.5 h-3.5 text-rose-500 flex-shrink-0" />
-            <span className="font-semibold text-slate-700 uppercase tracking-wide text-[11px] truncate">
+            <span className="font-semibold text-slate-700 dark:text-slate-300 uppercase tracking-wide text-[11px] truncate">
               {resource.desubigeo || resource.desprov || resource.desdpto}
             </span>
           </div>
@@ -207,17 +207,17 @@ export const ResourceCard: React.FC<ResourceCardProps> = ({ resource }) => {
 
       {/* Action Button & Code Footer: Número de ficha y enlace abajo en bloque completo */}
       <div className="p-5 sm:p-6 pt-0">
-        <div className="pt-3 border-t border-slate-100 flex flex-col gap-2">
+        <div className="pt-3 border-t border-slate-100 dark:border-slate-800 flex flex-col gap-2">
           <div>
-            <span className="text-[10px] font-mono font-bold text-slate-400 uppercase block leading-none mb-1">
+            <span className="text-[10px] font-mono font-bold text-slate-400 dark:text-slate-500 uppercase block leading-none mb-1">
               {t('turismo.inventory')}
             </span>
-            <span className="text-xs font-black text-slate-900">
+            <span className="text-xs font-black text-slate-900 dark:text-white">
               {t('card.recordNum')} #{resource.codigo}
             </span>
           </div>
 
-          <div className="inline-flex items-center font-medium text-amber-500 group-hover:text-amber-600 group-hover:underline text-xs">
+          <div className="inline-flex items-center font-medium text-amber-500 hover:text-amber-600 dark:text-amber-400 dark:hover:text-amber-300 group-hover:underline text-xs">
             {t('turismo.viewSheet')}
           </div>
         </div>

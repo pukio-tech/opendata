@@ -1,18 +1,20 @@
 'use client';
 
-import React, { useEffect, useState, useMemo } from 'react';
+import React, { useEffect, useState, useMemo, Suspense } from 'react';
 import Link from 'next/link';
 import { useParams, useRouter } from 'next/navigation';
-import { apiService, API_BASE_URL } from '../../../services/api';
+import { apiService, API_BASE_URL, getPhotoUrl } from '../../../services/api';
 import { FichaDetail, FichaRutaAcceso, FichaEpocaPropicia } from '../../../types/mincetur';
 import { extractCodeFromSlug } from '../../../utils/slug';
 import { Icons } from '../../../components/Icons';
 import { useLanguage } from '../../../context/LanguageContext';
-import { translateMinceturText } from '../../../utils/minceturTranslate';
 import { DynamicText } from '../../../utils/dynamicTranslate';
 
-const formatPhotoUrl = (url: string | null | undefined): string => {
-  if (!url) return '';
+const formatPhotoUrl = (url: string | null | undefined, cod?: number): string => {
+  if (!url) {
+    if (cod) return getPhotoUrl(cod);
+    return '';
+  }
   if (url.startsWith('http')) return url;
   const base = API_BASE_URL.replace(/\/api$/, '');
   return `${base}${url}`;
@@ -20,31 +22,61 @@ const formatPhotoUrl = (url: string | null | undefined): string => {
 
 const getActivityIcon = (actName: string) => {
   const a = (actName || '').toLowerCase();
-  if (a.includes('caminata') || a.includes('trekking') || a.includes('senderismo') || a.includes('escalada') || a.includes('ciclismo')) {
-    return <Icons.Footprints className="w-4 h-4 text-emerald-600 flex-shrink-0" />;
+  if (
+    a.includes('caminata') ||
+    a.includes('trekking') ||
+    a.includes('senderismo') ||
+    a.includes('escalada') ||
+    a.includes('ciclismo')
+  ) {
+    return <Icons.Footprints className="w-4 h-4 text-emerald-500 flex-shrink-0" />;
   }
   if (a.includes('foto') || a.includes('film') || a.includes('video') || a.includes('audiovisual')) {
-    return <Icons.Camera className="w-4 h-4 text-sky-600 flex-shrink-0" />;
+    return <Icons.Camera className="w-4 h-4 text-sky-500 flex-shrink-0" />;
   }
-  if (a.includes('ave') || a.includes('fauna') || a.includes('flora') || a.includes('observ') || a.includes('paisaje')) {
-    return <Icons.Trees className="w-4 h-4 text-teal-600 flex-shrink-0" />;
+  if (
+    a.includes('ave') ||
+    a.includes('fauna') ||
+    a.includes('flora') ||
+    a.includes('observ') ||
+    a.includes('paisaje')
+  ) {
+    return <Icons.Trees className="w-4 h-4 text-teal-500 flex-shrink-0" />;
   }
-  if (a.includes('bote') || a.includes('canoa') || a.includes('pesca') || a.includes('kayak') || a.includes('rio') || a.includes('agua') || a.includes('mar') || a.includes('natacion') || a.includes('termal')) {
-    return <Icons.Waves className="w-4 h-4 text-cyan-600 flex-shrink-0" />;
+  if (
+    a.includes('bote') ||
+    a.includes('canoa') ||
+    a.includes('pesca') ||
+    a.includes('kayak') ||
+    a.includes('rio') ||
+    a.includes('agua') ||
+    a.includes('mar') ||
+    a.includes('natacion') ||
+    a.includes('termal')
+  ) {
+    return <Icons.Waves className="w-4 h-4 text-cyan-500 flex-shrink-0" />;
   }
   if (a.includes('camp') || a.includes('camping')) {
-    return <Icons.Trees className="w-4 h-4 text-amber-600 flex-shrink-0" />;
+    return <Icons.Trees className="w-4 h-4 text-amber-500 flex-shrink-0" />;
   }
   if (a.includes('artesan') || a.includes('compra') || a.includes('mercado') || a.includes('souvenir')) {
-    return <Icons.Award className="w-4 h-4 text-amber-600 flex-shrink-0" />;
+    return <Icons.Award className="w-4 h-4 text-amber-500 flex-shrink-0" />;
   }
   if (a.includes('estudio') || a.includes('investig') || a.includes('cientif') || a.includes('arqueol')) {
-    return <Icons.Database className="w-4 h-4 text-indigo-600 flex-shrink-0" />;
+    return <Icons.Database className="w-4 h-4 text-indigo-500 flex-shrink-0" />;
   }
-  if (a.includes('ritual') || a.includes('mistic') || a.includes('tradicion') || a.includes('folclor') || a.includes('danza') || a.includes('fiesta') || a.includes('cultura')) {
-    return <Icons.Sparkles className="w-4 h-4 text-rose-600 flex-shrink-0" />;
+  if (
+    a.includes('ritual') ||
+    a.includes('mistic') ||
+    a.includes('tradicion') ||
+    a.includes('folclor') ||
+    a.includes('danza') ||
+    a.includes('fiesta') ||
+    a.includes('cultura')
+  ) {
+    return <Icons.Sparkles className="w-4 h-4 text-rose-500 flex-shrink-0" />;
   }
-  return <Icons.Compass className="w-4 h-4 text-sky-600 flex-shrink-0" />;
+  return <Icons.Compass className="w-4 h-4 text-sky-500 flex-shrink-0" />;
 };
 
 function SmallActivityIcon({ url, name }: { url?: string; name: string }) {
@@ -52,14 +84,14 @@ function SmallActivityIcon({ url, name }: { url?: string; name: string }) {
 
   if (hasError || !url) {
     return (
-      <div className="w-6 h-6 flex items-center justify-center flex-shrink-0">
+      <div className="w-5 h-5 flex items-center justify-center flex-shrink-0">
         {getActivityIcon(name)}
       </div>
     );
   }
 
   return (
-    <div className="w-6 h-6 flex items-center justify-center flex-shrink-0">
+    <div className="w-5 h-5 flex items-center justify-center flex-shrink-0">
       <img
         src={url}
         alt={name}
@@ -74,15 +106,15 @@ function SmallActivityIcon({ url, name }: { url?: string; name: string }) {
 const getTransportIcon = (transport: string) => {
   const t = (transport || '').toLowerCase();
   if (t.includes('pie') || t.includes('caminata')) {
-    return <Icons.Footprints className="w-4 h-4 text-emerald-600" />;
+    return <Icons.Footprints className="w-4 h-4 text-emerald-500" />;
   }
   if (t.includes('bus') || t.includes('combi') || t.includes('colectivo') || t.includes('minivan')) {
-    return <Icons.Bus className="w-4 h-4 text-sky-600" />;
+    return <Icons.Bus className="w-4 h-4 text-sky-500" />;
   }
   if (t.includes('bote') || t.includes('lancha') || t.includes('canoa') || t.includes('fluvial') || t.includes('maritimo')) {
-    return <Icons.Waves className="w-4 h-4 text-cyan-600" />;
+    return <Icons.Waves className="w-4 h-4 text-cyan-500" />;
   }
-  return <Icons.Car className="w-4 h-4 text-amber-600" />;
+  return <Icons.Car className="w-4 h-4 text-amber-500" />;
 };
 
 function parseRutasList(ficha: FichaDetail | null): FichaRutaAcceso[] {
@@ -203,11 +235,16 @@ function cleanAltitud(altitud: string | null | undefined): string {
   return `${val} m.s.n.m.`;
 }
 
-export default function FichaTurismoPage() {
-  const { language, t } = useLanguage();
-  const params = useParams();
+interface FichaTurismoPageProps {
+  params?: { slug?: string };
+}
+
+function FichaTurismoContent({ params }: FichaTurismoPageProps) {
+  const { t } = useLanguage();
+  const routeParams = useParams();
   const router = useRouter();
-  const slug = (params?.slug as string) || '';
+  const rawSlug = params?.slug || routeParams?.slug;
+  const slug = Array.isArray(rawSlug) ? rawSlug[0] : (rawSlug || '');
   const codFicha = extractCodeFromSlug(slug);
 
   const [ficha, setFicha] = useState<FichaDetail | null>(null);
@@ -216,6 +253,8 @@ export default function FichaTurismoPage() {
 
   const [selectedPhoto, setSelectedPhoto] = useState<string | null>(null);
   const [imgError, setImgError] = useState<boolean>(false);
+  const [copiedLink, setCopiedLink] = useState<boolean>(false);
+  const [copiedCoords, setCopiedCoords] = useState<boolean>(false);
 
   useEffect(() => {
     if (!codFicha) {
@@ -235,6 +274,8 @@ export default function FichaTurismoPage() {
           setSelectedPhoto(data.galeria_fotos[0]);
         } else if (data?.foto_principal) {
           setSelectedPhoto(data.foto_principal);
+        } else {
+          setSelectedPhoto(getPhotoUrl(codFicha));
         }
       })
       .catch((err: unknown) => {
@@ -261,7 +302,6 @@ export default function FichaTurismoPage() {
   };
 
   const youtubeEmbedUrl = extractYouTubeEmbed();
-
   const rutasAcceso = useMemo(() => parseRutasList(ficha), [ficha]);
   const epocaPropicia = useMemo(() => parseEpocaList(ficha), [ficha]);
 
@@ -299,232 +339,458 @@ export default function FichaTurismoPage() {
     return uniqueParagraphs.length > 0 ? uniqueParagraphs : paragraphs;
   }, [ficha?.descripcion]);
 
+  const handleCopyLink = () => {
+    if (typeof window !== 'undefined') {
+      navigator.clipboard.writeText(window.location.href);
+      setCopiedLink(true);
+      setTimeout(() => setCopiedLink(false), 2000);
+    }
+  };
+
+  const handleCopyCoords = (coords: string) => {
+    navigator.clipboard.writeText(coords);
+    setCopiedCoords(true);
+    setTimeout(() => setCopiedCoords(false), 2000);
+  };
+
+  const googleMapsLink =
+    ficha?.google_maps_url ||
+    (ficha?.x && ficha?.y
+      ? `https://www.google.com/maps?q=${ficha.y},${ficha.x}`
+      : `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(
+          `${ficha?.nombre || ''}, ${ficha?.distrito ? ficha.distrito + ', ' : ''}${ficha?.provincia ? ficha.provincia + ', ' : ''}${ficha?.departamento ? ficha.departamento + ', ' : ''}Peru`
+        )}`);
+
   return (
-    <main className="flex-1 bg-white text-slate-900 min-h-screen pt-8 pb-20 px-4 sm:px-6 lg:px-8">
-      <div className="max-w-6xl mx-auto space-y-6 sm:space-y-8">
-        {/* Navigation Breadcrumb */}
-        <div className="flex flex-wrap items-center justify-between gap-4">
-          <nav className="flex items-center gap-2 text-xs sm:text-sm text-slate-500">
-            <Link href="/" className="hover:text-amber-600 transition-colors flex items-center gap-1.5">
+    <main className="flex-1 bg-white dark:bg-[#070b14] text-slate-900 dark:text-slate-100 transition-colors duration-300 min-h-screen pb-28">
+      {/* Top ambient glow */}
+      <div className="w-full h-1 bg-gradient-to-r from-amber-500 via-orange-500 to-sky-500" />
+
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-6 sm:pt-8">
+        {/* ========================================================================= */}
+        {/* 1. NAVEGACIÓN Y ACCIONES SUPERIORES (FLUIDO, SIN CARDS PESADAS) */}
+        {/* ========================================================================= */}
+        <div className="flex flex-wrap items-center justify-between gap-4 pb-6 border-b border-slate-200 dark:border-slate-800">
+          <nav className="flex items-center gap-2 text-xs sm:text-sm text-slate-500 dark:text-slate-400">
+            <Link href="/" className="hover:text-amber-500 transition-colors flex items-center gap-1.5 font-medium">
               <Icons.Compass className="w-4 h-4" />
               <span>{t('ficha.breadcrumbHome')}</span>
             </Link>
-            <span className="text-slate-300">/</span>
-            <Link href="/turismo" className="hover:text-sky-600 transition-colors">
+            <span className="text-slate-300 dark:text-slate-700">/</span>
+            <Link href="/turismo" className="hover:text-amber-500 transition-colors font-medium">
               {t('ficha.breadcrumbTurismo')}
             </Link>
-            <span className="text-slate-300">/</span>
-            <span className="text-slate-800 font-semibold truncate max-w-[200px] sm:max-w-md">
+            <span className="text-slate-300 dark:text-slate-700">/</span>
+            <span className="text-slate-900 dark:text-white font-semibold truncate max-w-[180px] sm:max-w-md">
               {ficha?.nombre || `${t('card.recordNum')} #${codFicha}`}
             </span>
           </nav>
 
-          <button
-            onClick={() => router.back()}
-            className="flex items-center gap-2 px-4 py-2 rounded-xl bg-slate-50 border border-slate-200 hover:bg-slate-100 text-xs font-semibold text-slate-700 hover:text-slate-900 transition-all shadow-sm cursor-pointer"
-          >
-            <Icons.ChevronRight className="w-4 h-4 rotate-180" />
-            <span>{t('ficha.backToCatalog')}</span>
-          </button>
+          <div className="flex items-center gap-2">
+            <button
+              onClick={handleCopyLink}
+              className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-xl text-xs font-semibold bg-slate-100 dark:bg-slate-800 hover:bg-slate-200 dark:hover:bg-slate-700 text-slate-700 dark:text-slate-200 transition-colors cursor-pointer"
+            >
+              {copiedLink ? (
+                <>
+                  <Icons.CheckCircle className="w-3.5 h-3.5 text-emerald-500" />
+                  <span>¡Copiado!</span>
+                </>
+              ) : (
+                <>
+                  <Icons.Share className="w-3.5 h-3.5" />
+                  <span>Compartir</span>
+                </>
+              )}
+            </button>
+
+            <button
+              onClick={() => router.back()}
+              className="inline-flex items-center gap-1.5 px-3.5 py-1.5 rounded-xl text-xs font-bold bg-slate-100 dark:bg-slate-800 hover:bg-slate-200 dark:hover:bg-slate-700 text-slate-800 dark:text-slate-200 transition-colors cursor-pointer"
+            >
+              <Icons.ChevronLeft className="w-4 h-4" />
+              <span>{t('ficha.backToCatalog')}</span>
+            </button>
+          </div>
         </div>
 
         {/* Loading State */}
         {loading && (
-          <div className="py-32 flex flex-col items-center justify-center gap-4 bg-slate-50 rounded-3xl border border-slate-200">
+          <div className="py-36 flex flex-col items-center justify-center gap-4 text-center">
             <div className="w-12 h-12 border-3 border-amber-500 border-t-transparent rounded-full animate-spin" />
-            <p className="text-sm font-semibold text-slate-600">{t('ficha.loading')}</p>
+            <p className="text-sm font-semibold text-slate-500 dark:text-slate-400">{t('ficha.loading')}</p>
           </div>
         )}
 
         {/* Error State */}
         {!loading && error && (
-          <div className="py-24 text-center bg-slate-50 rounded-3xl border border-rose-200 p-8">
-            <div className="w-16 h-16 rounded-2xl bg-rose-50 border border-rose-200 flex items-center justify-center mx-auto mb-4 text-rose-600">
+          <div className="py-24 text-center max-w-lg mx-auto p-8">
+            <div className="w-16 h-16 rounded-2xl bg-rose-50 dark:bg-rose-500/10 border border-rose-200 dark:border-rose-500/20 flex items-center justify-center mx-auto mb-4 text-rose-500">
               <Icons.Info className="w-8 h-8" />
             </div>
-            <h2 className="text-xl font-bold text-slate-900 mb-2">{t('ficha.notFound')}</h2>
-            <p className="text-xs text-slate-500 max-w-md mx-auto mb-6">
-              {t('ficha.notFoundDesc')}
-            </p>
+            <h2 className="text-2xl font-black text-slate-900 dark:text-white mb-2">{t('ficha.notFound')}</h2>
+            <p className="text-sm text-slate-500 dark:text-slate-400 mb-6">{t('ficha.notFoundDesc')}</p>
             <Link
               href="/turismo"
-              className="inline-flex items-center gap-2 px-6 py-2.5 rounded-xl bg-gradient-to-r from-amber-500 to-orange-500 text-slate-950 font-bold text-xs shadow-md hover:brightness-105 transition-all"
+              className="inline-flex items-center gap-2 px-6 py-3 rounded-2xl bg-amber-500 hover:bg-amber-400 text-slate-950 font-bold text-xs uppercase tracking-wider transition-all"
             >
               {t('ficha.exploreOther')}
             </Link>
           </div>
         )}
 
-        {/* Resource Main Content */}
+        {/* ========================================================================= */}
+        {/* 2. DISEÑO EDITORIAL FLUIDO DEL RECURSO TURÍSTICO (SIN ABUSO DE CARDS) */}
+        {/* ========================================================================= */}
         {!loading && ficha && (
-          <div className="space-y-8 animate-fadeIn">
-            {/* Header Card */}
-            <div className="relative rounded-3xl overflow-hidden bg-slate-50 border border-slate-200 p-6 sm:p-10 shadow-lg">
-              <div className="flex flex-col lg:flex-row lg:items-center justify-between gap-6">
-                <div>
-                  <h1 className="text-2xl sm:text-4xl lg:text-5xl font-black text-slate-900 tracking-tight leading-tight">
-                    {ficha.nombre}
-                  </h1>
-                  <p className="text-xs sm:text-sm text-slate-600 flex items-center gap-2 mt-2 sm:mt-3">
-                    <Icons.MapPin className="w-4 h-4 text-rose-600 flex-shrink-0" />
-                    <span>
-                      {ficha.departamento} &gt; {ficha.provincia} &gt; {ficha.distrito}
-                    </span>
-                  </p>
-                  <div className="flex flex-wrap items-center gap-2 mt-3 sm:mt-4">
-                    <span className="text-xs font-mono font-bold px-3 py-1 rounded-full bg-amber-100 text-amber-800 border border-amber-200">
-                      {t('card.recordNum')} #{ficha.cod_ficha}
-                    </span>
-                    {ficha.categoria && (
-                      <span className="text-xs font-semibold px-3 py-1 rounded-full bg-slate-100 text-slate-700 border border-slate-200">
-                        <DynamicText text={cleanLabel(ficha.categoria)} />
-                      </span>
-                    )}
-                  </div>
+          <div className="mt-8 space-y-10 animate-fadeIn">
+            {/* Encabezado Editorial Principal */}
+            <div className="space-y-4">
+              {/* Badges de Metadatos Oficiales */}
+              <div className="flex flex-wrap items-center gap-2">
+                <span className="text-xs font-mono font-bold px-3 py-1 rounded-full bg-amber-500/10 text-amber-700 dark:text-amber-400 border border-amber-500/20">
+                  {t('card.recordNum')} #{ficha.cod_ficha}
+                </span>
+                {ficha.categoria && (
+                  <span className="text-xs font-semibold px-3 py-1 rounded-full bg-slate-100 dark:bg-slate-800 text-slate-700 dark:text-slate-300 border border-slate-200 dark:border-slate-700">
+                    <DynamicText text={cleanLabel(ficha.categoria)} />
+                  </span>
+                )}
+                {ficha.altitud && ficha.altitud !== '--' && (
+                  <span className="text-xs font-medium px-3 py-1 rounded-full bg-sky-50 dark:bg-sky-500/10 text-sky-700 dark:text-sky-300 border border-sky-200 dark:border-sky-500/20">
+                    🏔️ {cleanAltitud(ficha.altitud)}
+                  </span>
+                )}
+              </div>
+
+              {/* Título en Montserrat de Impacto */}
+              <h1 className="text-3xl sm:text-5xl lg:text-6xl font-black tracking-tight text-slate-900 dark:text-white leading-[1.1]">
+                {ficha.nombre}
+              </h1>
+
+              {/* Barra de Ubicación Geográfica Oficial */}
+              <div className="flex flex-wrap items-center justify-between gap-4 pt-2">
+                <div className="flex items-center gap-2 text-sm sm:text-base text-slate-600 dark:text-slate-300 font-medium">
+                  <Icons.MapPin className="w-4 h-4 text-rose-500 flex-shrink-0" />
+                  <span>
+                    <strong className="text-slate-900 dark:text-white">{ficha.departamento}</strong>
+                    {ficha.provincia && <span> • {ficha.provincia}</span>}
+                    {ficha.distrito && <span> • {ficha.distrito}</span>}
+                  </span>
                 </div>
 
                 <div className="flex items-center gap-3">
                   <a
-                    href={ficha.url_ficha}
+                    href={googleMapsLink}
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="px-5 py-3 rounded-2xl bg-white hover:bg-slate-100 border border-slate-300 text-xs font-bold text-slate-800 transition-all flex items-center gap-2 shadow-sm"
+                    className="inline-flex items-center gap-1.5 text-xs font-bold text-sky-600 dark:text-sky-400 hover:underline"
                   >
-                    <span>{t('ficha.sourceFile')}</span>
-                    <Icons.ExternalLink className="w-4 h-4" />
+                    <span>{t('ficha.viewOnMap')}</span>
+                    <Icons.ExternalLink className="w-3.5 h-3.5" />
                   </a>
+                  {ficha.url_ficha && (
+                    <a
+                      href={ficha.url_ficha}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="inline-flex items-center gap-1.5 text-xs font-bold text-amber-600 dark:text-amber-400 hover:underline ml-2"
+                    >
+                      <span>{t('ficha.sourceFile')}</span>
+                      <Icons.ExternalLink className="w-3.5 h-3.5" />
+                    </a>
+                  )}
                 </div>
               </div>
             </div>
 
-            {/* Photo Showcase & Key Specs */}
-            <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
-              {/* Photo Showcase (Col 2) */}
-              <div className="lg:col-span-2 space-y-4">
-                <div className="rounded-3xl overflow-hidden bg-white border border-slate-200 shadow-md p-4">
-                  <h3 className="text-xs font-bold uppercase tracking-widest text-slate-500 mb-3 flex items-center gap-2">
-                    <Icons.Camera className="w-4 h-4 text-sky-600" />
-                    <span>{t('ficha.officialPhoto')}</span>
-                  </h3>
-
-                  {/* Main Image Container */}
-                  <div className="relative w-full h-80 sm:h-[440px] rounded-2xl overflow-hidden bg-slate-100 border border-slate-200 flex items-center justify-center">
-                    {selectedPhoto && !imgError ? (
-                      <img
-                        src={formatPhotoUrl(selectedPhoto)}
-                        alt={ficha.nombre}
-                        className="w-full h-full object-cover transition-opacity duration-300"
-                        loading="eager"
-                        onError={() => setImgError(true)}
-                      />
-                    ) : (
-                      <div className="text-center p-8 flex flex-col items-center justify-center">
-                        <Icons.Camera className="w-12 h-12 text-slate-400 mb-2" />
-                        <span className="text-xs font-medium text-slate-500">{t('card.noPhoto')}</span>
-                      </div>
-                    )}
+            {/* ========================================================================= */}
+            {/* 3. SHOWCASE FOTOGRÁFICO DE GRAN FORMATO (CINEMATOGRÁFICO) */}
+            {/* ========================================================================= */}
+            <div className="space-y-4">
+              <div className="relative w-full h-[340px] sm:h-[480px] lg:h-[540px] rounded-3xl overflow-hidden bg-slate-900 shadow-2xl border border-slate-200 dark:border-slate-800 flex items-center justify-center">
+                {selectedPhoto && !imgError ? (
+                  <img
+                    src={formatPhotoUrl(selectedPhoto, ficha.cod_ficha)}
+                    alt={ficha.nombre}
+                    className="w-full h-full object-cover transition-opacity duration-300"
+                    onError={() => setImgError(true)}
+                  />
+                ) : (
+                  <div className="text-center p-8 flex flex-col items-center justify-center text-white">
+                    <Icons.Camera className="w-16 h-16 text-slate-500 mb-3" />
+                    <span className="text-sm font-semibold text-slate-300">{t('card.noPhoto')}</span>
                   </div>
+                )}
+                <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent pointer-events-none" />
 
-                  {/* Thumbnails Row */}
+                {/* Subtítulo integrado en la foto */}
+                <div className="absolute bottom-4 left-6 right-6 flex items-center justify-between text-white text-xs">
+                  <div className="flex items-center gap-2 bg-slate-950/60 backdrop-blur-md px-3 py-1.5 rounded-xl border border-white/10">
+                    <Icons.Camera className="w-3.5 h-3.5 text-amber-400" />
+                    <span className="font-semibold">Fotografía Oficial MINCETUR</span>
+                  </div>
                   {ficha.galeria_fotos && ficha.galeria_fotos.length > 1 && (
-                    <div className="mt-6 pt-1">
-                      <span className="text-[11px] font-bold text-slate-500 uppercase tracking-wider block mb-2.5">
-                        {t('ficha.officialGallery')} ({ficha.galeria_fotos.length} {t('ficha.photos')})
-                      </span>
-                      <div className="flex items-center gap-3.5 overflow-x-auto py-3 px-1.5 scrollbar-thin">
-                        {ficha.galeria_fotos.map((photo, index) => (
-                          <button
-                            key={index}
-                            onClick={() => {
-                              setSelectedPhoto(photo);
-                              setImgError(false);
-                            }}
-                            className={`relative w-28 h-20 rounded-xl overflow-hidden flex-shrink-0 border-2 transition-all cursor-pointer ${
-                              selectedPhoto === photo
-                                ? 'border-amber-500 ring-2 ring-amber-400/50 opacity-100 scale-105 shadow-md z-10'
-                                : 'border-slate-200 opacity-60 hover:opacity-100 hover:border-slate-300'
-                            }`}
-                          >
-                            <img src={formatPhotoUrl(photo)} alt="" className="w-full h-full object-cover" />
-                          </button>
-                        ))}
-                      </div>
-                    </div>
+                    <span className="text-slate-300 bg-slate-950/60 backdrop-blur-md px-3 py-1.5 rounded-xl border border-white/10 font-mono text-[11px]">
+                      {ficha.galeria_fotos.length} fotos registradas
+                    </span>
                   )}
                 </div>
+              </div>
 
-                {/* 1. Descripción en Párrafos Estructurados y Legibles */}
+              {/* Tira de Miniaturas */}
+              {ficha.galeria_fotos && ficha.galeria_fotos.length > 1 && (
+                <div className="flex items-center gap-3 overflow-x-auto py-2 px-1 scrollbar-thin">
+                  {ficha.galeria_fotos.map((photo, index) => {
+                    const isCurrent = selectedPhoto === photo;
+                    return (
+                      <button
+                        key={index}
+                        onClick={() => {
+                          setSelectedPhoto(photo);
+                          setImgError(false);
+                        }}
+                        className={`relative w-24 sm:w-28 h-16 sm:h-20 rounded-2xl overflow-hidden flex-shrink-0 border-2 transition-all cursor-pointer ${
+                          isCurrent
+                            ? 'border-amber-500 ring-2 ring-amber-400/40 scale-105 shadow-md'
+                            : 'border-transparent opacity-60 hover:opacity-100'
+                        }`}
+                      >
+                        <img
+                          src={formatPhotoUrl(photo, ficha.cod_ficha)}
+                          alt=""
+                          className="w-full h-full object-cover"
+                        />
+                      </button>
+                    );
+                  })}
+                </div>
+              )}
+            </div>
+
+            {/* ========================================================================= */}
+            {/* 4. DISTRIBUCIÓN EDITORIAL EN 2 COLUMNAS (CONTENIDO NARRATIVO + PANEL TÉCNICO) */}
+            {/* ========================================================================= */}
+            <div className="grid grid-cols-1 lg:grid-cols-12 gap-10 lg:gap-12 items-start">
+              {/* COLUMNA IZQUIERDA: FLUJO NARRATIVO EDITORIAL (7 COLUMNAS) */}
+              <div className="lg:col-span-8 space-y-10">
+                {/* 1. Descripción Editorial */}
                 {descriptionParagraphs.length > 0 && (
-                  <div className="bg-slate-50 rounded-3xl p-6 sm:p-8 border border-slate-200 shadow-md space-y-4">
-                    <div className="flex items-center justify-between pb-3 border-b border-slate-200">
-                      <h2 className="text-sm font-bold uppercase tracking-widest text-amber-700 flex items-center gap-2">
-                        <Icons.Info className="w-4 h-4 text-amber-600" />
-                        <span>{t('ficha.officialDescription')}</span>
+                  <section className="space-y-4">
+                    <div className="flex items-center gap-2 pb-2 border-b border-slate-200 dark:border-slate-800">
+                      <Icons.Info className="w-5 h-5 text-amber-500" />
+                      <h2 className="text-xl font-black tracking-tight text-slate-900 dark:text-white uppercase">
+                        {t('ficha.officialDescription')}
                       </h2>
-                      <span className="text-[10px] font-mono font-bold text-slate-400 uppercase">
-                        {t('ficha.minceturInventory')}
+                    </div>
+
+                    <div className="space-y-4 pt-2">
+                      {descriptionParagraphs.map((paragraph, pIdx) => {
+                        const isLead = pIdx === 0;
+                        return (
+                          <div
+                            key={pIdx}
+                            className={
+                              isLead
+                                ? 'text-base sm:text-lg text-slate-800 dark:text-slate-200 leading-relaxed font-normal border-l-4 border-amber-500 pl-4 sm:pl-5'
+                                : 'text-sm sm:text-base text-slate-600 dark:text-slate-300 leading-relaxed font-normal'
+                            }
+                          >
+                            <DynamicText text={paragraph} />
+                          </div>
+                        );
+                      })}
+                    </div>
+                  </section>
+                )}
+
+                {/* 2. Ruta de Acceso como TIMELINE ITINERARIO (No cards pesadas) */}
+                {rutasAcceso.length > 0 && (
+                  <section className="space-y-6">
+                    <div className="flex items-center justify-between pb-2 border-b border-slate-200 dark:border-slate-800">
+                      <div className="flex items-center gap-2">
+                        <Icons.Navigation className="w-5 h-5 text-sky-500" />
+                        <h2 className="text-xl font-black tracking-tight text-slate-900 dark:text-white uppercase">
+                          {t('ficha.howToGet')}
+                        </h2>
+                      </div>
+                      <span className="text-xs font-mono font-bold px-2.5 py-1 rounded-lg bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-400">
+                        {rutasAcceso.length} tramos
                       </span>
                     </div>
 
-                    <div className="space-y-4 text-xs sm:text-sm text-slate-700 leading-relaxed">
-                      {descriptionParagraphs.map((paragraph, pIdx) => (
-                        <p key={pIdx} className="text-slate-700 leading-relaxed">
-                          <DynamicText text={paragraph} />
-                        </p>
+                    {/* Timeline Vertical */}
+                    <div className="relative pl-6 sm:pl-8 border-l-2 border-slate-200 dark:border-slate-800 space-y-8 my-4 ml-3">
+                      {rutasAcceso.map((ruta, idx) => (
+                        <div key={idx} className="relative group">
+                          {/* Nodo circular en la línea del timeline */}
+                          <div className="absolute -left-[31px] sm:-left-[39px] top-0 w-7 h-7 rounded-full bg-slate-100 dark:bg-slate-800 border-2 border-amber-500 text-amber-500 dark:text-amber-400 font-bold text-xs flex items-center justify-center shadow-sm group-hover:bg-amber-500 group-hover:text-slate-950 transition-colors">
+                            {idx + 1}
+                          </div>
+
+                          {/* Contenido del paso */}
+                          <div className="space-y-2">
+                            <h3 className="text-sm sm:text-base font-bold text-slate-900 dark:text-white leading-snug">
+                              <DynamicText text={ruta.detalle || ruta.tramo} />
+                            </h3>
+
+                            {ruta.detalle && ruta.tramo && ruta.detalle !== ruta.tramo && (
+                              <p className="text-xs text-slate-500 dark:text-slate-400">
+                                <DynamicText text={ruta.tramo} />
+                              </p>
+                            )}
+
+                            {/* Tags compactos de transporte y distancia */}
+                            <div className="flex flex-wrap items-center gap-2 pt-1">
+                              {ruta.medio_transporte && (
+                                <span className="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-lg bg-slate-100 dark:bg-slate-800/80 text-slate-700 dark:text-slate-300 text-xs font-medium border border-slate-200 dark:border-slate-700/60">
+                                  {getTransportIcon(ruta.medio_transporte)}
+                                  <DynamicText text={ruta.medio_transporte} />
+                                </span>
+                              )}
+
+                              {ruta.tipo_via && (
+                                <span className="px-2.5 py-1 rounded-lg bg-slate-100 dark:bg-slate-800/80 text-slate-600 dark:text-slate-400 text-xs font-medium border border-slate-200 dark:border-slate-700/60">
+                                  <DynamicText text={ruta.tipo_via} />
+                                </span>
+                              )}
+
+                              {ruta.distancia_tiempo && (
+                                <span className="inline-flex items-center gap-1 px-2.5 py-1 rounded-lg bg-amber-50 dark:bg-amber-500/10 text-amber-800 dark:text-amber-300 text-xs font-bold border border-amber-200 dark:border-amber-500/20">
+                                  <Icons.Clock className="w-3.5 h-3.5 text-amber-500" />
+                                  <DynamicText text={ruta.distancia_tiempo} />
+                                </span>
+                              )}
+                            </div>
+                          </div>
+                        </div>
                       ))}
                     </div>
-                  </div>
+                  </section>
+                )}
+
+                {/* 3. Reproductor de Video Oficial (si existe) */}
+                {youtubeEmbedUrl && (
+                  <section className="space-y-4">
+                    <div className="flex items-center gap-2 pb-2 border-b border-slate-200 dark:border-slate-800">
+                      <span className="w-2.5 h-2.5 rounded-full bg-red-500 animate-pulse" />
+                      <h2 className="text-xl font-black tracking-tight text-slate-900 dark:text-white uppercase">
+                        {t('ficha.liveVideo')}
+                      </h2>
+                    </div>
+                    <div className="w-full aspect-video rounded-3xl overflow-hidden border border-slate-200 dark:border-slate-800 bg-black shadow-xl">
+                      <iframe
+                        src={youtubeEmbedUrl}
+                        title={`Video de ${ficha.nombre}`}
+                        className="w-full h-full"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                        allowFullScreen
+                      />
+                    </div>
+                  </section>
+                )}
+
+                {/* 4. Otras Secciones Oficiales */}
+                {otherSections.length > 0 && (
+                  <section className="space-y-6 pt-4 border-t border-slate-200 dark:border-slate-800">
+                    <div className="flex items-center gap-2">
+                      <Icons.Layers className="w-5 h-5 text-amber-500" />
+                      <h2 className="text-xl font-black tracking-tight text-slate-900 dark:text-white uppercase">
+                        {t('ficha.additionalInfo')}
+                      </h2>
+                    </div>
+
+                    <div className="space-y-6">
+                      {otherSections.map((sec, idx) => (
+                        <div key={sec.id || idx} className="space-y-2">
+                          <h3 className="text-sm font-bold uppercase tracking-wider text-sky-600 dark:text-sky-400">
+                            <DynamicText text={sec.titulo} />
+                          </h3>
+                          <div className="text-sm text-slate-600 dark:text-slate-300 leading-relaxed whitespace-pre-line">
+                            <DynamicText text={sec.contenido_texto} />
+                          </div>
+                        </div>
+                      ))}
+                    </div>
+                  </section>
                 )}
               </div>
 
-              {/* Sidebar Specifications (Col 1) */}
-              <div className="space-y-6">
-                {/* Classification Box */}
-                <div className="bg-slate-50 rounded-3xl p-6 border border-slate-200 shadow-md space-y-4">
-                  <h3 className="text-xs font-bold uppercase tracking-widest text-slate-700 flex items-center gap-2">
-                    <Icons.Layers className="w-4 h-4 text-sky-600" />
-                    <span>{t('ficha.techSpecs')}</span>
-                  </h3>
-
-                  <div className="space-y-3 divide-y divide-slate-200 text-xs">
-                    <div className="pt-2 flex justify-between gap-2">
-                      <span className="text-slate-500">{t('ficha.category')}</span>
-                      <span className="font-bold text-slate-900 text-right">
-                        {ficha.categoria ? <DynamicText text={cleanLabel(ficha.categoria)} /> : t('ficha.notSpecified')}
-                      </span>
-                    </div>
-                    <div className="pt-2 flex justify-between gap-2">
-                      <span className="text-slate-500">{t('ficha.type')}</span>
-                      <span className="font-bold text-slate-900 text-right">
-                        {ficha.tipo ? <DynamicText text={cleanLabel(ficha.tipo)} /> : t('ficha.notSpecifiedMale')}
-                      </span>
-                    </div>
-                    <div className="pt-2 flex justify-between gap-2">
-                      <span className="text-slate-500">{t('ficha.subtype')}</span>
-                      <span className="font-bold text-slate-900 text-right">
-                        {ficha.subtipo ? <DynamicText text={cleanLabel(ficha.subtipo)} /> : t('ficha.notSpecifiedMale')}
-                      </span>
-                    </div>
-                    <div className="pt-2 flex justify-between gap-2">
-                      <span className="text-slate-500">{t('ficha.altitude')}</span>
-                      <span className="font-bold text-sky-700 text-right">{cleanAltitud(ficha.altitud)}</span>
-                    </div>
+              {/* COLUMNA DERECHA: INSPECTOR TÉCNICO STICKY (4 COLUMNAS) */}
+              <div className="lg:col-span-4 lg:sticky lg:top-24 space-y-6">
+                {/* 1. Panel Técnico de Especificaciones */}
+                <div className="p-6 rounded-3xl bg-slate-50 dark:bg-slate-900/80 border border-slate-200 dark:border-slate-800/90 shadow-sm space-y-4">
+                  <div className="flex items-center justify-between pb-3 border-b border-slate-200 dark:border-slate-800">
+                    <span className="text-xs font-bold uppercase tracking-wider text-slate-700 dark:text-slate-300 flex items-center gap-2">
+                      <Icons.Layers className="w-4 h-4 text-sky-500" />
+                      <span>{t('ficha.techSpecs')}</span>
+                    </span>
+                    <span className="text-[10px] font-mono font-bold text-amber-600 dark:text-amber-400">
+                      MINCETUR
+                    </span>
                   </div>
 
-                  {/* Enlace Oficial a Google Maps / Ubicación Georreferenciada */}
-                  <div className="pt-2 border-t border-slate-200">
+                  <dl className="divide-y divide-slate-200/80 dark:divide-slate-800 text-xs space-y-0">
+                    <div className="py-2.5 flex justify-between gap-3">
+                      <dt className="text-slate-500 dark:text-slate-400">{t('ficha.category')}</dt>
+                      <dd className="font-bold text-slate-900 dark:text-white text-right">
+                        {ficha.categoria ? <DynamicText text={cleanLabel(ficha.categoria)} /> : t('ficha.notSpecified')}
+                      </dd>
+                    </div>
+
+                    <div className="py-2.5 flex justify-between gap-3">
+                      <dt className="text-slate-500 dark:text-slate-400">{t('ficha.type')}</dt>
+                      <dd className="font-bold text-slate-900 dark:text-white text-right">
+                        {ficha.tipo ? <DynamicText text={cleanLabel(ficha.tipo)} /> : t('ficha.notSpecifiedMale')}
+                      </dd>
+                    </div>
+
+                    <div className="py-2.5 flex justify-between gap-3">
+                      <dt className="text-slate-500 dark:text-slate-400">{t('ficha.subtype')}</dt>
+                      <dd className="font-bold text-slate-900 dark:text-white text-right">
+                        {ficha.subtipo ? <DynamicText text={cleanLabel(ficha.subtipo)} /> : t('ficha.notSpecifiedMale')}
+                      </dd>
+                    </div>
+
+                    <div className="py-2.5 flex justify-between gap-3">
+                      <dt className="text-slate-500 dark:text-slate-400">{t('ficha.altitude')}</dt>
+                      <dd className="font-bold text-sky-600 dark:text-sky-400 text-right">
+                        {cleanAltitud(ficha.altitud)}
+                      </dd>
+                    </div>
+
+                    {ficha.x && ficha.y && (
+                      <div className="py-2.5 flex justify-between items-center gap-3">
+                        <dt className="text-slate-500 dark:text-slate-400">Coordenadas</dt>
+                        <dd className="text-right">
+                          <button
+                            onClick={() => handleCopyCoords(`${ficha.y}, ${ficha.x}`)}
+                            className="inline-flex items-center gap-1 font-mono text-[11px] font-bold text-slate-700 dark:text-slate-300 hover:text-amber-500 transition-colors cursor-pointer"
+                            title="Copiar coordenadas"
+                          >
+                            <span>
+                              {!isNaN(Number(ficha.y)) && !isNaN(Number(ficha.x))
+                                ? `${Number(ficha.y).toFixed(4)}, ${Number(ficha.x).toFixed(4)}`
+                                : `${ficha.y}, ${ficha.x}`}
+                            </span>
+                            {copiedCoords ? (
+                              <Icons.CheckCircle className="w-3.5 h-3.5 text-emerald-500" />
+                            ) : (
+                              <Icons.Copy className="w-3 h-3 text-slate-400" />
+                            )}
+                          </button>
+                        </dd>
+                      </div>
+                    )}
+                  </dl>
+
+                  {/* Botón CTA Google Maps */}
+                  <div className="pt-2">
                     <a
-                      href={
-                        ficha.google_maps_url ||
-                        (ficha.x && ficha.y
-                          ? `https://www.google.com/maps?q=${ficha.y},${ficha.x}`
-                          : `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(
-                              `${ficha.nombre}, ${ficha.distrito ? ficha.distrito + ', ' : ''}${ficha.provincia ? ficha.provincia + ', ' : ''}${ficha.departamento ? ficha.departamento + ', ' : ''}Peru`
-                            )}`)
-                      }
+                      href={googleMapsLink}
                       target="_blank"
                       rel="noopener noreferrer"
-                      className="w-full py-2.5 px-3.5 rounded-xl bg-gradient-to-r from-sky-500 to-blue-600 hover:from-sky-400 hover:to-blue-500 text-white font-bold text-xs flex items-center justify-center gap-2 shadow-md transition-all hover:scale-[1.02] cursor-pointer"
+                      className="w-full py-3 px-4 rounded-2xl bg-gradient-to-r from-sky-500 to-blue-600 hover:from-sky-400 hover:to-blue-500 text-white font-bold text-xs uppercase tracking-wider flex items-center justify-center gap-2 shadow-lg shadow-sky-500/20 transition-all hover:scale-[1.02] cursor-pointer"
                     >
                       <Icons.MapPin className="w-4 h-4 text-amber-300 flex-shrink-0" />
                       <span>{t('ficha.viewOnMap')}</span>
@@ -533,238 +799,117 @@ export default function FichaTurismoPage() {
                   </div>
                 </div>
 
-                {/* Época Propicia de Visita y Horarios */}
+                {/* 2. Época Propicia y Horarios */}
                 {epocaPropicia.length > 0 && (
-                  <div className="bg-slate-50 rounded-3xl p-6 border border-slate-200 shadow-md space-y-4">
-                    <div className="flex items-center justify-between pb-2 border-b border-slate-200">
-                      <h3 className="text-xs font-bold uppercase tracking-widest text-slate-800 flex items-center gap-2">
-                        <Icons.Calendar className="w-4 h-4 text-amber-600" />
+                  <div className="p-6 rounded-3xl bg-slate-50 dark:bg-slate-900/80 border border-slate-200 dark:border-slate-800/90 shadow-sm space-y-3.5">
+                    <div className="flex items-center justify-between pb-2 border-b border-slate-200 dark:border-slate-800">
+                      <span className="text-xs font-bold uppercase tracking-wider text-slate-700 dark:text-slate-300 flex items-center gap-2">
+                        <Icons.Calendar className="w-4 h-4 text-amber-500" />
                         <span>{t('ficha.seasonAndHours')}</span>
-                      </h3>
-                      <span className="text-[10px] font-mono font-bold px-2 py-0.5 rounded-full bg-amber-100 text-amber-800 border border-amber-200">
-                        {t('ficha.visit')}
                       </span>
                     </div>
 
-                    <div className="space-y-3">
-                      {epocaPropicia.map((ep, idx) => (
-                        <div key={idx} className="space-y-3">
-                          {/* Temporada */}
-                          <div className="p-3.5 rounded-2xl bg-white border border-slate-200 space-y-1 shadow-sm">
-                            <span className="text-[10px] font-bold text-amber-700 uppercase tracking-wider block flex items-center gap-1.5">
-                              <Icons.Sun className="w-3.5 h-3.5" />
-                              {t('ficha.recommendedSeason')}
-                            </span>
-                            <p className="text-sm font-black text-slate-900">
-                              <DynamicText text={cleanLabel(ep.epoca) || 'Todo el Año'} />
+                    {epocaPropicia.map((ep, idx) => (
+                      <div key={idx} className="space-y-3 text-xs">
+                        <div>
+                          <span className="text-[10px] font-bold text-amber-600 dark:text-amber-400 uppercase tracking-wider block mb-0.5">
+                            {t('ficha.recommendedSeason')}
+                          </span>
+                          <p className="font-bold text-slate-900 dark:text-white text-sm">
+                            <DynamicText text={cleanLabel(ep.epoca) || 'Todo el Año'} />
+                          </p>
+                          {ep.especificacion && ep.especificacion !== '--' && (
+                            <p className="text-[11px] text-slate-500 dark:text-slate-400 mt-0.5">
+                              <DynamicText text={ep.especificacion} />
                             </p>
-                            {ep.especificacion && ep.especificacion !== '--' && (
-                              <p className="text-[11px] text-slate-600">
-                                <DynamicText text={ep.especificacion} />
-                              </p>
-                            )}
-                          </div>
-
-                          {/* Horario */}
-                          <div className="p-3.5 rounded-2xl bg-white border border-slate-200 space-y-1 shadow-sm">
-                            <span className="text-[10px] font-bold text-sky-700 uppercase tracking-wider block flex items-center gap-1.5">
-                              <Icons.Clock className="w-3.5 h-3.5" />
-                              {t('ficha.visitingHours')}
-                            </span>
-                            <p className="text-sm font-black text-slate-900">
-                              {ep.horario || '08:00 a.m. - 05:00 p.m.'}
-                            </p>
-                          </div>
-
-                          {/* Recomendaciones */}
-                          {ep.observaciones && (
-                            <div className="p-3.5 rounded-2xl bg-white border border-slate-200 space-y-1 shadow-sm">
-                              <span className="text-[10px] font-bold text-emerald-700 uppercase tracking-wider block flex items-center gap-1.5">
-                                <Icons.Shield className="w-3.5 h-3.5" />
-                                {t('ficha.recommendations')}
-                              </span>
-                              <p className="text-xs text-slate-700 leading-relaxed font-medium">
-                                <DynamicText text={ep.observaciones} />
-                              </p>
-                            </div>
                           )}
                         </div>
-                      ))}
-                    </div>
+
+                        <div>
+                          <span className="text-[10px] font-bold text-sky-600 dark:text-sky-400 uppercase tracking-wider block mb-0.5">
+                            {t('ficha.visitingHours')}
+                          </span>
+                          <p className="font-bold text-slate-900 dark:text-white">
+                            {ep.horario || '08:00 a.m. - 05:00 p.m.'}
+                          </p>
+                        </div>
+
+                        {ep.observaciones && (
+                          <div className="p-3 rounded-2xl bg-amber-500/10 border border-amber-500/20 text-amber-900 dark:text-amber-300 text-xs">
+                            <span className="font-bold block mb-1">Recomendación:</span>
+                            <p className="leading-relaxed">
+                              <DynamicText text={ep.observaciones} />
+                            </p>
+                          </div>
+                        )}
+                      </div>
+                    ))}
                   </div>
                 )}
 
-                {/* Actividades Desarrolladas dentro del recurso turístico (Lista completa sin scroll) */}
+                {/* 3. Actividades Permitidas (Etiquetas / Pills fluidas en vez de cards) */}
                 {((ficha.actividades_detalle && ficha.actividades_detalle.length > 0) ||
                   (ficha.actividades_permitidas && ficha.actividades_permitidas.length > 0)) && (
-                  <div className="bg-slate-50 rounded-3xl p-6 border border-slate-200 shadow-md space-y-3.5">
-                    <div className="flex items-center justify-between pb-2 border-b border-slate-200">
-                      <h3 className="text-xs font-bold uppercase tracking-widest text-slate-800 flex items-center gap-2">
-                        <Icons.Compass className="w-4 h-4 text-amber-600" />
+                  <div className="p-6 rounded-3xl bg-slate-50 dark:bg-slate-900/80 border border-slate-200 dark:border-slate-800/90 shadow-sm space-y-3.5">
+                    <div className="flex items-center justify-between pb-2 border-b border-slate-200 dark:border-slate-800">
+                      <span className="text-xs font-bold uppercase tracking-wider text-slate-700 dark:text-slate-300 flex items-center gap-2">
+                        <Icons.Compass className="w-4 h-4 text-emerald-500" />
                         <span>{t('ficha.activitiesInResource')}</span>
-                      </h3>
-                      <span className="text-[10px] font-mono font-bold px-2 py-0.5 rounded-full bg-slate-200 text-slate-700">
+                      </span>
+                      <span className="text-[10px] font-mono font-bold px-2 py-0.5 rounded-full bg-slate-200 dark:bg-slate-800 text-slate-700 dark:text-slate-300">
                         {(ficha.actividades_detalle || ficha.actividades_permitidas).length}
                       </span>
                     </div>
 
-                    <div className="space-y-2">
+                    <div className="flex flex-wrap gap-2 pt-1">
                       {ficha.actividades_detalle && ficha.actividades_detalle.length > 0
                         ? ficha.actividades_detalle.map((act, idx) => {
                             const actName = act.tipo || act.actividad;
                             return (
                               <div
                                 key={idx}
-                                className="flex items-center gap-2.5 p-2.5 rounded-xl bg-white border border-slate-200 hover:border-slate-300 transition-all shadow-sm"
+                                className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-xl bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 text-xs font-semibold text-slate-800 dark:text-slate-200 hover:border-amber-400 transition-colors shadow-sm"
                               >
                                 <SmallActivityIcon url={act.icono_url} name={actName} />
-                                <span className="text-xs font-medium text-slate-800 leading-snug" title={actName}>
+                                <span>
                                   <DynamicText text={actName} />
                                 </span>
                               </div>
                             );
                           })
-                        : ficha.actividades_permitidas.map((act, idx) => {
-                            return (
-                              <div
-                                key={idx}
-                                className="flex items-center gap-2.5 p-2.5 rounded-xl bg-white border border-slate-200 hover:border-slate-300 transition-all shadow-sm"
-                              >
-                                <SmallActivityIcon name={act} />
-                                <span className="text-xs font-medium text-slate-800 leading-snug" title={act}>
-                                  <DynamicText text={act} />
-                                </span>
-                              </div>
-                            );
-                          })}
+                        : ficha.actividades_permitidas.map((act, idx) => (
+                            <div
+                              key={idx}
+                              className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-xl bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 text-xs font-semibold text-slate-800 dark:text-slate-200 hover:border-amber-400 transition-colors shadow-sm"
+                            >
+                              <SmallActivityIcon name={act} />
+                              <span>
+                                <DynamicText text={act} />
+                              </span>
+                            </div>
+                          ))}
                     </div>
                   </div>
                 )}
               </div>
             </div>
-
-            {/* 2. Ruta de Acceso al Recurso (Paso a Paso Visual / Timeline Cards) */}
-            {rutasAcceso.length > 0 && (
-              <div className="bg-slate-50 rounded-3xl p-6 sm:p-8 border border-slate-200 shadow-md space-y-6">
-                <div className="flex flex-col sm:flex-row sm:items-center justify-between pb-4 border-b border-slate-200 gap-2">
-                  <div>
-                    <h2 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2">
-                      <Icons.Navigation className="w-5 h-5 text-sky-600" />
-                      <span>{t('ficha.howToGet')}</span>
-                    </h2>
-                    <p className="text-xs text-slate-600 mt-1">
-                      {t('ficha.howToGetDesc')}
-                    </p>
-                  </div>
-                  <span className="text-xs font-mono font-bold px-3 py-1 rounded-xl bg-sky-50 text-sky-800 border border-sky-200 self-start sm:self-auto">
-                    {rutasAcceso.length} {t('ficha.registeredSections')}
-                  </span>
-                </div>
-
-                <div className="grid grid-cols-1 gap-4">
-                  {rutasAcceso.map((ruta, idx) => (
-                    <div
-                      key={idx}
-                      className="p-4 sm:p-5 rounded-2xl bg-white border border-slate-200 hover:border-sky-400 transition-all flex flex-col md:flex-row md:items-center justify-between gap-4 shadow-sm"
-                    >
-                      {/* Paso e Itinerario */}
-                      <div className="flex items-start gap-3.5 flex-1">
-                        <div className="w-8 h-8 rounded-xl bg-sky-50 border border-sky-200 text-sky-700 flex items-center justify-center text-xs font-black flex-shrink-0 mt-0.5">
-                          {idx + 1}
-                        </div>
-                        <div className="space-y-1">
-                          <h4 className="text-xs sm:text-sm font-bold text-slate-900 leading-snug">
-                            <DynamicText text={ruta.detalle || ruta.tramo} />
-                          </h4>
-                          {ruta.detalle && ruta.tramo && ruta.detalle !== ruta.tramo && (
-                            <p className="text-[11px] text-slate-500">
-                              <DynamicText text={ruta.tramo} />
-                            </p>
-                          )}
-                        </div>
-                      </div>
-
-                      {/* Badges de Transporte, Vía y Distancia/Tiempo */}
-                      <div className="flex flex-wrap items-center gap-2 pt-2 md:pt-0 border-t md:border-t-0 border-slate-200">
-                        {/* Medio de transporte */}
-                        {ruta.medio_transporte && (
-                          <div className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-xl bg-slate-50 border border-slate-200 text-slate-700 text-xs font-medium">
-                            {getTransportIcon(ruta.medio_transporte)}
-                            <DynamicText text={ruta.medio_transporte} />
-                          </div>
-                        )}
-
-                        {/* Tipo de Vía */}
-                        {ruta.tipo_via && (
-                          <div className="px-3 py-1.5 rounded-xl bg-slate-50 border border-slate-200 text-slate-600 text-xs font-medium">
-                            <DynamicText text={ruta.tipo_via} />
-                          </div>
-                        )}
-
-                        {/* Distancia y Tiempo */}
-                        {ruta.distancia_tiempo && (
-                          <div className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-xl bg-amber-50 border border-amber-200 text-amber-800 text-xs font-bold">
-                            <Icons.Clock className="w-3.5 h-3.5 text-amber-600" />
-                            <DynamicText text={ruta.distancia_tiempo} />
-                          </div>
-                        )}
-                      </div>
-                    </div>
-                  ))}
-                </div>
-              </div>
-            )}
-
-            {/* YouTube Video Iframe Live Embed (Solo si existe recurso de video) */}
-            {youtubeEmbedUrl && (
-              <div className="bg-slate-50 rounded-3xl p-6 sm:p-8 border border-red-200 shadow-md space-y-4">
-                <div className="flex items-center gap-3">
-                  <span className="w-3 h-3 rounded-full bg-red-500 animate-pulse" />
-                  <h2 className="text-sm font-bold uppercase tracking-widest text-slate-900 flex items-center gap-2">
-                    <span>{t('ficha.liveVideo')}</span>
-                  </h2>
-                </div>
-                <div className="w-full aspect-video rounded-2xl overflow-hidden border border-slate-200 bg-black shadow-xl">
-                  <iframe
-                    src={youtubeEmbedUrl}
-                    title={`Video de ${ficha.nombre}`}
-                    className="w-full h-full"
-                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                    allowFullScreen
-                  />
-                </div>
-              </div>
-            )}
-
-            {/* Otras Secciones Oficiales Adicionales (si existen) */}
-            {otherSections.length > 0 && (
-              <div className="space-y-6">
-                <h2 className="text-lg font-extrabold text-slate-900 flex items-center gap-2">
-                  <Icons.Layers className="w-5 h-5 text-amber-600" />
-                  <span>{t('ficha.additionalInfo')}</span>
-                </h2>
-
-                <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-                  {otherSections.map((sec, idx) => (
-                    <div
-                      key={sec.id || idx}
-                      className="bg-slate-50 rounded-3xl p-6 border border-slate-200 shadow-md space-y-3"
-                    >
-                      <h3 className="text-xs font-bold uppercase tracking-widest text-sky-700 flex items-center gap-2">
-                        <Icons.CheckCircle className="w-4 h-4 text-sky-600" />
-                        <DynamicText text={sec.titulo} />
-                      </h3>
-                      <div className="text-xs sm:text-sm text-slate-700 leading-relaxed whitespace-pre-line">
-                        <DynamicText text={sec.contenido_texto} />
-                      </div>
-                    </div>
-                  ))}
-                </div>
-              </div>
-            )}
           </div>
         )}
       </div>
     </main>
+  );
+}
+
+export default function FichaTurismoPage(props: FichaTurismoPageProps) {
+  return (
+    <Suspense
+      fallback={
+        <div className="min-h-screen flex items-center justify-center bg-white dark:bg-[#070b14] py-36">
+          <div className="w-12 h-12 border-3 border-amber-500 border-t-transparent rounded-full animate-spin" />
+        </div>
+      }
+    >
+      <FichaTurismoContent {...props} />
+    </Suspense>
   );
 }

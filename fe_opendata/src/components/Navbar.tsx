@@ -5,6 +5,7 @@ import Link from 'next/link';
 import { useRouter, usePathname } from 'next/navigation';
 import { Icons } from './Icons';
 import { useLanguage, LANGUAGES } from '../context/LanguageContext';
+import { useTheme } from '../context/ThemeContext';
 import { apiService } from '../services/api';
 import { ResourceItem } from '../types/mincetur';
 import { createResourceSlug } from '../utils/slug';
@@ -35,8 +36,9 @@ export const Navbar = () => {
   const pathname = usePathname();
   const router = useRouter();
   const { language, setLanguage, t } = useLanguage();
+  const { theme, toggleTheme, isDark } = useTheme();
 
-  // Estados de idiomas y menú móvil
+  // Estados de modales y menús
   const [isLangDropdownOpen, setIsLangDropdownOpen] = useState(false);
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
   const langDropdownRef = useRef<HTMLDivElement>(null);
@@ -157,7 +159,7 @@ export const Navbar = () => {
         </div>
 
         {/* Desktop Navigation Links */}
-        <nav className="hidden md:flex items-center gap-7 text-sm font-medium">
+        <nav className="hidden md:flex items-center gap-6 text-sm font-medium">
           <Link
             href="/"
             className={`relative py-1.5 transition-colors font-semibold ${
@@ -187,8 +189,25 @@ export const Navbar = () => {
           </Link>
         </nav>
 
-        {/* Right Action Controls: Language (Sin contorno) + Divider | + Buscador Inline con Menú Desplegable */}
+        {/* Right Action Controls */}
         <div className="flex items-center gap-1 sm:gap-2">
+          {/* Theme Toggle Button */}
+          <button
+            type="button"
+            onClick={toggleTheme}
+            className="p-2 text-slate-300 hover:text-white rounded-xl hover:bg-slate-800/60 transition-all hover:scale-105"
+            title={isDark ? 'Cambiar a Modo Claro' : 'Cambiar a Modo Oscuro'}
+            aria-label="Alternar modo de color"
+          >
+            {isDark ? (
+              <Icons.Sun className="w-4 h-4 text-amber-400" />
+            ) : (
+              <Icons.Moon className="w-4 h-4 text-sky-400" />
+            )}
+          </button>
+
+          {/* Vertical Divider */}
+          <div className="h-4 w-px bg-slate-800 mx-0.5" />
           {/* Language Selector (Sin contorno) */}
           <div className="relative" ref={langDropdownRef}>
             <button
@@ -377,6 +396,7 @@ export const Navbar = () => {
               </div>
             )}
           </div>
+
         </div>
       </div>
 
@@ -401,6 +421,30 @@ export const Navbar = () => {
           >
             {t('nav.turismo')}
           </Link>
+          <Link
+            href="/#opendata-stats"
+            onClick={() => setIsMobileMenuOpen(false)}
+            className="block px-3 py-2 rounded-xl text-sm font-semibold text-slate-300 hover:bg-slate-900 hover:text-white transition-colors"
+          >
+            Open Data Portal
+          </Link>
+          <Link
+            href="/#mapa-preview"
+            onClick={() => setIsMobileMenuOpen(false)}
+            className="block px-3 py-2 rounded-xl text-sm font-semibold text-slate-300 hover:bg-slate-900 hover:text-white transition-colors"
+          >
+            Mapa Interactivo
+          </Link>
+          <div className="pt-2 border-t border-slate-800 flex items-center justify-between">
+            <button
+              type="button"
+              onClick={toggleTheme}
+              className="flex items-center gap-2 px-3 py-2 rounded-xl text-xs font-semibold text-slate-300 hover:bg-slate-900 hover:text-white"
+            >
+              {isDark ? <Icons.Sun className="w-4 h-4 text-amber-400" /> : <Icons.Moon className="w-4 h-4 text-sky-400" />}
+              <span>{isDark ? 'Modo Claro' : 'Modo Oscuro'}</span>
+            </button>
+          </div>
         </div>
       )}
     </header>
