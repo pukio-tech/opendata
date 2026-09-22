@@ -1,0 +1,320 @@
+{
+  "cod_ficha": 5283,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=5283",
+  "nombre": "Collpa Pastora Grande",
+  "departamento": "Madre De Dios",
+  "provincia": "Tambopata",
+  "distrito": "TAMBOPATA",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "o. Otros",
+  "subtipo": "Collpas",
+  "jerarquia": "1",
+  "altitud": "210",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=469302",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=469302",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=469325",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=469354",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=469355"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Naturaleza - Observación de fauna",
+    "Naturaleza - Observación de aves"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de fauna",
+      "observacion": "Venado, huangana, sachavaca, sajino, primates como el mono aullador, mono Araña, machín negro, machín blanco, agouti o añuje, ardillas.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fauna02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de aves",
+      "observacion": "Loro de cabeza negra, chacarero, pequeños guacamayos, pericos, garzas.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/aves02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Madre De Dios/Tambopata/Tambopata - Madre De Dios/Tambopata/Laberinto",
+      "detalle": "Ciudad de Puerto Maldonado - Comunidad Nativa Tres Islas",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mini bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "27 Km/ 50 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Madre De Dios/Tambopata/Laberinto - Madre De Dios/Tambopata/Laberinto",
+      "detalle": "C.N. Tres Islas-Lago Pastora Grande",
+      "tipo_acceso": "Lacustre / Fluvial",
+      "medio_transporte": "Bote",
+      "tipo_via": "",
+      "distancia_tiempo": "45 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Madre De Dios/Tambopata/Laberinto - Madre De Dios/Tambopata/Laberinto",
+      "detalle": "Lago Pastora Grande - Collpa Pastora Grande",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Sendero",
+      "distancia_tiempo": "4.5 kms / 50 minutos"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "10",
+      "horario": "Informe Dircetur Madre de Dios.",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "20",
+      "horario": "Informe Dircetur Madre de Dios.",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Esporádicamente - Algunos meses",
+      "especificacion": "--",
+      "horario": "04:30 a.m. - 09:00 a.m. Horario de presencia de animales en la collpa",
+      "observaciones": "Horario de presencia de animales en la collpa"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Semi-restringido(previo permiso)",
+      "observaciones": "Previo permiso solicitado a la Comunidad Nativa Tres Islas. Celular: 9970666564."
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "Hoteles de 1, 2 y 3 estrellas en la Ciudad de Puerto Maldonado"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "Hostales de 1, 2 y 3 estrellas en la Ciudad de Puerto Maldonado"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Casa de Hospedaje",
+      "observacion": "Hospedajes sin categorización, Ciudad de Puerto Maldonado."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Puerto Maldonado"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Snacks",
+      "observacion": "Ciudad de Puerto Maldonado"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Puerto Maldonado"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Puerto Maldonado"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Pubs",
+      "observacion": "Ciudad de Puerto Maldonado"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Night Clubs",
+      "observacion": "Ciudad de Puerto Maldonado"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Cines o Teatros",
+      "observacion": "Ciudad de Puerto Maldonado"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Ciudad de Puerto Maldonado"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de Puerto Maldonado"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de botes",
+      "observacion": "Ciudad de Puerto Maldonado"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Bancos - Cajeros",
+      "observacion": "Ciudad de Puerto Maldonado"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Casa de Cambio",
+      "observacion": "Ciudad de Puerto Maldonado"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicios Higiénicos",
+      "observacion": "Ciudad de Puerto Maldonado"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Inglés, Portugués y español en la Ciudad de Puerto Maldonado"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Correos",
+      "observacion": "Ciudad de Puerto Maldonado"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Internet",
+      "observacion": "Ciudad de Puerto Maldonado"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de taxi",
+      "observacion": "Mototaxis y automoviles Station Vagon; Ciudad de Puerto Maldonado"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de Material Informativo(libro,revistas,postales,videos,etc)",
+      "observacion": "Ciudad de Puerto Maldonado"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de Material para Fotografía",
+      "observacion": "Ciudad de Puerto Maldonado"
+    }
+  ],
+  "descripcion": "Se encuentra en el territorio de la Comunidad Nativa Tres Islas, distrito y provincia de Tambopata en la ecorregión de Selva Baja u Omagua, con temperaturas de hasta 35 °C. La geografía del lugar se caracteriza por tener abundante vegetación y un suelo arcilloso rico en sal de la zona, lo que permite crear pequeños refugios para los animales que buscan consumir los minerales necesarios para alimentarse libremente en las primeras horas de la mañana.\nEsta collpa cercana al lago Pastora Grande tiene una extensión de aproximadamente 40 metros de largo x 15 metros de ancho, se encuentra dentro de un bosque primario prístino, presenta un tipo de suelo arcilloso-arenoso de color blancuzco-rojizo, alrededor del recurso se pueden observar abundante vegetación y árboles imponentes como el Azúcar Huayo, el Cedro Fino, la Capirona, el Palo Santo; palmeras como la Pona, el Wasai, el Ungurawi, el Shinami, el palmiche, y la sangapilla que es conocido como el “perfume de la selva”. Además, muy cerca del recurso se encuentra una quebrada de aguas oscuras y quietas que sirven de límite a la Comunidad.\nDentro del recurso se pueden observar mamíferos como el venado, huangana, sachavaca, sajino; primates como el mono aullador, mono araña, machín negro, machín blanco, agouti o añuje, ardillas. También aves como el oro de cabeza negra, chacarero, loro de frente amarilla, maracaná, entre otros. A pesar de los esfuerzos de la comunidad, la minería ilegal ocasiona la disminución constante de la cantidad de animales en la zona.",
+  "particularidades": "",
+  "estado_actual": "Regular, la mineria en la zona ha afectado el recurso.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Se encuentra en el territorio de la Comunidad Nativa Tres Islas, distrito y provincia de Tambopata en la ecorregión de Selva Baja u Omagua, con temperaturas de hasta 35 °C. La geografía del lugar se caracteriza por tener abundante vegetación y un suelo arcilloso rico en sal de la zona, lo que permite crear pequeños refugios para los animales que buscan consumir los minerales necesarios para alimentarse libremente en las primeras horas de la mañana.\nEsta collpa cercana al lago Pastora Grande tiene una extensión de aproximadamente 40 metros de largo x 15 metros de ancho, se encuentra dentro de un bosque primario prístino, presenta un tipo de suelo arcilloso-arenoso de color blancuzco-rojizo, alrededor del recurso se pueden observar abundante vegetación y árboles imponentes como el Azúcar Huayo, el Cedro Fino, la Capirona, el Palo Santo; palmeras como la Pona, el Wasai, el Ungurawi, el Shinami, el palmiche, y la sangapilla que es conocido como el “perfume de la selva”. Además, muy cerca del recurso se encuentra una quebrada de aguas oscuras y quietas que sirven de límite a la Comunidad.\nDentro del recurso se pueden observar mamíferos como el venado, huangana, sachavaca, sajino; primates como el mono aullador, mono araña, machín negro, machín blanco, agouti o añuje, ardillas. También aves como el oro de cabeza negra, chacarero, loro de frente amarilla, maracaná, entre otros. A pesar de los esfuerzos de la comunidad, la minería ilegal ocasiona la disminución constante de la cantidad de animales en la zona."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Regular, la mineria en la zona ha afectado el recurso."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n10\nInforme Dircetur Madre de Dios.\n2021\nVisitantes Locales(Excursionistas)\n20\nInforme Dircetur Madre de Dios.\n2021\nundefined"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nMadre De Dios/Tambopata/Tambopata\n-\nMadre De Dios/Tambopata/Laberinto\nCiudad de Puerto Maldonado - Comunidad Nativa Tres Islas\nTerrestre\nMini bus público\nAsfaltado\n27 Km/ 50 min.\n1\nMadre De Dios/Tambopata/Laberinto\n-\nMadre De Dios/Tambopata/Laberinto\nC.N. Tres Islas-Lago Pastora Grande\nLacustre / Fluvial\nBote\n45 min\n1\nMadre De Dios/Tambopata/Laberinto\n-\nMadre De Dios/Tambopata/Laberinto\nLago Pastora Grande - Collpa Pastora Grande\nTerrestre\nA pie\nSendero\n4.5 kms / 50 minutos"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nSemi-restringido(previo permiso)\nPrevio permiso solicitado a la Comunidad Nativa Tres Islas. Celular: 9970666564."
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nEsporádicamente - Algunos meses\n--\n04:30 a.m.\n-\n09:00 a.m.\nHorario de presencia de animales en la collpa"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nNaturaleza\nObservación de fauna\nVenado, huangana, sachavaca, sajino, primates como el mono aullador, mono Araña, machín negro, machín blanco, agouti o añuje, ardillas.\nNaturaleza\nObservación de aves\nLoro de cabeza negra, chacarero, pequeños guacamayos, pericos, garzas."
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\nHoteles de 1, 2 y 3 estrellas en la Ciudad de Puerto Maldonado\nAlojamiento\nHostales (especificar categorías)\nHostales de 1, 2 y 3 estrellas en la Ciudad de Puerto Maldonado\nAlojamiento\nCasa de Hospedaje\nHospedajes sin categorización, Ciudad de Puerto Maldonado.\nAlimentación\nRestaurantes\nCiudad de Puerto Maldonado\nAlimentación\nSnacks\nCiudad de Puerto Maldonado\nAlimentación\nKioskos de comida y bebidas\nCiudad de Puerto Maldonado\nLugares de Recreación\nDiscotecas\nCiudad de Puerto Maldonado\nLugares de Recreación\nPubs\nCiudad de Puerto Maldonado\nLugares de Recreación\nNight Clubs\nCiudad de Puerto Maldonado\nLugares de Recreación\nCines o Teatros\nCiudad de Puerto Maldonado\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nCiudad de Puerto Maldonado\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de Puerto Maldonado\nOtros Servicios Turísticos\nAlquiler de botes\nCiudad de Puerto Maldonado\nOtros Servicios Turísticos\nBancos - Cajeros\nCiudad de Puerto Maldonado\nOtros Servicios Turísticos\nCasa de Cambio\nCiudad de Puerto Maldonado\nOtros Servicios Turísticos\nServicios Higiénicos\nCiudad de Puerto Maldonado\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nInglés, Portugués y español en la Ciudad de Puerto Maldonado\nOtros Servicios Turísticos\nServicio de Correos\nCiudad de Puerto Maldonado\nOtros Servicios Turísticos\nServicio de Internet\nCiudad de Puerto Maldonado\nOtros Servicios Turísticos\nServicio de taxi\nMototaxis y automoviles Station Vagon; Ciudad de Puerto Maldonado\nOtros Servicios Turísticos\nVenta de Material Informativo(libro,revistas,postales,videos,etc)\nCiudad de Puerto Maldonado\nOtros Servicios Turísticos\nVenta de Material para Fotografía\nCiudad de Puerto Maldonado"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Puerto Maldonado.\nBancos\nCiudad de Puerto Maldonado.\nCajero automático\nCiudad de Puerto Maldonado.\nCasa de cambio\nCiudad de Puerto Maldonado.\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Puerto Maldonado.\nServicio de estacionamiento\nCiudad de Puerto Maldonado.\nSeguridad / POLTUR / Comisaría\nCiudad de Puerto Maldonado.\nCentro de salud - tópico\nCiudad de Puerto Maldonado."
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nLocalidad de Laberinto\nAlcantarillado sanitario\nLocalidad de Laberinto\nLuz (Suministro Eléctrico)\nLocalidad de Laberinto\nTeléfono\nLocalidad de Laberinto"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\n--\nPrivado:\nComunidad Nativa Tres Islas.\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nLey de Comunidades Nativas y de Desarrollo Agrario de la Selva y Ceja de Selva DECRETO LEY Nº 22175\nAdministrador por\nNombre\nComunidad Nativa Tres Islas.\nTiempo de administración\nDesde el año 1994."
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo - Madre de Dios\nNombre (Persona(s) responsable(s) del inventario turístico):\nRosa Milagros Delgado Huaytalla\nCargo:\nTécnico de producto Turístico\nCorreo:\nrmilagrosd@gmail.com\nTeléfono:\n953458376\nFuentes Bibliográfica:\n- “Diagnóstico de la Situación de Brechas de Infraestructura o de Acceso a Servicios”. Gobierno Regional de Madre de Dios. Enero 2020.\n- Inventario de Recursos Turisticos de la Región Madre de Dios. Dircetur Madre de Dios.\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n14/12/2022"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -12.724074956134697,
+    "longitud": -69.59615707397461
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-12.724074956134697,-69.59615707397461"
+}

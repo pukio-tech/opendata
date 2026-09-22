@@ -1,0 +1,333 @@
+{
+  "cod_ficha": 602,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=602",
+  "nombre": "Cañón Del Apurímac",
+  "departamento": "Apurímac",
+  "provincia": "Abancay",
+  "distrito": "CURAHUASI",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "e. Cañones",
+  "subtipo": "Cañones",
+  "jerarquia": "2",
+  "altitud": "3731",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=299203",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=299203",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=393219",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=393350",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=393359"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Estudios e Investigación",
+    "Deportes acuáticos - Canotaje / Rafting",
+    "Naturaleza - Observación de fauna",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de paisaje",
+    "Cultura y Folclore - Rituales místicos o tradicionales",
+    "Paseos - Paseos a caballo",
+    "Paseos - Paseos en motocicleta"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Deportes acuáticos",
+      "tipo": "Canotaje / Rafting",
+      "observacion": "Desde Huallpachaka - Puente Kunyac - Cconoc",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/canotaje02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de fauna",
+      "observacion": "Zorro, cuy silvestre, killinchu, paloma, gavilan",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fauna02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "Queuña, pati",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Rituales místicos o tradicionales",
+      "observacion": "Pagos a la tierra en los miradores Capitán Rumi y San Cristóbal",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/rituales_misticos02.png"
+    },
+    {
+      "actividad": "Paseos",
+      "tipo": "Paseos a caballo",
+      "observacion": "Recorridos en los miradores Capitán Rumi y San Cristóbal",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paseo_caballo02.png"
+    },
+    {
+      "actividad": "Paseos",
+      "tipo": "Paseos en motocicleta",
+      "observacion": "--",
+      "icono_url": null
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Apurímac/Abancay/Abancay - Apurímac/Abancay/Curahuasi",
+      "detalle": "Plaza de Armas de Abancay - Plaza de Armas de Curahuasi",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "70 km / 1 hora y 30 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Apurímac/Abancay/Curahuasi - Apurímac/Abancay/Curahuasi",
+      "detalle": "Plaza de Armas de Curahuasi - Cañón del Apurímac (Ingreso al Mirador de Capitán Rumi)",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "3.5 km / 12 minutos"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Apurímac/Abancay/Abancay - Apurímac/Abancay/San Pedro De Cachora",
+      "detalle": "Plaza de Armas de Abancay / Plaza de Armas de San Pedro de Cachora",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "57 km / 1 hora y 30 minutos"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Apurímac/Abancay/San Pedro De Cachora - Apurímac/Abancay/San Pedro De Cachora",
+      "detalle": "Plaza San Pedro de Cachora - Cañón del Apurímac (Ingreso al Mirador de Huayhuacalle)",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "12 km / 25 minutos"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "313",
+      "horario": "Agencia de Viajes y Turismo Happy Trip Perú",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "545",
+      "horario": "Agencia de Viajes y Turismo Happy Trip Perú",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "1620",
+      "horario": "Agencia de Viajes y Turismo Happy Trip Perú",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "08:00 a.m. - 05:00 p.m. En temporada de lluvias, de enero a marzo el camino se forma lodo, por lo cual se recomienda visitar la zona con precaución.",
+      "observaciones": "En temporada de lluvias, de enero a marzo el camino se forma lodo, por lo cual se recomienda visitar la zona con precaución."
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de Caballos",
+      "observacion": "Al ingreso"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de Campamento(camping)",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estancia para animales de transporte turísticos",
+      "observacion": "Al ingreso"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "2 estrellas / Localidad de Curahuasi"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Localidad de Curahuasi"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Localidad de Curahuasi"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Localidad de Curahuasi"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Localidad de Curahuasi"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Localidad de Curahuasi"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Localidad de Curahuasi"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Localidad de Curahuasi"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de Caballos",
+      "observacion": "Localidad de Curahuasi"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Localidad de Curahuasi"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Ciudad de Abancay"
+    }
+  ],
+  "descripcion": "Es la formación más portentosa de los Andes del Sur del Perú, considerado uno de los más profundos de América y del mundo. Se ubica en los distritos de Curahuasi, San Pedro de Cachora y Huanipaca, provincia de Abancay. A 3.5 km de la localidad de Curahuasi, aproximadamente a 12 minutos en vehículo.\nPara su formación, las aguas del río Apurímac bajan con fuerza desde los 5 000 m.s.n.m a una gigantesca garganta. Producto de este choque colosal se crea un paisaje que impresiona. El Cañón del Apurímac, tiene tres máximas depresiones: 4691m, 4191m y 3907m respectivamente\nEs más profundo que los cañones mundialmente famosos como Colorado (2 133 metros) en Estados Unidos y que el aclamado cañón del Colca (3 250) y Cotahuasi (3 535) en Arequipa, los cuales figuran en el top de las listas del planeta. Pese a su profundidad de 4 691 metros, yace bajo las sombras.\nEn el recurso, se observa algunas especies de flora silvestre como los árboles de queuña y pati, la flor de amancay (en quechua amánkay, que significa azucena), originaria del Perú y al borde de la extinción, también encontramos el agave, conocida como maguey y que de lejos parece una planta de sábila gigante, otra planta que destaca es la muña, propicia para el mal de altura y los cólicos. En fauna destaca las aves como el killinchu y el gavilán.\nEs ideal para la práctica del canotaje, se navega aproximadamente 55 kilómetros y se atraviesan rápidos de clase III, IV y hasta V. Lo máximo en el canotaje es el grado VI, y éste queda reservado sólo para aventureros expertos y bien entrenados. El recorrido en el Apurímac es bastante exigente y requiere de una concentración absoluta.\nAsí mismo, el Cañón de Apurímac se sitúa muy cerca del nevado Salkantay y divide durante un gran tramo a los departamentos de Cusco y Apurímac. Durante su recorrido cruza cerca de lugares importantes como el Complejo Arqueológico de Choquequirao, antiguo bastión de los Incas de Vilcabamba y los baños medicinales de Ccónoc.\nPara los amantes de la naturaleza, el cañón ofrece una serie de miradores o atalayas que permiten contemplar el impresionante paisaje de la región, como el de Cóndor Huachana, San Cristóbal, Capitán Rumi, Taramocco, Capulíoc, Kiuñalla, Cachicuna, Huascatay, entre otros; desde donde se observa el vuelo de los cóndores, actividad que atrae a los visitantes.",
+  "particularidades": "",
+  "estado_actual": "Bueno, porque conserva su estado natural, además la Municipalidad Distrital de Curahuasi se encarga de su mantenimiento y protección.",
+  "observaciones": "Mediante Acuerdo de Consejo Regional Nº065-2022-GR-APURIMAC/CR, se declara de necesidad y prioridad pública regional el Proyecto: Mejoramiento de los servicios turísticos en el circuito del cañón del Apurímac en 05 distritos de la provincia de Abancay, Departamento de Apurímac",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Es la formación más portentosa de los Andes del Sur del Perú, considerado uno de los más profundos de América y del mundo. Se ubica en los distritos de Curahuasi, San Pedro de Cachora y Huanipaca, provincia de Abancay. A 3.5 km de la localidad de Curahuasi, aproximadamente a 12 minutos en vehículo.\nPara su formación, las aguas del río Apurímac bajan con fuerza desde los 5 000 m.s.n.m a una gigantesca garganta. Producto de este choque colosal se crea un paisaje que impresiona. El Cañón del Apurímac, tiene tres máximas depresiones: 4691m, 4191m y 3907m respectivamente\nEs más profundo que los cañones mundialmente famosos como Colorado (2 133 metros) en Estados Unidos y que el aclamado cañón del Colca (3 250) y Cotahuasi (3 535) en Arequipa, los cuales figuran en el top de las listas del planeta. Pese a su profundidad de 4 691 metros, yace bajo las sombras.\nEn el recurso, se observa algunas especies de flora silvestre como los árboles de queuña y pati, la flor de amancay (en quechua amánkay, que significa azucena), originaria del Perú y al borde de la extinción, también encontramos el agave, conocida como maguey y que de lejos parece una planta de sábila gigante, otra planta que destaca es la muña, propicia para el mal de altura y los cólicos. En fauna destaca las aves como el killinchu y el gavilán.\nEs ideal para la práctica del canotaje, se navega aproximadamente 55 kilómetros y se atraviesan rápidos de clase III, IV y hasta V. Lo máximo en el canotaje es el grado VI, y éste queda reservado sólo para aventureros expertos y bien entrenados. El recorrido en el Apurímac es bastante exigente y requiere de una concentración absoluta.\nAsí mismo, el Cañón de Apurímac se sitúa muy cerca del nevado Salkantay y divide durante un gran tramo a los departamentos de Cusco y Apurímac. Durante su recorrido cruza cerca de lugares importantes como el Complejo Arqueológico de Choquequirao, antiguo bastión de los Incas de Vilcabamba y los baños medicinales de Ccónoc.\nPara los amantes de la naturaleza, el cañón ofrece una serie de miradores o atalayas que permiten contemplar el impresionante paisaje de la región, como el de Cóndor Huachana, San Cristóbal, Capitán Rumi, Taramocco, Capulíoc, Kiuñalla, Cachicuna, Huascatay, entre otros; desde donde se observa el vuelo de los cóndores, actividad que atrae a los visitantes."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, porque conserva su estado natural, además la Municipalidad Distrital de Curahuasi se encarga de su mantenimiento y protección."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "Mediante Acuerdo de Consejo Regional Nº065-2022-GR-APURIMAC/CR, se declara de necesidad y prioridad pública regional el Proyecto: Mejoramiento de los servicios turísticos en el circuito del cañón del Apurímac en 05 distritos de la provincia de Abancay, Departamento de Apurímac"
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n313\nAgencia de Viajes y Turismo Happy Trip Perú\n2023\nSe realizó el análisis de demanda turística que recibió el recurso turístico, en el año 2023.\nTuristas Nacionales\n545\nAgencia de Viajes y Turismo Happy Trip Perú\n2023\nSe realizó el análisis de demanda turística que recibió el recurso turístico, en el año 2023.\nVisitantes Locales(Excursionistas)\n1620\nAgencia de Viajes y Turismo Happy Trip Perú\n2023\nSe realizó el análisis de demanda turística que recibió el recurso turístico, en el año 2023."
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nApurímac/Abancay/Abancay\n-\nApurímac/Abancay/Curahuasi\nPlaza de Armas de Abancay - Plaza de Armas de Curahuasi\nTerrestre\nAutomóvil particular\nAsfaltado\n70 km / 1 hora y 30 minutos\n1\nApurímac/Abancay/Curahuasi\n-\nApurímac/Abancay/Curahuasi\nPlaza de Armas de Curahuasi - Cañón del Apurímac (Ingreso al Mirador de Capitán Rumi)\nTerrestre\nAutomóvil particular\nTrocha carrozable\n3.5 km / 12 minutos\n2\nApurímac/Abancay/Abancay\n-\nApurímac/Abancay/San Pedro De Cachora\nPlaza de Armas de Abancay / Plaza de Armas de San Pedro de Cachora\nTerrestre\nAutomóvil particular\nAsfaltado\n57 km / 1 hora y 30 minutos\n2\nApurímac/Abancay/San Pedro De Cachora\n-\nApurímac/Abancay/San Pedro De Cachora\nPlaza San Pedro de Cachora - Cañón del Apurímac (Ingreso al Mirador de Huayhuacalle)\nTerrestre\nAutomóvil particular\nTrocha carrozable\n12 km / 25 minutos"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n08:00 a.m.\n-\n05:00 p.m.\nEn temporada de lluvias, de enero a marzo el camino se forma lodo, por lo cual se recomienda visitar la zona con precaución."
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nEstudios e Investigación\n--\nDeportes acuáticos\nCanotaje / Rafting\nDesde Huallpachaka - Puente Kunyac - Cconoc\nNaturaleza\nObservación de fauna\nZorro, cuy silvestre, killinchu, paloma, gavilan\nNaturaleza\nObservación de flora\nQueuña, pati\nNaturaleza\nObservación de paisaje\n--\nCultura y Folclore\nRituales místicos o tradicionales\nPagos a la tierra en los miradores Capitán Rumi y San Cristóbal\nPaseos\nPaseos a caballo\nRecorridos en los miradores Capitán Rumi y San Cristóbal\nPaseos\nPaseos en motocicleta\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nOtros Servicios Turísticos\nAlquiler de Caballos\nAl ingreso\nInstalaciones Públicas\nServicios Públicos\nZonas de Campamento(camping)\n--\nInstalaciones Públicas\nServicios Públicos\nEstancia para animales de transporte turísticos\nAl ingreso"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\n2 estrellas / Localidad de Curahuasi\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nLocalidad de Curahuasi\nAlimentación\nRestaurantes\nLocalidad de Curahuasi\nAlimentación\nKioskos de comida y bebidas\nLocalidad de Curahuasi\nAlimentación\nBares\nLocalidad de Curahuasi\nAlimentación\nCafeterías\nLocalidad de Curahuasi\nAlimentación\nVenta de comida Rápida\nLocalidad de Curahuasi\nOtros Servicios Turísticos\nAgencia de Viajes\nLocalidad de Curahuasi\nOtros Servicios Turísticos\nAlquiler de Caballos\nLocalidad de Curahuasi\nLugares de Recreación\nDiscotecas\nLocalidad de Curahuasi\nServicios Públicos\nOficina de Información turística\nCiudad de Abancay"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nBancos\nLocalidad de Curahuasi (Banco de la Nación) / Ciudad de Abancay\nServicios de internet\nLocalidad de Curahuasi\nEstación de servicios, grifos, gasolineras y gasocentros\nLocalidad de Curahuasi\nServicios de taxis\nLocalidad de Curahuasi\nCentro de salud - tópico\nLocalidad de Curahuasi\nSeguridad / POLTUR / Comisaría\nLocalidad de Curahuasi / Ciudad de Abancay\nBodegas o minimarkets\nLocalidad de Curahuasi\nOtros(especificar)\nAgentes bancarios / Localidad de Curahuasi"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nSeñalización turística\nMirador Cápitan Rumi"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nLocalidad de Curahuasi\nLuz (Suministro Eléctrico)\nLocalidad de Curahuasi\nTeléfono\nLocalidad de Curahuasi\nAlcantarillado sanitario\nLocalidad de Curahuasi"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\n--\nPrivado:\nComunidad Campesina de la Unión\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nPartida Electrónica\nNúmero de Partida:\n5005193\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nComunidad Campesina de la Unión\nTiempo de administración\nDesde el año 1996."
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo Apurímac\nNombre (Persona(s) responsable(s) del inventario turístico):\nSusana Huarand Gonzales\nCargo:\nGestor y Promotor de Desarollo Turístico\nCorreo:\nshuarand@gmail.com\nTeléfono:\n983779918\nFuentes Bibliográfica:\n1) Cañón del Apurímac, por Y tú qué planes (Plataforma digital del MINCETUR), 2023 -https://www.ytuqueplanes.com/destinos/apurimac/canon-del-apurimac/canon-del-apurimac\n2) ¿Qué esconde uno de los cañones más profundos del mundo? por Terra Explorer Perú (Portal web), Cusco, diciembre 2022 - https://www.terraexplorerperu.com/noticias/canon-rio-apurimac-profundo-mundo/\n3) Cañón del Apurímac: un coloso de la profundidad por Rumbos (Portal web), julio 2017 - https://www.rumbosdelperu.com/destinos-largos/03-07-2017/canon-del-apurimac-un-coloso-de-la-profundidad/\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n16/10/2023 09:27:43"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -13.521361742819664,
+    "longitud": -72.69485467091738
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-13.521361742819664,-72.69485467091738"
+}

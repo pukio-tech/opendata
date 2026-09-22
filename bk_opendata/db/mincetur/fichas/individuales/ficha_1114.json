@@ -1,0 +1,481 @@
+{
+  "cod_ficha": 1114,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=1114",
+  "nombre": "Mirador Turístico Acuchimay",
+  "departamento": "Ayacucho",
+  "provincia": "Huamanga",
+  "distrito": "CARMEN ALTO",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Arquitectura y Espacios Urbanos",
+  "subtipo": "Miradores",
+  "jerarquia": "2",
+  "altitud": "2865",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=526914",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=526914",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=526915",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=526916",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=526894",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=526917",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=526918",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=526919",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=526920",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=526895"
+  ],
+  "actividades_permitidas": [
+    "Otros - Compras de artesanía/souvenir",
+    "Otros - Toma de fotografías y filmaciones",
+    "Cultura y Folclore - Actividades Religiosas o Patronales",
+    "Naturaleza - Observación de paisaje",
+    "Deportes / Aventura - Caminata/Trekking",
+    "Cultura y Folclore - Ferias",
+    "Cultura y Folclore - Apreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)",
+    "Otros - Compra de productos regionales"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Compras de artesanía/souvenir",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/artesania02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Actividades Religiosas o Patronales",
+      "observacion": "Fiestas de Semana Santa y del Señor de Acuchimay",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/act_religiosas02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Ferias",
+      "observacion": "Por Semana Santa",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/feria02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Apreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)",
+      "observacion": "Existen colectivos culturales q realizan practicas de danza, pintura y cómicos ambulantes",
+      "icono_url": null
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Compra de productos regionales",
+      "observacion": "--",
+      "icono_url": null
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Ayacucho/Huamanga/Ayacucho - Ayacucho/Huamanga/Carmen Alto",
+      "detalle": "Plaza Mayor de Ayacucho - Mirador Turístico Acuchimay",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Taxi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "2.5 Km./ 10 Min"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Ayacucho/Huamanga/Ayacucho - Ayacucho/Huamanga/Carmen Alto",
+      "detalle": "Paradero de bus en Jr Libertad - Arco de Carmen Alto",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "2 km/ 15 min"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Ayacucho/Huamanga/Carmen Alto - Ayacucho/Huamanga/Carmen Alto",
+      "detalle": "Arco de Carmen Alto - Mirador Turístico Acuchimay",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "0.5 km / 5 min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "3600",
+      "horario": "Conteo de muestra de visitantes al recurso turístico",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "3780",
+      "horario": "Conteo de muestra de visitantes al recurso turístico",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "06:00 a.m. - 09:00 p.m. En fiestas de Semana Santa, los visitantes permanecen hasta el amanecer en el mirador por haber feria y actividades populares y tradicionales",
+      "observaciones": "En fiestas de Semana Santa, los visitantes permanecen hasta el amanecer en el mirador por haber feria y actividades populares y tradicionales"
+    },
+    {
+      "epoca": "Personas con discapacidad física",
+      "especificacion": "Rampa de acceso para sillas de ruedas hasta el segundo nivel",
+      "horario": "--",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Ayacucho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Ayacucho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "1, 2, 3 estrellas en la Ciudad de Ayacucho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "1, 2, 3 estrellas en la Ciudad de Ayacucho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Albergues",
+      "observacion": "Ciudad de Ayacucho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Ayacucho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Ayacucho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Ciudad de Ayacucho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Ayacucho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Ciudad de Ayacucho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de Ayacucho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Ciudad de Ayacucho. Inglés."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de camionetas 4 x 4",
+      "observacion": "Ciudad de Ayacucho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Ayacucho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Peñas",
+      "observacion": "Ciudad de Ayacucho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Cines o Teatros",
+      "observacion": "Ciudad de Ayacucho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Ciudad de Ayacucho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Ciudad de Ayacucho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Ciudad de Ayacucho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "Ciudad de Ayacucho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "Ciudad de Ayacucho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "Ciudad de Ayacucho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "Ciudad de Ayacucho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Ciudad de Ayacucho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "Ciudad de Ayacucho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos de herradura (caballo)",
+      "observacion": "Ciudad de Ayacucho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Puesto de auxilio rápido",
+      "observacion": "Ciudad de Ayacucho"
+    }
+  ],
+  "descripcion": "Ubicado en el distrito de Carmen Alto de la provincia de Huamanga de la Región de Ayacucho, sobre los 2865 msnm en la región quechua, se encuentra constituido por rocas volcánicas de origen Terciario – Cuaternario en forma cónica con abundante presencia de rocas conglomeradas, arenisca de familia andesita y riolita. Es uno de los cerros más altos que divide los distritos de Carmen Alto y Ayacucho, ubicación que lo convierte en un excelente mirador de 360 grados, permitiendo observar los 4 distritos más poblados de la provincia de Huamanga. El clima es templado, durante el día es cálido y en las noches friolentas.\nActualmente, el Cerro Acuchimay no solo es el principal mirador turístico de la Ciudad de Ayacucho, sino que cuenta con infraestructura turística de 4 niveles, teniendo en la parte más baja una Alameda con descansos para aquellos que utilizaron el acceso de graderías que se desplaza desde el distrito de San Juan bautista, las paredes están pintadas con tradiciones que representan a la región y una pileta moderna a presión octogonal de un solo nivel.\nEn la segunda planta es donde se ubica la cúpula que es usado como restaurante turístico con vista a la ciudad y una glorieta en su exterior con descansos rodeada de 13 arquerías blancas con pinturas típicas de la artesanía ayacuchana, murales con escenas cotidianas y religiosas de la región, techadas con tejas de arcilla roja, un lugar ideal para la toma de fotografías, además se encuentra el Cristo Blanco con sus manos extendidas hacia la ciudad y la torre de 3 pisos que brinda una vista panorámica impresionante, a su vez se tiene una pileta hecha con piedras naturales en forma de cascada.\nEn el tercer nivel que es la parte más alta del mirador se encuentra la cruz blanca que mide aproximadamente 8 metros de altura, también se ubica la zona de venta de artesanía y textilería, además de un pequeño anfiteatro, un centro de recepciones y 9 arquerías a su alrededor con las mismas características que en el segundo nivel. En este nivel también inicia el recorrido para quienes ingresan por el distrito de Carmen alto, teniendo como anfitrión al Águila con alas extendidas ubicado en el pequeño óvalo de la entrada a este majestuoso lugar.\nPara llegar al mirador es bastante sencillo, ya que se encuentra a 10 minutos en auto desde la plaza principal, rodeada por la ciudad de Ayacucho. El mirador es un lugar de visita obligatoria para los turistas y visitantes, ya que es parte del recorrido turístico ofertado en el City Tour de Ayacucho por las agencias de viaje y tours operadores, además de que al lado derecho hay varios restaurantes de comida típica ayacuchana. Es un lugar de paseo para familias ayacuchanas, donde pueden practicar el vuelo de cometas, paseos y compra de artesanía, juegos infantiles, áreas verdes. El lugar tiene constante resguardo por parte de la Policía Nacional del Perú y serenazgo de la Municipalidad de Carmen Alto. En las fiestas de Semana Santa, el cerro Acuchimay es escenario de visita obligatoria, sobre todo para la escenificación del viacrucis de Jesús, siendo una puesta teatral donde acompañan la población y turistas, y el Sábado de Gloria por realizarse una gran feria con mucha tradición, donde se puede encontrar de todo un poco.",
+  "particularidades": "",
+  "estado_actual": "Bueno, hubo intervención en mejorar la iluminación en todo el mirador, mejor distribución comercial, orden, pintura en las arquerías con diseños andinos, limpieza constante por parte de la Municipalidad.",
+  "observaciones": "Será el proyecto emblemático en Huamanga, por conmemorarse el Bicentenario de la Batalla de Ayacucho, y se convertirá en un espacio ubicado en el Mirador Acuchimay, que ofrecerá servicios culturales de arte, gastronomía, ciencia y tecnología aplicada; enfocado en la sostenibilidad ambiental y diversidad local",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Ubicado en el distrito de Carmen Alto de la provincia de Huamanga de la Región de Ayacucho, sobre los 2865 msnm en la región quechua, se encuentra constituido por rocas volcánicas de origen Terciario – Cuaternario en forma cónica con abundante presencia de rocas conglomeradas, arenisca de familia andesita y riolita. Es uno de los cerros más altos que divide los distritos de Carmen Alto y Ayacucho, ubicación que lo convierte en un excelente mirador de 360 grados, permitiendo observar los 4 distritos más poblados de la provincia de Huamanga. El clima es templado, durante el día es cálido y en las noches friolentas.\nActualmente, el Cerro Acuchimay no solo es el principal mirador turístico de la Ciudad de Ayacucho, sino que cuenta con infraestructura turística de 4 niveles, teniendo en la parte más baja una Alameda con descansos para aquellos que utilizaron el acceso de graderías que se desplaza desde el distrito de San Juan bautista, las paredes están pintadas con tradiciones que representan a la región y una pileta moderna a presión octogonal de un solo nivel.\nEn la segunda planta es donde se ubica la cúpula que es usado como restaurante turístico con vista a la ciudad y una glorieta en su exterior con descansos rodeada de 13 arquerías blancas con pinturas típicas de la artesanía ayacuchana, murales con escenas cotidianas y religiosas de la región, techadas con tejas de arcilla roja, un lugar ideal para la toma de fotografías, además se encuentra el Cristo Blanco con sus manos extendidas hacia la ciudad y la torre de 3 pisos que brinda una vista panorámica impresionante, a su vez se tiene una pileta hecha con piedras naturales en forma de cascada.\nEn el tercer nivel que es la parte más alta del mirador se encuentra la cruz blanca que mide aproximadamente 8 metros de altura, también se ubica la zona de venta de artesanía y textilería, además de un pequeño anfiteatro, un centro de recepciones y 9 arquerías a su alrededor con las mismas características que en el segundo nivel. En este nivel también inicia el recorrido para quienes ingresan por el distrito de Carmen alto, teniendo como anfitrión al Águila con alas extendidas ubicado en el pequeño óvalo de la entrada a este majestuoso lugar.\nPara llegar al mirador es bastante sencillo, ya que se encuentra a 10 minutos en auto desde la plaza principal, rodeada por la ciudad de Ayacucho. El mirador es un lugar de visita obligatoria para los turistas y visitantes, ya que es parte del recorrido turístico ofertado en el City Tour de Ayacucho por las agencias de viaje y tours operadores, además de que al lado derecho hay varios restaurantes de comida típica ayacuchana. Es un lugar de paseo para familias ayacuchanas, donde pueden practicar el vuelo de cometas, paseos y compra de artesanía, juegos infantiles, áreas verdes. El lugar tiene constante resguardo por parte de la Policía Nacional del Perú y serenazgo de la Municipalidad de Carmen Alto. En las fiestas de Semana Santa, el cerro Acuchimay es escenario de visita obligatoria, sobre todo para la escenificación del viacrucis de Jesús, siendo una puesta teatral donde acompañan la población y turistas, y el Sábado de Gloria por realizarse una gran feria con mucha tradición, donde se puede encontrar de todo un poco."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "Reconocido por el Instituto Nacional de Cultura como Monumento Nacional con Resolución Suprema N° 2900, de fecha 28/12/1972."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, hubo intervención en mejorar la iluminación en todo el mirador, mejor distribución comercial, orden, pintura en las arquerías con diseños andinos, limpieza constante por parte de la Municipalidad."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "Será el proyecto emblemático en Huamanga, por conmemorarse el Bicentenario de la Batalla de Ayacucho, y se convertirá en un espacio ubicado en el Mirador Acuchimay, que ofrecerá servicios culturales de arte, gastronomía, ciencia y tecnología aplicada; enfocado en la sostenibilidad ambiental y diversidad local"
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Nacionales\n3600\nConteo de muestra de visitantes al recurso turístico\n2023\nVisitantes Locales(Excursionistas)\n3780\nConteo de muestra de visitantes al recurso turístico\n2023"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nAyacucho/Huamanga/Ayacucho\n-\nAyacucho/Huamanga/Carmen Alto\nPlaza Mayor de Ayacucho - Mirador Turístico Acuchimay\nTerrestre\nTaxi\nAsfaltado\n2.5 Km./ 10 Min\n2\nAyacucho/Huamanga/Ayacucho\n-\nAyacucho/Huamanga/Carmen Alto\nParadero de bus en Jr Libertad - Arco de Carmen Alto\nTerrestre\nBus público\nAsfaltado\n2 km/ 15 min\n2\nAyacucho/Huamanga/Carmen Alto\n-\nAyacucho/Huamanga/Carmen Alto\nArco de Carmen Alto - Mirador Turístico Acuchimay\nTerrestre\nA pie\nAsfaltado\n0.5 km / 5 min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n06:00 a.m.\n-\n09:00 p.m.\nEn fiestas de Semana Santa, los visitantes permanecen hasta el amanecer en el mirador por haber feria y actividades populares y tradicionales"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nCompras de artesanía/souvenir\n--\nOtros\nToma de fotografías y filmaciones\n--\nCultura y Folclore\nActividades Religiosas o Patronales\nFiestas de Semana Santa y del Señor de Acuchimay\nNaturaleza\nObservación de paisaje\n--\nDeportes / Aventura\nCaminata/Trekking\n--\nCultura y Folclore\nFerias\nPor Semana Santa\nCultura y Folclore\nApreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)\nExisten colectivos culturales q realizan practicas de danza, pintura y cómicos ambulantes\nOtros\nCompra de productos regionales\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nAlimentación\nRestaurantes\n--\nInstalaciones Privadas\nAlimentación\nKioskos de comida y bebidas\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nVenta de artesanía\n--\nInstalaciones Privadas\nLugares de Recreación\nJuegos Infantiles\n--\nInstalaciones Públicas\nServicios Públicos\nEstacionamiento de vehículos\n--\nInstalaciones Públicas\nServicios Públicos\nSeñales turísticas de orientación\n--\nInstalaciones Públicas\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\n--\nInstalaciones Públicas\nServicios Públicos\nCaminos peatonales\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlimentación\nRestaurantes\nCiudad de Ayacucho\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Ayacucho\nAlojamiento\nHoteles (especificar categorías)\n1, 2, 3 estrellas en la Ciudad de Ayacucho\nAlojamiento\nHostales (especificar categorías)\n1, 2, 3 estrellas en la Ciudad de Ayacucho\nAlojamiento\nAlbergues\nCiudad de Ayacucho\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Ayacucho\nAlimentación\nCafeterías\nCiudad de Ayacucho\nAlimentación\nFuentes de soda\nCiudad de Ayacucho\nAlimentación\nKioskos de comida y bebidas\nCiudad de Ayacucho\nAlimentación\nVenta de comida Rápida\nCiudad de Ayacucho\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de Ayacucho\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nCiudad de Ayacucho. Inglés.\nOtros Servicios Turísticos\nAlquiler de camionetas 4 x 4\nCiudad de Ayacucho\nLugares de Recreación\nDiscotecas\nCiudad de Ayacucho\nLugares de Recreación\nPeñas\nCiudad de Ayacucho\nLugares de Recreación\nCines o Teatros\nCiudad de Ayacucho\nLugares de Recreación\nJuegos Infantiles\nCiudad de Ayacucho\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nCiudad de Ayacucho\nLugares de Recreación\nCentros Deportivos\nCiudad de Ayacucho\nLugares de Recreación\nKaraoke\nCiudad de Ayacucho\nServicios Públicos\nMiradores turísticos\nCiudad de Ayacucho\nServicios Públicos\nSeñales turísticas de orientación\nCiudad de Ayacucho\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\nCiudad de Ayacucho\nServicios Públicos\nOficina de Información turística\nCiudad de Ayacucho\nServicios Públicos\nCaminos peatonales\nCiudad de Ayacucho\nServicios Públicos\nCaminos de herradura (caballo)\nCiudad de Ayacucho\nServicios Públicos\nPuesto de auxilio rápido\nCiudad de Ayacucho"
+    },
+    {
+      "titulo": "Servicios Complementarios dentro del recurso",
+      "contenido": "Servicio Complementario\nObservación\nServicio de estacionamiento\n--\nServicios de taxis\n--\nBodegas o minimarkets\n--"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Ayacucho\nBancos\nCiudad de Ayacucho\nCasa de cambio\nCiudad de Ayacucho\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Ayacucho\nServicio de estacionamiento\nCiudad de Ayacucho\nServicios de taxis\nCiudad de Ayacucho\nCentro de salud - tópico\nCiudad de Ayacucho\nVenta de materiales para fotografías\nCiudad de Ayacucho\nSeguridad / POLTUR / Comisaría\nCiudad de Ayacucho\nBodegas o minimarkets\nCiudad de Ayacucho\nCajero automático\nCiudad de Ayacucho\nServicio de correos\nCiudad de Ayacucho\nLibrerías\nCiudad de Ayacucho"
+    },
+    {
+      "titulo": "Condiciones de Accesibilidad al Visitante",
+      "contenido": "Visitante\nInstalación\nActividades y/o programas\nEquipamiento\nObservación\nPersonas con discapacidad física\nRampa de acceso para sillas de ruedas hasta el segundo nivel\n--\n--\n--"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\n--\nAlcantarillado sanitario\n--\nTeléfono\n--\nLuz (Suministro Eléctrico)\n--\nSeñalización turística\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Ayacucho\nAlcantarillado sanitario\nCiudad de Ayacucho\nLuz (Suministro Eléctrico)\nCiudad de Ayacucho\nTeléfono\nCiudad de Ayacucho\nSeñalización turística\nCiudad de Ayacucho\nEnergía Alternativa\nCiudad de Ayacucho\nAlcantarillado pluvial\nCiudad de Ayacucho"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nMunicipalidad Distrital de Carmen Alto\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nNúmero de Partida:\nP11012326\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nMunicipalidad Distrital de Carmen Alto, además otorgado al CAFAE (GORE Ayacucho) la torre y salón de recepciones\nTiempo de administración\nDesde el 1920 a la Municipalidad / Desde el 2008 otorgado al CAFAE la torre y salón de recepciones"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección de Comercio Exterior y Turismo Ayacucho\nNombre (Persona(s) responsable(s) del inventario turístico):\nEfrain Walter Gomez Lopez\nCargo:\nEspecialista en Turismo II\nCorreo:\newgl7@hotmail.com\nTeléfono:\n938130971\nFuentes Bibliográfica:\n1) PERTUR Ayacucho 2020-2029, por el Gobierno Regional de Ayacucho, 2021.\n2) Proyecto Bicentenario de Ayacucho, “Parque Cultural Bicentenario de Ayacucho en Acuchimay”\nAsto Huarcaya, D. G. (2014).\n3) Estrategia de marketing y competitividad del turismo en la RED-Huamanga, periodo 2005-2010 por Huarcaya Pujaico, I. J.\n4) Propuesta de gestión de la capacitación laboral en las micro y pequeñas empresas del rubro restaurantes turísticos del mirador Acuchimay, distrito de Carmen Alto, Ayacucho, 2019.\n5) Juan Perlacios Campos (2007). \"Huamanga: Tierra De Halcones\"\nGuinea Larreategui, D. A. (2020). Juego Libre en los sectores y el Desarrollo de la Expresión Oral en su Lengua Materna de los niños de 4 años de la Institución Educativa Inicial N° 428–Acuchimay.\nTenorio, H. C. (2021). Acuchimay: asentamiento prehispánico de época Warpa y Wari en la cuenca de Ayacucho. Arqueología y Sociedad, (35), 53-68.\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n3/04/2024 16:24:12"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -13.172250761121518,
+    "longitud": -74.22169089317322
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-13.172250761121518,-74.22169089317322"
+}

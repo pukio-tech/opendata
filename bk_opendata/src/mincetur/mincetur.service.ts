@@ -1,16 +1,16 @@
 import { Injectable, Logger, HttpException, HttpStatus, OnModuleInit } from '@nestjs/common';
-import axios, { AxiosInstance } from 'axios';
-import * as https from 'https';
-import * as cheerio from 'cheerio';
-
-import * as offlineCodesRaw from './offline_codes.json';
+import * as fs from 'fs';
+import * as path from 'path';
 
 export interface ActivityItem {
-  id: number;
-  codigo: string;
-  atrac_acti: number;
+  id?: number;
+  codigo?: string;
+  id_actividad?: number;
+  atrac_acti?: number;
+  id_subactividad?: number | null;
   atrac_acti_tipo?: number | null;
   nombre: string;
+  codigo_tipo?: string;
   tipocate_codigo?: string;
   imagen?: string | null;
   sub_actividades?: ActivityItem[];
@@ -23,29 +23,38 @@ export interface ResourceItem {
   tipo_categoria?: string;
   subtipo_categoria?: string;
   desdpto?: string;
+  departamento?: string;
   desprov?: string;
+  provincia?: string;
   desubigeo?: string;
+  distrito?: string;
   x?: number;
   y?: number;
+  coordenadas?: {
+    latitud?: number;
+    longitud?: number;
+  };
   url?: string;
+  url_ficha?: string;
   desjerarquia?: string;
-  imagen?: string;
-  lstActiGeo?: any[];
-  lstTipoActiGeo?: any[];
+  jerarquia?: string;
+  imagen?: string | null;
+  foto_url?: string;
 }
 
 export interface FichaSection {
-  id: string;
+  id?: string;
   titulo: string;
-  contenido_texto: string;
-  contenido_html: string;
+  contenido?: string;
+  contenido_texto?: string;
+  contenido_html?: string;
 }
 
 export interface FichaActivity {
   actividad: string;
   tipo: string;
   observacion: string;
-  icono_url?: string;
+  icono_url?: string | null;
 }
 
 export interface FichaRutaAcceso {
@@ -79,13 +88,19 @@ export interface FichaDetail {
   altitud: string;
   x?: number;
   y?: number;
+  coordenadas?: {
+    latitud?: number;
+    longitud?: number;
+  };
   google_maps_url?: string;
-  foto_principal: string;
+  foto_principal?: string | null;
   galeria_fotos: string[];
   actividades_permitidas: string[];
   actividades_detalle?: FichaActivity[];
   rutas_acceso?: FichaRutaAcceso[];
   epoca_propicia?: FichaEpocaPropicia[];
+  tipo_ingreso?: Array<{ tipo: string; observaciones: string }>;
+  servicios_turisticos?: Array<{ ubicacion: string; instalacion?: string; servicio?: string; tipo_servicio?: string; observacion?: string }>;
   descripcion: string;
   particularidades?: string;
   estado_actual?: string;
@@ -108,420 +123,29 @@ export function normalizeText(text: string | null | undefined): string {
 @Injectable()
 export class MinceturService implements OnModuleInit {
   private readonly logger = new Logger(MinceturService.name);
-  private readonly http: AxiosInstance;
 
-  private readonly BASE_URL = process.env.MINCETUR_BASE_URL || 'https://sigmincetur.mincetur.gob.pe/turismo';
-  private readonly GEOSERVER_URL = process.env.GEOSERVER_URL || 'https://sigmincetur.mincetur.gob.pe/geoserver/ProduSig/ows';
-  private readonly FICHA_BASE_URL = process.env.FICHA_BASE_URL || 'https://consultasenlinea.mincetur.gob.pe/fichaInventario';
-
-  // Conjunto de códigos de fichas históricas offline / dadas de baja en MINCETUR (302 redirect)
-  private readonly offlineCodesSet: Set<number> = new Set<number>(
-    Array.isArray(offlineCodesRaw)
-      ? (offlineCodesRaw as any)
-      : ((offlineCodesRaw as any).default || []),
+  // Rutas base a la base de datos local JSON
+  private readonly DB_DIR = path.resolve(
+    process.env.MINCETUR_DATA_DIR || path.join(__dirname, '../../db/mincetur'),
   );
+  private readonly CATALOGOS_DIR = path.join(this.DB_DIR, 'catalogos');
+  private readonly RECURSOS_DIR = path.join(this.DB_DIR, 'recursos');
+  private readonly FICHAS_DIR = path.join(this.DB_DIR, 'fichas');
+  private readonly FICHAS_INDIV_DIR = path.join(this.FICHAS_DIR, 'individuales');
 
-  // 1. Memoria Caché de Alto Rendimiento con límite LRU (evita Memory Leaks)
-  private readonly MAX_CACHE_ENTRIES = 5000;
-  private cache: Map<string, { data: any; expiry: number }> = new Map();
+  // Cache en memoria para rendimiento instantáneo (< 1ms)
+  private categoriesCache: any[] | null = null;
+  private activitiesCache: ActivityItem[] | null = null;
+  private departmentsCache: any[] | null = null;
+  private resourcesCache: ResourceItem[] | null = null;
+  private offlineCodesSet: Set<number> = new Set<number>();
+  private fichaToPhotoMap: Map<number, string> = new Map<number, string>();
 
-  // 2. Request Coalescing: Evita Cache Stampede (si miles de usuarios consultan a la vez, se ejecuta 1 sola promesa)
-  private inFlightRequests: Map<string, Promise<any>> = new Map();
-
-  // Mapeo en memoria de Ficha -> ID de primera foto real
-  private fichaToPhotoMap: Map<string, string> = new Map();
-
-  // Mapeo de validación online de Fichas (evita fichas despublicadas o con 302)
-  private onlineFichasCache: Map<string, boolean> = new Map();
-
-  // Estadísticas para monitoreo y Load Balancers
+  // Estadísticas para monitoreo
   private stats = {
     totalRequests: 0,
-    cacheHits: 0,
-    cacheMisses: 0,
     startTime: Date.now(),
   };
-
-  constructor() {
-    this.http = axios.create({
-      httpsAgent: new https.Agent({
-        rejectUnauthorized: false,
-        keepAlive: true,
-        maxSockets: 200,
-        maxFreeSockets: 50,
-        keepAliveMsecs: 30000,
-      }),
-      timeout: 25000,
-      headers: {
-        'User-Agent':
-          'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-        Accept: 'application/json, text/javascript, */*; q=0.01',
-      },
-    });
-  }
-
-  private readonly FALLBACK_RESOURCES: ResourceItem[] = [
-    {
-      codigo: 62,
-      nombre: 'SANTUARIO HISTÓRICO DE MACHU PICCHU',
-      categoria: 'SITIOS NATURALES',
-      tipo_categoria: 'ÁREAS PROTEGIDAS',
-      subtipo_categoria: 'SANTUARIO HISTÓRICO',
-      desdpto: 'CUSCO',
-      desprov: 'URUBAMBA',
-      desubigeo: 'MACHUPICCHU',
-      x: -72.544963,
-      y: -13.163141,
-      desjerarquia: 'Jerarquía 4',
-      imagen: 'https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=62',
-    },
-    {
-      codigo: 154,
-      nombre: 'COMPLEJO ARQUEOLÓGICO DE SACSAYHUAMÁN',
-      categoria: 'MANIFESTACIONES CULTURALES',
-      tipo_categoria: 'SITIOS ARQUEOLÓGICOS',
-      subtipo_categoria: 'EDIFICACIONES',
-      desdpto: 'CUSCO',
-      desprov: 'CUSCO',
-      desubigeo: 'CUSCO',
-      x: -71.9817,
-      y: -13.5049,
-      desjerarquia: 'Jerarquía 4',
-      imagen: 'https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=154',
-    },
-    {
-      codigo: 820,
-      nombre: 'CAÑÓN DEL COLCA',
-      categoria: 'SITIOS NATURALES',
-      tipo_categoria: 'FENÓMENOS GEOLÓGICOS',
-      subtipo_categoria: 'CAÑONES Y QUEBRADAS',
-      desdpto: 'AREQUIPA',
-      desprov: 'CAYLLOMA',
-      desubigeo: 'CHIVAY',
-      x: -71.8653,
-      y: -15.6033,
-      desjerarquia: 'Jerarquía 4',
-      imagen: 'https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=820',
-    },
-    {
-      codigo: 1205,
-      nombre: 'RESERVA NACIONAL DE PARACAS',
-      categoria: 'SITIOS NATURALES',
-      tipo_categoria: 'ÁREAS PROTEGIDAS',
-      subtipo_categoria: 'RESERVA NACIONAL',
-      desdpto: 'ICA',
-      desprov: 'PISCO',
-      desubigeo: 'PARACAS',
-      x: -76.2483,
-      y: -13.8686,
-      desjerarquia: 'Jerarquía 4',
-      imagen: 'https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=1205',
-    },
-    {
-      codigo: 450,
-      nombre: 'LÍNEAS Y GEOGLIFOS DE NASCA',
-      categoria: 'MANIFESTACIONES CULTURALES',
-      tipo_categoria: 'SITIOS ARQUEOLÓGICOS',
-      subtipo_categoria: 'GEOGLIFOS',
-      desdpto: 'ICA',
-      desprov: 'NASCA',
-      desubigeo: 'NASCA',
-      x: -74.9388,
-      y: -14.7167,
-      desjerarquia: 'Jerarquía 4',
-      imagen: 'https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=450',
-    },
-    {
-      codigo: 1980,
-      nombre: 'COMPLEJO ARQUEOLÓGICO DE KUÉLAP',
-      categoria: 'MANIFESTACIONES CULTURALES',
-      tipo_categoria: 'SITIOS ARQUEOLÓGICOS',
-      subtipo_categoria: 'FORTALEZAS',
-      desdpto: 'AMAZONAS',
-      desprov: 'LUYA',
-      desubigeo: 'TINGO',
-      x: -77.9238,
-      y: -6.4239,
-      desjerarquia: 'Jerarquía 4',
-      imagen: 'https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=1980',
-    },
-  ];
-
-  onModuleInit() {
-    // Calentamiento asíncrono ordenado y seguro
-    setTimeout(async () => {
-      this.logger.log('Precargando catálogos base en memoria...');
-      try {
-        await this.getCategoriesTree();
-        await this.getActivitiesTree();
-        await this.getDepartments();
-        this.logger.log('Catálogos base cargados exitosamente.');
-      } catch (err) {
-        this.logger.warn('Aviso: Carga inicial de catálogos usará respaldos optimizados');
-      }
-    }, 100);
-  }
-
-  getHealth() {
-    return {
-      status: 'healthy',
-      uptimeSeconds: Math.floor((Date.now() - this.stats.startTime) / 1000),
-      cacheSize: this.cache.size,
-      maxCacheSize: this.MAX_CACHE_ENTRIES,
-      stats: {
-        totalRequests: this.stats.totalRequests,
-        cacheHits: this.stats.cacheHits,
-        cacheMisses: this.stats.cacheMisses,
-        hitRatio: this.stats.totalRequests > 0 ? (this.stats.cacheHits / this.stats.totalRequests).toFixed(4) : '1.0000',
-      },
-      memoryUsage: process.memoryUsage(),
-    };
-  }
-
-  private getFromCache<T>(key: string): T | null {
-    this.stats.totalRequests++;
-    const item = this.cache.get(key);
-    if (item && item.expiry > Date.now()) {
-      this.stats.cacheHits++;
-      return item.data as T;
-    }
-    this.stats.cacheMisses++;
-    return null;
-  }
-
-  private setInCache(key: string, data: any, ttlMs: number = 600000) {
-    if (this.cache.size >= this.MAX_CACHE_ENTRIES) {
-      // Evict oldest 10%
-      const keys = Array.from(this.cache.keys());
-      for (let i = 0; i < Math.floor(this.MAX_CACHE_ENTRIES * 0.1); i++) {
-        this.cache.delete(keys[i]);
-      }
-    }
-    this.cache.set(key, {
-      data,
-      expiry: Date.now() + ttlMs,
-    });
-  }
-
-  // 1. Categorías normalizadas
-  async getCategoriesTree(): Promise<any[]> {
-    const cacheKey = 'categories_tree';
-    const cached = this.getFromCache<any[]>(cacheKey);
-    if (cached) return cached;
-
-    if (this.inFlightRequests.has(cacheKey)) {
-      return this.inFlightRequests.get(cacheKey);
-    }
-
-    const fetchPromise = (async () => {
-      try {
-        const [resCat, resTipo, resSubTipo] = await Promise.all([
-          this.http.get<any>(`${this.BASE_URL}/resource/js/json/atractivos.AT-Categoria.json`, { responseType: 'text' }),
-          this.http.get<any>(`${this.BASE_URL}/resource/js/json/atractivos.AT-TipoCategria.json`, { responseType: 'text' }),
-          this.http.get<any>(`${this.BASE_URL}/resource/js/json/atractivos.AT-SubTipoCategria.json`, { responseType: 'text' }),
-        ]);
-
-        const parseJson = (data: any) => {
-          if (typeof data === 'string') {
-            return JSON.parse(data.replace(/^\uFEFF/, '').trim());
-          }
-          return data;
-        };
-
-        const rawCategorias = parseJson(resCat.data);
-        const rawTipos = parseJson(resTipo.data);
-        const rawSubtipos = parseJson(resSubTipo.data);
-
-        const subtiposPorTipo: Record<string, any[]> = {};
-        for (const st of rawSubtipos) {
-          const tipoId = String(st.COD_TIPO_CATE ?? st.atrac_tipo ?? st.tipo);
-          if (!subtiposPorTipo[tipoId]) subtiposPorTipo[tipoId] = [];
-          subtiposPorTipo[tipoId].push({
-            atrac_stipo: st.COD_SUB_TIPO_CATE ?? st.atrac_stipo,
-            subtipo_categoria: st.DES_SUB_TIPO_CATE ?? st.subtipo_categoria,
-            atrac_tipo: st.COD_TIPO_CATE ?? st.atrac_tipo,
-          });
-        }
-
-        const tiposPorCat: Record<string, any[]> = {};
-        for (const t of rawTipos) {
-          const catId = String(t.COD_CATEGORIA ?? t.atrac_categ ?? t.categoria);
-          const tipoId = String(t.COD_TIPO_CATE ?? t.atrac_tipo ?? t.codigo);
-          if (!tiposPorCat[catId]) tiposPorCat[catId] = [];
-          tiposPorCat[catId].push({
-            atrac_tipo: t.COD_TIPO_CATE ?? t.atrac_tipo,
-            tipo_categoria: t.DES_TIPO_CATE ?? t.tipo_categoria,
-            atrac_categ: t.COD_CATEGORIA ?? t.atrac_categ,
-            subtipos: subtiposPorTipo[tipoId] || [],
-          });
-        }
-
-        const result = rawCategorias.map((c: any) => {
-          const catId = String(c.COD_CATEGORIA ?? c.atrac_categ ?? c.codigo);
-          return {
-            atrac_categ: c.COD_CATEGORIA ?? c.atrac_categ,
-            categoria: c.DES_CATEGORIA ?? c.categoria,
-            tipos: tiposPorCat[catId] || [],
-          };
-        });
-
-        this.setInCache(cacheKey, result, 86400000);
-        return result;
-      } catch (error) {
-        this.logger.error('Error fetching categories tree', error);
-        const fallback = this.cache.get(cacheKey);
-        if (fallback) return fallback.data;
-        return [];
-      } finally {
-        this.inFlightRequests.delete(cacheKey);
-      }
-    })();
-
-    this.inFlightRequests.set(cacheKey, fetchPromise);
-    return fetchPromise;
-  }
-
-  // 2. Actividades normalizadas
-  async getActivitiesTree(): Promise<ActivityItem[]> {
-    const cacheKey = 'activities_tree';
-    const cached = this.getFromCache<ActivityItem[]>(cacheKey);
-    if (cached) return cached;
-
-    if (this.inFlightRequests.has(cacheKey)) {
-      return this.inFlightRequests.get(cacheKey);
-    }
-
-    const fetchPromise = (async () => {
-      try {
-        const response = await this.http.get<string>(`${this.BASE_URL}/resource/js/jquery-objects.js`, {
-          responseType: 'text',
-        });
-
-        const match = response.data.match(/var\s+arrOpcionActividad\s*=\s*(\[.*?\])\s*;?\s*(?:var|$)/s);
-        if (!match) {
-          throw new Error('No se encontró arrOpcionActividad en jquery-objects.js');
-        }
-
-        let jsArray = match[1];
-        jsArray = jsArray.replace(/(\b\w+\b)\s*:/g, '"$1":');
-        jsArray = jsArray.replace(/,\s*([\]}])/g, '$1');
-
-        const items: any[] = JSON.parse(jsArray);
-        const catalogo: ActivityItem[] = [];
-        const catMap: Record<number, ActivityItem> = {};
-
-        for (const item of items) {
-          if (item.num_nivel === 1) {
-            const cat: ActivityItem = {
-              id: item.id,
-              codigo: item.codigo,
-              atrac_acti: item.atrac_acti,
-              nombre: item.tipocate_descrip,
-              imagen: item.imagen ? `https://sigmincetur.mincetur.gob.pe${item.imagen}` : null,
-              sub_actividades: [],
-            };
-            catalogo.push(cat);
-            catMap[item.atrac_acti] = cat;
-          } else if (item.num_nivel === 2) {
-            const sub: ActivityItem = {
-              id: item.id,
-              codigo: item.codigo,
-              atrac_acti: item.atrac_acti,
-              atrac_acti_tipo: item.atrac_acti_tipo,
-              nombre: item.tipocate_descrip,
-              tipocate_codigo: item.tipocate_codigo,
-              imagen: item.imagen ? `https://sigmincetur.mincetur.gob.pe${item.imagen}` : null,
-            };
-            const parent = catMap[item.atrac_acti];
-            if (parent && parent.sub_actividades) {
-              parent.sub_actividades.push(sub);
-            }
-          }
-        }
-
-        this.setInCache(cacheKey, catalogo, 86400000);
-        return catalogo;
-      } catch (error) {
-        this.logger.error('Error fetching activities tree', error);
-        const fallback = this.cache.get(cacheKey);
-        if (fallback) return fallback.data;
-        return [];
-      } finally {
-        this.inFlightRequests.delete(cacheKey);
-      }
-    })();
-
-    this.inFlightRequests.set(cacheKey, fetchPromise);
-    return fetchPromise;
-  }
-
-  // 3. Departamentos normalizados
-  async getDepartments(): Promise<any[]> {
-    const cacheKey = 'departments_list';
-    const cached = this.getFromCache<any[]>(cacheKey);
-    if (cached) return cached;
-
-    const fallbackList = [
-      { iddpto: '01', departamento: 'AMAZONAS' },
-      { iddpto: '02', departamento: 'ANCASH' },
-      { iddpto: '03', departamento: 'APURIMAC' },
-      { iddpto: '04', departamento: 'AREQUIPA' },
-      { iddpto: '05', departamento: 'AYACUCHO' },
-      { iddpto: '06', departamento: 'CAJAMARCA' },
-      { iddpto: '07', departamento: 'CALLAO' },
-      { iddpto: '08', departamento: 'CUSCO' },
-      { iddpto: '09', departamento: 'HUANCAVELICA' },
-      { iddpto: '10', departamento: 'HUANUCO' },
-      { iddpto: '11', departamento: 'ICA' },
-      { iddpto: '12', departamento: 'JUNIN' },
-      { iddpto: '13', departamento: 'LA LIBERTAD' },
-      { iddpto: '14', departamento: 'LAMBAYEQUE' },
-      { iddpto: '15', departamento: 'LIMA' },
-      { iddpto: '16', departamento: 'LORETO' },
-      { iddpto: '17', departamento: 'MADRE DE DIOS' },
-      { iddpto: '18', departamento: 'MOQUEGUA' },
-      { iddpto: '19', departamento: 'PASCO' },
-      { iddpto: '20', departamento: 'PIURA' },
-      { iddpto: '21', departamento: 'PUNO' },
-      { iddpto: '22', departamento: 'SAN MARTIN' },
-      { iddpto: '23', departamento: 'TACNA' },
-      { iddpto: '24', departamento: 'TUMBES' },
-      { iddpto: '25', departamento: 'UCAYALI' },
-    ];
-
-    try {
-      const response = await this.http.get(this.GEOSERVER_URL, {
-        params: {
-          service: 'WFS',
-          version: '1.0.0',
-          request: 'GetFeature',
-          typeName: 'ProduSig:ubigeo.Departamentos',
-          outputFormat: 'application/json',
-        },
-        timeout: 4000,
-      });
-
-      if (response.data && response.data.features && response.data.features.length > 0) {
-        const list = response.data.features.map((f: any) => {
-          const p = f.properties || {};
-          return {
-            iddpto: String(p.CODREGION ?? p.iddpto ?? p.idregion ?? '').padStart(2, '0'),
-            departamento: String(p.NOMBRE ?? p.departamento ?? p.desdpto ?? '').toUpperCase(),
-          };
-        }).filter((d: any) => d.iddpto && d.departamento);
-
-        if (list.length > 0) {
-          this.setInCache(cacheKey, list, 86400000);
-          return list;
-        }
-      }
-    } catch (error) {
-      // Fallback
-    }
-
-    this.setInCache(cacheKey, fallbackList, 86400000);
-    return fallbackList;
-  }
 
   private readonly UBIGEO_DEP_MAP: Record<string, string> = {
     '01': 'AMAZONAS',
@@ -535,7 +159,7 @@ export class MinceturService implements OnModuleInit {
     '09': 'HUANCAVELICA',
     '10': 'HUANUCO',
     '11': 'ICA',
-    '12': 'JUNÍN',
+    '12': 'JUNIN',
     '13': 'LA LIBERTAD',
     '14': 'LAMBAYEQUE',
     '15': 'LIMA',
@@ -551,83 +175,188 @@ export class MinceturService implements OnModuleInit {
     '25': 'UCAYALI',
   };
 
-  private readonly ACTIVITY_CQL_MAP: Record<string, string> = {
-    '1': "(id_categoria1 = 1 OR id_categoria1 = 2)",
-    '16': "(des_categoria2 LIKE '%AGUA%' OR des_categoria3 LIKE '%PLAYA%' OR des_categoria3 LIKE '%RIO%' OR des_categoria3 LIKE '%LAGUNA%' OR des_categoria3 LIKE '%LAGO%' OR des_categoria3 LIKE '%MAR%')",
-    '30': "(id_categoria1 = 1 OR des_categoria1 LIKE '%NATURAL%')",
-    '35': "(id_categoria1 = 3 OR des_categoria1 LIKE '%FOLK%' OR id_categoria1 = 2)",
-    '43': "(des_categoria3 LIKE '%MONTAÑA%' OR des_categoria3 LIKE '%NEVADO%' OR des_categoria3 LIKE '%QUEBRADA%' OR des_categoria3 LIKE '%CAÑON%' OR des_categoria3 LIKE '%BOSQUE%' OR des_categoria2 LIKE '%GEOL%')",
-    '63': "(id_categoria1 = 4 OR id_categoria1 = 5 OR des_categoria1 LIKE '%ARTÍSTICA%')",
-  };
+  constructor() {}
 
-  // 3.1 Cargar lista completa de recursos verificados en vivo (excluye fichas despublicadas o con 302)
-  async getAllVerifiedResources(): Promise<ResourceItem[]> {
-    const cacheKey = 'all_verified_resources_v2';
-    const cached = this.getFromCache<ResourceItem[]>(cacheKey);
-    if (cached && cached.length > 0) return cached;
-
-    if (this.inFlightRequests.has(cacheKey)) {
-      return this.inFlightRequests.get(cacheKey);
-    }
-
-    const fetchPromise = (async () => {
-      try {
-        const response = await this.http.get(this.GEOSERVER_URL, {
-          params: {
-            service: 'WFS',
-            version: '1.0.0',
-            request: 'GetFeature',
-            typeName: 'ProduSig:SIG1GEOIRT',
-            outputFormat: 'application/json',
-          },
-          timeout: 20000,
-        });
-
-        const rawFeatures = response.data?.features || [];
-        const items: ResourceItem[] = [];
-
-        for (const feat of rawFeatures) {
-          const p = feat.properties || {};
-          const cod = Number(p.cod_reg) || 0;
-          if (!cod) continue;
-          if (this.offlineCodesSet.has(cod)) continue;
-          if (p.des_jerarquia === 'Por jerarquizar') continue;
-
-          const coords = feat.geometry?.coordinates || [];
-
-          items.push({
-            codigo: cod,
-            nombre: p.des_nombre || 'Recurso Turístico',
-            categoria: (p.des_categoria1 || '').replace(/^\d+\.\s*/, ''),
-            tipo_categoria: p.des_categoria2 || '',
-            subtipo_categoria: p.des_categoria3 || '',
-            desdpto: p.des_region || '',
-            desprov: p.des_provincia || '',
-            desubigeo: p.des_distrito || '',
-            x: coords[0] ?? null,
-            y: coords[1] ?? null,
-            url: p.des_web || `${this.FICHA_BASE_URL}/index.aspx?cod_Ficha=${cod}`,
-            desjerarquia: p.des_jerarquia || '',
-            imagen: `/api/photos/${cod}`,
-          });
-        }
-
-        this.logger.log(`Catálogo de datos abiertos indexado: ${items.length} recursos turísticos verificados`);
-        this.setInCache(cacheKey, items, 86400000); // 24h
-        return items;
-      } catch (error) {
-        this.logger.error('Error cargando recursos de GeoServer', error.message);
-        return this.FALLBACK_RESOURCES;
-      } finally {
-        this.inFlightRequests.delete(cacheKey);
-      }
-    })();
-
-    this.inFlightRequests.set(cacheKey, fetchPromise);
-    return fetchPromise;
+  onModuleInit() {
+    this.logger.log(`Iniciando repositorio de datos JSON desde: ${this.DB_DIR}`);
+    this.loadOfflineCodes();
+    this.loadCatalogsIntoMemory();
+    this.loadFichasPhotosMap();
+    this.loadResourcesIntoMemory();
   }
 
-  // 4. Buscar Recursos Turísticos con Paginación Ultra-Rápida y Exacta
+  private loadOfflineCodes() {
+    const offlinePath = path.join(this.FICHAS_DIR, 'offline_codes.json');
+    if (fs.existsSync(offlinePath)) {
+      try {
+        const raw = JSON.parse(fs.readFileSync(offlinePath, 'utf-8'));
+        if (Array.isArray(raw)) {
+          this.offlineCodesSet = new Set<number>(raw.map((c: any) => Number(c)));
+          this.logger.log(`Cargados ${this.offlineCodesSet.size} códigos de fichas offline/retiradas.`);
+        }
+      } catch (err) {
+        this.logger.warn(`No se pudo leer offline_codes.json: ${err.message}`);
+      }
+    }
+  }
+
+  private loadCatalogsIntoMemory() {
+    // 1. Categorías
+    const catFile = path.join(this.CATALOGOS_DIR, 'categorias_arbol.json');
+    if (fs.existsSync(catFile)) {
+      try {
+        this.categoriesCache = JSON.parse(fs.readFileSync(catFile, 'utf-8'));
+      } catch (e) {
+        this.logger.error(`Error cargando categorías: ${e.message}`);
+      }
+    }
+
+    // 2. Actividades
+    const actFile = path.join(this.CATALOGOS_DIR, 'actividades_arbol.json');
+    if (fs.existsSync(actFile)) {
+      try {
+        this.activitiesCache = JSON.parse(fs.readFileSync(actFile, 'utf-8'));
+      } catch (e) {
+        this.logger.error(`Error cargando actividades: ${e.message}`);
+      }
+    }
+
+    // 3. Departamentos
+    const depFile = path.join(this.CATALOGOS_DIR, 'departamentos.json');
+    if (fs.existsSync(depFile)) {
+      try {
+        this.departmentsCache = JSON.parse(fs.readFileSync(depFile, 'utf-8'));
+      } catch (e) {
+        this.logger.error(`Error cargando departamentos: ${e.message}`);
+      }
+    }
+  }
+
+  // Pre-indexa en memoria la URL web directa de la foto de cada ficha
+  private loadFichasPhotosMap() {
+    if (!fs.existsSync(this.FICHAS_INDIV_DIR)) return;
+
+    try {
+      const files = fs.readdirSync(this.FICHAS_INDIV_DIR);
+      for (const file of files) {
+        if (!file.startsWith('ficha_') || !file.endsWith('.json')) continue;
+        const codStr = file.replace('ficha_', '').replace('.json', '');
+        const codNum = Number(codStr);
+        if (!codNum) continue;
+
+        try {
+          const filePath = path.join(this.FICHAS_INDIV_DIR, file);
+          const raw = fs.readFileSync(filePath, 'utf-8');
+          const data = JSON.parse(raw);
+
+          const photoUrl = data.foto_principal || (data.galeria_fotos && data.galeria_fotos[0]);
+          if (photoUrl && photoUrl.startsWith('http')) {
+            this.fichaToPhotoMap.set(codNum, photoUrl);
+          }
+        } catch (e) {
+          // Ignorar
+        }
+      }
+
+      this.logger.log(`Mapeadas ${this.fichaToPhotoMap.size} URLs de fotos oficiales en memoria.`);
+    } catch (e) {
+      this.logger.warn(`No se pudo indexar mapa de fotos: ${e.message}`);
+    }
+  }
+
+  private loadResourcesIntoMemory() {
+    const resFile = path.join(this.RECURSOS_DIR, 'recursos_resumen.json');
+    if (fs.existsSync(resFile)) {
+      try {
+        const raw: any[] = JSON.parse(fs.readFileSync(resFile, 'utf-8'));
+        this.resourcesCache = raw
+          .filter((r: any) => {
+            const cod = Number(r.codigo);
+            // Excluir fichas dadas de baja / redirecciones registradas en offline_codes.json
+            return cod && !this.offlineCodesSet.has(cod);
+          })
+          .map((r: any) => {
+            const lat = r.coordenadas?.latitud ?? r.y ?? null;
+            const lon = r.coordenadas?.longitud ?? r.x ?? null;
+            const cod = Number(r.codigo);
+
+            // Obtener URL web directa de la foto o dejar null
+            const directPhotoUrl = this.fichaToPhotoMap.get(cod) || null;
+
+            return {
+              codigo: cod,
+              nombre: r.nombre || `Recurso N° ${cod}`,
+              categoria: r.categoria || '',
+              tipo_categoria: r.tipo_categoria || '',
+              subtipo_categoria: r.subtipo_categoria || '',
+              desdpto: r.departamento || r.desdpto || '',
+              departamento: r.departamento || r.desdpto || '',
+              desprov: r.provincia || r.desprov || '',
+              provincia: r.provincia || r.desprov || '',
+              desubigeo: r.distrito || r.desubigeo || '',
+              distrito: r.distrito || r.desubigeo || '',
+              x: lon,
+              y: lat,
+              coordenadas: {
+                latitud: lat,
+                longitud: lon,
+              },
+              url: r.url_ficha || r.url || `https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=${cod}`,
+              url_ficha: r.url_ficha || `https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=${cod}`,
+              desjerarquia: r.jerarquia || r.desjerarquia || '',
+              jerarquia: r.jerarquia || r.desjerarquia || '',
+              imagen: directPhotoUrl,
+              foto_url: directPhotoUrl || r.foto_url,
+            };
+          });
+
+        this.logger.log(`Base de datos de recursos verificados: ${this.resourcesCache.length} recursos turísticos activos cargados en memoria.`);
+      } catch (e) {
+        this.logger.error(`Error indexando recursos: ${e.message}`);
+      }
+    }
+  }
+
+  getHealth() {
+    return {
+      status: 'healthy',
+      storage: 'local_json_db',
+      dbPath: this.DB_DIR,
+      uptimeSeconds: Math.floor((Date.now() - this.stats.startTime) / 1000),
+      totalRequests: this.stats.totalRequests,
+      totalResourcesLoaded: this.resourcesCache?.length || 0,
+      totalCategoriesLoaded: this.categoriesCache?.length || 0,
+      totalFichasWithPhotos: this.fichaToPhotoMap.size,
+      totalOfflineCodes: this.offlineCodesSet.size,
+      memoryUsage: process.memoryUsage(),
+    };
+  }
+
+  // 1. Obtener Árbol de Categorías
+  async getCategoriesTree(): Promise<any[]> {
+    this.stats.totalRequests++;
+    if (this.categoriesCache) return this.categoriesCache;
+    this.loadCatalogsIntoMemory();
+    return this.categoriesCache || [];
+  }
+
+  // 2. Obtener Árbol de Actividades
+  async getActivitiesTree(): Promise<ActivityItem[]> {
+    this.stats.totalRequests++;
+    if (this.activitiesCache) return this.activitiesCache;
+    this.loadCatalogsIntoMemory();
+    return this.activitiesCache || [];
+  }
+
+  // 3. Obtener Lista de Departamentos
+  async getDepartments(): Promise<any[]> {
+    this.stats.totalRequests++;
+    if (this.departmentsCache) return this.departmentsCache;
+    this.loadCatalogsIntoMemory();
+    return this.departmentsCache || [];
+  }
+
+  // 4. Buscar Recursos Turísticos con Filtros en Memoria
   async searchResources(query: {
     search?: string;
     codigo?: number | string;
@@ -640,20 +369,25 @@ export class MinceturService implements OnModuleInit {
     page?: number;
     limit?: number;
   }): Promise<{ data: ResourceItem[]; total: number; page: number; limit: number; totalPages: number }> {
+    this.stats.totalRequests++;
+
+    if (!this.resourcesCache) {
+      this.loadResourcesIntoMemory();
+    }
+
     const page = Math.max(1, Number(query.page) || 1);
     const limit = Math.max(1, Math.min(100, Number(query.limit) || 12));
     const startIndex = (page - 1) * limit;
 
-    const allResources = await this.getAllVerifiedResources();
-    let filtered = allResources;
+    let filtered = this.resourcesCache || [];
 
-    // 0. Filtro por código exacto de recurso
+    // 0. Filtro por código exacto
     if (query.codigo) {
       const codNum = Number(query.codigo);
       filtered = filtered.filter((r) => r.codigo === codNum);
     }
 
-    // 1. Filtro por término de búsqueda (insensible a tildes, mayúsculas y código numérico)
+    // 1. Filtro por búsqueda de texto
     if (query.search && query.search.trim()) {
       const rawSearch = query.search.trim();
       const normQuery = normalizeText(rawSearch);
@@ -678,7 +412,7 @@ export class MinceturService implements OnModuleInit {
       }
     }
 
-    // 2. Filtro por departamento / región (insensible a tildes)
+    // 2. Filtro por departamento
     if (query.department && query.department.trim()) {
       const rawDept = query.department.trim();
       const depName = this.UBIGEO_DEP_MAP[rawDept] || rawDept;
@@ -690,25 +424,25 @@ export class MinceturService implements OnModuleInit {
       });
     }
 
-    // 3. Filtro por categoría (insensible a tildes)
+    // 3. Filtro por categoría
     if (query.category && query.category.trim()) {
       const normCat = normalizeText(query.category);
       filtered = filtered.filter((r) => normalizeText(r.categoria).includes(normCat));
     }
 
-    // 4. Filtro por tipo (insensible a tildes)
+    // 4. Filtro por tipo de categoría
     if (query.type && query.type.trim()) {
       const normTp = normalizeText(query.type);
       filtered = filtered.filter((r) => normalizeText(r.tipo_categoria).includes(normTp));
     }
 
-    // 5. Filtro por subtipo (insensible a tildes)
+    // 5. Filtro por subtipo
     if (query.subtype && query.subtype.trim()) {
       const normSub = normalizeText(query.subtype);
       filtered = filtered.filter((r) => normalizeText(r.subtipo_categoria).includes(normSub));
     }
 
-    // 6. Filtro por actividad (insensible a tildes)
+    // 6. Filtro por actividad
     if (query.activity && query.activity.trim()) {
       const actId = query.activity.trim();
       if (actId === '1') {
@@ -772,487 +506,239 @@ export class MinceturService implements OnModuleInit {
     };
   }
 
-  // 5. Extraer Ficha Oficial de Inventario Detallada con todas las Secciones
+  // 5. Obtener Recursos Georreferenciados para OpenStreetMap
+  async getMapResources(query: {
+    department?: string;
+    category?: string;
+    search?: string;
+    limit?: number;
+  }): Promise<ResourceItem[]> {
+    this.stats.totalRequests++;
+
+    if (!this.resourcesCache) {
+      this.loadResourcesIntoMemory();
+    }
+
+    let filtered = (this.resourcesCache || []).filter(
+      (r) => r.coordenadas?.latitud != null && r.coordenadas?.longitud != null,
+    );
+
+    // Filtro por departamento
+    if (query.department && query.department.trim()) {
+      const rawDept = query.department.trim();
+      const depName = this.UBIGEO_DEP_MAP[rawDept] || rawDept;
+      const normDep = normalizeText(depName);
+      filtered = filtered.filter((r) => {
+        const d = normalizeText(r.desdpto);
+        if (normDep.includes('junin')) return d.includes('jun');
+        return d.includes(normDep);
+      });
+    }
+
+    // Filtro por categoría
+    if (query.category && query.category.trim()) {
+      const normCat = normalizeText(query.category);
+      filtered = filtered.filter((r) => normalizeText(r.categoria).includes(normCat));
+    }
+
+    // Filtro por búsqueda
+    if (query.search && query.search.trim()) {
+      const normQuery = normalizeText(query.search);
+      filtered = filtered.filter((r) => normalizeText(r.nombre).includes(normQuery));
+    }
+
+    if (query.limit && Number(query.limit) > 0) {
+      return filtered.slice(0, Number(query.limit));
+    }
+
+    return filtered;
+  }
+
+  // 6. Obtener GeoJSON estándar para Leaflet / OpenStreetMap
+  async getMapGeoJson(query: { department?: string; category?: string }) {
+    const resources = await this.getMapResources(query);
+
+    return {
+      type: 'FeatureCollection',
+      features: resources.map((r) => ({
+        type: 'Feature',
+        geometry: {
+          type: 'Point',
+          coordinates: [r.coordenadas?.longitud, r.coordenadas?.latitud],
+        },
+        properties: {
+          codigo: r.codigo,
+          nombre: r.nombre,
+          categoria: r.categoria,
+          tipo_categoria: r.tipo_categoria,
+          subtipo_categoria: r.subtipo_categoria,
+          departamento: r.desdpto,
+          provincia: r.desprov,
+          distrito: r.desubigeo,
+          jerarquia: r.jerarquia,
+          imagen: r.imagen,
+          url_ficha: r.url_ficha,
+        },
+      })),
+    };
+  }
+
+  // 7. Obtener Todos los Recursos Activos (Catálogo Completo)
+  async getAllResources(): Promise<ResourceItem[]> {
+    this.stats.totalRequests++;
+    if (!this.resourcesCache) {
+      this.loadResourcesIntoMemory();
+    }
+    return this.resourcesCache || [];
+  }
+
+  // 8. Obtener Recursos por Departamento
+  async getResourcesByDepartment(dptoParam: string): Promise<ResourceItem[]> {
+    this.stats.totalRequests++;
+    if (!this.resourcesCache) {
+      this.loadResourcesIntoMemory();
+    }
+
+    const depName = this.UBIGEO_DEP_MAP[dptoParam] || dptoParam;
+    const normDep = normalizeText(depName);
+
+    return (this.resourcesCache || []).filter((r) => {
+      const d = normalizeText(r.desdpto);
+      if (normDep.includes('junin')) return d.includes('jun');
+      return d.includes(normDep);
+    });
+  }
+
+  // 9. Obtener Recursos Destacados Aleatorios (Random 6) con Fotos Verificadas
+  async getFeaturedResources(query: { limit?: number; category?: string }): Promise<ResourceItem[]> {
+    this.stats.totalRequests++;
+
+    if (!this.resourcesCache) {
+      this.loadResourcesIntoMemory();
+    }
+
+    const limit = Math.max(1, Math.min(24, Number(query.limit) || 6));
+    let pool = (this.resourcesCache || []).filter((r) => Boolean(r.imagen || this.fichaToPhotoMap.has(r.codigo)));
+
+    if (query.category && query.category.trim()) {
+      const normCat = normalizeText(query.category);
+      pool = pool.filter((r) => normalizeText(r.categoria).includes(normCat));
+    }
+
+    // Si por el filtro de categoría no hay con foto, usar pool general filtrado
+    if (pool.length === 0) {
+      pool = this.resourcesCache || [];
+      if (query.category && query.category.trim()) {
+        const normCat = normalizeText(query.category);
+        pool = pool.filter((r) => normalizeText(r.categoria).includes(normCat));
+      }
+    }
+
+    // Shuffle aleatorio (Fisher-Yates) para que cada consulta devuelva destinos distintos
+    const shuffled = [...pool];
+    for (let i = shuffled.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+    }
+
+    return shuffled.slice(0, limit);
+  }
+
+  // 6. Obtener Detalle de Ficha desde JSON Local
   async getFichaDetail(codFicha: number): Promise<FichaDetail> {
-    const cacheKey = `ficha_${codFicha}`;
-    const cached = this.getFromCache<FichaDetail>(cacheKey);
-    if (cached) return cached;
+    this.stats.totalRequests++;
 
-    if (this.inFlightRequests.has(cacheKey)) {
-      return this.inFlightRequests.get(cacheKey);
+    if (this.offlineCodesSet.has(codFicha)) {
+      throw new HttpException(
+        `La ficha oficial N° ${codFicha} no está disponible o ha sido dada de baja del inventario oficial.`,
+        HttpStatus.NOT_FOUND,
+      );
     }
 
-    const fetchPromise = (async () => {
+    const fichaPath = path.join(this.FICHAS_INDIV_DIR, `ficha_${codFicha}.json`);
+
+    // 1. Si existe la ficha técnica completa en disco, devolverla
+    if (fs.existsSync(fichaPath)) {
       try {
-        if (this.offlineCodesSet.has(codFicha)) {
-          throw new HttpException(
-            `La ficha oficial N° ${codFicha} no existe o ha sido dada de baja del inventario oficial.`,
-            HttpStatus.NOT_FOUND,
-          );
+        const raw = fs.readFileSync(fichaPath, 'utf-8');
+        const parsed: FichaDetail = JSON.parse(raw);
+
+        // Normalizar secciones para el frontend
+        if (parsed.secciones && parsed.secciones.length > 0) {
+          parsed.secciones = parsed.secciones.map((sec: any, idx: number) => ({
+            id: sec.id || `sec_${idx}`,
+            titulo: sec.titulo || '',
+            contenido_texto: sec.contenido_texto || sec.contenido || '',
+            contenido_html: sec.contenido_html || `<p>${sec.contenido || sec.contenido_texto || ''}</p>`,
+          }));
         }
 
-        const url = `${this.FICHA_BASE_URL}/index.aspx?cod_Ficha=${codFicha}`;
-        const response = await this.http.get<string>(url, {
-          responseType: 'text',
-          timeout: 8000,
-          maxRedirects: 0,
-          validateStatus: (status) => status === 200,
-          headers: {
-            'User-Agent':
-              'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-            Accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
-            Referer: `${this.FICHA_BASE_URL}/`,
-          },
-        });
-        const html = response.data;
-        if (!html || html.includes('Object moved') || html.length < 500) {
-          throw new HttpException(
-            `La ficha oficial N° ${codFicha} no existe o ha sido dada de baja del inventario oficial.`,
-            HttpStatus.NOT_FOUND,
-          );
-        }
-        const $ = cheerio.load(html);
-
-        const detalle: FichaDetail = {
-          cod_ficha: codFicha,
-          url_ficha: url,
-          nombre: $('.TituloRecurso').text().trim() || $('meta[property="og:title"]').attr('content')?.trim() || '',
-          departamento: '',
-          provincia: '',
-          distrito: '',
-          categoria: '',
-          tipo: '',
-          subtipo: '',
-          jerarquia: '',
-          altitud: '',
-          foto_principal: '',
-          galeria_fotos: [],
-          actividades_permitidas: [],
-          descripcion: $('meta[property="og:description"]').attr('content')?.trim() || '',
-          particularidades: '',
-          estado_actual: '',
-          observaciones: '',
-          secciones: [],
-        };
-
-        $('table tr').each((_, el) => {
-          const text = $(el).text();
-          const value = $(el).find('span.TextGris, span.TextGris2').text().trim();
-          if (text.includes('Departamento:')) detalle.departamento = value;
-          if (text.includes('Provincia:')) detalle.provincia = value;
-          if (text.includes('Distrito:')) detalle.distrito = value;
-          if (text.includes('Categoría:')) detalle.categoria = value;
-          if (text.includes('Tipo:')) detalle.tipo = value;
-          if (text.includes('Subtipo:')) detalle.subtipo = value;
-          if (text.includes('Jerarquía:')) detalle.jerarquia = value;
-          if (text.includes('Altitud:')) detalle.altitud = value;
-        });
-
-        // Extraer fotos y mapear la primera foto real de la ficha
-        const fotosSet = new Set<string>();
-        const photoIds: string[] = [];
-        $('a[href*="foto.aspx?cod="], img[src*="foto.aspx?cod="]').each((_, el) => {
-          const href = $(el).attr('href') || $(el).attr('src') || '';
-          const match = href.match(/foto\.aspx\?cod=(\d+)/);
-          if (match && match[1] && match[1] !== String(codFicha)) {
-            fotosSet.add(`/api/photos/${match[1]}`);
-            if (!photoIds.includes(match[1])) {
-              photoIds.push(match[1]);
-            }
-          }
-        });
-        detalle.galeria_fotos = Array.from(fotosSet);
-        if (photoIds.length > 0) {
-          this.fichaToPhotoMap.set(String(codFicha), photoIds[0]);
-          detalle.foto_principal = `/api/photos/${photoIds[0]}`;
-        } else {
-          detalle.foto_principal = `/api/photos/${codFicha}`;
+        // Asegurar coordenadas x/y
+        if (parsed.coordenadas) {
+          parsed.x = parsed.coordenadas.longitud ?? parsed.x;
+          parsed.y = parsed.coordenadas.latitud ?? parsed.y;
         }
 
-        // Extraer Actividades Desarrolladas con iconos oficiales de la tabla
-        const actividades_detalle: FichaActivity[] = [];
-        $('#accordionContent h3').each((_, el) => {
-          const title = $(el).text().toLowerCase();
-          if (title.includes('actividades desarrolladas') || title.includes('actividades')) {
-            const div = $(el).next('div');
-            div.find('table tr').each((rIdx, row) => {
-              if (rIdx === 0) return; // Skip encabezado
-              const tds = $(row).find('td');
-              if (tds.length >= 3) {
-                const actividad = $(tds[0]).text().trim().replace(/[\r\n\t]+/g, ' ').replace(/\s+/g, ' ');
-                const tipo = $(tds[1]).text().trim().replace(/[\r\n\t]+/g, ' ').replace(/\s+/g, ' ');
-                const observacion = $(tds[2]).text().trim().replace(/[\r\n\t]+/g, ' ').replace(/\s+/g, ' ');
-
-                let icono_url = '';
-                if (tds.length >= 4) {
-                  const img = $(tds[3]).find('img');
-                  let src = img.attr('src') || '';
-                  if (src && !src.includes('vineta')) {
-                    if (!src.startsWith('http')) {
-                      src = `${this.FICHA_BASE_URL}/${src.replace(/^\/+/, '')}`;
-                    }
-                    icono_url = src.replace(/([^:])\/\/+/g, '$1/');
-                  }
-                }
-                if (actividad || tipo) {
-                  actividades_detalle.push({ actividad, tipo, observacion, icono_url });
-                }
-              }
-            });
-          }
-        });
-        detalle.actividades_detalle = actividades_detalle;
-
-        // Extraer Rutas de Acceso estructuradas
-        const rutas_acceso: FichaRutaAcceso[] = [];
-        $('#accordionContent h3').each((_, el) => {
-          const title = $(el).text().toLowerCase();
-          if (title.includes('ruta de acceso') || title.includes('acceso')) {
-            const div = $(el).next('div');
-            div.find('table tr').each((rIdx, row) => {
-              if (rIdx === 0) return;
-              const tds = $(row).find('td');
-              if (tds.length >= 6) {
-                rutas_acceso.push({
-                  recorrido: $(tds[0]).text().trim().replace(/[\r\n\t]+/g, ' ').replace(/\s+/g, ' '),
-                  tramo: $(tds[1]).text().trim().replace(/[\r\n\t]+/g, ' ').replace(/\s+/g, ' '),
-                  detalle: $(tds[2]).text().trim().replace(/[\r\n\t]+/g, ' ').replace(/\s+/g, ' '),
-                  tipo_acceso: $(tds[3]).text().trim().replace(/[\r\n\t]+/g, ' ').replace(/\s+/g, ' '),
-                  medio_transporte: $(tds[4]).text().trim().replace(/[\r\n\t]+/g, ' ').replace(/\s+/g, ' '),
-                  tipo_via: $(tds[5]).text().trim().replace(/[\r\n\t]+/g, ' ').replace(/\s+/g, ' '),
-                  distancia_tiempo: tds.length >= 7 ? $(tds[6]).text().trim().replace(/[\r\n\t]+/g, ' ').replace(/\s+/g, ' ') : '',
-                });
-              } else if (tds.length >= 4) {
-                rutas_acceso.push({
-                  recorrido: $(tds[0]).text().trim().replace(/[\r\n\t]+/g, ' ').replace(/\s+/g, ' '),
-                  tramo: $(tds[1]).text().trim().replace(/[\r\n\t]+/g, ' ').replace(/\s+/g, ' '),
-                  detalle: $(tds[2]).text().trim().replace(/[\r\n\t]+/g, ' ').replace(/\s+/g, ' '),
-                  tipo_acceso: $(tds[3]).text().trim().replace(/[\r\n\t]+/g, ' ').replace(/\s+/g, ' '),
-                  medio_transporte: tds.length >= 5 ? $(tds[4]).text().trim().replace(/[\r\n\t]+/g, ' ').replace(/\s+/g, ' ') : '',
-                  tipo_via: tds.length >= 6 ? $(tds[5]).text().trim().replace(/[\r\n\t]+/g, ' ').replace(/\s+/g, ' ') : '',
-                  distancia_tiempo: tds.length >= 7 ? $(tds[6]).text().trim().replace(/[\r\n\t]+/g, ' ').replace(/\s+/g, ' ') : '',
-                });
-              }
-            });
-          }
-        });
-        detalle.rutas_acceso = rutas_acceso;
-
-        // Extraer Época Propicia estructurada
-        const epoca_propicia: FichaEpocaPropicia[] = [];
-        $('#accordionContent h3').each((_, el) => {
-          const title = $(el).text().toLowerCase();
-          if (title.includes('epoca propicia') || title.includes('época propicia')) {
-            const div = $(el).next('div');
-            div.find('table tr').each((rIdx, row) => {
-              if (rIdx === 0) return;
-              const tds = $(row).find('td');
-              if (tds.length >= 2) {
-                epoca_propicia.push({
-                  epoca: $(tds[0]).text().trim().replace(/[\r\n\t]+/g, ' ').replace(/\s+/g, ' '),
-                  especificacion: tds.length >= 2 ? $(tds[1]).text().trim().replace(/[\r\n\t]+/g, ' ').replace(/\s+/g, ' ') : '',
-                  horario: tds.length >= 3 ? $(tds[2]).text().trim().replace(/[\r\n\t]+/g, ' ').replace(/\s+/g, ' ') : '',
-                  observaciones: tds.length >= 4 ? $(tds[3]).text().trim().replace(/[\r\n\t]+/g, ' ').replace(/\s+/g, ' ') : '',
-                });
-              }
-            });
-          }
-        });
-        detalle.epoca_propicia = epoca_propicia;
-
-        $('td img[title]').each((_, el) => {
-          const title = $(el).attr('title')?.trim();
-          if (title && !detalle.actividades_permitidas.includes(title)) {
-            detalle.actividades_permitidas.push(title);
-          }
-        });
-
-        // Buscar enlace a YouTube en todo el HTML o en los enlaces y texto
-        const ytRegex = /(?:https?:\/\/)?(?:www\.)?(?:youtube\.com\/(?:watch\?v=|embed\/|shorts\/)|youtu\.be\/)([a-zA-Z0-9_-]{11})/i;
-        const ytMatch = html.match(ytRegex);
-        if (ytMatch && ytMatch[1]) {
-          detalle.youtube_id = ytMatch[1];
-          detalle.youtube_url = `https://www.youtube.com/watch?v=${ytMatch[1]}`;
-          detalle.youtube_embed_url = `https://www.youtube.com/embed/${ytMatch[1]}`;
-        }
-
-        // Extraer únicamente las 5 secciones requeridas:
-        // 1. Descripción
-        // 2. Ruta de acceso
-        // 3. Época propicia
-        // 4. Actividades desarrolladas
-        // 5. Datos del responsable
-        const headers: string[] = [];
-        $('#accordionContent h3').each((_, el) => {
-          headers.push($(el).text().trim());
-        });
-
-        const sectionDivs: any[] = [];
-        $('#accordionContent > div').each((_, el) => {
-          sectionDivs.push($(el));
-        });
-
-        const allowedKeywords = [
-          'descripción',
-          'descripcion',
-          'ruta de acceso',
-          'época propicia',
-          'epoca propicia',
-          'actividades desarrolladas',
-          'datos del responsable',
-          'responsable'
-        ];
-
-        headers.forEach((title, idx) => {
-          const lowerTitle = title.toLowerCase();
-          const isAllowed = allowedKeywords.some((kw) => lowerTitle.includes(kw));
-
-          if (!isAllowed) return;
-
-          const div = sectionDivs[idx];
-          if (div && div.length > 0) {
-            div.find('script, style').remove();
-            
-            // Buscar si dentro de esta sección hay un link de YouTube que no se haya capturado
-            const secHtml = div.html() || '';
-            if (!detalle.youtube_id) {
-              const secYtMatch = secHtml.match(ytRegex);
-              if (secYtMatch && secYtMatch[1]) {
-                detalle.youtube_id = secYtMatch[1];
-                detalle.youtube_url = `https://www.youtube.com/watch?v=${secYtMatch[1]}`;
-                detalle.youtube_embed_url = `https://www.youtube.com/embed/${secYtMatch[1]}`;
-              }
-            }
-
-            const text = div.text().trim().replace(/[\r\n\t]+/g, ' ').replace(/\s+/g, ' ');
-
-            if ((lowerTitle.includes('descripción') || lowerTitle.includes('descripcion')) && text) {
-              detalle.descripcion = text;
-              return; // Evita duplicar la descripción en detalle.secciones
-            }
-
-            if (
-              lowerTitle.includes('ruta de acceso') ||
-              lowerTitle.includes('acceso') ||
-              lowerTitle.includes('epoca propicia') ||
-              lowerTitle.includes('época propicia') ||
-              lowerTitle.includes('actividades') ||
-              lowerTitle.includes('responsable')
-            ) {
-              return; // Ya procesado en arrays estructurados o no requerido
-            }
-
-            // Normalizar título limpio sin MINCETUR
-            let cleanTitle = title.replace(/MINCETUR/gi, '').trim();
-            if (!cleanTitle) cleanTitle = title;
-
-            detalle.secciones?.push({
-              id: `sec_${idx}`,
-              titulo: cleanTitle,
-              contenido_texto: text,
-              contenido_html: secHtml,
-            });
-          }
-        });
-
-        // Buscar coordenadas en recursos cacheados/fallback
-        const matchedResource = this.FALLBACK_RESOURCES.find((r) => r.codigo === codFicha);
-        if (matchedResource?.x && matchedResource?.y) {
-          detalle.x = matchedResource.x;
-          detalle.y = matchedResource.y;
-          detalle.google_maps_url = `https://www.google.com/maps?q=${matchedResource.y},${matchedResource.x}`;
-        } else {
-          const locQuery = `${detalle.nombre}, ${detalle.distrito ? detalle.distrito + ', ' : ''}${detalle.provincia ? detalle.provincia + ', ' : ''}${detalle.departamento ? detalle.departamento + ', ' : ''}Peru`;
-          detalle.google_maps_url = `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(locQuery)}`;
-        }
-
-        this.setInCache(cacheKey, detalle, 86400000);
-        return detalle;
-      } catch (error) {
-        if (error instanceof HttpException) {
-          throw error;
-        }
-        this.logger.warn(`Ficha ${codFicha} no disponible o no publicada: ${error.message}`);
-        throw new HttpException(`La ficha oficial N° ${codFicha} no existe en el inventario oficial.`, HttpStatus.NOT_FOUND);
-      } finally {
-        this.inFlightRequests.delete(cacheKey);
+        return parsed;
+      } catch (err) {
+        this.logger.error(`Error leyendo ficha ${codFicha}: ${err.message}`);
       }
-    })();
-
-    this.inFlightRequests.set(cacheKey, fetchPromise);
-    return fetchPromise;
-  }
-
-  // 5.1 Validar si una ficha está publicada online en el inventario oficial
-  async isFichaOnline(codFicha: number | string): Promise<boolean> {
-    const codNum = Number(codFicha);
-    if (!isNaN(codNum) && this.offlineCodesSet.has(codNum)) {
-      return false;
     }
 
-    const key = String(codFicha);
-    if (this.onlineFichasCache.has(key)) {
-      return this.onlineFichasCache.get(key) ?? false;
-    }
+    // 2. Si no tiene ficha HTML descargada pero existe en el catálogo maestro
+    const matchedRec = this.resourcesCache?.find((r) => r.codigo === codFicha);
+    if (matchedRec) {
+      const photoUrl = this.fichaToPhotoMap.get(codFicha) || null;
 
-    try {
-      const fichaUrl = `${this.FICHA_BASE_URL}/index.aspx?cod_Ficha=${codFicha}`;
-      const res = await this.http.get<string>(fichaUrl, {
-        timeout: 2500,
-        responseType: 'text',
-        maxRedirects: 0,
-        validateStatus: (status) => status === 200,
-        headers: {
-          'User-Agent':
-            'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-          Accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
-          Referer: `${this.FICHA_BASE_URL}/`,
+      const dpto = matchedRec.departamento || matchedRec.desdpto || 'Perú';
+      const prov = matchedRec.provincia || matchedRec.desprov || '';
+      const dist = matchedRec.distrito || matchedRec.desubigeo || '';
+
+      const lat = matchedRec.y ?? matchedRec.coordenadas?.latitud;
+      const lon = matchedRec.x ?? matchedRec.coordenadas?.longitud;
+
+      return {
+        cod_ficha: codFicha,
+        url_ficha: matchedRec.url_ficha || `https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=${codFicha}`,
+        nombre: matchedRec.nombre,
+        departamento: dpto,
+        provincia: prov,
+        distrito: dist,
+        categoria: matchedRec.categoria || 'Recurso Turístico',
+        tipo: matchedRec.tipo_categoria || '',
+        subtipo: matchedRec.subtipo_categoria || '',
+        jerarquia: matchedRec.jerarquia || matchedRec.desjerarquia || 'En evaluación',
+        altitud: '',
+        x: lon,
+        y: lat,
+        coordenadas: {
+          latitud: lat,
+          longitud: lon,
         },
-      });
-
-      const isOnline = Boolean(res.data && res.data.length > 500 && !res.data.includes('Object moved'));
-      this.onlineFichasCache.set(key, isOnline);
-      return isOnline;
-    } catch {
-      this.onlineFichasCache.set(key, false);
-      return false;
+        google_maps_url: lat && lon ? `https://www.google.com/maps?q=${lat},${lon}` : `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(`${matchedRec.nombre}, ${dpto} Peru`)}`,
+        foto_principal: photoUrl,
+        galeria_fotos: photoUrl ? [photoUrl] : [],
+        actividades_permitidas: [],
+        actividades_detalle: [],
+        rutas_acceso: [],
+        epoca_propicia: [],
+        descripcion: `Atractivo turístico registrado en el Inventario Nacional de Recursos Turísticos del Perú. Ubicado en el departamento de ${dpto}${prov ? `, provincia de ${prov}` : ''}${dist ? `, distrito de ${dist}` : ''}. Categoría: ${matchedRec.categoria || 'Turismo Nacional'}${matchedRec.tipo_categoria ? ` > ${matchedRec.tipo_categoria}` : ''}${matchedRec.subtipo_categoria ? ` > ${matchedRec.subtipo_categoria}` : ''}.`,
+        secciones: [],
+      };
     }
+
+    throw new HttpException(
+      `La ficha oficial N° ${codFicha} no existe en la base de datos nacional.`,
+      HttpStatus.NOT_FOUND,
+    );
   }
 
-  // 6. Resolver ID de foto real a partir del HTML de la ficha
-  async resolveFichaPhotoId(codFicha: number | string): Promise<string | null> {
-    const codNum = Number(codFicha);
-    if (!isNaN(codNum) && this.offlineCodesSet.has(codNum)) {
-      return null;
+  // 7. Redirección directa a la URL oficial de fotos con resolución exacta de ID de foto
+  getPhotoUrl(cod: string): string {
+    const codNum = Number(cod);
+    if (codNum && this.fichaToPhotoMap.has(codNum)) {
+      return this.fichaToPhotoMap.get(codNum)!;
     }
-
-    const key = String(codFicha);
-    if (this.fichaToPhotoMap.has(key)) {
-      return this.fichaToPhotoMap.get(key) || null;
-    }
-
-    try {
-      const fichaUrl = `${this.FICHA_BASE_URL}/index.aspx?cod_Ficha=${codFicha}`;
-      const res = await this.http.get<string>(fichaUrl, {
-        timeout: 3000,
-        responseType: 'text',
-        maxRedirects: 0,
-        validateStatus: (status) => status === 200,
-        headers: {
-          'User-Agent':
-            'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-          Accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
-          Referer: `${this.FICHA_BASE_URL}/`,
-        },
-      });
-      const html = res.data;
-      if (!html || html.length < 500 || html.includes('Object moved')) {
-        this.onlineFichasCache.set(key, false);
-        return null;
-      }
-      this.onlineFichasCache.set(key, true);
-
-      const $ = cheerio.load(html);
-      let photoId: string | null = null;
-
-      // 1. Extraer de la foto principal del encabezado (.img-section)
-      $('.img-section a, .img-section img').each((_, el) => {
-        const src = $(el).attr('href') || $(el).attr('src') || '';
-        const match = src.match(/foto\.aspx\?cod=(\d+)/);
-        if (match && match[1] && match[1] !== key) {
-          photoId = match[1];
-          return false; // break
-        }
-      });
-
-      // 2. Si no, buscar en la galería del accordion o lightbox
-      if (!photoId) {
-        $('#accordionContent a, #accordionContent img, a[data-lightbox], img[src*="foto.aspx"]').each((_, el) => {
-          const src = $(el).attr('href') || $(el).attr('src') || '';
-          const match = src.match(/foto\.aspx\?cod=(\d+)/);
-          if (match && match[1] && match[1] !== key) {
-            photoId = match[1];
-            return false; // break
-          }
-        });
-      }
-
-      // 3. Si aún no, cualquier ocurrencia de foto.aspx?cod=(\d+)
-      if (!photoId) {
-        const allMatches = html.match(/foto\.aspx\?cod=(\d+)/g);
-        if (allMatches) {
-          for (const m of allMatches) {
-            const idM = m.match(/cod=(\d+)/);
-            if (idM && idM[1] && idM[1] !== key) {
-              photoId = idM[1];
-              break;
-            }
-          }
-        }
-      }
-
-      if (photoId) {
-        this.fichaToPhotoMap.set(key, photoId);
-        return photoId;
-      }
-    } catch (err) {
-      // Ignorar timeout o 302 silenciosamente
-    }
-
-    return null;
-  }
-
-  // 7. Proxy Inteligente de Fotos: Resuelve automáticamente el ID de foto real si la ficha usa ID diferente
-  async getPhotoStream(cod: string): Promise<{ stream: any; contentType: string }> {
-    let targetPhotoId = this.fichaToPhotoMap.get(String(cod)) || String(cod);
-
-    // Si el código no está mapeado y es posible que sea un código de ficha (ej: < 100000)
-    if (!this.fichaToPhotoMap.has(String(cod)) && Number(cod) < 100000) {
-      const resolved = await this.resolveFichaPhotoId(cod);
-      if (resolved) {
-        targetPhotoId = resolved;
-      }
-    }
-
-    // Intento 1: Descargar imagen por ID de foto
-    try {
-      const url = `${this.FICHA_BASE_URL}/foto.aspx?cod=${targetPhotoId}`;
-      const response = await this.http.get(url, {
-        responseType: 'stream',
-        timeout: 5000,
-        validateStatus: (status) => status < 400,
-      });
-
-      const contentType = String(response.headers['content-type'] || '');
-      if (contentType.includes('image')) {
-        return {
-          stream: response.data,
-          contentType: contentType || 'image/jpeg',
-        };
-      }
-    } catch (err) {
-      // Si falló, intentar re-resolver
-    }
-
-    // Intento 2: Si targetPhotoId no funcionó, forzar resolución desde la ficha
-    try {
-      const resolved = await this.resolveFichaPhotoId(cod);
-      if (resolved && resolved !== targetPhotoId) {
-        const retryUrl = `${this.FICHA_BASE_URL}/foto.aspx?cod=${resolved}`;
-        const retryRes = await this.http.get(retryUrl, {
-          responseType: 'stream',
-          timeout: 5000,
-        });
-
-        return {
-          stream: retryRes.data,
-          contentType: String(retryRes.headers['content-type'] || 'image/jpeg'),
-        };
-      }
-    } catch (err) {
-      this.logger.warn(`No se pudo descargar foto para código ${cod}: ${err.message}`);
-    }
-
-    throw new HttpException('Imagen no encontrada', HttpStatus.NOT_FOUND);
+    return `https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=${cod}`;
   }
 }

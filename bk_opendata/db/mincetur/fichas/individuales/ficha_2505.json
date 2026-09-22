@@ -1,0 +1,312 @@
+{
+  "cod_ficha": 2505,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=2505",
+  "nombre": "Catarata Santa Rosa",
+  "departamento": "Ucayali",
+  "provincia": "Padre Abad",
+  "distrito": "PADRE ABAD",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "j. Caídas de agua",
+  "subtipo": "Cataratas",
+  "jerarquia": "1",
+  "altitud": "1023",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=631410",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=631410",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=631411",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=631454",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=631501",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=631502",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=634236",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=634237",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=634325",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=634238",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=634239",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=634240",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=634327",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=634328"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de aves"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "Moena, Bushilla, Tangarana, Orquídeas, Lupuna, Sangre de grado, Tornillo, Cedro entre otros",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de aves",
+      "observacion": "Tangaras, tucanes, colibríes, oropéndolas águila arpía, entre otros.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/aves02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Ucayali/Padre Abad/Boqueron - Ucayali/Padre Abad/Boqueron",
+      "detalle": "Plaza de la ciudad de Aguaytía al recurso",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "40 km. 50 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Ucayali/Padre Abad/Boqueron - Ucayali/Padre Abad/Boqueron",
+      "detalle": "Plaza de la ciudad de Aguaytía al recurso",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Taxi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "40 km. 1 hora"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Ucayali/Padre Abad/Boqueron - Ucayali/Padre Abad/Boqueron",
+      "detalle": "Plaza del caserio Santa Rosa al recurso",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "1 km. 15 min."
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "403",
+      "horario": "Registro de Visitantes emitido por la Agencia de viajes y turismo Eco turismo Aguaytia",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "780",
+      "horario": "Registro de visitantes emitido por la Agencia de Turismo Ecológico de Aguaytia",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "64",
+      "horario": "Formulario de registro en el sistema de reservas de la agencia operadora",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Esporádicamente - Algunos meses",
+      "especificacion": "--",
+      "horario": "06:00 a.m. - 05:30 p.m. Lunes a domingo",
+      "observaciones": "Lunes a domingo"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "señaletica turística"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Aguaytía"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Ciudad de Aguaytía"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Ciudad de Aguaytía"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "Ciudad de Aguaytía"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Aguaytía"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Aguaytía - No Categorizados"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Aguaytía"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Ciudad de Aguaytía"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Aguaytía"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Ciudad de Aguaytía"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Aguaytía"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Ciudad de Aguaytía"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "Ciudad de Aguaytía"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "Ciudad de Aguaytía"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Puesto de auxilio rápido",
+      "observacion": "Ciudad de Aguaytía"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Ciudad de Aguaytía"
+    }
+  ],
+  "descripcion": "Se encuentra ubicada en el caserío de Santa Rosa, distrito de Boquerón, provincia de Padre Abad, región Ucayali, en la región natural Selva Alta, a una altitud de 1023 m.s.n. m. Para llegar a la catarata principal, se realiza una caminata de 15 minutos, desde el estacionamiento de vehículos (zona de ingreso), por un sendero de concreto en buenas condiciones; durante el trayecto se encuentran zonas de descanso, se puede apreciar un bosque premontano, flora y fauna propia de selva alta. La formación de la catarata proviene desde la parte alta de las montañas, en la cual hace su desfogue, formando desde una montaña que es salpicada por sus aguas; se divisan permanentemente al borde, rodeada por una vegetación tupida, entre las que destacan especies arbóreas. Es un espectáculo natural que envuelve a la montaña en una mística cortina de agua, que discurren desde las cimas de las montañas. La catarata está formada por una caída de agua de unos 150 metros de altura, que desemboca en una poza natural de 30 m² y de 1.30 metros de profundidad máxima. El entorno está rodeado de variedades de árboles y rocas de varios tamaños, junto a vegetación abundante y el sonido constante del agua, creando un paisaje único. La biodiversidad de la zona es representativa de la selva alta. Posteriormente, da origen a un riachuelo sinuoso, llegando a otra poza natural de 15 m². Asimismo, la corriente de agua continúa y llega a la parte baja, discurriendo a 4 pozas creadas para el disfrute de los visitantes; posteriormente, las aguas desembocan en el río Yuracyacu. Debido a la majestuosidad de su paisaje y especies alrededor, este recurso es propicio para la observación de flora y fauna silvestre; así mismo, la práctica del nado es el principal motivo para su visita. El recurso cuenta con 2 puentes de estructura de madera frente a la catarata para el tránsito de las personas; además, permite tener una mejor visión panorámica de la catarata y el aprovechamiento para las fotografías o selfies. En el recurso turístico encuentra espacios acondicionados para el descanso provisto de bancas, barandas metálicas, señalización turística, un patio de comida, además de venta de artesanías; el lugar es idóneo para disfrutar con la familia y amigos.",
+  "particularidades": "",
+  "estado_actual": "Bueno, se ha mejorado en la infraestructura turística.",
+  "observaciones": "Km. 200 de la Carretera Federico Basadre, caserío Santa Rosa, poblado de 250 habitantes inmigrantes colonos de procedencia andina reciente en su mayoría de los departamentos de Huánuco, Pasco y Junín, dedicados a la agricultura y comercialización de frutales, té, palma aceitera, algodón, plátano, papaya y café.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Se encuentra ubicada en el caserío de Santa Rosa, distrito de Boquerón, provincia de Padre Abad, región Ucayali, en la región natural Selva Alta, a una altitud de 1023 m.s.n. m. Para llegar a la catarata principal, se realiza una caminata de 15 minutos, desde el estacionamiento de vehículos (zona de ingreso), por un sendero de concreto en buenas condiciones; durante el trayecto se encuentran zonas de descanso, se puede apreciar un bosque premontano, flora y fauna propia de selva alta. La formación de la catarata proviene desde la parte alta de las montañas, en la cual hace su desfogue, formando desde una montaña que es salpicada por sus aguas; se divisan permanentemente al borde, rodeada por una vegetación tupida, entre las que destacan especies arbóreas. Es un espectáculo natural que envuelve a la montaña en una mística cortina de agua, que discurren desde las cimas de las montañas. La catarata está formada por una caída de agua de unos 150 metros de altura, que desemboca en una poza natural de 30 m² y de 1.30 metros de profundidad máxima. El entorno está rodeado de variedades de árboles y rocas de varios tamaños, junto a vegetación abundante y el sonido constante del agua, creando un paisaje único. La biodiversidad de la zona es representativa de la selva alta. Posteriormente, da origen a un riachuelo sinuoso, llegando a otra poza natural de 15 m². Asimismo, la corriente de agua continúa y llega a la parte baja, discurriendo a 4 pozas creadas para el disfrute de los visitantes; posteriormente, las aguas desembocan en el río Yuracyacu. Debido a la majestuosidad de su paisaje y especies alrededor, este recurso es propicio para la observación de flora y fauna silvestre; así mismo, la práctica del nado es el principal motivo para su visita. El recurso cuenta con 2 puentes de estructura de madera frente a la catarata para el tránsito de las personas; además, permite tener una mejor visión panorámica de la catarata y el aprovechamiento para las fotografías o selfies. En el recurso turístico encuentra espacios acondicionados para el descanso provisto de bancas, barandas metálicas, señalización turística, un patio de comida, además de venta de artesanías; el lugar es idóneo para disfrutar con la familia y amigos."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, se ha mejorado en la infraestructura turística."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "Km. 200 de la Carretera Federico Basadre, caserío Santa Rosa, poblado de 250 habitantes inmigrantes colonos de procedencia andina reciente en su mayoría de los departamentos de Huánuco, Pasco y Junín, dedicados a la agricultura y comercialización de frutales, té, palma aceitera, algodón, plátano, papaya y café."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nVisitantes Locales(Excursionistas)\n403\nRegistro de Visitantes emitido por la Agencia de viajes y turismo Eco turismo Aguaytia\n2024\nFicha de registro en el sistema de reserva de la agencia operadora\nTuristas Nacionales\n780\nRegistro de visitantes emitido por la Agencia de Turismo Ecológico de Aguaytia\n2024\nFormulario de registro en el sistema de reservas de la agencia operadora\nTuristas Extranjeros\n64\nFormulario de registro en el sistema de reservas de la agencia operadora\n2024\nRegistro de visitantes emitido por la Agencia de Turismo Ecológico de Aguaytia"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nUcayali/Padre Abad/Boqueron\n-\nUcayali/Padre Abad/Boqueron\nPlaza de la ciudad de Aguaytía al recurso\nTerrestre\nAutomóvil particular\nAsfaltado\n40 km. 50 minutos\n1\nUcayali/Padre Abad/Boqueron\n-\nUcayali/Padre Abad/Boqueron\nPlaza de la ciudad de Aguaytía al recurso\nTerrestre\nTaxi\nAsfaltado\n40 km. 1 hora\n2\nUcayali/Padre Abad/Boqueron\n-\nUcayali/Padre Abad/Boqueron\nPlaza del caserio Santa Rosa al recurso\nTerrestre\nA pie\nAfirmado\n1 km. 15 min."
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nEsporádicamente - Algunos meses\n--\n06:00 a.m.\n-\n05:30 p.m.\nLunes a domingo"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nNaturaleza\nObservación de flora\nMoena, Bushilla, Tangarana, Orquídeas, Lupuna, Sangre de grado, Tornillo, Cedro entre otros\nNaturaleza\nObservación de aves\nTangaras, tucanes, colibríes, oropéndolas águila arpía, entre otros."
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Públicas\nServicios Públicos\nSeñales turísticas de orientación\nseñaletica turística"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nLugares de Recreación\nDiscotecas\nCiudad de Aguaytía\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nCiudad de Aguaytía\nLugares de Recreación\nCentros Deportivos\nCiudad de Aguaytía\nLugares de Recreación\nKaraoke\nCiudad de Aguaytía\nLugares de Recreación\nBares\nCiudad de Aguaytía\nAlimentación\nRestaurantes\nCiudad de Aguaytía - No Categorizados\nAlimentación\nCafeterías\nCiudad de Aguaytía\nAlimentación\nFuentes de soda\nCiudad de Aguaytía\nAlimentación\nKioskos de comida y bebidas\nCiudad de Aguaytía\nAlimentación\nVenta de comida Rápida\nCiudad de Aguaytía\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Aguaytía\nServicios Públicos\nEstacionamiento de vehículos\nCiudad de Aguaytía\nServicios Públicos\nSeñales turísticas de orientación\nCiudad de Aguaytía\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\nCiudad de Aguaytía\nServicios Públicos\nPuesto de auxilio rápido\nCiudad de Aguaytía\nServicios Públicos\nOficina de Información turística\nCiudad de Aguaytía"
+    },
+    {
+      "titulo": "Servicios Complementarios dentro del recurso",
+      "contenido": "Servicio Complementario\nObservación\nOtros(especificar)\nPatio de comida"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Aguaytia\nBancos\nEn la ciudad de Aguaytia. BCP, B. de la Nación\nCajero automático\nCiudad de Aguaytia\nCasa de cambio\nCiudad de Aguaytia\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Aguaytia\nServicio de estacionamiento\nCiudad de Aguaytia\nServicios de taxis\nCiudad de Aguaytia\nCentro de salud - tópico\nCiudad de Aguaytia\nVenta de materiales para fotografías\nCiudad de Aguaytia\nSeguridad / POLTUR / Comisaría\nCiudad de Aguaytia\nAlquiler y compra de equipos deportivos\nCiudad de Aguaytia\nLibrerías\nCiudad de Aguaytia\nBodegas o minimarkets\nCiudad de Aguaytia"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nLuz (Suministro Eléctrico)\nCiudad de Aguaytía\nAgua potable\nCiudad de Aguaytía\nTeléfono\nCiudad de Aguaytía\nSeñalización turística\nCiudad de Aguaytía\nEnergía Alternativa\nCiudad de Aguaytía\nSistemas de tratamiento alternativo de residuos (Biodigestor, pozo séptico, otros)\nCiudad de Aguaytía\nAlcantarillado pluvial\nCiudad de Aguaytía"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nGobierno Regional de Ucayali\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nN° Partida Registral 11177116\nAdministrador por\nNombre\nGobierno Regional de Ucayali\nTiempo de administración\nDesde el año 2021"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo de Ucayali.\nNombre (Persona(s) responsable(s) del inventario turístico):\nCarmen Roca Borges\nCargo:\nEspecialista en Turismo\nCorreo:\nkarminy@hotmail.com\nTeléfono:\n957253776\nFuentes Bibliográfica:\n1.Potencial y promoción ecoturística del distrito de Padre Abad.Sun Rodriguez, Ana Gabriela. Año 2021.\n2.El ecoturismo como una influencia positiva en el desarrollo turístico; caso: distrito de Padre Abad.Pallini, L. & Quispe, M.Instituto de Investigaciones de la Amazonía Peruana (IIAP) / Gobierno Regional de Ucayali. Año 2011.\n3.Boquerón: Obra turística de la imponente Catarata Santa Rosa presenta más del 80 % de avance en su ejecución. Año 2025.\n4.Descubre la majestuosidad de la catarata Santa Rosa en Padre Abad. Inforegión (Agencia de Prensa Ambiental). Año 2024.\n5.Conoce la catarata Santa Rosa, la nueva joya turística de la región Ucayali. Andina - Agencia Peruana de Noticias. 2025\n6.Estudios de Zonificación Económica, Ecológica de la Cuenca del Rio Aguaytía. Instituto de Investigaciones de la Amazonía Peruana. Año 2002\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n\"El proyecto: Creación de los Servicios Turísticos Públicos en la Catarata Santa Rosa del Distrito de Padre Abad - Provincia de Padre Abad - Región Ucayali\". Cuenta con un avance físico del 85%\nFecha:\n27/11/2025 16:28:34"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -8.83826,
+    "longitud": -75.28399999999999
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-8.83826,-75.28399999999999"
+}

@@ -1,0 +1,317 @@
+{
+  "cod_ficha": 5369,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=5369",
+  "nombre": "Algarrobo Rey",
+  "departamento": "Piura",
+  "provincia": "Piura",
+  "distrito": "TAMBO GRANDE",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "ñ. Zonas paisajísticas",
+  "subtipo": "Lugares pintorescos de flora y fauna",
+  "jerarquia": "2",
+  "altitud": "1600 m.s.n.m",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=298542",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=298542",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=415907",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=415908",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=415862",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=547076",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=547037",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=547077",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=547038"
+  ],
+  "actividades_permitidas": [
+    "Paseos - Excursiones",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de paisaje",
+    "Naturaleza - Observación de aves",
+    "Deportes / Aventura - Caminata/Trekking"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Paseos",
+      "tipo": "Excursiones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/excursiones02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "Algarrobo, El Faique, Overo, Palo Verde, Zapote.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de aves",
+      "observacion": "Paloma o Cuculí, Gallinazo, Huerequeque, Chilalo.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/aves02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Piura/Piura/Piura - Piura/Piura/Tambo Grande",
+      "detalle": "Paradero de minivans a Tambogrande (Mercado Modelo de Piura) – Terminal Terrestre Godofredo García Baca Tambogrande",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "60 KM/ 60 Minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Piura/Piura/Tambo Grande - Piura/Piura/Tambo Grande",
+      "detalle": "Terminal Terrestre Godofredo García Baca Tambogrande – Paradero de mototaxi hacia el recurso turístico (Caserío de Carrizalillo)",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mototaxi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "11 KM/ 30 minutos"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "2970",
+      "horario": "Conteo Muestral 2024",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "4950",
+      "horario": "Conteo Muestral 2024",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "08:00 a.m. - 04:00 p.m. Se recomienda llevar, bloqueador solar, repelente para mosquitos, gorro, sombrero, mucha agua, bolsa para la basura, fruta, comida no muy pesada.",
+      "observaciones": "Se recomienda llevar, bloqueador solar, repelente para mosquitos, gorro, sombrero, mucha agua, bolsa para la basura, fruta, comida no muy pesada."
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": "Es necesario tener en cuenta las épocas de lluvias, sobre todo entre los meses de enero y abril."
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "regular estado."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Localidad de Tambogrande."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Localidad de Tambogrande."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Localidad de Tambogrande."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Localidad de Tambogrande."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "Localidad de Tambogrande."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Localidad de Tambogrande."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "Localidad de Tambogrande."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Puesto de auxilio rápido",
+      "observacion": "Localidad de Tambogrande."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Localidad de Tambogrande."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Peñas",
+      "observacion": "Localidad de Tambogrande."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Localidad de Tambogrande."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Localidad de Tambogrande."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Localidad de Tambogrande."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Localidad de Tambogrande."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Localidad de Tambogrande."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Localidad de Tambogrande."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "(Bungalows) – Localidad de Tambogrande"
+    }
+  ],
+  "descripcion": "El “Algarrobo Rey” se ubica en el caserío de Carrizalillo, en el centro poblado de Tejedores, a 11 kilómetros de Cruceta, a 30 minutos de la localidad de Tambogrande. El Algarrobo Rey se encuentra en un lugar pintoresco con un paisaje circundante en el que podemos observar flora y fauna; como la paloma o cuculí, el gallinazo, el huerequeque, el chilalo, entre otros. Entre la flora existente tenemos al algarrobo, el faique, el overo, el palo verde, el zapote, el pájaro bobo, el cun-cun, etc. Posee un clima cálido y es cuidado por los habitantes de la zona, quienes lo consideran una obra de la naturaleza. La municipalidad distrital, en conjunto con los pobladores del caserío, ha habilitado un espacio amplio, en el que se han implementado mesas, juegos y un lugar de cocina artesanal para que los visitantes y turistas que llegan a conocer este árbol longevo puedan pasar un bonito día en convivencia con la naturaleza.\nEste ejemplar de algarrobo (Prosopis padilla) se encuentra ubicado en la Región Costa o Chala, este majestuoso algarrobo es considerado el más longevo de la región, con una edad aproximada de 600 años. Tiene un grosor de 8,40 metros de diámetro y una altura aproximada de 30 metros, necesitando a 12 personas para poder abrazar este ejemplar. Considerado como el Rey de los Algarrobos, este árbol constituye un emblema de la flora del lugar, por lo que es cuidado por los pobladores de la zona que lo consideran una obra de arte de la naturaleza. Este árbol resiste el verano más extremo y soporta sequías, ya que en épocas de lluvias alimenta sus extensas raíces, volviéndose al mismo tiempo más frondoso y mágico. (Ministerio de Comercio Exterior y Turismo, 2024).",
+  "particularidades": "El Algarrobo Rey, es considerado el árbol más longevo de la región, estimado en 600 años de antigüedad, debido a esta distinción se convierte en el primer árbol Monumental Natural de la Región Piura. declarado mediante la Ordenanza Municipal N.º 11 del 2016 de la Municipalidad Distrital de Tambogrande.",
+  "estado_actual": "Se encuentra en un estado de conservación bueno. El mantenimiento de este recurso, considerado como una zona paisajística, se encuentra en estado de conservación bueno porque el gobierno local viene trabajando y realizando una combinación de estrategias de gestión ambiental, educación comunitaria y regulación del turismo dentro de la zona.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "El “Algarrobo Rey” se ubica en el caserío de Carrizalillo, en el centro poblado de Tejedores, a 11 kilómetros de Cruceta, a 30 minutos de la localidad de Tambogrande. El Algarrobo Rey se encuentra en un lugar pintoresco con un paisaje circundante en el que podemos observar flora y fauna; como la paloma o cuculí, el gallinazo, el huerequeque, el chilalo, entre otros. Entre la flora existente tenemos al algarrobo, el faique, el overo, el palo verde, el zapote, el pájaro bobo, el cun-cun, etc. Posee un clima cálido y es cuidado por los habitantes de la zona, quienes lo consideran una obra de la naturaleza. La municipalidad distrital, en conjunto con los pobladores del caserío, ha habilitado un espacio amplio, en el que se han implementado mesas, juegos y un lugar de cocina artesanal para que los visitantes y turistas que llegan a conocer este árbol longevo puedan pasar un bonito día en convivencia con la naturaleza.\nEste ejemplar de algarrobo (Prosopis padilla) se encuentra ubicado en la Región Costa o Chala, este majestuoso algarrobo es considerado el más longevo de la región, con una edad aproximada de 600 años. Tiene un grosor de 8,40 metros de diámetro y una altura aproximada de 30 metros, necesitando a 12 personas para poder abrazar este ejemplar. Considerado como el Rey de los Algarrobos, este árbol constituye un emblema de la flora del lugar, por lo que es cuidado por los pobladores de la zona que lo consideran una obra de arte de la naturaleza. Este árbol resiste el verano más extremo y soporta sequías, ya que en épocas de lluvias alimenta sus extensas raíces, volviéndose al mismo tiempo más frondoso y mágico. (Ministerio de Comercio Exterior y Turismo, 2024)."
+    },
+    {
+      "titulo": "Particularidades",
+      "contenido": "El Algarrobo Rey, es considerado el árbol más longevo de la región, estimado en 600 años de antigüedad, debido a esta distinción se convierte en el primer árbol Monumental Natural de la Región Piura. declarado mediante la Ordenanza Municipal N.º 11 del 2016 de la Municipalidad Distrital de Tambogrande."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "Mediante la Ordenanza Municipal N.º 11 del 2016 de la Municipalidad Distrital de Tambogrande, declara al “Algarrobo Rey” como Patrimonio Natural de Interés Distrital. y mediante Acuerdo N° 072- 2003/GOB.REG. PIURA- CR\nDeclarar patrimonio regional de la región Piura, la especie de algarrobo (prosopis pallida)"
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Se encuentra en un estado de conservación bueno. El mantenimiento de este recurso, considerado como una zona paisajística, se encuentra en estado de conservación bueno porque el gobierno local viene trabajando y realizando una combinación de estrategias de gestión ambiental, educación comunitaria y regulación del turismo dentro de la zona."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nVisitantes Locales(Excursionistas)\n2970\nConteo Muestral 2024\n2024\nFicha de Conteo muestral - Abril del 2024\nTuristas Nacionales\n4950\nConteo Muestral 2024\n2024\nFicha de Conteo muestral - Abril del 2024"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nPiura/Piura/Piura\n-\nPiura/Piura/Tambo Grande\nParadero de minivans a Tambogrande (Mercado Modelo de Piura) – Terminal Terrestre Godofredo García Baca Tambogrande\nTerrestre\nBus público\nAsfaltado\n60 KM/ 60 Minutos\n1\nPiura/Piura/Tambo Grande\n-\nPiura/Piura/Tambo Grande\nTerminal Terrestre Godofredo García Baca Tambogrande – Paradero de mototaxi hacia el recurso turístico (Caserío de Carrizalillo)\nTerrestre\nMototaxi\nAsfaltado\n11 KM/ 30 minutos"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre\nEs necesario tener en cuenta las épocas de lluvias, sobre todo entre los meses de enero y abril."
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n08:00 a.m.\n-\n04:00 p.m.\nSe recomienda llevar, bloqueador solar, repelente para mosquitos, gorro, sombrero, mucha agua, bolsa para la basura, fruta, comida no muy pesada."
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nPaseos\nExcursiones\n--\nNaturaleza\nObservación de flora\nAlgarrobo, El Faique, Overo, Palo Verde, Zapote.\nNaturaleza\nObservación de paisaje\n--\nNaturaleza\nObservación de aves\nPaloma o Cuculí, Gallinazo, Huerequeque, Chilalo.\nDeportes / Aventura\nCaminata/Trekking\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Públicas\nServicios Públicos\nSeñales turísticas de orientación\nregular estado."
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlimentación\nRestaurantes\nLocalidad de Tambogrande.\nAlimentación\nKioskos de comida y bebidas\nLocalidad de Tambogrande.\nLugares de Recreación\nDiscotecas\nLocalidad de Tambogrande.\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nLocalidad de Tambogrande.\nServicios Públicos\nMiradores turísticos\nLocalidad de Tambogrande.\nServicios Públicos\nEstacionamiento de vehículos\nLocalidad de Tambogrande.\nServicios Públicos\nSeñales turísticas de orientación\nLocalidad de Tambogrande.\nServicios Públicos\nPuesto de auxilio rápido\nLocalidad de Tambogrande.\nServicios Públicos\nOficina de Información turística\nLocalidad de Tambogrande.\nLugares de Recreación\nPeñas\nLocalidad de Tambogrande.\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nLocalidad de Tambogrande.\nLugares de Recreación\nBares\nLocalidad de Tambogrande.\nLugares de Recreación\nCentros Deportivos\nLocalidad de Tambogrande.\nLugares de Recreación\nJuegos Infantiles\nLocalidad de Tambogrande.\nOtros Servicios Turísticos\nVenta de artesanía\nLocalidad de Tambogrande.\nAlimentación\nCafeterías\nLocalidad de Tambogrande.\nAlojamiento\nOtros (Especificar)\n(Bungalows) – Localidad de Tambogrande"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nLocalidad de Tambogrande.\nBancos\nLocalidad de Tambogrande.\nCajero automático\nLocalidad de Tambogrande.\nEstación de servicios, grifos, gasolineras y gasocentros\nLocalidad de Tambogrande.\nSeguridad / POLTUR / Comisaría\nLocalidad de Tambogrande.\nBodegas o minimarkets\nLocalidad de Tambogrande.\nLibrerías\nLocalidad de Tambogrande.\nVenta de materiales para fotografías\nLocalidad de Tambogrande.\nAlquiler y compra de equipos deportivos\nLocalidad de Tambogrande."
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nSeñalización turística\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nLocalidad de Tambogrande.\nAlcantarillado sanitario\nLocalidad de Tambogrande.\nLuz (Suministro Eléctrico)\nLocalidad de Tambogrande.\nTeléfono\nLocalidad de Tambogrande.\nSeñalización turística\nLocalidad de Tambogrande."
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nServicio Nacional Forestal y de Fauna Silvestre (SERFOR) / Comunidad de Carrizalillo.\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nN°5143318\nNúmero de Partida:\n04129075-OP\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nMunicipalidad Distrital de Tambo Grande - Comunidad de Carrizalillo\nTiempo de administración\nDesde el 2007"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDIRECCIÓN DE COMERCIO EXTERIOR Y TURISMO - PIURA\nNombre (Persona(s) responsable(s) del inventario turístico):\nRichard Hercelles Neira Colmenares\nCargo:\nDirector Regional de la Dirección de Turismo.\nCorreo:\nrneira@regionpiura.gob.pe\nTeléfono:\n984448829\nFuentes Bibliográfica:\nHTTP://RPP.PE/PERU/PIURA/PIURA-REALIZAN-HOMENAJE-A-ALGARROBO-MAS-LONGEVO-DE-LA-REGION-DE-PIURA-NOTICIA-960317\n- http://tambogrande2016.blogspot.com/2016/08/este-es-nuestro-arbol-rey.html\n- https://www.cutivalu.pe/algarrobo-rey-primer-arbol-monumental-natural-de-la-region/\n- http://es.distancias.himmera.com/distancia_de-piura_a_tambogrande_entre_mapa_carretera-87415.html\n- https://www.serfor.gob.pe/portal/noticias/negocios-sostenibles/municipalidad-de-tambogrande-reconoce-el-trabajo-del-serfor-en-homenaje-por-el-algarrobo-rey\n- https://www.bancos-peru.com/tambo-grande\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n1/12/2024 17:30:12"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -4.7812,
+    "longitud": -80.16029800000001
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-4.7812,-80.16029800000001"
+}

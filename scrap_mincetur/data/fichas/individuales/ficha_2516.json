@@ -1,0 +1,305 @@
+{
+  "cod_ficha": 2516,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=2516",
+  "nombre": "Playa Salaverry",
+  "departamento": "La Libertad",
+  "provincia": "Trujillo",
+  "distrito": "SALAVERRY",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "l. Costas",
+  "subtipo": "Playas",
+  "jerarquia": "2",
+  "altitud": "3m.s.n.m.",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=464576",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=464576",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=626162",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=626163",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=626164",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=626245"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Realización de eventos",
+    "Deportes acuáticos - Natación",
+    "Naturaleza - Observación de paisaje",
+    "Cultura y Folclore - Visita y participación en actividades de vida cotidiana de la comunidad"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Realización de eventos",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/eventos02.png"
+    },
+    {
+      "actividad": "Deportes acuáticos",
+      "tipo": "Natación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/natacion02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Visita y participación en actividades de vida cotidiana de la comunidad",
+      "observacion": "--",
+      "icono_url": null
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "La Libertad/Trujillo/Trujillo - La Libertad/Trujillo/Salaverry",
+      "detalle": "Plaza de Armas de Trujillo – Plaza de Armas de Salaverry",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "14,6 Km/ 30 min"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "La Libertad/Trujillo/Salaverry - La Libertad/Trujillo/Salaverry",
+      "detalle": "Plaza de Armas de Salaverry - Playa Salaverry",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "330 mt / 6 min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "90",
+      "horario": "INRT Conteo muestral",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "1800",
+      "horario": "INRT Conteo muestral",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "3510",
+      "horario": "INRT Conteo muestral",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "06:00 a.m. - 08:00 p.m. Se recomienda visitar en el horario indicado, sin embargo el turista y/o visitante puede visitar el recurso a la hora que lo deseé.",
+      "observaciones": "Se recomienda visitar en el horario indicado, sin embargo el turista y/o visitante puede visitar el recurso a la hora que lo deseé."
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Embarcaderos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Pueblo Salaverry Tradicional"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Pueblo Salaverry Tradicional"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "3* Pueblo Salaverry Tradicional"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "3* Pueblo Salaverry Tradicional"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Pueblo Salaverry Tradicional"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Pueblo Salaverry Tradicional"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Pueblo Salaverry Tradicional"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Pueblo Salaverry Tradicional"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Pueblo Salaverry Tradicional"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Pueblo Salaverry Tradicional"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Pueblo Salaverry Tradicional"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Pueblo de Salaverry"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Pueblo Salaverry Tradicional"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "Pueblo Salaverry Tradicional"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "Pueblo Salaverry Tradicional"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Puesto de auxilio rápido",
+      "observacion": "Pueblo Salaverry Tradicional"
+    }
+  ],
+  "descripcion": "Ubicada en el distrito de Salaverry, provincia de Trujillo, en la región La Libertad, la Playa Salaverry se encuentra dentro de la región natural Chala o Costa, caracterizada por su relieve bajo, clima árido y su proximidad al océano Pacífico. Esta zona cumple un importante rol tanto en la economía local como en el desarrollo turístico.\nLa playa posee una extensión aproximada de 3 kilómetros. Su morfología destaca por presentar dos zonas visibles próximas al área urbana del distrito, con orillas de suave pendiente y arena fina, formando una figura en “J” debido a la presencia del muelle y un rompeolas construido en el extremo opuesto. Esta configuración favorece que las aguas sean en su mayoría tranquilas y aptas para diversas actividades recreativas.\nEn cuanto al clima, la playa goza de buenas condiciones durante la mayor parte del año. Las temperaturas máximas oscilan entre los 20 °C y 30 °C, mientras que las mínimas se sitúan entre los 15 °C y 20 °C, siendo los meses más cálidos entre diciembre y marzo. La constante brisa marina aporta frescura al ambiente, convirtiéndose en un lugar propicio para el descanso y la recreación.\nLa vida silvestre circundante es abundante. La zona es hábitat de diversas aves marinas, como gaviotas, pelícanos y pardelas, y cuenta con una rica vida acuática, incluyendo especies como la corvina, tollo, chita, tramboyo, lorna y lenguado. Esta biodiversidad convierte a la playa en un escenario ideal para fotografía de naturaleza y pesca artesanal.\nAdemás, en Playa Salaverry se puede experimentar el turismo vivencial y de aventura, siendo común la práctica de actividades como campamentos, pesca artesanal, surf, así como el aprendizaje de técnicas tradicionales de pesca. Estas experiencias permiten un contacto directo con el entorno marino y la cultura local.\nLa profundidad marina en el sector cercano a la playa varía entre los 5 y 15 metros, siendo adecuada para embarcaciones medianas. Visitada en los meses de verano por los bañistas y los aficionados a la pesca deportiva. La zona urbana próxima a la playa también presenta atractivos con sus casas republicanas típicas de la arquitectura portuaria en madera, asimismo el terminal pesquero se muestra como punto de visita, también para los aficionados del sandboard, existe una zona apropiada para este deporte ubicada en el extremo izquierdo del cerro carreta de la ciudad de Salaverry.",
+  "particularidades": "",
+  "estado_actual": "Buen estado, fue declarada apta para bañistas en el 2025, por sus indicadores de calidad microbiológica y limpieza.",
+  "observaciones": "Según evaluaciones hechas por la Dirección General de Salud Ambiental – Digesa que cataloga a esta parte del litoral como la única playa con calidad microbiológica, de limpieza y presencia de servicios higiénicos, la cual está constantemente en monitoreo y publicada en la siguiente página http://veranosaludable.minsa.gob.pe/",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Ubicada en el distrito de Salaverry, provincia de Trujillo, en la región La Libertad, la Playa Salaverry se encuentra dentro de la región natural Chala o Costa, caracterizada por su relieve bajo, clima árido y su proximidad al océano Pacífico. Esta zona cumple un importante rol tanto en la economía local como en el desarrollo turístico.\nLa playa posee una extensión aproximada de 3 kilómetros. Su morfología destaca por presentar dos zonas visibles próximas al área urbana del distrito, con orillas de suave pendiente y arena fina, formando una figura en “J” debido a la presencia del muelle y un rompeolas construido en el extremo opuesto. Esta configuración favorece que las aguas sean en su mayoría tranquilas y aptas para diversas actividades recreativas.\nEn cuanto al clima, la playa goza de buenas condiciones durante la mayor parte del año. Las temperaturas máximas oscilan entre los 20 °C y 30 °C, mientras que las mínimas se sitúan entre los 15 °C y 20 °C, siendo los meses más cálidos entre diciembre y marzo. La constante brisa marina aporta frescura al ambiente, convirtiéndose en un lugar propicio para el descanso y la recreación.\nLa vida silvestre circundante es abundante. La zona es hábitat de diversas aves marinas, como gaviotas, pelícanos y pardelas, y cuenta con una rica vida acuática, incluyendo especies como la corvina, tollo, chita, tramboyo, lorna y lenguado. Esta biodiversidad convierte a la playa en un escenario ideal para fotografía de naturaleza y pesca artesanal.\nAdemás, en Playa Salaverry se puede experimentar el turismo vivencial y de aventura, siendo común la práctica de actividades como campamentos, pesca artesanal, surf, así como el aprendizaje de técnicas tradicionales de pesca. Estas experiencias permiten un contacto directo con el entorno marino y la cultura local.\nLa profundidad marina en el sector cercano a la playa varía entre los 5 y 15 metros, siendo adecuada para embarcaciones medianas. Visitada en los meses de verano por los bañistas y los aficionados a la pesca deportiva. La zona urbana próxima a la playa también presenta atractivos con sus casas republicanas típicas de la arquitectura portuaria en madera, asimismo el terminal pesquero se muestra como punto de visita, también para los aficionados del sandboard, existe una zona apropiada para este deporte ubicada en el extremo izquierdo del cerro carreta de la ciudad de Salaverry."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Buen estado, fue declarada apta para bañistas en el 2025, por sus indicadores de calidad microbiológica y limpieza."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "Según evaluaciones hechas por la Dirección General de Salud Ambiental – Digesa que cataloga a esta parte del litoral como la única playa con calidad microbiológica, de limpieza y presencia de servicios higiénicos, la cual está constantemente en monitoreo y publicada en la siguiente página http://veranosaludable.minsa.gob.pe/"
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n90\nINRT Conteo muestral\n2024\nRealizado por la Municipalidad Distrital de Salaverry\nTuristas Nacionales\n1800\nINRT Conteo muestral\n2024\nRealizado por la Municipalidad Distrital de Salaverry\nVisitantes Locales(Excursionistas)\n3510\nINRT Conteo muestral\n2024\nRealizado por la Municipalidad Distrital de Salaverry"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nLa Libertad/Trujillo/Trujillo\n-\nLa Libertad/Trujillo/Salaverry\nPlaza de Armas de Trujillo – Plaza de Armas de Salaverry\nTerrestre\nBus público\nAsfaltado\n14,6 Km/ 30 min\n2\nLa Libertad/Trujillo/Salaverry\n-\nLa Libertad/Trujillo/Salaverry\nPlaza de Armas de Salaverry - Playa Salaverry\nTerrestre\nA pie\nAsfaltado\n330 mt / 6 min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n06:00 a.m.\n-\n08:00 p.m.\nSe recomienda visitar en el horario indicado, sin embargo el turista y/o visitante puede visitar el recurso a la hora que lo deseé."
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nRealización de eventos\n--\nDeportes acuáticos\nNatación\n--\nNaturaleza\nObservación de paisaje\n--\nCultura y Folclore\nVisita y participación en actividades de vida cotidiana de la comunidad\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Públicas\nServicios Públicos\nEmbarcaderos\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlimentación\nRestaurantes\nPueblo Salaverry Tradicional\nAlimentación\nKioskos de comida y bebidas\nPueblo Salaverry Tradicional\nAlojamiento\nHoteles (especificar categorías)\n3* Pueblo Salaverry Tradicional\nAlojamiento\nHostales (especificar categorías)\n3* Pueblo Salaverry Tradicional\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nPueblo Salaverry Tradicional\nAlimentación\nBares\nPueblo Salaverry Tradicional\nAlimentación\nCafeterías\nPueblo Salaverry Tradicional\nOtros Servicios Turísticos\nAgencia de Viajes\nPueblo Salaverry Tradicional\nOtros Servicios Turísticos\nVenta de artesanía\nPueblo Salaverry Tradicional\nLugares de Recreación\nDiscotecas\nPueblo Salaverry Tradicional\nLugares de Recreación\nJuegos Infantiles\nPueblo Salaverry Tradicional\nLugares de Recreación\nCentros Deportivos\nPueblo de Salaverry\nServicios Públicos\nEstacionamiento de vehículos\nPueblo Salaverry Tradicional\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\nPueblo Salaverry Tradicional\nServicios Públicos\nCaminos peatonales\nPueblo Salaverry Tradicional\nServicios Públicos\nPuesto de auxilio rápido\nPueblo Salaverry Tradicional"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nPueblo Salaverry Tradicional\nBancos\nPueblo Salaverry Tradicional\nCajero automático\nPueblo Salaverry Tradicional\nServicio de estacionamiento\nPueblo Salaverry Tradicional\nServicios de taxis\nPueblo Salaverry Tradicional\nServicios de salvavidas\nPueblo Salaverry Tradicional\nCentro de salud - tópico\nPueblo Salaverry Tradicional\nSeguridad / POLTUR / Comisaría\nPueblo Salaverry Tradicional\nLibrerías\nPueblo Salaverry Tradicional\nBodegas o minimarkets\nPueblo Salaverry Tradicional"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nPueblo Salaverry Tradicional\nAlcantarillado sanitario\nPueblo Salaverry Tradicional\nDesagüe\nPueblo Salaverry Tradicional\nLuz (Suministro Eléctrico)\nPueblo Salaverry Tradicional\nTeléfono\nPueblo Salaverry Tradicional"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nEstado Peruano\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nEn tenencia de la Municipalidad Distrital de Salaverry\nAdministrador por\nNombre\nMunicipalidad Distrital de Salaverry\nTiempo de administración\nDesde 1870"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nGerencia Regional de Comercio Exterior, Turismo y Artesanía (Gercetur La Libertad)\nNombre (Persona(s) responsable(s) del inventario turístico):\nYuleysi Paredes Ruiz\nCargo:\nSubgerente de Turismo\nCorreo:\nzparedesr@regionlalibertad.gob.pe\nTeléfono:\n953414088\nFuentes Bibliográfica:\nAutoridad Portuaria Nacional. (2021). Informe técnico sobre las condiciones portuarias del puerto de Salaverry. APN.\nInstituto del Mar del Perú. (2022). Boletín de monitoreo de la temperatura superficial del mar. IMARPE.\nMinisterio del Ambiente. (2020). Biodiversidad marina del litoral peruano. MINAM.\nPulgar Vidal, J. (1996). Geografía del Perú: Las ocho regiones naturales. Editorial Universo.\nServicio Nacional de Meteorología e Hidrología del Perú. (2023). Clima de la región La Libertad. https://www.senamhi.gob.pe\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n24/09/2025 08:19:18"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -8.227823857848486,
+    "longitud": -78.98075828570558
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-8.227823857848486,-78.98075828570558"
+}

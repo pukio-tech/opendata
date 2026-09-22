@@ -1,0 +1,427 @@
+{
+  "cod_ficha": 353,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=353",
+  "nombre": "Playa Pozo De Lisas - Ilo",
+  "departamento": "Moquegua",
+  "provincia": "Ilo",
+  "distrito": "ILO",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "l. Costas",
+  "subtipo": "Playas",
+  "jerarquia": "2",
+  "altitud": "7",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=297152",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=297152",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=297153",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=297154",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=297155",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=423173",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=423200"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Realización de eventos",
+    "Deportes acuáticos - Pesca deportiva",
+    "Deportes acuáticos - Motonaútica",
+    "Naturaleza - Observación de fauna",
+    "Naturaleza - Observación de paisaje",
+    "Naturaleza - Observación de aves",
+    "Deportes / Aventura - Caminata/Trekking",
+    "Deportes / Aventura - Camping"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Realización de eventos",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/eventos02.png"
+    },
+    {
+      "actividad": "Deportes acuáticos",
+      "tipo": "Pesca deportiva",
+      "observacion": "El visitante tiene que llevar su equipo de pesca.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/pesca_deportiva02.png"
+    },
+    {
+      "actividad": "Deportes acuáticos",
+      "tipo": "Motonaútica",
+      "observacion": "El visitante tiene que llevar su propia lancha motora.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/motonautica02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de fauna",
+      "observacion": "Lobos Marinos.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fauna02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de aves",
+      "observacion": "Piquero Común, Gaviotas, Pelícano, Guanay",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/aves02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Camping",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/camping02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Moquegua/Ilo/Ilo - Moquegua/Ilo/Ilo",
+      "detalle": "Plaza Principal de Ilo - Desvío, pasando km. 142 (Carretera Costanera)",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "5.4 km / 9 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Moquegua/Ilo/Ilo - Moquegua/Ilo/Ilo",
+      "detalle": "Desvío, pasando km. 142 (Carretera Costanera) - Playa Pozo de Lizas.",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "2.2 km / 5 min."
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "51690",
+      "horario": "Encuesta elaborada los días 26 y 27 octubre 2021",
+      "observaciones": "2019"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "77839",
+      "horario": "Encuesta elaborada los días 26 y 27 octubre 2021",
+      "observaciones": "2019"
+    },
+    {
+      "epoca": "Esporádicamente - Algunos meses",
+      "especificacion": "--",
+      "horario": "06:00 a.m. - 06:30 p.m. Los meses de diciembre, enero, febrero y marzo.",
+      "observaciones": "Los meses de diciembre, enero, febrero y marzo."
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicios Higiénicos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Salvavidas",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de Campamento(camping)",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "1,2,3,4 estrellas. Ciudad de Ilo."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "1,2,3 estrellas. Ciudad de Ilo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Ilo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Ilo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Ilo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Ciudad de Ilo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Ilo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Ciudad de Ilo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Ilo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Ciudad de Ilo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Ciudad de Ilo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Ilo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de Ilo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "Ciudad de Ilo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Ciudad de Ilo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "Ciudad de Ilo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Ciudad de Ilo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "Ciudad de Ilo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Muelles turísticos",
+      "observacion": "Ciudad de Ilo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Ciudad de Ilo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Puesto de auxilio rápido",
+      "observacion": "Ciudad de Ilo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Museo de Sitio Turísticos",
+      "observacion": "Ciudad de Ilo"
+    }
+  ],
+  "descripcion": "Se ubica a 7 Km. al sur de la ciudad de Ilo, es una amplia playa de arena clara y fina de aguas tranquilas y de baja profundidad, con excelente vista que se extiende a lo largo de 2 km. Está flanqueada por acantilados que alcanza una altura de 17 metros y desde el borde del acantilado hacia el mar 84 m. en la zona del boulevard. La playa Pozo de Lisas se divide en tres zonas. La primera es la Zona Superior: en ella se encuentran los paraderos autorizados para servicio público y los taxis, zonas de estacionamiento privado y público, servicios higiénicos y duchas, y además servicio de comida rápida. En la segunda zona denominada Zona Intermedia está el Boulevard de Pozo de Lisas en el cual se pueden encontrar restaurantes y servicios higiénicos. En la tercera Zona o zona inferior está el área para los bañistas el cual cuenta con servicios de sombrillas, carpas e implementos de recreación para playa y además un área para acampar. En el extremo sur de la playa se encuentra lo que se puede denominar un museo natural, en el cual se observa bloques que a simple vista dan la impresión de rocas pero que en realidad son diferentes tipos de conchas y conchuelas que por efecto del tiempo y la naturaleza se compactaron y formaron estos inmensos bloques; además el acantilado muestra las diferentes etapas geológicas por las que atravesó esta zona, lo cual es un mapa natural de evolución. Es la playa más concurrida e importante de la provincia de Ilo durante la temporada de verano, que congregan a gente de diferentes partes del sur del país. La temperatura del mar, varía entre 14 °C a 18 ° C y su clima es templado.",
+  "particularidades": "Entre las aves observadas con mayor frecuencia en playa Pozo Lizas aparecen las tres principales especies de aves productoras de guano en el Perú. Revista The Biologist “Avifauna de Playa Pozo de Lisas, Provincia de Ilo, Sur del Perú” Pizarro Neyra, José (2015).",
+  "estado_actual": "Muy bueno, porque recibe mantenimiento de la Municipalidad Provincial de Ilo.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Se ubica a 7 Km. al sur de la ciudad de Ilo, es una amplia playa de arena clara y fina de aguas tranquilas y de baja profundidad, con excelente vista que se extiende a lo largo de 2 km. Está flanqueada por acantilados que alcanza una altura de 17 metros y desde el borde del acantilado hacia el mar 84 m. en la zona del boulevard. La playa Pozo de Lisas se divide en tres zonas. La primera es la Zona Superior: en ella se encuentran los paraderos autorizados para servicio público y los taxis, zonas de estacionamiento privado y público, servicios higiénicos y duchas, y además servicio de comida rápida. En la segunda zona denominada Zona Intermedia está el Boulevard de Pozo de Lisas en el cual se pueden encontrar restaurantes y servicios higiénicos. En la tercera Zona o zona inferior está el área para los bañistas el cual cuenta con servicios de sombrillas, carpas e implementos de recreación para playa y además un área para acampar. En el extremo sur de la playa se encuentra lo que se puede denominar un museo natural, en el cual se observa bloques que a simple vista dan la impresión de rocas pero que en realidad son diferentes tipos de conchas y conchuelas que por efecto del tiempo y la naturaleza se compactaron y formaron estos inmensos bloques; además el acantilado muestra las diferentes etapas geológicas por las que atravesó esta zona, lo cual es un mapa natural de evolución. Es la playa más concurrida e importante de la provincia de Ilo durante la temporada de verano, que congregan a gente de diferentes partes del sur del país. La temperatura del mar, varía entre 14 °C a 18 ° C y su clima es templado."
+    },
+    {
+      "titulo": "Particularidades",
+      "contenido": "Entre las aves observadas con mayor frecuencia en playa Pozo Lizas aparecen las tres principales especies de aves productoras de guano en el Perú. Revista The Biologist “Avifauna de Playa Pozo de Lisas, Provincia de Ilo, Sur del Perú” Pizarro Neyra, José (2015)."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "- Certificación Internacional del Sello Safe Travels, Ilo Destino Seguro. Otorgado por el Consejo Mundial de\nViajes y Turismo. Ilo,22/12/2021.\n- Ley N° 31471, Que Declara de Interés Nacional y Necesidad Pública La Promoción y Desarrollo del\nCorredor Turístico de las Playas de Arequipa, Moquegua y Tacna, Del Litoral Sur Peruano. 14/05/2022\n- Acuerdo de Consejo Regional N° 116-2022-CR/GRM, Declarar como producto bandera Regional Recursos\nTurísticos de la Provincia de Ilo."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Muy bueno, porque recibe mantenimiento de la Municipalidad Provincial de Ilo."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nVisitantes Locales(Excursionistas)\n51690\nEncuesta elaborada los días 26 y 27 octubre 2021\n2019\nTuristas Nacionales\n77839\nEncuesta elaborada los días 26 y 27 octubre 2021\n2019"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nMoquegua/Ilo/Ilo\n-\nMoquegua/Ilo/Ilo\nPlaza Principal de Ilo - Desvío, pasando km. 142 (Carretera Costanera)\nTerrestre\nAutomóvil particular\nAsfaltado\n5.4 km / 9 min.\n1\nMoquegua/Ilo/Ilo\n-\nMoquegua/Ilo/Ilo\nDesvío, pasando km. 142 (Carretera Costanera) - Playa Pozo de Lizas.\nTerrestre\nAutomóvil particular\nAsfaltado\n2.2 km / 5 min."
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nEsporádicamente - Algunos meses\n--\n06:00 a.m.\n-\n06:30 p.m.\nLos meses de diciembre, enero, febrero y marzo."
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nRealización de eventos\n--\nDeportes acuáticos\nPesca deportiva\nEl visitante tiene que llevar su equipo de pesca.\nDeportes acuáticos\nMotonaútica\nEl visitante tiene que llevar su propia lancha motora.\nNaturaleza\nObservación de fauna\nLobos Marinos.\nNaturaleza\nObservación de paisaje\n--\nNaturaleza\nObservación de aves\nPiquero Común, Gaviotas, Pelícano, Guanay\nDeportes / Aventura\nCaminata/Trekking\n--\nDeportes / Aventura\nCamping\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nAlimentación\nRestaurantes\n--\nInstalaciones Privadas\nAlimentación\nVenta de comida Rápida\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nServicios Higiénicos\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nServicio de Salvavidas\n--\nInstalaciones Públicas\nServicios Públicos\nMiradores turísticos\n--\nInstalaciones Públicas\nServicios Públicos\nEstacionamiento de vehículos\n--\nInstalaciones Públicas\nServicios Públicos\nSeñales turísticas de orientación\n--\nInstalaciones Públicas\nServicios Públicos\nZonas de Campamento(camping)\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\n1,2,3,4 estrellas. Ciudad de Ilo.\nAlojamiento\nHostales (especificar categorías)\n1,2,3 estrellas. Ciudad de Ilo\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Ilo\nAlimentación\nRestaurantes\nCiudad de Ilo\nAlimentación\nCafeterías\nCiudad de Ilo\nAlimentación\nFuentes de soda\nCiudad de Ilo\nAlimentación\nKioskos de comida y bebidas\nCiudad de Ilo\nAlimentación\nVenta de comida Rápida\nCiudad de Ilo\nLugares de Recreación\nDiscotecas\nCiudad de Ilo\nLugares de Recreación\nJuegos Infantiles\nCiudad de Ilo\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nCiudad de Ilo\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Ilo\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de Ilo\nLugares de Recreación\nKaraoke\nCiudad de Ilo\nLugares de Recreación\nCentros Deportivos\nCiudad de Ilo\nServicios Públicos\nMiradores turísticos\nCiudad de Ilo\nServicios Públicos\nEstacionamiento de vehículos\nCiudad de Ilo\nServicios Públicos\nSeñales turísticas de orientación\nCiudad de Ilo\nServicios Públicos\nMuelles turísticos\nCiudad de Ilo\nServicios Públicos\nOficina de Información turística\nCiudad de Ilo\nServicios Públicos\nPuesto de auxilio rápido\nCiudad de Ilo\nServicios Públicos\nMuseo de Sitio Turísticos\nCiudad de Ilo"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Ilo (Claro, Movistar, Bitel, Entel)\nBancos\nCiudad de Ilo (Bco. de la Nación, BCP, Interbank, Scotibank, BBVA)\nCajero automático\nCiudad de Ilo\nCasa de cambio\nCiudad de Ilo\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Ilo\nServicio de correos\nCiudad de Ilo\nServicio de estacionamiento\nCiudad de Ilo\nServicios de taxis\nCiudad de Ilo\nCentro de salud - tópico\nCiudad de Ilo\nVenta de materiales para fotografías\nCiudad de Ilo\nSeguridad / POLTUR / Comisaría\nCiudad de Ilo (cuenta con todos)\nAlquiler y compra de equipos deportivos\nCiudad de Ilo\nBodegas o minimarkets\nCiudad de Ilo"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nLuz (Suministro Eléctrico)\n--\nSeñalización turística\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Ilo\nAlcantarillado sanitario\nCiudad de Ilo\nLuz (Suministro Eléctrico)\nCiudad de Ilo\nTeléfono\nCiudad de Ilo\nSeñalización turística\nCiudad de Ilo\nEnergía Alternativa\nCiudad de Ilo\nSistemas de tratamiento alternativo de residuos (Biodigestor, pozo séptico, otros)\nCiudad de Ilo"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nEstado Peruano\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nLey N° 26856 D.S. N° 050-2006-EF - Línea de Alta Marea no Determinada\nAdministrador por\nNombre\nMunicipalidad Provincial de Ilo.\nTiempo de administración\nDesde 1970"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo- Moquegua.\nNombre (Persona(s) responsable(s) del inventario turístico):\nEco. Fernando Mamani Meza.\nCargo:\nSub Director de Turismo.\nCorreo:\nfemeza555@yahoo.com\nTeléfono:\n953549922\nFuentes Bibliográfica:\n- Municipalidad Provincial de Ilo. \"Plan de Acondicionamiento Turístico del Litoral de Ilo\" (1996).\n-Municipalidad Provincial de Ilo. \"Estudio de mercado del circuito de la Provincia de Ilo\" (2012).\n- Avifauna de Playa Pozo de Lisas, Provincia de Ilo, Sur del Perú. Pizarro Neyra, José (2015). Enlace: https://sisbib.unmsm.edu.pe/bvrevistas/biologist/v13_n2/pdf/n1v13n2.pdf\n- Catálogo de Playas de la Región Moquegua. Gerencia Regional de Comercio Exterior y Turismo. Moquegua. 2019. Enlace: https://docplayer.es/54438284-playas-moquegua-catalogo de-de-la-region.html\n- https://www.ytuqueplanes.com/rutas-cortas/moquegua/sol-y-playa-en-ilo-\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n23/05/2022"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -17.6917,
+    "longitud": -71.36099999999999
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-17.6917,-71.36099999999999"
+}

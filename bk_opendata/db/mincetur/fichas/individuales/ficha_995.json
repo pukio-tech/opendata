@@ -1,0 +1,294 @@
+{
+  "cod_ficha": 995,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=995",
+  "nombre": "Ventana Del Colca",
+  "departamento": "Arequipa",
+  "provincia": "Caylloma",
+  "distrito": "CALLALLI",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "ñ. Zonas paisajísticas",
+  "subtipo": "Miradores naturales",
+  "jerarquia": "1",
+  "altitud": "4392 m.s.n.m",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=572487",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=572487",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=572536",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=572488",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=572489"
+  ],
+  "actividades_permitidas": [
+    "Naturaleza - Observación de paisaje",
+    "Deportes / Aventura - Caminata/Trekking",
+    "Deportes / Aventura - Camping"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Camping",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/camping02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Arequipa/Arequipa/Jacobo Hunter - Arequipa/Caylloma/Chivay",
+      "detalle": "Terminal de Arequipa– Terminal Chivay",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "151Km/ 3h"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Arequipa/Caylloma/Chivay - Arequipa/Caylloma/Callalli",
+      "detalle": "Terminal de Chivay – plaza de armas Callalli",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "35km/45 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Arequipa/Caylloma/Callalli - Arequipa/Caylloma/Yanque",
+      "detalle": "Plaza de armas de Callalli – Hacienda Pulpera",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "16km/20min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Arequipa/Caylloma/Yanque - Arequipa/Caylloma/Yanque",
+      "detalle": "Hacienda Pulpera- Ventana del Colca",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "9.9 Km/20 minutos"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Arequipa/Arequipa/Jacobo Hunter - Arequipa/Caylloma/Callalli",
+      "detalle": "Terminal de Arequipa– Cruce Ventana del Colca (Ruta 34A, 34E)",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Camioneta doble tracción",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "122.5 km/2 h30min"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Arequipa/Caylloma/Yanque - Arequipa/Caylloma/Yanque",
+      "detalle": "Cruce - Ventana dle Colca",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Camioneta doble tracción",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "27.5 Km/50 min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "3",
+      "horario": "Oficio Nro 184-2024-MDC/A",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "41",
+      "horario": "Oficio Nro 184-2024-MDC/A",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "38",
+      "horario": "Oficio Nro 184-2024-MDC/A",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "06:00 a.m. - 04:00 p.m. Preferentemente mientras haya luz solar",
+      "observaciones": "Preferentemente mientras haya luz solar"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "Esta Incluido dentro del Boleto Turístico del Colca, Extranjeros S/. 70 y S/. 40.00, Nacionales S/. 20.00, Estudiantes y Niños S/. 5.00"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Localidad de Callalli"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Localidad de Callalli"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Localidad de Callalli"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Localidad de Callalli"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de Caballos",
+      "observacion": "Localidad de Callalli"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Casas hospedaje, localidad de Callalli"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "Localidad de Callalli"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Localidad de Callalli"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "Localidad de Callalli"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de interpretación",
+      "observacion": "Localidad de Callalli"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "Localidad de Callalli"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Localidad de Callalli"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "Localidad de Callalli"
+    }
+  ],
+  "descripcion": "Ubicada a 4,300 msnm, en este lugar se da inicio a la formación geológica del Cañón del Colca, cuya profundidad máxima es de 4,280 metros y se extiende a lo largo de 120 km.\nEsta formación majestuosa da la bienvenida al Valle del Colca a todos los visitantes que deciden tomar la ruta larga al hacer su ingreso al Valle del Colca. Es una milenaria formación pétrea que asemeja una ventana, con una vista realmente impresionante; llamada también Portón del Colca ya que en ese lugar inicia el Cañón del Colca.\nLa ventana del Colca ha sido nombrada así, por la característica posición de las formaciones rocosas que encontramos en este lugar; que gracias a la erosión eólica y pluvial han adoptado la forma de una ventana.\nA través de la Ventana del Colca que es considerada como un mirador natural se puede apreciar claramente la carretera de ingreso al Valle del Colca (por la parte alta), y la confluencia de los ríos La Pulpera (unos de los principales afluentes del Río Colca) y Colca.\nEn lo que se refiere a la flora del lugar se tiene como especies más representativas el Ichu y la Tola\nDentro de la fauna se tiene el puma, el zorro, aves rapases y los camélidos sudamericanos (llamas y alpacas).\nLa Ventana del Colca, es una milenaria formación pétrea que se encuentra expuesta al medio ambiente y sus efectos, al mismo tiempo rodeada de naturaleza que es cambiante de acuerdo a la temporada del año, en época de lluvia la cual oscila de febrero a abril se puede observar cómo es que la naturaleza ha florecido.\nAunque se puede visitar todo el año, se recomienda realizar aquellas actividades al aire libre entre los meses de mayo y noviembre (temporada seca). Por otra parte, el paisaje resulta mucho más impresionante entre los meses de febrero a abril (temporada de lluvias).",
+  "particularidades": "",
+  "estado_actual": "Se encuentra en regular estado de conservación por causa de la contaminación ambiental en los alrededores.",
+  "observaciones": "A 129 km desde la capital de Región, el camino pasa por el borde de un precipicio y a mano derecha puede observarse esta formación.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Ubicada a 4,300 msnm, en este lugar se da inicio a la formación geológica del Cañón del Colca, cuya profundidad máxima es de 4,280 metros y se extiende a lo largo de 120 km.\nEsta formación majestuosa da la bienvenida al Valle del Colca a todos los visitantes que deciden tomar la ruta larga al hacer su ingreso al Valle del Colca. Es una milenaria formación pétrea que asemeja una ventana, con una vista realmente impresionante; llamada también Portón del Colca ya que en ese lugar inicia el Cañón del Colca.\nLa ventana del Colca ha sido nombrada así, por la característica posición de las formaciones rocosas que encontramos en este lugar; que gracias a la erosión eólica y pluvial han adoptado la forma de una ventana.\nA través de la Ventana del Colca que es considerada como un mirador natural se puede apreciar claramente la carretera de ingreso al Valle del Colca (por la parte alta), y la confluencia de los ríos La Pulpera (unos de los principales afluentes del Río Colca) y Colca.\nEn lo que se refiere a la flora del lugar se tiene como especies más representativas el Ichu y la Tola\nDentro de la fauna se tiene el puma, el zorro, aves rapases y los camélidos sudamericanos (llamas y alpacas).\nLa Ventana del Colca, es una milenaria formación pétrea que se encuentra expuesta al medio ambiente y sus efectos, al mismo tiempo rodeada de naturaleza que es cambiante de acuerdo a la temporada del año, en época de lluvia la cual oscila de febrero a abril se puede observar cómo es que la naturaleza ha florecido.\nAunque se puede visitar todo el año, se recomienda realizar aquellas actividades al aire libre entre los meses de mayo y noviembre (temporada seca). Por otra parte, el paisaje resulta mucho más impresionante entre los meses de febrero a abril (temporada de lluvias)."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Se encuentra en regular estado de conservación por causa de la contaminación ambiental en los alrededores."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "A 129 km desde la capital de Región, el camino pasa por el borde de un precipicio y a mano derecha puede observarse esta formación."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n3\nOficio Nro 184-2024-MDC/A\n2023\nReporte estadístico de Mayo a Diciembre del año 2023\nTuristas Nacionales\n41\nOficio Nro 184-2024-MDC/A\n2023\nReporte estadístico de Mayo a Diciembre del año 2023\nVisitantes Locales(Excursionistas)\n38\nOficio Nro 184-2024-MDC/A\n2023\nReporte estadístico de Mayo a Diciembre del año 2023https://extranet.mincetur.gob.pe/resource/img/btn_grabar.jpg"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nArequipa/Arequipa/Jacobo Hunter\n-\nArequipa/Caylloma/Chivay\nTerminal de Arequipa– Terminal Chivay\nTerrestre\nBus público\nAsfaltado\n151Km/ 3h\n1\nArequipa/Caylloma/Chivay\n-\nArequipa/Caylloma/Callalli\nTerminal de Chivay – plaza de armas Callalli\nTerrestre\nBus público\nAsfaltado\n35km/45 min\n1\nArequipa/Caylloma/Callalli\n-\nArequipa/Caylloma/Yanque\nPlaza de armas de Callalli – Hacienda Pulpera\nTerrestre\nAutomóvil particular\nAsfaltado\n16km/20min\n1\nArequipa/Caylloma/Yanque\n-\nArequipa/Caylloma/Yanque\nHacienda Pulpera- Ventana del Colca\nTerrestre\nAutomóvil particular\nTrocha carrozable\n9.9 Km/20 minutos\n2\nArequipa/Arequipa/Jacobo Hunter\n-\nArequipa/Caylloma/Callalli\nTerminal de Arequipa– Cruce Ventana del Colca (Ruta 34A, 34E)\nTerrestre\nCamioneta doble tracción\nTrocha carrozable\n122.5 km/2 h30min\n2\nArequipa/Caylloma/Yanque\n-\nArequipa/Caylloma/Yanque\nCruce - Ventana dle Colca\nTerrestre\nCamioneta doble tracción\nTrocha carrozable\n27.5 Km/50 min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nEsta Incluido dentro del Boleto Turístico del Colca, Extranjeros S/. 70 y S/. 40.00, Nacionales S/. 20.00, Estudiantes y Niños S/. 5.00"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n06:00 a.m.\n-\n04:00 p.m.\nPreferentemente mientras haya luz solar"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nNaturaleza\nObservación de paisaje\n--\nDeportes / Aventura\nCaminata/Trekking\n--\nDeportes / Aventura\nCamping\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlimentación\nRestaurantes\nLocalidad de Callalli\nAlimentación\nKioskos de comida y bebidas\nLocalidad de Callalli\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nLocalidad de Callalli\nOtros Servicios Turísticos\nVenta de artesanía\nLocalidad de Callalli\nOtros Servicios Turísticos\nAlquiler de Caballos\nLocalidad de Callalli\nAlojamiento\nOtros (Especificar)\nCasas hospedaje, localidad de Callalli\nServicios Públicos\nMiradores turísticos\nLocalidad de Callalli\nServicios Públicos\nEstacionamiento de vehículos\nLocalidad de Callalli\nServicios Públicos\nSeñales turísticas de orientación\nLocalidad de Callalli\nServicios Públicos\nSeñales turísticas de interpretación\nLocalidad de Callalli\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\nLocalidad de Callalli\nServicios Públicos\nOficina de Información turística\nLocalidad de Callalli\nServicios Públicos\nCaminos peatonales\nLocalidad de Callalli"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nLocalidad de Callalli\nEstación de servicios, grifos, gasolineras y gasocentros\nLocalidad de Callalli\nServicio de estacionamiento\nLocalidad de Callalli\nCentro de salud - tópico\nLocalidad de Callalli\nLibrerías\nLocalidad de Callalli\nOtros(especificar)\nTiendas, localidad de Callalli"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nLocalidad de Callalli\nDesagüe\nLocalidad de Callalli\nLuz (Suministro Eléctrico)\nLocalidad de Callalli\nTeléfono\nLocalidad de Callalli\nSeñalización turística\nLocalidad de Callalli"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\n--\nPrivado:\nJosé Aparicio Cayllahua Huanaco y Eulogio Cayllahua Huanaco\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nEscritura Publica Folio 2263, numero 869\nAdministrador por\nNombre\nAsociacion de criadores de Camelidos Sudamericanos y actividades Turísticas del Cañón encantado de la Ventana del Colca\nTiempo de administración\nDesde el año 2018"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nGerencia Regional de Comercio Exterior y Turismo de Arequipa\nNombre (Persona(s) responsable(s) del inventario turístico):\nLic. Claudia Barrios Cacya\nCargo:\nEspecialista en Turismo\nCorreo:\ncbarrios@correo.regionarequipa.gob.pe\nTeléfono:\n98809975\nFuentes Bibliográfica:\nRevista de Difusión Académica \"Atractivos Turísticos De Arequipa\"- Julio Manrique Dávila 2004\nCONDORI, M. H. (SETIEMBRE de 2022). PLAN DE DESARROLLO TURÍSTICO LOCAL DEL DISTRITO DE CALLALLI 2022 - 2025. PIÑON, F. (s.f.). Callalli Enchanted Castles. Revista Turismo - Destinos Perú. Ramos Yucra, W. B. (2018). Monografía y fuentes documentales sobre la historia del distrito de Callalli, 2018. AREQUIPA. https://www.yumpu.com/es/document/read/14190471/fragmentos-de-la-historia-del-distrito-de-callalli-colca-life https://repositorio.ingemmet.gob.pe/bitstream/20.500.12544/2114/4/I009-Mapa_Sitios_de_inter%c3%a9s_geol%c3%b3gico.pdf https://repositorio.ingemmet.gob.pe/bitstream/20.500.12544/3077/1/2021-Colca_volcanes_Andagua.pdf\nMaterial Audiovisual actual del Recurso:\nFOTO, OTROS\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n20/11/2025 16:02:34"
+    }
+  ],
+  "coordenadas": {
+    "latitud": null,
+    "longitud": null
+  },
+  "google_maps_url": null
+}

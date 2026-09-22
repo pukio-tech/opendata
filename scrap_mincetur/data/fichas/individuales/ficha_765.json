@@ -1,0 +1,343 @@
+{
+  "cod_ficha": 765,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=765",
+  "nombre": "Santuario Del Señor De La Soledad - Huaraz",
+  "departamento": "Áncash",
+  "provincia": "Huaraz",
+  "distrito": "HUARAZ",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Arquitectura y Espacios Urbanos",
+  "subtipo": "Santuario",
+  "jerarquia": "2",
+  "altitud": "3092",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=452821",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=452821",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=452778",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=452779",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=452780",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=452822",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=659565",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=659567",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=661337",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=661314"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Cultura y Folclore - Actividades Religiosas o Patronales",
+    "Naturaleza - Observación de paisaje",
+    "Cultura y Folclore - Degustación y preparación de platos, productos o bebidas típicas"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Actividades Religiosas o Patronales",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/act_religiosas02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Degustación y preparación de platos, productos o bebidas típicas",
+      "observacion": "Esporádicamente (mayo) y eventos religiosos programados.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/platos_tipicos02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Áncash/Huaraz/Huanchay - Áncash/Huaraz/Huaraz",
+      "detalle": "Plaza de armas de Huaraz - Santuario del señor de la soledad",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "750m/10 min."
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "255913",
+      "horario": "Indicad. de Ocupabilidad (Resultados de la Encuesta Mensual de EEHH)",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "37906",
+      "horario": "Indicad. de Ocupabilidad (Resultados de la Encuesta Mensual de EEHH)",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "07:00 a.m. - 08:00 p.m. hay dos turnos de misa, 7:00 am y 7:00 pm",
+      "observaciones": "hay dos turnos de misa, 7:00 am y 7:00 pm"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": "durante todo el año"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "1,2,3 estrellas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "1,2,3 estrellas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Heladeria en Ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Casinos de Juego",
+      "observacion": "Ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de equipo para turismo aventura",
+      "observacion": "Ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Bancos - Cajeros",
+      "observacion": "Ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Casa de Cambio",
+      "observacion": "Ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Oficina de Información",
+      "observacion": "Ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicios Higiénicos",
+      "observacion": "Ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Correos",
+      "observacion": "Ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Estacionamiento",
+      "observacion": "Ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Internet",
+      "observacion": "Ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de taxi",
+      "observacion": "Ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Tópico",
+      "observacion": "Ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de Material Informativo(libro,revistas,postales,videos,etc)",
+      "observacion": "Ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de Material para Fotografía",
+      "observacion": "Ciudad de Huaraz"
+    }
+  ],
+  "descripcion": "El santuario guarda la imagen del Señor de La Soledad, patrono de la ciudad de Huaraz, cuya existencia se remonta al siglo XVI, época de la fundación de la ciudad. La imagen está elaborada en maguey, madera inexistente en la península ibérica. En 1725, un terremoto destruyó Huaraz y obligó a reconstruir el templo; cincuenta años después, el español Francisco Vásquez donó su hacienda de Huapra para su cuidado, lo que fortaleció la devoción. La estructura original fue destruida nuevamente por el terremoto de 1970, y la actual es una construcción moderna que conserva la disposición de tres naves, característica de las iglesias católicas. El interior está decorado con murales bíblicos pintados en 1981 por Teresa Luna y Cassio Marino, además de capillas ornamentadas en pan de oro que albergan imágenes destacadas en la Semana Santa Huaracina, como el Señor de Ramos, el Nazareno articulado, el Cristo Yaciente, el Señor de la Resurrección, María Magdalena, San Juan, el Patrón de la Soledad y San Sebastián. La imagen principal se ubica en el altar mayor, confeccionado en caoba y adornado con pan de oro de 24 quilates, obra de la Cooperativa Artesanal Don Bosco de Chacas. La celebración patronal inicia el 1 de mayo y dura más de quince días, durante los cuales el Señor de La Soledad recorre las calles acompañado de devotos con grandes cirios elaborados por ellos mismos. Entre las manifestaciones culturales destacan las danzas de los Shacshas, Huanquillas, Anti Huanquillas, Atahuallpas, Yuriguay Pallas, además de ferias gastronómicas. Los Shacshas son los danzantes más representativos y encabezan las celebraciones, convirtiendo al santuario en un importante destino turístico para quienes desean conocer la imagen y la historia del llamado Señor de Mayo.",
+  "particularidades": "",
+  "estado_actual": "Bueno, porque está en constante cuidado y limpieza por el sacristán y pertenece a la diócesis de Huaraz.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "El santuario guarda la imagen del Señor de La Soledad, patrono de la ciudad de Huaraz, cuya existencia se remonta al siglo XVI, época de la fundación de la ciudad. La imagen está elaborada en maguey, madera inexistente en la península ibérica. En 1725, un terremoto destruyó Huaraz y obligó a reconstruir el templo; cincuenta años después, el español Francisco Vásquez donó su hacienda de Huapra para su cuidado, lo que fortaleció la devoción. La estructura original fue destruida nuevamente por el terremoto de 1970, y la actual es una construcción moderna que conserva la disposición de tres naves, característica de las iglesias católicas. El interior está decorado con murales bíblicos pintados en 1981 por Teresa Luna y Cassio Marino, además de capillas ornamentadas en pan de oro que albergan imágenes destacadas en la Semana Santa Huaracina, como el Señor de Ramos, el Nazareno articulado, el Cristo Yaciente, el Señor de la Resurrección, María Magdalena, San Juan, el Patrón de la Soledad y San Sebastián. La imagen principal se ubica en el altar mayor, confeccionado en caoba y adornado con pan de oro de 24 quilates, obra de la Cooperativa Artesanal Don Bosco de Chacas. La celebración patronal inicia el 1 de mayo y dura más de quince días, durante los cuales el Señor de La Soledad recorre las calles acompañado de devotos con grandes cirios elaborados por ellos mismos. Entre las manifestaciones culturales destacan las danzas de los Shacshas, Huanquillas, Anti Huanquillas, Atahuallpas, Yuriguay Pallas, además de ferias gastronómicas. Los Shacshas son los danzantes más representativos y encabezan las celebraciones, convirtiendo al santuario en un importante destino turístico para quienes desean conocer la imagen y la historia del llamado Señor de Mayo."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "Declarado Patrimonio Cultural de la Nación a bienes culturales muebles del Obispado de Huaraz con Resolución Viceministerial N°005-2017-VMPCIC-MC; el 16 de enero del 2017."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, porque está en constante cuidado y limpieza por el sacristán y pertenece a la diócesis de Huaraz."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Nacionales\n255913\nIndicad. de Ocupabilidad (Resultados de la Encuesta Mensual de EEHH)\n2025\nundefined\nTuristas Extranjeros\n37906\nIndicad. de Ocupabilidad (Resultados de la Encuesta Mensual de EEHH)\n2025\nundefined"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nÁncash/Huaraz/Huanchay\n-\nÁncash/Huaraz/Huaraz\nPlaza de armas de Huaraz - Santuario del señor de la soledad\nTerrestre\nA pie\nAsfaltado\n750m/10 min."
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre\ndurante todo el año"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n07:00 a.m.\n-\n08:00 p.m.\nhay dos turnos de misa, 7:00 am y 7:00 pm"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nCultura y Folclore\nActividades Religiosas o Patronales\n--\nNaturaleza\nObservación de paisaje\n--\nCultura y Folclore\nDegustación y preparación de platos, productos o bebidas típicas\nEsporádicamente (mayo) y eventos religiosos programados."
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\n1,2,3 estrellas\nAlojamiento\nHostales (especificar categorías)\n1,2,3 estrellas\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Huaraz\nAlimentación\nRestaurantes\nCiudad de Huaraz\nAlimentación\nBares\nCiudad de Huaraz\nAlimentación\nCafeterías\nCiudad de Huaraz\nAlimentación\nKioskos de comida y bebidas\nCiudad de Huaraz\nAlimentación\nOtros (Especificar)\nHeladeria en Ciudad de Huaraz\nLugares de Recreación\nDiscotecas\nCiudad de Huaraz\nLugares de Recreación\nCasinos de Juego\nCiudad de Huaraz\nOtros Servicios Turísticos\nAlquiler de equipo para turismo aventura\nCiudad de Huaraz\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Huaraz\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de Huaraz\nOtros Servicios Turísticos\nBancos - Cajeros\nCiudad de Huaraz\nOtros Servicios Turísticos\nCasa de Cambio\nCiudad de Huaraz\nOtros Servicios Turísticos\nOficina de Información\nCiudad de Huaraz\nOtros Servicios Turísticos\nServicios Higiénicos\nCiudad de Huaraz\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nCiudad de Huaraz\nOtros Servicios Turísticos\nServicio de Correos\nCiudad de Huaraz\nOtros Servicios Turísticos\nServicio de Estacionamiento\nCiudad de Huaraz\nOtros Servicios Turísticos\nServicio de Internet\nCiudad de Huaraz\nOtros Servicios Turísticos\nServicio de taxi\nCiudad de Huaraz\nOtros Servicios Turísticos\nTópico\nCiudad de Huaraz\nOtros Servicios Turísticos\nVenta de Material Informativo(libro,revistas,postales,videos,etc)\nCiudad de Huaraz\nOtros Servicios Turísticos\nVenta de Material para Fotografía\nCiudad de Huaraz"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Huaraz\nBancos\nCiudad de Huaraz\nCajero automático\nCiudad de Huaraz\nCasa de cambio\nCiudad de Huaraz\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Huaraz\nServicio de correos\nCiudad de Huaraz\nServicio de estacionamiento\nCiudad de Huaraz\nServicios de taxis\nCiudad de Huaraz\nCentro de salud - tópico\nCiudad de Huaraz\nVenta de materiales para fotografías\nCiudad de Huaraz\nLibrerías\nCiudad de Huaraz\nBodegas o minimarkets\nCiudad de Huaraz"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\n--\nDesagüe\n--\nLuz (Suministro Eléctrico)\n--\nTeléfono\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Huaraz\nAlcantarillado sanitario\nCiudad de Huaraz\nDesagüe\nCiudad de Huaraz\nLuz (Suministro Eléctrico)\nCiudad de Huaraz\nTeléfono\nCiudad de Huaraz\nSeñalización turística\nCiudad de Huaraz\nEnergía Alternativa\nCiudad de Huaraz\nAlternativo de Residuos (Biodigestor, pozo séptico, otros)\nCiudad de Huaraz"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\n--\nPrivado:\nIglesia Católica\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nNúmero registral.\nNúmero de Partida:\n11036825\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nDiócesis de Huaraz\nTiempo de administración\nDesde el año 1899"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDireción Regional de Comercio Exteterior y Turismo\nNombre (Persona(s) responsable(s) del inventario turístico):\nFrank Cristian Olivera Blas\nCargo:\nEspecialista en Turismo\nCorreo:\ndirceturancashdt2@gmail.com\nTeléfono:\n974771911\nFuentes Bibliográfica:\nHuamán Sánchez, Domingo (2018). Testimonios vivenciales: El Señor de La Soledad, Patrón de Huaraz.\nYauri Montero, Marco (2013). El Señor de La Soledad de Huaraz: Discurso de la abundancia y carencia. Resistencia andina.\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n15/05/2026 18:53:37"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -9.531831,
+    "longitud": -77.52280000000002
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-9.531831,-77.52280000000002"
+}

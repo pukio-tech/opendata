@@ -1,0 +1,463 @@
+{
+  "cod_ficha": 283,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=283",
+  "nombre": "Muelle De Pimentel",
+  "departamento": "Lambayeque",
+  "provincia": "Chiclayo",
+  "distrito": "PIMENTEL",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Arquitectura y Espacios Urbanos",
+  "subtipo": "Muelles",
+  "jerarquia": "2",
+  "altitud": "4",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=291195",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=291195",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=554042",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=554272",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=554273",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=554043",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=554044",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=554045",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=554046",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=554047",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=554274",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=554275",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=554048"
+  ],
+  "actividades_permitidas": [
+    "Otros - Compras de artesanía/souvenir",
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Realización de eventos",
+    "Otros - Otros(Especificar)",
+    "Deportes acuáticos - Pesca deportiva",
+    "Naturaleza - Observación de fauna",
+    "Naturaleza - Observación de paisaje"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Compras de artesanía/souvenir",
+      "observacion": "En las casetas.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/artesania02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Realización de eventos",
+      "observacion": "Conferencias de prensa y exposiciones fotográficas.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/eventos02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Otros(Especificar)",
+      "observacion": "compra de pescado fresco:caballa,chauchilla,bonito",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/otros02.png"
+    },
+    {
+      "actividad": "Deportes acuáticos",
+      "tipo": "Pesca deportiva",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/pesca_deportiva02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de fauna",
+      "observacion": "Pescados, gaviotas.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fauna02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "Atardeceres y playa.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Lambayeque/Chiclayo/Chiclayo - Lambayeque/Chiclayo/Pimentel",
+      "detalle": "Chiclayo (Ca. Simón Bolívar Nº775) – Pimentel (Entre la Ca. Alfonso Ugarte con J.A. Quiñones)",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Combi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "12 km / 35 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Lambayeque/Chiclayo/Pimentel - Lambayeque/Chiclayo/Pimentel",
+      "detalle": "Parque Principal de Pimentel al Muelle",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "280 mts / 3 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Lambayeque/Chiclayo/Chiclayo - Lambayeque/Chiclayo/Pimentel",
+      "detalle": "Chiclayo (Parque principal) - Muelle de Pimentel",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "12 km / 25 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Lambayeque/Chiclayo/Chiclayo - Lambayeque/Chiclayo/Pimentel",
+      "detalle": "En Colectivos: De Chiclayo (Ca. Pedro Ruiz Cdra 5, pasando tiendas EFE) - Pimentel (Entre la Ca. Alfonso Ugarte con J.A. Quiñones)",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Otros (especificar)",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "12 km / 25 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Lambayeque/Chiclayo/Chiclayo - Lambayeque/Chiclayo/Pimentel",
+      "detalle": "Chiclayo (Parque principal) al Muelle de Pimentel",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Camioneta doble tracción",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "12 km / 25min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Lambayeque/Chiclayo/Chiclayo - Lambayeque/Chiclayo/Pimentel",
+      "detalle": "Chiclayo (Parque principal) al Muelle de Pimentel",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mini bus turístico",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "12 km/25min-"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Lambayeque/Chiclayo/Chiclayo - Lambayeque/Chiclayo/Pimentel",
+      "detalle": "Chiclayo (Parque principal) al Muelle de Pimentel",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Taxi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "12 km/25min."
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "270",
+      "horario": "Cálculo de visitas anual aplicado los días 29 de marzo, 05, 12 y 17 de abril.",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "1170",
+      "horario": "Cálculo de visitas anual aplicado los días 29 de marzo, 05, 12 y 17 de abril.",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "2610",
+      "horario": "Cálculo de visitas anual aplicado los días 29 de marzo, 05, 12 y 17 de abril.",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "06:00 a.m. - 09:00 p.m. De lunes a domingo. Se recomienda llevar bloqueador solar, zapatillas. En los meses de invierno llevar ropa abrigadora y/o de temporada.",
+      "observaciones": "De lunes a domingo. Se recomienda llevar bloqueador solar, zapatillas. En los meses de invierno llevar ropa abrigadora y/o de temporada."
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "Entrada general S/. 2.00 y Pimenteleños: S/ 1.00"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Mayormente los fines de semana."
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "En las casetas."
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de interpretación",
+      "observacion": "Al ingreso del Muelle."
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Centros de interpretación",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Paradores turísticos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Boletería",
+      "observacion": "Al ingreso al Muelle."
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Otros (especificar)",
+      "observacion": "Servicios higiénicos"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "2** Ciudad de Pimentel"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "3*** Ciudad de Pimentel"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Albergues",
+      "observacion": "Playa las Rocas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Pimentel"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Pimentel - Rivera del mar"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Pimentel"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Pimentel"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Malecón y ciudad de Pimentel"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Oficina de Información",
+      "observacion": "A cargo de la Gerencia de Turismo del Municipio de Pimentel, ubicada en el Complejo Turístico - calle Manuel Seoane Frente a la Rivera del Mar."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Salvavidas",
+      "observacion": "Sólo de Enero a Marzo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Pimentel"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Ciudad de Pimentel"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Ciudad de Pimentel"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de bicicleta",
+      "observacion": "Ciudad de Pimentel"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de Pimentel"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Rivera del Mar, Plazuela José Olaya (ca. Manuel Seoane cdra 7, frente al casino de Pimentel)"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Ciudad de Pimentel."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "Malecón de Pimentel."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Marina turística",
+      "observacion": "Malecón de Pimentel."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Museo de Sitio Turísticos",
+      "observacion": "Ciudad de Pimentel"
+    }
+  ],
+  "descripcion": "En 1912, el Gobierno otorgó la concesión para construir un muelle para lanchas y un ferrocarril de 0.70 m en entrerriel entre Pimentel y el fundo Pomalca a la Sociedad Agrícola Pomalca Limitada. Los trabajos de la citada vía férrea comenzaron su primer tramo a fines del año 1913, llegando a inaugurarse el tramo Pimentel – Chiclayo en septiembre de 1914, el segundo tramo en 1915 y el tercer tramo en 1961.\nLa inauguración del muelle fue un acontecimiento memorable en aquella fecha en que se puso en actividad la locomotora que arrastrando su largo convoy unió el referido Puerto con la capital de Lambayeque. Los chiclayanos celebraron con júbilo y entusiasmo ese suceso, asistiendo a dicha inauguración todas las autoridades constituidas de Chiclayo y Lambayeque, las mismas que se confundieron con el pueblo para celebrar el acontecimiento regional, ese nuevo hito de progreso que se planteaba en el Departamento de Lambayeque.\nA Pimentel llegaban todos los vapores directos desde EE.UU de Norte América, Europa, Japón y otros países, pudiéndose recibir por dicha bahía la carga sin necesidad de trasbordo.\nDespués de 5 años de haberse implantado en nuestro departamento la Compañía ferrocarrilera de Pimentel con su respectivo muelle, el referido puerto disfrutó de su antigua categoría de puerto menor en la Provincia de Chiclayo, supeditado al régimen aduanero de aquella época, pero fue tan solo a fines de marzo de 1920 que el gobierno de don Augusto B. Leguía, en su apacible deseo de darle mejor vida a Pimentel dio la Ley Nº 4047 que el Congreso de la República Peruana expidió elevando Pimentel a Puerto Mayor.\nEl magnífico muelle de Pimentel comienza con una curva que fue técnicamente trazada, y construida por no poder conseguirse el terreno del que debía arrancar en línea recta para echarlo sobre el canal natural. El muelle tiene 602 mts. de longitud, su construcción es probadamente para soportar el movimiento portuario por mas de 97 años, sólida sobre pilotes de seis pulgadas de diámetro con tirantes de 1.1/2 en tramos de 4.1/2 y 6 mts; una viguería de hierro doble “T”, y plataforma de vigas de madera de 5’x8’ pulgadas. El proyecto del muelle, es del ingeniero Word, y modificado por la Bruckeban Flender A. G. Bemratha R.H., Alemania, que fue la firma que lo construyó.\nEl Muelle metálico que todavía nos acompaña, comenzó a operar en 1914 y fue un aliado estratégico para la defensa nacional en época de guerra así como aliviar las dificultades de los pueblos castigados por los fenómenos naturales. En la actualidad, el muelle está refaccionado y destinado al sector turismo, siendo de uso peatonal, y para pesca con cordel por parte de sus visitantes, además, se observa a los pescadores que a diario realizan sus labores de descarga y transporte de sus productos hidrobiológicos.",
+  "particularidades": "",
+  "estado_actual": "Regular estado de conservación, debido a que la infraestructura ha sido afectada por los fuertes vientos que se han presentado en la zona y la Municipalidad Distrital de Pimentel realiza mantenimiento de forma periódica.",
+  "observaciones": "Para la remodelación del Muelle se ha invertido una suma de 11 millones de soles.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "En 1912, el Gobierno otorgó la concesión para construir un muelle para lanchas y un ferrocarril de 0.70 m en entrerriel entre Pimentel y el fundo Pomalca a la Sociedad Agrícola Pomalca Limitada. Los trabajos de la citada vía férrea comenzaron su primer tramo a fines del año 1913, llegando a inaugurarse el tramo Pimentel – Chiclayo en septiembre de 1914, el segundo tramo en 1915 y el tercer tramo en 1961.\nLa inauguración del muelle fue un acontecimiento memorable en aquella fecha en que se puso en actividad la locomotora que arrastrando su largo convoy unió el referido Puerto con la capital de Lambayeque. Los chiclayanos celebraron con júbilo y entusiasmo ese suceso, asistiendo a dicha inauguración todas las autoridades constituidas de Chiclayo y Lambayeque, las mismas que se confundieron con el pueblo para celebrar el acontecimiento regional, ese nuevo hito de progreso que se planteaba en el Departamento de Lambayeque.\nA Pimentel llegaban todos los vapores directos desde EE.UU de Norte América, Europa, Japón y otros países, pudiéndose recibir por dicha bahía la carga sin necesidad de trasbordo.\nDespués de 5 años de haberse implantado en nuestro departamento la Compañía ferrocarrilera de Pimentel con su respectivo muelle, el referido puerto disfrutó de su antigua categoría de puerto menor en la Provincia de Chiclayo, supeditado al régimen aduanero de aquella época, pero fue tan solo a fines de marzo de 1920 que el gobierno de don Augusto B. Leguía, en su apacible deseo de darle mejor vida a Pimentel dio la Ley Nº 4047 que el Congreso de la República Peruana expidió elevando Pimentel a Puerto Mayor.\nEl magnífico muelle de Pimentel comienza con una curva que fue técnicamente trazada, y construida por no poder conseguirse el terreno del que debía arrancar en línea recta para echarlo sobre el canal natural. El muelle tiene 602 mts. de longitud, su construcción es probadamente para soportar el movimiento portuario por mas de 97 años, sólida sobre pilotes de seis pulgadas de diámetro con tirantes de 1.1/2 en tramos de 4.1/2 y 6 mts; una viguería de hierro doble “T”, y plataforma de vigas de madera de 5’x8’ pulgadas. El proyecto del muelle, es del ingeniero Word, y modificado por la Bruckeban Flender A. G. Bemratha R.H., Alemania, que fue la firma que lo construyó.\nEl Muelle metálico que todavía nos acompaña, comenzó a operar en 1914 y fue un aliado estratégico para la defensa nacional en época de guerra así como aliviar las dificultades de los pueblos castigados por los fenómenos naturales. En la actualidad, el muelle está refaccionado y destinado al sector turismo, siendo de uso peatonal, y para pesca con cordel por parte de sus visitantes, además, se observa a los pescadores que a diario realizan sus labores de descarga y transporte de sus productos hidrobiológicos."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "Reconocido como Patrimonio Histórico Cultural con R.M. Nº 803-2001-INC del 02.08.2001, por el Ministerio de Cultura."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Regular estado de conservación, debido a que la infraestructura ha sido afectada por los fuertes vientos que se han presentado en la zona y la Municipalidad Distrital de Pimentel realiza mantenimiento de forma periódica."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "Para la remodelación del Muelle se ha invertido una suma de 11 millones de soles."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n270\nCálculo de visitas anual aplicado los días 29 de marzo, 05, 12 y 17 de abril.\n2024\nValidado por la Dirección de Turismo y Artesanía de la Gercetur Lambayeque\nTuristas Nacionales\n1170\nCálculo de visitas anual aplicado los días 29 de marzo, 05, 12 y 17 de abril.\n2024\nValidado por la Dirección de Turismo y Artesanía de la Gercetur Lambayeque\nVisitantes Locales(Excursionistas)\n2610\nCálculo de visitas anual aplicado los días 29 de marzo, 05, 12 y 17 de abril.\n2024\nValidado por la Dirección de Turismo y Artesanía de la Gercetur Lambayeque."
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nLambayeque/Chiclayo/Chiclayo\n-\nLambayeque/Chiclayo/Pimentel\nChiclayo (Ca. Simón Bolívar Nº775) – Pimentel (Entre la Ca. Alfonso Ugarte con J.A. Quiñones)\nTerrestre\nCombi\nAsfaltado\n12 km / 35 min\n1\nLambayeque/Chiclayo/Pimentel\n-\nLambayeque/Chiclayo/Pimentel\nParque Principal de Pimentel al Muelle\nTerrestre\nA pie\nAsfaltado\n280 mts / 3 min\n1\nLambayeque/Chiclayo/Chiclayo\n-\nLambayeque/Chiclayo/Pimentel\nChiclayo (Parque principal) - Muelle de Pimentel\nTerrestre\nAutomóvil particular\nAsfaltado\n12 km / 25 min.\n1\nLambayeque/Chiclayo/Chiclayo\n-\nLambayeque/Chiclayo/Pimentel\nEn Colectivos: De Chiclayo (Ca. Pedro Ruiz Cdra 5, pasando tiendas EFE) - Pimentel (Entre la Ca. Alfonso Ugarte con J.A. Quiñones)\nTerrestre\nOtros (especificar)\nAsfaltado\n12 km / 25 min.\n1\nLambayeque/Chiclayo/Chiclayo\n-\nLambayeque/Chiclayo/Pimentel\nChiclayo (Parque principal) al Muelle de Pimentel\nTerrestre\nCamioneta doble tracción\nAsfaltado\n12 km / 25min.\n1\nLambayeque/Chiclayo/Chiclayo\n-\nLambayeque/Chiclayo/Pimentel\nChiclayo (Parque principal) al Muelle de Pimentel\nTerrestre\nMini bus turístico\nAsfaltado\n12 km/25min-\n1\nLambayeque/Chiclayo/Chiclayo\n-\nLambayeque/Chiclayo/Pimentel\nChiclayo (Parque principal) al Muelle de Pimentel\nTerrestre\nTaxi\nAsfaltado\n12 km/25min."
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nEntrada general S/. 2.00 y Pimenteleños: S/ 1.00"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n06:00 a.m.\n-\n09:00 p.m.\nDe lunes a domingo. Se recomienda llevar bloqueador solar, zapatillas. En los meses de invierno llevar ropa abrigadora y/o de temporada."
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nCompras de artesanía/souvenir\nEn las casetas.\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nRealización de eventos\nConferencias de prensa y exposiciones fotográficas.\nOtros\nOtros(Especificar)\ncompra de pescado fresco:caballa,chauchilla,bonito\nDeportes acuáticos\nPesca deportiva\n--\nNaturaleza\nObservación de fauna\nPescados, gaviotas.\nNaturaleza\nObservación de paisaje\nAtardeceres y playa."
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nAlimentación\nKioskos de comida y bebidas\nMayormente los fines de semana.\nInstalaciones Privadas\nOtros Servicios Turísticos\nVenta de artesanía\nEn las casetas.\nInstalaciones Públicas\nServicios Públicos\nSeñales turísticas de interpretación\nAl ingreso del Muelle.\nInstalaciones Públicas\nServicios Públicos\nCaminos peatonales\n--\nInstalaciones Públicas\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\n--\nInstalaciones Públicas\nServicios Públicos\nCentros de interpretación\n--\nInstalaciones Públicas\nServicios Públicos\nParadores turísticos\n--\nInstalaciones Públicas\nServicios Públicos\nBoletería\nAl ingreso al Muelle.\nInstalaciones Públicas\nServicios Públicos\nOtros (especificar)\nServicios higiénicos"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\n2** Ciudad de Pimentel\nAlojamiento\nHostales (especificar categorías)\n3*** Ciudad de Pimentel\nAlojamiento\nAlbergues\nPlaya las Rocas\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Pimentel\nAlimentación\nRestaurantes\nCiudad de Pimentel - Rivera del mar\nAlimentación\nBares\nCiudad de Pimentel\nAlimentación\nKioskos de comida y bebidas\nCiudad de Pimentel\nOtros Servicios Turísticos\nVenta de artesanía\nMalecón y ciudad de Pimentel\nOtros Servicios Turísticos\nOficina de Información\nA cargo de la Gerencia de Turismo del Municipio de Pimentel, ubicada en el Complejo Turístico - calle Manuel Seoane Frente a la Rivera del Mar.\nOtros Servicios Turísticos\nServicio de Salvavidas\nSólo de Enero a Marzo\nLugares de Recreación\nDiscotecas\nCiudad de Pimentel\nLugares de Recreación\nJuegos Infantiles\nCiudad de Pimentel\nLugares de Recreación\nCentros Deportivos\nCiudad de Pimentel\nOtros Servicios Turísticos\nAlquiler de bicicleta\nCiudad de Pimentel\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de Pimentel\nServicios Públicos\nEstacionamiento de vehículos\nRivera del Mar, Plazuela José Olaya (ca. Manuel Seoane cdra 7, frente al casino de Pimentel)\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nCiudad de Pimentel.\nServicios Públicos\nMiradores turísticos\nMalecón de Pimentel.\nServicios Públicos\nMarina turística\nMalecón de Pimentel.\nServicios Públicos\nMuseo de Sitio Turísticos\nCiudad de Pimentel"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Pimentel.\nBancos\nCiudad de Pimentel.\nCajero automático\nCiudad de Pimentel.\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Pimentel.\nServicio de estacionamiento\nRivera del Mar, Plazuela José Olaya (ca. Manuel Seoane cdra 7, frente al casino de Pimentel)\nServicios de taxis\nCiudad de Pimentel.\nServicios de salvavidas\nPlaya de Pimentel.\nCentro de salud - tópico\nCiudad de Pimentel.\nSeguridad / POLTUR / Comisaría\nCiudad de Pimentel.\nLibrerías\nCiudad de Pimentel.\nBodegas o minimarkets\nCiudad de Pimentel."
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nLuz (Suministro Eléctrico)\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Pimentel\nAlcantarillado sanitario\nCiudad de Pimentel\nLuz (Suministro Eléctrico)\nCiudad de Pimentel\nTeléfono\nCiudad de Pimentel\nSistemas de tratamiento alternativo de residuos (Biodigestor, pozo séptico, otros)\nCiudad de Pimentel."
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nEstado Peruano\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nNo tiene\nAdministrador por\nNombre\nMunicipalidad Distrital de Pimentel.\nTiempo de administración\n104 años, desde 1920"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nGERENCIA REGIONAL DE COMERCIO EXTERIOR Y TURISMO - LAMBAYEQUE\nNombre (Persona(s) responsable(s) del inventario turístico):\nLic. Magali Exebio Cabrera\nCargo:\nTécnico en Turismo\nCorreo:\nmagaliexebioc@gmail.com\nTeléfono:\n947672674\nFuentes Bibliográfica:\n- Pimentel: Pre Nacimiento, su Ayer, Hoy y Mañana - Libro Nº 19 “Colección el Mundo de Giselle” - Giesela Plenge Cuglievan - 2005.\n- Eugenio W. Ibañez I. Lambayeque Mitologia y Realidad – 1997. (pp. 514)\n- Revista Trayectos Nº 01, Carmen Julia Torres & Carla Buendia - Octubre 2012. Hablemos del muelle y sus 100 años de historia. (pp. 15-17).\n- Estudio Científico para Expediente Técnico (Impacto Medio Ambiental entre otros) Realizado por el Plan COPESCO Nacional en 2010 y Constructora Naylamp 210.\n- Pimentel y su Monografía de Alejandro Araujo en 1960.\n- Legislación de Muelles y Obras Portuarias, Roberto Huapaya Cana 1926.\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\nEn 2007 Proyecto de rehabilitación y acondicionamiento del Muelle Pimentel, aprobado con R.M. N°219–2007–MINCETUR/DM-Plan COPESCO Nacional.\nFecha:\n12/08/2024 10:04:38"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -6.835575926013207,
+    "longitud": -79.93792568220903
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-6.835575926013207,-79.93792568220903"
+}

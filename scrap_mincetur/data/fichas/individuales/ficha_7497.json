@@ -1,0 +1,228 @@
+{
+  "cod_ficha": 7497,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=7497",
+  "nombre": "Poza De Barro De Barranco - Punta Sal",
+  "departamento": "Tumbes",
+  "provincia": "Contralmirante Villar",
+  "distrito": "CANOAS DE PUNTA SAL",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "k. Agua termo-mineral",
+  "subtipo": "Otros",
+  "jerarquia": "2",
+  "altitud": "4",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=491063",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=491063",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=491109",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=491110",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=491111"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Otros(Especificar)"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Otros(Especificar)",
+      "observacion": "Baño en la poza.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/otros02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Tumbes/Tumbes/Tumbes - Tumbes/Contralmirante Villar/Canoas De Punta Sal",
+      "detalle": "Plaza Mayor de Tumbes -Paradero de Canoas de Punta Sal",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Combi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "85.3 km/ 1 h 30 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Tumbes/Contralmirante Villar/Canoas De Punta Sal - Tumbes/Contralmirante Villar/Canoas De Punta Sal",
+      "detalle": "Paradero de Canoas de Punta Sal - Comunidad Campesina de Máncora (inicio quebrada Fernández)",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "24.7km/ 15.m"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Tumbes/Contralmirante Villar/Canoas De Punta Sal - Tumbes/Contralmirante Villar/Canoas De Punta Sal",
+      "detalle": "Comunidad Campesina de Máncora (inicio quebrada Fernández) - Poza de Barro de Barranco",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "24 km/ 1 h 4 min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "494",
+      "horario": "Comunidad Campesina de Máncora",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "1630",
+      "horario": "Comunidad Campesina de Máncora",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "3480",
+      "horario": "Comunidad Campesina de Máncora",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "08:00 a.m. - 04:30 p.m. De lunes a domingo. Se recomienda traer ropa de baño, toalla, sandalias, lentes de de sol, bloqueador solar, ropa cómoda y agua para beber.",
+      "observaciones": "De lunes a domingo. Se recomienda traer ropa de baño, toalla, sandalias, lentes de de sol, bloqueador solar, ropa cómoda y agua para beber."
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "Adultos: S/ 5.00 - Niños hasta 10 años: S/ 3.00 - Adulto mayor y personas con discapacidad: ingreso libre"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Localidad de Canoas de Punta Sal"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Localidad de Canoas de Punta Sal"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "2,3 y 4 estrellas / Localidad de Canoas de Punta Sal"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Apart-hoteles (especificar categorías)",
+      "observacion": "3 estrellas/ Localidad de Canoas de Punta Sal"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de Tumbes"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Localidad de Canoas de Punta Sal"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de botes",
+      "observacion": "Localidad de Canoas de Punta Sal"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Localidad de Canoas de Punta Sal"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Localidad de Canoas de Punta Sal"
+    }
+  ],
+  "descripcion": "Es una poza de aguas calientes que salen desde el subsuelo. Estas aguas proceden de capas subterráneas de la Tierra que se encuentran a mayor temperatura de 45 grados, las cuales son ricas en diferentes componentes minerales. Colinda por el norte pueblo de Barranco y por el sur con Máncora, con una profundidad de 2mx1m, se puede apreciar con una fauna de diferentes especies, pájaro carpintero, pecho rojo, chiroca Ruiz, señor. Flora como es el algarrobo, uveral, palmeras.\nTiene propiedades curativas contra el estrés, artrosis y otras molestias. También puede considerarse como un spa natural, ya que deja la piel muy tersa y relajada después de un baño.\nAguas termales de la Poza de barro de Barranco es visitado por quienes deseen pasar un fin de semana sin estrés porque este recurso natural permite al turista relajarse y disfrutar a la vez de la naturaleza del entorno.",
+  "particularidades": "",
+  "estado_actual": "Bueno, porque la Comunidad Campesina se encarga de su mantenimiento y limpieza constante",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Es una poza de aguas calientes que salen desde el subsuelo. Estas aguas proceden de capas subterráneas de la Tierra que se encuentran a mayor temperatura de 45 grados, las cuales son ricas en diferentes componentes minerales. Colinda por el norte pueblo de Barranco y por el sur con Máncora, con una profundidad de 2mx1m, se puede apreciar con una fauna de diferentes especies, pájaro carpintero, pecho rojo, chiroca Ruiz, señor. Flora como es el algarrobo, uveral, palmeras.\nTiene propiedades curativas contra el estrés, artrosis y otras molestias. También puede considerarse como un spa natural, ya que deja la piel muy tersa y relajada después de un baño.\nAguas termales de la Poza de barro de Barranco es visitado por quienes deseen pasar un fin de semana sin estrés porque este recurso natural permite al turista relajarse y disfrutar a la vez de la naturaleza del entorno."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, porque la Comunidad Campesina se encarga de su mantenimiento y limpieza constante"
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n494\nComunidad Campesina de Máncora\n2022\nInformación Comunidad Campesina de Máncora\nTuristas Nacionales\n1630\nComunidad Campesina de Máncora\n2022\nInformación Comunidad Campesina de Máncora\nVisitantes Locales(Excursionistas)\n3480\nComunidad Campesina de Máncora\n2022\nInformación Comunidad Campesina de Máncora(niños/excursionistas)"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nTumbes/Tumbes/Tumbes\n-\nTumbes/Contralmirante Villar/Canoas De Punta Sal\nPlaza Mayor de Tumbes -Paradero de Canoas de Punta Sal\nTerrestre\nCombi\nAsfaltado\n85.3 km/ 1 h 30 min.\n1\nTumbes/Contralmirante Villar/Canoas De Punta Sal\n-\nTumbes/Contralmirante Villar/Canoas De Punta Sal\nParadero de Canoas de Punta Sal - Comunidad Campesina de Máncora (inicio quebrada Fernández)\nTerrestre\nAutomóvil particular\nAsfaltado\n24.7km/ 15.m\n1\nTumbes/Contralmirante Villar/Canoas De Punta Sal\n-\nTumbes/Contralmirante Villar/Canoas De Punta Sal\nComunidad Campesina de Máncora (inicio quebrada Fernández) - Poza de Barro de Barranco\nTerrestre\nAutomóvil particular\nTrocha carrozable\n24 km/ 1 h 4 min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nAdultos: S/ 5.00 - Niños hasta 10 años: S/ 3.00 - Adulto mayor y personas con discapacidad: ingreso libre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n08:00 a.m.\n-\n04:30 p.m.\nDe lunes a domingo. Se recomienda traer ropa de baño, toalla, sandalias, lentes de de sol, bloqueador solar, ropa cómoda y agua para beber."
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nOtros(Especificar)\nBaño en la poza."
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlimentación\nRestaurantes\nLocalidad de Canoas de Punta Sal\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nLocalidad de Canoas de Punta Sal\nAlojamiento\nHoteles (especificar categorías)\n2,3 y 4 estrellas / Localidad de Canoas de Punta Sal\nAlojamiento\nApart-hoteles (especificar categorías)\n3 estrellas/ Localidad de Canoas de Punta Sal\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de Tumbes\nOtros Servicios Turísticos\nVenta de artesanía\nLocalidad de Canoas de Punta Sal\nOtros Servicios Turísticos\nAlquiler de botes\nLocalidad de Canoas de Punta Sal\nAlimentación\nKioskos de comida y bebidas\nLocalidad de Canoas de Punta Sal\nAlimentación\nBares\nLocalidad de Canoas de Punta Sal"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nLocalidad de Canoas de Punta Sal\nCentro de salud - tópico\nLocalidad de Canoas de Punta Sal\nSeguridad / POLTUR / Comisaría\nLocalidad de Canoas de Punta Sal\nBodegas o minimarkets\nLocalidad de Canoas de Punta Sal\nEstación de servicios, grifos, gasolineras y gasocentros\nLocalidad de Canoas de Punta Sal\nOtros(especificar)\nAgentes Bancarios/Localidad de Canoas de Punta Sal\nBancos\nCiudad de Tumbes\nCasa de cambio\nCiudad de Tumbes"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nLocalidad de Canoas de Punta Sal\nLuz (Suministro Eléctrico)\nLocalidad de Canoas de Punta Sal\nAlcantarillado sanitario\nLocalidad de Canoas de Punta Sal\nTeléfono\nLocalidad de Canoas de Punta Sal\nSeñalización turística\nLocalidad de Canoas de Punta Sal"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\n--\nPrivado:\nComunidad Campesina de Máncora\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nPartida\nNúmero de Partida:\n04000281\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nComunidad Campesina de Máncora\nTiempo de administración\nDesde el año 2009"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo de Tumbes\nNombre (Persona(s) responsable(s) del inventario turístico):\nLuis Enrique Gonzaga Gamboa\nCargo:\nTécnico en Turismo\nCorreo:\nlgonsagamboa@gmaill.com\nTeléfono:\n964897275\nFuentes Bibliográfica:\n1) Sal de la rutina y visita las pozas de barro en Máncora. Autor: Walac Noticias (Medio de prensa digital de Piura), noviembre 2022 - Enlace: https://walac.pe/sal-de-la-rutina-y-visita-las-pozas-de-barro-en-mancora/\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n15/11/2023 11:16:00"
+    }
+  ],
+  "coordenadas": {
+    "latitud": null,
+    "longitud": null
+  },
+  "google_maps_url": null
+}

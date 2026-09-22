@@ -1,0 +1,432 @@
+{
+  "cod_ficha": 4614,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=4614",
+  "nombre": "Jirón De La Unión",
+  "departamento": "Lima",
+  "provincia": "Lima",
+  "distrito": "LIMA",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Arquitectura y Espacios Urbanos",
+  "subtipo": "Paseos peatonales",
+  "jerarquia": "2",
+  "altitud": "163",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=607544",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=607544",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=607545",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=607597",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=607546",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=607598",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=607599",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=607647",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=607648"
+  ],
+  "actividades_permitidas": [
+    "Otros - Compras de artesanía/souvenir",
+    "Otros - Toma de fotografías y filmaciones",
+    "Cultura y Folclore - Actividades Religiosas o Patronales",
+    "Cultura y Folclore - Apreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Compras de artesanía/souvenir",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/artesania02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Actividades Religiosas o Patronales",
+      "observacion": "Procesiones",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/act_religiosas02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Apreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)",
+      "observacion": "Pasacalles",
+      "icono_url": null
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Lima/Lima/Miraflores - Lima/Lima/Lima",
+      "detalle": "Parque Kennedy - Jirón de la Unión",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "6.70 Km. / 25 Min."
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Lima/Lima/Lima - Lima/Lima/Lima",
+      "detalle": "Plaza de Armas - Jirón de la Unión",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "0.015 Km. / 3 Min."
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "40860",
+      "horario": "Conteo muestral - Municipalidad Metropolitana de Lima",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "112410",
+      "horario": "Conteo muestral - Municipalidad Metropolitana de Lima",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "08:00 a.m. - 10:00 p.m. --",
+      "observaciones": "--"
+    },
+    {
+      "epoca": "Personas con discapacidad física",
+      "especificacion": "suelos podotáctiles",
+      "horario": "--",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Cines o Teatros",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "2 y 3 estrellas."
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Idiomas español, inglés, francés, portugués e italiano"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Otros (especificar)",
+      "observacion": "Servicios higiénicos."
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Museo de Sitio Turísticos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Otros(especificar)",
+      "observacion": "Sala de exposiciones"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "1, 2, 3 y 5 estrellas. Cercado de Lima."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "1, 2 y 3 estrellas. Cercado de Lima."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Cercado de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Cercado de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Cercado de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Cercado de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Cercado de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Cercado de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Cercado de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Cines o Teatros",
+      "observacion": "Cercado de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Cercado de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Cercado de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Cercado de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Cercado de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de carruajes",
+      "observacion": "Cercado de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Cercado de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Cercado de Lima."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "Cercado de Lima."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de interpretación",
+      "observacion": "Cercado de Lima."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Cercado de Lima."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Museo de Sitio Turísticos",
+      "observacion": "Cercado de Lima."
+    }
+  ],
+  "descripcion": "Este jirón fue el centro de la ciudad durante casi trescientos años. Formado desde las primeras décadas posteriores a la fundación de la ciudad, siempre fue una zona comercial muy importante. Durante mucho tiempo constituyó la vía más importante de la capital, reconocida por su carácter aristocrático y por ser punto de encuentro de destacados personajes de la sociedad limeña.\nNo fue sino hasta el siglo XX que recibió su nombre actual. En ese periodo se decidió reemplazar los tradicionales nombres y adoptarse la nueva nomenclatura urbana. El Jirón de la Unión pasó así a convertirse en un eje central a partir del cual se organizaba el trazado urbano. Los jirones que lo cruzaban tenían un nombre diferente según su recorrido hacia el este u oeste, haciendo alusión a los departamentos y provincias del Perú.\nEntre las décadas de 1920 y 1950, el jirón vivió su época dorada como lugar aristocrático. Se distinguía por albergar los mejores cafés, restaurantes, joyerías y tiendas de productos importados. Durante esta época, “jironear” implicaba vestirse con las mejores galas y recorrer con elegancia esta emblemática calle\nFue en la década de 1990, bajo el mandato del entonces alcalde Alberto Andrade, que se llevó a cabo un proceso de reordenamiento del centro histórico. Esta intervención permitió la reactivación económica del jirón. En la actualidad, ha recuperado su rol como vía comercial, aunque ha perdido el carácter aristocrático de antaño.\nEl Jirón de la Unión está conformado por 11 cuadras. Inicia su recorrido en el Puente Trujillo ya que es la continuación de la calle Trujillo del distrito del Rímac. En su segunda cuadra, destaca el lado oriental del Palacio de Gobierno y, al final de esta, la Plaza Perú, donde antiguamente se encontraba la estatua de Francisco Pizarro. Aquí también se ubican dos joyas arquitectónicas: la Casa Aliaga y el Pasaje Piura o Pasaje del Correo. La tercera cuadra alberga la histórica Plaza de Armas, así como los Palacios Municipal y de la Unión. En la cuarta cuadra, a lo largo de los siglos, funcionaron importantes establecimientos comerciales, entre ellos el estudio fotográfico de Eugenio Courret y la Casa Welsh, especializada en relojes, joyería, cristales y porcelanas. En la quinta cuadra se encuentra la casa donde vivió el prócer de la independencia de Chile, Bernardo O’Higgins. Actualmente, esta sede acoge exposiciones, actividades culturales y una tienda por departamentos. La sexta cuadra es hogar de la Iglesia y Convento de La Merced. Frente a este templo se encuentra la Plazoleta de La Merced, donde, en 1821, el general don José de San Martín proclamó nuevamente la independencia del Perú durante su recorrido por la ciudad. Tras cruzar la avenida Emancipación, la séptima cuadra albergó el Palais Concert, punto de encuentro de los intelectuales limeños de los años 20. La octava cuadra es sede de un cine y de las galerías Vía Veneto y Boza, siendo esta última el lugar donde se instalaron las primeras escaleras mecánicas del país en la década de 1960. La novena cuadra bordea el lado occidental de la Plaza San Martín y acoge al emblemático Hotel Bolívar. La décima cuadra alberga el Museo Andrés del Castillo, y la onceava, aunque menos activa comercialmente, destaca por el Edificio Rímac.\nEl Jirón de la Unión ha sido y continúa siendo protagonista y testigo de gran parte de la historia de Lima. Su evolución refleja los cambios sociales, políticos y culturales de la ciudad a lo largo del tiempo. Aunque enfrenta retos en su conservación y adaptación a las necesidades urbanas actuales, los esfuerzos por preservarlo y revitalizarlo son evidentes, lo que lo convierte en un espacio dinámico que sigue siendo relevante en la Lima contemporánea.",
+  "particularidades": "",
+  "estado_actual": "Bueno, porque la Municipalidad Metropolitana de Lima se encarga de su cuidado constante.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Este jirón fue el centro de la ciudad durante casi trescientos años. Formado desde las primeras décadas posteriores a la fundación de la ciudad, siempre fue una zona comercial muy importante. Durante mucho tiempo constituyó la vía más importante de la capital, reconocida por su carácter aristocrático y por ser punto de encuentro de destacados personajes de la sociedad limeña.\nNo fue sino hasta el siglo XX que recibió su nombre actual. En ese periodo se decidió reemplazar los tradicionales nombres y adoptarse la nueva nomenclatura urbana. El Jirón de la Unión pasó así a convertirse en un eje central a partir del cual se organizaba el trazado urbano. Los jirones que lo cruzaban tenían un nombre diferente según su recorrido hacia el este u oeste, haciendo alusión a los departamentos y provincias del Perú.\nEntre las décadas de 1920 y 1950, el jirón vivió su época dorada como lugar aristocrático. Se distinguía por albergar los mejores cafés, restaurantes, joyerías y tiendas de productos importados. Durante esta época, “jironear” implicaba vestirse con las mejores galas y recorrer con elegancia esta emblemática calle\nFue en la década de 1990, bajo el mandato del entonces alcalde Alberto Andrade, que se llevó a cabo un proceso de reordenamiento del centro histórico. Esta intervención permitió la reactivación económica del jirón. En la actualidad, ha recuperado su rol como vía comercial, aunque ha perdido el carácter aristocrático de antaño.\nEl Jirón de la Unión está conformado por 11 cuadras. Inicia su recorrido en el Puente Trujillo ya que es la continuación de la calle Trujillo del distrito del Rímac. En su segunda cuadra, destaca el lado oriental del Palacio de Gobierno y, al final de esta, la Plaza Perú, donde antiguamente se encontraba la estatua de Francisco Pizarro. Aquí también se ubican dos joyas arquitectónicas: la Casa Aliaga y el Pasaje Piura o Pasaje del Correo. La tercera cuadra alberga la histórica Plaza de Armas, así como los Palacios Municipal y de la Unión. En la cuarta cuadra, a lo largo de los siglos, funcionaron importantes establecimientos comerciales, entre ellos el estudio fotográfico de Eugenio Courret y la Casa Welsh, especializada en relojes, joyería, cristales y porcelanas. En la quinta cuadra se encuentra la casa donde vivió el prócer de la independencia de Chile, Bernardo O’Higgins. Actualmente, esta sede acoge exposiciones, actividades culturales y una tienda por departamentos. La sexta cuadra es hogar de la Iglesia y Convento de La Merced. Frente a este templo se encuentra la Plazoleta de La Merced, donde, en 1821, el general don José de San Martín proclamó nuevamente la independencia del Perú durante su recorrido por la ciudad. Tras cruzar la avenida Emancipación, la séptima cuadra albergó el Palais Concert, punto de encuentro de los intelectuales limeños de los años 20. La octava cuadra es sede de un cine y de las galerías Vía Veneto y Boza, siendo esta última el lugar donde se instalaron las primeras escaleras mecánicas del país en la década de 1960. La novena cuadra bordea el lado occidental de la Plaza San Martín y acoge al emblemático Hotel Bolívar. La décima cuadra alberga el Museo Andrés del Castillo, y la onceava, aunque menos activa comercialmente, destaca por el Edificio Rímac.\nEl Jirón de la Unión ha sido y continúa siendo protagonista y testigo de gran parte de la historia de Lima. Su evolución refleja los cambios sociales, políticos y culturales de la ciudad a lo largo del tiempo. Aunque enfrenta retos en su conservación y adaptación a las necesidades urbanas actuales, los esfuerzos por preservarlo y revitalizarlo son evidentes, lo que lo convierte en un espacio dinámico que sigue siendo relevante en la Lima contemporánea."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "Declarado por el Instituto Nacional de Cultura (Ministerio de Cultura), como Ambiente Urbano Monumental por R.M. No. 0928-80-ED, el 23 de julio de 1980."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, porque la Municipalidad Metropolitana de Lima se encarga de su cuidado constante."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Nacionales\n40860\nConteo muestral - Municipalidad Metropolitana de Lima\n2025\nProyeccion a junio 2026\nTuristas Extranjeros\n112410\nConteo muestral - Municipalidad Metropolitana de Lima\n2025\nProyeccion a junio 2026"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nLima/Lima/Miraflores\n-\nLima/Lima/Lima\nParque Kennedy - Jirón de la Unión\nTerrestre\nAutomóvil particular\nAsfaltado\n6.70 Km. / 25 Min.\n2\nLima/Lima/Lima\n-\nLima/Lima/Lima\nPlaza de Armas - Jirón de la Unión\nTerrestre\nA pie\nAsfaltado\n0.015 Km. / 3 Min."
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n08:00 a.m.\n-\n10:00 p.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nCompras de artesanía/souvenir\n--\nOtros\nToma de fotografías y filmaciones\n--\nCultura y Folclore\nActividades Religiosas o Patronales\nProcesiones\nCultura y Folclore\nApreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)\nPasacalles"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nAlimentación\nRestaurantes\n--\nInstalaciones Privadas\nAlimentación\nBares\n--\nInstalaciones Privadas\nAlimentación\nFuentes de soda\n--\nInstalaciones Privadas\nLugares de Recreación\nCines o Teatros\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nAgencia de Viajes\n--\nInstalaciones Privadas\nAlojamiento\nHoteles (especificar categorías)\n2 y 3 estrellas.\nInstalaciones Privadas\nAlimentación\nCafeterías\n--\nInstalaciones Privadas\nAlimentación\nVenta de comida Rápida\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nIdiomas español, inglés, francés, portugués e italiano\nInstalaciones Públicas\nServicios Públicos\nOtros (especificar)\nServicios higiénicos.\nInstalaciones Públicas\nServicios Públicos\nMuseo de Sitio Turísticos\n--\nInstalaciones Privadas\nLugares de Recreación\nOtros(especificar)\nSala de exposiciones\nInstalaciones Privadas\nOtros Servicios Turísticos\nVenta de artesanía\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\n1, 2, 3 y 5 estrellas. Cercado de Lima.\nAlojamiento\nHostales (especificar categorías)\n1, 2 y 3 estrellas. Cercado de Lima.\nAlimentación\nRestaurantes\nCercado de Lima\nAlimentación\nBares\nCercado de Lima\nAlimentación\nCafeterías\nCercado de Lima\nAlimentación\nFuentes de soda\nCercado de Lima\nAlimentación\nKioskos de comida y bebidas\nCercado de Lima\nAlimentación\nVenta de comida Rápida\nCercado de Lima\nLugares de Recreación\nDiscotecas\nCercado de Lima\nLugares de Recreación\nCines o Teatros\nCercado de Lima\nLugares de Recreación\nJuegos Infantiles\nCercado de Lima\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nCercado de Lima\nOtros Servicios Turísticos\nVenta de artesanía\nCercado de Lima\nOtros Servicios Turísticos\nAgencia de Viajes\nCercado de Lima\nOtros Servicios Turísticos\nAlquiler de carruajes\nCercado de Lima\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nCercado de Lima\nServicios Públicos\nEstacionamiento de vehículos\nCercado de Lima.\nServicios Públicos\nSeñales turísticas de orientación\nCercado de Lima.\nServicios Públicos\nSeñales turísticas de interpretación\nCercado de Lima.\nServicios Públicos\nOficina de Información turística\nCercado de Lima.\nServicios Públicos\nMuseo de Sitio Turísticos\nCercado de Lima."
+    },
+    {
+      "titulo": "Servicios Complementarios dentro del recurso",
+      "contenido": "Servicio Complementario\nObservación\nBancos\n--\nCajero automático\n--\nCasa de cambio\n--\nVenta de materiales para fotografías\n--\nSeguridad / POLTUR / Comisaría\n--\nBodegas o minimarkets\n--"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCercado de Lima\nBancos\nCercado de Lima\nCajero automático\nCercado de Lima\nCasa de cambio\nCercado de Lima\nEstación de servicios, grifos, gasolineras y gasocentros\nCercado de Lima\nServicio de correos\nCercado de Lima\nServicio de estacionamiento\nCercado de Lima\nServicios de taxis\nCercado de Lima\nCentro de salud - tópico\nCercado de Lima\nVenta de materiales para fotografías\nCercado de Lima\nAlquiler y compra de equipos deportivos\nCercado de Lima\nLibrerías\nCercado de Lima\nBodegas o minimarkets\nCercado de Lima"
+    },
+    {
+      "titulo": "Condiciones de Accesibilidad al Visitante",
+      "contenido": "Visitante\nInstalación\nActividades y/o programas\nEquipamiento\nObservación\nPersonas con discapacidad física\nsuelos podotáctiles\n--\n--\n--"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\n--\nLuz (Suministro Eléctrico)\n--\nTeléfono\n--\nSeñalización turística\n--\nAlcantarillado sanitario\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCercado de Lima\nLuz (Suministro Eléctrico)\nCercado de Lima\nTeléfono\nCercado de Lima\nSeñalización turística\nCercado de Lima\nAlcantarillado sanitario\nCercado de Lima"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nEstado Peruano - Municipalidad Metropolitana de Lima\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nLey N° 27972 - Ley orgánica de municipalidades y Ley Nº 31199 – Ley de gestión y protección de los espacios públicos\nAdministrador por\nNombre\nMunicipalidad Metropolitana de Lima\nTiempo de administración\nDesde el año 1535"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nMunicipalidad Metropolitana de Lima\nNombre (Persona(s) responsable(s) del inventario turístico):\nAlex Reaño Torres/Guiliana Prada Caceres\nCargo:\nEspecialista en turismo/Técnico en elaboración de inventarios.\nCorreo:\nalexreanotorres@gmail.com/patricia.prada@munlima.gob.pe\nTeléfono:\n01-6321801\nFuentes Bibliográfica:\n1) Capristán, Marco Antonio (2023). La historia de Lima. Pinceladas limeñas. Primera edición. Lima.\n2) Reinhard, Augustin (2017) El Damero de Pizarro. El trazo y la forja de Lima. Primera edición. Municipalidad Metropolitana de Lima.\n3) Bromley, Juan (2019). Las viejas calles de Lima. Fondo Editorial de la Municipalidad de Lima\nMaterial Audiovisual actual del Recurso:\n--\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n27/06/2025 14:56:23"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -12.048552,
+    "longitud": -77.03308500000003
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-12.048552,-77.03308500000003"
+}

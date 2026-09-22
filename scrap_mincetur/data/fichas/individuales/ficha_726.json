@@ -1,0 +1,250 @@
+{
+  "cod_ficha": 726,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=726",
+  "nombre": "Lago Cocococha",
+  "departamento": "Madre De Dios",
+  "provincia": "Tambopata",
+  "distrito": "TAMBOPATA",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "g. Cuerpo de Agua",
+  "subtipo": "Lagos",
+  "jerarquia": "3",
+  "altitud": "218",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=435723",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=435723",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=435854",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=435855"
+  ],
+  "actividades_permitidas": [
+    "Naturaleza - Observación de fauna",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de aves",
+    "Deportes / Aventura - Caminata/Trekking",
+    "Paseos - Paseos en bote"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de fauna",
+      "observacion": "Lobo de río, agouti, ardilla roja",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fauna02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "Aguajes y gramineas",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de aves",
+      "observacion": "Agami heron, martín pescador, cormoran, hoatzin, guacamayo boliviano, guacamayo militaris",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/aves02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "Ruta de acceso al lago",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    },
+    {
+      "actividad": "Paseos",
+      "tipo": "Paseos en bote",
+      "observacion": "En catamaran",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paseo_bote02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Madre De Dios/Tambopata/Tambopata - Madre De Dios/Tambopata/Tambopata",
+      "detalle": "Ciudad de Puerto Maldonado - Comunidad Nativa de Infierno",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus turístico",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "19km/45minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Madre De Dios/Tambopata/Tambopata - Madre De Dios/Tambopata/Tambopata",
+      "detalle": "Comunidad Nativa de Infierno (Embarcadero) - Puerto ingreso Albergue Explorer´s In",
+      "tipo_acceso": "Lacustre / Fluvial",
+      "medio_transporte": "Bote",
+      "tipo_via": "",
+      "distancia_tiempo": "39km/1.30 horas"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Madre De Dios/Tambopata/Tambopata - Madre De Dios/Tambopata/Tambopata",
+      "detalle": "Puerto ingreso albergue Explorer´s In-Lago Cocococha",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Sendero",
+      "distancia_tiempo": "5km/2 horas"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "286",
+      "horario": "RESERVA NACIONAL TAMBOPATA",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "19",
+      "horario": "Reserva Nacional Tambopata",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "06:00 a.m. - 05:00 p.m. Control en los Puestos de Vigilancia de la Reserva",
+      "observaciones": "Control en los Puestos de Vigilancia de la Reserva"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "Tarifario RNTAMB Extranjeros: S/.30.00 por día. Nacionales: S/. 15.00 por día. Local: S/.8.00 por día"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "Escondite para avistamiento de fauna en el Lago Cocococha"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "Ciudad de Puerto Maldonado (Hoteles hasta 3 estrellas)"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Albergues",
+      "observacion": "Rivera del Río Tambopata"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Puerto Maldonado"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Puerto Maldonado"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Puerto Maldonado"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Comunidad Nativa de Infierno"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Comunidad Nativa de Infierno y ciudad de Puerto Maldonado"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de Puerto Maldondo"
+    }
+  ],
+  "descripcion": "Se ubica en la margen derecha del río Tambopata, dentro de la Reserva Nacional Tambopata, aproximadamente a 70 km de la ciudad de Puerto Maldonado.\nSe accede desde Puerto Maldonado por carretera hasta la comunidad nativa Infierno, siguiendo dos horas por el río Tambopata, hasta el puesto de control y vigilancia La Torre, desde donde se realiza una caminata por un sendero durante dos horas aproximadamente.\nEl lago cuenta con una excepcional belleza paisajista, tiene forma alargada de U típica de las cochas amazónicas, con un área aproximada de 47.14 has, el color de sus aguas es verde oscuro por la alta concentración de materia orgánica que contiene.\nEste ecosistema cuenta con una gran belleza paisajista y alta biodiversidad de flora y fauna, destacando la presencia lobos de río, caimanes negros, aves como; puma garzas, guacamayos, azul, amarillo, loros, cormorán. Destacan también especies de flora como aguajales, lupuna, shihuahuaco, renacos, entre otros.\nEste lago es uno de los pocos lugares de reproducción y anidamiento de una comunidad numerosa de las Agami Heron (garza azul), ave difícil de observar en otros lugares de la región.",
+  "particularidades": "",
+  "estado_actual": "Bueno. Se encuentra en buenas condiciones, no se aprecia alteración del paisaje, ni intervención. Se ha realizado mantenimiento de trochas.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Se ubica en la margen derecha del río Tambopata, dentro de la Reserva Nacional Tambopata, aproximadamente a 70 km de la ciudad de Puerto Maldonado.\nSe accede desde Puerto Maldonado por carretera hasta la comunidad nativa Infierno, siguiendo dos horas por el río Tambopata, hasta el puesto de control y vigilancia La Torre, desde donde se realiza una caminata por un sendero durante dos horas aproximadamente.\nEl lago cuenta con una excepcional belleza paisajista, tiene forma alargada de U típica de las cochas amazónicas, con un área aproximada de 47.14 has, el color de sus aguas es verde oscuro por la alta concentración de materia orgánica que contiene.\nEste ecosistema cuenta con una gran belleza paisajista y alta biodiversidad de flora y fauna, destacando la presencia lobos de río, caimanes negros, aves como; puma garzas, guacamayos, azul, amarillo, loros, cormorán. Destacan también especies de flora como aguajales, lupuna, shihuahuaco, renacos, entre otros.\nEste lago es uno de los pocos lugares de reproducción y anidamiento de una comunidad numerosa de las Agami Heron (garza azul), ave difícil de observar en otros lugares de la región."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno. Se encuentra en buenas condiciones, no se aprecia alteración del paisaje, ni intervención. Se ha realizado mantenimiento de trochas."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n286\nRESERVA NACIONAL TAMBOPATA\n2021\nTuristas Nacionales\n19\nReserva Nacional Tambopata\n2021"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nMadre De Dios/Tambopata/Tambopata\n-\nMadre De Dios/Tambopata/Tambopata\nCiudad de Puerto Maldonado - Comunidad Nativa de Infierno\nTerrestre\nBus turístico\nAfirmado\n19km/45minutos\n1\nMadre De Dios/Tambopata/Tambopata\n-\nMadre De Dios/Tambopata/Tambopata\nComunidad Nativa de Infierno (Embarcadero) - Puerto ingreso Albergue Explorer´s In\nLacustre / Fluvial\nBote\n39km/1.30 horas\n1\nMadre De Dios/Tambopata/Tambopata\n-\nMadre De Dios/Tambopata/Tambopata\nPuerto ingreso albergue Explorer´s In-Lago Cocococha\nTerrestre\nA pie\nSendero\n5km/2 horas"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nTarifario RNTAMB\nExtranjeros: S/.30.00 por día.\nNacionales: S/. 15.00 por día.\nLocal: S/.8.00 por día"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n06:00 a.m.\n-\n05:00 p.m.\nControl en los Puestos de Vigilancia de la Reserva"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nNaturaleza\nObservación de fauna\nLobo de río, agouti, ardilla roja\nNaturaleza\nObservación de flora\nAguajes y gramineas\nNaturaleza\nObservación de aves\nAgami heron, martín pescador, cormoran, hoatzin, guacamayo boliviano, guacamayo militaris\nDeportes / Aventura\nCaminata/Trekking\nRuta de acceso al lago\nPaseos\nPaseos en bote\nEn catamaran"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Públicas\nServicios Públicos\nMiradores turísticos\nEscondite para avistamiento de fauna en el Lago Cocococha"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\nCiudad de Puerto Maldonado (Hoteles hasta 3 estrellas)\nAlojamiento\nAlbergues\nRivera del Río Tambopata\nAlimentación\nRestaurantes\nCiudad de Puerto Maldonado\nAlimentación\nBares\nCiudad de Puerto Maldonado\nAlimentación\nCafeterías\nCiudad de Puerto Maldonado\nAlimentación\nKioskos de comida y bebidas\nComunidad Nativa de Infierno\nOtros Servicios Turísticos\nVenta de artesanía\nComunidad Nativa de Infierno y ciudad de Puerto Maldonado\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de Puerto Maldondo"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nCentro de salud - tópico\nComunidad Nativa de Infierno/Ciudad de Puerto Maldonado\nSeguridad / POLTUR / Comisaría\nCiudad de Puerto Maldonado\nServicios de internet\nCiudad de Puerto Maldonado"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nOtros (Especificar)\nEscondite para mirador de aves en el lago"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nPuerto Maldonado\nDesagüe\nPuerto Maldonado\nLuz (Suministro Eléctrico)\nPuerto Maldonado\nTeléfono\nPuerto Maldonado"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nINSCRIPCIÓN DE ÁREAS NATURALES PROTEGIDAS RESERVA NACIONAL TAMBOPATA\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nRESERVA NACIONAL TAMBOPATA\nNúmero de Partida:\n11143392\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nServicio Nacional de Áreas Naturales Protegidas por el Estado - SERNANP.\nTiempo de administración\nDesde el 2000"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección de Comercio Exterior y Turismo\nNombre (Persona(s) responsable(s) del inventario turístico):\nRosa Milagros Delgado Huaytalla\nCargo:\nTécnico en Producto Turístico\nCorreo:\nrmilagrosd@gmail.com\nTeléfono:\n953458376\nFuentes Bibliográfica:\nPlan Maestro de la Reserva Nacional de Tambopata 2019-2024\nGuía de Recursos Turísticos de Madre de Dios -2014\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n5/07/2022"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -12.816622,
+    "longitud": -69.26311499999997
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-12.816622,-69.26311499999997"
+}

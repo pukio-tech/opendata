@@ -1,0 +1,261 @@
+{
+  "cod_ficha": 3048,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=3048",
+  "nombre": "Catarata Alto Shambillo",
+  "departamento": "Ucayali",
+  "provincia": "Padre Abad",
+  "distrito": "BOQUERON",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "j. Caídas de agua",
+  "subtipo": "Cataratas",
+  "jerarquia": "1",
+  "altitud": "283",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=291275",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=291275",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=487015",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=487295",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=487358",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=487300",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=487413",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=487378",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=487419",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=636052",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=636053",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=636054",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=636100"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Paseos - Excursiones",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de paisaje",
+    "Naturaleza - Observación de aves",
+    "Deportes / Aventura - Caminata/Trekking"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Paseos",
+      "tipo": "Excursiones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/excursiones02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "Cetico, Pan del árbol, Oreja de elefante, heliconias",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de aves",
+      "observacion": "Picaflor, Shihuango, Azulejo real",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/aves02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Ucayali/Padre Abad/Boqueron - Ucayali/Padre Abad/Boqueron",
+      "detalle": "Plaza de Armas de Aguaytía - Carretera Federico Basadre Aguaytia hasta la altura de la Universidad de Ucayali Sede Aguaytia/Boquerón - Entrada al Caserío Alto Shambillo",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Combi",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "21 km/ 35 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Ucayali/Padre Abad/Boqueron - Ucayali/Padre Abad/Boqueron",
+      "detalle": "Entrada al caserío alto shambillo - Salida del caserío Alto Shambillo",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Combi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "1.2 km/ 4 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Ucayali/Padre Abad/Boqueron - Ucayali/Padre Abad/Boqueron",
+      "detalle": "Salida del caserío Alto Shambillo - Catarata Alto Shambillo",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Sendero",
+      "distancia_tiempo": "5 km / 1 hora."
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "35",
+      "horario": "Registro de Visitantes emitido por la Agencia de viajes y turismo Eco turismo Aguaytia",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "286",
+      "horario": "Registro de Visitantes emitido por la Agencia de viajes y turismo Eco turismo Aguaytia",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "116",
+      "horario": "Registro de Visitantes emitido por la Agencia de viajes y turismo Eco turismo Aguaytia",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "08:00 a.m. - 04:00 p.m. --",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Semi-restringido(previo permiso)",
+      "observaciones": "Coordinar con los pobladores de la comunidad. Asociación Encanto de la fauna silvestre de las cataratas de alto shambillo"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Aguaytía"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Aguaytía"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Aguaytía"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Ciudad de Aguaytia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Aguaytía"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Ciudad de Aguaytía"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "Ciudad de Aguaytía"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Ciudad de Aguaytía"
+    }
+  ],
+  "descripcion": "La Catarata de Shambillo se encuentra ubicada en el distrito de Boquerón, provincia de Padre Abad, región Ucayali, dentro de la región natural Rupa Rupa o Selva Alta. Cuenta con tres saltos de agua principales: la primera, que comienza en la cima, mide un aproximado de 10 metros de altura; el segundo, 40 metros de altura; y el tercero, el más alto, unos 60 metros de altura, que al caer el agua de color verde esmeralda, salpicando y lavando las rocas, forma una gran poza de 30 metros cuadrados que discurre entre las piedras, formándose un gran río, lugar ideal para nadar. El entorno presenta un clima cálido y húmedo, con temperaturas promedio anuales entre 19 °C y 25 °C. El recurso turístico se encuentra a 5 km (1 hora aproximadamente) de camino de herradura aproximadamente desde el caserío de Alto Shambillo, punto de partida para llegar a la catarata. Desde allí, el recorrido inicia por un camino carrozable, rodeado por un bosque secundario con una típica vegetación correspondiente a esta zona de vida, en donde destacan el nogal (Juglans regia), diablo fuerte (Podocarpus sp), bombonaje (Carludovica palmata), helechos (Pteridium aquilinum), bromelias (Guzmania sp), musgos (Hypopterygium sp). Parte de las aguas de la catarata son utilizadas para consumo humano en la ciudad de Aguaytía.\nLa Catarata de Shambillo se presenta como un lugar mágico para quienes buscan serenidad y aventura. En este escenario vibrante, los visitantes pueden deleitarse con la riqueza de la flora y fauna local y disfrutar de un baño revitalizante en sus aguas esmeralda. Más que un paseo, es una inmersión total en la naturaleza que permite dejar atrás la rutina urbana.",
+  "particularidades": "",
+  "estado_actual": "Bueno, la comunidad de Alto Shambillo, Asociación Encanto de la Fauna Silvestre Silvestre de las Cataratas de Alto Shambillo.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "La Catarata de Shambillo se encuentra ubicada en el distrito de Boquerón, provincia de Padre Abad, región Ucayali, dentro de la región natural Rupa Rupa o Selva Alta. Cuenta con tres saltos de agua principales: la primera, que comienza en la cima, mide un aproximado de 10 metros de altura; el segundo, 40 metros de altura; y el tercero, el más alto, unos 60 metros de altura, que al caer el agua de color verde esmeralda, salpicando y lavando las rocas, forma una gran poza de 30 metros cuadrados que discurre entre las piedras, formándose un gran río, lugar ideal para nadar. El entorno presenta un clima cálido y húmedo, con temperaturas promedio anuales entre 19 °C y 25 °C. El recurso turístico se encuentra a 5 km (1 hora aproximadamente) de camino de herradura aproximadamente desde el caserío de Alto Shambillo, punto de partida para llegar a la catarata. Desde allí, el recorrido inicia por un camino carrozable, rodeado por un bosque secundario con una típica vegetación correspondiente a esta zona de vida, en donde destacan el nogal (Juglans regia), diablo fuerte (Podocarpus sp), bombonaje (Carludovica palmata), helechos (Pteridium aquilinum), bromelias (Guzmania sp), musgos (Hypopterygium sp). Parte de las aguas de la catarata son utilizadas para consumo humano en la ciudad de Aguaytía.\nLa Catarata de Shambillo se presenta como un lugar mágico para quienes buscan serenidad y aventura. En este escenario vibrante, los visitantes pueden deleitarse con la riqueza de la flora y fauna local y disfrutar de un baño revitalizante en sus aguas esmeralda. Más que un paseo, es una inmersión total en la naturaleza que permite dejar atrás la rutina urbana."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, la comunidad de Alto Shambillo, Asociación Encanto de la Fauna Silvestre Silvestre de las Cataratas de Alto Shambillo."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n35\nRegistro de Visitantes emitido por la Agencia de viajes y turismo Eco turismo Aguaytia\n2024\nFicha de registro en el sistema de reserva de la agencia operadora\nTuristas Nacionales\n286\nRegistro de Visitantes emitido por la Agencia de viajes y turismo Eco turismo Aguaytia\n2024\nFicha de registro en el sistema de reserva de la agencia operadora\nVisitantes Locales(Excursionistas)\n116\nRegistro de Visitantes emitido por la Agencia de viajes y turismo Eco turismo Aguaytia\n2024\nFicha de registro en el sistema de reserva de la agencia operadora"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nUcayali/Padre Abad/Boqueron\n-\nUcayali/Padre Abad/Boqueron\nPlaza de Armas de Aguaytía - Carretera Federico Basadre Aguaytia hasta la altura de la Universidad de Ucayali Sede Aguaytia/Boquerón - Entrada al Caserío Alto Shambillo\nTerrestre\nCombi\nAfirmado\n21 km/ 35 min\n1\nUcayali/Padre Abad/Boqueron\n-\nUcayali/Padre Abad/Boqueron\nEntrada al caserío alto shambillo - Salida del caserío Alto Shambillo\nTerrestre\nCombi\nAsfaltado\n1.2 km/ 4 min\n1\nUcayali/Padre Abad/Boqueron\n-\nUcayali/Padre Abad/Boqueron\nSalida del caserío Alto Shambillo - Catarata Alto Shambillo\nTerrestre\nA pie\nSendero\n5 km / 1 hora."
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nSemi-restringido(previo permiso)\nCoordinar con los pobladores de la comunidad. Asociación Encanto de la fauna silvestre de las cataratas de alto shambillo"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n08:00 a.m.\n-\n04:00 p.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nPaseos\nExcursiones\n--\nNaturaleza\nObservación de flora\nCetico, Pan del árbol, Oreja de elefante, heliconias\nNaturaleza\nObservación de paisaje\n--\nNaturaleza\nObservación de aves\nPicaflor, Shihuango, Azulejo real\nDeportes / Aventura\nCaminata/Trekking\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Aguaytía\nAlimentación\nRestaurantes\nCiudad de Aguaytía\nAlimentación\nBares\nCiudad de Aguaytía\nAlimentación\nFuentes de soda\nCiudad de Aguaytia\nAlimentación\nKioskos de comida y bebidas\nCiudad de Aguaytía\nServicios Públicos\nEstacionamiento de vehículos\nCiudad de Aguaytía\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\nCiudad de Aguaytía\nServicios Públicos\nOficina de Información turística\nCiudad de Aguaytía"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Aguaytía\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Aguaytía\nSeguridad / POLTUR / Comisaría\nCiudad de Aguaytía\nBodegas o minimarkets\nCiudad de Aguaytía\nCajero automático\nCiudad de Aguaytía\nCentro de salud - tópico\nCiudad de Aguaytía\nBancos\nCiudad de Aguaytía\nServicios de taxis\nCiudad de Aguaytía"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nSeñalización turística\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Aguaytía\nAlcantarillado sanitario\nCiudad de Aguaytía\nLuz (Suministro Eléctrico)\nCiudad de Aguaytía y Caserío Alto Shambillo\nTeléfono\nCiudad de Aguaytía y Caserío Alto Shambillo\nSeñalización turística\nCiudad de Aguaytía y Caserío Alto Shambillo\nEnergía Alternativa\nCiudad de Aguaytía"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nAsociación Encanto de la Fauna Silvestre de las Cataratas de Alto Shambillo\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nCertificado de Nº 457-2021 – Aguaytia 14 de setiembre del 2021.\nAdministrador por\nNombre\nAsociación Encanto de la Fauna Silvestre de las Cataratas de Alto Shambillo\nTiempo de administración\nDesde el año 2021"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo de Ucayali\nNombre (Persona(s) responsable(s) del inventario turístico):\nCarmen Roca Borges\nCargo:\nEspecialista en Turismo\nCorreo:\nkarminy@hotmail.com\nTeléfono:\n957253776\nFuentes Bibliográfica:\n1.Plan Estratégico Regional de Turismo Ucayali. Obtenido de Turismo en Ucayali Distrito de Padre Abad. (2014-2023). Recuperado de: http://www.regionucayali.gob.pe/transparencia/planes/dircetur/pertur_2014_2023.pdf\n2.Estudio de evaluación de potencialidades turísticas a nivel de detalle del territorio titulado de las comunidades nativas Santa Rosa de Aguaytia, Mariscal Cáceres y Yamino, distrito y provincia de Padre Abad, departamento de Ucayali. (2022).\n3.Instituto de Investigaciones de la Amazonía Peruana (IIAP) & Municipalidad Provincial de Padre Abad. Microzonificación Económica Ecológica para el ordenamiento territorial de la Subcuenca del Shambillo: Estudio de potencialidades turísticas. IIAP. (2013).\n4.Inforegión. Ucayali: Boquerón se erige como destino turístico incomparable por sus cataratas. Agencia de Prensa Ambiental. (2024, 18 de enero). https://inforegion.pe/ucayali-boqueron-se-erige-como-destino-turistico-incomparable-por-sus-cataratas/\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n15/12/2025 07:57:19"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -9.068166666666666,
+    "longitud": -75.67928333333333
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-9.068166666666666,-75.67928333333333"
+}

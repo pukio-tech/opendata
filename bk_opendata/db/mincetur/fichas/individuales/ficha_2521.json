@@ -1,0 +1,272 @@
+{
+  "cod_ficha": 2521,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=2521",
+  "nombre": "Bosque De Piedras Hatun Machay",
+  "departamento": "Áncash",
+  "provincia": "Recuay",
+  "distrito": "PAMPAS CHICO",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "o. Otros",
+  "subtipo": "Formaciones rocosas(bosque de piedra)",
+  "jerarquia": "2",
+  "altitud": "4200",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=470797",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=470797",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=470753",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=471658",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=471660"
+  ],
+  "actividades_permitidas": [
+    "Naturaleza - Observación de fauna",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de paisaje",
+    "Deportes / Aventura - Caminata/Trekking",
+    "Deportes / Aventura - Camping",
+    "Deportes / Aventura - Escalada en roca"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de fauna",
+      "observacion": "Zorro Andino, Taruca, Zorrillo, Comadreja Vizcacha.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fauna02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "Puya Raimondi y Ichu",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Camping",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/camping02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Escalada en roca",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/escalada_roca02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Áncash/Huaraz/Huaraz - Áncash/Recuay/Pampas Chico",
+      "detalle": "Parqueo Turístico Huaraz - Cruce Pampas Chico Km131",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus turístico",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "70Km/1.30hrs"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Áncash/Recuay/Pampas Chico - Áncash/Recuay/Pampas Chico",
+      "detalle": "Cruce Pampas Chico - Hatun Machay",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus turístico",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "7Km/30min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Áncash/Recuay/Pampas Chico - Áncash/Recuay/Pampas Chico",
+      "detalle": "Cruce Pampas Chico - Hatun Machay",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Sendero",
+      "distancia_tiempo": "7Km/1.30hrs"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "2015",
+      "horario": "Municipalidad Distrital de Pampas Chico",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "1820",
+      "horario": "Municipalidad Distrital de Pampas Chico",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Esporádicamente - Algunos meses",
+      "especificacion": "--",
+      "horario": "09:00 a.m. - 02:00 p.m. Desde mayo a septiembre",
+      "observaciones": "Desde mayo a septiembre"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "S/. 10.00 Comunidad de Pampas Chico"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "2 y 3 estrellas, Ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "1 , 2 y 3 estrellas, Ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de bicicleta",
+      "observacion": "Ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Español e Inglés, Ciudad de Huaraz"
+    }
+  ],
+  "descripcion": "Está ubicado en la vertiente occidental de la Cordillera Negra, en la Región Puna o Jalca, a 4.200 m.s.n.m. dentro de la Comunidad Campesina de Pampas Chico, su clima es frío y seco. Tiene una extensión de 200 hectáreas, la roca que encontramos aquí es de granito erosionado por el agua, el viento y los glaciares. Se puede encontrar algo de roca volcánica, pero en menores proporciones, la zona cuenta con muchos atractivos, como pinturas rupestres, evidencias arqueológicas y aguas termales, además en la parte alta del bosque podemos encontrar un paisaje lunar formado por un piso de piedra blanca sobre el cual hay gran cantidad de bloques. En la ruta de visita establecida existen una serie de formaciones de rocas, en donde el mayor encanto se ve representado por las caprichosas figuras pétreas que el tiempo, los vientos, y los glaciares se han encargado de formar en el lugar. Podemos observar figuras como: sapo, tortuga, águila, elefante; en las rocas más extensas (en paredes) se observan figuras de caras humanas o personajes, además de túneles pequeños para acceder a otras áreas de rocas, En el área del bosque de rocas de Hatun Machay hay muchas alternativas para practicar y disfrutar de: La escalada en Boulder y deportiva, rapel, Arqueología, Geología, turismo ecológico y las noches de luna llena es otra dimensión; en el recurso se cuenta con un refugio donde el turista puede pernoctar previo pago de S/.35.00 soles por persona así como un área para campamento.\nDentro del recorrido podemos encontrar diversas especies de animales y flora que son muy tradicionales del hábitat serrano de nuestro país. Algunas de estas especies son la vizcacha, el gato montés, el zorro andino, la vicuña y el venado. En flora, la especie más representativa es la Puya Raimondi y abundante Ichu.",
+  "particularidades": "",
+  "estado_actual": "Bueno, se encuentra bajo la protección de la Comunidad Campesina de Pampas Chicos",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Está ubicado en la vertiente occidental de la Cordillera Negra, en la Región Puna o Jalca, a 4.200 m.s.n.m. dentro de la Comunidad Campesina de Pampas Chico, su clima es frío y seco. Tiene una extensión de 200 hectáreas, la roca que encontramos aquí es de granito erosionado por el agua, el viento y los glaciares. Se puede encontrar algo de roca volcánica, pero en menores proporciones, la zona cuenta con muchos atractivos, como pinturas rupestres, evidencias arqueológicas y aguas termales, además en la parte alta del bosque podemos encontrar un paisaje lunar formado por un piso de piedra blanca sobre el cual hay gran cantidad de bloques. En la ruta de visita establecida existen una serie de formaciones de rocas, en donde el mayor encanto se ve representado por las caprichosas figuras pétreas que el tiempo, los vientos, y los glaciares se han encargado de formar en el lugar. Podemos observar figuras como: sapo, tortuga, águila, elefante; en las rocas más extensas (en paredes) se observan figuras de caras humanas o personajes, además de túneles pequeños para acceder a otras áreas de rocas, En el área del bosque de rocas de Hatun Machay hay muchas alternativas para practicar y disfrutar de: La escalada en Boulder y deportiva, rapel, Arqueología, Geología, turismo ecológico y las noches de luna llena es otra dimensión; en el recurso se cuenta con un refugio donde el turista puede pernoctar previo pago de S/.35.00 soles por persona así como un área para campamento.\nDentro del recorrido podemos encontrar diversas especies de animales y flora que son muy tradicionales del hábitat serrano de nuestro país. Algunas de estas especies son la vizcacha, el gato montés, el zorro andino, la vicuña y el venado. En flora, la especie más representativa es la Puya Raimondi y abundante Ichu."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "Declarado, Patrimonio Cultural de la Nación mediante Resolución Directoral Nacional Nº 944/INC-2010 del 07 de mayo del 2010"
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, se encuentra bajo la protección de la Comunidad Campesina de Pampas Chicos"
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n2015\nMunicipalidad Distrital de Pampas Chico\n2021\nTuristas Nacionales\n1820\nMunicipalidad Distrital de Pampas Chico\n2021"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nÁncash/Huaraz/Huaraz\n-\nÁncash/Recuay/Pampas Chico\nParqueo Turístico Huaraz - Cruce Pampas Chico Km131\nTerrestre\nBus turístico\nAsfaltado\n70Km/1.30hrs\n1\nÁncash/Recuay/Pampas Chico\n-\nÁncash/Recuay/Pampas Chico\nCruce Pampas Chico - Hatun Machay\nTerrestre\nBus turístico\nAfirmado\n7Km/30min\n1\nÁncash/Recuay/Pampas Chico\n-\nÁncash/Recuay/Pampas Chico\nCruce Pampas Chico - Hatun Machay\nTerrestre\nA pie\nSendero\n7Km/1.30hrs"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nS/. 10.00 Comunidad de Pampas Chico"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nEsporádicamente - Algunos meses\n--\n09:00 a.m.\n-\n02:00 p.m.\nDesde mayo a septiembre"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nNaturaleza\nObservación de fauna\nZorro Andino, Taruca, Zorrillo, Comadreja Vizcacha.\nNaturaleza\nObservación de flora\nPuya Raimondi y Ichu\nNaturaleza\nObservación de paisaje\n--\nDeportes / Aventura\nCaminata/Trekking\n--\nDeportes / Aventura\nCamping\n--\nDeportes / Aventura\nEscalada en roca\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\n2 y 3 estrellas, Ciudad de Huaraz\nAlojamiento\nHostales (especificar categorías)\n1 , 2 y 3 estrellas, Ciudad de Huaraz\nAlimentación\nRestaurantes\nCiudad de Huaraz\nAlimentación\nBares\nCiudad de Huaraz\nAlimentación\nCafeterías\nCiudad de Huaraz\nAlimentación\nKioskos de comida y bebidas\nCiudad de Huaraz\nLugares de Recreación\nDiscotecas\nCiudad de Huaraz\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Huaraz\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de Huaraz\nOtros Servicios Turísticos\nAlquiler de bicicleta\nCiudad de Huaraz\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nEspañol e Inglés, Ciudad de Huaraz"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nBancos\nCiudad de Huaraz\nCajero automático\nCiudad de Huaraz\nServicios de internet\nCiudad de Huaraz\nCasa de cambio\nCiudad de Huaraz\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Huaraz\nServicio de correos\nCiudad de Huaraz\nServicio de estacionamiento\nCiudad de Huaraz\nServicios de taxis\nCiudad de Huaraz\nCentro de salud - tópico\nCiudad de Huaraz\nVenta de materiales para fotografías\nCiudad de Huaraz\nSeguridad / POLTUR / Comisaría\nCiudad de Huaraz\nAlquiler y compra de equipos deportivos\nCiudad de Huaraz\nBodegas o minimarkets\nCiudad de Huaraz"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nRefugio (Entrada Bosque de Piedras)\nSeñalización turística\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Huaraz\nAlcantarillado sanitario\nCiudad de Huaraz\nDesagüe\nCiudad de Huaraz\nLuz (Suministro Eléctrico)\nCiudad de Huaraz\nTeléfono\nCiudad de Huaraz"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\n--\nPrivado:\nComunidad Campesina de Pampas Chico\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nPartida Electrónica - Pampas Chico\nNúmero de Partida:\n11001988\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nComunidad Campesina de Pampas Chico\nTiempo de administración\nDesde el año 2011"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo- Áncash\nNombre (Persona(s) responsable(s) del inventario turístico):\nPatricia Camones Trejo\nCargo:\nDirectora de Turismo\nCorreo:\ndiceturancashdt2@gmail.com\nTeléfono:\n937082574\nFuentes Bibliográfica:\n- https://arquitectatrotamundos.com/hatun-machay-ancash/\n- https://rpp.pe/peru/actualidad/ancash-hatun-machay-el-orgullo-turistico-de-recuay-noticia-524132\n- https://turismoi.pe/naturaleza/conjunto-de-rocas/hatun-machay.htm\n-\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n16/12/2022"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -10.097244,
+    "longitud": -77.34960799999999
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-10.097244,-77.34960799999999"
+}

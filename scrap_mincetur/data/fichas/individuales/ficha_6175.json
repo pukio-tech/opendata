@@ -1,0 +1,308 @@
+{
+  "cod_ficha": 6175,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=6175",
+  "nombre": "Agua Termo Medicinal De Huájal",
+  "departamento": "Junín",
+  "provincia": "Jauja",
+  "distrito": "LLOCLLAPAMPA",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "k. Agua termo-mineral",
+  "subtipo": "Ojos de agua",
+  "jerarquia": "1",
+  "altitud": "3473",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=612973",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=612973",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=613005",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=613006",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=613007",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=613008",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=613009",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=613010",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=612983",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=612984",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=612985",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=612986",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=613011",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=613012",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=613013",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=612987",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=613014",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=613015",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=613016"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Estudios e Investigación",
+    "Naturaleza - Observación de paisaje"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Junín/Jauja/Jauja - Junín/Jauja/Llocllapampa",
+      "detalle": "Plaza de Armas de Jauja – Plaza principal del pueblo de Llocllapampa.",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "30.2 Km / 30 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Junín/Jauja/Llocllapampa - Junín/Jauja/Llocllapampa",
+      "detalle": "Plaza principal del pueblo de Llocllapampa - Aguas Termo Medicinales de Huájal.",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "2.9 Km / 10 min."
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "360",
+      "horario": "Conteo muestral de visitas al Recurso Turístico",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "5580",
+      "horario": "Conteo muestral de visitas al Recurso Turístico.",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "08:30 a.m. - 04:30 p.m. --",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "El costo por persona es de S/.2.00"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "2 estrellas en la ciudad de Jauja."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Jauja"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Jauja"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "1 estrella en la ciudad de Jauja"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Jauja"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Jauja"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Ciudad de Jauja"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Jauja"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Ciudad de Jauja"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de Jauja"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Jauja"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de bicicleta",
+      "observacion": "Ciudad de Jauja - BiciXauxa Cel.: 969012431"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Jauja"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Peñas",
+      "observacion": "Ciudad de Jauja"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "Ciudad de Jauja"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Jauja"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Ciudad de Jauja"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Ciudad de Jauja"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Ciudad de Jauja"
+    }
+  ],
+  "descripcion": "Las aguas termo medicinales de Huájal se encuentran ubicadas dentro del área perteneciente al Fundo Ecoturístico Comunal de Yanama de la Comunidad Campesina de Llocllapampa; este particular manantial se ubica en la región natural o piso ecológico altitudinal Quechua (Javier Pulgar Vidal), en la margen derecha del río Mantaro. De acuerdo al Instituto Geológico, Minero y Metalúrgico - INGEMMET sus aguas emergen en el Grupo Pucará, perteneciendo a la familia de las aguas sulfatadas-bicarbonatadas-cloruradas, la fuente de Huájal tiene 20°C de temperatura, pH ligeramente ácido (6.2) y altos valores de manganeso (Mn) y sulfatos (S04). A lo largo del tiempo esta fuente de agua ha sido usada para el tratamiento de enfermedades de la piel y también ha sido utilizada para tratar afecciones estomacales (debido a la presencia de gas carbónico). El afloramiento del manantial es en forma abundante y por varios ojos, cuyas aguas discurren hacia el cauce del Río Mantaro; cuenta con una poza de 4 metros de largo por 2 metros de ancho, en medio de la cual surge el agua, emergiendo 10 litros de agua por minuto como si estuviese en ebullición; la poza aún mantiene en su interior arquitectura prehispánica, con piedras de canto rodado, típicas de la zona, sin embargo en su contorno presenta acabados contemporáneos con enchapado en mármol travertino y una cobertura cerrada con estructura de metal y calamina que fue construida durante la última década, por la Municipalidad Distrital de Llocllapampa a través de los programas “Trabaja Perú”, “Lurawi Perú” y “Llamkasum Perú”. El paraje donde se encuentra tiene una extensión aproximada de 3 hectáreas, con acceso vehicular, así como peatonal el mismo que se encuentra empedrado, contando con peldaños y barandas; asimismo presenta algunas zonas forestadas y también espacios para la práctica de fulbito y vóley, descansos con bancas de madera y techos rústicos con cobertura de ichu (Stipa ichu), además de estacionamiento, servicios higiénicos, vestidores, duchas, zonas de parrilla al aire libre, puesto de expendio de golosinas y comida rápida, así como una piscina que se llena desde la poza de Huájal en días de mayor afluencia de visitantes. Es importante mencionar que a pesar que este recurso no cuenta con un certificado de INGEMMET, existen informes sobre esta fuente que datan del año de 1963 y a lo largo de estas décadas esta fuente ha sido constantemente estudiada por la mencionada institución; además resalta el hecho que en la investigación de INGEMMET “Aguas Termales y Minerales en el Centro del Perú” de 1999 publicada en el “Boletín N° 21 Serie D: Estudios Regionales”, recomienda que esta fuente de agua termo medicinal sea usada como un baño termal local. Huájal a lo largo de los años, se ha ido posicionando como un importante punto de esparcimiento familiar en la provincia de Jauja y en la última década, debido a la construcción de infraestructura orientada en mejorar la experiencia del visitante, se sigue consolidando como un recurso turístico de creciente afluencia.",
+  "particularidades": "",
+  "estado_actual": "Su estado de conservación es bueno, debido al mantenimiento y limpieza que realiza dos veces a la semana la Comunidad Campesina de Llocllapampa.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Las aguas termo medicinales de Huájal se encuentran ubicadas dentro del área perteneciente al Fundo Ecoturístico Comunal de Yanama de la Comunidad Campesina de Llocllapampa; este particular manantial se ubica en la región natural o piso ecológico altitudinal Quechua (Javier Pulgar Vidal), en la margen derecha del río Mantaro. De acuerdo al Instituto Geológico, Minero y Metalúrgico - INGEMMET sus aguas emergen en el Grupo Pucará, perteneciendo a la familia de las aguas sulfatadas-bicarbonatadas-cloruradas, la fuente de Huájal tiene 20°C de temperatura, pH ligeramente ácido (6.2) y altos valores de manganeso (Mn) y sulfatos (S04). A lo largo del tiempo esta fuente de agua ha sido usada para el tratamiento de enfermedades de la piel y también ha sido utilizada para tratar afecciones estomacales (debido a la presencia de gas carbónico). El afloramiento del manantial es en forma abundante y por varios ojos, cuyas aguas discurren hacia el cauce del Río Mantaro; cuenta con una poza de 4 metros de largo por 2 metros de ancho, en medio de la cual surge el agua, emergiendo 10 litros de agua por minuto como si estuviese en ebullición; la poza aún mantiene en su interior arquitectura prehispánica, con piedras de canto rodado, típicas de la zona, sin embargo en su contorno presenta acabados contemporáneos con enchapado en mármol travertino y una cobertura cerrada con estructura de metal y calamina que fue construida durante la última década, por la Municipalidad Distrital de Llocllapampa a través de los programas “Trabaja Perú”, “Lurawi Perú” y “Llamkasum Perú”. El paraje donde se encuentra tiene una extensión aproximada de 3 hectáreas, con acceso vehicular, así como peatonal el mismo que se encuentra empedrado, contando con peldaños y barandas; asimismo presenta algunas zonas forestadas y también espacios para la práctica de fulbito y vóley, descansos con bancas de madera y techos rústicos con cobertura de ichu (Stipa ichu), además de estacionamiento, servicios higiénicos, vestidores, duchas, zonas de parrilla al aire libre, puesto de expendio de golosinas y comida rápida, así como una piscina que se llena desde la poza de Huájal en días de mayor afluencia de visitantes. Es importante mencionar que a pesar que este recurso no cuenta con un certificado de INGEMMET, existen informes sobre esta fuente que datan del año de 1963 y a lo largo de estas décadas esta fuente ha sido constantemente estudiada por la mencionada institución; además resalta el hecho que en la investigación de INGEMMET “Aguas Termales y Minerales en el Centro del Perú” de 1999 publicada en el “Boletín N° 21 Serie D: Estudios Regionales”, recomienda que esta fuente de agua termo medicinal sea usada como un baño termal local. Huájal a lo largo de los años, se ha ido posicionando como un importante punto de esparcimiento familiar en la provincia de Jauja y en la última década, debido a la construcción de infraestructura orientada en mejorar la experiencia del visitante, se sigue consolidando como un recurso turístico de creciente afluencia."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Su estado de conservación es bueno, debido al mantenimiento y limpieza que realiza dos veces a la semana la Comunidad Campesina de Llocllapampa."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Nacionales\n360\nConteo muestral de visitas al Recurso Turístico\n2025\nEfectuado los días domingos 5, 12, 19 y 26 de enero de 2025.\nVisitantes Locales(Excursionistas)\n5580\nConteo muestral de visitas al Recurso Turístico.\n2025\nEfectuado los días domingos 5, 12, 19 y 26 de enero de 2025."
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nJunín/Jauja/Jauja\n-\nJunín/Jauja/Llocllapampa\nPlaza de Armas de Jauja – Plaza principal del pueblo de Llocllapampa.\nTerrestre\nAutomóvil particular\nAsfaltado\n30.2 Km / 30 min.\n1\nJunín/Jauja/Llocllapampa\n-\nJunín/Jauja/Llocllapampa\nPlaza principal del pueblo de Llocllapampa - Aguas Termo Medicinales de Huájal.\nTerrestre\nAutomóvil particular\nAfirmado\n2.9 Km / 10 min."
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nEl costo por persona es de S/.2.00"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n08:30 a.m.\n-\n04:30 p.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nEstudios e Investigación\n--\nNaturaleza\nObservación de paisaje\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\n2 estrellas en la ciudad de Jauja.\nAlimentación\nRestaurantes\nCiudad de Jauja\nAlimentación\nKioskos de comida y bebidas\nCiudad de Jauja\nAlojamiento\nHostales (especificar categorías)\n1 estrella en la ciudad de Jauja\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Jauja\nAlimentación\nBares\nCiudad de Jauja\nAlimentación\nFuentes de soda\nCiudad de Jauja\nAlimentación\nCafeterías\nCiudad de Jauja\nAlimentación\nVenta de comida Rápida\nCiudad de Jauja\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de Jauja\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Jauja\nOtros Servicios Turísticos\nAlquiler de bicicleta\nCiudad de Jauja - BiciXauxa Cel.: 969012431\nLugares de Recreación\nDiscotecas\nCiudad de Jauja\nLugares de Recreación\nPeñas\nCiudad de Jauja\nLugares de Recreación\nKaraoke\nCiudad de Jauja\nLugares de Recreación\nBares\nCiudad de Jauja\nLugares de Recreación\nJuegos Infantiles\nCiudad de Jauja\nLugares de Recreación\nCentros Deportivos\nCiudad de Jauja\nServicios Públicos\nEstacionamiento de vehículos\nCiudad de Jauja"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Jauja\nBancos\nCiudad de Jauja\nCajero automático\nCiudad de Jauja\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Jauja\nServicio de correos\nCiudad de Jauja\nServicio de estacionamiento\nCiudad de Jauja\nServicios de taxis\nCiudad de Jauja\nCentro de salud - tópico\nCiudad de Jauja\nVenta de materiales para fotografías\nCiudad de Jauja\nSeguridad / POLTUR / Comisaría\nCiudad de Jauja\nLibrerías\nCiudad de Jauja\nBodegas o minimarkets\nCiudad de Jauja"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\n--\nAlcantarillado sanitario\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Jauja\nLuz (Suministro Eléctrico)\nCiudad de Jauja\nTeléfono\nCiudad de Jauja\nAlcantarillado sanitario\nCiudad de Jauja"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\n--\nPrivado:\nComunidad Campesina de Llocllapampa.\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nNúmero de Partida:\n02043796\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nComunidad Campesina de Llocllapampa.\nTiempo de administración\nDesde el año 2025."
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo Junín\nNombre (Persona(s) responsable(s) del inventario turístico):\nLic. Gregoria Flores Loaiza\nCargo:\nEspecialista en Turismo\nCorreo:\nfloresloaiza@yahoo.es\nTeléfono:\n948992261\nFuentes Bibliográfica:\n1. INGEMMET “Aguas Termales y Minerales en el Centro del Perú” de 1999 publicada en el “Boletín N°21 Serie D: Estudios Regionales”: https://repositorio.ingemmet.gob.pe/handle/20.500.12544/338\n2. INGEMMET “Aguas Minerales del Perú” Segunda parte. Rómulo Zapata Valle. 1973: https://repositorio.ingemmet.gob.pe/bitstream/20.500.12544/348/2/D002-Boletin_Aguas_minerales_Peru-2da-parte.pdf\n3. Plan de Desarrollo Concertado del Distrito de Llocllapampa (2018-2025): https://es.scribd.com/document/533716784/PDC-1\n4. Comunidad Campesina de Llocllapampa. Turismo: https://ccllocllapampa.com/Turismo.html\n5. El patrimonio cultural y natural para el desarrollo del turismo en el distrito de Llocllapampa, Jauja – 2020. Paulo John Munguía Mucha: https://repositorio.uncp.edu.pe/handle/20.500.12894/7848\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n21/07/2025 10:06:06"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -11.805733,
+    "longitud": -75.64198499999998
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-11.805733,-75.64198499999998"
+}

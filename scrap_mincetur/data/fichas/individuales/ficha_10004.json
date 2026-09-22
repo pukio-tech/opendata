@@ -1,0 +1,405 @@
+{
+  "cod_ficha": 10004,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=10004",
+  "nombre": "Casa Hacienda San Fernando",
+  "departamento": "Lima",
+  "provincia": "Lima",
+  "distrito": "PACHACAMAC",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Arquitectura y Espacios Urbanos",
+  "subtipo": "Casa-Hacienda",
+  "jerarquia": "1",
+  "altitud": "115",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=613866",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=613866",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=613785",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=613867",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=613786",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=613787",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=613868",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=613869",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=613870",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=614307",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=614308",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=614310",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=614358",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=614359",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=614311",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=614360",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=614338",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=641256"
+  ],
+  "actividades_permitidas": [
+    "Otros - Compras de artesanía/souvenir",
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Realización de eventos",
+    "Cultura y Folclore - Degustación y preparación de platos, productos o bebidas típicas",
+    "Paseos - Paseos a caballo",
+    "Cultura y Folclore - Apreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)",
+    "Cultura y Folclore - Participación y/u observación del proceso de elaboración de productos locales",
+    "Otros - Compra de productos regionales"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Compras de artesanía/souvenir",
+      "observacion": "Cuenta con una tienda de artesanías y/o souvenirs locales.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/artesania02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Realización de eventos",
+      "observacion": "Eventos sociales (cumpleaños, reuniones familiares y/o ejecutivas, almuerzos corporativos, ferias locales, entre otros.)",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/eventos02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Degustación y preparación de platos, productos o bebidas típicas",
+      "observacion": "Pachacamanca, carapulcra con sopa seca, (arroz con pato, huatia pachacamina, chancho al cilindro, chicha de jora, entre otros.)",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/platos_tipicos02.png"
+    },
+    {
+      "actividad": "Paseos",
+      "tipo": "Paseos a caballo",
+      "observacion": "Costo adicional de S/. 180 por persona, por una hora",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paseo_caballo02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Apreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)",
+      "observacion": "Presentación de danzas típicas (fines de semana y feriados)",
+      "icono_url": null
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Participación y/u observación del proceso de elaboración de productos locales",
+      "observacion": "Elaboración de la pachamanca tradicional bajo tierra (turismo vivencial)",
+      "icono_url": null
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Compra de productos regionales",
+      "observacion": "Vinos y pisco",
+      "icono_url": null
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Lima/Lima/Lima - Lima/Lima/Pachacamac",
+      "detalle": "Paseo Colón - Cruce Pachacámac",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "40.2km/1h 50"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Lima/Lima/Pachacamac - Lima/Lima/Pachacamac",
+      "detalle": "Cruce de Pachacámac /Jr. Grau. Cuadra 1",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "4,7 km/8 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Lima/Lima/Pachacamac - Lima/Lima/Pachacamac",
+      "detalle": "Jr. Grau Cuadra 1 / Av. Fernando Reusche Cruce con Av. Casa Hacienda",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "1,6km/5min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Lima/Lima/Pachacamac - Lima/Lima/Pachacamac",
+      "detalle": "Av. Fernando Reusche cruce con Av. Casa Hacienda/ AV. Casa Hacienda MZ S3 LT01",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "260mtrs / 1 min"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Lima/Lima/San Borja - Lima/Lima/Pachacamac",
+      "detalle": "Centro Comercial la Rambla de San Borja - Cruce de Pachacámac",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "30.3km/50 min"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Lima/Lima/Pachacamac - Lima/Lima/Pachacamac",
+      "detalle": "Cruce de Pachacámac /Jr. Grau Cuadra 1",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "4,7 km/8 min"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Lima/Lima/Pachacamac - Lima/Lima/Pachacamac",
+      "detalle": "Av. Fernando Reusche cruce con Av. Casa Hacienda /Av. Casa Hacienda Mz. S3 Lt 01",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "260 mtrs. / 1 min"
+    },
+    {
+      "recorrido": "3",
+      "tramo": "Lima/Lima/San Isidro - Lima/Lima/Pachacamac",
+      "detalle": "Estación Javier Prado del Metropolitano de Lima - Paradero Tres Marías de Huertos de Manchay",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "24.4 km/1h 10 min"
+    },
+    {
+      "recorrido": "3",
+      "tramo": "Lima/Lima/Pachacamac - Lima/Lima/Pachacamac",
+      "detalle": "Paradero Tres Marías de Huertos de Manchay - Plaza de Armas de Pachacámac",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "15.5km /35 min"
+    },
+    {
+      "recorrido": "3",
+      "tramo": "Lima/Lima/Pachacamac - Lima/Lima/Pachacamac",
+      "detalle": "Plaza de Armas de Pachacámac - Av. Fernando Reusche cruce con Av. Casa Hacienda",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "1.6 km / 7 min."
+    },
+    {
+      "recorrido": "3",
+      "tramo": "Lima/Lima/Pachacamac - Lima/Lima/Pachacamac",
+      "detalle": "Av. Fernando Reusche cruce con Av. Casa Hacienda /Av. Casa Hacienda Mz. S3 Lt 01",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "260 mtrs. / 1 min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "42964",
+      "horario": "CARTA N°001-2025-HACIENDA LAS LEÑAS",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "4970",
+      "horario": "CARTA N°001-2025-HACIENDA LAS LEÑAS",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "2471",
+      "horario": "CARTA N°001-2025-HACIENDA LAS LEÑAS",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "11:30 a.m. - 05:30 p.m. Todos los días, excepto el 25 de diciembre",
+      "observaciones": "Todos los días, excepto el 25 de diciembre"
+    },
+    {
+      "epoca": "Personas con discapacidad física",
+      "especificacion": "Rampas",
+      "horario": "--",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": "Para el servicio de guiado o atención especializada, reservar mediante el siguiente link: https://wa.me/51934657998"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de Caballos",
+      "observacion": "S/. 180 por persona, por una hora"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "En idioma español"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Distrito de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Distrito de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Español. Distrito de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Distrito de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Distrito de Pachacámac"
+    }
+  ],
+  "descripcion": "La Casa Hacienda San Fernando fue construida hacia 1940 por encargo del hacendado Fernando Reusche Vilela (1888 – 1965), la cual corresponde al periodo republicano del siglo XX y constituye un inmueble representativo del proceso de consolidación de las haciendas del Valle de Pachacámac, formando parte del patrimonio y la memoria colectiva del distrito de Pachacámac. Durante décadas funcionó como centro agropecuario, hasta que, ante la Reforma Agraria, se inició la parcelación de sus tierras que, mediante Resolución Ministerial N° 592-F del 9 de octubre de 1963, se autorizó la lotización del predio en parcelas de 2500 m2 con el fin de ser destinadas a viviendas campestres. La Casa Hacienda se ubica sobre un montículo natural con vistas privilegiadas y presenta una composición volumétrica escalonada que se adapta a la topografía del sitio y crea una composición clara y jerárquica. Su arquitectura es de estilo neocolonial, con muros de adobe unidos con argamasa de barro de hasta 80 centímetros de espesor. La mayoría de los muros interiores y exteriores se encuentran tarrajeados con una fina capa de yeso, manteniendo la armonía arquitectónica propia de este estilo. En el interior predominan los espacios amplios, ventilados e iluminados, gracias a los altos techos y a los grandes vanos que enmarcan el paisaje. Sus techos y vigas fueron labradas en eucalipto; las escaleras y los márgenes de las ventanas fueron hechos de madera de pino oregón lo cual se mantiene actualmente. Previo acuerdo con la familia Reusche, propietaria del predio, el inmueble es administrado actualmente por la familia Ipince Bruckmann, quienes desde mediados del 2024 hasta hoy realizan trabajos de restauración y adecuación para su uso turístico. Las labores de restauración han comprendido el pintado del inmueble, el resanado de muros, la recuperación de carpinterías originales y la limpieza de superficies. El estado de conservación es bueno, evidenciando un mantenimiento constante que ha permitido preservar sus valores arquitectónicos y patrimoniales. En la restaurada Casa Hacienda San Fernando funciona el restaurante campestre “Hacienda Las Leñas” desde el 2024, el cual ofrece como plato bandera del distrito la “Huatia Pachacamina”, además de una variada gastronomía criolla como carapulcra con sopa seca, arroz con pato, lomo saltado, chancho a la caja china, seco de cordero a la norteña, trucha, cuy crocante, entre otros. Los fines de semana se realizan espectáculos artísticos y danzas tradicionales, como La Marinera con Caballo Peruano de Paso, que enriquecen la experiencia del visitante. La infraestructura principal se ubica en la parte elevada del inmueble, a dos minutos en movilidad desde el ingreso, y cuenta con estacionamiento. Los visitantes que llegan en vehículo propio acceden directamente, mientras quienes no disponen de movilidad pueden utilizar el servicio de transporte interno gratuito. Antes de ingresar a la infraestructura principal, se aprecia una plaza central con pileta que, por su ubicación privilegiada, dispone de dos miradores naturales con vistas panorámicas hacia las Lomas de Quebrada Río Seco. En el acceso principal, los visitantes son recibidos en un pequeño hall, un espacio de interpretación cultural, donde se muestra la reseña histórica de la Casa Hacienda y la evolución del restaurante campestre “Hacienda Las Leñas”. Asimismo, se cuenta con una zona de venta de artesanías locales y de vinos seleccionados nacionales e importados. A través del restaurante “Hacienda Las Leñas”, se fusiona la gastronomía peruana y local pachacamina con el valor patrimonial de la Casa Hacienda, consolidándose como un espacio de disfrute para locales y visitantes que buscan una experiencia diferente en Pachacámac.",
+  "particularidades": "",
+  "estado_actual": "Bueno, mantenimiento y cuidados a cargo de la familia administradora del predio.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "La Casa Hacienda San Fernando fue construida hacia 1940 por encargo del hacendado Fernando Reusche Vilela (1888 – 1965), la cual corresponde al periodo republicano del siglo XX y constituye un inmueble representativo del proceso de consolidación de las haciendas del Valle de Pachacámac, formando parte del patrimonio y la memoria colectiva del distrito de Pachacámac. Durante décadas funcionó como centro agropecuario, hasta que, ante la Reforma Agraria, se inició la parcelación de sus tierras que, mediante Resolución Ministerial N° 592-F del 9 de octubre de 1963, se autorizó la lotización del predio en parcelas de 2500 m2 con el fin de ser destinadas a viviendas campestres. La Casa Hacienda se ubica sobre un montículo natural con vistas privilegiadas y presenta una composición volumétrica escalonada que se adapta a la topografía del sitio y crea una composición clara y jerárquica. Su arquitectura es de estilo neocolonial, con muros de adobe unidos con argamasa de barro de hasta 80 centímetros de espesor. La mayoría de los muros interiores y exteriores se encuentran tarrajeados con una fina capa de yeso, manteniendo la armonía arquitectónica propia de este estilo. En el interior predominan los espacios amplios, ventilados e iluminados, gracias a los altos techos y a los grandes vanos que enmarcan el paisaje. Sus techos y vigas fueron labradas en eucalipto; las escaleras y los márgenes de las ventanas fueron hechos de madera de pino oregón lo cual se mantiene actualmente. Previo acuerdo con la familia Reusche, propietaria del predio, el inmueble es administrado actualmente por la familia Ipince Bruckmann, quienes desde mediados del 2024 hasta hoy realizan trabajos de restauración y adecuación para su uso turístico. Las labores de restauración han comprendido el pintado del inmueble, el resanado de muros, la recuperación de carpinterías originales y la limpieza de superficies. El estado de conservación es bueno, evidenciando un mantenimiento constante que ha permitido preservar sus valores arquitectónicos y patrimoniales. En la restaurada Casa Hacienda San Fernando funciona el restaurante campestre “Hacienda Las Leñas” desde el 2024, el cual ofrece como plato bandera del distrito la “Huatia Pachacamina”, además de una variada gastronomía criolla como carapulcra con sopa seca, arroz con pato, lomo saltado, chancho a la caja china, seco de cordero a la norteña, trucha, cuy crocante, entre otros. Los fines de semana se realizan espectáculos artísticos y danzas tradicionales, como La Marinera con Caballo Peruano de Paso, que enriquecen la experiencia del visitante. La infraestructura principal se ubica en la parte elevada del inmueble, a dos minutos en movilidad desde el ingreso, y cuenta con estacionamiento. Los visitantes que llegan en vehículo propio acceden directamente, mientras quienes no disponen de movilidad pueden utilizar el servicio de transporte interno gratuito. Antes de ingresar a la infraestructura principal, se aprecia una plaza central con pileta que, por su ubicación privilegiada, dispone de dos miradores naturales con vistas panorámicas hacia las Lomas de Quebrada Río Seco. En el acceso principal, los visitantes son recibidos en un pequeño hall, un espacio de interpretación cultural, donde se muestra la reseña histórica de la Casa Hacienda y la evolución del restaurante campestre “Hacienda Las Leñas”. Asimismo, se cuenta con una zona de venta de artesanías locales y de vinos seleccionados nacionales e importados. A través del restaurante “Hacienda Las Leñas”, se fusiona la gastronomía peruana y local pachacamina con el valor patrimonial de la Casa Hacienda, consolidándose como un espacio de disfrute para locales y visitantes que buscan una experiencia diferente en Pachacámac."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, mantenimiento y cuidados a cargo de la familia administradora del predio."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nVisitantes Locales(Excursionistas)\n42964\nCARTA N°001-2025-HACIENDA LAS LEÑAS\n2024\nTuristas Nacionales\n4970\nCARTA N°001-2025-HACIENDA LAS LEÑAS\n2024\nundefined\nTuristas Extranjeros\n2471\nCARTA N°001-2025-HACIENDA LAS LEÑAS\n2024\nundefined"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nLima/Lima/Lima\n-\nLima/Lima/Pachacamac\nPaseo Colón - Cruce Pachacámac\nTerrestre\nAutomóvil particular\nAsfaltado\n40.2km/1h 50\n1\nLima/Lima/Pachacamac\n-\nLima/Lima/Pachacamac\nCruce de Pachacámac /Jr. Grau. Cuadra 1\nTerrestre\nAutomóvil particular\nAsfaltado\n4,7 km/8 min\n1\nLima/Lima/Pachacamac\n-\nLima/Lima/Pachacamac\nJr. Grau Cuadra 1 / Av. Fernando Reusche Cruce con Av. Casa Hacienda\nTerrestre\nAutomóvil particular\nAsfaltado\n1,6km/5min\n1\nLima/Lima/Pachacamac\n-\nLima/Lima/Pachacamac\nAv. Fernando Reusche cruce con Av. Casa Hacienda/ AV. Casa Hacienda MZ S3 LT01\nTerrestre\nAutomóvil particular\nAfirmado\n260mtrs / 1 min\n2\nLima/Lima/San Borja\n-\nLima/Lima/Pachacamac\nCentro Comercial la Rambla de San Borja - Cruce de Pachacámac\nTerrestre\nAutomóvil particular\nAsfaltado\n30.3km/50 min\n2\nLima/Lima/Pachacamac\n-\nLima/Lima/Pachacamac\nCruce de Pachacámac /Jr. Grau Cuadra 1\nTerrestre\nAutomóvil particular\nAsfaltado\n4,7 km/8 min\n2\nLima/Lima/Pachacamac\n-\nLima/Lima/Pachacamac\nAv. Fernando Reusche cruce con Av. Casa Hacienda /Av. Casa Hacienda Mz. S3 Lt 01\nTerrestre\nAutomóvil particular\nAfirmado\n260 mtrs. / 1 min\n3\nLima/Lima/San Isidro\n-\nLima/Lima/Pachacamac\nEstación Javier Prado del Metropolitano de Lima - Paradero Tres Marías de Huertos de Manchay\nTerrestre\nBus público\nAsfaltado\n24.4 km/1h 10 min\n3\nLima/Lima/Pachacamac\n-\nLima/Lima/Pachacamac\nParadero Tres Marías de Huertos de Manchay - Plaza de Armas de Pachacámac\nTerrestre\nAutomóvil particular\nAsfaltado\n15.5km /35 min\n3\nLima/Lima/Pachacamac\n-\nLima/Lima/Pachacamac\nPlaza de Armas de Pachacámac - Av. Fernando Reusche cruce con Av. Casa Hacienda\nTerrestre\nAutomóvil particular\nAsfaltado\n1.6 km / 7 min.\n3\nLima/Lima/Pachacamac\n-\nLima/Lima/Pachacamac\nAv. Fernando Reusche cruce con Av. Casa Hacienda /Av. Casa Hacienda Mz. S3 Lt 01\nTerrestre\nAutomóvil particular\nAsfaltado\n260 mtrs. / 1 min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre\nPara el servicio de guiado o atención especializada, reservar mediante el siguiente link: https://wa.me/51934657998"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n11:30 a.m.\n-\n05:30 p.m.\nTodos los días, excepto el 25 de diciembre"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nCompras de artesanía/souvenir\nCuenta con una tienda de artesanías y/o souvenirs locales.\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nRealización de eventos\nEventos sociales (cumpleaños, reuniones familiares y/o ejecutivas, almuerzos corporativos, ferias locales, entre otros.)\nCultura y Folclore\nDegustación y preparación de platos, productos o bebidas típicas\nPachacamanca, carapulcra con sopa seca, (arroz con pato, huatia pachacamina, chancho al cilindro, chicha de jora, entre otros.)\nPaseos\nPaseos a caballo\nCosto adicional de S/. 180 por persona, por una hora\nCultura y Folclore\nApreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)\nPresentación de danzas típicas (fines de semana y feriados)\nCultura y Folclore\nParticipación y/u observación del proceso de elaboración de productos locales\nElaboración de la pachamanca tradicional bajo tierra (turismo vivencial)\nOtros\nCompra de productos regionales\nVinos y pisco"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nAlimentación\nRestaurantes\n--\nInstalaciones Privadas\nAlimentación\nBares\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nAlquiler de Caballos\nS/. 180 por persona, por una hora\nInstalaciones Privadas\nOtros Servicios Turísticos\nVenta de artesanía\n--\nInstalaciones Privadas\nLugares de Recreación\nJuegos Infantiles\n--\nInstalaciones Públicas\nServicios Públicos\nMiradores turísticos\n--\nInstalaciones Públicas\nServicios Públicos\nEstacionamiento de vehículos\n--\nInstalaciones Públicas\nServicios Públicos\nSeñales turísticas de orientación\nEn idioma español"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlimentación\nRestaurantes\nDistrito de Pachacámac\nAlimentación\nKioskos de comida y bebidas\nDistrito de Pachacámac\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nEspañol. Distrito de Pachacámac\nOtros Servicios Turísticos\nAgencia de Viajes\nDistrito de Pachacámac\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nDistrito de Pachacámac"
+    },
+    {
+      "titulo": "Servicios Complementarios dentro del recurso",
+      "contenido": "Servicio Complementario\nObservación\nServicios de internet\n--\nServicio de estacionamiento\n--"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nSeguridad / POLTUR / Comisaría\nDistrito de Pachacámac\nCentro de salud - tópico\nDistrito de Pachacámac\nServicios de taxis\nDistrito de Pachacámac\nCajero automático\nDistrito de Pachacámac\nServicios de internet\nDistrito de Pachacámac\nBancos\nDistrito de Pachacámac\nEstación de servicios, grifos, gasolineras y gasocentros\nDistrito de Pachacámac\nBodegas o minimarkets\nDistrito de Pachacámac"
+    },
+    {
+      "titulo": "Condiciones de Accesibilidad al Visitante",
+      "contenido": "Visitante\nInstalación\nActividades y/o programas\nEquipamiento\nObservación\nPersonas con discapacidad física\nRampas\n--\n--\n--"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nEnergía Alternativa\nPaneles solares\nSistemas de tratamiento alternativo de residuos (Biodigestor, pozo séptico, otros)\nPozo séptico\nAgua potable\n--\nSeñalización turística\nDesde el ingreso al recuso"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nDistrito de Pachacámac\nAlcantarillado sanitario\nDistrito de Pachacámac\nLuz (Suministro Eléctrico)\nDistrito de Pachacámac\nTeléfono\nDistrito de Pachacámac\nSeñalización turística\nDistrito de Pachacámac"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\n--\nPrivado:\nFamilia Reusche Lummis\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nPartida Registral\nNúmero de Partida:\n42248665 y 07005521\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nFamilia Ipince Bruckmann\nTiempo de administración\nDesde 2024"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nMunicipalidad Metropolitana de Lima - Municipalidad Distrital de Pachacámac\nNombre (Persona(s) responsable(s) del inventario turístico):\nAlex Reaño Torres - Lucía Suarez Muñoz\nCargo:\nEspecialista en Turismo - Subgerente de Desarrollo Turístico y Patrimonio Cultural\nCorreo:\nalexreanotorres@gmail.com - lsuarezm@munipachacamac.gob.pe\nTeléfono:\n01-6321801 - 940934210\nFuentes Bibliográfica:\n1. Chipana, J. (2022). Libro de Oro. Pachacámac, historia del distrito. Municipalidad Distrital de Pachacámac. Lima, Perú.\n2. Entrevista a Juan Reusche, nieto de Fernando Reusche, fundador de la Casa Hacienda San Fernando. 10.12.2025.\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n9/03/2026 11:06:53"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -12.198342083908287,
+    "longitud": -76.8720419326919
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-12.198342083908287,-76.8720419326919"
+}

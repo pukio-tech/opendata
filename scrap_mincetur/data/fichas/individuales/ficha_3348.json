@@ -1,0 +1,378 @@
+{
+  "cod_ficha": 3348,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=3348",
+  "nombre": "Plaza Mayor De Lima",
+  "departamento": "Lima",
+  "provincia": "Lima",
+  "distrito": "LIMA",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Lugares Históricos",
+  "subtipo": "Plaza",
+  "jerarquia": "3",
+  "altitud": "163",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=490097",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=490097",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=490122",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=490123",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=557735",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=559677"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Cultura y Folclore - Actividades Religiosas o Patronales",
+    "Cultura y Folclore - Ferias",
+    "Paseos - Paseos en carruaje",
+    "Cultura y Folclore - Apreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "Prohibido el uso de drones.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Actividades Religiosas o Patronales",
+      "observacion": "Procesiones de Santa Rosa de Lima, Semana Santa, Señor de Los Milagros, San Martín de Porres, entre otros.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/act_religiosas02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Ferias",
+      "observacion": "Gastronómicas y artesanales.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/feria02.png"
+    },
+    {
+      "actividad": "Paseos",
+      "tipo": "Paseos en carruaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paseo_carruaje02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Apreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)",
+      "observacion": "Pasacalles de Lima los fines de semana.",
+      "icono_url": null
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Lima/Lima/Lima - Lima/Lima/Lima",
+      "detalle": "Plaza San Martin - Plaza Mayor de Lima",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "0.7 km. / 10 min."
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Lima/Lima/Lima - Lima/Lima/Lima",
+      "detalle": "Alameda Chabuca Granda - Plaza Mayor de Lima",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "0.2 km. / 3 min."
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Lima/Lima/Lima - Lima/Lima/Lima",
+      "detalle": "Estación jr. De la Unión del Metropolitano - Plaza Mayor de Lima",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "0.4 km. / 5 min."
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "331740",
+      "horario": "MML-Subgerencia de Turismo",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "270840",
+      "horario": "MML-Subgerencia de Turismo",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "08:00 a.m. - 10:00 p.m. --",
+      "observaciones": "--"
+    },
+    {
+      "epoca": "Personas con discapacidad física",
+      "especificacion": "Rampas de acceso",
+      "horario": "--",
+      "observaciones": "--"
+    },
+    {
+      "epoca": "Adulto mayor",
+      "especificacion": "Rampas de acceso",
+      "horario": "--",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Otros (especificar)",
+      "observacion": "Información turistica por parte del personal de Serenazgo de la Municipalidad Metropolitana de Lima."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "1, 2, 3 y 5 estrellas. Cercado de Lima."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "1, 2 y 3 estrellas. Cercado de Lima."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Cercado de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Cercado de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Cercado de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Cercado de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Cercado de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Peñas",
+      "observacion": "Cercado de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Cines o Teatros",
+      "observacion": "Cercado de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Cercado de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "Cercado de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Cercado de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Cercado de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Cercado de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "Cercado de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Cercado de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Museo de Sitio Turísticos",
+      "observacion": "Cercado de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Cercado de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de carruajes",
+      "observacion": "Cercado de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Cercado de Lima. Idiomas español, inglés, francés, portugués e italiano"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Cercado de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Otros (especificar)",
+      "observacion": "Servicios higiénicos. Cercado de Lima"
+    }
+  ],
+  "descripcion": "La Plaza Mayor de Lima, también llamada Plaza de Armas, por su vínculo con la actividad militar, fue inaugurada conjuntamente con la fundación de la ciudad, el 18 de enero de 1535 por Francisco Pizarro y, por lo tanto, es la plaza más antigua de la ciudad y pertenece a la época colonial.\nLa plaza Mayor sirvió como un lugar multifuncional, alrededor del cual giraba la vida pública de Lima, donde se desarrollaban ceremonias y eventos, como la bienvenida a los nuevos virreyes y autoridades religiosas, corridas de toros, los autos de fe (acto público organizado por la Inquisición en el que los condenados por el tribunal abjuraban de sus pecados y mostraban su arrepentimiento, lo que hacía posible su reconciliación con la Iglesia católica), entre otros. Además, funcionó como el mercado principal de la ciudad.\nEl diseño actual de la plaza, fue elegido por concurso público en 1939, resultando ganador el boceto de los arquitectos Emilio Harth-terré y José Álvarez Calderón, quienes le imprimieron a la arquitectura un sello neocolonial, expresado en edificios circundantes con portales y balcones.\nEn el centro del recurso, se ubica la pileta de agua, elemento decorativo más importante, la cual ha sufrido cambios a lo largo del tiempo. La primera pileta fue construida por el virrey Francisco de Toledo en 1578. Posteriormente, fue reelaborada en cobre por Pedro de Noguera y Antonio de Rivas, inaugurándose en 1651 y en la actualidad se observa en su cúspide la alegoría a la fama. Este monumento barroco ha mantenido casi la totalidad de su estructura original por más de 300 años hasta la actualidad.\nAsimismo, el recurso turístico cuenta con palmeras, áreas verdes, farolas, bancas elaboradas en mármol y en su entorno se observan edificios históricos, tales como la Catedral, la Casa del Oidor, el Palacio de Gobierno y el Palacio Municipal. Debido a que forma parte del Centro Histórico de Lima, fue declarado Patrimonio de la Humanidad por la UNESCO en 1991.\nEl estado de conservación es muy bueno, porque la Municipalidad Metropolitana de Lima, a través de la Gerencia de Servicios a la ciudad, se encarga de su mantenimiento. Asimismo, las intervenciones de conservación son realizadas por PROLIMA en coordinación con el Ministerio de Cultura.\nHoy en día, en la Plaza Mayor de Lima, se celebran eventos protocolares, culturales, gastronómicos, artísticos, entre otros y por su importancia en la historia del Perú es el punto de partida de los recorridos turístico en el Centro Histórico de Lima.",
+  "particularidades": "1) Lugar donde el general José de San Martín proclamó la independencia del Perú el 28.07.1821. Dato descrito en el libro “La historia de Lima” por Marco Antonio Capristán.\n2) Lugar donde se realizó la fundación de Lima, conocida como la “Ciudad de los reyes”, capital del Virreinato del Perú el 18.01.1535. Dato descrito en el libro “El damero de Pizarro, el trazo y la forja de Lima” por Reinhard Augustin Burneo.",
+  "estado_actual": "Muy bueno, porque la Municipalidad Metropolitana de Lima le brinda constante mantenimiento y seguridad.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "La Plaza Mayor de Lima, también llamada Plaza de Armas, por su vínculo con la actividad militar, fue inaugurada conjuntamente con la fundación de la ciudad, el 18 de enero de 1535 por Francisco Pizarro y, por lo tanto, es la plaza más antigua de la ciudad y pertenece a la época colonial.\nLa plaza Mayor sirvió como un lugar multifuncional, alrededor del cual giraba la vida pública de Lima, donde se desarrollaban ceremonias y eventos, como la bienvenida a los nuevos virreyes y autoridades religiosas, corridas de toros, los autos de fe (acto público organizado por la Inquisición en el que los condenados por el tribunal abjuraban de sus pecados y mostraban su arrepentimiento, lo que hacía posible su reconciliación con la Iglesia católica), entre otros. Además, funcionó como el mercado principal de la ciudad.\nEl diseño actual de la plaza, fue elegido por concurso público en 1939, resultando ganador el boceto de los arquitectos Emilio Harth-terré y José Álvarez Calderón, quienes le imprimieron a la arquitectura un sello neocolonial, expresado en edificios circundantes con portales y balcones.\nEn el centro del recurso, se ubica la pileta de agua, elemento decorativo más importante, la cual ha sufrido cambios a lo largo del tiempo. La primera pileta fue construida por el virrey Francisco de Toledo en 1578. Posteriormente, fue reelaborada en cobre por Pedro de Noguera y Antonio de Rivas, inaugurándose en 1651 y en la actualidad se observa en su cúspide la alegoría a la fama. Este monumento barroco ha mantenido casi la totalidad de su estructura original por más de 300 años hasta la actualidad.\nAsimismo, el recurso turístico cuenta con palmeras, áreas verdes, farolas, bancas elaboradas en mármol y en su entorno se observan edificios históricos, tales como la Catedral, la Casa del Oidor, el Palacio de Gobierno y el Palacio Municipal. Debido a que forma parte del Centro Histórico de Lima, fue declarado Patrimonio de la Humanidad por la UNESCO en 1991.\nEl estado de conservación es muy bueno, porque la Municipalidad Metropolitana de Lima, a través de la Gerencia de Servicios a la ciudad, se encarga de su mantenimiento. Asimismo, las intervenciones de conservación son realizadas por PROLIMA en coordinación con el Ministerio de Cultura.\nHoy en día, en la Plaza Mayor de Lima, se celebran eventos protocolares, culturales, gastronómicos, artísticos, entre otros y por su importancia en la historia del Perú es el punto de partida de los recorridos turístico en el Centro Histórico de Lima."
+    },
+    {
+      "titulo": "Particularidades",
+      "contenido": "1) Lugar donde el general José de San Martín proclamó la independencia del Perú el 28.07.1821. Dato descrito en el libro “La historia de Lima” por Marco Antonio Capristán.\n2) Lugar donde se realizó la fundación de Lima, conocida como la “Ciudad de los reyes”, capital del Virreinato del Perú el 18.01.1535. Dato descrito en el libro “El damero de Pizarro, el trazo y la forja de Lima” por Reinhard Augustin Burneo."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "Declarada como Ambiente Urbano Monumental por el Instituto Nacional de Cultura, con Resolución Suprema Nº 2900-72-ED, de fecha 28.12.1972."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Muy bueno, porque la Municipalidad Metropolitana de Lima le brinda constante mantenimiento y seguridad."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n331740\nMML-Subgerencia de Turismo\n2024\nProyección en base al conteo de visitantes durante los meses de julio y agosto 2024\nTuristas Nacionales\n270840\nMML-Subgerencia de Turismo\n2024\nProyección en base al conteo de visitantes durante los meses de julio y agosto 2024"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nLima/Lima/Lima\n-\nLima/Lima/Lima\nPlaza San Martin - Plaza Mayor de Lima\nTerrestre\nA pie\nAsfaltado\n0.7 km. / 10 min.\n2\nLima/Lima/Lima\n-\nLima/Lima/Lima\nAlameda Chabuca Granda - Plaza Mayor de Lima\nTerrestre\nA pie\nAsfaltado\n0.2 km. / 3 min.\n2\nLima/Lima/Lima\n-\nLima/Lima/Lima\nEstación jr. De la Unión del Metropolitano - Plaza Mayor de Lima\nTerrestre\nA pie\nAsfaltado\n0.4 km. / 5 min."
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n08:00 a.m.\n-\n10:00 p.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\nProhibido el uso de drones.\nCultura y Folclore\nActividades Religiosas o Patronales\nProcesiones de Santa Rosa de Lima, Semana Santa, Señor de Los Milagros, San Martín de Porres, entre otros.\nCultura y Folclore\nFerias\nGastronómicas y artesanales.\nPaseos\nPaseos en carruaje\n--\nCultura y Folclore\nApreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)\nPasacalles de Lima los fines de semana."
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Públicas\nServicios Públicos\nOtros (especificar)\nInformación turistica por parte del personal de Serenazgo de la Municipalidad Metropolitana de Lima."
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\n1, 2, 3 y 5 estrellas. Cercado de Lima.\nAlojamiento\nHostales (especificar categorías)\n1, 2 y 3 estrellas. Cercado de Lima.\nAlimentación\nRestaurantes\nCercado de Lima\nAlimentación\nCafeterías\nCercado de Lima\nAlimentación\nVenta de comida Rápida\nCercado de Lima\nOtros Servicios Turísticos\nVenta de artesanía\nCercado de Lima\nOtros Servicios Turísticos\nAgencia de Viajes\nCercado de Lima\nLugares de Recreación\nPeñas\nCercado de Lima\nLugares de Recreación\nCines o Teatros\nCercado de Lima\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nCercado de Lima\nLugares de Recreación\nKaraoke\nCercado de Lima\nLugares de Recreación\nBares\nCercado de Lima\nLugares de Recreación\nJuegos Infantiles\nCercado de Lima\nLugares de Recreación\nCentros Deportivos\nCercado de Lima\nServicios Públicos\nSeñales turísticas de orientación\nCercado de Lima\nServicios Públicos\nOficina de Información turística\nCercado de Lima\nServicios Públicos\nMuseo de Sitio Turísticos\nCercado de Lima\nServicios Públicos\nEstacionamiento de vehículos\nCercado de Lima\nOtros Servicios Turísticos\nAlquiler de carruajes\nCercado de Lima\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nCercado de Lima. Idiomas español, inglés, francés, portugués e italiano\nLugares de Recreación\nDiscotecas\nCercado de Lima\nServicios Públicos\nOtros (especificar)\nServicios higiénicos. Cercado de Lima"
+    },
+    {
+      "titulo": "Servicios Complementarios dentro del recurso",
+      "contenido": "Servicio Complementario\nObservación\nOtros(especificar)\nFotógrafos\nSeguridad / POLTUR / Comisaría\nSerenazgo de la Municipalidad Metropolitana de Lima"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCercado de Lima\nBancos\nCercado de Lima\nCajero automático\nCercado de Lima\nCasa de cambio\nCercado de Lima\nEstación de servicios, grifos, gasolineras y gasocentros\nCercado de Lima\nServicio de correos\nCercado de Lima\nServicio de estacionamiento\nCercado de Lima\nServicios de taxis\nCercado de Lima\nCentro de salud - tópico\nCercado de Lima\nVenta de materiales para fotografías\nCercado de Lima\nSeguridad / POLTUR / Comisaría\nCercado de Lima\nAlquiler y compra de equipos deportivos\nCercado de Lima\nLibrerías\nCercado de Lima\nBodegas o minimarkets\nCercado de Lima"
+    },
+    {
+      "titulo": "Condiciones de Accesibilidad al Visitante",
+      "contenido": "Visitante\nInstalación\nActividades y/o programas\nEquipamiento\nObservación\nPersonas con discapacidad física\nRampas de acceso\n--\n--\n--\nAdulto mayor\nRampas de acceso\n--\n--\n--"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\n--\nLuz (Suministro Eléctrico)\n--\nAlcantarillado sanitario\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nDistrito de Cercado de Lima\nAlcantarillado sanitario\nDistrito de Cercado de Lima\nLuz (Suministro Eléctrico)\nDistrito de Cercado de Lima\nTeléfono\nDistrito de Cercado de Lima\nSeñalización turística\nDistrito de Cercado de Lima"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nMunicipalidad Metropolitana de Lima\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nCódigo Catastral 0105020001- PROLIMA- Municipalidad Metropolitana de Lima\nAdministrador por\nNombre\nMunicipalidad Metropolitana de Lima\nTiempo de administración\nDesde el año 1535."
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nMunicipalidad Metropolitana de Lima - Subgerencia de Turismo\nNombre (Persona(s) responsable(s) del inventario turístico):\nAlex Reaño Torres/Guiliana Prada Caceres\nCargo:\nEspecialista en turismo/Técnico en elaboración de inventarios.\nCorreo:\nalexreanotorres@gmail.com/patricia.prada@munlima.gob.pe\nTeléfono:\n01-6321801\nFuentes Bibliográfica:\n1) Capristán, Marco Antonio (2023). La historia de Lima. Pinceladas limeñas. Primera edición. Lima.\n2) Reinhard, Augustin (2017) El Damero de Pizarro. El trazo y la forja de Lima. Primera edición. Municipalidad Metropolitana de Lima.\n3) Ramos, H. (2016). La reforma neocolonial de la Plaza de Armas. Modernización urbana y patrimonio arquitectónico en Lima, 1901-1952. Revista Histórica.\n4) Flores, Fernando (2015). Símbolos de la Ciudad de los Reyes. Municipalidad Metropolitana de Lima.\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n25/09/2024 17:41:55"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -12.045947477780945,
+    "longitud": -77.03060082209015
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-12.045947477780945,-77.03060082209015"
+}

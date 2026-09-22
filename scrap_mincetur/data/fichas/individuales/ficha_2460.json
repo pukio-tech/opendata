@@ -1,0 +1,462 @@
+{
+  "cod_ficha": 2460,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=2460",
+  "nombre": "Quebrada Parón",
+  "departamento": "Áncash",
+  "provincia": "Huaylas",
+  "distrito": "CARAZ",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "d. Quebradas",
+  "subtipo": "Quebradas",
+  "jerarquia": "3",
+  "altitud": "4050",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=291468",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=291468",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=469135",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=471564",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=471525",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=472585",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=472597",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=472598"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Naturaleza - Observación de fauna",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de paisaje",
+    "Naturaleza - Observación de aves",
+    "Deportes / Aventura - Caminata/Trekking",
+    "Deportes / Aventura - Camping",
+    "Deportes / Aventura - Escalada en roca",
+    "Paseos - Paseos en bote"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de fauna",
+      "observacion": "Taruga, venados, vizcacha, ratón andino, etc.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fauna02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "Quenual, taya, orquídea, tarwi andino, etc.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de aves",
+      "observacion": "Pato andino, zorzal, Alcón, etc.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/aves02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Camping",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/camping02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Escalada en roca",
+      "observacion": "Base del Nevado Pirámide.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/escalada_roca02.png"
+    },
+    {
+      "actividad": "Paseos",
+      "tipo": "Paseos en bote",
+      "observacion": "Laguna Parón",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paseo_bote02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Áncash/Huaraz/Huaraz - Áncash/Huaylas/Caraz",
+      "detalle": "Plaza de Armas de Huaraz - Plaza de Armas Caraz",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "69 km/1.20 hrs"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Áncash/Huaylas/Caraz - Áncash/Huaylas/Caraz",
+      "detalle": "Plaza de Armas de Caraz - Plazuela Nueva Victoria",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "1.5km/10min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Áncash/Huaylas/Caraz - Áncash/Huaylas/Caraz",
+      "detalle": "Plazuela Nueva Victoria - Puesto de Control Parón",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "15.8 km/30 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Áncash/Huaylas/Caraz - Áncash/Huaylas/Caraz",
+      "detalle": "Puesto de Control Parón - Laguna Parón",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "16 km/45 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Áncash/Huaraz/Huanchay - Áncash/Huaylas/Caraz",
+      "detalle": "Plaza de Armas de Huaraz - Plaza de Armas de Caraz",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus turístico",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "69km/2.20 hrs"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Áncash/Huaylas/Caraz - Áncash/Huaylas/Caraz",
+      "detalle": "Plaza de Armas Caraz - Plazuela Nueva Victoria",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus turístico",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "1.5km/10min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Áncash/Huaylas/Caraz - Áncash/Huaylas/Caraz",
+      "detalle": "Plaza Nueva Victoria - Puesto de Control Parón",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus turístico",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "15.8km/40 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Áncash/Huaylas/Caraz - Áncash/Huaylas/Caraz",
+      "detalle": "Puesto de Control Parón - Laguna Parón",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus turístico",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "16km/1hr"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Áncash/Huaylas/Caraz - Áncash/Huaylas/Caraz",
+      "detalle": "Plaza de Armas de Caraz - Plaza Nueva Victoria",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Taxi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "1.5km/10min"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Áncash/Huaylas/Caraz - Áncash/Huaylas/Caraz",
+      "detalle": "Plazuela Nueva Victoria - Puesto de Control Parón",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Taxi",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "15.8km/30min"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Áncash/Huaylas/Caraz - Áncash/Huaylas/Caraz",
+      "detalle": "Puesto de Control Parón - Laguna Parón",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Taxi",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "16 km/45 min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "90",
+      "horario": "Parque Nacional Huascarán",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "2544",
+      "horario": "Parque Nacional Huascarán",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "38",
+      "horario": "Parque Nacional Huascarán",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "07:00 a.m. - 04:00 p.m. Recomendable en los meses de mayo a noviembre",
+      "observaciones": "Recomendable en los meses de mayo a noviembre"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "Entrada general S/5.00"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "Lado Sur de la quebrada, paralelo a la laguna Parón."
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Boletería",
+      "observacion": "En la portada de la quebrada."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "1 y 2 estrellas - Ciudad de Caraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "1, 2 y 3 estrellas - Ciudad de Caraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Casa de Hospedaje",
+      "observacion": "Ciudad de Caraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Caraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Caraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Caraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Caraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Caraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de Caraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de bicicleta",
+      "observacion": "Ciudad de Caraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Oficina de Información",
+      "observacion": "Ciudad de Caraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicios Higiénicos",
+      "observacion": "Ciudad de Caraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Inglés y español - Ciudad de Caraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Estacionamiento",
+      "observacion": "Ciudad de Caraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Internet",
+      "observacion": "Ciudad de Caraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de taxi",
+      "observacion": "Ciudad de Caraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Tópico",
+      "observacion": "Ciudad de Caraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Poblado de Parón (Bodega)"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Albergues",
+      "observacion": "--"
+    }
+  ],
+  "descripcion": "La quebrada de parón se encuentra ubicado al lado Este de la ciudad de Caraz, dentro del Parque Nacional Huascarán, en la que se encuentra en la región natural Puna. Tiene una profundidad de 12 km. aproximadamente, en el cual alberga a la laguna Parón, el mismo que está rodeado de 15 picos nevados, formándose el río Llullán que recorre toda la quebrada, cuyas aguas alimentan al río Santa, el tiempo de caminata del valle dura aproximadamente 5 horas, donde se aprecia grandes paredones rocosos y áreas cubiertos de vegetación que son usadas para el pastoreo de ganado vacuno por parte de la comunidad Cruz de Mayo.\nLa quebrada es el principal acceso hacia los atractivos turísticos como: laguna Parón, Morrena de Huandoy, nevado Artezonraju, Nevado Pirámide de Garcilaso, laguna Artezoncocha, laguna Chacracocha además del bañador del cóndor, y una impresionante caída de agua; por su topografía es óptima para desarrollar actividades turísticas como: caminatas, camping, escalada en roca, observación de paisaje, tomas fotográficas y filmaciones. Todo ello hace más gratificante y permite disfrutar la tranquilidad y quietud del paisaje. Además, es propicio para la aclimatación de los amantes de la escalada en nieve, siendo campo base para ascender a los nevados Artezonraju, Huandoy y Pirámide de Garcilaso; cuenta con acceso con vehículo hasta la laguna Parón, pero desde el puesto de control Parón, se puede recorrer por el camino peatonal.",
+  "particularidades": "",
+  "estado_actual": "Bueno, porque no supera su capacidad de carga y es administrado por la Comunidad Cruz de Mayo",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "La quebrada de parón se encuentra ubicado al lado Este de la ciudad de Caraz, dentro del Parque Nacional Huascarán, en la que se encuentra en la región natural Puna. Tiene una profundidad de 12 km. aproximadamente, en el cual alberga a la laguna Parón, el mismo que está rodeado de 15 picos nevados, formándose el río Llullán que recorre toda la quebrada, cuyas aguas alimentan al río Santa, el tiempo de caminata del valle dura aproximadamente 5 horas, donde se aprecia grandes paredones rocosos y áreas cubiertos de vegetación que son usadas para el pastoreo de ganado vacuno por parte de la comunidad Cruz de Mayo.\nLa quebrada es el principal acceso hacia los atractivos turísticos como: laguna Parón, Morrena de Huandoy, nevado Artezonraju, Nevado Pirámide de Garcilaso, laguna Artezoncocha, laguna Chacracocha además del bañador del cóndor, y una impresionante caída de agua; por su topografía es óptima para desarrollar actividades turísticas como: caminatas, camping, escalada en roca, observación de paisaje, tomas fotográficas y filmaciones. Todo ello hace más gratificante y permite disfrutar la tranquilidad y quietud del paisaje. Además, es propicio para la aclimatación de los amantes de la escalada en nieve, siendo campo base para ascender a los nevados Artezonraju, Huandoy y Pirámide de Garcilaso; cuenta con acceso con vehículo hasta la laguna Parón, pero desde el puesto de control Parón, se puede recorrer por el camino peatonal."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "El parque Nacional Huascarán en 1977 fue declarado Reserva de Biosfera y Patrimonio Natural de la Humanidad en 1985 por la UNESCO."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, porque no supera su capacidad de carga y es administrado por la Comunidad Cruz de Mayo"
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n90\nParque Nacional Huascarán\n2021\nTuristas Nacionales\n2544\nParque Nacional Huascarán\n2021\nVisitantes Locales(Excursionistas)\n38\nParque Nacional Huascarán\n2021"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nÁncash/Huaraz/Huaraz\n-\nÁncash/Huaylas/Caraz\nPlaza de Armas de Huaraz - Plaza de Armas Caraz\nTerrestre\nAutomóvil particular\nAsfaltado\n69 km/1.20 hrs\n1\nÁncash/Huaylas/Caraz\n-\nÁncash/Huaylas/Caraz\nPlaza de Armas de Caraz - Plazuela Nueva Victoria\nTerrestre\nAutomóvil particular\nAsfaltado\n1.5km/10min\n1\nÁncash/Huaylas/Caraz\n-\nÁncash/Huaylas/Caraz\nPlazuela Nueva Victoria - Puesto de Control Parón\nTerrestre\nAutomóvil particular\nAfirmado\n15.8 km/30 min\n1\nÁncash/Huaylas/Caraz\n-\nÁncash/Huaylas/Caraz\nPuesto de Control Parón - Laguna Parón\nTerrestre\nAutomóvil particular\nAfirmado\n16 km/45 min\n1\nÁncash/Huaraz/Huanchay\n-\nÁncash/Huaylas/Caraz\nPlaza de Armas de Huaraz - Plaza de Armas de Caraz\nTerrestre\nBus turístico\nAsfaltado\n69km/2.20 hrs\n1\nÁncash/Huaylas/Caraz\n-\nÁncash/Huaylas/Caraz\nPlaza de Armas Caraz - Plazuela Nueva Victoria\nTerrestre\nBus turístico\nAfirmado\n1.5km/10min\n1\nÁncash/Huaylas/Caraz\n-\nÁncash/Huaylas/Caraz\nPlaza Nueva Victoria - Puesto de Control Parón\nTerrestre\nBus turístico\nAfirmado\n15.8km/40 min\n1\nÁncash/Huaylas/Caraz\n-\nÁncash/Huaylas/Caraz\nPuesto de Control Parón - Laguna Parón\nTerrestre\nBus turístico\nAfirmado\n16km/1hr\n2\nÁncash/Huaylas/Caraz\n-\nÁncash/Huaylas/Caraz\nPlaza de Armas de Caraz - Plaza Nueva Victoria\nTerrestre\nTaxi\nAsfaltado\n1.5km/10min\n2\nÁncash/Huaylas/Caraz\n-\nÁncash/Huaylas/Caraz\nPlazuela Nueva Victoria - Puesto de Control Parón\nTerrestre\nTaxi\nAfirmado\n15.8km/30min\n2\nÁncash/Huaylas/Caraz\n-\nÁncash/Huaylas/Caraz\nPuesto de Control Parón - Laguna Parón\nTerrestre\nTaxi\nAfirmado\n16 km/45 min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nEntrada general S/5.00"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n07:00 a.m.\n-\n04:00 p.m.\nRecomendable en los meses de mayo a noviembre"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nNaturaleza\nObservación de fauna\nTaruga, venados, vizcacha, ratón andino, etc.\nNaturaleza\nObservación de flora\nQuenual, taya, orquídea, tarwi andino, etc.\nNaturaleza\nObservación de paisaje\n--\nNaturaleza\nObservación de aves\nPato andino, zorzal, Alcón, etc.\nDeportes / Aventura\nCaminata/Trekking\n--\nDeportes / Aventura\nCamping\n--\nDeportes / Aventura\nEscalada en roca\nBase del Nevado Pirámide.\nPaseos\nPaseos en bote\nLaguna Parón"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Públicas\nServicios Públicos\nMiradores turísticos\nLado Sur de la quebrada, paralelo a la laguna Parón.\nInstalaciones Públicas\nServicios Públicos\nSeñales turísticas de orientación\n--\nInstalaciones Públicas\nServicios Públicos\nCaminos peatonales\n--\nInstalaciones Públicas\nServicios Públicos\nBoletería\nEn la portada de la quebrada."
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\n1 y 2 estrellas - Ciudad de Caraz\nAlojamiento\nHostales (especificar categorías)\n1, 2 y 3 estrellas - Ciudad de Caraz\nAlojamiento\nCasa de Hospedaje\nCiudad de Caraz\nAlimentación\nRestaurantes\nCiudad de Caraz\nAlimentación\nBares\nCiudad de Caraz\nAlimentación\nCafeterías\nCiudad de Caraz\nLugares de Recreación\nDiscotecas\nCiudad de Caraz\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Caraz\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de Caraz\nOtros Servicios Turísticos\nAlquiler de bicicleta\nCiudad de Caraz\nOtros Servicios Turísticos\nOficina de Información\nCiudad de Caraz\nOtros Servicios Turísticos\nServicios Higiénicos\nCiudad de Caraz\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nInglés y español - Ciudad de Caraz\nOtros Servicios Turísticos\nServicio de Estacionamiento\nCiudad de Caraz\nOtros Servicios Turísticos\nServicio de Internet\nCiudad de Caraz\nOtros Servicios Turísticos\nServicio de taxi\nCiudad de Caraz\nOtros Servicios Turísticos\nTópico\nCiudad de Caraz\nOtros Servicios Turísticos\nOtros (Especificar)\nPoblado de Parón (Bodega)\nAlojamiento\nAlbergues\n--"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Caraz\nBancos\nCiudad de Caraz\nCajero automático\nCiudad de Caraz - Multirred y BCP\nCasa de cambio\nCiudad de Caraz\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Caraz\nServicio de estacionamiento\nCiudad de Caraz\nServicios de taxis\nCiudad de Caraz\nCentro de salud - tópico\nCiudad de Caraz\nSeguridad / POLTUR / Comisaría\nCiudad de Caraz - Comisaría\nAlquiler y compra de equipos deportivos\nCiudad de Caraz\nBodegas o minimarkets\nCiudad de Caraz\nLibrerías\nCiudad de Caraz"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nSeñalización turística\n--\nAlternativo de Residuos (Biodigestor, pozo séptico, otros)\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Caraz y En el Poblado Parón\nAlcantarillado sanitario\nCiudad de Caraz\nDesagüe\nCiudad de Caraz\nLuz (Suministro Eléctrico)\nCiudad de Caraz y En el Poblado Parón\nTeléfono\nCobertura de telefono movil(Movistar y Claro). Cz"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nParque Nacional Huascarán\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nCertificado Literal de Predio\nNúmero de Partida:\n11300446\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nComunidad Campesina Cruz de Mayo\nTiempo de administración\nDesde el año 2019"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo de Áncash\nNombre (Persona(s) responsable(s) del inventario turístico):\nLic. Yessenia Patricia Camones Trejo\nCargo:\nAuxiliar administrativo\nCorreo:\nPatriciaturism@gmail.com\nTeléfono:\n937082574\nFuentes Bibliográfica:\nMinisterio de Agricultura y Riego, dirección de calidad y evaluación de recursos, Evaluación de Reserva de Aguas Dulces en Ancash- 2020.\nhttps://entremochileros.com/planea-viajes/quebrada-paron-turismo-tour-paquetes-full-day/\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n19/12/2022"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -9.035498909985773,
+    "longitud": -77.729808285692
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-9.035498909985773,-77.729808285692"
+}

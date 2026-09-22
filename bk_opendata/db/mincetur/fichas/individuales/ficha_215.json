@@ -1,0 +1,339 @@
+{
+  "cod_ficha": 215,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=215",
+  "nombre": "Iglesia San José - Pozuzo",
+  "departamento": "Pasco",
+  "provincia": "Oxapampa",
+  "distrito": "POZUZO",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Arquitectura y Espacios Urbanos",
+  "subtipo": "Iglesias",
+  "jerarquia": "2",
+  "altitud": "751",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=465436",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=465436",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=465490",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=465437",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=465504"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Cultura y Folclore - Actividades Religiosas o Patronales"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Actividades Religiosas o Patronales",
+      "observacion": "19 de marzo- Dia del Patrono San José 25 de julio - Dia del Colono",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/act_religiosas02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Pasco/Oxapampa/Oxapampa - Pasco/Oxapampa/Pozuzo",
+      "detalle": "Plaza Principal de Oxapampa - Plaza Los Colonos",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "76,3 Km / 02 Horas"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Pasco/Oxapampa/Pozuzo - Pasco/Oxapampa/Pozuzo",
+      "detalle": "Plaza Los Colonos - Iglesia San José",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Otros",
+      "distancia_tiempo": "0,38 Km/ 03 Minutos"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "900",
+      "horario": "Informe Técnico 01-2022-UT",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "5364",
+      "horario": "Informe Técnico 01-2022-UT",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "326",
+      "horario": "Informe Técnico 01-2022-UT",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "08:00 a.m. - 05:00 p.m. exceptuando en los horarios que se realizan las misas",
+      "observaciones": "exceptuando en los horarios que se realizan las misas"
+    },
+    {
+      "epoca": "Personas con discapacidad física",
+      "especificacion": "rampa de acceso a la iglesia",
+      "horario": "--",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "3* - Ciudad de Prusia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Albergues",
+      "observacion": "Ciudad de Pozuzo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Pozuzo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "1 tenedor - Ciudad de Pozuzo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Pozuzo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Pozuzo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Ciudad de Pozuzo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Pozuzo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Ciudad de Pozuzo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de Pozuzo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Pozuzo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Prusia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Pozuzo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Ciudad de Pozuzo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Ciudad de Pozuzo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "Ciudad de Pozuzo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Ciudad de Pozuzo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "Ciudad de Pozuzo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Ciudad de Pozuzo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "Ciudad de Pozuzo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Centros de interpretación",
+      "observacion": "Sector Huampal"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "Ciudad de Pozuzo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Museo de Sitio Turísticos",
+      "observacion": "Ciudad de Pozuzo"
+    }
+  ],
+  "descripcion": "Se ubica en la ciudad de Pozuzo, provincia de Oxapampa, Región Pasco. Es la primera estructura religiosa construida por colonos austroalemanes en el Perú, bajo la dirección del padre José Egg, contando con el apoyo del segundo grupo de colonos que llegó a la zona de Pozuzo, culminando su construcción en 1876. Se caracteriza por tener un estilo sencillo, techo a dos aguas, una sola nave con planta en cruz latina, una torre central y ábside en la parte posterior. La estructura está construida a base de piedras y arcilla, con revoque de cal y arena, material noble y acabados de madera; al interior se pueden observar inscripciones en español y alemán.\nEn 1860 el padre José Egg recibió del Tirol, del convento de Fiecht, utensilios litúrgicos y oleos del monje benedictino Josef Öfner, quien los había pintado en 1859 para el templo de Pozuzo; entre ellos se encuentran: San José con el Niño, ubicado en el altar mayor; Santiago el Mayor y Santa Ana con la Virgen ubicados en el altar lateral, este último oleo pintado en 1878; las tres campanas las trajo también el padre José Egg de la capilla de Muña, que anteriormente perteneció al pequeño templo de Yanahuanca (Pozuzo antiguo poblado por indígenas) construida por los padres franciscanos de Ocopa. El altar, confesionario, púlpito, el hermoso reclinatorio y las bancas fueron construidas por el Rvdo. Padre Schafferer y colonos que aprendieron el oficio de la carpintería.\nEl altar es de estilo neoclásico y en ambos lados destacan dos vitrales, uno de Santa Rosa de Lima y el otro de Santa Nortburga del Tirol. Al pie hay una inscripción que reza: Tiroli Masmalerci-Austria. Hacia el lado izquierdo se levanta el altar de la virgen, el cual está tallado en madera y cuya imagen fue traída desde Alemania; al fondo se encuentra una pintura de San Juan Bautista.\nCabe precisar que en la actualidad las misas aún se realizan con cánticos en alemán: Los domingos en la primera misa (08:00 a.m.), misa del Patrono San José (19 de marzo) y misa por el aniversario de Pozuzo en el \"Día del Colono\" (25 de julio).",
+  "particularidades": "",
+  "estado_actual": "Bueno, la Municipalidad Distrital de Pozuzo apoya con el mantenimiento y limpieza de los exteriores de la Iglesia y el Consejo Parroquial se encarga del mantenimiento de sus interiores.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Se ubica en la ciudad de Pozuzo, provincia de Oxapampa, Región Pasco. Es la primera estructura religiosa construida por colonos austroalemanes en el Perú, bajo la dirección del padre José Egg, contando con el apoyo del segundo grupo de colonos que llegó a la zona de Pozuzo, culminando su construcción en 1876. Se caracteriza por tener un estilo sencillo, techo a dos aguas, una sola nave con planta en cruz latina, una torre central y ábside en la parte posterior. La estructura está construida a base de piedras y arcilla, con revoque de cal y arena, material noble y acabados de madera; al interior se pueden observar inscripciones en español y alemán.\nEn 1860 el padre José Egg recibió del Tirol, del convento de Fiecht, utensilios litúrgicos y oleos del monje benedictino Josef Öfner, quien los había pintado en 1859 para el templo de Pozuzo; entre ellos se encuentran: San José con el Niño, ubicado en el altar mayor; Santiago el Mayor y Santa Ana con la Virgen ubicados en el altar lateral, este último oleo pintado en 1878; las tres campanas las trajo también el padre José Egg de la capilla de Muña, que anteriormente perteneció al pequeño templo de Yanahuanca (Pozuzo antiguo poblado por indígenas) construida por los padres franciscanos de Ocopa. El altar, confesionario, púlpito, el hermoso reclinatorio y las bancas fueron construidas por el Rvdo. Padre Schafferer y colonos que aprendieron el oficio de la carpintería.\nEl altar es de estilo neoclásico y en ambos lados destacan dos vitrales, uno de Santa Rosa de Lima y el otro de Santa Nortburga del Tirol. Al pie hay una inscripción que reza: Tiroli Masmalerci-Austria. Hacia el lado izquierdo se levanta el altar de la virgen, el cual está tallado en madera y cuya imagen fue traída desde Alemania; al fondo se encuentra una pintura de San Juan Bautista.\nCabe precisar que en la actualidad las misas aún se realizan con cánticos en alemán: Los domingos en la primera misa (08:00 a.m.), misa del Patrono San José (19 de marzo) y misa por el aniversario de Pozuzo en el \"Día del Colono\" (25 de julio)."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "El templo de San José, según Ordenanza Municipal No 09-2003-MDP del 12 de junio del 2003, forma parte del Centro Histórico Cultural de Pozuzo y, mediante Ordenanza Regional N° 166-2008-G.R. PASCO/CR del 24 de julio de 2008, fue declarada de Interés Regional.\nRecurso situado dentro de la Reserva de Biósfera Oxapampa-Asháninka-Yánesha reconocida\npor la UNESCO en junio de 2010."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, la Municipalidad Distrital de Pozuzo apoya con el mantenimiento y limpieza de los exteriores de la Iglesia y el Consejo Parroquial se encarga del mantenimiento de sus interiores."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": ""
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nVisitantes Locales(Excursionistas)\n900\nInforme Técnico 01-2022-UT\n2021\nTuristas Nacionales\n5364\nInforme Técnico 01-2022-UT\n2021\nTuristas Extranjeros\n326\nInforme Técnico 01-2022-UT\n2021"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nPasco/Oxapampa/Oxapampa\n-\nPasco/Oxapampa/Pozuzo\nPlaza Principal de Oxapampa - Plaza Los Colonos\nTerrestre\nAutomóvil particular\nAsfaltado\n76,3 Km / 02 Horas\n1\nPasco/Oxapampa/Pozuzo\n-\nPasco/Oxapampa/Pozuzo\nPlaza Los Colonos - Iglesia San José\nTerrestre\nAutomóvil particular\nOtros\n0,38 Km/ 03 Minutos"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n08:00 a.m.\n-\n05:00 p.m.\nexceptuando en los horarios que se realizan las misas"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nCultura y Folclore\nActividades Religiosas o Patronales\n19 de marzo- Dia del Patrono San José\n25 de julio - Dia del Colono"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHostales (especificar categorías)\n3* - Ciudad de Prusia\nAlojamiento\nAlbergues\nCiudad de Pozuzo\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Pozuzo\nAlimentación\nRestaurantes\n1 tenedor - Ciudad de Pozuzo\nAlimentación\nKioskos de comida y bebidas\nCiudad de Pozuzo\nAlimentación\nBares\nCiudad de Pozuzo\nAlimentación\nFuentes de soda\nCiudad de Pozuzo\nAlimentación\nCafeterías\nCiudad de Pozuzo\nAlimentación\nVenta de comida Rápida\nCiudad de Pozuzo\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de Pozuzo\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Pozuzo\nLugares de Recreación\nDiscotecas\nCiudad de Prusia\nLugares de Recreación\nBares\nCiudad de Pozuzo\nLugares de Recreación\nJuegos Infantiles\nCiudad de Pozuzo\nLugares de Recreación\nCentros Deportivos\nCiudad de Pozuzo\nServicios Públicos\nMiradores turísticos\nCiudad de Pozuzo\nServicios Públicos\nEstacionamiento de vehículos\nCiudad de Pozuzo\nServicios Públicos\nSeñales turísticas de orientación\nCiudad de Pozuzo\nServicios Públicos\nOficina de Información turística\nCiudad de Pozuzo\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\nCiudad de Pozuzo\nServicios Públicos\nCentros de interpretación\nSector Huampal\nServicios Públicos\nCaminos peatonales\nCiudad de Pozuzo\nServicios Públicos\nMuseo de Sitio Turísticos\nCiudad de Pozuzo"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Pozuzo\nBancos\nBanco de la Nación - Ciudad de Pozuzo\nCajero automático\nBanco de la Nación - Ciudad de Pozuzo\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Pozuzo\nServicio de estacionamiento\nCiudad de Pozuzo\nCentro de salud - tópico\nCiudad de Pozuzo\nSeguridad / POLTUR / Comisaría\nCiudad de Pozuzo\nLibrerías\nCiudad de Pozuzo\nBodegas o minimarkets\nCiudad de Pozuzo"
+    },
+    {
+      "titulo": "Condiciones de Accesibilidad al Visitante",
+      "contenido": "Visitante\nInstalación\nActividades y/o programas\nEquipamiento\nObservación\nPersonas con discapacidad física\nrampa de acceso a la iglesia\n--\n--\n--"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nLuz (Suministro Eléctrico)\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Pozuzo\nLuz (Suministro Eléctrico)\nCiudad de Pozuzo\nAlcantarillado sanitario\nCiudad de Pozuzo\nTeléfono\nCiudad de Pozuzo\nAlternativo de Residuos (Biodigestor, pozo séptico, otros)\nCiudad de Pozuzo\nSeñalización turística\nCiudad de Pozuzo"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nDiócesis de Huánuco\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nTitulo de Propiedad Nº 6831\nAdministrador por\nNombre\nDiócesis de Huánuco\nTiempo de administración\nDesde el año 1870"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Zonal de Comercio Exterior y Turismo - Oxapampa\nNombre (Persona(s) responsable(s) del inventario turístico):\nEcon. Braulio Yupanqui Daviran\nCargo:\nEspecialista en Turismo\nCorreo:\nbraulioy3@hotmail.com\nTeléfono:\n963917617\nFuentes Bibliográfica:\nAsociación de historia y cultura de Pozuzo. (2002). Guía oficial histórica y turística de Pozuzo. Pozuzo, Pasco, Perú.\nHabicher-Schwarz, E. (2008). Tiroleses, renanos y bávaros en la selva del Perú. Austria: Berenkamp-Verlag.\nPulgar Vidal, J. (1981). Geografía del Perú: las ocho regiones naturales del Perú. Lima: Editorial Universo.\nDiócesis de Huánuco. (s.f.). San José - Pozuzo. Recuperado el 2022, de Diócesis de Huánuco: http://diocesisdehuanuco.com/san-jose-pozuzo/\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\nTrabajo de limpieza, mantenimiento y acondicionamiento por medio del programa Trabaja Perú-2021\nFecha:\n28/11/2022"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -10.070590820022938,
+    "longitud": -75.55111169815063
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-10.070590820022938,-75.55111169815063"
+}

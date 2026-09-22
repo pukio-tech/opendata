@@ -1,0 +1,350 @@
+{
+  "cod_ficha": 2173,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=2173",
+  "nombre": "Sitio Arqueológico De Honcopampa",
+  "departamento": "Áncash",
+  "provincia": "Carhuaz",
+  "distrito": "SAN MIGUEL DE ACO",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Sitios Arqueológicos",
+  "subtipo": "Zonas arqueológicas",
+  "jerarquia": "1",
+  "altitud": "3464",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=292176",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=292176",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=471703",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=471754",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=471722"
+  ],
+  "actividades_permitidas": [
+    "Otros - Compras de artesanía/souvenir",
+    "Otros - Toma de fotografías y filmaciones",
+    "Naturaleza - Observación de paisaje",
+    "Cultura y Folclore - Rituales místicos o tradicionales",
+    "Deportes / Aventura - Caminata/Trekking",
+    "Deportes / Aventura - Camping",
+    "Cultura y Folclore - Degustación y preparación de platos, productos o bebidas típicas",
+    "Paseos - Paseos a caballo",
+    "Paseos - Paseos en bicicleta"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Compras de artesanía/souvenir",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/artesania02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Rituales místicos o tradicionales",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/rituales_misticos02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Camping",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/camping02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Degustación y preparación de platos, productos o bebidas típicas",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/platos_tipicos02.png"
+    },
+    {
+      "actividad": "Paseos",
+      "tipo": "Paseos a caballo",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paseo_caballo02.png"
+    },
+    {
+      "actividad": "Paseos",
+      "tipo": "Paseos en bicicleta",
+      "observacion": "--",
+      "icono_url": null
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Áncash/Huaraz/Huaraz - Áncash/Huaraz/Tarica",
+      "detalle": "Plaza de la ciudad de Huaraz - Plaza de Taricá",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "17.5Km / 25 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Áncash/Huaraz/Tarica - Áncash/Carhuaz/Pariahuanca",
+      "detalle": "Plaza de Taricá - Plaza de Pariahuanca",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "4.3 Km/ 10 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Áncash/Carhuaz/Pariahuanca - Áncash/Carhuaz/San Miguel De Aco",
+      "detalle": "Plaza de Parihuanca - Localidad de San Miguel de Aco",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "2 Km / 5 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Áncash/Carhuaz/San Miguel De Aco - Áncash/Carhuaz/San Miguel De Aco",
+      "detalle": "Localidad de San Miguel de Aco - Sitio Arqueológico de Honcopampa",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "7.8 Km / 20 min."
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "7200",
+      "horario": "Carta N° 10-2022-CP-ATOCPAMPA/A",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "25200",
+      "horario": "Carta N° 10-2022-CP-ATOCPAMPA/A",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "3600",
+      "horario": "Carta N° 10-2022-CP-ATOCPAMPA/A",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "07:00 a.m. - 05:00 p.m. --",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "Tarifas de ingreso: Extranjero S/. 10.00; nacionales adulto S/. 5.00; nacionales niños y estudiantes S/. 3.00"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de Caballos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "En la ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "En la ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "En la ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "En las ciudades de Huaraz y Carhuaz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "En las ciudades de Huaraz y Carhuaz."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "En la ciudad de Huaraz se cuentan con guías en idioma inglés."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "En las ciudades de Huaraz y Carhuaz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "En las ciudades de Huaraz y Carhuaz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "En las ciudades de Huaraz y Carhuaz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "En las ciudades de Huaraz y Carhuaz, de 1 a 3 estrellas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "En las ciudades de Huaraz y Carhuaz, de 1 a 3 estrellas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Albergues",
+      "observacion": "En las ciudades de Huaraz y Carhuaz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "En las ciudades de Huaraz y Carhuaz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "En las ciudades de Huaraz y Carhuaz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "En las ciudad de Huaraz"
+    }
+  ],
+  "descripcion": "El sitio arqueológico de Honcopampa se encuentra ubicado en la Comunidad Campesina de Túpac Yupanqui, Centro Poblado de Atoqpampa, distrito de San Miguel de Aco, provincia de Carhuaz, del departamento de Áncash, a una altura de 3464 msnm.\nEl sitio arqueológico de Honcopampa muestra actualmente tres edificaciones con múltiples cámaras siendo estas edificaciones conocidas como chullpas, que han sido construidos sobre la base de piedras grandes, formando 2 caras y con relleno de piedras pequeñas que van formando un muro de mampostería regular.\nLas investigaciones en el sitio de Honcopampa fueron hechas primeramente por Gary Vescelius que realizó excavaciones, donde describe un asentamiento que guarda un cierto trazo urbanístico con recintos de planta cuadrangular, al que llama sector residencial, existiendo además otro sector al que llama vecinal con muros circulares muy altos. Así mismo realiza fechados radiocarbónicos que lo sitúan entre 959, 994 y 1,054 d.C. respectivamente propios del Horizonte Medio - Wari Tardío - y se extiende hasta el Intermedio Tardío. Sostiene que Honcopampa es un sitio Tiwanacoide\nPosteriormente, William Isbell en el año 1991 realizó trabajos de reconocimiento con excavaciones en Honcopampa y lo definió como un centro provincial Wari en el Callejon de Huaylas; arquitectónicamente registró edificios que presentan similitudes con la ciudad de Wari en Ayacucho, tales como los edificios en forma de «D» y los grupos-patio.\nActualmente Honcopampa es un espacio que está siendo visitado frecuentemente por turistas, ya que cuenta con una vía de acceso asfaltada y se han organizado los pobladores del centro poblado de Atocpampa quienes brindan servicios de alimentación.",
+  "particularidades": "",
+  "estado_actual": "Buen estado de conservación, ya que la población del centro poblado de Atocpampa se encarga de cuidarlo.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "El sitio arqueológico de Honcopampa se encuentra ubicado en la Comunidad Campesina de Túpac Yupanqui, Centro Poblado de Atoqpampa, distrito de San Miguel de Aco, provincia de Carhuaz, del departamento de Áncash, a una altura de 3464 msnm.\nEl sitio arqueológico de Honcopampa muestra actualmente tres edificaciones con múltiples cámaras siendo estas edificaciones conocidas como chullpas, que han sido construidos sobre la base de piedras grandes, formando 2 caras y con relleno de piedras pequeñas que van formando un muro de mampostería regular.\nLas investigaciones en el sitio de Honcopampa fueron hechas primeramente por Gary Vescelius que realizó excavaciones, donde describe un asentamiento que guarda un cierto trazo urbanístico con recintos de planta cuadrangular, al que llama sector residencial, existiendo además otro sector al que llama vecinal con muros circulares muy altos. Así mismo realiza fechados radiocarbónicos que lo sitúan entre 959, 994 y 1,054 d.C. respectivamente propios del Horizonte Medio - Wari Tardío - y se extiende hasta el Intermedio Tardío. Sostiene que Honcopampa es un sitio Tiwanacoide\nPosteriormente, William Isbell en el año 1991 realizó trabajos de reconocimiento con excavaciones en Honcopampa y lo definió como un centro provincial Wari en el Callejon de Huaylas; arquitectónicamente registró edificios que presentan similitudes con la ciudad de Wari en Ayacucho, tales como los edificios en forma de «D» y los grupos-patio.\nActualmente Honcopampa es un espacio que está siendo visitado frecuentemente por turistas, ya que cuenta con una vía de acceso asfaltada y se han organizado los pobladores del centro poblado de Atocpampa quienes brindan servicios de alimentación."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "Reconocido como sitio arqueológico mediante RDN-824 del Insituto Nacional de Cultura de fecha 09 de junio del 2009."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Buen estado de conservación, ya que la población del centro poblado de Atocpampa se encarga de cuidarlo."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n7200\nCarta N° 10-2022-CP-ATOCPAMPA/A\n2021\nTuristas Nacionales\n25200\nCarta N° 10-2022-CP-ATOCPAMPA/A\n2021\nVisitantes Locales(Excursionistas)\n3600\nCarta N° 10-2022-CP-ATOCPAMPA/A\n2021"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nÁncash/Huaraz/Huaraz\n-\nÁncash/Huaraz/Tarica\nPlaza de la ciudad de Huaraz - Plaza de Taricá\nTerrestre\nAutomóvil particular\nAsfaltado\n17.5Km / 25 min.\n1\nÁncash/Huaraz/Tarica\n-\nÁncash/Carhuaz/Pariahuanca\nPlaza de Taricá - Plaza de Pariahuanca\nTerrestre\nAutomóvil particular\nAsfaltado\n4.3 Km/ 10 min.\n1\nÁncash/Carhuaz/Pariahuanca\n-\nÁncash/Carhuaz/San Miguel De Aco\nPlaza de Parihuanca - Localidad de San Miguel de Aco\nTerrestre\nAutomóvil particular\nAsfaltado\n2 Km / 5 min.\n1\nÁncash/Carhuaz/San Miguel De Aco\n-\nÁncash/Carhuaz/San Miguel De Aco\nLocalidad de San Miguel de Aco - Sitio Arqueológico de Honcopampa\nTerrestre\nAutomóvil particular\nAsfaltado\n7.8 Km / 20 min."
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nTarifas de ingreso: Extranjero S/. 10.00; nacionales adulto S/. 5.00; nacionales niños y estudiantes S/. 3.00"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n07:00 a.m.\n-\n05:00 p.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nCompras de artesanía/souvenir\n--\nOtros\nToma de fotografías y filmaciones\n--\nNaturaleza\nObservación de paisaje\n--\nCultura y Folclore\nRituales místicos o tradicionales\n--\nDeportes / Aventura\nCaminata/Trekking\n--\nDeportes / Aventura\nCamping\n--\nCultura y Folclore\nDegustación y preparación de platos, productos o bebidas típicas\n--\nPaseos\nPaseos a caballo\n--\nPaseos\nPaseos en bicicleta\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nOtros Servicios Turísticos\nAlquiler de Caballos\n--\nInstalaciones Privadas\nAlimentación\nKioskos de comida y bebidas\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nLugares de Recreación\nDiscotecas\nEn la ciudad de Huaraz\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nEn la ciudad de Huaraz\nLugares de Recreación\nBares\nEn la ciudad de Huaraz\nOtros Servicios Turísticos\nVenta de artesanía\nEn las ciudades de Huaraz y Carhuaz\nOtros Servicios Turísticos\nAgencia de Viajes\nEn las ciudades de Huaraz y Carhuaz.\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nEn la ciudad de Huaraz se cuentan con guías en idioma inglés.\nAlimentación\nRestaurantes\nEn las ciudades de Huaraz y Carhuaz\nAlimentación\nBares\nEn las ciudades de Huaraz y Carhuaz\nAlimentación\nCafeterías\nEn las ciudades de Huaraz y Carhuaz\nAlojamiento\nHoteles (especificar categorías)\nEn las ciudades de Huaraz y Carhuaz, de 1 a 3 estrellas\nAlojamiento\nHostales (especificar categorías)\nEn las ciudades de Huaraz y Carhuaz, de 1 a 3 estrellas\nAlojamiento\nAlbergues\nEn las ciudades de Huaraz y Carhuaz\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nEn las ciudades de Huaraz y Carhuaz\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\nEn las ciudades de Huaraz y Carhuaz\nServicios Públicos\nOficina de Información turística\nEn las ciudad de Huaraz"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nEn las ciudades de Huaraz y Carhuaz\nBancos\nEn las ciudades de Huaraz y Carhuaz\nCajero automático\nEn las ciudades de Huaraz y Carhuaz\nCasa de cambio\nEn las ciudades de Huaraz y Carhuaz\nServicios de taxis\nEn las ciudades de Huaraz y Carhuaz\nSeguridad / POLTUR / Comisaría\nEn las ciudades de Huaraz y Carhuaz\nCentro de salud - tópico\nEn las localidades de San Miguel de Aco y Pariahuanca\nBodegas o minimarkets\nEn las ciudades de Huaraz y Carhuaz"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nEn el centro poblado de Atocpampa y en la localidad de San Miguel de Aco\nLuz (Suministro Eléctrico)\nEn el centro poblado de Atocpampa y en la localidad de San Miguel de Aco\nTeléfono\nEn el centro poblado de Atocpampa y en la localidad de San Miguel de Aco\nSeñalización turística\nEn el centro poblado de Atocpampa y en la localidad de San Miguel de Aco"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nMinisterio de Cultura\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nReconocido como sitio arqueológico mediante RDN-824 del Insituto Nacional de Cultura de fecha 09 de junio del 2009.\nAdministrador por\nNombre\nComunidad Campesina Túpac Yupanqui\nTiempo de administración\nDesde el año 1976"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo de Ancash\nNombre (Persona(s) responsable(s) del inventario turístico):\nLic. Patricia Camones Trejo\nCargo:\nEspecialista en Turismo\nCorreo:\ndirceturancashdt@gmail.com\nTeléfono:\n043- 349698\nFuentes Bibliográfica:\n- Boletín de arqueología PUCP N° 4, 2000.\n- https:congresoarqueologia.cultura.gob.pesitesdefaultfilespaginasinternaspdf2020-08iii_cna_-_sumillas.pdf\n- https://sigda.cultura.gob.pe/\n- http://arqueologiadeancash.blogspot.com/2010/11/horizonte-medio-en-huari-600-1000-dc.html\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n16/12/2022"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -9.359351414790723,
+    "longitud": -77.55040508588155
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-9.359351414790723,-77.55040508588155"
+}

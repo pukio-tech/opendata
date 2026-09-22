@@ -1,0 +1,303 @@
+{
+  "cod_ficha": 3849,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=3849",
+  "nombre": "Jagüeyes De Mayascón",
+  "departamento": "Lambayeque",
+  "provincia": "Ferreñafe",
+  "distrito": "PITIPO",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "g. Cuerpo de Agua",
+  "subtipo": "Lagunas",
+  "jerarquia": "2",
+  "altitud": "400",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=353513",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=353513",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=354452",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=354453",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=354499",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=354454",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=354500",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=354502",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=542148",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=542149",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=542172"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Estudios e Investigación",
+    "Naturaleza - Observación de fauna",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de paisaje",
+    "Cultura y Folclore - Rituales místicos o tradicionales",
+    "Deportes / Aventura - Caminata/Trekking",
+    "Deportes / Aventura - Camping"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de fauna",
+      "observacion": "Iguanas, lagartijas.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fauna02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "palo santo, flor de overo, cactus, flor de overo, cactus, flor de higuerón, campanolas, otras.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Rituales místicos o tradicionales",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/rituales_misticos02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Camping",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/camping02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Lambayeque/Ferreñafe/Ferreñafe - Lambayeque/Ferreñafe/Pitipo",
+      "detalle": "Ferrreñafe - Batangrade",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Combi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "30 km / 1 hora"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Lambayeque/Ferreñafe/Pitipo - Lambayeque/Ferreñafe/Pitipo",
+      "detalle": "Batangrande - Caserío Mayascón",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Combi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "13.8 km / 30 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Lambayeque/Ferreñafe/Pitipo - Lambayeque/Ferreñafe/Pitipo",
+      "detalle": "Caserío Mayascón - Jagüeyes de Mayascón",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Camino de Herradura",
+      "distancia_tiempo": "3 km. / 1 hora 35 minutos."
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Lambayeque/Chiclayo/Chiclayo - Lambayeque/Ferreñafe/Pitipo",
+      "detalle": "Chiclayo - Caserío Mayascón",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Camioneta doble tracción",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "59 km. / 1 hora 15 minutos."
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Lambayeque/Chiclayo/Chiclayo - Lambayeque/Ferreñafe/Pitipo",
+      "detalle": "Chiclayo - Caserío Mayascón",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Combi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "59 km. / 1 hora 30 minutos."
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Lambayeque/Ferreñafe/Pitipo - Lambayeque/Ferreñafe/Pitipo",
+      "detalle": "Caserío Mayascón - Jagüeyes de Mayascón",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Camino de Herradura",
+      "distancia_tiempo": "3 km. / 1 hora 35 minutos."
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "23103",
+      "horario": "Libro de registro de visitantes",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "08:00 a.m. - 04:00 p.m. Llevar zapatillas adecuadas para caminata, gorro, bloqueador y lente de sol, agua, frutas y snack. NO llevar bebidas alcohólicas, objetos punzo cortantes, armas de fuego, parlantes, jabón, mascotas.",
+      "observaciones": "Llevar zapatillas adecuadas para caminata, gorro, bloqueador y lente de sol, agua, frutas y snack. NO llevar bebidas alcohólicas, objetos punzo cortantes, armas de fuego, parlantes, jabón, mascotas."
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "Niños de 05 a 10 años S/. 3.00 Adultos de 11 a 65 años S/. 7.00 Mayores de 65 años entrada libre."
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Orientadores locales"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "En el recorrido hacia los juagüeyes"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Caserío Mayascón"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Centro Poblado Mayor Batan Grande"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Centro Poblado Mayor Batan Grande"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Centro Poblado Mayor Batan Grande"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de Campamento(camping)",
+      "observacion": "Caserío Mayascón."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Caserío Mayascón."
+    }
+  ],
+  "descripcion": "Están ubicados en un lugar elevado entre los 400 a 700 m.s.n.m. y proporcionan un suministro constante de agua al bosque seco Subtropical. Éstos brotan del cerro conocido como Calabozo, donde los lugareños creen en sus poderes mágicos y propiedades encantadoras.\nEl nombre de los Jagüeyes proviene del famoso chocolate Mayascóng, el cual se elaboraba en la Casa Hacienda que lleva el mismo nombre y la referencia para llegar a ellos es pasar el caserío La Traposa, luego ingresar por la calle Incawasi y finalmente llegar a la Casa Hacienda. A treinta minutos de la zona, encontrarás estos jagueyes que forman una especie de lagunas y al mismo tiempo han fomentado un rico ecosistema que alberga abundante flora entre las que destacan el palo santo y la flor de overo. Además, se pueden observar cactus que se llaman grandes por su tamaño, otros son de forma esférica que crecen en el suelo y se llaman piñas; así mismo existe gran variedad de flores como la flor de higuerón, campanolas, etc. En cuanto a la fauna, existen zonas más escarpadas donde se pueden encontrar ejemplares de osos anteojos y venados o tarucas. Además, entre las grietas y pequeñas rocas, iguanas y lagartos.\nEl Jagüey más grande tiene ocho metros de diámetro y una profundidad de unos 3 metros y medio, se cree que estos jagüeyes fueron utilizados como baños termales y medicinales por los antepasados sicanes, ya que en el tercer jagüey, existe una especie de poza grande que en su época pudo haber sido utilizada por personas mayores, y a la vez existe otra de menores dimensiones que posiblemente sirvió para bañar a los más pequeños, lo anterior lo podemos deducir como consecuencia de que al lado de éstas pozas hay dos petroglifos en cuyas inscripciones nos presenta dibujos de personajes dando la apariencia de querer ingresar a estas pozas. Asimismo, las figuras representan a serpientes bicéfalas, imágenes antropomorfas y aves en diferentes posiciones.",
+  "particularidades": "",
+  "estado_actual": "Bueno, porque el sendero que conduce a los jagueyes está en buen estado es amplio y existen señales de orientación, así como las pozas o jagüeyes están en buen estado de mantenimiento.",
+  "observaciones": "El agua de tono esmeralda es magnificada por la depresión de la quebrada al dirigirse al valle, produciendo un estruendoso sonido en algunos sectores.\nEl jagüey, espejo de agua permanente de origen subterráneo, que se hace más abundante durante el verano fue sagrado en el pensamiento de los antiguos peruanos. En tiempos de sequía estos “ojos de agua” se conservan todo el año y las especies no fallecen.\nParte de las aguas de los jagüeyes y el río La Leche sirven para irrigar los cultivos del ancestral cacao Mayascón.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Están ubicados en un lugar elevado entre los 400 a 700 m.s.n.m. y proporcionan un suministro constante de agua al bosque seco Subtropical. Éstos brotan del cerro conocido como Calabozo, donde los lugareños creen en sus poderes mágicos y propiedades encantadoras.\nEl nombre de los Jagüeyes proviene del famoso chocolate Mayascóng, el cual se elaboraba en la Casa Hacienda que lleva el mismo nombre y la referencia para llegar a ellos es pasar el caserío La Traposa, luego ingresar por la calle Incawasi y finalmente llegar a la Casa Hacienda. A treinta minutos de la zona, encontrarás estos jagueyes que forman una especie de lagunas y al mismo tiempo han fomentado un rico ecosistema que alberga abundante flora entre las que destacan el palo santo y la flor de overo. Además, se pueden observar cactus que se llaman grandes por su tamaño, otros son de forma esférica que crecen en el suelo y se llaman piñas; así mismo existe gran variedad de flores como la flor de higuerón, campanolas, etc. En cuanto a la fauna, existen zonas más escarpadas donde se pueden encontrar ejemplares de osos anteojos y venados o tarucas. Además, entre las grietas y pequeñas rocas, iguanas y lagartos.\nEl Jagüey más grande tiene ocho metros de diámetro y una profundidad de unos 3 metros y medio, se cree que estos jagüeyes fueron utilizados como baños termales y medicinales por los antepasados sicanes, ya que en el tercer jagüey, existe una especie de poza grande que en su época pudo haber sido utilizada por personas mayores, y a la vez existe otra de menores dimensiones que posiblemente sirvió para bañar a los más pequeños, lo anterior lo podemos deducir como consecuencia de que al lado de éstas pozas hay dos petroglifos en cuyas inscripciones nos presenta dibujos de personajes dando la apariencia de querer ingresar a estas pozas. Asimismo, las figuras representan a serpientes bicéfalas, imágenes antropomorfas y aves en diferentes posiciones."
+    },
+    {
+      "titulo": "Particularidades",
+      "contenido": ""
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, porque el sendero que conduce a los jagueyes está en buen estado es amplio y existen señales de orientación, así como las pozas o jagüeyes están en buen estado de mantenimiento."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "El agua de tono esmeralda es magnificada por la depresión de la quebrada al dirigirse al valle, produciendo un estruendoso sonido en algunos sectores.\nEl jagüey, espejo de agua permanente de origen subterráneo, que se hace más abundante durante el verano fue sagrado en el pensamiento de los antiguos peruanos. En tiempos de sequía estos “ojos de agua” se conservan todo el año y las especies no fallecen.\nParte de las aguas de los jagüeyes y el río La Leche sirven para irrigar los cultivos del ancestral cacao Mayascón."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Nacionales\n23103\nLibro de registro de visitantes\n2023\nEn el libro de registro no se ha diferenciado tipo de visitantes."
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nLambayeque/Ferreñafe/Ferreñafe\n-\nLambayeque/Ferreñafe/Pitipo\nFerrreñafe - Batangrade\nTerrestre\nCombi\nAsfaltado\n30 km / 1 hora\n1\nLambayeque/Ferreñafe/Pitipo\n-\nLambayeque/Ferreñafe/Pitipo\nBatangrande - Caserío Mayascón\nTerrestre\nCombi\nAsfaltado\n13.8 km / 30 minutos\n1\nLambayeque/Ferreñafe/Pitipo\n-\nLambayeque/Ferreñafe/Pitipo\nCaserío Mayascón - Jagüeyes de Mayascón\nTerrestre\nA pie\nCamino de Herradura\n3 km. / 1 hora 35 minutos.\n2\nLambayeque/Chiclayo/Chiclayo\n-\nLambayeque/Ferreñafe/Pitipo\nChiclayo - Caserío Mayascón\nTerrestre\nCamioneta doble tracción\nAsfaltado\n59 km. / 1 hora 15 minutos.\n2\nLambayeque/Chiclayo/Chiclayo\n-\nLambayeque/Ferreñafe/Pitipo\nChiclayo - Caserío Mayascón\nTerrestre\nCombi\nAsfaltado\n59 km. / 1 hora 30 minutos.\n2\nLambayeque/Ferreñafe/Pitipo\n-\nLambayeque/Ferreñafe/Pitipo\nCaserío Mayascón - Jagüeyes de Mayascón\nTerrestre\nA pie\nCamino de Herradura\n3 km. / 1 hora 35 minutos."
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nNiños de 05 a 10 años S/. 3.00\nAdultos de 11 a 65 años S/. 7.00\nMayores de 65 años entrada libre."
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n08:00 a.m.\n-\n04:00 p.m.\nLlevar zapatillas adecuadas para caminata, gorro, bloqueador y lente de sol, agua, frutas y snack. NO llevar bebidas alcohólicas, objetos punzo cortantes, armas de fuego, parlantes, jabón, mascotas."
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nEstudios e Investigación\n--\nNaturaleza\nObservación de fauna\nIguanas, lagartijas.\nNaturaleza\nObservación de flora\npalo santo, flor de overo, cactus, flor de overo, cactus, flor de higuerón, campanolas, otras.\nNaturaleza\nObservación de paisaje\n--\nCultura y Folclore\nRituales místicos o tradicionales\n--\nDeportes / Aventura\nCaminata/Trekking\n--\nDeportes / Aventura\nCamping\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nOrientadores locales\nInstalaciones Públicas\nServicios Públicos\nCaminos peatonales\n--\nInstalaciones Públicas\nServicios Públicos\nSeñales turísticas de orientación\nEn el recorrido hacia los juagüeyes"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlimentación\nRestaurantes\nCaserío Mayascón\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nCentro Poblado Mayor Batan Grande\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCentro Poblado Mayor Batan Grande\nOtros Servicios Turísticos\nAgencia de Viajes\nCentro Poblado Mayor Batan Grande\nServicios Públicos\nZonas de Campamento(camping)\nCaserío Mayascón.\nAlimentación\nKioskos de comida y bebidas\nCaserío Mayascón."
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nC.P. Motupillo y Batan Grande\nBancos\nAgente BCP en Centro Poblado Mayor Batan Grande\nCentro de salud - tópico\nCaserío Traposa y Caserío Motupillo.\nEstación de servicios, grifos, gasolineras y gasocentros\nCentro Poblado Motupillo y Batan Grande\nSeguridad / POLTUR / Comisaría\nComisaría en C.P.M. Batan Grande\nBodegas o minimarkets\nCaseríos Mayascón, Traposa y Motupillo."
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nLuz (Suministro Eléctrico)\nCaserío Mayascón\nAgua potable\nCaserío Mayascón\nTeléfono\nCelulares en Caserío Mayascón\nAlcantarillado sanitario\nCaserío Mayascón."
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nEstado Peruano\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nOrdenanza Municipal N° 007-2007-MDP/A, ordenanza marco de Gestión Turística, Ambiental, Cultural y Turística.\nAdministrador por\nNombre\nMunicipalidad Distrital de Pítipo\nTiempo de administración\nDesde la creación de la Municipalidad Distrital de Pítipo (17 de febrero 1951)"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nGERENCIA REGIONAL DE COMERCIO EXTERIOR Y TURISMO DE LAMBAYEQUE\nNombre (Persona(s) responsable(s) del inventario turístico):\nLIC. MAGALI EXEBIO CABRERA\nCargo:\nTÉCNICO EN TURISMO III\nCorreo:\nmagaliexebioc@gmail.com\nTeléfono:\n074-612977\nFuentes Bibliográfica:\nREVISTA:PERÚ ARQUEOLÓGICO, ECOTURISMO Y AVENTURA - JOSÉ ZEGARRA MALATESTA\nhttps://www.lambayequeturismo.com/destinos/los-jagueyes-de-mayascon\nhttps://www.americatv.com.pe/noticias/util-e-interesante/mayascon-aguas-turquesa-chiclayo-n401303\nAncajima, E(2010): Panorama Histórico de Batán Grande. Chiclayo. Editorial SRL 955\nAncajima; E(s.e.): Batan Grande Monográficos.\nMaterial Audiovisual actual del Recurso:\nFOTO, OTROS\nEspecificación:\nREVISTA: GUÍA - T - ALINE FUENTES C. 2004; TRÍPTICOS ELABORADOS POR EL MUNICIPIO DISTRITAL DE PÍTIPO\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n13/06/2024 15:30:31"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -6.4008572006327995,
+    "longitud": -79.5065975189209
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-6.4008572006327995,-79.5065975189209"
+}

@@ -1,0 +1,294 @@
+{
+  "cod_ficha": 1309,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=1309",
+  "nombre": "Basilica Santuario Nuestra Señora Del Carmen De La Legua",
+  "departamento": "Callao",
+  "provincia": "Callao",
+  "distrito": "CALLAO",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Arquitectura y Espacios Urbanos",
+  "subtipo": "Iglesias",
+  "jerarquia": "2",
+  "altitud": "",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=652613",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=652613",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=652615",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=652616",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=652617",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=652618",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=652619",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=652620"
+  ],
+  "actividades_permitidas": [
+    "Cultura y Folclore - Actividades Religiosas o Patronales"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Actividades Religiosas o Patronales",
+      "observacion": "se realizan procesiones en el mes de Julio.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/act_religiosas02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Callao/Prov. Const. Del Callao/Callao - Callao/Prov. Const. Del Callao/Bellavista",
+      "detalle": "Plaza Graú(Callao)- Iglesia Carmen de la Legua",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus público",
+      "tipo_via": "",
+      "distancia_tiempo": "5 km/25 minutos"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Callao/Prov. Const. Del Callao/Callao - Callao/Prov. Const. Del Callao/Carmen De La Legua Reynoso",
+      "detalle": "Plaza Graú(Callao) - Iglesia Carmen de la Legua",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "5 km / 20 minutos"
+    },
+    {
+      "recorrido": "3",
+      "tramo": "Lima/Lima/Los Olivos - Callao/Prov. Const. Del Callao/Carmen De La Legua Reynoso",
+      "detalle": "Tottus, Los Olivos – Iglesia Carmen de la Legua",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Taxi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "3km. / 15 min"
+    },
+    {
+      "recorrido": "4",
+      "tramo": "Lima/Lima/San Isidro - Callao/Prov. Const. Del Callao/Carmen De La Legua Reynoso",
+      "detalle": "Plaza Union - San Isidro - Iglesia Carmen de la Legua",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "10 km/ 40minutos"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "4590",
+      "horario": "conteo en campo",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "630",
+      "horario": "se hace levantamiento de informacion en el mismo establecimiento.",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "3150",
+      "horario": "Se hace levantamiento de informacion en campo",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "12:00 p.m. - 04:00 p.m. --",
+      "observaciones": "--"
+    },
+    {
+      "epoca": "Fines de semana",
+      "especificacion": "--",
+      "horario": "07:00 a.m. - 08:00 a.m. --",
+      "observaciones": "--"
+    },
+    {
+      "epoca": "Jóvenes",
+      "especificacion": "",
+      "horario": "--",
+      "observaciones": "--"
+    },
+    {
+      "epoca": "Adulto mayor",
+      "especificacion": "",
+      "horario": "--",
+      "observaciones": "--"
+    },
+    {
+      "epoca": "Personas con discapacidad física",
+      "especificacion": "La superficie es lisa cuenta con rampas de ingreso.",
+      "horario": "--",
+      "observaciones": ""
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": "se realizan misas todos los dias a las 05:00 p.m."
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "Hostales 1 y 2 estrellas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Restaurante de 3, 4 y 5 tenedores"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Peñas",
+      "observacion": "Ciudad del Callao"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Bancos - Cajeros",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Internet",
+      "observacion": "En el Callao"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Servico de taxi en Ciudad del Callao"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Kioscos de comida y bebidas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Ciudad del Callao"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Ciudad del Callao"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "Ciudad del Callao"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "Hoteles de 1,2,3 y 4 estrellas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad del Callao"
+    }
+  ],
+  "descripcion": "La Iglesia Nuestra Señora del Carmen de La Legua, ubicada en el distrito del Callao, es una edificación de gran relevancia histórica, artística y espiritual. Su antigüedad se remonta al siglo XVII, específicamente a mediados de los años 1600, lo que la convierte en la construcción más antigua de la época virreinal conservada en la provincia constitucional del Callao. Su época histórica corresponde al Virreinato del Perú, en pleno apogeo de la arquitectura religiosa barroca.\nEl templo fue edificado en un terreno situado aproximadamente a una legua del puerto del Callao, de ahí su denominación tradicional. A lo largo de su historia ha sido objeto de diversas intervenciones, siendo las más resaltantes las reconstrucciones posteriores a los terremotos del siglo XX, y trabajos de restauración en techos, muros, altares y decoración interior, especialmente a finales del siglo XX y principios del XXI, con el fin de conservar su integridad estructural y artística.\nEl templo constituye un representativo ejemplo de arquitectura barroca mestiza, caracterizada por la fusión de elementos formales y simbólicos de origen español e indígena. Su diseño exterior es sobrio pero armónico, con una fachada principal de un solo cuerpo, enmarcada por pilastras lisas que rematan en un frontón triangular simple. Se destacan las puertas de madera tallada, el uso de niches con esculturas religiosas, y una torre campanario de mediana altura que conserva sus proporciones originales, rematada con cúpula y cruz de hierro forjado.\nLas fachadas laterales son más simples, con pocas aberturas, siguiendo el patrón de iglesias rurales coloniales. En cuanto a las proporciones, el edificio presenta una sola nave longitudinal, de mediana altura, cubierta con techo a dos aguas en madera y tejas andinas, lo que refuerza su identidad regional. Los componentes decorativos exteriores incluyen relieves en yeso y ornamentos florales de estilo barroco.\nEn el interior, se conserva una rica ornamentación que incluye altares tallados en madera dorada, especialmente el altar mayor, que destaca por su diseño retablo con columnas salomónicas, nichos, y dorado fino. El púlpito original tallado en madera, de estilo barroco, es uno de los elementos más notables por su nivel de detalle artesanal. También alberga una imagen de la Virgen del Carmen, traída desde Sevilla en 1559, la cual fue solemnemente coronada como Madre del Callao en 1951, evento que reafirma su centralidad devocional. La iglesia representa un símbolo de identidad religiosa e histórica del Callao. Su importancia trasciende lo arquitectónico: constituye un referente turístico por su valor patrimonial, espiritual y cultural. Cada año, en los meses de julio y octubre, se realiza la festividad de la Virgen del Carmen de La Legua, que incluye misas, novenas, procesiones con participación masiva de fieles, verbenas y fuegos artificiales. Esta celebración, con más de cuatro siglos de tradición, es una de las festividades religiosas más significativas del Callao, atrayendo a visitantes, devotos, estudiosos e interesados en la historia virreinal y la religiosidad popular peruana.",
+  "particularidades": "",
+  "estado_actual": "Regular, porque las paredes están afectadas por humedad y salitre.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "La Iglesia Nuestra Señora del Carmen de La Legua, ubicada en el distrito del Callao, es una edificación de gran relevancia histórica, artística y espiritual. Su antigüedad se remonta al siglo XVII, específicamente a mediados de los años 1600, lo que la convierte en la construcción más antigua de la época virreinal conservada en la provincia constitucional del Callao. Su época histórica corresponde al Virreinato del Perú, en pleno apogeo de la arquitectura religiosa barroca.\nEl templo fue edificado en un terreno situado aproximadamente a una legua del puerto del Callao, de ahí su denominación tradicional. A lo largo de su historia ha sido objeto de diversas intervenciones, siendo las más resaltantes las reconstrucciones posteriores a los terremotos del siglo XX, y trabajos de restauración en techos, muros, altares y decoración interior, especialmente a finales del siglo XX y principios del XXI, con el fin de conservar su integridad estructural y artística.\nEl templo constituye un representativo ejemplo de arquitectura barroca mestiza, caracterizada por la fusión de elementos formales y simbólicos de origen español e indígena. Su diseño exterior es sobrio pero armónico, con una fachada principal de un solo cuerpo, enmarcada por pilastras lisas que rematan en un frontón triangular simple. Se destacan las puertas de madera tallada, el uso de niches con esculturas religiosas, y una torre campanario de mediana altura que conserva sus proporciones originales, rematada con cúpula y cruz de hierro forjado.\nLas fachadas laterales son más simples, con pocas aberturas, siguiendo el patrón de iglesias rurales coloniales. En cuanto a las proporciones, el edificio presenta una sola nave longitudinal, de mediana altura, cubierta con techo a dos aguas en madera y tejas andinas, lo que refuerza su identidad regional. Los componentes decorativos exteriores incluyen relieves en yeso y ornamentos florales de estilo barroco.\nEn el interior, se conserva una rica ornamentación que incluye altares tallados en madera dorada, especialmente el altar mayor, que destaca por su diseño retablo con columnas salomónicas, nichos, y dorado fino. El púlpito original tallado en madera, de estilo barroco, es uno de los elementos más notables por su nivel de detalle artesanal. También alberga una imagen de la Virgen del Carmen, traída desde Sevilla en 1559, la cual fue solemnemente coronada como Madre del Callao en 1951, evento que reafirma su centralidad devocional. La iglesia representa un símbolo de identidad religiosa e histórica del Callao. Su importancia trasciende lo arquitectónico: constituye un referente turístico por su valor patrimonial, espiritual y cultural. Cada año, en los meses de julio y octubre, se realiza la festividad de la Virgen del Carmen de La Legua, que incluye misas, novenas, procesiones con participación masiva de fieles, verbenas y fuegos artificiales. Esta celebración, con más de cuatro siglos de tradición, es una de las festividades religiosas más significativas del Callao, atrayendo a visitantes, devotos, estudiosos e interesados en la historia virreinal y la religiosidad popular peruana."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "Monumento Histórico (R.S. Nº 2900-72 ED con fecha 28-12-72).\nConstrucción más antigua de la época española."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Regular, porque las paredes están afectadas por humedad y salitre."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nVisitantes Locales(Excursionistas)\n4590\nconteo en campo\n2024\nse realizo levantamiento de información en campo.\nTuristas Extranjeros\n630\nse hace levantamiento de informacion en el mismo establecimiento.\n2024\nLevantamiento de información en campo.\nTuristas Nacionales\n3150\nSe hace levantamiento de informacion en campo\n2024\nse realiza levantamiento de información en campo."
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nCallao/Prov. Const. Del Callao/Callao\n-\nCallao/Prov. Const. Del Callao/Bellavista\nPlaza Graú(Callao)- Iglesia Carmen de la Legua\nTerrestre\nBus público\n5 km/25 minutos\n2\nCallao/Prov. Const. Del Callao/Callao\n-\nCallao/Prov. Const. Del Callao/Carmen De La Legua Reynoso\nPlaza Graú(Callao) - Iglesia Carmen de la Legua\nTerrestre\nAutomóvil particular\nAsfaltado\n5 km / 20 minutos\n3\nLima/Lima/Los Olivos\n-\nCallao/Prov. Const. Del Callao/Carmen De La Legua Reynoso\nTottus, Los Olivos – Iglesia Carmen de la Legua\nTerrestre\nTaxi\nAsfaltado\n3km. / 15 min\n4\nLima/Lima/San Isidro\n-\nCallao/Prov. Const. Del Callao/Carmen De La Legua Reynoso\nPlaza Union - San Isidro - Iglesia Carmen de la Legua\nTerrestre\nAutomóvil particular\nAsfaltado\n10 km/ 40minutos"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre\nse realizan misas todos los dias a las 05:00 p.m."
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n12:00 p.m.\n-\n04:00 p.m.\n--\nFines de semana\n--\n07:00 a.m.\n-\n08:00 a.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nCultura y Folclore\nActividades Religiosas o Patronales\nse realizan procesiones en el mes de Julio."
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHostales (especificar categorías)\nHostales 1 y 2 estrellas\nAlimentación\nRestaurantes\nRestaurante de 3, 4 y 5 tenedores\nLugares de Recreación\nPeñas\nCiudad del Callao\nOtros Servicios Turísticos\nBancos - Cajeros\n--\nOtros Servicios Turísticos\nServicio de Internet\nEn el Callao\nOtros Servicios Turísticos\nOtros (Especificar)\nServico de taxi en Ciudad del Callao\nOtros Servicios Turísticos\nOtros (Especificar)\nKioscos de comida y bebidas\nServicios Públicos\nEstacionamiento de vehículos\nCiudad del Callao\nServicios Públicos\nOficina de Información turística\nCiudad del Callao\nServicios Públicos\nCaminos peatonales\nCiudad del Callao\nAlojamiento\nHoteles (especificar categorías)\nHoteles de 1,2,3 y 4 estrellas\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad del Callao"
+    },
+    {
+      "titulo": "Servicios Complementarios dentro del recurso",
+      "contenido": "Servicio Complementario\nObservación\nServicios de internet\n--"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nBancos\nCiudad del Callao\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad del Callao\nSeguridad / POLTUR / Comisaría\nCiudad del Callao\nBodegas o minimarkets\nCiudad del Callao\nCajero automático\nCiudad del callao.\nCasa de cambio\nCiudad del callao.\nServicio de estacionamiento\nCiudad del callao.\nLibrerías\nCiudad del callao.\nServicios de taxis\nCiudad del Callao"
+    },
+    {
+      "titulo": "Condiciones de Accesibilidad al Visitante",
+      "contenido": "Visitante\nInstalación\nActividades y/o programas\nEquipamiento\nObservación\nJóvenes\n--\n--\n--\nAdulto mayor\n--\n--\n--\nPersonas con discapacidad física\nLa superficie es lisa cuenta con rampas de ingreso.\n--\n--"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\n--\nDesagüe\n--\nLuz (Suministro Eléctrico)\n--\nTeléfono\n--\nAlcantarillado sanitario\n--\nSistemas de tratamiento alternativo de residuos (Biodigestor, pozo séptico, otros)\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\n--\nAlcantarillado sanitario\n--\nDesagüe\nDistrito Carmen de la Legua\nLuz (Suministro Eléctrico)\n--\nTeléfono\n--"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\n--\nPrivado:\nLuis Alberto Barrera Pacheco (Obispo del Callao)\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nno cuenta con información, no registra en base de datos.\nAdministrador por\nNombre\nPárroco José del Rosario Cornejo\nTiempo de administración\n28 de enero del 2004."
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nOficina de Comercio, Turismo y Energía y Minas de la Gerencia Regional de Desarrollo Económico del Gobierno Regional del Callao\nNombre (Persona(s) responsable(s) del inventario turístico):\nCARLOS NOLBERTO ALONZO POMARICA RODRIGUEZ\nCargo:\nCoordinador de Turismo\nCorreo:\noctem@regioncallao.gob.pe\nTeléfono:\n931266371\nFuentes Bibliográfica:\nCentro de Investigaciones Históricas del Callao. “Historia del Callao” Tomo I. 1989: 128-129.\nP. Antonio Vásquez de Espinoza. \"Compendio y Descripción de las Indias Occidentales\".\nFr. Pablo Bernabé - Fr. Alvaro Díaz. \"Crónica Coronación de Nuestra Señora del Carmen de La Legua”.1951: 19-21\nVirgen del Carmen de La Legua. (s.f.). Historia del Santuario del Carmen de La Legua. Recuperado de https://virgencarmendelalegua.com.pe/santuario.htm\nDiócesis del Callao. (s.f.). Virgen del Carmen de la Legua. Recuperado de https://www.diocesisdelcallao.org/advocaciones/virgen-del-carmen-de-la-legua\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\nHTTP://TURISMO.CALLAODIGITAL.PE/RELIGIOSO3_ES.ASP\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n5/03/2026 16:48:16"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -12.052838661271187,
+    "longitud": -77.09763370304108
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-12.052838661271187,-77.09763370304108"
+}

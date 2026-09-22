@@ -1,0 +1,329 @@
+{
+  "cod_ficha": 6916,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=6916",
+  "nombre": "Sitio Arqueologico De Inca Carcel",
+  "departamento": "Cusco",
+  "provincia": "La Convencion",
+  "distrito": "HUAYOPATA",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Sitios Arqueológicos",
+  "subtipo": "Templos",
+  "jerarquia": "POR JERARQUIZAR",
+  "altitud": "2326 m.s.n.m",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=524226",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=524226",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=541283",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=541284",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=544597",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=544598"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Estudios e Investigación",
+    "Naturaleza - Observación de fauna",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de paisaje",
+    "Deportes / Aventura - Caminata/Trekking",
+    "Deportes / Aventura - Camping"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de fauna",
+      "observacion": "Sihuayro (Dasyproctidae), pusti(pitangus sulphuratus),chicotillo(masticophis flagellum),picuiro(cuniculus paca),venados(Cervidae), oso de montaña (Ursidae)",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fauna02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "Cafe, platano, naranja, pacae, cola de raton, diente de leon, mango, pisonay y eucaliptos",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Camping",
+      "observacion": "En los alrrededores",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/camping02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Cusco/Cusco/Cusco - Cusco/Urubamba/Ollantaytambo",
+      "detalle": "Desde Cusco (plaza mayor) hasta Ollantaytambo",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "61 km. / 1 h 41 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Cusco/Urubamba/Ollantaytambo - Cusco/La Convención/Huayopata",
+      "detalle": "Desde Ollantaytambo hasta C.P. Huyro",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "96 km. / 2 horas"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Cusco/La Convención/Huayopata - Cusco/La Convención/Huayopata",
+      "detalle": "Desde C.P. Huyro hasta Sector de Pasto grande",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "17 km. / 1 hora"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Cusco/La Convención/Huayopata - Cusco/La Convención/Huayopata",
+      "detalle": "Desde el sector de Pasto grande al S.A Inca Cárcel",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Sendero",
+      "distancia_tiempo": "1.5 km. / 1 hora"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Cusco/La Convención/Santa Ana - Cusco/La Convención/Huayopata",
+      "detalle": "Desde Quillabamba (plaza mayor) hasta C.P. Huyro",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus turístico",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "25 km. / 1 hora"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Cusco/La Convención/Huayopata - Cusco/La Convención/Huayopata",
+      "detalle": "Desde C.P. Huyro hasta Sector de Pasto grande (al S.A Inca Cárcel)",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "17 km. / 1 hora"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Cusco/La Convención/Huayopata - Cusco/La Convención/Huayopata",
+      "detalle": "Desde el sector Pasto grande hasta el Sitio Arqueológico de Inca Carcel",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Sendero",
+      "distancia_tiempo": "1. 5 km/ 1 hora"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "3510",
+      "horario": "Conteo Muestral",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "2070",
+      "horario": "Conteo Muestral",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "1350",
+      "horario": "Conteo Muestral",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "08:00 a.m. - 03:00 p.m. Se recomienda realizar la visita en vehículo particular",
+      "observaciones": "Se recomienda realizar la visita en vehículo particular"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Ecolodge / C.P. Huyro"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "C.P. Huyro"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "C.P. Huyro"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "C.P. Huyro"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "C.P. Huyro"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "C.P. Huyro"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de interpretación",
+      "observacion": "C.P. Huyro"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "C.P. Huyro"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Puesto de auxilio rápido",
+      "observacion": "C.P. Huyro"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "C.P. Huyro"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de camionetas 4 x 4",
+      "observacion": "C.P. Huyro"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "C.P de Huyro"
+    }
+  ],
+  "descripcion": "El Sitio Arqueológico de Inca Cárcel, está ubicado al Suroeste del Centro Poblado de Huyro, a una distancia de 29 kilómetros y una altitud de 2,326 m.s.n.m., sobre los bosques de nubes del sector de Pasto Grande del distrito. Son edificaciones que tienen forma circular, que fueron construidos con piedra laja y otros materiales de la zona, arquitectura de buen acabado donde se observa su excelente pulido de las piedras de las estructuras; existen dos ambientes circulares con los mismos estilos de construcción, uno de los ambientes tiene las medidas de 1.5 metros por 3 metros por 1.5 metros de altura, que da la idea de haber sido un lugar de castigo o especie de celda para un noble de la época Inca. Se pueden apreciar así mismo las bases de otros recintos, las cuales no han sido reconstruidas, pero son motivo de investigación. Inca Cárcel Pequeño tambo probablemente lugar de descanso y a la vez punto intermedio en el Camino Inca hacia Machupicchu; se presume que desde este sector, salía otro ramal del Qhapaq Ñan que conducía a la zona de Vilcabamba. Asociados a los sitios arqueológicos de Cochapata e Inkacárcel se pueden apreciar tramos importantes de Camino Inca. De este punto se puede acceder hacia el Sitio Arqueológico de Cochapata y hacia la zona del Distrito de Santa Teresa y Machupicchu. En el año 2004 el Sitio Arqueológico de Inca-Cárcel, fue intervenido por Mérida Farfán del Proyecto Qhapaq Ñan, quien realizó trabajos de excavación, conservación y restauración arqueológica.",
+  "particularidades": "",
+  "estado_actual": "Se encuentra en bueno estado de conservación, porque el Sitio Arqueológico de Inca Cárcel ha sido restaurado y puesto en valor por por la Dirección Desconcentrada de de Cultura, quienes dan el mantenimiento y cuidado al recurso en mención",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "El Sitio Arqueológico de Inca Cárcel, está ubicado al Suroeste del Centro Poblado de Huyro, a una distancia de 29 kilómetros y una altitud de 2,326 m.s.n.m., sobre los bosques de nubes del sector de Pasto Grande del distrito. Son edificaciones que tienen forma circular, que fueron construidos con piedra laja y otros materiales de la zona, arquitectura de buen acabado donde se observa su excelente pulido de las piedras de las estructuras; existen dos ambientes circulares con los mismos estilos de construcción, uno de los ambientes tiene las medidas de 1.5 metros por 3 metros por 1.5 metros de altura, que da la idea de haber sido un lugar de castigo o especie de celda para un noble de la época Inca. Se pueden apreciar así mismo las bases de otros recintos, las cuales no han sido reconstruidas, pero son motivo de investigación. Inca Cárcel Pequeño tambo probablemente lugar de descanso y a la vez punto intermedio en el Camino Inca hacia Machupicchu; se presume que desde este sector, salía otro ramal del Qhapaq Ñan que conducía a la zona de Vilcabamba. Asociados a los sitios arqueológicos de Cochapata e Inkacárcel se pueden apreciar tramos importantes de Camino Inca. De este punto se puede acceder hacia el Sitio Arqueológico de Cochapata y hacia la zona del Distrito de Santa Teresa y Machupicchu. En el año 2004 el Sitio Arqueológico de Inca-Cárcel, fue intervenido por Mérida Farfán del Proyecto Qhapaq Ñan, quien realizó trabajos de excavación, conservación y restauración arqueológica."
+    },
+    {
+      "titulo": "Particularidades",
+      "contenido": ""
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Se encuentra en bueno estado de conservación, porque el Sitio Arqueológico de Inca Cárcel ha sido restaurado y puesto en valor por por la Dirección Desconcentrada de de Cultura, quienes dan el mantenimiento y cuidado al recurso en mención"
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": ""
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n3510\nConteo Muestral\n2024\nTuristas Nacionales\n2070\nConteo Muestral\n2024\nVisitantes Locales(Excursionistas)\n1350\nConteo Muestral\n2024"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nCusco/Cusco/Cusco\n-\nCusco/Urubamba/Ollantaytambo\nDesde Cusco (plaza mayor) hasta Ollantaytambo\nTerrestre\nAutomóvil particular\nAsfaltado\n61 km. / 1 h 41 min\n1\nCusco/Urubamba/Ollantaytambo\n-\nCusco/La Convención/Huayopata\nDesde Ollantaytambo hasta C.P. Huyro\nTerrestre\nAutomóvil particular\nAsfaltado\n96 km. / 2 horas\n1\nCusco/La Convención/Huayopata\n-\nCusco/La Convención/Huayopata\nDesde C.P. Huyro hasta Sector de Pasto grande\nTerrestre\nAutomóvil particular\nTrocha carrozable\n17 km. / 1 hora\n1\nCusco/La Convención/Huayopata\n-\nCusco/La Convención/Huayopata\nDesde el sector de Pasto grande al S.A Inca Cárcel\nTerrestre\nA pie\nSendero\n1.5 km. / 1 hora\n2\nCusco/La Convención/Santa Ana\n-\nCusco/La Convención/Huayopata\nDesde Quillabamba (plaza mayor) hasta C.P. Huyro\nTerrestre\nBus turístico\nAsfaltado\n25 km. / 1 hora\n2\nCusco/La Convención/Huayopata\n-\nCusco/La Convención/Huayopata\nDesde C.P. Huyro hasta Sector de Pasto grande (al S.A Inca Cárcel)\nTerrestre\nAutomóvil particular\nTrocha carrozable\n17 km. / 1 hora\n2\nCusco/La Convención/Huayopata\n-\nCusco/La Convención/Huayopata\nDesde el sector Pasto grande hasta el Sitio Arqueológico de Inca Carcel\nTerrestre\nA pie\nSendero\n1. 5 km/ 1 hora"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n08:00 a.m.\n-\n03:00 p.m.\nSe recomienda realizar la visita en vehículo particular"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nEstudios e Investigación\n--\nNaturaleza\nObservación de fauna\nSihuayro (Dasyproctidae), pusti(pitangus sulphuratus),chicotillo(masticophis flagellum),picuiro(cuniculus paca),venados(Cervidae), oso de montaña (Ursidae)\nNaturaleza\nObservación de flora\nCafe, platano, naranja, pacae, cola de raton, diente de leon, mango, pisonay y eucaliptos\nNaturaleza\nObservación de paisaje\n--\nDeportes / Aventura\nCaminata/Trekking\n--\nDeportes / Aventura\nCamping\nEn los alrrededores"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nOtros (Especificar)\nEcolodge / C.P. Huyro\nAlimentación\nRestaurantes\nC.P. Huyro\nAlimentación\nBares\nC.P. Huyro\nAlimentación\nCafeterías\nC.P. Huyro\nAlimentación\nKioskos de comida y bebidas\nC.P. Huyro\nServicios Públicos\nEstacionamiento de vehículos\nC.P. Huyro\nServicios Públicos\nSeñales turísticas de interpretación\nC.P. Huyro\nServicios Públicos\nCaminos peatonales\nC.P. Huyro\nServicios Públicos\nPuesto de auxilio rápido\nC.P. Huyro\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nC.P. Huyro\nOtros Servicios Turísticos\nAlquiler de camionetas 4 x 4\nC.P. Huyro\nLugares de Recreación\nBares\nC.P de Huyro"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nC.P. Huyro\nBancos\nC.P. Huyro\nEstación de servicios, grifos, gasolineras y gasocentros\nC.P. Huyro\nServicios de taxis\nC.P. Huyro\nCentro de salud - tópico\nC.P. Huyro\nVenta de materiales para fotografías\nC.P. Huyro\nSeguridad / POLTUR / Comisaría\nC.P. Huyro\nLibrerías\nC.P. Huyro\nBodegas o minimarkets\nC.P. Huyro"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nC.P. Huyro\nAlcantarillado sanitario\nC.P. Huyro\nLuz (Suministro Eléctrico)\nC.P. Huyro\nSeñalización turística\nC.P. Huyro\nSistemas de tratamiento alternativo de residuos (Biodigestor, pozo séptico, otros)\nC.P. Huyro"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nDireccion Desconcentrada de Cultura - sede La Convención\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nCesión de uso S/Doc\nAdministrador por\nNombre\nDireccion Desconcentrada de Cultura sede La Convencion\nTiempo de administración\nDesde el año 2004"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nGerencia Regional de Comercio Exterior, Turismo y Artesanía Cusco\nNombre (Persona(s) responsable(s) del inventario turístico):\nLic. Eliana MIranda Cabrera\nCargo:\nResponsable del inventario de recursos Turísticos\nCorreo:\nsgdp.gercetur@gmail.com\nTeléfono:\n940699531\nFuentes Bibliográfica:\nTESIS: LINEAMIENTOS ESTRATÉGICOS DE TURISMO REGENERATIVO PARA LA GESTIÓN TURÍSTICA DEL VALLE DE HUYRO-CUSCO-PERÚ POR VERÓNICA VANESSA VIÑAS VELIZ - 2021\nTESIS: Turismo rural comunitario en el centro poblado de rodeo del distrito de Huayopata, la Convención – Cusco 2021 Por Galiano Escalante, Yohan- 2022\nInforme de investigación arqueológica Wamanmarka - Qochapata - Inka Cárcel. Ministerio de Cultura. Cusco. Pilares Daza, J. (2003)\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n18/06/2024 09:43:13"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -13.007019444444444,
+    "longitud": -72.55408611111113
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-13.007019444444444,-72.55408611111113"
+}

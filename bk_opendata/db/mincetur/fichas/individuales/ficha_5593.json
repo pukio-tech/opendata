@@ -1,0 +1,236 @@
+{
+  "cod_ficha": 5593,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=5593",
+  "nombre": "Cañón De Otora",
+  "departamento": "Moquegua",
+  "provincia": "Mariscal Nieto",
+  "distrito": "TORATA",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "e. Cañones",
+  "subtipo": "Cañones",
+  "jerarquia": "1",
+  "altitud": "2569",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=468943",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=468943",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=469087",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=469088",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=468945",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=469092"
+  ],
+  "actividades_permitidas": [
+    "Naturaleza - Observación de fauna",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de paisaje",
+    "Naturaleza - Observación de aves",
+    "Deportes / Aventura - Caminata/Trekking"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de fauna",
+      "observacion": "Ovejas, Vacas, Chivos, Burros.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fauna02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "Eucalipto, Molle, Cactáceas, Chilca, Maguey, Tuna, Paltos, Arégano, Alfalfa.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de aves",
+      "observacion": "Gallinazos, Gorrión.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/aves02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Moquegua/Mariscal Nieto/Moquegua - Moquegua/Mariscal Nieto/Torata",
+      "detalle": "Plaza Principal de Moquegua - Desvío Omate (Carretera Interoceánica Sur)",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "41 km / 40min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Moquegua/Mariscal Nieto/Torata - Moquegua/Mariscal Nieto/Torata",
+      "detalle": "Desvío Omate (carretera Interoceánica Sur) - Puente Otora(pasando el km13.5)",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "14 Km / 25min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Moquegua/Mariscal Nieto/Torata - Moquegua/Mariscal Nieto/Torata",
+      "detalle": "Puente Otora(pasando el km 13.5) - Cañón de Otora",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Sendero",
+      "distancia_tiempo": "180m / 10min."
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "360",
+      "horario": "Informe Técnico/visado",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "1800",
+      "horario": "Informe Técnico/visado",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "240",
+      "horario": "Informe Técnico/visado",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "06:00 a.m. - 03:00 p.m. --",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Pueblo de Torata"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Pueblo de Torata"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "Pueblo de Torata"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "Pueblo de Torata"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Pueblo de Torata"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "Pueblo de Torata"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Puesto de auxilio rápido",
+      "observacion": "Pueblo de Torata"
+    }
+  ],
+  "descripcion": "Maravillosa formación natural, abarca desde el sector de Tambo Corral hasta el sector de Inogoya, tiene una extensión aproximada de 1000 metros de largo por 4 metros de ancho. Tiene una profundidad de 180 m y está ubicado a 2569 m.s.n.m. Formado por estructuras rocosas de color rojizo y azulado. Por este cañón pasa el río Otora, que metros antes se une con su afluente el río Sajena y Porobaya. Presenta abundante vegetación silvestre a su alrededor como cactáceas, molle, eucalipto, chilca, maguey, además de cultivos agrícolas como tuna, alfalfa, orégano y palta. En cuanto a su fauna habitan principalmente el pato salvaje y aves. En sus inmediaciones se ubican poblaciones dispersas del anexo de Otora, que se dedican a la crianza de animales mayores como ganado vacuno, ovino, caprino y equino. Es un lugar donde se puede realizar trekking, tomas de fotografías, observación de paisajes y sobre conectarse con la naturaleza.",
+  "particularidades": "",
+  "estado_actual": "Bueno, porque mantiene su encanto a pesar del paso de los años y las inclemencias de la naturaleza.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Maravillosa formación natural, abarca desde el sector de Tambo Corral hasta el sector de Inogoya, tiene una extensión aproximada de 1000 metros de largo por 4 metros de ancho. Tiene una profundidad de 180 m y está ubicado a 2569 m.s.n.m. Formado por estructuras rocosas de color rojizo y azulado. Por este cañón pasa el río Otora, que metros antes se une con su afluente el río Sajena y Porobaya. Presenta abundante vegetación silvestre a su alrededor como cactáceas, molle, eucalipto, chilca, maguey, además de cultivos agrícolas como tuna, alfalfa, orégano y palta. En cuanto a su fauna habitan principalmente el pato salvaje y aves. En sus inmediaciones se ubican poblaciones dispersas del anexo de Otora, que se dedican a la crianza de animales mayores como ganado vacuno, ovino, caprino y equino. Es un lugar donde se puede realizar trekking, tomas de fotografías, observación de paisajes y sobre conectarse con la naturaleza."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, porque mantiene su encanto a pesar del paso de los años y las inclemencias de la naturaleza."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nVisitantes Locales(Excursionistas)\n360\nInforme Técnico/visado\n2021\nTuristas Nacionales\n1800\nInforme Técnico/visado\n2021\nTuristas Extranjeros\n240\nInforme Técnico/visado\n2021"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nMoquegua/Mariscal Nieto/Moquegua\n-\nMoquegua/Mariscal Nieto/Torata\nPlaza Principal de Moquegua - Desvío Omate (Carretera Interoceánica Sur)\nTerrestre\nAutomóvil particular\nAsfaltado\n41 km / 40min.\n1\nMoquegua/Mariscal Nieto/Torata\n-\nMoquegua/Mariscal Nieto/Torata\nDesvío Omate (carretera Interoceánica Sur) - Puente Otora(pasando el km13.5)\nTerrestre\nAutomóvil particular\nAsfaltado\n14 Km / 25min.\n1\nMoquegua/Mariscal Nieto/Torata\n-\nMoquegua/Mariscal Nieto/Torata\nPuente Otora(pasando el km 13.5) - Cañón de Otora\nTerrestre\nA pie\nSendero\n180m / 10min."
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n06:00 a.m.\n-\n03:00 p.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nNaturaleza\nObservación de fauna\nOvejas, Vacas, Chivos, Burros.\nNaturaleza\nObservación de flora\nEucalipto, Molle, Cactáceas, Chilca, Maguey, Tuna, Paltos, Arégano, Alfalfa.\nNaturaleza\nObservación de paisaje\n--\nNaturaleza\nObservación de aves\nGallinazos, Gorrión.\nDeportes / Aventura\nCaminata/Trekking\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nPueblo de Torata\nAlimentación\nRestaurantes\nPueblo de Torata\nServicios Públicos\nMiradores turísticos\nPueblo de Torata\nServicios Públicos\nSeñales turísticas de orientación\nPueblo de Torata\nServicios Públicos\nOficina de Información turística\nPueblo de Torata\nServicios Públicos\nCaminos peatonales\nPueblo de Torata\nServicios Públicos\nPuesto de auxilio rápido\nPueblo de Torata"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nPueblo de Torata ( Movistar)\nBancos\nPueblo de Torata (Bco. de la Nación)\nEstación de servicios, grifos, gasolineras y gasocentros\nPueblo de Torata\nCentro de salud - tópico\nPueblo de Torata\nSeguridad / POLTUR / Comisaría\nPueblo de Torata ( Comisaría)\nAlquiler y compra de equipos deportivos\nPueblo de Torata\nLibrerías\nPueblo de Torata\nBodegas o minimarkets\nPueblo de Torata"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nPueblo de Torata\nLuz (Suministro Eléctrico)\nPueblo de Torata\nTeléfono\nPueblo de Torata\nSeñalización turística\nPueblo de Torata\nAlcantarillado sanitario\nPueblo de Torata"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nEstado Peruano\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nLey N° 29338. Ley de los Recursos Hídricos / D.S.N°001-2010-AG. 14/01/2010.\nAdministrador por\nNombre\nMunicipalidad Distrital de Torata\nTiempo de administración\nDesde el año 1828"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo - Moquegua.\nNombre (Persona(s) responsable(s) del inventario turístico):\nEco. Fernando Mamani Meza.\nCargo:\nSub Director de Turismo.\nCorreo:\nfemeza555@yahoo.com\nTeléfono:\n953549922\nFuentes Bibliográfica:\n- Inventarrio de Recursos Turísticos de la Municipalidad Provincial Mariscal Nieto. 2011.\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n17/12/2022"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -17.01698548087526,
+    "longitud": -70.86771876917942
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-17.01698548087526,-70.86771876917942"
+}

@@ -1,0 +1,425 @@
+{
+  "cod_ficha": 478,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=478",
+  "nombre": "Centro Cultural Casa Basadre",
+  "departamento": "Tacna",
+  "provincia": "Tacna",
+  "distrito": "TACNA",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Arquitectura y Espacios Urbanos",
+  "subtipo": "Casa de Valor Arquitectónico",
+  "jerarquia": "2",
+  "altitud": "562",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=290932",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=290932",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=575792",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=575793",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=575880",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=575881",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=575882",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=575883",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=575794",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=575884",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=575795"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Actividades Culturales"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Actividades Culturales",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/act_culturales02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Tacna/Tacna/Tacna - Tacna/Tacna/Tacna",
+      "detalle": "Paseo Cívico-Centro Cultural Casa Basadre",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "50 mts./1 minuto"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "23475",
+      "horario": "Cálculo de visita anual",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "3867",
+      "horario": "Cálculo de visita anual",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "09:00 a.m. - 01:00 p.m. De lunes a viernes de 9:00 a.m a 1:00 p.m. y de 3:00 p.m. a 7:00 p.m. Sábados: de 9:00 a.m. a 1:00 p.m",
+      "observaciones": "De lunes a viernes de 9:00 a.m a 1:00 p.m. y de 3:00 p.m. a 7:00 p.m. Sábados: de 9:00 a.m. a 1:00 p.m"
+    },
+    {
+      "epoca": "Personas con discapacidad física",
+      "especificacion": "Rampas",
+      "horario": "--",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": "Debe registrar su ingreso en el libro de registro de visitantes."
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Español e Inglés"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "1,2,3,4,****Ciudad de Tacna"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "1,2,3,****Ciudad de Tacna"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Albergues",
+      "observacion": "Ciudad de Tacna"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Casa de Hospedaje",
+      "observacion": "Ciudad de Tacna"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Tacna"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Tacna"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Tacna"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Snacks",
+      "observacion": "Ciudad de Tacna"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Ciudad de Tacna"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Tacna"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Ciudad de Tacna"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Tacna"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Pubs",
+      "observacion": "Ciudad de Tacna"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Peñas",
+      "observacion": "Ciudad de Tacna"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Cines o Teatros",
+      "observacion": "Ciudad de Tacna"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Ciudad de Tacna"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Ciudad de Tacna"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Tacna"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de Tacna"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Bancos - Cajeros",
+      "observacion": "Ciudad de Tacna"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Casa de Cambio",
+      "observacion": "Ciudad de Tacna"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Oficina de Información",
+      "observacion": "Ciudad de Tacna"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Seguridad / POLTUR",
+      "observacion": "Ciudad de Tacna"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Español e Inglés"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Correos",
+      "observacion": "Ciudad de Tacna"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Fax",
+      "observacion": "Ciudad de Tacna"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Internet",
+      "observacion": "Ciudad de Tacna"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de taxi",
+      "observacion": "Ciudad de Tacna"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "Localidad de Pocollay"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Ciudad de Tacna"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "Ciudad de Tacna"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "Ciudad de Tacna"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "Ciudad de Tacna"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos de herradura (caballo)",
+      "observacion": "Ciudad de Tacna"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Museo de Sitio Turísticos",
+      "observacion": "Ciudad de Tacna"
+    }
+  ],
+  "descripcion": "Ubicada entre la Av. San Martín/Inclán. El destacado historiador político e investigador de Tacna, Jorge Basadre Grohmann, nació y pasó su primera infancia en esta vivienda, cuyo aporte a la Historia Contemporánea del Perú es inestimable. Basadre es reconocido como uno de los pensadores peruanos más destacados del siglo XX. Investigó, estudió y reflexionó sobre la realidad nacional mediante una extensa serie de libros, como su famosa Historia de la República del Perú (1822-1933) donde formuló significativas propuestas que hoy tienen relevancia.\nLa Casa posee una elegante fachada de estilo republicano, edificada completamente en piedra de cantería de tono rosado matiz. Con extensos ventanales revestidos de madera y resguardados con barrotes de hierro fundido. En el interior, la disposición presenta un fuerte estilo republicano, marcado por la interacción con la Europa del siglo XIX.\nSu estructura consta de una sola planta con muro lateral e interiores erigidos en adobe y quincha. De cara al Paseo Cívico, posee dos puertas de ingreso, la principal comunica a la casa por medio de un zaguán que, a su vez, sirve de acceso a dos ambientes laterales y el patio pequeño; y la otra puerta da acceso directo a un gran salón que aparentemente constituía la cochera de la vivienda.\nLos cimientos y muros de la fachada son de piedra de cantería, los muros principales son de adobe y quincha, al igual que las divisiones. El revestimiento de la vivienda es en mortero de greda y arena en muros de adobe y tabiquería de quincha. Así mismo, en ventanales, puertas y enchapado en pisos y techos, predomina el pino Oregón, madera de excelente acabado y gran durabilidad, muy utilizada a principios del siglo XX.\nEntre los ambientes de la Casa destacan: El Salón principal, la Sala memorial, Salón Basadre, Salón Medallón, la pinacoteca, una sala de videos de exhibición permanente. Destacan también el jardín Olga Grohmann.\nAl retornar Tacna a la heredad nacional, el 28 de agosto de 1929, Chile devolvió varias propiedades al Perú, entre ellas la Casa Basadre. Ya en propiedad del estado peruano, la casa fue destinada a ser sede de la Caja de Depósitos y Consignaciones, entidad encargada de la custodia de valores, arbitrios, obras públicas y otras rentas, que años después pasó a ser el Banco de la Nación, actual propietario de la Casa, Actualmente, la casa sirve como un espacio dedicado a la preservación y promoción de la cultura regional. Resguarda en uno de los ambientes de la Casa una estatua de fibra de vidrio de Jorge Basadre Grohman. Se pueden recorrer las exposiciones permanentes dedicadas a la historia de Tacna y la vida de Jorge Basadre, además de participar en talleres y charlas sobre literatura y patrimonio cultural. La casa también cuenta con una sala de proyecciones y un espacio al aire libre para eventos comunitarios.\"",
+  "particularidades": "",
+  "estado_actual": "Muy bueno porque, la Fundación Cultural del Banco de la Nación le da constante mantenimiento.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Ubicada entre la Av. San Martín/Inclán. El destacado historiador político e investigador de Tacna, Jorge Basadre Grohmann, nació y pasó su primera infancia en esta vivienda, cuyo aporte a la Historia Contemporánea del Perú es inestimable. Basadre es reconocido como uno de los pensadores peruanos más destacados del siglo XX. Investigó, estudió y reflexionó sobre la realidad nacional mediante una extensa serie de libros, como su famosa Historia de la República del Perú (1822-1933) donde formuló significativas propuestas que hoy tienen relevancia.\nLa Casa posee una elegante fachada de estilo republicano, edificada completamente en piedra de cantería de tono rosado matiz. Con extensos ventanales revestidos de madera y resguardados con barrotes de hierro fundido. En el interior, la disposición presenta un fuerte estilo republicano, marcado por la interacción con la Europa del siglo XIX.\nSu estructura consta de una sola planta con muro lateral e interiores erigidos en adobe y quincha. De cara al Paseo Cívico, posee dos puertas de ingreso, la principal comunica a la casa por medio de un zaguán que, a su vez, sirve de acceso a dos ambientes laterales y el patio pequeño; y la otra puerta da acceso directo a un gran salón que aparentemente constituía la cochera de la vivienda.\nLos cimientos y muros de la fachada son de piedra de cantería, los muros principales son de adobe y quincha, al igual que las divisiones. El revestimiento de la vivienda es en mortero de greda y arena en muros de adobe y tabiquería de quincha. Así mismo, en ventanales, puertas y enchapado en pisos y techos, predomina el pino Oregón, madera de excelente acabado y gran durabilidad, muy utilizada a principios del siglo XX.\nEntre los ambientes de la Casa destacan: El Salón principal, la Sala memorial, Salón Basadre, Salón Medallón, la pinacoteca, una sala de videos de exhibición permanente. Destacan también el jardín Olga Grohmann.\nAl retornar Tacna a la heredad nacional, el 28 de agosto de 1929, Chile devolvió varias propiedades al Perú, entre ellas la Casa Basadre. Ya en propiedad del estado peruano, la casa fue destinada a ser sede de la Caja de Depósitos y Consignaciones, entidad encargada de la custodia de valores, arbitrios, obras públicas y otras rentas, que años después pasó a ser el Banco de la Nación, actual propietario de la Casa, Actualmente, la casa sirve como un espacio dedicado a la preservación y promoción de la cultura regional. Resguarda en uno de los ambientes de la Casa una estatua de fibra de vidrio de Jorge Basadre Grohman. Se pueden recorrer las exposiciones permanentes dedicadas a la historia de Tacna y la vida de Jorge Basadre, además de participar en talleres y charlas sobre literatura y patrimonio cultural. La casa también cuenta con una sala de proyecciones y un espacio al aire libre para eventos comunitarios.\""
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "El inmueble fue declarado como Monumento Histórico y Artístico según R.S. 0122-78-ED del 05-04-78."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Muy bueno porque, la Fundación Cultural del Banco de la Nación le da constante mantenimiento."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Nacionales\n23475\nCálculo de visita anual\n2025\nCARTA N°530-2025/FCBN-G\nTuristas Extranjeros\n3867\nCálculo de visita anual\n2025\nCARTA N°530-2025/FCBN-G"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nTacna/Tacna/Tacna\n-\nTacna/Tacna/Tacna\nPaseo Cívico-Centro Cultural Casa Basadre\nTerrestre\nA pie\nAsfaltado\n50 mts./1 minuto"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre\nDebe registrar su ingreso en el libro de registro de visitantes."
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n09:00 a.m.\n-\n01:00 p.m.\nDe lunes a viernes de 9:00 a.m a 1:00 p.m. y\nde 3:00 p.m. a 7:00 p.m.\nSábados: de 9:00 a.m. a 1:00 p.m"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nActividades Culturales\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nEspañol e Inglés"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\n1,2,3,4,****Ciudad de Tacna\nAlojamiento\nHostales (especificar categorías)\n1,2,3,****Ciudad de Tacna\nAlojamiento\nAlbergues\nCiudad de Tacna\nAlojamiento\nCasa de Hospedaje\nCiudad de Tacna\nAlimentación\nRestaurantes\nCiudad de Tacna\nAlimentación\nBares\nCiudad de Tacna\nAlimentación\nCafeterías\nCiudad de Tacna\nAlimentación\nSnacks\nCiudad de Tacna\nAlimentación\nFuentes de soda\nCiudad de Tacna\nAlimentación\nKioskos de comida y bebidas\nCiudad de Tacna\nAlimentación\nVenta de comida Rápida\nCiudad de Tacna\nLugares de Recreación\nDiscotecas\nCiudad de Tacna\nLugares de Recreación\nPubs\nCiudad de Tacna\nLugares de Recreación\nPeñas\nCiudad de Tacna\nLugares de Recreación\nCines o Teatros\nCiudad de Tacna\nLugares de Recreación\nJuegos Infantiles\nCiudad de Tacna\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nCiudad de Tacna\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Tacna\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de Tacna\nOtros Servicios Turísticos\nBancos - Cajeros\nCiudad de Tacna\nOtros Servicios Turísticos\nCasa de Cambio\nCiudad de Tacna\nOtros Servicios Turísticos\nOficina de Información\nCiudad de Tacna\nOtros Servicios Turísticos\nSeguridad / POLTUR\nCiudad de Tacna\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nEspañol e Inglés\nOtros Servicios Turísticos\nServicio de Correos\nCiudad de Tacna\nOtros Servicios Turísticos\nServicio de Fax\nCiudad de Tacna\nOtros Servicios Turísticos\nServicio de Internet\nCiudad de Tacna\nOtros Servicios Turísticos\nServicio de taxi\nCiudad de Tacna\nServicios Públicos\nMiradores turísticos\nLocalidad de Pocollay\nServicios Públicos\nEstacionamiento de vehículos\nCiudad de Tacna\nServicios Públicos\nSeñales turísticas de orientación\nCiudad de Tacna\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\nCiudad de Tacna\nServicios Públicos\nCaminos peatonales\nCiudad de Tacna\nServicios Públicos\nCaminos de herradura (caballo)\nCiudad de Tacna\nServicios Públicos\nMuseo de Sitio Turísticos\nCiudad de Tacna"
+    },
+    {
+      "titulo": "Servicios Complementarios dentro del recurso",
+      "contenido": "Servicio Complementario\nObservación\nServicios de internet\n--"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Tacna\nBancos\nCiudad de Tacna\nCajero automático\nCiudad de Tacna\nCasa de cambio\nCiudad de Tacna\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Tacna\nServicio de correos\nCiudad de Tacna\nServicio de estacionamiento\nCiudad de Tacna\nServicios de taxis\nCiudad de Tacna\nCentro de salud - tópico\nCiudad de Tacna\nVenta de materiales para fotografías\nCiudad de Tacna\nSeguridad / POLTUR / Comisaría\nCiudad de Tacna\nAlquiler y compra de equipos deportivos\nCiudad de Tacna\nLibrerías\nCiudad de Tacna\nBodegas o minimarkets\nCiudad de Tacna"
+    },
+    {
+      "titulo": "Condiciones de Accesibilidad al Visitante",
+      "contenido": "Visitante\nInstalación\nActividades y/o programas\nEquipamiento\nObservación\nPersonas con discapacidad física\nRampas\n--\n--\n--"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\n--\nAlcantarillado sanitario\n--\nDesagüe\n--\nLuz (Suministro Eléctrico)\n--\nTeléfono\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Tacna\nAlcantarillado sanitario\nCiudad de Tacna\nDesagüe\nCiudad de Tacna\nLuz (Suministro Eléctrico)\nCiudad de Tacna\nTeléfono\nCiudad de Tacna"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nBanco de la Nación\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nDeclarado como Monumento Histórico y Artístico según R.S. 0122-78-ED del 05-04-78.\nAdministrador por\nNombre\nFundación Cultural del Banco de la Nación\nTiempo de administración\nDesde el año 2018 a la fecha"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo de Tacna\nNombre (Persona(s) responsable(s) del inventario turístico):\nPatricia Milagros Carrasco Mamani\nCargo:\nTécnico en Turismo\nCorreo:\nantindana21@gmail.com\nTeléfono:\n902504772\nFuentes Bibliográfica:\nGuía Interpretativa de Tacna, Circuito Tacna, Valle Viejo - Miculla, 2023. Proinnovate, Módulo de Servicios Tacna - Tacna Innova.\nPágina web oficial - https://fcbn.pe/sedes/tacna/\nInventario Patrimonio Arquitectónico - INC.\nMateriales para la Historia de Tacna, Luis Cavagnaro Orellana, 2010.\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n20/03/2026 16:49:46"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -18.013867823337517,
+    "longitud": -70.25155484676361
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-18.013867823337517,-70.25155484676361"
+}

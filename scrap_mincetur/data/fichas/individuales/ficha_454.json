@@ -1,0 +1,212 @@
+{
+  "cod_ficha": 454,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=454",
+  "nombre": "Biblioteca Municipal De Lampa",
+  "departamento": "Puno",
+  "provincia": "Lampa",
+  "distrito": "LAMPA",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Arquitectura y Espacios Urbanos",
+  "subtipo": "Biblioteca",
+  "jerarquia": "POR JERARQUIZAR",
+  "altitud": "3892",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=296551",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=296551",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=298562",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=653399",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=653400",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=653401",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=653402",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=653403",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=653404",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=653336",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=653405",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=653337"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Estudios e Investigación",
+    "Cultura y Folclore - Apreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Apreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)",
+      "observacion": "Apreciación de una obra de arte; Replica de La Piedad",
+      "icono_url": null
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Puno/Lampa/Lampa - Puno/Lampa/Lampa",
+      "detalle": "Terminal terrestre zonal de la ciudad de Lampa - Biblioteca Municipal de Lampa",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "400 mts. / 5 minutos"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "4",
+      "horario": "Informe N° 004-2025-MPL-SGEMA-DTPE-SEAC",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "2998",
+      "horario": "Informe N° 004-2025-MPL-SGEMA-DTPE-SEAC",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "717",
+      "horario": "Informe N° 004-2025-MPL-SGEMA-DTPE-SEAC",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "08:30 a.m. - 05:00 p.m. Con un receso de 12:00 m a 01:00 pm.",
+      "observaciones": "Con un receso de 12:00 m a 01:00 pm."
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "Estudiantes S/1.00, Nacionales S/3.00, Extranjeros S/5.00"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "En la ciudad de Lampa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "En la ciudad de Lampa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "En la ciudad de Lampa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "En la ciudad de Lampa"
+    }
+  ],
+  "descripcion": "Espacio cultural dedicado al arte y la literatura, ubicado en el primer piso del interior de la Municipalidad Provincial de Lampa. El acceso se realiza a través del Palacio Municipal, ingresando desde la Plaza de Armas de la ciudad. Una vez dentro del edificio, la biblioteca y museo Municipal se encuentra al lado derecho de la entrada principal; para acceder al recinto se debe atravesar una reja de seguridad.\nAl ingresar, en el primer ambiente se puede apreciar algunas de las condecoraciones otorgadas al benefactor lampeño Enrique Torres Belón, asimismo fotografías, pinturas y diverso material del reconocido pintor expresionista Víctor Humareda Gallegos, destacado artista plástico nacido en la ciudad de Lampa. Más hacia el interior se encuentra el repositorio bibliográfico, que alberga importantes volúmenes y archivos documentales, entre los que destacan los libros donados por Enrique Torres Belón, además de otros materiales de significativo valor cultural e histórico.\nEn el siguiente ambiente se conserva un mapa del Perú que data del año 1862, una litografía sobre lino elaborada por el historiador y geógrafo Mariano Felipe Paz Soldán por encargo del presidente Ramón Castilla. Este documento cartográfico constituye un importante testimonio histórico que ofrece una detallada representación de la geografía del Perú en el siglo XIX. En esta misma sala también se exhiben diversos reconocimientos otorgados a Enrique Torres Belón y un lienzo original del pintor Víctor Humareda Gallegos.\nFinalmente, en un ambiente especialmente acondicionado se resguarda una réplica en yeso cristalino blanco de la escultura La Piedad, obra original del célebre escultor renacentista Miguel Ángel Buonarroti. Esta réplica fue traída desde Italia en 1960 con autorización del Papa Juan XXIII. Inicialmente se proyectó instalarla en el Templo de Santiago Apóstol; sin embargo, debido a su peso y fragilidad, no fue posible ubicarla en dicho templo.\nEl original de La Piedad, se conserva actualmente en la Basílica de San Pedro, en Roma, una de las más extraordinarias obras de arte en el mundo hecha entre 1498 y 1499 por Miguel Ángel Buonarroti, representa a la Virgen María sosteniendo el cuerpo de Cristo luego de haber sido descendido de la cruz.",
+  "particularidades": "En su interior se encuentra una de las 2 réplicas autorizadas de \"La Piedad de Miguel Ángel Buonarroti\". En 1972 una comitiva del Vaticano, tomo medidas precisas, para restaurar la obra original dañada en un atentado.",
+  "estado_actual": "Bueno, su seguridad y mantenimiento esta a cargo de la municipalidad.",
+  "observaciones": "En el interior del Templo de Santiago Apóstol, específicamente en la Capilla de La Piedad se encuentra la otra réplica de aluminio. Lampa posee las dos únicas réplicas exactas autorizadas de \"La Piedad\".",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Espacio cultural dedicado al arte y la literatura, ubicado en el primer piso del interior de la Municipalidad Provincial de Lampa. El acceso se realiza a través del Palacio Municipal, ingresando desde la Plaza de Armas de la ciudad. Una vez dentro del edificio, la biblioteca y museo Municipal se encuentra al lado derecho de la entrada principal; para acceder al recinto se debe atravesar una reja de seguridad.\nAl ingresar, en el primer ambiente se puede apreciar algunas de las condecoraciones otorgadas al benefactor lampeño Enrique Torres Belón, asimismo fotografías, pinturas y diverso material del reconocido pintor expresionista Víctor Humareda Gallegos, destacado artista plástico nacido en la ciudad de Lampa. Más hacia el interior se encuentra el repositorio bibliográfico, que alberga importantes volúmenes y archivos documentales, entre los que destacan los libros donados por Enrique Torres Belón, además de otros materiales de significativo valor cultural e histórico.\nEn el siguiente ambiente se conserva un mapa del Perú que data del año 1862, una litografía sobre lino elaborada por el historiador y geógrafo Mariano Felipe Paz Soldán por encargo del presidente Ramón Castilla. Este documento cartográfico constituye un importante testimonio histórico que ofrece una detallada representación de la geografía del Perú en el siglo XIX. En esta misma sala también se exhiben diversos reconocimientos otorgados a Enrique Torres Belón y un lienzo original del pintor Víctor Humareda Gallegos.\nFinalmente, en un ambiente especialmente acondicionado se resguarda una réplica en yeso cristalino blanco de la escultura La Piedad, obra original del célebre escultor renacentista Miguel Ángel Buonarroti. Esta réplica fue traída desde Italia en 1960 con autorización del Papa Juan XXIII. Inicialmente se proyectó instalarla en el Templo de Santiago Apóstol; sin embargo, debido a su peso y fragilidad, no fue posible ubicarla en dicho templo.\nEl original de La Piedad, se conserva actualmente en la Basílica de San Pedro, en Roma, una de las más extraordinarias obras de arte en el mundo hecha entre 1498 y 1499 por Miguel Ángel Buonarroti, representa a la Virgen María sosteniendo el cuerpo de Cristo luego de haber sido descendido de la cruz."
+    },
+    {
+      "titulo": "Particularidades",
+      "contenido": "En su interior se encuentra una de las 2 réplicas autorizadas de \"La Piedad de Miguel Ángel Buonarroti\". En 1972 una comitiva del Vaticano, tomo medidas precisas, para restaurar la obra original dañada en un atentado."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, su seguridad y mantenimiento esta a cargo de la municipalidad."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "En el interior del Templo de Santiago Apóstol, específicamente en la Capilla de La Piedad se encuentra la otra réplica de aluminio. Lampa posee las dos únicas réplicas exactas autorizadas de \"La Piedad\"."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nVisitantes Locales(Excursionistas)\n4\nInforme N° 004-2025-MPL-SGEMA-DTPE-SEAC\n2025\nTuristas Nacionales\n2998\nInforme N° 004-2025-MPL-SGEMA-DTPE-SEAC\n2025\nTuristas Extranjeros\n717\nInforme N° 004-2025-MPL-SGEMA-DTPE-SEAC\n2025\nundefined"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nPuno/Lampa/Lampa\n-\nPuno/Lampa/Lampa\nTerminal terrestre zonal de la ciudad de Lampa - Biblioteca Municipal de Lampa\nTerrestre\nA pie\nAsfaltado\n400 mts. / 5 minutos"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nEstudiantes S/1.00, Nacionales S/3.00, Extranjeros S/5.00"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n08:30 a.m.\n-\n05:00 p.m.\nCon un receso de 12:00 m a 01:00 pm."
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nEstudios e Investigación\n--\nCultura y Folclore\nApreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)\nApreciación de una obra de arte; Replica de La Piedad"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Públicas\nServicios Públicos\nSeñales turísticas de orientación\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlimentación\nRestaurantes\nEn la ciudad de Lampa\nAlimentación\nKioskos de comida y bebidas\nEn la ciudad de Lampa\nOtros Servicios Turísticos\nVenta de artesanía\nEn la ciudad de Lampa\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nEn la ciudad de Lampa"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nEn la ciudad de Lampa\nEstación de servicios, grifos, gasolineras y gasocentros\nEn la ciudad de Lampa\nServicio de estacionamiento\nEn la ciudad de Lampa\nServicios de taxis\nEn la ciudad de Lampa\nCentro de salud - tópico\nEn la ciudad de Lampa\nSeguridad / POLTUR / Comisaría\nEn la ciudad de Lampa\nAlquiler y compra de equipos deportivos\nEn la ciudad de Lampa\nLibrerías\nEn la ciudad de Lampa\nBodegas o minimarkets\nEn la ciudad de Lampa"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\n--\nAlcantarillado sanitario\n--\nLuz (Suministro Eléctrico)\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nEn la ciudad de Lampa\nLuz (Suministro Eléctrico)\nEn la ciudad de Lampa\nTeléfono\nEn la ciudad de Lampa\nAlcantarillado sanitario\nEn la ciudad de Lampa"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nMunicipalidad Provincial de Lampa\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nTitulo de Afectación en Uso Registrado; Expedido por COFOPRI.\nNúmero de Partida:\nN° P48000716\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nSr Percy Mamani Mamani, Jefe de la División de Turismo y Promoción Empresaria de la M.P.L.\nTiempo de administración\nDesde el año 1969"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección de Turismo de al Dirección Regional de Comercio Exterior y Turismo / Municipalidad Provincial de Lampa\nNombre (Persona(s) responsable(s) del inventario turístico):\nLic. Maribel Jacqueline Choque Copa - Arq. Vadim Masciotti Cabala / Lic. Saul Eliazar Arestegui Cahuana\nCargo:\nDirectora Regional - Arq. / Especialista en turismo, artesanías y promoción empresarial de la Municipalidad Provincial de Lampa\nCorreo:\nchcmaribel@gmail.com - masciottivadim@gmail.com / saul.ares7@gmail.com\nTeléfono:\n982242248 - 051 351261 / 951800100\nFuentes Bibliográfica:\nR. Ramos N., Monografía de la Provincia de Lampa, Revista Lampa Histórica, Lampa 1967.\nP. P. Cornejo, Posibilidades Turísticas de Lampa, Lampa 2016.\nA. Belón de Romero, Monografía de la Provincia de Lampa, Puno, 1972.\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n13/03/2026 12:49:00"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -15.364703163447745,
+    "longitud": -70.36783665418625
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-15.364703163447745,-70.36783665418625"
+}

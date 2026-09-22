@@ -1,0 +1,567 @@
+{
+  "cod_ficha": 6211,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=6211",
+  "nombre": "Cañón De Torontoy",
+  "departamento": "Cusco",
+  "provincia": "La Convencion",
+  "distrito": "ECHARATE",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "e. Cañones",
+  "subtipo": "Cañones",
+  "jerarquia": "1",
+  "altitud": "1800-2300",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=390021",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=390021",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=390022",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=389978",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=389979"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Cultura y Folclore - Actividades Religiosas o Patronales",
+    "Paseos - Excursiones",
+    "Otros - Estudios e Investigación",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de aves",
+    "Deportes / Aventura - Caminata/Trekking"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Actividades Religiosas o Patronales",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/act_religiosas02.png"
+    },
+    {
+      "actividad": "Paseos",
+      "tipo": "Excursiones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/excursiones02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "Incienso natural, pino (Pinus), helechos (Tracheophyta), musgos (Bryophyta), líquenes fruticulosos y foliáceos, guarumo (Cecropia Peltata) y monte uncucha (Xantosoma).",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de aves",
+      "observacion": "El gallito de las rocas (Rupicola Peruviana), aguiluchos (Circus Cyaneus), guacharos (Steatornis Caripensis), pusti (Cacicus Cela), colibríes (Trochilidae), quetzales (Pharomachrus Mocinno).",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/aves02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Cusco/La Convención/Echarate - Cusco/La Convención/Echarate",
+      "detalle": "Quillabamba (Plaza Central) - Desvío 1 Limon pampa",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus público",
+      "tipo_via": "",
+      "distancia_tiempo": "28km/1:07 hrs."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Cusco/La Convención/Echarate - Cusco/La Convención/Echarate",
+      "detalle": "Desvío 1 Limon pampa - Comunidad de Torontoypata",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus público",
+      "tipo_via": "",
+      "distancia_tiempo": "2.1km. /06 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Cusco/La Convención/Echarate - Cusco/La Convención/Echarate",
+      "detalle": "Comunidad de Torontoypata - Mirador 1 Torontoy",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Camino de Herradura",
+      "distancia_tiempo": "3.8km./2 hr."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Cusco/La Convención/Echarate - Cusco/La Convención/Echarate",
+      "detalle": "Mirador 1 Torontoy - Cañón de Torontoy",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Camino de Herradura",
+      "distancia_tiempo": "1.2km./30min"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Cusco/La Convención/Echarate - Cusco/La Convención/Echarate",
+      "detalle": "Centro Poblado de Echarati (Plaza Central) - Devío Delicias",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus público",
+      "tipo_via": "",
+      "distancia_tiempo": "11km/30 min."
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Cusco/La Convención/Echarate - Cusco/La Convención/Echarate",
+      "detalle": "Desvío Delicias - Desvío 1 Limon pampa",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus público",
+      "tipo_via": "",
+      "distancia_tiempo": "04km/15 min."
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Cusco/La Convención/Echarate - Cusco/La Convención/Echarate",
+      "detalle": "Desvío 1 Limonpampa - Comunidad de Torontoypata",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus público",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "2.1km./06min."
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Cusco/La Convención/Echarate - Cusco/La Convención/Echarate",
+      "detalle": "Comunidad de Torontoypata - Mirador 1 Torontoy",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Sendero",
+      "distancia_tiempo": "3.8km./2hr."
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Cusco/La Convención/Echarate - Cusco/La Convención/Echarate",
+      "detalle": "Mirador 1 Torontoy - Cañón de Torontoy",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Sendero",
+      "distancia_tiempo": "1.2km./30min."
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "11",
+      "horario": "cuaderno de registro de visitantes",
+      "observaciones": "2019"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "2",
+      "horario": "cuaderno de registro de visitantes",
+      "observaciones": "2019"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "167",
+      "horario": "cuaderno de registro de visitantes",
+      "observaciones": "2019"
+    },
+    {
+      "epoca": "Esporádicamente - Algunos meses",
+      "especificacion": "--",
+      "horario": "06:00 a.m. - 03:00 p.m. De preferencia en época de secas de Abril a Noviembre Es recomendable llevar vestimenta impermeable, gorras, bloqueador solar FPS-60, lentes de sol, bastones de caminata, zapatillas de goma y agua.",
+      "observaciones": "De preferencia en época de secas de Abril a Noviembre Es recomendable llevar vestimenta impermeable, gorras, bloqueador solar FPS-60, lentes de sol, bastones de caminata, zapatillas de goma y agua."
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "La tarifa es de 2.00 soles por persona. Asimismo, se recomienda previa coordinación con el señor Celestino Curahua León (Administrador del recurso turístico) para cualquier reserva. Celular: 983857285"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Zonas de camping (cap. 04 carpas)."
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Reservas para la preparación de alimentos y bebidas."
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "Quillabamba/C.P. Echarati"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Ciudad de Quillabamba"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "Quillabamba/C.P. Echarati"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de interpretación",
+      "observacion": "Quillabamba/C.P. Echarati"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de Campamento(camping)",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "Quillabamba/C.P. Echarati"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "Hoteles de 2 estrellas. Hoteles de 3 estrellas."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Quillabamba/Sector Chaco/C.P. Echarati"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Quillabamba/C.P. Echarati"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Quillabamba/C.P. Echarati"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Quillabamba/C.P. Echarati"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Pubs",
+      "observacion": "Distrito de Echarati"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Quillabamba/C.P. Echarati"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Bancos - Cajeros",
+      "observacion": "Distrito de Echarate"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Oficina de Información",
+      "observacion": "Distrito de Echarate"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicios Higiénicos",
+      "observacion": "Distrito de Echarate"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Internet",
+      "observacion": "Distrito de Echarate"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de taxi",
+      "observacion": "Distrito de Echarate"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Tópico",
+      "observacion": "Distrito de Echarate"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Quillabamba/Sector Chaco/C.P. Echarati"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Quillabamba/C.P. Echarati"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de Quillabamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Idioma: ingles / Ciudad de Quillabamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Quillabamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de carruajes",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de botes",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de Caballos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de bicicleta",
+      "observacion": "Ciudad de Quillabamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Alquiler de Motocicletas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "Ciudad de Quillabamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Quillabamba/C.P. Echarati"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "Quillabamba/C.P. Echarati"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "Ciudad de Quillabamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de interpretación",
+      "observacion": "Quillabamba/Sector Chaco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Quillabamba/C.P. Echarati"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Puesto de auxilio rápido",
+      "observacion": "Quillabamba/Sector Chaco/C.P. Echarati"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Ciudad de Quillabamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "Quillabamba/C.P. Echarati"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Centros de interpretación",
+      "observacion": "Quillabamba/Sector Chaco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "Quillabamba/C.P. Echarati"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de Campamento(camping)",
+      "observacion": "Sector Chaco"
+    }
+  ],
+  "descripcion": "El Cañón de Torontoy es un gran accidente geográfico que se encuentra ubicado en el sector de Torontoypata perteneciente a la zonal de Echarati. El Cañón de Torontoy está dentro de la región natural yunga-quechua con una altitud que varía desde los 1800 hasta los 2300 m.s.n.m., el cual posee un clima templado subhúmedo con una temperatura media de 20°C., y una precipitación media de 600mm. El Cañón de Torontoy tiene una profundidad de 200 metros con un ancho de 10 a 12 metros y paredes rocosas que alcanzan los 35 metros de altura; las aguas que discurren son frías y cristalinas provenientes de las cabeceras de las cabeceras de la montaña Torontoypata. En la parte media y alrededor del cañón se puede observar diferentes especies de aves de gran interés como el gallito de las rocas (Rupicola Peruviana), aguiluchos (Circus Cyaneus), guacharos (Steatornis Caripensis), pusti (Cacicus Cela), variedad de colibríes (Trochilidae), quetzales (Pharomachrus Mocinno) entre otras especies, las cuales algunas de ellas anidan dentro y alrededor del cañón; asimismo se aprecia una gran diversidad de especies de flora como árboles de incienso natural, pino (Pinus), helechos (Tracheophyta), musgos (Bryophyta), líquenes fruticulosos y foliáceos, guarumo (Cecropia Peltata) y monte uncucha (Xantosoma). En la parte final del cañón se puede apreciar 02 saltos de agua, la primera con una altura de 20 metros y la segunda con una altura de 50 metros los cuales descienden sobre las paredes rocosas. Los materiales que afloran del cañón corresponden principalmente a depósitos aluviales que están constituidos por gravas, arenas, flujos de barro, limos y arcillas. Los centros poblados más cercanos son Torontoypata, Chaco, Echarati y Huayanay.",
+  "particularidades": "Es el único cañón con una profundidad de 200 metros del Distrito de Echarati.",
+  "estado_actual": "Se encuentra en el estado actual de “MUY BUENO”, debido al mantenimiento que recibe por parte de la comunidad de Torontoypata.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "El Cañón de Torontoy es un gran accidente geográfico que se encuentra ubicado en el sector de Torontoypata perteneciente a la zonal de Echarati. El Cañón de Torontoy está dentro de la región natural yunga-quechua con una altitud que varía desde los 1800 hasta los 2300 m.s.n.m., el cual posee un clima templado subhúmedo con una temperatura media de 20°C., y una precipitación media de 600mm. El Cañón de Torontoy tiene una profundidad de 200 metros con un ancho de 10 a 12 metros y paredes rocosas que alcanzan los 35 metros de altura; las aguas que discurren son frías y cristalinas provenientes de las cabeceras de las cabeceras de la montaña Torontoypata. En la parte media y alrededor del cañón se puede observar diferentes especies de aves de gran interés como el gallito de las rocas (Rupicola Peruviana), aguiluchos (Circus Cyaneus), guacharos (Steatornis Caripensis), pusti (Cacicus Cela), variedad de colibríes (Trochilidae), quetzales (Pharomachrus Mocinno) entre otras especies, las cuales algunas de ellas anidan dentro y alrededor del cañón; asimismo se aprecia una gran diversidad de especies de flora como árboles de incienso natural, pino (Pinus), helechos (Tracheophyta), musgos (Bryophyta), líquenes fruticulosos y foliáceos, guarumo (Cecropia Peltata) y monte uncucha (Xantosoma). En la parte final del cañón se puede apreciar 02 saltos de agua, la primera con una altura de 20 metros y la segunda con una altura de 50 metros los cuales descienden sobre las paredes rocosas. Los materiales que afloran del cañón corresponden principalmente a depósitos aluviales que están constituidos por gravas, arenas, flujos de barro, limos y arcillas. Los centros poblados más cercanos son Torontoypata, Chaco, Echarati y Huayanay."
+    },
+    {
+      "titulo": "Particularidades",
+      "contenido": "Es el único cañón con una profundidad de 200 metros del Distrito de Echarati."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Se encuentra en el estado actual de “MUY BUENO”, debido al mantenimiento que recibe por parte de la comunidad de Torontoypata."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n11\ncuaderno de registro de visitantes\n2019\nUn total de 180 visitantes al recurso turístico en el año 2019.\nTuristas Nacionales\n2\ncuaderno de registro de visitantes\n2019\nUn total de 180 visitantes al recurso turístico en el año 2019.\nVisitantes Locales(Excursionistas)\n167\ncuaderno de registro de visitantes\n2019\nUn total de 180 visitantes al recurso turístico en el año 2019."
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nCusco/La Convención/Echarate\n-\nCusco/La Convención/Echarate\nQuillabamba (Plaza Central) - Desvío 1 Limon pampa\nTerrestre\nBus público\n28km/1:07 hrs.\n1\nCusco/La Convención/Echarate\n-\nCusco/La Convención/Echarate\nDesvío 1 Limon pampa - Comunidad de Torontoypata\nTerrestre\nBus público\n2.1km. /06 min.\n1\nCusco/La Convención/Echarate\n-\nCusco/La Convención/Echarate\nComunidad de Torontoypata - Mirador 1 Torontoy\nTerrestre\nA pie\nCamino de Herradura\n3.8km./2 hr.\n1\nCusco/La Convención/Echarate\n-\nCusco/La Convención/Echarate\nMirador 1 Torontoy - Cañón de Torontoy\nTerrestre\nA pie\nCamino de Herradura\n1.2km./30min\n2\nCusco/La Convención/Echarate\n-\nCusco/La Convención/Echarate\nCentro Poblado de Echarati (Plaza Central) - Devío Delicias\nTerrestre\nBus público\n11km/30 min.\n2\nCusco/La Convención/Echarate\n-\nCusco/La Convención/Echarate\nDesvío Delicias - Desvío 1 Limon pampa\nTerrestre\nBus público\n04km/15 min.\n2\nCusco/La Convención/Echarate\n-\nCusco/La Convención/Echarate\nDesvío 1 Limonpampa - Comunidad de Torontoypata\nTerrestre\nBus público\nTrocha carrozable\n2.1km./06min.\n2\nCusco/La Convención/Echarate\n-\nCusco/La Convención/Echarate\nComunidad de Torontoypata - Mirador 1 Torontoy\nTerrestre\nA pie\nSendero\n3.8km./2hr.\n2\nCusco/La Convención/Echarate\n-\nCusco/La Convención/Echarate\nMirador 1 Torontoy - Cañón de Torontoy\nTerrestre\nA pie\nSendero\n1.2km./30min."
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nLa tarifa es de 2.00 soles por persona. Asimismo, se recomienda previa coordinación con el señor Celestino Curahua León (Administrador del recurso turístico) para cualquier reserva. Celular: 983857285"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nEsporádicamente - Algunos meses\n--\n06:00 a.m.\n-\n03:00 p.m.\nDe preferencia en época de secas de Abril a Noviembre\nEs recomendable llevar vestimenta impermeable, gorras, bloqueador solar FPS-60, lentes de sol, bastones de caminata, zapatillas de goma y agua."
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nCultura y Folclore\nActividades Religiosas o Patronales\n--\nPaseos\nExcursiones\n--\nOtros\nEstudios e Investigación\n--\nNaturaleza\nObservación de flora\nIncienso natural, pino (Pinus), helechos (Tracheophyta), musgos (Bryophyta), líquenes fruticulosos y foliáceos, guarumo (Cecropia Peltata) y monte uncucha (Xantosoma).\nNaturaleza\nObservación de aves\nEl gallito de las rocas (Rupicola Peruviana), aguiluchos (Circus Cyaneus), guacharos (Steatornis Caripensis), pusti (Cacicus Cela), colibríes (Trochilidae), quetzales (Pharomachrus Mocinno).\nDeportes / Aventura\nCaminata/Trekking\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nOtros Servicios Turísticos\nOtros (Especificar)\nZonas de camping (cap. 04 carpas).\nInstalaciones Privadas\nAlimentación\nOtros (Especificar)\nReservas para la preparación de alimentos y bebidas.\nInstalaciones Públicas\nServicios Públicos\nMiradores turísticos\nQuillabamba/C.P. Echarati\nInstalaciones Públicas\nServicios Públicos\nEstacionamiento de vehículos\nCiudad de Quillabamba\nInstalaciones Públicas\nServicios Públicos\nSeñales turísticas de orientación\nQuillabamba/C.P. Echarati\nInstalaciones Públicas\nServicios Públicos\nSeñales turísticas de interpretación\nQuillabamba/C.P. Echarati\nInstalaciones Públicas\nServicios Públicos\nZonas de Campamento(camping)\n--\nInstalaciones Públicas\nServicios Públicos\nCaminos peatonales\nQuillabamba/C.P. Echarati"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\nHoteles de 2 estrellas.\nHoteles de 3 estrellas.\nAlimentación\nRestaurantes\nQuillabamba/Sector Chaco/C.P. Echarati\nAlimentación\nBares\nQuillabamba/C.P. Echarati\nAlimentación\nKioskos de comida y bebidas\nQuillabamba/C.P. Echarati\nLugares de Recreación\nDiscotecas\nQuillabamba/C.P. Echarati\nLugares de Recreación\nPubs\nDistrito de Echarati\nLugares de Recreación\nJuegos Infantiles\nQuillabamba/C.P. Echarati\nOtros Servicios Turísticos\nBancos - Cajeros\nDistrito de Echarate\nOtros Servicios Turísticos\nOficina de Información\nDistrito de Echarate\nOtros Servicios Turísticos\nServicios Higiénicos\nDistrito de Echarate\nOtros Servicios Turísticos\nServicio de Internet\nDistrito de Echarate\nOtros Servicios Turísticos\nServicio de taxi\nDistrito de Echarate\nOtros Servicios Turísticos\nTópico\nDistrito de Echarate\nAlimentación\nCafeterías\nQuillabamba/Sector Chaco/C.P. Echarati\nAlimentación\nVenta de comida Rápida\nQuillabamba/C.P. Echarati\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de Quillabamba\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nIdioma: ingles / Ciudad de Quillabamba\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Quillabamba\nOtros Servicios Turísticos\nAlquiler de carruajes\n--\nOtros Servicios Turísticos\nAlquiler de botes\n--\nOtros Servicios Turísticos\nAlquiler de Caballos\n--\nOtros Servicios Turísticos\nAlquiler de bicicleta\nCiudad de Quillabamba\nOtros Servicios Turísticos\nOtros (Especificar)\nAlquiler de Motocicletas\nLugares de Recreación\nKaraoke\nCiudad de Quillabamba\nLugares de Recreación\nCentros Deportivos\nQuillabamba/C.P. Echarati\nServicios Públicos\nMiradores turísticos\nQuillabamba/C.P. Echarati\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\nCiudad de Quillabamba\nServicios Públicos\nSeñales turísticas de interpretación\nQuillabamba/Sector Chaco\nServicios Públicos\nOficina de Información turística\nQuillabamba/C.P. Echarati\nServicios Públicos\nPuesto de auxilio rápido\nQuillabamba/Sector Chaco/C.P. Echarati\nServicios Públicos\nEstacionamiento de vehículos\nCiudad de Quillabamba\nServicios Públicos\nSeñales turísticas de orientación\nQuillabamba/C.P. Echarati\nServicios Públicos\nCentros de interpretación\nQuillabamba/Sector Chaco\nServicios Públicos\nCaminos peatonales\nQuillabamba/C.P. Echarati\nServicios Públicos\nZonas de Campamento(camping)\nSector Chaco"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nQuillabamba/C.P. Echarati\nBancos\nQuillabamba/C.P. Echarati\nCajero automático\nQuillabamba/C.P. Echarati\nCasa de cambio\nCiudad de Quillabamba\nEstación de servicios, grifos, gasolineras y gasocentros\nQuillabamba/C.P. Echarati\nServicio de correos\nCiudad de Quillabamba\nServicio de estacionamiento\nCiudad de Quillabamba\nServicios de taxis\nCiudad de Quillabamba\nCentro de salud - tópico\nQuillabamba/Sector Chaco/C.P. Echarati\nVenta de materiales para fotografías\nCiudad de Quillabamba\nSeguridad / POLTUR / Comisaría\nQuillabamba/C.P. Echarati\nAlquiler y compra de equipos deportivos\nCiudad de Quillabamba\nLibrerías\nQuillabamba/C.P. Echarati\nBodegas o minimarkets\nQuillabamba/C.P. Echarati\nOtros(especificar)\nServicios de Mototaxis"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAlternativo de Residuos (Biodigestor, pozo séptico, otros)\nQuillabamba/C.P. Echarati\nSeñalización turística\nQuillabamba/Sector Chaco/C.P. Echarati\nOtros (Especificar)\nTelefonía/ MóvilQuillabamba/Sector Chaco/C.P. Echarati"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nComunidad de Torontaypata.\nLuz (Suministro Eléctrico)\nComunidad de Torontaypata.\nTeléfono\nComunidad de Torontaypata.\nAlcantarillado sanitario\nCiudad de Quillabamba\nSistemas de tratamiento alternativo de residuos (Biodigestor, pozo séptico, otros)\nCiudad de Quillabamba\nSeñalización turística\nQuillabamba/Sector Chaco/C.P. Echarati\nOtros (Especificar)\nTelefonía Móvil\nEnergía Alternativa\nCiudad de Quillabamba\nAlternativo de Residuos (Biodigestor, pozo séptico, otros)\nQuillabamba/C.P. Echarati"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\n--\nPrivado:\nAsociación Turístico de Torontoypata\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\nCertificado de Posesión de la Asociación Turístico de Torontoypata\nOtra situación:\n--\nAdministrador por\nNombre\nAsociación Turístico de Torontoypata. Celestino Curahua León - D.N.I. N°24940114. Celular: 983857285\nTiempo de administración\nDos (02) años"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nGERCETUR - CUSCO.\nNombre (Persona(s) responsable(s) del inventario turístico):\nEliana Miranda Cabrejos\nCargo:\nResponsable de inventario Turístico\nCorreo:\nemiranda@regioncusco.gob.pe\nTeléfono:\n962379569\nFuentes Bibliográfica:\n• Inventario de Recursos Turísticos – Municipalidad Provincial La Convención – 2017.\n• Inventario de Recursos Turísticos – Municipalidad Distrital de Echarati/META 38 – 2018.\n• TV Perú-Reportaje al Perú. Echarati 2010.\n• Proyecto SNIP N° 117372: Acondicionamiento de la Oferta Turística de los sectores de Calzada, Torontoypata, Illapani y Centro Poblado de Echarati.\nMaterial Audiovisual actual del Recurso:\nFOTO, VIDEOS\nEspecificación:\nREPORTAJE AL PERÚ-TV PERÚAREA DE TURISMO DEL PROYECTO FOT. 2009\nReferencia de las últimas intervenciones en el Recurso Turístico:\nSe realizó la creación de servicios turísticos como la ampliación del camino, señalización zonas de descanso, miradores y servicios higiénicos durante el acceso al Cañón de Torontoy.\nFecha:\n30/03/2022"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -12.852361,
+    "longitud": -72.61327799999998
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-12.852361,-72.61327799999998"
+}

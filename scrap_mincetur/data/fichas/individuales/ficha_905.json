@@ -1,0 +1,276 @@
+{
+  "cod_ficha": 905,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=905",
+  "nombre": "Sitio Arqueológico De Tambomachay",
+  "departamento": "Cusco",
+  "provincia": "Cusco",
+  "distrito": "CUSCO",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Sitios Arqueológicos",
+  "subtipo": "Templos",
+  "jerarquia": "2",
+  "altitud": "3700.",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=290988",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=290988",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=291178",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=292861",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=292862"
+  ],
+  "actividades_permitidas": [
+    "Otros - Compras de artesanía/souvenir",
+    "Otros - Actividades Culturales",
+    "Otros - Estudios e Investigación",
+    "Cultura y Folclore - Rituales místicos o tradicionales"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Compras de artesanía/souvenir",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/artesania02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Actividades Culturales",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/act_culturales02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Rituales místicos o tradicionales",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/rituales_misticos02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Cusco/Cusco/Cusco - Cusco/Cusco/Cusco",
+      "detalle": "Desde Cusco hasta Tambomachay",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus turístico",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "7.32km, / 20minutos."
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "276033",
+      "horario": "Comité de Servicios Integrados Turístico Culturales del Cusco",
+      "observaciones": "2018"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "180731",
+      "horario": "Comité de Servicios Integrados Turístico Culturales del Cusco",
+      "observaciones": "2018"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "10787",
+      "horario": "Comité de Servicios Integrados Turístico Culturales del Cusco",
+      "observaciones": "2018"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "08:00 a.m. - 04:00 p.m. --",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": "Cusqueños y residentes previa presentación de DNI"
+    },
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "Boleto Integral Turista extranjero “BTCI” S/130.00, Estudiante “BEE” S/70.00 Boleto Parcial I Turista extranjero “BTCPI” S/70.00 Boleto Integral Turista Nacional “BIN” S/70.00, Estudiante “BEN” S/40."
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicios Higiénicos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Inglés, español"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "1 a 5 estrellas, Ciudad de Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "1 a 3 estrellas, Ciudad de Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de Caballos",
+      "observacion": "Ciudad de Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Internet",
+      "observacion": "En la ciudad de Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de Material Informativo(libro,revistas,postales,videos,etc)",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de Material para Fotografía",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Cusco"
+    }
+  ],
+  "descripcion": "El sitio arqueológico de Tambomachay , al parecer, se trató del balneario favorito del inca, pero al mismo tiempo, fue uno de los pilares del sistema defensivo del valle del Cuzco. El nombre proviene de dos palabras quechuas: Tampu, que significa alojamiento colectivo, y Mach´ay, que significa lugar de descanso. Sin embargo, según otras referencias, la palabra \"machay\" significa \"cavernas\", lo que describiría el peculiar entorno del lugar en el que se aprecian estas formaciones rocosas naturales, lo que, conforme a la tradición indígena, fueron objeto de veneración o prácticas mágicas. Formado por un conjunto de estructuras de piedra finamente labradas, acueductos y caídas de agua provenientes de los manantiales y fuentes termales cercanas (por lo que se piensa que estuvo relacionado con el culto al agua), es uno de los pilares de la cosmovisión andina. Es considerado como uno de los adoratorios del primer ceque del Antisuyo. Según las crónicas, fue coto de caza de Inca Yupanqui, lo cual hace suponer que se trató de una zona muy rica en especies animales. El monumento es notable por su excelencia arquitectónica. Se observan cuatro muros o terrazas escalonadas adosadas al cerro, construidos sobre la base de poliedros irregulares de piedra labrada, magistralmente ensamblados, y que forman tres andenes paralelos. Sobre el último se erige un grueso muro (15 metros de longitud por 4 metros de altura) adornado con cuatro hornacinas. Las piedras han sido perfectamente encajadas. Presenta cuatro grandes nichos u hornacinas trapezoidales de dos, 2 metros en promedio. Frente a la construcción hubo un torreón circular que debió tener fines de defensa y comunicación. Este lugar se daba Culto al Agua, fue venerado como fuente de la vida. Tambomachay posee un extraordinario sistema hidráulico. Dos acueductos artísticamente tallados en la roca transportan y mantienen un flujo constante de agua limpia y clara durante todo el año, que viene de una poza que está a un nivel más alto. Esta red de canales subterráneos vierte sus aguas en una pequeña poza de piedra en el nivel más bajo. Esta poza tuvo que ser una fuente litúrgica, donde el inca rendía culto al agua con los grandes del Imperio. El \"Baño de la Ñusta\" tiene mucha similitud al de Ollantaytambo, de piedras perfectamente ensambladas, con reborde tallado y canaletas para el desagüe. Aunque hoy es una obra a cielo abierto, los cimientos parecen indicar que originalmente fue un recinto cerrado. Se ingresa a través de cuatro andenes de pórtico trapezoidales de doble jamba.\nDesde el río se observan dos gruesos muros que cortan el muro de sostenimiento. Uno de ellos mira al río y tiene dos nichos grandes; el segundo, casi perpendicular al primero, tiene una puerta con doble jamba. Este tipo de puerta era utilizado por los incas para resaltar la importancia de un lugar. Por esa puerta se llega a una habitación pequeña en la que es visible el agua que aflora de las entrañas de la tierra. No se ha podido descubrir hasta ahora el origen del manantial que abastece de aguas tan limpias y abundantes a las fuentes. Algunos creen que la suave pendiente donde se emplaza el sitio no tiene capacidad para producir esas aguas y que ellas podrían originarse en la margen opuesta del río. De lo que no queda duda es de la perfección en el labrado de los canales. El sonido del agua, la tranquilidad y la paz del ambiente, así como la forma cerrada y recogida del espacio en el que fue construido, dan a Tambomachay una atmósfera peculiar. Además, es una gran muestra de la habilidad de los arquitectos andinos para armonizar las construcciones.",
+  "particularidades": "",
+  "estado_actual": "Bueno, el mantenimiento esta a cargo de la Dirección Desconcentrada de Cultura Cusco.",
+  "observaciones": "se encuentra a 8 Kms. (15 min.) al noreste del Cusco, por carretera asfaltada, y a 1 Km. de Puca-pucará. Se ubica en las faldas de un cerro cerca del camino principal al Antisuyo, sobre el río Tambomachay. También se le conoce como el Tambo de la Caverna y ocupa un área de 437 metros cuadrados, ubicados sobre los 3,700 metros de altitud.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "El sitio arqueológico de Tambomachay , al parecer, se trató del balneario favorito del inca, pero al mismo tiempo, fue uno de los pilares del sistema defensivo del valle del Cuzco. El nombre proviene de dos palabras quechuas: Tampu, que significa alojamiento colectivo, y Mach´ay, que significa lugar de descanso. Sin embargo, según otras referencias, la palabra \"machay\" significa \"cavernas\", lo que describiría el peculiar entorno del lugar en el que se aprecian estas formaciones rocosas naturales, lo que, conforme a la tradición indígena, fueron objeto de veneración o prácticas mágicas. Formado por un conjunto de estructuras de piedra finamente labradas, acueductos y caídas de agua provenientes de los manantiales y fuentes termales cercanas (por lo que se piensa que estuvo relacionado con el culto al agua), es uno de los pilares de la cosmovisión andina. Es considerado como uno de los adoratorios del primer ceque del Antisuyo. Según las crónicas, fue coto de caza de Inca Yupanqui, lo cual hace suponer que se trató de una zona muy rica en especies animales. El monumento es notable por su excelencia arquitectónica. Se observan cuatro muros o terrazas escalonadas adosadas al cerro, construidos sobre la base de poliedros irregulares de piedra labrada, magistralmente ensamblados, y que forman tres andenes paralelos. Sobre el último se erige un grueso muro (15 metros de longitud por 4 metros de altura) adornado con cuatro hornacinas. Las piedras han sido perfectamente encajadas. Presenta cuatro grandes nichos u hornacinas trapezoidales de dos, 2 metros en promedio. Frente a la construcción hubo un torreón circular que debió tener fines de defensa y comunicación. Este lugar se daba Culto al Agua, fue venerado como fuente de la vida. Tambomachay posee un extraordinario sistema hidráulico. Dos acueductos artísticamente tallados en la roca transportan y mantienen un flujo constante de agua limpia y clara durante todo el año, que viene de una poza que está a un nivel más alto. Esta red de canales subterráneos vierte sus aguas en una pequeña poza de piedra en el nivel más bajo. Esta poza tuvo que ser una fuente litúrgica, donde el inca rendía culto al agua con los grandes del Imperio. El \"Baño de la Ñusta\" tiene mucha similitud al de Ollantaytambo, de piedras perfectamente ensambladas, con reborde tallado y canaletas para el desagüe. Aunque hoy es una obra a cielo abierto, los cimientos parecen indicar que originalmente fue un recinto cerrado. Se ingresa a través de cuatro andenes de pórtico trapezoidales de doble jamba.\nDesde el río se observan dos gruesos muros que cortan el muro de sostenimiento. Uno de ellos mira al río y tiene dos nichos grandes; el segundo, casi perpendicular al primero, tiene una puerta con doble jamba. Este tipo de puerta era utilizado por los incas para resaltar la importancia de un lugar. Por esa puerta se llega a una habitación pequeña en la que es visible el agua que aflora de las entrañas de la tierra. No se ha podido descubrir hasta ahora el origen del manantial que abastece de aguas tan limpias y abundantes a las fuentes. Algunos creen que la suave pendiente donde se emplaza el sitio no tiene capacidad para producir esas aguas y que ellas podrían originarse en la margen opuesta del río. De lo que no queda duda es de la perfección en el labrado de los canales. El sonido del agua, la tranquilidad y la paz del ambiente, así como la forma cerrada y recogida del espacio en el que fue construido, dan a Tambomachay una atmósfera peculiar. Además, es una gran muestra de la habilidad de los arquitectos andinos para armonizar las construcciones."
+    },
+    {
+      "titulo": "Particularidades",
+      "contenido": ""
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "Se encuentra dentro del Parque Arqueológico Saqsaywaman, que fue declarado por el Instituto Nacional de Cultura como principal Parque Arqueológico con R.M. Nº 517-2002. Fue declarado Patrimonio Cultural de la Nación 11 de julio de 1982, por Ley N°23765, mediante Resolución Directoral Nacional N° 829-2006."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, el mantenimiento esta a cargo de la Dirección Desconcentrada de Cultura Cusco."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "se encuentra a 8 Kms. (15 min.) al noreste del Cusco, por carretera asfaltada, y a 1 Km. de Puca-pucará. Se ubica en las faldas de un cerro cerca del camino principal al Antisuyo, sobre el río Tambomachay. También se le conoce como el Tambo de la Caverna y ocupa un área de 437 metros cuadrados, ubicados sobre los 3,700 metros de altitud."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n276033\nComité de Servicios Integrados Turístico Culturales del Cusco\n2018\nCOSITUC\nTuristas Nacionales\n180731\nComité de Servicios Integrados Turístico Culturales del Cusco\n2018\nCOSITUC\nVisitantes Locales(Excursionistas)\n10787\nComité de Servicios Integrados Turístico Culturales del Cusco\n2018\nCOSITUC"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nCusco/Cusco/Cusco\n-\nCusco/Cusco/Cusco\nDesde Cusco hasta Tambomachay\nTerrestre\nBus turístico\nAsfaltado\n7.32km, / 20minutos."
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre\nCusqueños y residentes previa presentación de DNI\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nBoleto Integral Turista extranjero “BTCI” S/130.00, Estudiante “BEE” S/70.00 Boleto Parcial I Turista extranjero “BTCPI” S/70.00 Boleto Integral Turista Nacional “BIN” S/70.00, Estudiante “BEN” S/40."
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n08:00 a.m.\n-\n04:00 p.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nCompras de artesanía/souvenir\n--\nOtros\nActividades Culturales\n--\nOtros\nEstudios e Investigación\n--\nCultura y Folclore\nRituales místicos o tradicionales\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nOtros Servicios Turísticos\nVenta de artesanía\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nServicios Higiénicos\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nInglés, español"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\n1 a 5 estrellas, Ciudad de Cusco\nAlojamiento\nHostales (especificar categorías)\n1 a 3 estrellas, Ciudad de Cusco\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Cusco\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de Cusco\nOtros Servicios Turísticos\nAlquiler de Caballos\nCiudad de Cusco\nOtros Servicios Turísticos\nServicio de Internet\nEn la ciudad de Cusco\nOtros Servicios Turísticos\nVenta de Material Informativo(libro,revistas,postales,videos,etc)\n--\nOtros Servicios Turísticos\nVenta de Material para Fotografía\n--\nAlimentación\nRestaurantes\nCiudad de Cusco\nAlimentación\nKioskos de comida y bebidas\nCiudad de Cusco"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Cusco\nBancos\nCiudad de Cusco\nCajero automático\nCiudad de Cusco\nCasa de cambio\nCiudad de Cusco\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Cusco\nServicio de correos\nCiudad de Cusco\nServicios de taxis\nCiudad de Cusco\nCentro de salud - tópico\nCiudad de Cusco\nSeguridad / POLTUR / Comisaría\nCiudad de Cusco\nBodegas o minimarkets\nCiudad de Cusco"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\n--\nDesagüe\n--\nLuz (Suministro Eléctrico)\n--\nSeñalización turística\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Cusco\nLuz (Suministro Eléctrico)\nCiudad de Cusco\nTeléfono\nCiudad de Cusco\nSeñalización turística\nCiudad de Cusco"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nEstado Peruano\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nRESOLUCIÓN DIRECTORAL NACIONAL Nº 391/INC. Art. Nº 03 \"Disponer la inscripción en registros públicos...\"\nAdministrador por\nNombre\nMinisterio de Cultura a través de la Dirección Desconcentrada de Cultura Cusco.\nTiempo de administración\nDesde el año 1976"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nGerencia Regional de Comercio Exterior y Turismo de Cusco\nNombre (Persona(s) responsable(s) del inventario turístico):\nLic. Marco Luna Galindo\nCargo:\nResponsable del Inventario de Recursos Turísticos\nCorreo:\nmluna@regioncusco.gob.pe\nTeléfono:\n926629209\nFuentes Bibliográfica:\nEEscobar Medrano, Jorge. 1996. Conociendo El Cusco. Inka Garcilaso de la vega crónica: “Los Comentarios Reales”.\nSarmiento de Gamboa crónica: “Historia de os Incas”.\nDr. Jorge E. Escobar Medrano, Lic. Alfredo Candía Gómez, ice. Francisco Medina Martínez: “Cusco Arqueología E Historia”.\nFidel Ramos Condori: Fascículo “Saqsaywaman Santuario Andino”.\nEl Comité de jerarquización indico que como es un recurso del Parque Arqueológico de Sacsayhuamán no se puede desmembrar por ellos son válidas las publicaciones del Parque Arqueológico de Sacsayhuamán\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n15/07/2025 18:46:06"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -13.48,
+    "longitud": -71.96640100000002
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-13.48,-71.96640100000002"
+}

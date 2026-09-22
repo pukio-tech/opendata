@@ -1,0 +1,390 @@
+{
+  "cod_ficha": 767,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=767",
+  "nombre": "Baños Termales De Monterrey",
+  "departamento": "Áncash",
+  "provincia": "Huaraz",
+  "distrito": "INDEPENDENCIA",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "k. Agua termo-mineral",
+  "subtipo": "Otros",
+  "jerarquia": "2",
+  "altitud": "3200",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=447517",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=447517",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=447567",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=447568",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=447518",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=447519"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Otros(Especificar)",
+    "Deportes acuáticos - Natación"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Otros(Especificar)",
+      "observacion": "Baños medicinales en pozas",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/otros02.png"
+    },
+    {
+      "actividad": "Deportes acuáticos",
+      "tipo": "Natación",
+      "observacion": "En las piscinas de diferentes tamaños y altura",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/natacion02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Áncash/Huaraz/Huaraz - Áncash/Huaraz/Independencia",
+      "detalle": "Plaza de Armas de Huaraz - Desvío Av. Monterrey",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "7 km/20 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Áncash/Huaraz/Independencia - Áncash/Huaraz/Independencia",
+      "detalle": "Desvió Av. Monterrey - Baños Termales de Monterrey",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "500 mt/3 min"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Áncash/Huaraz/Independencia - Áncash/Huaraz/Independencia",
+      "detalle": "Boulevard Pastorita Huaracina - Desvio Av. Monterrey",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mini bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "7.1 km/25 min"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Áncash/Huaraz/Independencia - Áncash/Huaraz/Independencia",
+      "detalle": "Desvío Av. Monterrey - Baños Termales de Monterrey",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mini bus público",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "500 mt/5 min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "1000",
+      "horario": "Informe Técnico",
+      "observaciones": "2018"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "3000",
+      "horario": "Informe Técnico",
+      "observaciones": "2018"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "5000",
+      "horario": "Informe Técnico",
+      "observaciones": "2018"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "07:00 a.m. - 05:00 p.m. Las entradas solo venden hasta las 4:00 p.m.",
+      "observaciones": "Las entradas solo venden hasta las 4:00 p.m."
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "Piscina baja S/. 10.00, Niños de 3 a 4 años S/.5.00 y Pozas por persona S/. 10.00"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Boletería",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Lugares de picnic",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "3 estrellas"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Paradores turísticos",
+      "observacion": "Ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de Campamento(camping)",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Puesto de auxilio rápido",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Museo de Sitio Turísticos",
+      "observacion": "Ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de bicicleta",
+      "observacion": "Ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de camionetas 4 x 4",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "1 a 3 estrellas en la Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "1 a 3 estrellas en la Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Independencia"
+    }
+  ],
+  "descripcion": "Los Baños Termales de Monterrey se ubican al Noreste del Centro Poblado de Monterrey, a 6.1 km de la urbe del Distrito de Independencia, a una altitud de 3200 m.s.n.m. Las aguas de este hermoso baño termal son inodoras e incoloras en porciones menores (pozas), mientras que en las piscinas de mayor tamaño suele tornearse de un color verde oscuro, sin embargo, su trasparencia es capaz de reflejar el fondo del piso de cada una de las pozas, también debido a su pH de 7.0 posee un sabor ligeramente picante, además su temperatura llega a los 49 °C y se le atribuyen propiedades curativas para combatir la mayoría de afecciones reumáticas, nerviosas, parálisis entre otras, debido a su composición de hierro, sulfato, zinc y cloro, también son ideales para el acné, reumatismo, estrés, calambres, cansancio, ansiedad, gripe, bronquios, etc.; el clima del lugar es templado y frío, cálido en el día y frío en la noche, la temperatura promedio es de 16¿°C. A unos metros del sitio encontramos servicios de alojamiento y restaurante. La temporada más agradable para la visita es entre mayo y noviembre, y su temperatura promedio es de 16 °C.\nPor su ubicación, el lugar es ideal para visitas cortas desde la ciudad de Huaraz con familias y amigos, que podrán practicar deportes como natación en sus tres piscinas de distintos tamaños, así como bañarse en pozas individuales y familiares que son abastecidas con estas aguas termo-medicinales.",
+  "particularidades": "",
+  "estado_actual": "Bueno, porque la empresa que administra este recurso realiza el mantenimiento permanente.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Los Baños Termales de Monterrey se ubican al Noreste del Centro Poblado de Monterrey, a 6.1 km de la urbe del Distrito de Independencia, a una altitud de 3200 m.s.n.m. Las aguas de este hermoso baño termal son inodoras e incoloras en porciones menores (pozas), mientras que en las piscinas de mayor tamaño suele tornearse de un color verde oscuro, sin embargo, su trasparencia es capaz de reflejar el fondo del piso de cada una de las pozas, también debido a su pH de 7.0 posee un sabor ligeramente picante, además su temperatura llega a los 49 °C y se le atribuyen propiedades curativas para combatir la mayoría de afecciones reumáticas, nerviosas, parálisis entre otras, debido a su composición de hierro, sulfato, zinc y cloro, también son ideales para el acné, reumatismo, estrés, calambres, cansancio, ansiedad, gripe, bronquios, etc.; el clima del lugar es templado y frío, cálido en el día y frío en la noche, la temperatura promedio es de 16¿°C. A unos metros del sitio encontramos servicios de alojamiento y restaurante. La temporada más agradable para la visita es entre mayo y noviembre, y su temperatura promedio es de 16 °C.\nPor su ubicación, el lugar es ideal para visitas cortas desde la ciudad de Huaraz con familias y amigos, que podrán practicar deportes como natación en sus tres piscinas de distintos tamaños, así como bañarse en pozas individuales y familiares que son abastecidas con estas aguas termo-medicinales."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, porque la empresa que administra este recurso realiza el mantenimiento permanente."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n1000\nInforme Técnico\n2018\nTuristas Nacionales\n3000\nInforme Técnico\n2018\nVisitantes Locales(Excursionistas)\n5000\nInforme Técnico\n2018"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nÁncash/Huaraz/Huaraz\n-\nÁncash/Huaraz/Independencia\nPlaza de Armas de Huaraz - Desvío Av. Monterrey\nTerrestre\nAutomóvil particular\nAsfaltado\n7 km/20 min\n1\nÁncash/Huaraz/Independencia\n-\nÁncash/Huaraz/Independencia\nDesvió Av. Monterrey - Baños Termales de Monterrey\nTerrestre\nAutomóvil particular\nAfirmado\n500 mt/3 min\n2\nÁncash/Huaraz/Independencia\n-\nÁncash/Huaraz/Independencia\nBoulevard Pastorita Huaracina - Desvio Av. Monterrey\nTerrestre\nMini bus público\nAsfaltado\n7.1 km/25 min\n2\nÁncash/Huaraz/Independencia\n-\nÁncash/Huaraz/Independencia\nDesvío Av. Monterrey - Baños Termales de Monterrey\nTerrestre\nMini bus público\nAfirmado\n500 mt/5 min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nPiscina baja S/. 10.00, Niños de 3 a 4 años S/.5.00 y Pozas por persona S/. 10.00"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n07:00 a.m.\n-\n05:00 p.m.\nLas entradas solo venden hasta las 4:00 p.m."
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nOtros(Especificar)\nBaños medicinales en pozas\nDeportes acuáticos\nNatación\nEn las piscinas de diferentes tamaños y altura"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Públicas\nServicios Públicos\nEstacionamiento de vehículos\n--\nInstalaciones Públicas\nServicios Públicos\nSeñales turísticas de orientación\n--\nInstalaciones Públicas\nServicios Públicos\nBoletería\n--\nInstalaciones Privadas\nLugares de Recreación\nLugares de picnic\n--\nInstalaciones Privadas\nAlojamiento\nHoteles (especificar categorías)\n3 estrellas\nInstalaciones Privadas\nAlimentación\nRestaurantes\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nServicios Públicos\nMiradores turísticos\nCiudad de Independencia\nLugares de Recreación\nJuegos Infantiles\nCiudad de Huaraz\nServicios Públicos\nEstacionamiento de vehículos\nCiudad de Independencia\nServicios Públicos\nParadores turísticos\nCiudad de Huaraz\nServicios Públicos\nOficina de Información turística\nCiudad de Independencia\nServicios Públicos\nZonas de Campamento(camping)\nCiudad de Independencia\nServicios Públicos\nCaminos peatonales\nCiudad de Independencia\nServicios Públicos\nPuesto de auxilio rápido\nCiudad de Independencia\nServicios Públicos\nMuseo de Sitio Turísticos\nCiudad de Huaraz\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Huaraz\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de Independencia\nOtros Servicios Turísticos\nAlquiler de bicicleta\nCiudad de Huaraz\nOtros Servicios Turísticos\nAlquiler de camionetas 4 x 4\nCiudad de Independencia\nAlimentación\nRestaurantes\nCiudad de Independencia\nAlimentación\nBares\nCiudad de Independencia\nAlimentación\nCafeterías\nCiudad de Independencia\nAlimentación\nFuentes de soda\nCiudad de Independencia\nAlimentación\nKioskos de comida y bebidas\nCiudad de Independencia\nAlimentación\nVenta de comida Rápida\nCiudad de Independencia\nAlojamiento\nHoteles (especificar categorías)\n1 a 3 estrellas en la Ciudad de Independencia\nAlojamiento\nHostales (especificar categorías)\n1 a 3 estrellas en la Ciudad de Independencia\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Independencia"
+    },
+    {
+      "titulo": "Servicios Complementarios dentro del recurso",
+      "contenido": "Servicio Complementario\nObservación\nServicios de internet\nEn los Baños Termales de Monterrey"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Independencia\nBancos\nCiudad de Huaraz\nCajero automático\nCiudad de Huaraz\nCasa de cambio\nCiudad de Huaraz\nEstación de servicios, grifos, gasolineras y gasocentros\nLocalidad de Monterrey\nServicio de correos\nCiudad de Huaraz\nServicio de estacionamiento\nCiudad de Independencia\nServicios de taxis\nLocalidad de Monterrey\nCentro de salud - tópico\nCiudad de Independencia\nVenta de materiales para fotografías\nCiudad de Huaraz\nSeguridad / POLTUR / Comisaría\nLocalidad de Monterrey\nAlquiler y compra de equipos deportivos\nCiudad de Huaraz\nLibrerías\nCiudad de Independencia\nBodegas o minimarkets\nLocalidad de Monterrey"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nBaños Termales de Monterrey\nAlcantarillado sanitario\nBaños Termales de Monterrey\nDesagüe\nBaños Termales de Monterrey\nLuz (Suministro Eléctrico)\nBaños Termales de Monterrey\nTeléfono\nBaños Termales de Monterrey"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Independencia\nAlcantarillado sanitario\nCiudad de Independencia\nLuz (Suministro Eléctrico)\nCiudad de Independencia\nTeléfono\nCiudad de Independencia\nSistemas de tratamiento alternativo de residuos (Biodigestor, pozo séptico, otros)\nCiudad de Independencia"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\n--\nPrivado:\n--\nOtra Situación:\nBaños Termales de Monterrey\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nusufructo\nAdministrador por\nNombre\nLuis Alberto Zavala Hernandez\nTiempo de administración\nDesde el año 2017"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo de Ancash / Municipalidad Distrital de Independencia\nNombre (Persona(s) responsable(s) del inventario turístico):\nPatricia Camones Trejo / Fidel Morales Tarazona\nCargo:\nDirectora de Turismo / Gerente de Desarrollo Económico\nCorreo:\nPatriciaturism@gmail.com / fmoralest@hotmail.com\nTeléfono:\n937082574 / 943 465 347\nFuentes Bibliográfica:\nHTTP://WWW.PERU.INFO / INVENTARIO DE FUENTES DE AGUAS MINERO MEDICINALES DE LA REGIÓN ANCASH - DNDT VMT MINCETUR - 1998\nHTTPS://WWW.MACHUPICCHU.BIZ/LOS-BANOS-TERMALES-DE-MONTERREY-ANCASH\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n7/09/2022"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -9.46850802969539,
+    "longitud": -77.53524899482727
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-9.46850802969539,-77.53524899482727"
+}

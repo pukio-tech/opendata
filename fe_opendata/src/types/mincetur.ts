@@ -35,13 +35,23 @@ export interface ResourceItem {
   tipo_categoria?: string;
   subtipo_categoria?: string;
   desdpto?: string;
+  departamento?: string;
   desprov?: string;
+  provincia?: string;
   desubigeo?: string;
+  distrito?: string;
   x?: number;
   y?: number;
   url?: string;
+  url_ficha?: string;
   desjerarquia?: string;
-  imagen?: string;
+  jerarquia?: string;
+  imagen?: string | null;
+  foto_url?: string | null;
+  coordenadas?: {
+    latitud?: number;
+    longitud?: number;
+  };
   lstActiGeo?: {
     atrac_acti: number;
     atrac_acti_descrip: string;

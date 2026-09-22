@@ -1,0 +1,335 @@
+{
+  "cod_ficha": 100,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=100",
+  "nombre": "Sitio Arqueológico De Tumshukaiko",
+  "departamento": "Áncash",
+  "provincia": "Huaylas",
+  "distrito": "CARAZ",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Sitios Arqueológicos",
+  "subtipo": "Templos",
+  "jerarquia": "2",
+  "altitud": "2333",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=471900",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=471900",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=472012",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=472196",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=472252",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=472267",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=472268"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Estudios e Investigación",
+    "Naturaleza - Observación de paisaje",
+    "Deportes / Aventura - Caminata/Trekking"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Áncash/Huaylas/Caraz - Áncash/Huaylas/Caraz",
+      "detalle": "Plaza de Armas de Caraz - Sitio Arqueológico Tumshukaiko",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mototaxi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "1.42 km /10 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Áncash/Huaylas/Caraz - Áncash/Huaylas/Caraz",
+      "detalle": "Plaza de Armas de Caraz - Sitio Arqueológico de Tumshukaiko",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "1.42 km / 45 min"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Áncash/Huaraz/Huaraz - Áncash/Huaylas/Caraz",
+      "detalle": "Puente Comercio (Huaraz) - Paradero interprovincial (Caraz)",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Combi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "69km / 1.45 hr"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Áncash/Huaylas/Caraz - Áncash/Huaylas/Caraz",
+      "detalle": "Paradero de Interprovincial Caraz / Sitio Arqueológico Tumshukaiko",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mototaxi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "1.75km/17min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "1280",
+      "horario": "Informe técnico",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "640",
+      "horario": "Informe técnico",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "1280",
+      "horario": "Informe técnico",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "08:30 a.m. - 04:00 p.m. Lunes a domingo",
+      "observaciones": "Lunes a domingo"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": "Lunes a domingo"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de interpretación",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Boletería",
+      "observacion": "Caseta de registro"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Caseta de registro"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Caraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "Ciudad de Caraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Caraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Caraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de Caraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Caraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Caraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Ciudad de Caraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Caraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Caraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "1 a 2 estrellas Ciudad de Caraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "De 1 a 3 estrellas Ciudad de Caraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Albergues",
+      "observacion": "Ciudad de Caraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Ciudad de Caraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Puesto de auxilio rápido",
+      "observacion": "Ciudad de Caraz"
+    }
+  ],
+  "descripcion": "El sitio es parte de un complejo arquitectónico ubicado en el distrito de Caraz, a 1.5 kilómetros de la plaza de armas, en la provincia de Huaylas, región Áncash, sobre los 2 290 msnm. Es considerado una de las 14 civilizaciones más antiguas de América, con una antigüedad mínima de 2 500 años a.c. Por las características arquitectónicas que presenta es calificado como un centro político, religioso y administrativo, la construcción principal está hecha a base de piedras que han sido talladas en bloques de forma triangular bajo la técnica conocida como mortero de arcilla. Esta edificación está hecha a base del sistema de plataformas piramidales, la más antigua es la que pertenece a los años 3000 a 2000 a.c. y la más joven, la de la superficie, datada aproximadamente en el Intermedio Temprano Huaylas, entre los años 300 a.c. y 300 d.c.; siendo la primera, parte de una cultura pre cerámica, misma que fuera cubierta posteriormente con una capa cerámica de un promedio de dos metros de espesor.\nTumshukaiko, cronológicamente se encuentra en el periodo pre-Cerámico Tardío, entre los desarrollos culturales de la Galgada – Pallasca / Chavín – HUARI (2200-300 a.C), teniendo una ocupación posterior por la cultura Recuay. En la construcción se puede observar la presencia, a nivel ornamental, de diversas placas grabadas, mismas que fueran hechas a base de técnicas incisas, junto con cabezas clavas propias de este recinto. Los grabados parecerían ser por la similitud antecedente de los encontrados en los recintos de Sechín.\nEs un recurso complementario dentro del destino turístico Callejón de Huaylas, debido a que forma parte del paquete turístico convencional Parón y Llanganuco; por su cercanía a la ciudad es también un recurso turístico principal para los excursionistas e investigadores; los cuales pueden desarrollar actividades como la tomas fotográficas, caminata, observación de paisaje, interpretación de las estructuras.",
+  "particularidades": "",
+  "estado_actual": "Regular, porque es protegido y conservado por la municipalidad provincial de Huaylas, pero actualmente en los alrededores del mismo se encuentran varias viviendas de pobladores que deterioran el lugar.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "El sitio es parte de un complejo arquitectónico ubicado en el distrito de Caraz, a 1.5 kilómetros de la plaza de armas, en la provincia de Huaylas, región Áncash, sobre los 2 290 msnm. Es considerado una de las 14 civilizaciones más antiguas de América, con una antigüedad mínima de 2 500 años a.c. Por las características arquitectónicas que presenta es calificado como un centro político, religioso y administrativo, la construcción principal está hecha a base de piedras que han sido talladas en bloques de forma triangular bajo la técnica conocida como mortero de arcilla. Esta edificación está hecha a base del sistema de plataformas piramidales, la más antigua es la que pertenece a los años 3000 a 2000 a.c. y la más joven, la de la superficie, datada aproximadamente en el Intermedio Temprano Huaylas, entre los años 300 a.c. y 300 d.c.; siendo la primera, parte de una cultura pre cerámica, misma que fuera cubierta posteriormente con una capa cerámica de un promedio de dos metros de espesor.\nTumshukaiko, cronológicamente se encuentra en el periodo pre-Cerámico Tardío, entre los desarrollos culturales de la Galgada – Pallasca / Chavín – HUARI (2200-300 a.C), teniendo una ocupación posterior por la cultura Recuay. En la construcción se puede observar la presencia, a nivel ornamental, de diversas placas grabadas, mismas que fueran hechas a base de técnicas incisas, junto con cabezas clavas propias de este recinto. Los grabados parecerían ser por la similitud antecedente de los encontrados en los recintos de Sechín.\nEs un recurso complementario dentro del destino turístico Callejón de Huaylas, debido a que forma parte del paquete turístico convencional Parón y Llanganuco; por su cercanía a la ciudad es también un recurso turístico principal para los excursionistas e investigadores; los cuales pueden desarrollar actividades como la tomas fotográficas, caminata, observación de paisaje, interpretación de las estructuras."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "Mediante Resolución directoral nacional n° 480/INC del 02.07.2004 se declara al lugar como sitio arqueológico, formando parte del Patrimonio Cultural de la Nación."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Regular, porque es protegido y conservado por la municipalidad provincial de Huaylas, pero actualmente en los alrededores del mismo se encuentran varias viviendas de pobladores que deterioran el lugar."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nVisitantes Locales(Excursionistas)\n1280\nInforme técnico\n2021\nTuristas Extranjeros\n640\nInforme técnico\n2021\nTuristas Nacionales\n1280\nInforme técnico\n2021"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nÁncash/Huaylas/Caraz\n-\nÁncash/Huaylas/Caraz\nPlaza de Armas de Caraz - Sitio Arqueológico Tumshukaiko\nTerrestre\nMototaxi\nAsfaltado\n1.42 km /10 min\n1\nÁncash/Huaylas/Caraz\n-\nÁncash/Huaylas/Caraz\nPlaza de Armas de Caraz - Sitio Arqueológico de Tumshukaiko\nTerrestre\nA pie\nAsfaltado\n1.42 km / 45 min\n2\nÁncash/Huaraz/Huaraz\n-\nÁncash/Huaylas/Caraz\nPuente Comercio (Huaraz) - Paradero interprovincial (Caraz)\nTerrestre\nCombi\nAsfaltado\n69km / 1.45 hr\n2\nÁncash/Huaylas/Caraz\n-\nÁncash/Huaylas/Caraz\nParadero de Interprovincial Caraz / Sitio Arqueológico Tumshukaiko\nTerrestre\nMototaxi\nAsfaltado\n1.75km/17min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre\nLunes a domingo"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n08:30 a.m.\n-\n04:00 p.m.\nLunes a domingo"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nEstudios e Investigación\n--\nNaturaleza\nObservación de paisaje\n--\nDeportes / Aventura\nCaminata/Trekking\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Públicas\nServicios Públicos\nSeñales turísticas de orientación\n--\nInstalaciones Públicas\nServicios Públicos\nSeñales turísticas de interpretación\n--\nInstalaciones Públicas\nServicios Públicos\nBoletería\nCaseta de registro\nInstalaciones Públicas\nServicios Públicos\nOficina de Información turística\nCaseta de registro"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nLugares de Recreación\nDiscotecas\nCiudad de Caraz\nLugares de Recreación\nKaraoke\nCiudad de Caraz\nLugares de Recreación\nBares\nCiudad de Caraz\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Caraz\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de Caraz\nAlimentación\nRestaurantes\nCiudad de Caraz\nAlimentación\nCafeterías\nCiudad de Caraz\nAlimentación\nFuentes de soda\nCiudad de Caraz\nAlimentación\nKioskos de comida y bebidas\nCiudad de Caraz\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Caraz\nAlojamiento\nHoteles (especificar categorías)\n1 a 2 estrellas Ciudad de Caraz\nAlojamiento\nHostales (especificar categorías)\nDe 1 a 3 estrellas Ciudad de Caraz\nAlojamiento\nAlbergues\nCiudad de Caraz\nServicios Públicos\nOficina de Información turística\nCiudad de Caraz\nServicios Públicos\nPuesto de auxilio rápido\nCiudad de Caraz"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Caraz\nBancos\nCiudad de Caraz\nCajero automático\nCiudad de Caraz\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Caraz\nServicios de taxis\nCiudad de Caraz\nCentro de salud - tópico\nCiudad de Caraz\nVenta de materiales para fotografías\nCiudad de Caraz\nSeguridad / POLTUR / Comisaría\nCiudad de Caraz\nAlquiler y compra de equipos deportivos\nCiudad de Caraz\nLibrerías\nCiudad de Caraz\nBodegas o minimarkets\nCiudad de Caraz"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nTeléfono\nCobertura de teléfono móvil\nAgua potable\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Caraz\nAlcantarillado sanitario\nCiudad de Caraz\nLuz (Suministro Eléctrico)\nCiudad de Caraz\nTeléfono\nCiudad de Caraz\nSeñalización turística\nCiudad de Caraz"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nMunicipalidad Provincial de Huaylas\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nExpediente Técnico de Delimitación en Evaluación por el Ministerio de Cultura\nAdministrador por\nNombre\nMunicipalidad Provincial de Huaylas\nTiempo de administración\nDesde el año 1996"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo de Áncash.\nNombre (Persona(s) responsable(s) del inventario turístico):\nLic. Patricia Camones Trejo\nCargo:\nAuxiliar Administrativo\nCorreo:\npatriciaturismo@gmail.com\nTeléfono:\n937082534\nFuentes Bibliográfica:\nInventario de recursos turísticos de la provincia de huaylas 2009-2011.tumshukaiko, colección rescatemos nuestra identidad, Dr. Alberto Bueno Mendoza, Municipalidad Provincial de Huaylas, Caraz 2008.\nHTTPS://TURISMOI.PE/ARQUEOLOGIA/SITIO-ARQUEOLOGICO/MONUMENTO-ARQUEOLOGICO-TUMSHUKAIKO.HTM\nHTTPS://WWW.DEPERU.COM/CULTURAL/SITIOS-ARQUEOLOGICOS/SITIO-ARQUEOLOGICO-DE-TUMSHUKAICO-2666\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n18/12/2022"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -9.03785,
+    "longitud": -77.81473599999998
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-9.03785,-77.81473599999998"
+}

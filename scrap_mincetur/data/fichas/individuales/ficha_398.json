@@ -1,0 +1,355 @@
+{
+  "cod_ficha": 398,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=398",
+  "nombre": "Paseo Turicarami",
+  "departamento": "Piura",
+  "provincia": "Sullana",
+  "distrito": "SULLANA",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Arquitectura y Espacios Urbanos",
+  "subtipo": "Paseos peatonales",
+  "jerarquia": "2",
+  "altitud": "65",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=541328",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=541328",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=541329",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=541289",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=541290",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=541291",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=541292",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=541330"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de paisaje",
+    "Deportes / Aventura - Caminata/Trekking",
+    "Deportes / Aventura - Ciclismo",
+    "Paseos - Paseos en bicicleta"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "(Plantas Silvestre)",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Ciclismo",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/ciclismo02.png"
+    },
+    {
+      "actividad": "Paseos",
+      "tipo": "Paseos en bicicleta",
+      "observacion": "--",
+      "icono_url": null
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Piura/Piura/Veintiseis De Octubre - Piura/Sullana/Sullana",
+      "detalle": "Terminal terrestre de Piura (Gechisa) - Terminal Terrestre de Sullana.",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "39km/45 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Piura/Sullana/Sullana - Piura/Sullana/Sullana",
+      "detalle": "Terminal terrestre de Sullana (Gechisa) - Paseo Turicarami (Al costado del Mal. Huaman de los Heros)",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mototaxi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "1.7km/ 10 min"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Piura/Sullana/Sullana - Piura/Sullana/Sullana",
+      "detalle": "Plaza de Armas de Sullana (costado de la calle La Mar) - Paseo Turicarami (costado del Mal. Huaman de los Heros)",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Otros",
+      "distancia_tiempo": "350m/10min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "900",
+      "horario": "Libro de Registro de Visitas",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "7110",
+      "horario": "Libro de Registros de Visitas",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "44280",
+      "horario": "Libro de Registro de Visitas",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "07:00 a.m. - 05:00 p.m. Poca seguridad en horas de la noche",
+      "observaciones": "Poca seguridad en horas de la noche"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": "Se recomienda llevar gorro, bloqueador solar, agua, lentes de sol."
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Localidad de Sullana"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "(1 - 2 estrellas) Localidad de Sullana"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Localidad de Sullana"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Localidad de Sullana"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Peñas",
+      "observacion": "Localidad de Sullana"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Localidad de Sullana"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "Localidad de Sullana"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Localidad de Sullana"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de Campamento(camping)",
+      "observacion": "Localidad de Sullana"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Localidad de Sullana"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Puesto de auxilio rápido",
+      "observacion": "Localidad de Sullana"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "Localidad de Sullana"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Lugares de picnic",
+      "observacion": "Localidad de Sullana"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Localidad de Sullana"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Localidad de Sullana"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de bicicleta",
+      "observacion": "Localidad de Sullana"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Localidad de Sullana"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Localidad de Sullana"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Localidad de Sullana"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Localidad de Sullana"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Localidad de Sullana"
+    }
+  ],
+  "descripcion": "El Paseo Turicarami es una obra de seiscientos metros que corre paralela al río Chira, ubicada en el llamado \"Pasamayito\" entre los dos puentes que atraviesan el río. Este complejo consta de 25 pérgolas y, en su parte central, cuenta con un artístico mirador. Desde cualquier punto del paseo se puede apreciar el hermoso valle del río Chira, y nuestros sentidos se vivifican al contemplar los majestuosos puentes y la espléndida naturaleza del valle. Se puede percibir el agradable aroma de la vegetación, escuchar a las aves cantoras y el silbido producido por el contacto del viento con los puentes metálicos, y sentir la suave caricia de la fresca brisa proveniente de los cerros y praderas del valle.\nEl nombre Turicarami se le asignó a este paseo en honor al antiguo nombre del río Chira, antes de la llegada de los españoles. El Paseo Turicarami es un espacio urbano con raíces históricas que se remontan al período republicano de Perú. Fue desarrollado durante una época en la que muchas ciudades del país se modernizaban y expandían sus espacios públicos, fomentando la creación de parques y paseos para el disfrute de la comunidad. El estado de conservación del paseo ha sido objeto de intervenciones periódicas por parte de las autoridades locales y organizaciones comunitarias para preservar su estructura y estética. Sin embargo, en algunas áreas se puede observar desgaste debido a factores ambientales y al uso cotidiano.\nA lo largo de su historia, el Paseo Turicarami ha sido escenario de diversos sucesos importantes. Entre estos destacan eventos culturales y cívicos que han reunido a la comunidad para celebrar festividades nacionales y locales. Además, alberga varios monumentos dedicados a personajes ilustres de la historia peruana, entre los cuales destaca una estatua de un héroe nacional que simboliza los valores de independencia y patriotismo",
+  "particularidades": "Es la única construcción de carácter turístico y recreativo instalado en la ribera del Río Chira que cuenta con murales que muestran la historia de la Provincia de Sullana y que lo hacen único en la Región Piura.",
+  "estado_actual": "Bueno, ya que actualmente han sido arregladas algunas partes que habían sufrido deterioros por diversos motivos.",
+  "observaciones": "Ubicado a la margen izquierda de los dos puentes metálicos \"Isaías Garrido\" y \"Sullana\", que cruzan las aguas del río Chira.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "El Paseo Turicarami es una obra de seiscientos metros que corre paralela al río Chira, ubicada en el llamado \"Pasamayito\" entre los dos puentes que atraviesan el río. Este complejo consta de 25 pérgolas y, en su parte central, cuenta con un artístico mirador. Desde cualquier punto del paseo se puede apreciar el hermoso valle del río Chira, y nuestros sentidos se vivifican al contemplar los majestuosos puentes y la espléndida naturaleza del valle. Se puede percibir el agradable aroma de la vegetación, escuchar a las aves cantoras y el silbido producido por el contacto del viento con los puentes metálicos, y sentir la suave caricia de la fresca brisa proveniente de los cerros y praderas del valle.\nEl nombre Turicarami se le asignó a este paseo en honor al antiguo nombre del río Chira, antes de la llegada de los españoles. El Paseo Turicarami es un espacio urbano con raíces históricas que se remontan al período republicano de Perú. Fue desarrollado durante una época en la que muchas ciudades del país se modernizaban y expandían sus espacios públicos, fomentando la creación de parques y paseos para el disfrute de la comunidad. El estado de conservación del paseo ha sido objeto de intervenciones periódicas por parte de las autoridades locales y organizaciones comunitarias para preservar su estructura y estética. Sin embargo, en algunas áreas se puede observar desgaste debido a factores ambientales y al uso cotidiano.\nA lo largo de su historia, el Paseo Turicarami ha sido escenario de diversos sucesos importantes. Entre estos destacan eventos culturales y cívicos que han reunido a la comunidad para celebrar festividades nacionales y locales. Además, alberga varios monumentos dedicados a personajes ilustres de la historia peruana, entre los cuales destaca una estatua de un héroe nacional que simboliza los valores de independencia y patriotismo"
+    },
+    {
+      "titulo": "Particularidades",
+      "contenido": "Es la única construcción de carácter turístico y recreativo instalado en la ribera del Río Chira que cuenta con murales que muestran la historia de la Provincia de Sullana y que lo hacen único en la Región Piura."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "Este recurso ha sido reconocido por el Gobierno Regional Piura, con la Ordenanza Regional N° 508-2024/GRP-CR, que declara de Interés regional el Paseo Turicarami de a provincia de Sullana como recuro turístico de la región Piura.\nSegún la Ordenanza Municipal N°020-2024/MPS, La Municipalidad Provincial de Sullana, declara y reconoce de interés público y turístico el Paseo Turicarami por ser una infraestructura que en su diseño revalora el pasado y la historia de Sullana y con el presente."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, ya que actualmente han sido arregladas algunas partes que habían sufrido deterioros por diversos motivos."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "Ubicado a la margen izquierda de los dos puentes metálicos \"Isaías Garrido\" y \"Sullana\", que cruzan las aguas del río Chira."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n900\nLibro de Registro de Visitas\n2024\nLibro de Visitantes (Proyección 2024)\nTuristas Nacionales\n7110\nLibro de Registros de Visitas\n2024\nLibro de Visitantes (Proyección 2024)\nVisitantes Locales(Excursionistas)\n44280\nLibro de Registro de Visitas\n2024\nLibro de Visitantes (Proyección 2024)"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nPiura/Piura/Veintiseis De Octubre\n-\nPiura/Sullana/Sullana\nTerminal terrestre de Piura (Gechisa) - Terminal Terrestre de Sullana.\nTerrestre\nBus público\nAsfaltado\n39km/45 min\n1\nPiura/Sullana/Sullana\n-\nPiura/Sullana/Sullana\nTerminal terrestre de Sullana (Gechisa) - Paseo Turicarami (Al costado del Mal. Huaman de los Heros)\nTerrestre\nMototaxi\nAsfaltado\n1.7km/ 10 min\n2\nPiura/Sullana/Sullana\n-\nPiura/Sullana/Sullana\nPlaza de Armas de Sullana (costado de la calle La Mar) - Paseo Turicarami (costado del Mal. Huaman de los Heros)\nTerrestre\nA pie\nOtros\n350m/10min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre\nSe recomienda llevar gorro, bloqueador solar, agua, lentes de sol."
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n07:00 a.m.\n-\n05:00 p.m.\nPoca seguridad en horas de la noche"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nNaturaleza\nObservación de flora\n(Plantas Silvestre)\nNaturaleza\nObservación de paisaje\n--\nDeportes / Aventura\nCaminata/Trekking\n--\nDeportes / Aventura\nCiclismo\n--\nPaseos\nPaseos en bicicleta\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nLocalidad de Sullana\nAlojamiento\nHostales (especificar categorías)\n(1 - 2 estrellas) Localidad de Sullana\nLugares de Recreación\nDiscotecas\nLocalidad de Sullana\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nLocalidad de Sullana\nLugares de Recreación\nPeñas\nLocalidad de Sullana\nLugares de Recreación\nJuegos Infantiles\nLocalidad de Sullana\nServicios Públicos\nMiradores turísticos\nLocalidad de Sullana\nServicios Públicos\nEstacionamiento de vehículos\nLocalidad de Sullana\nServicios Públicos\nZonas de Campamento(camping)\nLocalidad de Sullana\nServicios Públicos\nOficina de Información turística\nLocalidad de Sullana\nServicios Públicos\nPuesto de auxilio rápido\nLocalidad de Sullana\nLugares de Recreación\nKaraoke\nLocalidad de Sullana\nLugares de Recreación\nLugares de picnic\nLocalidad de Sullana\nLugares de Recreación\nCentros Deportivos\nLocalidad de Sullana\nOtros Servicios Turísticos\nVenta de artesanía\nLocalidad de Sullana\nOtros Servicios Turísticos\nAlquiler de bicicleta\nLocalidad de Sullana\nAlimentación\nRestaurantes\nLocalidad de Sullana\nAlimentación\nKioskos de comida y bebidas\nLocalidad de Sullana\nAlimentación\nBares\nLocalidad de Sullana\nAlimentación\nCafeterías\nLocalidad de Sullana\nAlimentación\nFuentes de soda\nLocalidad de Sullana"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nLocalidad de Sullana\nBancos\nLocalidad de Sullana\nCajero automático\nLocalidad de Sullana\nCasa de cambio\nLocalidad de Sullana\nEstación de servicios, grifos, gasolineras y gasocentros\nLocalidad de Sullana\nServicio de correos\nLocalidad de Sullana\nServicio de estacionamiento\nLocalidad de Sullana\nServicios de taxis\nLocalidad de Sullana\nCentro de salud - tópico\nLocalidad de Sullana\nVenta de materiales para fotografías\nLocalidad de Sullana\nLibrerías\nLocalidad de Sullana\nBodegas o minimarkets\nLocalidad de Sullana\nOtros(especificar)\n(Baños) - Localidad de Sullana"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nLocalidad de Sullana\nLuz (Suministro Eléctrico)\nLocalidad de Sullana\nTeléfono\nLocalidad de Sullana\nAlcantarillado sanitario\nLocalidad de Sullana\nSeñalización turística\nLocalidad de Sullana"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nMunicipalidad Provincial de Sullana\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nEn proceso. La Municipalidad Provincial de Sullana esta trabajando en ello.\nAdministrador por\nNombre\nMunicipalidad Provincial de Sullana\nTiempo de administración"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDIRECCION REGIONAL DE COMERCIO EXTERIOR Y TURISMO - PIURA\nNombre (Persona(s) responsable(s) del inventario turístico):\nRichard Hercelles Neira Colmenares\nCargo:\nDirector Regional de la Dirección de Turismo.\nCorreo:\nrneira@regionpiura.gob.pe\nTeléfono:\n984448829\nFuentes Bibliográfica:\n-Ministerio de Comercio Exterior y Turismo - MINCETUR. (2024). Mapa de ubicación de recursos turísticos y emprendimientos de turismo rural comunitario. https://sigmincetur.mincetur.gob.pe/turismo/\n-El Regional Piura (2023). Sullana: belleza natural de su valle pero poca inteligencia para darle valor turístico. https://www.elregionalpiura.com.pe/index.php/especiales/164-informes/63121-sullana-belleza-natural-de-su-valle-pero-poca-inteligencia-para-darle-valor-turistico\n-Dirección Regional de Comercio Exterior y Turismo – Piura (2011). Resolución Directoral N.° 001-2021-DIRCETUR-Piura. https://cdn.www.gob.pe/uploads/document/file/3154180/Resoluci%C3%B3n%20Directoral%20N%C2%B0%2000050-2011.pdf\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n6/12/2024 11:37:33"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -4.89563492772545,
+    "longitud": -80.69666683673859
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-4.89563492772545,-80.69666683673859"
+}

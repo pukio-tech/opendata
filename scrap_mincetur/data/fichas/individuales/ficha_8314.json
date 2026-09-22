@@ -1,0 +1,253 @@
+{
+  "cod_ficha": 8314,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=8314",
+  "nombre": "Catarata Qatun Ispaj",
+  "departamento": "Ayacucho",
+  "provincia": "La Mar",
+  "distrito": "ANCHIHUAY",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "j. Caídas de agua",
+  "subtipo": "Cataratas",
+  "jerarquia": "1",
+  "altitud": "3415",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=525575",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=525575",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=525576",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=525577",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=525535",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=525536",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=525578"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Naturaleza - Observación de fauna",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de paisaje",
+    "Deportes / Aventura - Caminata/Trekking",
+    "Deportes / Aventura - Camping"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de fauna",
+      "observacion": "Paujil, venados, puma, gallito de las rocas, colibris, loros, picaflor andino.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fauna02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "Caoba, diablo fuerte, caoba, sandari, roble, nogal y otros.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Camping",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/camping02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Ayacucho/La Mar/San Miguel - Ayacucho/La Mar/Anchihuay",
+      "detalle": "Parque Principal de San Miguel / Parque Principal de Anchihuay (Bella Vista)",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Combi",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "80 km / 2 h 25 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Ayacucho/La Mar/Anchihuay - Ayacucho/La Mar/Anchihuay",
+      "detalle": "Parque Principal de Anchihuay (Bella Vista) / Caserío Marayniyuq",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Combi",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "23 km / 1 h"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Ayacucho/La Mar/Anchihuay - Ayacucho/La Mar/Anchihuay",
+      "detalle": "Caserío Marayniyuq / Catarata Qatun Ispaj",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Otros",
+      "distancia_tiempo": "14 km / 3 h 30 min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "2970",
+      "horario": "Conteo de muestra de visitantes al Recurso Turístico",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "270",
+      "horario": "Conteo de muestra de visitantes al Recurso Turístico",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "07:00 a.m. - 05:00 p.m. Mayor afluencia entre agosto y setiembre.",
+      "observaciones": "Mayor afluencia entre agosto y setiembre."
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": "No existen restricciones."
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Anchihuay"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Anchihuay"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Caserio de Marayniyuq"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Anchihuay"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Ciudad de Anchuhuay"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Ciudad de Anchihuay"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "Ciudad de Anchihuay"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos de herradura (caballo)",
+      "observacion": "Caserios de Marayniyuq"
+    }
+  ],
+  "descripcion": "Ubicada en el distrito de Anchihuay exactamente en el caserío de Marayniyuq, entre la zona de Anchihuay Sierra y Anchihuay selva, a 3415 m.s.n.m. en la región quechua donde nos deleita con una serie de lagunas entre ellas la laguna de Totorabamba y la más imponente Yanaccocha, de este último es que nace la caída de agua de Qatun Ispaj que tiene una caída de 100 m. aprox. Su apreciación más majestuosa se da entre los meses de enero y abril donde su caudal es mayor.\nLas aguas de la cascada, con frías y cristalinas, se deslizan entre los cerros de Huayllán y Anchihuay, formando tres saltos, que al caer genera una neblina que descompone los rayos del sol, formando el arco iris, además en la base se forma una poza ideal para el baño de los visitantes.\nAlrededor, la vegetación es amplia con diversidad en flora y fauna, se pueden divisar con facilidad aves silvestres, alrededor yace una densa vegetación con plantas como el diablo fuerte, caoba, sandari, roble, nogal y otros. Entre la fauna se aprecia el gallito de las rocas, venados, capiso, tucán, paujil, puma, etc.\nLa altura del recurso permite también divisar una montaña con forma de felino al frente de la catarata, por ese rumbo, se continúa la caminata hacia Anchihuay selva con un previo descanso acampando.\nEs una de las cataratas más importantes de la comunidad y del distrito de Anco porque recibe turistas locales y nacionales en cualquier época del año, ya que la presencia del agua es constante y se hace más interesante en los tiempos de lluvia cuando las caídas son de mayor fuerza y generan un espectáculo de gran impresión.\nAdemás, entre los meses de agosto y setiembre las correntadas son más bajas y los pobladores aprovechan a reparar los caminos, limpiar las malezas de los caminos de herradura que llevan a Qatun Ispaq, esta actividad conlleva pago a la tierra, celebración, música y festejo, por lo que también promueve la actividad turística en dichos meses.",
+  "particularidades": "",
+  "estado_actual": "Buena. Se encuentra en su estado natural, está rodeada de una densa vegetación.",
+  "observaciones": "A 500 m. se puede apreciar un túnel construido para la transformación del gas, por la Empresa TGP. Así mismo en este lugar se encuentra el Apu de Huayllán, llamado Laja, está a una altitud de 2,183 msnm.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Ubicada en el distrito de Anchihuay exactamente en el caserío de Marayniyuq, entre la zona de Anchihuay Sierra y Anchihuay selva, a 3415 m.s.n.m. en la región quechua donde nos deleita con una serie de lagunas entre ellas la laguna de Totorabamba y la más imponente Yanaccocha, de este último es que nace la caída de agua de Qatun Ispaj que tiene una caída de 100 m. aprox. Su apreciación más majestuosa se da entre los meses de enero y abril donde su caudal es mayor.\nLas aguas de la cascada, con frías y cristalinas, se deslizan entre los cerros de Huayllán y Anchihuay, formando tres saltos, que al caer genera una neblina que descompone los rayos del sol, formando el arco iris, además en la base se forma una poza ideal para el baño de los visitantes.\nAlrededor, la vegetación es amplia con diversidad en flora y fauna, se pueden divisar con facilidad aves silvestres, alrededor yace una densa vegetación con plantas como el diablo fuerte, caoba, sandari, roble, nogal y otros. Entre la fauna se aprecia el gallito de las rocas, venados, capiso, tucán, paujil, puma, etc.\nLa altura del recurso permite también divisar una montaña con forma de felino al frente de la catarata, por ese rumbo, se continúa la caminata hacia Anchihuay selva con un previo descanso acampando.\nEs una de las cataratas más importantes de la comunidad y del distrito de Anco porque recibe turistas locales y nacionales en cualquier época del año, ya que la presencia del agua es constante y se hace más interesante en los tiempos de lluvia cuando las caídas son de mayor fuerza y generan un espectáculo de gran impresión.\nAdemás, entre los meses de agosto y setiembre las correntadas son más bajas y los pobladores aprovechan a reparar los caminos, limpiar las malezas de los caminos de herradura que llevan a Qatun Ispaq, esta actividad conlleva pago a la tierra, celebración, música y festejo, por lo que también promueve la actividad turística en dichos meses."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "Ordenanza Municipal 460-MPLM-SM-2023. La municipalidad provincial de La Mar reconoce los principales atractivos y recursos turísticos de la provincia de La Mar, en el departamento de Ayacucho. Para fortalecer la identidad cultural, conservación, promoción de actividades turísticas, culturales y su implementación a circuitos turísticos."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Buena. Se encuentra en su estado natural, está rodeada de una densa vegetación."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "A 500 m. se puede apreciar un túnel construido para la transformación del gas, por la Empresa TGP. Así mismo en este lugar se encuentra el Apu de Huayllán, llamado Laja, está a una altitud de 2,183 msnm."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nVisitantes Locales(Excursionistas)\n2970\nConteo de muestra de visitantes al Recurso Turístico\n2023\nTuristas Nacionales\n270\nConteo de muestra de visitantes al Recurso Turístico\n2023"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nAyacucho/La Mar/San Miguel\n-\nAyacucho/La Mar/Anchihuay\nParque Principal de San Miguel / Parque Principal de Anchihuay (Bella Vista)\nTerrestre\nCombi\nAfirmado\n80 km / 2 h 25 min\n1\nAyacucho/La Mar/Anchihuay\n-\nAyacucho/La Mar/Anchihuay\nParque Principal de Anchihuay (Bella Vista) / Caserío Marayniyuq\nTerrestre\nCombi\nAfirmado\n23 km / 1 h\n1\nAyacucho/La Mar/Anchihuay\n-\nAyacucho/La Mar/Anchihuay\nCaserío Marayniyuq / Catarata Qatun Ispaj\nTerrestre\nA pie\nOtros\n14 km / 3 h 30 min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre\nNo existen restricciones."
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n07:00 a.m.\n-\n05:00 p.m.\nMayor afluencia entre agosto y setiembre."
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nNaturaleza\nObservación de fauna\nPaujil, venados, puma, gallito de las rocas, colibris, loros, picaflor andino.\nNaturaleza\nObservación de flora\nCaoba, diablo fuerte, caoba, sandari, roble, nogal y otros.\nNaturaleza\nObservación de paisaje\n--\nDeportes / Aventura\nCaminata/Trekking\n--\nDeportes / Aventura\nCamping\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Anchihuay\nAlimentación\nRestaurantes\nCiudad de Anchihuay\nAlimentación\nKioskos de comida y bebidas\nCaserio de Marayniyuq\nAlimentación\nBares\nCiudad de Anchihuay\nLugares de Recreación\nCentros Deportivos\nCiudad de Anchuhuay\nServicios Públicos\nEstacionamiento de vehículos\nCiudad de Anchihuay\nServicios Públicos\nCaminos peatonales\nCiudad de Anchihuay\nServicios Públicos\nCaminos de herradura (caballo)\nCaserios de Marayniyuq"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de San Miguel\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Anchihuay\nServicio de estacionamiento\nCiudad de Anchihuay\nCentro de salud - tópico\nCiudad de Anchihuay\nSeguridad / POLTUR / Comisaría\nCiudad de Anchihuay\nLibrerías\nCiudad de Anchihuay\nBodegas o minimarkets\nCiudad de Anchihuay"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Anchihuay\nLuz (Suministro Eléctrico)\nCiudad de Anchihuay"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nEstado Peruano\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nRecurso hídrico, de propiedad del estado administrado por la municipalidad de Achinhuayen proceso de trámite del certificado de poseción.\nAdministrador por\nNombre\nMunicipalidad de Anchihuay -Caserio de Marayiyuq\nTiempo de administración\nDesde el 29 de setiembre del 2013"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y turismo\nNombre (Persona(s) responsable(s) del inventario turístico):\nEfrain Walter Gomez Lopez\nCargo:\nEspecialista en Turismo II\nCorreo:\newgl@hotmail.com\nTeléfono:\n938130971\nFuentes Bibliográfica:\n1.- Plan de desarrollo concertado del Distrito de Anchihuay 2015- 2024. Municipalidad Distrital de Anchihuay\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n12/03/2024 16:45:14"
+    }
+  ],
+  "coordenadas": {
+    "latitud": null,
+    "longitud": null
+  },
+  "google_maps_url": null
+}

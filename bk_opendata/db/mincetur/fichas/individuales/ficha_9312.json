@@ -1,0 +1,221 @@
+{
+  "cod_ficha": 9312,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=9312",
+  "nombre": "Los Peroles San Miguel",
+  "departamento": "Piura",
+  "provincia": "Morropon",
+  "distrito": "SANTO DOMINGO",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "j. Caídas de agua",
+  "subtipo": "Cascadas",
+  "jerarquia": "1",
+  "altitud": "1591",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=607471",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=607471",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=607472",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=607509",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=607510",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=607511",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=607512",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=607513",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=607473",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=607474",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=607475",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=607514"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Paseos - Excursiones",
+    "Naturaleza - Observación de fauna",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de paisaje",
+    "Deportes / Aventura - Caminata/Trekking"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Paseos",
+      "tipo": "Excursiones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/excursiones02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de fauna",
+      "observacion": "Chilalo, Luisa, Chuquiaque, Negro, Pilco, Gorrión, Martín Pescador, Cuervo, Zorrillo, añás, erizo, armadillo, serpientes y batracios.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fauna02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "Eucalipto, higuerón, guayaquil, carrizo, pajul, flores silvestres, cordoncillo, cola de caballo, llantén.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Piura/Morropón/Morropon - Piura/Morropón/Santo Domingo",
+      "detalle": "Plaza de Armas de Morropón - Plaza principal Santo Domingo",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus público",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "44.3 km/ 1 hora 45 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Piura/Morropón/Santo Domingo - Piura/Morropón/Santo Domingo",
+      "detalle": "Plaza principal de Santo Domingo - Puente San Miguel",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mototaxi",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "4.5 km / 20 min."
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "10800",
+      "horario": "Conteo muestral de visitas al recurso turístico",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "06:00 a.m. - 06:00 a.m. --",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": "todo el año"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "(Casas Hospedaje - Localidad de Santo Domingo)"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Localidad de Santo Domingo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Localidad de Santo Domingo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Localidad de Santo Domingo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Localidad de Santo Domingo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "En la localidad de Santo Domingo"
+    }
+  ],
+  "descripcion": "Los Peroles de San Miguel, ubicados a 20 minutos de la capital distrital en el caserío de San Miguel, distrito de Santo Domingo, a 1,591 msnm, son un hermoso recurso natural alimentado por las aguas cristalinas y saludables del río Ñoma, que atraviesa el caserío Jaguay, recogiendo vertientes, manantiales y quebradas que nacen en las alturas del distrito, cerca del Cerro Negro.\nEste paraje está conformado por pequeñas pozas naturales, conocidas como peroles, con diámetros aproximados de 2, 3 y 4 metros, formadas por la erosión natural en la laja de piedra a lo largo del tiempo. En la parte alta de la quebrada que conforma este recurso destacan varias caídas de agua, siendo la más notable El Perol del Quinde, llamada así por los pobladores.\nEl flujo de agua varía a lo largo del año: entre diciembre y marzo, el caudal es abundante, mientras que entre abril y noviembre disminuye, revelando con mayor claridad la estructura de las pozas. Los visitantes pueden disfrutar de resbaladeras naturales, que conducen a diversas formaciones acuáticas, así como de aproximadamente 10 jacuzzis naturales, el principal atractivo del lugar, donde el agua alcanza una temperatura de 20°C.\nEl clima en la zona es agradable, con temperaturas que pueden llegar hasta los 25°C. En los alrededores se observa una rica vegetación, incluyendo huertos de caña, plátano, yuca, pajuro, trigo, entre otros cultivos. A lo largo del recorrido, el visitante puede deleitarse con el trinar de aves del bosque, como turcas, palomas, chilalos, picaflores, golondrinas y perdices, además de animales de crianza como ganado vacuno y ovino.\nIdeal para escapar de la rutina diaria y respirar aire puro, este destino ofrece una experiencia única de Turismo Relax, permitiendo una conexión profunda con la naturaleza. Entre las actividades más destacadas se encuentran el disfrute de toboganes naturales, cascadas y cataratas, relajación en los jacuzzis naturales, la observación de la flora y fauna local, convirtiendo a los Peroles de San Miguel en un refugio perfecto para la tranquilidad y el bienestar.",
+  "particularidades": "",
+  "estado_actual": "Se encuentra en buen estado de conservación, ya que la Municipalidad Distrital de Santo Domingo se encarga de su mantenimiento.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Los Peroles de San Miguel, ubicados a 20 minutos de la capital distrital en el caserío de San Miguel, distrito de Santo Domingo, a 1,591 msnm, son un hermoso recurso natural alimentado por las aguas cristalinas y saludables del río Ñoma, que atraviesa el caserío Jaguay, recogiendo vertientes, manantiales y quebradas que nacen en las alturas del distrito, cerca del Cerro Negro.\nEste paraje está conformado por pequeñas pozas naturales, conocidas como peroles, con diámetros aproximados de 2, 3 y 4 metros, formadas por la erosión natural en la laja de piedra a lo largo del tiempo. En la parte alta de la quebrada que conforma este recurso destacan varias caídas de agua, siendo la más notable El Perol del Quinde, llamada así por los pobladores.\nEl flujo de agua varía a lo largo del año: entre diciembre y marzo, el caudal es abundante, mientras que entre abril y noviembre disminuye, revelando con mayor claridad la estructura de las pozas. Los visitantes pueden disfrutar de resbaladeras naturales, que conducen a diversas formaciones acuáticas, así como de aproximadamente 10 jacuzzis naturales, el principal atractivo del lugar, donde el agua alcanza una temperatura de 20°C.\nEl clima en la zona es agradable, con temperaturas que pueden llegar hasta los 25°C. En los alrededores se observa una rica vegetación, incluyendo huertos de caña, plátano, yuca, pajuro, trigo, entre otros cultivos. A lo largo del recorrido, el visitante puede deleitarse con el trinar de aves del bosque, como turcas, palomas, chilalos, picaflores, golondrinas y perdices, además de animales de crianza como ganado vacuno y ovino.\nIdeal para escapar de la rutina diaria y respirar aire puro, este destino ofrece una experiencia única de Turismo Relax, permitiendo una conexión profunda con la naturaleza. Entre las actividades más destacadas se encuentran el disfrute de toboganes naturales, cascadas y cataratas, relajación en los jacuzzis naturales, la observación de la flora y fauna local, convirtiendo a los Peroles de San Miguel en un refugio perfecto para la tranquilidad y el bienestar."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Se encuentra en buen estado de conservación, ya que la Municipalidad Distrital de Santo Domingo se encarga de su mantenimiento."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nVisitantes Locales(Excursionistas)\n10800\nConteo muestral de visitas al recurso turístico\n2024\nProyección del Conteo Muestral del mes de noviembre de 2024."
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nPiura/Morropón/Morropon\n-\nPiura/Morropón/Santo Domingo\nPlaza de Armas de Morropón - Plaza principal Santo Domingo\nTerrestre\nBus público\nAfirmado\n44.3 km/ 1 hora 45 min.\n1\nPiura/Morropón/Santo Domingo\n-\nPiura/Morropón/Santo Domingo\nPlaza principal de Santo Domingo - Puente San Miguel\nTerrestre\nMototaxi\nAfirmado\n4.5 km / 20 min."
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre\ntodo el año"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n06:00 a.m.\n-\n06:00 a.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nPaseos\nExcursiones\n--\nNaturaleza\nObservación de fauna\nChilalo, Luisa, Chuquiaque, Negro, Pilco, Gorrión, Martín Pescador, Cuervo, Zorrillo, añás, erizo, armadillo, serpientes y batracios.\nNaturaleza\nObservación de flora\nEucalipto, higuerón, guayaquil, carrizo, pajul, flores silvestres, cordoncillo, cola de caballo, llantén.\nNaturaleza\nObservación de paisaje\n--\nDeportes / Aventura\nCaminata/Trekking\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nOtros (Especificar)\n(Casas Hospedaje - Localidad de Santo Domingo)\nAlimentación\nRestaurantes\nLocalidad de Santo Domingo\nAlimentación\nCafeterías\nLocalidad de Santo Domingo\nAlimentación\nKioskos de comida y bebidas\nLocalidad de Santo Domingo\nOtros Servicios Turísticos\nVenta de artesanía\nLocalidad de Santo Domingo\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nEn la localidad de Santo Domingo"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nEn la localidad de Santo Domingo\nEstación de servicios, grifos, gasolineras y gasocentros\nEn la localidad de Santo Domingo\nServicios de taxis\nEn la localidad de Santo Domingo\nCentro de salud - tópico\nEn la localidad de Santo Domingo\nSeguridad / POLTUR / Comisaría\nEn la localidad de Santo Domingo\nLibrerías\nEn la localidad de Santo Domingo\nBodegas o minimarkets\nEn la localidad de Santo Domingo"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nLocalidad de Santo Domingo\nAlcantarillado sanitario\nLocalidad de Santo Domingo\nLuz (Suministro Eléctrico)\nLocalidad de Santo Domingo\nTeléfono\nLocalidad de Santo Domingo\nSeñalización turística\nLocalidad de Santo Domingo."
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nEstado Peruano\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nNo cuenta con delimitación de faja marginal, sin embargo por ser bien público está bajo la administración de la municipalidad de Santo Domingo.\nAdministrador por\nNombre\nMunicipalidad Distrital de Santo Domingo.\nTiempo de administración\nDesde el año 2000"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo - Piura\nNombre (Persona(s) responsable(s) del inventario turístico):\nEcon. Julio César Maza Cespedes.\nCargo:\nDirector de Turismo\nCorreo:\ndir.turismo.dircetur@regionpiura.gob.pe\nTeléfono:\n073-340133\nFuentes Bibliográfica:\n1. Yahuana Yahuana, K. A. (2022). Diseño de un circuito turístico para promover el turismo local en el distrito de Santo Domingo, provincia de Morropón – Piura [Tesis de grado, Universidad César Vallejo]. Repositorio Institucional de la Universidad César Vallejo. Disponible en:https://hdl.handle.net/20.500.12692/42493 2. Yahuana Yahuana, K. A. (2018). Vocación turística del distrito de Santo Domingo, Morropón, Piura. Tesis de grado, Universidad César Vallejo. Disponible en: https://hdl.handle.net/20.500.12692/42493\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n30/06/2025 13:28:58"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -5.036558224690954,
+    "longitud": -79.856368303299
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-5.036558224690954,-79.856368303299"
+}

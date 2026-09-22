@@ -1,0 +1,264 @@
+{
+  "cod_ficha": 567,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=567",
+  "nombre": "Laguna Patococha",
+  "departamento": "Áncash",
+  "provincia": "Recuay",
+  "distrito": "CATAC",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "g. Cuerpo de Agua",
+  "subtipo": "Lagunas",
+  "jerarquia": "POR JERARQUIZAR",
+  "altitud": "4183",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=577636",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=577636",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=577637",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=577638",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=577639",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=577640",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=577686"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Naturaleza - Observación de fauna",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de paisaje"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "El entorno está lleno de valor, ecológico, místico y paisajístico.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de fauna",
+      "observacion": "En algunas ocasiones se puede encontrar aves, mamíferos como vicuñas, tarucas, perdices, vizcachas, alpacas y anfibios.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fauna02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "Se observa la laguna, la flora y fauna circundante.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Áncash/Recuay/Catac - Áncash/Recuay/Catac",
+      "detalle": "Plaza de Armas de Cátac — Pachacoto, cruce a Pastoruri.",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Camioneta doble tracción",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "7Km/10min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Áncash/Recuay/Catac - Áncash/Recuay/Catac",
+      "detalle": "Pachacoto, cruce a Pastoruri — Laguna Patococha",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Camioneta doble tracción",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "13Km/31min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "4531",
+      "horario": "Parque Nacional Huascarán-SERNANP",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "32203",
+      "horario": "Parque Nacional Huascarán-SERNANP",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "7498",
+      "horario": "Parque Nacional Huascarán-SERNANP",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "08:00 a.m. - 04:00 p.m. Si el visitante extranjero tiene una agenda de visita de un mes en el Parque Nacional Huascarán, el costo es de S/.150.00",
+      "observaciones": "Si el visitante extranjero tiene una agenda de visita de un mes en el Parque Nacional Huascarán, el costo es de S/.150.00"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "Parque Nacional Huascarán (El costo de ingreso para visitantes extranjeros es de S/. 30.00, para nacionales S/. 12.00 y para locales S/. 5.00)."
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "Ciudad de Cátac/(1 estrella)"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Cátac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Cátac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Cátac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Snak/Ciudad de Cátac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Cátac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de Caballos",
+      "observacion": "Ciudad de Cátac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Ciudad de Cátac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Boletería",
+      "observacion": "Ciudad de Cátac/ Puesto de control “Carpa” - Parque Nacional Huascarán"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Centros de interpretación",
+      "observacion": "Ciudad de Cátac/ Puesto de control “Carpa” - Parque Nacional Huascarán"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Puesto de auxilio rápido",
+      "observacion": "Ciudad de Cátac/Centro de Salud Cátac"
+    }
+  ],
+  "descripcion": "La laguna Patococha está ubicada en la Cordillera Blanca, dentro de los territorios de la comunidad campesina de Cátac, del distrito de Cátac, provincia de Recuay, departamento de Áncash. Esta laguna forma parte del área natural protegida del Parque Nacional Huascarán. Ubicada a 4183 m.s.n.m. en la región natural Puna. Su clima es muy frío —semihúmedo y seco. Durante el periodo de precipitaciones, comprendido entre los meses de octubre y abril, la humedad se manifiesta en forma de granizo, contribuyendo al incremento de la laguna y creando un paisaje invernal. Por el contrario, los meses de mayo a setiembre, ofrecen días soleados y noches de helada.\nEl área de superficie de la laguna Patococha es de 36 198,82 m², con un volumen de 537 030,53 m³ y una profundidad de 31,12 metros. En la laguna se produce de manera natural la cianobacteria ‘Nostoc sphaericum’, comúnmente conocida como cushuro.\nAlrededor de sus orillas crecen extensos pajonales andinos, dominados por especies como ‘Stipa ichu’ y ‘Oxychloe andina’. Esta vegetación herbácea, adaptada a las condiciones climáticas extremas de la región, desempeña un papel fundamental en la regulación hídrica y la conservación del suelo.\nLa avifauna de la laguna es especialmente diversa, albergando tanto especies residentes como migratorias. Destacan diversas especies de patos, como, ‘Spatula puna’ (pato de la puna o cerceta de la puna), ‘Anas flavirrostris’ (pato barcino o pato jergón chico), ‘Oressochen melanopterus’ (ganso andino o huachua). Además, se pueden observar aves rapaces, como el cóndor andino, y especies de la familia Furnariidae, como el, ‘Asthenes humilis’ (canastero gorjiestriado). La fauna de la laguna no se limita a las aves. En sus aguas habitan diversas especies de anfibios, como, ‘Rhinella spinulosa’(sapo andino), mientras que en las zonas circundantes se pueden encontrar mamíferos como, ‘Vicugna vicugna’(vicuña), ‘Hippocamelus antisensis’ (taruca) y ‘Pseudalopex culpaeus’ (zorro andino).\nLa laguna recibe su principal suministro de agua a través de los siguientes tributarios: quebrada Callan (Huicso) y quebrada Carhuac. La laguna Patococha se encuentra ubicada en la subcuenca de Pachacoto, perteneciente a la cuenca del Santa. Esta cuenca, a su vez, forma parte de la vertiente del Pacífico. La laguna Patococha proporciona servicios ecosistémicos de suministro como el agua dulce y el alimento.\nA lo largo del sendero hacia la laguna Patococha, es común encontrar asentamientos comunitarios caracterizados por viviendas tradicionales de construcción rústica, conocidas como chozas. Estos asentamientos suelen incluir corrales para el ganado ovino, vacuno (incluyendo alpacas) y extensos pastizales destinados a la actividad ganadera.\nLa laguna Patococha forma parte de la “Ruta del Cambio Climático”. Ubicada estratégicamente a la entrada del impresionante Parque Nacional, a tan solo 1.3 km del Centro de Interpretación, permitiendo a los visitantes sumergirse en la naturaleza y comprender la importancia de conservar este ecosistema único. Ofrece un destino turístico extraordinario para los amantes de la naturaleza. Sus senderos invitan a realizar caminatas/trekking; mientras que sus aguas tranquilas son perfectas para la observación de aves acuáticas, observación del paisaje y la captura de imágenes fotográficas y audiovisuales.",
+  "particularidades": "",
+  "estado_actual": "Bueno, porque, la Municipalidad y la Comunidad Campesina de Cátac, realizan mantenimiento permanente.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "La laguna Patococha está ubicada en la Cordillera Blanca, dentro de los territorios de la comunidad campesina de Cátac, del distrito de Cátac, provincia de Recuay, departamento de Áncash. Esta laguna forma parte del área natural protegida del Parque Nacional Huascarán. Ubicada a 4183 m.s.n.m. en la región natural Puna. Su clima es muy frío —semihúmedo y seco. Durante el periodo de precipitaciones, comprendido entre los meses de octubre y abril, la humedad se manifiesta en forma de granizo, contribuyendo al incremento de la laguna y creando un paisaje invernal. Por el contrario, los meses de mayo a setiembre, ofrecen días soleados y noches de helada.\nEl área de superficie de la laguna Patococha es de 36 198,82 m², con un volumen de 537 030,53 m³ y una profundidad de 31,12 metros. En la laguna se produce de manera natural la cianobacteria ‘Nostoc sphaericum’, comúnmente conocida como cushuro.\nAlrededor de sus orillas crecen extensos pajonales andinos, dominados por especies como ‘Stipa ichu’ y ‘Oxychloe andina’. Esta vegetación herbácea, adaptada a las condiciones climáticas extremas de la región, desempeña un papel fundamental en la regulación hídrica y la conservación del suelo.\nLa avifauna de la laguna es especialmente diversa, albergando tanto especies residentes como migratorias. Destacan diversas especies de patos, como, ‘Spatula puna’ (pato de la puna o cerceta de la puna), ‘Anas flavirrostris’ (pato barcino o pato jergón chico), ‘Oressochen melanopterus’ (ganso andino o huachua). Además, se pueden observar aves rapaces, como el cóndor andino, y especies de la familia Furnariidae, como el, ‘Asthenes humilis’ (canastero gorjiestriado). La fauna de la laguna no se limita a las aves. En sus aguas habitan diversas especies de anfibios, como, ‘Rhinella spinulosa’(sapo andino), mientras que en las zonas circundantes se pueden encontrar mamíferos como, ‘Vicugna vicugna’(vicuña), ‘Hippocamelus antisensis’ (taruca) y ‘Pseudalopex culpaeus’ (zorro andino).\nLa laguna recibe su principal suministro de agua a través de los siguientes tributarios: quebrada Callan (Huicso) y quebrada Carhuac. La laguna Patococha se encuentra ubicada en la subcuenca de Pachacoto, perteneciente a la cuenca del Santa. Esta cuenca, a su vez, forma parte de la vertiente del Pacífico. La laguna Patococha proporciona servicios ecosistémicos de suministro como el agua dulce y el alimento.\nA lo largo del sendero hacia la laguna Patococha, es común encontrar asentamientos comunitarios caracterizados por viviendas tradicionales de construcción rústica, conocidas como chozas. Estos asentamientos suelen incluir corrales para el ganado ovino, vacuno (incluyendo alpacas) y extensos pastizales destinados a la actividad ganadera.\nLa laguna Patococha forma parte de la “Ruta del Cambio Climático”. Ubicada estratégicamente a la entrada del impresionante Parque Nacional, a tan solo 1.3 km del Centro de Interpretación, permitiendo a los visitantes sumergirse en la naturaleza y comprender la importancia de conservar este ecosistema único. Ofrece un destino turístico extraordinario para los amantes de la naturaleza. Sus senderos invitan a realizar caminatas/trekking; mientras que sus aguas tranquilas son perfectas para la observación de aves acuáticas, observación del paisaje y la captura de imágenes fotográficas y audiovisuales."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, porque, la Municipalidad y la Comunidad Campesina de Cátac, realizan mantenimiento permanente."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n4531\nParque Nacional Huascarán-SERNANP\n2023\nTuristas Nacionales\n32203\nParque Nacional Huascarán-SERNANP\n2023\nVisitantes Locales(Excursionistas)\n7498\nParque Nacional Huascarán-SERNANP\n2023"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nÁncash/Recuay/Catac\n-\nÁncash/Recuay/Catac\nPlaza de Armas de Cátac — Pachacoto, cruce a Pastoruri.\nTerrestre\nCamioneta doble tracción\nAsfaltado\n7Km/10min\n1\nÁncash/Recuay/Catac\n-\nÁncash/Recuay/Catac\nPachacoto, cruce a Pastoruri — Laguna Patococha\nTerrestre\nCamioneta doble tracción\nAfirmado\n13Km/31min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nParque Nacional Huascarán (El costo de ingreso para visitantes extranjeros es de S/. 30.00, para nacionales S/. 12.00 y para locales S/. 5.00)."
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n08:00 a.m.\n-\n04:00 p.m.\nSi el visitante extranjero tiene una agenda de visita de un mes en el Parque Nacional Huascarán, el costo es de S/.150.00"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\nEl entorno está lleno de valor, ecológico, místico y paisajístico.\nNaturaleza\nObservación de fauna\nEn algunas ocasiones se puede encontrar aves, mamíferos como vicuñas, tarucas, perdices, vizcachas, alpacas y anfibios.\nNaturaleza\nObservación de flora\n--\nNaturaleza\nObservación de paisaje\nSe observa la laguna, la flora y fauna circundante."
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Públicas\nServicios Públicos\nSeñales turísticas de orientación\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHostales (especificar categorías)\nCiudad de Cátac/(1 estrella)\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Cátac\nAlimentación\nRestaurantes\nCiudad de Cátac\nAlimentación\nKioskos de comida y bebidas\nCiudad de Cátac\nAlimentación\nOtros (Especificar)\nSnak/Ciudad de Cátac\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Cátac\nOtros Servicios Turísticos\nAlquiler de Caballos\nCiudad de Cátac\nLugares de Recreación\nCentros Deportivos\nCiudad de Cátac\nServicios Públicos\nBoletería\nCiudad de Cátac/ Puesto de control “Carpa” - Parque Nacional Huascarán\nServicios Públicos\nCentros de interpretación\nCiudad de Cátac/ Puesto de control “Carpa” - Parque Nacional Huascarán\nServicios Públicos\nPuesto de auxilio rápido\nCiudad de Cátac/Centro de Salud Cátac"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Cátac\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Cátac\nServicio de estacionamiento\nCiudad de Cátac\nServicios de taxis\nCiudad de Cátac\nCentro de salud - tópico\nCiudad de Cátac\nSeguridad / POLTUR / Comisaría\nCiudad de Cátac\nLibrerías\nCiudad de Cátac\nBodegas o minimarkets\nCiudad de Cátac\nBancos\nCiudad de Recuay\nOtros(especificar)\nCiudad de Cátac/Agente Multired/Agente Bcp/KasNet"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nSeñalización turística\nEn la laguna"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Cátac\nAlcantarillado sanitario\nCiudad de Cátac\nLuz (Suministro Eléctrico)\nCiudad de Cátac\nTeléfono\nCiudad de Cátac\nEnergía Alternativa\nSectores de la Comunidad Campesina de Cátac/Ciudad de Cátac\nSistemas de tratamiento alternativo de residuos (Biodigestor, pozo séptico, otros)\nRelleno Sanitario/Ciudad de Cátac\nAlcantarillado pluvial\nCiudad de Cátac"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nParque Nacional Huascarán\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nCertificado Literal - Predio\nNúmero de Partida:\n11300446\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nParque Nacional Huascarán\nTiempo de administración\nDesde 01 de julio de 1975"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo de Áncash - Municipalidad Distrital de Cátac\nNombre (Persona(s) responsable(s) del inventario turístico):\nPatricia Camones Trejo - Elvira Soledad Espíritu Ramírez\nCargo:\nAuxiliar Administrativo - Asistente Administrativo de la SGDELTMA.\nCorreo:\nPatriciaturism@gmail.com - espirituramirezelvirasoledadd@gmail.com\nTeléfono:\n937082574 - 900376494\nFuentes Bibliográfica:\n-Unidad de Glaciología y Recursos Hídricos. (2014). Inventario Nacional de Lagunas Glaciares del Perú. Ministerio de Agricultura y Riego. Autoridad Nacional del Agua. Dirección de Conservación y Planeamiento de Recursos Hídricos. Huaraz.\n-Rubio, H., R. A. (2018). Evaluación de la producción de Nostoc sp (Cushuro) en cochas construidas a diferentes profundidades dentro de un ecosistema de humedal, en el sector Carpa, distrito de Cátac, Áncash, 2017-2018 (Tesis de pregrado). Universidad Nacional “Santiago Antúnez de Mayolo”, Huaraz, Perú\n-Acuña Palacios, B. C. (2022, diciembre). Identificación de servicios ecosistémicos en la Ruta del Cambio Climático del Parque Nacional Huascarán-Cátac-Recuay-Áncash, 2019 (tesis de pregrado). Universidad Nacional Santiago Antúnez de Mayolo, Facultad de Ciencias Ambientales, Escuela Profesional de Ingeniería Ambiental, Huaraz, Perú\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n26/05/2025 09:26:30"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -9.890475968749403,
+    "longitud": -77.30700820634627
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-9.890475968749403,-77.30700820634627"
+}

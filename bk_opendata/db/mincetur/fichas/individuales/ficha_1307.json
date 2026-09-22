@@ -1,0 +1,454 @@
+{
+  "cod_ficha": 1307,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=1307",
+  "nombre": "Fortaleza Real Felipe",
+  "departamento": "Callao",
+  "provincia": "Callao",
+  "distrito": "CALLAO",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Arquitectura y Espacios Urbanos",
+  "subtipo": "Fortalezas",
+  "jerarquia": "3",
+  "altitud": "4",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=486969",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=486969",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=486939",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=486971",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=522916",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=537387",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=537432"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Actividades Culturales",
+    "Otros - Actividades Sociales",
+    "Otros - Realización de eventos",
+    "Otros - Otros(Especificar)"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Actividades Culturales",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/act_culturales02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Actividades Sociales",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/sociales02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Realización de eventos",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/eventos02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Otros(Especificar)",
+      "observacion": "Recorrido Interpretativo",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/otros02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Callao/Prov. Const. Del Callao/Callao - Callao/Prov. Const. Del Callao/Callao",
+      "detalle": "Plaza Grau / Museo del Ejército “Real Felipe”",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "0.5 km / 5 minutos"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Callao/Prov. Const. Del Callao/Callao - Callao/Prov. Const. Del Callao/Callao",
+      "detalle": "Aeropuerto Internacional Jorge Chávez / Museo del Ejército \"Real Felipe“",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "11 Km / 32 minutos"
+    },
+    {
+      "recorrido": "3",
+      "tramo": "Lima/Lima/Lima - Callao/Prov. Const. Del Callao/Callao",
+      "detalle": "Plaza Mayor de Lima / Museo del Ejército “Real Felipe”",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "13 Km / 1 hora"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "1681",
+      "horario": "Ministerio de Defensa - Dirección de Informaciones del Ejército",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "21398",
+      "horario": "Ministerio de Defensa - Dirección de Informaciones del Ejército",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "8515",
+      "horario": "Ministerio de Defensa - Dirección de Informaciones del Ejército",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "09:00 a.m. - 04:00 p.m. de lunes a domingo",
+      "observaciones": "de lunes a domingo"
+    },
+    {
+      "epoca": "Niños",
+      "especificacion": "",
+      "horario": "--",
+      "observaciones": "--"
+    },
+    {
+      "epoca": "Jóvenes",
+      "especificacion": "",
+      "horario": "--",
+      "observaciones": "--"
+    },
+    {
+      "epoca": "Adulto mayor",
+      "especificacion": "",
+      "horario": "--",
+      "observaciones": "--"
+    },
+    {
+      "epoca": "Personas con discapacidad física",
+      "especificacion": "cuenta con rampas de accesos, para personas que se trasladan en silla de ruedas.",
+      "horario": "--",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "Precios de Ingresos en Nuevos Soles: Adulto Nacional y Extranjero S/. 12.00, Escolares y niños (hasta los 12) S/. 5.00 y Jubilados S/.6.00 Fuerza Armada y PNP S/.6.00 Para coordinaciones en general"
+    },
+    {
+      "tipo": "Otros (especificar)",
+      "observaciones": "Guías Oficial de Turismo no pagan por ley 28529."
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "ofrecen servicio de Guiado en los siguientes idiomas: ingles, francés, portugués."
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Espectaculos Sociales"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Boletería",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "Callao / Hoteles de 2, 4 y 5 estrellas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "Callao / Hostales de 1 y 2 estrellas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Callao"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Callao"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Callao"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Callao"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Callao"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Callao"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Peñas",
+      "observacion": "Callao"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Callao"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de botes",
+      "observacion": "Callao"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Callao"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Callao"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Callao"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Callao"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Cines o Teatros",
+      "observacion": "Callao"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Callao"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "exhibicion y venta de artesania"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "Callao"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de interpretación",
+      "observacion": "Callao"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Instalación para la exposición de flora o fauna silvestre",
+      "observacion": "Callao"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Embarcaderos",
+      "observacion": "Callao"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Muelles turísticos",
+      "observacion": "Callao"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Callao"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Puesto de auxilio rápido",
+      "observacion": "Callao"
+    }
+  ],
+  "descripcion": "El Real Felipe es una fortaleza ubicada en el Callao, Perú, construida durante el siglo XVIII para proteger el puerto de Lima de posibles ataques, El Real Felipe ha sido escenario de diversos eventos históricos a lo largo de los siglos. Algunos de los eventos más destacados que se llevaron a cabo en el Real Felipe incluyen:\nConstrucción y Fortificación: El principal propósito del Real Felipe era proteger el puerto del Callao y la ciudad de Lima de posibles ataques y saqueos por parte de piratas y enemigos de la corona española. Su construcción se llevó a cabo a lo largo del siglo XVIII, siendo una obra de ingeniería militar de gran envergadura.\nBatallas y Conflictos: Durante su historia, el Real Felipe fue escenario de varias batallas y conflictos. Uno de los eventos más destacados fue el Asedio del Callao, que tuvo lugar durante la Guerra del Pacífico en el siglo XIX, donde la fortaleza resistió el asedio de las fuerzas chilenas durante más de dos años.\nFunción Militar: Además de su papel defensivo, el Real Felipe también sirvió como base militar y prisión a lo largo de los años. Albergó tropas, armamento y provisiones, contribuyendo a la defensa del puerto y la ciudad de Lima.\nEventos culturales y turísticos: Además de su papel defensivo, el Real Felipe también sirvió como base militar y prisión a lo largo de los años. Albergó tropas, armamento y provisiones, contribuyendo a la defensa del puerto y la ciudad de Lima.\nEl Real Felipe es un magnífico ejemplo de arquitectura militar colonial en América Latina, que combina funcionalidad con belleza arquitectónica para crear una estructura única y duradera. Su importancia histórica y su impresionante diseño lo convierten en un punto de referencia cultural y turística en el Perú.\nLa fortaleza presenta una planta en forma de pentágono irregular, adaptada a la topografía del terreno y al contorno costero.\nLos muros exteriores son altos y gruesos, con almenas y garitas en las esquinas para vigilancia y defensa.\nSe destacan los espacios interiores amplios y funcionales, diseñados para alojar tropas, armamento y provisiones.\nLa disposición de los edificios internos, como los cuarteles y almacenes, sigue un patrón organizado alrededor de patios y plazas.\nEstilos arquitectónicos:\nEl Real Felipe exhibe una combinación de estilos arquitectónicos militares y coloniales.\nSe puede observar una influencia predominante del estilo renacentista en la estructura general de la fortaleza, con su énfasis en la simetría y la solidez.\nTambién se pueden identificar elementos barrocos en la ornamentación de ciertas áreas, como las puertas y las ventanas, donde se utilizan detalles decorativos elaborados.\nComponentes decorativos:\nLos detalles decorativos del Real Felipe son relativamente sobrios en comparación con otros edificios de la época.\nSe utilizan elementos decorativos en la arquitectura, como molduras, pilastras y frontones, para resaltar ciertas áreas y proporcionar un cierto grado de ornamentación.\nLa decoración interior se centra más en la funcionalidad y la durabilidad, con un énfasis en materiales resistentes y acabados simples.\nEl recorrido dentro de la Museo del Ejército “Real Felipe”, es el siguiente:\n• Primero: Cementerio u osario\n• Segundo: Puerta del Perdón\n• Tercero: Torreón de la Reina\n• Cuarto: Torreón del Rey\n• Quinto: Casa del Gobernador\n• Sexto: Parque de Artillería\nEn resumen, el Real Felipe incorpora una serie de elementos formales estéticos, estilos arquitectónicos y componentes decorativos que reflejan tanto su función militar como su importancia histórica y cultural en la arquitectura colonial peruana.",
+  "particularidades": "Este monumento histórico construida entre 1747 y 1774 durante el Virreinato del Perú, es único no solo por su tamaño y diseño, sino también por su relevancia histórica. Fue un escenario clave en las guerras de independencia sudamericanas, símbolo de la resistencia y la transición hacia la era republicana en Perú. Además, mantiene su autenticidad al preservar su función militar a lo largo de los siglos, lo que la convierte en un puente entre el pasado y el presente, con una superficie en forma de pentágono que abarca 70,000 m² y un perímetro de 1,586 metros, es la fortificación más grande y única de su tipo en América del Sur destacándose por su diseño imponente y técnicas constructivas avanzadas para la época.\nLa Fortaleza incluye el Museo del Ejército del Perú, donde se exhiben armas, uniformes y documentos históricos que narran la evolución militar del país. Destacan los torreones del Rey y de la Reina, estructuras defensivas principales que aún conservan cañones originales y ofrecen vistas panorámicas al puerto del Callao. Otro punto de interés es la Plaza de Armas interna, un espacio central utilizado en la época colonial para actividades militares. Asimismo, los túneles subterráneos, diseñados estratégicamente para defensa, son accesibles mediante recorridos guiados que enriquecen la experiencia cultural.",
+  "estado_actual": "Bueno, debido al constante mantenimiento por parte del Ejército del Perú.",
+  "observaciones": "Algunas de las áreas de la fortaleza están restringidas el acceso u otras de uso estacional para eventos varios. Algunos accesos son restringidos para personas con discapacidad.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "El Real Felipe es una fortaleza ubicada en el Callao, Perú, construida durante el siglo XVIII para proteger el puerto de Lima de posibles ataques, El Real Felipe ha sido escenario de diversos eventos históricos a lo largo de los siglos. Algunos de los eventos más destacados que se llevaron a cabo en el Real Felipe incluyen:\nConstrucción y Fortificación: El principal propósito del Real Felipe era proteger el puerto del Callao y la ciudad de Lima de posibles ataques y saqueos por parte de piratas y enemigos de la corona española. Su construcción se llevó a cabo a lo largo del siglo XVIII, siendo una obra de ingeniería militar de gran envergadura.\nBatallas y Conflictos: Durante su historia, el Real Felipe fue escenario de varias batallas y conflictos. Uno de los eventos más destacados fue el Asedio del Callao, que tuvo lugar durante la Guerra del Pacífico en el siglo XIX, donde la fortaleza resistió el asedio de las fuerzas chilenas durante más de dos años.\nFunción Militar: Además de su papel defensivo, el Real Felipe también sirvió como base militar y prisión a lo largo de los años. Albergó tropas, armamento y provisiones, contribuyendo a la defensa del puerto y la ciudad de Lima.\nEventos culturales y turísticos: Además de su papel defensivo, el Real Felipe también sirvió como base militar y prisión a lo largo de los años. Albergó tropas, armamento y provisiones, contribuyendo a la defensa del puerto y la ciudad de Lima.\nEl Real Felipe es un magnífico ejemplo de arquitectura militar colonial en América Latina, que combina funcionalidad con belleza arquitectónica para crear una estructura única y duradera. Su importancia histórica y su impresionante diseño lo convierten en un punto de referencia cultural y turística en el Perú.\nLa fortaleza presenta una planta en forma de pentágono irregular, adaptada a la topografía del terreno y al contorno costero.\nLos muros exteriores son altos y gruesos, con almenas y garitas en las esquinas para vigilancia y defensa.\nSe destacan los espacios interiores amplios y funcionales, diseñados para alojar tropas, armamento y provisiones.\nLa disposición de los edificios internos, como los cuarteles y almacenes, sigue un patrón organizado alrededor de patios y plazas.\nEstilos arquitectónicos:\nEl Real Felipe exhibe una combinación de estilos arquitectónicos militares y coloniales.\nSe puede observar una influencia predominante del estilo renacentista en la estructura general de la fortaleza, con su énfasis en la simetría y la solidez.\nTambién se pueden identificar elementos barrocos en la ornamentación de ciertas áreas, como las puertas y las ventanas, donde se utilizan detalles decorativos elaborados.\nComponentes decorativos:\nLos detalles decorativos del Real Felipe son relativamente sobrios en comparación con otros edificios de la época.\nSe utilizan elementos decorativos en la arquitectura, como molduras, pilastras y frontones, para resaltar ciertas áreas y proporcionar un cierto grado de ornamentación.\nLa decoración interior se centra más en la funcionalidad y la durabilidad, con un énfasis en materiales resistentes y acabados simples.\nEl recorrido dentro de la Museo del Ejército “Real Felipe”, es el siguiente:\n• Primero: Cementerio u osario\n• Segundo: Puerta del Perdón\n• Tercero: Torreón de la Reina\n• Cuarto: Torreón del Rey\n• Quinto: Casa del Gobernador\n• Sexto: Parque de Artillería\nEn resumen, el Real Felipe incorpora una serie de elementos formales estéticos, estilos arquitectónicos y componentes decorativos que reflejan tanto su función militar como su importancia histórica y cultural en la arquitectura colonial peruana."
+    },
+    {
+      "titulo": "Particularidades",
+      "contenido": "Este monumento histórico construida entre 1747 y 1774 durante el Virreinato del Perú, es único no solo por su tamaño y diseño, sino también por su relevancia histórica. Fue un escenario clave en las guerras de independencia sudamericanas, símbolo de la resistencia y la transición hacia la era republicana en Perú. Además, mantiene su autenticidad al preservar su función militar a lo largo de los siglos, lo que la convierte en un puente entre el pasado y el presente, con una superficie en forma de pentágono que abarca 70,000 m² y un perímetro de 1,586 metros, es la fortificación más grande y única de su tipo en América del Sur destacándose por su diseño imponente y técnicas constructivas avanzadas para la época.\nLa Fortaleza incluye el Museo del Ejército del Perú, donde se exhiben armas, uniformes y documentos históricos que narran la evolución militar del país. Destacan los torreones del Rey y de la Reina, estructuras defensivas principales que aún conservan cañones originales y ofrecen vistas panorámicas al puerto del Callao. Otro punto de interés es la Plaza de Armas interna, un espacio central utilizado en la época colonial para actividades militares. Asimismo, los túneles subterráneos, diseñados estratégicamente para defensa, son accesibles mediante recorridos guiados que enriquecen la experiencia cultural."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "Fue declarada «Monumento Histórico Nacional» el 19 de mayo de 1952 por la Ley N.° 11841 dada por el Congreso de la República y promulgada por el presidente Manuel Odría."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, debido al constante mantenimiento por parte del Ejército del Perú."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "Algunas de las áreas de la fortaleza están restringidas el acceso u otras de uso estacional para eventos varios. Algunos accesos son restringidos para personas con discapacidad."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n1681\nMinisterio de Defensa - Dirección de Informaciones del Ejército\n2023\nMinisterio de Defensa - Dirección de Informaciones del Ejército\nTuristas Nacionales\n21398\nMinisterio de Defensa - Dirección de Informaciones del Ejército\n2023\nMinisterio de Defensa - Dirección de Informaciones del Ejército\nVisitantes Locales(Excursionistas)\n8515\nMinisterio de Defensa - Dirección de Informaciones del Ejército\n2023\nLa mayor demanda turística está compuesta por los estudiantes de las diferentes instituciones educativas de nivel primario, secundario y universidades provenientes de Lima Metropolitana y del Callao como también los visitantes locales de los diferentes distritos de Lima"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nCallao/Prov. Const. Del Callao/Callao\n-\nCallao/Prov. Const. Del Callao/Callao\nPlaza Grau / Museo del Ejército “Real Felipe”\nTerrestre\nA pie\nAsfaltado\n0.5 km / 5 minutos\n2\nCallao/Prov. Const. Del Callao/Callao\n-\nCallao/Prov. Const. Del Callao/Callao\nAeropuerto Internacional Jorge Chávez / Museo del Ejército \"Real Felipe“\nTerrestre\nAutomóvil particular\nAsfaltado\n11 Km / 32 minutos\n3\nLima/Lima/Lima\n-\nCallao/Prov. Const. Del Callao/Callao\nPlaza Mayor de Lima / Museo del Ejército “Real Felipe”\nTerrestre\nAutomóvil particular\nAsfaltado\n13 Km / 1 hora"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nPrecios de Ingresos en Nuevos Soles: Adulto Nacional y Extranjero S/. 12.00, Escolares y niños (hasta los 12) S/. 5.00 y Jubilados S/.6.00 Fuerza Armada y PNP S/.6.00\nPara coordinaciones en general\nOtros (especificar)\nGuías Oficial de Turismo no pagan por ley 28529."
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n09:00 a.m.\n-\n04:00 p.m.\nde lunes a domingo"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nActividades Culturales\n--\nOtros\nActividades Sociales\n--\nOtros\nRealización de eventos\n--\nOtros\nOtros(Especificar)\nRecorrido Interpretativo"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nAlimentación\nCafeterías\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nofrecen servicio de Guiado en los siguientes idiomas: ingles, francés, portugués.\nInstalaciones Privadas\nOtros Servicios Turísticos\nOtros (Especificar)\nEspectaculos Sociales\nInstalaciones Públicas\nServicios Públicos\nSeñales turísticas de orientación\n--\nInstalaciones Públicas\nServicios Públicos\nBoletería\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\nCallao / Hoteles de 2, 4 y 5 estrellas\nAlojamiento\nHostales (especificar categorías)\nCallao / Hostales de 1 y 2 estrellas\nAlimentación\nRestaurantes\nCallao\nAlimentación\nBares\nCallao\nAlimentación\nCafeterías\nCallao\nAlimentación\nVenta de comida Rápida\nCallao\nAlimentación\nFuentes de soda\nCallao\nAlimentación\nKioskos de comida y bebidas\nCallao\nLugares de Recreación\nPeñas\nCallao\nOtros Servicios Turísticos\nAgencia de Viajes\nCallao\nOtros Servicios Turísticos\nAlquiler de botes\nCallao\nOtros Servicios Turísticos\nVenta de artesanía\nCallao\nLugares de Recreación\nDiscotecas\nCallao\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCallao\nAlimentación\nCafeterías\nCallao\nLugares de Recreación\nCines o Teatros\nCallao\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nCallao\nOtros Servicios Turísticos\nOtros (Especificar)\nexhibicion y venta de artesania\nServicios Públicos\nSeñales turísticas de orientación\nCallao\nServicios Públicos\nSeñales turísticas de interpretación\nCallao\nServicios Públicos\nInstalación para la exposición de flora o fauna silvestre\nCallao\nServicios Públicos\nEmbarcaderos\nCallao\nServicios Públicos\nMuelles turísticos\nCallao\nServicios Públicos\nOficina de Información turística\nCallao\nServicios Públicos\nPuesto de auxilio rápido\nCallao"
+    },
+    {
+      "titulo": "Servicios Complementarios dentro del recurso",
+      "contenido": "Servicio Complementario\nObservación\nCentro de salud - tópico\n--"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCallao\nBancos\nCallao\nCajero automático\nCallao\nCasa de cambio\nCallao\nEstación de servicios, grifos, gasolineras y gasocentros\nCallao\nServicio de estacionamiento\nCallao\nCentro de salud - tópico\nCallao\nServicios de salvavidas\nCallao\nSeguridad / POLTUR / Comisaría\nCallao\nBodegas o minimarkets\nCallao\nVenta de materiales para fotografías\n--\nServicios de taxis\n--\nLibrerías\n--"
+    },
+    {
+      "titulo": "Condiciones de Accesibilidad al Visitante",
+      "contenido": "Visitante\nInstalación\nActividades y/o programas\nEquipamiento\nObservación\nNiños\n--\n--\n--\nJóvenes\n--\n--\n--\nAdulto mayor\n--\n--\n--\nPersonas con discapacidad física\ncuenta con rampas de accesos, para personas que se trasladan en silla de ruedas.\n--\n--\n--"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\n--\nAlcantarillado sanitario\n--\nLuz (Suministro Eléctrico)\n--\nTeléfono\n--\nSeñalización turística\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCallao\nAlcantarillado sanitario\nCallao\nLuz (Suministro Eléctrico)\nCallao\nTeléfono\nCallao\nSeñalización turística\nCallao"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nMinisterio de Defensa - Ejército del Perú\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nNumero de partida registral.\nNúmero de Partida:\n70097685\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nMinisterio de Defensa - Ejército del Perú\nTiempo de administración\nDesde el año 1952"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nGOBIERNO REGIONAL DEL CALLAO - OFICINA DE COMERCIO, TURISMO, ENERGÍA Y MINAS\nNombre (Persona(s) responsable(s) del inventario turístico):\nROSA LILIANA SANTAMARIA LOPEZ\nCargo:\nLic. en Turismo, Hotelería Y Gastronomia\nCorreo:\noctem@regioncallao.gob.pe; rsantamaria@regioncallao.gob.pe\nTeléfono:\n997506253\nFuentes Bibliográfica:\nZapatero, Juan Manuel (1983). El Real Felipe del Callao : primer castillo de la \"Mar del Sur\". Madrid: España.\nDe Noriega, Edgardo (1997). Este es el Real Felipe. Corporación de Desarrollo de Lima y Callao. Perú.\nDe La Puente, José (s/f). La fortaleza del Real Felipe. BCRP. https://www.bcrp.gob.pe/docs/Publicaciones/Revista-Moneda/moneda-152/moneda-152-13.pdf\nMuseos de Lima (s/f). Museo del Ejército – Fortaleza del Real Felipe. https://www.museosdelima.com/museo-del-ejercito-fortaleza-del-real-felipe/\nPeru.travel (2021). Real Felipe, una de las fortalezas más importantes de América. https://www.peru.travel/pe/masperu/real-felipe-una-de-las-fortalezas-mas-importantes-de-america\nMinisterio de Cultura (2022). Formulario de presentación, lista indicativa: Fortaleza del Real Felipe. https://patrimoniomundial.cultura.pe/sites/default/files/li/pdf/Ficha%20Lista%20Indicativa%20-%20Fortaleza%20del%20Real%20Felipe%20del%20Callao-Esp.pdf\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n20/12/2024 16:53:46"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -12.062658420711383,
+    "longitud": -77.14882854365538
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-12.062658420711383,-77.14882854365538"
+}

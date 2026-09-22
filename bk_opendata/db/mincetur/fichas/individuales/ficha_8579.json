@@ -1,0 +1,367 @@
+{
+  "cod_ficha": 8579,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=8579",
+  "nombre": "Sitio Arqueologico Fortaleza Del Chimpa",
+  "departamento": "Arequipa",
+  "provincia": "Caylloma",
+  "distrito": "MADRIGAL",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Sitios Arqueológicos",
+  "subtipo": "Fortalezas",
+  "jerarquia": "2",
+  "altitud": "3252 m.s.n.m.",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=543427",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=543427",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=543404",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=543405",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=543406",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=543428",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=543407",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=543429",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=543430"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Paseos - Excursiones",
+    "Otros - Estudios e Investigación",
+    "Naturaleza - Observación de paisaje",
+    "Naturaleza - Observación de aves",
+    "Deportes / Aventura - Caminata/Trekking"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Paseos",
+      "tipo": "Excursiones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/excursiones02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de aves",
+      "observacion": "Cóndor",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/aves02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Arequipa/Arequipa/Arequipa - Arequipa/Caylloma/Chivay",
+      "detalle": "Plaza de Arequipa - Plaza de Chivay",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus turístico",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "159 km / 3 horas"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Arequipa/Caylloma/Chivay - Arequipa/Caylloma/Lari",
+      "detalle": "Plaza de Chivay - Plaza de Lari",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus turístico",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "23.9 Km/50 minutos aprox."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Arequipa/Caylloma/Lari - Arequipa/Caylloma/Madrigal",
+      "detalle": "Plaza Lari- Plaza Madrigal",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus turístico",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "6.50 Km/ 15 minutos aprox."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Arequipa/Caylloma/Madrigal - Arequipa/Caylloma/Madrigal",
+      "detalle": "Plaza de Madrigal - Playa de estacionamiento de la Chimpa",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus turístico",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "6.42 km/20 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Arequipa/Caylloma/Madrigal - Arequipa/Caylloma/Madrigal",
+      "detalle": "Playa de estacionamiento de la Chimpa – Fortaleza de la Chimpa",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Sendero",
+      "distancia_tiempo": "1.32 km / 60 min."
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "2070",
+      "horario": "Oficio N° 356-2024-AUTOCOLCA/G",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "720",
+      "horario": "Oficio N° 356-2024-AUTOCOLCA/G",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "12510",
+      "horario": "Oficio N°356-2024-AUTOCOLCA/G",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "06:00 a.m. - 03:00 p.m. Se recomienda ese horario para mejor visibilidad y disfrute del turista. De enero a marzo, se dificulta su visita por la lluvia y neblina",
+      "observaciones": "Se recomienda ese horario para mejor visibilidad y disfrute del turista. De enero a marzo, se dificulta su visita por la lluvia y neblina"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de interpretación",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Paradores turísticos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "Pueblo de Chivay 4*3*2*"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "En el distrito de Chivay"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "En el distrito de Chivay"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "Pueblo de Chivay 3*2*1*"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "En el distrito de Chivay"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "En el distrito de Chivay"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "En el distrito de Chivay"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "En el distrito de Chivay"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "En el distrito de Chivay"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "En el distrito de Chivay"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "En el distrito de Chivay"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "En el distrito de Chivay"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Boletería",
+      "observacion": "En el distrito de Chivay"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Centros de interpretación",
+      "observacion": "En el distrito de Chivay"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "En el distrito de Chivay"
+    }
+  ],
+  "descripcion": "La Fortaleza de Chimpa es un magnífico ejemplo de las edificaciones Collaguas, construída en su totalidad de piedra. Presenta un imponente observatorio desde donde se puede divisar la parte más profunda del Cañón del Colca; este recinto consistía en un complejo arquitectónico de control estratégico y ceremonial; desde la cima se puede observar los pueblos de Madrigal, Lari, Ichupampa, Pinchollo, Cabanaconde y Tapay. Una gran muralla rodea el complejo además de colcas (lugares de almacenamiento), lito maquetas (diseño de las andenerías, terrazas y sistemas de riego, generalmente usado por la sociedad Wari, donde plasmaron parte de su área geográfica, dominio territorial y área de trabajo), tumbas con presencia de restos óseos, pequeños fragmentos de tejidos, restos de cerámicos y pinturas rupestres que evidencian escenas de la vida agrícola de estos antiguos habitantes que no solo dominaron un espacio territorial, sino que se impusieron estratégicamente.\nLa Fortaleza es un monumento arqueológico que fue declarado Patrimonio Cultural de la Nación el 10 de marzo Del 2011 por el Ministerio de Cultura, ubicado a 01 hora y 50 minutos en caminata de la playa de estacionamiento, la cual está ubicada a 15 minutos en camioneta de la plaza Principal del distrito de Madrigal, en este lugar se puede apreciar un mirador con un radio de 04 m, también se puede observar  una muralla aproximadamente de 35 m de largo con un grosor de 2 metros y una altura hasta de 3 metros, cuenta con un túnel donde solo puede caber una persona con un ancho de 60¿cm y una altura de 1 metro y 60 cm, el cual era el único acceso a la parte alta donde está ubicado un torreón donde se practicaban actividades mágico-religiosas o sacrificios en épocas de guerra con los españoles, este centro turístico tiene un área aproximadamente 5000 metros cuadrados en el que diferentes visitantes tanto nacionales como extranjeros se deleitan teniendo tan maravillosas vistas; después de haber subido una gradería en pendiente, aprecian todo el paisaje del pintoresco distrito turístico de Madrigal.\nPor otra parte, el interés turístico y cultural de diferentes grupos, es conocer y estudiar cómo, los antiguos Collaguas podían concretar un monumento arqueológico y arquitectónico en defensa a su integridad social y como fue la creación de este recinto turístico. La Fortaleza es la principal marca cultural y turística del distrito, desde su cima podemos apreciar la majestuosidad e inmensidad del Valle Del Colca bajo diferentes ángulos mostrando un control estratégico del espacio en la zona; ello acompañado de la gran biodiversidad biótica y abiótica que enriquecen el lugar. Siendo parte de este fascinante lugar Las Tumbas de Chimpa (donde encontramos algunos tejidos, fragmentos de cerámicas, cabellos humanos y restos óseos con perforaciones y deformaciones en sus cráneos), Ventana de la Chimpa (Caprichosa formación rocosa de forma triangular de aproximadamente 2¿m y 50¿cm de alto desde donde se aprecia una impresionante vista de las andenerías que bordean el cerro Chimpamayo), Pinturas Rupestres (las cuales expresan la especial relación que tenían sus creadores con las criaturas de su entorno y con sus deidades), las Litomaquetas y la Silla del Mandatario Collagua (Conjunto rocoso que tiene forma de trono rodeado por maquetas de piedra).",
+  "particularidades": "",
+  "estado_actual": "Buen estado de conservación, recibe mantenimiento por parte de AUTOCOLCA.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "La Fortaleza de Chimpa es un magnífico ejemplo de las edificaciones Collaguas, construída en su totalidad de piedra. Presenta un imponente observatorio desde donde se puede divisar la parte más profunda del Cañón del Colca; este recinto consistía en un complejo arquitectónico de control estratégico y ceremonial; desde la cima se puede observar los pueblos de Madrigal, Lari, Ichupampa, Pinchollo, Cabanaconde y Tapay. Una gran muralla rodea el complejo además de colcas (lugares de almacenamiento), lito maquetas (diseño de las andenerías, terrazas y sistemas de riego, generalmente usado por la sociedad Wari, donde plasmaron parte de su área geográfica, dominio territorial y área de trabajo), tumbas con presencia de restos óseos, pequeños fragmentos de tejidos, restos de cerámicos y pinturas rupestres que evidencian escenas de la vida agrícola de estos antiguos habitantes que no solo dominaron un espacio territorial, sino que se impusieron estratégicamente.\nLa Fortaleza es un monumento arqueológico que fue declarado Patrimonio Cultural de la Nación el 10 de marzo Del 2011 por el Ministerio de Cultura, ubicado a 01 hora y 50 minutos en caminata de la playa de estacionamiento, la cual está ubicada a 15 minutos en camioneta de la plaza Principal del distrito de Madrigal, en este lugar se puede apreciar un mirador con un radio de 04 m, también se puede observar  una muralla aproximadamente de 35 m de largo con un grosor de 2 metros y una altura hasta de 3 metros, cuenta con un túnel donde solo puede caber una persona con un ancho de 60¿cm y una altura de 1 metro y 60 cm, el cual era el único acceso a la parte alta donde está ubicado un torreón donde se practicaban actividades mágico-religiosas o sacrificios en épocas de guerra con los españoles, este centro turístico tiene un área aproximadamente 5000 metros cuadrados en el que diferentes visitantes tanto nacionales como extranjeros se deleitan teniendo tan maravillosas vistas; después de haber subido una gradería en pendiente, aprecian todo el paisaje del pintoresco distrito turístico de Madrigal.\nPor otra parte, el interés turístico y cultural de diferentes grupos, es conocer y estudiar cómo, los antiguos Collaguas podían concretar un monumento arqueológico y arquitectónico en defensa a su integridad social y como fue la creación de este recinto turístico. La Fortaleza es la principal marca cultural y turística del distrito, desde su cima podemos apreciar la majestuosidad e inmensidad del Valle Del Colca bajo diferentes ángulos mostrando un control estratégico del espacio en la zona; ello acompañado de la gran biodiversidad biótica y abiótica que enriquecen el lugar. Siendo parte de este fascinante lugar Las Tumbas de Chimpa (donde encontramos algunos tejidos, fragmentos de cerámicas, cabellos humanos y restos óseos con perforaciones y deformaciones en sus cráneos), Ventana de la Chimpa (Caprichosa formación rocosa de forma triangular de aproximadamente 2¿m y 50¿cm de alto desde donde se aprecia una impresionante vista de las andenerías que bordean el cerro Chimpamayo), Pinturas Rupestres (las cuales expresan la especial relación que tenían sus creadores con las criaturas de su entorno y con sus deidades), las Litomaquetas y la Silla del Mandatario Collagua (Conjunto rocoso que tiene forma de trono rodeado por maquetas de piedra)."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "Declarado por Resolución Viceministerial N°292-2011-VMPCIC-MC Patrimonio Cultural de la Nación al monumento arqueológico Chimpa. Lima 10 de marzo del 2011"
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Buen estado de conservación, recibe mantenimiento por parte de AUTOCOLCA."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nVisitantes Locales(Excursionistas)\n2070\nOficio N° 356-2024-AUTOCOLCA/G\n2024\nProyección en base al conteo muestral\nTuristas Nacionales\n720\nOficio N° 356-2024-AUTOCOLCA/G\n2024\nProyección en base al conteo muestral\nTuristas Extranjeros\n12510\nOficio N°356-2024-AUTOCOLCA/G\n2024\nProyección en base al conteo muestral"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nArequipa/Arequipa/Arequipa\n-\nArequipa/Caylloma/Chivay\nPlaza de Arequipa - Plaza de Chivay\nTerrestre\nBus turístico\nAsfaltado\n159 km / 3 horas\n1\nArequipa/Caylloma/Chivay\n-\nArequipa/Caylloma/Lari\nPlaza de Chivay - Plaza de Lari\nTerrestre\nBus turístico\nAsfaltado\n23.9 Km/50 minutos aprox.\n1\nArequipa/Caylloma/Lari\n-\nArequipa/Caylloma/Madrigal\nPlaza Lari- Plaza Madrigal\nTerrestre\nBus turístico\nAfirmado\n6.50 Km/ 15 minutos aprox.\n1\nArequipa/Caylloma/Madrigal\n-\nArequipa/Caylloma/Madrigal\nPlaza de Madrigal - Playa de estacionamiento de la Chimpa\nTerrestre\nBus turístico\nAfirmado\n6.42 km/20 min\n1\nArequipa/Caylloma/Madrigal\n-\nArequipa/Caylloma/Madrigal\nPlaya de estacionamiento de la Chimpa – Fortaleza de la Chimpa\nTerrestre\nA pie\nSendero\n1.32 km / 60 min."
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n06:00 a.m.\n-\n03:00 p.m.\nSe recomienda ese horario para mejor visibilidad y disfrute del turista. De enero a marzo, se dificulta su visita por la lluvia y neblina"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nPaseos\nExcursiones\n--\nOtros\nEstudios e Investigación\n--\nNaturaleza\nObservación de paisaje\n--\nNaturaleza\nObservación de aves\nCóndor\nDeportes / Aventura\nCaminata/Trekking\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Públicas\nServicios Públicos\nMiradores turísticos\n--\nInstalaciones Públicas\nServicios Públicos\nEstacionamiento de vehículos\n--\nInstalaciones Públicas\nServicios Públicos\nSeñales turísticas de orientación\n--\nInstalaciones Públicas\nServicios Públicos\nSeñales turísticas de interpretación\n--\nInstalaciones Públicas\nServicios Públicos\nParadores turísticos\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\nPueblo de Chivay 4*3*2*\nAlimentación\nRestaurantes\nEn el distrito de Chivay\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nEn el distrito de Chivay\nAlojamiento\nHostales (especificar categorías)\nPueblo de Chivay 3*2*1*\nAlimentación\nCafeterías\nEn el distrito de Chivay\nLugares de Recreación\nDiscotecas\nEn el distrito de Chivay\nLugares de Recreación\nJuegos Infantiles\nEn el distrito de Chivay\nLugares de Recreación\nCentros Deportivos\nEn el distrito de Chivay\nOtros Servicios Turísticos\nVenta de artesanía\nEn el distrito de Chivay\nOtros Servicios Turísticos\nAgencia de Viajes\nEn el distrito de Chivay\nServicios Públicos\nEstacionamiento de vehículos\nEn el distrito de Chivay\nServicios Públicos\nSeñales turísticas de orientación\nEn el distrito de Chivay\nServicios Públicos\nBoletería\nEn el distrito de Chivay\nServicios Públicos\nCentros de interpretación\nEn el distrito de Chivay\nServicios Públicos\nOficina de Información turística\nEn el distrito de Chivay"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nEn el distrito de Chivay\nBancos\nBco de la Nación, Caja Arequipa en el distrito de Chivay\nCajero automático\nBCP, Global Net en el distrito de Chivay\nEstación de servicios, grifos, gasolineras y gasocentros\nEn el distrito de Chivay\nServicio de estacionamiento\nEn el distrito de Chivay\nServicios de taxis\nEn el distrito de Chivay\nSeguridad / POLTUR / Comisaría\nEn el distrito de Chivay\nLibrerías\nEn el distrito de Chivay\nBodegas o minimarkets\nEn el distrito de Chivay"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nSeñalización turística\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nEn el distrito de Chivay\nAlcantarillado sanitario\nEn el distrito de Chivay\nDesagüe\nEn el distrito de Chivay\nLuz (Suministro Eléctrico)\nEn el distrito de Chivay\nTeléfono\nEn el distrito de Chivay\nSeñalización turística\nEn el distrito de Chivay"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\n--\nPrivado:\n--\nOtra Situación:\nMinisterio de Cultura\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nResolución Viceministerial Nº 292-2011- VMPCIC-MC\nAdministrador por\nNombre\nAutoridad Autónoma del Colca Y Anexos –AUTOCOLCA y Municipalidad Distrital de Madrigal\nTiempo de administración\nDesde 1986"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nGerencia Regional de Comercio Exterior y Turismo de Arequipa\nNombre (Persona(s) responsable(s) del inventario turístico):\nLic. Claudia Isabel Barrios Cacya\nCargo:\nEspecialista en Turismo\nCorreo:\ncbarrios@correo.regionarequipa.gob.pe\nTeléfono:\n988099750\nFuentes Bibliográfica:\nAUTOCOLCA, A. A. (2009). Winaypa Colca, Eternamente Colca. Arequipa. Caylloma, A. P. (2007). Colca-Ampato. Lpg Editores.Clara, R. C. (10 De Marzo De 2008). El Cañon del Colca Desde La Fortaleza La Chimpa. Recuperado El 2014, De Http://Lachimpa.Blogspot.Com/Eloy, L. M. (S.F.). Pre Historia De Arequipa. Arequipa. Elvis, M. C. (2011). Distrito De Madrigal. Arequipa: Escuela Profesional De Turismo Y Hoteleria, Univirsidad Nacinal De San Agustin. German, C. Z. (2011). Circuito Turistico Para El Distrito De Madrigal. Arequipa: Escuela De Turismo Y Hoteleria, Universidad Nacional De San Agustin. Posso Sanchez James, V. C. (2012). Colca Paraiso Profundo. Arequipa. Raul, C. C. (S.F.). chahui J.L, Choquehuanca C. “Estudio De Las Potencialidades Turísticas De Los Distritos De Coporaque, Ichupampa, Lari, Madrigal En El Valle Del Colca; Y Propuesta De Circuitos Turísticos-Caylloma 2014-2015”. Arequipa 2015.GEOPARQUE – Colca y Volcanes de Andagua – UNESCO, 2019. Oficina de Georparques. Arequipa.\nMaterial Audiovisual actual del Recurso:\nFOTO, VIDEOS\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n19/07/2024 10:12:58"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -15.58943294291886,
+    "longitud": -71.84324741363525
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-15.58943294291886,-71.84324741363525"
+}

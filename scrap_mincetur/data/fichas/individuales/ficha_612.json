@@ -1,0 +1,354 @@
+{
+  "cod_ficha": 612,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=612",
+  "nombre": "Complejo Turístico Baños Termales La Calera",
+  "departamento": "Arequipa",
+  "provincia": "Caylloma",
+  "distrito": "CHIVAY",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "k. Agua termo-mineral",
+  "subtipo": "Otros",
+  "jerarquia": "1",
+  "altitud": "3610",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=614947",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=614947",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=614997",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=614948",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=614998",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=614999",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=614949",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=615000",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=615001",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=614950",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=615002",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=614951",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=615003"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Estudios e Investigación",
+    "Deportes acuáticos - Natación",
+    "Naturaleza - Observación de paisaje"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Deportes acuáticos",
+      "tipo": "Natación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/natacion02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "Se observa parte de la andenería y el río Colca",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Arequipa/Arequipa/Jacobo Hunter - Arequipa/Caylloma/Chivay",
+      "detalle": "Terminal Terrestre de Arequipa - Terminal Terrestre de Chivay",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "151km/3hrs"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Arequipa/Caylloma/Chivay - Arequipa/Caylloma/Chivay",
+      "detalle": "Plaza de Chivay (Calle Puente Inca) - Baños Termales La Calera",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Combi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "3 km/10 min (Se encuentra en proyecto de asfalto)"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "16218",
+      "horario": "AUTOCOLCA",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "46386",
+      "horario": "AUTOCOLCA",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "82274",
+      "horario": "AUTOCOLCA",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "04:00 a.m. - 07:00 p.m. El cierre depende de cada piscina. Las piscinas N°1 y N°2 cierran a las 7:00 pm",
+      "observaciones": "El cierre depende de cada piscina. Las piscinas N°1 y N°2 cierran a las 7:00 pm"
+    },
+    {
+      "epoca": "Personas con discapacidad física",
+      "especificacion": "Rampas de acceso",
+      "horario": "--",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "Turistas extranjeros es S/15.00 y nacionales S/10.00 soles, para las piscinas N°1 y N°5. Para la población local es: S/0.50; S/1.50 y S/2.50 soles (piscinas N°2, N°3 y N°4) y nacionales S/5.00 soles"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Boletería",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Museo de Sitio Turísticos",
+      "observacion": "Ingreso libre"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Alquiler de trajes de baño y otros implementos"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Localidad de Chivay"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Localidad de Chivay"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Localidad de Chivay, Mercado de Chivay, Alameda Taki Tusuy"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Localidad de Chivay"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de Caballos",
+      "observacion": "Localidad de Chivay"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Localidad de Chivay"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Localidad de Chivay"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Localidad de Chivay"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "4, 3 y 2 estrellas, Localidad de Chivay"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "3 y 2 estrellas. Localidad de Chivay"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Localidad de Chivay"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "Localidad de Chivay, Pueblo Joven Sol de Sacsayhuaman"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Localidad de Chivay"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Centros de interpretación",
+      "observacion": "Pueblo de Chivay, Garita de Control"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Localidad de Chivay, Oficinas de Autocolca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "Localidad de Chivay, Mercado de Chivay, Alameda Taki Tusuy"
+    }
+  ],
+  "descripcion": "El Complejo Turístico Baños Termales La Calera, está ubicado a 3 km de Chivay en el Valle del Colca, sobre los 3610 msnm, es un lugar popular para todos los visitantes que buscan relajación y beneficios para la salud. Este complejo, es administrado por la Municipal Provincial de Caylloma, de construcción moderna, pero con materiales que la hacen rústica. Comprende 6 piscinas, de las cuales 5 piscinas se encuentran operativas con aguas temperadas, las aguas son provenientes del Volcán Cotallaulli, donde inicialmente tienen una temperatura que bordea los 80°C a 85°C, pero en su recorrido llega a los “serpentines” (pozos que sirven para enfriar el agua) donde la temperatura disminuye y luego son distribuidos a las piscinas que llegan a una temperatura entre 38°C y 40°C, que permite bañarse en sus aguas. Se le atribuye propiedades de la curación de diversos males, sobre todo reumatismo y muchos otros relacionados con los músculos y la piel, sus aguas contienen componentes químicos, sulfurosos y carbonatados, 40% de azufre, 20% calcio, 18% zinc, 8 % de sales y 2% otros elementos; que pueden ser absorbidos por los poros y ayudan en sobremanera a los dolores musculares y óseos, esto mediante un uso continuo y en reducido en tiempo. Al ingresar a los baños termales se percibe el olor a azufre. Dentro del complejo turístico se ha acondicionado un pequeño museo etnológico donde se exponen elementos encontrados durante las excavaciones y estudios arqueológicos realizados en el valle de Colca, así como muestra de los trajes típicos del Colca. Forma parte del complejo turístico las áreas verdes donde se aprecia a modo de andenerías para llegar se pasan por un puente colgante que permite cruzar al otro lado del río de Colca. Las piscinas N°1 y N°5 son abiertas con techos de malla raschel, la piscina N°2 es cerrada e incluye una cámara seca de vapor, la piscina N°3 es cerrada y con sombra, y la piscina N° 4 es exclusiva para las personas de la tercera edad. El tiempo máximo recomendado para el uso de las piscinas es de 45 minutos.",
+  "particularidades": "",
+  "estado_actual": "Bueno: recibe constante mantenimiento y limpieza de la Municipalidad Provincial de Caylloma.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "El Complejo Turístico Baños Termales La Calera, está ubicado a 3 km de Chivay en el Valle del Colca, sobre los 3610 msnm, es un lugar popular para todos los visitantes que buscan relajación y beneficios para la salud. Este complejo, es administrado por la Municipal Provincial de Caylloma, de construcción moderna, pero con materiales que la hacen rústica. Comprende 6 piscinas, de las cuales 5 piscinas se encuentran operativas con aguas temperadas, las aguas son provenientes del Volcán Cotallaulli, donde inicialmente tienen una temperatura que bordea los 80°C a 85°C, pero en su recorrido llega a los “serpentines” (pozos que sirven para enfriar el agua) donde la temperatura disminuye y luego son distribuidos a las piscinas que llegan a una temperatura entre 38°C y 40°C, que permite bañarse en sus aguas. Se le atribuye propiedades de la curación de diversos males, sobre todo reumatismo y muchos otros relacionados con los músculos y la piel, sus aguas contienen componentes químicos, sulfurosos y carbonatados, 40% de azufre, 20% calcio, 18% zinc, 8 % de sales y 2% otros elementos; que pueden ser absorbidos por los poros y ayudan en sobremanera a los dolores musculares y óseos, esto mediante un uso continuo y en reducido en tiempo. Al ingresar a los baños termales se percibe el olor a azufre. Dentro del complejo turístico se ha acondicionado un pequeño museo etnológico donde se exponen elementos encontrados durante las excavaciones y estudios arqueológicos realizados en el valle de Colca, así como muestra de los trajes típicos del Colca. Forma parte del complejo turístico las áreas verdes donde se aprecia a modo de andenerías para llegar se pasan por un puente colgante que permite cruzar al otro lado del río de Colca. Las piscinas N°1 y N°5 son abiertas con techos de malla raschel, la piscina N°2 es cerrada e incluye una cámara seca de vapor, la piscina N°3 es cerrada y con sombra, y la piscina N° 4 es exclusiva para las personas de la tercera edad. El tiempo máximo recomendado para el uso de las piscinas es de 45 minutos."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno: recibe constante mantenimiento y limpieza de la Municipalidad Provincial de Caylloma."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n16218\nAUTOCOLCA\n2024\nControl de ticket de ingreso\nTuristas Nacionales\n46386\nAUTOCOLCA\n2024\nControl de ticket de ingreso\nVisitantes Locales(Excursionistas)\n82274\nAUTOCOLCA\n2024\nControl de ticket de ingreso"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nArequipa/Arequipa/Jacobo Hunter\n-\nArequipa/Caylloma/Chivay\nTerminal Terrestre de Arequipa - Terminal Terrestre de Chivay\nTerrestre\nBus público\nAsfaltado\n151km/3hrs\n1\nArequipa/Caylloma/Chivay\n-\nArequipa/Caylloma/Chivay\nPlaza de Chivay (Calle Puente Inca) - Baños Termales La Calera\nTerrestre\nCombi\nAsfaltado\n3 km/10 min (Se encuentra en proyecto de asfalto)"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nTuristas extranjeros es S/15.00 y nacionales S/10.00 soles, para las piscinas N°1 y N°5. Para la población local es: S/0.50; S/1.50 y S/2.50 soles (piscinas N°2, N°3 y N°4) y nacionales S/5.00 soles"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n04:00 a.m.\n-\n07:00 p.m.\nEl cierre depende de cada piscina. Las piscinas N°1 y N°2 cierran a las 7:00 pm"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nEstudios e Investigación\n--\nDeportes acuáticos\nNatación\n--\nNaturaleza\nObservación de paisaje\nSe observa parte de la andenería y el río Colca"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nAlimentación\nKioskos de comida y bebidas\n--\nInstalaciones Públicas\nServicios Públicos\nEstacionamiento de vehículos\n--\nInstalaciones Públicas\nServicios Públicos\nSeñales turísticas de orientación\n--\nInstalaciones Públicas\nServicios Públicos\nBoletería\n--\nInstalaciones Públicas\nServicios Públicos\nMuseo de Sitio Turísticos\nIngreso libre\nInstalaciones Privadas\nOtros Servicios Turísticos\nOtros (Especificar)\nAlquiler de trajes de baño y otros implementos"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nLugares de Recreación\nDiscotecas\nLocalidad de Chivay\nLugares de Recreación\nBares\nLocalidad de Chivay\nOtros Servicios Turísticos\nVenta de artesanía\nLocalidad de Chivay, Mercado de Chivay, Alameda Taki Tusuy\nOtros Servicios Turísticos\nAgencia de Viajes\nLocalidad de Chivay\nOtros Servicios Turísticos\nAlquiler de Caballos\nLocalidad de Chivay\nAlimentación\nRestaurantes\nLocalidad de Chivay\nAlimentación\nCafeterías\nLocalidad de Chivay\nAlimentación\nKioskos de comida y bebidas\nLocalidad de Chivay\nAlojamiento\nHoteles (especificar categorías)\n4, 3 y 2 estrellas, Localidad de Chivay\nAlojamiento\nHostales (especificar categorías)\n3 y 2 estrellas. Localidad de Chivay\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nLocalidad de Chivay\nServicios Públicos\nMiradores turísticos\nLocalidad de Chivay, Pueblo Joven Sol de Sacsayhuaman\nServicios Públicos\nEstacionamiento de vehículos\nLocalidad de Chivay\nServicios Públicos\nCentros de interpretación\nPueblo de Chivay, Garita de Control\nServicios Públicos\nOficina de Información turística\nLocalidad de Chivay, Oficinas de Autocolca\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\nLocalidad de Chivay, Mercado de Chivay, Alameda Taki Tusuy"
+    },
+    {
+      "titulo": "Servicios Complementarios dentro del recurso",
+      "contenido": "Servicio Complementario\nObservación\nServicio de estacionamiento\n--\nCentro de salud - tópico\nTópico"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nLocalidad de Chivay, Red Movil\nBancos\nLocalidad de Chivay, Banco de la Nacion, Caja Arequipa, Agentes BBVA, BCP e Interbank\nCajero automático\nLocalidad de Chivay, Caja Arequipa\nCasa de cambio\nLocalidad de Chivay\nEstación de servicios, grifos, gasolineras y gasocentros\nLocalidad de Chivay\nServicio de correos\nLocalidad de Chivay\nServicio de estacionamiento\nLocalidad de Chivay\nServicios de taxis\nLocalidad de Chivay, Plaza de Armas\nCentro de salud - tópico\nLocalidad de Chivay, Centro de Salud Chivay\nVenta de materiales para fotografías\nLocalidad de Chivay\nSeguridad / POLTUR / Comisaría\nLocalidad de Chivay, Comisaria PNP\nAlquiler y compra de equipos deportivos\nLocalidad de Chivay, Mercado de Chivay\nLibrerías\nLocalidad de Chivay\nBodegas o minimarkets\nLocalidad de Chivay\nOtros(especificar)\nLocalidad de Chivay, Mercado"
+    },
+    {
+      "titulo": "Condiciones de Accesibilidad al Visitante",
+      "contenido": "Visitante\nInstalación\nActividades y/o programas\nEquipamiento\nObservación\nPersonas con discapacidad física\nRampas de acceso\n--\n--\n--"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\n--\nAlcantarillado sanitario\n--\nLuz (Suministro Eléctrico)\n--\nSeñalización turística\n--\nSistemas de tratamiento alternativo de residuos (Biodigestor, pozo séptico, otros)\nBiodigestor"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nLocalidad de Chivay\nAlcantarillado sanitario\nLocalidad de Chivay\nLuz (Suministro Eléctrico)\nLocalidad de Chivay\nSeñalización turística\nLocalidad de Chivay\nTeléfono\nLocalidad de Chivay"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nMunicipalidad Provincial de Caylloma\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nFichas N° 71522 y 71523, Registro de Propiedad Inmueble de los Registros Públicos Oficina Registral Región Arequipa\nAdministrador por\nNombre\nMunicipalidad Provincial de Caylloma\nTiempo de administración\nDesde el año 1997"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nGerencia Regional de Comercio Exterior y Turismo de Arequipa\nNombre (Persona(s) responsable(s) del inventario turístico):\nLic. Claudia Barrios Cacya\nCargo:\nEspecialista en Turismo\nCorreo:\ncbarrios@regionarequipa.gob.pe\nTeléfono:\n988099750\nFuentes Bibliográfica:\n-Autoridad Autónoma del Colca y Anexos: VISITA EL COMPLEJO TURÍSTICO BAÑOS TERMALES LA CALERA. 2021 Enlace: https://www.facebook.com/watch/?v=1570609699943065\n-Arequipa 360: Baños termales la calera Enlace: https://arequipa360.com/es/visita-virtual/banos-termales-la-calera/\n-AUTOCOLCA. Plan De Desarrollo Turístico Local Chivay 2021 – 2025\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n29/08/2025 14:37:49"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -15.614865401587275,
+    "longitud": -71.58769670933151
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-15.614865401587275,-71.58769670933151"
+}

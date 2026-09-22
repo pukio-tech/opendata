@@ -1,0 +1,323 @@
+{
+  "cod_ficha": 4458,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=4458",
+  "nombre": "Cascada Imperitaja (Tina De Piedra)",
+  "departamento": "Junín",
+  "provincia": "Satipo",
+  "distrito": "PANGOA",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "j. Caídas de agua",
+  "subtipo": "Cascadas",
+  "jerarquia": "2",
+  "altitud": "1311",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=291804",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=291804",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=292276",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=588136",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=588137",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=588138",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=588186",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=588187"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Deportes acuáticos - Natación",
+    "Naturaleza - Observación de paisaje",
+    "Deportes / Aventura - Caminata/Trekking"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Deportes acuáticos",
+      "tipo": "Natación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/natacion02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Junín/Satipo/Satipo - Junín/Satipo/Mazamari",
+      "detalle": "Plaza Mayor de Satipo - Mazamari (Desvío a Unión Chavini)",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "32 kms 38 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Junín/Satipo/Mazamari - Junín/Satipo/Pangoa",
+      "detalle": "Desvío a Centro Poblado Unión Chavini - Boletería Catarata Imperitaja (Pangoa)",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "11,2 kms / 18 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Junín/Satipo/Pangoa - Junín/Satipo/Pangoa",
+      "detalle": "Boletería Catarata Imperijata - Catarata",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Sendero",
+      "distancia_tiempo": "0,3 kms / 5 minutos"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "4",
+      "horario": "Cuaderno de registro de visitantes",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "61",
+      "horario": "Cuaderno de registro de visitantes",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "301",
+      "horario": "Cuaderno de registro de visitantes",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Esporádicamente - Algunos meses",
+      "especificacion": "--",
+      "horario": "08:00 a.m. - 05:00 p.m. --",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "Adultos 3 soles, niños ingreso libre"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "Categorías de 1 y 2 estrellas en la Ciudad de Satipo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "En la Ciudad de Satipo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "En la Ciudad de Satipo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "En la Ciudad de Satipo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Tópico",
+      "observacion": "Centro de Salud de Pangoa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "Categorías de 1, 2 y 3 estrellas en la Ciudad de Satipo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "En la Ciudad de Satipo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "En la Ciudad de Satipo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "En la Ciudad de Satipo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "En la Ciudad de Satipo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "En la Ciudad de Satipo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Recreos campestres en la Ciudad de Satipo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "En la Ciudad de Satipo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "En la Ciudad de Satipo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "En la Ciudad de Satipo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "En la Ciudad de Satipo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "En la Ciudad de Satipo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "En la Ciudad de Satipo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "En la Ciudad de Satipo"
+    }
+  ],
+  "descripcion": "La Cascada Imperitaja conocida desde hace muchos años como Tina de Piedra, inició sus actividades de visita desde el año 1965 por los lugareños que cuentan haber visto una sirena de cabellos rubios y ojos verdes, en ese entonces la vieron sentada sobre una piedra al borde de la única caída de las aguas de la cascada que tiene forma de una tina labrada en piedra debido a la erosión ocasionada por la fuerte turbulencia del agua a través de miles de años; las aguas son cristalinas y de un ligero color ámbar con una temperatura de 24 grados centígrados; el rebalse del agua ha formado además un pequeño tobogán de piedra por el que los visitantes se pueden deslizar para caer en una segunda poza que se encuentra en el curso del río Chavini. A esta catarata la rodea una abundante vegetación típica de la selva alta, palmeras, lianas, helechos, orquídeas, sangre de grado, yunquis, catahuas, sapotes, huampos y bromelias. Así mismo, se encuentran relatos de mitos y leyendas vinculadas con la naturaleza de la selva, sirenas, el tunche y el Cerro Arpayo. En la zona podemos observar los cultivos de cafè, plàtano y piña. La caida de agua tiene una altura de 16 metros y se encuentra ubicada en la región natural de Selva Alta o Rupa Rupa según la denominación de Pulgar Vidal.",
+  "particularidades": "",
+  "estado_actual": "En buen estado de conservación a cargo de la Asociación de Turismo Tina de Piedra",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "La Cascada Imperitaja conocida desde hace muchos años como Tina de Piedra, inició sus actividades de visita desde el año 1965 por los lugareños que cuentan haber visto una sirena de cabellos rubios y ojos verdes, en ese entonces la vieron sentada sobre una piedra al borde de la única caída de las aguas de la cascada que tiene forma de una tina labrada en piedra debido a la erosión ocasionada por la fuerte turbulencia del agua a través de miles de años; las aguas son cristalinas y de un ligero color ámbar con una temperatura de 24 grados centígrados; el rebalse del agua ha formado además un pequeño tobogán de piedra por el que los visitantes se pueden deslizar para caer en una segunda poza que se encuentra en el curso del río Chavini. A esta catarata la rodea una abundante vegetación típica de la selva alta, palmeras, lianas, helechos, orquídeas, sangre de grado, yunquis, catahuas, sapotes, huampos y bromelias. Así mismo, se encuentran relatos de mitos y leyendas vinculadas con la naturaleza de la selva, sirenas, el tunche y el Cerro Arpayo. En la zona podemos observar los cultivos de cafè, plàtano y piña. La caida de agua tiene una altura de 16 metros y se encuentra ubicada en la región natural de Selva Alta o Rupa Rupa según la denominación de Pulgar Vidal."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "Maravilla Turística de la Región Junín. Resolución Directoral N° 002-2008-DIRCETUR-JUNIN / DG"
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "En buen estado de conservación a cargo de la Asociación de Turismo Tina de Piedra"
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n4\nCuaderno de registro de visitantes\n2024\nTuristas Nacionales\n61\nCuaderno de registro de visitantes\n2024\nVisitantes Locales(Excursionistas)\n301\nCuaderno de registro de visitantes\n2024"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nJunín/Satipo/Satipo\n-\nJunín/Satipo/Mazamari\nPlaza Mayor de Satipo - Mazamari (Desvío a Unión Chavini)\nTerrestre\nAutomóvil particular\nAsfaltado\n32 kms 38 minutos\n1\nJunín/Satipo/Mazamari\n-\nJunín/Satipo/Pangoa\nDesvío a Centro Poblado Unión Chavini - Boletería Catarata Imperitaja (Pangoa)\nTerrestre\nAutomóvil particular\nAfirmado\n11,2 kms / 18 minutos\n1\nJunín/Satipo/Pangoa\n-\nJunín/Satipo/Pangoa\nBoletería Catarata Imperijata - Catarata\nTerrestre\nA pie\nSendero\n0,3 kms / 5 minutos"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nAdultos 3 soles, niños ingreso libre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nEsporádicamente - Algunos meses\n--\n08:00 a.m.\n-\n05:00 p.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nDeportes acuáticos\nNatación\n--\nNaturaleza\nObservación de paisaje\n--\nDeportes / Aventura\nCaminata/Trekking\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\nCategorías de 1 y 2 estrellas en la Ciudad de Satipo\nAlimentación\nRestaurantes\nEn la Ciudad de Satipo\nAlimentación\nFuentes de soda\nEn la Ciudad de Satipo\nLugares de Recreación\nDiscotecas\nEn la Ciudad de Satipo\nOtros Servicios Turísticos\nTópico\nCentro de Salud de Pangoa\nAlojamiento\nHostales (especificar categorías)\nCategorías de 1, 2 y 3 estrellas en la Ciudad de Satipo\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nEn la Ciudad de Satipo\nAlimentación\nBares\nEn la Ciudad de Satipo\nAlimentación\nCafeterías\nEn la Ciudad de Satipo\nAlimentación\nKioskos de comida y bebidas\nEn la Ciudad de Satipo\nAlimentación\nVenta de comida Rápida\nEn la Ciudad de Satipo\nAlimentación\nOtros (Especificar)\nRecreos campestres en la Ciudad de Satipo\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nEn la Ciudad de Satipo\nLugares de Recreación\nKaraoke\nEn la Ciudad de Satipo\nLugares de Recreación\nBares\nEn la Ciudad de Satipo\nServicios Públicos\nEstacionamiento de vehículos\nEn la Ciudad de Satipo\nServicios Públicos\nSeñales turísticas de orientación\nEn la Ciudad de Satipo\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\nEn la Ciudad de Satipo\nServicios Públicos\nOficina de Información turística\nEn la Ciudad de Satipo"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nEn la Ciudad de Satipo\nBancos\nEn la Ciudad de Satipo\nCajero automático\nEn la Ciudad de Satipo\nCasa de cambio\nEn la Ciudad de Satipo\nEstación de servicios, grifos, gasolineras y gasocentros\nEn la Ciudad de Satipo\nServicio de correos\nEn la Ciudad de Satipo\nServicio de estacionamiento\nEn la Ciudad de Satipo\nServicios de taxis\nEn la Ciudad de Satipo\nCentro de salud - tópico\nEn la Ciudad de Satipo\nSeguridad / POLTUR / Comisaría\nEn la Ciudad de Satipo\nLibrerías\nEn la Ciudad de Satipo\nBodegas o minimarkets\nEn la Ciudad de Satipo"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nSeñalización turística\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nEn la Ciudad de Satipo\nLuz (Suministro Eléctrico)\nEn la Ciudad de Satipo\nTeléfono\nEn la Ciudad de Satipo\nAlcantarillado sanitario\nEn la Ciudad de Satipo\nSeñalización turística\nEn la Ciudad de Satipo"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\n--\nPrivado:\nAsociación de Turismo Tina de Piedra\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nFicha Registral\nNúmero de Partida:\n2342-PR\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nCrisanto Martinez Chaupis\nTiempo de administración\n17 años"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo de Junín\nNombre (Persona(s) responsable(s) del inventario turístico):\nLic Karina Jennie Zamora Bogo\nCargo:\nEncargada de la Oficina Zonal DIRCETUR San Ramón\nCorreo:\nzamorakarina2009@gmail.com\nTeléfono:\n957526926\nFuentes Bibliográfica:\nMunicipalidad Provincial de Satipo (2021). Plan Estratégico Provincial de Turismo de Satipo.\nMunicipalidad Provincial de Satipo (2022). Plan de Desarrollo Local Concertado de la Provincia de Satipo al 2025\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n28/04/2025 16:48:51"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -11.454,
+    "longitud": -74.48840000000001
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-11.454,-74.48840000000001"
+}

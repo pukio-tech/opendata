@@ -1,0 +1,318 @@
+{
+  "cod_ficha": 50,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=50",
+  "nombre": "Parque Ecológico Kurt Beer",
+  "departamento": "Piura",
+  "provincia": "Piura",
+  "distrito": "PIURA",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Arquitectura y Espacios Urbanos",
+  "subtipo": "Parques",
+  "jerarquia": "1",
+  "altitud": "22",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=614681",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=614681",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=615354",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=615436",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=615437",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=615485"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Naturaleza - Observación de fauna",
+    "Paseos - Paseos a caballo"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de fauna",
+      "observacion": "Venados, monos, loros cabeza roja, pavos reales, guacamayos, caballos, aguilillas, chanchos de monte y lagartos.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fauna02.png"
+    },
+    {
+      "actividad": "Paseos",
+      "tipo": "Paseos a caballo",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paseo_caballo02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Piura/Piura/Piura - Piura/Piura/Piura",
+      "detalle": "Plaza de Armas de Piura - Parque Kurt Beer",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Taxi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "7kms./ 15 min."
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "90",
+      "horario": "Conteo Muestral de Visitas al Recurso turístico",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "24300",
+      "horario": "Conteo Muestral de Visitas al Recurso turístico",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "08:00 a.m. - 04:00 p.m. De lunes a domingo.",
+      "observaciones": "De lunes a domingo."
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "Costo del ticket es de S/1.00, para los niños y adultos. Los niños menores de 5 años ingresan gratis."
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Piura"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Peñas",
+      "observacion": "Ciudad de Piura"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Cines o Teatros",
+      "observacion": "Ciudad de Piura"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Ciudad de Piura"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Ciudad de Piura"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Ciudad de Piura"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Lugares de picnic",
+      "observacion": "Ciudad de Piura"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Piura"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Piura"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de Piura"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Ciudad de Piura (Inglés, francés)"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de camionetas 4 x 4",
+      "observacion": "Ciudad de Piura"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Piura"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Piura"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Piura"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Ciudad de Piura"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "Ciudad de Piura (5 estrellas)"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "Ciudad de Piura (3 estrellas)"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Ciudad de Piura"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de interpretación",
+      "observacion": "Ciudad de Piura"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "Ciudad de Piura"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "Ciudad de Piura"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Ciudad de Piura"
+    }
+  ],
+  "descripcion": "El Parque Ecológico Kurt Beer representa un espacio de alto valor ecológico, recreativo y turístico para la ciudad de Piura. Reconocido como el único pulmón natural de la zona urbana, este recurso cuenta con una extensión de 42.5 hectáreas que ofrecen un refugio cálido rodeado de paisajes diversos. Su entorno invita a la contemplación de la naturaleza y a actividades educativas, convirtiéndolo en un lugar ideal para el esparcimiento familiar, la sensibilización ecológica y el turismo sostenible.\nDentro del parque se encuentra un mini zoológico que alberga diversas especies animales rescatadas, todas debidamente registradas ante el Servicio Nacional Forestal y de Fauna Silvestre (SERFOR). Entre ellas destacan venados, monos, loros cabeza roja, pavos reales, guacamayos, caballos, aguilillas, chanchos de monte y lagartos, los cuales habitan en espacios acondicionados según sus necesidades. Adicionalmente, el parque cuenta con inspecciones periódicas realizadas por el Servicio Nacional de Sanidad Agraria del Perú (SENASA) para garantizar la salud y el bienestar de los animales.\nLa flora del parque también es representativa y se distribuye en tres categorías principales: especies ornamentales como crotos, acalifas verdes y rojas, cucardas y rosas; especies forestales como algarrobos, zapotes y poncianas; y especies frutales como tamarindos, limoneros y papayas. Destaca especialmente el bosque de algarrobos, que funciona como área de recreación y senderismo.\nEl modelo de explotación del recurso es no extractivo, centrado en la conservación ambiental, la educación ecológica y el uso recreativo responsable. Las instalaciones permiten desarrollar actividades como paseos en carretas, juegos al aire libre, dinámicas deportivas y talleres de aprendizaje ambiental, incentivando el contacto directo con la naturaleza.\nLa motivación de interés turístico se fundamenta en la posibilidad de vivir una experiencia integral que conjuga la observación de fauna rescatada, el disfrute paisajístico y la participación en actividades formativas y recreativas. Gracias a su diversidad biológica, valor educativo y enfoque en la conservación, el Parque Ecológico Kurt Beer se posiciona como una alternativa atractiva y diferenciada dentro de la oferta turística de Piura.",
+  "particularidades": "",
+  "estado_actual": "Su estado de conservación es bueno a cargo de la Municipalidad Provincial de Piura",
+  "observaciones": "La mayor parte de las 75 hectáreas que conformaron su extensión en un primer momento han sido invadidas por foráneos y otra cantidad de hectáreas han sido donadas para la creación de una planta de tratamiento de aguas residuales. A la fecha sólo cuentan con 42.5 hectáreas en total.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "El Parque Ecológico Kurt Beer representa un espacio de alto valor ecológico, recreativo y turístico para la ciudad de Piura. Reconocido como el único pulmón natural de la zona urbana, este recurso cuenta con una extensión de 42.5 hectáreas que ofrecen un refugio cálido rodeado de paisajes diversos. Su entorno invita a la contemplación de la naturaleza y a actividades educativas, convirtiéndolo en un lugar ideal para el esparcimiento familiar, la sensibilización ecológica y el turismo sostenible.\nDentro del parque se encuentra un mini zoológico que alberga diversas especies animales rescatadas, todas debidamente registradas ante el Servicio Nacional Forestal y de Fauna Silvestre (SERFOR). Entre ellas destacan venados, monos, loros cabeza roja, pavos reales, guacamayos, caballos, aguilillas, chanchos de monte y lagartos, los cuales habitan en espacios acondicionados según sus necesidades. Adicionalmente, el parque cuenta con inspecciones periódicas realizadas por el Servicio Nacional de Sanidad Agraria del Perú (SENASA) para garantizar la salud y el bienestar de los animales.\nLa flora del parque también es representativa y se distribuye en tres categorías principales: especies ornamentales como crotos, acalifas verdes y rojas, cucardas y rosas; especies forestales como algarrobos, zapotes y poncianas; y especies frutales como tamarindos, limoneros y papayas. Destaca especialmente el bosque de algarrobos, que funciona como área de recreación y senderismo.\nEl modelo de explotación del recurso es no extractivo, centrado en la conservación ambiental, la educación ecológica y el uso recreativo responsable. Las instalaciones permiten desarrollar actividades como paseos en carretas, juegos al aire libre, dinámicas deportivas y talleres de aprendizaje ambiental, incentivando el contacto directo con la naturaleza.\nLa motivación de interés turístico se fundamenta en la posibilidad de vivir una experiencia integral que conjuga la observación de fauna rescatada, el disfrute paisajístico y la participación en actividades formativas y recreativas. Gracias a su diversidad biológica, valor educativo y enfoque en la conservación, el Parque Ecológico Kurt Beer se posiciona como una alternativa atractiva y diferenciada dentro de la oferta turística de Piura."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Su estado de conservación es bueno a cargo de la Municipalidad Provincial de Piura"
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "La mayor parte de las 75 hectáreas que conformaron su extensión en un primer momento han sido invadidas por foráneos y otra cantidad de hectáreas han sido donadas para la creación de una planta de tratamiento de aguas residuales. A la fecha sólo cuentan con 42.5 hectáreas en total."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Nacionales\n90\nConteo Muestral de Visitas al Recurso turístico\n2025\nProyección del Conteo Muestral mes de abril de 2025\nVisitantes Locales(Excursionistas)\n24300\nConteo Muestral de Visitas al Recurso turístico\n2025\nProyección del Conteo Muestral mes de abril de 2025"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nPiura/Piura/Piura\n-\nPiura/Piura/Piura\nPlaza de Armas de Piura - Parque Kurt Beer\nTerrestre\nTaxi\nAsfaltado\n7kms./ 15 min."
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nCosto del ticket es de S/1.00, para los niños y adultos. Los niños menores de 5 años ingresan gratis."
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n08:00 a.m.\n-\n04:00 p.m.\nDe lunes a domingo."
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nNaturaleza\nObservación de fauna\nVenados, monos, loros cabeza roja, pavos reales, guacamayos, caballos, aguilillas, chanchos de monte y lagartos.\nPaseos\nPaseos a caballo\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nLugares de Recreación\nDiscotecas\nCiudad de Piura\nLugares de Recreación\nPeñas\nCiudad de Piura\nLugares de Recreación\nCines o Teatros\nCiudad de Piura\nLugares de Recreación\nJuegos Infantiles\nCiudad de Piura\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nCiudad de Piura\nLugares de Recreación\nCentros Deportivos\nCiudad de Piura\nLugares de Recreación\nLugares de picnic\nCiudad de Piura\nLugares de Recreación\nBares\nCiudad de Piura\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Piura\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de Piura\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nCiudad de Piura\n(Inglés, francés)\nOtros Servicios Turísticos\nAlquiler de camionetas 4 x 4\nCiudad de Piura\nAlimentación\nRestaurantes\nCiudad de Piura\nAlimentación\nCafeterías\nCiudad de Piura\nAlimentación\nKioskos de comida y bebidas\nCiudad de Piura\nAlimentación\nVenta de comida Rápida\nCiudad de Piura\nAlojamiento\nHoteles (especificar categorías)\nCiudad de Piura\n(5 estrellas)\nAlojamiento\nHostales (especificar categorías)\nCiudad de Piura\n(3 estrellas)\nServicios Públicos\nEstacionamiento de vehículos\nCiudad de Piura\nServicios Públicos\nSeñales turísticas de interpretación\nCiudad de Piura\nServicios Públicos\nSeñales turísticas de orientación\nCiudad de Piura\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\nCiudad de Piura\nServicios Públicos\nOficina de Información turística\nCiudad de Piura"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Piura\nBancos\nCiudad de Piura\nCajero automático\nCiudad de Piura\nCasa de cambio\nCiudad de Piura\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Piura\nServicio de correos\nCiudad de Piura\nServicio de estacionamiento\nCiudad de Piura\nServicios de taxis\nCiudad de Piura\nCentro de salud - tópico\nCiudad de Piura\nServicios de salvavidas\nCiudad de Piura\nVenta de materiales para fotografías\nCiudad de Piura\nSeguridad / POLTUR / Comisaría\nCiudad de Piura\nAlquiler y compra de equipos deportivos\nCiudad de Piura\nLibrerías\nCiudad de Piura\nBodegas o minimarkets\nCiudad de Piura"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\n--\nLuz (Suministro Eléctrico)\n--\nEnergía Alternativa\nPaneles solares\nAlcantarillado sanitario\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Piura\nAlcantarillado sanitario\nCiudad de Piura\nLuz (Suministro Eléctrico)\nCiudad de Piura\nTeléfono\nCiudad de Piura\nSeñalización turística\nCiudad de Piura"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nA cargo de la Municipalidad Provincial de Piura\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nEn proceso. Se esta trabajando en el Saneamiento Físico Legal.\nAdministrador por\nNombre\nMunicipalidad Provincial de Piura.\nTiempo de administración\nDesde el año 2023."
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo-Piura\nNombre (Persona(s) responsable(s) del inventario turístico):\nJulio César Maza Cespedes\nCargo:\nDirector de Turismo\nCorreo:\ndir.turismo.dircetur@regionpiura.gob.pe\nTeléfono:\n073-340133\nFuentes Bibliográfica:\n1. Lombardi Valiente, J., Navarro Duque, K., & La Rosa-Boggio, D. O. (2025). Conversión de espacio abandonado en un espacio público - Parque Kurt Beer Veintiséis de Octubre, Piura. UCV Hacer, 14(2), 7-15. https://doi.org/10.18050/revucvhacer.v14n2a1 2.Cohara Tocto, K. N. M. (2020). Diagnóstico del recurso turístico Parque Ecológico Kurt Beer, Piura – Perú, 2020.\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\nLas instalaciones del albergue y los servicios higiénicos cuentan con energía proveniente de paneles solares recién instalados y financiados por la Municipalidad Provincial de Piura el año 2022.\nFecha:\n25/07/2025 15:14:16"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -5.208107683417542,
+    "longitud": -80.66737309098244
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-5.208107683417542,-80.66737309098244"
+}

@@ -1,0 +1,281 @@
+{
+  "cod_ficha": 3120,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=3120",
+  "nombre": "Iglesia Virgen De La Asunción De Ámbar",
+  "departamento": "Lima",
+  "provincia": "Huaura",
+  "distrito": "AMBAR",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Arquitectura y Espacios Urbanos",
+  "subtipo": "Iglesias",
+  "jerarquia": "POR JERARQUIZAR",
+  "altitud": "30",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=464383",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=464383",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=464384",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=464386",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=464387",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=464428"
+  ],
+  "actividades_permitidas": [
+    "Otros - Compras de artesanía/souvenir",
+    "Otros - Toma de fotografías y filmaciones",
+    "Cultura y Folclore - Actividades Religiosas o Patronales"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Compras de artesanía/souvenir",
+      "observacion": "Plaza de Armas de Ámbar",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/artesania02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Actividades Religiosas o Patronales",
+      "observacion": "Celebración de misa",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/act_religiosas02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Lima/Lima/Independencia - Lima/Huaura/Huacho",
+      "detalle": "TERMINAL TERRESTRE PLAZA NORTE - ÓVALO DE HUACHO",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "150 Km / 2 horas 49 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Lima/Huaura/Huacho - Lima/Huaura/Huaura",
+      "detalle": "ÓVALO DE HUACHO - VILCAHUAURA",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "17 Km / 34 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Lima/Huaura/Huaura - Lima/Huaura/Ambar",
+      "detalle": "VILCAHUAURA - PLAZA DE ARMAS DE ÁMBAR",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "54.3 Km / 3 horas 10 minutos"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Lima/Huaral/Huaral - Lima/Huaura/Huacho",
+      "detalle": "TERMINAL TERRESTRE DE HUARAL -ÓVALO DE HUACHO",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "78.2 Km / 1 hora21 minutos"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Lima/Huaura/Huacho - Lima/Huaura/Huaura",
+      "detalle": "ÓVALO DE HUACHO - VILCAHUAURA",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "17 Km / 34 minutos"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Lima/Huaura/Huaura - Lima/Huaura/Ambar",
+      "detalle": "VILCAHUAURA - PLAZA DE ARMAS DE ÁMBAR",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "54.3 Km / 3 horas 10 minutos"
+    },
+    {
+      "recorrido": "3",
+      "tramo": "Lima/Huaral/Chancay - Lima/Huaura/Huacho",
+      "detalle": "ÓVALO DE CHANCAY - ÓVALO DE HUACHO",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "87 Km / 1 hora 38 minutos"
+    },
+    {
+      "recorrido": "3",
+      "tramo": "Lima/Huaura/Huacho - Lima/Huaura/Huaura",
+      "detalle": "ÓVALO DE HUACHO - VILCAHUAURA",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "17 Km / 34 minutos"
+    },
+    {
+      "recorrido": "3",
+      "tramo": "Lima/Huaura/Huaura - Lima/Huaura/Ambar",
+      "detalle": "VILCAHUAURA - PLAZA DE ARMAS DE ÁMBAR",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "54.3 Km / 3 horas 10 minutos"
+    },
+    {
+      "recorrido": "4",
+      "tramo": "Lima/Barranca/Barranca - Lima/Huaura/Huacho",
+      "detalle": "TERMINAL TERRESTRE DE BARRANCA - ÓVALO DE HUACHO",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "48.5 Km / 54 minutos"
+    },
+    {
+      "recorrido": "4",
+      "tramo": "Lima/Huaura/Huacho - Lima/Huaura/Huaura",
+      "detalle": "ÓVALO DE HUACHO - VILCAHUAURA",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "17 Km / 34 minutos"
+    },
+    {
+      "recorrido": "4",
+      "tramo": "Lima/Huaura/Huaura - Lima/Huaura/Ambar",
+      "detalle": "VILCAHUAURA - PLAZA DE ARMAS DE ÁMBAR",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "54.3 Km / 3 horas 10 minutos"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "402",
+      "horario": "INFORME N°113-2022-SGDT/MPHH",
+      "observaciones": "2019"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "07:00 a.m. - 06:00 p.m. --",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Semi-restringido(previo permiso)",
+      "observaciones": "Previa coordinación con Leydi Ugalde Solórzano (943 924 409)"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Casa de Hospedaje",
+      "observacion": "Localidad de Ambar"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Localidad de Ambar"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de Caballos",
+      "observacion": "Localidad de Ambar"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Internet",
+      "observacion": "Localidad de Ambar"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Tópico",
+      "observacion": "Localidad de Ambar"
+    }
+  ],
+  "descripcion": "Ámbar, es la capital del distrito del mismo nombre, en la provincia de Huaura. Se desconoce el año de construcción de su iglesia, en 1662 se hace mención a la advocación de la Asunción de Nuestra Señora de Ámbar.\nFue inaugurada el 14 de mayo de 1611 por el obispo don Pedro de Villa Gómez, por mandato del Virrey del Perú, don Juan Mendoza y Luna.\nActualmente, la iglesia de Ámbar tiene una fachada moderna de 5 mts de altura, no tiene estilo arquitectónico definido, debido a las remodelaciones hechas por los pobladores, esta cuenta con dos torres gemelas, una a cada lado con su respectivo campanario, aunque se menciona por la población que la antigua torre se encontraba al frente donde ahora es el puesto policial, y que fuera destruido por el terremoto de 1940 no conserva el techo de paja como era durante la época colonial, fue cambiada con maderas traídas de Huacho en 1903 y cubiertas posteriormente con calaminas.\nEn su interior destaca su altar de estilo Barroco con varios colores, adornados con columnas y querubines. En el ático del altar se encuentra la imagen del Dios Todopoderoso, rodeado por cinco querubines, dos imágenes relacionadas con la Semana Santa, una de ellas es el Señor de Domingo de Ramos, debido a que en la época del terrorismo las imágenes fueron removidas.\nCuriosamente, la patrona, la Virgen de la Asunción, cuya fiesta es celebrada cada 15 de agosto, no se encuentra en el altar principal, ella tiene uno independiente más moderno hacia el lado derecho. Según refiere una ambarina de más de ocho décadas, doña Otilia Cuevas Narváez, ella recibió una historia oral a través de su familia, en ella hace mención que la Virgen fue traída del pueblo de Carhuapampa hacia Ámbar, pero a la Virgen no le gusto el pueblo y se regresó.\nLos ambarinos bailaron la danza de los Huancos, y fue traída nuevamente, pero tampoco fue de su agrado, prepararon la danza de las Pallas, y al igual que el anterior regresó nuevamente a Carhuapampa. Se dedicaron entonces a preparar la danza de los Negritos, baile que fue agrado de la Virgen y se quedó para siempre en Ámbar. El padre de doña Otilia, fue el señor Alberto Cueva Natividad, caporal de la patrona del pueblo y contó que una vela encendida, comenzó a quemar la vestimenta de la Virgen, pero esta salió por una ventana convertida en paloma blanca.\nEn la torre izquierda se encuentran dos hermosas campanas, ambas ubicadas en un solo campanario en la torre izquierda. La más grande mide 90 cm. de alto y lleva en la parte superior la inscripción: AÑO DE 729 P. MCHEVARRYA y en la parte inferior SAN JOSE DE PRONOBIS, equivocadamente, se toma a esta campana como la más antigua, ya que lleva la fecha de 729, pero en realidad es de 1729. La pequeña mide 55 cm. de alto, y tan solo tiene una decoración de una cruz y la inscripción: AÑO D 1624. Correspondiendo esta fecha, tal vez a la campana más antigua de la provincia de Huaura.\nLa visita a esta iglesia está incluida dentro del recorrido de todo turista que llega a Ámbar, ya que por el gran aporte histórico que brinda, es considerado uno de los principales atractivos de la localidad.",
+  "particularidades": "",
+  "estado_actual": "Buena, en la actualidad se hacen mantenimientos periódicos.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Ámbar, es la capital del distrito del mismo nombre, en la provincia de Huaura. Se desconoce el año de construcción de su iglesia, en 1662 se hace mención a la advocación de la Asunción de Nuestra Señora de Ámbar.\nFue inaugurada el 14 de mayo de 1611 por el obispo don Pedro de Villa Gómez, por mandato del Virrey del Perú, don Juan Mendoza y Luna.\nActualmente, la iglesia de Ámbar tiene una fachada moderna de 5 mts de altura, no tiene estilo arquitectónico definido, debido a las remodelaciones hechas por los pobladores, esta cuenta con dos torres gemelas, una a cada lado con su respectivo campanario, aunque se menciona por la población que la antigua torre se encontraba al frente donde ahora es el puesto policial, y que fuera destruido por el terremoto de 1940 no conserva el techo de paja como era durante la época colonial, fue cambiada con maderas traídas de Huacho en 1903 y cubiertas posteriormente con calaminas.\nEn su interior destaca su altar de estilo Barroco con varios colores, adornados con columnas y querubines. En el ático del altar se encuentra la imagen del Dios Todopoderoso, rodeado por cinco querubines, dos imágenes relacionadas con la Semana Santa, una de ellas es el Señor de Domingo de Ramos, debido a que en la época del terrorismo las imágenes fueron removidas.\nCuriosamente, la patrona, la Virgen de la Asunción, cuya fiesta es celebrada cada 15 de agosto, no se encuentra en el altar principal, ella tiene uno independiente más moderno hacia el lado derecho. Según refiere una ambarina de más de ocho décadas, doña Otilia Cuevas Narváez, ella recibió una historia oral a través de su familia, en ella hace mención que la Virgen fue traída del pueblo de Carhuapampa hacia Ámbar, pero a la Virgen no le gusto el pueblo y se regresó.\nLos ambarinos bailaron la danza de los Huancos, y fue traída nuevamente, pero tampoco fue de su agrado, prepararon la danza de las Pallas, y al igual que el anterior regresó nuevamente a Carhuapampa. Se dedicaron entonces a preparar la danza de los Negritos, baile que fue agrado de la Virgen y se quedó para siempre en Ámbar. El padre de doña Otilia, fue el señor Alberto Cueva Natividad, caporal de la patrona del pueblo y contó que una vela encendida, comenzó a quemar la vestimenta de la Virgen, pero esta salió por una ventana convertida en paloma blanca.\nEn la torre izquierda se encuentran dos hermosas campanas, ambas ubicadas en un solo campanario en la torre izquierda. La más grande mide 90 cm. de alto y lleva en la parte superior la inscripción: AÑO DE 729 P. MCHEVARRYA y en la parte inferior SAN JOSE DE PRONOBIS, equivocadamente, se toma a esta campana como la más antigua, ya que lleva la fecha de 729, pero en realidad es de 1729. La pequeña mide 55 cm. de alto, y tan solo tiene una decoración de una cruz y la inscripción: AÑO D 1624. Correspondiendo esta fecha, tal vez a la campana más antigua de la provincia de Huaura.\nLa visita a esta iglesia está incluida dentro del recorrido de todo turista que llega a Ámbar, ya que por el gran aporte histórico que brinda, es considerado uno de los principales atractivos de la localidad."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Buena, en la actualidad se hacen mantenimientos periódicos."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Nacionales\n402\nINFORME N°113-2022-SGDT/MPHH\n2019\nDocumento admitido por DIRCETUR LIMA"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nLima/Lima/Independencia\n-\nLima/Huaura/Huacho\nTERMINAL TERRESTRE PLAZA NORTE - ÓVALO DE HUACHO\nTerrestre\nAutomóvil particular\nAsfaltado\n150 Km / 2 horas 49 minutos\n1\nLima/Huaura/Huacho\n-\nLima/Huaura/Huaura\nÓVALO DE HUACHO - VILCAHUAURA\nTerrestre\nAutomóvil particular\nAsfaltado\n17 Km / 34 minutos\n1\nLima/Huaura/Huaura\n-\nLima/Huaura/Ambar\nVILCAHUAURA - PLAZA DE ARMAS DE ÁMBAR\nTerrestre\nAutomóvil particular\nTrocha carrozable\n54.3 Km / 3 horas 10 minutos\n2\nLima/Huaral/Huaral\n-\nLima/Huaura/Huacho\nTERMINAL TERRESTRE DE HUARAL -ÓVALO DE HUACHO\nTerrestre\nAutomóvil particular\nAsfaltado\n78.2 Km / 1 hora21 minutos\n2\nLima/Huaura/Huacho\n-\nLima/Huaura/Huaura\nÓVALO DE HUACHO - VILCAHUAURA\nTerrestre\nAutomóvil particular\nAsfaltado\n17 Km / 34 minutos\n2\nLima/Huaura/Huaura\n-\nLima/Huaura/Ambar\nVILCAHUAURA - PLAZA DE ARMAS DE ÁMBAR\nTerrestre\nAutomóvil particular\nTrocha carrozable\n54.3 Km / 3 horas 10 minutos\n3\nLima/Huaral/Chancay\n-\nLima/Huaura/Huacho\nÓVALO DE CHANCAY - ÓVALO DE HUACHO\nTerrestre\nAutomóvil particular\nAsfaltado\n87 Km / 1 hora 38 minutos\n3\nLima/Huaura/Huacho\n-\nLima/Huaura/Huaura\nÓVALO DE HUACHO - VILCAHUAURA\nTerrestre\nAutomóvil particular\nAsfaltado\n17 Km / 34 minutos\n3\nLima/Huaura/Huaura\n-\nLima/Huaura/Ambar\nVILCAHUAURA - PLAZA DE ARMAS DE ÁMBAR\nTerrestre\nAutomóvil particular\nTrocha carrozable\n54.3 Km / 3 horas 10 minutos\n4\nLima/Barranca/Barranca\n-\nLima/Huaura/Huacho\nTERMINAL TERRESTRE DE BARRANCA - ÓVALO DE HUACHO\nTerrestre\nAutomóvil particular\nAsfaltado\n48.5 Km / 54 minutos\n4\nLima/Huaura/Huacho\n-\nLima/Huaura/Huaura\nÓVALO DE HUACHO - VILCAHUAURA\nTerrestre\nAutomóvil particular\nAsfaltado\n17 Km / 34 minutos\n4\nLima/Huaura/Huaura\n-\nLima/Huaura/Ambar\nVILCAHUAURA - PLAZA DE ARMAS DE ÁMBAR\nTerrestre\nAutomóvil particular\nTrocha carrozable\n54.3 Km / 3 horas 10 minutos"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nSemi-restringido(previo permiso)\nPrevia coordinación con Leydi Ugalde Solórzano (943 924 409)"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n07:00 a.m.\n-\n06:00 p.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nCompras de artesanía/souvenir\nPlaza de Armas de Ámbar\nOtros\nToma de fotografías y filmaciones\n--\nCultura y Folclore\nActividades Religiosas o Patronales\nCelebración de misa"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nCasa de Hospedaje\nLocalidad de Ambar\nAlimentación\nRestaurantes\nLocalidad de Ambar\nOtros Servicios Turísticos\nAlquiler de Caballos\nLocalidad de Ambar\nOtros Servicios Turísticos\nServicio de Internet\nLocalidad de Ambar\nOtros Servicios Turísticos\nTópico\nLocalidad de Ambar"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nDistrito de Ámbar\nBancos\nDistrito de Ámbar\nCajero automático\nDistrito de Ámbar\nServicio de estacionamiento\nDistrito de Ámbar\nCentro de salud - tópico\nDistrito de Ámbar\nSeguridad / POLTUR / Comisaría\nDistrito de Ámbar\nBodegas o minimarkets\nDistrito de Ámbar"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nLuz (Suministro Eléctrico)\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nLocalidad de Ambar\nAlcantarillado sanitario\nLocalidad de Ambar\nDesagüe\nLocalidad de Ambar\nLuz (Suministro Eléctrico)\nLocalidad de Ambar\nTeléfono\nLocalidad de Ambar"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\n--\nPrivado:\nObispado de Huacho\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nEn trámite de solicitud del documento\nAdministrador por\nNombre\nQUISPE UGALDE CRISTOBAL\nTiempo de administración\nDesde 1999 hasta la actualidad."
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo\nNombre (Persona(s) responsable(s) del inventario turístico):\nJorge Luis Torres Chirito\nCargo:\nAsistente Administrativo\nCorreo:\njchiritoxx@gmail.com\nTeléfono:\n956454928\nFuentes Bibliográfica:\n- Miguel Angel Silva Esquén: (2004). Boletín del Patronato de defensa del Patrimonio cultural del valle de Huaura y Ámbar: Iglesia Virgen de la Asunción de Ámbar.\n- Ingrid Alor Bustamante : Entrevista a pobladora del distrito de Ámbar (15 agosto 2022).\n- Leydi Ugalde Solórzano: Entrevista a devota de la hermandad virgen de la asunción (15 agosto 2022).\n- Lic. ELLAN'D ALMIR KARLA SAMANAMUD QUISPE. Trabajo in situ por la Subgerencia de Desarrollo del turismo de la Municipalidad Provincial de Huaura.\nMaterial Audiovisual actual del Recurso:\nFOTO, VIDEOS\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n24/11/2022"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -10.756671729841942,
+    "longitud": -77.27200600000003
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-10.756671729841942,-77.27200600000003"
+}

@@ -1,0 +1,370 @@
+{
+  "cod_ficha": 2730,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=2730",
+  "nombre": "Santuario Nacional Megantoni",
+  "departamento": "Cusco",
+  "provincia": "La Convencion",
+  "distrito": "MEGANTONI",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "n. Áreas Protegidas",
+  "subtipo": "Santuarios Nacionales",
+  "jerarquia": "2",
+  "altitud": "451 m.s.n.m.",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=421122",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=421122",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=421123",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=421077",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=444405",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=444373",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=444374",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=445907",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=445954",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=445908",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=445909",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=445910",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=445911",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=445912",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=445955",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=445956",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=445957"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Paseos - Excursiones",
+    "Otros - Estudios e Investigación",
+    "Paseos - Paseos en lancha o canoa",
+    "Deportes acuáticos - Canotaje / Rafting",
+    "Naturaleza - Observación de fauna",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de paisaje",
+    "Naturaleza - Observación de aves",
+    "Deportes / Aventura - Caminata/Trekking",
+    "Deportes / Aventura - Camping"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Paseos",
+      "tipo": "Excursiones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/excursiones02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Paseos",
+      "tipo": "Paseos en lancha o canoa",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paseo_canoa02.png"
+    },
+    {
+      "actividad": "Deportes acuáticos",
+      "tipo": "Canotaje / Rafting",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/canotaje02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de fauna",
+      "observacion": "nutria o lobo de rio (Lontra longicaudis),",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fauna02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "Gran diversidad de orquídeas y helechos.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de aves",
+      "observacion": "Guacamayo verde de cabeza celeste (Propirhuara ara couloni).",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/aves02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Camping",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/camping02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Cusco/La Convención/Santa Ana - Cusco/La Convención/Santa Ana",
+      "detalle": "Desde el Paradero de Almudena ciudad de Cusco hasta la plaza de Quillabamba",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mini bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "202 km / 4 Hrs.34 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Cusco/La Convención/Santa Ana - Cusco/La Convención/Echarate",
+      "detalle": "plaza de Quillabamba hasta el distrito de Echarati",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mini bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "22 km / 30 Min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Cusco/La Convención/Echarate - Cusco/La Convención/Echarate",
+      "detalle": "Desde la plaza de Kiteni hasta la Municipalidad de Ivochote",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mini bus público",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "46.8 Km / 1 Hr 28 Min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Cusco/La Convención/Echarate - Cusco/La Convención/Megantoni",
+      "detalle": "Desde la municipalidad de Ivochote hasta el puesto de control de vigilancia SERNANP",
+      "tipo_acceso": "Lacustre / Fluvial",
+      "medio_transporte": "Lancha",
+      "tipo_via": "",
+      "distancia_tiempo": "69 Km / 3 Hrs"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "15",
+      "horario": "Cuaderno de registro",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "465",
+      "horario": "Cuaderno de registro",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "133",
+      "horario": "Cuaderno de registro",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "06:30 a.m. - 06:00 p.m. preferentemente de Abril - Octubre",
+      "observaciones": "preferentemente de Abril - Octubre"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Semi-restringido(previo permiso)",
+      "observaciones": "Para el acceso al recurso turístico se debe solicitar una autorización de ingreso a la Jefatura del Santuario Nacional Megantoni. Mariana Salazar SERNAP al 937513240"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "áreas de camping"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Casa de Hospedaje",
+      "observacion": "Poblado de Ivochote"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Poblado de Ivochote"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Poblado de Ivochote"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Snacks",
+      "observacion": "Poblado de Ivochote"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Poblado de Ivochote"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Poblado de Ivochote"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de botes",
+      "observacion": "Poblado de Ivochote"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Seguridad / POLTUR",
+      "observacion": "Poblado de Ivochote"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicios Higiénicos",
+      "observacion": "Poblado de Ivochote"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Estacionamiento",
+      "observacion": "Poblado de Ivochote"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Fax",
+      "observacion": "Poblado de Ivochote"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Internet",
+      "observacion": "Poblado de Ivochote"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de taxi",
+      "observacion": "Poblado de Ivochote"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Tópico",
+      "observacion": "Poblado de Ivochote"
+    }
+  ],
+  "descripcion": "Santuario Nacional de Megantoni su nombre se debe a la presencia del guacamayo verde (Ara militaris) que en lengua nativa significa MEGANTO, el Santuario preserva una serie de ecosistemas los cuales constan de 10 zonas de vida que conservan bosques intactos, fuentes de agua como son las cabeceras de los ríos Timpa y Ticumpinia, incluido él Pongo de Mainique, lugar sagrado para el pueblo Matsigenka. Adicional a su belleza paisajística, escénica y cultural, se suma la existencia de especies en peligro de extinción y en situación vulnerable tales como, el oso de anteojos (tremarctos hornatus), otorongo (panthera onca), nutria o lobo de río (lontra longicaudis), puma (herpailurus yaguarundi), guacamayo verde de cabeza celeste (propirhuara ara couloni), entre otras importantes especies de vida silvestre, su extensión es de 215 868,96 ha. Posee 10 de las 84 zonas de vida que tiene el Perú y hogar de la mayoría de comunidades Matsigenka de la zona. La zona de uso turístico tiene un área de 1080,49 hectáreas y es eminentemente paisajística, contando con servicios básicos de alimentación, transporte y pernocte. La Zona Reservada Megantoni posee una vegetación bastante variada destacando la gran diversidad de orquídeas, que están presentes en casi todas las áreas estudiadas. La gran diversidad es probablemente consecuencia del amplio rango de hábitats que presenta la región. La temperatura promedio, por debajo de los 1000 m.s.n.m., es de 25°C promedio anual, con máximas de 29°C y mínimas de 15°C. Desde esta altura hasta los 1900 m.s.n.m. la temperatura disminuye 0,7°C cada 100 metros de elevación, y desde los 2000 m.s.n.m., 0,5°C siguiendo la misma escala de 100 metros. Respecto a la precipitación, esta puede alcanzar los 3000 mm. El Santuario nacional Megantoni cuenta con un puesto de control y vigilancia en el sector de Yoyato administrado por el SERNANP.",
+  "particularidades": "",
+  "estado_actual": "Se encuentra en estado BUENO, debido a que recibe mantenimiento constante por parte del personal del Santuario Nacional Megantoni.",
+  "observaciones": "Parte central del río Urubamba, Cordillera de Ausangate. Este Santuario ocupa los territorios de los distritos de Echarati y Megantoni, provincia de La Convención, departamento de Cusco, ubicado A 553 m.s.n.m. Coordenadas UTM: -12.247911, -72.822406",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Santuario Nacional de Megantoni su nombre se debe a la presencia del guacamayo verde (Ara militaris) que en lengua nativa significa MEGANTO, el Santuario preserva una serie de ecosistemas los cuales constan de 10 zonas de vida que conservan bosques intactos, fuentes de agua como son las cabeceras de los ríos Timpa y Ticumpinia, incluido él Pongo de Mainique, lugar sagrado para el pueblo Matsigenka. Adicional a su belleza paisajística, escénica y cultural, se suma la existencia de especies en peligro de extinción y en situación vulnerable tales como, el oso de anteojos (tremarctos hornatus), otorongo (panthera onca), nutria o lobo de río (lontra longicaudis), puma (herpailurus yaguarundi), guacamayo verde de cabeza celeste (propirhuara ara couloni), entre otras importantes especies de vida silvestre, su extensión es de 215 868,96 ha. Posee 10 de las 84 zonas de vida que tiene el Perú y hogar de la mayoría de comunidades Matsigenka de la zona. La zona de uso turístico tiene un área de 1080,49 hectáreas y es eminentemente paisajística, contando con servicios básicos de alimentación, transporte y pernocte. La Zona Reservada Megantoni posee una vegetación bastante variada destacando la gran diversidad de orquídeas, que están presentes en casi todas las áreas estudiadas. La gran diversidad es probablemente consecuencia del amplio rango de hábitats que presenta la región. La temperatura promedio, por debajo de los 1000 m.s.n.m., es de 25°C promedio anual, con máximas de 29°C y mínimas de 15°C. Desde esta altura hasta los 1900 m.s.n.m. la temperatura disminuye 0,7°C cada 100 metros de elevación, y desde los 2000 m.s.n.m., 0,5°C siguiendo la misma escala de 100 metros. Respecto a la precipitación, esta puede alcanzar los 3000 mm. El Santuario nacional Megantoni cuenta con un puesto de control y vigilancia en el sector de Yoyato administrado por el SERNANP."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "Santuario Nacional Megantoni el 18 de agosto del 2004 creada mediante el Decreto Supremo N° 030- 2004-AG."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Se encuentra en estado BUENO, debido a que recibe mantenimiento constante por parte del personal del Santuario Nacional Megantoni."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "Parte central del río Urubamba, Cordillera de Ausangate. Este Santuario ocupa los territorios de los distritos de Echarati y Megantoni, provincia de La Convención, departamento de Cusco, ubicado A 553 m.s.n.m. Coordenadas UTM: -12.247911, -72.822406"
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n15\nCuaderno de registro\n2021\nTuristas Nacionales\n465\nCuaderno de registro\n2021\nVisitantes Locales(Excursionistas)\n133\nCuaderno de registro\n2021"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nCusco/La Convención/Santa Ana\n-\nCusco/La Convención/Santa Ana\nDesde el Paradero de Almudena ciudad de Cusco hasta la plaza de Quillabamba\nTerrestre\nMini bus público\nAsfaltado\n202 km / 4 Hrs.34 min\n1\nCusco/La Convención/Santa Ana\n-\nCusco/La Convención/Echarate\nplaza de Quillabamba hasta el distrito de Echarati\nTerrestre\nMini bus público\nAsfaltado\n22 km / 30 Min.\n1\nCusco/La Convención/Echarate\n-\nCusco/La Convención/Echarate\nDesde la plaza de Kiteni hasta la Municipalidad de Ivochote\nTerrestre\nMini bus público\nAfirmado\n46.8 Km / 1 Hr 28 Min\n1\nCusco/La Convención/Echarate\n-\nCusco/La Convención/Megantoni\nDesde la municipalidad de Ivochote hasta el puesto de control de vigilancia SERNANP\nLacustre / Fluvial\nLancha\n69 Km / 3 Hrs"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nSemi-restringido(previo permiso)\nPara el acceso al recurso turístico se debe solicitar una autorización de ingreso a la Jefatura del Santuario Nacional Megantoni. Mariana Salazar SERNAP al 937513240"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n06:30 a.m.\n-\n06:00 p.m.\npreferentemente de Abril - Octubre"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nPaseos\nExcursiones\n--\nOtros\nEstudios e Investigación\n--\nPaseos\nPaseos en lancha o canoa\n--\nDeportes acuáticos\nCanotaje / Rafting\n--\nNaturaleza\nObservación de fauna\nnutria o lobo de rio (Lontra longicaudis),\nNaturaleza\nObservación de flora\nGran diversidad de orquídeas y helechos.\nNaturaleza\nObservación de paisaje\n--\nNaturaleza\nObservación de aves\nGuacamayo verde de cabeza celeste (Propirhuara ara couloni).\nDeportes / Aventura\nCaminata/Trekking\n--\nDeportes / Aventura\nCamping\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nAlojamiento\nOtros (Especificar)\náreas de camping"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nCasa de Hospedaje\nPoblado de Ivochote\nAlimentación\nRestaurantes\nPoblado de Ivochote\nAlimentación\nBares\nPoblado de Ivochote\nAlimentación\nSnacks\nPoblado de Ivochote\nAlimentación\nFuentes de soda\nPoblado de Ivochote\nAlimentación\nKioskos de comida y bebidas\nPoblado de Ivochote\nOtros Servicios Turísticos\nAlquiler de botes\nPoblado de Ivochote\nOtros Servicios Turísticos\nSeguridad / POLTUR\nPoblado de Ivochote\nOtros Servicios Turísticos\nServicios Higiénicos\nPoblado de Ivochote\nOtros Servicios Turísticos\nServicio de Estacionamiento\nPoblado de Ivochote\nOtros Servicios Turísticos\nServicio de Fax\nPoblado de Ivochote\nOtros Servicios Turísticos\nServicio de Internet\nPoblado de Ivochote\nOtros Servicios Turísticos\nServicio de taxi\nPoblado de Ivochote\nOtros Servicios Turísticos\nTópico\nPoblado de Ivochote"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCIUDAD DE QUILLABAMBA\nBancos\nCIUDAD DE QUILLABAMBA\nCajero automático\nCIUDAD DE QUILLABAMBA\nCasa de cambio\nCIUDAD DE QUILLABAMBA\nEstación de servicios, grifos, gasolineras y gasocentros\nCIUDAD DE QUILLABAMBA\nServicio de correos\nCIUDAD DE QUILLABAMBA\nServicios de taxis\nCIUDAD DE QUILLABAMBA\nCentro de salud - tópico\nCIUDAD DE QUILLABAMBA\nVenta de materiales para fotografías\nCIUDAD DE QUILLABAMBA\nSeguridad / POLTUR / Comisaría\nCIUDAD DE QUILLABAMBA\nAlquiler y compra de equipos deportivos\nCIUDAD DE QUILLABAMBA\nLibrerías\nCIUDAD DE QUILLABAMBA\nBodegas o minimarkets\nCIUDAD DE QUILLABAMBA"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nSeñalización turística\nCP IVOCHOTE- CIUDAD DE QUILLABAMBA\nOtros (Especificar)\nPUESTO DE CONTROL"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nPoblado Ivochote\nDesagüe\nPoblado Ivochote\nLuz (Suministro Eléctrico)\nPoblado Ivochote\nTeléfono\nPoblado Ivochote\nAlcantarillado sanitario\n--\nSistemas de tratamiento alternativo de residuos (Biodigestor, pozo séptico, otros)\n--\nSeñalización turística\n--"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nSERNANP\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nSUNARP\nNúmero de Partida:\n11012600\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nSERNANP\nTiempo de administración\nIndefinido"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nGERCETUR- CUSCO\nNombre (Persona(s) responsable(s) del inventario turístico):\nLic. HEIDI ZAMBRANO DELGADO\nCargo:\nResponsable del inventario de recursos turísticos\nCorreo:\nheidizambranodelgado2019@gmail.com\nTeléfono:\n952717546\nFuentes Bibliográfica:\nINVENTARIO DE RECURSOS TURÍSTICOS DE LA MUNICIPALIDAD DISTRITAL DE ECHARATI 2010.PLAN MAESTRO DEL SANTUARIO NACIONAL DE MEGANTONI-INRENA.INVENTARIO DE RECURSOS TURÍSTICOS DE LA MUNICIPALIDAD PROVINCIAL LA CONVENCIÓN 2017.\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n15/09/2022"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -12.260911635742389,
+    "longitud": -72.28372150793456
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-12.260911635742389,-72.28372150793456"
+}

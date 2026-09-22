@@ -1,0 +1,247 @@
+{
+  "cod_ficha": 10122,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=10122",
+  "nombre": "Plaza De Armas De Lurín",
+  "departamento": "Lima",
+  "provincia": "Lima",
+  "distrito": "LURIN",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Arquitectura y Espacios Urbanos",
+  "subtipo": "Plazas",
+  "jerarquia": "POR JERARQUIZAR",
+  "altitud": "17",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=448383",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=448383",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=448384",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=448404",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=448385",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=448405",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=448414"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Cultura y Folclore - Actividades Religiosas o Patronales",
+    "Otros - Actividades Sociales",
+    "Otros - Realización de eventos",
+    "Cultura y Folclore - Degustación y preparación de platos, productos o bebidas típicas",
+    "Cultura y Folclore - Ferias"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Actividades Religiosas o Patronales",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/act_religiosas02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Actividades Sociales",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/sociales02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Realización de eventos",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/eventos02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Degustación y preparación de platos, productos o bebidas típicas",
+      "observacion": "fines de semana",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/platos_tipicos02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Ferias",
+      "observacion": "eventuales",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/feria02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Lima/Lima/Lima - Lima/Lima/Lurin",
+      "detalle": "Av. Paseo Colón(Lima) - Entrada de Lurín (km 36)",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "40km /1:30 horas"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Lima/Lima/Lurin - Lima/Lima/Lurin",
+      "detalle": "Entrada de Lurín- Plaza de armas de Lurín",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "250 metros / 5 minutos"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Lima/Lima/Lima - Lima/Lima/Lurin",
+      "detalle": "Paseo Colon (Lima) - Plaza de Armas de Lurín",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "40.3km/ 50 min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "735",
+      "horario": "Subgerencia de Turismo de la municipalidad de Lurín.",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "09:00 a.m. - 05:00 p.m. En algunos eventos hasta las 8:00pm",
+      "observaciones": "En algunos eventos hasta las 8:00pm"
+    },
+    {
+      "epoca": "Personas con discapacidad física",
+      "especificacion": "rampas de acceso",
+      "horario": "--",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "mapa turístico ubicado en el parque."
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "Los sábados y domingos."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "En Lurín"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "En Lurín"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "En Lurín"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Plaza Castilla(entrada de Lurín)"
+    }
+  ],
+  "descripcion": "El origen de la Plaza de armas de Lurín se remonta a fines del siglo XVII con el desplazamiento de los pobladores del pueblo de pescadores de Quilcay que en 1687 año en que un terremoto seguido de un maremoto destruyó el pueblo. En dibujos antiguos hechos a tinta con fecha 05 de junio de 1838 por el cónsul Francés Leonce Angrand se aprecia la Plaza de armas y es este medio un testimonio gráfico más importante de la época, en estos dibujos se aprecia la plaza como un canchón terroso donde se guardaba ganado o donde se reunían los esclavos negros para adoctrinarlos.\nHacia un lado de la plaza se construyó la iglesia, y parte de atrás de la ciudad el camposanto. Durante la existencia de la plaza de armas, ha sido escenario de grandes acontecimientos para reuniones, procesiones, celebraciones de festividades costumbristas, peleas de gallos, corridas de toros y venta de forrajes de alimentos para el ganado. Relata la historia que durante la Guerra con Chile la plaza de Lurín fue el espacio preferido por las tropas chilenas para acantonar el ejército y la caballería del escuadrón de regimiento Cazadores Caballo y el grupo de los Leopardos. En 1925 fue mandado a construir la primera glorieta de Lurín con fines de Orden Cívico como parte del clima de modernización que se vivió en el pueblo por la llegada del Ferrocarril Lima-Lurín. En 1930 se pavimenta los pasajes, siembra plantas en los jardines y hace construir una artística glorieta al centro, se colocan las bancas de madera y patas de fierro en los pasajes. En 1964 se destruye la glorieta y en su lugar se erige el monumento al prócer José Faustino Sánchez Carrión a cargo del renombrado artista ancashino Artemio Ocaña Bejarano. En el 2006, a inicio del nuevo milenio, en pleno aniversario del distrito de Lurín, se inauguró una nueva plaza de armas con una réplica de la glorieta de antaño en el centro de la plaza y se trasladó el busto de Sánchez Carrión frente a la catedral San Pedro. En la actualidad la plaza de armas está conformada por un hermoso parque y una pérgola en el centro, cuenta con faroles de hierro fundido negro con luminarias redondas, bancos de hierro fundido negro con listones de madera maciza, se encuentra la Catedral San Pedro de Lurín, y el Palacio municipal del distrito de Lurín, esta plaza forma parte del principal escenario de acontecimientos culturales, turísticos, religiosos y sociales. Es un lugar muy concurrido por los pobladores del distrito y visitantes quienes disfrutan los fines de semana de la feria gastronómica y artesanal.",
+  "particularidades": "",
+  "estado_actual": "Se encuentra en buen estado de conservación, tiene un permanente mantenimiento por parte de la municipalidad de Lurín.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "El origen de la Plaza de armas de Lurín se remonta a fines del siglo XVII con el desplazamiento de los pobladores del pueblo de pescadores de Quilcay que en 1687 año en que un terremoto seguido de un maremoto destruyó el pueblo. En dibujos antiguos hechos a tinta con fecha 05 de junio de 1838 por el cónsul Francés Leonce Angrand se aprecia la Plaza de armas y es este medio un testimonio gráfico más importante de la época, en estos dibujos se aprecia la plaza como un canchón terroso donde se guardaba ganado o donde se reunían los esclavos negros para adoctrinarlos.\nHacia un lado de la plaza se construyó la iglesia, y parte de atrás de la ciudad el camposanto. Durante la existencia de la plaza de armas, ha sido escenario de grandes acontecimientos para reuniones, procesiones, celebraciones de festividades costumbristas, peleas de gallos, corridas de toros y venta de forrajes de alimentos para el ganado. Relata la historia que durante la Guerra con Chile la plaza de Lurín fue el espacio preferido por las tropas chilenas para acantonar el ejército y la caballería del escuadrón de regimiento Cazadores Caballo y el grupo de los Leopardos. En 1925 fue mandado a construir la primera glorieta de Lurín con fines de Orden Cívico como parte del clima de modernización que se vivió en el pueblo por la llegada del Ferrocarril Lima-Lurín. En 1930 se pavimenta los pasajes, siembra plantas en los jardines y hace construir una artística glorieta al centro, se colocan las bancas de madera y patas de fierro en los pasajes. En 1964 se destruye la glorieta y en su lugar se erige el monumento al prócer José Faustino Sánchez Carrión a cargo del renombrado artista ancashino Artemio Ocaña Bejarano. En el 2006, a inicio del nuevo milenio, en pleno aniversario del distrito de Lurín, se inauguró una nueva plaza de armas con una réplica de la glorieta de antaño en el centro de la plaza y se trasladó el busto de Sánchez Carrión frente a la catedral San Pedro. En la actualidad la plaza de armas está conformada por un hermoso parque y una pérgola en el centro, cuenta con faroles de hierro fundido negro con luminarias redondas, bancos de hierro fundido negro con listones de madera maciza, se encuentra la Catedral San Pedro de Lurín, y el Palacio municipal del distrito de Lurín, esta plaza forma parte del principal escenario de acontecimientos culturales, turísticos, religiosos y sociales. Es un lugar muy concurrido por los pobladores del distrito y visitantes quienes disfrutan los fines de semana de la feria gastronómica y artesanal."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "Atractivo turístico reconocido con el sello internacional Safe Travels."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Se encuentra en buen estado de conservación, tiene un permanente mantenimiento por parte de la municipalidad de Lurín."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nVisitantes Locales(Excursionistas)\n735\nSubgerencia de Turismo de la municipalidad de Lurín.\n2022\nInformación de la caseta de información turística y encuestas realizadas."
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nLima/Lima/Lima\n-\nLima/Lima/Lurin\nAv. Paseo Colón(Lima) - Entrada de Lurín (km 36)\nTerrestre\nBus público\nAsfaltado\n40km /1:30 horas\n1\nLima/Lima/Lurin\n-\nLima/Lima/Lurin\nEntrada de Lurín- Plaza de armas de Lurín\nTerrestre\nA pie\nAsfaltado\n250 metros / 5 minutos\n2\nLima/Lima/Lima\n-\nLima/Lima/Lurin\nPaseo Colon (Lima) - Plaza de Armas de Lurín\nTerrestre\nAutomóvil particular\nAsfaltado\n40.3km/ 50 min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n09:00 a.m.\n-\n05:00 p.m.\nEn algunos eventos hasta las 8:00pm"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nCultura y Folclore\nActividades Religiosas o Patronales\n--\nOtros\nActividades Sociales\n--\nOtros\nRealización de eventos\n--\nCultura y Folclore\nDegustación y preparación de platos, productos o bebidas típicas\nfines de semana\nCultura y Folclore\nFerias\neventuales"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Públicas\nServicios Públicos\nSeñales turísticas de orientación\nmapa turístico ubicado en el parque.\nInstalaciones Públicas\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\nLos sábados y domingos."
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlimentación\nRestaurantes\nEn Lurín\nAlimentación\nCafeterías\nEn Lurín\nAlimentación\nFuentes de soda\nEn Lurín\nServicios Públicos\nOficina de Información turística\nPlaza Castilla(entrada de Lurín)"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nBancos\nBanco de la Nación ubicado al frente de la plaza.\nCajero automático\nJirón Bolognesi (Lurín)\nSeguridad / POLTUR / Comisaría\nComisaria ubicada frente a la plaza.\nCentro de salud - tópico\nUbicado al lado norte de la plaza, Jr. Grau"
+    },
+    {
+      "titulo": "Condiciones de Accesibilidad al Visitante",
+      "contenido": "Visitante\nInstalación\nActividades y/o programas\nEquipamiento\nObservación\nPersonas con discapacidad física\nrampas de acceso\n--\n--\n--"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\n--\nAlcantarillado sanitario\n--\nDesagüe\n--\nLuz (Suministro Eléctrico)\n--\nTeléfono\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nEn Lurín\nAlcantarillado sanitario\nEn Lurín\nDesagüe\nEn Lurín\nTeléfono\nEn Lurín"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nMunicipalidad de Lurín\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nRegistros Públicos\nNúmero de Partida:\nP03230698\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nMunicipalidad distrital de Lurín\nTiempo de administración\ndesde el año 2000"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nMunicipalidad distrital de Lurín\nNombre (Persona(s) responsable(s) del inventario turístico):\nSoled Quispe Paredes\nCargo:\nEncargada del Inventario de Recursos Turísticos\nCorreo:\nquispesoled@gmail.com\nTeléfono:\n932860221\nFuentes Bibliográfica:\nLIBRO - LURIN HACIA EL SIGLO XXI- GERARDO ABRAHAM LUCERO RETES\nLEONCE ANGRAD - DIBUJOS DE LA PLAZA Y LA IGLESIA 1838\nTV Perú / programa Costumbres\nMaterial Audiovisual actual del Recurso:\n--\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n7/09/2022"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -12.2731909,
+    "longitud": -76.8689779
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-12.2731909,-76.8689779"
+}

@@ -1,0 +1,356 @@
+{
+  "cod_ficha": 10001,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=10001",
+  "nombre": "Mirador Turístico San Miguel",
+  "departamento": "Lima",
+  "provincia": "Lima",
+  "distrito": "PACHACAMAC",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "ñ. Zonas paisajísticas",
+  "subtipo": "Miradores naturales",
+  "jerarquia": "1",
+  "altitud": "169",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=588032",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=588032",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=588033",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=588034",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=587981",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=587982",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=588035",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=587983",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=587984"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Cultura y Folclore - Actividades Religiosas o Patronales",
+    "Naturaleza - Observación de paisaje",
+    "Deportes / Aventura - Caminata/Trekking"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Actividades Religiosas o Patronales",
+      "observacion": "Homenaje a la Cruz del Caminante en el mes de setiembre.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/act_religiosas02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "Hiking",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Lima/Lima/Lima - Lima/Lima/Pachacamac",
+      "detalle": "Paseo Colón - Cruce Pachacámac",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "40.2km/1h 50 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Lima/Lima/Pachacamac - Lima/Lima/Pachacamac",
+      "detalle": "Cruce Pachacámac - Plaza de Armas de Pachacámac",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "4.6km/8min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Lima/Lima/Pachacamac - Lima/Lima/Pachacamac",
+      "detalle": "Plaza de Armas de Pachacámac - Mirador San Miguel",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "0.5km/2min"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Lima/Lima/San Borja - Lima/Lima/Pachacamac",
+      "detalle": "Centro Comercial La Rambla de San Borja - Cruce Pachacámac",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "30.3km/50min"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Lima/Lima/Pachacamac - Lima/Lima/Pachacamac",
+      "detalle": "Cruce Pachacámac - Plaza de Armas de Pachacámac",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "4.6km/8min"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Lima/Lima/Pachacamac - Lima/Lima/Pachacamac",
+      "detalle": "Plaza de Armas de Pachacámac - Mirador San Miguel",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "0.5km/2min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "16110",
+      "horario": "Conteo Muestral",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "08:00 a.m. - 04:00 p.m. --",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Otros (especificar)",
+      "observacion": "Servicios higiénicos. Ciudad de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Ciudad de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Ciudad de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "Ciudad de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Ciudad de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "Ciudad de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "Ciudad de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Ciudad de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Boletería",
+      "observacion": "Ciudad de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "Ciudad de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Centros de interpretación",
+      "observacion": "Ciudad de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Caseta informativa- Ciudad de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "Ciudad de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Museo de Sitio Turísticos",
+      "observacion": "Ciudad de Pachacámac"
+    }
+  ],
+  "descripcion": "El mirador turístico de San Miguel se encuentra en la región natural Chala, a una altura de 169 m.s.n.m., ubicado en la cima del cerro Culebra y a unos 500 metros al sureste de la Plaza de Armas del distrito de Pachacámac, en el Centro Poblado Rural de San Miguel Alto. Entre los meses de noviembre a mayo cuenta con un clima templado con abundante sol y temperaturas más altas durante el verano. De junio a octubre, presenta neblina y humedad características del invierno limeño. Para llegar al mirador se debe recorrer un camino con una longitud de 670 m. La ruta de caminata inicia en la intersección del jirón Miguel Grau con el jirón San Miguel; en ese punto existe una reja de control que se apertura desde las 8:00 am hasta las 4:00 pm. Durante el camino se ubican puntos de observación y zonas de descanso. Finalmente, en la cumbre se encuentra el mirador, desde donde los visitantes pueden disfrutar de una excelente vista panorámica del Pueblo de Pachacámac, el majestuoso Valle de Pachacámac, sus lomas, el Santuario Arqueológico de Pachacámac y las Islas Pachacámac en el Oeste. Además, se ubica la famosa Cruz del Santo Madero de San Miguel, instalada por los pobladores en el año 1950 y conocida como la \"Cruz de los Solteros\", pues cuenta la historia que los solteros que llegan y tocan el madero consiguen casarse; también es llamada Cruz del Caminante y representa la religiosidad, peregrinación y tradición popular del centro poblado y de la población del distrito que ha perdurado a lo largo de la historia.",
+  "particularidades": "",
+  "estado_actual": "Regular, porque no se ha realizado el mantenimiento de las instalaciones turísticas existentes. Las barandas y bancas de madera se encuentran deterioradas.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "El mirador turístico de San Miguel se encuentra en la región natural Chala, a una altura de 169 m.s.n.m., ubicado en la cima del cerro Culebra y a unos 500 metros al sureste de la Plaza de Armas del distrito de Pachacámac, en el Centro Poblado Rural de San Miguel Alto. Entre los meses de noviembre a mayo cuenta con un clima templado con abundante sol y temperaturas más altas durante el verano. De junio a octubre, presenta neblina y humedad características del invierno limeño. Para llegar al mirador se debe recorrer un camino con una longitud de 670 m. La ruta de caminata inicia en la intersección del jirón Miguel Grau con el jirón San Miguel; en ese punto existe una reja de control que se apertura desde las 8:00 am hasta las 4:00 pm. Durante el camino se ubican puntos de observación y zonas de descanso. Finalmente, en la cumbre se encuentra el mirador, desde donde los visitantes pueden disfrutar de una excelente vista panorámica del Pueblo de Pachacámac, el majestuoso Valle de Pachacámac, sus lomas, el Santuario Arqueológico de Pachacámac y las Islas Pachacámac en el Oeste. Además, se ubica la famosa Cruz del Santo Madero de San Miguel, instalada por los pobladores en el año 1950 y conocida como la \"Cruz de los Solteros\", pues cuenta la historia que los solteros que llegan y tocan el madero consiguen casarse; también es llamada Cruz del Caminante y representa la religiosidad, peregrinación y tradición popular del centro poblado y de la población del distrito que ha perdurado a lo largo de la historia."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Regular, porque no se ha realizado el mantenimiento de las instalaciones turísticas existentes. Las barandas y bancas de madera se encuentran deterioradas."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nVisitantes Locales(Excursionistas)\n16110\nConteo Muestral\n2024\nDemanda turística proyectada hasta julio 2025. Validado por la Municipalidad Metropolitana de Lima."
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nLima/Lima/Lima\n-\nLima/Lima/Pachacamac\nPaseo Colón - Cruce Pachacámac\nTerrestre\nAutomóvil particular\nAsfaltado\n40.2km/1h 50 min\n1\nLima/Lima/Pachacamac\n-\nLima/Lima/Pachacamac\nCruce Pachacámac - Plaza de Armas de Pachacámac\nTerrestre\nAutomóvil particular\nAsfaltado\n4.6km/8min\n1\nLima/Lima/Pachacamac\n-\nLima/Lima/Pachacamac\nPlaza de Armas de Pachacámac - Mirador San Miguel\nTerrestre\nA pie\nAsfaltado\n0.5km/2min\n2\nLima/Lima/San Borja\n-\nLima/Lima/Pachacamac\nCentro Comercial La Rambla de San Borja - Cruce Pachacámac\nTerrestre\nAutomóvil particular\nAsfaltado\n30.3km/50min\n2\nLima/Lima/Pachacamac\n-\nLima/Lima/Pachacamac\nCruce Pachacámac - Plaza de Armas de Pachacámac\nTerrestre\nAutomóvil particular\nAsfaltado\n4.6km/8min\n2\nLima/Lima/Pachacamac\n-\nLima/Lima/Pachacamac\nPlaza de Armas de Pachacámac - Mirador San Miguel\nTerrestre\nA pie\nAsfaltado\n0.5km/2min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n08:00 a.m.\n-\n04:00 p.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nCultura y Folclore\nActividades Religiosas o Patronales\nHomenaje a la Cruz del Caminante en el mes de setiembre.\nNaturaleza\nObservación de paisaje\n--\nDeportes / Aventura\nCaminata/Trekking\nHiking"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Públicas\nServicios Públicos\nSeñales turísticas de orientación\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlimentación\nRestaurantes\nCiudad de Pachacámac\nServicios Públicos\nOtros (especificar)\nServicios higiénicos. Ciudad de Pachacámac\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Pachacámac\nAlimentación\nBares\nCiudad de Pachacámac\nAlimentación\nFuentes de soda\nCiudad de Pachacámac\nAlimentación\nVenta de comida Rápida\nCiudad de Pachacámac\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de Pachacámac\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Pachacámac\nLugares de Recreación\nKaraoke\nCiudad de Pachacámac\nLugares de Recreación\nBares\nCiudad de Pachacámac\nLugares de Recreación\nCentros Deportivos\nCiudad de Pachacámac\nServicios Públicos\nMiradores turísticos\nCiudad de Pachacámac\nServicios Públicos\nSeñales turísticas de orientación\nCiudad de Pachacámac\nServicios Públicos\nEstacionamiento de vehículos\nCiudad de Pachacámac\nServicios Públicos\nBoletería\nCiudad de Pachacámac\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\nCiudad de Pachacámac\nServicios Públicos\nCentros de interpretación\nCiudad de Pachacámac\nServicios Públicos\nOficina de Información turística\nCaseta informativa- Ciudad de Pachacámac\nServicios Públicos\nCaminos peatonales\nCiudad de Pachacámac\nAlimentación\nCafeterías\nCiudad de Pachacámac\nServicios Públicos\nMuseo de Sitio Turísticos\nCiudad de Pachacámac"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Pachacámac\nCajero automático\nBCP y BBVA. Ciudad de Pachacámac\nCasa de cambio\nCiudad de Pachacámac\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Pachacámac\nServicio de estacionamiento\nCiudad de Pachacámac\nServicios de taxis\nCiudad de Pachacámac\nCentro de salud - tópico\nCiudad de Pachacámac\nSeguridad / POLTUR / Comisaría\nCiudad de Pachacámac\nLibrerías\nCiudad de Pachacámac\nBodegas o minimarkets\nCiudad de Pachacámac\nOtros(especificar)\nAgentes bancarios.(INTERBANK y SCOTIABANK) Ciudad de Pachacámac"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Pachacámac\nAlcantarillado sanitario\nCiudad de Pachacámac\nLuz (Suministro Eléctrico)\nCiudad de Pachacámac\nSeñalización turística\nCiudad de Pachacámac"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nMunicipalidad Distrital de Pachacámac\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nPartida registral\nNúmero de Partida:\n07005521\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nMunicipalidad Distrital de Pachacámac\nTiempo de administración\nDesde el año 2012."
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nMunicipalidad Metropolitana de Lima - Municipalidad Distrital de Pachacámac\nNombre (Persona(s) responsable(s) del inventario turístico):\nAlex Reaño Torres - Guadalupe del Carmen Vásquez Meza\nCargo:\nEspecialista en Turismo - Gerente de Turismo, Cultura y Asuntos Internacionales\nCorreo:\nalexreanotorres@gmail.com - gvasquezm@munipachacamac.gob.pe\nTeléfono:\n948909364 / 940241174\nFuentes Bibliográfica:\n1. Plan: \"Plan de Desarrollo Turístico Local de Pachacámac 2022- 2026\". Municipalidad Distrital de Pachacámac.2022, Lima Perú.\n2. Municipalidad de Pachacámac. Gerencia de Cultura, Turismo y Asuntos Internacionales. (2024) Consultado el: 25/09/2024 https://www.munipachacamac.gob.pe/turismo/\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n18/03/2025 12:00:43"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -12.233622098725,
+    "longitud": -76.8561378121376
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-12.233622098725,-76.8561378121376"
+}

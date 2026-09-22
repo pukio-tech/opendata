@@ -1,0 +1,437 @@
+{
+  "cod_ficha": 5185,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=5185",
+  "nombre": "Laguna Morón",
+  "departamento": "Ica",
+  "provincia": "Pisco",
+  "distrito": "HUMAY",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "g. Cuerpo de Agua",
+  "subtipo": "Lagunas",
+  "jerarquia": "2",
+  "altitud": "200",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=292169",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=292169",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=293226",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=440654",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=440912",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=440915",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=440916"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Paseos - Excursiones",
+    "Otros - Estudios e Investigación",
+    "Deportes acuáticos - Sea Kayac",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de paisaje",
+    "Naturaleza - Observación de aves",
+    "Deportes / Aventura - Camping",
+    "Deportes / Aventura - Sandboard (Esquí sobre arena)"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Paseos",
+      "tipo": "Excursiones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/excursiones02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Deportes acuáticos",
+      "tipo": "Sea Kayac",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/kayac02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "Huarango, Junco, Grama Salada, Carricillo y Totora.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de aves",
+      "observacion": "Patos, Gallaretas, Turtupilinas, Picaflor, Gallinazo y Garza.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/aves02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Camping",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/camping02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Sandboard (Esquí sobre arena)",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/standboard02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Ica/Pisco/Humay - Ica/Pisco/Humay",
+      "detalle": "Plaza de Armas de Pisco- C.P. de Bernales",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Camioneta doble tracción",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "35 Km/52 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Ica/Pisco/Humay - Ica/Pisco/Humay",
+      "detalle": "C.P. de Bernales - Laguna Moron",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Camioneta doble tracción",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "2km./10Min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Ica/Pisco/Humay - Ica/Pisco/Humay",
+      "detalle": "Plaza de Armas de Pisco- C.P. de Bernales",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "35 Km./ 60 Min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Ica/Pisco/Humay - Ica/Pisco/Humay",
+      "detalle": "C.P. de Bernales - Laguna Moron",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "2 km. / 10 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Ica/Pisco/Humay - Ica/Pisco/Humay",
+      "detalle": "Plaza de Armas de Pisco- C.P. de Bernales",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Otros (especificar)",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "35 Km./ 60 Min. - Motocicleta."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Ica/Pisco/Humay - Ica/Pisco/Humay",
+      "detalle": "C.P. de Bernales - Laguna Moron",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Otros (especificar)",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "2 km. /12 minutos - Motocicleta."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Ica/Pisco/Humay - Ica/Pisco/Humay",
+      "detalle": "Plaza de Armas de Pisco- C.P. de Bernales",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Otros (especificar)",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "35 Km./ 55 Min. - Cuatrimoto"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Ica/Pisco/Humay - Ica/Pisco/Humay",
+      "detalle": "C.P. de Bernales - Laguna de Huacachina",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Otros (especificar)",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "2 km. /12 minutos - Cuatrimoto."
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "676",
+      "horario": "Libro de Registro de visitantes",
+      "observaciones": "2019"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "1575",
+      "horario": "Libro de registro de visitantes",
+      "observaciones": "2019"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "06:00 a.m. - 05:00 p.m. Se puede pernoctar en carpas",
+      "observaciones": "Se puede pernoctar en carpas"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Centro Poblado de Bernales"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Pisco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Peñas",
+      "observacion": "Ciudad de Pisco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Cines o Teatros",
+      "observacion": "Ciudad de Pisco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Ciudad de Pisco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "Ciudad de Pisco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Pisco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Pisco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de Pisco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Ciudad de Pisco - Idioma Ingles"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de camionetas 4 x 4",
+      "observacion": "Ciudad de Pisco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Pisco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Pisco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Pisco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Ciudad de Pisco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Ciudad de Pisco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "Ciudad de Pisco - Hoteles de 1 a 4 estrellas."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "Ciudad de Pisco - Hostales de 1 a 3 estrellas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Pisco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "Ciudad de Pisco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Otros(especificar)",
+      "observacion": "Ciudad de Pisco - Centro Comercial"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Ciudad de Pisco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Ciudad de Pisco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de bicicleta",
+      "observacion": "Ciudad de Pisco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Ciudad de Pisco- Food Truck"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "Ciudad de Pisco"
+    }
+  ],
+  "descripcion": "Se encuentra en medio del desierto de Pisco, ubicado sobre la margen izquierda del río Pisco, cerca del centro poblado de Bernales, en el distrito de Humay.\nTiene una extensión de 300 metros de largo por 150 metros de ancho aproximadamente, con una profundidad de 8 metros donde es alimentado por aguas subterráneas procedente de las partes altas del distrito de Humay; rodeada de dunas y médanos de color blanquecino debido a la presencia de restos de arrecifes de coral.\nEl color de sus aguas es verde azulado; su temperatura promedio es mayor a 27 ºC verano y de 22 ºC en invierno. Presenta una salinidad que oscila entre los 1 y 1,1 ppt.\nAlberga a una población de peces como tilapias y carpas; se pueden apreciar aves de diferentes especies como búhos, lechuzas, gallinazos de cabeza roja, garzas, cernícalos, picaflores, güerequeque y tordo rojo; una flora como el huarango, junco, grama salada, carricillo y totora e invertebrados como lagartijas de cabeza roja. Es un lugar ideal para los amantes de la naturaleza y el camping.",
+  "particularidades": "",
+  "estado_actual": "Se encuentra en buen estado de conservación debido a que no presenta contaminación.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Se encuentra en medio del desierto de Pisco, ubicado sobre la margen izquierda del río Pisco, cerca del centro poblado de Bernales, en el distrito de Humay.\nTiene una extensión de 300 metros de largo por 150 metros de ancho aproximadamente, con una profundidad de 8 metros donde es alimentado por aguas subterráneas procedente de las partes altas del distrito de Humay; rodeada de dunas y médanos de color blanquecino debido a la presencia de restos de arrecifes de coral.\nEl color de sus aguas es verde azulado; su temperatura promedio es mayor a 27 ºC verano y de 22 ºC en invierno. Presenta una salinidad que oscila entre los 1 y 1,1 ppt.\nAlberga a una población de peces como tilapias y carpas; se pueden apreciar aves de diferentes especies como búhos, lechuzas, gallinazos de cabeza roja, garzas, cernícalos, picaflores, güerequeque y tordo rojo; una flora como el huarango, junco, grama salada, carricillo y totora e invertebrados como lagartijas de cabeza roja. Es un lugar ideal para los amantes de la naturaleza y el camping."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Se encuentra en buen estado de conservación debido a que no presenta contaminación."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n676\nLibro de Registro de visitantes\n2019\nTuristas Nacionales\n1575\nLibro de registro de visitantes\n2019"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nIca/Pisco/Humay\n-\nIca/Pisco/Humay\nPlaza de Armas de Pisco- C.P. de Bernales\nTerrestre\nCamioneta doble tracción\nAsfaltado\n35 Km/52 min\n1\nIca/Pisco/Humay\n-\nIca/Pisco/Humay\nC.P. de Bernales - Laguna Moron\nTerrestre\nCamioneta doble tracción\nTrocha carrozable\n2km./10Min.\n1\nIca/Pisco/Humay\n-\nIca/Pisco/Humay\nPlaza de Armas de Pisco- C.P. de Bernales\nTerrestre\nAutomóvil particular\nAsfaltado\n35 Km./ 60 Min.\n1\nIca/Pisco/Humay\n-\nIca/Pisco/Humay\nC.P. de Bernales - Laguna Moron\nTerrestre\nAutomóvil particular\nTrocha carrozable\n2 km. / 10 min.\n1\nIca/Pisco/Humay\n-\nIca/Pisco/Humay\nPlaza de Armas de Pisco- C.P. de Bernales\nTerrestre\nOtros (especificar)\nAsfaltado\n35 Km./ 60 Min. - Motocicleta.\n1\nIca/Pisco/Humay\n-\nIca/Pisco/Humay\nC.P. de Bernales - Laguna Moron\nTerrestre\nOtros (especificar)\nTrocha carrozable\n2 km. /12 minutos - Motocicleta.\n1\nIca/Pisco/Humay\n-\nIca/Pisco/Humay\nPlaza de Armas de Pisco- C.P. de Bernales\nTerrestre\nOtros (especificar)\nAsfaltado\n35 Km./ 55 Min. - Cuatrimoto\n1\nIca/Pisco/Humay\n-\nIca/Pisco/Humay\nC.P. de Bernales - Laguna de Huacachina\nTerrestre\nOtros (especificar)\nTrocha carrozable\n2 km. /12 minutos - Cuatrimoto."
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n06:00 a.m.\n-\n05:00 p.m.\nSe puede pernoctar en carpas"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nPaseos\nExcursiones\n--\nOtros\nEstudios e Investigación\n--\nDeportes acuáticos\nSea Kayac\n--\nNaturaleza\nObservación de flora\nHuarango, Junco, Grama Salada, Carricillo y Totora.\nNaturaleza\nObservación de paisaje\n--\nNaturaleza\nObservación de aves\nPatos, Gallaretas, Turtupilinas, Picaflor, Gallinazo y Garza.\nDeportes / Aventura\nCamping\n--\nDeportes / Aventura\nSandboard (Esquí sobre arena)\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlimentación\nKioskos de comida y bebidas\nCentro Poblado de Bernales\nLugares de Recreación\nDiscotecas\nCiudad de Pisco\nLugares de Recreación\nPeñas\nCiudad de Pisco\nLugares de Recreación\nCines o Teatros\nCiudad de Pisco\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nCiudad de Pisco\nLugares de Recreación\nKaraoke\nCiudad de Pisco\nLugares de Recreación\nBares\nCiudad de Pisco\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Pisco\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de Pisco\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nCiudad de Pisco - Idioma Ingles\nOtros Servicios Turísticos\nAlquiler de camionetas 4 x 4\nCiudad de Pisco\nAlimentación\nRestaurantes\nCiudad de Pisco\nAlimentación\nBares\nCiudad de Pisco\nAlimentación\nCafeterías\nCiudad de Pisco\nAlimentación\nFuentes de soda\nCiudad de Pisco\nAlimentación\nVenta de comida Rápida\nCiudad de Pisco\nAlojamiento\nHoteles (especificar categorías)\nCiudad de Pisco - Hoteles de 1 a 4 estrellas.\nAlojamiento\nHostales (especificar categorías)\nCiudad de Pisco - Hostales de 1 a 3 estrellas\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Pisco\nServicios Públicos\nSeñales turísticas de orientación\nCiudad de Pisco\nLugares de Recreación\nOtros(especificar)\nCiudad de Pisco - Centro Comercial\nLugares de Recreación\nJuegos Infantiles\nCiudad de Pisco\nLugares de Recreación\nCentros Deportivos\nCiudad de Pisco\nOtros Servicios Turísticos\nAlquiler de bicicleta\nCiudad de Pisco\nAlimentación\nOtros (Especificar)\nCiudad de Pisco- Food Truck\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\nCiudad de Pisco"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Pisco\nBancos\nCiudad de Pisco\nCajero automático\nCiudad de Pisco\nCasa de cambio\nCiudad de Pisco\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Pisco\nServicio de estacionamiento\nCiudad de Pisco\nServicios de taxis\nCiudad de Pisco\nCentro de salud - tópico\nCiudad de Pisco\nVenta de materiales para fotografías\nCiudad de Pisco\nSeguridad / POLTUR / Comisaría\nCiudad de Pisco\nLibrerías\nCiudad de Pisco\nBodegas o minimarkets\nCiudad de Pisco"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCentro Poblado de Bernales\nLuz (Suministro Eléctrico)\nCentro Poblado de Bernales\nTeléfono\nCentro Poblado de Bernales"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nEstado Peruano\nPrivado:\n--\nOtra Situación:\nMunicipalidad Distrital de Humay\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nResolución de Alcaldía N°337-2019-ALC-MDH\nAdministrador por\nNombre\nMunicipalidad Distrital de Humay\nTiempo de administración\nDesde el 2019."
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional De Comercio Exterior Y Turismo -Ica\nNombre (Persona(s) responsable(s) del inventario turístico):\nLic. Mitzzi Orellana Acasiete\nCargo:\nSub Directora de Turismo\nCorreo:\nmorellana@dircetur.gob.pe\nTeléfono:\n951793389\nFuentes Bibliográfica:\nhttps://www.peruenvideos.com/laguna-moron-pisco-ica/\nhttps://www.lavanguardia.com/ocio/viajes/20200411/48390762513/laguna-moron-oasis-totalmente-desconocido-peru.html\nhttps://www.americatv.com.pe/noticias/util-e-interesante/laguna-moron-ica-como-llegar-y-cuanto-cuesta-n375450\nhttps://www.iperu.org/laguna-de-moron-oasis-de-moron\nhttps://www.somosperu.org.pe/laguna-de-moron-un-oasis-cerca-de-lima/\nhttps://elcomercio.pe/vamos/oasis-moron-paraiso-escondido-horas-lima-noticia-567033-noticia/?ref=ecr\nhttps://eltiempo.pe/laguna-moron-el-oasis-oculto-de-pisco/\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n21/07/2022"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -13.759924,
+    "longitud": -75.98723000000001
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-13.759924,-75.98723000000001"
+}

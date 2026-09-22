@@ -1,0 +1,292 @@
+{
+  "cod_ficha": 1945,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=1945",
+  "nombre": "Parque Nacional Río Abiseo",
+  "departamento": "San Martín",
+  "provincia": "Mariscal Caceres",
+  "distrito": "HUICUNGO",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "n. Áreas Protegidas",
+  "subtipo": "Parques Nacionales",
+  "jerarquia": "3",
+  "altitud": "350",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=291108",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=291108",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=292797",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=315790",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=315791",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=485311",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=485356",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=485312"
+  ],
+  "actividades_permitidas": [
+    "Otros - Estudios e Investigación",
+    "Deportes acuáticos - Pesca deportiva",
+    "Naturaleza - Observación de fauna",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de paisaje",
+    "Naturaleza - Observación de aves",
+    "Deportes / Aventura - Caminata/Trekking",
+    "Paseos - Paseos en bote",
+    "Deportes / Aventura - Espeleísmo"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Deportes acuáticos",
+      "tipo": "Pesca deportiva",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/pesca_deportiva02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de fauna",
+      "observacion": "Oso anteojos, otorongo, mono choro de cola amarilla.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fauna02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "Helechos, orquídeas, bromelias, caña, musgos",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de aves",
+      "observacion": "Cóndor amazónico, gallitos de las rocas, paujil, loro militar, guacamayo, tucán",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/aves02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    },
+    {
+      "actividad": "Paseos",
+      "tipo": "Paseos en bote",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paseo_bote02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Espeleísmo",
+      "observacion": "Descenso a cavernas",
+      "icono_url": null
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "San Martín/San Martín/Tarapoto - San Martín/Mariscal Cáceres/Juanjuí",
+      "detalle": "Aeropuerto de Tarapoto - Puerto Amberes de Juanjui",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "135 km / 2 h 15 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "San Martín/Mariscal Cáceres/Juanjuí - San Martín/Mariscal Cáceres/Huicungo",
+      "detalle": "Puerto Amberes de Juanjui - Puesto de Control Churo del PNRA",
+      "tipo_acceso": "Lacustre / Fluvial",
+      "medio_transporte": "Deslizador",
+      "tipo_via": "",
+      "distancia_tiempo": "2.5 h"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "1165",
+      "horario": "Jefatura PNRA - SERNANP",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "42",
+      "horario": "Jefatura PNRA - SERNANP",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "08:00 a.m. - 05:00 p.m. Temporada de lluvia de diciembre a enero. Llevar repelente, zapatillas, ropa abrigada, poncho para la lluvia, gorro, bloqueador y bañador.",
+      "observaciones": "Temporada de lluvia de diciembre a enero. Llevar repelente, zapatillas, ropa abrigada, poncho para la lluvia, gorro, bloqueador y bañador."
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Semi-restringido(previo permiso)",
+      "observaciones": "Permiso con 24 horas de anticipación mediante documento, indicando nombres N° DNI y motivo de visita, dirigido al Sr. Víctor Macedo Cuenca, Jefe del PNRA, cel. 968218437"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Servicio de alojamiento para casos especiales previa coordinación con el jefe del PNRA."
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Servicio de alimentación para casos especiales previa coordinación con el jefe del PNRA."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "2 y 5 tenedores / Ciudad de Juanjui"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Juanjui"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Juanjui"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Ciudad de Juanjui"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de Juanjui"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "2 estrellas / Ciudad de Juanjui"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Ciudad de Juanjui"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Juanjui"
+    }
+  ],
+  "descripcion": "El Parque Nacional del Río Abiseo (PNRA), se ubica en la provincia de Mariscal Cáceres, Región San Martín, en la ladera oriental de los andes tropicales del centro- norte del Perú, a una altitud de 350 m.s.n.m. San Juan del Abiseo es el centro poblado más cercano al parque.\nSe creó el 11 de agosto de 1983, con el objetivo de proteger los bosques de neblina de la ceja de selva, selva alta y conservar aquellas especies de fauna silvestre en vía de extinción, así como la protección de los complejos arqueológicos del Gran Pajatén y Los Pinchudos. Reconocido por la UNESCO como Patrimonio Cultural de la Humanidad el 14 de diciembre de 1990, y el 12 de diciembre de 1992 como Sitio de Patrimonio Mundial Mixto (Natural y Cultura).\nTiene una extensión de 274,520 hectáreas, de clima cálido y muy húmedo, con temperaturas medias superiores a los 18° C y precipitaciones superiores a los 750 mm, con una humedad relativa de 90%. En el lado oeste, las temperaturas oscilan entre los 7° y 25° C, de acuerdo a la altura. Las precipitaciones varían entre 800 mm y 2,000 mm. La época ideal para la visita es de mayo a setiembre.\nEn el PNRA se ha registrado a la fecha cerca de 900 especies de fauna silvestre, distribuidas en 181 especies de mamíferos, 409 de aves, 17 de reptiles, 30 de anfibios, 14 de peces y cerca de 250 de invertebrados. De éstas, 552 especies corresponden al sector occidental y 351 al sector oriental del parque nacional. Del sector occidental, no menos de 27 especies son consideradas endémicas del Perú y de distribución restringida al PNRA y a sus inmediaciones, con varias especies amenazadas. En el sector oriental se ha reportado 18 especies amenazadas: 11 mamíferos y 7 aves. Entre las especies que destacan son el oso de anteojos, mono choro de cola amarilla (peligro de extinción), gallito de las rocas, otorongo, la taruca y el guacamayo militar.\nPor otro lado, de las 1,134 especies de plantas registradas, 986 corresponden al sector occidental. En las tierras de colina existen árboles de gran tamaño, como el renaco (Ficus sp.) y el caucho (Hevea brasiliensis). Entre las especies de importancia económica destacan la sangre de grado (Croton lechleri), la uña de gato (Uncaria tomentosa), y entre las maderables, el cedro (Cedrela odorata), la caoba (Swietenia macrophylla) y el tornillo (Cedrelinga catenaeformis). Se encuentra también a dos especies de árboles consideradas en vías de extinción: el cedro de altura (Cedrela montana) y el romerillo (Prumnopitys montana). Asimismo, se puede encontrar orquídeas y helechos.\nBajo la protección del Parque Nacional también se encuentran vestigios arqueológicos, que suman alrededor de 36 sitios, entre los que destacan “Los Pinchudos” y “El Gran Pajatén”, ambos de filiación cultural Chachapoyas, y cuyas construcciones poseen una decoración arquitectónica singular; sin embargo el acceso de turistas es restringido debido a que no se han desarrollado trabajos de puesta en valor por la fragilidad de las estructuras que pueden dañarse con el retiro de la vegetación que crece entre las piedras con las que fueron construidas. Sólo se permite el ingreso por temas de investigación y conservación mediante una autorización emitida por el Ministerio de Cultura y el SERNANP.\nLos principales atractivos turísticos con los que cuenta el Parque lo constituyen la Cascada El Oso, Bosque Shiringal, Cueva del otorongo, quebrada Churo, Cascada Timón, Cueva de los Franceses, catarata Shihui entre otros recursos naturales, alrededor de las cuales se concentra la oferta de actividades de los operadores de turismo.",
+  "particularidades": "Alberga al mono lanudo de cola amarilla, que se creía extinto, el cual se encuentra únicamente en el Parque Nacional Río Abiseo (ámbito nacional), como se indica en el criterio de valor universal excepcional, información publicada en la página web de la UNESCO.",
+  "estado_actual": "Bueno, porque se encuentra bajo la administración del Servicio Nacional de Áreas Naturales Protegidas por el estado (SERNANP), los que realizan diferentes actividades para su óptima conservación, como seguridad y regulación para la actividad turística.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "El Parque Nacional del Río Abiseo (PNRA), se ubica en la provincia de Mariscal Cáceres, Región San Martín, en la ladera oriental de los andes tropicales del centro- norte del Perú, a una altitud de 350 m.s.n.m. San Juan del Abiseo es el centro poblado más cercano al parque.\nSe creó el 11 de agosto de 1983, con el objetivo de proteger los bosques de neblina de la ceja de selva, selva alta y conservar aquellas especies de fauna silvestre en vía de extinción, así como la protección de los complejos arqueológicos del Gran Pajatén y Los Pinchudos. Reconocido por la UNESCO como Patrimonio Cultural de la Humanidad el 14 de diciembre de 1990, y el 12 de diciembre de 1992 como Sitio de Patrimonio Mundial Mixto (Natural y Cultura).\nTiene una extensión de 274,520 hectáreas, de clima cálido y muy húmedo, con temperaturas medias superiores a los 18° C y precipitaciones superiores a los 750 mm, con una humedad relativa de 90%. En el lado oeste, las temperaturas oscilan entre los 7° y 25° C, de acuerdo a la altura. Las precipitaciones varían entre 800 mm y 2,000 mm. La época ideal para la visita es de mayo a setiembre.\nEn el PNRA se ha registrado a la fecha cerca de 900 especies de fauna silvestre, distribuidas en 181 especies de mamíferos, 409 de aves, 17 de reptiles, 30 de anfibios, 14 de peces y cerca de 250 de invertebrados. De éstas, 552 especies corresponden al sector occidental y 351 al sector oriental del parque nacional. Del sector occidental, no menos de 27 especies son consideradas endémicas del Perú y de distribución restringida al PNRA y a sus inmediaciones, con varias especies amenazadas. En el sector oriental se ha reportado 18 especies amenazadas: 11 mamíferos y 7 aves. Entre las especies que destacan son el oso de anteojos, mono choro de cola amarilla (peligro de extinción), gallito de las rocas, otorongo, la taruca y el guacamayo militar.\nPor otro lado, de las 1,134 especies de plantas registradas, 986 corresponden al sector occidental. En las tierras de colina existen árboles de gran tamaño, como el renaco (Ficus sp.) y el caucho (Hevea brasiliensis). Entre las especies de importancia económica destacan la sangre de grado (Croton lechleri), la uña de gato (Uncaria tomentosa), y entre las maderables, el cedro (Cedrela odorata), la caoba (Swietenia macrophylla) y el tornillo (Cedrelinga catenaeformis). Se encuentra también a dos especies de árboles consideradas en vías de extinción: el cedro de altura (Cedrela montana) y el romerillo (Prumnopitys montana). Asimismo, se puede encontrar orquídeas y helechos.\nBajo la protección del Parque Nacional también se encuentran vestigios arqueológicos, que suman alrededor de 36 sitios, entre los que destacan “Los Pinchudos” y “El Gran Pajatén”, ambos de filiación cultural Chachapoyas, y cuyas construcciones poseen una decoración arquitectónica singular; sin embargo el acceso de turistas es restringido debido a que no se han desarrollado trabajos de puesta en valor por la fragilidad de las estructuras que pueden dañarse con el retiro de la vegetación que crece entre las piedras con las que fueron construidas. Sólo se permite el ingreso por temas de investigación y conservación mediante una autorización emitida por el Ministerio de Cultura y el SERNANP.\nLos principales atractivos turísticos con los que cuenta el Parque lo constituyen la Cascada El Oso, Bosque Shiringal, Cueva del otorongo, quebrada Churo, Cascada Timón, Cueva de los Franceses, catarata Shihui entre otros recursos naturales, alrededor de las cuales se concentra la oferta de actividades de los operadores de turismo."
+    },
+    {
+      "titulo": "Particularidades",
+      "contenido": "Alberga al mono lanudo de cola amarilla, que se creía extinto, el cual se encuentra únicamente en el Parque Nacional Río Abiseo (ámbito nacional), como se indica en el criterio de valor universal excepcional, información publicada en la página web de la UNESCO."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "Reconocido por la UNESCO como Patrimonio Mundial Mixto: Natural y Cultural, inscrito el 12 de diciembre de 1992 en la Lista del Patrimonio Mundial."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, porque se encuentra bajo la administración del Servicio Nacional de Áreas Naturales Protegidas por el estado (SERNANP), los que realizan diferentes actividades para su óptima conservación, como seguridad y regulación para la actividad turística."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Nacionales\n1165\nJefatura PNRA - SERNANP\n2022\nReporte de visitas del PNRA\nTuristas Extranjeros\n42\nJefatura PNRA - SERNANP\n2022\nReporte de visitas del PNRA"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nSan Martín/San Martín/Tarapoto\n-\nSan Martín/Mariscal Cáceres/Juanjuí\nAeropuerto de Tarapoto - Puerto Amberes de Juanjui\nTerrestre\nAutomóvil particular\nAsfaltado\n135 km / 2 h 15 min\n1\nSan Martín/Mariscal Cáceres/Juanjuí\n-\nSan Martín/Mariscal Cáceres/Huicungo\nPuerto Amberes de Juanjui - Puesto de Control Churo del PNRA\nLacustre / Fluvial\nDeslizador\n2.5 h"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nSemi-restringido(previo permiso)\nPermiso con 24 horas de anticipación mediante documento, indicando nombres N° DNI y motivo de visita, dirigido al Sr. Víctor Macedo Cuenca, Jefe del PNRA, cel. 968218437"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n08:00 a.m.\n-\n05:00 p.m.\nTemporada de lluvia de diciembre a enero. Llevar repelente, zapatillas, ropa abrigada, poncho para la lluvia, gorro, bloqueador y bañador."
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nEstudios e Investigación\n--\nDeportes acuáticos\nPesca deportiva\n--\nNaturaleza\nObservación de fauna\nOso anteojos, otorongo, mono choro de cola amarilla.\nNaturaleza\nObservación de flora\nHelechos, orquídeas, bromelias, caña, musgos\nNaturaleza\nObservación de paisaje\n--\nNaturaleza\nObservación de aves\nCóndor amazónico, gallitos de las rocas, paujil, loro militar, guacamayo, tucán\nDeportes / Aventura\nCaminata/Trekking\n--\nPaseos\nPaseos en bote\n--\nDeportes / Aventura\nEspeleísmo\nDescenso a cavernas"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nAlojamiento\nOtros (Especificar)\nServicio de alojamiento para casos especiales previa coordinación con el jefe del PNRA.\nInstalaciones Privadas\nAlimentación\nOtros (Especificar)\nServicio de alimentación para casos especiales previa coordinación con el jefe del PNRA."
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlimentación\nRestaurantes\n2 y 5 tenedores / Ciudad de Juanjui\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Juanjui\nAlimentación\nKioskos de comida y bebidas\nCiudad de Juanjui\nAlimentación\nVenta de comida Rápida\nCiudad de Juanjui\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de Juanjui\nAlojamiento\nHostales (especificar categorías)\n2 estrellas / Ciudad de Juanjui\nServicios Públicos\nOficina de Información turística\nCiudad de Juanjui\nLugares de Recreación\nDiscotecas\nCiudad de Juanjui"
+    },
+    {
+      "titulo": "Servicios Complementarios dentro del recurso",
+      "contenido": "Servicio Complementario\nObservación\nOtros(especificar)\nServicios Higiénicos"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nBancos\nCiudad de Juanjui\nCentro de salud - tópico\nCiudad de Juanjui\nBodegas o minimarkets\nCiudad de Juanjui\nSeguridad / POLTUR / Comisaría\nCiudad de Juanjui\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Juanjui\nServicios de internet\nCiudad de Juanjui\nCajero automático\nCiudad de Juanjui"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nSeñalización turística\n--\nOtros (Especificar)\nAgua entubada, procedente de la quebrada Churo.\nEnergía Alternativa\nPor medio de un generador en el puesto de control Churo.\nSistemas de tratamiento alternativo de residuos (Biodigestor, pozo séptico, otros)\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Juanjui\nLuz (Suministro Eléctrico)\nCiudad de Juanjui\nTeléfono\nCiudad de Juanjui\nAlcantarillado sanitario\nCiudad de Juanjui\nAlcantarillado pluvial\nCiudad de Juanjui\nSeñalización turística\nCiudad de Juanjui"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nServicio Nacional de Áreas Naturales Protegidas por el Estado - SERNANP\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nPartida\nNúmero de Partida:\n04005587\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nJefatura del Parque Nacional Río Abiseo\nTiempo de administración\nDesde el año 1983"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo de San Martín\nNombre (Persona(s) responsable(s) del inventario turístico):\nEdison Rodríguez Chupe\nCargo:\nEspecialista de Turismo\nCorreo:\nedison.rodriguezchupe@gmail.com\nTeléfono:\n976 980 815\nFuentes Bibliográfica:\n1) Río Abiseo: paradise of natural landscapes and archeological complexes by Peru.info del MINCETUR, 2019. Inglés y español - https://peru.info/en-us/tourism/news/3/17/rio-abiseo--natural-and-cultural-landscapes\n2) Parque Nacional del Río Abiseo. Autor: Unesco.org - Versión inglés - Enlace: https://whc.unesco.org/en/list/548\n3) Artículo “El Parque Nacional del Río Abiseo”. Autor: Portal Gob.pe, 1 de enero de 2019. Enlace: https://www.gob.pe/institucion/sernanp/informes-publicaciones/1948366-parque-nacional-del-rio-abiseo\n4) Catalogo Digital del Parque Nacional del Río Abiseo. Autor: Ministerio de Cultura. Perú, 2021. Enlace: https://patrimoniomundial.cultura.pe/sites/default/files/pub/pdf/CATALOGO%20DIGITAL%20RIO%20ABISEO_compressed%20%281%29.pdf\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\nVideo documental: https://www.youtube.com/watch?v=6t26nbvt96w\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n18/09/2023 09:48:22"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -7.68377332111113,
+    "longitud": -77.28607177734375
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-7.68377332111113,-77.28607177734375"
+}

@@ -1,0 +1,443 @@
+{
+  "cod_ficha": 272,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=272",
+  "nombre": "Museo Arqueológico Nacional Bruning",
+  "departamento": "Lambayeque",
+  "provincia": "Lambayeque",
+  "distrito": "LAMBAYEQUE",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Museos y otros",
+  "subtipo": "Museos",
+  "jerarquia": "2",
+  "altitud": "18",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=495670",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=495670",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=495709",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=495671",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=495672",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=495673",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=495710"
+  ],
+  "actividades_permitidas": [
+    "Otros - Compras de artesanía/souvenir",
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Estudios e Investigación",
+    "Otros - Otros(Especificar)",
+    "Cultura y Folclore - Apreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)",
+    "Otros - Compra de productos regionales"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Compras de artesanía/souvenir",
+      "observacion": "En boletería",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/artesania02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "Para reportajes, documentales, entre otros previa autorización en dirección.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "Alumnos de últimos ciclos universitarios.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Otros(Especificar)",
+      "observacion": "Exposiciones pictográficas",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/otros02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Apreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)",
+      "observacion": "En aniversario del museo, día internacional del Museo, Primer domingo de mes, entre otros.",
+      "icono_url": null
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Compra de productos regionales",
+      "observacion": "En boletería.",
+      "icono_url": null
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Lambayeque/Chiclayo/Chiclayo - Lambayeque/Lambayeque/Lambayeque",
+      "detalle": "Chiclayo - Lambayeque (Panamericana)",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Combi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "15 km. / 20 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Lambayeque/Lambayeque/Lambayeque - Lambayeque/Lambayeque/Lambayeque",
+      "detalle": "De Carretera Panamericana - Museo Bruning",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mototaxi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "280 mts. / 2 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Lambayeque/Lambayeque/Lambayeque - Lambayeque/Lambayeque/Lambayeque",
+      "detalle": "Plaza de Armas de Lambayeque - Museo Bruning",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "200 mts. / 6 min."
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "37803",
+      "horario": "Libro de registro de visitantes",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "1766",
+      "horario": "Libro de registro de visitantes",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "11163",
+      "horario": "Libro de registro de visitantes",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "09:00 a.m. - 05:00 p.m. Se puede tomar fotografías al exterior e interior del museo, así como comprar artesanía y souvenirs.",
+      "observaciones": "Se puede tomar fotografías al exterior e interior del museo, así como comprar artesanía y souvenirs."
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "Tickets en el área de boletería: Adultos (S/ 8.00), medio nacional (S/ 3.00), niños (S/ 1.00), servicio de guiado (S/ 50.00). Ingreso libre: 1er domingo de cada mes, Aniversario del Museo, día Interna"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "En boletería."
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Seguridad / POLTUR",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicios Higiénicos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Servicio de Guiado (opcional) S/. 50.00 por grupo. Idioma: Inglés."
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Estacionamiento",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "3 y 2 estrellas Ciudad de Lambayeque."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "2 estrellas en Ciudad de Lambayeque"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Lambayeque"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Lambayeque"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Lambayeque"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Snacks",
+      "observacion": "Ciudad de Lambayeque"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Lambayeque"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Lambayeque"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Casinos de Juego",
+      "observacion": "Ciudad de Lambayeque"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Pubs",
+      "observacion": "Ciudad de Lambayeque"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Ciudad de Lambayeque"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Ciudad de Lambayeque"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Lambayeque"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de Lambayeque"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Bancos - Cajeros",
+      "observacion": "Ciudad de Lambayeque"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Facilidades para discapacitados",
+      "observacion": "Ciudad de Lambayeque"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Museos de Sitio",
+      "observacion": "Ciudad de Lambayeque"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Oficina de Información",
+      "observacion": "Ciudad de Lambayeque:A cargo de los responsables del Municipio. Ca. Bolívar cdra. 4"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Seguridad / POLTUR",
+      "observacion": "Ciudad de Lambayeque"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicios Higiénicos",
+      "observacion": "Ciudad de Lambayeque"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Estacionamiento",
+      "observacion": "Ciudad de Lambayeque"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Fax",
+      "observacion": "Ciudad de Lambayeque"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Internet",
+      "observacion": "Ciudad de Lambayeque"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Tópico",
+      "observacion": "Ciudad de Lambayeque"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de Material Informativo(libro,revistas,postales,videos,etc)",
+      "observacion": "Ciudad de Lambayeque"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de Material para Fotografía",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Lambayeque."
+    }
+  ],
+  "descripcion": "Perteneciente a la Dirección General de Museos - Ministerio de cultura, fue creado e inaugurado durante la gestión del director del Museo, Don Oscar Fernández de Córdova y Amézaga, construyéndose un moderno y sobrio edificio que en la década del 60 fue una de las sensaciones de la arquitectura monumental moderna y el primer edificio construido para un Museo; que, con el aporte íntegro del Gobierno Alemán, en el año 1966, el Museo Brüning deja la casona ubicada en la calle Dos de Mayo Nº 271. La inauguración de este museo contó con la sobria y solemne visita oficial del presidente de la República Arq. Fernando Belaunde Terry durante su primer gobierno.\nEste museo nace como fruto de la labor investigadora de 50 años del peruanista Enrique Brüning, quien durante su estancia se dedicó al estudio de nuestras culturas precolombinas, tradición y arte de los pueblos de esa época. Además, en este recinto se exhibe la colección de objetos arqueológicos reunidos por el etnógrafo.\nEn mayo del 2005, las instalaciones del museo fueron remodeladas, gracias al Proyecto denominado: Remodelación y Relanzamiento del Museo Brüning; el cual consistía en mejorar los rubros de iluminación, confección de vitrinas y equipamiento.\nActualmente el interior del edificio principal, se encuentra distribuida en una secuencia de cuatro niveles y exponen más de 1,400 piezas arqueológicas, manifestaciones que fueron legados de las culturas, Chavín, Vicús, Moche, Lambayeque, Inca y otras. Las piezas más importantes datan de hace más de 10,000 años.\nEn el año 2021 el museo Brüning cumplió 100 años de creación y entre las distintas actividades ejecutadas, se realizó un cambio museográfico al cuarto nivel de exhibición. Esta área expone los importantes hallazgos encontrados en las tumbas de los “Personajes de Élite” de Chornancap, donde se puede apreciar parte de la materialidad halladas en sus tumbas, como: cerámica, metales, material malacológico y textiles, además de representaciones de cada personaje y escenificación de cómo fue hallada la tumba del personaje principal, también conocida como la “Sacerdotisa de Chornancap”.\nEn los jardines de este museo destaca la figura de Ñaymlap, fundador de la dinastía de Reyes lambayecanos. La fachada muestra un colorido mural con motivos lugareños.",
+  "particularidades": "Museo de 102 años de vida institucional, convirtiéndose en el más antiguo de la región: Decreto Nº16550 del Ministerio de Instrucción Pública.",
+  "estado_actual": "Buen estado de conservación. Debido a que se realiza un constante monitoreo a las áreas de exhibición, incluyendo el mantenimiento de las piezas y vitrinas, así como a las partes externas del museo, permitiéndonos mantener una buena imagen y atracción al público.",
+  "observaciones": "El Museo Nacional Brüning está ubicado a dos cuadras del parque principal de esta ciudad Av. Huamachuco cdra. 8 s/n.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Perteneciente a la Dirección General de Museos - Ministerio de cultura, fue creado e inaugurado durante la gestión del director del Museo, Don Oscar Fernández de Córdova y Amézaga, construyéndose un moderno y sobrio edificio que en la década del 60 fue una de las sensaciones de la arquitectura monumental moderna y el primer edificio construido para un Museo; que, con el aporte íntegro del Gobierno Alemán, en el año 1966, el Museo Brüning deja la casona ubicada en la calle Dos de Mayo Nº 271. La inauguración de este museo contó con la sobria y solemne visita oficial del presidente de la República Arq. Fernando Belaunde Terry durante su primer gobierno.\nEste museo nace como fruto de la labor investigadora de 50 años del peruanista Enrique Brüning, quien durante su estancia se dedicó al estudio de nuestras culturas precolombinas, tradición y arte de los pueblos de esa época. Además, en este recinto se exhibe la colección de objetos arqueológicos reunidos por el etnógrafo.\nEn mayo del 2005, las instalaciones del museo fueron remodeladas, gracias al Proyecto denominado: Remodelación y Relanzamiento del Museo Brüning; el cual consistía en mejorar los rubros de iluminación, confección de vitrinas y equipamiento.\nActualmente el interior del edificio principal, se encuentra distribuida en una secuencia de cuatro niveles y exponen más de 1,400 piezas arqueológicas, manifestaciones que fueron legados de las culturas, Chavín, Vicús, Moche, Lambayeque, Inca y otras. Las piezas más importantes datan de hace más de 10,000 años.\nEn el año 2021 el museo Brüning cumplió 100 años de creación y entre las distintas actividades ejecutadas, se realizó un cambio museográfico al cuarto nivel de exhibición. Esta área expone los importantes hallazgos encontrados en las tumbas de los “Personajes de Élite” de Chornancap, donde se puede apreciar parte de la materialidad halladas en sus tumbas, como: cerámica, metales, material malacológico y textiles, además de representaciones de cada personaje y escenificación de cómo fue hallada la tumba del personaje principal, también conocida como la “Sacerdotisa de Chornancap”.\nEn los jardines de este museo destaca la figura de Ñaymlap, fundador de la dinastía de Reyes lambayecanos. La fachada muestra un colorido mural con motivos lugareños."
+    },
+    {
+      "titulo": "Particularidades",
+      "contenido": "Museo de 102 años de vida institucional, convirtiéndose en el más antiguo de la región: Decreto Nº16550 del Ministerio de Instrucción Pública."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "Reconocimiento de alcaldía resolución N° 195-2021 MPL a Hans Henrich Brüning.\nReconocimiento de alcaldía resolución N° 194-2021-MPL a Museo Arqueológico Nacional Brüning\nCondecoración “Cultura Sicán” a Museo Arqueológico Nacional Brüning por parte del gobierno regional de Lambayeque Resolución N° 000578-2021-GR. LAMB/GR (4011216-30)\nReconocimiento Sello Safe Travel, año 2022"
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Buen estado de conservación. Debido a que se realiza un constante monitoreo a las áreas de exhibición, incluyendo el mantenimiento de las piezas y vitrinas, así como a las partes externas del museo, permitiéndonos mantener una buena imagen y atracción al público."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "El Museo Nacional Brüning está ubicado a dos cuadras del parque principal de esta ciudad Av. Huamachuco cdra. 8 s/n."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Nacionales\n37803\nLibro de registro de visitantes\n2022\nTuristas Extranjeros\n1766\nLibro de registro de visitantes\n2022\nVisitantes Locales(Excursionistas)\n11163\nLibro de registro de visitantes\n2022"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nLambayeque/Chiclayo/Chiclayo\n-\nLambayeque/Lambayeque/Lambayeque\nChiclayo - Lambayeque (Panamericana)\nTerrestre\nCombi\nAsfaltado\n15 km. / 20 minutos\n1\nLambayeque/Lambayeque/Lambayeque\n-\nLambayeque/Lambayeque/Lambayeque\nDe Carretera Panamericana - Museo Bruning\nTerrestre\nMototaxi\nAsfaltado\n280 mts. / 2 min.\n1\nLambayeque/Lambayeque/Lambayeque\n-\nLambayeque/Lambayeque/Lambayeque\nPlaza de Armas de Lambayeque - Museo Bruning\nTerrestre\nA pie\nAsfaltado\n200 mts. / 6 min."
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nTickets en el área de boletería: Adultos (S/ 8.00), medio nacional (S/ 3.00), niños (S/ 1.00), servicio de guiado (S/ 50.00).\nIngreso libre: 1er domingo de cada mes, Aniversario del Museo, día Interna"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n09:00 a.m.\n-\n05:00 p.m.\nSe puede tomar fotografías al exterior e interior del museo, así como comprar artesanía y souvenirs."
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nCompras de artesanía/souvenir\nEn boletería\nOtros\nToma de fotografías y filmaciones\nPara reportajes, documentales, entre otros previa autorización en dirección.\nOtros\nEstudios e Investigación\nAlumnos de últimos ciclos universitarios.\nOtros\nOtros(Especificar)\nExposiciones pictográficas\nCultura y Folclore\nApreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)\nEn aniversario del museo, día internacional del Museo, Primer domingo de mes, entre otros.\nOtros\nCompra de productos regionales\nEn boletería."
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nOtros Servicios Turísticos\nVenta de artesanía\nEn boletería.\nInstalaciones Privadas\nOtros Servicios Turísticos\nSeguridad / POLTUR\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nServicios Higiénicos\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nServicio de Guiado (opcional) S/. 50.00 por grupo.\nIdioma: Inglés.\nInstalaciones Privadas\nOtros Servicios Turísticos\nServicio de Estacionamiento\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\n3 y 2 estrellas Ciudad de Lambayeque.\nAlojamiento\nHostales (especificar categorías)\n2 estrellas en Ciudad de Lambayeque\nAlimentación\nRestaurantes\nCiudad de Lambayeque\nAlimentación\nBares\nCiudad de Lambayeque\nAlimentación\nCafeterías\nCiudad de Lambayeque\nAlimentación\nSnacks\nCiudad de Lambayeque\nAlimentación\nKioskos de comida y bebidas\nCiudad de Lambayeque\nLugares de Recreación\nDiscotecas\nCiudad de Lambayeque\nLugares de Recreación\nCasinos de Juego\nCiudad de Lambayeque\nLugares de Recreación\nPubs\nCiudad de Lambayeque\nLugares de Recreación\nJuegos Infantiles\nCiudad de Lambayeque\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nCiudad de Lambayeque\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Lambayeque\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de Lambayeque\nOtros Servicios Turísticos\nBancos - Cajeros\nCiudad de Lambayeque\nOtros Servicios Turísticos\nFacilidades para discapacitados\nCiudad de Lambayeque\nOtros Servicios Turísticos\nMuseos de Sitio\nCiudad de Lambayeque\nOtros Servicios Turísticos\nOficina de Información\nCiudad de Lambayeque:A cargo de los responsables del Municipio. Ca. Bolívar cdra. 4\nOtros Servicios Turísticos\nSeguridad / POLTUR\nCiudad de Lambayeque\nOtros Servicios Turísticos\nServicios Higiénicos\nCiudad de Lambayeque\nOtros Servicios Turísticos\nServicio de Estacionamiento\nCiudad de Lambayeque\nOtros Servicios Turísticos\nServicio de Fax\nCiudad de Lambayeque\nOtros Servicios Turísticos\nServicio de Internet\nCiudad de Lambayeque\nOtros Servicios Turísticos\nTópico\nCiudad de Lambayeque\nOtros Servicios Turísticos\nVenta de Material Informativo(libro,revistas,postales,videos,etc)\nCiudad de Lambayeque\nOtros Servicios Turísticos\nVenta de Material para Fotografía\n--\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Lambayeque."
+    },
+    {
+      "titulo": "Servicios Complementarios dentro del recurso",
+      "contenido": "Servicio Complementario\nObservación\nServicio de estacionamiento\nPlaya de estacionamiento.\nSeguridad / POLTUR / Comisaría\nDestacamento en ambientes del Museo Bruning."
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Lambayeque.\nBancos\nCiudad de Lambayeque.\nCajero automático\nCiudad de Lambayeque.\nCasa de cambio\nCiudad de Chiclayo.\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Lambayeque.\nServicio de correos\nCiudad de Chiclayo.\nCentro de salud - tópico\nCiudad de Lambayeque.\nVenta de materiales para fotografías\nCiudad de Chiclayo.\nSeguridad / POLTUR / Comisaría\nCiudad de Lambayeque.\nLibrerías\nCiudad de Lambayeque.\nBodegas o minimarkets\nCiudad de Lambayeque."
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\n--\nAlcantarillado sanitario\n--\nDesagüe\n--\nLuz (Suministro Eléctrico)\n--\nTeléfono\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Lambayeque\nAlcantarillado sanitario\nCiudad de Lambayeque\nDesagüe\nCiudad de Lambayeque\nLuz (Suministro Eléctrico)\nCiudad de Lambayeque\nTeléfono\nCiudad de Lambayeque\nSeñalización turística\nCiudad de Lambayeque"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nMuseo Arqueológico Nacional Bruninig.\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nNúmero de Partida:\n11367658\nCertificado de Compra-Venta:\nNo presenta. Fue adquirido como donación.\nCertificado de Posesión Nro.:\nCódigo único de SINABIP-CUS: 165259\nOtra situación:\n--\nAdministrador por\nNombre\nMinisterio de Cultura a través de Unidad Ejecutora Naylamp 005\nTiempo de administración\nDesde el año 2006 a través de la Dirección General de Museos."
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nGERENCIA REGIONAL DE COMERCIO EXTERIOR Y TURISMO DE LAMBAYEQUE\nNombre (Persona(s) responsable(s) del inventario turístico):\nLic. Magali Exebio Cabrera\nCargo:\nTécnico en Turismo\nCorreo:\nmagaliexebioc@gmail.com\nTeléfono:\n947672674\nFuentes Bibliográfica:\nLIBRO:LAMBAYEQUE DESTINO TURISTICO-FRANCISCO CAPUÑAY CASTRO\n- Wester La Torre, y otros. Centenario del Museo Brüning 1921-2021, 2021\n- Wester La Torre, CHOTUNA-CHORNANCAP. Templos, Rituales y Ancestros Lambayeque, 2010\n- Wester La Torre, CHORNANCAP. Palacio de una gobernante y sacerdotisa de la cultura Lambayeque, 2016)\n- Wester La Torre, Personajes de Élite en Chornancap. Una nueva visión de la cultura Lambayeque, 2018\nMaterial Audiovisual actual del Recurso:\nFOTO, OTROS\nEspecificación:\nTRIPTICOS,INVENTARIO DE RECURSOS TURISTICOS DE LA MUNICIPALIDAD DE LAMBAYEQUE,SUPLEMENTO DOMINICAL.\nReferencia de las últimas intervenciones en el Recurso Turístico:\n2005 Donación de Gobierno Alemán: 100,000 €: Acondicionamiento del museo, y 2do cambio museográfico realizado en el museo.\n2005 Donación de Gobierno Regional S/150,000 e INC S/80,000. Cambio museograf\nFecha:\n2/08/2023 16:32:31"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -6.7038142375732175,
+    "longitud": -79.90392976944719
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-6.7038142375732175,-79.90392976944719"
+}

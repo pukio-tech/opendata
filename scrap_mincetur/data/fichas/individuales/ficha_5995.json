@@ -1,0 +1,309 @@
+{
+  "cod_ficha": 5995,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=5995",
+  "nombre": "Valle Del Guayabamba",
+  "departamento": "Amazonas",
+  "provincia": "Rodriguez De Mendoza",
+  "distrito": "SAN NICOLÁS",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "c. Valles",
+  "subtipo": "Valles",
+  "jerarquia": "1",
+  "altitud": "1570",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=490904",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=490904",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=625234",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=625235",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=625236",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=625237",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=625238",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=625240",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=625241",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=625242",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=625276",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=625244",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=625245",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=625246",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=625410",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=625411",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=625412",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=625415"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Naturaleza - Observación de flora",
+    "Deportes / Aventura - Caminata/Trekking",
+    "Cultura y Folclore - Participación y/u observación del proceso de elaboración de productos locales"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "El valle se presta para tomas fotográficas y/o filmaciones",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "Vegetación tipica del lugar como: itil,ishpingo, cedro, bromelias, bambú, caña brava, entre otros; además de los frutales y agricolas como: café, palta, huaba, caña de azucar, guayaba, naranjas, etc.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "El valle se presta para caminatas con el disfrute de la naturaleza",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Participación y/u observación del proceso de elaboración de productos locales",
+      "observacion": "Los pueblos que forman parte del valle conservan tradiciones como la producción de panela, aguardiente y turrones en trapiches artesanales.",
+      "icono_url": null
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Amazonas/Rodríguez De Mendoza/San Nicolás - Amazonas/Rodríguez De Mendoza/Mariscal Benavides",
+      "detalle": "Plaza principal de Mendoza - Plaza principal de Mariscal Benavides",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "2.9 km/6 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Amazonas/Rodríguez De Mendoza/Mariscal Benavides - Amazonas/Rodríguez De Mendoza/Mariscal Benavides",
+      "detalle": "Plaza principla de Mariscal Benavides - Plaza principal de Michina",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "4.1 km/20 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Amazonas/Rodríguez De Mendoza/Mariscal Benavides - Amazonas/Rodríguez De Mendoza/Longar",
+      "detalle": "Plaza principal de Michina - Plaza principal de Longar",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "3 km/10 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Amazonas/Rodríguez De Mendoza/Longar - Amazonas/Rodríguez De Mendoza/Cochamal",
+      "detalle": "Plaza principal de Longar - Plaza pricipal de Cochamal",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "5.7 km/20 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Amazonas/Rodríguez De Mendoza/Cochamal - Amazonas/Rodríguez De Mendoza/Huambo",
+      "detalle": "Plaza principal de Cochamal - Plaza principal de Huambo",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "5.9 km/30 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Amazonas/Rodríguez De Mendoza/Huambo - Amazonas/Rodríguez De Mendoza/San Nicolás",
+      "detalle": "Plaza principal de Huambo - Plaza principal de Mendoza",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "11.2 km/40 min."
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "1350",
+      "horario": "Conteo muestral",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "2970",
+      "horario": "Conteo muestral",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "08:00 a.m. - 05:00 p.m. Horario para poder disfrutar del paisaje y sus características",
+      "observaciones": "Horario para poder disfrutar del paisaje y sus características"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "(categoría 2 estrellas)"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "(categoría 3 estrellas)"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Localidad de Mendoza"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "Localidad de Mendoza (categoría 2 estrellas)"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "Localidad de Mendoza (categoría 3 estrellas)"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Localidad de Mendoza (categoría 2 estrellas)"
+    }
+  ],
+  "descripcion": "El Valle del Guayabamba, conocido también como Valle del Huayabamba, se ubica en la provincia de Rodríguez de Mendoza, en la región Amazonas, formando parte de la vertiente oriental andina. El recorrido turístico del valle se inicia en San Nicolás de Mendoza, capital provincial y centro que concentra servicios de alojamiento, alimentación y transporte, lo que facilita la organización de las visitas. Desde allí, el valle se extiende a lo largo del curso medio del río San Antonio, cruzando los distritos de Mariscal Benavides, Longar, Cochamal y Huambo, hasta llegar nuevamente a Mendoza, donde concluye su tramo como unidad paisajística. Este recorrido marca el inicio y fin del recurso, integrando naturaleza, agricultura y cultura viva en un solo espacio.\nEn este entorno natural se desarrolla la actividad turística vinculada principalmente al disfrute del paisaje, la observación cultural y la visita a los pueblos tradicionales.\nDesde el punto de vista geológico y geomorfológico, el valle corresponde a la unidad de yunga fluvial, caracterizada por suelos aluviales fértiles que favorecen la agricultura. Su relieve está conformado por terrazas fluviales, laderas de pendientes moderadas y quebradas, que en conjunto han modelado un espacio agrícola y ganadero rodeado de colinas boscosas.\nEl clima predominante es tropical húmedo, con temperaturas promedio cercanas a los 20 °C, y una estación lluviosa de noviembre a abril. El valle se encuentra a 1 570 m s. n. m., altitud que lo convierte en un lugar propicio para el cultivo de caña de azúcar, café, guayaba y cítricos, productos que forman parte de la identidad cultural y económica de la zona.\nEn cuanto a su hidrografía, el valle está atravesado por el río San Antonio, cuyas aguas riegan las tierras cultivables y sostienen la biodiversidad local. Su cauce recibe aportes de quebradas y afluentes secundarios, entre los que destacan Shucush, Longar y Cochamal, que refuerzan el carácter agrícola del territorio. La profundidad del río varía estacionalmente, alcanzando mayores niveles en época de lluvias, lo cual determina la dinámica agrícola y ecológica de la zona.\nLos centros poblados que conforman el valle son San Nicolás de Mendoza, Mariscal Benavides, Longar, Huambo y Cochamal. Estos pueblos mantienen una arquitectura pintoresca de casas con techos de teja y balcones, además de conservar tradiciones como la producción de panela, aguardiente y turrones en trapiches artesanales.\nEl Valle del Guayabamba constituye un espacio natural y cultural de gran atractivo turístico, tanto por la belleza de su paisaje y riqueza agrícola, como por su legado histórico y las costumbres vivas de sus comunidades.",
+  "particularidades": "",
+  "estado_actual": "Regular, porque en gran parte el paisaje se muestra en su estado natural.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "El Valle del Guayabamba, conocido también como Valle del Huayabamba, se ubica en la provincia de Rodríguez de Mendoza, en la región Amazonas, formando parte de la vertiente oriental andina. El recorrido turístico del valle se inicia en San Nicolás de Mendoza, capital provincial y centro que concentra servicios de alojamiento, alimentación y transporte, lo que facilita la organización de las visitas. Desde allí, el valle se extiende a lo largo del curso medio del río San Antonio, cruzando los distritos de Mariscal Benavides, Longar, Cochamal y Huambo, hasta llegar nuevamente a Mendoza, donde concluye su tramo como unidad paisajística. Este recorrido marca el inicio y fin del recurso, integrando naturaleza, agricultura y cultura viva en un solo espacio.\nEn este entorno natural se desarrolla la actividad turística vinculada principalmente al disfrute del paisaje, la observación cultural y la visita a los pueblos tradicionales.\nDesde el punto de vista geológico y geomorfológico, el valle corresponde a la unidad de yunga fluvial, caracterizada por suelos aluviales fértiles que favorecen la agricultura. Su relieve está conformado por terrazas fluviales, laderas de pendientes moderadas y quebradas, que en conjunto han modelado un espacio agrícola y ganadero rodeado de colinas boscosas.\nEl clima predominante es tropical húmedo, con temperaturas promedio cercanas a los 20 °C, y una estación lluviosa de noviembre a abril. El valle se encuentra a 1 570 m s. n. m., altitud que lo convierte en un lugar propicio para el cultivo de caña de azúcar, café, guayaba y cítricos, productos que forman parte de la identidad cultural y económica de la zona.\nEn cuanto a su hidrografía, el valle está atravesado por el río San Antonio, cuyas aguas riegan las tierras cultivables y sostienen la biodiversidad local. Su cauce recibe aportes de quebradas y afluentes secundarios, entre los que destacan Shucush, Longar y Cochamal, que refuerzan el carácter agrícola del territorio. La profundidad del río varía estacionalmente, alcanzando mayores niveles en época de lluvias, lo cual determina la dinámica agrícola y ecológica de la zona.\nLos centros poblados que conforman el valle son San Nicolás de Mendoza, Mariscal Benavides, Longar, Huambo y Cochamal. Estos pueblos mantienen una arquitectura pintoresca de casas con techos de teja y balcones, además de conservar tradiciones como la producción de panela, aguardiente y turrones en trapiches artesanales.\nEl Valle del Guayabamba constituye un espacio natural y cultural de gran atractivo turístico, tanto por la belleza de su paisaje y riqueza agrícola, como por su legado histórico y las costumbres vivas de sus comunidades."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Regular, porque en gran parte el paisaje se muestra en su estado natural."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Nacionales\n1350\nConteo muestral\n2025\nVisitantes Locales(Excursionistas)\n2970\nConteo muestral\n2025"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nAmazonas/Rodríguez De Mendoza/San Nicolás\n-\nAmazonas/Rodríguez De Mendoza/Mariscal Benavides\nPlaza principal de Mendoza - Plaza principal de Mariscal Benavides\nTerrestre\nAutomóvil particular\nAsfaltado\n2.9 km/6 min.\n1\nAmazonas/Rodríguez De Mendoza/Mariscal Benavides\n-\nAmazonas/Rodríguez De Mendoza/Mariscal Benavides\nPlaza principla de Mariscal Benavides - Plaza principal de Michina\nTerrestre\nAutomóvil particular\nAfirmado\n4.1 km/20 min.\n1\nAmazonas/Rodríguez De Mendoza/Mariscal Benavides\n-\nAmazonas/Rodríguez De Mendoza/Longar\nPlaza principal de Michina - Plaza principal de Longar\nTerrestre\nAutomóvil particular\nAfirmado\n3 km/10 min.\n1\nAmazonas/Rodríguez De Mendoza/Longar\n-\nAmazonas/Rodríguez De Mendoza/Cochamal\nPlaza principal de Longar - Plaza pricipal de Cochamal\nTerrestre\nAutomóvil particular\nAfirmado\n5.7 km/20 min.\n1\nAmazonas/Rodríguez De Mendoza/Cochamal\n-\nAmazonas/Rodríguez De Mendoza/Huambo\nPlaza principal de Cochamal - Plaza principal de Huambo\nTerrestre\nAutomóvil particular\nAfirmado\n5.9 km/30 min.\n1\nAmazonas/Rodríguez De Mendoza/Huambo\n-\nAmazonas/Rodríguez De Mendoza/San Nicolás\nPlaza principal de Huambo - Plaza principal de Mendoza\nTerrestre\nAutomóvil particular\nAfirmado\n11.2 km/40 min."
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n08:00 a.m.\n-\n05:00 p.m.\nHorario para poder disfrutar del paisaje y sus características"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\nEl valle se presta para tomas fotográficas y/o filmaciones\nNaturaleza\nObservación de flora\nVegetación tipica del lugar como: itil,ishpingo, cedro, bromelias, bambú, caña brava, entre otros; además de los frutales y agricolas como: café, palta, huaba, caña de azucar, guayaba, naranjas, etc.\nDeportes / Aventura\nCaminata/Trekking\nEl valle se presta para caminatas con el disfrute de la naturaleza\nCultura y Folclore\nParticipación y/u observación del proceso de elaboración de productos locales\nLos pueblos que forman parte del valle conservan tradiciones como la producción de panela, aguardiente y turrones en trapiches artesanales."
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nAlimentación\nRestaurantes\n--\nInstalaciones Privadas\nAlimentación\nCafeterías\n--\nInstalaciones Privadas\nLugares de Recreación\nDiscotecas\n--\nInstalaciones Privadas\nLugares de Recreación\nCentros Deportivos\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nAgencia de Viajes\n--\nInstalaciones Privadas\nAlojamiento\nHoteles (especificar categorías)\n(categoría 2 estrellas)\nInstalaciones Privadas\nAlojamiento\nHostales (especificar categorías)\n(categoría 3 estrellas)\nInstalaciones Privadas\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlimentación\nRestaurantes\nLocalidad de Mendoza\nAlojamiento\nHoteles (especificar categorías)\nLocalidad de Mendoza (categoría 2 estrellas)\nAlojamiento\nHostales (especificar categorías)\nLocalidad de Mendoza (categoría 3 estrellas)\nAlimentación\nKioskos de comida y bebidas\nLocalidad de Mendoza (categoría 2 estrellas)"
+    },
+    {
+      "titulo": "Servicios Complementarios dentro del recurso",
+      "contenido": "Servicio Complementario\nObservación\nServicios de internet\n--\nBancos\n--\nCajero automático\n--\nEstación de servicios, grifos, gasolineras y gasocentros\n--\nCentro de salud - tópico\n--\nSeguridad / POLTUR / Comisaría\n--\nBodegas o minimarkets\n--"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nBancos\nLocalidad de Mendoza\nServicio de estacionamiento\nLocalidad de Mendoza\nServicios de taxis\nLocalidad de Mendoza\nCentro de salud - tópico\nLocalidad de Mendoza\nSeguridad / POLTUR / Comisaría\nLocalidad de Mendoza\nBodegas o minimarkets\nLocalidad de Mendoza"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\n--\nAlcantarillado sanitario\n--\nLuz (Suministro Eléctrico)\n--\nTeléfono\noperador de: claro, movistar, bitel y entel"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nLocalidad de Mendoza\nAlcantarillado sanitario\nLocalidad de Mendoza\nLuz (Suministro Eléctrico)\nLocalidad de Mendoza\nTeléfono\nLocalidad de Mendoza - Cobertura celular (Movistar, bitel, entel y Claro)"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\n--\nPrivado:\nTodo el valle con diferentes propietarios\nOtra Situación:\nTodo el valle con diferentes propietarios\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nTerreno cedido por herencia, compra venta, etc, por pertenecer a diferentes propietarios\nAdministrador por\nNombre\nCada propietario administra su espacio\nTiempo de administración\nDesde el año 1929"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nGobierno Regional Amazonas/Dirección Regional de Comercio Exterior y Turismo\nNombre (Persona(s) responsable(s) del inventario turístico):\nLic. Gilber Ramos Chappa\nCargo:\nResponsable de Inventario\nCorreo:\nramoschappa@gmail.com\nTeléfono:\n988062534\nFuentes Bibliográfica:\n- Dirección Regional de Comercio Exterior y Turismo de Amazonas – DIRCETUR. (s. f.). Valle de Huayabamba. Portal de destinos turísticos de Amazonas. Recuperado de https://dircetur.identto.com/destino/valle-de-huayabamba\n- Municipalidad Provincial de Rodríguez de Mendoza. (2022, 27 de junio). Historia del Valle del Huayabamba y las proyecciones de la provincia de Rodríguez de Mendoza en la próxima década. Plataforma digital única del Estado Peruano. Recuperado de https://www.gob.pe/institucion/munirodriguezdemendoza/noticias/662977-historia-del-valle-del-huayabamba-y-las-proyecciones-de-la-provincia-de-rodriguez-de-mendoza-en-la-proxima-decada\n- Turismo Peruano. (s. f.). Valle de Guayabamba – Amazonas. Portal informativo de turismo en el Perú. Recuperado de https://www.turismoperuano.com/valle-de-guayabamba-amazonas\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n11/09/2025 15:27:59"
+    }
+  ],
+  "coordenadas": {
+    "latitud": null,
+    "longitud": null
+  },
+  "google_maps_url": null
+}

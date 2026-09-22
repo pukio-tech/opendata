@@ -1,0 +1,372 @@
+{
+  "cod_ficha": 9142,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=9142",
+  "nombre": "Playa Las Capullanas",
+  "departamento": "Piura",
+  "provincia": "Talara",
+  "distrito": "LOBITOS",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "l. Costas",
+  "subtipo": "Playas",
+  "jerarquia": "2",
+  "altitud": "8 m.s.n.m.",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=294496",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=294496",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=294746",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=294747",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=543437",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=543438",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=543413",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=543439",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=543440",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=543441"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Estudios e Investigación",
+    "Deportes acuáticos - Natación",
+    "Naturaleza - Observación de paisaje",
+    "Naturaleza - Observación de aves",
+    "Cultura y Folclore - Rituales místicos o tradicionales",
+    "Deportes / Aventura - Caminata/Trekking",
+    "Deportes / Aventura - Camping"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Deportes acuáticos",
+      "tipo": "Natación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/natacion02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de aves",
+      "observacion": "(Piqueros de patas azules)",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/aves02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Rituales místicos o tradicionales",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/rituales_misticos02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Camping",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/camping02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Piura/Piura/Piura - Piura/Talara/Pariñas",
+      "detalle": "Terminal de transporte terrestre Piura ( EPPO)– Terminal de transporte terrestre- Distrito de Pariñas (EPPO)",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "120 km/ 2 h"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Piura/Talara/Pariñas - Piura/Talara/Lobitos",
+      "detalle": "Paradero de autos Talara (distrito Pariñas) – Paradero de Lobitos (distrito de Lobitos)",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Taxi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "17 km/ 25 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Piura/Talara/Lobitos - Piura/Talara/Lobitos",
+      "detalle": "Plaza El Pescador (Sector Nuevo Lobitos) – Lufkin petrolero “ex Lote 6” (referencia: muro azul de declaratoria a Capullanas como Patrimonio cultural de la Nación)",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mototaxi",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "4.8 km/ 15 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Piura/Talara/Lobitos - Piura/Talara/Lobitos",
+      "detalle": "Lufkin petrolero “ex Lote 6” (muro azul) – Playa Las Capullanas",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Otros",
+      "distancia_tiempo": "500 m/ 10 minutos"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "4680",
+      "horario": "Conteo Muestral 2023",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "1980",
+      "horario": "Conteo Muestral 2023",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "1620",
+      "horario": "Conteo Muestral",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "06:00 a.m. - 06:00 p.m. Se sugiere este horario, ya que no hay iluminación eléctrica. Tener en cuenta revisar la tabla de mareas diaria; puesto que, ello permitirá saber la accesibilidad a las cuevas y arco.",
+      "observaciones": "Se sugiere este horario, ya que no hay iluminación eléctrica. Tener en cuenta revisar la tabla de mareas diaria; puesto que, ello permitirá saber la accesibilidad a las cuevas y arco."
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": "Es un lugar alejado de la ciudad, aún no hay ningún tipo de infraestructura ni instalaciones como servicios higiénicos, estacionamiento, casetas de seguridad u otro."
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Localidad de Lobitos"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Localidad de Lobitos"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Localidad de Lobitos"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Localidad de Lobitos"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Distrito de Lobitos"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Localidad de Lobitos"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de botes",
+      "observacion": "Localidad de Lobitos"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "Localidad de Lobitos"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Localidad de Lobitos"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "Localidad de Lobitos"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de interpretación",
+      "observacion": "Localidad de Lobitos"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Embarcaderos",
+      "observacion": "Localidad de Lobitos"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "Localidad de Lobitos"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Puesto de auxilio rápido",
+      "observacion": "Localidad de Lobitos"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Distrito de Lobitos"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Distrito de Lobitos"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Distrito de Lobitos"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "(Alquiler de motos lineales)"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de bicicleta",
+      "observacion": "Localidad de Lobitos"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Localidad de Lobitos"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Localidad de Lobitos"
+    }
+  ],
+  "descripcion": "La playa Las Capullanas está ubicada en el distrito de Lobitos, en la provincia de Talara, de la región Piura. La extensión de la playa es de 400 m y se encuentra a 3.5 km del centro poblado de Lobitos, perteneciendo a la región natural Costa o Chala. El clima es cálido, con veranos que presentan una temperatura promedio de 30°C, mientras que los inviernos son ventosos y tienen una temperatura promedio de 16°C. Respecto a la temperatura del agua, durante los meses de diciembre a abril se encuentra en un rango de 23° a 29°C y, de mayo a noviembre, en un rango de 13° a 18°C. Sin embargo, en esta playa no se recomienda nadar debido a sus corrientes.\nEs hábitat de una gran variedad de aves, tales como: piqueros de patas azules y de patas plomas, pelícanos, gaviotas negras y blancas, guanay, tijeretas, gallinazos de cabeza roja y de cabeza negra. En su mar se puede pescar: chita, berrugata, cabrilla, pluma, pez globo, guitarra, cherlo y raya. Además, de sus peñas se pueden extraer: caracol, pulpo y percebes. También se pueden observar zorros, iguanas, lagartijas de mar, lobos marinos y cangrejos. Esta playa destaca por su conjunto de cuevas enigmáticas y un arco con una forma peculiar que, desde el mar, parece la cabeza de un rinoceronte bebiendo agua, característica que define al lugar.\nEn relación a las cuevas, la primera cueva tiene forma de cúpula, con una entrada pequeña. En su interior presenta 3 escalones construidos con piedra y barro, y una especie de entrada de 2 m de ancho. La parte central es circular y aplanada, y es llamada “Auditorio”, ya que en ella se suelen reunir personas dedicadas a la meditación, quienes mencionan que esta cueva concentra una poderosa energía. La segunda cueva, denominada “La Cueva”, tiene 2 entradas y un profundo túnel. Algunos cronistas y pobladores mencionan que este era un acceso hacia Cajamarca; sin embargo, actualmente se puede avanzar solo unos 20 o 30 metros, aproximadamente, ya que los lugareños dicen que quienes pasan más allá no vuelven a salir porque son encantados. Asimismo, hay testimonios de visitantes que dicen no poder avanzar más porque les falta la respiración. Cabe indicar que una de sus entradas da acceso al mar y lleva hasta el arco principal, que se puede cruzar considerando la marea baja.\nEn este lugar, en la parte superior de las cuevas, se ubica el denominado “bosque de piedras”, donde se pueden observar diferentes formaciones rocosas esculpidas por la erosión de las olas del mar y las fuertes ventiscas, dejando a la imaginación de los visitantes descifrar sus formas. Estas formaciones también se pueden observar en la parte inferior, en la extensión de las paredes rocosas, con figuras como la huella de un zapato gigante, el órgano sexual de una mujer e incluso un bigote, entre otras.\nEl nombre de esta playa se debe a una leyenda popular que señala que durante la época prehispánica este lugar fue habitado por las mujeres “Capullanas”, quienes fueron gobernantes en la costa norte del Perú. Uno de los relatos más conocidos es que un expedicionario quedó cautivado por la belleza y el encanto de la soberana Capullana. De este lugar se han tejido varios mitos y leyendas por el misticismo que transmite. Cabe indicar que la playa es visitada, principalmente, por turistas extranjeros que, al quedarse durante varias semanas en el destino Lobitos, buscan realizar otras actividades además de surfear. También es visitada por personas que indican que esta playa es un lugar energético de la Tierra, y la denominan Akenesis.",
+  "particularidades": "",
+  "estado_actual": "Se encuentra en buen estado de conservación; sin embargo, diariamente desemboca basura del mar, traída de una playa aledaña; por ello, se suele encontrar desperdicios alrededor. Además, algunos visitantes realizan pintas (con carbón) dentro y fuera de las cuevas.",
+  "observaciones": "Se sugiere ir acompañado de un intérprete local, puesto que, tiene varios accesos. Además, no hay personal de seguridad alrededor del recurso.\nDe acuerdo con la Ordenanza Municipal N.º 02-04-2018-MDL se aprobó la no circulación de vehículos motorizados menores y mayores dentro de todas las playas del Distrito de Lobitos.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "La playa Las Capullanas está ubicada en el distrito de Lobitos, en la provincia de Talara, de la región Piura. La extensión de la playa es de 400 m y se encuentra a 3.5 km del centro poblado de Lobitos, perteneciendo a la región natural Costa o Chala. El clima es cálido, con veranos que presentan una temperatura promedio de 30°C, mientras que los inviernos son ventosos y tienen una temperatura promedio de 16°C. Respecto a la temperatura del agua, durante los meses de diciembre a abril se encuentra en un rango de 23° a 29°C y, de mayo a noviembre, en un rango de 13° a 18°C. Sin embargo, en esta playa no se recomienda nadar debido a sus corrientes.\nEs hábitat de una gran variedad de aves, tales como: piqueros de patas azules y de patas plomas, pelícanos, gaviotas negras y blancas, guanay, tijeretas, gallinazos de cabeza roja y de cabeza negra. En su mar se puede pescar: chita, berrugata, cabrilla, pluma, pez globo, guitarra, cherlo y raya. Además, de sus peñas se pueden extraer: caracol, pulpo y percebes. También se pueden observar zorros, iguanas, lagartijas de mar, lobos marinos y cangrejos. Esta playa destaca por su conjunto de cuevas enigmáticas y un arco con una forma peculiar que, desde el mar, parece la cabeza de un rinoceronte bebiendo agua, característica que define al lugar.\nEn relación a las cuevas, la primera cueva tiene forma de cúpula, con una entrada pequeña. En su interior presenta 3 escalones construidos con piedra y barro, y una especie de entrada de 2 m de ancho. La parte central es circular y aplanada, y es llamada “Auditorio”, ya que en ella se suelen reunir personas dedicadas a la meditación, quienes mencionan que esta cueva concentra una poderosa energía. La segunda cueva, denominada “La Cueva”, tiene 2 entradas y un profundo túnel. Algunos cronistas y pobladores mencionan que este era un acceso hacia Cajamarca; sin embargo, actualmente se puede avanzar solo unos 20 o 30 metros, aproximadamente, ya que los lugareños dicen que quienes pasan más allá no vuelven a salir porque son encantados. Asimismo, hay testimonios de visitantes que dicen no poder avanzar más porque les falta la respiración. Cabe indicar que una de sus entradas da acceso al mar y lleva hasta el arco principal, que se puede cruzar considerando la marea baja.\nEn este lugar, en la parte superior de las cuevas, se ubica el denominado “bosque de piedras”, donde se pueden observar diferentes formaciones rocosas esculpidas por la erosión de las olas del mar y las fuertes ventiscas, dejando a la imaginación de los visitantes descifrar sus formas. Estas formaciones también se pueden observar en la parte inferior, en la extensión de las paredes rocosas, con figuras como la huella de un zapato gigante, el órgano sexual de una mujer e incluso un bigote, entre otras.\nEl nombre de esta playa se debe a una leyenda popular que señala que durante la época prehispánica este lugar fue habitado por las mujeres “Capullanas”, quienes fueron gobernantes en la costa norte del Perú. Uno de los relatos más conocidos es que un expedicionario quedó cautivado por la belleza y el encanto de la soberana Capullana. De este lugar se han tejido varios mitos y leyendas por el misticismo que transmite. Cabe indicar que la playa es visitada, principalmente, por turistas extranjeros que, al quedarse durante varias semanas en el destino Lobitos, buscan realizar otras actividades además de surfear. También es visitada por personas que indican que esta playa es un lugar energético de la Tierra, y la denominan Akenesis."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Se encuentra en buen estado de conservación; sin embargo, diariamente desemboca basura del mar, traída de una playa aledaña; por ello, se suele encontrar desperdicios alrededor. Además, algunos visitantes realizan pintas (con carbón) dentro y fuera de las cuevas."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "Se sugiere ir acompañado de un intérprete local, puesto que, tiene varios accesos. Además, no hay personal de seguridad alrededor del recurso.\nDe acuerdo con la Ordenanza Municipal N.º 02-04-2018-MDL se aprobó la no circulación de vehículos motorizados menores y mayores dentro de todas las playas del Distrito de Lobitos."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n4680\nConteo Muestral 2023\n2023\nProyecciòn del Conteo Muestral mes de Julio y Agosto del 2023\nTuristas Nacionales\n1980\nConteo Muestral 2023\n2023\nProyecciòn del Conteo Muestral mes de Julio y Agosto del 2023\nVisitantes Locales(Excursionistas)\n1620\nConteo Muestral\n2023\nProyección del Conteo Muestral mes de Julio y Agosto del 2023"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nPiura/Piura/Piura\n-\nPiura/Talara/Pariñas\nTerminal de transporte terrestre Piura ( EPPO)– Terminal de transporte terrestre- Distrito de Pariñas (EPPO)\nTerrestre\nBus público\nAsfaltado\n120 km/ 2 h\n1\nPiura/Talara/Pariñas\n-\nPiura/Talara/Lobitos\nParadero de autos Talara (distrito Pariñas) – Paradero de Lobitos (distrito de Lobitos)\nTerrestre\nTaxi\nAsfaltado\n17 km/ 25 min\n1\nPiura/Talara/Lobitos\n-\nPiura/Talara/Lobitos\nPlaza El Pescador (Sector Nuevo Lobitos) – Lufkin petrolero “ex Lote 6” (referencia: muro azul de declaratoria a Capullanas como Patrimonio cultural de la Nación)\nTerrestre\nMototaxi\nAfirmado\n4.8 km/ 15 min\n1\nPiura/Talara/Lobitos\n-\nPiura/Talara/Lobitos\nLufkin petrolero “ex Lote 6” (muro azul) – Playa Las Capullanas\nTerrestre\nA pie\nOtros\n500 m/ 10 minutos"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre\nEs un lugar alejado de la ciudad, aún no hay ningún tipo de infraestructura ni instalaciones como servicios higiénicos, estacionamiento, casetas de seguridad u otro."
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n06:00 a.m.\n-\n06:00 p.m.\nSe sugiere este horario, ya que no hay iluminación eléctrica. Tener en cuenta revisar la tabla de mareas diaria; puesto que, ello permitirá saber la accesibilidad a las cuevas y arco."
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nEstudios e Investigación\n--\nDeportes acuáticos\nNatación\n--\nNaturaleza\nObservación de paisaje\n--\nNaturaleza\nObservación de aves\n(Piqueros de patas azules)\nCultura y Folclore\nRituales místicos o tradicionales\n--\nDeportes / Aventura\nCaminata/Trekking\n--\nDeportes / Aventura\nCamping\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlimentación\nRestaurantes\nLocalidad de Lobitos\nAlimentación\nBares\nLocalidad de Lobitos\nAlimentación\nCafeterías\nLocalidad de Lobitos\nAlimentación\nKioskos de comida y bebidas\nLocalidad de Lobitos\nLugares de Recreación\nDiscotecas\nDistrito de Lobitos\nOtros Servicios Turísticos\nVenta de artesanía\nLocalidad de Lobitos\nOtros Servicios Turísticos\nAlquiler de botes\nLocalidad de Lobitos\nServicios Públicos\nMiradores turísticos\nLocalidad de Lobitos\nServicios Públicos\nEstacionamiento de vehículos\nLocalidad de Lobitos\nServicios Públicos\nSeñales turísticas de orientación\nLocalidad de Lobitos\nServicios Públicos\nSeñales turísticas de interpretación\nLocalidad de Lobitos\nServicios Públicos\nEmbarcaderos\nLocalidad de Lobitos\nServicios Públicos\nCaminos peatonales\nLocalidad de Lobitos\nServicios Públicos\nPuesto de auxilio rápido\nLocalidad de Lobitos\nLugares de Recreación\nJuegos Infantiles\nDistrito de Lobitos\nLugares de Recreación\nCentros Deportivos\nDistrito de Lobitos\nLugares de Recreación\nBares\nDistrito de Lobitos\nOtros Servicios Turísticos\nOtros (Especificar)\n(Alquiler de motos lineales)\nOtros Servicios Turísticos\nAlquiler de bicicleta\nLocalidad de Lobitos\nAlimentación\nFuentes de soda\nLocalidad de Lobitos\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nLocalidad de Lobitos"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nLocalidad de Lobitos\nBancos\nLocalidad de Lobitos\nServicios de taxis\nLocalidad de Lobitos\nCentro de salud - tópico\nLocalidad de Lobitos\nSeguridad / POLTUR / Comisaría\nLocalidad de Lobitos\nAlquiler y compra de equipos deportivos\nLocalidad de Lobitos\nLibrerías\nLocalidad de Lobitos\nBodegas o minimarkets\nLocalidad de Lobitos\nOtros(especificar)\n(Agente bancario digital)"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nLocalidad de Lobitos\nAlcantarillado sanitario\nLocalidad de Lobitos\nLuz (Suministro Eléctrico)\nLocalidad de Lobitos\nTeléfono\nLocalidad de Lobitos\nSeñalización turística\nLocalidad de Lobitos\nSistemas de tratamiento alternativo de residuos (Biodigestor, pozo séptico, otros)\nLocalidad de Lobitos"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nSuperintendencia Nacional de Bienes Estatales (SBN) y Dirección General de Capitanías y Guardacostas (DICAPI)\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nEn proceso. Se esta trabajando en el Saneamiento Fisíco Legal\nAdministrador por\nNombre\nMunicipalidad Distrital de Lobitos\nTiempo de administración"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDIRECCIÓN REGIONAL DE COMERCIO EXTERIOR Y TURISMO - PIURA\nNombre (Persona(s) responsable(s) del inventario turístico):\nRichard Hercelles Neira Colmenares\nCargo:\nDirector Regional de la Dirección de Turismo\nCorreo:\nrneira@regionpiura.gob.pe\nTeléfono:\n984448829\nFuentes Bibliográfica:\n- PIURA: LA BELLEZA Y MISTICISMO DE LA PLAYA LAS CAPULLANAS EN TALARA (26 DE OCTUBRE DE 2012) RPP NOTICIAS. OBTENIDO EL 15 DE NOVIEMBRE DE 2017, DESDE - HTTP://RPP.PE- EL CLIMA PROMEDIO EN LOBITOS (2017). WEATHER SPARK. OBTENIDO EL 15 DE NOVIEMBRE DE 2017, DESDE HTTPS://ES.WEATHERSPARK.COM\n- Ministerio de Cultura (2010). Resolución Directoral Nacional N°1086/ INC. Por lo cual se declara como patrimonio cultural de la Nación al monumento arqueológico prehispánico Las Capullanas y a otros de la región Piura.\n- Fiestas, L. (2012, 26 de occtubre). Piura: La belleza y misticismo de la playa Las Capullanas en Talara. RPP NOTICIAS. https://rpp.pe/peru/actualidad/piura-la-belleza-y-misticismo-de-la-playa-las-capullanas-en-talara-noticia-534598\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\nCon intervención del Programa Lurawi se han instalado pérgolas con bancas para descanso en el camino hacia la playa; se ha definido la ruta del camino y éste se ha aplanado.\nFecha:\n18/06/2024 09:45:02"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -4.49468123698482,
+    "longitud": -81.29919290542603
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-4.49468123698482,-81.29919290542603"
+}

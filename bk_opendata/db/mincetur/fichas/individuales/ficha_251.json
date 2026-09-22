@@ -1,0 +1,435 @@
+{
+  "cod_ficha": 251,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=251",
+  "nombre": "Centro Ceremonial Cahuachi",
+  "departamento": "Ica",
+  "provincia": "Nazca",
+  "distrito": "NASCA",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Sitios Arqueológicos",
+  "subtipo": "Ciudadelas",
+  "jerarquia": "3",
+  "altitud": "380",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=292252",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=292252",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=292337",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=430157",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=430222",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=430223",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=430225"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Paseos - Excursiones",
+    "Otros - Actividades Culturales",
+    "Otros - Estudios e Investigación",
+    "Cultura y Folclore - Visita y participación en actividades de vida cotidiana de la comunidad"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Paseos",
+      "tipo": "Excursiones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/excursiones02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Actividades Culturales",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/act_culturales02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Visita y participación en actividades de vida cotidiana de la comunidad",
+      "observacion": "--",
+      "icono_url": null
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Ica/Nasca/Nasca - Ica/Nasca/Nasca",
+      "detalle": "Plaza de Armas de Nasca- Desvío Panamericana Km 449.",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "24.45 Kms./25 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Ica/Nasca/Nasca - Ica/Nasca/Nasca",
+      "detalle": "Desvío Panamericana Km 449 - Complejo Ceremonial de Cahuachi.",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "2.45 Kms. /10 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Ica/Nasca/Nasca - Ica/Nasca/Nasca",
+      "detalle": "Plaza de Armas de Nasca- Desvío Panamericana Km 449.",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mini bus turístico",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "24.45 Kms. / 30 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Ica/Nasca/Nasca - Ica/Nasca/Nasca",
+      "detalle": "Desvío Panamericana Km 449 - Complejo Ceremonial de Cahuachi.",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mini bus turístico",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "2.45 Kms. /10 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Ica/Nasca/Nasca - Ica/Nasca/Nasca",
+      "detalle": "Plaza de Armas de Nasca- Desvío Panamericana Km 449.",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Taxi",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "24.45 Kms. /30 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Ica/Nasca/Nasca - Ica/Nasca/Nasca",
+      "detalle": "Desvío Panamericana Km 449 - Complejo Ceremonial de Cahuachi.",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Taxi",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "2.45 Kms. /10 min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "1000",
+      "horario": "Libro de Registro de la Municipalidad Provincial de Nasca.",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "1085",
+      "horario": "Libro de Registro de la Municipalidad Provincial de Nasca",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "07:00 a.m. - 05:00 p.m. --",
+      "observaciones": "--"
+    },
+    {
+      "epoca": "Adulto mayor",
+      "especificacion": "Servicios Higiénicos",
+      "horario": "--",
+      "observaciones": "Barandas"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Idioma Ingles."
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Estacionamiento",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "Ciudad de Nasca, cuentan con Hoteles de 1 a 3 estrellas."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "Ciudad de Nasca cuenta con Hostales de 1 a 3 estrellas."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Nasca. Casa de hospedaje"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Nasca."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Nasca."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Nasca."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Ciudad de Nasca - Snacks."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Ciudad de Nasca."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Nasca."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Ciudad de Nasca."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Nasca."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Otros(especificar)",
+      "observacion": "Ciudad de Nasca - Pubs."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Peñas",
+      "observacion": "Ciudad de Nasca."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Otros(especificar)",
+      "observacion": "Ciudad de Nasca - Night Clubs."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Ciudad de Nasca."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Ciudad de Nasca."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Nasca."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de Nasca."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Ciudad de Nasca."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de camionetas 4 x 4",
+      "observacion": "Ciudad de Nasca."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Ciudad de Nasca."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "Ciudad de Nasca."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Ciudad de Nasca."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Puesto de auxilio rápido",
+      "observacion": "Ciudad de Nasca."
+    }
+  ],
+  "descripcion": "Complejo arqueológico que pertenece a la cultura Nazca (Intermedio Temprano, 200 a.C.-700 d.C.). Su sector central está compuesto por varias pirámides truncas construidas en adobe, muchas de las cuales fueron abandonadas durante los siglos IV d.C.\nSegún el arqueólogo italiano Giuseppe Orefici, es el conjunto de arquitectura pública más extenso de Sudamérica. Existen también estructuras que cuentan con un patio abierto de un lado y una amplia terraza con recintos techados. En las cimas de los templos mayores, como en el caso del Gran templo, se comprobó la existencia de grandes recintos cuyos techos fueron soportados por decenas de columnas. Las construcciones ceremoniales están divididas en tres zonas que, a su vez, están subdivididas por grandes murallas.\nEn Cahuachi también se descubrieron los restos humanos más antiguos de Nasca, que remontan a 4,200 años de antigüedad. Se trata de un personaje femenino sacrificado en la base de un pequeño altar ceremonial dentro de la estructura llamada Gran Pirámide.\nHoy en día dos capas de barro recubren el complejo arqueologico, atribuidas a los huaycos generados por las intensas lluvias(meganiños) que cayeron entre los siglos XI y XII D.C. Esto último hace difícil distinguir las estructuras.",
+  "particularidades": "Zona urbana más grande del mundo andino por sus construcciones de adobe de 24 kilómetros cuadrados. Según el arqueólogo italiano Giuseppe Orefici.",
+  "estado_actual": "Bueno, la Municipalidad distrital de Nasca realiza mantenimiento permanente.",
+  "observaciones": "Se ha levantado un museo a 500 metros de la plaza principal de Nasca en donde se exponen algunos de los restos hallados en Cahuachi. Es un recurso turístico en potencia puesto que los estudios y trabajos de tratamiento aún están en proceso.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Complejo arqueológico que pertenece a la cultura Nazca (Intermedio Temprano, 200 a.C.-700 d.C.). Su sector central está compuesto por varias pirámides truncas construidas en adobe, muchas de las cuales fueron abandonadas durante los siglos IV d.C.\nSegún el arqueólogo italiano Giuseppe Orefici, es el conjunto de arquitectura pública más extenso de Sudamérica. Existen también estructuras que cuentan con un patio abierto de un lado y una amplia terraza con recintos techados. En las cimas de los templos mayores, como en el caso del Gran templo, se comprobó la existencia de grandes recintos cuyos techos fueron soportados por decenas de columnas. Las construcciones ceremoniales están divididas en tres zonas que, a su vez, están subdivididas por grandes murallas.\nEn Cahuachi también se descubrieron los restos humanos más antiguos de Nasca, que remontan a 4,200 años de antigüedad. Se trata de un personaje femenino sacrificado en la base de un pequeño altar ceremonial dentro de la estructura llamada Gran Pirámide.\nHoy en día dos capas de barro recubren el complejo arqueologico, atribuidas a los huaycos generados por las intensas lluvias(meganiños) que cayeron entre los siglos XI y XII D.C. Esto último hace difícil distinguir las estructuras."
+    },
+    {
+      "titulo": "Particularidades",
+      "contenido": "Zona urbana más grande del mundo andino por sus construcciones de adobe de 24 kilómetros cuadrados. Según el arqueólogo italiano Giuseppe Orefici."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "El Ministerio de Cultura en virtud de la Ley 28296, declaró como bien integrante del Patrimonio Cultural de la Nación a la Zona Arqueológica Monumental “Centro Ceremonial Cahuachi”."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, la Municipalidad distrital de Nasca realiza mantenimiento permanente."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "Se ha levantado un museo a 500 metros de la plaza principal de Nasca en donde se exponen algunos de los restos hallados en Cahuachi. Es un recurso turístico en potencia puesto que los estudios y trabajos de tratamiento aún están en proceso."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n1000\nLibro de Registro de la Municipalidad Provincial de Nasca.\n2022\nDebido a la pandemia se redujo el aforo de visitantes al recurso turístico.\nTuristas Nacionales\n1085\nLibro de Registro de la Municipalidad Provincial de Nasca\n2022\nDebido a la pandemia se redujo el aforo de visitantes al recurso turistico."
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nIca/Nasca/Nasca\n-\nIca/Nasca/Nasca\nPlaza de Armas de Nasca- Desvío Panamericana Km 449.\nTerrestre\nAutomóvil particular\nTrocha carrozable\n24.45 Kms./25 min\n1\nIca/Nasca/Nasca\n-\nIca/Nasca/Nasca\nDesvío Panamericana Km 449 - Complejo Ceremonial de Cahuachi.\nTerrestre\nAutomóvil particular\nTrocha carrozable\n2.45 Kms. /10 min\n1\nIca/Nasca/Nasca\n-\nIca/Nasca/Nasca\nPlaza de Armas de Nasca- Desvío Panamericana Km 449.\nTerrestre\nMini bus turístico\nTrocha carrozable\n24.45 Kms. / 30 min\n1\nIca/Nasca/Nasca\n-\nIca/Nasca/Nasca\nDesvío Panamericana Km 449 - Complejo Ceremonial de Cahuachi.\nTerrestre\nMini bus turístico\nTrocha carrozable\n2.45 Kms. /10 min\n1\nIca/Nasca/Nasca\n-\nIca/Nasca/Nasca\nPlaza de Armas de Nasca- Desvío Panamericana Km 449.\nTerrestre\nTaxi\nTrocha carrozable\n24.45 Kms. /30 min\n1\nIca/Nasca/Nasca\n-\nIca/Nasca/Nasca\nDesvío Panamericana Km 449 - Complejo Ceremonial de Cahuachi.\nTerrestre\nTaxi\nTrocha carrozable\n2.45 Kms. /10 min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n07:00 a.m.\n-\n05:00 p.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nPaseos\nExcursiones\n--\nOtros\nActividades Culturales\n--\nOtros\nEstudios e Investigación\n--\nCultura y Folclore\nVisita y participación en actividades de vida cotidiana de la comunidad\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nIdioma Ingles.\nInstalaciones Privadas\nOtros Servicios Turísticos\nServicio de Estacionamiento\n--\nInstalaciones Públicas\nServicios Públicos\nSeñales turísticas de orientación\n--\nInstalaciones Públicas\nServicios Públicos\nCaminos peatonales\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\nCiudad de Nasca, cuentan con Hoteles de 1 a 3 estrellas.\nAlojamiento\nHostales (especificar categorías)\nCiudad de Nasca cuenta con Hostales de 1 a 3 estrellas.\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Nasca. Casa de hospedaje\nAlimentación\nRestaurantes\nCiudad de Nasca.\nAlimentación\nBares\nCiudad de Nasca.\nAlimentación\nCafeterías\nCiudad de Nasca.\nAlimentación\nOtros (Especificar)\nCiudad de Nasca - Snacks.\nAlimentación\nFuentes de soda\nCiudad de Nasca.\nAlimentación\nKioskos de comida y bebidas\nCiudad de Nasca.\nAlimentación\nVenta de comida Rápida\nCiudad de Nasca.\nLugares de Recreación\nDiscotecas\nCiudad de Nasca.\nLugares de Recreación\nOtros(especificar)\nCiudad de Nasca - Pubs.\nLugares de Recreación\nPeñas\nCiudad de Nasca.\nLugares de Recreación\nOtros(especificar)\nCiudad de Nasca - Night Clubs.\nLugares de Recreación\nJuegos Infantiles\nCiudad de Nasca.\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nCiudad de Nasca.\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Nasca.\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de Nasca.\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nCiudad de Nasca.\nOtros Servicios Turísticos\nAlquiler de camionetas 4 x 4\nCiudad de Nasca.\nServicios Públicos\nEstacionamiento de vehículos\nCiudad de Nasca.\nServicios Públicos\nSeñales turísticas de orientación\nCiudad de Nasca.\nServicios Públicos\nOficina de Información turística\nCiudad de Nasca.\nServicios Públicos\nPuesto de auxilio rápido\nCiudad de Nasca."
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Nasca.\nBancos\nCiudad de Nasca.\nCajero automático\nCiudad de Nasca.\nCasa de cambio\nCiudad de Nasca.\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Nasca.\nServicio de correos\nCiudad de Nasca.\nServicio de estacionamiento\nCiudad de Nasca.\nServicios de taxis\nCiudad de Nasca.\nCentro de salud - tópico\nCiudad de Nasca.\nVenta de materiales para fotografías\nCiudad de Nasca.\nSeguridad / POLTUR / Comisaría\nCiudad de Nasca.\nLibrerías\nCiudad de Nasca.\nBodegas o minimarkets\nCiudad de Nasca."
+    },
+    {
+      "titulo": "Condiciones de Accesibilidad al Visitante",
+      "contenido": "Visitante\nInstalación\nActividades y/o programas\nEquipamiento\nObservación\nAdulto mayor\nServicios Higiénicos\n--\nBarandas\n--"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nSeñalización turística\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Nasca.\nAlcantarillado sanitario\nCiudad de Nasca.\nDesagüe\nCiudad de Nasca.\nLuz (Suministro Eléctrico)\nCiudad de Nasca.\nTeléfono\nCiudad de Nasca.\nSeñalización turística\nCiudad de Nasca.\nOtros (Especificar)\nCiudad de Nasca - Servicio de Internet"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nMinisterio de Cultura\nPrivado:\n--\nOtra Situación:\nMunicipalidad Provincial de Nasca.\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nZona Registral XI - Oficina Registral de Nasca\nNúmero de Partida:\n40026968 y 11026069\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nMunicipalidad Provincial de Nasca.\nTiempo de administración\ndesde 2011."
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo de Ica.\nNombre (Persona(s) responsable(s) del inventario turístico):\nLic. Mitzzi Orellana Acasiete\nCargo:\nSub Directora de Turismo\nCorreo:\nmorellana@dircetur.gob.pe\nTeléfono:\n951793389\nFuentes Bibliográfica:\nLÍNEAS DE NASCA: De los Hombrs que Dibujaron el Desierto, autor: Herrán Eduardo; Primera edición, (2018), Impreso en el Perú.\nhttps://catedraunesco.usmp.edu.pe/2019/06/10/dr-giuseppe-orefici-cahuachi-es-el-corazon-de-la-cultura-nasca/\nhttps://cdn.www.gob.pe/uploads/document/file/1450616/Dise%C3%B1o%20Publicaci%C3%B3n%20Cahuachi_curvas%20con%20VB.pdf.pdf\nhttps://elperuano.pe/noticia/37392-cahuachi-corazon-del-desierto#:~:text=La%20m%C3%A1s%20grande,enormes%20'mont%C3%ADculos'%20de%20adobe.\nhttps://www.gob.pe/institucion/cultura/informes-publicaciones/1350544-el-ministerio-de-cultura-en-virtud-de-la-ley-28296-e-inciso-20-1-3-del-numeral-20-1-del-articulo-20-del-tuo-de-la-ley-n-27444-comunica-el-inicio-del-procedimiento-de-declaratoria-como-bien-integrante-del-patrimonio-cultural-de-la-nacion\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\nCD\nReferencia de las últimas intervenciones en el Recurso Turístico:\nLa Misión Italiana a cargo del Arqueólogo Giusseppe Oreficcise está encargado de las excavaciones e investigación del lugar.\nEn el 2017 la Municipalidad de Nasca realizó algunas intervenciones.\nFecha:\n11/04/2022"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -14.8150498596852,
+    "longitud": -75.13413548469543
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-14.8150498596852,-75.13413548469543"
+}

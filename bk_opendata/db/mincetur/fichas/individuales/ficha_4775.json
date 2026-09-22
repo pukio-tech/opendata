@@ -1,0 +1,339 @@
+{
+  "cod_ficha": 4775,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=4775",
+  "nombre": "Pueblo La Calera",
+  "departamento": "Arequipa",
+  "provincia": "Arequipa",
+  "distrito": "YURA",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Pueblos",
+  "subtipo": "Tradicionales",
+  "jerarquia": "1",
+  "altitud": "2580 m.s.n.m",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=549375",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=549375",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=549376",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=549336",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=549377",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=549378",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=569403",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=569405",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=569434",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=569408"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Cultura y Folclore - Actividades Religiosas o Patronales",
+    "Naturaleza - Observación de paisaje"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Actividades Religiosas o Patronales",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/act_religiosas02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Arequipa/Arequipa/Arequipa - Arequipa/Arequipa/Yura",
+      "detalle": "Puente Grau/ Km 16 Cono Norte/Plaza la Calera",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "28km/2h30min"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Arequipa/Arequipa/Arequipa - Arequipa/Arequipa/Yura",
+      "detalle": "Plaza de Armas de Arequipa /Plaza la Calera",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "28km/1h"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "480",
+      "horario": "Oficio N|145-2024-ALC-MDY",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "4920",
+      "horario": "Oficio N°0145-2024-ALC-MDY",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "07:00 a.m. - 06:00 p.m. --",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos de herradura (caballo)",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de Caballos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "1 a 5 estrellas en la ciudad de Arequipa."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "1 a 3 estrellas en la ciudad de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Cines o Teatros",
+      "observacion": "Ciudad de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Ciudad de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Ciudad de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Ciudad de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Hipódromos",
+      "observacion": "Ciudad de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Ciudad de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Puesto de auxilio rápido",
+      "observacion": "Ciudad de Arequipa"
+    }
+  ],
+  "descripcion": "El pueblo tradicional “La Calera”, se encuentra entre el anexo de Los Baños Termales y Yura Viejo. Su nombre hace referencia a la explotación de la piedra caliza o cal de las canteras de los cerros de Yura en el siglo XVI, allá por los años 1500, el proceso se realizaba en hornos que actualmente están ubicados en el pueblo.\nEsta extracción de cal era derivada para las construcciones de los solares e iglesias de Yura y Arequipa, durante la época de la colonia. En 1824, José Nodal y Noguerol decide edificar el complejo arquitectónico de los baños termales, convirtiendo a “La Calera” como el principal balneario turístico a inicios de la república. El pueblo adquiere relevancia histórica el 13 de diciembre de 1845, reconocida como capital del distrito, y ratificado por ley, el 2 de diciembre de 1874, cuando Yura se incorporó a la Provincia de Arequipa, antes parte de Caylloma.\nPueblo pequeño y tradicional conserva aún su estilo arquitectónico, sobresalen antiguas casas construidas en sillar, cal y carrizo que ilustra estructuras mestizas; puertas amplias y altas estructuradas enteramente en madera, paredes de sillar y cal, techos abovedados hechos en sillar con soportes de riel de metal. Asímismo algunas casas conservan terrazas y balcones como parte de su infraestructura. Ya en 1966 el uso de la cal es reemplazado por el cemento, debido a la instalación de la fábrica (cemento Yura). En cuanto a la plaza del pueblo, esta ha sido objeto de varias remodelaciones a lo largo de los años, la última intervención se llevó a cabo, en el año 2022. En este pueblo tradicional los pobladores usan los motes(apodos) para la representación apropiada a las familias tradicionales de su localidad con la finalidad de fortalecer los lazos de consanguinidad de vecindad y herencia que pertenece a la costumbre de matices afectivos donde no eran más de 40 familias establecidas de las zonas moteados como los Caleros, los Sílbanos, los Chascosos los Verijones, los Bañistas y los Porteños.\nLa Calera tiene también área natural y agrícola que reposa en la andenería preinca construida en los años 600 D.C. y 1200 aprox. con fuerte influencia de la cultura Wari y posteriormente de la Etnia los Cabanas que se observa en todo el trayecto del río Yura, aquí se produce la cebolla, el ajo, el maíz, el orégano, papa, etc. Además, conservan ciertas prácticas ancestrales, como es el pago a la tierra que lo realizan cada fin de mes de agosto, para que sus cosechas y rendimiento de las mismas sean óptimas, este ritual lo desarrollan mediante una ceremonia con vino, chicha, fruta, cebo, fetos de animales, mistura que son ofrecidos a la madre tierra. En cuanto a la fauna es característico la presencia de la gallina negra que habita entre los arbustos del río Yura, el chihuanco y la tórtola.\nComo parte de su gastronomía tradicional La Calera tiene el acidulce, chalona, chanfainita, charqui, chaullon, chicha, diana, fritanguitas, ponche, quesillos, resecao, sesina y el timpusca, antiguamente las comidas eran cocinadas en fuego ardiente en k’oncha y phucuna, utilizando además kcaiguina, seisuna como utensilios de cocina para que luego sea servido en un comedor de piedra.\nDe carácter religioso  se contempla la iglesia Virgen del Rosario que data del año 1896, construida en sillar rosado y ubicado en el corazón de La Calera, aquí se santifican las costumbres religiosas siendo la más importante la fiesta de la Virgen del Rosario, patrona  del pueblo que se desarrolla el 8 de octubre,  organizado por la mayordomía,  la cual desarrolla las misas, quema de castillo, la procesión y presentación de una orquesta el día central.\nLa municipalidad trabaja en la conservación del patrimonio y la identidad de La Calera. A través de sus acciones, se asegura de mantener viva la historia y la cultura del pueblo, garantizando que tanto residentes como visitantes puedan disfrutar de un entorno cuidado y acogedor, donde el visitante puede disfrutar de caminatas y la observación del paisaje.",
+  "particularidades": "",
+  "estado_actual": "Regular, debido a que varias de las casonas antiguas, ubicadas en la avenida principal se encuentran en estado de abandono",
+  "observaciones": "El pueblo La calera fue el único lugar de donde se extrajo la cal a nivel regional; que sirvió para la construcción de viviendas y monumentos arquitectónicos en la época colonial y parte de la republicana.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "El pueblo tradicional “La Calera”, se encuentra entre el anexo de Los Baños Termales y Yura Viejo. Su nombre hace referencia a la explotación de la piedra caliza o cal de las canteras de los cerros de Yura en el siglo XVI, allá por los años 1500, el proceso se realizaba en hornos que actualmente están ubicados en el pueblo.\nEsta extracción de cal era derivada para las construcciones de los solares e iglesias de Yura y Arequipa, durante la época de la colonia. En 1824, José Nodal y Noguerol decide edificar el complejo arquitectónico de los baños termales, convirtiendo a “La Calera” como el principal balneario turístico a inicios de la república. El pueblo adquiere relevancia histórica el 13 de diciembre de 1845, reconocida como capital del distrito, y ratificado por ley, el 2 de diciembre de 1874, cuando Yura se incorporó a la Provincia de Arequipa, antes parte de Caylloma.\nPueblo pequeño y tradicional conserva aún su estilo arquitectónico, sobresalen antiguas casas construidas en sillar, cal y carrizo que ilustra estructuras mestizas; puertas amplias y altas estructuradas enteramente en madera, paredes de sillar y cal, techos abovedados hechos en sillar con soportes de riel de metal. Asímismo algunas casas conservan terrazas y balcones como parte de su infraestructura. Ya en 1966 el uso de la cal es reemplazado por el cemento, debido a la instalación de la fábrica (cemento Yura). En cuanto a la plaza del pueblo, esta ha sido objeto de varias remodelaciones a lo largo de los años, la última intervención se llevó a cabo, en el año 2022. En este pueblo tradicional los pobladores usan los motes(apodos) para la representación apropiada a las familias tradicionales de su localidad con la finalidad de fortalecer los lazos de consanguinidad de vecindad y herencia que pertenece a la costumbre de matices afectivos donde no eran más de 40 familias establecidas de las zonas moteados como los Caleros, los Sílbanos, los Chascosos los Verijones, los Bañistas y los Porteños.\nLa Calera tiene también área natural y agrícola que reposa en la andenería preinca construida en los años 600 D.C. y 1200 aprox. con fuerte influencia de la cultura Wari y posteriormente de la Etnia los Cabanas que se observa en todo el trayecto del río Yura, aquí se produce la cebolla, el ajo, el maíz, el orégano, papa, etc. Además, conservan ciertas prácticas ancestrales, como es el pago a la tierra que lo realizan cada fin de mes de agosto, para que sus cosechas y rendimiento de las mismas sean óptimas, este ritual lo desarrollan mediante una ceremonia con vino, chicha, fruta, cebo, fetos de animales, mistura que son ofrecidos a la madre tierra. En cuanto a la fauna es característico la presencia de la gallina negra que habita entre los arbustos del río Yura, el chihuanco y la tórtola.\nComo parte de su gastronomía tradicional La Calera tiene el acidulce, chalona, chanfainita, charqui, chaullon, chicha, diana, fritanguitas, ponche, quesillos, resecao, sesina y el timpusca, antiguamente las comidas eran cocinadas en fuego ardiente en k’oncha y phucuna, utilizando además kcaiguina, seisuna como utensilios de cocina para que luego sea servido en un comedor de piedra.\nDe carácter religioso  se contempla la iglesia Virgen del Rosario que data del año 1896, construida en sillar rosado y ubicado en el corazón de La Calera, aquí se santifican las costumbres religiosas siendo la más importante la fiesta de la Virgen del Rosario, patrona  del pueblo que se desarrolla el 8 de octubre,  organizado por la mayordomía,  la cual desarrolla las misas, quema de castillo, la procesión y presentación de una orquesta el día central.\nLa municipalidad trabaja en la conservación del patrimonio y la identidad de La Calera. A través de sus acciones, se asegura de mantener viva la historia y la cultura del pueblo, garantizando que tanto residentes como visitantes puedan disfrutar de un entorno cuidado y acogedor, donde el visitante puede disfrutar de caminatas y la observación del paisaje."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Regular, debido a que varias de las casonas antiguas, ubicadas en la avenida principal se encuentran en estado de abandono"
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "El pueblo La calera fue el único lugar de donde se extrajo la cal a nivel regional; que sirvió para la construcción de viviendas y monumentos arquitectónicos en la época colonial y parte de la republicana."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Nacionales\n480\nOficio N|145-2024-ALC-MDY\n2024\nProyección anual en base al conteo muestral\nVisitantes Locales(Excursionistas)\n4920\nOficio N°0145-2024-ALC-MDY\n2024\nProyección anual en base al conteo muestral"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nArequipa/Arequipa/Arequipa\n-\nArequipa/Arequipa/Yura\nPuente Grau/ Km 16 Cono Norte/Plaza la Calera\nTerrestre\nBus público\nAsfaltado\n28km/2h30min\n2\nArequipa/Arequipa/Arequipa\n-\nArequipa/Arequipa/Yura\nPlaza de Armas de Arequipa /Plaza la Calera\nTerrestre\nAutomóvil particular\nAsfaltado\n28km/1h"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n07:00 a.m.\n-\n06:00 p.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nCultura y Folclore\nActividades Religiosas o Patronales\n--\nNaturaleza\nObservación de paisaje\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\n--\nInstalaciones Privadas\nAlimentación\nRestaurantes\n--\nInstalaciones Privadas\nAlimentación\nKioskos de comida y bebidas\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nVenta de artesanía\n--\nInstalaciones Privadas\nLugares de Recreación\nJuegos Infantiles\n--\nInstalaciones Privadas\nLugares de Recreación\nCentros Deportivos\n--\nInstalaciones Públicas\nServicios Públicos\nEstacionamiento de vehículos\n--\nInstalaciones Públicas\nServicios Públicos\nSeñales turísticas de orientación\n--\nInstalaciones Públicas\nServicios Públicos\nCaminos de herradura (caballo)\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nAlquiler de Caballos\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\n1 a 5 estrellas en la ciudad de Arequipa.\nAlojamiento\nHostales (especificar categorías)\n1 a 3 estrellas en la ciudad de Arequipa\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Arequipa\nAlimentación\nRestaurantes\nCiudad de Arequipa\nAlimentación\nBares\nCiudad de Arequipa\nAlimentación\nCafeterías\nCiudad de Arequipa\nLugares de Recreación\nCines o Teatros\nCiudad de Arequipa\nLugares de Recreación\nJuegos Infantiles\nCiudad de Arequipa\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nCiudad de Arequipa\nLugares de Recreación\nCentros Deportivos\nCiudad de Arequipa\nLugares de Recreación\nHipódromos\nCiudad de Arequipa\nServicios Públicos\nEstacionamiento de vehículos\nCiudad de Arequipa\nServicios Públicos\nPuesto de auxilio rápido\nCiudad de Arequipa"
+    },
+    {
+      "titulo": "Servicios Complementarios dentro del recurso",
+      "contenido": "Servicio Complementario\nObservación\nCentro de salud - tópico\n--\nSeguridad / POLTUR / Comisaría\n--\nBodegas o minimarkets\n--\nLibrerías\n--"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Arequipa\nBancos\nCiudad de Arequipa\nCajero automático\nCiudad de Arequipa\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Arequipa\nServicio de estacionamiento\nCiudad de Arequipa\nCentro de salud - tópico\nCiudad de Arequipa\nSeguridad / POLTUR / Comisaría\nCiudad de Arequipa\nLibrerías\nCiudad de Arequipa\nBodegas o minimarkets\nCiudad de Arequipa"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\n--\nAlcantarillado sanitario\n--\nLuz (Suministro Eléctrico)\n--\nTeléfono\n(Claro, Movistar, Entel, Bitel)\nSeñalización turística\n--\nEnergía Alternativa\nPaneles solares"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Arequipa\nAlcantarillado sanitario\nCiudad de Arequipa\nLuz (Suministro Eléctrico)\nCiudad de Arequipa\nTeléfono\nCiudad de Arequipa(Claro, Movistar, Entel, Bitel)\nSeñalización turística\nCiudad de Arequipa\nAlcantarillado pluvial\nCiudad de Arequipa"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\n--\nPrivado:\n--\nOtra Situación:\nHabilitación Urbana 429-COFOPRI-2000-OZA\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nCreación del Distrito 2 Dic de 1874, se declara Capital del Distrito\nAdministrador por\nNombre\nMunicipalidad Distrital de yura\nTiempo de administración\nDesde el año 1874"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nGerencia Regional de Comercio Exterior y Turismo de Arequipa\nNombre (Persona(s) responsable(s) del inventario turístico):\nLic. Claudia Isabel Barrios Cacya\nCargo:\nEspecialista en Turismo\nCorreo:\ncbarrios@correo.regionarequipa.gob.pe\nTeléfono:\n988099750\nFuentes Bibliográfica:\nInventario de la Municipalidad de Yura 2012\nPueblo Tradicional La Calera de Yura-Arequipa. Zapana, W. (2024). TV UNSA.\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n4/11/2024 16:24:44"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -16.246968918216968,
+    "longitud": -71.70613557100296
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-16.246968918216968,-71.70613557100296"
+}

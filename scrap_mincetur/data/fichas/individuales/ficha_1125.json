@@ -1,0 +1,364 @@
+{
+  "cod_ficha": 1125,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=1125",
+  "nombre": "Complejo Arqueológico Wari",
+  "departamento": "Ayacucho",
+  "provincia": "Huamanga",
+  "distrito": "PACAYCASA",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Sitios Arqueológicos",
+  "subtipo": "Zonas arqueológicas",
+  "jerarquia": "3",
+  "altitud": "2731",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=292673",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=292673",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=529820",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=529760",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=529821",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=529761",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=529762",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=529763",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=529764",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=529765",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=529823",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=529824",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=529766",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=529825",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=529826",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=529767",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=529827"
+  ],
+  "actividades_permitidas": [
+    "Otros - Compras de artesanía/souvenir",
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Estudios e Investigación"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Compras de artesanía/souvenir",
+      "observacion": "En la puerta de salida del complejo arqueologico",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/artesania02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Ayacucho/Huamanga/Pacaycasa - Ayacucho/Huamanga/Pacaycasa",
+      "detalle": "Plaza Mayor de Ayacucho - Complejo Arqueológico Wari",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus turístico",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "23 Km/35 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Ayacucho/Huamanga/Pacaycasa - Ayacucho/Huamanga/Pacaycasa",
+      "detalle": "Paradero de autos y combis (Ayacucho) - Complejo Arqueológico Wari",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mini bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "22 Km/30 min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "160",
+      "horario": "MINISTERIO DE CULTURA",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "87767",
+      "horario": "MINISTERIO DE CULTURA",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "09:00 a.m. - 05:00 p.m. Lunes no hay atencion",
+      "observaciones": "Lunes no hay atencion"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "Adultos = S/ 6.00 - Estudiantes de educación superior y adulto mayor = S/ 3.00 - Escolares = S/ 1.00 - Niños (3 a 17 años previa presentación de DNI) = Gratis"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Español"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Boletería",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Museo de Sitio Turísticos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "3 estrellas en la ciudad de Ayacucho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "2 estrellas en la ciudad de Ayacucho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "3 tenedores en la ciudad de Ayacucho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de camionetas 4 x 4",
+      "observacion": "Ciudad de Ayacucho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Ayacucho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Ayacucho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Peñas",
+      "observacion": "Ciudad de Ayacucho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Cines o Teatros",
+      "observacion": "Ciudad de Ayacucho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Ciudad de Ayacucho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "Ciudad de Ayacucho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Ayacucho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Ayacucho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Ciudad de Ayacucho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Ciudad de Ayacucho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Ayacucho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Ayacucho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de bicicleta",
+      "observacion": "Ciudad de Ayacucho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de Ayacucho"
+    }
+  ],
+  "descripcion": "El Complejo Arqueológico Wari fue una ciudad prehispánica capital perteneciente a la cultura del mismo nombre y es la expresión más compleja del urbanismo andino. Cabe mencionar que, la civilización Wari fue una cultura política y social estatal que surge entre el 550 d. C. y el 900 d. C.\nLa primera mención al sitio la debemos al cronista Pedro Cieza de León, quien a mediados del siglo XVI la describe dándole el nombre de Viñaque. Se convirtió en la capital urbana de un poderoso estado militar que conquisto un vasto imperio, seis siglos antes de los incas. (https://bicentenario.gob.pe/nuevos-hallazgos-arqueologicos-primer-imperio-andino-wari-12-de-abril) Ministerio de Cultura 2022, revisado el 13.04.2024.\nWari fue capital del primer Imperio Andino que tuvo su desarrollo durante el Horizonte Medio abarcando hasta Cajamarca por el norte y Tacna por el sur, un logro importantes en el Horizonte Medio es el surgimiento de la ciudad como la expresión más compleja y alta del urbanismo andino. Este urbanismo se cristaliza con Wari, que posteriormente influenciará en conceptos, patrones y tecnologías tanto a las culturas del Período Intermedio Tardío (Chimú) como a las del Horizonte Inka.\nLa zona arqueológica monumental Wari comprende un extenso espacio con vestigios monumentales conformados por un núcleo urbano, el más resaltante de los conjuntos y un área periférica inmediata, se afirma que su población oscilaba entre 50 mil a 70 mil habitantes y disponía de un complicado y eficiente sistema de abastecimiento de agua proveniente de la laguna de Yanaqocha por un canal trapezoidal de 25 kms de longitud que hasta hoy en día una parte está en uso.\nEl área monumental comprende la parte central del complejo y es también el área de visita turística, abarca un espacio de forma cuadrangular con una extensión de casi 302 hectáreas. Presenta una inclinación moderada de este a oeste, con altitudes que oscilan entre los 2645 y 2800 metros sobre el nivel del mar. Los sectores que constituyen el área monumental están delimitados por grandes murallas de corte trapezoidal que encierran un conjunto de estructuras menores, de diferentes formas, tamaños y funciones, que se conectan a callejones, corredores, patios, terrazas y diversas áreas de circulación. La mayor parte de ellos, principalmente en la parte baja, se encuentran soterrados, mientras que en la parte alta permanecen expuestos. Su distribución arquitectónica muestra claramente una planificación urbana.\nLas murallas perimétricas de algunos sectores, como Uchpa-Qoto y Capillapata, conservan alturas que sobrepasan los ocho metros sobre la superficie del terreno actual, presentan juntas de dilatación y segmentos horizontales a cada cierta distancia y altura, a los que se adosan estructuras menores con paramentos verticales, algunas con piedras salientes como para recibir envigamientos de dos y tres pisos sobre el suelo. También hay edificaciones subterráneas de varios niveles. Las paredes de los principales edificios civiles, religiosos y administrativos de la ciudad debieron estar enlucidas y pintadas de blanco y rojo.\nUna de las formas arquitectónicas que caracterizan la distribución urbana y que están asociadas al patrón ortogonal de la ciudad es el tipo de estructuras con planta en forma de «D», las cuales son visibles en los sectores de Sullu Cruz, Capillapata, Vegachayoc Moqo, Monqachayoc y Cheqo Huasi. Otro de los elementos culturales que, en cierta forma, ayuda a distinguir la extensión del área urbana de Wari es el arte rupestre, manifestado en petroglifos y pocitos circulares tallados en diversas piedras y afloramientos rocosos localizados en la periferia de dicha área.\nEl Complejo Arqueológico Wari es idea para las personas que gustan de la historia del antiguo Perú, además cuenta con un museo de sitio, donde se exhibe bienes culturales procedentes de las excavaciones arqueológicas en la zona arqueológica monumental Wari: cerámicas, líticos, textiles, monolitos, entre otros",
+  "particularidades": "Actualmente, con sus 2 mil hectáreas, es considerada la zona arqueológica más extensa de la sierra peruana. Contó con una estructura jerárquica con grupos de poder que construyeron gradualmente grandes edificaciones de piedras unidas con argamasa de barro donde se asentaron los gobernantes, sacerdotes, militares, artesanos y la población común.\nLos criterios para asignarle a Wari la categoría de ciudad se basan en su gran extensión y alta densidad poblacional, su compleja organización interna, cotidiana y pública y, finalmente, en su posición estratégica en la geopolítica estatal, sustentado en el Plan de Manejo del Complejo Arqueológico Wari, Ayacucho 2010; escrito por LUMBRERAS SALCEDO, L. G. Consultor del Instituto Nacional de Cultura y otros.",
+  "estado_actual": "Bueno, porque las diferentes estructuras arquitectónicas que se ubican en los sectores de Vegachayocc Moqo, Capillapata, Monqachayocc y Cheqo Huasi presentan buen estado de conservación y muestran con claridad sus elementos estructurales, adicionalmente la zona arqueológica está protegida con vigilancia permanente y limpieza periódica a cargo del Ministerio de Cultura.",
+  "observaciones": "En el 2015 , tras una larga y profunda investigación a cargo del Ministerio de Cultura, la Universidad Nacional de San Cristóbal de Huamanga y el Gobierno Regional de Ayacucho en los sectores Vegachayuq Moqo y Monqachayuq del Complejo Arqueológico Wari se encontraron importantes nuevos restos arqueológicos el sector de Vegachayuq Moqo es una de las áreas ceremoniales más importantes de Wari.\nPor otro lado, las investigaciones concluyeron que el sector Monqachayuq era utilizado con fines funerarios ya que presenta mausoleos, galerías subterráneas, un patio hundido y fosas. El principal hallazgo de este sector fue un mausoleo construido con piedras finamente labradas que constituyen compartimientos orientados hacia un espacio central a una profundidad de 8 metros dentro una estructura arquitectónica en forma de \"D”. Cabe mencionar que ninguna de las tumbas develadas hasta el momento ha sido encontrada intacta.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "El Complejo Arqueológico Wari fue una ciudad prehispánica capital perteneciente a la cultura del mismo nombre y es la expresión más compleja del urbanismo andino. Cabe mencionar que, la civilización Wari fue una cultura política y social estatal que surge entre el 550 d. C. y el 900 d. C.\nLa primera mención al sitio la debemos al cronista Pedro Cieza de León, quien a mediados del siglo XVI la describe dándole el nombre de Viñaque. Se convirtió en la capital urbana de un poderoso estado militar que conquisto un vasto imperio, seis siglos antes de los incas. (https://bicentenario.gob.pe/nuevos-hallazgos-arqueologicos-primer-imperio-andino-wari-12-de-abril) Ministerio de Cultura 2022, revisado el 13.04.2024.\nWari fue capital del primer Imperio Andino que tuvo su desarrollo durante el Horizonte Medio abarcando hasta Cajamarca por el norte y Tacna por el sur, un logro importantes en el Horizonte Medio es el surgimiento de la ciudad como la expresión más compleja y alta del urbanismo andino. Este urbanismo se cristaliza con Wari, que posteriormente influenciará en conceptos, patrones y tecnologías tanto a las culturas del Período Intermedio Tardío (Chimú) como a las del Horizonte Inka.\nLa zona arqueológica monumental Wari comprende un extenso espacio con vestigios monumentales conformados por un núcleo urbano, el más resaltante de los conjuntos y un área periférica inmediata, se afirma que su población oscilaba entre 50 mil a 70 mil habitantes y disponía de un complicado y eficiente sistema de abastecimiento de agua proveniente de la laguna de Yanaqocha por un canal trapezoidal de 25 kms de longitud que hasta hoy en día una parte está en uso.\nEl área monumental comprende la parte central del complejo y es también el área de visita turística, abarca un espacio de forma cuadrangular con una extensión de casi 302 hectáreas. Presenta una inclinación moderada de este a oeste, con altitudes que oscilan entre los 2645 y 2800 metros sobre el nivel del mar. Los sectores que constituyen el área monumental están delimitados por grandes murallas de corte trapezoidal que encierran un conjunto de estructuras menores, de diferentes formas, tamaños y funciones, que se conectan a callejones, corredores, patios, terrazas y diversas áreas de circulación. La mayor parte de ellos, principalmente en la parte baja, se encuentran soterrados, mientras que en la parte alta permanecen expuestos. Su distribución arquitectónica muestra claramente una planificación urbana.\nLas murallas perimétricas de algunos sectores, como Uchpa-Qoto y Capillapata, conservan alturas que sobrepasan los ocho metros sobre la superficie del terreno actual, presentan juntas de dilatación y segmentos horizontales a cada cierta distancia y altura, a los que se adosan estructuras menores con paramentos verticales, algunas con piedras salientes como para recibir envigamientos de dos y tres pisos sobre el suelo. También hay edificaciones subterráneas de varios niveles. Las paredes de los principales edificios civiles, religiosos y administrativos de la ciudad debieron estar enlucidas y pintadas de blanco y rojo.\nUna de las formas arquitectónicas que caracterizan la distribución urbana y que están asociadas al patrón ortogonal de la ciudad es el tipo de estructuras con planta en forma de «D», las cuales son visibles en los sectores de Sullu Cruz, Capillapata, Vegachayoc Moqo, Monqachayoc y Cheqo Huasi. Otro de los elementos culturales que, en cierta forma, ayuda a distinguir la extensión del área urbana de Wari es el arte rupestre, manifestado en petroglifos y pocitos circulares tallados en diversas piedras y afloramientos rocosos localizados en la periferia de dicha área.\nEl Complejo Arqueológico Wari es idea para las personas que gustan de la historia del antiguo Perú, además cuenta con un museo de sitio, donde se exhibe bienes culturales procedentes de las excavaciones arqueológicas en la zona arqueológica monumental Wari: cerámicas, líticos, textiles, monolitos, entre otros"
+    },
+    {
+      "titulo": "Particularidades",
+      "contenido": "Actualmente, con sus 2 mil hectáreas, es considerada la zona arqueológica más extensa de la sierra peruana. Contó con una estructura jerárquica con grupos de poder que construyeron gradualmente grandes edificaciones de piedras unidas con argamasa de barro donde se asentaron los gobernantes, sacerdotes, militares, artesanos y la población común.\nLos criterios para asignarle a Wari la categoría de ciudad se basan en su gran extensión y alta densidad poblacional, su compleja organización interna, cotidiana y pública y, finalmente, en su posición estratégica en la geopolítica estatal, sustentado en el Plan de Manejo del Complejo Arqueológico Wari, Ayacucho 2010; escrito por LUMBRERAS SALCEDO, L. G. Consultor del Instituto Nacional de Cultura y otros."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "Declarado como bien integrante del Patrimonio Cultural de la Nación mediante Resolución Directoral Nacional N°202/INC el 21 de julio de 1998 por el Instituto Nacional de Cultura."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, porque las diferentes estructuras arquitectónicas que se ubican en los sectores de Vegachayocc Moqo, Capillapata, Monqachayocc y Cheqo Huasi presentan buen estado de conservación y muestran con claridad sus elementos estructurales, adicionalmente la zona arqueológica está protegida con vigilancia permanente y limpieza periódica a cargo del Ministerio de Cultura."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "En el 2015 , tras una larga y profunda investigación a cargo del Ministerio de Cultura, la Universidad Nacional de San Cristóbal de Huamanga y el Gobierno Regional de Ayacucho en los sectores Vegachayuq Moqo y Monqachayuq del Complejo Arqueológico Wari se encontraron importantes nuevos restos arqueológicos el sector de Vegachayuq Moqo es una de las áreas ceremoniales más importantes de Wari.\nPor otro lado, las investigaciones concluyeron que el sector Monqachayuq era utilizado con fines funerarios ya que presenta mausoleos, galerías subterráneas, un patio hundido y fosas. El principal hallazgo de este sector fue un mausoleo construido con piedras finamente labradas que constituyen compartimientos orientados hacia un espacio central a una profundidad de 8 metros dentro una estructura arquitectónica en forma de \"D”. Cabe mencionar que ninguna de las tumbas develadas hasta el momento ha sido encontrada intacta."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n160\nMINISTERIO DE CULTURA\n2023\nPERU COMPENDIO DE CIFRAS DE TURISMO DGIETA VMT MINCETUR 2024\nTuristas Nacionales\n87767\nMINISTERIO DE CULTURA\n2023\nPERU COMPENDIO DE CIFRAS DE TURISMO DGIETA VMT MINCETUR 2024"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nAyacucho/Huamanga/Pacaycasa\n-\nAyacucho/Huamanga/Pacaycasa\nPlaza Mayor de Ayacucho - Complejo Arqueológico Wari\nTerrestre\nBus turístico\nAsfaltado\n23 Km/35 min\n1\nAyacucho/Huamanga/Pacaycasa\n-\nAyacucho/Huamanga/Pacaycasa\nParadero de autos y combis (Ayacucho) - Complejo Arqueológico Wari\nTerrestre\nMini bus público\nAsfaltado\n22 Km/30 min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nAdultos = S/ 6.00 - Estudiantes de educación superior y adulto mayor = S/ 3.00 - Escolares = S/ 1.00 - Niños (3 a 17 años previa presentación de DNI) = Gratis"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n09:00 a.m.\n-\n05:00 p.m.\nLunes no hay atencion"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nCompras de artesanía/souvenir\nEn la puerta de salida del complejo arqueologico\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nEstudios e Investigación\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nEspañol\nInstalaciones Públicas\nServicios Públicos\nMiradores turísticos\n--\nInstalaciones Públicas\nServicios Públicos\nEstacionamiento de vehículos\n--\nInstalaciones Públicas\nServicios Públicos\nBoletería\n--\nInstalaciones Públicas\nServicios Públicos\nCaminos peatonales\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nVenta de artesanía\n--\nInstalaciones Públicas\nServicios Públicos\nMuseo de Sitio Turísticos\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\n3 estrellas en la ciudad de Ayacucho\nAlojamiento\nHostales (especificar categorías)\n2 estrellas en la ciudad de Ayacucho\nAlimentación\nRestaurantes\n3 tenedores en la ciudad de Ayacucho\nOtros Servicios Turísticos\nAlquiler de camionetas 4 x 4\nCiudad de Ayacucho\nAlimentación\nKioskos de comida y bebidas\nCiudad de Ayacucho\nLugares de Recreación\nDiscotecas\nCiudad de Ayacucho\nLugares de Recreación\nPeñas\nCiudad de Ayacucho\nLugares de Recreación\nCines o Teatros\nCiudad de Ayacucho\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nCiudad de Ayacucho\nLugares de Recreación\nKaraoke\nCiudad de Ayacucho\nLugares de Recreación\nBares\nCiudad de Ayacucho\nAlimentación\nCafeterías\nCiudad de Ayacucho\nAlimentación\nFuentes de soda\nCiudad de Ayacucho\nAlimentación\nVenta de comida Rápida\nCiudad de Ayacucho\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Ayacucho\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Ayacucho\nOtros Servicios Turísticos\nAlquiler de bicicleta\nCiudad de Ayacucho\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de Ayacucho"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Ayacucho\nBancos\nCiudad de Ayacucho\nCajero automático\nCiudad de Ayacucho\nCasa de cambio\nCiudad de Ayacucho\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Ayacucho\nServicio de correos\nCiudad de Ayacucho\nServicios de taxis\nCiudad de Ayacucho\nCentro de salud - tópico\nCiudad de Ayacucho\nSeguridad / POLTUR / Comisaría\nCiudad de Ayacucho\nLibrerías\nCiudad de Ayacucho\nBodegas o minimarkets\nCiudad de Ayacucho\nServicio de estacionamiento\nCiudad de Ayacucho"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nSeñalización turística\n--\nEnergía Alternativa\nPaneles fotovoltaicos\nTeléfono\nSeñal de telefonia celular"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Ayacucho\nAlcantarillado sanitario\nCiudad de Ayacucho\nLuz (Suministro Eléctrico)\nCiudad de Ayacucho\nTeléfono\nCiudad de Ayacucho\nSeñalización turística\nCiudad de Ayacucho\nAlcantarillado pluvial\nCiudad de Ayacucho"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nMinisterio de Cultura\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nEn proceso de saneamiento físico legal, encontrándose en la etapa de Consulta Previa\nAdministrador por\nNombre\nMinisterio de Cultura\nTiempo de administración\nDesde el año 1962"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDIRECCION REGIONAL DE COMERCIO EXTERIOR Y TURISMO AYACUCHO\nNombre (Persona(s) responsable(s) del inventario turístico):\nEFRAIN WALTER GOMEZ LOPEZ\nCargo:\nEspecialista en Turismo II\nCorreo:\newgl7@hotmail.com\nTeléfono:\n938130971\nFuentes Bibliográfica:\n1)CIEZA DE LEON, Pedro (1553) Historiadores primitivos de Indias. Biblioteca de Autores Españoles. Madrid, 1947 2)CERRON-PALOMINO, Rodolfo. El origen centro andino del aimara. Modelos VS Evidencias. Boletín de Arqueología PUCP. Lima 2000 3)COOK, Anita Los nobles ancestros de piedra: el lenguaje de la vestimenta y rango imperial entre las Figurillas Wari. Fundación el Monte. Sevilla. España, 2001 4)GONZALEZ C., E. El templo mayor de Wari. UNSCH, Ayacucho 1996 5)LUMBRERAS SALCEDO, Luis La Cultura de Wari, Ayacucho. UNMSM Lima 1960 6)MAKOWSKY, Krzysztof. Los personajes frontales de báculos en la iconografía Tiahuanaco y Huari. Boletín de Arqueología PUCP. Lima 2001 7)MENZEL Dorothy. La Cultura Huari. Las Grandes Civilizaciones del Antiguo Perú. Cía Seguros Peruano Suiza. Lima 1970 8)MIRO QUESADA DULANTO, I. Ayacucho: Un viaje de 20 mil años Lima 2024 9)OCHATOMA, J. El área sagrada de Wari. UNSCH. Ayacucho 2015 10)VALCARCEL, Luis E. Arqueología de Huari (Perú). Paris 1949.\nMaterial Audiovisual actual del Recurso:\nFOTO, VIDEOS\nEspecificación:\nhttps://www.youtube.com/watch?v=ccHx3Pn_t8E\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n2/05/2024 18:23:37"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -13.06003,
+    "longitud": -74.19961599999999
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-13.06003,-74.19961599999999"
+}

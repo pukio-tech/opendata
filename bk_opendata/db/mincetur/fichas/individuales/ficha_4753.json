@@ -1,0 +1,263 @@
+{
+  "cod_ficha": 4753,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=4753",
+  "nombre": "Complejo Funerario De Amaytera",
+  "departamento": "Arequipa",
+  "provincia": "Caylloma",
+  "distrito": "SIBAYO",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Sitios Arqueológicos",
+  "subtipo": "Cementerios",
+  "jerarquia": "2",
+  "altitud": "3845 m.s.n.m.",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=546408",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=546408",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=617315",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=617316",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=617317",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=617290",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=617291",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=617318",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=617319"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Estudios e Investigación",
+    "Naturaleza - Observación de paisaje"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Arequipa/Arequipa/Jacobo Hunter - Arequipa/Caylloma/Chivay",
+      "detalle": "Terminal Terrestre de Arequipa - Terminal Terrestre Chivay",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "151 km /3 horas"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Arequipa/Caylloma/Chivay - Arequipa/Caylloma/Sibayo",
+      "detalle": "Terminal Terrestre Chivay- Plaza de Sibayo",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Combi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "39 km/45 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Arequipa/Caylloma/Sibayo - Arequipa/Caylloma/Sibayo",
+      "detalle": "Plaza de Sibayo-Estacionamiento de Amaytera",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "3.2 km /10 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Arequipa/Caylloma/Sibayo - Arequipa/Caylloma/Sibayo",
+      "detalle": "Estacionamiento de Amaytera-Momia Juanito (Complejo Funerario Amaytera)",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Sendero",
+      "distancia_tiempo": "80 m/ 5 min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "810",
+      "horario": "Proyección en base al conteo muestral",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "1350",
+      "horario": "Proyección en base al conteo muestral",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "2160",
+      "horario": "Proyección en base al conteo muestral",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "06:00 a.m. - 05:00 p.m. Llevar sombrero o gorro y casaca.",
+      "observaciones": "Llevar sombrero o gorro y casaca."
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Otros (especificar)",
+      "observacion": "SS.HH, a través de pozo séptico"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Localidad de Sibayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Localidad de Sibayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Localidad de Sibayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "Localidad de Sibayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Centros de interpretación",
+      "observacion": "Localidad de Sibayo, Centro De Interpretación Artesanal Sumac Pallay"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "Localidad de Sibayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Localidad de Sibayo, al interior de las casas vivenciales."
+    }
+  ],
+  "descripcion": "Se encuentra en el distrito de Sibayo, considerado como el pueblo de piedra “Rumillacta”. En las faldas del cerro de Paraccra, cerca al río Colca se observa el Complejo Funerario de Amaytera formado por un conjunto de momias de la cultura Collagua, sus enterramientos se han realizado en partes inaccesibles como lugares cercanos al río y cerca de la población, además se enterraban con ofrendas como cerámicos y mantos. Debido a los huaqueos los cadáveres quedaron expuestos y, con el pasar de los años, estos se han deteriorado\nSin embargo, debido a la ubicación de su entierro, el cual fue realizado en la parte superior de una cavidad rocosa del cerro de Paraccra, se encuentra la momia Juanito en una zona de entierros empotrados hacia el cerro de forma circular, donde no hay la presencia del sol durante todo el año.\nLos pobladores le llaman momia Juanito o la momia de Paraccra, de acuerdo a sus características, posiblemente sea de un joven, que se encuentra en posición fetal, dentro de un cesto trenzado. Los restos se han podido conservar gracias a la protección de la cavidad rocosa. Al costado se encuentran restos de cestos tejidos\nA Juanito también lo acompañaban restos óseos incompletos, por lo que se cree que la momia Juanito pudo haber sido parte del rito de la Copaccocha, ya que se encuentra cerca del río Colca. Esto se realizaba con el fin de pedir algún favor a las divinidades o para aplacar alguna furia. Los niños y niñas elegidos, considerados puros, eran ofrendados en ceremonias que buscaban mantener el equilibrio cósmico.\nEn el 2004 se han implementado, con instalaciones que facilitan su visita, como: servicios higiénicos, mirador, boletería y museo de sitio; estos últimos no están en funcionamiento. Además, se ha protegido a la momia Juanito con rejas de metal y se ha definido el acceso mediante gradas con piedra de la zona.",
+  "particularidades": "",
+  "estado_actual": "Bueno: Aún es posible apreciar la momia Juanito, el museo de sitio no esta en funcionamiento y el mantenimiento esta a cargo de la municipalidad distrital de Sibayo.",
+  "observaciones": "Cuenta con Protección Provisional, como Sitio Arqueológico Aymatera, con Resolución Directoral N° 000272-2025-DGPA-VMPCIC/MC",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Se encuentra en el distrito de Sibayo, considerado como el pueblo de piedra “Rumillacta”. En las faldas del cerro de Paraccra, cerca al río Colca se observa el Complejo Funerario de Amaytera formado por un conjunto de momias de la cultura Collagua, sus enterramientos se han realizado en partes inaccesibles como lugares cercanos al río y cerca de la población, además se enterraban con ofrendas como cerámicos y mantos. Debido a los huaqueos los cadáveres quedaron expuestos y, con el pasar de los años, estos se han deteriorado\nSin embargo, debido a la ubicación de su entierro, el cual fue realizado en la parte superior de una cavidad rocosa del cerro de Paraccra, se encuentra la momia Juanito en una zona de entierros empotrados hacia el cerro de forma circular, donde no hay la presencia del sol durante todo el año.\nLos pobladores le llaman momia Juanito o la momia de Paraccra, de acuerdo a sus características, posiblemente sea de un joven, que se encuentra en posición fetal, dentro de un cesto trenzado. Los restos se han podido conservar gracias a la protección de la cavidad rocosa. Al costado se encuentran restos de cestos tejidos\nA Juanito también lo acompañaban restos óseos incompletos, por lo que se cree que la momia Juanito pudo haber sido parte del rito de la Copaccocha, ya que se encuentra cerca del río Colca. Esto se realizaba con el fin de pedir algún favor a las divinidades o para aplacar alguna furia. Los niños y niñas elegidos, considerados puros, eran ofrendados en ceremonias que buscaban mantener el equilibrio cósmico.\nEn el 2004 se han implementado, con instalaciones que facilitan su visita, como: servicios higiénicos, mirador, boletería y museo de sitio; estos últimos no están en funcionamiento. Además, se ha protegido a la momia Juanito con rejas de metal y se ha definido el acceso mediante gradas con piedra de la zona."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno: Aún es posible apreciar la momia Juanito, el museo de sitio no esta en funcionamiento y el mantenimiento esta a cargo de la municipalidad distrital de Sibayo."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "Cuenta con Protección Provisional, como Sitio Arqueológico Aymatera, con Resolución Directoral N° 000272-2025-DGPA-VMPCIC/MC"
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nVisitantes Locales(Excursionistas)\n810\nProyección en base al conteo muestral\n2025\nRealizado por la Oficina de Desarrollo Económico Local de la Municipalidad Distrital de Sibayo.\nTuristas Nacionales\n1350\nProyección en base al conteo muestral\n2025\nRealizado por la Oficina de Desarrollo Económico Local de la Municipalidad Distrital de Sibayo.\nTuristas Extranjeros\n2160\nProyección en base al conteo muestral\n2025\nRealizado por la Oficina de Desarrollo Económico Local de la Municipalidad Distrital de Sibayo."
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nArequipa/Arequipa/Jacobo Hunter\n-\nArequipa/Caylloma/Chivay\nTerminal Terrestre de Arequipa - Terminal Terrestre Chivay\nTerrestre\nBus público\nAsfaltado\n151 km /3 horas\n1\nArequipa/Caylloma/Chivay\n-\nArequipa/Caylloma/Sibayo\nTerminal Terrestre Chivay- Plaza de Sibayo\nTerrestre\nCombi\nAsfaltado\n39 km/45 min\n1\nArequipa/Caylloma/Sibayo\n-\nArequipa/Caylloma/Sibayo\nPlaza de Sibayo-Estacionamiento de Amaytera\nTerrestre\nAutomóvil particular\nTrocha carrozable\n3.2 km /10 min\n1\nArequipa/Caylloma/Sibayo\n-\nArequipa/Caylloma/Sibayo\nEstacionamiento de Amaytera-Momia Juanito (Complejo Funerario Amaytera)\nTerrestre\nA pie\nSendero\n80 m/ 5 min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n06:00 a.m.\n-\n05:00 p.m.\nLlevar sombrero o gorro y casaca."
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nEstudios e Investigación\n--\nNaturaleza\nObservación de paisaje\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Públicas\nServicios Públicos\nMiradores turísticos\n--\nInstalaciones Públicas\nServicios Públicos\nEstacionamiento de vehículos\n--\nInstalaciones Públicas\nServicios Públicos\nOtros (especificar)\nSS.HH, a través de pozo séptico"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nLocalidad de Sibayo\nAlimentación\nRestaurantes\nLocalidad de Sibayo\nServicios Públicos\nEstacionamiento de vehículos\nLocalidad de Sibayo\nServicios Públicos\nSeñales turísticas de orientación\nLocalidad de Sibayo\nServicios Públicos\nCentros de interpretación\nLocalidad de Sibayo, Centro De Interpretación Artesanal Sumac Pallay\nServicios Públicos\nMiradores turísticos\nLocalidad de Sibayo\nOtros Servicios Turísticos\nVenta de artesanía\nLocalidad de Sibayo, al interior de las casas vivenciales."
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nLocalidad de Sibayo\nServicio de estacionamiento\nLocalidad de Sibayo\nCentro de salud - tópico\nLocalidad de Sibayo, Puesto de Salud Sibayo\nSeguridad / POLTUR / Comisaría\nLocalidad de Sibayo, Comisaria PNP\nBodegas o minimarkets\nLocalidad de Sibayo\nLibrerías\nLocalidad de Sibayo"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nLocalidad de Sibayo\nLuz (Suministro Eléctrico)\nLocalidad de Sibayo\nTeléfono\nLocalidad de Sibayo\nAlcantarillado sanitario\nLocalidad de Sibayo\nSeñalización turística\nLocalidad de Sibayo"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nMunicipalidad distrital de Sibayo\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nSesión de uso indefinido entre la Municipalidad de Sibayo y la familia Sarayasi, en 2004\nAdministrador por\nNombre\nMunicipalidad distrital de Sibayo\nTiempo de administración\nDesde el año 2004"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nGerencia de Comercio Exterior y Turismo de Arequipa\nNombre (Persona(s) responsable(s) del inventario turístico):\nLic. Claudia Barrios Cacya\nCargo:\nEspecialista en Turismo\nCorreo:\ncbarrios@correo.regionarequipa.gob.pe\nTeléfono:\n(054) 274557\nFuentes Bibliográfica:\n-DIARIO CORREO. Momia “Juanito”: El primo lejano de la momia “Juanita” de Arequipa. 02/08/2022\n-DIARIO VIRAL. Juanito, el guardián de Amaytera 07/05/2021\n-Plan de Desarrollo Turístico Local del distrito de Sibayo 2021 – 2025\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n20/08/2025 10:20:15"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -15.466187,
+    "longitud": -71.46069999999997
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-15.466187,-71.46069999999997"
+}

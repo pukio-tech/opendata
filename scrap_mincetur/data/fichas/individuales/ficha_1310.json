@@ -1,0 +1,434 @@
+{
+  "cod_ficha": 1310,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=1310",
+  "nombre": "Plaza Independencia Del Callao",
+  "departamento": "Callao",
+  "provincia": "Callao",
+  "distrito": "CALLAO",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Arquitectura y Espacios Urbanos",
+  "subtipo": "Plazuelas",
+  "jerarquia": "1",
+  "altitud": "",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=465562",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=465562",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=465563",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=465564",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=465529"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Naturaleza - Observación de paisaje"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Callao/Prov. Const. Del Callao/Callao - Callao/Prov. Const. Del Callao/Callao",
+      "detalle": "Aeropuerto Jorge Chávez - Plaza Independencia del Callao",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "10.2km / 23min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Callao/Prov. Const. Del Callao/Callao - Callao/Prov. Const. Del Callao/Callao",
+      "detalle": "Aeropuerto Jorge Chávez - Plaza Independencia del Callao",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "10.2km / 44min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Callao/Prov. Const. Del Callao/Callao - Callao/Prov. Const. Del Callao/Callao",
+      "detalle": "Aeropuerto Jorge Chávez - Plaza Independencia del Callao",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "10.2km / 2horas"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Callao/Prov. Const. Del Callao/Callao - Callao/Prov. Const. Del Callao/Callao",
+      "detalle": "Plaza Miguel Grau del Callao - Plaza Independencia del Callao",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "0.3km / 1min"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Callao/Prov. Const. Del Callao/Callao - Callao/Prov. Const. Del Callao/Callao",
+      "detalle": "Plaza Miguel Grau del Callao - Plaza Independencia del Callao",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "0.3km / 2min"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Callao/Prov. Const. Del Callao/Callao - Callao/Prov. Const. Del Callao/Callao",
+      "detalle": "Plaza Miguel Grau del Callao - Plaza Independencia del Callao",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "0.3km / 3min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "220",
+      "horario": "Informe Técnico N°033-2022-GRC-GRDE-OCTEM/GJRC",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "213",
+      "horario": "Informe Técnico N°033-2022-GRC-GRDE-OCTEM/GJRC",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "853",
+      "horario": "Informe Técnico N°033-2022-GRC-GRDE-OCTEM/GJRC",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "08:00 a.m. - 05:00 p.m. --",
+      "observaciones": "--"
+    },
+    {
+      "epoca": "Personas con discapacidad física",
+      "especificacion": "cuenta con rampas de accesos, para personas que se trasladan en silla de ruedas",
+      "horario": "--",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Español, Inglés."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "1, 2 , 3 y 4 estrellas - Ciudad del Callao"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "1 y 2 estrellas - Ciudad del Callao"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Barrio de Chucuito"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad del Callao"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad del Callao"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad del Callao"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Ciudad del Callao"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad del Callao"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Ciudad del Callao"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad del Callao"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Ciudad del Callao"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad del Callao"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad del Callao"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Peñas",
+      "observacion": "Ciudad del Callao"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Cines o Teatros",
+      "observacion": "Ciudad del Callao"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Ciudad del Callao"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Ciudad del Callao"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Ciudad del Callao"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Lugares de picnic",
+      "observacion": "Ciudad del Callao"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "Ciudad del Callao"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad del Callao"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "Ciudad del Callao"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Ciudad del Callao"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "Ciudad del Callao"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Embarcaderos",
+      "observacion": "Ciudad del Callao"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Muelles turísticos",
+      "observacion": "Ciudad del Callao"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Marina turística",
+      "observacion": "Ciudad del Callao"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Ciudad del Callao"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "Ciudad del Callao"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Puesto de auxilio rápido",
+      "observacion": "Ciudad del Callao"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Museo de Sitio Turísticos",
+      "observacion": "Ciudad del Callao"
+    }
+  ],
+  "descripcion": "Ubicada delante del Museo del Ejército Real Felipe, a la altura de la calle Daniel Nieto y Jr. Libertad, está flanqueada por la casona donde vivió temporalmente el héroe de la Guerra del Pacífico e inventor peruano, Don Pedro Ruiz Gallo, y el edificio Wiesse (antes banco Wiesse) hoy banco Scotiabank. La plaza cuenta con jardines bien conservados, destaca en ella una gran pileta ornamental con figuras mitológicas y alegóricas al comercio, resalta como color predominante el verde, negro y lleva aplicaciones doradas, está hecha en bronce, tiene pequeños surtidores de agua que caen desde lo alto hacia tres bandejas de regular tamaño convirtiéndolas en una pequeña piscina circular. Asimismo, se puede apreciar monumentos como el argentino Roque Sáenz Peña, Bartolomé Salom y al soldado inmortal de la Legión Peruana de la Guardia. Fue obsequiada el 28 de julio de 1866 por la Compañía Inglesa de Vapores The Steam Navigation Company. En la actualidad tiene una placa en reconocimiento a los 200 años de la Independencia del Perú.",
+  "particularidades": "",
+  "estado_actual": "Bueno, porque recibe mantenimiento diario de la Municipalidad Provincial del Callao.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Ubicada delante del Museo del Ejército Real Felipe, a la altura de la calle Daniel Nieto y Jr. Libertad, está flanqueada por la casona donde vivió temporalmente el héroe de la Guerra del Pacífico e inventor peruano, Don Pedro Ruiz Gallo, y el edificio Wiesse (antes banco Wiesse) hoy banco Scotiabank. La plaza cuenta con jardines bien conservados, destaca en ella una gran pileta ornamental con figuras mitológicas y alegóricas al comercio, resalta como color predominante el verde, negro y lleva aplicaciones doradas, está hecha en bronce, tiene pequeños surtidores de agua que caen desde lo alto hacia tres bandejas de regular tamaño convirtiéndolas en una pequeña piscina circular. Asimismo, se puede apreciar monumentos como el argentino Roque Sáenz Peña, Bartolomé Salom y al soldado inmortal de la Legión Peruana de la Guardia. Fue obsequiada el 28 de julio de 1866 por la Compañía Inglesa de Vapores The Steam Navigation Company. En la actualidad tiene una placa en reconocimiento a los 200 años de la Independencia del Perú."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, porque recibe mantenimiento diario de la Municipalidad Provincial del Callao."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n220\nInforme Técnico N°033-2022-GRC-GRDE-OCTEM/GJRC\n2022\nTuristas Nacionales\n213\nInforme Técnico N°033-2022-GRC-GRDE-OCTEM/GJRC\n2022\nVisitantes Locales(Excursionistas)\n853\nInforme Técnico N°033-2022-GRC-GRDE-OCTEM/GJRC\n2022"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nCallao/Prov. Const. Del Callao/Callao\n-\nCallao/Prov. Const. Del Callao/Callao\nAeropuerto Jorge Chávez - Plaza Independencia del Callao\nTerrestre\nAutomóvil particular\nAsfaltado\n10.2km / 23min\n1\nCallao/Prov. Const. Del Callao/Callao\n-\nCallao/Prov. Const. Del Callao/Callao\nAeropuerto Jorge Chávez - Plaza Independencia del Callao\nTerrestre\nBus público\nAsfaltado\n10.2km / 44min\n1\nCallao/Prov. Const. Del Callao/Callao\n-\nCallao/Prov. Const. Del Callao/Callao\nAeropuerto Jorge Chávez - Plaza Independencia del Callao\nTerrestre\nA pie\nAsfaltado\n10.2km / 2horas\n2\nCallao/Prov. Const. Del Callao/Callao\n-\nCallao/Prov. Const. Del Callao/Callao\nPlaza Miguel Grau del Callao - Plaza Independencia del Callao\nTerrestre\nAutomóvil particular\nAsfaltado\n0.3km / 1min\n2\nCallao/Prov. Const. Del Callao/Callao\n-\nCallao/Prov. Const. Del Callao/Callao\nPlaza Miguel Grau del Callao - Plaza Independencia del Callao\nTerrestre\nBus público\nAsfaltado\n0.3km / 2min\n2\nCallao/Prov. Const. Del Callao/Callao\n-\nCallao/Prov. Const. Del Callao/Callao\nPlaza Miguel Grau del Callao - Plaza Independencia del Callao\nTerrestre\nA pie\nAsfaltado\n0.3km / 3min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n08:00 a.m.\n-\n05:00 p.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nNaturaleza\nObservación de paisaje\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nEspañol, Inglés."
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\n1, 2 , 3 y 4 estrellas - Ciudad del Callao\nAlojamiento\nHostales (especificar categorías)\n1 y 2 estrellas - Ciudad del Callao\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nBarrio de Chucuito\nAlimentación\nRestaurantes\nCiudad del Callao\nAlimentación\nBares\nCiudad del Callao\nAlimentación\nCafeterías\nCiudad del Callao\nAlimentación\nFuentes de soda\nCiudad del Callao\nAlimentación\nKioskos de comida y bebidas\nCiudad del Callao\nAlimentación\nVenta de comida Rápida\nCiudad del Callao\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad del Callao\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nCiudad del Callao\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad del Callao\nLugares de Recreación\nDiscotecas\nCiudad del Callao\nLugares de Recreación\nPeñas\nCiudad del Callao\nLugares de Recreación\nCines o Teatros\nCiudad del Callao\nLugares de Recreación\nJuegos Infantiles\nCiudad del Callao\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nCiudad del Callao\nLugares de Recreación\nCentros Deportivos\nCiudad del Callao\nLugares de Recreación\nLugares de picnic\nCiudad del Callao\nLugares de Recreación\nKaraoke\nCiudad del Callao\nLugares de Recreación\nBares\nCiudad del Callao\nServicios Públicos\nMiradores turísticos\nCiudad del Callao\nServicios Públicos\nEstacionamiento de vehículos\nCiudad del Callao\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\nCiudad del Callao\nServicios Públicos\nEmbarcaderos\nCiudad del Callao\nServicios Públicos\nMuelles turísticos\nCiudad del Callao\nServicios Públicos\nMarina turística\nCiudad del Callao\nServicios Públicos\nOficina de Información turística\nCiudad del Callao\nServicios Públicos\nCaminos peatonales\nCiudad del Callao\nServicios Públicos\nPuesto de auxilio rápido\nCiudad del Callao\nServicios Públicos\nMuseo de Sitio Turísticos\nCiudad del Callao"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad del Callao\nBancos\nScotiabank, Interbank, BCP, BBVA, Banco de la Nación, Mi Banco, Banco Financiero, Ban Bif - Ciudad del Callao\nCajero automático\nScotiabank, Interbank, BCP, BBVA, Banco de l Nación, Mi Banco, Banco Financiero, Ban Bif - Ciudad del Callao\nCasa de cambio\nCiudad del Callao\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad del Callao\nServicio de correos\nCiudad del Callao\nServicio de estacionamiento\nCiudad del Callao\nServicios de taxis\nCiudad del Callao\nCentro de salud - tópico\nCiudad del Callao\nVenta de materiales para fotografías\nCiudad del Callao\nServicios de salvavidas\nCiudad del Callao\nSeguridad / POLTUR / Comisaría\nCiudad del Callao\nAlquiler y compra de equipos deportivos\nCiudad del Callao\nLibrerías\nCiudad del Callao\nBodegas o minimarkets\nCiudad del Callao"
+    },
+    {
+      "titulo": "Condiciones de Accesibilidad al Visitante",
+      "contenido": "Visitante\nInstalación\nActividades y/o programas\nEquipamiento\nObservación\nPersonas con discapacidad física\ncuenta con rampas de accesos, para personas que se trasladan en silla de ruedas\n--\n--\n--"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\n--\nAlcantarillado sanitario\n--\nLuz (Suministro Eléctrico)\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad del Callao\nAlcantarillado sanitario\nCiudad del Callao\nLuz (Suministro Eléctrico)\nCiudad del Callao\nTeléfono\nCiudad del Callao"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nEstado Peruano\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nLey 26664 - Oficio N°053-2022-MPC-GGESSC/GECT\nAdministrador por\nNombre\nMunicipalidad Provincial del Callao\nTiempo de administración\nDesde 1866"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nOficina de Comercio, Turismo, Energía y Minas del Gobierno Regional del Callao\nNombre (Persona(s) responsable(s) del inventario turístico):\nCarlos Nolberto Alonzo Pomarica Rodriguez\nCargo:\nCoordinador de Turismo\nCorreo:\noctem@regioncallao.gob.pe\nTeléfono:\n931266371\nFuentes Bibliográfica:\nSantiago Risso (2012) Frontera al Castillo del Sol. El Callao en sus calles, plazas, iglesias e instituciones.\nHumberto Currarino Cámere y Alberto Paz de La Vega Mayandía (2017) Las Tarjetas Postales del Callao. Eduardo Polack Schneider. Pionero de la Tarjeta Postal del Perú. (1901 - 1915)\nSantiago Risso (2012) Frontera al Castillo del Sol. El Callao en sus calles, plazas, iglesias e instituciones\nEleutario Vigil Pelaes. El Callao de Ayer y Hoy Ilustrado 1946\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\nhttps://www.ytuqueplanes.com/destinos/callao/ciudad-del-callao/plaza-independencia\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n29/05/2025 10:17:25"
+    }
+  ],
+  "coordenadas": {
+    "latitud": null,
+    "longitud": null
+  },
+  "google_maps_url": null
+}

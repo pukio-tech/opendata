@@ -1,0 +1,360 @@
+{
+  "cod_ficha": 3974,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=3974",
+  "nombre": "Cascada La Victoria",
+  "departamento": "San Martín",
+  "provincia": "Tocache",
+  "distrito": "SHUNTE",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "j. Caídas de agua",
+  "subtipo": "Cataratas",
+  "jerarquia": "POR JERARQUIZAR",
+  "altitud": "1276",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=589960",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=589960",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=589999",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=589961",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=589962",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=594854",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=594831"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de paisaje",
+    "Naturaleza - Observación de aves"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "Bromelias, orquídeas, helechos, arboles de ceticos, cedro, mohena.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de aves",
+      "observacion": "Búhos, aguilucho de pecho negro, tangara de alta montaña de frente blanca, pava silvestre, mosquerito canela, gallito de las rocas.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/aves02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "San Martín/Tocache/Tocache - San Martín/Tocache/Tocache",
+      "detalle": "Plaza de armas de Tocache - Cruce de Yacusisa Shunte",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Camioneta doble tracción",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "9.2 km / 10 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "San Martín/Tocache/Tocache - San Martín/Tocache/Shunte",
+      "detalle": "Cruce Yacusisa Shunte - al poblado Montecristo, capital del distrito de Shunte",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Camioneta doble tracción",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "34.2 km / 50 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "San Martín/Tocache/Shunte - San Martín/Tocache/Shunte",
+      "detalle": "Poblado Montecristo - Caserío La Victoria",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Camioneta doble tracción",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "5.9 km / 10 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "San Martín/Tocache/Shunte - San Martín/Tocache/Shunte",
+      "detalle": "Caserío La Victoria - Cascada La Victoria",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Sendero",
+      "distancia_tiempo": "1 km / 20 minutos"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "4950",
+      "horario": "Conteo muestral",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "08:00 a.m. - 05:00 p.m. --",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": "No adecuado para personas con discapacidad motriz"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "3 estrellas en la ciudad de Tocache"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Tocache"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "5 tenedores en la ciudad de Tocache"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Tocache"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Tocache"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Ciudad de Tocache"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Tocache y poblado Montecristo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Ciudad de Tocache"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Tocache"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de Tocache"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de camionetas 4 x 4",
+      "observacion": "Ciudad de Tocache"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Tocache"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Ciudad de Tocache"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Ciudad de Tocache"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Ciudad de Tocache"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Lugares de picnic",
+      "observacion": "Ciudad de Tocache"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "Ciudad de Tocache"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Tocache"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "Ciudad de Tocache"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Ciudad de Tocache"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "Ciudad de Tocache y poblado Montecristo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "Ciudad de Tocache"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Embarcaderos",
+      "observacion": "Ciudad de Tocache"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de Campamento(camping)",
+      "observacion": "Ciudad de Tocache"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "Ciudad de Tocache"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Puesto de auxilio rápido",
+      "observacion": "Ciudad de Tocache"
+    }
+  ],
+  "descripcion": "Se encuentra ubicada en el Ecosistema de Yunga del Área de Conservación Regional Bosques de Shunté y Mishollo - ACR BOSHUMI, esta cascada se origina en la quebrada La Victoria, que es uno de los afluentes del Río Tocache, es ideal para visitar todo el año.\nSe encuentra a 46 kilómetros al norte de la ciudad de Tocache, en el distrito de Shunte, caserío la Victoria. El caserío se ubica a 8 minutos en vehículo desde Montecristo la capital del distrito de Shunte. Una vez en el caserío, se hace una caminata de 15 minutos por sendero hacia la cascada, en donde se puede apreciar la belleza paisajística durante todo el recorrido, así como las diversas aves propias de este ecosistema y la calma que nos ofrece la naturaleza.\nEsta cascada cuenta con 01 caída de agua con una altura de 15 metros aproximadamente que ofrece un espectáculo visual cautivador mientras el agua cae sobre una gran pared de piedra y genera un sonido relajante que armoniza perfectamente con la serenidad del lugar. A los pies de la cascada se forma una hermosa poza de aguas cristalinas con una profundidad de alrededor de 2 metros, ideal para sumergirse y disfrutar de un refrescante chapuzón. La temperatura del agua, que oscila entre los 16°C y 20°C, brinda una experiencia revitalizante, perfecta para quienes buscan escapar del calor y conectar con la pureza de la naturaleza.\nPosee un hermoso paisaje de bosque montañoso, en el Área de Conservación Regional, con una diversidad en Flora en donde se puede identificar diversas especies de bromelias, orquídeas, helechos, arboles de ceticos, cedro, mohena, etc., en fauna encontramos diversidad de aves como búhos, aguilucho de pecho negro, tangara de alta montaña de frente blanca, pava silvestre, mosquerito canela y en algunas ocasiones inclusive el gallito de las rocas, nuestra ave nacional.\nEl Interés turístico que posee la cascada es para los amantes de la naturaleza, ya sea que los visitantes busquen un momento de contemplación o simplemente un espacio para renovar energías, ideal para la toma de fotografía, avistamiento de aves, ya que, en algunas ocasiones, durante el recorrido, se puede observar al ave nacional “el gallito de las rocas”, así mismo, apreciar el paisaje y observar la diversidad de insectos que habitan en ese entorno.",
+  "particularidades": "",
+  "estado_actual": "Bueno, porque se encuentra conservación por los moradores del caserío La Victoria.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Se encuentra ubicada en el Ecosistema de Yunga del Área de Conservación Regional Bosques de Shunté y Mishollo - ACR BOSHUMI, esta cascada se origina en la quebrada La Victoria, que es uno de los afluentes del Río Tocache, es ideal para visitar todo el año.\nSe encuentra a 46 kilómetros al norte de la ciudad de Tocache, en el distrito de Shunte, caserío la Victoria. El caserío se ubica a 8 minutos en vehículo desde Montecristo la capital del distrito de Shunte. Una vez en el caserío, se hace una caminata de 15 minutos por sendero hacia la cascada, en donde se puede apreciar la belleza paisajística durante todo el recorrido, así como las diversas aves propias de este ecosistema y la calma que nos ofrece la naturaleza.\nEsta cascada cuenta con 01 caída de agua con una altura de 15 metros aproximadamente que ofrece un espectáculo visual cautivador mientras el agua cae sobre una gran pared de piedra y genera un sonido relajante que armoniza perfectamente con la serenidad del lugar. A los pies de la cascada se forma una hermosa poza de aguas cristalinas con una profundidad de alrededor de 2 metros, ideal para sumergirse y disfrutar de un refrescante chapuzón. La temperatura del agua, que oscila entre los 16°C y 20°C, brinda una experiencia revitalizante, perfecta para quienes buscan escapar del calor y conectar con la pureza de la naturaleza.\nPosee un hermoso paisaje de bosque montañoso, en el Área de Conservación Regional, con una diversidad en Flora en donde se puede identificar diversas especies de bromelias, orquídeas, helechos, arboles de ceticos, cedro, mohena, etc., en fauna encontramos diversidad de aves como búhos, aguilucho de pecho negro, tangara de alta montaña de frente blanca, pava silvestre, mosquerito canela y en algunas ocasiones inclusive el gallito de las rocas, nuestra ave nacional.\nEl Interés turístico que posee la cascada es para los amantes de la naturaleza, ya sea que los visitantes busquen un momento de contemplación o simplemente un espacio para renovar energías, ideal para la toma de fotografía, avistamiento de aves, ya que, en algunas ocasiones, durante el recorrido, se puede observar al ave nacional “el gallito de las rocas”, así mismo, apreciar el paisaje y observar la diversidad de insectos que habitan en ese entorno."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, porque se encuentra conservación por los moradores del caserío La Victoria."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nVisitantes Locales(Excursionistas)\n4950\nConteo muestral\n2024\nSe tomo un conteo muestral de visitas al recurso durante el mes de diciembre del 2024"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nSan Martín/Tocache/Tocache\n-\nSan Martín/Tocache/Tocache\nPlaza de armas de Tocache - Cruce de Yacusisa Shunte\nTerrestre\nCamioneta doble tracción\nAsfaltado\n9.2 km / 10 minutos\n1\nSan Martín/Tocache/Tocache\n-\nSan Martín/Tocache/Shunte\nCruce Yacusisa Shunte - al poblado Montecristo, capital del distrito de Shunte\nTerrestre\nCamioneta doble tracción\nAsfaltado\n34.2 km / 50 minutos\n1\nSan Martín/Tocache/Shunte\n-\nSan Martín/Tocache/Shunte\nPoblado Montecristo - Caserío La Victoria\nTerrestre\nCamioneta doble tracción\nAsfaltado\n5.9 km / 10 minutos\n1\nSan Martín/Tocache/Shunte\n-\nSan Martín/Tocache/Shunte\nCaserío La Victoria - Cascada La Victoria\nTerrestre\nA pie\nSendero\n1 km / 20 minutos"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre\nNo adecuado para personas con discapacidad motriz"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n08:00 a.m.\n-\n05:00 p.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nNaturaleza\nObservación de flora\nBromelias, orquídeas, helechos, arboles de ceticos, cedro, mohena.\nNaturaleza\nObservación de paisaje\n--\nNaturaleza\nObservación de aves\nBúhos, aguilucho de pecho negro, tangara de alta montaña de frente blanca, pava silvestre, mosquerito canela, gallito de las rocas."
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\n3 estrellas en la ciudad de Tocache\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Tocache\nAlimentación\nRestaurantes\n5 tenedores en la ciudad de Tocache\nAlimentación\nBares\nCiudad de Tocache\nAlimentación\nCafeterías\nCiudad de Tocache\nAlimentación\nFuentes de soda\nCiudad de Tocache\nAlimentación\nKioskos de comida y bebidas\nCiudad de Tocache y poblado Montecristo\nAlimentación\nVenta de comida Rápida\nCiudad de Tocache\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Tocache\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de Tocache\nOtros Servicios Turísticos\nAlquiler de camionetas 4 x 4\nCiudad de Tocache\nLugares de Recreación\nDiscotecas\nCiudad de Tocache\nLugares de Recreación\nJuegos Infantiles\nCiudad de Tocache\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nCiudad de Tocache\nLugares de Recreación\nCentros Deportivos\nCiudad de Tocache\nLugares de Recreación\nLugares de picnic\nCiudad de Tocache\nLugares de Recreación\nKaraoke\nCiudad de Tocache\nLugares de Recreación\nBares\nCiudad de Tocache\nServicios Públicos\nMiradores turísticos\nCiudad de Tocache\nServicios Públicos\nEstacionamiento de vehículos\nCiudad de Tocache\nServicios Públicos\nSeñales turísticas de orientación\nCiudad de Tocache y poblado Montecristo\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\nCiudad de Tocache\nServicios Públicos\nEmbarcaderos\nCiudad de Tocache\nServicios Públicos\nZonas de Campamento(camping)\nCiudad de Tocache\nServicios Públicos\nCaminos peatonales\nCiudad de Tocache\nServicios Públicos\nPuesto de auxilio rápido\nCiudad de Tocache"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Tocache y poblado Montecristo\nBancos\nCiudad de Tocache\nCajero automático\nCiudad de Tocache y poblado Montecristo\nCasa de cambio\nCiudad de Tocache\nServicio de correos\nCiudad de Tocache\nServicios de taxis\nCiudad de Tocache\nServicio de estacionamiento\nCiudad de Tocache\nCentro de salud - tópico\nCiudad de Tocache y poblado Montecristo\nVenta de materiales para fotografías\nCiudad de Tocache\nSeguridad / POLTUR / Comisaría\nCiudad de Tocache y poblado Montecristo\nAlquiler y compra de equipos deportivos\nCiudad de Tocache\nLibrerías\nCiudad de Tocache\nBodegas o minimarkets\nCiudad de Tocache y poblado Montecristo"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Tocache\nLuz (Suministro Eléctrico)\nCiudad de Tocache\nTeléfono\nCiudad de Tocache\nSeñalización turística\nCiudad de Tocache\nSistemas de tratamiento alternativo de residuos (Biodigestor, pozo séptico, otros)\nCiudad de Tocache\nAlcantarillado pluvial\nCiudad de Tocache"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nGobierno Regional San Martín\nPrivado:\n--\nOtra Situación:\nÁrea de Conservación Regional Bosque de Shunte y Mishollo - ACR BOSHUMI\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nPartida\nNúmero de Partida:\n11027168\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nJefatura del Área de Conservación Regional Bosque de Shunte y Mishollo - ACR BOSHUMI\nTiempo de administración\nDesde el año 2018"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo de San Martín\nNombre (Persona(s) responsable(s) del inventario turístico):\nEdison Rodríguez Chupe\nCargo:\nAnalista en Turismo\nCorreo:\nedison.rodriguezchupe@gmail.com\nTeléfono:\n976 980 815\nFuentes Bibliográfica:\n- Documento: \"Inventario de recursos turísticos de la región San Martín\"- Autor: Dirección Sub Regional de Comercio Exterior y Turismo Alto Huallaga - Tocache; Año: 2006.\n- Documento: \"Zonificación Ecológica Económica de Tocache\"; Autor: IIAP – PRODATU. Enlace: http://www.iiap.org.pe/upload/publicacion/zee-tocache/documentos/14_Turismo_2006.pdf\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n6/05/2025 15:34:57"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -8.39444,
+    "longitud": -76.72879999999998
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-8.39444,-76.72879999999998"
+}

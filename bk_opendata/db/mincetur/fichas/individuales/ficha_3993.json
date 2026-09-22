@@ -1,0 +1,360 @@
+{
+  "cod_ficha": 3993,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=3993",
+  "nombre": "Museo De Sitio Huaca Rajada - Sipán",
+  "departamento": "Lambayeque",
+  "provincia": "Chiclayo",
+  "distrito": "SAÑA",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Museos y otros",
+  "subtipo": "Museos",
+  "jerarquia": "2",
+  "altitud": "99",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=292074",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=292074",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=292075",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=292076",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=552151",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=552152",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=552153",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=552109"
+  ],
+  "actividades_permitidas": [
+    "Otros - Compras de artesanía/souvenir",
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Actividades Culturales",
+    "Cultura y Folclore - Degustación y preparación de platos, productos o bebidas típicas",
+    "Cultura y Folclore - Apreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Compras de artesanía/souvenir",
+      "observacion": "En la parte externa del museo.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/artesania02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "Con equipos no profesionales y para fines personales",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Actividades Culturales",
+      "observacion": "Exposición del rostro del Sr. de Sipán",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/act_culturales02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Degustación y preparación de platos, productos o bebidas típicas",
+      "observacion": "Los primeros domingos de cada mes, actividades realizadas por el MUA",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/platos_tipicos02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Apreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)",
+      "observacion": "Los primeros domingos de cada mes, actividades realizadas en el MUA",
+      "icono_url": null
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Lambayeque/Chiclayo/Chiclayo - Lambayeque/Chiclayo/Saña",
+      "detalle": "Chiclayo (Terminal Epsel) - Saltur - Museo de Sitio Huaca Rajada",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "32 Km / 54 min"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Lambayeque/Chiclayo/Chiclayo - Lambayeque/Chiclayo/Saña",
+      "detalle": "Chiclayo (Terminal Epsel) - Pucalá - Museo de Sitio Huaca Rajada",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "34 km. / 58 minutos."
+    },
+    {
+      "recorrido": "3",
+      "tramo": "Lambayeque/Chiclayo/Patapo - Lambayeque/Chiclayo/Saña",
+      "detalle": "Chiclayo (Terminal Epsel) - Pátapo - Museo Huaca Rajada",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "10 km. / 20 minutos"
+    },
+    {
+      "recorrido": "4",
+      "tramo": "Lambayeque/Chiclayo/Lagunas - Lambayeque/Chiclayo/Saña",
+      "detalle": "Nuevo Mocupe (parque principal) - Museo de Sitio Huaca Rajada",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "28 km / 80 minutos."
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "1174",
+      "horario": "Reporte del Sistema de Información - Estadística de Turismo del MINCETUR",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "26409",
+      "horario": "Reporte del Sistema de Información - Estadística de Turismo del MINCETUR",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "10:00 a.m. - 05:00 p.m. Lunes a domingo, incluido feriados.",
+      "observaciones": "Lunes a domingo, incluido feriados."
+    },
+    {
+      "epoca": "Personas con discapacidad física",
+      "especificacion": "Rampas",
+      "horario": "--",
+      "observaciones": "Silla de ruedas."
+    },
+    {
+      "epoca": "Personas con discapacidad sensorial",
+      "especificacion": "Paneles en braille, implementación visual de señas peruanas.",
+      "horario": "Taller de enseñanza de lengua de señas peruanas.",
+      "observaciones": "--"
+    },
+    {
+      "epoca": "Adulto mayor",
+      "especificacion": "Rampas en instalaciones del museo",
+      "horario": "--",
+      "observaciones": "Silla de ruedas."
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "General:S/.8.00; Especial: S/.4.00; Estudiantes:S/. 3:00 Escolares:S/.1.50 (ingreso libre niños, niñas y adolescentes de 3 a 17 años solo año 2024, Ingreso libre el primer domingo de cada mes a peruan"
+    },
+    {
+      "tipo": "Libre",
+      "observaciones": "Primer domingo de cada mes, ingreso libre para los peruanos y residentes previa presentación de DNI."
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Español. S/. 20.00 por grupos de 15 personas"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de interpretación",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Otros (especificar)",
+      "observacion": "Servicios higiénicos."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "3 y 4 **** Ciudad de Chiclayo."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Chiclayo."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Chiclayo."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Chiclayo."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Complejo Artesanal de Huaca Rajada"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Puesto de auxilio rápido",
+      "observacion": "Ciudad de Chiclayo."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "3*** Ciudad de Chiclayo."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Centro Poblado Huaca Rajada y Ciudad de Chiclayo."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "Ciudad de Chiclayo."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "Ciudad de Chiclayo."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Ciudad de Chiclayo."
+    }
+  ],
+  "descripcion": "Pertenece al Sistema Nacional de Museos del Estado, está ubicado en el pueblo de Sipán, a pocos metros del sitio arqueológico de Huaca Rajada, lugar donde fueron hallados las tumbas del Señor de Sipán y otros importantes personajes de la élite mochica.\nInaugurado por el Presidente de la República el 29 de enero de 2009, desarrollando sus servicios como centro de investigación y difusión, a fin de exponer su patrimonio, promover la identidad regional y nacional y fomentar la cultura, turismo y desarrollo.\nEl modelo arquitectónico se realizó según las recomendaciones internacionales, cautelando que su presencia no altere las características y condición del monumento, implicando una estructura básica y discreta integrada al Complejo Arqueológico, sin perder de vista la necesidad de su originalidad, seguridad y espacio necesario para el despliegue de una museografía novedosa y atractiva, por ello está planificado de una sola planta tratando de plasmar en un solo volumen arquitectónico el espíritu de la antigua arquitectura mochica, presentándose como un juego de fachadas superpuestas que recuerdan las remodelaciones y superposiciones de la plataforma funeraria a fin de dar una plataforma de adobe recubierta por sucesivos muros decorativos en los dos estilos básicos mochica: relieve y pintura mural.\nCuenta con ocho ambientes y una sala de usos múltiples en los cuales se han realizado exposiciones temporales. El acceso principal al museo es un gran vano frontal enmarcados con maderas de algarrobo. Delante se encuentra una plaza hundida con un juego de volúmenes inspirados en un diseño cruciforme tomado de las túnicas del Señor de Sipán. Los relieves de la fachada llevan una decoración de peces entrelazados tomados de las vestimentas del Viejo Señor de Sipán.\nMuseográficamente el tema principal de sus exposiciones, son los hallazgos arqueológicos e información recuperada a partir del año 2007, que son bienes culturales muebles arqueológicos (cerámica, metales, restos óseos, lítico, malacológico, vegetales, etc) y bienes inmuebles (zona arqueológica) que es complemento al museo y su visita.\nEl núcleo de la museografía desarrollada es la tumba del “Sacerdote Guerrero” (Tumba 14) que ocupa el espacio central del recinto. Le antecede un tema introductorio con paneles de información básicos sobre el descubrimiento de Sipán y su impacto ante el mundo, un conjunto de siete transparencias denominadas Las culturas del antiguo Perú: Una ventana al pasado, y una pequeña sala de proyecciones para brindar un resumen visual y testimonial sobre los descubrimientos de Sipán y su importancia.\nAl ingreso del tema central por un pasadizo, se proyecta la impactante recreación del dios iguana que introducirá al visitante con efectos de imagen y sonido al mundo de los muertos. En el recinto principal se presenta a escala natural de la ceremonia del entierro del Sacerdote Guerrero, cuyos restos y ornamentos están contenidos en una urna de vidrio a desnivel, complementándose con vitrinas para otras ofrendas y ornamentas, presenta la osamenta original con algunos ornamentos, emblemas y ofrendas. Alrededor de este espacio, un conjunto de vitrinas cuidadosamente iluminadas con los principales ornamentos y emblemas que utilizó en vida este personaje para terminar con un maniquí hiperrealista que recrea todo su esplendor original.\nTambién se exhiben los objetos y restos de la tumba 15, excavada en agosto del 2009, que perteneció a un Noble Guerrero del periodo inicial Moche. Su edad es de 21 años y estaba enterrado con la cabeza al este y los pies hacia el oeste, lo cual constituye una diferencia en comparación con los clásicos entierros mochicas que están orientados hacia el norte.\nAsimismo, se muestran los objetos y osamenta de la tumba 16 descubierta en el 2010. El personaje o Señor Guerrero murió a los 40 años de edad y fue enterrado junto a dos personas: un adolescente de 16 años y una mujer. No cuenta con curaduría, solo con museólogo y arqueólogos.",
+  "particularidades": "",
+  "estado_actual": "Buen estado de conservación ya que recibe mantenimiento periódicamente por parte de la dirección del museo.",
+  "observaciones": "Entre los objetos del Señor Guerrero, destaca el pututo, confeccionado en strombus. Es posible que este personaje o Señor Guerrero, haya sido descendiente directo del Viejo Señor, pues sus orejeras son muy similares.\nDentro de las salas expositivas, se cuenta con una muestra de las ocupaciones de grupos posteriores a los mochicas como son Lambayeque y Chimú, asimismo información de las investigaciones arqueológicas realizadas en sitios de Pampa Grande y Saltur.\nSe cuenta con apoyos audiovisuales con lengua de señas peruanas y algunos rótulos en sistema braille.\nLa construcción e implementación del Museo, ha sido posible gracias al aporte fundamental del embajador de Italia en el Perú con el respaldo de los directores del Fondo Ítalo Peruano y la contrapartida de la Unidad Ejecutora Nº 111 - Naylamp. Y estuvo bajo la responsabilidad de Cáritas del Perú. Para su diseño, elaboración y ejecución del proyecto museográfico, ha contado con la intervención de la Asociación Amigos del Museo de Sipán y la Universidad de Milán (Italia), así como la colaboración del Museo Tumbas Reales de Sipán y el Proyecto Arqueológico Huaca Rajada.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Pertenece al Sistema Nacional de Museos del Estado, está ubicado en el pueblo de Sipán, a pocos metros del sitio arqueológico de Huaca Rajada, lugar donde fueron hallados las tumbas del Señor de Sipán y otros importantes personajes de la élite mochica.\nInaugurado por el Presidente de la República el 29 de enero de 2009, desarrollando sus servicios como centro de investigación y difusión, a fin de exponer su patrimonio, promover la identidad regional y nacional y fomentar la cultura, turismo y desarrollo.\nEl modelo arquitectónico se realizó según las recomendaciones internacionales, cautelando que su presencia no altere las características y condición del monumento, implicando una estructura básica y discreta integrada al Complejo Arqueológico, sin perder de vista la necesidad de su originalidad, seguridad y espacio necesario para el despliegue de una museografía novedosa y atractiva, por ello está planificado de una sola planta tratando de plasmar en un solo volumen arquitectónico el espíritu de la antigua arquitectura mochica, presentándose como un juego de fachadas superpuestas que recuerdan las remodelaciones y superposiciones de la plataforma funeraria a fin de dar una plataforma de adobe recubierta por sucesivos muros decorativos en los dos estilos básicos mochica: relieve y pintura mural.\nCuenta con ocho ambientes y una sala de usos múltiples en los cuales se han realizado exposiciones temporales. El acceso principal al museo es un gran vano frontal enmarcados con maderas de algarrobo. Delante se encuentra una plaza hundida con un juego de volúmenes inspirados en un diseño cruciforme tomado de las túnicas del Señor de Sipán. Los relieves de la fachada llevan una decoración de peces entrelazados tomados de las vestimentas del Viejo Señor de Sipán.\nMuseográficamente el tema principal de sus exposiciones, son los hallazgos arqueológicos e información recuperada a partir del año 2007, que son bienes culturales muebles arqueológicos (cerámica, metales, restos óseos, lítico, malacológico, vegetales, etc) y bienes inmuebles (zona arqueológica) que es complemento al museo y su visita.\nEl núcleo de la museografía desarrollada es la tumba del “Sacerdote Guerrero” (Tumba 14) que ocupa el espacio central del recinto. Le antecede un tema introductorio con paneles de información básicos sobre el descubrimiento de Sipán y su impacto ante el mundo, un conjunto de siete transparencias denominadas Las culturas del antiguo Perú: Una ventana al pasado, y una pequeña sala de proyecciones para brindar un resumen visual y testimonial sobre los descubrimientos de Sipán y su importancia.\nAl ingreso del tema central por un pasadizo, se proyecta la impactante recreación del dios iguana que introducirá al visitante con efectos de imagen y sonido al mundo de los muertos. En el recinto principal se presenta a escala natural de la ceremonia del entierro del Sacerdote Guerrero, cuyos restos y ornamentos están contenidos en una urna de vidrio a desnivel, complementándose con vitrinas para otras ofrendas y ornamentas, presenta la osamenta original con algunos ornamentos, emblemas y ofrendas. Alrededor de este espacio, un conjunto de vitrinas cuidadosamente iluminadas con los principales ornamentos y emblemas que utilizó en vida este personaje para terminar con un maniquí hiperrealista que recrea todo su esplendor original.\nTambién se exhiben los objetos y restos de la tumba 15, excavada en agosto del 2009, que perteneció a un Noble Guerrero del periodo inicial Moche. Su edad es de 21 años y estaba enterrado con la cabeza al este y los pies hacia el oeste, lo cual constituye una diferencia en comparación con los clásicos entierros mochicas que están orientados hacia el norte.\nAsimismo, se muestran los objetos y osamenta de la tumba 16 descubierta en el 2010. El personaje o Señor Guerrero murió a los 40 años de edad y fue enterrado junto a dos personas: un adolescente de 16 años y una mujer. No cuenta con curaduría, solo con museólogo y arqueólogos."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Buen estado de conservación ya que recibe mantenimiento periódicamente por parte de la dirección del museo."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "Entre los objetos del Señor Guerrero, destaca el pututo, confeccionado en strombus. Es posible que este personaje o Señor Guerrero, haya sido descendiente directo del Viejo Señor, pues sus orejeras son muy similares.\nDentro de las salas expositivas, se cuenta con una muestra de las ocupaciones de grupos posteriores a los mochicas como son Lambayeque y Chimú, asimismo información de las investigaciones arqueológicas realizadas en sitios de Pampa Grande y Saltur.\nSe cuenta con apoyos audiovisuales con lengua de señas peruanas y algunos rótulos en sistema braille.\nLa construcción e implementación del Museo, ha sido posible gracias al aporte fundamental del embajador de Italia en el Perú con el respaldo de los directores del Fondo Ítalo Peruano y la contrapartida de la Unidad Ejecutora Nº 111 - Naylamp. Y estuvo bajo la responsabilidad de Cáritas del Perú. Para su diseño, elaboración y ejecución del proyecto museográfico, ha contado con la intervención de la Asociación Amigos del Museo de Sipán y la Universidad de Milán (Italia), así como la colaboración del Museo Tumbas Reales de Sipán y el Proyecto Arqueológico Huaca Rajada."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n1174\nReporte del Sistema de Información - Estadística de Turismo del MINCETUR\n2023\nValidado por la Dirección de Turismo y Artesanía de la Gercetur Lambayeque\nTuristas Nacionales\n26409\nReporte del Sistema de Información - Estadística de Turismo del MINCETUR\n2023\nValidado por la Dirección de Turismo y Artesanía de la Gercetur Lambayeque."
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nLambayeque/Chiclayo/Chiclayo\n-\nLambayeque/Chiclayo/Saña\nChiclayo (Terminal Epsel) - Saltur - Museo de Sitio Huaca Rajada\nTerrestre\nBus público\nAsfaltado\n32 Km / 54 min\n2\nLambayeque/Chiclayo/Chiclayo\n-\nLambayeque/Chiclayo/Saña\nChiclayo (Terminal Epsel) - Pucalá - Museo de Sitio Huaca Rajada\nTerrestre\nBus público\nAsfaltado\n34 km. / 58 minutos.\n3\nLambayeque/Chiclayo/Patapo\n-\nLambayeque/Chiclayo/Saña\nChiclayo (Terminal Epsel) - Pátapo - Museo Huaca Rajada\nTerrestre\nBus público\nAsfaltado\n10 km. / 20 minutos\n4\nLambayeque/Chiclayo/Lagunas\n-\nLambayeque/Chiclayo/Saña\nNuevo Mocupe (parque principal) - Museo de Sitio Huaca Rajada\nTerrestre\nBus público\nAsfaltado\n28 km / 80 minutos."
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nGeneral:S/.8.00; Especial: S/.4.00; Estudiantes:S/. 3:00 Escolares:S/.1.50 (ingreso libre niños, niñas y adolescentes de 3 a 17 años solo año 2024, Ingreso libre el primer domingo de cada mes a peruan\nLibre\nPrimer domingo de cada mes, ingreso libre para los peruanos y residentes previa presentación de DNI."
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n10:00 a.m.\n-\n05:00 p.m.\nLunes a domingo, incluido feriados."
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nCompras de artesanía/souvenir\nEn la parte externa del museo.\nOtros\nToma de fotografías y filmaciones\nCon equipos no profesionales y para fines personales\nOtros\nActividades Culturales\nExposición del rostro del Sr. de Sipán\nCultura y Folclore\nDegustación y preparación de platos, productos o bebidas típicas\nLos primeros domingos de cada mes, actividades realizadas por el MUA\nCultura y Folclore\nApreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)\nLos primeros domingos de cada mes, actividades realizadas en el MUA"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nAlimentación\nRestaurantes\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nVenta de artesanía\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nEspañol. S/. 20.00 por grupos de 15 personas\nInstalaciones Públicas\nServicios Públicos\nEstacionamiento de vehículos\n--\nInstalaciones Públicas\nServicios Públicos\nSeñales turísticas de orientación\n--\nInstalaciones Públicas\nServicios Públicos\nSeñales turísticas de interpretación\n--\nInstalaciones Públicas\nServicios Públicos\nOtros (especificar)\nServicios higiénicos."
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\n3 y 4 **** Ciudad de Chiclayo.\nAlimentación\nRestaurantes\nCiudad de Chiclayo.\nAlimentación\nKioskos de comida y bebidas\nCiudad de Chiclayo.\nAlimentación\nCafeterías\nCiudad de Chiclayo.\nOtros Servicios Turísticos\nVenta de artesanía\nComplejo Artesanal de Huaca Rajada\nServicios Públicos\nPuesto de auxilio rápido\nCiudad de Chiclayo.\nAlojamiento\nHostales (especificar categorías)\n3*** Ciudad de Chiclayo.\nOtros Servicios Turísticos\nAgencia de Viajes\nCentro Poblado Huaca Rajada y Ciudad de Chiclayo.\nServicios Públicos\nSeñales turísticas de orientación\nCiudad de Chiclayo.\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\nCiudad de Chiclayo.\nServicios Públicos\nOficina de Información turística\nCiudad de Chiclayo."
+    },
+    {
+      "titulo": "Servicios Complementarios dentro del recurso",
+      "contenido": "Servicio Complementario\nObservación\nSeguridad / POLTUR / Comisaría\n--\nServicio de estacionamiento\n--"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Chiclayo.\nBancos\nCiudad de Chiclayo.\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Chiclayo.\nCentro de salud - tópico\nCiudad de Chiclayo\nSeguridad / POLTUR / Comisaría\nCiudad de Chiclayo.\nCajero automático\nCiudad de Chiclayo.\nServicio de correos\nCiudad de Chiclayo.\nServicio de estacionamiento\nCiudad de Chiclayo.\nServicios de taxis\nCiudad de Chiclayo.\nVenta de materiales para fotografías\nCiudad de Chiclayo.\nLibrerías\nCiudad de Chiclayo.\nBodegas o minimarkets\nCiudad de Chiclayo."
+    },
+    {
+      "titulo": "Condiciones de Accesibilidad al Visitante",
+      "contenido": "Visitante\nInstalación\nActividades y/o programas\nEquipamiento\nObservación\nPersonas con discapacidad física\nRampas\n--\nSilla de ruedas.\n--\nPersonas con discapacidad sensorial\nPaneles en braille, implementación visual de señas peruanas.\nTaller de enseñanza de lengua de señas peruanas.\n--\nEl taller de enseñanza de lenguas de señas, fue gratuito dictado por voluntarios culturales del Museo de Sitio Huaca Rajada.\nAdulto mayor\nRampas en instalaciones del museo\n--\nSilla de ruedas.\n--"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nLuz (Suministro Eléctrico)\n--\nSeñalización turística\n--\nAgua potable\n--\nSistemas de tratamiento alternativo de residuos (Biodigestor, pozo séptico, otros)\nSe cuenta con pozo."
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCentro Poblado Huaca Rajada\nAlcantarillado sanitario\nCentro Poblado Huaca Rajada\nDesagüe\nCentro Poblado Huaca Rajada\nLuz (Suministro Eléctrico)\nCentro Poblado Huaca Rajada\nTeléfono\nCentro Poblado Huaca Rajada"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nMinisterio de Cultura\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n18654\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nMinisterio de Cultura - Unidad Ejecutora 005 Naylamp - Lambayeque\nTiempo de administración\n15 años, desde 2009"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nGERENCIA REGIONAL DE COMERCIO EXTERIOR Y TURISMO - LAMBAYEQUE\nNombre (Persona(s) responsable(s) del inventario turístico):\nLic. Magali Exebio Cabrera\nCargo:\nTécnico en Turismo\nCorreo:\nmagaliexebioc@gmail.com\nTeléfono:\n947672674\nFuentes Bibliográfica:\n- Alva Alva, Walter (2004). Sipán. Descubrimientos e Investigaciones.\n- Chero Zurita, Luis Enrique (2015). Nuevos Aporte en la Investigación Arqueológica de Sipán. Primera Edición\n- Guía de Museos del Perú, Ministerio de Cultura, Segunda edición (2012)\n- Sipán Descubrimiento e Investigación, Walter Alva / Guía del Parque Arqueológico de Sipán y Huaca Rajada.\n- Sipán, 25 años del descubrimiento y 10 años del Museo Tumbas Reales de Sipán. Edición extraordinaria. Diciembre 2012, Universidad Alas Peruanas.\nHTTP://MUSEOS.CULTURA.PE/MUSEOS/MUSEO-DE-SITIO-HUACA-RAJADA-SIPANHTTP://RUTAMOCHE.NET/CHICLAYO-MUSEO-DE-SITIO-DE-SIPAN.HTML\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\nEn el año 2023, acciones de prevención ante fenómeno del Niño.\nFecha:\n26/08/2024 19:02:24"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -6.799603115430434,
+    "longitud": -79.60146856278448
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-6.799603115430434,-79.60146856278448"
+}

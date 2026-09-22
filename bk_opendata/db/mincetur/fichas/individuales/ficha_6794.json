@@ -1,0 +1,254 @@
+{
+  "cod_ficha": 6794,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=6794",
+  "nombre": "Aguas Medicinales De Wispan",
+  "departamento": "Cusco",
+  "provincia": "Acomayo",
+  "distrito": "ACOS",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "k. Agua termo-mineral",
+  "subtipo": "Otros",
+  "jerarquia": "1",
+  "altitud": "2,943.9 msnm",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=509176",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=509176",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=509177",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=509178",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=509179",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=509181",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=509220"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Estudios e Investigación",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de paisaje",
+    "Naturaleza - Observación de aves",
+    "Deportes / Aventura - Caminata/Trekking"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "Molle, tuna, capulí, roque, lambran, maguey, tara y pisonay.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de aves",
+      "observacion": "loros, gorriones, palomas y colibríes",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/aves02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Cusco/Cusco/Cusco - Cusco/Acomayo/Acos",
+      "detalle": "Desde la Ciudad de Cusco hasta la plaza principal de Acos",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus turístico",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "132 Km / 3.30 Hrs."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Cusco/Acomayo/Acos - Cusco/Acomayo/Acos",
+      "detalle": "Desde la plaza principal de Acos hasta los Baños Medicinales de Wispan",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Camino de Herradura",
+      "distancia_tiempo": "1 Km/ 20 min."
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "7",
+      "horario": "Declaración del Reporte de Visitantes – Municipalidad Distrital de Acos",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "58",
+      "horario": "Declaración del Reporte de Visitantes – Municipalidad Distrital de Acos",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "152",
+      "horario": "Declaración del Reporte de Visitantes – Municipalidad Distrital de Acos",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "08:00 a.m. - 03:00 p.m. --",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "El boleto de ingreso es de S/.1.00 nuevo sol, entrada general."
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Servicios Higiénicos (SS. HH ) y vestidores"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Distrito de Acos"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Distrito de Acos"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Distrito de Acos"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de Caballos",
+      "observacion": "Distrito de Acos"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Puesto de auxilio rápido",
+      "observacion": "Distrito de Acos"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "Distrito de Acos"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos de herradura (caballo)",
+      "observacion": "Distrito de Acos"
+    }
+  ],
+  "descripcion": "El Agua Medicinal de Wispan se ubica en la quebrada de Mayu Huillca, a orillas del riachuelo wispan, a una altitud de 2,947.9 m.s.n.m., ubicado en el piso ecológico quechua, con un clima templado y generalmente soleado, para poder acceder al Agua Medicinal se va por un camino de herradura, rodeado de cultivos de chacras de maíz, en el trayecto se observa variedad de flora y fauna, como pata quisca, molle, tuna, capulí, palta, roque, lambran, maguey, tara y pisonay, entre las aves loros, gorriones, palomas y colibríes. Su infraestructura está compuesta de una poza circular de cemento enchapado en mayólica, de 6 metros de diámetro con una profundidad de 1.80 metros, tiene vestidores diferenciados con servicios higiénicos, cuentan con dos duchas, seis vestidores y con un salón de recepción. Para la protección de las aguas minerales presenta un enmallado que contornea la infraestructura, para evitar el ingreso de animales\nAsí mismo, el ojo del manante se localiza al pie de un árbol de pisonay a una distancia de 11m de la poza de aguas minerales, la calidad del agua mineral no gasificada es limpia y transparente la misma que no contiene carbono, proveniente de un manante de un volumen regular y constante, su caudal es de 3 litros por segundo, estas aguas tienen la propiedad de curar el mal de nervios por ser muy frías.\nLos lugareños de Acos, mencionan que estas aguas son más calientes entre las 03:00 y 06:00 a.m. por lo que acostumbran ir a bañarse a esa hora y durante el día, las aguas son frías con 7ºC de temperatura.\nSegún cuenta el estudioso Policarpo Caballero Farfán, que dicho baño fue de propiedad de la familia Tito Condemayta, es aquí y en el río Apurímac practico la natación la heroína Tomasa Títo Condeymayta y hoy con una serie de modificaciones, estos baños siguen funcionando beneficiando a los estudiantes, la población y los visitantes. A 300 m hacia el sur de estas aguas termales se halla los restos de la construcción de la casa de Tomasa Títo Condemayta, está situada en el lugar denominado Uchura, hoy llamado Mayohuillca en la ribera del río Apurimac.",
+  "particularidades": "",
+  "estado_actual": "Se encuentra en Bueno estado, porque la Municipalidad Distrital de Acos se encarga de la administración, limpieza y cuidado del recurso.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "El Agua Medicinal de Wispan se ubica en la quebrada de Mayu Huillca, a orillas del riachuelo wispan, a una altitud de 2,947.9 m.s.n.m., ubicado en el piso ecológico quechua, con un clima templado y generalmente soleado, para poder acceder al Agua Medicinal se va por un camino de herradura, rodeado de cultivos de chacras de maíz, en el trayecto se observa variedad de flora y fauna, como pata quisca, molle, tuna, capulí, palta, roque, lambran, maguey, tara y pisonay, entre las aves loros, gorriones, palomas y colibríes. Su infraestructura está compuesta de una poza circular de cemento enchapado en mayólica, de 6 metros de diámetro con una profundidad de 1.80 metros, tiene vestidores diferenciados con servicios higiénicos, cuentan con dos duchas, seis vestidores y con un salón de recepción. Para la protección de las aguas minerales presenta un enmallado que contornea la infraestructura, para evitar el ingreso de animales\nAsí mismo, el ojo del manante se localiza al pie de un árbol de pisonay a una distancia de 11m de la poza de aguas minerales, la calidad del agua mineral no gasificada es limpia y transparente la misma que no contiene carbono, proveniente de un manante de un volumen regular y constante, su caudal es de 3 litros por segundo, estas aguas tienen la propiedad de curar el mal de nervios por ser muy frías.\nLos lugareños de Acos, mencionan que estas aguas son más calientes entre las 03:00 y 06:00 a.m. por lo que acostumbran ir a bañarse a esa hora y durante el día, las aguas son frías con 7ºC de temperatura.\nSegún cuenta el estudioso Policarpo Caballero Farfán, que dicho baño fue de propiedad de la familia Tito Condemayta, es aquí y en el río Apurímac practico la natación la heroína Tomasa Títo Condeymayta y hoy con una serie de modificaciones, estos baños siguen funcionando beneficiando a los estudiantes, la población y los visitantes. A 300 m hacia el sur de estas aguas termales se halla los restos de la construcción de la casa de Tomasa Títo Condemayta, está situada en el lugar denominado Uchura, hoy llamado Mayohuillca en la ribera del río Apurimac."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Se encuentra en Bueno estado, porque la Municipalidad Distrital de Acos se encarga de la administración, limpieza y cuidado del recurso."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": ""
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n7\nDeclaración del Reporte de Visitantes – Municipalidad Distrital de Acos\n2023\nTuristas Nacionales\n58\nDeclaración del Reporte de Visitantes – Municipalidad Distrital de Acos\n2023\nVisitantes Locales(Excursionistas)\n152\nDeclaración del Reporte de Visitantes – Municipalidad Distrital de Acos\n2023"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nCusco/Cusco/Cusco\n-\nCusco/Acomayo/Acos\nDesde la Ciudad de Cusco hasta la plaza principal de Acos\nTerrestre\nBus turístico\nAsfaltado\n132 Km / 3.30 Hrs.\n1\nCusco/Acomayo/Acos\n-\nCusco/Acomayo/Acos\nDesde la plaza principal de Acos hasta los Baños Medicinales de Wispan\nTerrestre\nA pie\nCamino de Herradura\n1 Km/ 20 min."
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nEl boleto de ingreso es de S/.1.00 nuevo sol, entrada general."
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n08:00 a.m.\n-\n03:00 p.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nEstudios e Investigación\n--\nNaturaleza\nObservación de flora\nMolle, tuna, capulí, roque, lambran, maguey, tara y pisonay.\nNaturaleza\nObservación de paisaje\n--\nNaturaleza\nObservación de aves\nloros, gorriones, palomas y colibríes\nDeportes / Aventura\nCaminata/Trekking\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nOtros Servicios Turísticos\nOtros (Especificar)\nServicios Higiénicos (SS. HH ) y vestidores"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nDistrito de Acos\nAlimentación\nRestaurantes\nDistrito de Acos\nAlimentación\nKioskos de comida y bebidas\nDistrito de Acos\nOtros Servicios Turísticos\nAlquiler de Caballos\nDistrito de Acos\nServicios Públicos\nPuesto de auxilio rápido\nDistrito de Acos\nServicios Públicos\nCaminos peatonales\nDistrito de Acos\nServicios Públicos\nCaminos de herradura (caballo)\nDistrito de Acos"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nDistrito de Acos\nBodegas o minimarkets\nDistrito de Acos\nCentro de salud - tópico\nDistrito de Acos"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nLuz (Suministro Eléctrico)\n--\nAgua potable\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nDistrito de Acos\nLuz (Suministro Eléctrico)\nDistrito de Acos\nAlcantarillado sanitario\nDistrito de Acos"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nMunicipalidad Distrital de Acos\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nMunicipalidad Distrital de Acos\nTiempo de administración\ndesde el año 2005"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nGERCETUR - CUSCO\nNombre (Persona(s) responsable(s) del inventario turístico):\nLIC. ELIANA MIRANDA CABRERA\nCargo:\nResponsable del Inventario de Recursos Turísticos\nCorreo:\nsgdp.gercetur@gmail.com\nTeléfono:\n940699531\nFuentes Bibliográfica:\n• Inventario de recursos turísticos, Municipalidad distrital de Acos- 2021\n• Tomasa Tito-Kuntimayta Hurtado de Mendoza en la Revolución de Tupaq Amaru por el Lic. Alipio Ttito Silva – Municipalidad Distrital de Acos . Segunda Edición 2008.\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n14/11/2023 09:37:40"
+    }
+  ],
+  "coordenadas": {
+    "latitud": null,
+    "longitud": null
+  },
+  "google_maps_url": null
+}

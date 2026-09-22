@@ -1,0 +1,442 @@
+{
+  "cod_ficha": 1441,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=1441",
+  "nombre": "Quebrada Llaca",
+  "departamento": "Áncash",
+  "provincia": "Huaraz",
+  "distrito": "INDEPENDENCIA",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "d. Quebradas",
+  "subtipo": "Quebradas",
+  "jerarquia": "POR JERARQUIZAR",
+  "altitud": "4474",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=295572",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=295572",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=295573",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=444056",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=444012",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=444013",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=677550",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=677551",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=678554"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Naturaleza - Observación de fauna",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de aves",
+    "Deportes / Aventura - Caminata/Trekking",
+    "Deportes / Aventura - Ciclismo",
+    "Deportes / Aventura - Camping",
+    "Deportes / Aventura - Escalada en roca"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de fauna",
+      "observacion": "Vizcacha, venado, zorro andino",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fauna02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "Ichu, bosques de quenuales, collo, quishuar, tayash, ancosh",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de aves",
+      "observacion": "Gorrión, cernícalo, carpintero andino",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/aves02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "Quebrada Llaca",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Ciclismo",
+      "observacion": "En la carretera de acceso vehicular",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/ciclismo02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Camping",
+      "observacion": "En el refujio",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/camping02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Escalada en roca",
+      "observacion": "En las paredes de roca tanto en el lado norte y sur de la laguna Llaca.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/escalada_roca02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Áncash/Huaraz/Huaraz - Áncash/Huaraz/Independencia",
+      "detalle": "Plaza civica de Independencia (Parque los leones) - Desvio Quebrada Llaca",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "12.5 km/35 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Áncash/Huaraz/Independencia - Áncash/Huaraz/Independencia",
+      "detalle": "Desvío Quebrada Llaca - Quebrada Llaca",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "4.7 km/20 min"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Áncash/Huaraz/Independencia - Áncash/Huaraz/Independencia",
+      "detalle": "Boulevard Pastorita Huaracina - Cruce Willkawain",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "2.1 km/7 min"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Áncash/Huaraz/Independencia - Áncash/Huaraz/Independencia",
+      "detalle": "Cruce Willkawain – Quebrada Llaca",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "6.5 km/46 min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "1327",
+      "horario": "Parque Nacional Huascaran",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "975",
+      "horario": "Parque Nacional Huascaran",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "1416",
+      "horario": "Parque Nacional Huascaran",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "08:00 a.m. - 03:00 p.m. Es recomendable visitar en los meses de mayo a septiembre",
+      "observaciones": "Es recomendable visitar en los meses de mayo a septiembre"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "Las tarifas al PNH, según el tiempo de permanencia: para 2 a 3 días, S/ 60.00 (extranjeros) y S/ 30.00 (nacionales); y ingreso diario cuesta S/ 30. (extranjeros), S/15. (nacionales) y S/5.00 (locales)"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Refugio de la Asociación de Guías de Montaña del Perú"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Refugio de la Asociación de Guías de Montaña del Perú"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "1 a 3 estrellas en la Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "1 a 3 estrellas en la Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de bicicleta",
+      "observacion": "Ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de camionetas 4 x 4",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Lugares de picnic",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "Ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Paradores turísticos",
+      "observacion": "Ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de Campamento(camping)",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Puesto de auxilio rápido",
+      "observacion": "Ciudad de Independencia"
+    }
+  ],
+  "descripcion": "La Quebrada Llaca es un valle de origen glaciar emplazado en la vertiente occidental de la Cordillera Blanca, dentro de la jurisdicción del Parque Nacional Huascarán. Se sitúa en el distrito de Independencia, provincia de Huaraz, abarcando un rango altitudinal entre los 3,850 y 4,470 m s.n.m., lo que la sitúa dentro de la región natural Puna. El recurso presenta una extensión de 7 km aproximadamente y una fisiografía típica en forma de \"U\", producto de la erosión glaciar del periodo cuaternario, caracterizada por un fondo de valle estrecho rodeado por imponentes paredes de roca granodiorítica y depósitos morrénicos. En su cabecera se ubica la Laguna Llaca, un cuerpo de agua de color turquesa alimentado por el retroceso glaciar de los nevados Ocshapalca (5,888 m) y Ranrapalca (6,162 m), que configuran un escenario paisajístico de alta montaña de gran valor visual.\nEl clima de la zona es frío y seco, propio de la región, con una marcada amplitud térmica donde las temperaturas descienden bajo los 0°C durante las noches de la temporada de estiaje. La cobertura vegetal está compuesta principalmente por rodales dispersos de Queñual y ejemplares de Quisuar, que conviven con extensos pajonales de Ichu y vegetación de bofedal en las zonas de mayor humedad. En cuanto a la fauna silvestre, el ecosistema alberga especies adaptadas como la Vizcacha, Taruga, el gato andino y diversas aves altoandinas, incluyendo el paso ocasional del Cóndor Andino.\nEl acceso al recurso se realiza desde la ciudad de Huaraz mediante una vía terrestre afirmada de aproximadamente 17 kilómetros, que conduce hasta las proximidades de un refugio de montaña y un puesto de control del SERNANP. Debido a sus particulares formaciones geológicas, la quebrada es reconocida como una de las principales \"escuelas de escalada\" en roca del país, ofreciendo rutas de diversa dificultad. Además de la escalada deportiva y clásica, el área presenta condiciones óptimas para el desarrollo de actividades de turismo de aventura, tales como el trekking, el montañismo, la observación de biodiversidad y la fotografía de paisaje, consolidándose como un destino estratégico para el turismo especializado en la región Áncash.",
+  "particularidades": "",
+  "estado_actual": "Bueno, porque la Municipalidad Distrital de Independencia conjuntamente con el Parque Nacional Huascarán realizan la conversación del recurso turístico.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "La Quebrada Llaca es un valle de origen glaciar emplazado en la vertiente occidental de la Cordillera Blanca, dentro de la jurisdicción del Parque Nacional Huascarán. Se sitúa en el distrito de Independencia, provincia de Huaraz, abarcando un rango altitudinal entre los 3,850 y 4,470 m s.n.m., lo que la sitúa dentro de la región natural Puna. El recurso presenta una extensión de 7 km aproximadamente y una fisiografía típica en forma de \"U\", producto de la erosión glaciar del periodo cuaternario, caracterizada por un fondo de valle estrecho rodeado por imponentes paredes de roca granodiorítica y depósitos morrénicos. En su cabecera se ubica la Laguna Llaca, un cuerpo de agua de color turquesa alimentado por el retroceso glaciar de los nevados Ocshapalca (5,888 m) y Ranrapalca (6,162 m), que configuran un escenario paisajístico de alta montaña de gran valor visual.\nEl clima de la zona es frío y seco, propio de la región, con una marcada amplitud térmica donde las temperaturas descienden bajo los 0°C durante las noches de la temporada de estiaje. La cobertura vegetal está compuesta principalmente por rodales dispersos de Queñual y ejemplares de Quisuar, que conviven con extensos pajonales de Ichu y vegetación de bofedal en las zonas de mayor humedad. En cuanto a la fauna silvestre, el ecosistema alberga especies adaptadas como la Vizcacha, Taruga, el gato andino y diversas aves altoandinas, incluyendo el paso ocasional del Cóndor Andino.\nEl acceso al recurso se realiza desde la ciudad de Huaraz mediante una vía terrestre afirmada de aproximadamente 17 kilómetros, que conduce hasta las proximidades de un refugio de montaña y un puesto de control del SERNANP. Debido a sus particulares formaciones geológicas, la quebrada es reconocida como una de las principales \"escuelas de escalada\" en roca del país, ofreciendo rutas de diversa dificultad. Además de la escalada deportiva y clásica, el área presenta condiciones óptimas para el desarrollo de actividades de turismo de aventura, tales como el trekking, el montañismo, la observación de biodiversidad y la fotografía de paisaje, consolidándose como un destino estratégico para el turismo especializado en la región Áncash."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, porque la Municipalidad Distrital de Independencia conjuntamente con el Parque Nacional Huascarán realizan la conversación del recurso turístico."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n1327\nParque Nacional Huascaran\n2025\nundefined\nTuristas Nacionales\n975\nParque Nacional Huascaran\n2025\nundefined\nVisitantes Locales(Excursionistas)\n1416\nParque Nacional Huascaran\n2025\nundefined"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nÁncash/Huaraz/Huaraz\n-\nÁncash/Huaraz/Independencia\nPlaza civica de Independencia (Parque los leones) - Desvio Quebrada Llaca\nTerrestre\nAutomóvil particular\nAsfaltado\n12.5 km/35 min\n1\nÁncash/Huaraz/Independencia\n-\nÁncash/Huaraz/Independencia\nDesvío Quebrada Llaca - Quebrada Llaca\nTerrestre\nAutomóvil particular\nTrocha carrozable\n4.7 km/20 min\n2\nÁncash/Huaraz/Independencia\n-\nÁncash/Huaraz/Independencia\nBoulevard Pastorita Huaracina - Cruce Willkawain\nTerrestre\nAutomóvil particular\nAsfaltado\n2.1 km/7 min\n2\nÁncash/Huaraz/Independencia\n-\nÁncash/Huaraz/Independencia\nCruce Willkawain – Quebrada Llaca\nTerrestre\nAutomóvil particular\nAfirmado\n6.5 km/46 min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nLas tarifas al PNH, según el tiempo de permanencia: para 2 a 3 días, S/ 60.00 (extranjeros) y S/ 30.00 (nacionales); y ingreso diario cuesta S/ 30. (extranjeros), S/15. (nacionales) y S/5.00 (locales)"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n08:00 a.m.\n-\n03:00 p.m.\nEs recomendable visitar en los meses de mayo a septiembre"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nNaturaleza\nObservación de fauna\nVizcacha, venado, zorro andino\nNaturaleza\nObservación de flora\nIchu, bosques de quenuales, collo, quishuar, tayash, ancosh\nNaturaleza\nObservación de aves\nGorrión, cernícalo, carpintero andino\nDeportes / Aventura\nCaminata/Trekking\nQuebrada Llaca\nDeportes / Aventura\nCiclismo\nEn la carretera de acceso vehicular\nDeportes / Aventura\nCamping\nEn el refujio\nDeportes / Aventura\nEscalada en roca\nEn las paredes de roca tanto en el lado norte y sur de la laguna Llaca."
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nAlojamiento\nOtros (Especificar)\nRefugio de la Asociación de Guías de Montaña del Perú\nInstalaciones Privadas\nAlimentación\nRestaurantes\nRefugio de la Asociación de Guías de Montaña del Perú"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\n1 a 3 estrellas en la Ciudad de Independencia\nAlojamiento\nHostales (especificar categorías)\n1 a 3 estrellas en la Ciudad de Independencia\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Independencia\nAlimentación\nRestaurantes\nCiudad de Independencia\nAlimentación\nBares\nCiudad de Independencia\nAlimentación\nCafeterías\nCiudad de Independencia\nAlimentación\nFuentes de soda\nCiudad de Independencia\nAlimentación\nKioskos de comida y bebidas\nCiudad de Independencia\nAlimentación\nVenta de comida Rápida\nCiudad de Independencia\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Independencia\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de Independencia\nOtros Servicios Turísticos\nAlquiler de bicicleta\nCiudad de Huaraz\nOtros Servicios Turísticos\nAlquiler de camionetas 4 x 4\nCiudad de Independencia\nLugares de Recreación\nDiscotecas\nCiudad de Independencia\nLugares de Recreación\nJuegos Infantiles\nCiudad de Huaraz\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nCiudad de Huaraz\nLugares de Recreación\nCentros Deportivos\nCiudad de Independencia\nLugares de Recreación\nLugares de picnic\nCiudad de Independencia\nLugares de Recreación\nKaraoke\nCiudad de Independencia\nLugares de Recreación\nBares\nCiudad de Independencia\nServicios Públicos\nMiradores turísticos\nCiudad de Independencia\nServicios Públicos\nEstacionamiento de vehículos\nCiudad de Independencia\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\nCiudad de Huaraz\nServicios Públicos\nParadores turísticos\nCiudad de Huaraz\nServicios Públicos\nOficina de Información turística\nCiudad de Independencia\nServicios Públicos\nZonas de Campamento(camping)\nCiudad de Independencia\nServicios Públicos\nCaminos peatonales\nCiudad de Independencia\nServicios Públicos\nPuesto de auxilio rápido\nCiudad de Independencia"
+    },
+    {
+      "titulo": "Servicios Complementarios dentro del recurso",
+      "contenido": "Servicio Complementario\nObservación\nServicios de internet\nRefugio de la Asociación de Guías de Montaña del Perú"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Independencia\nBancos\nCiudad de Independencia\nCajero automático\nCiudad de Independencia\nCasa de cambio\nCiudad de Independencia\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Independencia\nServicio de correos\nCiudad de Independencia\nServicio de estacionamiento\nCiudad de Independencia\nServicios de taxis\nCiudad de Independencia\nCentro de salud - tópico\nCiudad de Independencia\nVenta de materiales para fotografías\nCiudad de Independencia\nSeguridad / POLTUR / Comisaría\nCiudad de Independencia\nAlquiler y compra de equipos deportivos\nCiudad de Independencia\nLibrerías\nCiudad de Independencia\nBodegas o minimarkets\nCiudad de Independencia"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nSeñalización turística\nSenderos señalizados\nSistemas de tratamiento alternativo de residuos (Biodigestor, pozo séptico, otros)\nEn el refugio de la Asociación de Guías de Montaña del Perú"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Independencia\nAlcantarillado sanitario\nCiudad de Independencia\nDesagüe\nCiudad de Independencia\nLuz (Suministro Eléctrico)\nCiudad de Independencia\nTeléfono\nCiudad de Independencia\nSeñalización turística\nCiudad de Independencia"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nPARQUE NACIONAL HUASCARAN - SERNANP\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nRegistrado con\nNúmero de Partida:\n11300446\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nPARQUE NACIONAL HUASCARAN - SERNANP\nTiempo de administración\nDesde el año 1975"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDireccion Regional de Comercio Exterior y Turismo de Àncash / Municipalidad Distrital de Independencia\nNombre (Persona(s) responsable(s) del inventario turístico):\nFrank Cristian Olivera Blas/ Pedro Luyo Sanchez\nCargo:\nEspecialista en turismo/ Coordinador de la Unidad de Turismo\nCorreo:\ndirceturancashdt2@gmail.com/ Pedroluisls2023@gmail.com\nTeléfono:\n974771911/ 997008614\nFuentes Bibliográfica:\nINAIGEM (Instituto Nacional de Investigación en Glaciares y Ecosistemas de Montaña). Revistas de Investigación y Reportes Técnicos sobre Biorremediación y Glaciología.\nAutoridad Nacional del Agua - ANA (2018). Inventario Nacional de Glaciares y Lagunas. Lima: Unidad de Glaciares y Recursos Hídricos (UGRH) - Huaraz.\nBodenlos, A. J., & Straczek, J. A. (1957). Base-metal deposits of the Cordillera Blanca, Peru. US Geological Survey Bulletin, 1040.\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n16/06/2026 08:17:46"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -9.441392381088711,
+    "longitud": -77.45150655403137
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-9.441392381088711,-77.45150655403137"
+}

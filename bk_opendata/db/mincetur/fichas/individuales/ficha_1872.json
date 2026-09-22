@@ -1,0 +1,423 @@
+{
+  "cod_ficha": 1872,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=1872",
+  "nombre": "Monumento Arqueológico Prehispánico Yarushpampa",
+  "departamento": "Pasco",
+  "provincia": "Daniel Alcides Carrion",
+  "distrito": "YANAHUANCA",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Sitios Arqueológicos",
+  "subtipo": "Zonas arqueológicas",
+  "jerarquia": "1",
+  "altitud": "3188",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=500481",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=500481",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=500482",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=500483",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=500484",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=500485",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=500434",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=500435"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Estudios e Investigación",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de paisaje",
+    "Cultura y Folclore - Visita y participación en actividades de vida cotidiana de la comunidad"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "Ichu, quinual.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Visita y participación en actividades de vida cotidiana de la comunidad",
+      "observacion": "--",
+      "icono_url": null
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Pasco/Pasco/Chaupimarca - Pasco/Daniel Alcides Carrión/Yanahuanca",
+      "detalle": "Terminal Terrestre de Pasco-Plaza de Armas de Yanahuanca",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Taxi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "63.4km/ 1 hora"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Pasco/Daniel Alcides Carrión/Yanahuanca - Pasco/Daniel Alcides Carrión/Yanahuanca",
+      "detalle": "Plaza de Armas Yanahuanca-Desvío ( grifo) para ingreso al C.P de Huarautambo y caserío de Astobamba",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Taxi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "2km/6 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Pasco/Daniel Alcides Carrión/Yanahuanca - Pasco/Daniel Alcides Carrión/Yanahuanca",
+      "detalle": "Desvío ( grifo) para ingreso al C.P de Huarautambo y caserío de Astobamba -Puente Inca",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Taxi",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "7km/30 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Pasco/Daniel Alcides Carrión/Yanahuanca - Pasco/Daniel Alcides Carrión/Yanahuanca",
+      "detalle": "Puente Inca-Sitio Arqueológica Prehispánico Yarushpampa",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Sendero",
+      "distancia_tiempo": "150 metros/4 minutos"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Lima/Lima/Independencia - Pasco/Pasco/Chaupimarca",
+      "detalle": "Plaza Norte-Terminal Terrestre de Pasco",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "246 km/8horas"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Pasco/Pasco/Chaupimarca - Pasco/Daniel Alcides Carrión/Yanahuanca",
+      "detalle": "Terminal Terrestre de Pasco-Plaza de Armas de Yanahuanca",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Taxi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "63.4km/ 1 hora"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Pasco/Daniel Alcides Carrión/Yanahuanca - Pasco/Daniel Alcides Carrión/Yanahuanca",
+      "detalle": "Plaza de Armas de Yanahuanca-Desvío ( grifo) para ingreso al C.P de Huarautambo y caserío de Astobamba",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Taxi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "2km/6 minutos"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Pasco/Daniel Alcides Carrión/Yanahuanca - Pasco/Daniel Alcides Carrión/Yanahuanca",
+      "detalle": "Desvío ( grifo) para ingreso al C.P de Huarautambo y caserío de Astobamba -Puente Inca",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Taxi",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "7km/30 minutos"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Pasco/Daniel Alcides Carrión/Yanahuanca - Pasco/Daniel Alcides Carrión/Yanahuanca",
+      "detalle": "Puente Inca-Sitio Arqueológica Prehispánico Yarushpampa",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Sendero",
+      "distancia_tiempo": "150 metros/4 minutos"
+    },
+    {
+      "recorrido": "3",
+      "tramo": "Huánuco/Huánuco/Pillco Marca - Pasco/Daniel Alcides Carrión/Yanahuanca",
+      "detalle": "Ovalo Cayhuayna-Terminal Yanahuanca",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Combi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "93.2 km/2 horas 57 minutos."
+    },
+    {
+      "recorrido": "3",
+      "tramo": "Pasco/Daniel Alcides Carrión/Yanahuanca - Pasco/Daniel Alcides Carrión/Yanahuanca",
+      "detalle": "Terminal de Yanahuanca-Desvío ( grifo) para ingreso al C.P de Huarautambo y caserío de Astobamba",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Taxi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "2km/6 minutos"
+    },
+    {
+      "recorrido": "3",
+      "tramo": "Pasco/Daniel Alcides Carrión/Yanahuanca - Pasco/Daniel Alcides Carrión/Yanahuanca",
+      "detalle": "Desvío ( grifo) para ingreso al C.P de Huarautambo y caserío de Astobamba -Puente Inca",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Taxi",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "7km/30 minutos"
+    },
+    {
+      "recorrido": "3",
+      "tramo": "Pasco/Daniel Alcides Carrión/Yanahuanca - Pasco/Daniel Alcides Carrión/Yanahuanca",
+      "detalle": "Puente Inca-Sitio Arqueológica Huarautambo",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Sendero",
+      "distancia_tiempo": "50 metros/1 minuto"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "6",
+      "horario": "Registro de visitantes del Caserío de Astobamba",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "967",
+      "horario": "Registro de visitantes del Caserío de Astobamba",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "1233",
+      "horario": "Registro de visitantes del Caserío de Astobamba",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "08:00 a.m. - 05:00 p.m. --",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "Tarifa general: S/ 1.00"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "2 estrellas - Ciudad de Yanahuanca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "1 y 2 estrellas en la ciudad de Yanahuanca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Casa Hospedaje. Ciudad de Yanahuanca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Caserío de Astobamba y ciudad de Yanahunaca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Caserío de Astobamba y Ciudad de Yanahuanca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Yanahuanca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Yanahuanca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Ciudad de Yanahuanca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de Yanahuanca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Yanahuanca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de Caballos",
+      "observacion": "Caserío de Astobamba. 5 soles por persona"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Yanahuanca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Yanahuanca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "Ciudad de Yanahuanca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Ciudad de Yanahuanca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Caserío de Astobamba y ciudad de Yanahunaca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "Caserío de Astobamba y ciudad de Yanahunaca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "Caserío de Astobamba y ciudad de Yanahunaca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "Caserío de Astobamba y ciudad de Yanahunaca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos de herradura (caballo)",
+      "observacion": "Caserío de Astobamba."
+    }
+  ],
+  "descripcion": "Tiene una antigüedad de 800 -1400 dc, en un área de 21212.92 m2. El sitio presenta arquitectura arqueológica en buen estado de conservación; las edificaciones presentan plantas rectangulares, cuadrangulares y mixtilíneas, secciones de sus muros conformados por piedras de medianas naturales rodeadas por piedrecillas pequeñas, constituyen un especial paramento tipo mosaico andino. Se trata de palacios asociados a patios abiertos; estos edificios arqueológicos tuvieron vano rectilineal único asociado al patio cielo abierto, el cual podía coincidir dos a tres vanos de otros palacios relacionados a un espacio que los agrupaba.\nLos pisos inferiores son planos y algunos de ellos separados por un pequeño escalón demarcante de una parte de piso empedrado con lajas.\nSe observan cuatro muros conservados donde se calcula que tuvieron una altura de 4 a 5 metros en promedio.\nEntre los años 2006 y 2008 se realizó una investigación liderada por el Dr. Alberto Bueno Mendoza quien realizo las excavaciones arqueológicas denominándolo Cultura Yarush perteneciente al horizonte medio. El lugar se encuentra en buen estado, ideal para observación del paisaje natural y cultural, tomas fotográficas. Asimismo, se encuentra en proceso de la declaratoria como patrimonio cultural de la nación.",
+  "particularidades": "",
+  "estado_actual": "Bueno, porque los comuneros del Caserío de Astobamba realizan jornadas de limpieza.",
+  "observaciones": "Este sitio arqueológico también es conocido como Astobamba, no cuenta con declaratoria como Patrimonio Cultural de la Nación, ni expediente técnico en propuesta ni aprobado. Sin embargo, es muy reconocido por los diferentes investigadores nacionales y extranjeros por la monumentalidad de sus estructuras arqueológicas.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Tiene una antigüedad de 800 -1400 dc, en un área de 21212.92 m2. El sitio presenta arquitectura arqueológica en buen estado de conservación; las edificaciones presentan plantas rectangulares, cuadrangulares y mixtilíneas, secciones de sus muros conformados por piedras de medianas naturales rodeadas por piedrecillas pequeñas, constituyen un especial paramento tipo mosaico andino. Se trata de palacios asociados a patios abiertos; estos edificios arqueológicos tuvieron vano rectilineal único asociado al patio cielo abierto, el cual podía coincidir dos a tres vanos de otros palacios relacionados a un espacio que los agrupaba.\nLos pisos inferiores son planos y algunos de ellos separados por un pequeño escalón demarcante de una parte de piso empedrado con lajas.\nSe observan cuatro muros conservados donde se calcula que tuvieron una altura de 4 a 5 metros en promedio.\nEntre los años 2006 y 2008 se realizó una investigación liderada por el Dr. Alberto Bueno Mendoza quien realizo las excavaciones arqueológicas denominándolo Cultura Yarush perteneciente al horizonte medio. El lugar se encuentra en buen estado, ideal para observación del paisaje natural y cultural, tomas fotográficas. Asimismo, se encuentra en proceso de la declaratoria como patrimonio cultural de la nación."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, porque los comuneros del Caserío de Astobamba realizan jornadas de limpieza."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "Este sitio arqueológico también es conocido como Astobamba, no cuenta con declaratoria como Patrimonio Cultural de la Nación, ni expediente técnico en propuesta ni aprobado. Sin embargo, es muy reconocido por los diferentes investigadores nacionales y extranjeros por la monumentalidad de sus estructuras arqueológicas."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n6\nRegistro de visitantes del Caserío de Astobamba\n2022\nValidada por la Dircetur Pasco.\nTuristas Nacionales\n967\nRegistro de visitantes del Caserío de Astobamba\n2022\nValidada por la Dircetur Pasco.\nVisitantes Locales(Excursionistas)\n1233\nRegistro de visitantes del Caserío de Astobamba\n2022\nValidada por la Dircetur Pasco."
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nPasco/Pasco/Chaupimarca\n-\nPasco/Daniel Alcides Carrión/Yanahuanca\nTerminal Terrestre de Pasco-Plaza de Armas de Yanahuanca\nTerrestre\nTaxi\nAsfaltado\n63.4km/ 1 hora\n1\nPasco/Daniel Alcides Carrión/Yanahuanca\n-\nPasco/Daniel Alcides Carrión/Yanahuanca\nPlaza de Armas Yanahuanca-Desvío ( grifo) para ingreso al C.P de Huarautambo y caserío de Astobamba\nTerrestre\nTaxi\nAsfaltado\n2km/6 minutos\n1\nPasco/Daniel Alcides Carrión/Yanahuanca\n-\nPasco/Daniel Alcides Carrión/Yanahuanca\nDesvío ( grifo) para ingreso al C.P de Huarautambo y caserío de Astobamba -Puente Inca\nTerrestre\nTaxi\nTrocha carrozable\n7km/30 minutos\n1\nPasco/Daniel Alcides Carrión/Yanahuanca\n-\nPasco/Daniel Alcides Carrión/Yanahuanca\nPuente Inca-Sitio Arqueológica Prehispánico Yarushpampa\nTerrestre\nA pie\nSendero\n150 metros/4 minutos\n2\nLima/Lima/Independencia\n-\nPasco/Pasco/Chaupimarca\nPlaza Norte-Terminal Terrestre de Pasco\nTerrestre\nBus público\nAsfaltado\n246 km/8horas\n2\nPasco/Pasco/Chaupimarca\n-\nPasco/Daniel Alcides Carrión/Yanahuanca\nTerminal Terrestre de Pasco-Plaza de Armas de Yanahuanca\nTerrestre\nTaxi\nAsfaltado\n63.4km/ 1 hora\n2\nPasco/Daniel Alcides Carrión/Yanahuanca\n-\nPasco/Daniel Alcides Carrión/Yanahuanca\nPlaza de Armas de Yanahuanca-Desvío ( grifo) para ingreso al C.P de Huarautambo y caserío de Astobamba\nTerrestre\nTaxi\nAsfaltado\n2km/6 minutos\n2\nPasco/Daniel Alcides Carrión/Yanahuanca\n-\nPasco/Daniel Alcides Carrión/Yanahuanca\nDesvío ( grifo) para ingreso al C.P de Huarautambo y caserío de Astobamba -Puente Inca\nTerrestre\nTaxi\nTrocha carrozable\n7km/30 minutos\n2\nPasco/Daniel Alcides Carrión/Yanahuanca\n-\nPasco/Daniel Alcides Carrión/Yanahuanca\nPuente Inca-Sitio Arqueológica Prehispánico Yarushpampa\nTerrestre\nA pie\nSendero\n150 metros/4 minutos\n3\nHuánuco/Huánuco/Pillco Marca\n-\nPasco/Daniel Alcides Carrión/Yanahuanca\nOvalo Cayhuayna-Terminal Yanahuanca\nTerrestre\nCombi\nAsfaltado\n93.2 km/2 horas 57 minutos.\n3\nPasco/Daniel Alcides Carrión/Yanahuanca\n-\nPasco/Daniel Alcides Carrión/Yanahuanca\nTerminal de Yanahuanca-Desvío ( grifo) para ingreso al C.P de Huarautambo y caserío de Astobamba\nTerrestre\nTaxi\nAsfaltado\n2km/6 minutos\n3\nPasco/Daniel Alcides Carrión/Yanahuanca\n-\nPasco/Daniel Alcides Carrión/Yanahuanca\nDesvío ( grifo) para ingreso al C.P de Huarautambo y caserío de Astobamba -Puente Inca\nTerrestre\nTaxi\nTrocha carrozable\n7km/30 minutos\n3\nPasco/Daniel Alcides Carrión/Yanahuanca\n-\nPasco/Daniel Alcides Carrión/Yanahuanca\nPuente Inca-Sitio Arqueológica Huarautambo\nTerrestre\nA pie\nSendero\n50 metros/1 minuto"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nTarifa general: S/ 1.00"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n08:00 a.m.\n-\n05:00 p.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nEstudios e Investigación\n--\nNaturaleza\nObservación de flora\nIchu, quinual.\nNaturaleza\nObservación de paisaje\n--\nCultura y Folclore\nVisita y participación en actividades de vida cotidiana de la comunidad\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\n2 estrellas - Ciudad de Yanahuanca\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\n1 y 2 estrellas en la ciudad de Yanahuanca\nAlojamiento\nOtros (Especificar)\nCasa Hospedaje. Ciudad de Yanahuanca\nAlimentación\nRestaurantes\nCaserío de Astobamba y ciudad de Yanahunaca\nAlimentación\nKioskos de comida y bebidas\nCaserío de Astobamba y Ciudad de Yanahuanca\nAlimentación\nBares\nCiudad de Yanahuanca\nAlimentación\nCafeterías\nCiudad de Yanahuanca\nAlimentación\nVenta de comida Rápida\nCiudad de Yanahuanca\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de Yanahuanca\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Yanahuanca\nOtros Servicios Turísticos\nAlquiler de Caballos\nCaserío de Astobamba. 5 soles por persona\nLugares de Recreación\nDiscotecas\nCiudad de Yanahuanca\nLugares de Recreación\nBares\nCiudad de Yanahuanca\nLugares de Recreación\nKaraoke\nCiudad de Yanahuanca\nLugares de Recreación\nJuegos Infantiles\nCiudad de Yanahuanca\nLugares de Recreación\nCentros Deportivos\nCaserío de Astobamba y ciudad de Yanahunaca\nServicios Públicos\nSeñales turísticas de orientación\nCaserío de Astobamba y ciudad de Yanahunaca\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\nCaserío de Astobamba y ciudad de Yanahunaca\nServicios Públicos\nCaminos peatonales\nCaserío de Astobamba y ciudad de Yanahunaca\nServicios Públicos\nCaminos de herradura (caballo)\nCaserío de Astobamba."
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nSeñal de Bitel en el caserío de Astobamba y Bitel, Claro, Movistar, Entel Ciudad de Yanahuanca\nBancos\nBanco de la nación Ciudad de Yanahuanca\nCajero automático\nBanco de la Nación, Bcp.\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Yanahuanca\nServicio de estacionamiento\nCaserío de Astobamba y en todo el Yanahunaca\nServicios de taxis\nCaserío de Astobamba y en la ciudad de Yanahunaca\nVenta de materiales para fotografías\nCiudad de Yanahuanca\nSeguridad / POLTUR / Comisaría\nCiudad de Yanahuanca\nAlquiler y compra de equipos deportivos\nCiudad de Yanahuanca\nLibrerías\nCiudad de Yanahuanca\nBodegas o minimarkets\nCiudad de Yanahuanca"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Yanahuanca\nLuz (Suministro Eléctrico)\nCaserío de Astobamba y Ciudad de Yanahuanca\nTeléfono\nBitel en el caserío de Astobamba y Bitel, Claro, Movistar, Entel Ciudad de Yanahuanca\nAlcantarillado sanitario\nCaserío de Astobamba y Ciudad de Yanahuanca\nSistemas de tratamiento alternativo de residuos (Biodigestor, pozo séptico, otros)\nCaserío de Astobamba y Ciudad de Yanahuanca\nEnergía Alternativa\nPaneles solares. Caserío de Astobamba y Ciudad de Yanahuanca\nSeñalización turística\nCaserío de Astobamba y Ciudad de Yanahuanca"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nMinisterio de Cultura\nPrivado:\n--\nOtra Situación:\nSe encuentra en el terreno de la Comunidad Campesina de San Juan de Yanacocha.\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nPartida Electrónica\nNúmero de Partida:\n2002806\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nCaserio de Astobamba de la Comunidad Campesina de San de Yanacocha.\nTiempo de administración\nDesde el año 2008"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo de Pasco.\nNombre (Persona(s) responsable(s) del inventario turístico):\nAna Maria Mamani Olivas\nCargo:\nDirectora de Turismo\nCorreo:\nmaryanaamo@gmail.com\nTeléfono:\n962071730\nFuentes Bibliográfica:\n1) Libro“El Cañón del Rio Chaupihuaranga y Las culturas Interandinas de Pasco: Guarautambo de Huarautambo, Yarushpampa de Astobamba, Goñicutac de Rocco, Gorish de Vilcabamba” por Bueno Mendoza, Alberto. Pasco 2005.\n2) Libro “Puesta en Valor de Sitios Arqueológicos seleccionados de la cuenca del róo Chaupiguaranga, Circuito Turístico de Gorish, Goñicutac, Villo, Tambochaca, Huarautambo y Astobamba”. Enriquez Tintaya, Elizabeth. Pasco 2005.\n3) Complejo Arqueológico de Astobamba y Huarautambo por Y tú qué planes (Plataforma digital del MINCETUR), 2023 - https://www.ytuqueplanes.com/destinos/pasco/provincia-daniel-alcides-carrion/complejo-arqueologico-de-astobamba-y-huarautambo\n4) Astobamba y Huarautambo, La Expansión Inca por Waman Adventures (Portal web) - https://www.wamanadventures.com/blog/astobamba-y-huarautambo-la-expansion-inca/\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\nEntre los años 2006 y 2008 se realizó una investigación liderada por el Dr. Alberto Bueno Mendoza quien realizo las excavaciones arqueológicas denominándolo Cultura Yarush perteneciente al horizonte m\nFecha:\n25/09/2023 12:07:42"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -10.459314,
+    "longitud": -76.53871500000002
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-10.459314,-76.53871500000002"
+}

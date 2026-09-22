@@ -1,0 +1,386 @@
+{
+  "cod_ficha": 9310,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=9310",
+  "nombre": "Cataratas De Caracucho",
+  "departamento": "Piura",
+  "provincia": "Morropon",
+  "distrito": "SANTO DOMINGO",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "j. Caídas de agua",
+  "subtipo": "Cataratas",
+  "jerarquia": "1",
+  "altitud": "549",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=471841",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=471841",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=471786",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=471787",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=471788",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=471789",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=471843"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Paseos - Excursiones",
+    "Naturaleza - Observación de fauna",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de paisaje",
+    "Naturaleza - Observación de aves",
+    "Deportes / Aventura - Caminata/Trekking",
+    "Deportes / Aventura - Ciclismo",
+    "Deportes / Aventura - Camping"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "Durante el recorrido",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Paseos",
+      "tipo": "Excursiones",
+      "observacion": "en los alrededores",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/excursiones02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de fauna",
+      "observacion": "Durante el recorrido",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fauna02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "Durante el recorrido",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "Durante el recorrido",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de aves",
+      "observacion": "Durante el recorrido",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/aves02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "Para llegar al recurso, se deberá caminar 1 hora aproximadamente",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Ciclismo",
+      "observacion": "en los alrededores",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/ciclismo02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Camping",
+      "observacion": "en los alrededores",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/camping02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Piura/Piura/Castilla - Piura/Morropón/Morropon",
+      "detalle": "Terminal terrestre de Castilla - Distrito de Morropón",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "65Km/1H 30Min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Piura/Morropón/Morropon - Piura/Morropón/Santo Domingo",
+      "detalle": "Distrito de Morropón - Centro Poblado de Caracucho",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mototaxi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "7km/12 Min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Piura/Morropón/Santo Domingo - Piura/Morropón/Santo Domingo",
+      "detalle": "Centro Poblado Caracucho - Catarata de Caracucho",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Sendero",
+      "distancia_tiempo": "6km/1 hora"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "4140",
+      "horario": "Conteo muestral de visitas al recurso turístico",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "7740",
+      "horario": "Conteo muestral de visitas al recurso turístico.",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "- visita todo el año.",
+      "observaciones": "visita todo el año."
+    },
+    {
+      "epoca": "Otros",
+      "especificacion": "--",
+      "horario": "--",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    },
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "El recurso es administrado por la Asociación Caracucho."
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Camino a la Catarata"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Snacks",
+      "observacion": "Cerca , camino a la catarata"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "Distrito de Morropón"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Casa de Hospedaje",
+      "observacion": "Distrito de Morropón"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Distrito de Morropón - Poblado caracucho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Distrito de Morropón"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Snacks",
+      "observacion": "Distrito de Morropón"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Distrito de Morropón"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Distrito de Morropón"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Casinos de Juego",
+      "observacion": "Distrito de Morropón"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Peñas",
+      "observacion": "Distrito de Morropón"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Distrito de Morropón"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Distrito de Morropón"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de Caballos",
+      "observacion": "Poblado de Caracucho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Oficina de Información",
+      "observacion": "Distrito de Morropón"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Internet",
+      "observacion": "Distrito de Morropón"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Tópico",
+      "observacion": "Distrito de Morropón"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Distrito de Morropón"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Distrito de Morropón"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "No cumplen los requisitos del Manual de Señalización Turística"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Distrito de Morropón"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "Distrito de Morropón. Categorizados con 1 estrella."
+    }
+  ],
+  "descripcion": "La Catarata de Caracucho, un oasis en el bosque seco, se encuentra en la comunidad campesina de Caracucho-Jacanacas, a 12 km de Morropón y a 558 m.s.n.m., en plena carretera Morropón-Santo Domingo. Esta impresionante caída de agua, de aproximadamente 14 metros de altura, se despliega en tres niveles, formando una pequeña laguna de fondo rocoso con tonalidades que varían entre el verde y el negro. La catarata fluye durante todo el año, alcanzando su máximo esplendor durante la temporada de lluvias (diciembre a abril), mientras que de mayo a noviembre su caudal disminuye. Sus aguas cristalinas mantienen una temperatura agradable de 20°C, invitando a los visitantes a un refrescante baño en cualquier época del año, complementado por una temperatura ambiente que oscila entre los 25°C en invierno y los 30°C en verano. El entorno de la catarata es un ecosistema de bosque seco, con una exuberante vegetación y una fauna diversa, incluyendo aves, mamíferos y reptiles. El acceso a la catarata se realiza a través de un sendero de herradura de aproximadamente 1 hora y media, señalizado y con paradas de descanso, donde los visitantes pueden disfrutar de actividades como trekking, camping y ciclismo de montaña.",
+  "particularidades": "",
+  "estado_actual": "Se encuentran en buen estado de conservación, los comuneros se encargan de la limpieza y su cuidado.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "La Catarata de Caracucho, un oasis en el bosque seco, se encuentra en la comunidad campesina de Caracucho-Jacanacas, a 12 km de Morropón y a 558 m.s.n.m., en plena carretera Morropón-Santo Domingo. Esta impresionante caída de agua, de aproximadamente 14 metros de altura, se despliega en tres niveles, formando una pequeña laguna de fondo rocoso con tonalidades que varían entre el verde y el negro. La catarata fluye durante todo el año, alcanzando su máximo esplendor durante la temporada de lluvias (diciembre a abril), mientras que de mayo a noviembre su caudal disminuye. Sus aguas cristalinas mantienen una temperatura agradable de 20°C, invitando a los visitantes a un refrescante baño en cualquier época del año, complementado por una temperatura ambiente que oscila entre los 25°C en invierno y los 30°C en verano. El entorno de la catarata es un ecosistema de bosque seco, con una exuberante vegetación y una fauna diversa, incluyendo aves, mamíferos y reptiles. El acceso a la catarata se realiza a través de un sendero de herradura de aproximadamente 1 hora y media, señalizado y con paradas de descanso, donde los visitantes pueden disfrutar de actividades como trekking, camping y ciclismo de montaña."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Se encuentran en buen estado de conservación, los comuneros se encargan de la limpieza y su cuidado."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Nacionales\n4140\nConteo muestral de visitas al recurso turístico\n2024\nProyección del conteo muestral del mes de diciembre de 2024.\nVisitantes Locales(Excursionistas)\n7740\nConteo muestral de visitas al recurso turístico.\n2024\nProyección del conteo muestral del mes de diciembre de 2024."
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nPiura/Piura/Castilla\n-\nPiura/Morropón/Morropon\nTerminal terrestre de Castilla - Distrito de Morropón\nTerrestre\nBus público\nAsfaltado\n65Km/1H 30Min.\n1\nPiura/Morropón/Morropon\n-\nPiura/Morropón/Santo Domingo\nDistrito de Morropón - Centro Poblado de Caracucho\nTerrestre\nMototaxi\nAsfaltado\n7km/12 Min.\n1\nPiura/Morropón/Santo Domingo\n-\nPiura/Morropón/Santo Domingo\nCentro Poblado Caracucho - Catarata de Caracucho\nTerrestre\nA pie\nSendero\n6km/1 hora"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nEl recurso es administrado por la Asociación Caracucho."
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n-\nvisita todo el año."
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\nDurante el recorrido\nPaseos\nExcursiones\nen los alrededores\nNaturaleza\nObservación de fauna\nDurante el recorrido\nNaturaleza\nObservación de flora\nDurante el recorrido\nNaturaleza\nObservación de paisaje\nDurante el recorrido\nNaturaleza\nObservación de aves\nDurante el recorrido\nDeportes / Aventura\nCaminata/Trekking\nPara llegar al recurso, se deberá caminar 1 hora aproximadamente\nDeportes / Aventura\nCiclismo\nen los alrededores\nDeportes / Aventura\nCamping\nen los alrededores"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nAlimentación\nRestaurantes\nCamino a la Catarata\nInstalaciones Privadas\nAlimentación\nSnacks\nCerca , camino a la catarata"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHostales (especificar categorías)\nDistrito de Morropón\nAlojamiento\nCasa de Hospedaje\nDistrito de Morropón\nAlimentación\nRestaurantes\nDistrito de Morropón - Poblado caracucho\nAlimentación\nCafeterías\nDistrito de Morropón\nAlimentación\nSnacks\nDistrito de Morropón\nAlimentación\nKioskos de comida y bebidas\nDistrito de Morropón\nLugares de Recreación\nDiscotecas\nDistrito de Morropón\nLugares de Recreación\nCasinos de Juego\nDistrito de Morropón\nLugares de Recreación\nPeñas\nDistrito de Morropón\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nDistrito de Morropón\nOtros Servicios Turísticos\nVenta de artesanía\nDistrito de Morropón\nOtros Servicios Turísticos\nAlquiler de Caballos\nPoblado de Caracucho\nOtros Servicios Turísticos\nOficina de Información\nDistrito de Morropón\nOtros Servicios Turísticos\nServicio de Internet\nDistrito de Morropón\nOtros Servicios Turísticos\nTópico\nDistrito de Morropón\nAlimentación\nVenta de comida Rápida\nDistrito de Morropón\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nDistrito de Morropón\nServicios Públicos\nSeñales turísticas de orientación\nNo cumplen los requisitos del Manual de Señalización Turística\nServicios Públicos\nOficina de Información turística\nDistrito de Morropón\nAlojamiento\nHoteles (especificar categorías)\nDistrito de Morropón.\nCategorizados con 1 estrella."
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nDistrito de Morropón\nBancos\nDistrito de Morropón\nCajero automático\nDistrito de Morropón\nCasa de cambio\nDistrito de Morropón\nServicio de correos\nDistrito de Morropón\nServicios de taxis\nDistrito de Morropón\nSeguridad / POLTUR / Comisaría\nDistrito de Morropón\nCentro de salud - tópico\nDistrito de Morropón\nBodegas o minimarkets\nDistrito de Morropón"
+    },
+    {
+      "titulo": "Condiciones de Accesibilidad al Visitante",
+      "contenido": "Visitante\nInstalación\nActividades y/o programas\nEquipamiento\nObservación\nOtros\n--\n--\n--\nNo es un recurso accesible para personas con discapacidad"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nSeñalización turística\nCamino a Catarata\nEnergía Alternativa\nDentro de Caracucho, pero no cumple los requisitos del Manual de Señalización Turística"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nPoblado Caracucho\nAlcantarillado sanitario\nPoblado Caracucho\nLuz (Suministro Eléctrico)\nPoblado Caracucho\nTeléfono\nPoblado Caracucho\nSeñalización turística\nPoblado Caracucho"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\n--\nPrivado:\nComunidad Campesina Caracucho Jacanacas\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\nNo especifica\nOtra situación:\n--\nAdministrador por\nNombre\nComunidad Campesina Caracucho Jacanacas\nTiempo de administración\n80 años aproximadamente"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo de Piura.\nNombre (Persona(s) responsable(s) del inventario turístico):\nROSA ANA ZAPATA QUEVEDO\nCargo:\nCoordinadora de Inventario\nCorreo:\ndir.turismo.dircetur@regionpiura.gob.pe\nTeléfono:\n073 - 340133\nFuentes Bibliográfica:\n1.Morey, J. (2021). Condiciones turísticas para la práctica del turismo de aventura en el Caserío de Caracucho, Provincia de Morropón, Piura – 2021. Tesis de licenciatura. Universidad César Vallejo. Disponible en: https://repositorio.ucv.edu.pe/handle/20.500.12692/87598 2. Araya, C (2013). Potencialidades turísticas del caserío de Caracucho - distrito de Santo Domingo - provincia de Morropón de la región Piura, para el desarrollo del turismo rural. Tesis de licenciatura. Universidad César Vallejo. Disponible:https://repositorio.ucv.edu.pe/discover.\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n8/04/2025 14:59:50"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -4.981404299999999,
+    "longitud": -79.94471599999997
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-4.981404299999999,-79.94471599999997"
+}

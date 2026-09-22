@@ -1,0 +1,316 @@
+{
+  "cod_ficha": 6819,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=6819",
+  "nombre": "Casa De Raul Porras Barrenechea",
+  "departamento": "Lima",
+  "provincia": "Lima",
+  "distrito": "MIRAFLORES",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Arquitectura y Espacios Urbanos",
+  "subtipo": "Casona",
+  "jerarquia": "2",
+  "altitud": "79",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=294364",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=294364",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=457487",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=457488",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=457447"
+  ],
+  "actividades_permitidas": [
+    "Otros - Estudios e Investigación",
+    "Otros - Realización de eventos"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "Dentro de la Biblioteca, previa autorización por el instituto.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Realización de eventos",
+      "observacion": "Presentación de libros, recorridos turísticos previa coordinación.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/eventos02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Lima/Lima/Lima - Lima/Lima/Miraflores",
+      "detalle": "Plaza de Armas de Lima - Casa Raúl Porras Barrenechea",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "11.2 kms / 30 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Lima/Lima/Lima - Lima/Lima/Miraflores",
+      "detalle": "Plaza de Armas de Lima - Casa Raúl Porras Barrenechea",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "11.2 kms / 40 Minutos"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Lima/Lima/Miraflores - Lima/Lima/Miraflores",
+      "detalle": "Parque Kennedy - Casa Raúl Porras Barrenechea",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "650 metros / 6 minutos"
+    },
+    {
+      "recorrido": "3",
+      "tramo": "Lima/Lima/Miraflores - Lima/Lima/Miraflores",
+      "detalle": "Parque Alfredo Salazar – Casa Raúl Porras Barrenechea",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "2.2 km / 11 minutos"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "100",
+      "horario": "Instituto Raúl Porras Barrenechea, año 2022",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "1400",
+      "horario": "Instituto Raúl Porras Barrenechea, año 2022",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "03:00 p.m. - 06:00 p.m. Lunes, miércoles, viernes de 15:00 a 18:00 hrs, previa reserva.",
+      "observaciones": "Lunes, miércoles, viernes de 15:00 a 18:00 hrs, previa reserva."
+    },
+    {
+      "epoca": "Personas con discapacidad física",
+      "especificacion": "Rampas al ingreso de la Casa Museo",
+      "horario": "--",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": "Previa reserva al correo: rhilarior@unmsm.edu.pe"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "De 3 a 5 estrellas, distrito de Miraflores"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Apart-hoteles (especificar categorías)",
+      "observacion": "De 3 a 5 estrellas, distrito de Miraflores"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "De 1 a 3 estrellas, distrito de Miraflores"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Albergues",
+      "observacion": "De 1 a 3 estrellas, distrito de Miraflores"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Distrito de Miraflores"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Distrito de Miraflores"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Distrito de Miraflores"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Distrito de Miraflores"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Distrito de Miraflores"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Distrito de Miraflores"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Distrito de Miraflores"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Distrito de Miraflores"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "Distrito de Miraflores"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Distrito de Miraflores"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Distrito de Miraflores"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de bicicleta",
+      "observacion": "Distrito de Miraflores"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "Distrito de Miraflores"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Distrito de Miraflores"
+    }
+  ],
+  "descripcion": "Casa donde vivió el historiador Raúl Porras Barrenechea en Miraflores, y que ahora es sede del instituto del mismo nombre, Centro de Altos Estudios y de Investigaciones Peruanas de la Universidad Nacional Mayor de San Marcos, es el inmueble donde nuestro célebre intelectual peruano, Dr. Raúl Porras Barrenechea (23/03/1897 - 27/09/1960) notable historiador, maestro, abogado, ensayista, diplomático y senador de la República, pasó la mayor parte de su existencia, desde 1921 hasta su fallecimiento en 1960. Construida de quincha y adobe a inicios del siglo XX y que ostenta el título de monumento histórico y es, además, Casa Museo. El inmueble conserva, en custodia y exhibición permanente, todas sus obras de arte, mobiliario, pinturas, esculturas, fotografías, recuerdos familiares y personales, con el fin de mantener en total plenitud el sentido evocativo de su personalidad y de su obra. Uno de los ambientes principales es la biblioteca y hemeroteca, las cuales cuentan en su conjunto con más de 50 000 volúmenes, formada a base de generosas donaciones de bibliotecas íntegras de profesores universitarios y de la comunidad intelectual peruana y extranjera. Cuenta también el inmueble con una amplia sala de conferencias con capacidad para 50 personas. Cabe destacar que todos los ambientes, mobiliario, cuadros y obras de arte han sido dejados en custodia por los herederos del maestro.\nAquí se guardan además los papeles personales del maestro, sus ficheros de investigación, cartas, papeletas, cuadernos y libretas de notas, así como publicaciones y textos originales de su fecunda producción, valioso conjunto documental a cargo de sus herederos que integra el Archivo Porras. Es aquí donde se encuentra una de las piezas más significativas y de valor histórico nacional: la máquina de escribir Underwood que el Premio Nobel peruano, Mario Vargas Llosa, utilizó en su juventud cuando trabajaba para el maestro Raúl Porras, en la década de los 50, fichando su biblioteca que fue legada por éste a la Biblioteca Nacional.",
+  "particularidades": "",
+  "estado_actual": "Buen estado, ha sido restaurado en el 2020, recibe mantenimiento por parte del personal de limpieza del Instituto Raúl Porras Barrenechea.",
+  "observaciones": "Ubicada en Calle Colina, 398. Miraflores. Fue creado en homenaje al maestro, historiador y diplomático peruano Raúl Porras Barrenechea con el patrocinio de la Universidad Nacional Mayor de San Marcos",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Casa donde vivió el historiador Raúl Porras Barrenechea en Miraflores, y que ahora es sede del instituto del mismo nombre, Centro de Altos Estudios y de Investigaciones Peruanas de la Universidad Nacional Mayor de San Marcos, es el inmueble donde nuestro célebre intelectual peruano, Dr. Raúl Porras Barrenechea (23/03/1897 - 27/09/1960) notable historiador, maestro, abogado, ensayista, diplomático y senador de la República, pasó la mayor parte de su existencia, desde 1921 hasta su fallecimiento en 1960. Construida de quincha y adobe a inicios del siglo XX y que ostenta el título de monumento histórico y es, además, Casa Museo. El inmueble conserva, en custodia y exhibición permanente, todas sus obras de arte, mobiliario, pinturas, esculturas, fotografías, recuerdos familiares y personales, con el fin de mantener en total plenitud el sentido evocativo de su personalidad y de su obra. Uno de los ambientes principales es la biblioteca y hemeroteca, las cuales cuentan en su conjunto con más de 50 000 volúmenes, formada a base de generosas donaciones de bibliotecas íntegras de profesores universitarios y de la comunidad intelectual peruana y extranjera. Cuenta también el inmueble con una amplia sala de conferencias con capacidad para 50 personas. Cabe destacar que todos los ambientes, mobiliario, cuadros y obras de arte han sido dejados en custodia por los herederos del maestro.\nAquí se guardan además los papeles personales del maestro, sus ficheros de investigación, cartas, papeletas, cuadernos y libretas de notas, así como publicaciones y textos originales de su fecunda producción, valioso conjunto documental a cargo de sus herederos que integra el Archivo Porras. Es aquí donde se encuentra una de las piezas más significativas y de valor histórico nacional: la máquina de escribir Underwood que el Premio Nobel peruano, Mario Vargas Llosa, utilizó en su juventud cuando trabajaba para el maestro Raúl Porras, en la década de los 50, fichando su biblioteca que fue legada por éste a la Biblioteca Nacional."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "Declarado como Patrimonio Cultural Inmueble Republicano mediante R.M. No. 1475-80-ED, con fecha 13/10/1980.\nSello Internacional Safe Travels, otorgado por el Consejo Mundial de Viajes y Turismo desde diciembre del 2020."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Buen estado, ha sido restaurado en el 2020, recibe mantenimiento por parte del personal de limpieza del Instituto Raúl Porras Barrenechea."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "Ubicada en Calle Colina, 398. Miraflores. Fue creado en homenaje al maestro, historiador y diplomático peruano Raúl Porras Barrenechea con el patrocinio de la Universidad Nacional Mayor de San Marcos"
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n100\nInstituto Raúl Porras Barrenechea, año 2022\n2022\nCabe mencionar que los datos estadísticos son desde mayo a octubre del 2002, puesto que la Casa Museo estuvo cerrada al público durante los años 2020 y 2021 por temas de restauración.\nTuristas Nacionales\n1400\nInstituto Raúl Porras Barrenechea, año 2022\n2022\nCabe mencionar que los datos estadísticos son desde mayo a octubre del 2022, puesto que la casa museo estuvo cerrada al público durante los años 2020 y 2021 por restauración."
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nLima/Lima/Lima\n-\nLima/Lima/Miraflores\nPlaza de Armas de Lima - Casa Raúl Porras Barrenechea\nTerrestre\nAutomóvil particular\nAsfaltado\n11.2 kms / 30 minutos\n1\nLima/Lima/Lima\n-\nLima/Lima/Miraflores\nPlaza de Armas de Lima - Casa Raúl Porras Barrenechea\nTerrestre\nBus público\nAsfaltado\n11.2 kms / 40 Minutos\n2\nLima/Lima/Miraflores\n-\nLima/Lima/Miraflores\nParque Kennedy - Casa Raúl Porras Barrenechea\nTerrestre\nA pie\nAsfaltado\n650 metros / 6 minutos\n3\nLima/Lima/Miraflores\n-\nLima/Lima/Miraflores\nParque Alfredo Salazar – Casa Raúl Porras Barrenechea\nTerrestre\nA pie\nAsfaltado\n2.2 km / 11 minutos"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre\nPrevia reserva al correo: rhilarior@unmsm.edu.pe"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n03:00 p.m.\n-\n06:00 p.m.\nLunes, miércoles, viernes de 15:00 a 18:00 hrs, previa reserva."
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nEstudios e Investigación\nDentro de la Biblioteca, previa autorización por el instituto.\nOtros\nRealización de eventos\nPresentación de libros, recorridos turísticos previa coordinación."
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\nDe 3 a 5 estrellas, distrito de Miraflores\nAlojamiento\nApart-hoteles (especificar categorías)\nDe 3 a 5 estrellas, distrito de Miraflores\nAlojamiento\nHostales (especificar categorías)\nDe 1 a 3 estrellas, distrito de Miraflores\nAlojamiento\nAlbergues\nDe 1 a 3 estrellas, distrito de Miraflores\nAlimentación\nRestaurantes\nDistrito de Miraflores\nAlimentación\nCafeterías\nDistrito de Miraflores\nAlimentación\nFuentes de soda\nDistrito de Miraflores\nAlimentación\nKioskos de comida y bebidas\nDistrito de Miraflores\nAlimentación\nVenta de comida Rápida\nDistrito de Miraflores\nAlimentación\nBares\nDistrito de Miraflores\nLugares de Recreación\nJuegos Infantiles\nDistrito de Miraflores\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nDistrito de Miraflores\nLugares de Recreación\nKaraoke\nDistrito de Miraflores\nOtros Servicios Turísticos\nVenta de artesanía\nDistrito de Miraflores\nOtros Servicios Turísticos\nAgencia de Viajes\nDistrito de Miraflores\nOtros Servicios Turísticos\nAlquiler de bicicleta\nDistrito de Miraflores\nServicios Públicos\nMiradores turísticos\nDistrito de Miraflores\nServicios Públicos\nOficina de Información turística\nDistrito de Miraflores"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nDistrito de Miraflores\nBancos\nDistrito de Miraflores\nCajero automático\nDistrito de Miraflores\nCasa de cambio\nDistrito de Miraflores\nEstación de servicios, grifos, gasolineras y gasocentros\nDistrito de Miraflores\nServicio de correos\nDistrito de Miraflores\nServicios de taxis\nDistrito de Miraflores\nCentro de salud - tópico\nDistrito de Miraflores\nSeguridad / POLTUR / Comisaría\nDistrito de Miraflores\nLibrerías\nDistrito de Miraflores\nBodegas o minimarkets\nDistrito de Miraflores"
+    },
+    {
+      "titulo": "Condiciones de Accesibilidad al Visitante",
+      "contenido": "Visitante\nInstalación\nActividades y/o programas\nEquipamiento\nObservación\nPersonas con discapacidad física\nRampas al ingreso de la Casa Museo\n--\n--\nServicios Higiénicos para personas con discapacidad."
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\n--\nAlcantarillado sanitario\n--\nDesagüe\n--\nLuz (Suministro Eléctrico)\n--\nTeléfono\n--\nSeñalización turística\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nEn Miraflores\nAlcantarillado sanitario\nEn Miraflores\nDesagüe\nEn Miraflores\nLuz (Suministro Eléctrico)\nEn Miraflores\nTeléfono\nEn Miraflores"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nUniversidad Nacional Mayor de San Marcos\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nNúmero de Partida:\n47527252\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nUniversidad Nacional Mayor de San Marcos\nTiempo de administración\nDesde 1980"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nMUNICIPALIDAD DE MIRAFLORES\nNombre (Persona(s) responsable(s) del inventario turístico):\nMERCEDES DÍAZ MEJÍA\nCargo:\nPROMOTOR TURÍSTICO\nCorreo:\nmercedes.diaz@miraflores.gob.pe\nTeléfono:\n01 6177275\nFuentes Bibliográfica:\nCASA MUSEO- INSTITUTO RAÚL PORRAS BARRENECHEA, Centros de Altos Estudios y de Investigaciones Peruanas de Félix Álvarez Brun, 1997.\nA PROPÓSITO DE RAÚL PORRAS BARRENECHEA: Viejos y nuevos temas de cultura y andina de Antonio Garrido Aranda, 2001.\nMEMORIA: Revista, números 9-11. Editor: El Archivo, 2003, Universidad de Texas. Año de publicación: 2007.\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n21/10/2022"
+    }
+  ],
+  "coordenadas": {
+    "latitud": null,
+    "longitud": null
+  },
+  "google_maps_url": null
+}

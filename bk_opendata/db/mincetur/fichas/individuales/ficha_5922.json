@@ -1,0 +1,283 @@
+{
+  "cod_ficha": 5922,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=5922",
+  "nombre": "Sitio Arqueológico El Imperio",
+  "departamento": "Amazonas",
+  "provincia": "Luya",
+  "distrito": "TINGO",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Sitios Arqueológicos",
+  "subtipo": "Templos",
+  "jerarquia": "2",
+  "altitud": "2730",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=450340",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=450340",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=450341",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=450406",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=450407"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Estudios e Investigación",
+    "Naturaleza - Observación de flora",
+    "Deportes / Aventura - Caminata/Trekking"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "Es necesario realizar una coordinación previa con la Dirección Desconcentrada de Cultura de Amazonas.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "Helechos, arbustos, orquídeas y bromelias.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "Recomendable llevar ropa adecuada paratrekking, gorro, bloqueador, agua y bastón.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Amazonas/Chachapoyas/Chachapoyas - Amazonas/Luya/Tingo",
+      "detalle": "Plaza de Armas de Chachapoyas-Estación de embarque del Teleférico.",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "43 km / 50 minutos."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Amazonas/Luya/Tingo - Amazonas/Luya/Tingo",
+      "detalle": "Estación de embarque del teleférico-Parador turístico La Malca (Anden 2).",
+      "tipo_acceso": "Aéreo",
+      "medio_transporte": "Otros (especificar)",
+      "tipo_via": "",
+      "distancia_tiempo": "7 km / 30 minutos."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Amazonas/Luya/Tingo - Amazonas/Luya/Tingo",
+      "detalle": "Parador turístico La Malca-Sitio Arqueológico El Imperio.",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Sendero",
+      "distancia_tiempo": "4 km / 45 minutos"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Amazonas/Chachapoyas/Chachapoyas - Amazonas/Luya/Tingo",
+      "detalle": "Plaza de Armas de Chachapoyas-Culminación de carretera en Anexo Kuélap.",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "83 km / 1 hora y 15 minutos."
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Amazonas/Luya/Tingo - Amazonas/Luya/Tingo",
+      "detalle": "Culminación carretera Anexo Kuélap-Sitio Arqueológico El Imperio.",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Sendero",
+      "distancia_tiempo": "830 metros / 15 minutos."
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "71",
+      "horario": "Municipalidad Provincial de Luya-Lámud.",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "581",
+      "horario": "Municipalidad Provincial de Luya-Lámud",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "08:00 a.m. - 04:00 p.m. Es necesario ingresar con un guía que conozca los senderos internos para recorrer el sitio arqueológico.",
+      "observaciones": "Es necesario ingresar con un guía que conozca los senderos internos para recorrer el sitio arqueológico."
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": "Es recomendable llevar ropa adecuada para trekking, agua, bloquedor, gorro y bastones. Además es necesario, ser acompañado por un guía."
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Chachapoyas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "Ciudad de Chachapoyas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Ciudad de Chachapoyas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Parador Turístico La Malca / Localidad de Nuevo Tingo / Ciudad de Chachapoyas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de Chachapoyas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de Caballos",
+      "observacion": "Parador turístico La Malca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de bicicleta",
+      "observacion": "Ciudad de Chachapoyas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "Localidad de Tingo / Ciudad de Chachapoyas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Localidad de Tingo / Localidad de Nuevo Tingo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Localidad de Tingo / Localidad de Nuevo Tingo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Localidad de Tingo / Localidad de Nuevo Tingo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "3 estrellas en la ciudad de Chachapoyas"
+    }
+  ],
+  "descripcion": "Este sitio arqueológico se encuentra ubicado a 2730 msnm, sobre una ladera de suave pendiente que desciende del cerro Barreta, por lo que se encuentra dentro del área de amortiguamiento de la Zona Arqueológica Monumental Kuélap, a 900 metros al este de las murallas cuya zona pertenece al bosque húmedo montano donde se encuentran bromelias, orquídeas, musgo y líquenes.\nEl Imperio es otro vestigio arqueológico de la cultura Chachapoya, con aproximadamente una hectárea y media de extensión, asociado al sistema de producción agrícola de Kuélap, dado que está rodeado de un sistema complejo de andenes prehispánicos. Este sitio contiene cuarenta y nueve (49) estructuras circulares, diez (estructuras rectangulares) y varias terrazas, estas se emplazan de oeste a este, por lo que el diseño arquitectónico del sitio está acondicionado a las características topográficas del terreno en declive, cuya mampostería fue elaborada a base de piedras calizas con uso de mortero y pachilla.\nAlgunos de los muros del sitio presentan restos de enlucido de color amarillento, también se encuentran pequeñas hornacinas en las paredes internas de algunas estructuras circulares. Tiene un espacio central llano donde se encuentran un conjunto de edificios ortogonales que configuran un patrón arquitectónico típicamente inca; es por ello, que teniendo en cuenta sus formas y patrones arquitectónicos, se considera que el asentamiento tuvo dos grandes ocupaciones, Chachapoya y Chachapoya-Inca; pero no se descarta que algunas estructuras rectangulares hayan pertenecido a la época colonial. Según las investigaciones, El Imperio estaría asociado con la explotación agrícola de las laderas del cerro Barreta, por ende relacionadas directamente con Kuélap, asimismo, constituye un testimonio físico de la dominación y del control imperial sobre las unidades étnicas o curacazgos a nivel territorial, político y económico.\nSitio ideal para los visitantes que buscan conocer más sobre la conquista inca a los Chachapoya, dada su ubicación tan cercana a Kuélap.",
+  "particularidades": "",
+  "estado_actual": "Regular, las construcciones se están deteriorando por fenómenos naturales y antrópicos.",
+  "observaciones": "Localización UTM: 18 M 0177580; UTM 9289347.\nA pesar, de que la época de lluvia es de diciembre a abril, se puede visitar el recurso.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Este sitio arqueológico se encuentra ubicado a 2730 msnm, sobre una ladera de suave pendiente que desciende del cerro Barreta, por lo que se encuentra dentro del área de amortiguamiento de la Zona Arqueológica Monumental Kuélap, a 900 metros al este de las murallas cuya zona pertenece al bosque húmedo montano donde se encuentran bromelias, orquídeas, musgo y líquenes.\nEl Imperio es otro vestigio arqueológico de la cultura Chachapoya, con aproximadamente una hectárea y media de extensión, asociado al sistema de producción agrícola de Kuélap, dado que está rodeado de un sistema complejo de andenes prehispánicos. Este sitio contiene cuarenta y nueve (49) estructuras circulares, diez (estructuras rectangulares) y varias terrazas, estas se emplazan de oeste a este, por lo que el diseño arquitectónico del sitio está acondicionado a las características topográficas del terreno en declive, cuya mampostería fue elaborada a base de piedras calizas con uso de mortero y pachilla.\nAlgunos de los muros del sitio presentan restos de enlucido de color amarillento, también se encuentran pequeñas hornacinas en las paredes internas de algunas estructuras circulares. Tiene un espacio central llano donde se encuentran un conjunto de edificios ortogonales que configuran un patrón arquitectónico típicamente inca; es por ello, que teniendo en cuenta sus formas y patrones arquitectónicos, se considera que el asentamiento tuvo dos grandes ocupaciones, Chachapoya y Chachapoya-Inca; pero no se descarta que algunas estructuras rectangulares hayan pertenecido a la época colonial. Según las investigaciones, El Imperio estaría asociado con la explotación agrícola de las laderas del cerro Barreta, por ende relacionadas directamente con Kuélap, asimismo, constituye un testimonio físico de la dominación y del control imperial sobre las unidades étnicas o curacazgos a nivel territorial, político y económico.\nSitio ideal para los visitantes que buscan conocer más sobre la conquista inca a los Chachapoya, dada su ubicación tan cercana a Kuélap."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "Declarado Patrimonio Cultural de la Nación mediante Resolución Viceministerial N°021-2020-\nVMPCIC-MC, con fecha 27 de enero de 2020"
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Regular, las construcciones se están deteriorando por fenómenos naturales y antrópicos."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "Localización UTM: 18 M 0177580; UTM 9289347.\nA pesar, de que la época de lluvia es de diciembre a abril, se puede visitar el recurso."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n71\nMunicipalidad Provincial de Luya-Lámud.\n2021\nSe adjunta el INFORME TÉCNICO N°051-2022-MPL-L/SGGTYOC/CYCHV de la Sub Gerencia de Gestión Turística de la Municipalidad Provincial de Luya-Lámud, documento que sustenta la demanda al sitio.\nTuristas Nacionales\n581\nMunicipalidad Provincial de Luya-Lámud\n2021\nSe adjunta el INFORME TÉCNICO N°051-2022-MPL-L/SGGTYOC/CYCHV de la Sub Gerencia de Gestión Turística de la Municipalidad Provincial de Luya-Lámud, documento que sustenta la demanda al sitio."
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nAmazonas/Chachapoyas/Chachapoyas\n-\nAmazonas/Luya/Tingo\nPlaza de Armas de Chachapoyas-Estación de embarque del Teleférico.\nTerrestre\nAutomóvil particular\nAsfaltado\n43 km / 50 minutos.\n1\nAmazonas/Luya/Tingo\n-\nAmazonas/Luya/Tingo\nEstación de embarque del teleférico-Parador turístico La Malca (Anden 2).\nAéreo\nOtros (especificar)\n7 km / 30 minutos.\n1\nAmazonas/Luya/Tingo\n-\nAmazonas/Luya/Tingo\nParador turístico La Malca-Sitio Arqueológico El Imperio.\nTerrestre\nA pie\nSendero\n4 km / 45 minutos\n2\nAmazonas/Chachapoyas/Chachapoyas\n-\nAmazonas/Luya/Tingo\nPlaza de Armas de Chachapoyas-Culminación de carretera en Anexo Kuélap.\nTerrestre\nAutomóvil particular\nAfirmado\n83 km / 1 hora y 15 minutos.\n2\nAmazonas/Luya/Tingo\n-\nAmazonas/Luya/Tingo\nCulminación carretera Anexo Kuélap-Sitio Arqueológico El Imperio.\nTerrestre\nA pie\nSendero\n830 metros / 15 minutos."
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre\nEs recomendable llevar ropa adecuada para trekking, agua, bloquedor, gorro y bastones. Además es necesario, ser acompañado por un guía."
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n08:00 a.m.\n-\n04:00 p.m.\nEs necesario ingresar con un guía que conozca los senderos internos para recorrer el sitio arqueológico."
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nEstudios e Investigación\nEs necesario realizar una coordinación\nprevia con la Dirección Desconcentrada de\nCultura de Amazonas.\nNaturaleza\nObservación de flora\nHelechos, arbustos, orquídeas y bromelias.\nDeportes / Aventura\nCaminata/Trekking\nRecomendable llevar ropa adecuada\nparatrekking, gorro, bloqueador, agua y bastón."
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nLugares de Recreación\nDiscotecas\nCiudad de Chachapoyas\nLugares de Recreación\nKaraoke\nCiudad de Chachapoyas\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nCiudad de Chachapoyas\nOtros Servicios Turísticos\nVenta de artesanía\nParador Turístico La Malca / Localidad de Nuevo Tingo / Ciudad de Chachapoyas\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de Chachapoyas\nOtros Servicios Turísticos\nAlquiler de Caballos\nParador turístico La Malca\nOtros Servicios Turísticos\nAlquiler de bicicleta\nCiudad de Chachapoyas\nAlojamiento\nHostales (especificar categorías)\nLocalidad de Tingo / Ciudad de Chachapoyas\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nLocalidad de Tingo / Localidad de Nuevo\nTingo\nAlimentación\nRestaurantes\nLocalidad de Tingo / Localidad de Nuevo\nTingo\nAlimentación\nKioskos de comida y bebidas\nLocalidad de Tingo / Localidad de Nuevo\nTingo\nAlojamiento\nHoteles (especificar categorías)\n3 estrellas en la ciudad de Chachapoyas"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Chachapoyas.\nBancos\nCiudad de Chachapoyas.\nCajero automático\nCiudad de Chachapoyas.\nEstación de servicios, grifos, gasolineras y gasocentros\nLocalidad de Tingo\nServicio de correos\nCiudad de Chachapoyas.\nServicios de taxis\nCiudad de Chachapoyas.\nCentro de salud - tópico\nLocalidad de Nuevo Tingo.\nVenta de materiales para fotografías\nCiudad de Chachapoyas.\nSeguridad / POLTUR / Comisaría\nCiudad de Chachapoyas.\nLibrerías\nCiudad de Chachapoyas.\nBodegas o minimarkets\nLocalidad de Tingo / Localidad de Nuevo\nTingo."
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nTeléfono\nCobertura celular (claro)"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nAnexo Kuélap / Localidad de Tingo / Localidad de Nuevo Tingo - Agua entubada en dichas localidades.\nAlcantarillado sanitario\nLocalidad de Tingo / Localidad de Nuevo Tingo\nDesagüe\nLocalidad de Tingo / Localidad de Nuevo Tingo\nLuz (Suministro Eléctrico)\nAnexo Kuélap / Localidad de Tingo / Localidad de Nuevo Tingo\nTeléfono\nLocalidad de Tingo / Localidad de Nuevo Tingo\nTelefonía Móvil (Claro, Movistar, Bitel y Entel).\nSeñalización turística\nLocalidad de Tingo / Localidad de Nuevo Tingo - Señalización orientativa.\nAlternativo de Residuos (Biodigestor, pozo séptico, otros)\nDistrito de Tingo es atendida por el relleno sanitario Alto Utcubamba."
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nGobierno Regional Amazonas / Dirección Regional de Comercio Exterior y Turismo\nNombre (Persona(s) responsable(s) del inventario turístico):\nLic. Gilber Ramos Chappa\nCargo:\nProfesional en Turismo\nCorreo:\nramoschappa@gmail.com\nTeléfono:\n988062534\nFuentes Bibliográfica:\nBolaños, Aldo (2009). “Sistema de Valoración de Monumentos Arqueológicos en Planes de Manejo: El caso del Plan Maestro de Manejo y Conservación de Kuélap y su Entorno”.\nNarváez Vargas, L. Alfredo (2013). “Kuélap: centro de poder político religioso de los Chachapoyas”. En Federico Kauffman Doig (editor), Los Chachapoyas, 87–159. Lima.\nChurch, Warren y Anna Guengerich (2017). “Introducción: La (Re) Construcción de Chachapoyas a través de la Historia e Historiografía”. Lima.\nRuiz Estrada, Arturo (2009). “La Alfarería de Kuelap: Tradición y Cambio”. Lima: Ediciones Avqui.\nTrujillo, Diego de 1968 Relación del descubrimiento del reyno del Perú. (1571) Lima: Biblioteca Peruana.\nINC -- PROINVERSION. (2003). “Plan Maestro de Manejo y Conservación del Complejo Arqueológico de Kuelap y su Entorno 2003 Informe Final, Volumen V\".\nEspinoza Soriano, Waldemar (1973). “La Destrucción del Imperio de los Incas. La rivalidad política y señorial de los curacazgos andinos”. Lima: Retablo de Papel.\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n16/09/2022"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -6.418362,
+    "longitud": -77.91442699999999
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-6.418362,-77.91442699999999"
+}

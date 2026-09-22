@@ -1,0 +1,337 @@
+{
+  "cod_ficha": 6279,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=6279",
+  "nombre": "Valle Del Alto Jequetepeque",
+  "departamento": "Cajamarca",
+  "provincia": "Contumaza",
+  "distrito": "CHILETE",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "c. Valles",
+  "subtipo": "Valles",
+  "jerarquia": "1",
+  "altitud": "908",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=291659",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=291659",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=537933",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=537988",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=537934",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=537989",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=537990",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=537991"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Estudios e Investigación",
+    "Deportes / Aventura - Caminata/Trekking"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Cajamarca/Contumazá/Chilete - Cajamarca/Contumazá/Chilete",
+      "detalle": "Desde la Plaza de Armas de Chilete - Valle de Jequetepeque",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "10 km/ 15 minutos"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "260",
+      "horario": "Libro de visita s ofician de información turista",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "120",
+      "horario": "Libro de visita s ofician de información turista",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "45",
+      "horario": "Libro de visita s ofician de información turista",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "08:00 a.m. - 05:30 p.m. Visitar de Enero a Marzo ya que es esa época se encuentran cultivando los valles",
+      "observaciones": "Visitar de Enero a Marzo ya que es esa época se encuentran cultivando los valles"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Venta de puestos de mangos"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "De 1 y 2 Estrellas - Ciudad de Chilete"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Chilete"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Chilete"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Chilete"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Ciudad de Chilete"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Chilete"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Ciudad de Chilete"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Ciudad de Chilete"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Ciudad de Chilete"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Ciudad de Chilete"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Ciudad de Chilete"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Ciudad de Chilete"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "Ciudad de Chilete"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "Ciudad de Chilete"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Puesto de auxilio rápido",
+      "observacion": "Ciudad de Chilete"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Ciudad de Chilete"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Ciudad de Chilete"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Chilete"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Chilete"
+    }
+  ],
+  "descripcion": "El río Jequetepeque nace de las estribaciones producidas por los cerros Malca y el Collotan, en el Departamento de Cajamarca, a una altura aproximada de 3800 m.s.n.m. La cuenca del río Jequetepeque se encuentra bajo las incidencias climáticas tanto del Pacífico como de la vertiente Altoandina Oriental (de la cuenca del Amazonas). Las estaciones del año no se dan bien marcadas, preponderantemente se notan dos: invierno y verano, habiendo pequeñas diferencias de temperatura. En invierno la temperatura llega de 20 a 24ºC y en verano de 30 a 35ºC. La cuenca del río Jequetepeque presenta un área de drenaje de 4360 Km2 hasta su desembocadura en el Océano Pacífico y una longitud máxima de recorrido desde sus orígenes hasta su desembocadura de 161.5 km. En su curso adopta cinco nombres diferentes, desde las nacientes al litoral, relacionados con las categorías de quebradas, ríos secundarios y río principal, de las aguas vertidas por las quebradas Calzada, Huascamonte y Clariyacu, se origina el río Huacraruco, que en su trayecto de este a oeste es alimentado por quebradas y se denomina río San Juan. Este río en su curso es alimentado por los ríos Chotén y Naranjo y con el aporte del río Asunción da origen al río Magdalena. Este tiene entre sus principales afluentes, el río Chetillano, el río Chanta y a la altura de la localidad de Chilete confluyen los ríos San Pablo, por su margen derecha y el río Huertas por su margen izquierda. A partir de estas confluencias, aguas abajo se denomina río Chilete, este por su margen izquierda recibe los aportes del río Contumazá y por su margen derecha, a la altura de la localidad de Llallán, recibe los aportes del río Pulush que viene de San Miguel, desde donde se denomina río Jequetepeque. A partir del año 1988, a fin de permitir la regulación de las descargas del río, entro en operación el Reservorio Gallito Ciego, ubicado en el lecho del río Jequetepeque, ocupando las áreas comprendidas desde la parte baja de Tembladera hasta el lugar denominado Gallito Ciego. Es uno de los valles más ricos del norte del Perú; siendo los cultivos más importantes en la parte de Chilete el arroz, con grandes extensiones y así mismos frutales como los mangos, muy típicos los puestos de esta fruta y en menores cantidades los puestos de arroz en la vía de penetración rumbo a Cajamarca (40 y 10 puestos respectivamente contabilizados) a la vera de la carretera para facilidad de los visitantes. Es importante mencionar que parte de la Carretera Panamericana Norte cruza este hermoso valle.",
+  "particularidades": "",
+  "estado_actual": "Buen estado de conservación, por los trabajos que realizan las comunidades que se ubican en todo el valle.",
+  "observaciones": "Para llegar al valle del Jequetepeque desde la Ciudad de Cajamarca se puede tomar bus que van hacia la costa (Chilete, Pacasmayo, Chiclayo) todos los días",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "El río Jequetepeque nace de las estribaciones producidas por los cerros Malca y el Collotan, en el Departamento de Cajamarca, a una altura aproximada de 3800 m.s.n.m. La cuenca del río Jequetepeque se encuentra bajo las incidencias climáticas tanto del Pacífico como de la vertiente Altoandina Oriental (de la cuenca del Amazonas). Las estaciones del año no se dan bien marcadas, preponderantemente se notan dos: invierno y verano, habiendo pequeñas diferencias de temperatura. En invierno la temperatura llega de 20 a 24ºC y en verano de 30 a 35ºC. La cuenca del río Jequetepeque presenta un área de drenaje de 4360 Km2 hasta su desembocadura en el Océano Pacífico y una longitud máxima de recorrido desde sus orígenes hasta su desembocadura de 161.5 km. En su curso adopta cinco nombres diferentes, desde las nacientes al litoral, relacionados con las categorías de quebradas, ríos secundarios y río principal, de las aguas vertidas por las quebradas Calzada, Huascamonte y Clariyacu, se origina el río Huacraruco, que en su trayecto de este a oeste es alimentado por quebradas y se denomina río San Juan. Este río en su curso es alimentado por los ríos Chotén y Naranjo y con el aporte del río Asunción da origen al río Magdalena. Este tiene entre sus principales afluentes, el río Chetillano, el río Chanta y a la altura de la localidad de Chilete confluyen los ríos San Pablo, por su margen derecha y el río Huertas por su margen izquierda. A partir de estas confluencias, aguas abajo se denomina río Chilete, este por su margen izquierda recibe los aportes del río Contumazá y por su margen derecha, a la altura de la localidad de Llallán, recibe los aportes del río Pulush que viene de San Miguel, desde donde se denomina río Jequetepeque. A partir del año 1988, a fin de permitir la regulación de las descargas del río, entro en operación el Reservorio Gallito Ciego, ubicado en el lecho del río Jequetepeque, ocupando las áreas comprendidas desde la parte baja de Tembladera hasta el lugar denominado Gallito Ciego. Es uno de los valles más ricos del norte del Perú; siendo los cultivos más importantes en la parte de Chilete el arroz, con grandes extensiones y así mismos frutales como los mangos, muy típicos los puestos de esta fruta y en menores cantidades los puestos de arroz en la vía de penetración rumbo a Cajamarca (40 y 10 puestos respectivamente contabilizados) a la vera de la carretera para facilidad de los visitantes. Es importante mencionar que parte de la Carretera Panamericana Norte cruza este hermoso valle."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Buen estado de conservación, por los trabajos que realizan las comunidades que se ubican en todo el valle."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "Para llegar al valle del Jequetepeque desde la Ciudad de Cajamarca se puede tomar bus que van hacia la costa (Chilete, Pacasmayo, Chiclayo) todos los días"
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nVisitantes Locales(Excursionistas)\n260\nLibro de visita s ofician de información turista\n2023\nLibro de visita s ofician de información turista\nTuristas Nacionales\n120\nLibro de visita s ofician de información turista\n2023\nLibro de visita s ofician de información turista\nTuristas Extranjeros\n45\nLibro de visita s ofician de información turista\n2023\nLibro de visita s ofician de información turista"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nCajamarca/Contumazá/Chilete\n-\nCajamarca/Contumazá/Chilete\nDesde la Plaza de Armas de Chilete - Valle de Jequetepeque\nTerrestre\nAutomóvil particular\nAsfaltado\n10 km/ 15 minutos"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n08:00 a.m.\n-\n05:30 p.m.\nVisitar de Enero a Marzo ya que es esa época se encuentran cultivando los valles"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nEstudios e Investigación\n--\nDeportes / Aventura\nCaminata/Trekking\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nAlimentación\nKioskos de comida y bebidas\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nOtros (Especificar)\nVenta de puestos de mangos\nInstalaciones Públicas\nServicios Públicos\nSeñales turísticas de orientación\n--\nInstalaciones Públicas\nServicios Públicos\nEstacionamiento de vehículos\n--\nInstalaciones Públicas\nServicios Públicos\nCaminos peatonales\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHostales (especificar categorías)\nDe 1 y 2 Estrellas - Ciudad de Chilete\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Chilete\nAlimentación\nRestaurantes\nCiudad de Chilete\nAlimentación\nKioskos de comida y bebidas\nCiudad de Chilete\nAlimentación\nFuentes de soda\nCiudad de Chilete\nAlimentación\nKioskos de comida y bebidas\nCiudad de Chilete\nAlimentación\nVenta de comida Rápida\nCiudad de Chilete\nOtros Servicios Turísticos\nOtros (Especificar)\nCiudad de Chilete\nOtros Servicios Turísticos\nOtros (Especificar)\nCiudad de Chilete\nOtros Servicios Turísticos\nOtros (Especificar)\nCiudad de Chilete\nOtros Servicios Turísticos\nOtros (Especificar)\nCiudad de Chilete\nServicios Públicos\nEstacionamiento de vehículos\nCiudad de Chilete\nServicios Públicos\nSeñales turísticas de orientación\nCiudad de Chilete\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\nCiudad de Chilete\nServicios Públicos\nPuesto de auxilio rápido\nCiudad de Chilete\nLugares de Recreación\nJuegos Infantiles\nCiudad de Chilete\nLugares de Recreación\nCentros Deportivos\nCiudad de Chilete\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Chilete\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Chilete"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Chilete\nBancos\nCiudad de Chilete\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Chilete\nServicio de estacionamiento\nCiudad de Chilete\nServicio de correos\nCiudad de Chilete\nCentro de salud - tópico\nCiudad de Chilete\nVenta de materiales para fotografías\nCiudad de Chilete\nSeguridad / POLTUR / Comisaría\nCiudad de Chilete\nLibrerías\nCiudad de Chilete\nBodegas o minimarkets\nCiudad de Chilete"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nSeñalización turística\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Chilete\nLuz (Suministro Eléctrico)\nCiudad de Chilete\nTeléfono\nCiudad de Chilete\nOtros (Especificar)\nPuesto Policial, Puesto de Salud.Ciudad de Chilete\nSeñalización turística\nCiudad de Chilete"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nCOMUNIDAD CAMPESINA DE HUERTAS\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n02112204\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nCOMUNIDAD CAMPESINA DE HUERTAS\nTiempo de administración\nDesde 1988 - 36 años"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDIRCETUR CAJAMARCA\nNombre (Persona(s) responsable(s) del inventario turístico):\nESPERANZA ESCOBAR PORTAL\nCargo:\nTECNICO EN TURISMO I\nCorreo:\nmescobar@regioncajamarca.gob.pe\nTeléfono:\n962690326\nFuentes Bibliográfica:\nPROYECTO ESPECIAL JEQUETEPEQUE ZAÑA 2013\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n30/06/2025 17:47:50"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -7.221345,
+    "longitud": -78.83973700000001
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-7.221345,-78.83973700000001"
+}

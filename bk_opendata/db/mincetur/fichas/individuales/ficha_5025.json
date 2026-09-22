@@ -1,0 +1,283 @@
+{
+  "cod_ficha": 5025,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=5025",
+  "nombre": "Bosque De Rodales De Puyas De Tarucani",
+  "departamento": "Puno",
+  "provincia": "Melgar",
+  "distrito": "AYAVIRI",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "ñ. Zonas paisajísticas",
+  "subtipo": "Bosques",
+  "jerarquia": "2",
+  "altitud": "4200",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=293005",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=293005",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=298023",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=472304",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=472269",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=472305",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=472270",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=472306"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Naturaleza - Observación de fauna",
+    "Naturaleza - Observación de flora",
+    "Deportes / Aventura - Caminata/Trekking"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de fauna",
+      "observacion": "vicuñas, zorro, vizcacha, zorrino, lagartijas, tortolas, huallatas, etc",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fauna02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "Ichu, chullihua, kolli, queñua, Puyas de Raimondi , etc",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Puno/Puno/Puno - Puno/San Román/Juliaca",
+      "detalle": "Terminal terrestre zonal de Puno - terminal terrestre zonal Las Mercedes de Juliaca",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mini bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "45 Kms / 1 hora"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Puno/San Román/Juliaca - Puno/Melgar/Ayaviri",
+      "detalle": "Terminal terrestre zonal las Mercedes de Juliaca - Terminal terrestre de Ayaviri",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mini bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "97 km / 1.45 horas"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Puno/Melgar/Ayaviri - Puno/Melgar/Ayaviri",
+      "detalle": "Terminal terrestre de Ayaviri - Bosque de rodales de puyas de Tarucani",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "26 kms / 40 min"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Puno/Melgar/Ayaviri - Puno/Melgar/Ayaviri",
+      "detalle": "Plaza de Armas Ayaviri - Bosque de rodales de puyas de Tarucani",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "27 kms / 40 min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "1200",
+      "horario": "INFORME TÉCNICO Nº 002– 2022 – MINCETUR- HCHQ",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "8600",
+      "horario": "INFORME TÉCNICO Nº 002– 2022 – MINCETUR- HCHQ",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "5050",
+      "horario": "INFORME TÉCNICO Nº 002– 2022 – MINCETUR- HCHQ",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "08:00 a.m. - 03:30 p.m. Previa coordinación con el centro poblado de Pacobamba",
+      "observaciones": "Previa coordinación con el centro poblado de Pacobamba"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Ciudad de Ayaviri"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Ayaviri"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Ayaviri"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Ayaviri"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Ayaviri"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Ciudad de Ayaviri"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "1* en la ciudad de Ayaviri"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Ayaviri"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "Ciudad de Ayaviri"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Ciudad de Ayaviri"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "Ciudad de Ayaviri"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Subgerencia de Turismo de la Municipalidad Provincial de Melgar Ayaviri"
+    }
+  ],
+  "descripcion": "Se encuentra a 26 km. al suroeste de la ciudad de Ayaviri, y al oeste del cañón de Tinajani, este bosque de puyas de Raimondi se ubica a 4200 m.s.n.m. aproximadamente, en la zona de la comunidad campesina de Pacobamba Alto, con una gran extensión. Por su singularidad, esta especie se desarrolla en lugares con características y condiciones diversas que son necesarias para su adaptabilidad, como; ambientales, precipitaciones pluviales, temperatura adecuada, tipo de suelos, pendientes, presencia de rocas y la ubicación de la planta frente a los rayos solares. Estas características son determinantes para su desarrollo en el lugar adecuado.\nLa Puya de Raimondi es singular en los Andes. Conocida también como “Titanka” de la familia de las bromeliáceas. Por sus características y rareza, es considerada como la más grande en su género y especie. Actualmente se encuentra en peligro de extinción.\nEntre las características que muestran estas especies es que pueden llegar a medir entre 8 a 10 metros de altura y cuando está en flor hasta los 12 metros; y que pueden florecer solo cuando lleguen a cumplir entre los 80 a 100 años, aproximadamente. Presentan tallos muy duros y fuertes, con hojas espinosas, lo que constituye un espectáculo único y excepcional en la zona de Tinajani.\nEl Bosque de Rodales de Puyas de Tarucani, es una opción para visitar con fines de investigación y observación de la flora y fauna del lugar.",
+  "particularidades": "Es especie es protegida desde 1973 por el Decreto Supremo Nº 1014 del Ministerio de Agricultura.\nLa R. M. N° 01710-77-AG/DGFF, del 30 de setiembre de 1977, incluye a la Puya de Raimondii en la categoría de “Especie en vías de extinción”.\nEl D. S. N° 043-2006-AG del 13 de julio de 2006, aprueba la categorización de especies amenazadas de flora silvestre, siendo la Puya de Raimondii es declarada en peligro.",
+  "estado_actual": "Regular: Requiere acciones de protección, evitar su extinción y mejorar los accesos al recurso, señalización, etc.",
+  "observaciones": "El lugar es conocido como Tarukani.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Se encuentra a 26 km. al suroeste de la ciudad de Ayaviri, y al oeste del cañón de Tinajani, este bosque de puyas de Raimondi se ubica a 4200 m.s.n.m. aproximadamente, en la zona de la comunidad campesina de Pacobamba Alto, con una gran extensión. Por su singularidad, esta especie se desarrolla en lugares con características y condiciones diversas que son necesarias para su adaptabilidad, como; ambientales, precipitaciones pluviales, temperatura adecuada, tipo de suelos, pendientes, presencia de rocas y la ubicación de la planta frente a los rayos solares. Estas características son determinantes para su desarrollo en el lugar adecuado.\nLa Puya de Raimondi es singular en los Andes. Conocida también como “Titanka” de la familia de las bromeliáceas. Por sus características y rareza, es considerada como la más grande en su género y especie. Actualmente se encuentra en peligro de extinción.\nEntre las características que muestran estas especies es que pueden llegar a medir entre 8 a 10 metros de altura y cuando está en flor hasta los 12 metros; y que pueden florecer solo cuando lleguen a cumplir entre los 80 a 100 años, aproximadamente. Presentan tallos muy duros y fuertes, con hojas espinosas, lo que constituye un espectáculo único y excepcional en la zona de Tinajani.\nEl Bosque de Rodales de Puyas de Tarucani, es una opción para visitar con fines de investigación y observación de la flora y fauna del lugar."
+    },
+    {
+      "titulo": "Particularidades",
+      "contenido": "Es especie es protegida desde 1973 por el Decreto Supremo Nº 1014 del Ministerio de Agricultura.\nLa R. M. N° 01710-77-AG/DGFF, del 30 de setiembre de 1977, incluye a la Puya de Raimondii en la categoría de “Especie en vías de extinción”.\nEl D. S. N° 043-2006-AG del 13 de julio de 2006, aprueba la categorización de especies amenazadas de flora silvestre, siendo la Puya de Raimondii es declarada en peligro."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Regular: Requiere acciones de protección, evitar su extinción y mejorar los accesos al recurso, señalización, etc."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "El lugar es conocido como Tarukani."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n1200\nINFORME TÉCNICO Nº 002– 2022 – MINCETUR- HCHQ\n2021\nSustento del flujo de visitantes (local, nacional y extranjero), a los recursos turísticos de la Provincia de Melgar\nTuristas Nacionales\n8600\nINFORME TÉCNICO Nº 002– 2022 – MINCETUR- HCHQ\n2021\nSustento del flujo de visitantes (local, nacional y extranjero), a los recursos turísticos de la Provincia de Melgar\nVisitantes Locales(Excursionistas)\n5050\nINFORME TÉCNICO Nº 002– 2022 – MINCETUR- HCHQ\n2021\nSustento del flujo de visitantes (local, nacional y extranjero), a los recursos turísticos de la Provincia de Melgar"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nPuno/Puno/Puno\n-\nPuno/San Román/Juliaca\nTerminal terrestre zonal de Puno - terminal terrestre zonal Las Mercedes de Juliaca\nTerrestre\nMini bus público\nAsfaltado\n45 Kms / 1 hora\n1\nPuno/San Román/Juliaca\n-\nPuno/Melgar/Ayaviri\nTerminal terrestre zonal las Mercedes de Juliaca - Terminal terrestre de Ayaviri\nTerrestre\nMini bus público\nAsfaltado\n97 km / 1.45 horas\n1\nPuno/Melgar/Ayaviri\n-\nPuno/Melgar/Ayaviri\nTerminal terrestre de Ayaviri - Bosque de rodales de puyas de Tarucani\nTerrestre\nAutomóvil particular\nAfirmado\n26 kms / 40 min\n2\nPuno/Melgar/Ayaviri\n-\nPuno/Melgar/Ayaviri\nPlaza de Armas Ayaviri - Bosque de rodales de puyas de Tarucani\nTerrestre\nAutomóvil particular\nAfirmado\n27 kms / 40 min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n08:00 a.m.\n-\n03:30 p.m.\nPrevia coordinación con el centro poblado de Pacobamba"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nNaturaleza\nObservación de fauna\nvicuñas, zorro, vizcacha, zorrino, lagartijas, tortolas, huallatas, etc\nNaturaleza\nObservación de flora\nIchu, chullihua, kolli, queñua, Puyas de Raimondi , etc\nDeportes / Aventura\nCaminata/Trekking\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nLugares de Recreación\nCentros Deportivos\nCiudad de Ayaviri\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Ayaviri\nAlimentación\nRestaurantes\nCiudad de Ayaviri\nAlimentación\nCafeterías\nCiudad de Ayaviri\nAlimentación\nKioskos de comida y bebidas\nCiudad de Ayaviri\nAlimentación\nVenta de comida Rápida\nCiudad de Ayaviri\nAlojamiento\nHoteles (especificar categorías)\n1* en la ciudad de Ayaviri\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Ayaviri\nServicios Públicos\nMiradores turísticos\nCiudad de Ayaviri\nServicios Públicos\nEstacionamiento de vehículos\nCiudad de Ayaviri\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\nCiudad de Ayaviri\nServicios Públicos\nOficina de Información turística\nSubgerencia de Turismo de la Municipalidad Provincial de Melgar Ayaviri"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Ayaviri\nBancos\nBanco de la Nacional en la ciudad Ayaviri\nCajero automático\nbanco de la Nación en la Ciudad de Ayaviri\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Ayaviri\nServicio de estacionamiento\nCiudad de Ayaviri\nServicios de taxis\nCiudad de Ayaviri\nCentro de salud - tópico\nHospital en la Ciudad de Ayaviri\nVenta de materiales para fotografías\nCiudad de Ayaviri\nSeguridad / POLTUR / Comisaría\nComisaria PNP de Ayaviri\nAlquiler y compra de equipos deportivos\nCiudad de Ayaviri\nLibrerías\nCiudad de Ayaviri\nBodegas o minimarkets\nCiudad de Ayaviri"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Ayaviri\nAlcantarillado sanitario\nCiudad de Ayaviri\nLuz (Suministro Eléctrico)\nCentro poblado de Pacobambay en la ciudad de Ayaviri\nTeléfono\nCiudad de Ayaviri"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\n--\nPrivado:\nCentro poblado de Pacobamba\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nTitulación de la localidad con partida electrónica N° 11070700\nAdministrador por\nNombre\nCentro poblado de Pacobamba\nTiempo de administración\nDesde el año 2007 hasta la actualidad"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección de Turismo - DIRCETUR Puno / Municipalidad Provincial de Melgar - Ayaviri\nNombre (Persona(s) responsable(s) del inventario turístico):\nArq. Vadim Masciotti Cabala / Hugo Chagua Quispe\nCargo:\nArq. / Especialista en Turismo\nCorreo:\nvamasciotti@gmail.com\nTeléfono:\n051-351261 / 961116237\nFuentes Bibliográfica:\nCastañeda, A., & Agramonte. Universidad Nacional de San Agustín. Descripción del producto turístico para la propuesta de un circuito turístico en el distrito de Ayaviri, Provincia de Melgar. Arequipa, 2018.\nZavala, B., Churata, D., & Varela, F.. Guía Geo turística Cañón de Tinajani. Lima: INGEMMET. 2018.\nA, Calderón, Turismo Ecológico de Especies de Bromeliáceae, Ayacucho, 2011.\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n1/08/2023 08:42:34"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -15.096581523491789,
+    "longitud": -70.6201171875
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-15.096581523491789,-70.6201171875"
+}

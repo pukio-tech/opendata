@@ -1,0 +1,312 @@
+{
+  "cod_ficha": 1292,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=1292",
+  "nombre": "Baños Termales De Chancos",
+  "departamento": "Áncash",
+  "provincia": "Carhuaz",
+  "distrito": "MARCARA",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "k. Agua termo-mineral",
+  "subtipo": "Otros",
+  "jerarquia": "2",
+  "altitud": "2880",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=291030",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=291030",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=471255",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=471213",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=471687",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=471692"
+  ],
+  "actividades_permitidas": [
+    "Otros - Compras de artesanía/souvenir",
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Otros(Especificar)",
+    "Cultura y Folclore - Degustación y preparación de platos, productos o bebidas típicas"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Compras de artesanía/souvenir",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/artesania02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Otros(Especificar)",
+      "observacion": "Baños termales y a vapor tipo sauna",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/otros02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Degustación y preparación de platos, productos o bebidas típicas",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/platos_tipicos02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Áncash/Huaraz/Huaraz - Áncash/Carhuaz/Marcara",
+      "detalle": "Ciudad de Huaraz - Localidad de Marcará",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "26 Km / 30 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Áncash/Carhuaz/Marcara - Áncash/Carhuaz/Marcara",
+      "detalle": "Localidad de Marcará - Baños termales de Chancos",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "3 Km/ 6 min."
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "9800",
+      "horario": "Carta N° 23-2022-COMUNIDADDEVICOS",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "85200",
+      "horario": "Carta N° 23-2022-COMUNIDADDEVICOS",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "85000",
+      "horario": "Carta N° 23-2022-COMUNIDADDEVICOS",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "06:00 a.m. - 07:00 p.m. --",
+      "observaciones": "--"
+    },
+    {
+      "epoca": "Niños",
+      "especificacion": "Piscina para niños",
+      "horario": "--",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "Tarifa de cueva S/10.00; tarifa de poza S/. 6.00"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicios Higiénicos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Estacionamiento",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "En la ciudad de Huaraz, de 1 a 3 estrellas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "En la ciudad de Huaraz y el distrito de Marcará"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "En la ciudad de Huaraz y el distrito de Marcará"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "En la ciudad de Huaraz y el distrito de Marcará"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "En la ciudad de Huaraz y el distrito de Marcará"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "En la ciudad de Huaraz y el distrito de Marcará"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "En la ciudad de Huaraz y el distrito de Marcará"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "En la ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Tópico",
+      "observacion": "Distrito de Marcara"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "En la ciudad de Huaraz de 1 a 3 estrellas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Albergues",
+      "observacion": "En el distrito de Marcará"
+    }
+  ],
+  "descripcion": "Los Baños Termales de Chancos se encuentra dentro de la comunidad de Vicos en el distrito de Marcará de la provincia de Carhuaz del departamento de Áncash, a 29 Km de la ciudad de Huaraz.\nLas aguas afloran en forma de manantiales y pertenecen al tipo de aguas cloruradas con temperaturas que varían de 68°C y 72°C. y con una temperatura estudiada de 125°C en profundidad por lo que es considerada agua mineral hipertermal y presenta un alto contenido de Manganeso, arsénico, bario y litio y es de color transparente.\nLos baños termales de Chancos son conocidos por sus propiedades curativas, y se puede usar sus tres tipos de instalaciones que son: 2 piscinas (una grande y una chica), pozas individuales y familiares donde se puede graduar la temperatura del agua termal con agua fría, y también se cuentan con cuevas que han sido perforadas en el cerro donde se pueden tomar baños de vapor como sauna natural.\nAlrededor de los baños termales existen servicios de venta de alimentos típicos en quioscos, así mismo se cuenta con un alojamiento y un restaurante, así mismo posee un amplio estacionamiento para los visitantes.\nLos baños termales de Chancos es administrado y gestionado por la comunidad campesina de Vicos.",
+  "particularidades": "Es el único lugar en la región que cuenta con cuevas naturales donde se toman baños a vapor (Sauna natural), apropiados para curar enfermedades reumáticas, bronquiales, etc.",
+  "estado_actual": "Los Baños Termales de Chancos se encuentran en buen estado de conservación. Cuenta con instalaciones adecuadas para los visitantes, ya que es administrado por la comunidad campesina de Vicos.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Los Baños Termales de Chancos se encuentra dentro de la comunidad de Vicos en el distrito de Marcará de la provincia de Carhuaz del departamento de Áncash, a 29 Km de la ciudad de Huaraz.\nLas aguas afloran en forma de manantiales y pertenecen al tipo de aguas cloruradas con temperaturas que varían de 68°C y 72°C. y con una temperatura estudiada de 125°C en profundidad por lo que es considerada agua mineral hipertermal y presenta un alto contenido de Manganeso, arsénico, bario y litio y es de color transparente.\nLos baños termales de Chancos son conocidos por sus propiedades curativas, y se puede usar sus tres tipos de instalaciones que son: 2 piscinas (una grande y una chica), pozas individuales y familiares donde se puede graduar la temperatura del agua termal con agua fría, y también se cuentan con cuevas que han sido perforadas en el cerro donde se pueden tomar baños de vapor como sauna natural.\nAlrededor de los baños termales existen servicios de venta de alimentos típicos en quioscos, así mismo se cuenta con un alojamiento y un restaurante, así mismo posee un amplio estacionamiento para los visitantes.\nLos baños termales de Chancos es administrado y gestionado por la comunidad campesina de Vicos."
+    },
+    {
+      "titulo": "Particularidades",
+      "contenido": "Es el único lugar en la región que cuenta con cuevas naturales donde se toman baños a vapor (Sauna natural), apropiados para curar enfermedades reumáticas, bronquiales, etc."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Los Baños Termales de Chancos se encuentran en buen estado de conservación. Cuenta con instalaciones adecuadas para los visitantes, ya que es administrado por la comunidad campesina de Vicos."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n9800\nCarta N° 23-2022-COMUNIDADDEVICOS\n2021\nTuristas Nacionales\n85200\nCarta N° 23-2022-COMUNIDADDEVICOS\n2021\nVisitantes Locales(Excursionistas)\n85000\nCarta N° 23-2022-COMUNIDADDEVICOS\n2021"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nÁncash/Huaraz/Huaraz\n-\nÁncash/Carhuaz/Marcara\nCiudad de Huaraz - Localidad de Marcará\nTerrestre\nAutomóvil particular\nAsfaltado\n26 Km / 30 min.\n1\nÁncash/Carhuaz/Marcara\n-\nÁncash/Carhuaz/Marcara\nLocalidad de Marcará - Baños termales de Chancos\nTerrestre\nAutomóvil particular\nAsfaltado\n3 Km/ 6 min."
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nTarifa de cueva S/10.00; tarifa de poza S/. 6.00"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n06:00 a.m.\n-\n07:00 p.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nCompras de artesanía/souvenir\n--\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nOtros(Especificar)\nBaños termales y a vapor tipo sauna\nCultura y Folclore\nDegustación y preparación de platos, productos o bebidas típicas\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\n--\nInstalaciones Privadas\nAlimentación\nRestaurantes\n--\nInstalaciones Privadas\nAlimentación\nKioskos de comida y bebidas\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nVenta de artesanía\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nServicios Higiénicos\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nServicio de Estacionamiento\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHostales (especificar categorías)\nEn la ciudad de Huaraz, de 1 a 3 estrellas\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nEn la ciudad de Huaraz y el distrito de Marcará\nAlimentación\nRestaurantes\nEn la ciudad de Huaraz y el distrito de Marcará\nAlimentación\nBares\nEn la ciudad de Huaraz y el distrito de Marcará\nAlimentación\nCafeterías\nEn la ciudad de Huaraz y el distrito de Marcará\nAlimentación\nKioskos de comida y bebidas\nEn la ciudad de Huaraz y el distrito de Marcará\nOtros Servicios Turísticos\nVenta de artesanía\nEn la ciudad de Huaraz y el distrito de Marcará\nOtros Servicios Turísticos\nAgencia de Viajes\nEn la ciudad de Huaraz\nOtros Servicios Turísticos\nTópico\nDistrito de Marcara\nAlojamiento\nHoteles (especificar categorías)\nEn la ciudad de Huaraz de 1 a 3 estrellas\nAlojamiento\nAlbergues\nEn el distrito de Marcará"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nEn la ciudad de Huaraz\nBancos\nEn la ciudad de Huaraz\nCasa de cambio\nEn la ciudad de Huaraz\nServicios de taxis\nEn la ciudad de Huaraz\nCentro de salud - tópico\nEn la localidad de Marcará\nSeguridad / POLTUR / Comisaría\nEn la ciudad de Huaraz y el distrito de Marcará\nBodegas o minimarkets\nEn la ciudad de Huaraz y el distrito de Marcará"
+    },
+    {
+      "titulo": "Condiciones de Accesibilidad al Visitante",
+      "contenido": "Visitante\nInstalación\nActividades y/o programas\nEquipamiento\nObservación\nNiños\nPiscina para niños\n--\n--\n--"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\n--\nAlcantarillado sanitario\n--\nDesagüe\n--\nLuz (Suministro Eléctrico)\n--\nSeñalización turística\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nDistrito de Marcará\nDesagüe\nDistrito de Marcará\nLuz (Suministro Eléctrico)\nDistrito de Marcará\nTeléfono\nDistrito de Marcará\nSeñalización turística\nDistrito de Marcará"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\n--\nPrivado:\nComunidad Campesina de Vicos\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nNúmero de Partida:\n02012249\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nComunidad Campesina de Vicos\nTiempo de administración\nDesde el año 1974"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo de Ancash\nNombre (Persona(s) responsable(s) del inventario turístico):\nLic. Patricia Camones Trejo\nCargo:\nEspecialista en Turismo\nCorreo:\ndirceturancashdt2@gmail.com\nTeléfono:\n043- 349698\nFuentes Bibliográfica:\n- Aguas termales y minerales en el centro del Perú, INGEMMET, Lima 1999.\n- Análisis Fisicoquímico de Fuentes de Aguas Termominerales del Callejón de Huaylas, Yupanqui Edson, Lima 2006.\n- Estrategia de Turismo Termal de Perú, MINCETUR, Lima 2012.\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n16/12/2022"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -9.31946595607932,
+    "longitud": -77.57493361830711
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-9.31946595607932,-77.57493361830711"
+}

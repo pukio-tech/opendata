@@ -1,0 +1,243 @@
+{
+  "cod_ficha": 461,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=461",
+  "nombre": "Baños Termales De Pojpoquella",
+  "departamento": "Puno",
+  "provincia": "Melgar",
+  "distrito": "AYAVIRI",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "k. Agua termo-mineral",
+  "subtipo": "Ojos de agua",
+  "jerarquia": "1",
+  "altitud": "3,907",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=513428",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=513428",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=513474",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=513475",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=513429",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=513430",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=513431",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=513432",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=513433",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=513476",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=513477",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=513434",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=513435"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Deportes acuáticos - Natación"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Deportes acuáticos",
+      "tipo": "Natación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/natacion02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Puno/Puno/Puno - Puno/San Román/Juliaca",
+      "detalle": "Paradero de combis Virgen de Fatima Express de Puno - Terminal las Mercedes de Juliaca",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Combi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "45 km., 1 hora"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Puno/San Román/Juliaca - Puno/Melgar/Ayaviri",
+      "detalle": "Terminal las Mercedes de Juliaca - Terminal Terrestre de Ayaviri",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Combi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "96.1 kms., 1 hora 20 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Puno/Melgar/Ayaviri - Puno/Melgar/Ayaviri",
+      "detalle": "Terminal Terrestre de Ayaviri - Baños Termales de Pojpoquella",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mototaxi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "2 km., 12 minutos"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "7845",
+      "horario": "Libro de registros",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "04:00 a.m. - 05:00 p.m. --",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "Entradas adultos = S/ 5.00 niños = S/2.50"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Tienda de Venta de ropas de baño"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicios Higiénicos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Estacionamiento",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Boletería",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "En la ciudad de Ayaviri"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "En la ciudad de Ayaviri"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "En la ciudad de Ayaviri"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "En la ciudad de Ayaviri"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "En la ciudad de Ayaviri"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "En la ciudad de Ayaviri"
+    }
+  ],
+  "descripcion": "Se encuentran a 3,907 m.s.n.m., en las faldas del cerro Kolqueparque en el extremo sureste de la ciudad de Ayaviri, sobre la avenida Garcilaso, zona de clima frío, seco, templado, la explanada de afloración está constituida por capas de rocas sedimentarias de color rojizo, el punto de donde brota el agua en gran cantidad, aproximadamente 3 l/s. Con profundidad desconocida, en este punto se construyó una infraestructura exclusivamente para el servicio de atención para los visitantes, es un complejo donde tiene áreas recreacionales y de esparcimiento como: 2 canchas de frontón, juegos infantiles, servicio higiénico público, pileta y arco ornamental, una piscina para niños con 9 vestuarios, estacionamiento vehicular interior. También cuenta con 6 vestidores, 6 duchas, servicios higiénicos para damas y varones, boletería, la temperatura del agua es aproximadamente de 58°, de aspecto ligeramente amarillo, semitransparente, de color difuso, olor a ácido sulfhídrico, sabor salado inofensivo, ph 7.05. En el lugar también podemos observar una piscina de forma cuadrangular de aproximadamente 6.00 m. de lado x 2.50 m. de profundidad, con gradas de entrada y salida. En el exterior de la construcción, pero dentro del complejo, se encuentra otra piscina para adultos con medidas de 25.00 x 12.00 m., la cual está al aire libre, con escaleras de ingreso y salida, trampolín, graderías al Este y al Sur, con 28 vestuarios, estas últimas dos piscinas mencionadas, hoy en la actualidad se encuentran sin agua, visto que, una mala construcción que se realizó en el perímetro de dicho complejo causo que el agua que fluía y llenaba estas piscinas se desviara para el río, razón por la cual ya no desemboca en las dos piscinas, por ello se utiliza pozas individuales en cuartos privados. Se tiene un total de 16 pozas, la misma que es usada por los visitantes.",
+  "particularidades": "",
+  "estado_actual": "Regular, falta mantenimiento para que el agua fluya a las piscinas.",
+  "observaciones": "Es el único baño termal en el departamento de Puno con mayor cantidad de litio con 0.12 de litio por litro, certificado por el laboratorio CERPER, tiene propiedades curativas, psicoterapéuticas produce paz emocional y tranquilidad, mediante la termoterapia e hidroterapia natural, fisioterapia con masaje de los músculos, produce dilatación sanguínea, ayuda a eliminar las células epiteliales del cuerpo manteniendo los poros abiertos, tiene bondades antiinflamatorias y analgésicas.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Se encuentran a 3,907 m.s.n.m., en las faldas del cerro Kolqueparque en el extremo sureste de la ciudad de Ayaviri, sobre la avenida Garcilaso, zona de clima frío, seco, templado, la explanada de afloración está constituida por capas de rocas sedimentarias de color rojizo, el punto de donde brota el agua en gran cantidad, aproximadamente 3 l/s. Con profundidad desconocida, en este punto se construyó una infraestructura exclusivamente para el servicio de atención para los visitantes, es un complejo donde tiene áreas recreacionales y de esparcimiento como: 2 canchas de frontón, juegos infantiles, servicio higiénico público, pileta y arco ornamental, una piscina para niños con 9 vestuarios, estacionamiento vehicular interior. También cuenta con 6 vestidores, 6 duchas, servicios higiénicos para damas y varones, boletería, la temperatura del agua es aproximadamente de 58°, de aspecto ligeramente amarillo, semitransparente, de color difuso, olor a ácido sulfhídrico, sabor salado inofensivo, ph 7.05. En el lugar también podemos observar una piscina de forma cuadrangular de aproximadamente 6.00 m. de lado x 2.50 m. de profundidad, con gradas de entrada y salida. En el exterior de la construcción, pero dentro del complejo, se encuentra otra piscina para adultos con medidas de 25.00 x 12.00 m., la cual está al aire libre, con escaleras de ingreso y salida, trampolín, graderías al Este y al Sur, con 28 vestuarios, estas últimas dos piscinas mencionadas, hoy en la actualidad se encuentran sin agua, visto que, una mala construcción que se realizó en el perímetro de dicho complejo causo que el agua que fluía y llenaba estas piscinas se desviara para el río, razón por la cual ya no desemboca en las dos piscinas, por ello se utiliza pozas individuales en cuartos privados. Se tiene un total de 16 pozas, la misma que es usada por los visitantes."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Regular, falta mantenimiento para que el agua fluya a las piscinas."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "Es el único baño termal en el departamento de Puno con mayor cantidad de litio con 0.12 de litio por litro, certificado por el laboratorio CERPER, tiene propiedades curativas, psicoterapéuticas produce paz emocional y tranquilidad, mediante la termoterapia e hidroterapia natural, fisioterapia con masaje de los músculos, produce dilatación sanguínea, ayuda a eliminar las células epiteliales del cuerpo manteniendo los poros abiertos, tiene bondades antiinflamatorias y analgésicas."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nVisitantes Locales(Excursionistas)\n7845\nLibro de registros\n2022"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nPuno/Puno/Puno\n-\nPuno/San Román/Juliaca\nParadero de combis Virgen de Fatima Express de Puno - Terminal las Mercedes de Juliaca\nTerrestre\nCombi\nAsfaltado\n45 km., 1 hora\n1\nPuno/San Román/Juliaca\n-\nPuno/Melgar/Ayaviri\nTerminal las Mercedes de Juliaca - Terminal Terrestre de Ayaviri\nTerrestre\nCombi\nAsfaltado\n96.1 kms., 1 hora 20 minutos\n1\nPuno/Melgar/Ayaviri\n-\nPuno/Melgar/Ayaviri\nTerminal Terrestre de Ayaviri - Baños Termales de Pojpoquella\nTerrestre\nMototaxi\nAsfaltado\n2 km., 12 minutos"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nEntradas\nadultos = S/ 5.00\nniños = S/2.50"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n04:00 a.m.\n-\n05:00 p.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nDeportes acuáticos\nNatación\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nOtros Servicios Turísticos\nOtros (Especificar)\nTienda de Venta de ropas de baño\nInstalaciones Privadas\nOtros Servicios Turísticos\nServicios Higiénicos\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nServicio de Estacionamiento\n--\nInstalaciones Públicas\nServicios Públicos\nBoletería\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nEn la ciudad de Ayaviri\nAlimentación\nRestaurantes\nEn la ciudad de Ayaviri\nAlimentación\nBares\nEn la ciudad de Ayaviri\nLugares de Recreación\nDiscotecas\nEn la ciudad de Ayaviri\nLugares de Recreación\nJuegos Infantiles\nEn la ciudad de Ayaviri\nOtros Servicios Turísticos\nVenta de artesanía\nEn la ciudad de Ayaviri"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nEn la ciudad de Ayaviri\nBancos\nBanco de la Nación En la ciudad de Ayaviri\nCajero automático\nEn la ciudad de Ayaviri\nEstación de servicios, grifos, gasolineras y gasocentros\nEn la ciudad de Ayaviri\nServicio de estacionamiento\nEn la ciudad de Ayaviri\nCentro de salud - tópico\nEn la ciudad de Ayaviri\nSeguridad / POLTUR / Comisaría\nEn la ciudad de Ayaviri\nLibrerías\nEn la ciudad de Ayaviri\nBodegas o minimarkets\nEn la ciudad de Ayaviri"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\n--\nDesagüe\n--\nLuz (Suministro Eléctrico)\n--\nTeléfono\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Ayaviri\nDesagüe\nCiudad de Ayaviri\nLuz (Suministro Eléctrico)\nCiudad de Ayaviri\nTeléfono\nCiudad de Ayaviri\nAlcantarillado pluvial\nCiudad de Ayaviri\nSistemas de tratamiento alternativo de residuos (Biodigestor, pozo séptico, otros)\nCiudad de Ayaviri"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nSociedad de Beneficencia Pública de Melgar Ayaviri\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nRegistros Publicos\nNúmero de Partida:\nN° 11003959\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nSociedad de Beneficencia Pública de Melgar Ayaviri\nTiempo de administración\nDesde el año 1970"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo Puno- DIRCETUR Puno / Municipalidad Provincial de Melgar\nNombre (Persona(s) responsable(s) del inventario turístico):\nArq. Vadim Masciotti Cabala / Lic. Maribel Jacqueline Choque Copa\nCargo:\nEsp. en Turismo/ Sub Gerente de Desarrollo Comercial Pymes y Turismo\nCorreo:\nvamasciotti@gmail.com/chcmaribel@gmail.com\nTeléfono:\n961116237 / 982242248\nFuentes Bibliográfica:\n- Dritinci, Guía Turística del departamento de Puno, Puno 2000. Drit-Ctar-Inc, Inventario Del Patrimonio Turístico de la Región Puno, 2000.\n- Rene Calsín, Historia de Ayaviri, Juliaca 2008.\n- Julio Bustinza Menéndez, “El libro de oro de los Ayaviris”, Puno 2001.\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n8/12/2023 09:14:11"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -14.887095911199914,
+    "longitud": -70.57991087436676
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-14.887095911199914,-70.57991087436676"
+}

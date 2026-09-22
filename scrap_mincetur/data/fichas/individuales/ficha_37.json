@@ -1,0 +1,310 @@
+{
+  "cod_ficha": 37,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=37",
+  "nombre": "Centro Administrativo Tambo Colorado",
+  "departamento": "Ica",
+  "provincia": "Pisco",
+  "distrito": "HUMAY",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Sitios Arqueológicos",
+  "subtipo": "Templos",
+  "jerarquia": "POR JERARQUIZAR",
+  "altitud": "484",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=465146",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=465146",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=465084",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=465151",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=465153"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Estudios e Investigación",
+    "Naturaleza - Observación de paisaje"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Ica/Pisco/Pisco - Ica/Pisco/Humay",
+      "detalle": "Plaza de Armas de la ciudad de Pisco - Sitio Arqueológico Tambo Colorado.",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "47 km / 50 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Ica/Pisco/Humay - Ica/Pisco/Humay",
+      "detalle": "Plaza de Armas de Pisco- Sitio Arqueológico Tambo Colorado.",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus turístico",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "47 km/ 51 min."
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Ica/Ica/Ica - Ica/Pisco/Humay",
+      "detalle": "Plaza de Ica- Sitio Arqueológico Tambo Colorado",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "114 km/ 1 hora con 52 min."
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Ica/Ica/Ica - Ica/Pisco/Humay",
+      "detalle": "Plaza de Ica- Sitio Arqueológico Tambo Colorado",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus turístico",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "114 km/ 1 hora con 52 min."
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "5859",
+      "horario": "Dirección de Museos y Bienes Muebles del Ministerio de Cultura",
+      "observaciones": "2019"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "4152",
+      "horario": "Dirección de Museos y Bienes Muebles del Ministerio de Cultura",
+      "observaciones": "2019"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "09:00 a.m. - 05:00 p.m. Lunes a Domingo",
+      "observaciones": "Lunes a Domingo"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "Adultos : S/.5.00 Estudiantes de educación superior : S/.2.00 Estudiantes de educación escolar : S/.1.00"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Boletería",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Museo de Sitio Turísticos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de interpretación",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "Hsotales de 1 y 3 estrellas en la ciudad de Pisco."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "Hoteles de 1 a 3 estrellas en la ciudad de Pisco."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "En la localidad de Humay."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "En la localidad de Humay."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "En la localidad de Humay."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "En la ciudad de Pisco."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "En la ciudad de Pisco."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "En la ciudad de Pisco."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "En la ciudad de Pisco."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "En la ciudad de Pisco."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "En la ciudad de Pisco."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "En la ciudad de Pisco."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Localidad de Humay"
+    }
+  ],
+  "descripcion": "El Centro administrativo de Tambo Colorado se encuentra ubicado en la provincia de Pisco, en la margen derecha del valle del río Pisco, en una rinconada formada por los cerros de las inmediaciones del pueblo de Humay, con una temperatura media anual de 23 °C. Fue uno de los centros más importantes establecidos por los incas en la costa. Tambo Colorado, también conocido como Puka Llacta o Puka Huasi (de puka: rojo en quechua), debido a la presencia predominante de pintura roja en la decoración de sus paredes. Es un conjunto de construcciones hechas con tapiales y adobes, aunque en algunas zonas presenta una decoración aparentemente anterior a los incas, las puertas y hornacinas tienen la forma trapezoidal típica de los incas. Desde la cima de esta pequeñísima pirámide se divisa con mucha claridad gran parte del amplio y fértil valle que se extiende camino al mar. En torno a una plaza de planta trapezoidal se distribuyen varias estructuras entre las que se cuentan depósitos, viviendas y un edificio principal conocido como La Fortaleza. Los recintos de Tambo Colorado están diferenciados según su finalidad, pues estaban destinados al alojamiento permanente de funcionarios, al espacio requerido por los chasquis y al alojamiento de un contingente militar. Tiene un buen estado de conservación y cuenta con acondicionamiento para la visita, además de contar con una sala de exhibición.",
+  "particularidades": "El complejo arqueológico en donde destaca por el uso predominante de pintura roja en sus muros de adobe, combinada con tonos blancos y amarillos. Este sitio inca del siglo XV, edificado bajo el dominio de Tupac Yupanqui, se caracteriza por mantener sus colores originales, lo que lo convierte en uno de los sitios mejor conservados del Perú, según Ministerio de Cultura.",
+  "estado_actual": "Bueno, la estructura se encuentre bien conservada y recibe mantenimiento de la Dirección Desconcentrada de Cultura de Ica.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "El Centro administrativo de Tambo Colorado se encuentra ubicado en la provincia de Pisco, en la margen derecha del valle del río Pisco, en una rinconada formada por los cerros de las inmediaciones del pueblo de Humay, con una temperatura media anual de 23 °C. Fue uno de los centros más importantes establecidos por los incas en la costa. Tambo Colorado, también conocido como Puka Llacta o Puka Huasi (de puka: rojo en quechua), debido a la presencia predominante de pintura roja en la decoración de sus paredes. Es un conjunto de construcciones hechas con tapiales y adobes, aunque en algunas zonas presenta una decoración aparentemente anterior a los incas, las puertas y hornacinas tienen la forma trapezoidal típica de los incas. Desde la cima de esta pequeñísima pirámide se divisa con mucha claridad gran parte del amplio y fértil valle que se extiende camino al mar. En torno a una plaza de planta trapezoidal se distribuyen varias estructuras entre las que se cuentan depósitos, viviendas y un edificio principal conocido como La Fortaleza. Los recintos de Tambo Colorado están diferenciados según su finalidad, pues estaban destinados al alojamiento permanente de funcionarios, al espacio requerido por los chasquis y al alojamiento de un contingente militar. Tiene un buen estado de conservación y cuenta con acondicionamiento para la visita, además de contar con una sala de exhibición."
+    },
+    {
+      "titulo": "Particularidades",
+      "contenido": "El complejo arqueológico en donde destaca por el uso predominante de pintura roja en sus muros de adobe, combinada con tonos blancos y amarillos. Este sitio inca del siglo XV, edificado bajo el dominio de Tupac Yupanqui, se caracteriza por mantener sus colores originales, lo que lo convierte en uno de los sitios mejor conservados del Perú, según Ministerio de Cultura."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "Es reconocido como uno de los complejos incas de adobe mejor conservados en la costa peruana. Construido alrededor de 1450 d.C., funciona como un importante centro administrativo y militar integrado al Qhapaq Ñan, bajo la supervisión y protección del Ministerio de Cultura de Perú. Resolución Directoral Nacional N.º 1298-2006-INC del Ministerio de Cultura, la cual declara de interés nacional la conservación de sus acabados en adobe y pintura mural única en el litoral peruano."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, la estructura se encuentre bien conservada y recibe mantenimiento de la Dirección Desconcentrada de Cultura de Ica."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n5859\nDirección de Museos y Bienes Muebles del Ministerio de Cultura\n2019\nTuristas Nacionales\n4152\nDirección de Museos y Bienes Muebles del Ministerio de Cultura\n2019"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nIca/Pisco/Pisco\n-\nIca/Pisco/Humay\nPlaza de Armas de la ciudad de Pisco - Sitio Arqueológico Tambo Colorado.\nTerrestre\nAutomóvil particular\nAfirmado\n47 km / 50 min\n1\nIca/Pisco/Humay\n-\nIca/Pisco/Humay\nPlaza de Armas de Pisco- Sitio Arqueológico Tambo Colorado.\nTerrestre\nBus turístico\nAsfaltado\n47 km/ 51 min.\n2\nIca/Ica/Ica\n-\nIca/Pisco/Humay\nPlaza de Ica- Sitio Arqueológico Tambo Colorado\nTerrestre\nAutomóvil particular\nAsfaltado\n114 km/ 1 hora con 52 min.\n2\nIca/Ica/Ica\n-\nIca/Pisco/Humay\nPlaza de Ica- Sitio Arqueológico Tambo Colorado\nTerrestre\nBus turístico\nAsfaltado\n114 km/ 1 hora con 52 min."
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nAdultos : S/.5.00\nEstudiantes de educación superior : S/.2.00\nEstudiantes de educación escolar : S/.1.00"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n09:00 a.m.\n-\n05:00 p.m.\nLunes a Domingo"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nEstudios e Investigación\n--\nNaturaleza\nObservación de paisaje\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Públicas\nServicios Públicos\nBoletería\n--\nInstalaciones Públicas\nServicios Públicos\nMuseo de Sitio Turísticos\n--\nInstalaciones Públicas\nServicios Públicos\nSeñales turísticas de interpretación\n--\nInstalaciones Públicas\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHostales (especificar categorías)\nHsotales de 1 y 3 estrellas en la ciudad de Pisco.\nAlojamiento\nHoteles (especificar categorías)\nHoteles de 1 a 3 estrellas en la ciudad de Pisco.\nAlimentación\nRestaurantes\nEn la localidad de Humay.\nAlimentación\nKioskos de comida y bebidas\nEn la localidad de Humay.\nAlimentación\nVenta de comida Rápida\nEn la localidad de Humay.\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nEn la ciudad de Pisco.\nOtros Servicios Turísticos\nVenta de artesanía\nEn la ciudad de Pisco.\nLugares de Recreación\nDiscotecas\nEn la ciudad de Pisco.\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nEn la ciudad de Pisco.\nLugares de Recreación\nBares\nEn la ciudad de Pisco.\nServicios Públicos\nEstacionamiento de vehículos\nEn la ciudad de Pisco.\nServicios Públicos\nSeñales turísticas de orientación\nEn la ciudad de Pisco.\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nLocalidad de Humay"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nLocalidad de Humay.\nBancos\nCiudad de Pisco.\nCajero automático\nCiudad de Pisco.\nEstación de servicios, grifos, gasolineras y gasocentros\nLocalidad de Humay.\nServicio de correos\nCiudad de Pisco.\nCentro de salud - tópico\nLocalidad de Humay.\nSeguridad / POLTUR / Comisaría\nLocalidad de Humay.\nBodegas o minimarkets\nLocalidad de Humay.\nLibrerías\nCiudad de Pisco."
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nSeñalización turística\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nLocalidad de Humay.\nAlcantarillado sanitario\nLocalidad de Humay.\nDesagüe\nLocalidad de Humay.\nLuz (Suministro Eléctrico)\nLocalidad de Humay.\nTeléfono\nLocalidad de Humay."
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nMinisterio de Cultura\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nLey Nº 28296: Ley General del Patrimonio Cultural de la Nación\nAdministrador por\nNombre\nDirección Desconcentrada De Cultura de Ica.\nTiempo de administración\nDesde el año 2004"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo de Ica\nNombre (Persona(s) responsable(s) del inventario turístico):\nLeslie Jorge Guerra\nCargo:\nProfesional en Turismo\nCorreo:\nservicioturismo@dirceturica.gob.pe\nTeléfono:\n992243714\nFuentes Bibliográfica:\n• Protzen, Jean-Pierre, 2010 “Tambo Colorado: arquitectura y construcción”, Arkinka [Lima], 181, pp. 92-105.\n• Cuadernos del Qhapaq Ñan, Ministerio de Cultura del Perú (2019)\n• Proyecto de Investigación Tambo Colorado temporada 2013: Una Evaluación Transdisciplinaria\n• PROTZEN J. (2010) El trabajo de Uhle en Tambo Colorado: Una evaluación. En: P .Kaulicke, M. Fischer, P. Masson, G. Wolf (ed.) Max Uhle (1856-1944). Evaluación de sus Investigaciones y Obras. Lima: Fon- do Editorial Pontificia Universidad Católica del Perú\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\nEn 1995 se creó la sala de exhibición que presenta la secuencia cronológica cultural del valle de Pisco.\nFecha:\n26/08/2026 14:47:03"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -13.705115566033848,
+    "longitud": -75.829436480999
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-13.705115566033848,-75.829436480999"
+}

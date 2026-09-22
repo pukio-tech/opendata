@@ -1,0 +1,212 @@
+{
+  "cod_ficha": 6123,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=6123",
+  "nombre": "Petroglifos De Pusharo",
+  "departamento": "Madre De Dios",
+  "provincia": "Manu",
+  "distrito": "MANU",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Sitios Arqueológicos",
+  "subtipo": "Petroglifos (Grabados en piedra)",
+  "jerarquia": "2",
+  "altitud": "550",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=469836",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=469836",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=469837",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=469838",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=469768"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Estudios e Investigación",
+    "Naturaleza - Observación de paisaje"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Cusco/Cusco/Cusco - Madre De Dios/Manu/Manu",
+      "detalle": "Ciudad del Cusco - Localidad de Atalaya",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mini bus turístico",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "210 km. / 7 hr."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Madre De Dios/Manu/Manu - Madre De Dios/Manu/Manu",
+      "detalle": "Localidad de Atalaya - Puesto de Control y Vigilancia Santa Cruz.",
+      "tipo_acceso": "Lacustre / Fluvial",
+      "medio_transporte": "Bote",
+      "tipo_via": "",
+      "distancia_tiempo": "34 km/2h"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Madre De Dios/Manu/Manu - Madre De Dios/Manu/Manu",
+      "detalle": "Puesto de Control y Vigilancia Santa Cruz - Palotoa Teparo / Petroglifos de Pusharo",
+      "tipo_acceso": "Lacustre / Fluvial",
+      "medio_transporte": "Bote",
+      "tipo_via": "",
+      "distancia_tiempo": "28 km/ 5h"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "4226",
+      "horario": "SERNANP - MINCETUR",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "389",
+      "horario": "SERNANP - MINCETUR",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "08:00 a.m. - 02:00 p.m. --",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "En soles: 1 día: Ext.: 30 / Nac.: Adulto: 15 - Menor: 8 /Loc : 8 2 - 3 días: Ext.: 60 / Nac.: Adulto: 30 - Menor: 15 / Loc : 15 4 - 30 días: Ext.: 150 / Nac.: Adulto: 75 / Menor: 35 / Loc : 35"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Albergues",
+      "observacion": "Comunidad Nativa Palotoa - Teparo."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Centro Poblado Villa Salvación y Comunidad Nativa Palotoa - Teparo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Centro Poblado Villa Salvación y Comunidad Nativa Palotoa - Teparo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Comunidad Nativa Palotoa - Teparo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "1 a 5 estrellas en la Ciudad del Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de camionetas 4 x 4",
+      "observacion": "Ciudad del Cusco"
+    }
+  ],
+  "descripcion": "Se encuentran localizados en el “Pongo de Meganto, Zona Histórica cultural - PNM”, en las riberas del río Palotoa, afluente del río Alto Madre de Dios, dentro del territorio ancestral de la comunidad nativa Palotoa – Teparo, grupo étnico Matsiguenka, familia lingüística Arawak. De acuerdo a las investigaciones realizadas, los petroglifos fueron grabados por los antepasados del grupo étnico matsiguenka que tuvieron contacto con los Inkas. Los grabados se pueden encontrar en tres zonas, las cuales han sido categorizadas en A, B y C.\nLos Petroglifos del sector A de Pusharo se caracterizan por su estilo eminentemente geométrico y abstracto; los pocos motivos clasificables como figurativos son principalmente antropomorfos, en formas de cabeza o máscaras humanas, serpientes, huellas de felinos y representaciones del astro sol a la vez se puede observar algunos motivos peculiares compuestos de dos elementos una figura en forma de T, contorneada o simple, con un apéndice complejo o sencillo que desprende de la parte superior, se podría interpretar de manera especulativa como abstracciones de cabeza antropomorfa o zoomorfas (jaguar) adornados con penachos de pluma.\nLos grabados del sector B están ausentes los relieves pronunciados o dobles bordes, predominando las rectilíneas sobre las curvilíneas; se presenta depresiones rectangulares y en cuanto a los surcos de los grabados prevalece el perfil en V. En el sector “C” se pueden encontrar pocos petroglifos los cuales han resistido a la arremetida del río, por encontrarse a mayor altura los cuales son de surcos delgados y poco profundos diferentes a los de los sectores “A” y “B”.\nLos petroglifos de Pusharo denotan un gran interés turístico por los grabados que se puede encontrar en las tres paredes del río, además por el misticismo y la interacción que se realizan con la comunidad de Palotoa – Teparo, comunidad guardiana de estos petroglifos. Las paredes “A” y “B” se encuentran en buen estado de Conservación, mientras que la Pared “C” se encuentra en regular estado debido a la erosión de la piedra provocado por la corriente de agua del río Palotoa.",
+  "particularidades": "",
+  "estado_actual": "Regular, por encontrarse expuesto a la intemperie de la amazonía, estos restos arqueológicos muchas veces se cubren de musgos y líquenes en la pared grabada, lo cual requiere una limpieza constante.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Se encuentran localizados en el “Pongo de Meganto, Zona Histórica cultural - PNM”, en las riberas del río Palotoa, afluente del río Alto Madre de Dios, dentro del territorio ancestral de la comunidad nativa Palotoa – Teparo, grupo étnico Matsiguenka, familia lingüística Arawak. De acuerdo a las investigaciones realizadas, los petroglifos fueron grabados por los antepasados del grupo étnico matsiguenka que tuvieron contacto con los Inkas. Los grabados se pueden encontrar en tres zonas, las cuales han sido categorizadas en A, B y C.\nLos Petroglifos del sector A de Pusharo se caracterizan por su estilo eminentemente geométrico y abstracto; los pocos motivos clasificables como figurativos son principalmente antropomorfos, en formas de cabeza o máscaras humanas, serpientes, huellas de felinos y representaciones del astro sol a la vez se puede observar algunos motivos peculiares compuestos de dos elementos una figura en forma de T, contorneada o simple, con un apéndice complejo o sencillo que desprende de la parte superior, se podría interpretar de manera especulativa como abstracciones de cabeza antropomorfa o zoomorfas (jaguar) adornados con penachos de pluma.\nLos grabados del sector B están ausentes los relieves pronunciados o dobles bordes, predominando las rectilíneas sobre las curvilíneas; se presenta depresiones rectangulares y en cuanto a los surcos de los grabados prevalece el perfil en V. En el sector “C” se pueden encontrar pocos petroglifos los cuales han resistido a la arremetida del río, por encontrarse a mayor altura los cuales son de surcos delgados y poco profundos diferentes a los de los sectores “A” y “B”.\nLos petroglifos de Pusharo denotan un gran interés turístico por los grabados que se puede encontrar en las tres paredes del río, además por el misticismo y la interacción que se realizan con la comunidad de Palotoa – Teparo, comunidad guardiana de estos petroglifos. Las paredes “A” y “B” se encuentran en buen estado de Conservación, mientras que la Pared “C” se encuentra en regular estado debido a la erosión de la piedra provocado por la corriente de agua del río Palotoa."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "El 23 de enero del 2003 los petroglifos de Pusharo fueron reconocidos como Patrimonio Cultural de la Nación por el Instituto Nacional de Cultura mediante la Resolución Directoral Nacional N° 015/INC"
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Regular, por encontrarse expuesto a la intemperie de la amazonía, estos restos arqueológicos muchas veces se cubren de musgos y líquenes en la pared grabada, lo cual requiere una limpieza constante."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Nacionales\n4226\nSERNANP - MINCETUR\n2021\nTuristas Extranjeros\n389\nSERNANP - MINCETUR\n2021"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nCusco/Cusco/Cusco\n-\nMadre De Dios/Manu/Manu\nCiudad del Cusco - Localidad de Atalaya\nTerrestre\nMini bus turístico\nAsfaltado\n210 km. / 7 hr.\n1\nMadre De Dios/Manu/Manu\n-\nMadre De Dios/Manu/Manu\nLocalidad de Atalaya - Puesto de Control y Vigilancia Santa Cruz.\nLacustre / Fluvial\nBote\n34 km/2h\n1\nMadre De Dios/Manu/Manu\n-\nMadre De Dios/Manu/Manu\nPuesto de Control y Vigilancia Santa Cruz - Palotoa Teparo / Petroglifos de Pusharo\nLacustre / Fluvial\nBote\n28 km/ 5h"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nEn soles: 1 día: Ext.: 30 / Nac.: Adulto: 15 - Menor: 8 /Loc : 8 2 - 3 días: Ext.: 60 / Nac.: Adulto: 30 - Menor: 15 / Loc : 15 4 - 30 días: Ext.: 150 / Nac.: Adulto: 75 / Menor: 35 / Loc : 35"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n08:00 a.m.\n-\n02:00 p.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nEstudios e Investigación\n--\nNaturaleza\nObservación de paisaje\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nAlbergues\nComunidad Nativa Palotoa - Teparo.\nAlimentación\nRestaurantes\nCentro Poblado Villa Salvación y Comunidad Nativa Palotoa - Teparo\nAlimentación\nKioskos de comida y bebidas\nCentro Poblado Villa Salvación y Comunidad Nativa Palotoa - Teparo\nOtros Servicios Turísticos\nVenta de artesanía\nComunidad Nativa Palotoa - Teparo\nAlojamiento\nHoteles (especificar categorías)\n1 a 5 estrellas en la Ciudad del Cusco\nOtros Servicios Turísticos\nAlquiler de camionetas 4 x 4\nCiudad del Cusco"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCentro Poblado Villa Salvación\nBancos\nCentro Poblado Villa Salvación\nEstación de servicios, grifos, gasolineras y gasocentros\nCentro Poblado Villa Salvación\nCentro de salud - tópico\nCentro Poblado Villa Salvación\nSeguridad / POLTUR / Comisaría\nCentro Poblado Villa Salvación\nBodegas o minimarkets\nCentro Poblado Villa Salvación"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCentro Poblado Villa Salvación\nDesagüe\nCentro Poblado Villa Salvación\nLuz (Suministro Eléctrico)\nCentro Poblado Villa Salvación y Comunidad Nativa Palotoa - Teparo\nTeléfono\nCentro Poblado Villa Salvación\nSeñalización turística\nComunidad Nativa Palotoa - Teparo"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nServicio Nacional de Áreas Naturales Protegidas por el Estado – SERNANP\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nDecreto Supremo N° 0644-73-AG.\nAdministrador por\nNombre\nJefatura del Parque Nacional del Manu\nTiempo de administración\nDesde el año 1973"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo - Madre de Dios.\nNombre (Persona(s) responsable(s) del inventario turístico):\nRosa Milagros Delgado Huaytalla\nCargo:\nTécnico de producto turístico\nCorreo:\nrmilagrosd@gmail.com\nTeléfono:\n953458376\nFuentes Bibliográfica:\nPlan de Uso Turístico del Parque Nacional del Manu. Servicio Nacional de Áreas Naturales Protegidas por el Estado – SERNANP.\nMaterial Audiovisual actual del Recurso:\nFOTO, VIDEOS\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n19/05/2025 15:15:50"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -12.583948,
+    "longitud": -71.48865899999998
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-12.583948,-71.48865899999998"
+}

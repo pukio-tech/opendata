@@ -1,0 +1,473 @@
+{
+  "cod_ficha": 883,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=883",
+  "nombre": "Complejo Arqueológico Goñicutac",
+  "departamento": "Pasco",
+  "provincia": "Daniel Alcides Carrion",
+  "distrito": "YANAHUANCA",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Sitios Arqueológicos",
+  "subtipo": "Ciudadelas",
+  "jerarquia": "1",
+  "altitud": "3784 m.s.n.m",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=500508",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=500508",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=500492",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=500493",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=500494",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=500510",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=500511",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=500495",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=500496"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Estudios e Investigación",
+    "Naturaleza - Observación de fauna",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de paisaje",
+    "Deportes / Aventura - Caminata/Trekking",
+    "Cultura y Folclore - Visita y participación en actividades de vida cotidiana de la comunidad"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de fauna",
+      "observacion": "Vizcacha, gavilán.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fauna02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "Ichu, tarwi, muña, casha.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Visita y participación en actividades de vida cotidiana de la comunidad",
+      "observacion": "--",
+      "icono_url": null
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Pasco/Pasco/Chaupimarca - Pasco/Daniel Alcides Carrión/Yanahuanca",
+      "detalle": "Terminal Terrestre de Pasco-Ingreso al C.P Huaylasjirca",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Taxi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "60.74km/ 55 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Pasco/Daniel Alcides Carrión/Yanahuanca - Pasco/Daniel Alcides Carrión/Yanahuanca",
+      "detalle": "Ingreso al C.p Huaylasjirca- Plaza C.P Rocco",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Taxi",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "5.15 km/9 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Pasco/Daniel Alcides Carrión/Yanahuanca - Pasco/Daniel Alcides Carrión/Yanahuanca",
+      "detalle": "Plaza C.P Rocco-Complejo Arqueológico de Goñicutac",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Sendero",
+      "distancia_tiempo": "Plaza C.P Rocco-Complejo Arqueológico de Goñicutac"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Pasco/Daniel Alcides Carrión/Yanahuanca - Pasco/Daniel Alcides Carrión/Yanahuanca",
+      "detalle": "Plaza de Armas de Yanahuanca- Ingreso al C.P Huaylasjirca",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Taxi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "5.15 km/8 minutos"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Pasco/Daniel Alcides Carrión/Yanahuanca - Pasco/Daniel Alcides Carrión/Yanahuanca",
+      "detalle": "Ingreso al C.P Huaylasjirca- Plaza C.P Rocco",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Taxi",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "5.17 km/9 minutos"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Pasco/Daniel Alcides Carrión/Yanahuanca - Pasco/Daniel Alcides Carrión/Yanahuanca",
+      "detalle": "Plaza C.P Rocco-Complejo Arqueológico de Goñicutac",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Sendero",
+      "distancia_tiempo": "1.52km/32 min"
+    },
+    {
+      "recorrido": "3",
+      "tramo": "Lima/Lima/Independencia - Pasco/Pasco/Chaupimarca",
+      "detalle": "Plaza Norte-Terminal Terrestre de Pasco",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "246 km/8horas"
+    },
+    {
+      "recorrido": "3",
+      "tramo": "Pasco/Pasco/Chaupimarca - Pasco/Daniel Alcides Carrión/Yanahuanca",
+      "detalle": "Terminal Terrestre de Pasco-Ingreso al C.P Huaylasjirca",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Taxi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "60.74km/ 55 minutos"
+    },
+    {
+      "recorrido": "3",
+      "tramo": "Pasco/Daniel Alcides Carrión/Yanahuanca - Pasco/Daniel Alcides Carrión/Yanahuanca",
+      "detalle": "Ingreso al C.P Huaylasjirca- Plaza C.P Rocco",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Taxi",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "5.17 km/9 minutos"
+    },
+    {
+      "recorrido": "3",
+      "tramo": "Pasco/Daniel Alcides Carrión/Yanahuanca - Pasco/Daniel Alcides Carrión/Yanahuanca",
+      "detalle": "Plaza C.P Rocco-Complejo Arqueológico de Goñicutac",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Sendero",
+      "distancia_tiempo": "1.52km/32 min"
+    },
+    {
+      "recorrido": "4",
+      "tramo": "Huánuco/Huánuco/Pillco Marca - Pasco/Daniel Alcides Carrión/Yanahuanca",
+      "detalle": "Ovalo Cayhuayna-Terminal Yanahuanca",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Combi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "93.2 km/2 horas 57 minutos."
+    },
+    {
+      "recorrido": "4",
+      "tramo": "Pasco/Daniel Alcides Carrión/Yanahuanca - Pasco/Daniel Alcides Carrión/Yanahuanca",
+      "detalle": "Terminal Yanahuanca- Ingreso al C.P Huaylasjirca",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Taxi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "5.15 km/8 minutos"
+    },
+    {
+      "recorrido": "4",
+      "tramo": "Pasco/Daniel Alcides Carrión/Yanahuanca - Pasco/Daniel Alcides Carrión/Yanahuanca",
+      "detalle": "Ingreso al C.P Huaylasjirca- Plaza C.P Rocco",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Taxi",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "5.17 km/9 minutos"
+    },
+    {
+      "recorrido": "4",
+      "tramo": "Pasco/Daniel Alcides Carrión/Yanahuanca - Pasco/Daniel Alcides Carrión/Yanahuanca",
+      "detalle": "Plaza C.P Rocco- Complejo Arqueológico de Goñicutac",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Sendero",
+      "distancia_tiempo": "1.52km/32 min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "43",
+      "horario": "Registro de visitantes de la Comunidad campesina de Rocco",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "72",
+      "horario": "Registro de visitantes de la Comunidad campesina de Rocco",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "08:00 a.m. - 04:00 p.m. Llevar bloqueador, agua, gorro, fruta, ropa adecuada y zapatillas.",
+      "observaciones": "Llevar bloqueador, agua, gorro, fruta, ropa adecuada y zapatillas."
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "Adultos: S/. 5.00 Niños: S/. 2.00"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Paradores turísticos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos de herradura (caballo)",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Otros (especificar)",
+      "observacion": "Modulo de atencion."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "2 estrellas - Ciudad de Yanahuanca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Yanahuanca."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Yanahuanca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Yanahuanca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Yanahuanca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Ciudad de Yanahuanca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Yanahuanca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Ciudad de Yanahuanca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Yanahuanca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de Yanahuanca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de Caballos",
+      "observacion": "C.P Rocco. 50 soles por persona."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Yanahuanca."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Ciudad de Yanahuanca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "Ciudad de Yanahuanca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Yanahuanca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "Ciudad de Yanahuanca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Ciudad de Yanahuanca. Municipalidad Provincial Daniel A. Carrión."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Boletería",
+      "observacion": "C.P de Rocco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "Ciudad de Yanahuanca"
+    }
+  ],
+  "descripcion": "Se ubica a un kilómetro del centro poblado de Rocco, subiendo una cuesta hasta la falda baja del cerro Matagaga, donde aflora un “Bosque de Rocas” en cuyo interior está asentado el sitio arqueológico. Tiene un área aproximada de seis hectáreas. Los estudios analíticos de la arquitectura arqueológica de estos edificios permiten apreciar las técnicas constructivas Yarush intermedia tardía (1,100-1,470 d.C.)\nSu construcción consta de farallones emergentes, todos de roca metamórfica, tienen una elevación promedio entre 20 m. y 40 m. y sus alturas terminan en picos erosionados por las lluvias. La gente que construyó Goñicutac utilizó el espacio bajo para construir espacios a cielo abierto adaptados a la topografía de la suave ladera: un espacio plano de morfología triangular, los muros laterales conformados por piedras de campo que, a su vez, configuran terrazas en sus superficies conectadas por escaleras laterales. Las áreas laterales de estos espacios centrales abiertos se prolongan por medio de andenes y terracerías hacia los tercios medios de los farallones inmediatamente rodeantes del terreno central. Los edificios arqueológicos están asentados, adaptados y construidos en las partes planas, aplanadas y aterrazadas del área central de la suave ladera baja del cerro Matagaga. Aquí encontramos edificaciones circulares a semidesnivel, construcciones de planta ovaladas, muchas veces adheridas a peñas grandes emergentes y seis edificios arquitectónicos funerarios de distribución lateralizada casi simétrica con cámaras mortuorias interiores.\nToda la zona arqueológica Goñicutac, está cubierto de vegetales como: el ichu, casha, quinual, eucalipto, muña. También se puede observar aves como: gavilán y fauna como: vizcacha. La entrada actual, con reja metálica asociada al camino por el que se llega al sitio arqueológico desde Rocco, es moderna y construida por el centro poblado para el Turismo. Asimismo, se puede encontrar una caseta de orientación. Desde el lugar se puede apreciar a los pueblos de Rocco, Yanahunaca, Chipipata. Es un lugar ideal para la observación de paisajes, tomas de fotografías.\nEn la actualidad el sitio arqueológico no cuenta con declaratoria como Patrimonio Cultural de la Nación.",
+  "particularidades": "",
+  "estado_actual": "Bueno, porque la Comunidad Campesina en coordinación con la Municipalidad del Centro Poblado de Rocco realizan el mantenimiento del acceso permanente.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Se ubica a un kilómetro del centro poblado de Rocco, subiendo una cuesta hasta la falda baja del cerro Matagaga, donde aflora un “Bosque de Rocas” en cuyo interior está asentado el sitio arqueológico. Tiene un área aproximada de seis hectáreas. Los estudios analíticos de la arquitectura arqueológica de estos edificios permiten apreciar las técnicas constructivas Yarush intermedia tardía (1,100-1,470 d.C.)\nSu construcción consta de farallones emergentes, todos de roca metamórfica, tienen una elevación promedio entre 20 m. y 40 m. y sus alturas terminan en picos erosionados por las lluvias. La gente que construyó Goñicutac utilizó el espacio bajo para construir espacios a cielo abierto adaptados a la topografía de la suave ladera: un espacio plano de morfología triangular, los muros laterales conformados por piedras de campo que, a su vez, configuran terrazas en sus superficies conectadas por escaleras laterales. Las áreas laterales de estos espacios centrales abiertos se prolongan por medio de andenes y terracerías hacia los tercios medios de los farallones inmediatamente rodeantes del terreno central. Los edificios arqueológicos están asentados, adaptados y construidos en las partes planas, aplanadas y aterrazadas del área central de la suave ladera baja del cerro Matagaga. Aquí encontramos edificaciones circulares a semidesnivel, construcciones de planta ovaladas, muchas veces adheridas a peñas grandes emergentes y seis edificios arquitectónicos funerarios de distribución lateralizada casi simétrica con cámaras mortuorias interiores.\nToda la zona arqueológica Goñicutac, está cubierto de vegetales como: el ichu, casha, quinual, eucalipto, muña. También se puede observar aves como: gavilán y fauna como: vizcacha. La entrada actual, con reja metálica asociada al camino por el que se llega al sitio arqueológico desde Rocco, es moderna y construida por el centro poblado para el Turismo. Asimismo, se puede encontrar una caseta de orientación. Desde el lugar se puede apreciar a los pueblos de Rocco, Yanahunaca, Chipipata. Es un lugar ideal para la observación de paisajes, tomas de fotografías.\nEn la actualidad el sitio arqueológico no cuenta con declaratoria como Patrimonio Cultural de la Nación."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, porque la Comunidad Campesina en coordinación con la Municipalidad del Centro Poblado de Rocco realizan el mantenimiento del acceso permanente."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Nacionales\n43\nRegistro de visitantes de la Comunidad campesina de Rocco\n2022\nValidada por la Dircetur Pasco\nVisitantes Locales(Excursionistas)\n72\nRegistro de visitantes de la Comunidad campesina de Rocco\n2022\nValidada por la Dircetur Pasco"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nPasco/Pasco/Chaupimarca\n-\nPasco/Daniel Alcides Carrión/Yanahuanca\nTerminal Terrestre de Pasco-Ingreso al C.P Huaylasjirca\nTerrestre\nTaxi\nAsfaltado\n60.74km/ 55 minutos\n1\nPasco/Daniel Alcides Carrión/Yanahuanca\n-\nPasco/Daniel Alcides Carrión/Yanahuanca\nIngreso al C.p Huaylasjirca- Plaza C.P Rocco\nTerrestre\nTaxi\nTrocha carrozable\n5.15 km/9 minutos\n1\nPasco/Daniel Alcides Carrión/Yanahuanca\n-\nPasco/Daniel Alcides Carrión/Yanahuanca\nPlaza C.P Rocco-Complejo Arqueológico de Goñicutac\nTerrestre\nA pie\nSendero\nPlaza C.P Rocco-Complejo Arqueológico de Goñicutac\n2\nPasco/Daniel Alcides Carrión/Yanahuanca\n-\nPasco/Daniel Alcides Carrión/Yanahuanca\nPlaza de Armas de Yanahuanca- Ingreso al C.P Huaylasjirca\nTerrestre\nTaxi\nAsfaltado\n5.15 km/8 minutos\n2\nPasco/Daniel Alcides Carrión/Yanahuanca\n-\nPasco/Daniel Alcides Carrión/Yanahuanca\nIngreso al C.P Huaylasjirca- Plaza C.P Rocco\nTerrestre\nTaxi\nTrocha carrozable\n5.17 km/9 minutos\n2\nPasco/Daniel Alcides Carrión/Yanahuanca\n-\nPasco/Daniel Alcides Carrión/Yanahuanca\nPlaza C.P Rocco-Complejo Arqueológico de Goñicutac\nTerrestre\nA pie\nSendero\n1.52km/32 min\n3\nLima/Lima/Independencia\n-\nPasco/Pasco/Chaupimarca\nPlaza Norte-Terminal Terrestre de Pasco\nTerrestre\nBus público\nAsfaltado\n246 km/8horas\n3\nPasco/Pasco/Chaupimarca\n-\nPasco/Daniel Alcides Carrión/Yanahuanca\nTerminal Terrestre de Pasco-Ingreso al C.P Huaylasjirca\nTerrestre\nTaxi\nAsfaltado\n60.74km/ 55 minutos\n3\nPasco/Daniel Alcides Carrión/Yanahuanca\n-\nPasco/Daniel Alcides Carrión/Yanahuanca\nIngreso al C.P Huaylasjirca- Plaza C.P Rocco\nTerrestre\nTaxi\nTrocha carrozable\n5.17 km/9 minutos\n3\nPasco/Daniel Alcides Carrión/Yanahuanca\n-\nPasco/Daniel Alcides Carrión/Yanahuanca\nPlaza C.P Rocco-Complejo Arqueológico de Goñicutac\nTerrestre\nA pie\nSendero\n1.52km/32 min\n4\nHuánuco/Huánuco/Pillco Marca\n-\nPasco/Daniel Alcides Carrión/Yanahuanca\nOvalo Cayhuayna-Terminal Yanahuanca\nTerrestre\nCombi\nAsfaltado\n93.2 km/2 horas 57 minutos.\n4\nPasco/Daniel Alcides Carrión/Yanahuanca\n-\nPasco/Daniel Alcides Carrión/Yanahuanca\nTerminal Yanahuanca- Ingreso al C.P Huaylasjirca\nTerrestre\nTaxi\nAsfaltado\n5.15 km/8 minutos\n4\nPasco/Daniel Alcides Carrión/Yanahuanca\n-\nPasco/Daniel Alcides Carrión/Yanahuanca\nIngreso al C.P Huaylasjirca- Plaza C.P Rocco\nTerrestre\nTaxi\nTrocha carrozable\n5.17 km/9 minutos\n4\nPasco/Daniel Alcides Carrión/Yanahuanca\n-\nPasco/Daniel Alcides Carrión/Yanahuanca\nPlaza C.P Rocco- Complejo Arqueológico de Goñicutac\nTerrestre\nA pie\nSendero\n1.52km/32 min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nAdultos: S/. 5.00\nNiños: S/. 2.00"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n08:00 a.m.\n-\n04:00 p.m.\nLlevar bloqueador, agua, gorro, fruta, ropa adecuada y zapatillas."
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nEstudios e Investigación\n--\nNaturaleza\nObservación de fauna\nVizcacha, gavilán.\nNaturaleza\nObservación de flora\nIchu, tarwi, muña, casha.\nNaturaleza\nObservación de paisaje\n--\nDeportes / Aventura\nCaminata/Trekking\n--\nCultura y Folclore\nVisita y participación en actividades de vida cotidiana de la comunidad\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Públicas\nServicios Públicos\nMiradores turísticos\n--\nInstalaciones Públicas\nServicios Públicos\nSeñales turísticas de orientación\n--\nInstalaciones Públicas\nServicios Públicos\nParadores turísticos\n--\nInstalaciones Públicas\nServicios Públicos\nCaminos de herradura (caballo)\n--\nInstalaciones Públicas\nServicios Públicos\nOtros (especificar)\nModulo de atencion."
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\n2 estrellas - Ciudad de Yanahuanca\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Yanahuanca.\nAlimentación\nRestaurantes\nCiudad de Yanahuanca\nAlimentación\nBares\nCiudad de Yanahuanca\nAlimentación\nCafeterías\nCiudad de Yanahuanca\nAlimentación\nFuentes de soda\nCiudad de Yanahuanca\nAlimentación\nKioskos de comida y bebidas\nCiudad de Yanahuanca\nAlimentación\nVenta de comida Rápida\nCiudad de Yanahuanca\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Yanahuanca\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de Yanahuanca\nOtros Servicios Turísticos\nAlquiler de Caballos\nC.P Rocco. 50 soles por persona.\nLugares de Recreación\nDiscotecas\nCiudad de Yanahuanca.\nLugares de Recreación\nCentros Deportivos\nCiudad de Yanahuanca\nLugares de Recreación\nKaraoke\nCiudad de Yanahuanca\nLugares de Recreación\nBares\nCiudad de Yanahuanca\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\nCiudad de Yanahuanca\nServicios Públicos\nOficina de Información turística\nCiudad de Yanahuanca. Municipalidad Provincial Daniel A. Carrión.\nServicios Públicos\nBoletería\nC.P de Rocco\nServicios Públicos\nCaminos peatonales\nCiudad de Yanahuanca"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nSeñal de Bitel, Entel Ciudad de Yanahuanca\nBancos\nBanco de la Nación en la Ciudad de Yanahuanca\nCajero automático\nBanco de la Nación, Bcp, Continental, interbank. Ciudad de Yanahuanca\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Yanahuanca\nServicio de estacionamiento\nCiudad de Yanahuanca\nServicios de taxis\nCiudad de Yanahuanca\nCentro de salud - tópico\nCiudad de Yanahuanca\nVenta de materiales para fotografías\nCiudad de Yanahuanca\nSeguridad / POLTUR / Comisaría\nCiudad de Yanahuanca\nAlquiler y compra de equipos deportivos\nCiudad de Yanahuanca\nLibrerías\nCiudad de Yanahuanca\nBodegas o minimarkets\nCiudad de Yanahuanca"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nSeñalización turística\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Yanahuanca y C.P de Rocco\nLuz (Suministro Eléctrico)\nCiudad de Yanahuanca y C.P de Rocco\nTeléfono\nClaro, Bitel, Entel, Movistar en la ciudad de Yanahuanca y C.P de Rocco Bitel y Movistar.\nAlcantarillado sanitario\nCiudad de Yanahuanca y C.P de Rocco\nSistemas de tratamiento alternativo de residuos (Biodigestor, pozo séptico, otros)\nCiudad de Yanahuanca y C.P de Rocco\nSeñalización turística\nCiudad de Yanahuanca y C.P de Rocco"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nMinisterio de Cultura\nPrivado:\n--\nOtra Situación:\nSe encuentra en la jurisdicción de la Comunidad Campesina de Rocco\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nPartida Electrónica\nNúmero de Partida:\n11021784\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nAdministrador por\nNombre\nComunidad Campesina de Rocco\nTiempo de administración\nDesde el año 2018"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo de Pasco\nNombre (Persona(s) responsable(s) del inventario turístico):\nAna María Mamani Olivas\nCargo:\nDirectora de Turismo\nCorreo:\nmaryanaamo@gmail.com\nTeléfono:\n962071730\nFuentes Bibliográfica:\n1) Libro “Goñincutac, una maravilla de la gran nación Yaro, Provincia de Daniel Alcides Carrión-Pasco” por Leano Vera, Pedro. Pasco 2014.\n2) Libro “Arqueología: Excavaciones y estudios arqueológicos en el distrito de Yanahuanca, región Pasco. Bueno Mendoza, Alberto. Lima 2018.\n3) Turismo en Conjunto Arqueológico Goñicutac por Turismoi.pe (Plataforma digital de venta en Latinoamérica) - https://turismoi.pe/arqueologia/sitio-arqueologico/conjunto-arqueologico-gonicutac.htm\n4) Complejo Arqueológico de Goñicutac por Let’s Visit Peru (Portal Web) -https://letsvisitperu.com/es/complejo-arqueologico-de-gonicutac.html\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\nEn el año 2019 se instalaron las señaléticas y módulo de atención por la Municipalidad Provincial de Daniel Alcides Carrión.\nFecha:\n25/09/2023 12:40:23"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -10.486932756588798,
+    "longitud": -76.48348005886078
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-10.486932756588798,-76.48348005886078"
+}

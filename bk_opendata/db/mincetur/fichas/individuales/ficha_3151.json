@@ -1,0 +1,395 @@
+{
+  "cod_ficha": 3151,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=3151",
+  "nombre": "Plaza De Armas De Pachacámac",
+  "departamento": "Lima",
+  "provincia": "Lima",
+  "distrito": "PACHACAMAC",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Arquitectura y Espacios Urbanos",
+  "subtipo": "Plazas",
+  "jerarquia": "1",
+  "altitud": "69",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=587241",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=587241",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=587242",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=587243",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=587244",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=587245",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=587246",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=587247",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=587229",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=587230"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Cultura y Folclore - Actividades Religiosas o Patronales",
+    "Otros - Realización de eventos",
+    "Cultura y Folclore - Ferias",
+    "Cultura y Folclore - Apreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Actividades Religiosas o Patronales",
+      "observacion": "Fiesta Patronal de la Santísima Virgen del Rosario, Fiesta Patronal del Santísimo Salvador de Pachacámac",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/act_religiosas02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Realización de eventos",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/eventos02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Ferias",
+      "observacion": "Sabados y Domingos",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/feria02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Apreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)",
+      "observacion": "Presentación de bandas musicales en festividades",
+      "icono_url": null
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Lima/Lima/Lima - Lima/Lima/Pachacamac",
+      "detalle": "Paseo Colón - Cruce Pachacámac",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "40.2 Km / 1h 50 Min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Lima/Lima/Pachacamac - Lima/Lima/Pachacamac",
+      "detalle": "Cruce Pachacámac - Plaza de Armas de Pachacámac",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "4.6 Km / 8 Min."
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "25830",
+      "horario": "Conteo muestral realizado por la Municipalidad Distrital de Pachacámac",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "07:00 a.m. - 08:00 p.m. --",
+      "observaciones": "--"
+    },
+    {
+      "epoca": "Personas con discapacidad física",
+      "especificacion": "Rampas",
+      "horario": "--",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Oficina de Información",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Seguridad / POLTUR",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicios Higiénicos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de taxi",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Cines o Teatros",
+      "observacion": "Ciudad de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Ciudad de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Ciudad de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Ciudad de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "Ciudad de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de bicicleta",
+      "observacion": "Ciudad de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Inglés y portugués. Ciudad de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Ciudad de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Ciudad de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "Ciudad de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de interpretación",
+      "observacion": "Ciudad de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Boletería",
+      "observacion": "Ciudad de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "Ciudad de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Centros de interpretación",
+      "observacion": "Ciudad de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Ciudad de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Puesto de auxilio rápido",
+      "observacion": "Ciudad de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Museo de Sitio Turísticos",
+      "observacion": "Ciudad de Pachacámac"
+    }
+  ],
+  "descripcion": "Los orígenes de la Plaza de Armas de Pachacámac se remontan a la fundación española del pueblo Santísimo Salvador de Pachacámac, por el Virrey Francisco de Toledo en 1573, cuando se trazó el plano urbanístico virreinal en forma de damero, con hitos arquitectónicos como la Iglesia Santísimo Salvador y el ayuntamiento, marcando la organización urbana de la localidad, donde la Plaza de Armas es el centro neurálgico de la vida social, religiosa y política de entonces. La plaza cuenta con seis accesos principales, jardines, mobiliario urbano de madera y farolas de hierro forjado. Destaca la glorieta ubicada en la parte central de la plaza, construida en 1915 sobre un antiguo pozo de agua que abastecía a gran parte de la población pachacamina. Esta glorieta fue usada durante muchos años como estrado donde se celebraron los acontecimientos más importantes como celebraciones y recibimiento de altas autoridades. Renovada en varias ocasiones, la última gran remodelación tuvo lugar en 2016, conservando la originalidad de su diseño arquitectónico virreinal, constituyéndose en símbolo de la plaza y escenario central para actividades sociales y cívicas, retretas y otros eventos públicos. Otro elemento que resalta es la escultura en honor al Caballo Peruano de Paso, inaugurada el 30 de setiembre de 2024 y diseñada por personal de la Gerencia de Servicios a la Ciudad de la Municipalidad Distrital de Pachacámac, elevándose hasta dos metros de altura, muestra un chalán montado sobre un majestuoso caballo peruano de paso, tributo a una de las tradiciones más representativas de la cultura peruana y local. La Plaza de Armas de Pachacámac se encuentra en buen estado de conservación y es un espacio público vibrante de interacción social, cultural y turística, donde los fines de semana se realiza la Feria Turística Municipal, evento que promueve la gastronomía y artesanía. Así también es el espacio central de las más importantes festividades religiosas locales como la Fiesta Patronal de la Santísima Virgen del Rosario de Pachacámac, que se celebra del 7 al 9 de octubre, y la Fiesta Patronal del Santísimo Salvador de Pachacámac, el 06 de agosto, fecha que también se comparte con el de la fundación española de Pachacámac. Estas festividades congregan a la comunidad en actos de devoción y celebraciones tradicionales, con música en vivo y eventos que refuerzan el sentido de identidad cultural. La combinación de estas festividades, junto con las actividades culturales y la oferta gastronómica de la feria, convierte a la Plaza de Armas no solo en un punto de encuentro histórico, sino en el corazón festivo y cultural de Pachacámac.",
+  "particularidades": "",
+  "estado_actual": "Estado de conservación bueno, gracias al mantenimiento y cuidados a cargo de la Municipalidad Distrital de Pachacámac.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Los orígenes de la Plaza de Armas de Pachacámac se remontan a la fundación española del pueblo Santísimo Salvador de Pachacámac, por el Virrey Francisco de Toledo en 1573, cuando se trazó el plano urbanístico virreinal en forma de damero, con hitos arquitectónicos como la Iglesia Santísimo Salvador y el ayuntamiento, marcando la organización urbana de la localidad, donde la Plaza de Armas es el centro neurálgico de la vida social, religiosa y política de entonces. La plaza cuenta con seis accesos principales, jardines, mobiliario urbano de madera y farolas de hierro forjado. Destaca la glorieta ubicada en la parte central de la plaza, construida en 1915 sobre un antiguo pozo de agua que abastecía a gran parte de la población pachacamina. Esta glorieta fue usada durante muchos años como estrado donde se celebraron los acontecimientos más importantes como celebraciones y recibimiento de altas autoridades. Renovada en varias ocasiones, la última gran remodelación tuvo lugar en 2016, conservando la originalidad de su diseño arquitectónico virreinal, constituyéndose en símbolo de la plaza y escenario central para actividades sociales y cívicas, retretas y otros eventos públicos. Otro elemento que resalta es la escultura en honor al Caballo Peruano de Paso, inaugurada el 30 de setiembre de 2024 y diseñada por personal de la Gerencia de Servicios a la Ciudad de la Municipalidad Distrital de Pachacámac, elevándose hasta dos metros de altura, muestra un chalán montado sobre un majestuoso caballo peruano de paso, tributo a una de las tradiciones más representativas de la cultura peruana y local. La Plaza de Armas de Pachacámac se encuentra en buen estado de conservación y es un espacio público vibrante de interacción social, cultural y turística, donde los fines de semana se realiza la Feria Turística Municipal, evento que promueve la gastronomía y artesanía. Así también es el espacio central de las más importantes festividades religiosas locales como la Fiesta Patronal de la Santísima Virgen del Rosario de Pachacámac, que se celebra del 7 al 9 de octubre, y la Fiesta Patronal del Santísimo Salvador de Pachacámac, el 06 de agosto, fecha que también se comparte con el de la fundación española de Pachacámac. Estas festividades congregan a la comunidad en actos de devoción y celebraciones tradicionales, con música en vivo y eventos que refuerzan el sentido de identidad cultural. La combinación de estas festividades, junto con las actividades culturales y la oferta gastronómica de la feria, convierte a la Plaza de Armas no solo en un punto de encuentro histórico, sino en el corazón festivo y cultural de Pachacámac."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Estado de conservación bueno, gracias al mantenimiento y cuidados a cargo de la Municipalidad Distrital de Pachacámac."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nVisitantes Locales(Excursionistas)\n25830\nConteo muestral realizado por la Municipalidad Distrital de Pachacámac\n2024\nValidado por la MML"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nLima/Lima/Lima\n-\nLima/Lima/Pachacamac\nPaseo Colón - Cruce Pachacámac\nTerrestre\nAutomóvil particular\nAsfaltado\n40.2 Km / 1h 50 Min.\n1\nLima/Lima/Pachacamac\n-\nLima/Lima/Pachacamac\nCruce Pachacámac - Plaza de Armas de Pachacámac\nTerrestre\nAutomóvil particular\nAsfaltado\n4.6 Km / 8 Min."
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n07:00 a.m.\n-\n08:00 p.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nCultura y Folclore\nActividades Religiosas o Patronales\nFiesta Patronal de la Santísima Virgen del Rosario, Fiesta Patronal del Santísimo Salvador de Pachacámac\nOtros\nRealización de eventos\n--\nCultura y Folclore\nFerias\nSabados y Domingos\nCultura y Folclore\nApreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)\nPresentación de bandas musicales en festividades"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nOtros Servicios Turísticos\nOficina de Información\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nSeguridad / POLTUR\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nServicios Higiénicos\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nServicio de taxi\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nLugares de Recreación\nDiscotecas\nCiudad de Pachacámac\nLugares de Recreación\nCines o Teatros\nCiudad de Pachacámac\nLugares de Recreación\nJuegos Infantiles\nCiudad de Pachacámac\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nCiudad de Pachacámac\nLugares de Recreación\nCentros Deportivos\nCiudad de Pachacámac\nLugares de Recreación\nKaraoke\nCiudad de Pachacámac\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Pachacámac\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de Pachacámac\nOtros Servicios Turísticos\nAlquiler de bicicleta\nCiudad de Pachacámac\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nInglés y portugués. Ciudad de Pachacámac\nAlimentación\nRestaurantes\nCiudad de Pachacámac\nAlimentación\nBares\nCiudad de Pachacámac\nAlimentación\nCafeterías\nCiudad de Pachacámac\nAlimentación\nFuentes de soda\nCiudad de Pachacámac\nAlimentación\nKioskos de comida y bebidas\nCiudad de Pachacámac\nAlimentación\nVenta de comida Rápida\nCiudad de Pachacámac\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Pachacámac\nServicios Públicos\nSeñales turísticas de orientación\nCiudad de Pachacámac\nServicios Públicos\nSeñales turísticas de interpretación\nCiudad de Pachacámac\nServicios Públicos\nBoletería\nCiudad de Pachacámac\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\nCiudad de Pachacámac\nServicios Públicos\nCentros de interpretación\nCiudad de Pachacámac\nServicios Públicos\nOficina de Información turística\nCiudad de Pachacámac\nServicios Públicos\nPuesto de auxilio rápido\nCiudad de Pachacámac\nServicios Públicos\nMuseo de Sitio Turísticos\nCiudad de Pachacámac"
+    },
+    {
+      "titulo": "Servicios Complementarios dentro del recurso",
+      "contenido": "Servicio Complementario\nObservación\nServicio de estacionamiento\n--"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Pachacámac\nBancos\nCiudad de Pachacámac\nCajero automático\nCiudad de Pachacámac\nCasa de cambio\nCiudad de Pachacámac\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Pachacámac\nServicio de correos\nCiudad de Pachacámac\nServicio de estacionamiento\nCiudad de Pachacámac\nServicios de taxis\nCiudad de Pachacámac\nCentro de salud - tópico\nCiudad de Pachacámac\nVenta de materiales para fotografías\nCiudad de Pachacámac\nSeguridad / POLTUR / Comisaría\nCiudad de Pachacámac\nAlquiler y compra de equipos deportivos\nCiudad de Pachacámac\nLibrerías\nCiudad de Pachacámac\nBodegas o minimarkets\nCiudad de Pachacámac"
+    },
+    {
+      "titulo": "Condiciones de Accesibilidad al Visitante",
+      "contenido": "Visitante\nInstalación\nActividades y/o programas\nEquipamiento\nObservación\nPersonas con discapacidad física\nRampas\n--\n--\n--"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\n--\nLuz (Suministro Eléctrico)\n--\nAlcantarillado sanitario\n--\nSeñalización turística\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Pachacámac\nAlcantarillado sanitario\nCiudad de Pachacámac\nLuz (Suministro Eléctrico)\nCiudad de Pachacámac\nTeléfono\nCiudad de Pachacámac\nSeñalización turística\nCiudad de Pachacámac"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nEstado Peruano - Superintendencia Nacional de Bienes Estatales\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nPartida Registral\nNúmero de Partida:\n03234597\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nMunicipalidad Distrital de Pachacámac\nTiempo de administración\nDesde 1890"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nMunicipalidad Metropolitana de Lima - Municipalidad Distrital de Pachacámac\nNombre (Persona(s) responsable(s) del inventario turístico):\nAlex Reaño Torres - Guadalupe del Carmen Vásquez Meza\nCargo:\nEspecialista en Turismo - Gerente de Turismo, Cultura y Asuntos Internacionales\nCorreo:\nalexreanotorres@gmail.com - gvasquezm@munipachacamac.gob.pe\nTeléfono:\n01-6321801 / 957955889\nFuentes Bibliográfica:\n• Chaca, P. (2011). Pachacámac y su historia. Fondo Editorial de la Universidad Nacional Mayor de San Marcos. Lima, Perú.\n• Chipana, J. Municipalidad Distrital de Pachacámac. (2022). Libro de Oro. Pachacámac, historia del distrito.\n• Municipalidad Distrital de Pachacámac. (2022). Plan de Desarrollo Turístico Local de Pachacámac 2022-2026.\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n18/03/2025 12:23:13"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -12.229907689595796,
+    "longitud": -76.8593966960907
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-12.229907689595796,-76.8593966960907"
+}

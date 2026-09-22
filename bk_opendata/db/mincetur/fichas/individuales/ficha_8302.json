@@ -1,0 +1,259 @@
+{
+  "cod_ficha": 8302,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=8302",
+  "nombre": "Hacienda Luisiana",
+  "departamento": "Ayacucho",
+  "provincia": "La Mar",
+  "distrito": "SANTA ROSA",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Arquitectura y Espacios Urbanos",
+  "subtipo": "Casa-Hacienda",
+  "jerarquia": "1",
+  "altitud": "612",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=513721",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=513721",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=513665",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=513666",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=513722",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=513723",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=513725",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=513667",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=521465",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=521549",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=521466",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=521467",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=521468"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Naturaleza - Observación de fauna",
+    "Naturaleza - Observación de paisaje",
+    "Deportes / Aventura - Camping",
+    "Paseos - Sobrevuelo en aeronaves"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de fauna",
+      "observacion": "Peces diversos como el paco, trucha, bagre entre otros.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fauna02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Camping",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/camping02.png"
+    },
+    {
+      "actividad": "Paseos",
+      "tipo": "Sobrevuelo en aeronaves",
+      "observacion": "Previa coordinación se realizan paseos con avioneta",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/aeronave02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Ayacucho/La Mar/Santa Rosa - Ayacucho/La Mar/Santa Rosa",
+      "detalle": "Plaza principal de Santa Rosa - Hacienda Luisiana",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Combi",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "2 km / 10 min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "1710",
+      "horario": "Muestreo de visitantes al Recurso Turistico",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "270",
+      "horario": "Conteo muestral de visita al Recurso Turistico",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "06:00 a.m. - 07:00 p.m. --",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Lugares de picnic",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Santa Rosa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Santa Rosa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Santa Rosa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Ciudad de Santa Rosa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Santa Rosa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de camionetas 4 x 4",
+      "observacion": "Ciudad de Santa Rosa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "Ciudad de Santa Rosa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "Ciudad de Santa Rosa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Santa Rosa"
+    }
+  ],
+  "descripcion": "Ubicada a 2 km de la localidad de Santa Rosa, en el anexo de Unión Luisiana, al margen izquierdo del río Apurímac, cuyo espacio comprende 72 hectáreas, la cual fue propiedad de la familia Parodi, la construcción es de la época contemporánea, data del año 1950 por José Parodi y Goyita Morales,\nesta hacienda en sus inicios se dedicaba a la producción de la caña de azúcar, árboles frutales y a la vez contaba con un embarcadero para la gente que transitaba en bote desde San Francisco y Palma Pampa,\na raíz de la dificultad del desarrollo agrícola, los propietarios decidieron construir un aeródromo, Recibió la autorización de la Dirección General de Aeronáutica Civil con R.D. N°110 en el año 1957, medio por la cual se recibía visita e iniciaba la actividad económica y turística.\nEste lugar ha sido catalogado como el “edén”, “la ciudad perdida”, entre otros términos, por la zona paradisíaca que posee,\nLa hacienda se caracteriza por su construcción modernista, el cual está hecho de canto rodado con mortero de cemento y techo de Eternit con vigas de madera, puertas anchas y altas, ventanas amplias con el camino exterior empedrado, en el interior cuenta con habitaciones amplias, establo y corrales para animales domesticos, área de procesamiento y destilado de caña de azúcar, cuyas piezas se encuentran bien conservadas y son expuestas a los visitantes la explicación de cómo se desarrollaba todo el proceso del cultivo de caña desde la siembra hasta el proceso de comercialización, asimismo, cuenta con criadero de peces, a su vez tiene plantones de coco, árboles de caoba, palma aceitera, cedro rojo, naranjos. En coordinación con la municipalidad o la comunidad, se puede desarrollar actividades como: sobrevuelo en avioneta, camping y excursiones hacia el interior de las plantaciones para observar algunas aves.\nPor su peculiaridad, facilidades de acceso, belleza paisajística y amplio espacio, genera el interés de los visitantes para desarrollar el turismo vivencial, complementa el ambiente el clima tropical, que invita a disfrutar de tomar el sol y refrescarse en sus aguas porque se encuentra a 630 msnm a 23 ° C.\ndatos relevantes sobre expediciones científicas y reuniones en la hacienda resaltan que el año 1958 se desarrolló la Asamblea del Banco Mundial para el financiamiento de la carretera Ayacucho - San Francisco; año 1960 Se recibió la visita de la expedición Científica Aves del Perú (Jhon P. O'neill &Jhon Terqborg); año 1963 se recibió la expedición National Geographic al Vilcabamba (En Busca de la Ciudad Perdida).",
+  "particularidades": "",
+  "estado_actual": "Regular. bajo el cuidado de la comunidad y de la municipalidad, acondicionada para fines turísticos",
+  "observaciones": "está rodeada de flora y fauna variada con un paisaje natural.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Ubicada a 2 km de la localidad de Santa Rosa, en el anexo de Unión Luisiana, al margen izquierdo del río Apurímac, cuyo espacio comprende 72 hectáreas, la cual fue propiedad de la familia Parodi, la construcción es de la época contemporánea, data del año 1950 por José Parodi y Goyita Morales,\nesta hacienda en sus inicios se dedicaba a la producción de la caña de azúcar, árboles frutales y a la vez contaba con un embarcadero para la gente que transitaba en bote desde San Francisco y Palma Pampa,\na raíz de la dificultad del desarrollo agrícola, los propietarios decidieron construir un aeródromo, Recibió la autorización de la Dirección General de Aeronáutica Civil con R.D. N°110 en el año 1957, medio por la cual se recibía visita e iniciaba la actividad económica y turística.\nEste lugar ha sido catalogado como el “edén”, “la ciudad perdida”, entre otros términos, por la zona paradisíaca que posee,\nLa hacienda se caracteriza por su construcción modernista, el cual está hecho de canto rodado con mortero de cemento y techo de Eternit con vigas de madera, puertas anchas y altas, ventanas amplias con el camino exterior empedrado, en el interior cuenta con habitaciones amplias, establo y corrales para animales domesticos, área de procesamiento y destilado de caña de azúcar, cuyas piezas se encuentran bien conservadas y son expuestas a los visitantes la explicación de cómo se desarrollaba todo el proceso del cultivo de caña desde la siembra hasta el proceso de comercialización, asimismo, cuenta con criadero de peces, a su vez tiene plantones de coco, árboles de caoba, palma aceitera, cedro rojo, naranjos. En coordinación con la municipalidad o la comunidad, se puede desarrollar actividades como: sobrevuelo en avioneta, camping y excursiones hacia el interior de las plantaciones para observar algunas aves.\nPor su peculiaridad, facilidades de acceso, belleza paisajística y amplio espacio, genera el interés de los visitantes para desarrollar el turismo vivencial, complementa el ambiente el clima tropical, que invita a disfrutar de tomar el sol y refrescarse en sus aguas porque se encuentra a 630 msnm a 23 ° C.\ndatos relevantes sobre expediciones científicas y reuniones en la hacienda resaltan que el año 1958 se desarrolló la Asamblea del Banco Mundial para el financiamiento de la carretera Ayacucho - San Francisco; año 1960 Se recibió la visita de la expedición Científica Aves del Perú (Jhon P. O'neill &Jhon Terqborg); año 1963 se recibió la expedición National Geographic al Vilcabamba (En Busca de la Ciudad Perdida)."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Regular. bajo el cuidado de la comunidad y de la municipalidad, acondicionada para fines turísticos"
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "está rodeada de flora y fauna variada con un paisaje natural."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nVisitantes Locales(Excursionistas)\n1710\nMuestreo de visitantes al Recurso Turistico\n2023\nTuristas Nacionales\n270\nConteo muestral de visita al Recurso Turistico\n2023"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nAyacucho/La Mar/Santa Rosa\n-\nAyacucho/La Mar/Santa Rosa\nPlaza principal de Santa Rosa - Hacienda Luisiana\nTerrestre\nCombi\nTrocha carrozable\n2 km / 10 min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n06:00 a.m.\n-\n07:00 p.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nNaturaleza\nObservación de fauna\nPeces diversos como el paco, trucha, bagre entre otros.\nNaturaleza\nObservación de paisaje\n--\nDeportes / Aventura\nCamping\n--\nPaseos\nSobrevuelo en aeronaves\nPrevia coordinación se realizan paseos con avioneta"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Públicas\nServicios Públicos\nEstacionamiento de vehículos\n--\nInstalaciones Privadas\nLugares de Recreación\nLugares de picnic\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlimentación\nRestaurantes\nCiudad de Santa Rosa\nAlimentación\nBares\nCiudad de Santa Rosa\nAlimentación\nCafeterías\nCiudad de Santa Rosa\nAlimentación\nFuentes de soda\nCiudad de Santa Rosa\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Santa Rosa\nOtros Servicios Turísticos\nAlquiler de camionetas 4 x 4\nCiudad de Santa Rosa\nServicios Públicos\nMiradores turísticos\nCiudad de Santa Rosa\nServicios Públicos\nCaminos peatonales\nCiudad de Santa Rosa\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Santa Rosa"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Santa Rosa\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Santa Rosa\nCentro de salud - tópico\nCiudad de Santa Rosa\nSeguridad / POLTUR / Comisaría\nCiudad de Santa Rosa\nBodegas o minimarkets\nCiudad de Santa Rosa"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nHacienda Luisiana\nLuz (Suministro Eléctrico)\nHacienda luisiana"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Santa Rosa\nAlcantarillado sanitario\nCiudad de Santa Rosa\nLuz (Suministro Eléctrico)\nCiudad de Santa Rosa\nTeléfono\nCiudad de Santa Rosa\nSeñalización turística\nCiudad de Santa Rosa\nEnergía Alternativa\nCiudad de Santa Rosa"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\n--\nPrivado:\nComunidad de Luisiana\nOtra Situación:\nComunidad de Luisiana y la Municipalidad Distrital de Santa Rosa\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nbajo el cuidado de la Comunidad de Luisiana y la Municipalidad Distrital de Santa Rosa hasta definir titularidad del predio\nAdministrador por\nNombre\nMunicipalidad Distrital de Santa Rosa y la comundad de Luisiana\nTiempo de administración\nDesde el año 1992"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo Ayacucho\nNombre (Persona(s) responsable(s) del inventario turístico):\nEfrain Walter Gomez Lopez\nCargo:\nEspecialista en Turismo II\nCorreo:\newgl@hotmail.com\nTeléfono:\n938130971\nFuentes Bibliográfica:\n1. Carlos Iván Degregori, José Coronel, Ponciano del Pino, Orin Starn. \"Cosechando tempestades: las rondas campesinas y la derrota de sendero luminoso en Ayacucho\". 1996.\n2. Del pino Ponciano: \"tiempos de guerra y de dioses: ronderos, evangélicos y senderistas en el valle del ríoo Apurímac. En Degregori et. (117-188)\n3. Anchayhua, W. A. (2012). Investigaciones arqueológicas en la microcuenca del río Churruwayqu, Chungui-La Mar.\n4. Investigaciones sociales, 16(28), 255-269. Weske, J. S. (1972). The distribution of the avifauna in the Apurimac Valley of Peru with respect to environmental gradients, habitat, and related species. The University of Oklahoma\n5. Resolución de Alcaldía N° 386-2023-MDSR-VRAEM/AL, donde se da reconocimiento a los principales atractivos y recursos turísticos del distrito de Santa Rosa, con la finalidad de revalorar, conservar y promocionar las actividades turísticas.\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n22/03/2024 16:33:29"
+    }
+  ],
+  "coordenadas": {
+    "latitud": null,
+    "longitud": null
+  },
+  "google_maps_url": null
+}

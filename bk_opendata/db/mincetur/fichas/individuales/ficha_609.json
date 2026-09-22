@@ -1,0 +1,275 @@
+{
+  "cod_ficha": 609,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=609",
+  "nombre": "Valle De Los Volcanes",
+  "departamento": "Arequipa",
+  "provincia": "Castilla",
+  "distrito": "ANDAGUA",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "a. Montañas",
+  "subtipo": "Volcanes",
+  "jerarquia": "2",
+  "altitud": "3,600",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=292245",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=292245",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=292822",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=292823",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=497719",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=497774",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=497775"
+  ],
+  "actividades_permitidas": [
+    "Otros - Estudios e Investigación",
+    "Naturaleza - Observación de paisaje",
+    "Deportes / Aventura - Caminata/Trekking",
+    "Deportes / Aventura - Camping"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "de los volcanes",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Camping",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/camping02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Arequipa/Arequipa/Arequipa - Arequipa/Castilla/Andagua",
+      "detalle": "Del terminal terrestre de Arequipa a la plaza de Andagua",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "312 km/8 hrs"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Arequipa/Castilla/Andagua - Arequipa/Castilla/Andagua",
+      "detalle": "De la plaza de Andagua a los Volcanes los Mellizos, desde donde se podrá observar el valle",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Sendero",
+      "distancia_tiempo": "3km /30 min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "660",
+      "horario": "Conteo muestral realizado el mes de abril 2023 y su proyección.",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "720",
+      "horario": "Conteo muestral realizado el mes de abril 2023 y su proyección.",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "2520",
+      "horario": "Conteo muestral realizado el mes de abril 2023 y su proyección.",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "08:00 a.m. - 05:00 p.m. --",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Centros de interpretación",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Casa de Hospedaje",
+      "observacion": "En Andagua"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "En andagua"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "En Andagua"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Distrito de Aplao"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Cines o Teatros",
+      "observacion": "Ciudad de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "Ciudad de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Ciudad de Arequipa"
+    }
+  ],
+  "descripcion": "El Valle de los Volcanes está ubicado al Este del Valle del Colca y es producto de una antigua falla geológica al pie del Volcán Coropuna de 6,415 metros de altura, con marcada y sucesiva actividad volcánica que viene desde el Paleoceno hace un millón de años, hasta las más modernas erupciones en el Perú hace 300 o 400 años.\nUn valle interandino conformado por decenas de volcanes que brotan del suelo como gigantescas burbujas petrificadas en un mar de lava basáltica; este valle es una profunda falla abierta que se extiende al sector de Huambo, en la Provincia de Caylloma, en el fondo está rellenado por abundantes coladas de lava basáltica, desparramada en varias etapas, estas corridas de lava se originaron de múltiples erupciones de pequeños volcanes, según Hoempler surgieron como ampollas emergidas por la desgasificación de las mismas lavas o como producto de otras erupciones directas desde los hogares magmáticos.\nRecorrer este Valle es un espectáculo propio de las épocas prehistóricas, el cual remonta al visitante a cuando el planeta estaba todavía en plena formación y se asemeja a un paisaje lunar, donde el río Andagua recorre por el Valle de los Volcanes, de Norte a Sur. El río curiosamente corre subterráneamente por 17 km cubierto por lava, desde la laguna de Chachas hasta la de Mamacocha, y llega al río Colca como un importante afluente (río Mamacocha).\nEn el valle de los Volcanes se puede encontrar 32 pequeños conos volcánicos hoy apagados y perfectamente identificados, que van desde los 10 metros hasta el más grande de 350 metros de altura y más de un centenar de restos de focos eruptivos, que dejaron enormes coladas de lava a lo largo de 60 kilómetros sepultando ríos y lagos, que luego de enfriarse transformaron el paisaje, la topografía del lugar y su biodiversidad.\nEl más alto de los volcanes de Andagua es el Pucamauras de 350 m sobre el nivel del valle. Existen otros de 50 a 70 m y más pequeños, de 15 a 20 m, como el Chilcayoc. En la historia geológica de la formación volcánica del Sur del Perú, estos volcancitos de Andagua representan uno de sus últimos acontecimientos de hace unos doscientos mil años, durante el cuaternario, hasta algunos en época histórica.\nLa flora es extraña, ya que prospera en los pequeños lugares libres de lava sobre ceniza volcánica. La vegetación dominante son los cactus, especialmente los gigantes prismáticos y algunas plantas aisladas de Chachacoma, Puma Rosa, que son medicinales y muy utilizadas por los habitantes del lugar, y también existen pequeñas áreas agrícolas entre los volcancitos, donde se siembra papa, maíz, trigo, exclusivamente para la auto subsistencia. El pueblo de Andagua, a 3.600 m sobre el nivel del mar, fue importante durante la Colonia. La fauna es la característica de la puna a los 3.800 m.",
+  "particularidades": "",
+  "estado_actual": "Se encuentra en buen estado de conservación, ya que conserva su estado natural y sin contaminación.",
+  "observaciones": "Se encuentra ubicado en las bioregiones que se conocen como \"puna\" y \"vertientes occidentales\", en el área norte de la provincia de Castilla, a 323 kilómetros de la ciudad de Arequipa.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "El Valle de los Volcanes está ubicado al Este del Valle del Colca y es producto de una antigua falla geológica al pie del Volcán Coropuna de 6,415 metros de altura, con marcada y sucesiva actividad volcánica que viene desde el Paleoceno hace un millón de años, hasta las más modernas erupciones en el Perú hace 300 o 400 años.\nUn valle interandino conformado por decenas de volcanes que brotan del suelo como gigantescas burbujas petrificadas en un mar de lava basáltica; este valle es una profunda falla abierta que se extiende al sector de Huambo, en la Provincia de Caylloma, en el fondo está rellenado por abundantes coladas de lava basáltica, desparramada en varias etapas, estas corridas de lava se originaron de múltiples erupciones de pequeños volcanes, según Hoempler surgieron como ampollas emergidas por la desgasificación de las mismas lavas o como producto de otras erupciones directas desde los hogares magmáticos.\nRecorrer este Valle es un espectáculo propio de las épocas prehistóricas, el cual remonta al visitante a cuando el planeta estaba todavía en plena formación y se asemeja a un paisaje lunar, donde el río Andagua recorre por el Valle de los Volcanes, de Norte a Sur. El río curiosamente corre subterráneamente por 17 km cubierto por lava, desde la laguna de Chachas hasta la de Mamacocha, y llega al río Colca como un importante afluente (río Mamacocha).\nEn el valle de los Volcanes se puede encontrar 32 pequeños conos volcánicos hoy apagados y perfectamente identificados, que van desde los 10 metros hasta el más grande de 350 metros de altura y más de un centenar de restos de focos eruptivos, que dejaron enormes coladas de lava a lo largo de 60 kilómetros sepultando ríos y lagos, que luego de enfriarse transformaron el paisaje, la topografía del lugar y su biodiversidad.\nEl más alto de los volcanes de Andagua es el Pucamauras de 350 m sobre el nivel del valle. Existen otros de 50 a 70 m y más pequeños, de 15 a 20 m, como el Chilcayoc. En la historia geológica de la formación volcánica del Sur del Perú, estos volcancitos de Andagua representan uno de sus últimos acontecimientos de hace unos doscientos mil años, durante el cuaternario, hasta algunos en época histórica.\nLa flora es extraña, ya que prospera en los pequeños lugares libres de lava sobre ceniza volcánica. La vegetación dominante son los cactus, especialmente los gigantes prismáticos y algunas plantas aisladas de Chachacoma, Puma Rosa, que son medicinales y muy utilizadas por los habitantes del lugar, y también existen pequeñas áreas agrícolas entre los volcancitos, donde se siembra papa, maíz, trigo, exclusivamente para la auto subsistencia. El pueblo de Andagua, a 3.600 m sobre el nivel del mar, fue importante durante la Colonia. La fauna es la característica de la puna a los 3.800 m."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "Ingresar al llamado \"Valle de los Volcanes\" de Andagua es remontar eras geológicas, contemplando algunos sorprendentes fenómenos que sólo se dan en dos lugares del mundo: en las Islas Canarias y en este valle Arequipeño.\nEl 16 diciembre del 2021 se Certifica por la junta Ejecutiva de la Red Mundial de Geoparques ha aprobado a: \"Colca y Volcanes de Andagua - Perú\" como Red mundial de Geoparques Miembro institucional de Geoparque mundial de la UNESCO."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Se encuentra en buen estado de conservación, ya que conserva su estado natural y sin contaminación."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "Se encuentra ubicado en las bioregiones que se conocen como \"puna\" y \"vertientes occidentales\", en el área norte de la provincia de Castilla, a 323 kilómetros de la ciudad de Arequipa."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n660\nConteo muestral realizado el mes de abril 2023 y su proyección.\n2023\nConteo muestral realizado el mes de abril 2023 y su proyección.\nTuristas Nacionales\n720\nConteo muestral realizado el mes de abril 2023 y su proyección.\n2023\nConteo muestral realizado el mes de abril 2023 y su proyección.\nVisitantes Locales(Excursionistas)\n2520\nConteo muestral realizado el mes de abril 2023 y su proyección.\n2023\nConteo muestral realizado el mes de abril 2023 y su proyección."
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nArequipa/Arequipa/Arequipa\n-\nArequipa/Castilla/Andagua\nDel terminal terrestre de Arequipa a la plaza de Andagua\nTerrestre\nBus público\nAsfaltado\n312 km/8 hrs\n2\nArequipa/Castilla/Andagua\n-\nArequipa/Castilla/Andagua\nDe la plaza de Andagua a los Volcanes los Mellizos, desde donde se podrá observar el valle\nTerrestre\nA pie\nSendero\n3km /30 min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n08:00 a.m.\n-\n05:00 p.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nEstudios e Investigación\nde los volcanes\nNaturaleza\nObservación de paisaje\n--\nDeportes / Aventura\nCaminata/Trekking\n--\nDeportes / Aventura\nCamping\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nAlimentación\nRestaurantes\n--\nInstalaciones Privadas\nAlimentación\nCafeterías\n--\nInstalaciones Privadas\nAlimentación\nKioskos de comida y bebidas\n--\nInstalaciones Privadas\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\n--\nInstalaciones Públicas\nServicios Públicos\nCentros de interpretación\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nCasa de Hospedaje\nEn Andagua\nAlimentación\nRestaurantes\nEn andagua\nAlimentación\nKioskos de comida y bebidas\nEn Andagua\nLugares de Recreación\nDiscotecas\nDistrito de Aplao\nLugares de Recreación\nCines o Teatros\nCiudad de Arequipa\nLugares de Recreación\nKaraoke\nCiudad de Arequipa\nLugares de Recreación\nBares\nCiudad de Arequipa\nServicios Públicos\nOficina de Información turística\nCiudad de Arequipa"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nBancos\nDistrito de Aplao\nCajero automático\nDistrito de Aplao\nCasa de cambio\nProvincia de Arequipa\nEstación de servicios, grifos, gasolineras y gasocentros\nDistrito de Aplao\nSeguridad / POLTUR / Comisaría\nDistrito de Aplao\nAlquiler y compra de equipos deportivos\nDistrito de Aplao"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nPueblo de Andagua\nLuz (Suministro Eléctrico)\nPueblo de Andagua\nTeléfono\nPueblo de Andagua"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\n--\nPrivado:\nComunidad Campesina de Andagua\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n00959465\nOtra situación:\n--\nAdministrador por\nNombre\nMunicipalidad distrital de Andagua en coordinación con la Comunidad campesina de Andagua.\nTiempo de administración\nDesde el año 2000"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nGerencia Regional de Comercio Exterior y Turismo Arequipa/ Municipalidad distrital de Andagua\nNombre (Persona(s) responsable(s) del inventario turístico):\nLic. Claudia Isabel Barrios Cacya/ Lic. María Cecilia Ccahuana Condori\nCargo:\nEspecialista en Turismo/ Encargada del área de Turismo.\nCorreo:\ncbarrios@correo.regionarequipa.gob.pe/ maria92cecil@gmail.com\nTeléfono:\n988099750 / 994359079\nFuentes Bibliográfica:\n\"EL VALLE DE LOS VOLCANES: ANDAHUA, AREQUIPA\" BOLETÍN DE LA SOCIEDAD GEOGRÁFICA DE LIMA\nInventario de recursos turísticos del plan maestro para el desarrollo y gestión sostenible del turismo- Autocolca, 2006./ El Valle de los Volcanes, Compañía de minas Buenaventura, 2008/ //http://carlostrujillove.blogspot.com/2009/El-Valle-De-Los-Volcanes-Monogeneticos_22.html\nISSN 2415-0193 INGEMMET, Boletín Serie I: Patrimonio y Geoturismo N°6\nhttps://elcomercio.pe/vamos/peru/orgullo-peruano-los-valles-del-colca-y-de-los-volcanes-reciben-premio-internacional-por-su-compromiso-con-el-medio-ambiente-arequipa-colca-viaje-turismo-noticia/?ref=ecr\nLibro Turismo Rural Andagua historias de vida, Asociación de turismo Andagua ATVVA TOURS. de Abraham Cáceres Cabana.\nLibro El Valle de los Volcanes Orcopampa - Andagua de Mauricio de Romaña.\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n2/10/2023 10:07:27"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -15.498898577572353,
+    "longitud": -72.35575842327881
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-15.498898577572353,-72.35575842327881"
+}

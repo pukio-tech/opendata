@@ -1,0 +1,328 @@
+{
+  "cod_ficha": 5415,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=5415",
+  "nombre": "Complejo Arqueológico Huaca Bandera",
+  "departamento": "Lambayeque",
+  "provincia": "Lambayeque",
+  "distrito": "PACORA",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Sitios Arqueológicos",
+  "subtipo": "Zonas arqueológicas",
+  "jerarquia": "2",
+  "altitud": "50",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=556648",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=556648",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=556606",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=556650",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=556607",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=556651",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=556609"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Estudios e Investigación",
+    "Naturaleza - Observación de fauna",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de paisaje",
+    "Paseos - Paseos a caballo"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de fauna",
+      "observacion": "Chisco, Chilalo, atrapamoscas, pechirojo, Halcones, Ardillas, Lagartijas, Pacasos.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fauna02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "algarrobos, vichayos y sapotes.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Paseos",
+      "tipo": "Paseos a caballo",
+      "observacion": "Previa coordinación.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paseo_caballo02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Lambayeque/Chiclayo/Chiclayo - Lambayeque/Lambayeque/Pacora",
+      "detalle": "Chiclayo (Ca. Amapolas N°140-El Porvenir) – Pacora (Calle Corazón de Jesús-Altura del mercado)",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Combi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "40Km / 60 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Lambayeque/Lambayeque/Pacora - Lambayeque/Lambayeque/Pacora",
+      "detalle": "Pacora (Calle Corazón de Jesús-Altura del mercado) – Complejo Arqueológico Huaca Bandera",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mototaxi",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "8 km/15 minutos"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "180",
+      "horario": "Conteo muestral realizado los días 28 junio, 05, 12 y 25 julio",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "360",
+      "horario": "Conteo muestral realizado los días 28 junio, 05, 12 y 25 de julio.",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "3510",
+      "horario": "Conteo muestral realizado los días 18 junio, 05, 12 y 25 de julio",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "09:00 a.m. - 05:00 p.m. Lunes a domingo. Llevar agua, gorro, bloqueador solar, zapatillas.",
+      "observaciones": "Lunes a domingo. Llevar agua, gorro, bloqueador solar, zapatillas."
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": "Previa coordinación, el grupo de visitantes puede ser guiado por personal responsable del C.A."
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Centros de interpretación",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos de herradura (caballo)",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Otros (especificar)",
+      "observacion": "Sala de exhibición y centro de investigación."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Casa de Hospedaje",
+      "observacion": "Ciudad de Pacora"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Pacora"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Pacora"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Pacora"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de Caballos",
+      "observacion": "Ciudad de Pacora"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Pacora"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Oficina de Información",
+      "observacion": "Ciudad de Pacora"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Español - Ciudad de Lambayeque"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Ciudad de Pacora"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Ciudad de Pacora"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Pacora"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Ciudad de Pacora"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Pacora"
+    }
+  ],
+  "descripcion": "A 9km al oeste del pueblo de Pacora a 40 km al norte de la ciudad de Lambayeque, al margen derecha de un brazo del río Motupe, en medio de una inmensa llanura ocupada por un bosque seco de algarrobos y sapotes, se encuentra el Complejo Ceremonial Huaca Bandera. Con sus 186.55 Has de área arqueológica el sitio está compuesto de 3 sectores cada uno de los cuales está presidido por singulares plataformas piramidales de adobe de 3 niveles accedidos por rampas frontales. Cada sector está conformado por uno o más conjuntos arquitectónicos amurallados construidos de adobe, que presentan planta rectangular. Fuera de las murallas se observan también otros conjuntos arquitectónicos donde destacan algunos montículos y plataformas.\nEl interior de los conjuntos amurallados está compuesto por varias áreas, donde destaca notablemente una plataforma piramidal de dos niveles accesibles por rampas centrales adosadas al frente principal en el lado Este.\nEl sitio evidencia tres claros momentos de ocupación que se remontarían a las primeras fases de la cultura Lambayeque. La primera fase está relacionada con hornacinas decoradas con pintura de color rojo, negro y amarillo. Un segundo momento relacionado a muros decorados con pintura roja y, en algunos casos, como en Huaca Blanca (Sector Sur), con frisos policromados que representan a personajes con ciertos rasgos Moche. Un tercer momento cubre lo anterior para construir las plataformas más elevadas también decoradas con pintura roja y crema.\nEn Huaca Bandera se puede apreciar la belleza y perfección de las obras y artefactos moche, a través de algunos hallazgos logrados por los trabajos de investigación realizados como: Piuntura mural, collares e incrustaciones de valvas de moluscos marinos, piezas de cerámica y restos de construcciones de carácter ceremonial, que muestran el elevado nivel organizativo y artístico de este pueblo.\nTambién se han encontrado restos de un mural polícromo con cinco imágenes antropomorfas que corresponden a la ceremonia de \"la Presentación\" donde los sacerdotes luego de haber sacrificado seres humanos, ofrecen al señor principal la copa que tenía que ser bebida para complacer a sus dioses.",
+  "particularidades": "",
+  "estado_actual": "Se encuentra en buen estado de conservación debido a los trabajos de protección realizados allí desde el año 2009",
+  "observaciones": "Es, hasta el momento, el único monumento arqueológico más extenso del periodo de transición entre los Mochica a los Lambayeque. Además, se le considera “El Último Centro Ceremonial Mochica” de Lambayeque",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "A 9km al oeste del pueblo de Pacora a 40 km al norte de la ciudad de Lambayeque, al margen derecha de un brazo del río Motupe, en medio de una inmensa llanura ocupada por un bosque seco de algarrobos y sapotes, se encuentra el Complejo Ceremonial Huaca Bandera. Con sus 186.55 Has de área arqueológica el sitio está compuesto de 3 sectores cada uno de los cuales está presidido por singulares plataformas piramidales de adobe de 3 niveles accedidos por rampas frontales. Cada sector está conformado por uno o más conjuntos arquitectónicos amurallados construidos de adobe, que presentan planta rectangular. Fuera de las murallas se observan también otros conjuntos arquitectónicos donde destacan algunos montículos y plataformas.\nEl interior de los conjuntos amurallados está compuesto por varias áreas, donde destaca notablemente una plataforma piramidal de dos niveles accesibles por rampas centrales adosadas al frente principal en el lado Este.\nEl sitio evidencia tres claros momentos de ocupación que se remontarían a las primeras fases de la cultura Lambayeque. La primera fase está relacionada con hornacinas decoradas con pintura de color rojo, negro y amarillo. Un segundo momento relacionado a muros decorados con pintura roja y, en algunos casos, como en Huaca Blanca (Sector Sur), con frisos policromados que representan a personajes con ciertos rasgos Moche. Un tercer momento cubre lo anterior para construir las plataformas más elevadas también decoradas con pintura roja y crema.\nEn Huaca Bandera se puede apreciar la belleza y perfección de las obras y artefactos moche, a través de algunos hallazgos logrados por los trabajos de investigación realizados como: Piuntura mural, collares e incrustaciones de valvas de moluscos marinos, piezas de cerámica y restos de construcciones de carácter ceremonial, que muestran el elevado nivel organizativo y artístico de este pueblo.\nTambién se han encontrado restos de un mural polícromo con cinco imágenes antropomorfas que corresponden a la ceremonia de \"la Presentación\" donde los sacerdotes luego de haber sacrificado seres humanos, ofrecen al señor principal la copa que tenía que ser bebida para complacer a sus dioses."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "Ha sido declarado como “Patrimonio Cultural de la Nación” por Resolución Directoral Nacional N°484/INC del 02-07-2004."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Se encuentra en buen estado de conservación debido a los trabajos de protección realizados allí desde el año 2009"
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "Es, hasta el momento, el único monumento arqueológico más extenso del periodo de transición entre los Mochica a los Lambayeque. Además, se le considera “El Último Centro Ceremonial Mochica” de Lambayeque"
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n180\nConteo muestral realizado los días 28 junio, 05, 12 y 25 julio\n2024\nValidado por la Dirección de Turismo y Artesanía de la Gercetur Lambayeque\nTuristas Nacionales\n360\nConteo muestral realizado los días 28 junio, 05, 12 y 25 de julio.\n2024\nValidado por la Dirección de Turismo y Artesanía de la Gercetur Lambayeque.\nVisitantes Locales(Excursionistas)\n3510\nConteo muestral realizado los días 18 junio, 05, 12 y 25 de julio\n2024\nValidado por la Dirección de Turismo y Artesanía de las Gercetur Lambayeque"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nLambayeque/Chiclayo/Chiclayo\n-\nLambayeque/Lambayeque/Pacora\nChiclayo (Ca. Amapolas N°140-El Porvenir) – Pacora (Calle Corazón de Jesús-Altura del mercado)\nTerrestre\nCombi\nAsfaltado\n40Km / 60 min.\n1\nLambayeque/Lambayeque/Pacora\n-\nLambayeque/Lambayeque/Pacora\nPacora (Calle Corazón de Jesús-Altura del mercado) – Complejo Arqueológico Huaca Bandera\nTerrestre\nMototaxi\nAfirmado\n8 km/15 minutos"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre\nPrevia coordinación, el grupo de visitantes puede ser guiado por personal responsable del C.A."
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n09:00 a.m.\n-\n05:00 p.m.\nLunes a domingo. Llevar agua, gorro, bloqueador solar, zapatillas."
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nEstudios e Investigación\n--\nNaturaleza\nObservación de fauna\nChisco, Chilalo, atrapamoscas, pechirojo, Halcones, Ardillas, Lagartijas, Pacasos.\nNaturaleza\nObservación de flora\nalgarrobos, vichayos y sapotes.\nNaturaleza\nObservación de paisaje\n--\nPaseos\nPaseos a caballo\nPrevia coordinación."
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Públicas\nServicios Públicos\nCentros de interpretación\n--\nInstalaciones Públicas\nServicios Públicos\nSeñales turísticas de orientación\n--\nInstalaciones Públicas\nServicios Públicos\nCaminos peatonales\n--\nInstalaciones Públicas\nServicios Públicos\nCaminos de herradura (caballo)\n--\nInstalaciones Públicas\nServicios Públicos\nOtros (especificar)\nSala de exhibición y centro de investigación."
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nCasa de Hospedaje\nCiudad de Pacora\nAlimentación\nRestaurantes\nCiudad de Pacora\nAlimentación\nBares\nCiudad de Pacora\nAlimentación\nKioskos de comida y bebidas\nCiudad de Pacora\nOtros Servicios Turísticos\nAlquiler de Caballos\nCiudad de Pacora\nLugares de Recreación\nDiscotecas\nCiudad de Pacora\nOtros Servicios Turísticos\nOficina de Información\nCiudad de Pacora\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nEspañol - Ciudad de Lambayeque\nLugares de Recreación\nCentros Deportivos\nCiudad de Pacora\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nCiudad de Pacora\nLugares de Recreación\nBares\nCiudad de Pacora\nLugares de Recreación\nJuegos Infantiles\nCiudad de Pacora\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Pacora"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Pacora.\nBancos\nCiudad de Pacora.\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Pacora.\nCentro de salud - tópico\nCiudad de Pacora.\nSeguridad / POLTUR / Comisaría\nCiudad de Pacora.\nVenta de materiales para fotografías\nCiudad de Pacora.\nLibrerías\nCiudad de Pacora.\nBodegas o minimarkets\nCiudad de Pacora.\nServicio de estacionamiento\nCiudad de Pacora.\nOtros(especificar)\nAgentes bancarios en ciudad de Pacora"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nOtros (Especificar)\nRadios de comunicación\nAgua potable\n--\nLuz (Suministro Eléctrico)\n--\nEnergía Alternativa\n--\nSistemas de tratamiento alternativo de residuos (Biodigestor, pozo séptico, otros)\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Pacora\nAlcantarillado sanitario\nCiudad de Pacora\nLuz (Suministro Eléctrico)\nCiudad de Pacora\nTeléfono\nCiudad de Pacora\nSistemas de tratamiento alternativo de residuos (Biodigestor, pozo séptico, otros)\nCiudad de pacora."
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nMinisterio de Cultura a través de la Unidad Ejecutora Naylamp 005\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nEn proceso de Saneamiento\nAdministrador por\nNombre\nMinisterio de Cultura a través de la Unidad Ejecutora Naylamp 005\nTiempo de administración\n15 años, desde el año 2009"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nGerencia Regional de Comercio Exterior y Turismo de Lambayeque\nNombre (Persona(s) responsable(s) del inventario turístico):\nLic. Magali Exebio Cabrera\nCargo:\nTécnico en Turismo\nCorreo:\nmagaliexebioc@gmail.com\nTeléfono:\n947672674\nFuentes Bibliográfica:\n- Cultura Lambayeque en el contexto de la costa norte del Perú - Complejo Arqueológico Huaca Bandera Pacora: Un sitio transicional Moche – Lambayeque - James Max Manuel Curo Chambergo & Jorge Alberto Rosas Fernández- Primera edición, agosto de 2014.\nREPORTAJES UMBRALES: CANAL 11 COLAPSO DE LOS SITIOS PREHISPÁNICOS.- REPORTAJE NATIONAL GEOGRAPHI\nMaterial Audiovisual actual del Recurso:\nFOTO, VIDEOS\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\nEn el año 2021 el Ministerio de Cultura inauguró el Centro de Investigación del Complejo Arqueológico Huaca Bandera\nEn abril 2024, se inició el Proyecto “Recuperación del conjunto amurallado 2 de sect\nFecha:\n19/08/2024 08:32:50"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -6.406509862448872,
+    "longitud": -79.89836833862307
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-6.406509862448872,-79.89836833862307"
+}

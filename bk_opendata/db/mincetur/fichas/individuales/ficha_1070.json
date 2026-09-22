@@ -1,0 +1,275 @@
+{
+  "cod_ficha": 1070,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=1070",
+  "nombre": "Playa La Gramita - Casma",
+  "departamento": "Áncash",
+  "provincia": "Casma",
+  "distrito": "CASMA",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "l. Costas",
+  "subtipo": "Playas",
+  "jerarquia": "POR JERARQUIZAR",
+  "altitud": "5",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=472985",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=472985",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=657100",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=657042",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=657043",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=657044"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Otros(Especificar)",
+    "Naturaleza - Observación de paisaje",
+    "Paseos - Paseos en bote"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Otros(Especificar)",
+      "observacion": "Nadar en el mar",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/otros02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Paseos",
+      "tipo": "Paseos en bote",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paseo_bote02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Áncash/Casma/Casma - Áncash/Casma/Casma",
+      "detalle": "Plaza de Casma - Cruce a la playa La Gramita en la Carretera Panamericana Norte",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "30.8 km / 30 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Áncash/Casma/Casma - Áncash/Casma/Casma",
+      "detalle": "Cruce a la playa La Gramita en la carretera Panamericana Norte - Playa La Gramita",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "2.5 km / 5 min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "41258",
+      "horario": "Indicad. de Ocupabilidad (Resultados de la Encuesta Mensual de EEHH)",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "2720",
+      "horario": "Indicad. de Ocupabilidad (Resultados de la Encuesta Mensual de EEHH)",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "06:00 a.m. - 06:00 p.m. --",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "En la ciudad de Casma"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "En la ciudad de Casma"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "En la ciudad de Casma"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "En la ciudad de Casma"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "En la ciudad de Casma"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "En la ciudad de Casma"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "En la ciudad de Casma, de 1 a 3 estrellas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "En la ciudad de Casma, de 1 a 3 estrellas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "En la ciudad de Casma"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "En la ciudad de Casma"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "En la ciudad de Casma"
+    }
+  ],
+  "descripcion": "La playa Las Gramitas se ubica a 33 km al sur de la ciudad de Casma, a la altura del km 347 de la carretera Panamericana Norte. Desde allí parte un desvío hacia el mar que conduce a la playa mediante una carretera asfaltada de 2.5 km de longitud.\nSe trata de una extensa playa arenosa que presenta zonas rocosas y pequeños islotes hacia el sur, ideales para la pesca con cordel y la recolección de mariscos, barquillos y ciños. El oleaje suele ser suave, lo que favorece la práctica de diversas actividades acuáticas y recreativas. El nombre “Las Gramitas” proviene de la presencia de grama salada en la orilla. Asimismo, es común observar aves guaneras como piqueros, pelícanos, guanayes, entre otras especies.\nLa playa también funciona como caleta de pescadores artesanales, cuyas viviendas se encuentran al sur. Esta actividad ha propiciado la instalación de pequeños negocios como bodegas y restaurantes. Los propios pescadores ofrecen el servicio de alquiler de botes para paseos por los alrededores.\nMuy cerca de la playa, hacia el norte, se localiza la Zona Arqueológica Monumental de Las Aldas.",
+  "particularidades": "",
+  "estado_actual": "Se encuentra en un buen estado de conservación natural; dado que su cuidado, limpieza, orden y mantenimiento se encuentra a cargo de la Municipalidad provincial de Casma",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "La playa Las Gramitas se ubica a 33 km al sur de la ciudad de Casma, a la altura del km 347 de la carretera Panamericana Norte. Desde allí parte un desvío hacia el mar que conduce a la playa mediante una carretera asfaltada de 2.5 km de longitud.\nSe trata de una extensa playa arenosa que presenta zonas rocosas y pequeños islotes hacia el sur, ideales para la pesca con cordel y la recolección de mariscos, barquillos y ciños. El oleaje suele ser suave, lo que favorece la práctica de diversas actividades acuáticas y recreativas. El nombre “Las Gramitas” proviene de la presencia de grama salada en la orilla. Asimismo, es común observar aves guaneras como piqueros, pelícanos, guanayes, entre otras especies.\nLa playa también funciona como caleta de pescadores artesanales, cuyas viviendas se encuentran al sur. Esta actividad ha propiciado la instalación de pequeños negocios como bodegas y restaurantes. Los propios pescadores ofrecen el servicio de alquiler de botes para paseos por los alrededores.\nMuy cerca de la playa, hacia el norte, se localiza la Zona Arqueológica Monumental de Las Aldas."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Se encuentra en un buen estado de conservación natural; dado que su cuidado, limpieza, orden y mantenimiento se encuentra a cargo de la Municipalidad provincial de Casma"
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Nacionales\n41258\nIndicad. de Ocupabilidad (Resultados de la Encuesta Mensual de EEHH)\n2025\nTuristas Extranjeros\n2720\nIndicad. de Ocupabilidad (Resultados de la Encuesta Mensual de EEHH)\n2025"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nÁncash/Casma/Casma\n-\nÁncash/Casma/Casma\nPlaza de Casma - Cruce a la playa La Gramita en la Carretera Panamericana Norte\nTerrestre\nAutomóvil particular\nAsfaltado\n30.8 km / 30 min\n1\nÁncash/Casma/Casma\n-\nÁncash/Casma/Casma\nCruce a la playa La Gramita en la carretera Panamericana Norte - Playa La Gramita\nTerrestre\nAutomóvil particular\nAsfaltado\n2.5 km / 5 min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n06:00 a.m.\n-\n06:00 p.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nOtros(Especificar)\nNadar en el mar\nNaturaleza\nObservación de paisaje\n--\nPaseos\nPaseos en bote\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nAlimentación\nRestaurantes\n--\nInstalaciones Privadas\nAlimentación\nKioskos de comida y bebidas\n--\nInstalaciones Privadas\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nLugares de Recreación\nDiscotecas\nEn la ciudad de Casma\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nEn la ciudad de Casma\nOtros Servicios Turísticos\nAgencia de Viajes\nEn la ciudad de Casma\nOtros Servicios Turísticos\nVenta de artesanía\nEn la ciudad de Casma\nAlimentación\nRestaurantes\nEn la ciudad de Casma\nAlimentación\nKioskos de comida y bebidas\nEn la ciudad de Casma\nAlojamiento\nHoteles (especificar categorías)\nEn la ciudad de Casma, de 1 a 3 estrellas\nAlojamiento\nHostales (especificar categorías)\nEn la ciudad de Casma, de 1 a 3 estrellas\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nEn la ciudad de Casma\nServicios Públicos\nEstacionamiento de vehículos\nEn la ciudad de Casma\nServicios Públicos\nOficina de Información turística\nEn la ciudad de Casma"
+    },
+    {
+      "titulo": "Servicios Complementarios dentro del recurso",
+      "contenido": "Servicio Complementario\nObservación\nServicio de estacionamiento\n--"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nEn la ciudad de Casma\nBancos\nEn la ciudad de Casma\nCajero automático\nEn la ciudad de Casma\nServicios de taxis\nEn la ciudad de Casma\nCentro de salud - tópico\nEn la ciudad de Casma\nSeguridad / POLTUR / Comisaría\nEn la ciudad de Casma\nBodegas o minimarkets\nEn la ciudad de Casma"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nEnergía Alternativa\nPaneles solares\nAlternativo de Residuos (Biodigestor, pozo séptico, otros)\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nEn la ciudad de Casma\nAlcantarillado sanitario\nEn la ciudad de Casma\nLuz (Suministro Eléctrico)\nEn la ciudad de Casma\nTeléfono\nEn la ciudad de Casma"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nMarina de Guerra del perú\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nLEY Nº 26856\nAdministrador por\nNombre\nMunicipalidad provincial de Casma\nTiempo de administración\n1823"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo de Ancash\nNombre (Persona(s) responsable(s) del inventario turístico):\nFrank Cristian Olivera Blas\nCargo:\nEspecialista en turismo\nCorreo:\ndirceturancashdt@gmail.com\nTeléfono:\n974771911\nFuentes Bibliográfica:\nConocePerú. (s.f.). Las Aldas. En Mochileando Áncash. Recuperado el 14 de abril de 2026, de http://www.conoceperu.info/mochileando/ancash/aldas.htm (conoceperu.info in Bing)\nCasma Virtual. (2010, abril). Playa La Gramita – Casma. Recuperado el 14 de abril de 2026, de http://casmavirtual.blogspot.com/2010/04/playa-la-gramita-casma.html (casmavirtual.blogspot.com in Bing)\nWeb de la Novia. (s.f.). Las Aldas – Luna de miel. Recuperado el 14 de abril de 2026, de http://www.webdelanovia.com/luna-de-miel/las-aldas (webdelanovia.com in Bing)\nMunicipalidad Provincial de Casma. (2019). Plan de desarrollo turístico de la provincia de Casma, Región Áncash, Perú (2019–2022). Casma: Municipalidad Provincial de Casma.\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n16/04/2026 09:04:16"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -9.715202777777778,
+    "longitud": -78.29364166666664
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-9.715202777777778,-78.29364166666664"
+}

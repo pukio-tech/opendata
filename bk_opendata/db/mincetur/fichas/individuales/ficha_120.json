@@ -1,0 +1,288 @@
+{
+  "cod_ficha": 120,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=120",
+  "nombre": "Museo De Arqueologia, Antropologia E Historia De La Universidad Nacional De Trujillo (Casa Risco)",
+  "departamento": "La Libertad",
+  "provincia": "Trujillo",
+  "distrito": "TRUJILLO",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Museos y otros",
+  "subtipo": "Museos",
+  "jerarquia": "POR JERARQUIZAR",
+  "altitud": "90",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=761285",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=761285",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=767548",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=767549",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=767550",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=767552",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=767553",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=761286",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=767554"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Estudios e Investigación",
+    "Otros - Realización de eventos"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Realización de eventos",
+      "observacion": "Exposiciones Temporales",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/eventos02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "La Libertad/Trujillo/Trujillo - La Libertad/Trujillo/Trujillo",
+      "detalle": "Plaza de Armas de Trujillo hasta el recurso",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "700 mts/10 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "La Libertad/Trujillo/Trujillo - La Libertad/Trujillo/Trujillo",
+      "detalle": "Plaza de Armas de Trujillo hasta el recurso",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "700 mts/5 min."
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "1816",
+      "horario": "Registro de visitantes Museo de Arqueología, Antropología e Hiatoria de la UNT",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "6385",
+      "horario": "Registro de visitantes del Museo de Arqueología, Antropología e Historia de la UNT",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "09:00 a.m. - 05:00 p.m. De martes a sábado",
+      "observaciones": "De martes a sábado"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "Adulto s/5.00 Universitario s/1.00"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Seguridad / POLTUR",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicios Higiénicos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Inglés, italiano, francés."
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Estacionamiento",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Biblioteca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "Ciudad de Trujillo - 3 a 4 estrellas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "Ciudad de Trujillo- 2 a 3 estrellas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Trujillo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Trujillo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Ciudad de Trujillo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Trujillo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Trujillo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Ciudad de Trujillo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Trujillo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Cines o Teatros",
+      "observacion": "Ciudad de Trujillo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Trujillo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de Trujillo"
+    }
+  ],
+  "descripcion": "El Museo de Arqueología, Antropología e Historia de la Universidad Nacional de Trujillo constituye uno de los principales espacios de conservación, investigación y difusión del patrimonio arqueológico e histórico de la costa norte del Perú. Fue fundado el 1 de abril de 1939, durante el rectorado del Dr. Ignacio Meave Seminario. Desde 1995 funciona en la Casa Risco, inmueble histórico cedido en uso por el Estado Peruano para el funcionamiento permanente del museo.\nEl museo tiene como finalidad preservar, investigar y difundir el patrimonio cultural de la región La Libertad, poniendo en valor el proceso histórico de las sociedades que ocuparon la costa norte del Perú desde el periodo de los primeros pobladores, hace aproximadamente 12 000 años, hasta la llegada de los españoles en 1532. Cuenta con curaduría, a cargo de la arqueóloga y museógrafa Flor Carlota Vega Zavaleta como personal estable.\nSu colección permanente está conformada por bienes culturales muebles de alto valor histórico y arqueológico, entre los que destacan piezas de cerámica, orfebrería, textiles, arte plumario, lítica y otros materiales procedentes de investigaciones arqueológicas desarrolladas en la región La Libertad. Estas colecciones representan las principales tradiciones culturales que se desarrollaron en el ámbito regional, entre ellas Paijanense, Cupisnique, Salinar, Gallinazo, Moche, Chimú e Inca, permitiendo comprender la evolución social, económica, tecnológica y religiosa de las poblaciones prehispánicas.\nEl recorrido museográfico se organiza de manera cronológica y temática mediante salas de exposición permanente, las cuales facilitan la interpretación del proceso cultural de la costa norte del Perú:\n- Sala Medio Geográfico: Introduce al visitante en las características físicas y ambientales de la región La Libertad, destacando la interacción entre el mar, el desierto, los valles y las quebradas como factores determinantes en el desarrollo de las sociedades prehispánicas.\n- Sala Cazadores y Recolectores: Presenta evidencias correspondientes a los primeros grupos humanos que habitaron la costa norte, con especial énfasis en la tradición Paijanense y sus formas de adaptación al medio.\n- Sala Horticultores: Expone el proceso de transición hacia las primeras prácticas agrícolas durante el periodo Arcaico y la consolidación de asentamientos permanentes.\n- Sala Cupisnique y Salinar: Exhibe materiales arqueológicos representativos de las primeras sociedades complejas de la región, resaltando sus expresiones artísticas, religiosas y ceremoniales.\n- Sala Moche: Reúne una importante colección de bienes culturales que evidencian el desarrollo político, religioso, tecnológico y artístico de la cultura Moche, considerada una de las civilizaciones más representativas de la costa norte del Perú.\n- Sala Chimú e Inca: Explica el proceso de formación y expansión del Reino Chimú, su incorporación al Imperio Inca y los cambios socioculturales ocurridos durante el periodo de la conquista española.\nAsimismo, el museo cuenta con la Sala de Exposiciones Temporales \"Huaca de la Luna\", destinada a la difusión de los resultados de las investigaciones arqueológicas y de los hallazgos más recientes del Proyecto Arqueológico Huaca de la Luna, fortaleciendo la interpretación y valoración del patrimonio cultural regional.\nEl museo complementa su oferta cultural con patios interiores decorados con murales de temática prehispánica, los cuales constituyen un elemento distintivo del inmueble y enriquecen la experiencia interpretativa del visitante. En conjunto, el recurso representa un importante centro de investigación, conservación, educación y difusión del patrimonio cultural, contribuyendo al fortalecimiento de la identidad regional y al desarrollo del turismo cultural en la región La Libertad.",
+  "particularidades": "",
+  "estado_actual": "Estado actual muy bueno, Porque el museo presenta adecuadas condiciones de conservación, mantenimiento y organización museográfica. Sus colecciones cuentan con registro, conservación preventiva y permanente actualización de exposiciones a cargo de una curadora. La infraestructura se encuentra operativa y recibe visitantes durante todo el año mediante visitas guiadas y actividades culturales.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "El Museo de Arqueología, Antropología e Historia de la Universidad Nacional de Trujillo constituye uno de los principales espacios de conservación, investigación y difusión del patrimonio arqueológico e histórico de la costa norte del Perú. Fue fundado el 1 de abril de 1939, durante el rectorado del Dr. Ignacio Meave Seminario. Desde 1995 funciona en la Casa Risco, inmueble histórico cedido en uso por el Estado Peruano para el funcionamiento permanente del museo.\nEl museo tiene como finalidad preservar, investigar y difundir el patrimonio cultural de la región La Libertad, poniendo en valor el proceso histórico de las sociedades que ocuparon la costa norte del Perú desde el periodo de los primeros pobladores, hace aproximadamente 12 000 años, hasta la llegada de los españoles en 1532. Cuenta con curaduría, a cargo de la arqueóloga y museógrafa Flor Carlota Vega Zavaleta como personal estable.\nSu colección permanente está conformada por bienes culturales muebles de alto valor histórico y arqueológico, entre los que destacan piezas de cerámica, orfebrería, textiles, arte plumario, lítica y otros materiales procedentes de investigaciones arqueológicas desarrolladas en la región La Libertad. Estas colecciones representan las principales tradiciones culturales que se desarrollaron en el ámbito regional, entre ellas Paijanense, Cupisnique, Salinar, Gallinazo, Moche, Chimú e Inca, permitiendo comprender la evolución social, económica, tecnológica y religiosa de las poblaciones prehispánicas.\nEl recorrido museográfico se organiza de manera cronológica y temática mediante salas de exposición permanente, las cuales facilitan la interpretación del proceso cultural de la costa norte del Perú:\n- Sala Medio Geográfico: Introduce al visitante en las características físicas y ambientales de la región La Libertad, destacando la interacción entre el mar, el desierto, los valles y las quebradas como factores determinantes en el desarrollo de las sociedades prehispánicas.\n- Sala Cazadores y Recolectores: Presenta evidencias correspondientes a los primeros grupos humanos que habitaron la costa norte, con especial énfasis en la tradición Paijanense y sus formas de adaptación al medio.\n- Sala Horticultores: Expone el proceso de transición hacia las primeras prácticas agrícolas durante el periodo Arcaico y la consolidación de asentamientos permanentes.\n- Sala Cupisnique y Salinar: Exhibe materiales arqueológicos representativos de las primeras sociedades complejas de la región, resaltando sus expresiones artísticas, religiosas y ceremoniales.\n- Sala Moche: Reúne una importante colección de bienes culturales que evidencian el desarrollo político, religioso, tecnológico y artístico de la cultura Moche, considerada una de las civilizaciones más representativas de la costa norte del Perú.\n- Sala Chimú e Inca: Explica el proceso de formación y expansión del Reino Chimú, su incorporación al Imperio Inca y los cambios socioculturales ocurridos durante el periodo de la conquista española.\nAsimismo, el museo cuenta con la Sala de Exposiciones Temporales \"Huaca de la Luna\", destinada a la difusión de los resultados de las investigaciones arqueológicas y de los hallazgos más recientes del Proyecto Arqueológico Huaca de la Luna, fortaleciendo la interpretación y valoración del patrimonio cultural regional.\nEl museo complementa su oferta cultural con patios interiores decorados con murales de temática prehispánica, los cuales constituyen un elemento distintivo del inmueble y enriquecen la experiencia interpretativa del visitante. En conjunto, el recurso representa un importante centro de investigación, conservación, educación y difusión del patrimonio cultural, contribuyendo al fortalecimiento de la identidad regional y al desarrollo del turismo cultural en la región La Libertad."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Estado actual muy bueno, Porque el museo presenta adecuadas condiciones de conservación, mantenimiento y organización museográfica. Sus colecciones cuentan con registro, conservación preventiva y permanente actualización de exposiciones a cargo de una curadora. La infraestructura se encuentra operativa y recibe visitantes durante todo el año mediante visitas guiadas y actividades culturales."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n1816\nRegistro de visitantes Museo de Arqueología, Antropología e Hiatoria de la UNT\n2025\nTuristas Nacionales\n6385\nRegistro de visitantes del Museo de Arqueología, Antropología e Historia de la UNT\n2025"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nLa Libertad/Trujillo/Trujillo\n-\nLa Libertad/Trujillo/Trujillo\nPlaza de Armas de Trujillo hasta el recurso\nTerrestre\nA pie\nAsfaltado\n700 mts/10 min.\n1\nLa Libertad/Trujillo/Trujillo\n-\nLa Libertad/Trujillo/Trujillo\nPlaza de Armas de Trujillo hasta el recurso\nTerrestre\nAutomóvil particular\nAsfaltado\n700 mts/5 min."
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nAdulto s/5.00\nUniversitario s/1.00"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n09:00 a.m.\n-\n05:00 p.m.\nDe martes a sábado"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nEstudios e Investigación\n--\nOtros\nRealización de eventos\nExposiciones Temporales"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nOtros Servicios Turísticos\nSeguridad / POLTUR\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nServicios Higiénicos\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nInglés, italiano, francés.\nInstalaciones Privadas\nOtros Servicios Turísticos\nServicio de Estacionamiento\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nOtros (Especificar)\nBiblioteca"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\nCiudad de Trujillo - 3 a 4 estrellas\nAlojamiento\nHostales (especificar categorías)\nCiudad de Trujillo- 2 a 3 estrellas\nAlimentación\nRestaurantes\nCiudad de Trujillo\nAlimentación\nCafeterías\nCiudad de Trujillo\nAlimentación\nFuentes de soda\nCiudad de Trujillo\nAlimentación\nKioskos de comida y bebidas\nCiudad de Trujillo\nLugares de Recreación\nDiscotecas\nCiudad de Trujillo\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nCiudad de Trujillo\nLugares de Recreación\nDiscotecas\nCiudad de Trujillo\nLugares de Recreación\nCines o Teatros\nCiudad de Trujillo\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Trujillo\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de Trujillo"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nBancos\nCentro Histórico de Trujillo\nCajero automático\nCentro Histórico de Trujillo\nEstación de servicios, grifos, gasolineras y gasocentros\nCentro Histórico de Trujillo\nBodegas o minimarkets\nCentro Histórico de Trujillo\nServicios de taxis\nCentro Histórico de Trujillo\nServicio de estacionamiento\nCentro Histórico de Trujillo\nServicio de correos\nCentro Histórico de Trujillo"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nMuseo\nDesagüe\nMuseo\nLuz (Suministro Eléctrico)\nMuseo\nTeléfono\nMuseo"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCentro Histórico de Trujillo\nAlcantarillado sanitario\nCentro Histórico de Trujillo\nDesagüe\nCentro Histórico de Trujillo\nLuz (Suministro Eléctrico)\nCentro Histórico de Trujillo\nTeléfono\nCentro Histórico de Trujillo"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nUniversidad Nacional de Trujillo\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nTenencia de la Universidad Nacional De Trujillo\nAdministrador por\nNombre\nFacultad de Ciencias Sociales De la Universidad Nacional de Trujillo\nTiempo de administración\n1939"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nGerencia regional de comercio exterior, turismo y artesanía\nNombre (Persona(s) responsable(s) del inventario turístico):\nZoila Yuleysi Paredes Ruiz\nCargo:\nSubgerente de Turismo\nCorreo:\nzparedesr@regionlalibertad.gob.pe\nTeléfono:\n953414088\nFuentes Bibliográfica:\n1.Pinillos Argomedo, K. B. (2020). Percepción de los visitantes respecto a los servicios turísticos del Museo de Arqueología, Antropología e Historia, Universidad Nacional de Trujillo [Tesis de licenciatura, Universidad Nacional de Trujillo]. Repositorio Institucional UNITRU.https://lix.li/DWxoX\n2.Rodríguez Huertas, R. C., & Tarazona Del Carpio, M. (2024). Plan estratégico comunicacional para fortalecer la imagen corporativa del Museo de Arqueología, Antropología e Historia en estudiantes UNT – 2022 [Tesis de licenciatura, Universidad Nacional de Trujillo]. Repositorio Institucional UNITRU.https://lix.li/ysG2\n3.Hurtado Castro, H. (2022). Orígenes de los museos universitarios del Perú: Gestiones, tensiones y motivaciones fundacionales.https://lix.li/RKUD\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n11/08/2026 15:27:33"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -8.1108853616314,
+    "longitud": -79.02426391839981
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-8.1108853616314,-79.02426391839981"
+}

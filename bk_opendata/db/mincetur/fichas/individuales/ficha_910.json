@@ -1,0 +1,573 @@
+{
+  "cod_ficha": 910,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=910",
+  "nombre": "Centro Histórico Del Cusco",
+  "departamento": "Cusco",
+  "provincia": "Cusco",
+  "distrito": "CUSCO",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Lugares Históricos",
+  "subtipo": "Centros Históricos",
+  "jerarquia": "4",
+  "altitud": "3.400",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=422496",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=422496",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=601708",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=607313",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=607365",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=607314",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=607316",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=607367",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=607368",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=607369",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=607370",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=607317",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=607372"
+  ],
+  "actividades_permitidas": [
+    "Otros - Compras de artesanía/souvenir",
+    "Otros - Toma de fotografías y filmaciones",
+    "Cultura y Folclore - Actividades Religiosas o Patronales",
+    "Otros - Estudios e Investigación",
+    "Otros - Realización de eventos",
+    "Cultura y Folclore - Rituales místicos o tradicionales",
+    "Cultura y Folclore - Degustación y preparación de platos, productos o bebidas típicas",
+    "Cultura y Folclore - Ferias",
+    "Cultura y Folclore - Apreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)",
+    "Cultura y Folclore - Participación y/u observación del proceso de elaboración de productos locales",
+    "Otros - Compra de productos regionales"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Compras de artesanía/souvenir",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/artesania02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Actividades Religiosas o Patronales",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/act_religiosas02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Realización de eventos",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/eventos02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Rituales místicos o tradicionales",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/rituales_misticos02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Degustación y preparación de platos, productos o bebidas típicas",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/platos_tipicos02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Ferias",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/feria02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Apreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)",
+      "observacion": "--",
+      "icono_url": null
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Participación y/u observación del proceso de elaboración de productos locales",
+      "observacion": "--",
+      "icono_url": null
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Compra de productos regionales",
+      "observacion": "--",
+      "icono_url": null
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Cusco/Cusco/Cusco - Cusco/Cusco/Cusco",
+      "detalle": "Aeropuerto Internacional Alejandro Velazco Astete - Plaza de Armas del Cusco",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Taxi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "6.4 km./ 25 min."
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Cusco/Cusco/Cusco - Cusco/Cusco/Cusco",
+      "detalle": "Terminal terrestre del Cusco - Plaza de Armas del Cusco",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Taxi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "3.5 km. / 20 min."
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "149811",
+      "horario": "BTC",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "86986",
+      "horario": "BTC",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "07:00 a.m. - 11:30 p.m. --",
+      "observaciones": "--"
+    },
+    {
+      "epoca": "Personas con discapacidad física",
+      "especificacion": "Instalacion de rampas para personas con discapacidad",
+      "horario": "--",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Cines o Teatros",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Idiomas Inglés, Francés, Alemán entre otros"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "3, 4 y 5 estrellas"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "2 y 3 estrellas"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Museo de Sitio Turísticos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad del Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Cines o Teatros",
+      "observacion": "Ciudad del Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Ciudad del Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Ciudad del Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Ciudad del Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "Ciudad del Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad del Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad del Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad del Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de camionetas 4 x 4",
+      "observacion": "Ciudad del Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Español, inglés, francés, alemán, entre otros/ Ciudad del Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad del Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad del Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Ciudad del Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad del Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Ciudad del Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "3, 4 y 5 estrellas/ Ciudad del Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Apart-hoteles (especificar categorías)",
+      "observacion": "3 y 4 estrellas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "2 y 3 estrellas/ Ciudad del Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "Ciudad del Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Ciudad del Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "Ciudad del Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Boletería",
+      "observacion": "Ciudad del Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "Ciudad del Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Ciudad del Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "Ciudad del Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Museo de Sitio Turísticos",
+      "observacion": "Ciudad del Cusco"
+    }
+  ],
+  "descripcion": "El Centro Histórico del Cusco es uno de los conjuntos urbanos más impresionantes y hermosos de América Latina. Fue declarado Patrimonio Cultural de la Nación en 1972 y Patrimonio Cultural de la Humanidad por la UNESCO en 1983. Conserva vestigios del glorioso Imperio Inca y representa una fusión magistral entre la cosmovisión andina y la herencia hispánica. Situado a 3400 m.s.n.m. en el corazón de los Andes, este espacio es un testimonio vivo de más de 900 años de historia ininterrumpida. Antiguamente conocida como Qosqo, fue el centro del Tahuantinsuyo, bajo el liderazgo de Pachacútec en el siglo XV. Cusco fue rediseñado con una visión urbana, monumental y simbólica, trazada en la forma de un puma, un animal sagrado. Cada calle, plaza y templo tenían un propósito ceremonial y político específico, conectados por un sistema de caminos (qhapaqñan) que unía al imperio incaico. Con la llegada de la corona española en el siglo XVI, Cusco se transformó en una ciudad virreinal de gran importancia. Se construyeron templos y palacios sobre los antiguos santuarios y huacas incas, conservando en muchos casos los cimientos incaicos de las estructuras originales, gracias a su perfección constructiva. Así, nació un paisaje urbano único en el mundo, donde los muros de piedra ciclópea y los palacios incas dialogan armónicamente con iglesias barrocas y casonas coloniales adornadas con balcones labrados. La Plaza de Armas, antigua Huacaypata incaica, fue el centro ceremonial y político del Tahuantinsuyo. Hoy en día, es una de las plazas más majestuosas del continente, rodeada de portales de arquería y dominada por la imponente Catedral Basílica del Cusco, construida entre 1559 y 1654 sobre el antiguo templo inca Kiswarkancha, es una joya arquitectónica. Su diseño basilical cuenta con tres naves, sostenidas por catorce pilares en forma de cruz y cubiertas con impresionantes bóvedas de crucería, ostenta una belleza única con la mezcla de estilos gótico, renacentista, barroco y plateresco, la Iglesia de la Compañía de Jesús, considerada una de las construcciones jesuíticas más bellas de América y por excelencia, el símbolo del Barroco Andino. Uno de los ejemplos más impresionantes de sincretismo cultural es el Templo del Qoricancha, el lugar más sagrado del mundo inca, dedicado al dios Sol (Inti). Sobre su estructura se levantó el Convento de Santo Domingo; las paredes originales del templo, construidas con piedras talladas con una precisión asombrosa, aún brillan con majestuosidad. Está conformado por barrios tradicionales como San Blas, San Cristóbal y San Pedro que fueron testigos de la historia Cusqueña, sus calles como: Hatun Rumiyoc, 7 Borreguitos, Loreto, Cuesta San Blas y Triunfo, están pavimentadas con piedra y rodeadas de muros incas que han resistido el paso del tiempo y la transformación urbana. La famosa Piedra de los Doce Ángulos, un símbolo de la ingeniería inca, se ha convertido en uno de los íconos más fotografiados del Perú.\nLas casonas coloniales, como la Casa del Inca Garcilaso De la Vega y la Casa Concha que hoy funcionan como museos, conservan patios interiores, balcones tallados, fuentes y obras de arte. En sus calles y plazas se celebran algunas de las festividades más importantes del calendario andino y católico. Destaca el Inti Raymi (24 de junio), una representación contemporánea del festival inca al Sol y la festividad del Señor de los Temblores, Patrón Jurado del Cusco que llena la ciudad de devoción, flores y música sacra. El Centro Histórico del Cusco es una joya que refleja la rica continuidad cultural, armonía entre la historia viva, espiritualidad ancestral y el majestuoso paisaje andino. Pasear por sus calles es como adentrarse en una ciudad donde lo antiguo y lo moderno se entrelazan, y donde cada piedra cuenta la historia de una civilización que sigue vibrando",
+  "particularidades": "El Centro Histórico del Cusco es la capital más antigua y relevante de un imperio prehispánico de gran envergadura en América porque fue el centro político, administrativo, religioso y cultural del Imperio Inca (Tahuantinsuyo), el estado más extenso y organizado de Sudamérica antes de la llegada de los españoles. Establecida desde el siglo XII, desde el Cusco se gobernó un territorio que abarcó gran parte del continente, con una población estimada en millones. Además, su importancia se refleja en la continuidad cultural y urbana visible, donde se tiene las superposiciones mejor conservadas de arquitectura pre-inca, inca, colonial y republicana, reconocida oficialmente como Patrimonio Mundial por la UNESCO.\nReferencias y autores oficiales\nTerence D’Altroy, The Incas (2002)\nMaría Rostworowski, Historia del Tahuantinsuyo (1988)\nJohn Hemming, The Conquest of the Incas (1970)\nUNESCO, Expediente de nominación del Centro Histórico de Cusco, Patrimonio Mundial (1983)\nMinisterio de Cultura del Perú, Plan Maestro del Centro Histórico de Cusco (2017)",
+  "estado_actual": "Bueno, constante cuidado y mantenimiento por las entidades competentes",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "El Centro Histórico del Cusco es uno de los conjuntos urbanos más impresionantes y hermosos de América Latina. Fue declarado Patrimonio Cultural de la Nación en 1972 y Patrimonio Cultural de la Humanidad por la UNESCO en 1983. Conserva vestigios del glorioso Imperio Inca y representa una fusión magistral entre la cosmovisión andina y la herencia hispánica. Situado a 3400 m.s.n.m. en el corazón de los Andes, este espacio es un testimonio vivo de más de 900 años de historia ininterrumpida. Antiguamente conocida como Qosqo, fue el centro del Tahuantinsuyo, bajo el liderazgo de Pachacútec en el siglo XV. Cusco fue rediseñado con una visión urbana, monumental y simbólica, trazada en la forma de un puma, un animal sagrado. Cada calle, plaza y templo tenían un propósito ceremonial y político específico, conectados por un sistema de caminos (qhapaqñan) que unía al imperio incaico. Con la llegada de la corona española en el siglo XVI, Cusco se transformó en una ciudad virreinal de gran importancia. Se construyeron templos y palacios sobre los antiguos santuarios y huacas incas, conservando en muchos casos los cimientos incaicos de las estructuras originales, gracias a su perfección constructiva. Así, nació un paisaje urbano único en el mundo, donde los muros de piedra ciclópea y los palacios incas dialogan armónicamente con iglesias barrocas y casonas coloniales adornadas con balcones labrados. La Plaza de Armas, antigua Huacaypata incaica, fue el centro ceremonial y político del Tahuantinsuyo. Hoy en día, es una de las plazas más majestuosas del continente, rodeada de portales de arquería y dominada por la imponente Catedral Basílica del Cusco, construida entre 1559 y 1654 sobre el antiguo templo inca Kiswarkancha, es una joya arquitectónica. Su diseño basilical cuenta con tres naves, sostenidas por catorce pilares en forma de cruz y cubiertas con impresionantes bóvedas de crucería, ostenta una belleza única con la mezcla de estilos gótico, renacentista, barroco y plateresco, la Iglesia de la Compañía de Jesús, considerada una de las construcciones jesuíticas más bellas de América y por excelencia, el símbolo del Barroco Andino. Uno de los ejemplos más impresionantes de sincretismo cultural es el Templo del Qoricancha, el lugar más sagrado del mundo inca, dedicado al dios Sol (Inti). Sobre su estructura se levantó el Convento de Santo Domingo; las paredes originales del templo, construidas con piedras talladas con una precisión asombrosa, aún brillan con majestuosidad. Está conformado por barrios tradicionales como San Blas, San Cristóbal y San Pedro que fueron testigos de la historia Cusqueña, sus calles como: Hatun Rumiyoc, 7 Borreguitos, Loreto, Cuesta San Blas y Triunfo, están pavimentadas con piedra y rodeadas de muros incas que han resistido el paso del tiempo y la transformación urbana. La famosa Piedra de los Doce Ángulos, un símbolo de la ingeniería inca, se ha convertido en uno de los íconos más fotografiados del Perú.\nLas casonas coloniales, como la Casa del Inca Garcilaso De la Vega y la Casa Concha que hoy funcionan como museos, conservan patios interiores, balcones tallados, fuentes y obras de arte. En sus calles y plazas se celebran algunas de las festividades más importantes del calendario andino y católico. Destaca el Inti Raymi (24 de junio), una representación contemporánea del festival inca al Sol y la festividad del Señor de los Temblores, Patrón Jurado del Cusco que llena la ciudad de devoción, flores y música sacra. El Centro Histórico del Cusco es una joya que refleja la rica continuidad cultural, armonía entre la historia viva, espiritualidad ancestral y el majestuoso paisaje andino. Pasear por sus calles es como adentrarse en una ciudad donde lo antiguo y lo moderno se entrelazan, y donde cada piedra cuenta la historia de una civilización que sigue vibrando"
+    },
+    {
+      "titulo": "Particularidades",
+      "contenido": "El Centro Histórico del Cusco es la capital más antigua y relevante de un imperio prehispánico de gran envergadura en América porque fue el centro político, administrativo, religioso y cultural del Imperio Inca (Tahuantinsuyo), el estado más extenso y organizado de Sudamérica antes de la llegada de los españoles. Establecida desde el siglo XII, desde el Cusco se gobernó un territorio que abarcó gran parte del continente, con una población estimada en millones. Además, su importancia se refleja en la continuidad cultural y urbana visible, donde se tiene las superposiciones mejor conservadas de arquitectura pre-inca, inca, colonial y republicana, reconocida oficialmente como Patrimonio Mundial por la UNESCO.\nReferencias y autores oficiales\nTerence D’Altroy, The Incas (2002)\nMaría Rostworowski, Historia del Tahuantinsuyo (1988)\nJohn Hemming, The Conquest of the Incas (1970)\nUNESCO, Expediente de nominación del Centro Histórico de Cusco, Patrimonio Mundial (1983)\nMinisterio de Cultura del Perú, Plan Maestro del Centro Histórico de Cusco (2017)"
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "1-La Resolución Suprema N° 2900 de 1972, declaró al Centro Histórico del Cusco como Patrimonio Cultural de la Nación\n2-El Centro Histórico del Cusco fue declarado Patrimonio de la Humanidad por la UNESCO en 1983"
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, constante cuidado y mantenimiento por las entidades competentes"
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n149811\nBTC\n2025\nTuristas Nacionales\n86986\nBTC\n2025\nundefined"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nCusco/Cusco/Cusco\n-\nCusco/Cusco/Cusco\nAeropuerto Internacional Alejandro Velazco Astete - Plaza de Armas del Cusco\nTerrestre\nTaxi\nAsfaltado\n6.4 km./ 25 min.\n2\nCusco/Cusco/Cusco\n-\nCusco/Cusco/Cusco\nTerminal terrestre del Cusco - Plaza de Armas del Cusco\nTerrestre\nTaxi\nAsfaltado\n3.5 km. / 20 min."
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n07:00 a.m.\n-\n11:30 p.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nCompras de artesanía/souvenir\n--\nOtros\nToma de fotografías y filmaciones\n--\nCultura y Folclore\nActividades Religiosas o Patronales\n--\nOtros\nEstudios e Investigación\n--\nOtros\nRealización de eventos\n--\nCultura y Folclore\nRituales místicos o tradicionales\n--\nCultura y Folclore\nDegustación y preparación de platos, productos o bebidas típicas\n--\nCultura y Folclore\nFerias\n--\nCultura y Folclore\nApreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)\n--\nCultura y Folclore\nParticipación y/u observación del proceso de elaboración de productos locales\n--\nOtros\nCompra de productos regionales\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nLugares de Recreación\nDiscotecas\n--\nInstalaciones Privadas\nLugares de Recreación\nCines o Teatros\n--\nInstalaciones Privadas\nLugares de Recreación\nJuegos de casino y/o tragamonedas\n--\nInstalaciones Privadas\nLugares de Recreación\nBares\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nVenta de artesanía\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nAgencia de Viajes\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nIdiomas Inglés, Francés, Alemán entre otros\nInstalaciones Privadas\nAlimentación\nRestaurantes\n--\nInstalaciones Privadas\nAlimentación\nBares\n--\nInstalaciones Privadas\nAlimentación\nCafeterías\n--\nInstalaciones Privadas\nAlimentación\nFuentes de soda\n--\nInstalaciones Privadas\nAlimentación\nVenta de comida Rápida\n--\nInstalaciones Privadas\nAlojamiento\nHoteles (especificar categorías)\n3, 4 y 5 estrellas\nInstalaciones Privadas\nAlojamiento\nHostales (especificar categorías)\n2 y 3 estrellas\nInstalaciones Públicas\nServicios Públicos\nEstacionamiento de vehículos\n--\nInstalaciones Públicas\nServicios Públicos\nMiradores turísticos\n--\nInstalaciones Públicas\nServicios Públicos\nOficina de Información turística\n--\nInstalaciones Públicas\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\n--\nInstalaciones Públicas\nServicios Públicos\nMuseo de Sitio Turísticos\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nLugares de Recreación\nDiscotecas\nCiudad del Cusco\nLugares de Recreación\nCines o Teatros\nCiudad del Cusco\nLugares de Recreación\nJuegos Infantiles\nCiudad del Cusco\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nCiudad del Cusco\nLugares de Recreación\nCentros Deportivos\nCiudad del Cusco\nLugares de Recreación\nKaraoke\nCiudad del Cusco\nLugares de Recreación\nBares\nCiudad del Cusco\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad del Cusco\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad del Cusco\nOtros Servicios Turísticos\nAlquiler de camionetas 4 x 4\nCiudad del Cusco\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nEspañol, inglés, francés, alemán, entre otros/ Ciudad del Cusco\nAlimentación\nRestaurantes\nCiudad del Cusco\nAlimentación\nCafeterías\nCiudad del Cusco\nAlimentación\nFuentes de soda\nCiudad del Cusco\nAlimentación\nKioskos de comida y bebidas\nCiudad del Cusco\nAlimentación\nVenta de comida Rápida\nCiudad del Cusco\nAlojamiento\nHoteles (especificar categorías)\n3, 4 y 5 estrellas/ Ciudad del Cusco\nAlojamiento\nApart-hoteles (especificar categorías)\n3 y 4 estrellas\nAlojamiento\nHostales (especificar categorías)\n2 y 3 estrellas/ Ciudad del Cusco\nServicios Públicos\nMiradores turísticos\nCiudad del Cusco\nServicios Públicos\nEstacionamiento de vehículos\nCiudad del Cusco\nServicios Públicos\nSeñales turísticas de orientación\nCiudad del Cusco\nServicios Públicos\nBoletería\nCiudad del Cusco\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\nCiudad del Cusco\nServicios Públicos\nOficina de Información turística\nCiudad del Cusco\nServicios Públicos\nCaminos peatonales\nCiudad del Cusco\nServicios Públicos\nMuseo de Sitio Turísticos\nCiudad del Cusco"
+    },
+    {
+      "titulo": "Servicios Complementarios dentro del recurso",
+      "contenido": "Servicio Complementario\nObservación\nServicios de taxis\n--\nCajero automático\n--\nVenta de materiales para fotografías\n--\nServicios de internet\n--\nBancos\n--\nCasa de cambio\n--\nEstación de servicios, grifos, gasolineras y gasocentros\n--\nServicio de correos\n--\nServicio de estacionamiento\n--\nCentro de salud - tópico\n--\nSeguridad / POLTUR / Comisaría\n--\nAlquiler y compra de equipos deportivos\n--\nLibrerías\n--\nBodegas o minimarkets\n--"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad del Cusco\nBancos\nCiudad del Cusco\nCajero automático\nCiudad del Cusco\nCasa de cambio\nCiudad del Cusco\nBodegas o minimarkets\nCiudad del Cusco\nServicios de taxis\nCiudad del Cusco\nVenta de materiales para fotografías\nCiudad del Cusco\nLibrerías\nCiudad del Cusco\nServicio de correos\nCiudad del Cusco\nServicio de estacionamiento\nCiudad de Cusco\nSeguridad / POLTUR / Comisaría\nCiudad de Cusco"
+    },
+    {
+      "titulo": "Condiciones de Accesibilidad al Visitante",
+      "contenido": "Visitante\nInstalación\nActividades y/o programas\nEquipamiento\nObservación\nPersonas con discapacidad física\nInstalacion de rampas para personas con discapacidad\n--\n--\n--"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\n--\nAlcantarillado sanitario\n--\nLuz (Suministro Eléctrico)\n--\nSeñalización turística\n--\nAlcantarillado pluvial\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad del Cusco\nAlcantarillado sanitario\nCiudad del Cusco\nLuz (Suministro Eléctrico)\nCiudad del Cusco\nSeñalización turística\nCiudad del Cusco\nAlcantarillado pluvial\nCiudad del Cusco"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\n--\nPrivado:\n--\nOtra Situación:\nLas vías son públicas y las casas son privadas\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nMunicipalidad Provincial del Cusco\nTiempo de administración\nDesde el año 1945"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nGerencia Regional de Comercio Exterior Turismo y Artesania\nNombre (Persona(s) responsable(s) del inventario turístico):\nEcon. Marco Luna Galindo\nCargo:\nResponsable del Inventario de Recursos Turisticos\nCorreo:\nsgdp.gercetur@gmail.com\nTeléfono:\n926629209\nFuentes Bibliográfica:\n1- Farrington, I.¿S. (2013). Cusco: Urbanism and Archaeology in the Inka World. Gainesville, FL: University Press of Florida.\n2-Calvo Calvo, R. (2024). La patrimonialización del centro histórico del Cusco en la sociedad cusqueña: A propósito de los 40 años de la inclusión en la Lista del Patrimonio Mundial. El Antoniano, 9(2), 1–13. https://doi.org/10.51343/anto.v9i2.1575 elpais.com+15revistas.unsaac.edu.pe+15repositorio.uni.edu.pe+15\n3- Quispe Gonzáles, E. (2018). Regeneración urbana, turismo y barrios del Centro Histórico del Cusco, Patrimonio Cultural de la Humanidad: Análisis comparativo 1983–2005. Devenir – Revista de Estudios sobre Patrimonio Edificado, 2(4), 45–72. https://doi.org/10.21754/devenir.v2i4.277\n4- Navarro, R. 2018 Incidencia de la relación tradición-modernidad en la protección y conservación del Centro Histórico de la ciudad de Cusco. https://doi.org/10.21754/devenir.v1i1.235\nMaterial Audiovisual actual del Recurso:\n, VIDEOS\nEspecificación:\nhttps://youtu.be/19rfoML3cl4?si=7MxR3idup-L8sz50\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n9/07/2025 12:38:59"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -13.517149187160157,
+    "longitud": -71.9784951210022
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-13.517149187160157,-71.9784951210022"
+}

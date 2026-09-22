@@ -1,0 +1,310 @@
+{
+  "cod_ficha": 4356,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=4356",
+  "nombre": "Plaza San Martín",
+  "departamento": "Lima",
+  "provincia": "Lima",
+  "distrito": "LIMA",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Arquitectura y Espacios Urbanos",
+  "subtipo": "Plazas",
+  "jerarquia": "2",
+  "altitud": "155",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=364049",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=364049",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=364000",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=564090",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=564238",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=564239",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=564091",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=570019",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=570035"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Realización de eventos",
+    "Cultura y Folclore - Apreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Realización de eventos",
+      "observacion": "Homenaje a Don José de San Martín en el mes de julio.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/eventos02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Apreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)",
+      "observacion": "Pasacalles de Lima los fines de semana.",
+      "icono_url": null
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Lima/Lima/Lima - Lima/Lima/Lima",
+      "detalle": "Plaza Mayor de Lima - Plaza San Martín",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "700 m / 12 Min"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Lima/Lima/Lima - Lima/Lima/Lima",
+      "detalle": "Estacion Jr De la Unión del Metropolitano - Plaza San Martín",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "0.3 km./6 min."
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "46080",
+      "horario": "MML-Subgerencia de Turismo",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "109440",
+      "horario": "MML-Subgerencia de Turismo",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "08:00 a.m. - 10:00 p.m. Espacio público libre y abierto",
+      "observaciones": "Espacio público libre y abierto"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Caseta turística. Cercado de Lima."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "1, 2, 3 y 5 estrellas. Cercado de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "1, 2 y 3 estrellas. Cercado de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Cercado de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Cercado de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Cercado de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Cercado de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Cercado de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Cercado de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Cercado de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Cines o Teatros",
+      "observacion": "Cercado de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Cercado de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Cercado de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Cercado de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Idiomas: español, inglés, francés, portugués e italiano. Cercado de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "Cercado de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Cercado de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Museo de Sitio Turísticos",
+      "observacion": "Cercado de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Otros (especificar)",
+      "observacion": "Servicios higiénicos. Cercado de Lima"
+    }
+  ],
+  "descripcion": "La Plaza San Martín fue inaugurada por el Presidente Augusto B. Leguía el 27 de julio de 1921, siendo la ceremonia pública más significativa durante las celebraciones del Centenario de la Independencia del Perú. Por lo tanto, este recurso turístico pertenece a la época Republicana.\nEl trazado, ornamentación, mobiliario y jardinería de la plaza fue diseñado por Manuel Piqueras Cotolí. Cuenta con bancas de mármol, fuentes de agua, faroles de bronce y jardines. El monumento principal, obra del escultor español Mariano Benlluire, se encuentra en el centro de la plaza y representa al General Don José de San Martín cruzando los andes. En el frontis del monumento destacan tres figuras femeninas, la principal es una alegoría de la Nación Peruana y sostiene sobre su cabeza dos ramas del árbol de la quina enmarcando el lema: “LA NACIÓN AL GENERAL D. JOSE DE SAN MARTIN”; las otras dos figuras recostadas desnudas simbolizan la Gloria y la Fama. En la parte posterior hay dos soldados portando banderas cruzadas que representan la hermandad peruano-argentina. Finalmente, a cada lado del pedestal, se ubican relieves en bronce que representan escenas con personajes y lemas alusivos a la gesta emancipadora.\nLos edificios que la rodean fueron construidos gradualmente entre 1912 y 1947; destacan entre ellos: el edifico Giacoletti, el más antiguo de la plaza, construido por los hermanos Masperi en 1912; lo sigue en antigüedad el teatro Colón, obra del arquitecto Claude Sahut. Resaltan también el hotel Bolívar, el local del Club Nacional y los portales laterales denominados Zela y Pumacahua. Adicionalmente, entre el jirón de La Unión y la avenida Nicolás de Pierola, se ubica el farol de las “Tres Gracias”, pieza de hierro fabricada por una fundición francesa.\nSe conformó de esta manera una auténtica plaza republicana imbuida de un espíritu afrancesado, siendo desde su apertura el espacio más importante de convergencia y expresión de la sociedad civil. Características que hacen que, hoy en día, la plaza San Martín sea uno de los espacios urbanos más bellos y emblemáticos del Centro Histórico de Lima.\nPor último, su estado de conservación es bueno, porque la Municipalidad Metropolitana de Lima, a través de la Gerencia de Servicios a la ciudad, se encarga de su mantenimiento. Asimismo, las intervenciones de conservación son realizadas por PROLIMA en coordinación con el Ministerio de Cultura. Una de las últimas intervenciones más resaltantes fue la realizada en el año 2021 a la escultura del libertador Don José de San Martín.",
+  "particularidades": "",
+  "estado_actual": "Bueno, porque la Municipalidad Metropolitana de Lima le brinda constante mantenimiento y seguridad.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "La Plaza San Martín fue inaugurada por el Presidente Augusto B. Leguía el 27 de julio de 1921, siendo la ceremonia pública más significativa durante las celebraciones del Centenario de la Independencia del Perú. Por lo tanto, este recurso turístico pertenece a la época Republicana.\nEl trazado, ornamentación, mobiliario y jardinería de la plaza fue diseñado por Manuel Piqueras Cotolí. Cuenta con bancas de mármol, fuentes de agua, faroles de bronce y jardines. El monumento principal, obra del escultor español Mariano Benlluire, se encuentra en el centro de la plaza y representa al General Don José de San Martín cruzando los andes. En el frontis del monumento destacan tres figuras femeninas, la principal es una alegoría de la Nación Peruana y sostiene sobre su cabeza dos ramas del árbol de la quina enmarcando el lema: “LA NACIÓN AL GENERAL D. JOSE DE SAN MARTIN”; las otras dos figuras recostadas desnudas simbolizan la Gloria y la Fama. En la parte posterior hay dos soldados portando banderas cruzadas que representan la hermandad peruano-argentina. Finalmente, a cada lado del pedestal, se ubican relieves en bronce que representan escenas con personajes y lemas alusivos a la gesta emancipadora.\nLos edificios que la rodean fueron construidos gradualmente entre 1912 y 1947; destacan entre ellos: el edifico Giacoletti, el más antiguo de la plaza, construido por los hermanos Masperi en 1912; lo sigue en antigüedad el teatro Colón, obra del arquitecto Claude Sahut. Resaltan también el hotel Bolívar, el local del Club Nacional y los portales laterales denominados Zela y Pumacahua. Adicionalmente, entre el jirón de La Unión y la avenida Nicolás de Pierola, se ubica el farol de las “Tres Gracias”, pieza de hierro fabricada por una fundición francesa.\nSe conformó de esta manera una auténtica plaza republicana imbuida de un espíritu afrancesado, siendo desde su apertura el espacio más importante de convergencia y expresión de la sociedad civil. Características que hacen que, hoy en día, la plaza San Martín sea uno de los espacios urbanos más bellos y emblemáticos del Centro Histórico de Lima.\nPor último, su estado de conservación es bueno, porque la Municipalidad Metropolitana de Lima, a través de la Gerencia de Servicios a la ciudad, se encarga de su mantenimiento. Asimismo, las intervenciones de conservación son realizadas por PROLIMA en coordinación con el Ministerio de Cultura. Una de las últimas intervenciones más resaltantes fue la realizada en el año 2021 a la escultura del libertador Don José de San Martín."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "Declarado Patrimonio Cultural Inmueble por Resolución Suprema N.º. 2900, el 28 de diciembre de 1972."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, porque la Municipalidad Metropolitana de Lima le brinda constante mantenimiento y seguridad."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Nacionales\n46080\nMML-Subgerencia de Turismo\n2024\nProyección en base al conteo de visitantes durante los meses de agosto y setiembre 2024.\nTuristas Extranjeros\n109440\nMML-Subgerencia de Turismo\n2024\nProyección en base al conteo de visitantes durante los meses de agosto y setiembre 2024."
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nLima/Lima/Lima\n-\nLima/Lima/Lima\nPlaza Mayor de Lima - Plaza San Martín\nTerrestre\nA pie\nAsfaltado\n700 m / 12 Min\n2\nLima/Lima/Lima\n-\nLima/Lima/Lima\nEstacion Jr De la Unión del Metropolitano - Plaza San Martín\nTerrestre\nA pie\nAsfaltado\n0.3 km./6 min."
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n08:00 a.m.\n-\n10:00 p.m.\nEspacio público libre y abierto"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nRealización de eventos\nHomenaje a Don José de San Martín en el mes de julio.\nCultura y Folclore\nApreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)\nPasacalles de Lima los fines de semana."
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Públicas\nServicios Públicos\nOficina de Información turística\nCaseta turística. Cercado de Lima."
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\n1, 2, 3 y 5 estrellas. Cercado de Lima\nAlojamiento\nHostales (especificar categorías)\n1, 2 y 3 estrellas. Cercado de Lima\nAlimentación\nRestaurantes\nCercado de Lima\nAlimentación\nBares\nCercado de Lima\nAlimentación\nCafeterías\nCercado de Lima\nAlimentación\nFuentes de soda\nCercado de Lima\nAlimentación\nKioskos de comida y bebidas\nCercado de Lima\nAlimentación\nVenta de comida Rápida\nCercado de Lima\nLugares de Recreación\nDiscotecas\nCercado de Lima\nLugares de Recreación\nCines o Teatros\nCercado de Lima\nLugares de Recreación\nJuegos Infantiles\nCercado de Lima\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nCercado de Lima\nOtros Servicios Turísticos\nAgencia de Viajes\nCercado de Lima\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nIdiomas: español, inglés, francés, portugués e italiano. Cercado de Lima\nServicios Públicos\nSeñales turísticas de orientación\nCercado de Lima\nServicios Públicos\nOficina de Información turística\nCercado de Lima\nServicios Públicos\nMuseo de Sitio Turísticos\nCercado de Lima\nServicios Públicos\nOtros (especificar)\nServicios higiénicos. Cercado de Lima"
+    },
+    {
+      "titulo": "Servicios Complementarios dentro del recurso",
+      "contenido": "Servicio Complementario\nObservación\nSeguridad / POLTUR / Comisaría\nSerenazgo de la Municipalidad Metropolitana de Lima.\nOtros(especificar)\nFotógrafos"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nDistrito Cercado de Lima\nBancos\nDistrito Cercado de Lima\nCasa de cambio\nDistrito Cercado de Lima\nEstación de servicios, grifos, gasolineras y gasocentros\nDistrito Cercado de Lima\nServicio de estacionamiento\nDistrito Cercado de Lima\nServicios de taxis\nDistrito Cercado de Lima\nCentro de salud - tópico\nDistrito Cercado de Lima\nSeguridad / POLTUR / Comisaría\nDistrito Cercado de Lima\nLibrerías\nDistrito Cercado de Lima\nBodegas o minimarkets\nDistrito Cercado de Lima"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\n--\nLuz (Suministro Eléctrico)\n--\nSeñalización turística\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCercado de Lima\nLuz (Suministro Eléctrico)\nCercado de Lima\nTeléfono\nCercado de Lima\nSeñalización turística\nCercado de Lima\nAlcantarillado sanitario\nCercado de Lima"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nMunicipalidad Metropolitana de Lima\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nCódigo Catastral 0105070001 - PROLIMA- Municipalidad Metropolitana de Lima\nAdministrador por\nNombre\nMunicipalidad Metropolitana de Lima\nTiempo de administración\nDesde 1921"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nMUNICIPALIDAD DE LIMA - SUBGERENCIA DE TURISMO\nNombre (Persona(s) responsable(s) del inventario turístico):\nAlex Reaño Torres/Guiliana Prada Cáceres\nCargo:\nEspecialista en turismo/Técnico en elaboración de inventarios\nCorreo:\nalexreanotorres@gmail.com/patricia.prada@munlima.gob.pe\nTeléfono:\n01-6321801\nFuentes Bibliográfica:\n1) Capristán, Marco Antonio (2023). La historia de Lima. Pinceladas limeñas. Primera edición. Lima.\n2) Bonilla, Enrique (2021) Breve historia de una plaza republicana: Dos lugares con un pasado presente en nuestra historia peruana. Revista Pie de página. Universidad de Lima\n3) Casalino, Carlota (2017) Centenario. Las celebraciones de la Independencia 1921-1924. Primera edición. Municipalidad Metropolitana de Lima.\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n8/11/2024 10:29:44"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -12.051617,
+    "longitud": -77.03467
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-12.051617,-77.03467"
+}

@@ -1,0 +1,225 @@
+{
+  "cod_ficha": 433,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=433",
+  "nombre": "Laguna San Juan De Salinas",
+  "departamento": "Puno",
+  "provincia": "Azangaro",
+  "distrito": "SAN JUAN DE SALINAS",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "g. Cuerpo de Agua",
+  "subtipo": "Lagunas",
+  "jerarquia": "POR JERARQUIZAR",
+  "altitud": "3831",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=650037",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=650037",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=650047",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=650038",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=650048",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=650049",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=650039",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=650050",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=650051"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Actividades Culturales",
+    "Otros - Estudios e Investigación",
+    "Naturaleza - Observación de paisaje",
+    "Naturaleza - Observación de aves"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Actividades Culturales",
+      "observacion": "Cosecha de sal.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/act_culturales02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de aves",
+      "observacion": "Flamencos y patos andinos.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/aves02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Puno/Azángaro/Azángaro - Puno/Azángaro/Azángaro",
+      "detalle": "Plaza de Armas de Azángaro - Plaza Principal de San Juan de Salinas",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "16 kms. / 20 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Puno/Azángaro/Azángaro - Puno/Azángaro/Azángaro",
+      "detalle": "Plaza Principal de San Juan de Salinas - Laguna San Juan de Salinas",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Sendero",
+      "distancia_tiempo": "400 mts. / 15 minutos"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "900",
+      "horario": "Conteo muestra por la Municipalidad Provincial de Azángaro..",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "360",
+      "horario": "Conteo muestra por la Municipalidad Provincial de Azángaro.",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "07:00 a.m. - 04:00 p.m. --",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "En la ciudad de Azángaro."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "En la ciudad de Azángaro."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "En la ciudad de Azángaro."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "En la ciudad de Azángaro."
+    }
+  ],
+  "descripcion": "La Laguna se ubica aproximadamente a 1 km de la localidad de San Juan de Salinas, en la provincia de Azángaro, dentro del ámbito geográfico del altiplano peruano, cuenta con una extensión aproximada de 1,560 hectáreas, constituye una de las lagunas salinas más representativas de la zona del Perú, por su singular proceso natural de formación y aprovechamiento de la sal. La laguna se caracteriza por su marcado dinamismo estacional, durante la temporada de lluvias, el área se transforma en un extenso espejo de agua y sal, cual mantos blancos que contrastan con la belleza natural circundante, ofreciendo un espectacular paisaje, donde se refleja el cielo y el entorno natural altiplánico, convirtiéndose en un atractivo visual de alto valor paisajístico. Durante la temporada de estiaje o sequía, el espejo de agua adquiere una coloración blanca intensa, producto de la cristalización de la sal, configurando un escenario natural singular y distintivo en la región. En el interior de la laguna se aprecia una isla natural denominada Copacabana, elemento geomorfológico de especial interés, al pie de esta isla es el lugar de donde emana el líquido salino, el cual, al mezclarse con el agua de la laguna y someterse a procesos naturales de evaporación, se solidifica dando origen a la sal, recurso que es tradicionalmente aprovechado por la comunidad local mediante prácticas ancestrales de extracción y cosecha, constituyendo un importante componente de la identidad cultural y económica del lugar. Asimismo, el entorno de la laguna presenta condiciones favorables para el desarrollo de actividades de interés turístico, tales como el turismo paisajístico, vivencial, educativo y de observación de aves que llegan para la temporada de cría, especialmente por su relación con los procesos naturales de formación de sal, el conocimiento tradicional asociado y la tranquilidad del paisaje altoandino. Por sus características naturales, culturales y escénicas, la Laguna de San Juan de Salinas posee un alto potencial turístico, con una gestión sostenible y articulada de la población local.",
+  "particularidades": "",
+  "estado_actual": "Bueno, no presenta signos de contaminación.",
+  "observaciones": "Cuenta con un mirador turístico, ubicado en la Localidad de San Juan de Salinas.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "La Laguna se ubica aproximadamente a 1 km de la localidad de San Juan de Salinas, en la provincia de Azángaro, dentro del ámbito geográfico del altiplano peruano, cuenta con una extensión aproximada de 1,560 hectáreas, constituye una de las lagunas salinas más representativas de la zona del Perú, por su singular proceso natural de formación y aprovechamiento de la sal. La laguna se caracteriza por su marcado dinamismo estacional, durante la temporada de lluvias, el área se transforma en un extenso espejo de agua y sal, cual mantos blancos que contrastan con la belleza natural circundante, ofreciendo un espectacular paisaje, donde se refleja el cielo y el entorno natural altiplánico, convirtiéndose en un atractivo visual de alto valor paisajístico. Durante la temporada de estiaje o sequía, el espejo de agua adquiere una coloración blanca intensa, producto de la cristalización de la sal, configurando un escenario natural singular y distintivo en la región. En el interior de la laguna se aprecia una isla natural denominada Copacabana, elemento geomorfológico de especial interés, al pie de esta isla es el lugar de donde emana el líquido salino, el cual, al mezclarse con el agua de la laguna y someterse a procesos naturales de evaporación, se solidifica dando origen a la sal, recurso que es tradicionalmente aprovechado por la comunidad local mediante prácticas ancestrales de extracción y cosecha, constituyendo un importante componente de la identidad cultural y económica del lugar. Asimismo, el entorno de la laguna presenta condiciones favorables para el desarrollo de actividades de interés turístico, tales como el turismo paisajístico, vivencial, educativo y de observación de aves que llegan para la temporada de cría, especialmente por su relación con los procesos naturales de formación de sal, el conocimiento tradicional asociado y la tranquilidad del paisaje altoandino. Por sus características naturales, culturales y escénicas, la Laguna de San Juan de Salinas posee un alto potencial turístico, con una gestión sostenible y articulada de la población local."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, no presenta signos de contaminación."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "Cuenta con un mirador turístico, ubicado en la Localidad de San Juan de Salinas."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nVisitantes Locales(Excursionistas)\n900\nConteo muestra por la Municipalidad Provincial de Azángaro..\n2025\nundefined\nTuristas Nacionales\n360\nConteo muestra por la Municipalidad Provincial de Azángaro.\n2025\nundefined"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nPuno/Azángaro/Azángaro\n-\nPuno/Azángaro/Azángaro\nPlaza de Armas de Azángaro - Plaza Principal de San Juan de Salinas\nTerrestre\nAutomóvil particular\nAsfaltado\n16 kms. / 20 minutos\n1\nPuno/Azángaro/Azángaro\n-\nPuno/Azángaro/Azángaro\nPlaza Principal de San Juan de Salinas - Laguna San Juan de Salinas\nTerrestre\nA pie\nSendero\n400 mts. / 15 minutos"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n07:00 a.m.\n-\n04:00 p.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nActividades Culturales\nCosecha de sal.\nOtros\nEstudios e Investigación\n--\nNaturaleza\nObservación de paisaje\n--\nNaturaleza\nObservación de aves\nFlamencos y patos andinos."
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Públicas\nServicios Públicos\nEstacionamiento de vehículos\n--\nInstalaciones Públicas\nServicios Públicos\nCaminos peatonales\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nEn la ciudad de Azángaro.\nAlimentación\nRestaurantes\nEn la ciudad de Azángaro.\nAlimentación\nKioskos de comida y bebidas\nEn la ciudad de Azángaro.\nOtros Servicios Turísticos\nVenta de artesanía\nEn la ciudad de Azángaro."
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nEn la ciudad de Azángaro.\nEstación de servicios, grifos, gasolineras y gasocentros\nEn la ciudad de Azángaro.\nServicio de estacionamiento\nEn la ciudad de Azángaro.\nServicios de taxis\nEn la ciudad de Azángaro.\nCentro de salud - tópico\nEn la ciudad de Azángaro.\nSeguridad / POLTUR / Comisaría\nEn la ciudad de Azángaro.\nLibrerías\nEn la ciudad de Azángaro.\nBodegas o minimarkets\nEn la ciudad de Azángaro."
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nEn la ciudad de Azángaro.\nAlcantarillado sanitario\nEn la ciudad de Azángaro.\nLuz (Suministro Eléctrico)\nEn la ciudad de Azángaro.\nTeléfono\nEn la ciudad de Azángaro.\nSeñalización turística\nEn la ciudad de Azángaro."
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nEstado Peruano\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nLey de los Recursos Hídricos N° 29338, el agua superficial, subterránea y los bienes asociados a ella son propiedad del Estado\nAdministrador por\nNombre\nMunicipalidad Distrital de San Juan de Salinas\nTiempo de administración\nDesde el año 2023."
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección de Turismo de la Dirección Regional de Comercio Exterior y Turismo / Municipalidad Provincial de Puno.\nNombre (Persona(s) responsable(s) del inventario turístico):\nLic. Maribel J. Choque Copa - Arq. Vadim Masciotti Cabala / Lic. Froilán A. Ccuno Zea\nCargo:\nDirectora Regional - Arq. / Responsable de la Oficina de Promoción del turismo de la Municipalidad Provincial de Azángaro.\nCorreo:\nchcmaribel@gmail.com - masciottivadim@gamil.com / ccunozeaf@gmail.com\nTeléfono:\n982242248 - 051 351261 / 918496532\nFuentes Bibliográfica:\nF.A. Ccuno Z. y M. Pillco M., Potencial turístico de la provincia de Azángaro para su comercialización como destino turístico por las agencias de viajes y turismo, Puno, 2022.\nWebgrafia “Video Documental Azángaro un misterio Andino (2016)”\nMonografía de Azángaro y Revista ASWANKARU de la Municipalidad Provincial de Azángaro, 1998.\nMaterial Audiovisual actual del Recurso:\n--\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n16/02/2026 09:20:02"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -14.87387,
+    "longitud": -70.10749699999997
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-14.87387,-70.10749699999997"
+}

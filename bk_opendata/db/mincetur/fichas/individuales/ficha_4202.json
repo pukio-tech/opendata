@@ -1,0 +1,214 @@
+{
+  "cod_ficha": 4202,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=4202",
+  "nombre": "Chullpas De Santa María",
+  "departamento": "Puno",
+  "provincia": "Azangaro",
+  "distrito": "SAN ANTON",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Sitios Arqueológicos",
+  "subtipo": "Templos",
+  "jerarquia": "1",
+  "altitud": "4051",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=298401",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=298401",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=548336",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=548337",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=548250",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=548339",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=548251",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=548253",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=548340"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Actividades Culturales",
+    "Otros - Estudios e Investigación",
+    "Naturaleza - Observación de paisaje",
+    "Deportes / Aventura - Caminata/Trekking"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Actividades Culturales",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/act_culturales02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "desde la carretera a las chullpas",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Puno/Azángaro/Azángaro - Puno/Azángaro/San Anton",
+      "detalle": "Terminal de minibuses de Azángaro - Paradero de San Antón",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Combi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "56 kms./ 1 hora"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Puno/Azángaro/San Anton - Puno/Azángaro/San Anton",
+      "detalle": "Paradero de San Antón - desvío Santa Maria",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "8 kms. / 15 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Puno/Azángaro/San Anton - Puno/Azángaro/San Anton",
+      "detalle": "desvío Santa Maria - Chullpas de Santa Maria",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Sendero",
+      "distancia_tiempo": "400 mts. / 20 minutos"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "270",
+      "horario": "Conteo muestra por la Municipalidad Distrital de Azangaro",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "08:00 a.m. - 02:00 p.m. De preferencia en horas matinales",
+      "observaciones": "De preferencia en horas matinales"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Semi-restringido(previo permiso)",
+      "observaciones": "Previa coordinación con el presidente de la comunidad; Cel: 956643329"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "En la localidad de San Antón."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "En la localidad de San Antón"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "En la localidad de San Antón"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "En la ciudad de Azángaro"
+    }
+  ],
+  "descripcion": "Se encuentran situadas en la comunidad de Huanaco Mayo, sector Ayahuasi, aproximadamente a 400 mts. del lado izquierdo de la carretera interoceánica sur tramo de Azángaro a Macusani. Sobre una elevación rocosa se encuentran restos de culturas preincas que poblaron el lugar, se observa alrededor de 32 chullpas de construcción rustica es decir no tienen un acabado fino, en mayoría se encuentran parcialmente destruidas por efectos climáticos como; las fuertes lluvias, granizadas y sobre todo los rayos, son chullpas de planta circular, elaboradas con piedra sin trabajar, en algunas las primeras hiladas están unidas con argamasa de barro en capas muy delgadas, con una pequeña puerta orientada al este o a la salida del sol, otras con pirca a media altura, con 4 a 5 hiladas, por los alrededores las piedras utilizadas se encuentran diseminadas. El sitio se encuentra rodeado del cerro Apu Trincherani con restos de una antigua muralla de piedra, y al fondo el cerro Pichacani con andenerías y cuevas, en la parte baja de las peñolerías al pie de los abrigos rocosos, innumerables entierros preincas adosados a la roca, con pircados de piedra recubiertos con arcilla, muchos disturbados con la presencia de restos óseos a flor de tierra, por los alrededores estos de cerámica con decorados de color café y plomo. Al parecer, por la parte baja pasaba el camino inca o Qhapaq Ñan del cual quedan vestigios, hoy día la población lo utiliza como vía para trasladar su ganado,\nLa conformación y características particulares de la zona, y los vestigios de las culturas preincas que ocuparon el lugar, y el paisaje andino circundante, motivan su conocimiento y la visita turística.",
+  "particularidades": "",
+  "estado_actual": "Regular, en proceso de deterioro por los efectos climáticos, y desinterés de la población.",
+  "observaciones": "El Sector de Santa María se encuentra ubicado aproximadamente a 64 kms. al norte de Azángaro Capital Provincial, y a 8 kms. al norte de San Antón capital del distrito.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Se encuentran situadas en la comunidad de Huanaco Mayo, sector Ayahuasi, aproximadamente a 400 mts. del lado izquierdo de la carretera interoceánica sur tramo de Azángaro a Macusani. Sobre una elevación rocosa se encuentran restos de culturas preincas que poblaron el lugar, se observa alrededor de 32 chullpas de construcción rustica es decir no tienen un acabado fino, en mayoría se encuentran parcialmente destruidas por efectos climáticos como; las fuertes lluvias, granizadas y sobre todo los rayos, son chullpas de planta circular, elaboradas con piedra sin trabajar, en algunas las primeras hiladas están unidas con argamasa de barro en capas muy delgadas, con una pequeña puerta orientada al este o a la salida del sol, otras con pirca a media altura, con 4 a 5 hiladas, por los alrededores las piedras utilizadas se encuentran diseminadas. El sitio se encuentra rodeado del cerro Apu Trincherani con restos de una antigua muralla de piedra, y al fondo el cerro Pichacani con andenerías y cuevas, en la parte baja de las peñolerías al pie de los abrigos rocosos, innumerables entierros preincas adosados a la roca, con pircados de piedra recubiertos con arcilla, muchos disturbados con la presencia de restos óseos a flor de tierra, por los alrededores estos de cerámica con decorados de color café y plomo. Al parecer, por la parte baja pasaba el camino inca o Qhapaq Ñan del cual quedan vestigios, hoy día la población lo utiliza como vía para trasladar su ganado,\nLa conformación y características particulares de la zona, y los vestigios de las culturas preincas que ocuparon el lugar, y el paisaje andino circundante, motivan su conocimiento y la visita turística."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "Fue declarado Patrimonio Cultural de la Nación por el Instituto Nacional de Cultura mediante la R.D.N. Nº 109-2005/ED del 4 de febrero del 2005 y por R.D.N. Nº677/INC del 29 de abril del 2009."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Regular, en proceso de deterioro por los efectos climáticos, y desinterés de la población."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "El Sector de Santa María se encuentra ubicado aproximadamente a 64 kms. al norte de Azángaro Capital Provincial, y a 8 kms. al norte de San Antón capital del distrito."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nVisitantes Locales(Excursionistas)\n270\nConteo muestra por la Municipalidad Distrital de Azangaro\n2023\nundefined"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nPuno/Azángaro/Azángaro\n-\nPuno/Azángaro/San Anton\nTerminal de minibuses de Azángaro - Paradero de San Antón\nTerrestre\nCombi\nAsfaltado\n56 kms./ 1 hora\n1\nPuno/Azángaro/San Anton\n-\nPuno/Azángaro/San Anton\nParadero de San Antón - desvío Santa Maria\nTerrestre\nAutomóvil particular\nAsfaltado\n8 kms. / 15 minutos\n1\nPuno/Azángaro/San Anton\n-\nPuno/Azángaro/San Anton\ndesvío Santa Maria - Chullpas de Santa Maria\nTerrestre\nA pie\nSendero\n400 mts. / 20 minutos"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nSemi-restringido(previo permiso)\nPrevia coordinación con el presidente de la comunidad;\nCel: 956643329"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n08:00 a.m.\n-\n02:00 p.m.\nDe preferencia en horas matinales"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nActividades Culturales\n--\nOtros\nEstudios e Investigación\n--\nNaturaleza\nObservación de paisaje\n--\nDeportes / Aventura\nCaminata/Trekking\ndesde la carretera a las chullpas"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlimentación\nKioskos de comida y bebidas\nEn la localidad de San Antón.\nOtros Servicios Turísticos\nVenta de artesanía\nEn la localidad de San Antón\nAlimentación\nRestaurantes\nEn la localidad de San Antón\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nEn la ciudad de Azángaro"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nEn la localidad de San Antón\nEstación de servicios, grifos, gasolineras y gasocentros\nEn la localidad de San Antón\nServicios de taxis\nEn la localidad de San Antón\nCentro de salud - tópico\nEn la localidad de San Antón.\nSeguridad / POLTUR / Comisaría\nComisaria Rural de la PNP en San Antón.\nBodegas o minimarkets\nEn la localidad de San Antón"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nEn San Anton\nDesagüe\nEn San Anton\nLuz (Suministro Eléctrico)\nEn San Anton\nTeléfono\nEn San Anton"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nMinisterio de Cultura - Dirección Desconcentrad de Puno.\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nExpediente de Declaración de Patrimonio Cultural de la Nación.\nAdministrador por\nNombre\nPresidente de la Comunidad; Augusto Valeriano Hancco, la DDC encargo a la comunidad.\nTiempo de administración\nDesde el año 2022"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección de Turismo de la DIRCETUR Puno / MUnicipalidad Provincial de Azangaro\nNombre (Persona(s) responsable(s) del inventario turístico):\nArq. Vadim Masciotti Cabala / Bach. Froilan Alfonso Ccuno Zea\nCargo:\nArq. / Responsable de la actualización de inventario turístico de la provincia de Azángaro\nCorreo:\nvamasciotti@gmail.com / ccunozeaf@gmail.com\nTeléfono:\n051 351261 / 918496532\nFuentes Bibliográfica:\nRevista turística “Azángaro destino turístico”, Azangaro, 2022.\nJ.M. Talavera C., Monografía De Azángaro. Pasado Y Presente, Azángaro, 1983.\nR. Calsín A., Historia de Azángaro, Puno, 2017.\nWebgrafia “Video Documental turístico San Antón un ande místico”, 2021.\nWebgrafia “Video Documental Azángaro un misterio Andino”, 2016.\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n3/07/2024 09:35:49"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -14.54509335979485,
+    "longitud": -70.2998755051575
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-14.54509335979485,-70.2998755051575"
+}

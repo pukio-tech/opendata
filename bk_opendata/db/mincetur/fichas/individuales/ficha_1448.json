@@ -1,0 +1,370 @@
+{
+  "cod_ficha": 1448,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=1448",
+  "nombre": "Nevado San Juan - Parque Nacional Huascarán",
+  "departamento": "Áncash",
+  "provincia": "Huaraz",
+  "distrito": "HUARAZ",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "a. Montañas",
+  "subtipo": "Nevado",
+  "jerarquia": "2",
+  "altitud": "5771",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=291129",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=291129",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=434457",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=434458",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=455954"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Deportes / Aventura - Escalada en Hielo",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de paisaje",
+    "Naturaleza - Observación de aves",
+    "Deportes / Aventura - Caminata/Trekking",
+    "Deportes / Aventura - Camping"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Escalada en Hielo",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/escalada_hielo02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "quenual e ichu",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de aves",
+      "observacion": "condor andino, perdiz andino",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/aves02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Camping",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/camping02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Áncash/Huaraz/Huaraz - Áncash/Huaraz/Independencia",
+      "detalle": "Plaza de armas de Huaraz - Control Pitec",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "28kms./1.30hrs."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Áncash/Huaraz/Independencia - Áncash/Huaraz/Huaraz",
+      "detalle": "Control Pítec - Campo Base (Laguna Shallap)",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Camino de Herradura",
+      "distancia_tiempo": "10kms./5hrs."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Áncash/Huaraz/Huaraz - Áncash/Huaraz/Huaraz",
+      "detalle": "Campo Base (Laguna Shallap) - Nevado San Juan",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Sendero",
+      "distancia_tiempo": "6kms./3.30hrs."
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Áncash/Huaraz/Huaraz - Áncash/Huaraz/Independencia",
+      "detalle": "Terminal terrestre de Huaraz - Portada Quebrada Qillcayhuanca",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "30kms./1.30hrs."
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Áncash/Huaraz/Independencia - Áncash/Huaraz/Huaraz",
+      "detalle": "Portada Quebrada Quilcayhuanca - Quebrada Cayesh",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Camino de Herradura",
+      "distancia_tiempo": "8kms./4.30hrs."
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Áncash/Huaraz/Huaraz - Áncash/Huaraz/Huaraz",
+      "detalle": "Quebrada Cayesh - Campamento Morrena",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Sendero",
+      "distancia_tiempo": "7kms./5hrs."
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Áncash/Huaraz/Huaraz - Áncash/Huaraz/Huaraz",
+      "detalle": "Campamento Morrena - Nevado San Juan",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Sendero",
+      "distancia_tiempo": "4kms./3hrs."
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "2579",
+      "horario": "Parque Nacional Huascarán",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "35293",
+      "horario": "Parque Nacional Huascarán",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "6565",
+      "horario": "Parque Nacional Huascarán",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Esporádicamente - Algunos meses",
+      "especificacion": "--",
+      "horario": "04:00 a.m. - 10:00 a.m. Visitar en época de estiaje de mayo a setiembre",
+      "observaciones": "Visitar en época de estiaje de mayo a setiembre"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "Pago de S/. 65.00 nuevos soles al Parque Nacional Huascarán para 30 días exonerados de pago aplica a ciudadanos peruanos menores de 05 y mayores de 65 años"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "1,2,3 Estrella Ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "1,2,3 estrellas Ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Peñas",
+      "observacion": "Ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de bicicleta",
+      "observacion": "Ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de bicicleta",
+      "observacion": "Ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Ingles Ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de Material Informativo(libro,revistas,postales,videos,etc)",
+      "observacion": "--"
+    }
+  ],
+  "descripcion": "Ubicada al este de la ciudad de Huaraz, en la cabecera de la Quebrada Shallap, entre los Nevados Huantsán al sur y el Nevado Maparaju al noreste, con quien se encuentra separado por el abra Villón, dentro del Parque Nacional Huascarán sector Carpa, con una altitud de 5771 msnm, en la región natural Janca o Cordillera. Presenta un ecosistema de clima muy frío con temperatura muy baja, que oscila un promedio anual inferior a 0 ° C. El Nevado San Juan, presenta una topografía rocosa por la base del glaciar y abrupta con hielo muerto en diferentes zonas, que ofrece vías de ascensión con niveles de dificultad que van desde medio a muy difícil, con 440 metros de alto y 754 metros de ancho, presenta grados de inclinación entre los 45° y 70°, el cual representa un buen reto de montaña con excelentes vistas de los picos circundantes como el Huantsán (6370 m.s.n.m.), Maparaju (5326 m.s.n.m.), Andavite (5518 m.s.n.m.), Cayesh (5721¿m.s.n.m.). Por su cercanía con la ciudad de Huaraz no es necesario recorrer grandes distancias para su visita. El ascenso se puede realizar en dos días, previa contratación una agencia de viajes y turismo especializado en deportes de aventura como el alpinismo y guía especializado en alta montaña; el acceso se puede hacer por la Quebrada Cayesh o por la Quebrada Shallap, ambas rutas son de dificultad mediana o normal y son accesibles desde el centro poblado más cercano Pitec. El punto culminante de la arista sur es llamado San Juan Sur o Tumarinaraju que es una piramide de roca y hielo alcanza una altura de 5,670 msnm. En su recorrido se puede observar una variedad de flora como el quenual, ichu, taulli taulli, yulaq pärasha, lleqllish qora, wamanripa, entre otros, y fauna propia de las zonas andinas como el cóndor andino y perdiz andino, vizcacha y aves altoandinas.",
+  "particularidades": "",
+  "estado_actual": "Bueno, porque no supera la capacidad de carga y es administrado por el Parque Nacional Huascarán.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Ubicada al este de la ciudad de Huaraz, en la cabecera de la Quebrada Shallap, entre los Nevados Huantsán al sur y el Nevado Maparaju al noreste, con quien se encuentra separado por el abra Villón, dentro del Parque Nacional Huascarán sector Carpa, con una altitud de 5771 msnm, en la región natural Janca o Cordillera. Presenta un ecosistema de clima muy frío con temperatura muy baja, que oscila un promedio anual inferior a 0 ° C. El Nevado San Juan, presenta una topografía rocosa por la base del glaciar y abrupta con hielo muerto en diferentes zonas, que ofrece vías de ascensión con niveles de dificultad que van desde medio a muy difícil, con 440 metros de alto y 754 metros de ancho, presenta grados de inclinación entre los 45° y 70°, el cual representa un buen reto de montaña con excelentes vistas de los picos circundantes como el Huantsán (6370 m.s.n.m.), Maparaju (5326 m.s.n.m.), Andavite (5518 m.s.n.m.), Cayesh (5721¿m.s.n.m.). Por su cercanía con la ciudad de Huaraz no es necesario recorrer grandes distancias para su visita. El ascenso se puede realizar en dos días, previa contratación una agencia de viajes y turismo especializado en deportes de aventura como el alpinismo y guía especializado en alta montaña; el acceso se puede hacer por la Quebrada Cayesh o por la Quebrada Shallap, ambas rutas son de dificultad mediana o normal y son accesibles desde el centro poblado más cercano Pitec. El punto culminante de la arista sur es llamado San Juan Sur o Tumarinaraju que es una piramide de roca y hielo alcanza una altura de 5,670 msnm. En su recorrido se puede observar una variedad de flora como el quenual, ichu, taulli taulli, yulaq pärasha, lleqllish qora, wamanripa, entre otros, y fauna propia de las zonas andinas como el cóndor andino y perdiz andino, vizcacha y aves altoandinas."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "El Parque Nacional Huascarán fue declarada como Reserva de Biósfera en 1977 y como Patrimonio Natural de la Humanidad en 1985"
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, porque no supera la capacidad de carga y es administrado por el Parque Nacional Huascarán."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n2579\nParque Nacional Huascarán\n2021\ndato estadístico del sector carpa, donde se encuentra el nevado San Juan\nTuristas Nacionales\n35293\nParque Nacional Huascarán\n2021\ndato estadístico del sector carpa, donde se encuentra el nevado San Juan\nVisitantes Locales(Excursionistas)\n6565\nParque Nacional Huascarán\n2021\ndato estadístico del sector carpa, donde se encuentra el nevado San Juan"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nÁncash/Huaraz/Huaraz\n-\nÁncash/Huaraz/Independencia\nPlaza de armas de Huaraz - Control Pitec\nTerrestre\nAutomóvil particular\nAsfaltado\n28kms./1.30hrs.\n1\nÁncash/Huaraz/Independencia\n-\nÁncash/Huaraz/Huaraz\nControl Pítec - Campo Base (Laguna Shallap)\nTerrestre\nA pie\nCamino de Herradura\n10kms./5hrs.\n1\nÁncash/Huaraz/Huaraz\n-\nÁncash/Huaraz/Huaraz\nCampo Base (Laguna Shallap) - Nevado San Juan\nTerrestre\nA pie\nSendero\n6kms./3.30hrs.\n2\nÁncash/Huaraz/Huaraz\n-\nÁncash/Huaraz/Independencia\nTerminal terrestre de Huaraz - Portada Quebrada Qillcayhuanca\nTerrestre\nAutomóvil particular\nAsfaltado\n30kms./1.30hrs.\n2\nÁncash/Huaraz/Independencia\n-\nÁncash/Huaraz/Huaraz\nPortada Quebrada Quilcayhuanca - Quebrada Cayesh\nTerrestre\nA pie\nCamino de Herradura\n8kms./4.30hrs.\n2\nÁncash/Huaraz/Huaraz\n-\nÁncash/Huaraz/Huaraz\nQuebrada Cayesh - Campamento Morrena\nTerrestre\nA pie\nSendero\n7kms./5hrs.\n2\nÁncash/Huaraz/Huaraz\n-\nÁncash/Huaraz/Huaraz\nCampamento Morrena - Nevado San Juan\nTerrestre\nA pie\nSendero\n4kms./3hrs."
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nPago de S/. 65.00 nuevos soles al Parque Nacional Huascarán para 30 días exonerados de pago aplica a ciudadanos peruanos menores de 05 y mayores de 65 años"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nEsporádicamente - Algunos meses\n--\n04:00 a.m.\n-\n10:00 a.m.\nVisitar en época de estiaje de mayo a setiembre"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nDeportes / Aventura\nEscalada en Hielo\n--\nNaturaleza\nObservación de flora\nquenual e ichu\nNaturaleza\nObservación de paisaje\n--\nNaturaleza\nObservación de aves\ncondor andino, perdiz andino\nDeportes / Aventura\nCaminata/Trekking\n--\nDeportes / Aventura\nCamping\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\n1,2,3 Estrella\nCiudad de Huaraz\nAlojamiento\nHostales (especificar categorías)\n1,2,3 estrellas\nCiudad de Huaraz\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Huaraz\nAlimentación\nRestaurantes\nCiudad de Huaraz\nAlimentación\nBares\nCiudad de Huaraz\nAlimentación\nCafeterías\nCiudad de Huaraz\nAlimentación\nFuentes de soda\nCiudad de Huaraz\nAlimentación\nKioskos de comida y bebidas\nCiudad de Huaraz\nLugares de Recreación\nDiscotecas\nCiudad de Huaraz\nLugares de Recreación\nPeñas\nCiudad de Huaraz\nLugares de Recreación\nJuegos Infantiles\nCiudad de Huaraz\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nCiudad de Huaraz\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Huaraz\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de Huaraz\nOtros Servicios Turísticos\nAlquiler de bicicleta\nCiudad de Huaraz\nOtros Servicios Turísticos\nAlquiler de bicicleta\nCiudad de Huaraz\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nIngles\nCiudad de Huaraz\nOtros Servicios Turísticos\nVenta de Material Informativo(libro,revistas,postales,videos,etc)\n--"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Huaraz\nBancos\nCiudad de Huaraz\nCajero automático\nCiudad de Huaraz\nCasa de cambio\nCiudad de Huaraz\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Huaraz\nServicio de correos\nCiudad de Huaraz\nServicio de estacionamiento\nCiudad de Huaraz\nServicios de taxis\nCiudad de Huaraz\nCentro de salud - tópico\nCiudad de Huaraz\nVenta de materiales para fotografías\nCiudad de Huaraz\nSeguridad / POLTUR / Comisaría\nCiudad de Huaraz\nAlquiler y compra de equipos deportivos\nCiudad de Huaraz\nLibrerías\nCiudad de Huaraz\nBodegas o minimarkets\nCiudad de Huaraz"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nSeñalización turística\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nTodo en la ciudad de Huaraz\nAlcantarillado sanitario\n--\nDesagüe\n--\nLuz (Suministro Eléctrico)\n--\nTeléfono\n--\nSeñalización turística\n--"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nParque Nacional Huascarán\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nCERTI. LITERAL - PREDIO\nNúmero de Partida:\n11300446\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nParque Nacional Huascarán\nTiempo de administración\ndesde el 1 de junio de 1975"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDIRCETUR - ANCASH / Municipalidad Provincial de Huaraz\nNombre (Persona(s) responsable(s) del inventario turístico):\nLic Patrcia Camones Trejo / Mag. Dora Isabel Camino Loli\nCargo:\nAuxiliar administrativo / Subgerente de Promoción Turística\nCorreo:\nPatriciaturism@gmail.com/sg.promocionturistica@gmail.com\nTeléfono:\n937082574/970652631\nFuentes Bibliográfica:\nAutoridad Nacional del Agua, Cuantificación de Glaciares de la Cordillera Blanca, agosto del año 2020.\nhttps://www.andeshandbook.org/montanismo/cerro/339/San_Juan\nMaterial Audiovisual actual del Recurso:\nFOTO, OTROS\nEspecificación:\nMapas\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n10/10/2022"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -9.486312907273481,
+    "longitud": -77.3246955871582
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-9.486312907273481,-77.3246955871582"
+}

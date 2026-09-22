@@ -1,0 +1,347 @@
+{
+  "cod_ficha": 7109,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=7109",
+  "nombre": "Centro Yanachaga",
+  "departamento": "Pasco",
+  "provincia": "Oxapampa",
+  "distrito": "HUANCABAMBA",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Arquitectura y Espacios Urbanos",
+  "subtipo": "Casa-Hacienda",
+  "jerarquia": "2",
+  "altitud": "1794",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=571597",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=571597",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=571566",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=571567",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=571568",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=571569",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=571623",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=571624",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=571625",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=571598",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=571627",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=571599",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=571628",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=571600",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=573631",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=573632"
+  ],
+  "actividades_permitidas": [
+    "Otros - Compras de artesanía/souvenir",
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Estudios e Investigación",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de paisaje",
+    "Cultura y Folclore - Visita y participación en actividades de vida cotidiana de la comunidad",
+    "Otros - Compra de productos regionales"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Compras de artesanía/souvenir",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/artesania02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "Talleres de carpintería y panadería",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "palmeras, flor de cosmos, arbustos, cactus, orquídeas, bromelias, plantaciones de café, limón, pacae, lúcuma, mango , entre otros",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Visita y participación en actividades de vida cotidiana de la comunidad",
+      "observacion": "--",
+      "icono_url": null
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Compra de productos regionales",
+      "observacion": "Café",
+      "icono_url": null
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Pasco/Oxapampa/Oxapampa - Pasco/Oxapampa/Huancabamba",
+      "detalle": "Plaza Principal de Oxapampa - Portal de Bienvenida a Huancabamba",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "23.8 Km / 38 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Pasco/Oxapampa/Huancabamba - Pasco/Oxapampa/Huancabamba",
+      "detalle": "Portal de Bienvenida a Huancabamba - Centro Yanachaga",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "1.1 km - 3 min."
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Pasco/Oxapampa/Chontabamba - Pasco/Oxapampa/Huancabamba",
+      "detalle": "Terminal Terrestre de Chontabamba - Portal de Bienvenida a Huancabamba",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Taxi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "24.4 Km / 39 min."
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Pasco/Oxapampa/Huancabamba - Pasco/Oxapampa/Huancabamba",
+      "detalle": "Portal de Bienvenida a Huancabamba - Centro Yanachaga",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Taxi",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "1.1 km - 3 min."
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "226",
+      "horario": "Libro de registro de visitantes del recurso turístico",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "21",
+      "horario": "Libro de registro de visitantes del recurso turístico",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "2",
+      "horario": "Libro de registro de visitantes del recurso turístico",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "08:00 a.m. - 04:00 p.m. De martes a domingo",
+      "observaciones": "De martes a domingo"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "Tarifario adultos y niños a partir de 8 años de edad: Circuito convencional: s/3.00 Circuito vivencial: s/5.00 Taller de carpintería: s/10.00 Taller de panadería: s/10.00 Fogata nocturna: s/3.00"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Albergues",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Castellano"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Huancabamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Huancabamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Huancabamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "De un tenedor - Ciudad de Huancabamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Huancabamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Huancabamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Huancabamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "De 2 estrellas - Ciudad de Huancabamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Albergues",
+      "observacion": "Ciudad de Huancabamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Huancabamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Ciudad de Huancabamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "Ciudad de Huancabamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "Ciudad de Huancabamba"
+    }
+  ],
+  "descripcion": "El Centro Yanachaga, se encuentra ubicado en el distrito de Huancabamba, Provincia de Oxapampa, departamento de Pasco, a una altitud de 1794 m.s.n.m. está considerada dentro de la región natural Yunga, según la clasificación de Javier Pulgar Vidal.\nEl Centro Yanachaga es una antigua hacienda del siglo XIX, en la época de la inmigración europea, fue construida por el señor Pablo Bottger Treu en el año 1875, familia de inmigrantes alemanes, convirtiéndose en una de las haciendas más antiguas de la zona, dedicándose a actividades agrícolas y ganaderas. En el año 1987 el señor Rolf Schlegel y Harald Hampe con la ayuda de donaciones, compran la antigua hacienda y funda en ella el proyecto social PROSOYA (Programa Social Yanachaga) en beneficio de la educación de jóvenes vulnerables de la región, que alberga y brinda la posibilidad de realizar sus estudios secundarios a aprender y adquirir experiencia práctica en los diversos talleres, desarrollando conocimientos básicos para su vida futura. La hacienda ha sido sometida a diversas intervenciones de conservación que han logrado preservar su estructura y su belleza óptima al pasar al tiempo. La hacienda está construida a base de piedra, barro, cemento y madera que le confiere un aspecto rústico y encantador. Cuenta con espacios distribuidos y señalizados como la capilla, de ingreso libre para los visitantes y jóvenes que realizan la paraliturgia los días domingos, la zona de alojamiento llamada eco albergue situada en el primer y segundo nivel de una edificación, en la edificación llamada Casa Hacienda se encuentra el área de recepción y conserjería en el primer nivel y en el segundo nivel la zona de alojamiento, en otra edificación se cuenta con el área de restaurante con preparaciones de platos regionales y sala comedor, también se cuenta con una edificación llamada Misky donde se exhiben y venden los productos regionales y producidos por el Centro Yanachaga, además se cuenta con un parque de nombre Rolf, con piso a base de piedras y concreto implementada con bancas, mesitas y áreas verdes, los talleres de mecánica, panadería y carpintería y las 4 nucfas que son los espacios donde viven los jóvenes del programa, además de las áreas naturales y áreas de producción que se extiende en la hacienda.\nEn el Centro Yanachaga se ofrecen recorridos turísticos de naturaleza y educación, donde se pueda apreciar el impresionante paisaje propio del recurso y rodeada por su cercanía con el Parque Nacional Yanachaga Chemillen, además de apreciar la flora entre árboles, orquídeas, palmeras, flor de cosmos, arbustos, cactus, orquídeas, bromelias, plantaciones de café, limón, pacae, lúcuma, mango y otros. El recorrido convencional tiene una duración de 40 minutos, donde se visita La Capilla más antigua de Huancabamba, el parque de la salud donde se pueden conocer diferentes plantas medicinales, el apiario, lugar donde se puede observar la producción de la miel, criadero de truchas, biohuerto, lugar que provee al restaurante con verduras orgánicas y el taller de carpintería. En el recorrido turístico vivencial, el visitante será partícipe de las actividades rutinarias que se realizan en la hacienda como el ordeño de vacas, alimentación a las gallinas, alimentación a las truchas, baño refrescante en las piscinas naturales, entre otras actividades. Asimismo, en los talleres mencionados se realizan charlas sobre el uso de maquinarias, identificación de maquinarias y practicas a un costo adicional.\nEl Centro Yanachaga es uno de los recursos principales del distrito de Huancabamba, conocida por la población local por su antigüedad y apoyo social y educativo a los jóvenes vulnerables de la región, hoy en la actualidad un recurso con actividades diversificadas, recreativas, sostenibles, de naturaleza y educativas, destacado por su interés histórico, turístico y social, visitado por estudiantes, familias, jóvenes de diversas partes del Perú y ofertado por las agencias de viaje y turismo.",
+  "particularidades": "",
+  "estado_actual": "Bueno, la administración se encarga del mantenimiento, implementación y mejoras de los ambientes del recurso",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "El Centro Yanachaga, se encuentra ubicado en el distrito de Huancabamba, Provincia de Oxapampa, departamento de Pasco, a una altitud de 1794 m.s.n.m. está considerada dentro de la región natural Yunga, según la clasificación de Javier Pulgar Vidal.\nEl Centro Yanachaga es una antigua hacienda del siglo XIX, en la época de la inmigración europea, fue construida por el señor Pablo Bottger Treu en el año 1875, familia de inmigrantes alemanes, convirtiéndose en una de las haciendas más antiguas de la zona, dedicándose a actividades agrícolas y ganaderas. En el año 1987 el señor Rolf Schlegel y Harald Hampe con la ayuda de donaciones, compran la antigua hacienda y funda en ella el proyecto social PROSOYA (Programa Social Yanachaga) en beneficio de la educación de jóvenes vulnerables de la región, que alberga y brinda la posibilidad de realizar sus estudios secundarios a aprender y adquirir experiencia práctica en los diversos talleres, desarrollando conocimientos básicos para su vida futura. La hacienda ha sido sometida a diversas intervenciones de conservación que han logrado preservar su estructura y su belleza óptima al pasar al tiempo. La hacienda está construida a base de piedra, barro, cemento y madera que le confiere un aspecto rústico y encantador. Cuenta con espacios distribuidos y señalizados como la capilla, de ingreso libre para los visitantes y jóvenes que realizan la paraliturgia los días domingos, la zona de alojamiento llamada eco albergue situada en el primer y segundo nivel de una edificación, en la edificación llamada Casa Hacienda se encuentra el área de recepción y conserjería en el primer nivel y en el segundo nivel la zona de alojamiento, en otra edificación se cuenta con el área de restaurante con preparaciones de platos regionales y sala comedor, también se cuenta con una edificación llamada Misky donde se exhiben y venden los productos regionales y producidos por el Centro Yanachaga, además se cuenta con un parque de nombre Rolf, con piso a base de piedras y concreto implementada con bancas, mesitas y áreas verdes, los talleres de mecánica, panadería y carpintería y las 4 nucfas que son los espacios donde viven los jóvenes del programa, además de las áreas naturales y áreas de producción que se extiende en la hacienda.\nEn el Centro Yanachaga se ofrecen recorridos turísticos de naturaleza y educación, donde se pueda apreciar el impresionante paisaje propio del recurso y rodeada por su cercanía con el Parque Nacional Yanachaga Chemillen, además de apreciar la flora entre árboles, orquídeas, palmeras, flor de cosmos, arbustos, cactus, orquídeas, bromelias, plantaciones de café, limón, pacae, lúcuma, mango y otros. El recorrido convencional tiene una duración de 40 minutos, donde se visita La Capilla más antigua de Huancabamba, el parque de la salud donde se pueden conocer diferentes plantas medicinales, el apiario, lugar donde se puede observar la producción de la miel, criadero de truchas, biohuerto, lugar que provee al restaurante con verduras orgánicas y el taller de carpintería. En el recorrido turístico vivencial, el visitante será partícipe de las actividades rutinarias que se realizan en la hacienda como el ordeño de vacas, alimentación a las gallinas, alimentación a las truchas, baño refrescante en las piscinas naturales, entre otras actividades. Asimismo, en los talleres mencionados se realizan charlas sobre el uso de maquinarias, identificación de maquinarias y practicas a un costo adicional.\nEl Centro Yanachaga es uno de los recursos principales del distrito de Huancabamba, conocida por la población local por su antigüedad y apoyo social y educativo a los jóvenes vulnerables de la región, hoy en la actualidad un recurso con actividades diversificadas, recreativas, sostenibles, de naturaleza y educativas, destacado por su interés histórico, turístico y social, visitado por estudiantes, familias, jóvenes de diversas partes del Perú y ofertado por las agencias de viaje y turismo."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, la administración se encarga del mantenimiento, implementación y mejoras de los ambientes del recurso"
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Nacionales\n226\nLibro de registro de visitantes del recurso turístico\n2023\nConsolidado del libro de registro de visitantes del recurso turístico, validado por la DIRCETUR Zonal Oxapampa\nTuristas Extranjeros\n21\nLibro de registro de visitantes del recurso turístico\n2023\nConsolidado del libro de registro de visitantes del recurso turístico, validado por la DIRCETUR Zonal Oxapampa\nVisitantes Locales(Excursionistas)\n2\nLibro de registro de visitantes del recurso turístico\n2023\nConsolidado del libro de registro de visitantes del recurso turístico, validado por la DIRCETUR Zonal Oxapampa"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nPasco/Oxapampa/Oxapampa\n-\nPasco/Oxapampa/Huancabamba\nPlaza Principal de Oxapampa - Portal de Bienvenida a Huancabamba\nTerrestre\nAutomóvil particular\nAsfaltado\n23.8 Km / 38 min.\n1\nPasco/Oxapampa/Huancabamba\n-\nPasco/Oxapampa/Huancabamba\nPortal de Bienvenida a Huancabamba - Centro Yanachaga\nTerrestre\nAutomóvil particular\nAfirmado\n1.1 km - 3 min.\n2\nPasco/Oxapampa/Chontabamba\n-\nPasco/Oxapampa/Huancabamba\nTerminal Terrestre de Chontabamba - Portal de Bienvenida a Huancabamba\nTerrestre\nTaxi\nAsfaltado\n24.4 Km / 39 min.\n2\nPasco/Oxapampa/Huancabamba\n-\nPasco/Oxapampa/Huancabamba\nPortal de Bienvenida a Huancabamba - Centro Yanachaga\nTerrestre\nTaxi\nAfirmado\n1.1 km - 3 min."
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nTarifario adultos y niños a partir de 8 años de edad:\nCircuito convencional: s/3.00\nCircuito vivencial: s/5.00\nTaller de carpintería: s/10.00\nTaller de panadería: s/10.00\nFogata nocturna: s/3.00"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n08:00 a.m.\n-\n04:00 p.m.\nDe martes a domingo"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nCompras de artesanía/souvenir\n--\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nEstudios e Investigación\nTalleres de carpintería y panadería\nNaturaleza\nObservación de flora\npalmeras, flor de cosmos, arbustos, cactus, orquídeas, bromelias, plantaciones de café, limón, pacae, lúcuma, mango , entre otros\nNaturaleza\nObservación de paisaje\n--\nCultura y Folclore\nVisita y participación en actividades de vida cotidiana de la comunidad\n--\nOtros\nCompra de productos regionales\nCafé"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nAlojamiento\nAlbergues\n--\nInstalaciones Privadas\nAlimentación\nRestaurantes\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nVenta de artesanía\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nCastellano"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nLugares de Recreación\nDiscotecas\nCiudad de Huancabamba\nLugares de Recreación\nBares\nCiudad de Huancabamba\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Huancabamba\nAlimentación\nRestaurantes\nDe un tenedor - Ciudad de Huancabamba\nAlimentación\nCafeterías\nCiudad de Huancabamba\nAlimentación\nBares\nCiudad de Huancabamba\nAlimentación\nKioskos de comida y bebidas\nCiudad de Huancabamba\nAlojamiento\nHostales (especificar categorías)\nDe 2 estrellas - Ciudad de Huancabamba\nAlojamiento\nAlbergues\nCiudad de Huancabamba\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Huancabamba\nServicios Públicos\nEstacionamiento de vehículos\nCiudad de Huancabamba\nServicios Públicos\nSeñales turísticas de orientación\nCiudad de Huancabamba\nServicios Públicos\nCaminos peatonales\nCiudad de Huancabamba"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Huancabamba\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Huancabamba\nServicio de estacionamiento\nCiudad de Huancabamba\nCentro de salud - tópico\nCiudad de Huancabamba\nVenta de materiales para fotografías\nCiudad de Huancabamba\nSeguridad / POLTUR / Comisaría\nCiudad de Huancabamba\nLibrerías\nCiudad de Huancabamba\nBodegas o minimarkets\nCiudad de Huancabamba"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\n--\nAlcantarillado sanitario\n--\nLuz (Suministro Eléctrico)\n--\nTeléfono\n--\nSeñalización turística\n--\nEnergía Alternativa\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad Huancabamba\nAlcantarillado sanitario\nCiudad Huancabamba\nLuz (Suministro Eléctrico)\nCiudad Huancabamba\nTeléfono\nCiudad Huancabamba\nSeñalización turística\nCiudad Huancabamba"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\n--\nPrivado:\nAsociación Perú- Aktión\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nPartida\nNúmero de Partida:\n11035516\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nEdgardo Rios Egg\nTiempo de administración\nDesde el año 2019"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Zonal de Comercio Exterior y Turismo Oxapampa\nNombre (Persona(s) responsable(s) del inventario turístico):\nTessy Loren Huamán De La Matta\nCargo:\nTécnico en turismo de la Dirección Zonal Oxapampa\nCorreo:\nthuamandelamatta@gmail.com\nTeléfono:\n915989848\nFuentes Bibliográfica:\n1) Historia del proyecto, por Perú Acción Ev(portal web) 2024, enlace: https://peru-aktion.de/Geschichte_des_Projektes\n2) Centro Yanachaga: Una Historia de Esperanza, por 5loops (portal web) 2024, enlace: https://5-loops.com/pages/centro-yanachaga\nMaterial Audiovisual actual del Recurso:\nFOTO, OTROS\nEspecificación:\nMateriales informativos del recurso turístico, Dircetur Pasco y otros.\nReferencia de las últimas intervenciones en el Recurso Turístico:\nSe realizó el pintado de letreros , señaléticas y barnizado en abril del 2024\nFecha:\n4/12/2024 10:57:12"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -10.528076690574142,
+    "longitud": -75.43760250889574
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-10.528076690574142,-75.43760250889574"
+}

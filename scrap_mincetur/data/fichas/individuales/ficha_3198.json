@@ -1,0 +1,320 @@
+{
+  "cod_ficha": 3198,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=3198",
+  "nombre": "Cerro Mirador",
+  "departamento": "San Martín",
+  "provincia": "Rioja",
+  "distrito": "NUEVA CAJAMARCA",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "a. Montañas",
+  "subtipo": "Cerros",
+  "jerarquia": "2",
+  "altitud": "1250",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=512570",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=512570",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=525310",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=527564",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=527756",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=527576",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=530822",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=530823",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=530781"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Paseos - Excursiones",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de paisaje",
+    "Deportes / Aventura - Caminata/Trekking"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Paseos",
+      "tipo": "Excursiones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/excursiones02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "cetico, orquídeas, bromelias, palmeras, etc.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "San Martín/Rioja/Nueva Cajamarca - San Martín/Rioja/Nueva Cajamarca",
+      "detalle": "Plaza de Armas de la ciudad de Nueva Cajamarca - Cerro Mirador Andino Amazónica (Área de recepción y ascenso)",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "1 Km. / 5 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "San Martín/Rioja/Nueva Cajamarca - San Martín/Rioja/Nueva Cajamarca",
+      "detalle": "Cerro Mirador Andino Amazónica (Área de recepción y ascenso) - Cima del Cerro Mirador Andino Amazónico",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Sendero",
+      "distancia_tiempo": "1.01 Km. / 40 minutos"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "450",
+      "horario": "Conteo muestral de reporte de visitas elaborado por la Municipalidad Distrital de Nueva Cajamarca",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "25380",
+      "horario": "Conteo muestral de reporte de visitas elaborado por la Municipalidad Distrital de Nueva Cajamarca",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "06:00 a.m. - 05:00 p.m. Se recomienda ir acompañado de un orientador local en el horario establecido. Portar agua, gorro, protector solar, ropa ligera, cámara fotográfica.",
+      "observaciones": "Se recomienda ir acompañado de un orientador local en el horario establecido. Portar agua, gorro, protector solar, ropa ligera, cámara fotográfica."
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": "Previo registro de datos en la recepción"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "2 estrellas (**) en la ciudad de Nueva Cajamarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "2 tenedores en la ciudad de Nueva Cajamarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Nueva Cajamarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Nueva Cajamarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Ciudad de Nueva Cajamarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Nueva Cajamarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Bancos - Cajeros",
+      "observacion": "Los servicios se encuentran en la ciudad de Nueva Cajamarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de Nueva Cajamarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Ciudad de Nueva Cajamarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Ciudad de Nueva Cajamarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "Ciudad de Nueva Cajamarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Nueva Cajamarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Nueva Cajamarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Ciudad de Nueva Cajamarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "2 estrellas (**) en la ciudad de Nueva Cajamarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Nueva Cajamarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Ciudad de Nueva Cajamarca"
+    }
+  ],
+  "descripcion": "Se encuentra ubicado a las afueras de la zona urbana de la ciudad de Nueva Cajamarca, en un área de la Zona de Conservación y Recuperación de Ecosistemas – ZoCRE “Naciente Río Negro”, ubicado en un ecosistema de bosques húmedos de la región natural Selva Alta y con temperaturas que oscilan entre los 17° y 27° C. El recurso constituye una elevación geológica natural de material rocoso calizo y de forma empinada, cuya cima se ubica a 1250 m.s.n.m. y abarca una extensión de 250 m2.\nSe accede mediante un recorrido a pie por un sendero de 1100 metros de distancia, que inicia en las faldas del cerro. El sendero cuenta con tramos empedrados y de forma escalonada que conducen a la cima. Este trayecto se encuentra en buen estado y cuenta con pasamanos de seguridad, señalización y tambos de descanso instalados a cierta distancia. Durante la caminata se puede apreciar las vistas panorámicas de la ciudad de Nueva Cajamarca y tener contacto directo con el bosque, a través de la observación de especies de árboles, como el cetico, cedro, laurel, palmeras, uña de gato, bejuco, orquídeas, helechos y flores silvestres. Durante la caminata se puede escuchar el canto característico de algunas aves (tucán, paucar, suy suy, y otros).\nEn la cima se ubica el mirador, que cuenta con un tambo de descanso entre las formaciones de piedra que se dispersan en el suelo, también una plataforma de concreto donde el visitante se instala para disfrutar del paisaje en un radio de 360° grados. Desde el mirador es posible visualizar la ciudad de Nueva Cajamarca en su esplendor, también el recorrido de la carretera Fernando Belaúnde Terry atravesando la ciudad y al fondo del valle los poblados de San Fernando y Elías Soplín Vargas; también se aprecia la ciudad de Rioja y el imponente Morro de Calzada, además, gran parte del Área Natural Protegida Bosque de Protección Alto Mayo y las montañas que colindan con el territorio de la vecina región Amazonas.\nEste lugar es de interés de los visitantes que se orientan por la práctica de actividades vinculadas a la naturaleza y aventura, como caminatas y excursiones de ascenso a la cima, además, por el disfrute y la toma de fotografías del paisaje del valle del Alto Mayo, principalmente en horas del amanecer o al atardecer, y por su ubicación a pocos minutos de la ciudad.",
+  "particularidades": "",
+  "estado_actual": "Muy bueno: se encuentra en constante mantenimiento y conservación de las instalaciones a cargo de la Municipalidad Distrital de Nueva Cajamarca.",
+  "observaciones": "El nombre del recurso hace referencia a la denominación que le atribuyen los ciudadanos a la ciudad de Nueva Cajamarca, como el \"primer distrito andino amazónico de la región San Martín\".",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Se encuentra ubicado a las afueras de la zona urbana de la ciudad de Nueva Cajamarca, en un área de la Zona de Conservación y Recuperación de Ecosistemas – ZoCRE “Naciente Río Negro”, ubicado en un ecosistema de bosques húmedos de la región natural Selva Alta y con temperaturas que oscilan entre los 17° y 27° C. El recurso constituye una elevación geológica natural de material rocoso calizo y de forma empinada, cuya cima se ubica a 1250 m.s.n.m. y abarca una extensión de 250 m2.\nSe accede mediante un recorrido a pie por un sendero de 1100 metros de distancia, que inicia en las faldas del cerro. El sendero cuenta con tramos empedrados y de forma escalonada que conducen a la cima. Este trayecto se encuentra en buen estado y cuenta con pasamanos de seguridad, señalización y tambos de descanso instalados a cierta distancia. Durante la caminata se puede apreciar las vistas panorámicas de la ciudad de Nueva Cajamarca y tener contacto directo con el bosque, a través de la observación de especies de árboles, como el cetico, cedro, laurel, palmeras, uña de gato, bejuco, orquídeas, helechos y flores silvestres. Durante la caminata se puede escuchar el canto característico de algunas aves (tucán, paucar, suy suy, y otros).\nEn la cima se ubica el mirador, que cuenta con un tambo de descanso entre las formaciones de piedra que se dispersan en el suelo, también una plataforma de concreto donde el visitante se instala para disfrutar del paisaje en un radio de 360° grados. Desde el mirador es posible visualizar la ciudad de Nueva Cajamarca en su esplendor, también el recorrido de la carretera Fernando Belaúnde Terry atravesando la ciudad y al fondo del valle los poblados de San Fernando y Elías Soplín Vargas; también se aprecia la ciudad de Rioja y el imponente Morro de Calzada, además, gran parte del Área Natural Protegida Bosque de Protección Alto Mayo y las montañas que colindan con el territorio de la vecina región Amazonas.\nEste lugar es de interés de los visitantes que se orientan por la práctica de actividades vinculadas a la naturaleza y aventura, como caminatas y excursiones de ascenso a la cima, además, por el disfrute y la toma de fotografías del paisaje del valle del Alto Mayo, principalmente en horas del amanecer o al atardecer, y por su ubicación a pocos minutos de la ciudad."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Muy bueno: se encuentra en constante mantenimiento y conservación de las instalaciones a cargo de la Municipalidad Distrital de Nueva Cajamarca."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "El nombre del recurso hace referencia a la denominación que le atribuyen los ciudadanos a la ciudad de Nueva Cajamarca, como el \"primer distrito andino amazónico de la región San Martín\"."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Nacionales\n450\nConteo muestral de reporte de visitas elaborado por la Municipalidad Distrital de Nueva Cajamarca\n2023\nInformación recibida y registrada por la DIRCETUR San Martín\nVisitantes Locales(Excursionistas)\n25380\nConteo muestral de reporte de visitas elaborado por la Municipalidad Distrital de Nueva Cajamarca\n2023\nInformación recibida y registrada por la DIRCETUR San Martín"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nSan Martín/Rioja/Nueva Cajamarca\n-\nSan Martín/Rioja/Nueva Cajamarca\nPlaza de Armas de la ciudad de Nueva Cajamarca - Cerro Mirador Andino Amazónica (Área de recepción y ascenso)\nTerrestre\nAutomóvil particular\nAsfaltado\n1 Km. / 5 minutos\n1\nSan Martín/Rioja/Nueva Cajamarca\n-\nSan Martín/Rioja/Nueva Cajamarca\nCerro Mirador Andino Amazónica (Área de recepción y ascenso) - Cima del Cerro Mirador Andino Amazónico\nTerrestre\nA pie\nSendero\n1.01 Km. / 40 minutos"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre\nPrevio registro de datos en la recepción"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n06:00 a.m.\n-\n05:00 p.m.\nSe recomienda ir acompañado de un orientador local en el horario establecido. Portar agua, gorro, protector solar, ropa ligera, cámara fotográfica."
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nPaseos\nExcursiones\n--\nNaturaleza\nObservación de flora\ncetico, orquídeas, bromelias, palmeras, etc.\nNaturaleza\nObservación de paisaje\n--\nDeportes / Aventura\nCaminata/Trekking\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Públicas\nServicios Públicos\nMiradores turísticos\n--\nInstalaciones Públicas\nServicios Públicos\nSeñales turísticas de orientación\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\n2 estrellas (**) en la ciudad de Nueva Cajamarca\nAlimentación\nRestaurantes\n2 tenedores en la ciudad de Nueva Cajamarca\nAlimentación\nBares\nCiudad de Nueva Cajamarca\nAlimentación\nKioskos de comida y bebidas\nCiudad de Nueva Cajamarca\nAlimentación\nVenta de comida Rápida\nCiudad de Nueva Cajamarca\nLugares de Recreación\nDiscotecas\nCiudad de Nueva Cajamarca\nOtros Servicios Turísticos\nBancos - Cajeros\nLos servicios se encuentran en la ciudad de Nueva Cajamarca\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de Nueva Cajamarca\nServicios Públicos\nOficina de Información turística\nCiudad de Nueva Cajamarca\nLugares de Recreación\nJuegos Infantiles\nCiudad de Nueva Cajamarca\nLugares de Recreación\nKaraoke\nCiudad de Nueva Cajamarca\nLugares de Recreación\nBares\nCiudad de Nueva Cajamarca\nAlimentación\nCafeterías\nCiudad de Nueva Cajamarca\nAlimentación\nFuentes de soda\nCiudad de Nueva Cajamarca\nAlojamiento\nHostales (especificar categorías)\n2 estrellas (**) en la ciudad de Nueva Cajamarca\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Nueva Cajamarca\nServicios Públicos\nEstacionamiento de vehículos\nCiudad de Nueva Cajamarca"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Nueva Cajamarca\nBancos\nCiudad de Nueva Cajamarca\nCajero automático\nCiudad de Nueva Cajamarca\nCasa de cambio\nCiudad de Nueva Cajamarca\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Nueva Cajamarca\nServicio de correos\nCiudad de Nueva Cajamarca\nServicio de estacionamiento\nCiudad de Nueva Cajamarca\nVenta de materiales para fotografías\nCiudad de Nueva Cajamarca\nSeguridad / POLTUR / Comisaría\nCiudad de Nueva Cajamarca\nLibrerías\nCiudad de Nueva Cajamarca\nBodegas o minimarkets\nCiudad de Nueva Cajamarca\nCentro de salud - tópico\nCiudad de Nueva Cajamarca"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nOtros (Especificar)\nEscalinatas"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Nueva Cajamarca\nAlcantarillado sanitario\nCiudad de Nueva Cajamarca\nLuz (Suministro Eléctrico)\nCiudad de Nueva Cajamarca\nTeléfono\nCiudad de Nueva Cajamarca\nSeñalización turística\nCiudad de Nueva Cajamarca\nAlcantarillado pluvial\nCiudad de Nueva Cajamarca"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nGobierno Regional San Martín\nPrivado:\n--\nOtra Situación:\nZona de Conservación y Recuperación de Ecosistemas \"Naciente Río Negro\"\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nPartida\nNúmero de Partida:\n11054499\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nResolución Directoral Ejecutiva N° 007-2015-GRSM/ARA-DEGT que otorga 2,504.38 hectáreas en Afectación en Uso a favor de la Municipalidad Distrital de Nueva Cajamarca\nAdministrador por\nNombre\nMunicipalidad Distrital de Nueva Cajamarca\nTiempo de administración\nDesde el año 2015"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo de San Martín\nNombre (Persona(s) responsable(s) del inventario turístico):\nEdison Rodríguez Chupe\nCargo:\nEspecialista en Turismo\nCorreo:\nedison.rodriguezchupe@gmail.com\nTeléfono:\n976 980 815\nFuentes Bibliográfica:\n- Nota escrita \"San Martín: provincia de Rioja pone en valor a cerro Mirador como circuito turístico\" de la Agencia Peruana de Noticias Andina. Publicado en el 2023. Enlace: https://andina.pe/agencia/noticia-san-martin-provincia-rioja-pone-valor-a-cerro-mirador-como-circuito-turistico-945182.aspx\nMaterial Audiovisual actual del Recurso:\nFOTO, VIDEOS\nEspecificación:\nVideo: https://www.youtube.com/watch?v=zI2D9oYcIy0\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n17/02/2026 10:16:55"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -5.945308,
+    "longitud": -77.31840499999998
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-5.945308,-77.31840499999998"
+}

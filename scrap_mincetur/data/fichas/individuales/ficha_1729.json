@@ -1,0 +1,329 @@
+{
+  "cod_ficha": 1729,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=1729",
+  "nombre": "Plaza De Armas De Huánuco",
+  "departamento": "Huánuco",
+  "provincia": "Huanuco",
+  "distrito": "HUANUCO",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Lugares Históricos",
+  "subtipo": "Plaza",
+  "jerarquia": "3",
+  "altitud": "1880",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=615490",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=615490",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=615492",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=615441",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=615493"
+  ],
+  "actividades_permitidas": [
+    "Otros - Compras de artesanía/souvenir",
+    "Otros - Toma de fotografías y filmaciones",
+    "Cultura y Folclore - Actividades Religiosas o Patronales",
+    "Cultura y Folclore - Degustación y preparación de platos, productos o bebidas típicas",
+    "Cultura y Folclore - Ferias",
+    "Cultura y Folclore - Apreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Compras de artesanía/souvenir",
+      "observacion": "En los locales de venta de artesanía de la ciudad de Huánuco.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/artesania02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Actividades Religiosas o Patronales",
+      "observacion": "Semana Santa, Señor de Burgos, Virgen de la Asunción, entre otros.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/act_religiosas02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Degustación y preparación de platos, productos o bebidas típicas",
+      "observacion": "En los locales de venta de comida típica de la ciudad de Huánuco",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/platos_tipicos02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Ferias",
+      "observacion": "Diversas ferias organizadas por distintas instituciones, durante todo el año. Entre las que se encuentran ferias turísticas, artesanales y gastronómicas",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/feria02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Apreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)",
+      "observacion": "Diversos programas que realizan las instituciones durante todo el año.",
+      "icono_url": null
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Huánuco/Huánuco/Huanuco - Huánuco/Huánuco/Huanuco",
+      "detalle": "Agencias de transporte terrestre - Plaza de Armas de Huánuco",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "1 km / 10 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Huánuco/Huánuco/Huanuco - Huánuco/Huánuco/Huanuco",
+      "detalle": "Aeropuerto Alférez FAP David Figueroa Fernandini - Plaza de Armas de Huánuco",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Taxi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "7.8 Km / 18 Min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "1890",
+      "horario": "Conteo Muestral",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "1260",
+      "horario": "Conteo Muestral",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "4050",
+      "horario": "Conteo Muestral",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "06:00 a.m. - 10:00 p.m. Se recomienda visitar en fechas festivas.",
+      "observaciones": "Se recomienda visitar en fechas festivas."
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "Ciudad de Huánuco / Hoteles de 1 a 4 Estrellas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Huánuco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "Ciudad de Huánuco / Hostales de 1 a 3 Estrellas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Huánuco / Restaurantes de 1 a 5 Tenedores"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Huánuco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Ciudad de Huánuco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Huánuco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Ciudad de Huánuco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Huánuco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de Huánuco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de camionetas 4 x 4",
+      "observacion": "Ciudad de Huánuco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Huánuco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Cines o Teatros",
+      "observacion": "Ciudad de Huánuco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Ciudad de Huánuco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Ciudad de Huánuco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "Ciudad de Huánuco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Huánuco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Ciudad de Huánuco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Ciudad de Huánuco"
+    }
+  ],
+  "descripcion": "La Plaza de Armas de Huánuco está ubicada estratégicamente en el corazón de la capital regional, entre los jirones 2 de mayo, Dámaso Beraún, 28 de Julio y General Prado. Además de su valor arquitectónico y urbano, la plaza ha sido escenario de hechos históricos, es un sitio histórico central fundado tras la llegada española, fue escenario de la lucha precursora de la independencia y hoy es reconocida como un bien cultural relevante. El 4 de septiembre de 1812, este espacio se convirtió en lugar de represión pública cuando fueron ejecutados los patriotas Juan José Crespo y Castillo, José Rodríguez y Norberto Haro, tras el fracaso de la rebelión contra el dominio español. La ejecución, realizada ante la población reunida por orden de las autoridades realistas, buscó infundir temor y frenar nuevos levantamientos, dejando marcada la plaza como espacio de sacrificio por la libertad. Ocho años más tarde, el 15 de diciembre de 1820, el mismo lugar fue escenario de un acontecimiento de significado completamente opuesto: la jura oficial de la independencia. En ese contexto, el general Juan Antonio Álvarez de Arenales dirigía la campaña libertadora en la sierra central del Perú y enviaba representantes para formalizar la adhesión de las ciudades al movimiento patriota. Por ello, la ceremonia en la plaza de armas de Huánuco fue encabezada por Nicolás Herrera, quien actuó como delegado del ejército libertador. Ante las autoridades y vecinos congregados, se proclamó la separación de la Corona española y se juró fidelidad a la causa patriota. Este hecho reviste especial importancia porque ocurrió antes de la proclamación oficial en Lima el 28 de julio de 1821, convirtiendo a Huánuco en una de las primeras ciudades del centro del país en declarar públicamente su independencia y marcando un precedente en la región andina central.\nLa plaza era un terreno abierto y delimitado, cuya forma original se mantiene desde el siglo XVI como parte del trazado urbano colonial. Muchos años después, ya en la época republicana, se decidió embellecerla con detalles ornamentales, siendo el principal elemento la pileta central, esculpida por el arquitecto italiano Julio Seretti e instalada en 1845. Esta gran pileta de granito, tallada en una sola piedra, alcanza aproximadamente cuatro metros de altura y fue elaborada utilizando una piedra sagrada conocida como Pillco Rumi, que en tiempos antiguos habría sido objeto de adoración por los pueblos originarios. Por ello, más que un elemento decorativo, la pileta simboliza la unión entre el pasado andino y el presente republicano. La plaza está rodeada de árboles grandes y frondosos, como ficus y jacarandás, que brindan sombra y frescura durante todo el año, reforzando su carácter acogedor y su función como punto de encuentro ciudadano.\nAlrededor de la plaza se levantan edificaciones de gran valor histórico y cultural, como la Catedral de Huánuco, construida en el siglo XX; la Municipalidad Provincial de Huánuco; y antiguas casonas con balcones que conservan rasgos de la arquitectura tradicional colonial. A lo largo del tiempo, la Plaza de Armas ha sido y continúa siendo un espacio clave para actividades culturales, religiosas y sociales que promueven la cultura local, la gastronomía típica y la venta de productos artesanales. Actualmente, la plaza se encuentra en buen estado de conservación gracias a los trabajos continuos de mantenimiento y recuperación de áreas verdes realizados por la Municipalidad Provincial de Huánuco. Más allá de ser un espacio físico, representa historia, identidad y orgullo para los huanuqueños, consolidándose como el corazón cultural de la ciudad y el punto de partida para conocer la esencia de una tierra que une la sierra y la selva del Perú. Por su valor simbólico e histórico, constituye una parada obligada tanto para la población local como para los visitantes nacionales e internacionales que la eligen como primer destino para disfrutar de su estadía y riqueza viva de Huánuco.",
+  "particularidades": "Cuenta con una pileta elaborada en una sola piedra de granito de aproximadamente cuatro metros de altura, tallada a partir de una piedra sagrada conocida como Pillco Rumi, que en tiempos antiguos fue utilizada como objeto de adoración por los pueblos originarios.",
+  "estado_actual": "Muy Bueno, porque la Municipalidad Provincial de Huánuco se encarga de la conservación y mantenimiento de la plaza, asegurando que se mantenga limpia y ordenada.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "La Plaza de Armas de Huánuco está ubicada estratégicamente en el corazón de la capital regional, entre los jirones 2 de mayo, Dámaso Beraún, 28 de Julio y General Prado. Además de su valor arquitectónico y urbano, la plaza ha sido escenario de hechos históricos, es un sitio histórico central fundado tras la llegada española, fue escenario de la lucha precursora de la independencia y hoy es reconocida como un bien cultural relevante. El 4 de septiembre de 1812, este espacio se convirtió en lugar de represión pública cuando fueron ejecutados los patriotas Juan José Crespo y Castillo, José Rodríguez y Norberto Haro, tras el fracaso de la rebelión contra el dominio español. La ejecución, realizada ante la población reunida por orden de las autoridades realistas, buscó infundir temor y frenar nuevos levantamientos, dejando marcada la plaza como espacio de sacrificio por la libertad. Ocho años más tarde, el 15 de diciembre de 1820, el mismo lugar fue escenario de un acontecimiento de significado completamente opuesto: la jura oficial de la independencia. En ese contexto, el general Juan Antonio Álvarez de Arenales dirigía la campaña libertadora en la sierra central del Perú y enviaba representantes para formalizar la adhesión de las ciudades al movimiento patriota. Por ello, la ceremonia en la plaza de armas de Huánuco fue encabezada por Nicolás Herrera, quien actuó como delegado del ejército libertador. Ante las autoridades y vecinos congregados, se proclamó la separación de la Corona española y se juró fidelidad a la causa patriota. Este hecho reviste especial importancia porque ocurrió antes de la proclamación oficial en Lima el 28 de julio de 1821, convirtiendo a Huánuco en una de las primeras ciudades del centro del país en declarar públicamente su independencia y marcando un precedente en la región andina central.\nLa plaza era un terreno abierto y delimitado, cuya forma original se mantiene desde el siglo XVI como parte del trazado urbano colonial. Muchos años después, ya en la época republicana, se decidió embellecerla con detalles ornamentales, siendo el principal elemento la pileta central, esculpida por el arquitecto italiano Julio Seretti e instalada en 1845. Esta gran pileta de granito, tallada en una sola piedra, alcanza aproximadamente cuatro metros de altura y fue elaborada utilizando una piedra sagrada conocida como Pillco Rumi, que en tiempos antiguos habría sido objeto de adoración por los pueblos originarios. Por ello, más que un elemento decorativo, la pileta simboliza la unión entre el pasado andino y el presente republicano. La plaza está rodeada de árboles grandes y frondosos, como ficus y jacarandás, que brindan sombra y frescura durante todo el año, reforzando su carácter acogedor y su función como punto de encuentro ciudadano.\nAlrededor de la plaza se levantan edificaciones de gran valor histórico y cultural, como la Catedral de Huánuco, construida en el siglo XX; la Municipalidad Provincial de Huánuco; y antiguas casonas con balcones que conservan rasgos de la arquitectura tradicional colonial. A lo largo del tiempo, la Plaza de Armas ha sido y continúa siendo un espacio clave para actividades culturales, religiosas y sociales que promueven la cultura local, la gastronomía típica y la venta de productos artesanales. Actualmente, la plaza se encuentra en buen estado de conservación gracias a los trabajos continuos de mantenimiento y recuperación de áreas verdes realizados por la Municipalidad Provincial de Huánuco. Más allá de ser un espacio físico, representa historia, identidad y orgullo para los huanuqueños, consolidándose como el corazón cultural de la ciudad y el punto de partida para conocer la esencia de una tierra que une la sierra y la selva del Perú. Por su valor simbólico e histórico, constituye una parada obligada tanto para la población local como para los visitantes nacionales e internacionales que la eligen como primer destino para disfrutar de su estadía y riqueza viva de Huánuco."
+    },
+    {
+      "titulo": "Particularidades",
+      "contenido": "Cuenta con una pileta elaborada en una sola piedra de granito de aproximadamente cuatro metros de altura, tallada a partir de una piedra sagrada conocida como Pillco Rumi, que en tiempos antiguos fue utilizada como objeto de adoración por los pueblos originarios."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "La histórica Plaza de Armas de Huánuco se encuentra actualmente reconocida por el Congreso de la República, en mérito a su incalculable valor histórico, social, cultural y turístico. Este reconocimiento fue otorgado mediante Diploma de Reconocimiento el 24 de septiembre de 2025."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Muy Bueno, porque la Municipalidad Provincial de Huánuco se encarga de la conservación y mantenimiento de la plaza, asegurando que se mantenga limpia y ordenada."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nVisitantes Locales(Excursionistas)\n1890\nConteo Muestral\n2025\nFuente de datos Municipalidad Provincial de Huánuco\nTuristas Extranjeros\n1260\nConteo Muestral\n2025\nFuente de Datos Municipalidad Provincial de Huánuco\nTuristas Nacionales\n4050\nConteo Muestral\n2025\nFuente de Datos Municipalidad Provincial de Huánuco"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nHuánuco/Huánuco/Huanuco\n-\nHuánuco/Huánuco/Huanuco\nAgencias de transporte terrestre - Plaza de Armas de Huánuco\nTerrestre\nA pie\nAsfaltado\n1 km / 10 min\n1\nHuánuco/Huánuco/Huanuco\n-\nHuánuco/Huánuco/Huanuco\nAeropuerto Alférez FAP David Figueroa Fernandini - Plaza de Armas de Huánuco\nTerrestre\nTaxi\nAsfaltado\n7.8 Km / 18 Min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n06:00 a.m.\n-\n10:00 p.m.\nSe recomienda visitar en fechas festivas."
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nCompras de artesanía/souvenir\nEn los locales de venta de artesanía de la ciudad de Huánuco.\nOtros\nToma de fotografías y filmaciones\n--\nCultura y Folclore\nActividades Religiosas o Patronales\nSemana Santa, Señor de Burgos, Virgen de la Asunción, entre otros.\nCultura y Folclore\nDegustación y preparación de platos, productos o bebidas típicas\nEn los locales de venta de comida típica de la ciudad de Huánuco\nCultura y Folclore\nFerias\nDiversas ferias organizadas por distintas instituciones, durante todo el año. Entre las que se encuentran ferias turísticas, artesanales y gastronómicas\nCultura y Folclore\nApreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)\nDiversos programas que realizan las instituciones durante todo el año."
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\nCiudad de Huánuco / Hoteles de 1 a 4 Estrellas\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Huánuco\nAlojamiento\nHostales (especificar categorías)\nCiudad de Huánuco / Hostales de 1 a 3 Estrellas\nAlimentación\nRestaurantes\nCiudad de Huánuco / Restaurantes de 1 a 5 Tenedores\nAlimentación\nCafeterías\nCiudad de Huánuco\nAlimentación\nFuentes de soda\nCiudad de Huánuco\nAlimentación\nKioskos de comida y bebidas\nCiudad de Huánuco\nAlimentación\nVenta de comida Rápida\nCiudad de Huánuco\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Huánuco\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de Huánuco\nOtros Servicios Turísticos\nAlquiler de camionetas 4 x 4\nCiudad de Huánuco\nLugares de Recreación\nDiscotecas\nCiudad de Huánuco\nLugares de Recreación\nCines o Teatros\nCiudad de Huánuco\nLugares de Recreación\nJuegos Infantiles\nCiudad de Huánuco\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nCiudad de Huánuco\nLugares de Recreación\nKaraoke\nCiudad de Huánuco\nLugares de Recreación\nBares\nCiudad de Huánuco\nLugares de Recreación\nCentros Deportivos\nCiudad de Huánuco\nServicios Públicos\nEstacionamiento de vehículos\nCiudad de Huánuco"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Huánuco\nBancos\nCiudad de Huánuco\nCajero automático\nCiudad de Huánuco\nCasa de cambio\nCiudad de Huánuco\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Huánuco\nServicio de estacionamiento\nCiudad de Huánuco\nServicios de taxis\nCiudad de Huánuco\nCentro de salud - tópico\nCiudad de Huánuco\nSeguridad / POLTUR / Comisaría\nCiudad de Huánuco\nLibrerías\nCiudad de Huánuco\nBodegas o minimarkets\nCiudad de Huánuco\nVenta de materiales para fotografías\nCiudad de Huánuco"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nLuz (Suministro Eléctrico)\nIluminación en toda la Plaza de Armas de Huánuco\nSeñalización turística\nMapa de Orientación Turística"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Huánuco\nAlcantarillado sanitario\nCiudad de Huánuco\nLuz (Suministro Eléctrico)\nCiudad de Huánuco\nTeléfono\nCiudad de Huánuco\nSeñalización turística\nCiudad de Huánuco\nEnergía Alternativa\nCiudad de Huánuco / Panel Solar\nAlcantarillado pluvial\nCiudad de Huánuco"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nMunicipalidad Provincial de Huánuco\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nAdjudicado a la municipalidad mediante la Ley N° 27972, Ley Orgánica de Municipalidades del Perú. Articulo N° 81.\nAdministrador por\nNombre\nMunicipalidad Provincial de Huánuco\nTiempo de administración\nDesde el año 1539"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo Huánuco\nNombre (Persona(s) responsable(s) del inventario turístico):\nLic. Andres Roberto Moron Carhuaricra\nCargo:\nEspecialista en Turismo\nCorreo:\narmoroncarhuaricra@gmail.com\nTeléfono:\n994 558 564\nFuentes Bibliográfica:\n1. Varallanos, J. (1959). Historia de Huánuco. https://archive.org/details/varallanos-j.-historia-de-huanuco/page/66/mode/2up.\n2. Huánuco.info. (s.f.). Plaza de Armas de Huánuco. https://huanuco.info/lugares-turisticos/plaza-de-armas-de-huanuco/\n3. El Muro. (2023, septiembre 20). ¿Sabías que Huánuco tiene una de las piletas más antiguas del Perú? https://elmuro.pe/actualidad/monumento-historico-sabias-que-huanuco-tiene-una-de-las-piletas-mas-antiguas-del-peru/\n4. Tu Diario Huánuco (2022, 30 de mayo). Plaza de Armas y el rey de piedra. https://tudiariohuanuco.pe/especiales/plaza-de-armas-y-el-rey-de-piedra/\n5. Bicentenario Perú. (2020, 14 de diciembre). 15 de diciembre: Huánuco juró su independencia. https://bicentenario.gob.pe/15-diciembre-huanuco/.\n6. Banco Central de Reserva del Perú. (2015). Informe Económico y Social: Región Huánuco. https://www.bcrp.gob.pe/docs/Proyeccion-Institucional/Encuentros-Regionales/2015/huanuco/ies-huanuco-2015.pdf.\nMaterial Audiovisual actual del Recurso:\nFOTO, VIDEOS\nEspecificación:\nhttps://www.youtube.com/watch?v=yLsw0UFpyos\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n5/05/2026 08:14:10"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -9.92947350038487,
+    "longitud": -76.23973399400711
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-9.92947350038487,-76.23973399400711"
+}

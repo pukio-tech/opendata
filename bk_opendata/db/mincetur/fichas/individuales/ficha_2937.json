@@ -1,0 +1,323 @@
+{
+  "cod_ficha": 2937,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=2937",
+  "nombre": "Bodeguillas De Huacapuy",
+  "departamento": "Arequipa",
+  "provincia": "Camana",
+  "distrito": "JOSÉ MARÍA QUIMPER",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Sitios Arqueológicos",
+  "subtipo": "Otros",
+  "jerarquia": "2",
+  "altitud": "25 m.s.n.m",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=532535",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=532535",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=532587",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=532588",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=532589",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=532537",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=532596"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Estudios e Investigación",
+    "Naturaleza - Observación de paisaje",
+    "Deportes / Aventura - Caminata/Trekking"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Arequipa/Arequipa/Jacobo Hunter - Arequipa/Camaná/Camaná",
+      "detalle": "Terminal terrestre de Arequipa- Terminal buses, minivan Camaná (Av. Lima)",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "176 km / 3 Horas"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Arequipa/Camaná/Camaná - Arequipa/Camaná/José María Quimper",
+      "detalle": "Terminal buses, minivan Camaná (Av. Lima)- Panamericana Sur (Km 830, desvío de ingreso)",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "10 Km/ 20 Minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Arequipa/Camaná/Camaná - Arequipa/Camaná/José María Quimper",
+      "detalle": "Panamericana Sur (Km 830, desvío de ingreso) – Bodeguillas de Huacapuy",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "2 km/ 10 minutos"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "360",
+      "horario": "Oficio N°01-2024",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "6030",
+      "horario": "Oficio N°01-2024",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "06:00 a.m. - 05:00 p.m. Llevar bloqueador y sombrero.",
+      "observaciones": "Llevar bloqueador y sombrero."
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "Hoteles de 3 estrellas en ciudad de Camaná"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "Hostales de 1,2 estrellas en ciudad de Camaná"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Camaná"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Camaná"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Camaná"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Ciudad de Camaná"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Camaná"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Ciudad de Camaná"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Ciudad de Camaná"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Camaná"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Ciudad de Camaná"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de Camaná"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de camionetas 4 x 4",
+      "observacion": "Ciudad de Camaná"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Camaná"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Ciudad de Camaná"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "Ciudad de Camaná"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Ciudad de Camaná"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "Ciudad de Camaná"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Puesto de auxilio rápido",
+      "observacion": "Ciudad de Camaná"
+    }
+  ],
+  "descripcion": "Las Bodeguillas de Huacapuy están situadas al noreste de la Hacienda de Pucchún, en la Pampa de Huacapuy, margen derecha del río Camaná, de ahí el nombre de Las Bodeguillas de Huacapuy.\nSe trata de tres bodeguillas ubicadas en el cerro, compuesta por materiales de formaciones calcáreo-arcillosas, para cuya construcción no se empleó herramientas metálicas sino herramientas de madera de huarango o vilco. De las tres cavidades conocidas, resalta una, la primera bodeguilla tiene su portada hacia el oriente y está dispuesta de este a oeste; las dimensiones que presenta son de 26 metros de longitud por 8 metros de ancho, 3.5 metros de altura en el exterior y 6.5 metros en el interior, tiene al centro tres columnas talladas en posición vertical, formando un solo cuerpo con la gruta y la base no presenta ningún material superpuesto ni adosado. Las columnas tienen el fuste cuadrado de 1.20 metros por lado y el capitel se bifurca en arcos que dan forma a la bóveda. Sobre las otras dos cavidades siguientes, la de la derecha se nota que es una cavidad inconclusa y la cavidad del medio se encuentra derrumbada y se desconoce si fue construida en su totalidad o de manera parcial.\nLas Bodeguillas de Huacapuy constituyen uno de los restos arquitectónicos más antiguos referentes a la producción de vino, construidas en la segunda mitad del siglo XVI, debido a que, por aquella época, los valles de Arequipa se constituían como el centro vitivinícola más importante de toda Sudamérica, muy por encima de lo que eran por ese entonces Chile y Argentina. Para confeccionar los diferentes tipos de contenedores de vino, se debía contar con material arcilloso apropiado, por lo que a 100 metros de la zona de las bodeguillas se ubica una beta de arcilla roja, la misma que evidencia que ha sido trabajada para la elaboración de las tinajas y botijas.\nSobre el tiempo de uso de las bodeguillas, se desconoce hasta cuando fueron usadas para almacenar vino, pero son una evidencia de la viticultura en la región Arequipa. Asimismo, sobre la utilidad de las bodeguillas, se han creado todo tipo de teorías, como un lugar para guardar tesoros traídos del Cusco, para guardar las riquezas de la época colonial que procedían de Bolivia, Cusco y Caylloma hacia España, como almacenamiento de arroz y trigo y hasta la función de vivienda.\nPero de acuerdo a los estudios realizados y las evidencias encontradas; las Bodeguillas de Huacapuy son bodegas típicas de la época donde se almacenaban las tinajas de vino. Prueba de ello son los distintos restos de cerámicas fraccionadas provenientes de las tinajas y botijas que se encuentran en las afueras de las bodeguillas.",
+  "particularidades": "",
+  "estado_actual": "Bueno, la Municipalidad Distrital de José María Quimper y la Municipalidad Provincial de Camaná vienen ejecutando acciones en favor de su difusión, así como también se realizan jornadas de mantenimiento y limpieza. Sin embargo aún presenta señales de contaminación a su alrededor, además no existe señalización para el ingreso al recurso.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Las Bodeguillas de Huacapuy están situadas al noreste de la Hacienda de Pucchún, en la Pampa de Huacapuy, margen derecha del río Camaná, de ahí el nombre de Las Bodeguillas de Huacapuy.\nSe trata de tres bodeguillas ubicadas en el cerro, compuesta por materiales de formaciones calcáreo-arcillosas, para cuya construcción no se empleó herramientas metálicas sino herramientas de madera de huarango o vilco. De las tres cavidades conocidas, resalta una, la primera bodeguilla tiene su portada hacia el oriente y está dispuesta de este a oeste; las dimensiones que presenta son de 26 metros de longitud por 8 metros de ancho, 3.5 metros de altura en el exterior y 6.5 metros en el interior, tiene al centro tres columnas talladas en posición vertical, formando un solo cuerpo con la gruta y la base no presenta ningún material superpuesto ni adosado. Las columnas tienen el fuste cuadrado de 1.20 metros por lado y el capitel se bifurca en arcos que dan forma a la bóveda. Sobre las otras dos cavidades siguientes, la de la derecha se nota que es una cavidad inconclusa y la cavidad del medio se encuentra derrumbada y se desconoce si fue construida en su totalidad o de manera parcial.\nLas Bodeguillas de Huacapuy constituyen uno de los restos arquitectónicos más antiguos referentes a la producción de vino, construidas en la segunda mitad del siglo XVI, debido a que, por aquella época, los valles de Arequipa se constituían como el centro vitivinícola más importante de toda Sudamérica, muy por encima de lo que eran por ese entonces Chile y Argentina. Para confeccionar los diferentes tipos de contenedores de vino, se debía contar con material arcilloso apropiado, por lo que a 100 metros de la zona de las bodeguillas se ubica una beta de arcilla roja, la misma que evidencia que ha sido trabajada para la elaboración de las tinajas y botijas.\nSobre el tiempo de uso de las bodeguillas, se desconoce hasta cuando fueron usadas para almacenar vino, pero son una evidencia de la viticultura en la región Arequipa. Asimismo, sobre la utilidad de las bodeguillas, se han creado todo tipo de teorías, como un lugar para guardar tesoros traídos del Cusco, para guardar las riquezas de la época colonial que procedían de Bolivia, Cusco y Caylloma hacia España, como almacenamiento de arroz y trigo y hasta la función de vivienda.\nPero de acuerdo a los estudios realizados y las evidencias encontradas; las Bodeguillas de Huacapuy son bodegas típicas de la época donde se almacenaban las tinajas de vino. Prueba de ello son los distintos restos de cerámicas fraccionadas provenientes de las tinajas y botijas que se encuentran en las afueras de las bodeguillas."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "Declarado como Zona Arqueológica Monumental, según R.D.N. Nº085/INC 19-01-07 y R.D.N. Nº 1416/INC 07-09-06 como Monumento Arqueológico Intangible, según Decreto Legislativo 635-ED."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, la Municipalidad Distrital de José María Quimper y la Municipalidad Provincial de Camaná vienen ejecutando acciones en favor de su difusión, así como también se realizan jornadas de mantenimiento y limpieza. Sin embargo aún presenta señales de contaminación a su alrededor, además no existe señalización para el ingreso al recurso."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Nacionales\n360\nOficio N°01-2024\n2023\nConteo de muestra de visitas al recurso\nVisitantes Locales(Excursionistas)\n6030\nOficio N°01-2024\n2023\nConteo de muestra de visitas al recurso"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nArequipa/Arequipa/Jacobo Hunter\n-\nArequipa/Camaná/Camaná\nTerminal terrestre de Arequipa- Terminal buses, minivan Camaná (Av. Lima)\nTerrestre\nBus público\nAsfaltado\n176 km / 3 Horas\n1\nArequipa/Camaná/Camaná\n-\nArequipa/Camaná/José María Quimper\nTerminal buses, minivan Camaná (Av. Lima)- Panamericana Sur (Km 830, desvío de ingreso)\nTerrestre\nAutomóvil particular\nAsfaltado\n10 Km/ 20 Minutos\n1\nArequipa/Camaná/Camaná\n-\nArequipa/Camaná/José María Quimper\nPanamericana Sur (Km 830, desvío de ingreso) – Bodeguillas de Huacapuy\nTerrestre\nAutomóvil particular\nTrocha carrozable\n2 km/ 10 minutos"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n06:00 a.m.\n-\n05:00 p.m.\nLlevar bloqueador y sombrero."
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nEstudios e Investigación\n--\nNaturaleza\nObservación de paisaje\n--\nDeportes / Aventura\nCaminata/Trekking\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Públicas\nServicios Públicos\nEstacionamiento de vehículos\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\nHoteles de 3 estrellas en ciudad de Camaná\nAlojamiento\nHostales (especificar categorías)\nHostales de 1,2 estrellas en ciudad de Camaná\nAlimentación\nBares\nCiudad de Camaná\nAlimentación\nCafeterías\nCiudad de Camaná\nAlimentación\nKioskos de comida y bebidas\nCiudad de Camaná\nAlimentación\nVenta de comida Rápida\nCiudad de Camaná\nLugares de Recreación\nDiscotecas\nCiudad de Camaná\nLugares de Recreación\nJuegos Infantiles\nCiudad de Camaná\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nCiudad de Camaná\nAlimentación\nRestaurantes\nCiudad de Camaná\nLugares de Recreación\nCentros Deportivos\nCiudad de Camaná\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de Camaná\nOtros Servicios Turísticos\nAlquiler de camionetas 4 x 4\nCiudad de Camaná\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Camaná\nServicios Públicos\nEstacionamiento de vehículos\nCiudad de Camaná\nServicios Públicos\nSeñales turísticas de orientación\nCiudad de Camaná\nServicios Públicos\nOficina de Información turística\nCiudad de Camaná\nServicios Públicos\nCaminos peatonales\nCiudad de Camaná\nServicios Públicos\nPuesto de auxilio rápido\nCiudad de Camaná"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Camaná\nBancos\nCiudad de Camaná\nCajero automático\nCiudad de Camaná\nCasa de cambio\nCiudad de Camaná\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Camaná\nServicio de estacionamiento\nCiudad de Camaná\nServicios de taxis\nCiudad de Camaná\nCentro de salud - tópico\nCiudad de Camaná\nSeguridad / POLTUR / Comisaría\nCiudad de Camaná\nLibrerías\nCiudad de Camaná\nBodegas o minimarkets\nCiudad de Camaná"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Camaná\nLuz (Suministro Eléctrico)\nCiudad de Camaná\nTeléfono\nCobertura móvil de Claro, Movistar, Bitel, Entel en ciudad de Camaná\nSeñalización turística\nCiudad de Camaná\nAlcantarillado sanitario\nCiudad de Camaná"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nEstado Peruano\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nTerreno eriazo\nAdministrador por\nNombre\nMunicipalidad distrital de José María Quimper\nTiempo de administración\nDesde 1944"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nGerencia Regional de Comercio Exterior y Turismo Arequipa\nNombre (Persona(s) responsable(s) del inventario turístico):\nLic. Claudia Barrios Cacya\nCargo:\nEspecialista en Turismo\nCorreo:\ncbarrios@correo.regionarequipa.gob.pe\nTeléfono:\n988099750\nFuentes Bibliográfica:\nRevista Cultural e Histórica: Camaná Hermosa- Las Bodeguillas primera bodegas de vino en Camaná, N°25 octubre/noviembre 2023\nMunicipalidad Provincial de Camaná, Camaná, Revista institucional 2019\nMonografía de la provincia de Camaná”, Morante, José María, Arequipa 1965\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n7/05/2024 12:06:49"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -16.613011,
+    "longitud": -72.75071300000002
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-16.613011,-72.75071300000002"
+}

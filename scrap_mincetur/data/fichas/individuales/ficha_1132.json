@@ -1,0 +1,266 @@
+{
+  "cod_ficha": 1132,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=1132",
+  "nombre": "El Valle De Huanta",
+  "departamento": "Ayacucho",
+  "provincia": "Huanta",
+  "distrito": "HUANTA",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "c. Valles",
+  "subtipo": "Valles",
+  "jerarquia": "1",
+  "altitud": "2380",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=624289",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=624289",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=624313",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=624314",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=624317",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=625002",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=625003",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=624986",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=625004"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Paseos - Paseos en bote",
+    "Deportes acuáticos - Otros"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Paseos",
+      "tipo": "Paseos en bote",
+      "observacion": "S/10.00 por persona",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paseo_bote02.png"
+    },
+    {
+      "actividad": "Deportes acuáticos",
+      "tipo": "Otros",
+      "observacion": "Paddle Surf",
+      "icono_url": null
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Ayacucho/Huanta/Huanta - Ayacucho/Huanta/Huanta",
+      "detalle": "Plaza de Armas de Huanta - Pago de Quinrapa.",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "1 Km - 10 Min"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Ayacucho/Huanta/Huanta - Ayacucho/Huanta/Huanta",
+      "detalle": "Plaza de Armas de Huanta - Centro Poblado de Maynay",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "2 Km - 15 Min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "810",
+      "horario": "Municipalidad Provincial de Huanta",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "1350",
+      "horario": "Municipalidad Provincial de Huanta",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Esporádicamente - Algunos meses",
+      "especificacion": "--",
+      "horario": "08:30 a.m. - 05:30 p.m. --",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Barrio central de la Ciudad de Huanta"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Barrio central de la Ciudad de Huanta"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Barrio central de la Ciudad de Huanta"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "Barrio central de la Ciudad de Huanta"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Barrio central de la Ciudad de Huanta"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Barrio central de la Ciudad de Huanta"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de bicicleta",
+      "observacion": "Barrio central de la Ciudad de Huanta"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de camionetas 4 x 4",
+      "observacion": "Barrio central de la Ciudad de Huanta"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Barrio central de la Ciudad de Huanta"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Barrio central de la Ciudad de Huanta"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Barrio central de la Ciudad de Huanta"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "Barrio central de la Ciudad de Huanta"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Barrio central de la Ciudad de Huanta"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "Barrio central de la Ciudad de Huanta"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Puesto de auxilio rápido",
+      "observacion": "Barrio central de la Ciudad de Huanta"
+    }
+  ],
+  "descripcion": "El Valle de Huanta, se encuentra ubicado a solo 10 minutos de la plaza principal de Huanta, a más de 2380 msnm. Huanta es conocida como la Esmeralda de los Andes, un nombre otorgado por el sabio Antonio Raimondi debido a su belleza natural y exuberante vegetación. Situada a 47 kilómetros de Ayacucho, este valle limita al norte con los distritos de Santillana y Sivia, al sur con Iguain y Huamanguilla, al este con Ayna y Tambo, y al oeste con Luricocha y Santillana.\nEl valle de Huanta abarca desde la comunidad de Chihua, pasando por Cangari, Viru viru, Maynay, Paquecc,Huaysui,Pampachacra,Chacco,Quinrapa,Porvenir,Azangaro Grande,Ichpicu,Palmayocc,Inpao ,Ccollana ,Azangaro,Yurasraccay,Pampay,Yanza, Iribamba y culminando en Paccosan .\nEl valle goza de un clima templado y seco, con lluvias entre diciembre y marzo y una ligera oscilación térmica anual de 3.3°C. Incluso en los meses más fríos, como junio y julio, las temperaturas rara vez alcanzan valores extremos, haciendo de Huanta un lugar agradable durante todo el año.\nCon su cielo limpio y azul intenso, el valle de Huanta ofrece hermosos paisajes que invitan a pasear por cada rincón por donde se le mire. Agregado a ello, los ríos Cachi y Urubamba se unen para formar el río Warpa, que desemboca en el río Mantaro, agregando un toque majestuoso al entorno natural.\nTodos los fines de semana muchos visitantes llegan para disfrutar del contacto con la naturaleza, ya sea cosechando frutas, hortalizas, legumbres y entre otros; visitando los recreos campestres, disfrutando del rio y/o pasando momentos de recreación fuera del bullicio de la ciudad rodeado de flora oriunda y árboles autóctonos. Entre las actividades turísticas más resaltantes que se realizan los visitantes en el valle de Huanta es el paseo en bote a lo largo del río, así como también el Paddle Surf.\nEste singular valle se destaca por sus variados pisos ecológicos, que generan una extraordinaria diversidad de flora y fauna. Su clima templado, con una temperatura media anual de 16°C, es ideal para el cultivo de frutos como lúcumas, pacaes, tunas y una gran variedad de paltas. Además, la provincia es famosa por sus licores de frutas y miel de abeja, que los visitantes disfrutan bajo la sombra de árboles como lúcumos, chirimoyos, molles y pacaes, cuya fragancia perfuma el aire.\nEn cuanto a fauna, se pueden encontrar ovinos, vacunos, porcinos, auquénidos como llamas y alpacas, además de loros, lagartos y sajinos. Su flora es igual de variada, incluyendo tubérculos como papas, mashuas, ocas, y ollucos, así como plantas frutales como manzanos, naranjos, chirimoyos, paltos y granadillas. También destacan maderas de construcción como eucaliptos y alisos, y cultivos emblemáticos como café y coca.\nActualmente, los tours operadores locales comercializan esta zona como una zona de recreación y gastronómico ya que muy cerca se encuentran los recreos campestres que brindan servicios de gastronomía típica y autóctona de la zona en base a los productos locales.",
+  "particularidades": "",
+  "estado_actual": "Regular, ya que periódicamente recibe mantenimiento en accesos y disposición de residuos solidos .",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "El Valle de Huanta, se encuentra ubicado a solo 10 minutos de la plaza principal de Huanta, a más de 2380 msnm. Huanta es conocida como la Esmeralda de los Andes, un nombre otorgado por el sabio Antonio Raimondi debido a su belleza natural y exuberante vegetación. Situada a 47 kilómetros de Ayacucho, este valle limita al norte con los distritos de Santillana y Sivia, al sur con Iguain y Huamanguilla, al este con Ayna y Tambo, y al oeste con Luricocha y Santillana.\nEl valle de Huanta abarca desde la comunidad de Chihua, pasando por Cangari, Viru viru, Maynay, Paquecc,Huaysui,Pampachacra,Chacco,Quinrapa,Porvenir,Azangaro Grande,Ichpicu,Palmayocc,Inpao ,Ccollana ,Azangaro,Yurasraccay,Pampay,Yanza, Iribamba y culminando en Paccosan .\nEl valle goza de un clima templado y seco, con lluvias entre diciembre y marzo y una ligera oscilación térmica anual de 3.3°C. Incluso en los meses más fríos, como junio y julio, las temperaturas rara vez alcanzan valores extremos, haciendo de Huanta un lugar agradable durante todo el año.\nCon su cielo limpio y azul intenso, el valle de Huanta ofrece hermosos paisajes que invitan a pasear por cada rincón por donde se le mire. Agregado a ello, los ríos Cachi y Urubamba se unen para formar el río Warpa, que desemboca en el río Mantaro, agregando un toque majestuoso al entorno natural.\nTodos los fines de semana muchos visitantes llegan para disfrutar del contacto con la naturaleza, ya sea cosechando frutas, hortalizas, legumbres y entre otros; visitando los recreos campestres, disfrutando del rio y/o pasando momentos de recreación fuera del bullicio de la ciudad rodeado de flora oriunda y árboles autóctonos. Entre las actividades turísticas más resaltantes que se realizan los visitantes en el valle de Huanta es el paseo en bote a lo largo del río, así como también el Paddle Surf.\nEste singular valle se destaca por sus variados pisos ecológicos, que generan una extraordinaria diversidad de flora y fauna. Su clima templado, con una temperatura media anual de 16°C, es ideal para el cultivo de frutos como lúcumas, pacaes, tunas y una gran variedad de paltas. Además, la provincia es famosa por sus licores de frutas y miel de abeja, que los visitantes disfrutan bajo la sombra de árboles como lúcumos, chirimoyos, molles y pacaes, cuya fragancia perfuma el aire.\nEn cuanto a fauna, se pueden encontrar ovinos, vacunos, porcinos, auquénidos como llamas y alpacas, además de loros, lagartos y sajinos. Su flora es igual de variada, incluyendo tubérculos como papas, mashuas, ocas, y ollucos, así como plantas frutales como manzanos, naranjos, chirimoyos, paltos y granadillas. También destacan maderas de construcción como eucaliptos y alisos, y cultivos emblemáticos como café y coca.\nActualmente, los tours operadores locales comercializan esta zona como una zona de recreación y gastronómico ya que muy cerca se encuentran los recreos campestres que brindan servicios de gastronomía típica y autóctona de la zona en base a los productos locales."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Regular, ya que periódicamente recibe mantenimiento en accesos y disposición de residuos solidos ."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Nacionales\n810\nMunicipalidad Provincial de Huanta\n2025\ncalculo de visitas anual al recurso turístico.\nVisitantes Locales(Excursionistas)\n1350\nMunicipalidad Provincial de Huanta\n2025\nCalculo de visitas anual al recurso turístico."
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nAyacucho/Huanta/Huanta\n-\nAyacucho/Huanta/Huanta\nPlaza de Armas de Huanta - Pago de Quinrapa.\nTerrestre\nAutomóvil particular\nAfirmado\n1 Km - 10 Min\n2\nAyacucho/Huanta/Huanta\n-\nAyacucho/Huanta/Huanta\nPlaza de Armas de Huanta - Centro Poblado de Maynay\nTerrestre\nAutomóvil particular\nAsfaltado\n2 Km - 15 Min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nEsporádicamente - Algunos meses\n--\n08:30 a.m.\n-\n05:30 p.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nPaseos\nPaseos en bote\nS/10.00 por persona\nDeportes acuáticos\nOtros\nPaddle Surf"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nLugares de Recreación\nDiscotecas\nBarrio central de la Ciudad de Huanta\nLugares de Recreación\nJuegos Infantiles\nBarrio central de la Ciudad de Huanta\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nBarrio central de la Ciudad de Huanta\nLugares de Recreación\nKaraoke\nBarrio central de la Ciudad de Huanta\nLugares de Recreación\nBares\nBarrio central de la Ciudad de Huanta\nOtros Servicios Turísticos\nVenta de artesanía\nBarrio central de la Ciudad de Huanta\nOtros Servicios Turísticos\nAlquiler de bicicleta\nBarrio central de la Ciudad de Huanta\nOtros Servicios Turísticos\nAlquiler de camionetas 4 x 4\nBarrio central de la Ciudad de Huanta\nAlimentación\nRestaurantes\nBarrio central de la Ciudad de Huanta\nAlimentación\nCafeterías\nBarrio central de la Ciudad de Huanta\nAlimentación\nFuentes de soda\nBarrio central de la Ciudad de Huanta\nServicios Públicos\nMiradores turísticos\nBarrio central de la Ciudad de Huanta\nServicios Públicos\nEstacionamiento de vehículos\nBarrio central de la Ciudad de Huanta\nServicios Públicos\nSeñales turísticas de orientación\nBarrio central de la Ciudad de Huanta\nServicios Públicos\nPuesto de auxilio rápido\nBarrio central de la Ciudad de Huanta"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nBarrio central de la Ciudad de Huanta\nBancos\nBarrio central de la Ciudad de Huanta\nCajero automático\nBarrio central de la Ciudad de Huanta\nCasa de cambio\nBarrio central de la Ciudad de Huanta\nEstación de servicios, grifos, gasolineras y gasocentros\nBarrio central de la Ciudad de Huanta\nServicio de correos\nBarrio central de la Ciudad de Huanta\nCentro de salud - tópico\nBarrio central de la Ciudad de Huanta\nVenta de materiales para fotografías\nBarrio central de la Ciudad de Huanta\nSeguridad / POLTUR / Comisaría\nBarrio central de la Ciudad de Huanta\nLibrerías\nBarrio central de la Ciudad de Huanta\nBodegas o minimarkets\nBarrio central de la Ciudad de Huanta"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nBarrio central de la Ciudad de Huanta\nAlcantarillado sanitario\nBarrio central de la Ciudad de Huanta\nLuz (Suministro Eléctrico)\nBarrio central de la Ciudad de Huanta\nTeléfono\nBarrio central de la Ciudad de Huanta\nSeñalización turística\nBarrio central de la Ciudad de Huanta\nEnergía Alternativa\nBarrio central de la Ciudad de Huanta\nSistemas de tratamiento alternativo de residuos (Biodigestor, pozo séptico, otros)\nBarrio central de la Ciudad de Huanta\nAlcantarillado pluvial\nBarrio central de la Ciudad de Huanta"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\n--\nPrivado:\n--\nOtra Situación:\nLEY 31145 , Ley de Sanemiento Fisico Legal y Formalizacion de Predios Rurales\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nLEY 31145 , Ley de Saneamiento Físico Legal y Formalización de Predios Rurales\nAdministrador por\nNombre\nDireccion Regional Agraria de Ayacucho\nTiempo de administración\nDesde 1970."
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo de Ayacucho - Municipalidad Provincial de Huanta.\nNombre (Persona(s) responsable(s) del inventario turístico):\nEfrain Gomez Lopez- Daniel Vizcardo Melendez\nCargo:\nEspecialista en Turismo - Jefatura de Turismo Artesanía y Cultura .\nCorreo:\newgl7@hotmail.com /div.tca@munihuanta.gob.pe\nTeléfono:\n938130971 /957846324\nFuentes Bibliográfica:\nCoronel, J. (1996). Violencia política y respuestas campesinas en Huanta. Las rondas campesinas y la derrota de Sendero Luminoso, 29-116.\nRoca Ochoa, R. A. (2019). Reconocimiento arqueológico del camino prehispánico Wari, tramo cuenca de Pacaicasa-valle de Huanta.\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\nImágenes del mismo recurso turístico.\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n16/09/2025 19:29:27"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -12.938152955064764,
+    "longitud": -74.24723591534422
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-12.938152955064764,-74.24723591534422"
+}

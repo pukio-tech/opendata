@@ -1,0 +1,227 @@
+{
+  "cod_ficha": 6663,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=6663",
+  "nombre": "Mirador San Lazaro",
+  "departamento": "Arequipa",
+  "provincia": "Castilla",
+  "distrito": "ORCOPAMPA",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Arquitectura y Espacios Urbanos",
+  "subtipo": "Miradores",
+  "jerarquia": "1",
+  "altitud": "3823 m.s.n.m.",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=555099",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=555099",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=555141",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=555100",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=555142"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Naturaleza - Observación de fauna",
+    "Naturaleza - Observación de paisaje"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de fauna",
+      "observacion": "Patos silvestres, palomas, huallatas",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fauna02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Arequipa/Arequipa/Jacobo Hunter - Arequipa/Castilla/Andagua",
+      "detalle": "Terrapuerto Arequipa- Plaza de Andagua",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "320Km /7 horas"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Arequipa/Castilla/Andagua - Arequipa/Castilla/Orcopampa",
+      "detalle": "Plaza de armas de Andagua - Plaza de Orcopampa",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus público",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "37 Km /1 hora"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Arequipa/Castilla/Orcopampa - Arequipa/Castilla/Orcopampa",
+      "detalle": "Plaza de Orcopampa - Mirador de San Lázaro",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "4000m/6 min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "1080",
+      "horario": "OFICIO N° 223-2024-MDO/A.",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "09:00 a.m. - 05:00 p.m. --",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Orcopampa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Orcopampa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Orcopampa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Orcopampa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Orcopampa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Ciudad de Orcopampa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Orcopampa"
+    }
+  ],
+  "descripcion": "El mirador San Lázaro se encuentra en el mismo pueblo de Orcopampa, en la parte alta de la urbanización San lázaro,  sobre los 3823 msnm y es parte de la región Suni,  su construcción   data  de  noviembre del 2005, año en el que se acondicionó  este mirador con construcción moderna, materiales de cemento y fierro,  consta de 2 pisos y comprende 36 metros de perímetro, desde este punto puede apreciar   un hermoso y espectacular paisaje  de todo el pueblo de Orcopampa, el anexo de Lontojoya, Huiyuco, el distrito de Chilcaymarca, la cadena montañosa, el volcán Mauras, el cerro Apu de Yanahorco, la laguna de Orcopampa y la forma de corazón que tiene, actualmente se realiza un mantenimiento rutinario de las áreas verdes y limpieza de la infraestructura por parte de la Municipalidad Distrital de Orcopampa, alrededor del mirador se encuentra un parque; y  la flora que predomina en el parque es el Quishuar y el Ceticio, además de otras plantas ornamentales, así mismo se ha acondicionado con bancas para el descanso, este parque comprende 200 metros de perímetro la cual se encuentra cercada.",
+  "particularidades": "",
+  "estado_actual": "En buen estado, recibe mantenimiento de la Municipalidad Distrital de Orcopampa.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "El mirador San Lázaro se encuentra en el mismo pueblo de Orcopampa, en la parte alta de la urbanización San lázaro,  sobre los 3823 msnm y es parte de la región Suni,  su construcción   data  de  noviembre del 2005, año en el que se acondicionó  este mirador con construcción moderna, materiales de cemento y fierro,  consta de 2 pisos y comprende 36 metros de perímetro, desde este punto puede apreciar   un hermoso y espectacular paisaje  de todo el pueblo de Orcopampa, el anexo de Lontojoya, Huiyuco, el distrito de Chilcaymarca, la cadena montañosa, el volcán Mauras, el cerro Apu de Yanahorco, la laguna de Orcopampa y la forma de corazón que tiene, actualmente se realiza un mantenimiento rutinario de las áreas verdes y limpieza de la infraestructura por parte de la Municipalidad Distrital de Orcopampa, alrededor del mirador se encuentra un parque; y  la flora que predomina en el parque es el Quishuar y el Ceticio, además de otras plantas ornamentales, así mismo se ha acondicionado con bancas para el descanso, este parque comprende 200 metros de perímetro la cual se encuentra cercada."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "En buen estado, recibe mantenimiento de la Municipalidad Distrital de Orcopampa."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nVisitantes Locales(Excursionistas)\n1080\nOFICIO N° 223-2024-MDO/A.\n2024\nRegistro de visitantes a cargo de la Municipalidad Distrital de Orcopampa"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nArequipa/Arequipa/Jacobo Hunter\n-\nArequipa/Castilla/Andagua\nTerrapuerto Arequipa- Plaza de Andagua\nTerrestre\nBus público\nAsfaltado\n320Km /7 horas\n1\nArequipa/Castilla/Andagua\n-\nArequipa/Castilla/Orcopampa\nPlaza de armas de Andagua - Plaza de Orcopampa\nTerrestre\nBus público\nTrocha carrozable\n37 Km /1 hora\n1\nArequipa/Castilla/Orcopampa\n-\nArequipa/Castilla/Orcopampa\nPlaza de Orcopampa - Mirador de San Lázaro\nTerrestre\nA pie\nAsfaltado\n4000m/6 min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n09:00 a.m.\n-\n05:00 p.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nNaturaleza\nObservación de fauna\nPatos silvestres, palomas, huallatas\nNaturaleza\nObservación de paisaje\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Públicas\nServicios Públicos\nMiradores turísticos\n--\nInstalaciones Públicas\nServicios Públicos\nEstacionamiento de vehículos\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlimentación\nRestaurantes\nCiudad de Orcopampa\nAlimentación\nBares\nCiudad de Orcopampa\nLugares de Recreación\nDiscotecas\nCiudad de Orcopampa\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Orcopampa\nAlimentación\nKioskos de comida y bebidas\nCiudad de Orcopampa\nLugares de Recreación\nCentros Deportivos\nCiudad de Orcopampa\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Orcopampa"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Orcopampa\nBancos\nCiudad de Orcopampa\nCajero automático\nCiudad de Orcopampa\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Orcopampa\nServicio de estacionamiento\nCiudad de Orcopampa\nServicios de taxis\nCiudad de Orcopampa\nSeguridad / POLTUR / Comisaría\nCiudad de Orcopampa\nBodegas o minimarkets\nCiudad de Orcopampa"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Orcopampa\nLuz (Suministro Eléctrico)\nCiudad de Orcopampa\nTeléfono\nCiudad de Orcopampa\nAlcantarillado sanitario\nCiudad de Orcopampa\nSistemas de tratamiento alternativo de residuos (Biodigestor, pozo séptico, otros)\nCiudad de Orcopampa\nSeñalización turística\nCiudad de Orcopampa"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nBien estatal\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nNúmero de Partida:\nP06211053\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nMunicipalidad Distrital de Orcopampa\nTiempo de administración\nDesde el 2010"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nGerencia de Comercio Exterior y Turismo de Arequipa\nNombre (Persona(s) responsable(s) del inventario turístico):\nLic. Claudia Barrios Cacya\nCargo:\nEspecialista en Turismo\nCorreo:\ncbarrios@correo.regionarequipa.gob.pe\nTeléfono:\n988099750\nFuentes Bibliográfica:\nPlan De Desarrollo Regional Concertado Actualizado De La Región Arequipa 2013-2021, pág. 55\nPlan de desarrollo turístico para la provincia de Castilla, Arequipa. – Lima: Universidad ESAN, 2008. – 158 p. – (Gerencia para el Desarrollo; 5)\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n7/08/2024 14:47:52"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -15.264375504716588,
+    "longitud": -72.3443752527237
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-15.264375504716588,-72.3443752527237"
+}

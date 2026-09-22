@@ -1,0 +1,268 @@
+{
+  "cod_ficha": 9469,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=9469",
+  "nombre": "Lek Sendero Gallito De Las Rocas",
+  "departamento": "Huánuco",
+  "provincia": "Puerto Inca",
+  "distrito": "CODO DEL POZUZO",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "ñ. Zonas paisajísticas",
+  "subtipo": "Lugares pintorescos de flora y fauna",
+  "jerarquia": "1",
+  "altitud": "195",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=609897",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=609897",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=609898",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=609731",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=609732",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=609733",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=609734"
+  ],
+  "actividades_permitidas": [
+    "Naturaleza - Observación de fauna",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de paisaje",
+    "Naturaleza - Observación de aves"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de fauna",
+      "observacion": "Tapir, añuje, picuro, achuni.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fauna02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "Helechos, palmeras, lupuna",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de aves",
+      "observacion": "Gallitos de las Rocas, Kolibries",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/aves02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Huánuco/Puerto Inca/Puerto Inca - Huánuco/Puerto Inca/Puerto Inca",
+      "detalle": "Plaza principal de Puerto Inca - Cruce de desvío al Codo del Pozuzo",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "29 km / 40 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Huánuco/Puerto Inca/Puerto Inca - Huánuco/Puerto Inca/Codo Del Pozuzo",
+      "detalle": "Cruce de desvío al Codo de Pozuzo - Plaza principal de Codo del Pozuzo",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "66 km / 1 hora con 45 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Huánuco/Puerto Inca/Codo Del Pozuzo - Huánuco/Puerto Inca/Codo Del Pozuzo",
+      "detalle": "Plaza principal de Codo del Pozuzo - Desvío al ACR Codo el Pozuzo",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "6 km / 15 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Huánuco/Puerto Inca/Codo Del Pozuzo - Huánuco/Puerto Inca/Codo Del Pozuzo",
+      "detalle": "Desviio al ACR Codo del Pozuzo- Tranca de de ingreso",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mototaxi",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "5 km / 25 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Huánuco/Puerto Inca/Codo Del Pozuzo - Huánuco/Puerto Inca/Codo Del Pozuzo",
+      "detalle": "Tranca de ingreso - Refugio del ACR",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Camino de Herradura",
+      "distancia_tiempo": "6 km / 2 horas"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Huánuco/Puerto Inca/Codo Del Pozuzo - Huánuco/Puerto Inca/Codo Del Pozuzo",
+      "detalle": "Refugio del ACR - Lek del Sendero Gallito de las Rocas",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Sendero",
+      "distancia_tiempo": "900 metros / 20 minutos"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "17",
+      "horario": "Cuaderno de registro de visitantes",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "28",
+      "horario": "Cuaderno de registro de visitantes",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "98",
+      "horario": "Cuaderno de registro de visitantes",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "06:00 a.m. - 04:00 p.m. Prever sus precauciones en temporada de lluvia (entre los meses de noviembre a marzo)",
+      "observaciones": "Prever sus precauciones en temporada de lluvia (entre los meses de noviembre a marzo)"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Semi-restringido(previo permiso)",
+      "observaciones": "Realizar coordinaciones con el Jefe del ACR (Ing. Nelson Witting. Cel. Nº 989699143)"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Localidad de Codo del Pozuzo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Localidad de Codo del Pozuzo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Localidad de Codo del Pozuzo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Localidad de Codo del Pozuzo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Localidad de Codo del Pozuzo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Localidad de Codo del Pozuzo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Localidad de Codo del Pozuzo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Localidad de Codo del Pozuzo"
+    }
+  ],
+  "descripcion": "El Lek Sendero del gallito de las Rocas, se localiza en la región natural selva baja o también llamado Omagua, cuya dimensión es de novecientos metros lineales que abarca alrededor de 3000 metros cuadrados en el bosque del Área de Conservación Regional Codo del Pozuzo al margen derecho de la quebrada del sector tingo, con un clima lluvioso, cálido y muy húmedo. El principal sitio de interés turístico es el lek del Gallito cuyo hábitat natural es propicio para la reproducción del Ave Nacional del Perú, en este lek se reúnen una congregación de machos para cantar, danzar y hacer una serie de piruetas en forma competitiva para así atraer a las hembras y lograr el apareamiento. Este escenario se convierte en un lugar de espectáculo mágico que inicia con los primeros destellos del amanecer alrededor de las 4:30 am, luego el silencio se rompe por una explosión de color y sonido por el tiempo aproximado de 2 horas, los apreciamos y escuchamos entre las ramas de los árboles. Asi mismo observamos el mismo ritual a partir de las 4:00 pm el que puede extenderse hasta las 6 de la tarde a más. La vocación turística en este sendero sin duda es el atractivo turístico faunístico, Gallito de las Rocas, (rupícola peruviana) especie muy representativa del ACR, con un plumaje anaranjado intenso que resalta en muchos bosques de nuestra selva. Alrededor también se observan colibríes, mariposas Buho y Elena y pequeñas ranitas de colores muy intensos, también se aprecias huellas de añuje y sachavaca. El centro poblado más cercano es la localidad de Codo del Pozuzo.",
+  "particularidades": "",
+  "estado_actual": "Bueno, Por que no evidencia contaminación, la administración vela por su protección.",
+  "observaciones": "El área Lek Sendero Gallito de las Rocas se encuentra inmerso al Área de Conservación Regional Codo del Pozuzo el mismo que es reconocido como tal por Decreto Supremo Nº 014-2021-MINAM",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "El Lek Sendero del gallito de las Rocas, se localiza en la región natural selva baja o también llamado Omagua, cuya dimensión es de novecientos metros lineales que abarca alrededor de 3000 metros cuadrados en el bosque del Área de Conservación Regional Codo del Pozuzo al margen derecho de la quebrada del sector tingo, con un clima lluvioso, cálido y muy húmedo. El principal sitio de interés turístico es el lek del Gallito cuyo hábitat natural es propicio para la reproducción del Ave Nacional del Perú, en este lek se reúnen una congregación de machos para cantar, danzar y hacer una serie de piruetas en forma competitiva para así atraer a las hembras y lograr el apareamiento. Este escenario se convierte en un lugar de espectáculo mágico que inicia con los primeros destellos del amanecer alrededor de las 4:30 am, luego el silencio se rompe por una explosión de color y sonido por el tiempo aproximado de 2 horas, los apreciamos y escuchamos entre las ramas de los árboles. Asi mismo observamos el mismo ritual a partir de las 4:00 pm el que puede extenderse hasta las 6 de la tarde a más. La vocación turística en este sendero sin duda es el atractivo turístico faunístico, Gallito de las Rocas, (rupícola peruviana) especie muy representativa del ACR, con un plumaje anaranjado intenso que resalta en muchos bosques de nuestra selva. Alrededor también se observan colibríes, mariposas Buho y Elena y pequeñas ranitas de colores muy intensos, también se aprecias huellas de añuje y sachavaca. El centro poblado más cercano es la localidad de Codo del Pozuzo."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, Por que no evidencia contaminación, la administración vela por su protección."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "El área Lek Sendero Gallito de las Rocas se encuentra inmerso al Área de Conservación Regional Codo del Pozuzo el mismo que es reconocido como tal por Decreto Supremo Nº 014-2021-MINAM"
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n17\nCuaderno de registro de visitantes\n2024\nTuristas Nacionales\n28\nCuaderno de registro de visitantes\n2024\nVisitantes Locales(Excursionistas)\n98\nCuaderno de registro de visitantes\n2024"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nHuánuco/Puerto Inca/Puerto Inca\n-\nHuánuco/Puerto Inca/Puerto Inca\nPlaza principal de Puerto Inca - Cruce de desvío al Codo del Pozuzo\nTerrestre\nAutomóvil particular\nAsfaltado\n29 km / 40 minutos\n1\nHuánuco/Puerto Inca/Puerto Inca\n-\nHuánuco/Puerto Inca/Codo Del Pozuzo\nCruce de desvío al Codo de Pozuzo - Plaza principal de Codo del Pozuzo\nTerrestre\nAutomóvil particular\nAfirmado\n66 km / 1 hora con 45 minutos\n1\nHuánuco/Puerto Inca/Codo Del Pozuzo\n-\nHuánuco/Puerto Inca/Codo Del Pozuzo\nPlaza principal de Codo del Pozuzo - Desvío al ACR Codo el Pozuzo\nTerrestre\nAutomóvil particular\nAfirmado\n6 km / 15 minutos\n1\nHuánuco/Puerto Inca/Codo Del Pozuzo\n-\nHuánuco/Puerto Inca/Codo Del Pozuzo\nDesviio al ACR Codo del Pozuzo- Tranca de de ingreso\nTerrestre\nMototaxi\nTrocha carrozable\n5 km / 25 minutos\n1\nHuánuco/Puerto Inca/Codo Del Pozuzo\n-\nHuánuco/Puerto Inca/Codo Del Pozuzo\nTranca de ingreso - Refugio del ACR\nTerrestre\nA pie\nCamino de Herradura\n6 km / 2 horas\n1\nHuánuco/Puerto Inca/Codo Del Pozuzo\n-\nHuánuco/Puerto Inca/Codo Del Pozuzo\nRefugio del ACR - Lek del Sendero Gallito de las Rocas\nTerrestre\nA pie\nSendero\n900 metros / 20 minutos"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nSemi-restringido(previo permiso)\nRealizar coordinaciones con el Jefe del ACR (Ing. Nelson Witting. Cel. Nº 989699143)"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n06:00 a.m.\n-\n04:00 p.m.\nPrever sus precauciones en temporada de lluvia (entre los meses de noviembre a marzo)"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nNaturaleza\nObservación de fauna\nTapir, añuje, picuro, achuni.\nNaturaleza\nObservación de flora\nHelechos, palmeras, lupuna\nNaturaleza\nObservación de paisaje\n--\nNaturaleza\nObservación de aves\nGallitos de las Rocas, Kolibries"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nLocalidad de Codo del Pozuzo\nAlimentación\nRestaurantes\nLocalidad de Codo del Pozuzo\nAlimentación\nBares\nLocalidad de Codo del Pozuzo\nAlimentación\nCafeterías\nLocalidad de Codo del Pozuzo\nAlimentación\nFuentes de soda\nLocalidad de Codo del Pozuzo\nAlimentación\nKioskos de comida y bebidas\nLocalidad de Codo del Pozuzo\nAlimentación\nVenta de comida Rápida\nLocalidad de Codo del Pozuzo\nLugares de Recreación\nCentros Deportivos\nLocalidad de Codo del Pozuzo"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nLocalidad de Codo del Pozuzo\nBancos\nLocalidad de Codo del Pozuzo (banco de la Nación)\nCajero automático\nLocalidad de Codo del Pozuzo / Banco de la nación\nEstación de servicios, grifos, gasolineras y gasocentros\nLocalidad de Codo del Pozuzo\nCentro de salud - tópico\nLocalidad de Codo del Pozuzo\nSeguridad / POLTUR / Comisaría\nLocalidad de Codo del Pozuzo\nLibrerías\nLocalidad de Codo del Pozuzo"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nLocalidad de Codo del Pozuzo\nLuz (Suministro Eléctrico)\nLocalidad de Codo del Pozuzo\nTeléfono\nLocalidad de Codo del Pozuzo\nAlcantarillado sanitario\nLocalidad de Codo del Pozuzo\nSeñalización turística\nLocalidad de Codo del Pozuzo"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nGobierno Regional de Huánuco\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nInscripción de Áreas Naturales Protegidas. Área de Conservación Regional Codo del Pozuzo\nNúmero de Partida:\n11206568\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nÁrea de Conservación Regional Codo del Pozuzo\nTiempo de administración\nDesde el año 2021"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo Huánuco / Sub Gerencia de Turismo de la Municipalidad Provincial de Puerto Inca\nNombre (Persona(s) responsable(s) del inventario turístico):\nYesenia Mayorca Quispe / Jorge Galván Francia\nCargo:\nEspecialista en Turismo / Sub Gerente de Turismo\nCorreo:\nyessmayorca@gmail.com / oxaventura@gmail.com\nTeléfono:\n953 949 341 / 994961995\nFuentes Bibliográfica:\nEl sendero del Gallito de las Rocas. Gargate Sánchez, Fiorela. Platforma virtual visit Huánuco. DIRCETUR Huánuco. Julio 2025. https://www.visithuanuco.com/post/el-sendero-del-gallito-de-las-rocasen-el-acr-codo-delpozuzo\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n7/08/2025 12:52:54"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -9.74025361533819,
+    "longitud": -75.51387262749239
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-9.74025361533819,-75.51387262749239"
+}

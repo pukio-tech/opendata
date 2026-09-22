@@ -1,0 +1,332 @@
+{
+  "cod_ficha": 8706,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=8706",
+  "nombre": "Cascadas De Carpishuyacu",
+  "departamento": "San Martín",
+  "provincia": "San Martin",
+  "distrito": "LA BANDA DE SHILCAYO",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "j. Caídas de agua",
+  "subtipo": "Cascadas",
+  "jerarquia": "2",
+  "altitud": "467",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=431710",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=431710",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=431765",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=431766",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=431711",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=585252",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=585254",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=585255",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=586037"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Estudios e Investigación",
+    "Naturaleza - Observación de paisaje"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "San Martín/San Martín/Tarapoto - San Martín/San Martín/La Banda De Shilcayo",
+      "detalle": "Plaza de armas de la ciudad de Tarapoto / Ovalo del periodista de La Banda de Shilcayo",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mini bus turístico",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "3.4 km, 10 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "San Martín/San Martín/La Banda De Shilcayo - San Martín/San Martín/La Banda De Shilcayo",
+      "detalle": "Ovalo del Periodista / Garita de Control de la Cascadas de Carpishuyacu",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mini bus turístico",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "33.1 km, 1 h."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "San Martín/San Martín/La Banda De Shilcayo - San Martín/San Martín/La Banda De Shilcayo",
+      "detalle": "Garita de Control / Cascada de Carpishuyacu",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Sendero",
+      "distancia_tiempo": "0.900 mts, 20 min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "1036",
+      "horario": "Registro de visitas elaborado por la jefatura del Área de Conservación Regional Cordillera Escalera",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "30630",
+      "horario": "Registro de visitas elaborado por la jefatura del Área de Conservación Regional Cordillera Escalera",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "08:30 a.m. - 03:00 p.m. Se recomienda durante los meses de diciembre - mayo, por tratarse de temporada de lluvias.",
+      "observaciones": "Se recomienda durante los meses de diciembre - mayo, por tratarse de temporada de lluvias."
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "Tarifa única: S/ 10.00"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Tarapoto"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Tarapoto"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Peñas",
+      "observacion": "Ciudad de Tarapoto"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Cines o Teatros",
+      "observacion": "Ciudad de Tarapoto"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Ciudad de Tarapoto"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Ciudad de Tarapoto"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Ciudad de Tarapoto"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "Ciudad de Tarapoto"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Tarapoto"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "Ciudad de Tarapoto"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Tarapoto"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de Tarapoto"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Inglés y Francés, Ciudad de Tarapoto"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de camionetas 4 x 4",
+      "observacion": "Ciudad de Tarapoto"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "4 tenedores, ciudad de Tarapoto"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Tarapoto"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Tarapoto"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Ciudad de Tarapoto"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Ciudad de Tarapoto"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "Ciudad de Tarapoto"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Ciudad de Tarapoto"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Puesto de auxilio rápido",
+      "observacion": "Ciudad de Tarapoto"
+    }
+  ],
+  "descripcion": "Las Cascadas de Carpishuyacu son un atractivo natural conformado por dos impresionantes caídas de agua, formadas por el río Tiraco. Se encuentran rodeadas de exuberante vegetación selvática y ofrecen un entorno ideal para el descanso y la aventura.\nSe encuentra ubicado dentro del Área de Conservación Regional Cordillera Escalera, en el kilómetro 33.1 de la carretera Tarapoto – Yurimaguas. Se encuentra a una altitud de 467 m.s.n.m.\nLas Cascadas de Carpishuyacu destacan por su entorno verde y frondoso. La primera caída de agua, llamada \"Carpishuyacu\", tiene una altura de 10 metros y un pozo de 30 m² con una profundidad de 5 metros. La segunda, conocida como \"Pishurayacu\", es aún más alta, con 6 metros de caída y un pozo más pequeño de 5 m² y 3 metros de profundidad.\nDelante de la cascada se encuentran pozas de agua cristalina, ideales para un refrescante baño, detrás de la caída de agua, la vegetación selvática se extiende con grandes árboles y lianas, encima de la cascada, se originan los saltos de agua que la alimentan, a la izquierda y a la derecha, la selva se despliega con árboles de gran altura, helechos y orquídeas, alrededor, la flora tropical envuelve el paisaje, creando una sensación de aislamiento en plena naturaleza.\nLas Cascadas de Carpishuyacu ofrecen una experiencia única en plena selva amazónica, combinando aventura y descanso. Sus caídas de agua cristalina, junto con sus pozas naturales, permiten disfrutar de un contacto directo con la naturaleza. La diversidad de flora lo convierte este destino en un punto ideal para los amantes del ecoturismo y la exploración. Es un lugar perfecto para escapar del bullicio de la ciudad y sumergirse en la belleza de la Amazonía peruana.",
+  "particularidades": "",
+  "estado_actual": "Bueno,",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Las Cascadas de Carpishuyacu son un atractivo natural conformado por dos impresionantes caídas de agua, formadas por el río Tiraco. Se encuentran rodeadas de exuberante vegetación selvática y ofrecen un entorno ideal para el descanso y la aventura.\nSe encuentra ubicado dentro del Área de Conservación Regional Cordillera Escalera, en el kilómetro 33.1 de la carretera Tarapoto – Yurimaguas. Se encuentra a una altitud de 467 m.s.n.m.\nLas Cascadas de Carpishuyacu destacan por su entorno verde y frondoso. La primera caída de agua, llamada \"Carpishuyacu\", tiene una altura de 10 metros y un pozo de 30 m² con una profundidad de 5 metros. La segunda, conocida como \"Pishurayacu\", es aún más alta, con 6 metros de caída y un pozo más pequeño de 5 m² y 3 metros de profundidad.\nDelante de la cascada se encuentran pozas de agua cristalina, ideales para un refrescante baño, detrás de la caída de agua, la vegetación selvática se extiende con grandes árboles y lianas, encima de la cascada, se originan los saltos de agua que la alimentan, a la izquierda y a la derecha, la selva se despliega con árboles de gran altura, helechos y orquídeas, alrededor, la flora tropical envuelve el paisaje, creando una sensación de aislamiento en plena naturaleza.\nLas Cascadas de Carpishuyacu ofrecen una experiencia única en plena selva amazónica, combinando aventura y descanso. Sus caídas de agua cristalina, junto con sus pozas naturales, permiten disfrutar de un contacto directo con la naturaleza. La diversidad de flora lo convierte este destino en un punto ideal para los amantes del ecoturismo y la exploración. Es un lugar perfecto para escapar del bullicio de la ciudad y sumergirse en la belleza de la Amazonía peruana."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "Reconocimiento, mediante Resolución de Alcaldía N° 016-2021-MDBSH,13 de enero 2021, como \"Atractivo Turístico del Distrito de La Banda de Shilcayo\""
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno,"
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n1036\nRegistro de visitas elaborado por la jefatura del Área de Conservación Regional Cordillera Escalera\n2024\nOficio N° 008/2025/GRSM/ARASM/ACR-CE, recibido por la DIRCETUR Bajo Mayo\nTuristas Nacionales\n30630\nRegistro de visitas elaborado por la jefatura del Área de Conservación Regional Cordillera Escalera\n2024\nOficio N° 008-2025-GRSM/ARASM/ACR-CE, recibido por la DIRCETUR Bajo Mayo"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nSan Martín/San Martín/Tarapoto\n-\nSan Martín/San Martín/La Banda De Shilcayo\nPlaza de armas de la ciudad de Tarapoto / Ovalo del periodista de La Banda de Shilcayo\nTerrestre\nMini bus turístico\nAsfaltado\n3.4 km, 10 min\n1\nSan Martín/San Martín/La Banda De Shilcayo\n-\nSan Martín/San Martín/La Banda De Shilcayo\nOvalo del Periodista / Garita de Control de la Cascadas de Carpishuyacu\nTerrestre\nMini bus turístico\nAfirmado\n33.1 km, 1 h.\n1\nSan Martín/San Martín/La Banda De Shilcayo\n-\nSan Martín/San Martín/La Banda De Shilcayo\nGarita de Control / Cascada de Carpishuyacu\nTerrestre\nA pie\nSendero\n0.900 mts, 20 min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nTarifa única: S/ 10.00"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n08:30 a.m.\n-\n03:00 p.m.\nSe recomienda durante los meses de diciembre - mayo, por tratarse de temporada de lluvias."
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nEstudios e Investigación\n--\nNaturaleza\nObservación de paisaje\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlimentación\nKioskos de comida y bebidas\nCiudad de Tarapoto\nLugares de Recreación\nDiscotecas\nCiudad de Tarapoto\nLugares de Recreación\nPeñas\nCiudad de Tarapoto\nLugares de Recreación\nCines o Teatros\nCiudad de Tarapoto\nLugares de Recreación\nJuegos Infantiles\nCiudad de Tarapoto\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nCiudad de Tarapoto\nLugares de Recreación\nCentros Deportivos\nCiudad de Tarapoto\nLugares de Recreación\nKaraoke\nCiudad de Tarapoto\nLugares de Recreación\nBares\nCiudad de Tarapoto\nServicios Públicos\nMiradores turísticos\nCiudad de Tarapoto\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Tarapoto\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de Tarapoto\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nInglés y Francés, Ciudad de Tarapoto\nOtros Servicios Turísticos\nAlquiler de camionetas 4 x 4\nCiudad de Tarapoto\nAlimentación\nRestaurantes\n4 tenedores, ciudad de Tarapoto\nAlimentación\nBares\nCiudad de Tarapoto\nAlimentación\nCafeterías\nCiudad de Tarapoto\nAlimentación\nVenta de comida Rápida\nCiudad de Tarapoto\nServicios Públicos\nEstacionamiento de vehículos\nCiudad de Tarapoto\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\nCiudad de Tarapoto\nServicios Públicos\nOficina de Información turística\nCiudad de Tarapoto\nServicios Públicos\nPuesto de auxilio rápido\nCiudad de Tarapoto"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Tarapoto\nBancos\nCiudad de Tarapoto\nCajero automático\nCiudad de Tarapoto\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Tarapoto\nServicio de correos\nCiudad de Tarapoto\nServicio de estacionamiento\nCiudad de Tarapoto\nVenta de materiales para fotografías\nCiudad de Tarapoto\nSeguridad / POLTUR / Comisaría\nCiudad de Tarapoto\nLibrerías\nCiudad de Tarapoto\nBodegas o minimarkets\nCiudad de Tarapoto\nCasa de cambio\nCiudad de Tarapoto\nAlquiler y compra de equipos deportivos\nCiudad de Tarapoto"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nOtros (Especificar)\nEscaleras, pasamanos, descansaderos y vestidores\nSeñalización turística\nEn el trayecto del recorrido"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Tarapoto\nLuz (Suministro Eléctrico)\nCiudad de Tarapoto\nTeléfono\nCiudad de Tarapoto"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nGobierno Regional San Martín\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nÁrea de Conservación Regional Cordillera Escalera - ACR-CE\nNúmero de Partida:\n11068695\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nAutoridad Regional Ambiental San Martín- ARA-SM\nTiempo de administración\nDesde el año 2012"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo San Martín\nNombre (Persona(s) responsable(s) del inventario turístico):\nCharles Cubas Ojanama\nCargo:\nAnalista en Turismo\nCorreo:\nccojanama@gmail.com\nTeléfono:\n997049127\nFuentes Bibliográfica:\n1. Cascadas de Carpishuyacu, Publicación página oficial Visita San Martín, Gobierno Regional San Martín, año 2024.\nhttps://www.visitasanmartin.pe/destino/tarapoto/atractivos/cascadas-de-carpishuyacu\n2. Cascadas de Carpishuyacu, Publicación página oficial PROMPERÚ ¿Y tú qué planes?, año 2024.\nhttps://www.ytuqueplanes.com/destinos/san-martin/tarapoto/cascada-de-carpishuyacu\n3. Plan de Sitio Turístico del Área de Conservación Regional Cordillera Escalera ACR-CE 2020-2025, ECOLUX CONSULTORES, diciembre 2019.\n4. Plan Maestro 2018 -2023 del Área de Conservación Regional Cordillera Escalera ACR-CE, Gobierno Regional San Martín, junio 2018.\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n7/04/2025 21:58:06"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -6.440113291799654,
+    "longitud": -76.27125105402791
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-6.440113291799654,-76.27125105402791"
+}

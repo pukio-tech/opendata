@@ -1,0 +1,257 @@
+{
+  "cod_ficha": 400,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=400",
+  "nombre": "Parroquia Santísima Trinidad",
+  "departamento": "Piura",
+  "provincia": "Sullana",
+  "distrito": "SULLANA",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Arquitectura y Espacios Urbanos",
+  "subtipo": "Iglesias",
+  "jerarquia": "POR JERARQUIZAR",
+  "altitud": "61",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=754649",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=754649",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=755580",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=755581",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=755582",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=754652",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=755584"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Cultura y Folclore - Actividades Religiosas o Patronales"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Actividades Religiosas o Patronales",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/act_religiosas02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Piura/Piura/Piura - Piura/Sullana/Sullana",
+      "detalle": "Plaza de Armas Piura - Plaza de Armas Sullana",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "42 km / 40 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Piura/Sullana/Sullana - Piura/Sullana/Sullana",
+      "detalle": "Plaza de Armas Sullana - Ingreso al recurso",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "10 m / 1 min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "881",
+      "horario": "Cuaderno de registro de visitantes.",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "3112",
+      "horario": "Cuaderno de registro de visitantes.",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "73",
+      "horario": "Cuaderno de registro de visitantes.",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "06:00 a.m. - 09:00 p.m. De lunes a domingos.",
+      "observaciones": "De lunes a domingos."
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "Localidad de Sullana 3 estrellas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "Localidad de Sullana 2 estrellas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Localidad de Sullana"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Localidad de Sullana"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Localidad de Sullana"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Localidad de Sullana"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Localidad de Sullana"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Localidad de Sullana"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Peñas",
+      "observacion": "Localidad de Sullana"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Localidad de Sullana"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Localidad de Sullana"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Localidad de Sullana"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "Localidad de Sullana"
+    }
+  ],
+  "descripcion": "La Parroquia Santísima Trinidad tambien conocida como \"La Iglesia Matriz\" de Sullana se erige en el centro de la ciudad, frente a la Plaza de Armas, como el principal referente urbano y religioso de la provincia. Su construcción actual se realizó entre 1942 y 1945 bajo la dirección de los Padres Maristas, con diseño del arquitecto Eliseo Bellina. Posteriormente, en 1960 se amplió la nave principal, y desde entonces se han efectuado remodelaciones periódicas que han permitido mantener el templo en buen estado de conservación. La historia del lugar se remonta a templos anteriores, algunos destruidos por incendios, lo que refuerza su carácter resiliente y simbólico para la comunidad.\nEl estilo arquitectónico de la iglesia se reconoce como ecléctico con predominio neoclásico, enriquecido con detalles góticos en la ornamentación y proporciones. Esta combinación le otorga un carácter singular en la provincia de Sullana, diferenciándola de otros templos de Piura que responden a estilos neoclásicos puros o coloniales. La torre principal, de 42 metros de altura, constituye un símbolo urbano visible desde distintos puntos de la ciudad, consolidando su presencia en el paisaje urbano.\nLos elementos arquitectónicos y ornamentales refuerzan su valor patrimonial. El templo cuenta con ventanales amplios y vitrales que aportan luminosidad y verticalidad, características propias de la influencia gótica. En el interior se conservan retablos, murales y esculturas religiosas, entre las que destaca la imagen del Señor de la Agonía, de gran devoción popular. La disposición simétrica de los calados y la ornamentación interior generan un ambiente solemne y armónico, mientras que los materiales empleados —adobe, mármol y técnicas modernas de la época— reflejan la transición entre tradición y modernidad.\nEntre los elementos más notables se encuentran las campanas históricas: dos españolas, llamadas María Carmen y Trinidad, y una italiana de 1909, actualmente ubicada junto al altar. Estas piezas, junto con las esculturas y ornamentos litúrgicos, refuerzan la identidad religiosa del templo. Las remodelaciones recientes han incluido la renovación de vitrales, iluminación y ornamentos, lo que ha permitido conservar la esencia arquitectónica y estética del edificio.\nEn conclusión, la Iglesia Matriz de Sullana no solo es un espacio de culto, sino también un símbolo urbano y cultural. Su estilo ecléctico con predominio neoclásico y detalles góticos, sus ventanales y vitrales, su torre monumental y sus elementos ornamentales la convierten en un caso único dentro del patrimonio arquitectónico religioso de Piura. Es reconocida como el único templo de estas características en la provincia, y su ubicación estratégica en el corazón de la ciudad la convierte en un atractivo arquitectónico, histórico y turístico de gran relevancia.",
+  "particularidades": "Es el único templo de estilo ecléptico de la provincia de Sullana.\n(Plan de Prevención y Reducción del riesgo de desastres ante peligros de origen natural de la Provincia de Sullana 2025 -2030) https://sigrid.cenepred.gob.pe/sigridv3/storage/biblioteca//21359_plan-de-prevencion-y-reduccion-del-riesgo-de-desastres-ante-peligros-de-origen-natural-de-la-provincia-de-sullana-2025-2030.pdf (Pág. 35)",
+  "estado_actual": "Bueno, porque tiene intervenciones periódicas y está bajo el cuidado de la comunidad parroquial.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "La Parroquia Santísima Trinidad tambien conocida como \"La Iglesia Matriz\" de Sullana se erige en el centro de la ciudad, frente a la Plaza de Armas, como el principal referente urbano y religioso de la provincia. Su construcción actual se realizó entre 1942 y 1945 bajo la dirección de los Padres Maristas, con diseño del arquitecto Eliseo Bellina. Posteriormente, en 1960 se amplió la nave principal, y desde entonces se han efectuado remodelaciones periódicas que han permitido mantener el templo en buen estado de conservación. La historia del lugar se remonta a templos anteriores, algunos destruidos por incendios, lo que refuerza su carácter resiliente y simbólico para la comunidad.\nEl estilo arquitectónico de la iglesia se reconoce como ecléctico con predominio neoclásico, enriquecido con detalles góticos en la ornamentación y proporciones. Esta combinación le otorga un carácter singular en la provincia de Sullana, diferenciándola de otros templos de Piura que responden a estilos neoclásicos puros o coloniales. La torre principal, de 42 metros de altura, constituye un símbolo urbano visible desde distintos puntos de la ciudad, consolidando su presencia en el paisaje urbano.\nLos elementos arquitectónicos y ornamentales refuerzan su valor patrimonial. El templo cuenta con ventanales amplios y vitrales que aportan luminosidad y verticalidad, características propias de la influencia gótica. En el interior se conservan retablos, murales y esculturas religiosas, entre las que destaca la imagen del Señor de la Agonía, de gran devoción popular. La disposición simétrica de los calados y la ornamentación interior generan un ambiente solemne y armónico, mientras que los materiales empleados —adobe, mármol y técnicas modernas de la época— reflejan la transición entre tradición y modernidad.\nEntre los elementos más notables se encuentran las campanas históricas: dos españolas, llamadas María Carmen y Trinidad, y una italiana de 1909, actualmente ubicada junto al altar. Estas piezas, junto con las esculturas y ornamentos litúrgicos, refuerzan la identidad religiosa del templo. Las remodelaciones recientes han incluido la renovación de vitrales, iluminación y ornamentos, lo que ha permitido conservar la esencia arquitectónica y estética del edificio.\nEn conclusión, la Iglesia Matriz de Sullana no solo es un espacio de culto, sino también un símbolo urbano y cultural. Su estilo ecléctico con predominio neoclásico y detalles góticos, sus ventanales y vitrales, su torre monumental y sus elementos ornamentales la convierten en un caso único dentro del patrimonio arquitectónico religioso de Piura. Es reconocida como el único templo de estas características en la provincia, y su ubicación estratégica en el corazón de la ciudad la convierte en un atractivo arquitectónico, histórico y turístico de gran relevancia."
+    },
+    {
+      "titulo": "Particularidades",
+      "contenido": "Es el único templo de estilo ecléptico de la provincia de Sullana.\n(Plan de Prevención y Reducción del riesgo de desastres ante peligros de origen natural de la Provincia de Sullana 2025 -2030) https://sigrid.cenepred.gob.pe/sigridv3/storage/biblioteca//21359_plan-de-prevencion-y-reduccion-del-riesgo-de-desastres-ante-peligros-de-origen-natural-de-la-provincia-de-sullana-2025-2030.pdf (Pág. 35)"
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, porque tiene intervenciones periódicas y está bajo el cuidado de la comunidad parroquial."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Nacionales\n881\nCuaderno de registro de visitantes.\n2025\nCuaderno de registro de visitantes 2025.\nVisitantes Locales(Excursionistas)\n3112\nCuaderno de registro de visitantes.\n2025\nCuaderno de registro de visitantes 2025.\nTuristas Extranjeros\n73\nCuaderno de registro de visitantes.\n2025\nCuaderno de registro de visitantes 2025."
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nPiura/Piura/Piura\n-\nPiura/Sullana/Sullana\nPlaza de Armas Piura - Plaza de Armas Sullana\nTerrestre\nBus público\nAsfaltado\n42 km / 40 min\n1\nPiura/Sullana/Sullana\n-\nPiura/Sullana/Sullana\nPlaza de Armas Sullana - Ingreso al recurso\nTerrestre\nA pie\nAsfaltado\n10 m / 1 min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n06:00 a.m.\n-\n09:00 p.m.\nDe lunes a domingos."
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nCultura y Folclore\nActividades Religiosas o Patronales\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\nLocalidad de Sullana\n3 estrellas\nAlojamiento\nHostales (especificar categorías)\nLocalidad de Sullana\n2 estrellas\nAlimentación\nRestaurantes\nLocalidad de Sullana\nAlimentación\nBares\nLocalidad de Sullana\nAlimentación\nCafeterías\nLocalidad de Sullana\nAlimentación\nKioskos de comida y bebidas\nLocalidad de Sullana\nAlimentación\nVenta de comida Rápida\nLocalidad de Sullana\nLugares de Recreación\nDiscotecas\nLocalidad de Sullana\nLugares de Recreación\nPeñas\nLocalidad de Sullana\nLugares de Recreación\nJuegos Infantiles\nLocalidad de Sullana\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nLocalidad de Sullana\nOtros Servicios Turísticos\nAgencia de Viajes\nLocalidad de Sullana\nServicios Públicos\nSeñales turísticas de orientación\nLocalidad de Sullana"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nLocalidad de Sullana\nBancos\nLocalidad de Sullana\nCajero automático\nLocalidad de Sullana\nCasa de cambio\nLocalidad de Sullana\nEstación de servicios, grifos, gasolineras y gasocentros\nLocalidad de Sullana\nCentro de salud - tópico\nLocalidad de Sullana\nSeguridad / POLTUR / Comisaría\nLocalidad de Sullana\nBodegas o minimarkets\nLocalidad de Sullana"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nLuz (Suministro Eléctrico)\n--\nAgua potable\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nLocalidad de Sullana\nAlcantarillado sanitario\nLocalidad de Sullana\nDesagüe\nLocalidad de Sullana\nLuz (Suministro Eléctrico)\nLocalidad de Sullana\nTeléfono\nLocalidad de Sullana\nSeñalización turística\nLocalidad de Sullana"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\n--\nPrivado:\nArquidiócesis de Piura\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nSe está trabajando en el Saneamiento Físico Legal.\nAdministrador por\nNombre\nArquidiócesis de Piura\nTiempo de administración\nDesde el n8 de diciembre de 1945."
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo - Piura.\nNombre (Persona(s) responsable(s) del inventario turístico):\nJulia Hermelinda Menacho Alvarado\nCargo:\nDirectora de Turismo\nCorreo:\ndir.turismo.dircetur@regionpiura.gob.pe\nTeléfono:\n073-340133\nFuentes Bibliográfica:\n1. Arzobispado Metropolitano de Piura. (s. f.). Sullana celebró la fiesta de la Santísima Trinidad. https://arzobispadodepiura.org/noticias/sullana-celebro-la-fiesta-de-la-santisima-trinidad-y-243-anos-de-evangelizacion/\n2. El Regional Piura. (2021). Torre de la Iglesia Matriz es declarada símbolo de Sullana. https://elregionalpiura.com.pe/index.php/locales/146-sullana/48296-torre-de-la-iglesia-matriz-es-declarada-simbolo-de-sullana\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n16/07/2026 15:11:39"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -4.890270015477113,
+    "longitud": -80.68795703351498
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-4.890270015477113,-80.68795703351498"
+}

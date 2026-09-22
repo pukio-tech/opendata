@@ -1,0 +1,441 @@
+{
+  "cod_ficha": 8336,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=8336",
+  "nombre": "Bodega Pampas De Ica",
+  "departamento": "Ica",
+  "provincia": "Ica",
+  "distrito": "LOS AQUIJES",
+  "categoria": "4. REALIZACIONES TÉCNICAS, CIENTÍFICAS Y ARTÍSTICAS CONTEMPORÁNEAS",
+  "tipo": "Explotaciones Industriales",
+  "subtipo": "Bodegas de pisco, vinos y/u otros licores",
+  "jerarquia": "1",
+  "altitud": "414",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=574774",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=574774",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=574810",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=574775",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=574776",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=575731",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=575732",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=575733",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=575734",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=575693",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=575694",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=575695"
+  ],
+  "actividades_permitidas": [
+    "Otros - Compras de artesanía/souvenir",
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Realización de eventos",
+    "Cultura y Folclore - Degustación y preparación de platos, productos o bebidas típicas",
+    "Cultura y Folclore - Participación y/u observación del proceso de elaboración de productos locales"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Compras de artesanía/souvenir",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/artesania02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Realización de eventos",
+      "observacion": "Pisa de la Uva - Ruta de los Lagares.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/eventos02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Degustación y preparación de platos, productos o bebidas típicas",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/platos_tipicos02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Participación y/u observación del proceso de elaboración de productos locales",
+      "observacion": "--",
+      "icono_url": null
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Ica/Ica/Ica - Ica/Ica/Los Aquijes",
+      "detalle": "Plaza de Armas de Ica - Entrada al Distrito los Aquijes",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "5.4 Km. / 15 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Ica/Ica/Los Aquijes - Ica/Ica/Los Aquijes",
+      "detalle": "Entrada al Distrito los Aquijes - Plaza de Armas de Los Aquijes",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "3 Km. / 5 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Ica/Ica/Los Aquijes - Ica/Ica/Los Aquijes",
+      "detalle": "Plaza de Armas Los Aquijes – Bodega La Pampas",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "2.6 Km / 6 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Ica/Ica/Ica - Ica/Ica/Los Aquijes",
+      "detalle": "Plaza de Armas de Ica – Entrada al Distrito los Aquijes",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus turístico",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "5.4 km /20 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Ica/Ica/Los Aquijes - Ica/Ica/Los Aquijes",
+      "detalle": "Plaza de Armas de Ica – Entrada al Distrito los Aquijes",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus turístico",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "3 Km / 7 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Ica/Ica/Los Aquijes - Ica/Ica/Los Aquijes",
+      "detalle": "Plaza de Armas de Ica – Entrada al Distrito los Aquijes",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus turístico",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "2.6 Km / 7 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Ica/Ica/Ica - Ica/Ica/Los Aquijes",
+      "detalle": "Plaza de Armas de Ica – Entrada al Distrito los Aquijes.",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Camioneta doble tracción",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "5.4 Km/ 15 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Ica/Ica/Los Aquijes - Ica/Ica/Los Aquijes",
+      "detalle": "Entrada al Distrito los Aquijes - Plaza de Armas de Los Aquijes.",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Camioneta doble tracción",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "3 Km / 5 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Ica/Ica/Los Aquijes - Ica/Ica/Los Aquijes",
+      "detalle": "Plaza de Armas de Ica – Entrada al Distrito los Aquijes.",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Camioneta doble tracción",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "2.6 Km / 7 min."
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "39",
+      "horario": "OFICIO Nº 0021-2024",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "339",
+      "horario": "OFICIO Nº 0021-2024",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "421",
+      "horario": "OFICIO Nº 0021-2024",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "10:00 a.m. - 05:00 p.m. Lunes a Sábado.",
+      "observaciones": "Lunes a Sábado."
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Semi-restringido(previo permiso)",
+      "observaciones": "Previa Reserva al celular Nro° 999102293"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "1 a 5 estrellas - Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "1 a 3 estrellas - Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Peñas",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Cines o Teatros",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de bicicleta",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de camionetas 4 x 4",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Inglés - Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Food Truck -Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Puesto de auxilio rápido",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Museo de Sitio Turísticos",
+      "observacion": "Museo Regional de Ica Adolfo Bermúdez Jenkings - Ciudad de Ica."
+    }
+  ],
+  "descripcion": "La bodega Pampas de Ica se encuentra ubicada en el distrito de Los Aquijes, CP El Rosario, es una empresa familiar que nace con el nombre de agrícola San Francisco y luego en el 2012 cambia al nombre de Vitivinícola La Pampa Sac.; empresa liderada por la familia Carpio Amoroto y está dirigida por el Señor Ismael Carpio Solís\nCuenta con un área de compras de souvenirs, área de fermentación, área de destilación y un lagar artesanal para la pisa de uva. Además, cuenta con un viñedo que se ubica en el distrito de Santiago, en el sector Pampas de los castillos, a 40 minutos de la ciudad de Ica. Los productos elaborados por la bodega son: pisco quebranta, pisco torontel, vino malbec, rose, borgoña y su innovación, el Brandy.\nLa bodega ofrece a sus visitantes un recorrido por sus instalaciones donde se puede observar el proceso de elaboración de sus diversos productos, esto dependiendo de la época, en esta visita por el interior de la bodega se puede observar el alambique de cobre que realiza el proceso de destilado, también se puede visitar la zona de guarda de piscos y vinos. Se recomienda visitarla en los meses de marzo y abril para observar la producción. El resto del año se puede apreciar la infraestructura y las técnicas de añejamiento.\nEs reconocida por sus buenas prácticas y sus productos de alta calidad. Por ello ha sido ganadora de importantes reconocimientos como 3 medallas de oro en el concurso Nacional del vino peruano 2021 y 2024. Fue ganadora de medallas de oro y plata en el V concurso nacional del vino peruano.\nActualmente, forma parte del producto turístico \"Ruta del Pisco\" de la región Ica, donde el visitante conocerá la historia de la bodega, el proceso de elaboración de sus productos y disfrutará de la degustación de las variedades de vinos y piscos que produce.",
+  "particularidades": "",
+  "estado_actual": "Bueno, porque recibe mantenimiento constante por parte de los dueños.",
+  "observaciones": "Cuenta con Certificaciones BPH (Buenas Prácticas de Higiene).\nHACCP – Sistema de Análisis de Peligros y Puntos Críticos de Control.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "La bodega Pampas de Ica se encuentra ubicada en el distrito de Los Aquijes, CP El Rosario, es una empresa familiar que nace con el nombre de agrícola San Francisco y luego en el 2012 cambia al nombre de Vitivinícola La Pampa Sac.; empresa liderada por la familia Carpio Amoroto y está dirigida por el Señor Ismael Carpio Solís\nCuenta con un área de compras de souvenirs, área de fermentación, área de destilación y un lagar artesanal para la pisa de uva. Además, cuenta con un viñedo que se ubica en el distrito de Santiago, en el sector Pampas de los castillos, a 40 minutos de la ciudad de Ica. Los productos elaborados por la bodega son: pisco quebranta, pisco torontel, vino malbec, rose, borgoña y su innovación, el Brandy.\nLa bodega ofrece a sus visitantes un recorrido por sus instalaciones donde se puede observar el proceso de elaboración de sus diversos productos, esto dependiendo de la época, en esta visita por el interior de la bodega se puede observar el alambique de cobre que realiza el proceso de destilado, también se puede visitar la zona de guarda de piscos y vinos. Se recomienda visitarla en los meses de marzo y abril para observar la producción. El resto del año se puede apreciar la infraestructura y las técnicas de añejamiento.\nEs reconocida por sus buenas prácticas y sus productos de alta calidad. Por ello ha sido ganadora de importantes reconocimientos como 3 medallas de oro en el concurso Nacional del vino peruano 2021 y 2024. Fue ganadora de medallas de oro y plata en el V concurso nacional del vino peruano.\nActualmente, forma parte del producto turístico \"Ruta del Pisco\" de la región Ica, donde el visitante conocerá la historia de la bodega, el proceso de elaboración de sus productos y disfrutará de la degustación de las variedades de vinos y piscos que produce."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, porque recibe mantenimiento constante por parte de los dueños."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "Cuenta con Certificaciones BPH (Buenas Prácticas de Higiene).\nHACCP – Sistema de Análisis de Peligros y Puntos Críticos de Control."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n39\nOFICIO Nº 0021-2024\n2024\nTuristas Nacionales\n339\nOFICIO Nº 0021-2024\n2024\nVisitantes Locales(Excursionistas)\n421\nOFICIO Nº 0021-2024\n2024"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nIca/Ica/Ica\n-\nIca/Ica/Los Aquijes\nPlaza de Armas de Ica - Entrada al Distrito los Aquijes\nTerrestre\nAutomóvil particular\nAsfaltado\n5.4 Km. / 15 min.\n1\nIca/Ica/Los Aquijes\n-\nIca/Ica/Los Aquijes\nEntrada al Distrito los Aquijes - Plaza de Armas de Los Aquijes\nTerrestre\nAutomóvil particular\nAsfaltado\n3 Km. / 5 min.\n1\nIca/Ica/Los Aquijes\n-\nIca/Ica/Los Aquijes\nPlaza de Armas Los Aquijes – Bodega La Pampas\nTerrestre\nAutomóvil particular\nAsfaltado\n2.6 Km / 6 min.\n1\nIca/Ica/Ica\n-\nIca/Ica/Los Aquijes\nPlaza de Armas de Ica – Entrada al Distrito los Aquijes\nTerrestre\nBus turístico\nAsfaltado\n5.4 km /20 min.\n1\nIca/Ica/Los Aquijes\n-\nIca/Ica/Los Aquijes\nPlaza de Armas de Ica – Entrada al Distrito los Aquijes\nTerrestre\nBus turístico\nAsfaltado\n3 Km / 7 min.\n1\nIca/Ica/Los Aquijes\n-\nIca/Ica/Los Aquijes\nPlaza de Armas de Ica – Entrada al Distrito los Aquijes\nTerrestre\nBus turístico\nAsfaltado\n2.6 Km / 7 min.\n1\nIca/Ica/Ica\n-\nIca/Ica/Los Aquijes\nPlaza de Armas de Ica – Entrada al Distrito los Aquijes.\nTerrestre\nCamioneta doble tracción\nAsfaltado\n5.4 Km/ 15 min.\n1\nIca/Ica/Los Aquijes\n-\nIca/Ica/Los Aquijes\nEntrada al Distrito los Aquijes - Plaza de Armas de Los Aquijes.\nTerrestre\nCamioneta doble tracción\nAsfaltado\n3 Km / 5 min.\n1\nIca/Ica/Los Aquijes\n-\nIca/Ica/Los Aquijes\nPlaza de Armas de Ica – Entrada al Distrito los Aquijes.\nTerrestre\nCamioneta doble tracción\nAsfaltado\n2.6 Km / 7 min."
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nSemi-restringido(previo permiso)\nPrevia Reserva al celular Nro° 999102293"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n10:00 a.m.\n-\n05:00 p.m.\nLunes a Sábado."
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nCompras de artesanía/souvenir\n--\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nRealización de eventos\nPisa de la Uva - Ruta de los Lagares.\nCultura y Folclore\nDegustación y preparación de platos, productos o bebidas típicas\n--\nCultura y Folclore\nParticipación y/u observación del proceso de elaboración de productos locales\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\n1 a 5 estrellas - Ciudad de Ica.\nAlojamiento\nHostales (especificar categorías)\n1 a 3 estrellas - Ciudad de Ica.\nAlimentación\nRestaurantes\nCiudad de Ica.\nAlimentación\nBares\nCiudad de Ica.\nAlimentación\nCafeterías\nCiudad de Ica.\nAlimentación\nFuentes de soda\nCiudad de Ica.\nAlimentación\nKioskos de comida y bebidas\nCiudad de Ica.\nAlimentación\nVenta de comida Rápida\nCiudad de Ica.\nLugares de Recreación\nDiscotecas\nCiudad de Ica.\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nCiudad de Ica.\nLugares de Recreación\nDiscotecas\nCiudad de Ica.\nLugares de Recreación\nPeñas\nCiudad de Ica.\nLugares de Recreación\nCines o Teatros\nCiudad de Ica.\nLugares de Recreación\nJuegos Infantiles\nCiudad de Ica.\nLugares de Recreación\nCentros Deportivos\nCiudad de Ica.\nLugares de Recreación\nBares\nCiudad de Ica.\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Ica.\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de Ica.\nOtros Servicios Turísticos\nAlquiler de bicicleta\nCiudad de Ica.\nOtros Servicios Turísticos\nAlquiler de camionetas 4 x 4\nCiudad de Ica.\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nInglés - Ciudad de Ica.\nAlimentación\nOtros (Especificar)\nFood Truck -Ciudad de Ica.\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Ica.\nServicios Públicos\nOficina de Información turística\nCiudad de Ica.\nServicios Públicos\nPuesto de auxilio rápido\nCiudad de Ica.\nServicios Públicos\nMuseo de Sitio Turísticos\nMuseo Regional de Ica Adolfo Bermúdez Jenkings - Ciudad de Ica."
+    },
+    {
+      "titulo": "Servicios Complementarios dentro del recurso",
+      "contenido": "Servicio Complementario\nObservación\nServicio de estacionamiento\n--"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Ica.\nBancos\nCiudad de Ica.\nCajero automático\nCiudad de Ica.\nCasa de cambio\nCiudad de Ica.\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Ica.\nServicio de correos\nCiudad de Ica.\nServicio de estacionamiento\nCiudad de Ica.\nCentro de salud - tópico\nCiudad de Ica.\nServicios de taxis\nCiudad de Ica.\nVenta de materiales para fotografías\nCiudad de Ica.\nSeguridad / POLTUR / Comisaría\nCiudad de Ica.\nAlquiler y compra de equipos deportivos\nCiudad de Ica.\nLibrerías\nCiudad de Ica.\nBodegas o minimarkets\nCiudad de Ica.\nOtros(especificar)\nCentro Comercial - Ciudad de Ica."
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\n--\nDesagüe\n--\nLuz (Suministro Eléctrico)\n--\nSeñalización turística\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de los Aquijes.\nAlcantarillado sanitario\nCiudad de los Aquijes.\nLuz (Suministro Eléctrico)\nCiudad de los Aquijes.\nTeléfono\nCiudad de los Aquijes.\nSeñalización turística\nCiudad de los Aquijes."
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\n--\nPrivado:\nVitivinícola La Pampa S.A.C\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nZona Registral XI - Oficina Registral Ica\nNúmero de Partida:\n11031717 Asiento A00001\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nIsmael Francisco Carpio Solis.\nTiempo de administración\nDesde el 2008."
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDIRECCION REGIONAL DE COMERCIO EXTERIOR Y TURISMO - ICA\nNombre (Persona(s) responsable(s) del inventario turístico):\nLic. Leslie Pilar Jorge Guerra\nCargo:\nEspecialista en Turismo\nCorreo:\nservicioturismo@dirceturica.gob.pe\nTeléfono:\n992243714\nFuentes Bibliográfica:\n1. Prepárate para la Ruta de los Lagares! Un viaje por la tradición vitivinícola de Ica, Lima 2024, Agencia Andina, link: https://andina.pe/agencia/noticia-prepárate-para-ruta-los-lagares-un-viaje-por-tradición-vitivinicola-ica-975662.aspx\n2. Bodega Pampas de Ica: La Uva Quebranta es el Nuevo Desafío y deleite para los Catadores de Vino, Baleria Burga, Revista Cocktail, 2021, link: https://cocktail.pe/bodega-pampas-de-ica-la-uva-quebranta-es-el-nuevo-desafio-y-deleite-para-los-catadores-de-vino/\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n15/01/2025 12:19:12"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -14.066428513025036,
+    "longitud": -75.73699951171875
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-14.066428513025036,-75.73699951171875"
+}

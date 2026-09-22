@@ -1,0 +1,399 @@
+{
+  "cod_ficha": 3456,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=3456",
+  "nombre": "Iglesia De Santa María",
+  "departamento": "Lima",
+  "provincia": "Huaura",
+  "distrito": "SANTA MARÍA",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Arquitectura y Espacios Urbanos",
+  "subtipo": "Iglesias",
+  "jerarquia": "1",
+  "altitud": "81",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=464363",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=464363",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=464364",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=464415",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=464365",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=464366",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=464416"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Cultura y Folclore - Actividades Religiosas o Patronales",
+    "Otros - Actividades Culturales",
+    "Otros - Actividades Sociales",
+    "Otros - Realización de eventos"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Actividades Religiosas o Patronales",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/act_religiosas02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Actividades Culturales",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/act_culturales02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Actividades Sociales",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/sociales02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Realización de eventos",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/eventos02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Lima/Lima/Independencia - Lima/Huaura/Huacho",
+      "detalle": "TERMINAL TERRESTRE PLAZA NORTE - ÓVALO DE HUACHO",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "150 Km / 2 horas 49 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Lima/Huaura/Huacho - Lima/Huaura/Santa María",
+      "detalle": "ÓVALO DE HUACHO - IGLESIA DE SANTA MARÍA",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "3.2 Km / 8 minutos"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Lima/Huaral/Huaral - Lima/Huaura/Huacho",
+      "detalle": "TERMINAL TERRESTRE DE HUARAL - ÓVALO DE HUACHO",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "78.20 Km / 1 hora 21 minutos"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Lima/Huaura/Huacho - Lima/Huaura/Santa María",
+      "detalle": "ÓVALO DE HUACHO - IGLESIA DE SANTA MARIA",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "3.2 Km / 8 minutos"
+    },
+    {
+      "recorrido": "3",
+      "tramo": "Lima/Huaral/Chancay - Lima/Huaura/Huacho",
+      "detalle": "ÓVALO DE CHANCAY - ÓVALO DE HUACHO",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "87 Km / 1 hora 38 minutos"
+    },
+    {
+      "recorrido": "3",
+      "tramo": "Lima/Huaura/Huacho - Lima/Huaura/Santa María",
+      "detalle": "ÓVALO DE HUACHO - IGLESIA DE SANTA MARIA",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "3.2 Km / 8 minutos"
+    },
+    {
+      "recorrido": "4",
+      "tramo": "Lima/Barranca/Barranca - Lima/Huaura/Huacho",
+      "detalle": "TERMINAL TERRESTRE DE BARRANCA - ÓVALO DE HUACHO",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "48.5 Km / 54 minutos"
+    },
+    {
+      "recorrido": "4",
+      "tramo": "Lima/Huaura/Huacho - Lima/Huaura/Santa María",
+      "detalle": "ÓVALO DE HUACHO - IGLESIA DE SANTA MARIA",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "3.2 Km / 8 minutos"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "10530",
+      "horario": "INFORME N°113-2022-SGDT/MPHH",
+      "observaciones": "2019"
+    },
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "118",
+      "horario": "INFORME N°113-2022-SGDT/MPHH",
+      "observaciones": "2019"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "10:00 a.m. - 01:00 p.m. Lunes a viernes / Domingo en horario de misa 5:00 pm a 8:00 pm",
+      "observaciones": "Lunes a viernes / Domingo en horario de misa 5:00 pm a 8:00 pm"
+    },
+    {
+      "epoca": "Personas con discapacidad física",
+      "especificacion": "Camino de rampa para subir hasta a iglesia con silla de ruedas.",
+      "horario": "--",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": "HORA DE VISITA: Lunes a viernes de 10:00 am a 01:00 pm / Domingo en horario de misa de 05:00 pm a 08:00 pm"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "2, 3 y 4 estrellas - Ciudad de Huacho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "1,2 y 3 estrellas - Ciudad de Huacho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Luriama"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Luriama"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Ciudad de Luriama"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Luruiama"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Pubs",
+      "observacion": "Ciudad de Luriama"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Cines o Teatros",
+      "observacion": "Ciudad de Luriama"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Luriama"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de Luriama"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Centro de Interpretación",
+      "observacion": "Ciudad de Luriama"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Oficina de Información",
+      "observacion": "Ciudad de Luriama"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Seguridad / POLTUR",
+      "observacion": "Ciudad de Luriama"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicios Higiénicos",
+      "observacion": "Ciudad de Luriama"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Correos",
+      "observacion": "Ciudad de Luriama"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Estacionamiento",
+      "observacion": "Ciudad de Luriama"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Fax",
+      "observacion": "Ciudad de Luriama"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Internet",
+      "observacion": "Ciudad de Luriama"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de taxi",
+      "observacion": "Ciudad de Luriama"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Tópico",
+      "observacion": "Ciudad de Luriama"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de Material Informativo(libro,revistas,postales,videos,etc)",
+      "observacion": "Ciudad de Luriama"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de Material para Fotografía",
+      "observacion": "Ciudad de Luriama"
+    }
+  ],
+  "descripcion": "Esta Iglesia está construida de adobe y madera, como se menciona en el inventario mandado hacer por el Arzobispo de Lima, Javier de Luna Pizarro en 1848. Esta iglesia es de época Republicana de los años 1848. Destaca el altar de madera en estilo gótico realizado por Ignacio Bazalar Díaz, siendo mayorales los señores Luis Santos y Manuel Santos, fue concluido en el año 1919. La iglesia ha sido construida en la cima de un cerro (al que se llega por una escalera) y se encuentra situada en el centro del barrio de Santa María. Presenta dos torres, cada una con un campanario, y una sola entrada principal. Destacan las imágenes del Señor de la Piedad (29 de mayo) y la Virgen Dolorosa (Semana Santa). Se le denomina como capilla del Señor de la Piedad, según el inventario realizado en el 27 de diciembre de 1848, como se detalla a continuación: Inventario de la Capilla del Señor de la Piedad que se venera en el lugar cerro conocido.\nPrimeramente, una capilla de adobes, con sus techos, puertas, mesa de altar de madera de Guayaquil, en valor todo de mil quinientos pesos. Un tabernáculo con sus cortinas bordadas que cubre el Señor de la Crucifixión con el nombre del Señor de la Piedad. Frente a la iglesia se encuentra un parque con bancas, pileta y hacia el lado izquierdo una cruz, con un mirador que permite observar la campiña. Es la única iglesia en pie, de todas las existentes durante el virreinato en los alrededores de Huacho, ya que, a raíz de los terremotos, se destruyeron la de Luriama, Cruz Blanca, Peralvillo, Cercado, Barranco y Catedral. No presenta un estilo arquitectónico definido, ni ornamentos llamativos exteriormente. La fachada presenta una altura de 5.50 metros.\nExisten motivos de atracción turística: La escenificación de la pasión de Cristo que se escenifica para Semana Santa; el arreglo con motivos navideños que se hace cada año por parte de los vecinos y la festividad del Señor de la Piedad.",
+  "particularidades": "Único altar de estilo neo gótico existentes en la provincia. - Miguel Ángel Silva Esquén (2008). DESCRIPCION DE LA DOCTRINA SEGÚN VISITA PASTORAL MANDADA HACER POR ARZOBISPO JAVIER DE LUNA PIZARRO EN 1848",
+  "estado_actual": "Bueno, porque se encuentra administrada por la Muncipalidad Distrital de Santa Maria, y se da mantenimiento.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Esta Iglesia está construida de adobe y madera, como se menciona en el inventario mandado hacer por el Arzobispo de Lima, Javier de Luna Pizarro en 1848. Esta iglesia es de época Republicana de los años 1848. Destaca el altar de madera en estilo gótico realizado por Ignacio Bazalar Díaz, siendo mayorales los señores Luis Santos y Manuel Santos, fue concluido en el año 1919. La iglesia ha sido construida en la cima de un cerro (al que se llega por una escalera) y se encuentra situada en el centro del barrio de Santa María. Presenta dos torres, cada una con un campanario, y una sola entrada principal. Destacan las imágenes del Señor de la Piedad (29 de mayo) y la Virgen Dolorosa (Semana Santa). Se le denomina como capilla del Señor de la Piedad, según el inventario realizado en el 27 de diciembre de 1848, como se detalla a continuación: Inventario de la Capilla del Señor de la Piedad que se venera en el lugar cerro conocido.\nPrimeramente, una capilla de adobes, con sus techos, puertas, mesa de altar de madera de Guayaquil, en valor todo de mil quinientos pesos. Un tabernáculo con sus cortinas bordadas que cubre el Señor de la Crucifixión con el nombre del Señor de la Piedad. Frente a la iglesia se encuentra un parque con bancas, pileta y hacia el lado izquierdo una cruz, con un mirador que permite observar la campiña. Es la única iglesia en pie, de todas las existentes durante el virreinato en los alrededores de Huacho, ya que, a raíz de los terremotos, se destruyeron la de Luriama, Cruz Blanca, Peralvillo, Cercado, Barranco y Catedral. No presenta un estilo arquitectónico definido, ni ornamentos llamativos exteriormente. La fachada presenta una altura de 5.50 metros.\nExisten motivos de atracción turística: La escenificación de la pasión de Cristo que se escenifica para Semana Santa; el arreglo con motivos navideños que se hace cada año por parte de los vecinos y la festividad del Señor de la Piedad."
+    },
+    {
+      "titulo": "Particularidades",
+      "contenido": "Único altar de estilo neo gótico existentes en la provincia. - Miguel Ángel Silva Esquén (2008). DESCRIPCION DE LA DOCTRINA SEGÚN VISITA PASTORAL MANDADA HACER POR ARZOBISPO JAVIER DE LUNA PIZARRO EN 1848"
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, porque se encuentra administrada por la Muncipalidad Distrital de Santa Maria, y se da mantenimiento."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Nacionales\n10530\nINFORME N°113-2022-SGDT/MPHH\n2019\nDocumento admitido por DIRCETUR LIMA\nTuristas Extranjeros\n118\nINFORME N°113-2022-SGDT/MPHH\n2019\nDocumento admitido por DIRCETUR LIMA"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nLima/Lima/Independencia\n-\nLima/Huaura/Huacho\nTERMINAL TERRESTRE PLAZA NORTE - ÓVALO DE HUACHO\nTerrestre\nAutomóvil particular\nAsfaltado\n150 Km / 2 horas 49 minutos\n1\nLima/Huaura/Huacho\n-\nLima/Huaura/Santa María\nÓVALO DE HUACHO - IGLESIA DE SANTA MARÍA\nTerrestre\nAutomóvil particular\nAsfaltado\n3.2 Km / 8 minutos\n2\nLima/Huaral/Huaral\n-\nLima/Huaura/Huacho\nTERMINAL TERRESTRE DE HUARAL - ÓVALO DE HUACHO\nTerrestre\nAutomóvil particular\nAsfaltado\n78.20 Km / 1 hora 21 minutos\n2\nLima/Huaura/Huacho\n-\nLima/Huaura/Santa María\nÓVALO DE HUACHO - IGLESIA DE SANTA MARIA\nTerrestre\nAutomóvil particular\nAsfaltado\n3.2 Km / 8 minutos\n3\nLima/Huaral/Chancay\n-\nLima/Huaura/Huacho\nÓVALO DE CHANCAY - ÓVALO DE HUACHO\nTerrestre\nAutomóvil particular\nAsfaltado\n87 Km / 1 hora 38 minutos\n3\nLima/Huaura/Huacho\n-\nLima/Huaura/Santa María\nÓVALO DE HUACHO - IGLESIA DE SANTA MARIA\nTerrestre\nAutomóvil particular\nAsfaltado\n3.2 Km / 8 minutos\n4\nLima/Barranca/Barranca\n-\nLima/Huaura/Huacho\nTERMINAL TERRESTRE DE BARRANCA - ÓVALO DE HUACHO\nTerrestre\nAutomóvil particular\nAsfaltado\n48.5 Km / 54 minutos\n4\nLima/Huaura/Huacho\n-\nLima/Huaura/Santa María\nÓVALO DE HUACHO - IGLESIA DE SANTA MARIA\nTerrestre\nAutomóvil particular\nAsfaltado\n3.2 Km / 8 minutos"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre\nHORA DE VISITA:\nLunes a viernes de 10:00 am a 01:00 pm / Domingo en horario de misa de 05:00 pm a 08:00 pm"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n10:00 a.m.\n-\n01:00 p.m.\nLunes a viernes / Domingo en horario de misa 5:00 pm a 8:00 pm"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nCultura y Folclore\nActividades Religiosas o Patronales\n--\nOtros\nActividades Culturales\n--\nOtros\nActividades Sociales\n--\nOtros\nRealización de eventos\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\n2, 3 y 4 estrellas - Ciudad de Huacho\nAlojamiento\nHostales (especificar categorías)\n1,2 y 3 estrellas - Ciudad de Huacho\nAlimentación\nRestaurantes\nCiudad de Luriama\nAlimentación\nBares\nCiudad de Luriama\nAlimentación\nVenta de comida Rápida\nCiudad de Luriama\nLugares de Recreación\nDiscotecas\nCiudad de Luruiama\nLugares de Recreación\nPubs\nCiudad de Luriama\nLugares de Recreación\nCines o Teatros\nCiudad de Luriama\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Luriama\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de Luriama\nOtros Servicios Turísticos\nCentro de Interpretación\nCiudad de Luriama\nOtros Servicios Turísticos\nOficina de Información\nCiudad de Luriama\nOtros Servicios Turísticos\nSeguridad / POLTUR\nCiudad de Luriama\nOtros Servicios Turísticos\nServicios Higiénicos\nCiudad de Luriama\nOtros Servicios Turísticos\nServicio de Correos\nCiudad de Luriama\nOtros Servicios Turísticos\nServicio de Estacionamiento\nCiudad de Luriama\nOtros Servicios Turísticos\nServicio de Fax\nCiudad de Luriama\nOtros Servicios Turísticos\nServicio de Internet\nCiudad de Luriama\nOtros Servicios Turísticos\nServicio de taxi\nCiudad de Luriama\nOtros Servicios Turísticos\nTópico\nCiudad de Luriama\nOtros Servicios Turísticos\nVenta de Material Informativo(libro,revistas,postales,videos,etc)\nCiudad de Luriama\nOtros Servicios Turísticos\nVenta de Material para Fotografía\nCiudad de Luriama"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Huacho\nBancos\nCiudad de Huacho\nCajero automático\nCiudad de Huacho\nCasa de cambio\nCiudad de Huacho\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Huacho\nServicio de estacionamiento\nCiudad de Huacho\nCentro de salud - tópico\nCiudad de Huacho\nSeguridad / POLTUR / Comisaría\nCiudad de Huacho\nBodegas o minimarkets\nCiudad de Huacho"
+    },
+    {
+      "titulo": "Condiciones de Accesibilidad al Visitante",
+      "contenido": "Visitante\nInstalación\nActividades y/o programas\nEquipamiento\nObservación\nPersonas con discapacidad física\nCamino de rampa para subir hasta a iglesia con silla de ruedas.\n--\n--\n--"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\n--\nDesagüe\n--\nLuz (Suministro Eléctrico)\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Luriama\nAlcantarillado sanitario\nCiudad de Luriama\nDesagüe\nCiudad de Luriama\nLuz (Suministro Eléctrico)\nCiudad de Luriama\nTeléfono\nCiudad de Luriama\nOtros (Especificar)\nInternet\nSeñalización turística\nCiudad de Luriama"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\n--\nPrivado:\nObispado de Huacho\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nSin Partida Registral\nAdministrador por\nNombre\nPárroco José Mario López Vásquez\nTiempo de administración\nDesde 2018 hasta la actualidad."
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo\nNombre (Persona(s) responsable(s) del inventario turístico):\nJorge Luis Torres Chirito\nCargo:\nAsistente Administrativo\nCorreo:\njchiritoxx@gmail.com\nTeléfono:\n956454928\nFuentes Bibliográfica:\n- ACUERDO DE CONCEJO MUNICIPAL Nª 0110-2016/MDSM, DADO EL 14 DE DICIEMBRE DE 2016 Municipalidad distrital de Santa María. (2016).\n- PLAN DE DESARROLLO CONCERTADO DEL DISTRITO DE SANTA MARÍA. 2011-2021 Municipalidad distrital de Santa María.(2011).\n- Miguel Ángel Silva Esquén. (2008). DESCRIPCION DE LA DOCTRINA SEGÚN VISITA PASTORAL MANDADA HACER POR ARZOBISPO JAVIER DE LUNA PIZARRO EN 1848. EN: DIOCESIS DE HUACHO, UNA IGLESIA JOVEN CON UNA RICA HISTORIA. 50 AÑOS DE SERVICIO PASTORAL. MAYO 2008.\n- Lic. ELLAN'D ALMIR KARLA SAMANAMUD QUISPE. Trabajo in situ por la Subgerencia de Desarrollo del turismo de la Municipalidad Provincial de Huaura.\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n23/11/2022"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -11.086371471381051,
+    "longitud": -77.58666844907378
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-11.086371471381051,-77.58666844907378"
+}

@@ -1,0 +1,250 @@
+{
+  "cod_ficha": 5028,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=5028",
+  "nombre": "Laguna De Arapa",
+  "departamento": "Puno",
+  "provincia": "Azangaro",
+  "distrito": "ARAPA",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "g. Cuerpo de Agua",
+  "subtipo": "Lagunas",
+  "jerarquia": "2",
+  "altitud": "3810",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=297899",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=297899",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=533645",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=533671",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=533672",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=533647",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=537466",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=537418",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=537419"
+  ],
+  "actividades_permitidas": [
+    "Deportes / Aventura - Pesca de altura",
+    "Otros - Toma de fotografías y filmaciones",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de paisaje",
+    "Naturaleza - Observación de aves",
+    "Paseos - Paseos en bote"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Pesca de altura",
+      "observacion": "Servicio dado por la población local",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/pesca_altura02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "Totora, Totorilla, algas, llachu y fitoplancton diverso y homogéneo.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "El paisaje altiplánico, la laguna y la cordillera de los andes.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de aves",
+      "observacion": "Chocas, tiquichos, panas, pariguanas, variedad de patos, Zambullidor del Titicaca, Somormujo Plateado, garza coroninegra.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/aves02.png"
+    },
+    {
+      "actividad": "Paseos",
+      "tipo": "Paseos en bote",
+      "observacion": "Servicio dado por la población local.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paseo_bote02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Puno/Azángaro/Azángaro - Puno/Azángaro/Arapa",
+      "detalle": "Terminal de minibuses de Azángaro - Paradero de la E.T. Sr. de los Milagros de Arapa",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Combi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "32 kms / 45 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Puno/Azángaro/Arapa - Puno/Azángaro/Arapa",
+      "detalle": "Paradero de la E.T. Sr. de los Milagros de Arapa - Lago Arapa",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "900 mts / 15 minutos"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "450",
+      "horario": "Conteo muestra por la Municipalidad Distrital de Arapa",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "360",
+      "horario": "Conteo muestra por la Municipalidad Distrital de Arapa",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "06:00 a.m. - 05:00 p.m. --",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Embarcaderos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "En la localidad de Arapa."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "En la localidad de Arapa."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "En la localidad de Arapa."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "En la localidad de Arapa."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "En la localidad de Arapa."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "En la localidad de Arapa."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "En la localidad de Arapa hacia la laguna."
+    }
+  ],
+  "descripcion": "Hermoso espejo de agua que se encuentra en los márgenes de la localidad de Arapa, laguna de carácter permanente apreciada por propios y extraños, por su esplendoroso y pintoresco panorama formado por la laguna y el extraordinario paisaje andino. Tiene un área de 133.2 km2, a 3.812 m.s.n.m., con una profundidad media y máxima de 23.4 y 66.9 mts. respectivamente, sus playas presentan suave pendiente, cubiertas con arena y pequeñas piedrecillas, de apacible oleaje, sin embargo, gran extensión está cubierta con totora. Cuenta con una pequeña isla también llamada Arapa, propicia para fines turísticos, en ella se pueden apreciar restos arqueológicos de la época pre Inca y Tiahuanaco.\nSe encuentra en la región natural Suni o Jalca, de clima frío y seco, su vegetación natural predominante son los arbustos, con temperatura anual promedio de 9 °C, seco de mayo a octubre, precipitaciones de noviembre a abril, y heladas de junio a agosto. Los valores de temperatura superficial de la laguna fluctúan entre 16.6 y 19.9 °C, disminuye progresivamente hasta los 12.8 °C a los 50 mt de profundidad.\nEn sus aguas hay especies nativas como el carachi amarillo, carachi gris, trucha, pejerrey esporádicamente ispi, boga y mauri, el trabajo comunal favorece la preservación de las especies ícticas del altiplano. En sus orillas se ha instalado una planta procesadora y enlatadora de trucha.\nLas fluctuaciones del nivel del agua son de más de un metro, alcanza el nivel máximo en la época de lluvias de noviembre a marzo, de tal manera que cuando sube el nivel del agua durante la época de lluvias se constituye en una extensión del lago Titicaca.\nLa avifauna está conformada por chocas, tiquichos, panas, pariguanas, variedad de patos, más de 60 especies, incluyendo las especies amenazadas y endémicas como la Macá del Lago Titicaca (Rollandia microptera) más conocida como Zambullidor del Titicaca, especies congregatorias como el Rollandia Rolland el más grande de los zambullidores del lago, el Somormujo Plateado (Podiceps occipitales), la garza coroninegra (Nycticorax nycticorax). Velarde en 1998 realizo conteos de aves acuáticas, destacando la Rollandia microptera y la Rollandia rolland. Así mismo tiene gran riqueza en flora como la totora, algas acuáticas, llachu y fitoplancton diverso y homogéneo.",
+  "particularidades": "",
+  "estado_actual": "Bueno, las autoridades y la población participan en su conservación.",
+  "observaciones": "La laguna de Arapa se encuentra al norte del lago Titicaca, a 10 kms al sur de la ciudad de Azángaro. Formó parte de la hacienda de José Domingo Choquehuanca, Abogado, político e intelectual azangarino. desembocadura del río Ramis, en el distrito de Arapa Provincia de Azangaro. En la laguna de Arapa se produce anualmente un promedio de 500 toneladas de trucha bajo todos los estándares industriales acreditados, mediante la empresa “Truchas Arapa San Pedro y San Pablo S.A.” la producción es exportada a Australia, Bélgica, Suiza, Japón, Aruba, y otros.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Hermoso espejo de agua que se encuentra en los márgenes de la localidad de Arapa, laguna de carácter permanente apreciada por propios y extraños, por su esplendoroso y pintoresco panorama formado por la laguna y el extraordinario paisaje andino. Tiene un área de 133.2 km2, a 3.812 m.s.n.m., con una profundidad media y máxima de 23.4 y 66.9 mts. respectivamente, sus playas presentan suave pendiente, cubiertas con arena y pequeñas piedrecillas, de apacible oleaje, sin embargo, gran extensión está cubierta con totora. Cuenta con una pequeña isla también llamada Arapa, propicia para fines turísticos, en ella se pueden apreciar restos arqueológicos de la época pre Inca y Tiahuanaco.\nSe encuentra en la región natural Suni o Jalca, de clima frío y seco, su vegetación natural predominante son los arbustos, con temperatura anual promedio de 9 °C, seco de mayo a octubre, precipitaciones de noviembre a abril, y heladas de junio a agosto. Los valores de temperatura superficial de la laguna fluctúan entre 16.6 y 19.9 °C, disminuye progresivamente hasta los 12.8 °C a los 50 mt de profundidad.\nEn sus aguas hay especies nativas como el carachi amarillo, carachi gris, trucha, pejerrey esporádicamente ispi, boga y mauri, el trabajo comunal favorece la preservación de las especies ícticas del altiplano. En sus orillas se ha instalado una planta procesadora y enlatadora de trucha.\nLas fluctuaciones del nivel del agua son de más de un metro, alcanza el nivel máximo en la época de lluvias de noviembre a marzo, de tal manera que cuando sube el nivel del agua durante la época de lluvias se constituye en una extensión del lago Titicaca.\nLa avifauna está conformada por chocas, tiquichos, panas, pariguanas, variedad de patos, más de 60 especies, incluyendo las especies amenazadas y endémicas como la Macá del Lago Titicaca (Rollandia microptera) más conocida como Zambullidor del Titicaca, especies congregatorias como el Rollandia Rolland el más grande de los zambullidores del lago, el Somormujo Plateado (Podiceps occipitales), la garza coroninegra (Nycticorax nycticorax). Velarde en 1998 realizo conteos de aves acuáticas, destacando la Rollandia microptera y la Rollandia rolland. Así mismo tiene gran riqueza en flora como la totora, algas acuáticas, llachu y fitoplancton diverso y homogéneo."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "Mediante la Ordenanza Regional N° 017-2015-GRP-CRP, del 10 enero del 2016, el Gobierno Regional de Puno, reconoce como Sitio Prioritario para la Conservación de la Diversidad Biológica."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, las autoridades y la población participan en su conservación."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "La laguna de Arapa se encuentra al norte del lago Titicaca, a 10 kms al sur de la ciudad de Azángaro. Formó parte de la hacienda de José Domingo Choquehuanca, Abogado, político e intelectual azangarino. desembocadura del río Ramis, en el distrito de Arapa Provincia de Azangaro. En la laguna de Arapa se produce anualmente un promedio de 500 toneladas de trucha bajo todos los estándares industriales acreditados, mediante la empresa “Truchas Arapa San Pedro y San Pablo S.A.” la producción es exportada a Australia, Bélgica, Suiza, Japón, Aruba, y otros."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nVisitantes Locales(Excursionistas)\n450\nConteo muestra por la Municipalidad Distrital de Arapa\n2023\nundefined\nTuristas Nacionales\n360\nConteo muestra por la Municipalidad Distrital de Arapa\n2023"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nPuno/Azángaro/Azángaro\n-\nPuno/Azángaro/Arapa\nTerminal de minibuses de Azángaro - Paradero de la E.T. Sr. de los Milagros de Arapa\nTerrestre\nCombi\nAsfaltado\n32 kms / 45 minutos\n1\nPuno/Azángaro/Arapa\n-\nPuno/Azángaro/Arapa\nParadero de la E.T. Sr. de los Milagros de Arapa - Lago Arapa\nTerrestre\nA pie\nTrocha carrozable\n900 mts / 15 minutos"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n06:00 a.m.\n-\n05:00 p.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nDeportes / Aventura\nPesca de altura\nServicio dado por la población local\nOtros\nToma de fotografías y filmaciones\n--\nNaturaleza\nObservación de flora\nTotora, Totorilla, algas, llachu y fitoplancton diverso y homogéneo.\nNaturaleza\nObservación de paisaje\nEl paisaje altiplánico, la laguna y la cordillera de los andes.\nNaturaleza\nObservación de aves\nChocas, tiquichos, panas, pariguanas, variedad de patos, Zambullidor del Titicaca, Somormujo Plateado, garza coroninegra.\nPaseos\nPaseos en bote\nServicio dado por la población local."
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Públicas\nServicios Públicos\nEmbarcaderos\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlimentación\nKioskos de comida y bebidas\nEn la localidad de Arapa.\nOtros Servicios Turísticos\nVenta de artesanía\nEn la localidad de Arapa.\nLugares de Recreación\nJuegos Infantiles\nEn la localidad de Arapa.\nLugares de Recreación\nCentros Deportivos\nEn la localidad de Arapa.\nAlimentación\nRestaurantes\nEn la localidad de Arapa.\nServicios Públicos\nEstacionamiento de vehículos\nEn la localidad de Arapa.\nServicios Públicos\nCaminos peatonales\nEn la localidad de Arapa hacia la laguna."
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nEn la localidad de Arapa.\nEstación de servicios, grifos, gasolineras y gasocentros\nEn la localidad de Arapa.\nServicio de estacionamiento\nEn la localidad de Arapa.\nCentro de salud - tópico\nCentro de Salud en la localidad de Arapa.\nBodegas o minimarkets\nEn la localidad de Arapa.\nServicios de taxis\nEn la localidad de Arapa.\nSeguridad / POLTUR / Comisaría\nComisaria Rural PNP en Arapa."
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nEn la localidad de Arapa.\nDesagüe\nEn la localidad de Arapa.\nLuz (Suministro Eléctrico)\nEn la localidad de Arapa.\nTeléfono\nEn la localidad de Arapa."
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nLas aguas, sin excepción alguna, son Propiedad del Estado; su dominio es inalienable e imprescriptible.\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nLey N° 29338 Ley de Recursos Hídricos, y D.S. N° 001-2010-AG que aprueba su Reglamento.\nAdministrador por\nNombre\nAdministrador Nacional del Agua ANA - Administrador Local del Agua - ALA Huancané.\nTiempo de administración\nDesde el año 2010."
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección de Turismo de la IRCETUR PUNO / Municipalidad Distrital de Arapa\nNombre (Persona(s) responsable(s) del inventario turístico):\nArq. Vadim Masciotti Cabala / Yaneth Huacantara Huanca\nCargo:\nArq. / Responsable de la Unidad de Turismo y Comercio\nCorreo:\nvamasciotti@gmail.com.pe / yekahh29@gamil.com\nTeléfono:\n051 351261 / 991447575\nFuentes Bibliográfica:\nMinisterio de la Producción – Agencia Española de Cooperación Internacional, Línea de Base del Programa de Apoyo a la Pesca Artesanal, La Acuicultura y El Manejo Sostenible del Ambiente – PROPESCA, Lima 2007.\nT. Itusaca A., Monografía del Distrito de Arapa, Puno, 2010.\nComunidad Andina, La Gran Ruta Inca y El Uso Sostenible de la Biodiversidad en los países de la Región Andina, Explorando Experiencias y Potencialidades, Lima, 2007.\nGobierno Regional Puno, Sitios Prioritarios para la Conservación de la Diversificación Biológica, Puno, 2015.\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n27/05/2024 16:55:42"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -15.17420475166356,
+    "longitud": -69.99458312988281
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-15.17420475166356,-69.99458312988281"
+}

@@ -1,0 +1,237 @@
+{
+  "cod_ficha": 9120,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=9120",
+  "nombre": "Centro De Conservacion El Aguajal De Chonta",
+  "departamento": "Madre De Dios",
+  "provincia": "Tambopata",
+  "distrito": "TAMBOPATA",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "ñ. Zonas paisajísticas",
+  "subtipo": "Bosques",
+  "jerarquia": "1",
+  "altitud": "202",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=468410",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=468410",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=468411",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=468252",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=468413"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Estudios e Investigación",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de paisaje",
+    "Naturaleza - Observación de aves"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "Palmeras de Aguaje y Palmeras Shebon",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de aves",
+      "observacion": "Guacamayo azul (Ara arauna) y la garza Agamí (Agamia agamí)",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/aves02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Madre De Dios/Tambopata/Tambopata - Madre De Dios/Tambopata/Tambopata",
+      "detalle": "Plaza de Armas de la ciudad de Puerto Maldonado- Centro de Conservación El Aguajal de Chonta",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "3km /20 min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "10",
+      "horario": "Informe Dircetur Madre de Dios.",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "07:00 a.m. - 04:00 p.m. --",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Semi-restringido(previo permiso)",
+      "observaciones": "Coordinación para realización de visita, con el posesionario Sr. Raymundo Jaen Cel: 962744733"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "1, 2 y 3 estrellas en la Ciudad de Puerto Maldonado."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Puerto Maldonado"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Puerto Maldonado"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Cines o Teatros",
+      "observacion": "Ciudad de Puerto Maldonado"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Peñas",
+      "observacion": "Ciudad de Puerto Maldonado"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "Ciudad de Puerto Maldonado"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Ciudad de Puerto Maldonado"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "Ciudad de Puerto Maldonado"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Albergues",
+      "observacion": "Ciudad de Puerto Maldonado."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Otros(especificar)",
+      "observacion": "Psicinas en la Ciudad de Puerto Maldonado"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "1, 2 y 3 estrellas en la Ciudad de Puerto Maldonado"
+    }
+  ],
+  "descripcion": "Se encuentra ubicado a 20 minutos de la ciudad de Puerto Maldonado, en el km. 3 de la carretera la Joya, con dirección a la Comunidad Nativa de Infierno, a una altura de 202 m.s.n.m. Posee un clima cálido y húmedo que alcanza los 38 °C. característico de la región geográfica de Selva baja u Omagua. Tiene una extensión de 2.2 hectáreas de palmeras de aguaje (Mauritia Flexuosa) con una altura de 20 a 35 mts, de difícil acceso por sus terrenos inundables.\nDurante la cosecha se puede observar esta actividad realizada según las costumbres de los pobladores, cuidando las palmeras y con respeto a la fauna que habita el lugar, sobre todo del importante número de la especie Guacamayo Azul (Ara arauna) que anida en los troncos de las palmeras secas y la Garza Agamí (Agamia Agamí) especie muy difícil de observar en este tipo de ecosistema. Además, se pueden apreciar loros, garzas y aves pequeñas, así también algunos mamíferos como: sachavaca, añuje, ardillas, monos, cotos monos, huasitas y serpientes y anfibios, que también cumplen la función de esparcimiento de las semillas en distintas zonas de la selva, para el repoblamiento de los bosques de aguaje.\nExiste una parcela dentro del aguajal donde se ha identificado la palmera Shebon que constituye una collpa con gran concentración de hidróxido de aluminio.",
+  "particularidades": "",
+  "estado_actual": "Regular, el posesionario mantiene cerrada el área y se encarga del mantenimiento",
+  "observaciones": "El Aguajal de Chonta es un punto de interés considerado como parte del proyecto de Mejoramiento y Ampliación de los Servicios del Corredor Turístico Tambopata.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Se encuentra ubicado a 20 minutos de la ciudad de Puerto Maldonado, en el km. 3 de la carretera la Joya, con dirección a la Comunidad Nativa de Infierno, a una altura de 202 m.s.n.m. Posee un clima cálido y húmedo que alcanza los 38 °C. característico de la región geográfica de Selva baja u Omagua. Tiene una extensión de 2.2 hectáreas de palmeras de aguaje (Mauritia Flexuosa) con una altura de 20 a 35 mts, de difícil acceso por sus terrenos inundables.\nDurante la cosecha se puede observar esta actividad realizada según las costumbres de los pobladores, cuidando las palmeras y con respeto a la fauna que habita el lugar, sobre todo del importante número de la especie Guacamayo Azul (Ara arauna) que anida en los troncos de las palmeras secas y la Garza Agamí (Agamia Agamí) especie muy difícil de observar en este tipo de ecosistema. Además, se pueden apreciar loros, garzas y aves pequeñas, así también algunos mamíferos como: sachavaca, añuje, ardillas, monos, cotos monos, huasitas y serpientes y anfibios, que también cumplen la función de esparcimiento de las semillas en distintas zonas de la selva, para el repoblamiento de los bosques de aguaje.\nExiste una parcela dentro del aguajal donde se ha identificado la palmera Shebon que constituye una collpa con gran concentración de hidróxido de aluminio."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Regular, el posesionario mantiene cerrada el área y se encarga del mantenimiento"
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "El Aguajal de Chonta es un punto de interés considerado como parte del proyecto de Mejoramiento y Ampliación de los Servicios del Corredor Turístico Tambopata."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nVisitantes Locales(Excursionistas)\n10\nInforme Dircetur Madre de Dios.\n2021"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nMadre De Dios/Tambopata/Tambopata\n-\nMadre De Dios/Tambopata/Tambopata\nPlaza de Armas de la ciudad de Puerto Maldonado- Centro de Conservación El Aguajal de Chonta\nTerrestre\nAutomóvil particular\nTrocha carrozable\n3km /20 min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nSemi-restringido(previo permiso)\nCoordinación para realización de visita, con el posesionario Sr. Raymundo Jaen Cel: 962744733"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n07:00 a.m.\n-\n04:00 p.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nEstudios e Investigación\n--\nNaturaleza\nObservación de flora\nPalmeras de Aguaje y Palmeras Shebon\nNaturaleza\nObservación de paisaje\n--\nNaturaleza\nObservación de aves\nGuacamayo azul (Ara arauna) y la garza Agamí (Agamia agamí)"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHostales (especificar categorías)\n1, 2 y 3 estrellas en la Ciudad de Puerto Maldonado.\nAlimentación\nBares\nCiudad de Puerto Maldonado\nLugares de Recreación\nDiscotecas\nCiudad de Puerto Maldonado\nLugares de Recreación\nCines o Teatros\nCiudad de Puerto Maldonado\nLugares de Recreación\nPeñas\nCiudad de Puerto Maldonado\nServicios Públicos\nMiradores turísticos\nCiudad de Puerto Maldonado\nServicios Públicos\nEstacionamiento de vehículos\nCiudad de Puerto Maldonado\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\nCiudad de Puerto Maldonado\nAlojamiento\nAlbergues\nCiudad de Puerto Maldonado.\nLugares de Recreación\nOtros(especificar)\nPsicinas en la Ciudad de Puerto Maldonado\nAlojamiento\nHoteles (especificar categorías)\n1, 2 y 3 estrellas en la Ciudad de Puerto Maldonado"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Puerto Maldonado\nBancos\nCiudad de Puerto Maldonado\nCajero automático\nCiudad de Puerto Maldonado\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Puerto Maldonado\nCasa de cambio\nCiudad de Puerto Maldonado\nServicio de correos\nCiudad de Puerto Maldonado\nServicios de taxis\nCiudad de Puerto Maldonado\nCentro de salud - tópico\nCiudad de Puerto Maldonado\nSeguridad / POLTUR / Comisaría\nCiudad de Puerto Maldonado\nLibrerías\nCiudad de Puerto Maldonado\nBodegas o minimarkets\nCiudad de Puerto Maldonado"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Puerto Maldonado.\nAlcantarillado sanitario\nCiudad de Puerto Maldonado.\nDesagüe\nCiudad de Puerto Maldonado.\nLuz (Suministro Eléctrico)\nCiudad de Puerto Maldonado.\nTeléfono\nCiudad de Puerto Maldonado."
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\n--\nPrivado:\nPosesionario Sr. Raymundo Jaen\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n473-2022- GOREMAD-GRDE/DRA-AAT\nOtra situación:\n--\nAdministrador por\nNombre\nPosesionario Raymundo Jaen\nTiempo de administración\nDesde el año 2010."
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo - Madre de Dios.\nNombre (Persona(s) responsable(s) del inventario turístico):\nRosa Milagros Delgado Huaytalla\nCargo:\nTécnico de Producto Turístico\nCorreo:\nrmilagrosd@gmail.com\nTeléfono:\n953458376\nFuentes Bibliográfica:\n- “Estrategia Regional de Diversidad Biológica de Madre de Dios 2014 – 2021”. Gobierno Regional de Madre de Dios. Aprobado por Ordenanza Regional N°13-2014-RMDD/CR, del 09 de octubre del 2014.\n- Entrevista de campo realizada al posesionario Sr. Raymundo Jaen, el 05 de diciembre del 2022.\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n12/12/2022"
+    }
+  ],
+  "coordenadas": {
+    "latitud": null,
+    "longitud": null
+  },
+  "google_maps_url": null
+}

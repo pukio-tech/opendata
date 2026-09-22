@@ -1,0 +1,353 @@
+{
+  "cod_ficha": 1036,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=1036",
+  "nombre": "Rocódromo De Los Olivos - Independencia",
+  "departamento": "Áncash",
+  "provincia": "Huaraz",
+  "distrito": "INDEPENDENCIA",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "o. Otros",
+  "subtipo": "Formaciones rocosas(bosque de piedra)",
+  "jerarquia": "2",
+  "altitud": "3200",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=441905",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=441905",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=441859",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=443360",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=443305"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Naturaleza - Observación de flora",
+    "Deportes / Aventura - Escalada en roca"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "Molle, Tara, Quishuar, Penca de maguey",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Escalada en roca",
+      "observacion": "En el Rocódromo",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/escalada_roca02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Áncash/Huaraz/Huaraz - Áncash/Huaraz/Independencia",
+      "detalle": "Plaza de Armas de Huaraz - Tercera Curva de la Av. de Los Olivos",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "2.1 km/7 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Áncash/Huaraz/Independencia - Áncash/Huaraz/Independencia",
+      "detalle": "Cruce de la tercera curva Av. Los Olivos - Rocódromo de Los Olivos",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Sendero",
+      "distancia_tiempo": "300 mt/5 min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "300",
+      "horario": "Informe Técnico",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "280",
+      "horario": "Informe Técnico",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "420",
+      "horario": "Informe Técnico",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "08:00 a.m. - 05:00 p.m. Se recomienda visitar en las mañanas",
+      "observaciones": "Se recomienda visitar en las mañanas"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "Tarifas de ingreso: Extranjero S/. 10.00 Nacional S/. 5.00 Local S/ 2.oo"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Lugares de picnic",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "Ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de bicicleta",
+      "observacion": "Ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de camionetas 4 x 4",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "De 1 a 3 estrella en la Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "De 1 a 3 estrellas en la Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de Campamento(camping)",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Museo de Sitio Turísticos",
+      "observacion": "Ciudad de Huaraz"
+    }
+  ],
+  "descripcion": "El Rocódromo de Los Olivos, está ubicado a 1.4 km al Oeste de la Ciudad de Huaraz, en la Cordillera Negra, en el barrio de Los Olivos, a una altura de 3200 m.s.n.m., el lugar presenta un gran bloque de roca volcánica ideal para la práctica de escalada en roca. Los visitantes pueden practicar dicho deporte de aventura en compañía de guías especializados. La cercanía del recurso al distrito hace posible el flujo constante de visitantes, ya sean extranjeros, nacionales y locales, con el fin de realizar su primera experiencia en escalada, aclimatación o mejorar sus técnicas en este tipo de deporte de aventura. Muchos escaladores han ido abriendo y equipando vías de escalada deportiva y bouldering que van desde 4to hasta 7mo grado, en la zona también podemos encontrar algunos buenos boulders, de techo, travesía y extraplomo; cuenta con 07 sectores y 44 rutas aptas de escalada, en sus diferentes niveles con alturas de aproximadamente 12 metros, por lo que se puede pasar un buen día escalándolos, además el lugar es propicio para fotografiar el paisaje.",
+  "particularidades": "",
+  "estado_actual": "Bueno, porque la empresa privada que viene administrando dicho recurso, realiza el mantenimiento permanente.",
+  "observaciones": "RESOLUCION DIRECTORAL REGIONAL Nº 011-2021-GRA/DIRCETUR-DR: Donde APRUEBA Y AUTORIZA la zona o lugar llamado \"Rocódromo de los Olivos\"",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "El Rocódromo de Los Olivos, está ubicado a 1.4 km al Oeste de la Ciudad de Huaraz, en la Cordillera Negra, en el barrio de Los Olivos, a una altura de 3200 m.s.n.m., el lugar presenta un gran bloque de roca volcánica ideal para la práctica de escalada en roca. Los visitantes pueden practicar dicho deporte de aventura en compañía de guías especializados. La cercanía del recurso al distrito hace posible el flujo constante de visitantes, ya sean extranjeros, nacionales y locales, con el fin de realizar su primera experiencia en escalada, aclimatación o mejorar sus técnicas en este tipo de deporte de aventura. Muchos escaladores han ido abriendo y equipando vías de escalada deportiva y bouldering que van desde 4to hasta 7mo grado, en la zona también podemos encontrar algunos buenos boulders, de techo, travesía y extraplomo; cuenta con 07 sectores y 44 rutas aptas de escalada, en sus diferentes niveles con alturas de aproximadamente 12 metros, por lo que se puede pasar un buen día escalándolos, además el lugar es propicio para fotografiar el paisaje."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, porque la empresa privada que viene administrando dicho recurso, realiza el mantenimiento permanente."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "RESOLUCION DIRECTORAL REGIONAL Nº 011-2021-GRA/DIRCETUR-DR: Donde APRUEBA Y AUTORIZA la zona o lugar llamado \"Rocódromo de los Olivos\""
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Nacionales\n300\nInforme Técnico\n2021\nVisitantes Locales(Excursionistas)\n280\nInforme Técnico\n2021\nTuristas Extranjeros\n420\nInforme Técnico\n2021"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nÁncash/Huaraz/Huaraz\n-\nÁncash/Huaraz/Independencia\nPlaza de Armas de Huaraz - Tercera Curva de la Av. de Los Olivos\nTerrestre\nAutomóvil particular\nAsfaltado\n2.1 km/7 min\n1\nÁncash/Huaraz/Independencia\n-\nÁncash/Huaraz/Independencia\nCruce de la tercera curva Av. Los Olivos - Rocódromo de Los Olivos\nTerrestre\nA pie\nSendero\n300 mt/5 min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nTarifas de ingreso: Extranjero S/. 10.00 Nacional S/. 5.00 Local S/ 2.oo"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n08:00 a.m.\n-\n05:00 p.m.\nSe recomienda visitar en las mañanas"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nNaturaleza\nObservación de flora\nMolle, Tara, Quishuar, Penca de maguey\nDeportes / Aventura\nEscalada en roca\nEn el Rocódromo"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nLugares de Recreación\nDiscotecas\nCiudad de Independencia\nLugares de Recreación\nJuegos Infantiles\nCiudad de Independencia\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nCiudad de Huaraz\nLugares de Recreación\nCentros Deportivos\nCiudad de Independencia\nLugares de Recreación\nLugares de picnic\nCiudad de Independencia\nLugares de Recreación\nKaraoke\nCiudad de Huaraz\nLugares de Recreación\nBares\nCiudad de Independencia\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Huaraz\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de Independencia\nOtros Servicios Turísticos\nAlquiler de bicicleta\nCiudad de Huaraz\nOtros Servicios Turísticos\nAlquiler de camionetas 4 x 4\nCiudad de Independencia\nAlimentación\nRestaurantes\nCiudad de Independencia\nAlimentación\nBares\nCiudad de Independencia\nAlimentación\nCafeterías\nCiudad de Independencia\nAlimentación\nFuentes de soda\nCiudad de Independencia\nAlimentación\nKioskos de comida y bebidas\nCiudad de Independencia\nAlimentación\nVenta de comida Rápida\nCiudad de Independencia\nAlojamiento\nHoteles (especificar categorías)\nDe 1 a 3 estrella en la Ciudad de Independencia\nAlojamiento\nHostales (especificar categorías)\nDe 1 a 3 estrellas en la Ciudad de Independencia\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Independencia\nServicios Públicos\nMiradores turísticos\nCiudad de Independencia\nServicios Públicos\nEstacionamiento de vehículos\nCiudad de Independencia\nServicios Públicos\nOficina de Información turística\nCiudad de Independencia\nServicios Públicos\nZonas de Campamento(camping)\nCiudad de Independencia\nServicios Públicos\nCaminos peatonales\nCiudad de Independencia\nServicios Públicos\nMuseo de Sitio Turísticos\nCiudad de Huaraz"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nEstación de servicios, grifos, gasolineras y gasocentros\nEn la Ciudad de Independencia\nServicios de internet\nCiudad de Independencia\nBancos\nCiudad de Huaraz\nCajero automático\nCiudad de Huaraz\nCasa de cambio\nCiudad de Huaraz\nServicio de correos\nCiudad de Huaraz\nServicio de estacionamiento\nCiudad de Independencia\nServicios de taxis\nCiudad de Independencia\nCentro de salud - tópico\nCiudad de Independencia\nVenta de materiales para fotografías\nCiudad de Huaraz\nSeguridad / POLTUR / Comisaría\nCiudad de Independencia\nAlquiler y compra de equipos deportivos\nCiudad de Huaraz\nLibrerías\nCiudad de Independencia\nBodegas o minimarkets\nCiudad de Independencia"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nSeñalización turística\nEn el trayecto al rocódromo\nAgua potable\nCaseta de control\nLuz (Suministro Eléctrico)\nCaseta de control"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Independencia\nAlcantarillado sanitario\nCiudad de Independencia\nLuz (Suministro Eléctrico)\nCiudad de Independencia\nTeléfono\nCiudad de Independencia\nSeñalización turística\nCiudad de Independencia\nSistemas de tratamiento alternativo de residuos (Biodigestor, pozo séptico, otros)\nCiudad de Independencia"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\n--\nPrivado:\nRocódromo Los Olivos S.R.L.\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nRegistrado con\nNúmero de Partida:\n11330885\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nRocódromo Los Olivos S.R.L.\nTiempo de administración\nDesde el 11 de junio del 2021"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDIRCETUR - ANCASH / Municipalidad Distrital de Independencia\nNombre (Persona(s) responsable(s) del inventario turístico):\nPatricia Camones Trejo / Fidel Morales Tarazona\nCargo:\nDirectora de Turismo / Gerente de Desarrollo Económico\nCorreo:\nPatriciaturism@gmail.com / fmoralest@hotmail.com\nTeléfono:\n937082574 / 943465347\nFuentes Bibliográfica:\nCONOCIENDO INDEPENDENCIA: \"ROCÓDROMO DE LOS OLIVOS\" MUNICIPALIDAD DISTRITAL DE INDEPENDENCIA - GERENCIA DE DESARROLLO ECONÓMICO, SUBGERENCIA DE TURISMO Y COOPERACIÓN TÉCNICA INTERNACIONAL. BOLETÍN INFORMATIVO, 2021\nHTTPS://TOPOSPERU.WORDPRESS.COM/HUARAZ/LOS-OLIVOS/\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n5/07/2024 11:34:47"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -9.526221,
+    "longitud": -77.53623900000002
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-9.526221,-77.53623900000002"
+}

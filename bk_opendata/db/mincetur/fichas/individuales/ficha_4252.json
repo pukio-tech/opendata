@@ -1,0 +1,385 @@
+{
+  "cod_ficha": 4252,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=4252",
+  "nombre": "Casa Hacienda San Juan De Pillo",
+  "departamento": "Huancavelica",
+  "provincia": "Tayacaja",
+  "distrito": "ACRAQUIA",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Arquitectura y Espacios Urbanos",
+  "subtipo": "Casa-Hacienda",
+  "jerarquia": "2",
+  "altitud": "3200",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=470998",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=470998",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=470999",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=471000",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=471001",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=471002",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=471003",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=470937"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Otros(Especificar)",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de paisaje",
+    "Deportes / Aventura - Caminata/Trekking",
+    "Deportes / Aventura - Ciclismo",
+    "Deportes / Aventura - Camping",
+    "Paseos - Paseos a caballo"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Otros(Especificar)",
+      "observacion": "Turismo vivencial.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/otros02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "Retamas, Pajas.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Ciclismo",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/ciclismo02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Camping",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/camping02.png"
+    },
+    {
+      "actividad": "Paseos",
+      "tipo": "Paseos a caballo",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paseo_caballo02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Huancavelica/Huancavelica/Huancavelica - Huancavelica/Tayacaja/Pampas",
+      "detalle": "Paradero Ticllas-Al terminal de las pampas",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Combi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "174 km/3 horas y 10 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Huancavelica/Tayacaja/Pampas - Huancavelica/Tayacaja/Pampas",
+      "detalle": "Al terminal de las Pampas- Casa Hacienda San Juan de Pillo",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Combi",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "10km/30 minutos"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Junín/Huancayo/Huancayo - Huancavelica/Tayacaja/Pampas",
+      "detalle": "Paradero Ticllas de Huancayo- Terminal de Pampas",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Combi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "81km/ 2 horas"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Huancavelica/Tayacaja/Pampas - Huancavelica/Tayacaja/Pampas",
+      "detalle": "Terminal de Pampas- Casa Hacienda San Juan de Pillo",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Combi",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "10 km/ 30 minutos"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "1756",
+      "horario": "Informe Técnico N° 001-2022-RT/YMSA-SGPEyT-GDE-MPT",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "2219",
+      "horario": "Informe Técnico N° 001-2022-RT/YMSA-SGPEyT-GDE-MPT",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "10",
+      "horario": "Informe Técnico N° 001-2022-RT/YMSA-SGPEyT-GDE-MPT",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Esporádicamente - Algunos meses",
+      "especificacion": "--",
+      "horario": "04:00 a.m. - 11:30 p.m. De abril a setiembre",
+      "observaciones": "De abril a setiembre"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Semi-restringido(previo permiso)",
+      "observaciones": "Realizar la reserva con la administración al número: 954 965 006"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Albergues",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "www.casahaciendasanjuandepillo.com"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de Caballos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "Ciudad de Pampas. 1 estrella"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Pampas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Pampas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Pampas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Pampas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Ciudad de Pampas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Pampas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Ciudad de Pampas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Pampas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Pampas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "Ciudad de Pampas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Pampas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Ciudad de Pampas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "Ciudad de Pampas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "Ciudad de Pampas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de Campamento(camping)",
+      "observacion": "Ciudad de Pampas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "Ciudad de Pampas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "De 01 a 03 estrellas. Ciudad de Huancavelica."
+    }
+  ],
+  "descripcion": "Ubicado a 10.5 km. de la plaza principal de Pampas y a 3.83 km. del distrito de Acraquia. Durante los años 1930 la hacienda fue el centro principal de todo Huancavelica en la producción de lácteos como el manjar, queso y mantequilla.\nEl 2006, Jorge Dino Bazo Nanfi, nieto de Juan Bazo Velarde heredó dicha fortuna, iniciando su reconstrucción y acondicionamiento de todos los espacios de la hacienda de 20 Has. La Casa Hacienda es muy hermosa con una infraestructura de arquitectura típica de la época republicana, con su capilla de tres niveles que termina en una torre donde aún se venera a la patrona de Pampas, la infraestructura de fachada andina actualmente brinda hospedaje de 22 habitaciones acondicionado para turistas exigentes, además es complementado con el servicio de alimentación para los visitantes que adquieren los paquetes turísticos en temporadas altas o semanas largas programadas en el año, además ofrece otras actividades que aseguren una buena estadía para desarrollar caminatas en el bosque, cabalgatas, pesca dirigida y fogatas.",
+  "particularidades": "",
+  "estado_actual": "Bueno, porque los propietarios realizan el mantenimiento constante.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Ubicado a 10.5 km. de la plaza principal de Pampas y a 3.83 km. del distrito de Acraquia. Durante los años 1930 la hacienda fue el centro principal de todo Huancavelica en la producción de lácteos como el manjar, queso y mantequilla.\nEl 2006, Jorge Dino Bazo Nanfi, nieto de Juan Bazo Velarde heredó dicha fortuna, iniciando su reconstrucción y acondicionamiento de todos los espacios de la hacienda de 20 Has. La Casa Hacienda es muy hermosa con una infraestructura de arquitectura típica de la época republicana, con su capilla de tres niveles que termina en una torre donde aún se venera a la patrona de Pampas, la infraestructura de fachada andina actualmente brinda hospedaje de 22 habitaciones acondicionado para turistas exigentes, además es complementado con el servicio de alimentación para los visitantes que adquieren los paquetes turísticos en temporadas altas o semanas largas programadas en el año, además ofrece otras actividades que aseguren una buena estadía para desarrollar caminatas en el bosque, cabalgatas, pesca dirigida y fogatas."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, porque los propietarios realizan el mantenimiento constante."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Nacionales\n1756\nInforme Técnico N° 001-2022-RT/YMSA-SGPEyT-GDE-MPT\n2021\nVisitantes Locales(Excursionistas)\n2219\nInforme Técnico N° 001-2022-RT/YMSA-SGPEyT-GDE-MPT\n2021\nTuristas Extranjeros\n10\nInforme Técnico N° 001-2022-RT/YMSA-SGPEyT-GDE-MPT\n2021"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nHuancavelica/Huancavelica/Huancavelica\n-\nHuancavelica/Tayacaja/Pampas\nParadero Ticllas-Al terminal de las pampas\nTerrestre\nCombi\nAsfaltado\n174 km/3 horas y 10 minutos\n1\nHuancavelica/Tayacaja/Pampas\n-\nHuancavelica/Tayacaja/Pampas\nAl terminal de las Pampas- Casa Hacienda San Juan de Pillo\nTerrestre\nCombi\nAfirmado\n10km/30 minutos\n2\nJunín/Huancayo/Huancayo\n-\nHuancavelica/Tayacaja/Pampas\nParadero Ticllas de Huancayo- Terminal de Pampas\nTerrestre\nCombi\nAsfaltado\n81km/ 2 horas\n2\nHuancavelica/Tayacaja/Pampas\n-\nHuancavelica/Tayacaja/Pampas\nTerminal de Pampas- Casa Hacienda San Juan de Pillo\nTerrestre\nCombi\nAfirmado\n10 km/ 30 minutos"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nSemi-restringido(previo permiso)\nRealizar la reserva con la administración al número: 954 965 006"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nEsporádicamente - Algunos meses\n--\n04:00 a.m.\n-\n11:30 p.m.\nDe abril a setiembre"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nOtros(Especificar)\nTurismo vivencial.\nNaturaleza\nObservación de flora\nRetamas, Pajas.\nNaturaleza\nObservación de paisaje\n--\nDeportes / Aventura\nCaminata/Trekking\n--\nDeportes / Aventura\nCiclismo\n--\nDeportes / Aventura\nCamping\n--\nPaseos\nPaseos a caballo\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nAlojamiento\nAlbergues\n--\nInstalaciones Privadas\nAlimentación\nRestaurantes\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nAgencia de Viajes\nwww.casahaciendasanjuandepillo.com\nInstalaciones Privadas\nOtros Servicios Turísticos\nAlquiler de Caballos\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHostales (especificar categorías)\nCiudad de Pampas. 1 estrella\nAlimentación\nRestaurantes\nCiudad de Pampas\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Pampas\nAlimentación\nBares\nCiudad de Pampas\nAlimentación\nCafeterías\nCiudad de Pampas\nAlimentación\nFuentes de soda\nCiudad de Pampas\nAlimentación\nKioskos de comida y bebidas\nCiudad de Pampas\nAlimentación\nVenta de comida Rápida\nCiudad de Pampas\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Pampas\nLugares de Recreación\nDiscotecas\nCiudad de Pampas\nLugares de Recreación\nKaraoke\nCiudad de Pampas\nLugares de Recreación\nBares\nCiudad de Pampas\nServicios Públicos\nEstacionamiento de vehículos\nCiudad de Pampas\nServicios Públicos\nSeñales turísticas de orientación\nCiudad de Pampas\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\nCiudad de Pampas\nServicios Públicos\nZonas de Campamento(camping)\nCiudad de Pampas\nServicios Públicos\nCaminos peatonales\nCiudad de Pampas\nAlojamiento\nHoteles (especificar categorías)\nDe 01 a 03 estrellas. Ciudad de Huancavelica."
+    },
+    {
+      "titulo": "Servicios Complementarios dentro del recurso",
+      "contenido": "Servicio Complementario\nObservación\nServicios de internet\n--\nServicio de estacionamiento\n--"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Pampas\nBancos\nCiudad de Pampas. Banco de la Nacion.\nCajero automático\nCiudad de Pampas\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Pampas\nServicio de estacionamiento\nCiudad de Pampas\nSeguridad / POLTUR / Comisaría\nCiudad de Pampas\nCentro de salud - tópico\nCiudad de Pampas\nBodegas o minimarkets\nCiudad de Pampas"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\n--\nLuz (Suministro Eléctrico)\n--\nOtros (Especificar)\nTelefonìa celular\nSeñalización turística\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Acraquìa\nLuz (Suministro Eléctrico)\nCiudad de Acraquìa\nTeléfono\nCiudad de Acraquìa\nSeñalización turística\nCiudad de Pampas"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\n--\nPrivado:\nJorge Dino Bazo Nanfi\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\nEscritura Pública N° 297 Compra y Venta\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nJorge Dino Bazo Nanfi y Maurelio Canchari\nTiempo de administración\nDesde el año 2006."
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional De Comercio Exterior, Turismo Y Artesanía – Huancavelica\nNombre (Persona(s) responsable(s) del inventario turístico):\nYovana Cuicapusa Ccanto\nCargo:\nEspecialista en Turismo\nCorreo:\nyoalinas@yahoo.es\nTeléfono:\n067-452938\nFuentes Bibliográfica:\n• https://ulopcasahaciendasanjuan.weebly.com/\n• https://www.somosperu.org.pe/san-juan-de-pillo-belleza-y-comodidad/\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n19/12/2022"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -12.366999403605758,
+    "longitud": -74.92458522319794
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-12.366999403605758,-74.92458522319794"
+}

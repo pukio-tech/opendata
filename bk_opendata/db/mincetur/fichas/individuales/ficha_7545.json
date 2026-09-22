@@ -1,0 +1,362 @@
+{
+  "cod_ficha": 7545,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=7545",
+  "nombre": "Bosque Seco - La Otra Banda",
+  "departamento": "Lambayeque",
+  "provincia": "Chiclayo",
+  "distrito": "SAÑA",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "ñ. Zonas paisajísticas",
+  "subtipo": "Bosques",
+  "jerarquia": "1",
+  "altitud": "70",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=649717",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=649717",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=649718",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=649670",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=649671",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=649672",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=649722",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=649723",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=649724",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=649676",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=649677",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=649725",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=649726",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=649678",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=649679"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Naturaleza - Observación de fauna",
+    "Naturaleza - Observación de flora",
+    "Deportes / Aventura - Caminata/Trekking",
+    "Deportes / Aventura - Camping"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de fauna",
+      "observacion": "Gavilán bicolor, azulejos, perlitas tropicales, zorro, ardillas, zarigüeyas, iguanas, ranas, culebras.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fauna02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "algarroba, faique, zapote, overo, palo verde, rabo de zorro, camotillo, hierba santa, palo blanco, guariño, tunyo, etc.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "Se debe realizar con guia",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Camping",
+      "observacion": "Se debe llevar implementos",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/camping02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Lambayeque/Chiclayo/Chiclayo - Lambayeque/Chiclayo/Saña",
+      "detalle": "Chiclayo (terminal Epsel) - Zaña (paradero en calle Real)",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Combi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "48.4 km. / 1 hora 15 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Lambayeque/Chiclayo/Saña - Lambayeque/Chiclayo/Saña",
+      "detalle": "Zaña (Paradero Calle Real) – Bosque Seco la Otra Banda",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mototaxi",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "6 km. / 20 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Lambayeque/Chiclayo/Saña - Lambayeque/Chiclayo/Saña",
+      "detalle": "Zaña (Paradero calle Real) – Bosque Seco la Otra Banda",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "6 km. / 45 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Lambayeque/Chiclayo/Chiclayo - Lambayeque/Chiclayo/Saña",
+      "detalle": "Chiclayo (Parque principal) - Zaña",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "48.4 km / 1hora"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Lambayeque/Chiclayo/Saña - Lambayeque/Chiclayo/Saña",
+      "detalle": "Zaña - Bosque Seco La Otra Banda",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "6 km/ 15 minutos"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "270",
+      "horario": "Conteo de visitantes realizado los días 09, 16, 23 y 30 de agosto",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "4050",
+      "horario": "Conteo de visitantes realizado los días 09, 16, 23 y 30 de agosto",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "6480",
+      "horario": "Conteo de visitantes realizado los días 09, 16, 23 y 30 de agosto",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "07:00 a.m. - 04:00 p.m. Llevar bloqueador, gorro o sombrero, zapatos adecuados, repelente y agua.",
+      "observaciones": "Llevar bloqueador, gorro o sombrero, zapatos adecuados, repelente y agua."
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": "Se recomienda solicitar información al responsable del Área de Turismo de la Municipalidad Distrital de Zaña, al número de celular 940984018"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "Ciudad de Chiclayo, 3***"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Chiclayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Chiclayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Chiclayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Chiclayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Ciudad de Chiclayo, Inglés y español"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Chiclayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de camionetas 4 x 4",
+      "observacion": "Ciudad de Chiclayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de Chiclayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de bicicleta",
+      "observacion": "Ciudad de Chiclayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "Ciudad de Chiclayo, 4****"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Chiclayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Peñas",
+      "observacion": "Ciudad de Chiclayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Cines o Teatros",
+      "observacion": "Ciudad de Chiclayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Ciudad de Chiclayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "Ciudad de Chiclayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Ciudad de Chiclayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Ciudad de Chiclayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Ciudad de Chiclayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Ciudad de Chiclayo."
+    }
+  ],
+  "descripcion": "El Bosque Seco - La Otra Banda está ubicado en el Centro Poblado La Otra Banda, distrito de Zaña, provincia de Chiclayo, región Lambayeque, y forma parte de la región natural Chala y de la ecorregión Bosque Seco del Pacífico Ecuatorial.\nEn este contexto, el ecosistema abarca aproximadamente 823 hectáreas destinadas a la conservación y 1,300 hectáreas orientadas a inversión privada, de acuerdo con lo establecido en la Ordenanza Regional N° 0019. Por ello, constituye uno de los remanentes mejor conservados de bosque seco en la costa norte del Perú, destacando por su valor natural, paisajístico y cultural.\nEn cuanto a las condiciones climáticas, el área presenta un clima templado en la mayor parte del año, durante el día es seco, cálido, soleado y por el atardecer, fresco y con vientos regulares cálido y seco, caracterizado por precipitaciones escasas e irregulares, las cuales se intensifican principalmente durante eventos asociados al Fenómeno El Niño. Asimismo, las temperaturas promedio oscilan entre 22 °C y 26 °C. Estas condiciones influyen directamente en la dinámica del ecosistema, generando paisajes cambiantes a lo largo del año y una marcada estacionalidad en la vegetación y en la disponibilidad de recursos hídricos, rasgos propios del bosque seco costero.\nDesde el punto de vista paisajístico, el bosque está conformado por amplias llanuras y suaves elevaciones, cubiertas por vegetación dispersa dominada por especies adaptadas a la aridez. En este sentido, la flora representativa incluye algarrobo (Prosopis pallida), faique (Acacia macracantha), zapote, hualtaco y palo verde, acompañados de arbustos y cactáceas características del ecosistema. De manera complementaria, la fauna asociada comprende diversas especies de aves como palomas, tórtolas, pericos y gavilanes, así como mamíferos menores, reptiles e insectos, lo que confiere al área un alto potencial para la observación de naturaleza.\nPor último, dentro de este entorno, el visitante puede observar la laguna de la Palería, cuerpo de agua alimentado por las aguas del río Zaña, que durante la temporada de lluvias incrementa su cobertura vegetal circundante y alberga diversas especies de peces. Este espejo de agua cumple una función ecológica relevante, ya que actúa como bebedero natural para la fauna silvestre y como abrevadero para el ganado del entorno.\nEs considerado como el último relicto de bosque seco al sur de la región Lambayeque, según lo señala en la Ordenanza Regional N°002-2011-GR.LAMB/CR.\nAdemás de su valor natural, el Bosque Seco de La Otra Banda conserva importantes elementos culturales y arqueológicos en una extensión aproximada de 43 hectáreas. Entre ellos destaca el centro arqueológico Cerro Las Ánimas, donde se han identificado restos prehispánicos como estructuras de adobe, una escalinata de piedra y una piedra tallada de posible origen inca, asociada por la tradición local a antiguos asentamientos y rutas de tránsito. De igual manera, el bosque es atravesado por tramos del Qhapaq Ñan o Camino Inca de la Costa, lo cual refuerza su relevancia histórica y cultural, y le otorga un valor adicional para el visitante.",
+  "particularidades": "",
+  "estado_actual": "Bueno, el recurso turístico es distinguible y apreciable, presenta algunos problemas temporales con impactos leves referido a depredación y/o contaminación.",
+  "observaciones": "En el 2026, se inició la Implementación de 01 piloto de Ecoturismo en el Bosque Seco; en la cual se promovió el Festival del Cabrito, se mejoró los ambientes de la caseta de recepción, demarcación de rutas de acceso a Laguna La Palería y Cerro Las Animas, mapas de ubicación y carteles de información; esta actividad se realiza en coordinación con el Proyecto Bosque Seco – PROFONANPE y la Asociación de Ganaderos de la Otra Banda",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "El Bosque Seco - La Otra Banda está ubicado en el Centro Poblado La Otra Banda, distrito de Zaña, provincia de Chiclayo, región Lambayeque, y forma parte de la región natural Chala y de la ecorregión Bosque Seco del Pacífico Ecuatorial.\nEn este contexto, el ecosistema abarca aproximadamente 823 hectáreas destinadas a la conservación y 1,300 hectáreas orientadas a inversión privada, de acuerdo con lo establecido en la Ordenanza Regional N° 0019. Por ello, constituye uno de los remanentes mejor conservados de bosque seco en la costa norte del Perú, destacando por su valor natural, paisajístico y cultural.\nEn cuanto a las condiciones climáticas, el área presenta un clima templado en la mayor parte del año, durante el día es seco, cálido, soleado y por el atardecer, fresco y con vientos regulares cálido y seco, caracterizado por precipitaciones escasas e irregulares, las cuales se intensifican principalmente durante eventos asociados al Fenómeno El Niño. Asimismo, las temperaturas promedio oscilan entre 22 °C y 26 °C. Estas condiciones influyen directamente en la dinámica del ecosistema, generando paisajes cambiantes a lo largo del año y una marcada estacionalidad en la vegetación y en la disponibilidad de recursos hídricos, rasgos propios del bosque seco costero.\nDesde el punto de vista paisajístico, el bosque está conformado por amplias llanuras y suaves elevaciones, cubiertas por vegetación dispersa dominada por especies adaptadas a la aridez. En este sentido, la flora representativa incluye algarrobo (Prosopis pallida), faique (Acacia macracantha), zapote, hualtaco y palo verde, acompañados de arbustos y cactáceas características del ecosistema. De manera complementaria, la fauna asociada comprende diversas especies de aves como palomas, tórtolas, pericos y gavilanes, así como mamíferos menores, reptiles e insectos, lo que confiere al área un alto potencial para la observación de naturaleza.\nPor último, dentro de este entorno, el visitante puede observar la laguna de la Palería, cuerpo de agua alimentado por las aguas del río Zaña, que durante la temporada de lluvias incrementa su cobertura vegetal circundante y alberga diversas especies de peces. Este espejo de agua cumple una función ecológica relevante, ya que actúa como bebedero natural para la fauna silvestre y como abrevadero para el ganado del entorno.\nEs considerado como el último relicto de bosque seco al sur de la región Lambayeque, según lo señala en la Ordenanza Regional N°002-2011-GR.LAMB/CR.\nAdemás de su valor natural, el Bosque Seco de La Otra Banda conserva importantes elementos culturales y arqueológicos en una extensión aproximada de 43 hectáreas. Entre ellos destaca el centro arqueológico Cerro Las Ánimas, donde se han identificado restos prehispánicos como estructuras de adobe, una escalinata de piedra y una piedra tallada de posible origen inca, asociada por la tradición local a antiguos asentamientos y rutas de tránsito. De igual manera, el bosque es atravesado por tramos del Qhapaq Ñan o Camino Inca de la Costa, lo cual refuerza su relevancia histórica y cultural, y le otorga un valor adicional para el visitante."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "Declarado de Interés regional para su conservación, por Ordenanza Regional N°002-2011-GR.LAMB-CR y modificado Con Ordenanza Regional N°019-2011-GR.LAMB-CR.\nAsimismo, la Ordenanza Municipal N°004-2016-MDZ, declara al Bosque seco como patrimonio histórico, cultural, ecológico y turístico."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, el recurso turístico es distinguible y apreciable, presenta algunos problemas temporales con impactos leves referido a depredación y/o contaminación."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "En el 2026, se inició la Implementación de 01 piloto de Ecoturismo en el Bosque Seco; en la cual se promovió el Festival del Cabrito, se mejoró los ambientes de la caseta de recepción, demarcación de rutas de acceso a Laguna La Palería y Cerro Las Animas, mapas de ubicación y carteles de información; esta actividad se realiza en coordinación con el Proyecto Bosque Seco – PROFONANPE y la Asociación de Ganaderos de la Otra Banda"
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n270\nConteo de visitantes realizado los días 09, 16, 23 y 30 de agosto\n2025\nValidado por la Dirección de Turismo y Artesanía de la Gercetur Lambayeque.\nTuristas Nacionales\n4050\nConteo de visitantes realizado los días 09, 16, 23 y 30 de agosto\n2025\nValidado por la Dirección de Turismo y Artesanía de la Gercetur Lambayeque.\nVisitantes Locales(Excursionistas)\n6480\nConteo de visitantes realizado los días 09, 16, 23 y 30 de agosto\n2025\nValidado por la Dirección de Turismo y Artesanía de la Gercetur Lambayeque."
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nLambayeque/Chiclayo/Chiclayo\n-\nLambayeque/Chiclayo/Saña\nChiclayo (terminal Epsel) - Zaña (paradero en calle Real)\nTerrestre\nCombi\nAsfaltado\n48.4 km. / 1 hora 15 min.\n1\nLambayeque/Chiclayo/Saña\n-\nLambayeque/Chiclayo/Saña\nZaña (Paradero Calle Real) – Bosque Seco la Otra Banda\nTerrestre\nMototaxi\nTrocha carrozable\n6 km. / 20 min.\n1\nLambayeque/Chiclayo/Saña\n-\nLambayeque/Chiclayo/Saña\nZaña (Paradero calle Real) – Bosque Seco la Otra Banda\nTerrestre\nA pie\nTrocha carrozable\n6 km. / 45 min.\n1\nLambayeque/Chiclayo/Chiclayo\n-\nLambayeque/Chiclayo/Saña\nChiclayo (Parque principal) - Zaña\nTerrestre\nAutomóvil particular\nAsfaltado\n48.4 km / 1hora\n1\nLambayeque/Chiclayo/Saña\n-\nLambayeque/Chiclayo/Saña\nZaña - Bosque Seco La Otra Banda\nTerrestre\nAutomóvil particular\nTrocha carrozable\n6 km/ 15 minutos"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre\nSe recomienda solicitar información al responsable del Área de Turismo de la Municipalidad Distrital de Zaña, al número de celular 940984018"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n07:00 a.m.\n-\n04:00 p.m.\nLlevar bloqueador, gorro o sombrero, zapatos adecuados, repelente y agua."
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nNaturaleza\nObservación de fauna\nGavilán bicolor, azulejos, perlitas tropicales, zorro, ardillas, zarigüeyas, iguanas, ranas, culebras.\nNaturaleza\nObservación de flora\nalgarroba, faique, zapote, overo, palo verde, rabo de zorro, camotillo, hierba santa, palo blanco, guariño, tunyo, etc.\nDeportes / Aventura\nCaminata/Trekking\nSe debe realizar con guia\nDeportes / Aventura\nCamping\nSe debe llevar implementos"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHostales (especificar categorías)\nCiudad de Chiclayo, 3***\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Chiclayo\nAlimentación\nRestaurantes\nCiudad de Chiclayo\nAlimentación\nBares\nCiudad de Chiclayo\nAlimentación\nKioskos de comida y bebidas\nCiudad de Chiclayo\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nCiudad de Chiclayo, Inglés y español\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Chiclayo\nOtros Servicios Turísticos\nAlquiler de camionetas 4 x 4\nCiudad de Chiclayo\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de Chiclayo\nOtros Servicios Turísticos\nAlquiler de bicicleta\nCiudad de Chiclayo\nAlojamiento\nHoteles (especificar categorías)\nCiudad de Chiclayo, 4****\nLugares de Recreación\nDiscotecas\nCiudad de Chiclayo\nLugares de Recreación\nPeñas\nCiudad de Chiclayo\nLugares de Recreación\nCines o Teatros\nCiudad de Chiclayo\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nCiudad de Chiclayo\nLugares de Recreación\nKaraoke\nCiudad de Chiclayo\nAlimentación\nVenta de comida Rápida\nCiudad de Chiclayo\nLugares de Recreación\nJuegos Infantiles\nCiudad de Chiclayo\nLugares de Recreación\nCentros Deportivos\nCiudad de Chiclayo\nServicios Públicos\nOficina de Información turística\nCiudad de Chiclayo."
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Chiclayo.\nBancos\nCiudad de Chiclayo.\nCajero automático\nCiudad de Chiclayo.\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Chiclayo.\nCasa de cambio\nCiudad de Chiclayo.\nServicio de correos\nCiudad de Chiclayo.\nServicio de estacionamiento\nCiudad de Chiclayo.\nServicios de taxis\nCiudad de Chiclayo.\nCentro de salud - tópico\nCiudad de Chiclayo.\nVenta de materiales para fotografías\nCiudad de Chiclayo.\nSeguridad / POLTUR / Comisaría\nCiudad de Chiclayo.\nAlquiler y compra de equipos deportivos\nCiudad de Chiclayo.\nLibrerías\nCiudad de Chiclayo.\nBodegas o minimarkets\nCiudad de Chiclayo."
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Chiclayo.\nAlcantarillado sanitario\nCiudad de Chiclayo.\nLuz (Suministro Eléctrico)\nCiudad de Chiclayo.\nTeléfono\nCiudad de Chiclayo.\nSeñalización turística\nCiudad de Chiclayo."
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nGobierno Regional de Lambayeque\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nNúmero de Partida:\n02005858\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nGobierno Regional de Lambayeque\nTiempo de administración\nDesde 2010"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nGerencia Regional de Comercio Exterior y Turismo de Lambayeque.\nNombre (Persona(s) responsable(s) del inventario turístico):\nLic. Magali Exebio Cabrera\nCargo:\nTécnico en Turismo\nCorreo:\nluzmexebio@gmail.com\nTeléfono:\n947672674\nFuentes Bibliográfica:\n1. Revista Ilayux magazis: Zaña ¡Ciudad Cuatricentenaria! (Edición especial)\n2. Proyecto Ley N°898/2016-CR. Congreso de la República. Ley que declara de necesidad pública y preferente interés nacional la recuperación, protección y conservación de la flora y fauna del Bosque Seco La Otra Banda, distrito de Zaña, departamento de Lambayeque.\n3. Notas de prensa, Ministerio de Cultura. Lambayeque: Descubren templo ceremonial en el Complejo Arqueológico Los Paredones de la Otra Banda – Las Ánimas de Zaña. Del 27 de junio y 17 de julio de 2024. Obtenido de https://www.gob.pe/institucion/cultura/noticias/979358-lambayeque-descubren-templo-ceremonial-en-el-complejo-arqueologico-los-paredones-de-la-otra-banda-las-animas-de-zana y https://elcomercio.pe/lima/sucesos/lambayeque-descubren-templo-ceremonial-en-el-complejo-arqueologico-los-paredones-de-la-otra-banda-las-animas-de-zana-chiclayo-ministerio-de-cultura-mincul-ultimas-noticia/\n4.Ordenanza Municipal N°004-2016-MDZ (30.04.2016).\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n18/02/2026 08:05:44"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -6.958584000000011,
+    "longitud": -79.57935532275394
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-6.958584000000011,-79.57935532275394"
+}

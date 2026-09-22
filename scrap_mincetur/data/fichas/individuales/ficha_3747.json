@@ -1,0 +1,277 @@
+{
+  "cod_ficha": 3747,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=3747",
+  "nombre": "Sitio Arqueológico Cerro Corbacho",
+  "departamento": "Lambayeque",
+  "provincia": "Chiclayo",
+  "distrito": "SAÑA",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Sitios Arqueológicos",
+  "subtipo": "Zonas arqueológicas",
+  "jerarquia": "1",
+  "altitud": "70",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=620075",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=620075",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=620076",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=620262",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=620077",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=620078",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=620079",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=620263",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=620080",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=620081",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=620264"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Paseos - Excursiones",
+    "Naturaleza - Observación de fauna",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de paisaje",
+    "Deportes / Aventura - Caminata/Trekking"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Paseos",
+      "tipo": "Excursiones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/excursiones02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de fauna",
+      "observacion": "Huerequeque, Gallinazo cabeza negra, Chiroca y Tortolita, Zorro costeño, Sajino, Lagartijas, salamanquejas e iguanas.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fauna02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "Algarrobo, Palo verde, faique, molle, cactáceas y gramíneas xerófitas",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Lambayeque/Chiclayo/Chiclayo - Lambayeque/Chiclayo/Saña",
+      "detalle": "Chiclayo (Terminal Terrestre Epsel) - Paradero Zaña (Esquina Ca. Patria y Ca. Real)",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Combi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "48 km/45 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Lambayeque/Chiclayo/Saña - Lambayeque/Chiclayo/Saña",
+      "detalle": "Paradero Zaña (Esquina Ca. Patria y Ca. Real)- Río Zaña",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mototaxi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "1.2 km/ 05 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Lambayeque/Chiclayo/Saña - Lambayeque/Chiclayo/Saña",
+      "detalle": "Río Zaña – Cerro Corbacho",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mototaxi",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "2 km/ 10 min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "270",
+      "horario": "Conteo muestral realizado los días 09, 16, 23 y 30 de junio",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "5490",
+      "horario": "Conteo muestral realizado los días 09, 16, 23 y 30 de junio",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "5760",
+      "horario": "Conteo muestral realizado los días 09, 16, 23 y 30 de junio",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "08:00 a.m. - 04:00 p.m. Se sugiere realizar el recorrido en horas diurnas, asegurando una experiencia más segura y placentera. Llevar lentes de sol, bloqueador, agua y gorro.",
+      "observaciones": "Se sugiere realizar el recorrido en horas diurnas, asegurando una experiencia más segura y placentera. Llevar lentes de sol, bloqueador, agua y gorro."
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": "Debido a la falta de señalización en la ruta, solo se permite la visita durante el día y con la compañía de un guía autorizado para garantizar la seguridad y la correcta orientación en el recorrido."
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "Ciudad de Saña, 3***"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Saña."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Saña"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Saña"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de Saña"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Ciudad de Saña, español"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "Ciudad de Saña, 1*"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Ciudad de Saña"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "Ciudad de Saña"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Puesto de auxilio rápido",
+      "observacion": "Ciudad de Saña"
+    }
+  ],
+  "descripcion": "El sitio arqueológico destaca por su evidencia de uso ceremonial y administrativo, ocupando una extensión monumental de aproximadamente 273.32 hectáreas y un perímetro de 6,533.45 km, lo que lo posiciona entre los centros prehispánicos más grandes del valle. Es, sin lugar a dudas, uno de los sitios más importantes y extensos del valle de Zaña, considerado el principal monumento precolombino de la región.\nEste complejo incluye recintos rectangulares de adobe al pie de la colina, características típicas de los períodos Chimú e Inca; además, se ha encontrado vestigios de culturas más antiguas como Chavín y Paracas, lo que enriquece aún más su valor, convirtiéndolo en un sitio de ocupación multicultural a lo largo de distintas épocas.\nPresenta muros de adobe y una leyenda que considera que en época de la prehistoria hubo un reservorio con aves palpímedas del lugar. Se considera que el Cerro Corbacho fue el centro ceremonial de la población prehispánica dedicada a la agricultura. Este asentamiento poblado es un ejemplo del antiguo concepto peruano de utilizar al máximo las zonas no cultivadas para propósitos de morada.\nEntre los hallazgos más relevantes se encuentran recintos de adobe, una ciudadela de barro conocida como “Paredones”, así como objetos de oro y cerámica provenientes de diversas culturas prehispánicas, muchos de los cuales han sido objeto de saqueos ilegales.\nRecientemente, en excavaciones dirigidas por el Ministerio de Cultura, se recuperaron vasijas miniatura (crisoles) tras la detección de cinco pozos de huaqueo en el sitio. Estos objetos fueron trasladados al Museo Tumbas Reales de Sipán, como parte de los esfuerzos por preservar el patrimonio cultural de la región.",
+  "particularidades": "",
+  "estado_actual": "Regular: afectado por huaqueo y abandono; se han documentado excavaciones ilegales y afectaciones recientes.",
+  "observaciones": "El ingreso al Cerro Corbacho se realiza por la calle Tarata cuadra 2.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "El sitio arqueológico destaca por su evidencia de uso ceremonial y administrativo, ocupando una extensión monumental de aproximadamente 273.32 hectáreas y un perímetro de 6,533.45 km, lo que lo posiciona entre los centros prehispánicos más grandes del valle. Es, sin lugar a dudas, uno de los sitios más importantes y extensos del valle de Zaña, considerado el principal monumento precolombino de la región.\nEste complejo incluye recintos rectangulares de adobe al pie de la colina, características típicas de los períodos Chimú e Inca; además, se ha encontrado vestigios de culturas más antiguas como Chavín y Paracas, lo que enriquece aún más su valor, convirtiéndolo en un sitio de ocupación multicultural a lo largo de distintas épocas.\nPresenta muros de adobe y una leyenda que considera que en época de la prehistoria hubo un reservorio con aves palpímedas del lugar. Se considera que el Cerro Corbacho fue el centro ceremonial de la población prehispánica dedicada a la agricultura. Este asentamiento poblado es un ejemplo del antiguo concepto peruano de utilizar al máximo las zonas no cultivadas para propósitos de morada.\nEntre los hallazgos más relevantes se encuentran recintos de adobe, una ciudadela de barro conocida como “Paredones”, así como objetos de oro y cerámica provenientes de diversas culturas prehispánicas, muchos de los cuales han sido objeto de saqueos ilegales.\nRecientemente, en excavaciones dirigidas por el Ministerio de Cultura, se recuperaron vasijas miniatura (crisoles) tras la detección de cinco pozos de huaqueo en el sitio. Estos objetos fueron trasladados al Museo Tumbas Reales de Sipán, como parte de los esfuerzos por preservar el patrimonio cultural de la región."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "Reconocido como Patrimonio Cultural de la Nación con R.D. N° 228-INC del 27.03.2002"
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Regular: afectado por huaqueo y abandono; se han documentado excavaciones ilegales y afectaciones recientes."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "El ingreso al Cerro Corbacho se realiza por la calle Tarata cuadra 2."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n270\nConteo muestral realizado los días 09, 16, 23 y 30 de junio\n2025\nValidado por la Dirección de Turismo y Artesanía de la GERCETUR Lambayeque.\nTuristas Nacionales\n5490\nConteo muestral realizado los días 09, 16, 23 y 30 de junio\n2025\nValidado por la Dirección de Turismo y Artesanía de la GERCETUR Lambayeque.\nVisitantes Locales(Excursionistas)\n5760\nConteo muestral realizado los días 09, 16, 23 y 30 de junio\n2025\nValidado por la Dirección de Turismo y Artesanía de la GERCETUR Lambayeque."
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nLambayeque/Chiclayo/Chiclayo\n-\nLambayeque/Chiclayo/Saña\nChiclayo (Terminal Terrestre Epsel) - Paradero Zaña (Esquina Ca. Patria y Ca. Real)\nTerrestre\nCombi\nAsfaltado\n48 km/45 min\n1\nLambayeque/Chiclayo/Saña\n-\nLambayeque/Chiclayo/Saña\nParadero Zaña (Esquina Ca. Patria y Ca. Real)- Río Zaña\nTerrestre\nMototaxi\nAsfaltado\n1.2 km/ 05 min\n1\nLambayeque/Chiclayo/Saña\n-\nLambayeque/Chiclayo/Saña\nRío Zaña – Cerro Corbacho\nTerrestre\nMototaxi\nTrocha carrozable\n2 km/ 10 min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre\nDebido a la falta de señalización en la ruta, solo se permite la visita durante el día y con la compañía de un guía autorizado para garantizar la seguridad y la correcta orientación en el recorrido."
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n08:00 a.m.\n-\n04:00 p.m.\nSe sugiere realizar el recorrido en horas diurnas, asegurando una experiencia más segura y placentera. Llevar lentes de sol, bloqueador, agua y gorro."
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nPaseos\nExcursiones\n--\nNaturaleza\nObservación de fauna\nHuerequeque, Gallinazo cabeza negra, Chiroca y Tortolita, Zorro costeño, Sajino, Lagartijas, salamanquejas e iguanas.\nNaturaleza\nObservación de flora\nAlgarrobo, Palo verde, faique, molle, cactáceas y gramíneas xerófitas\nNaturaleza\nObservación de paisaje\n--\nDeportes / Aventura\nCaminata/Trekking\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\nCiudad de Saña, 3***\nAlimentación\nRestaurantes\nCiudad de Saña.\nAlimentación\nBares\nCiudad de Saña\nAlimentación\nCafeterías\nCiudad de Saña\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de Saña\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nCiudad de Saña, español\nAlojamiento\nHostales (especificar categorías)\nCiudad de Saña, 1*\nLugares de Recreación\nJuegos Infantiles\nCiudad de Saña\nServicios Públicos\nSeñales turísticas de orientación\nCiudad de Saña\nServicios Públicos\nPuesto de auxilio rápido\nCiudad de Saña"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Saña.\nBancos\nCiudad de Saña.\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Saña.\nServicio de estacionamiento\nCiudad de Saña.\nCentro de salud - tópico\nCiudad de Saña.\nSeguridad / POLTUR / Comisaría\nCiudad de Saña.\nAlquiler y compra de equipos deportivos\nCiudad de Saña.\nLibrerías\nCiudad de Saña.\nBodegas o minimarkets\nCiudad de Saña."
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Saña.\nAlcantarillado sanitario\nCiudad de Saña.\nLuz (Suministro Eléctrico)\nCiudad de Saña.\nTeléfono\nCiudad de Saña.\nSeñalización turística\nCiudad de Saña."
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nEstado peruano, patrimonio cultural protegido\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nSaneamiento legal en proceso, bajo competencia del Ministerio de Cultura.\nAdministrador por\nNombre\nMinisterio de Cultura (Dirección de Catastro y Saneamiento)\nTiempo de administración\nDesde el año 2000"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nGerencia Regional de Comercio Exterior y Turismo de Lambayeque.\nNombre (Persona(s) responsable(s) del inventario turístico):\nLic. Magali Exebio Cabrera.\nCargo:\nTécnico en Turismo.\nCorreo:\nluzmexebio@gmail.com\nTeléfono:\n947672674\nFuentes Bibliográfica:\n1. Instituto Nacional de Cultura (2002). Resolución Directoral Nº 228/INC Lima, 27.03.2002\n2. Martínez J. (2016). Excavaciones en el sitio de Cojal del Complejo Arqueológico Songoy – Cojal – Valle Medio de Zaña – Lambayeque. Lambayeque.\n3. Smartguide. Complejo Arqueológico Cerro Corbacho. Disponible en: https://www.smart-guide.org/destinations/es/chiclayo/?place=Complejo+Arqueol%C3%B3gico+Cerro+Corbacho\n4. Van Valkenburgh P. (2016). Boletín de arqueología PUCP Nº 20. Produciendo Chérrepe: reducción, etnia y performance en los valles de Zaña y Chamán, siglos XVI y XVII. Disponible en: https://revistas.pucp.edu.pe/index.php/boletindearqueologia/article/download/18668/18919/\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n4/11/2025 08:12:20"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -6.930180376362033,
+    "longitud": -79.56727300265504
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-6.930180376362033,-79.56727300265504"
+}

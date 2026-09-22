@@ -1,0 +1,324 @@
+{
+  "cod_ficha": 733,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=733",
+  "nombre": "Parque Nacional Del Manu",
+  "departamento": "Madre De Dios",
+  "provincia": "Manu",
+  "distrito": "FITZCARRALD",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "n. Áreas Protegidas",
+  "subtipo": "Parques Nacionales",
+  "jerarquia": "3",
+  "altitud": "",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=291901",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=291901",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=291992",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=292228",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=469857"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Estudios e Investigación",
+    "Otros - Otros(Especificar)",
+    "Naturaleza - Observación de fauna",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de aves",
+    "Cultura y Folclore - Visita y participación en actividades de vida cotidiana de la comunidad"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Otros(Especificar)",
+      "observacion": "Paseo en catamaran en las cochas",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/otros02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de fauna",
+      "observacion": "Más de 228 especies de mamíferos, 150 especies de anfibios, 100 especies de reptiles, peces, insectos, mariposas entre otros",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fauna02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "Más de 5000 especies de plantas equivalente a 1/6 de toda la flora del mundo, entre ellas más de 700 especies de orquídeas",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de aves",
+      "observacion": "Más de 1030 especies de aves",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/aves02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Visita y participación en actividades de vida cotidiana de la comunidad",
+      "observacion": "--",
+      "icono_url": null
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Cusco/Cusco/Cusco - Madre De Dios/Manu/Manu",
+      "detalle": "Cudad del Cusco - Localidad de Atalaya",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mini bus turístico",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "210 km. / 7 hr."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Madre De Dios/Manu/Manu - Madre De Dios/Manu/Fitzcarrald",
+      "detalle": "Localidad de Atalaya - Boca Manu - Puesto de Control y Vigilancia Limonal",
+      "tipo_acceso": "Lacustre / Fluvial",
+      "medio_transporte": "Bote",
+      "tipo_via": "",
+      "distancia_tiempo": "120 km. / 6 hr."
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "389",
+      "horario": "SERNANP - MINCETUR",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "4226",
+      "horario": "SERNANP - MINCETUR",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Esporádicamente - Algunos meses",
+      "especificacion": "--",
+      "horario": "- Previo Control en el Puesto de Vigilancia Limonal",
+      "observaciones": "Previo Control en el Puesto de Vigilancia Limonal"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "EN SOLES: 1 día: Ext.: 30 / Nac.: Adulto: 15 - Menor: 8 /Loc : 8 2 - 3 días: Ext.: 60 / Nac.: Adulto: 30 - Menor: 15 / Loc : 15 4 - 30 días: Ext.: 150 / Nac.: Adulto: 75 / Menor: 35 / Loc : 35"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Un establecimiento de Hospedaje y 5 Campamentos"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "En el establecimiento de hospedaje y campamentos"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Casa Matsiguenka"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicios Higiénicos",
+      "observacion": "Puestos de Vigilancia"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Centros de interpretación",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Boletería",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de interpretación",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Instalación para la exposición de flora o fauna silvestre",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Paradores turísticos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Embarcaderos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Muelles turísticos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Orquideario",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Centro Poblado Villa Salvación."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Sector Boca Manu y Centro Poblado Villa Salvación."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Centro Poblado Villa Salvación."
+    }
+  ],
+  "descripcion": "Es una de las áreas naturales protegidas más importantes del mundo por su gran biodiversidad. Tiene una extensión de 1 716 295.22 hectáreas, en donde es posible distinguir tres pisos ecológicos: Alto Andino, Selva Alta o Ceja de Selva y Selva baja; por lo que presenta diversos climas, que van desde el frío y seco, hasta templado y húmedo.\nFue establecido para proteger parte de una zona con mayor biodiversidad del planeta, desde las montañas de los Andes orientales hasta las zonas bajas de la cuenca occidental del Amazonas, esta región es conocida como Hotspot de la biodiversidad de los andes tropicales, ya que presenta uno de las mayores biodiversidades del mundo y lo convierte en uno de los destinos primordiales de visita para cualquier turista amante de la naturaleza.\nEl Manu contiene gran diversidad de especies animales: más de 1030 especies de aves como el águila harpía (Harpia harpyja), jabiru (Jabiru mycteria), espátula rosada (Platalea ajaja), el ganso del orinoco (Oressochen jubatus), el gallito de las rocas (Rupicola peruviana) y 27 especies de psitácidos entre loros y guacamayos; 228 especies de mamíferos, entre ellos 15 especies de primates como el mono choro (Lagotrix lagotricha) y el maquisapa negro (Ateles chamek), 8 especies de felinos como el jaguar (Panthera onca), el tigrillo (Leopardus pardalis), y otras especies representativas como el lobo de río (Pteronura brasiliensis) y el oso de anteojos (Tremarctos ornatus), así también se encuentran más de 100 especies de murciélagos; 150 especies de anfibios, 100 especies de reptiles como el lagarto negro (Melanosuchus niger), lagarto blanco (Caiman cocodrilus), la tortuga taricaya (Podocnemis unifilis), 210 especies de peces, 1037 especies de mariposas, 136 especies de libélulas, 650 de coleópteros y más de 300 especies de hormigas.\nEsta gran diversidad también se refleja en la flora registrada, con más de 5000 especies de plantas equivalentes a 1/6 de toda la flora del mundo, entre ellas más de 700 especies de orquídeas y especies de árboles representativos como el cetico, el cedro, el aguano, la lupuna o ceiba, el mata palo, el shihuahuaco, la caoba, ishpingo, entre otros.\nEn el ámbito del Parque Nacional del Manu, también se encuentran poblaciones originarias como las comunidades campesinas que mantienen la lengua quechua como su lengua materna y varias poblaciones nativas amazónicas que habitan este territorio desde tiempos inmemoriales, como son los pueblos Matsigenka, Amahuaca, Yaminahua, Piro, Amarakaeri, Huashipari y Nahua.\nParte del pasado cultural de estos grupos está conservado por los petroglifos de Pusharo, en el sector del río Palotoa y por los restos arqueológicos de Mameria.\nEl sector turístico del río Manu comprendido entre los Puestos de control Limonal y Pakitza, es el sector del Parque que recibe la mayor afluencia de turistas en la selva baja, donde existen servicios y facilidades turísticas implementados para el uso de los turistas.\nLos principales atractivos turísticos con los que cuenta el Parque lo constituyen las cochas Salvador, Otorongo, Brashco (con un sistema de trochas e instalaciones turísticas de uso compartido) y cocha Juárez (con un sistema de trochas e instalaciones de uso exclusivo), alrededor de las cuales se concentra la oferta de actividades de los operadores de turismo, también se cuenta con el Centro de Interpretación en el Puesto de control Limonal.",
+  "particularidades": "El Parque Nacional del Manu es una de las áreas naturales protegidas más biodiversas del planeta, debido a su gradiente altitudinal que inicia desde los andes a 4000 msnm hasta la llanura amazónica a 250 msnm, pasando por los bosques de nubes en la vertiente oriental de los andes.",
+  "estado_actual": "Muy bueno, su conservación se encuentra a cargo del Sernanp.",
+  "observaciones": "De diciembre a febrero, meses durante los cuales tienen lugar la mayor descarga de lluvias del año, la experiencia demuestra que es difícil que el visitante disfrute de la naturaleza y de los atractivos del Parque, al menos en la magnitud en que lo hace en la época seca. La inundación del bosque ribereño dificulta la visibilidad de la fauna, mucho más fácil de ver en temporada seca. El incremento de riesgos para el visitante es otro rasgo característico de la temporada de lluvias, pues el caudal de los ríos aumenta y la navegación se torna más riesgosa; por los fuertes vientos ocurren caídas de árboles. La época de lluvias permite que exista un período de recuperación de trochas y sitios de uso turístico.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Es una de las áreas naturales protegidas más importantes del mundo por su gran biodiversidad. Tiene una extensión de 1 716 295.22 hectáreas, en donde es posible distinguir tres pisos ecológicos: Alto Andino, Selva Alta o Ceja de Selva y Selva baja; por lo que presenta diversos climas, que van desde el frío y seco, hasta templado y húmedo.\nFue establecido para proteger parte de una zona con mayor biodiversidad del planeta, desde las montañas de los Andes orientales hasta las zonas bajas de la cuenca occidental del Amazonas, esta región es conocida como Hotspot de la biodiversidad de los andes tropicales, ya que presenta uno de las mayores biodiversidades del mundo y lo convierte en uno de los destinos primordiales de visita para cualquier turista amante de la naturaleza.\nEl Manu contiene gran diversidad de especies animales: más de 1030 especies de aves como el águila harpía (Harpia harpyja), jabiru (Jabiru mycteria), espátula rosada (Platalea ajaja), el ganso del orinoco (Oressochen jubatus), el gallito de las rocas (Rupicola peruviana) y 27 especies de psitácidos entre loros y guacamayos; 228 especies de mamíferos, entre ellos 15 especies de primates como el mono choro (Lagotrix lagotricha) y el maquisapa negro (Ateles chamek), 8 especies de felinos como el jaguar (Panthera onca), el tigrillo (Leopardus pardalis), y otras especies representativas como el lobo de río (Pteronura brasiliensis) y el oso de anteojos (Tremarctos ornatus), así también se encuentran más de 100 especies de murciélagos; 150 especies de anfibios, 100 especies de reptiles como el lagarto negro (Melanosuchus niger), lagarto blanco (Caiman cocodrilus), la tortuga taricaya (Podocnemis unifilis), 210 especies de peces, 1037 especies de mariposas, 136 especies de libélulas, 650 de coleópteros y más de 300 especies de hormigas.\nEsta gran diversidad también se refleja en la flora registrada, con más de 5000 especies de plantas equivalentes a 1/6 de toda la flora del mundo, entre ellas más de 700 especies de orquídeas y especies de árboles representativos como el cetico, el cedro, el aguano, la lupuna o ceiba, el mata palo, el shihuahuaco, la caoba, ishpingo, entre otros.\nEn el ámbito del Parque Nacional del Manu, también se encuentran poblaciones originarias como las comunidades campesinas que mantienen la lengua quechua como su lengua materna y varias poblaciones nativas amazónicas que habitan este territorio desde tiempos inmemoriales, como son los pueblos Matsigenka, Amahuaca, Yaminahua, Piro, Amarakaeri, Huashipari y Nahua.\nParte del pasado cultural de estos grupos está conservado por los petroglifos de Pusharo, en el sector del río Palotoa y por los restos arqueológicos de Mameria.\nEl sector turístico del río Manu comprendido entre los Puestos de control Limonal y Pakitza, es el sector del Parque que recibe la mayor afluencia de turistas en la selva baja, donde existen servicios y facilidades turísticas implementados para el uso de los turistas.\nLos principales atractivos turísticos con los que cuenta el Parque lo constituyen las cochas Salvador, Otorongo, Brashco (con un sistema de trochas e instalaciones turísticas de uso compartido) y cocha Juárez (con un sistema de trochas e instalaciones de uso exclusivo), alrededor de las cuales se concentra la oferta de actividades de los operadores de turismo, también se cuenta con el Centro de Interpretación en el Puesto de control Limonal."
+    },
+    {
+      "titulo": "Particularidades",
+      "contenido": "El Parque Nacional del Manu es una de las áreas naturales protegidas más biodiversas del planeta, debido a su gradiente altitudinal que inicia desde los andes a 4000 msnm hasta la llanura amazónica a 250 msnm, pasando por los bosques de nubes en la vertiente oriental de los andes."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "Área importante para la conservación de aves (IBA).\nPatrimonio Mundial de la UNESCO.\nPatrimonio Natural de la Humanidad.\nPatrimonio Cultural de la Nación (Pusharo).\nZona núcleo de Reserva de Biósfera.\nReferente Natural de la Región Andina."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Muy bueno, su conservación se encuentra a cargo del Sernanp."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "De diciembre a febrero, meses durante los cuales tienen lugar la mayor descarga de lluvias del año, la experiencia demuestra que es difícil que el visitante disfrute de la naturaleza y de los atractivos del Parque, al menos en la magnitud en que lo hace en la época seca. La inundación del bosque ribereño dificulta la visibilidad de la fauna, mucho más fácil de ver en temporada seca. El incremento de riesgos para el visitante es otro rasgo característico de la temporada de lluvias, pues el caudal de los ríos aumenta y la navegación se torna más riesgosa; por los fuertes vientos ocurren caídas de árboles. La época de lluvias permite que exista un período de recuperación de trochas y sitios de uso turístico."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n389\nSERNANP - MINCETUR\n2021\nundefined\nTuristas Nacionales\n4226\nSERNANP - MINCETUR\n2021"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nCusco/Cusco/Cusco\n-\nMadre De Dios/Manu/Manu\nCudad del Cusco - Localidad de Atalaya\nTerrestre\nMini bus turístico\nAsfaltado\n210 km. / 7 hr.\n1\nMadre De Dios/Manu/Manu\n-\nMadre De Dios/Manu/Fitzcarrald\nLocalidad de Atalaya - Boca Manu - Puesto de Control y Vigilancia Limonal\nLacustre / Fluvial\nBote\n120 km. / 6 hr."
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nEN SOLES: 1 día: Ext.: 30 / Nac.: Adulto: 15 - Menor: 8 /Loc : 8 2 - 3 días: Ext.: 60 / Nac.: Adulto: 30 - Menor: 15 / Loc : 15 4 - 30 días: Ext.: 150 / Nac.: Adulto: 75 / Menor: 35 / Loc : 35"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nEsporádicamente - Algunos meses\n--\n-\nPrevio Control en el Puesto de Vigilancia Limonal"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nEstudios e Investigación\n--\nOtros\nOtros(Especificar)\nPaseo en catamaran en las cochas\nNaturaleza\nObservación de fauna\nMás de 228 especies de mamíferos, 150 especies de anfibios, 100 especies de reptiles, peces, insectos, mariposas entre otros\nNaturaleza\nObservación de flora\nMás de 5000 especies de plantas equivalente a 1/6 de toda la flora del mundo, entre ellas más de 700 especies de orquídeas\nNaturaleza\nObservación de aves\nMás de 1030 especies de aves\nCultura y Folclore\nVisita y participación en actividades de vida cotidiana de la comunidad\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nAlojamiento\nOtros (Especificar)\nUn establecimiento de Hospedaje y 5 Campamentos\nInstalaciones Privadas\nAlimentación\nOtros (Especificar)\nEn el establecimiento de hospedaje y campamentos\nInstalaciones Privadas\nOtros Servicios Turísticos\nVenta de artesanía\nCasa Matsiguenka\nInstalaciones Privadas\nOtros Servicios Turísticos\nServicios Higiénicos\nPuestos de Vigilancia\nInstalaciones Públicas\nServicios Públicos\nMiradores turísticos\n--\nInstalaciones Públicas\nServicios Públicos\nSeñales turísticas de orientación\n--\nInstalaciones Públicas\nServicios Públicos\nCentros de interpretación\n--\nInstalaciones Públicas\nServicios Públicos\nBoletería\n--\nInstalaciones Públicas\nServicios Públicos\nSeñales turísticas de interpretación\n--\nInstalaciones Públicas\nServicios Públicos\nInstalación para la exposición de flora o fauna silvestre\n--\nInstalaciones Públicas\nServicios Públicos\nParadores turísticos\n--\nInstalaciones Públicas\nServicios Públicos\nEmbarcaderos\n--\nInstalaciones Públicas\nServicios Públicos\nMuelles turísticos\n--\nInstalaciones Públicas\nServicios Públicos\nOrquideario\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nOtros (Especificar)\nCentro Poblado Villa Salvación.\nAlimentación\nRestaurantes\nSector Boca Manu y Centro Poblado Villa Salvación.\nAlimentación\nKioskos de comida y bebidas\nCentro Poblado Villa Salvación."
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCentro Poblado Villa Salvación.\nBancos\nCiudad del Cusco y Banco de la Nación en Centro Poblado Villa Salvación.\nSeguridad / POLTUR / Comisaría\nCentro Poblado Villa Salvación.\nCentro de salud - tópico\nCentro Poblado Villa Salvación.\nBodegas o minimarkets\nCentro Poblado Villa Salvación.\nEstación de servicios, grifos, gasolineras y gasocentros\nCentro Poblado Villa Salvación."
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\n--\nOtros (Especificar)\nCatamaran, torre de espigones para observación\nSeñalización turística\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCentro Poblado Villa Salvación y Localidad Boca Manu.\nLuz (Suministro Eléctrico)\nCentro Poblado Villa Salvación y Localidad Boca Manu.\nTeléfono\nCentro Poblado Villa Salvación y Localidad Boca Manu."
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nServicio Nacional de Áreas Naturales Protegidas por el Estado – SERNANP\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n11220790\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nDecreto Supremo N° 0644-73-AG.\nAdministrador por\nNombre\nJefatura del Parque Nacional del Manu\nTiempo de administración\nDesde el año 1973"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo - Madre de Dios\nNombre (Persona(s) responsable(s) del inventario turístico):\nRosa Milagros Delgado Huaytalla\nCargo:\nTécnico de Producto Turístico\nCorreo:\nrmilagrosd@gmail.com\nTeléfono:\n953458376\nFuentes Bibliográfica:\nPlan de Uso Turístico del Parque Nacional del Manu. Servicio Nacional de Áreas Naturales Protegidas por el Estado – SERNANP.\nMaterial Audiovisual actual del Recurso:\n, VIDEOS\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n16/12/2022"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -12.044692844010989,
+    "longitud": -71.71875
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-12.044692844010989,-71.71875"
+}

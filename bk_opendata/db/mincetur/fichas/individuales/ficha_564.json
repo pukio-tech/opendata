@@ -1,0 +1,272 @@
+{
+  "cod_ficha": 564,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=564",
+  "nombre": "Nevado Pastoruri",
+  "departamento": "Áncash",
+  "provincia": "Recuay",
+  "distrito": "CATAC",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "a. Montañas",
+  "subtipo": "Nevado",
+  "jerarquia": "2",
+  "altitud": "5240",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=470706",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=470706",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=470692",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=470693",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=471221",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=471222"
+  ],
+  "actividades_permitidas": [
+    "Deportes / Aventura - Caminata/Trekking"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Áncash/Huaraz/Huaraz - Áncash/Recuay/Catac",
+      "detalle": "Jr San Martín (Parqueo Turístico) - Cruce Pachacoto-Nevado Pastoruri",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "44km/1.30hrs"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Áncash/Recuay/Catac - Áncash/Recuay/Catac",
+      "detalle": "Cruce de Pachacoto - Área de estacionamiento Nevado Pastoruri",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus turístico",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "40km./1:35Hrs."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Áncash/Recuay/Catac - Áncash/Recuay/Catac",
+      "detalle": "Área de Estacionamiento - Nevado Pastoruri",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Sendero",
+      "distancia_tiempo": "1.5km./40 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Áncash/Recuay/Catac - Áncash/Recuay/Catac",
+      "detalle": "Área Estacionamiento N. Pastoruri - Nevado Pastoruri",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A caballo",
+      "tipo_via": "Sendero",
+      "distancia_tiempo": "1km./ 10Min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "11110",
+      "horario": "Parque Nacional Huascarán - SERNANP",
+      "observaciones": "2019"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "51999",
+      "horario": "Parque Nacional Huascarán - SERNANP",
+      "observaciones": "2019"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "09:00 a.m. - 01:00 p.m. --",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "Parque Nacional Huascarán (Extranjeros s/.30.00 y Nacional s/.12.00)"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "En el área de estacionamiento"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "2 y 3 estrellas, Ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "3,2 y 1 estrellas, Ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de bicicleta",
+      "observacion": "Ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Español e inglés, Ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Huaraz"
+    }
+  ],
+  "descripcion": "Se encuentra ubicado al noreste del Distrito a de Catac, en la Región Natural Puna, sector Carpa del Parque Nacional Huascarán, pertenece a la cuenca del río Pachacoto, tiene una altitud de 5240 m.s.n.m. y el recorrido hasta el nevado está sobre los 4100 m.s.n.m. Teniendo un clima seco, con temperaturas que bordean los 5¿°C y -2¿°C. El calentamiento global ha hecho que a su alrededor se formen pequeñas lagunas, el hielo ocupa un área de 1,28 km². Su tipo morfológico es el valle glaciar y en la actualidad se encuentra en retroceso, hecho que se pone de manifiesto en las fajas de rocas y detritos desnudos antepuestas a su frente. En el ámbito del nevado de Pastoruri se desarrolló el proyecto la Ruta del Cambio Climático, es una iniciativa de adaptación al cambio climático que inicia en el distrito de Ticapampa, pasa por Cátac hasta llegar al Pastoruri. El Centro de Interpretación es el primero en el Perú con la temática de cambio climático en una zona glaciar. Esta ruta muestra a los visitantes donde se encontraba el glaciar hace varios años y la ubicación de la que fuera una cueva de hielo, así como los estados del agua en el mismo. En el trayecto al nevado se puede apreciar la laguna Patococha, el ojo de agua Pumapa Shimin o Boca de Puma, por la forma que se aprecia, llama la atención los efectos multicolores que se forman con los rayos solares sobre las aguas y las algas, otra atracción del lugar es el Agua Gasificada que emanan de las profundidades y que bota a una altura de un metro aproximadamente; así mismo se puede ver a Pintura Rupestre de culturas antiguas en Pumapama, la cuales fueron plasmadas en rocas del lugar, dentro de su fauna podemos observar que encontramos a los patos silvestres, el Chirito, Tacamas, entre otros; y flora alta andina se observa el bosque de Puyas de Raimondi, con una altura de 6 a 15 metros y con una duración de 4 a 100 años de vida y el ichu como pasto natural de la zona. Durante el recorrido los visitantes podrán observar de cerca la evolución del planeta, la belleza natural, la dinámica glaciar, historia y desafíos frente al cambio climático.",
+  "particularidades": "",
+  "estado_actual": "Regula, debido al proceso de desglaciación.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Se encuentra ubicado al noreste del Distrito a de Catac, en la Región Natural Puna, sector Carpa del Parque Nacional Huascarán, pertenece a la cuenca del río Pachacoto, tiene una altitud de 5240 m.s.n.m. y el recorrido hasta el nevado está sobre los 4100 m.s.n.m. Teniendo un clima seco, con temperaturas que bordean los 5¿°C y -2¿°C. El calentamiento global ha hecho que a su alrededor se formen pequeñas lagunas, el hielo ocupa un área de 1,28 km². Su tipo morfológico es el valle glaciar y en la actualidad se encuentra en retroceso, hecho que se pone de manifiesto en las fajas de rocas y detritos desnudos antepuestas a su frente. En el ámbito del nevado de Pastoruri se desarrolló el proyecto la Ruta del Cambio Climático, es una iniciativa de adaptación al cambio climático que inicia en el distrito de Ticapampa, pasa por Cátac hasta llegar al Pastoruri. El Centro de Interpretación es el primero en el Perú con la temática de cambio climático en una zona glaciar. Esta ruta muestra a los visitantes donde se encontraba el glaciar hace varios años y la ubicación de la que fuera una cueva de hielo, así como los estados del agua en el mismo. En el trayecto al nevado se puede apreciar la laguna Patococha, el ojo de agua Pumapa Shimin o Boca de Puma, por la forma que se aprecia, llama la atención los efectos multicolores que se forman con los rayos solares sobre las aguas y las algas, otra atracción del lugar es el Agua Gasificada que emanan de las profundidades y que bota a una altura de un metro aproximadamente; así mismo se puede ver a Pintura Rupestre de culturas antiguas en Pumapama, la cuales fueron plasmadas en rocas del lugar, dentro de su fauna podemos observar que encontramos a los patos silvestres, el Chirito, Tacamas, entre otros; y flora alta andina se observa el bosque de Puyas de Raimondi, con una altura de 6 a 15 metros y con una duración de 4 a 100 años de vida y el ichu como pasto natural de la zona. Durante el recorrido los visitantes podrán observar de cerca la evolución del planeta, la belleza natural, la dinámica glaciar, historia y desafíos frente al cambio climático."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "Se encuentra dentro del Parque Nacional Huascaran el cual fue declarado por la UNESCO, Reserva de Biosfera en 1977 y Patrimonio Natural de la Humanidad en 1985.\nCertificado Internacional Safe Travel - Mayo 2022."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Regula, debido al proceso de desglaciación."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n11110\nParque Nacional Huascarán - SERNANP\n2019\nTuristas Nacionales\n51999\nParque Nacional Huascarán - SERNANP\n2019"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nÁncash/Huaraz/Huaraz\n-\nÁncash/Recuay/Catac\nJr San Martín (Parqueo Turístico) - Cruce Pachacoto-Nevado Pastoruri\nTerrestre\nBus público\nAsfaltado\n44km/1.30hrs\n1\nÁncash/Recuay/Catac\n-\nÁncash/Recuay/Catac\nCruce de Pachacoto - Área de estacionamiento Nevado Pastoruri\nTerrestre\nBus turístico\nAfirmado\n40km./1:35Hrs.\n1\nÁncash/Recuay/Catac\n-\nÁncash/Recuay/Catac\nÁrea de Estacionamiento - Nevado Pastoruri\nTerrestre\nA pie\nSendero\n1.5km./40 min.\n1\nÁncash/Recuay/Catac\n-\nÁncash/Recuay/Catac\nÁrea Estacionamiento N. Pastoruri - Nevado Pastoruri\nTerrestre\nA caballo\nSendero\n1km./ 10Min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nParque Nacional Huascarán (Extranjeros s/.30.00 y Nacional s/.12.00)"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n09:00 a.m.\n-\n01:00 p.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nDeportes / Aventura\nCaminata/Trekking\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nAlimentación\nKioskos de comida y bebidas\nEn el área de estacionamiento"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\n2 y 3 estrellas, Ciudad de Huaraz\nAlojamiento\nHostales (especificar categorías)\n3,2 y 1 estrellas, Ciudad de Huaraz\nAlimentación\nRestaurantes\nCiudad de Huaraz\nAlimentación\nBares\nCiudad de Huaraz\nAlimentación\nCafeterías\nCiudad de Huaraz\nAlimentación\nFuentes de soda\nCiudad de Huaraz\nAlimentación\nKioskos de comida y bebidas\nCiudad de Huaraz\nAlimentación\nVenta de comida Rápida\nCiudad de Huaraz\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Huaraz\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de Huaraz\nOtros Servicios Turísticos\nAlquiler de bicicleta\nCiudad de Huaraz\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nEspañol e inglés, Ciudad de Huaraz\nLugares de Recreación\nDiscotecas\nCiudad de Huaraz"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nBancos\nCiudad de Huaraz\nServicios de internet\nCiudad de Huaraz\nCajero automático\nCiudad de Huaraz\nCasa de cambio\nCiudad de Huaraz\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Huaraz\nServicio de correos\nCiudad de Huaraz\nServicio de estacionamiento\nCiudad de Huaraz\nServicios de taxis\nCiudad de Huaraz\nCentro de salud - tópico\nCiudad de Huaraz\nVenta de materiales para fotografías\nCiudad de Huaraz\nSeguridad / POLTUR / Comisaría\nCiudad de Huaraz\nBodegas o minimarkets\nCiudad de Huaraz"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nSeñalización turística\nLa ruta de caminata hacia el nevado"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Huaraz\nAlcantarillado sanitario\nCiudad de Huaraz\nDesagüe\nCiudad de Huaraz\nLuz (Suministro Eléctrico)\nCiudad de Huaraz\nTeléfono\nCiudad de Huaraz\nSeñalización turística\nCiudad de Huaraz"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nParque Nacional Huascarán\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nCerti. Literal. Predio\nNúmero de Partida:\n11300446\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nParque Nacional Huascarán\nTiempo de administración\nDesde el 1 de julio de 1975"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo - Áncash\nNombre (Persona(s) responsable(s) del inventario turístico):\nPatricia Camones Trejo\nCargo:\nDirectora de Turismo de Áncash\nCorreo:\ndiceturancashdt2@gmail.com\nTeléfono:\n937082574\nFuentes Bibliográfica:\n- Inventario de Recursos Turísticos del Distrito de Catac - Recuay - Ancash 2022.\n- https://viajes.nationalgeographic.com.es/a/ruta-cambio-climatico-por-glaciar-pastoruri-peru_13692\n- Monitoreo de la Dinámica del Glaciar Pastoruri, Empleando Tecnología RPA.\n- https://www.gob.pe/institucion/inaigem/noticias/319148-ancash-expertos-del-inaigem-estudiaran-nucleos-de-hielo-del-nevado-pastoruri-para-conocer-como-fue-el-clima-en-el-pasado\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n20/07/2023 11:11:23"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -9.930295619996315,
+    "longitud": -77.18991961111453
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-9.930295619996315,-77.18991961111453"
+}

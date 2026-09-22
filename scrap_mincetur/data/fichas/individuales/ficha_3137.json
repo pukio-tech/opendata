@@ -1,0 +1,437 @@
+{
+  "cod_ficha": 3137,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=3137",
+  "nombre": "Lomas De Lúcumo",
+  "departamento": "Lima",
+  "provincia": "Lima",
+  "distrito": "PACHACAMAC",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "l. Costas",
+  "subtipo": "Lomas",
+  "jerarquia": "1",
+  "altitud": "750",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=640663",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=640663",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=640716",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=640665",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=640717",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=640666",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=640719",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=640720",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=640721",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=640667",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=640668",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=640669",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=640670",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=640671",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=640723",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=640672",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=640673"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Estudios e Investigación",
+    "Otros - Realización de eventos",
+    "Naturaleza - Observación de fauna",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de aves",
+    "Deportes / Aventura - Caminata/Trekking"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Realización de eventos",
+      "observacion": "carreras",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/eventos02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de fauna",
+      "observacion": "Caracoles, lagartijas, vizacachas, entre otros.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fauna02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "Flor de Amancaes, la Begonia de las rocas, la Cebolleta, la Varita de San José, la Trompeta, la Oreja de ratón, Papa silvestre, la Tara, entre otros.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de aves",
+      "observacion": "Tortolas, cuculíes, lechuzas, águilas, entre otros.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/aves02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Lima/Lima/Lima - Lima/Lima/Pachacamac",
+      "detalle": "Paseo Colón / Cruce Pachacámac",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "40.2km/1h 50 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Lima/Lima/Pachacamac - Lima/Lima/Pachacamac",
+      "detalle": "Cruce de Pachacámac / Plaza de Armas de Pachacámac",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "4.6km/8min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Lima/Lima/Pachacamac - Lima/Lima/Pachacamac",
+      "detalle": "Plaza de Armas de Pachacámac / Puente del Centro Poblado Rural Quebrada Verde",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "2.6km/6min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Lima/Lima/Pachacamac - Lima/Lima/Pachacamac",
+      "detalle": "Puente del Centro Poblado Rural Quebrada Verde - Boletería de ingreso \"Quebrada Verde\"",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "1km/3min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Lima/Lima/Pachacamac - Lima/Lima/Pachacamac",
+      "detalle": "Boletería de Ingreso \"Quebrada Verde\" / Lomas de Lúcumo",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Sendero",
+      "distancia_tiempo": "0,2 km/3min"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Lima/Lima/Lima - Lima/Lima/Pachacamac",
+      "detalle": "Centro Comercial La Rambla de San Borja - Cruce de Pachacámac",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "30.3km/50min"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Lima/Lima/Pachacamac - Lima/Lima/Pachacamac",
+      "detalle": "Cruce de Pachacámac / Plaza de Armas de Pachacámac",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "4.6km/8min"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Lima/Lima/Pachacamac - Lima/Lima/Pachacamac",
+      "detalle": "Plaza de Armas de Pachacámac /Puente del Centro Poblado Rural de Quebrada Verde",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "2.6km/6min"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Lima/Lima/Pachacamac - Lima/Lima/Pachacamac",
+      "detalle": "Puente del Centro Poblado Rural de Quebrada Verde - Boletería de Ingreso \"Quebrada Verde\"",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "1km/3min"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Lima/Lima/Pachacamac - Lima/Lima/Pachacamac",
+      "detalle": "Boletería de Ingreso \"Quebrada Verde\" / Lomas de Lúcumo",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Sendero",
+      "distancia_tiempo": "0,2 km/3min"
+    },
+    {
+      "recorrido": "3",
+      "tramo": "Lima/Lima/San Isidro - Lima/Lima/Pachacamac",
+      "detalle": "Estación Javier Prado del Metropolitano de Lima - Paradero Tres Marías de Huertos de Manchay",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "24.4 km / 1h 10 min."
+    },
+    {
+      "recorrido": "3",
+      "tramo": "Lima/Lima/Pachacamac - Lima/Lima/Pachacamac",
+      "detalle": "Paradero Tres Marías de Huertos de Manchay - Plaza de Armas de Pachacámac",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "15.5km /35 min"
+    },
+    {
+      "recorrido": "3",
+      "tramo": "Lima/Lima/Pachacamac - Lima/Lima/Pachacamac",
+      "detalle": "Plaza de Armas de Pachacámac - Puente del Centro Poblado Rural de Quebrada Verde",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "2.6 km/6 min."
+    },
+    {
+      "recorrido": "3",
+      "tramo": "Lima/Lima/Pachacamac - Lima/Lima/Pachacamac",
+      "detalle": "Puente del Centro Poblado Rural Quebrada Verde - Boletería de ingreso a las Lomas de Lúcumo",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "1 km /3 min."
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "18465",
+      "horario": "Documento Simple N°11032-2025",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Esporádicamente - Algunos meses",
+      "especificacion": "--",
+      "horario": "08:00 a.m. - 08:00 p.m. Para visitas de lunes a viernes, previa reserva con la Asociación Circuito Ecoturístico Lomas de Lúcumo - ACELL, al +51 997 944 148 / +51 971 305 078",
+      "observaciones": "Para visitas de lunes a viernes, previa reserva con la Asociación Circuito Ecoturístico Lomas de Lúcumo - ACELL, al +51 997 944 148 / +51 971 305 078"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "Niños S/5.50 (03-11 años) Adultos S/10.00 (12 años a más) Adulto mayor S/5.50 (60 años a más) Contactarse con la Asociación Circuito Ecoturístico Lomas de Lúcumo al +51 997 944 148"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Servicios higiénicos: S/ 1"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Español. Ruta Corta S/50 para grupos de máx. 15 personas. Ruta Larga S/60 para grupos de máx. 15 personas."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Distrito de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Cines o Teatros",
+      "observacion": "Distrito de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Distrito de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Distrito de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Distrito de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "Distrito de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Distrito de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Distrito de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Distrito de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de bicicleta",
+      "observacion": "Distrito de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Inglés y Portugués. Distrito de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Distrito de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Distrito de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Distrito de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Distrito de Pachacámac"
+    }
+  ],
+  "descripcion": "Las Lomas de Lúcumo son un ecosistema altamente estacional ubicado en el Centro Poblado Quebrada Verde del distrito de Pachacámac, al sureste de Lima, con una extensión de 1597.36 hectáreas que se distribuyen en sectores como Quebrada Verde, Guayabo, Picapiedra y Manchay. Pertenece a la región natural Yunga.\nEl terreno es irregular y accidentado, sus suelos pedregosos y arenosos en las partes bajas, que se ubican entre los 190 y 300 msnm. Gracias a las neblinas costeras y el fenómeno de inversión térmica, las lomas se llenan de vida durante la temporada húmeda, que va de junio a noviembre, con la vegetación cubriendo principalmente las laderas orientadas hacia el mar. Durante esta época, el color verde transforma el paisaje, contrastando con la aridez de la estación seca de diciembre a mayo, cuando algunas plantas entran en estado de latencia. El área cuenta con una variedad de flora, entre la que destacan la Flor de Amancaes (Ismene amancaes), la Begonia de las rocas (Begonia geraniifolia), la Cebolleta (Oziroe biflora), la Varita de San José (Anthericum eccremorrhizum), la Trompeta (Stenomesson flavum), la Oreja de ratón (Commelina fasciculata), la Orquídea de lomas (Tigridia pavonia), el Pasto de la gallina (Poa annua), la Papa silvestre (Solanum multifidum) el Boliche (Sapindus saponaria), la Tara (Caesalpina tinctoria, entre otros. En cuanto a la fauna, se pueden observar especies como vizcachas, águilas, tórtolas, cuculíes, lechuzas, y diversas lagartijas, además de dos especies de caracoles, uno de los cuales es comestible en otros países. La Asociación Circuito Ecoturístico Lomas de Lúcumo, es quien se encarga de brindar los recorridos turísticos, así como realizar el cuidado y mantenimiento durante la temporada seca.\nCuenta con dos recorridos, el más corto “Guardianes” consta de un total de 5 km y durante su recorrido se puede observar el refugio natural “Cabeza de Toro”, la “Cara del Inca”, una formación rocosa que los lugareños habían bautizado como el Guardián de Quebrada Verde, y al lado se encuentra la “Cara del Español”. Metros más adelante, se pueden encontrar vestigios de un socavón de una mina abandonada, así como pinturas rupestres junto con otras formaciones geológicas de origen volcánico, entre otros. Su ruta más larga “Los Lúcumos” consta de un total de 7 km, donde se puede observar la “Piedra Padre”, además de todo lo que incluye el recorrido más corto. Ambas rutas ofrecen vistas impresionantes y están diseñadas para adaptarse a diferentes niveles de experiencia, desde principiantes hasta caminantes más avanzados. Además, se realizan eventos como el \"Owl Run Perú\" que es un concurso de carrera, que se suele realizar a mitad de año, donde pueden participar las personas en distintas categorías.\nCon temperaturas que oscilan entre los 10°C y los 29°C, y la posibilidad de admirar un paisaje verde y vibrante durante la temporada húmeda, las Lomas de Lúcumo, reconocidas como “Ecosistema Frágil” por el Ministerio de Agricultura y Riego, constituyen un atractivo para los amantes de la naturaleza. La combinación de su flora, fauna y restos arqueológicos lo convierten en un lugar atractivo para visitar. Los visitantes pueden realizar caminatas, observación de flora y fauna, observación de paisaje, así como la toma de fotografías y videos.",
+  "particularidades": "",
+  "estado_actual": "Bueno, gracias al cuidado de los senderos, la conservación de la naturaleza y la administración a cargo de la Municipalidad Distrital de Pachacámac y la Asociación Circuito Ecoturístico Lomas de Lúcumo.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Las Lomas de Lúcumo son un ecosistema altamente estacional ubicado en el Centro Poblado Quebrada Verde del distrito de Pachacámac, al sureste de Lima, con una extensión de 1597.36 hectáreas que se distribuyen en sectores como Quebrada Verde, Guayabo, Picapiedra y Manchay. Pertenece a la región natural Yunga.\nEl terreno es irregular y accidentado, sus suelos pedregosos y arenosos en las partes bajas, que se ubican entre los 190 y 300 msnm. Gracias a las neblinas costeras y el fenómeno de inversión térmica, las lomas se llenan de vida durante la temporada húmeda, que va de junio a noviembre, con la vegetación cubriendo principalmente las laderas orientadas hacia el mar. Durante esta época, el color verde transforma el paisaje, contrastando con la aridez de la estación seca de diciembre a mayo, cuando algunas plantas entran en estado de latencia. El área cuenta con una variedad de flora, entre la que destacan la Flor de Amancaes (Ismene amancaes), la Begonia de las rocas (Begonia geraniifolia), la Cebolleta (Oziroe biflora), la Varita de San José (Anthericum eccremorrhizum), la Trompeta (Stenomesson flavum), la Oreja de ratón (Commelina fasciculata), la Orquídea de lomas (Tigridia pavonia), el Pasto de la gallina (Poa annua), la Papa silvestre (Solanum multifidum) el Boliche (Sapindus saponaria), la Tara (Caesalpina tinctoria, entre otros. En cuanto a la fauna, se pueden observar especies como vizcachas, águilas, tórtolas, cuculíes, lechuzas, y diversas lagartijas, además de dos especies de caracoles, uno de los cuales es comestible en otros países. La Asociación Circuito Ecoturístico Lomas de Lúcumo, es quien se encarga de brindar los recorridos turísticos, así como realizar el cuidado y mantenimiento durante la temporada seca.\nCuenta con dos recorridos, el más corto “Guardianes” consta de un total de 5 km y durante su recorrido se puede observar el refugio natural “Cabeza de Toro”, la “Cara del Inca”, una formación rocosa que los lugareños habían bautizado como el Guardián de Quebrada Verde, y al lado se encuentra la “Cara del Español”. Metros más adelante, se pueden encontrar vestigios de un socavón de una mina abandonada, así como pinturas rupestres junto con otras formaciones geológicas de origen volcánico, entre otros. Su ruta más larga “Los Lúcumos” consta de un total de 7 km, donde se puede observar la “Piedra Padre”, además de todo lo que incluye el recorrido más corto. Ambas rutas ofrecen vistas impresionantes y están diseñadas para adaptarse a diferentes niveles de experiencia, desde principiantes hasta caminantes más avanzados. Además, se realizan eventos como el \"Owl Run Perú\" que es un concurso de carrera, que se suele realizar a mitad de año, donde pueden participar las personas en distintas categorías.\nCon temperaturas que oscilan entre los 10°C y los 29°C, y la posibilidad de admirar un paisaje verde y vibrante durante la temporada húmeda, las Lomas de Lúcumo, reconocidas como “Ecosistema Frágil” por el Ministerio de Agricultura y Riego, constituyen un atractivo para los amantes de la naturaleza. La combinación de su flora, fauna y restos arqueológicos lo convierten en un lugar atractivo para visitar. Los visitantes pueden realizar caminatas, observación de flora y fauna, observación de paisaje, así como la toma de fotografías y videos."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "Reconocida como Ecosistema Frágil, mediante Resolución Ministerial Nº 0274-2013-MINAGRI, el 01 de agosto del 2013.\nDeclarado de interés distrital por la Municipalidad Distrital de Pachacámac, en noviembre del 2019 bajo Ordenanza Municipal N° 234-2019-MDP/C.\nReconocida con la Distinción Tur4all, otorgado por el Ministerio de Comercio Exterior y Turismo - MINCETUR"
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, gracias al cuidado de los senderos, la conservación de la naturaleza y la administración a cargo de la Municipalidad Distrital de Pachacámac y la Asociación Circuito Ecoturístico Lomas de Lúcumo."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nVisitantes Locales(Excursionistas)\n18465\nDocumento Simple N°11032-2025\n2023\nnacionales y extranjeros."
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nLima/Lima/Lima\n-\nLima/Lima/Pachacamac\nPaseo Colón / Cruce Pachacámac\nTerrestre\nAutomóvil particular\nAsfaltado\n40.2km/1h 50 min\n1\nLima/Lima/Pachacamac\n-\nLima/Lima/Pachacamac\nCruce de Pachacámac / Plaza de Armas de Pachacámac\nTerrestre\nAutomóvil particular\nAsfaltado\n4.6km/8min\n1\nLima/Lima/Pachacamac\n-\nLima/Lima/Pachacamac\nPlaza de Armas de Pachacámac / Puente del Centro Poblado Rural Quebrada Verde\nTerrestre\nAutomóvil particular\nAsfaltado\n2.6km/6min\n1\nLima/Lima/Pachacamac\n-\nLima/Lima/Pachacamac\nPuente del Centro Poblado Rural Quebrada Verde - Boletería de ingreso \"Quebrada Verde\"\nTerrestre\nAutomóvil particular\nAfirmado\n1km/3min\n1\nLima/Lima/Pachacamac\n-\nLima/Lima/Pachacamac\nBoletería de Ingreso \"Quebrada Verde\" / Lomas de Lúcumo\nTerrestre\nA pie\nSendero\n0,2 km/3min\n2\nLima/Lima/Lima\n-\nLima/Lima/Pachacamac\nCentro Comercial La Rambla de San Borja - Cruce de Pachacámac\nTerrestre\nAutomóvil particular\nAsfaltado\n30.3km/50min\n2\nLima/Lima/Pachacamac\n-\nLima/Lima/Pachacamac\nCruce de Pachacámac / Plaza de Armas de Pachacámac\nTerrestre\nAutomóvil particular\nAsfaltado\n4.6km/8min\n2\nLima/Lima/Pachacamac\n-\nLima/Lima/Pachacamac\nPlaza de Armas de Pachacámac /Puente del Centro Poblado Rural de Quebrada Verde\nTerrestre\nAutomóvil particular\nAsfaltado\n2.6km/6min\n2\nLima/Lima/Pachacamac\n-\nLima/Lima/Pachacamac\nPuente del Centro Poblado Rural de Quebrada Verde - Boletería de Ingreso \"Quebrada Verde\"\nTerrestre\nAutomóvil particular\nAfirmado\n1km/3min\n2\nLima/Lima/Pachacamac\n-\nLima/Lima/Pachacamac\nBoletería de Ingreso \"Quebrada Verde\" / Lomas de Lúcumo\nTerrestre\nA pie\nSendero\n0,2 km/3min\n3\nLima/Lima/San Isidro\n-\nLima/Lima/Pachacamac\nEstación Javier Prado del Metropolitano de Lima - Paradero Tres Marías de Huertos de Manchay\nTerrestre\nBus público\nAsfaltado\n24.4 km / 1h 10 min.\n3\nLima/Lima/Pachacamac\n-\nLima/Lima/Pachacamac\nParadero Tres Marías de Huertos de Manchay - Plaza de Armas de Pachacámac\nTerrestre\nAutomóvil particular\nAsfaltado\n15.5km /35 min\n3\nLima/Lima/Pachacamac\n-\nLima/Lima/Pachacamac\nPlaza de Armas de Pachacámac - Puente del Centro Poblado Rural de Quebrada Verde\nTerrestre\nAutomóvil particular\nAsfaltado\n2.6 km/6 min.\n3\nLima/Lima/Pachacamac\n-\nLima/Lima/Pachacamac\nPuente del Centro Poblado Rural Quebrada Verde - Boletería de ingreso a las Lomas de Lúcumo\nTerrestre\nAutomóvil particular\nAsfaltado\n1 km /3 min."
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nNiños S/5.50 (03-11 años) Adultos S/10.00 (12 años a más) Adulto mayor S/5.50 (60 años a más) Contactarse con la Asociación Circuito Ecoturístico Lomas de Lúcumo al +51 997 944 148"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nEsporádicamente - Algunos meses\n--\n08:00 a.m.\n-\n08:00 p.m.\nPara visitas de lunes a viernes, previa reserva con la Asociación Circuito Ecoturístico Lomas de Lúcumo - ACELL, al +51 997 944 148 / +51 971 305 078"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nEstudios e Investigación\n--\nOtros\nRealización de eventos\ncarreras\nNaturaleza\nObservación de fauna\nCaracoles, lagartijas, vizacachas, entre otros.\nNaturaleza\nObservación de flora\nFlor de Amancaes, la Begonia de las rocas, la Cebolleta, la Varita de San José, la Trompeta, la Oreja de ratón, Papa silvestre, la Tara, entre otros.\nNaturaleza\nObservación de aves\nTortolas, cuculíes, lechuzas, águilas, entre otros.\nDeportes / Aventura\nCaminata/Trekking\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nOtros Servicios Turísticos\nOtros (Especificar)\nServicios higiénicos: S/ 1\nInstalaciones Públicas\nServicios Públicos\nSeñales turísticas de orientación\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nEspañol. Ruta Corta S/50 para grupos de máx. 15 personas. Ruta Larga S/60 para grupos de máx. 15 personas."
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nLugares de Recreación\nDiscotecas\nDistrito de Pachacámac\nLugares de Recreación\nCines o Teatros\nDistrito de Pachacámac\nLugares de Recreación\nJuegos Infantiles\nDistrito de Pachacámac\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nDistrito de Pachacámac\nLugares de Recreación\nCentros Deportivos\nDistrito de Pachacámac\nLugares de Recreación\nKaraoke\nDistrito de Pachacámac\nLugares de Recreación\nBares\nDistrito de Pachacámac\nOtros Servicios Turísticos\nVenta de artesanía\nDistrito de Pachacámac\nOtros Servicios Turísticos\nAgencia de Viajes\nDistrito de Pachacámac\nOtros Servicios Turísticos\nAlquiler de bicicleta\nDistrito de Pachacámac\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nInglés y Portugués. Distrito de Pachacámac\nAlimentación\nRestaurantes\nDistrito de Pachacámac\nAlimentación\nBares\nDistrito de Pachacámac\nAlimentación\nCafeterías\nDistrito de Pachacámac\nAlimentación\nFuentes de soda\nDistrito de Pachacámac"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nDistrito de Pachacámac\nBancos\nDistrito de Pachacámac\nCajero automático\nDistrito de Pachacámac\nCasa de cambio\nDistrito de Pachacámac\nEstación de servicios, grifos, gasolineras y gasocentros\nDistrito de Pachacámac\nServicio de correos\nDistrito de Pachacámac\nServicio de estacionamiento\nDistrito de Pachacámac\nCentro de salud - tópico\nDistrito de Pachacámac\nVenta de materiales para fotografías\nDistrito de Pachacámac\nSeguridad / POLTUR / Comisaría\nDistrito de Pachacámac\nAlquiler y compra de equipos deportivos\nDistrito de Pachacámac\nLibrerías\nDistrito de Pachacámac\nBodegas o minimarkets\nDistrito de Pachacámac"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nSeñalización turística\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Pachacámac\nLuz (Suministro Eléctrico)\nCiudad de Pachacámac\nSeñalización turística\nCiudad de Pachacámac\nAlcantarillado sanitario\nCiudad de Pachacámac"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nEstado Peruano\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nReconocido como Ecosistema Frágil mediante Resolución Ministerial N° 0274-2013-MINAGRI\nAdministrador por\nNombre\nMunicipalidad Distrital de Pachacámac (MDP) y Asociación Circuito Ecoturístico Lomas de Lúcumo (ACELL)\nTiempo de administración\nDesde el año 2009"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nMunicipalidad Metropolitana de Lima - Municipalidad Distrital de Pachacámac\nNombre (Persona(s) responsable(s) del inventario turístico):\nAlex Reaño Torres - Guadalupe del Carmen Vásquez Meza\nCargo:\nEspecialista en Turismo - Gerente de Turismo, Cultura y Asuntos Internacionales\nCorreo:\nalexreanotorres@gmail.com - gvasquezm@munipachacamac.gob.pe\nTeléfono:\n948909364 / 940241174\nFuentes Bibliográfica:\n1. Eusebio, L., Mendoza, A. & Manco, M. (2006). Autoecologia de Carica Candicans (Gray) de las lomas de Lúcumo. The Biologist, 4(2), 2.\n2. SERFOR (2015). Guía de Flora de las Lomas de Lima: https://repositorio.serfor.gob.pe/handle/SERFOR/484\n3. Tesis: Candia, X. (2019). Centro de interpretación e investigación en las Lomas de Lúcumo.\n4. Madrid, F. & Cabanillas, E. (2020). Diversidad florística de Lomas de Lúcumo, Lima, Perú. Biotempo 17(2), 287-299.\n5. Lomas de Lúcumo. Página web: https://www.lomasdelucumo.org.pe\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n24/12/2025 09:15:43"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -12.210142066333285,
+    "longitud": -76.87540411949158
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-12.210142066333285,-76.87540411949158"
+}

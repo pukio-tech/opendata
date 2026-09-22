@@ -1,0 +1,318 @@
+{
+  "cod_ficha": 278,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=278",
+  "nombre": "Playa Santa Rosa",
+  "departamento": "Lambayeque",
+  "provincia": "Chiclayo",
+  "distrito": "SANTA ROSA",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "l. Costas",
+  "subtipo": "Playas",
+  "jerarquia": "1",
+  "altitud": "10",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=557157",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=557157",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=557178",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=557158",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=557159",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=557179",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=557160",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=557161",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=557180",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=562220",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=562221"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Cultura y Folclore - Actividades Religiosas o Patronales",
+    "Otros - Realización de eventos",
+    "Otros - Otros(Especificar)",
+    "Naturaleza - Observación de paisaje",
+    "Cultura y Folclore - Ferias"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Actividades Religiosas o Patronales",
+      "observacion": "Fiesta Patronal, previa coordinación con la Municipalidad.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/act_religiosas02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Realización de eventos",
+      "observacion": "Previa coordinación con la Municipalidad.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/eventos02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Otros(Especificar)",
+      "observacion": "Pesca artesanal-caballitos de totora-embarcaciones",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/otros02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Ferias",
+      "observacion": "Previa coordinación con la Municipalidad.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/feria02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Lambayeque/Chiclayo/Chiclayo - Lambayeque/Chiclayo/Santa Rosa",
+      "detalle": "Chiclayo (Ca. Pedro Ruiz Cdra 5, pasando tiendas EFE) - Santa Rosa (Mercado antiguo)",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Combi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "17 km / 35 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Lambayeque/Chiclayo/Santa Rosa - Lambayeque/Chiclayo/Santa Rosa",
+      "detalle": "Santa Rosa (Mercado antiguo) - Playa Santa Rosa",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "100 mts / 10 minutos"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Lambayeque/Chiclayo/Chiclayo - Lambayeque/Chiclayo/Santa Rosa",
+      "detalle": "Chiclayo - Monsefú - Santa Rosa - Playa",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "21.5 km / 30 min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "1080",
+      "horario": "Conteo muestral, realizado los días 05, 12 y 26 de julio y 02 de agosto",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Esporádicamente - Algunos meses",
+      "especificacion": "--",
+      "horario": "05:30 a.m. - 06:00 p.m. Llevar bloqueador solar, gorro, vestimenta adecuada de verano.",
+      "observaciones": "Llevar bloqueador solar, gorro, vestimenta adecuada de verano."
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Salvavidas",
+      "observacion": "Enero - Marzo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "3 y 4**** Ciudad de Chiclayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Chiclayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Chiclayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Chiclayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Ciudad de Chiclayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Santa Rosa:Calle Cristian Barnard cdra. 2"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Chiclayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Peñas",
+      "observacion": "Ciudad de Chiclayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Cines o Teatros",
+      "observacion": "Ciudad de Chiclayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Ciudad de Chiclayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Ciudad de Chiclayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Chiclayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Español, Ciudad de Chiclayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Ciudad de Chiclayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Puesto de auxilio rápido",
+      "observacion": "Ciudad de Chiclayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Paradores turísticos",
+      "observacion": "--"
+    }
+  ],
+  "descripcion": "Ubicada a 21 kilómetros al norte de la ciudad de Chiclayo, en la costa norte del país, se caracteriza por presentar orillas planas, en donde se ha emplazado una caleta de pescadores artesanales que cotidianamente tienden sus enormes y largas redes, y que gracias a esta técnica logran pescar especies de la zona.\nSe localiza en la Región Natural de la Costa o Chala, con una profundidad que puede variar entre 1.5 a 3 metros, dependiendo de la marea y la distancia de la orilla, más lejos de la costa, a unos 100 metros o más mar adentro, la profundidad puede aumentar considerablemente, llegando a los 5 metros o más; su extensión es de 3.630 metros.\nSu litoral presenta una zona intermareal de 80 - 100 m, delimitadas por valvas de donax, continuando luego de 20-30 m, con lomas y dunas de escasa altura.\nSu clima es templado - cálido (desértico o árido subtropical). Se estima que los promedios anuales de temperatura están alrededor de los 23º, con máximas en 30º C, y mínimas en 18º, con precipitaciones muy escasas, a excepción de periodos del fenómeno natural: El Niño. La humedad relativa del aire fluctúa entre 90% en horas de la madrugada y 50% alrededor del mediodía.\nEn esta playa se puede apreciar una reliquia que se da por la historia del LIMARI, que consiste en restos de un barco chileno de guerra que perteneció a la compañía chilena sudamericana de vapores, que regresaba a su país después de la victoria ganada en la guerra con Chile y como navegaba muy cerca a la orilla, anclaron y quedó atrapada en un banco de arena, desde el año de 1919 para siempre como se muestra con los restos existentes.\nParte del paisaje de esta playa, son las embarcaciones pesqueras que están varadas en la orilla, muy cerca al límite superior de la pleamar, las cuales son elaborados en los astilleros ubicados en el mismo distrito de Santa Rosa.\nEn Santa Rosa, por no presentar muelle, los productos de la pesca son desembarcados en la playa. Las embarcaciones al llegar al destino envían un cabo a tierra para asegurarla; luego jalan su boliche a la popa para que la embarcación no se maltrate al efecto del oleaje quedando perpendicular a la playa. Terminada la descarga la tripulación realiza la limpieza de su embarcación, y con ayuda del tractor típico en esta caleta, se hacen nuevamente a la mar, o suben la nave a la playa hasta cuando se realice un nuevo viaje.\nAdemás del bello paisaje, sobre las aguas de la playa Santa Rosa flotan caballitos de totora con sus jinetes. También se puede apreciar a los pescadores construyendo sus propios caballitos para la extracción de pescado de la temporada como mero, chalacos entre otros.",
+  "particularidades": "",
+  "estado_actual": "Su estado de conservación es regular, debido a que se observa restos orgánicos provenientes del mantenimiento de las embarcaciones en la playa.",
+  "observaciones": "Desde la orilla de esta playa se puede observar el Limarí, barco Chileno que en la madrugada del 7 de junio de 1919 quedó atrapado en un banco de arena de la playa Santa Rosa",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Ubicada a 21 kilómetros al norte de la ciudad de Chiclayo, en la costa norte del país, se caracteriza por presentar orillas planas, en donde se ha emplazado una caleta de pescadores artesanales que cotidianamente tienden sus enormes y largas redes, y que gracias a esta técnica logran pescar especies de la zona.\nSe localiza en la Región Natural de la Costa o Chala, con una profundidad que puede variar entre 1.5 a 3 metros, dependiendo de la marea y la distancia de la orilla, más lejos de la costa, a unos 100 metros o más mar adentro, la profundidad puede aumentar considerablemente, llegando a los 5 metros o más; su extensión es de 3.630 metros.\nSu litoral presenta una zona intermareal de 80 - 100 m, delimitadas por valvas de donax, continuando luego de 20-30 m, con lomas y dunas de escasa altura.\nSu clima es templado - cálido (desértico o árido subtropical). Se estima que los promedios anuales de temperatura están alrededor de los 23º, con máximas en 30º C, y mínimas en 18º, con precipitaciones muy escasas, a excepción de periodos del fenómeno natural: El Niño. La humedad relativa del aire fluctúa entre 90% en horas de la madrugada y 50% alrededor del mediodía.\nEn esta playa se puede apreciar una reliquia que se da por la historia del LIMARI, que consiste en restos de un barco chileno de guerra que perteneció a la compañía chilena sudamericana de vapores, que regresaba a su país después de la victoria ganada en la guerra con Chile y como navegaba muy cerca a la orilla, anclaron y quedó atrapada en un banco de arena, desde el año de 1919 para siempre como se muestra con los restos existentes.\nParte del paisaje de esta playa, son las embarcaciones pesqueras que están varadas en la orilla, muy cerca al límite superior de la pleamar, las cuales son elaborados en los astilleros ubicados en el mismo distrito de Santa Rosa.\nEn Santa Rosa, por no presentar muelle, los productos de la pesca son desembarcados en la playa. Las embarcaciones al llegar al destino envían un cabo a tierra para asegurarla; luego jalan su boliche a la popa para que la embarcación no se maltrate al efecto del oleaje quedando perpendicular a la playa. Terminada la descarga la tripulación realiza la limpieza de su embarcación, y con ayuda del tractor típico en esta caleta, se hacen nuevamente a la mar, o suben la nave a la playa hasta cuando se realice un nuevo viaje.\nAdemás del bello paisaje, sobre las aguas de la playa Santa Rosa flotan caballitos de totora con sus jinetes. También se puede apreciar a los pescadores construyendo sus propios caballitos para la extracción de pescado de la temporada como mero, chalacos entre otros."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Su estado de conservación es regular, debido a que se observa restos orgánicos provenientes del mantenimiento de las embarcaciones en la playa."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "Desde la orilla de esta playa se puede observar el Limarí, barco Chileno que en la madrugada del 7 de junio de 1919 quedó atrapado en un banco de arena de la playa Santa Rosa"
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nVisitantes Locales(Excursionistas)\n1080\nConteo muestral, realizado los días 05, 12 y 26 de julio y 02 de agosto\n2024\nvalidado por la Dirección de Turismo y Artesanía de la Gercetur Lambayeque"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nLambayeque/Chiclayo/Chiclayo\n-\nLambayeque/Chiclayo/Santa Rosa\nChiclayo (Ca. Pedro Ruiz Cdra 5, pasando tiendas EFE) - Santa Rosa (Mercado antiguo)\nTerrestre\nCombi\nAsfaltado\n17 km / 35 minutos\n1\nLambayeque/Chiclayo/Santa Rosa\n-\nLambayeque/Chiclayo/Santa Rosa\nSanta Rosa (Mercado antiguo) - Playa Santa Rosa\nTerrestre\nA pie\nAsfaltado\n100 mts / 10 minutos\n2\nLambayeque/Chiclayo/Chiclayo\n-\nLambayeque/Chiclayo/Santa Rosa\nChiclayo - Monsefú - Santa Rosa - Playa\nTerrestre\nAutomóvil particular\nAsfaltado\n21.5 km / 30 min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nEsporádicamente - Algunos meses\n--\n05:30 a.m.\n-\n06:00 p.m.\nLlevar bloqueador solar, gorro, vestimenta adecuada de verano."
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nCultura y Folclore\nActividades Religiosas o Patronales\nFiesta Patronal, previa coordinación con la Municipalidad.\nOtros\nRealización de eventos\nPrevia coordinación con la Municipalidad.\nOtros\nOtros(Especificar)\nPesca artesanal-caballitos de totora-embarcaciones\nNaturaleza\nObservación de paisaje\n--\nCultura y Folclore\nFerias\nPrevia coordinación con la Municipalidad."
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nOtros Servicios Turísticos\nServicio de Salvavidas\nEnero - Marzo"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\n3 y 4**** Ciudad de Chiclayo\nAlimentación\nRestaurantes\nCiudad de Chiclayo\nAlimentación\nBares\nCiudad de Chiclayo\nAlimentación\nKioskos de comida y bebidas\nCiudad de Chiclayo\nAlimentación\nVenta de comida Rápida\nCiudad de Chiclayo\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Santa Rosa:Calle Cristian Barnard cdra. 2\nLugares de Recreación\nDiscotecas\nCiudad de Chiclayo\nLugares de Recreación\nPeñas\nCiudad de Chiclayo\nLugares de Recreación\nCines o Teatros\nCiudad de Chiclayo\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nCiudad de Chiclayo\nLugares de Recreación\nCentros Deportivos\nCiudad de Chiclayo\nLugares de Recreación\nBares\nCiudad de Chiclayo\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nEspañol, Ciudad de Chiclayo\nServicios Públicos\nOficina de Información turística\nCiudad de Chiclayo\nServicios Públicos\nPuesto de auxilio rápido\nCiudad de Chiclayo\nServicios Públicos\nParadores turísticos\n--"
+    },
+    {
+      "titulo": "Servicios Complementarios dentro del recurso",
+      "contenido": "Servicio Complementario\nObservación\nServicios de salvavidas\n--"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Chiclayo\nBancos\nCiudad de Chiclayo\nCajero automático\nCiudad de Chiclayo\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Chiclayo\nServicio de correos\nCiudad de Chiclayo\nServicio de estacionamiento\nCiudad de Chiclayo\nServicios de taxis\nCiudad de Chiclayo\nCentro de salud - tópico\nCiudad de Chiclayo\nVenta de materiales para fotografías\nCiudad de Chiclayo\nAlquiler y compra de equipos deportivos\nCiudad de Chiclayo\nSeguridad / POLTUR / Comisaría\nCiudad de Chiclayo\nLibrerías\nCiudad de Chiclayo\nBodegas o minimarkets\nCiudad de Chiclayo"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Chiclayo\nAlcantarillado sanitario\nCiudad de Chiclayo\nLuz (Suministro Eléctrico)\nCiudad de Chiclayo\nTeléfono\nCiudad de Chiclayo\nSeñalización turística\nCiudad de Chiclayo"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nEstado Peruano\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nNo tiene. Dominio público.\nAdministrador por\nNombre\nMunicipalidad Distrital de Santa Rosa\nTiempo de administración\n104 años, desde 1920"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nGerencia Regional de Comercio Exterior y Turismo de Lambayeque\nNombre (Persona(s) responsable(s) del inventario turístico):\nLic. Magali Exebio Cabrera\nCargo:\nTécnico en Turismo\nCorreo:\nluzmexebio@gmail.com\nTeléfono:\n947672674\nFuentes Bibliográfica:\nInforme Nº 142, Instituto del Mar del Perú, Áreas de Pesca de la flota artesanal de la Caleta Santa Rosa (1998).\nAtlas regional del Perú, Lambayeque (003).\nPuesta en valor de las playas de Santa Rosa y su influencia en la destugurización de la playa de Pimentel Chiclayo, 2023, Arias Cuadra, Jose Enrique - Tesis para obtener el grado académico de: Maestro en Arquitectura, Universidad César Vallejo.\nINSTITUTO DEL MAR PERUANO-IMARPE, DIAGNÓSTICO AMBIENTAL DE LA ZONA COSTERA DE LAMBAYEQUE 2004\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n4/10/2024 16:13:58"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -6.879394832484667,
+    "longitud": -79.92557994973754
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-6.879394832484667,-79.92557994973754"
+}

@@ -1,0 +1,367 @@
+{
+  "cod_ficha": 149,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=149",
+  "nombre": "Ex Colegio San Agustín",
+  "departamento": "Loreto",
+  "provincia": "Maynas",
+  "distrito": "IQUITOS",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Arquitectura y Espacios Urbanos",
+  "subtipo": "Escuela o Colegio",
+  "jerarquia": "2",
+  "altitud": "96",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=556492",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=556492",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=556493",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=556495",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=566925",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=566926",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=566927",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=566834",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=566835"
+  ],
+  "actividades_permitidas": [
+    "Otros - Compras de artesanía/souvenir"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Compras de artesanía/souvenir",
+      "observacion": "Stands debidamente acondicionados con los servicios básicos para ventas de artesanías.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/artesania02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Loreto/Maynas/Iquitos - Loreto/Maynas/Iquitos",
+      "detalle": "Desde la Plaza de Armas de Iquitos hasta el recurso",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "",
+      "distancia_tiempo": "300m /2 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Loreto/Maynas/Iquitos - Loreto/Maynas/Iquitos",
+      "detalle": "Desde la Plaza de Armas de Iquitos hasta el recurso",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "",
+      "distancia_tiempo": "300m./5 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Loreto/Maynas/Iquitos - Loreto/Maynas/Iquitos",
+      "detalle": "Desde la Plaza de Armas de Iquitos hasta el recurso",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mototaxi",
+      "tipo_via": "",
+      "distancia_tiempo": "300 m/2 min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "360",
+      "horario": "Subgerencia de turismo cultura y artesania",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "1440",
+      "horario": "Subgerencia de turismo cultura y artesania",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "6660",
+      "horario": "Subgerencia de turismo cultura y artesania",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "08:00 a.m. - 05:00 p.m. El ingreso es por la primera cuadra de la calle Nauta",
+      "observaciones": "El ingreso es por la primera cuadra de la calle Nauta"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "En la ciudad de Iquitos"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Cines o Teatros",
+      "observacion": "En la ciudad de Iquitos"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "En la ciudad de Iquitos"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "En la ciudad de Iquitos"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "En la ciudad de Iquitos"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "En la ciudad de Iquitos"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "En la ciudad de Iquitos"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "En la ciudad de Iquitos"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de bicicleta",
+      "observacion": "En la ciudad de Iquitos"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Español, Inglés, Francés - En la ciudad de Iquitos"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "En la ciudad de Iquitos"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "En la ciudad de Iquitos"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "En la ciudad de Iquitos"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "En la ciudad de Iquitos"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "En la ciudad de Iquitos"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "3,4,5 estrellas - En la ciudad de Iquitos"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Apart-hoteles (especificar categorías)",
+      "observacion": "3 y 4 estrellas - En la ciudad de Iquitos"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "1,2,3 estrellas - En la ciudad de Iquitos"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Albergues",
+      "observacion": "En la ciudad de Iquitos"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "En la ciudad de Iquitos"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "En la ciudad de Iquitos"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "En la ciudad de Iquitos"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Embarcaderos",
+      "observacion": "En la ciudad de Iquitos"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "En la ciudad de Iquitos"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Museo de Sitio Turísticos",
+      "observacion": "En la ciudad de Iquitos"
+    }
+  ],
+  "descripcion": "El ex colegio San Agustín de Iquitos es un edificio histórico que data de principios del siglo XX, durante la época del caucho. Originalmente fue construido para albergar a un colegio religioso de la Orden Agustiniana. Hoy en día, este imponente edificio ha sido restaurado y adaptado para nuevos usos, conservando su belleza arquitectónica y su valor histórico.\nEl ex colegio se encuentra ubicado en el corazón de Iquitos, finalizando el malecón Maldonado, en una zona de gran valor patrimonial. Su ubicación estratégica lo convierte en un punto de referencia para los visitantes.\nEsta casona es una muestra de la arquitectura de principios del siglo XX, con influencias neoclásicas. Destaca por su fachada imponente, con amplios ventanales y columnas que le dan un aire majestuoso. Los interiores conservan muchos de sus elementos originales, como los ventanales, las molduras y las escaleras de azulejos.\nUno de los elementos más destacados del ex colegio San Agustín es su capilla. La capilla es un espacio sagrado con una arquitectura gótica, caracterizada por sus arcos ojivales y sus vidrieras coloridas. La luz que se filtra a través de las vidrieras crea un ambiente místico y espiritual.\nActualmente, el ex Colegio San Agustín es un sitio en el que se muestran exposiciones de artesanías como ropas bordadas, abanicos, mochilas bordadas, cuadros, entre otros.\nVisitar el ex Colegio San Agustín es una experiencia enriquecedora por su valor histórico: es un testimonio vivo de la historia de Iquitos y de la presencia de la Orden Agustiniana en la región. Es considerada, además, una casona representativa de las rutas de las casonas que se encuentran en la ciudad de Iquitos, en la que los turistas nacionales e internacionales escuchan su historia y valor cultural que posee. Su arquitectura única y elegante la convierte en un referente arquitectónico. Este lugar está ambientado en un espacio donde se pueden visualizar diferentes tipos de artesanías, y por la ubicación céntrica facilita la visita de turistas locales, nacionales e internacionales.\nEl ex colegio San Agustín es un lugar que no puedes dejar de visitar si te encuentras en Iquitos. Es una oportunidad para sumergirte en la historia de la ciudad, admirar su arquitectura y disfrutar de las diversas artesanías que los elaboran y que se ofrecen.",
+  "particularidades": "",
+  "estado_actual": "Se encuentra en buen estado de conservación, gracias a la restauración efectuada en 1998. En la actualidad está siendo utilizado el espacio interior para fines de comercio como ventas de artesanías promoviendo la demanda turística puesto que muchos de ellos desean comprar souvenirs o recuerdos. Los stands de ventas se encuentran detrás de la capilla.",
+  "observaciones": "El Ex Colegio San Agustín se encuentra en el Malecón Maldonado 219 - 229, frente al Malecón Tarapacá",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "El ex colegio San Agustín de Iquitos es un edificio histórico que data de principios del siglo XX, durante la época del caucho. Originalmente fue construido para albergar a un colegio religioso de la Orden Agustiniana. Hoy en día, este imponente edificio ha sido restaurado y adaptado para nuevos usos, conservando su belleza arquitectónica y su valor histórico.\nEl ex colegio se encuentra ubicado en el corazón de Iquitos, finalizando el malecón Maldonado, en una zona de gran valor patrimonial. Su ubicación estratégica lo convierte en un punto de referencia para los visitantes.\nEsta casona es una muestra de la arquitectura de principios del siglo XX, con influencias neoclásicas. Destaca por su fachada imponente, con amplios ventanales y columnas que le dan un aire majestuoso. Los interiores conservan muchos de sus elementos originales, como los ventanales, las molduras y las escaleras de azulejos.\nUno de los elementos más destacados del ex colegio San Agustín es su capilla. La capilla es un espacio sagrado con una arquitectura gótica, caracterizada por sus arcos ojivales y sus vidrieras coloridas. La luz que se filtra a través de las vidrieras crea un ambiente místico y espiritual.\nActualmente, el ex Colegio San Agustín es un sitio en el que se muestran exposiciones de artesanías como ropas bordadas, abanicos, mochilas bordadas, cuadros, entre otros.\nVisitar el ex Colegio San Agustín es una experiencia enriquecedora por su valor histórico: es un testimonio vivo de la historia de Iquitos y de la presencia de la Orden Agustiniana en la región. Es considerada, además, una casona representativa de las rutas de las casonas que se encuentran en la ciudad de Iquitos, en la que los turistas nacionales e internacionales escuchan su historia y valor cultural que posee. Su arquitectura única y elegante la convierte en un referente arquitectónico. Este lugar está ambientado en un espacio donde se pueden visualizar diferentes tipos de artesanías, y por la ubicación céntrica facilita la visita de turistas locales, nacionales e internacionales.\nEl ex colegio San Agustín es un lugar que no puedes dejar de visitar si te encuentras en Iquitos. Es una oportunidad para sumergirte en la historia de la ciudad, admirar su arquitectura y disfrutar de las diversas artesanías que los elaboran y que se ofrecen."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "-Declarado Patrimonio Histórico Cultural de la Nación por el Instituto Nacional de Cultura de Loreto (R.M.: 793-86 E.D. 30.12.86)"
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Se encuentra en buen estado de conservación, gracias a la restauración efectuada en 1998. En la actualidad está siendo utilizado el espacio interior para fines de comercio como ventas de artesanías promoviendo la demanda turística puesto que muchos de ellos desean comprar souvenirs o recuerdos. Los stands de ventas se encuentran detrás de la capilla."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "El Ex Colegio San Agustín se encuentra en el Malecón Maldonado 219 - 229, frente al Malecón Tarapacá"
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n360\nSubgerencia de turismo cultura y artesania\n2024\nTuristas Nacionales\n1440\nSubgerencia de turismo cultura y artesania\n2024\nVisitantes Locales(Excursionistas)\n6660\nSubgerencia de turismo cultura y artesania\n2024"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nLoreto/Maynas/Iquitos\n-\nLoreto/Maynas/Iquitos\nDesde la Plaza de Armas de Iquitos hasta el recurso\nTerrestre\nAutomóvil particular\n300m /2 min\n1\nLoreto/Maynas/Iquitos\n-\nLoreto/Maynas/Iquitos\nDesde la Plaza de Armas de Iquitos hasta el recurso\nTerrestre\nA pie\n300m./5 min\n1\nLoreto/Maynas/Iquitos\n-\nLoreto/Maynas/Iquitos\nDesde la Plaza de Armas de Iquitos hasta el recurso\nTerrestre\nMototaxi\n300 m/2 min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n08:00 a.m.\n-\n05:00 p.m.\nEl ingreso es por la primera cuadra de la calle Nauta"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nCompras de artesanía/souvenir\nStands debidamente acondicionados con los servicios básicos para ventas de artesanías."
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nOtros Servicios Turísticos\nVenta de artesanía\n--\nInstalaciones Públicas\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nLugares de Recreación\nDiscotecas\nEn la ciudad de Iquitos\nLugares de Recreación\nCines o Teatros\nEn la ciudad de Iquitos\nLugares de Recreación\nJuegos Infantiles\nEn la ciudad de Iquitos\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nEn la ciudad de Iquitos\nLugares de Recreación\nKaraoke\nEn la ciudad de Iquitos\nLugares de Recreación\nBares\nEn la ciudad de Iquitos\nOtros Servicios Turísticos\nVenta de artesanía\nEn la ciudad de Iquitos\nOtros Servicios Turísticos\nAgencia de Viajes\nEn la ciudad de Iquitos\nOtros Servicios Turísticos\nAlquiler de bicicleta\nEn la ciudad de Iquitos\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nEspañol, Inglés, Francés - En la ciudad de Iquitos\nAlimentación\nRestaurantes\nEn la ciudad de Iquitos\nAlimentación\nBares\nEn la ciudad de Iquitos\nAlimentación\nCafeterías\nEn la ciudad de Iquitos\nAlimentación\nKioskos de comida y bebidas\nEn la ciudad de Iquitos\nAlimentación\nVenta de comida Rápida\nEn la ciudad de Iquitos\nAlojamiento\nHoteles (especificar categorías)\n3,4,5 estrellas - En la ciudad de Iquitos\nAlojamiento\nApart-hoteles (especificar categorías)\n3 y 4 estrellas - En la ciudad de Iquitos\nAlojamiento\nHostales (especificar categorías)\n1,2,3 estrellas - En la ciudad de Iquitos\nAlojamiento\nAlbergues\nEn la ciudad de Iquitos\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nEn la ciudad de Iquitos\nServicios Públicos\nEstacionamiento de vehículos\nEn la ciudad de Iquitos\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\nEn la ciudad de Iquitos\nServicios Públicos\nEmbarcaderos\nEn la ciudad de Iquitos\nServicios Públicos\nOficina de Información turística\nEn la ciudad de Iquitos\nServicios Públicos\nMuseo de Sitio Turísticos\nEn la ciudad de Iquitos"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nEn la ciudad de Iquitos\nBancos\nEn la ciudad de Iquitos\nCajero automático\nEn la ciudad de Iquitos\nCasa de cambio\nEn la ciudad de Iquitos\nEstación de servicios, grifos, gasolineras y gasocentros\nEn la ciudad de Iquitos\nServicio de estacionamiento\nEn la ciudad de Iquitos\nCentro de salud - tópico\nEn la ciudad de Iquitos\nSeguridad / POLTUR / Comisaría\nEn la ciudad de Iquitos\nBodegas o minimarkets\nEn la ciudad de Iquitos"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\n--\nLuz (Suministro Eléctrico)\n--\nTeléfono\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nEn la ciudad de Iquitos\nLuz (Suministro Eléctrico)\nEn la ciudad de Iquitos\nTeléfono\nEn la ciudad de Iquitos\nSeñalización turística\nEn la ciudad de Iquitos\nAlcantarillado sanitario\nEn la ciudad de Iquitos"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nEstado Peruano\nPrivado:\n--\nOtra Situación:\nLey N° 28296 Ley General del Patrimonio Cultural de la Nación\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nR.M. N° 793-86-ED\nAdministrador por\nNombre\nVicariato Apostólico de Iquitos - Orden Agustiniana del Perú\nTiempo de administración\nDesde el año 1905"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nGerencia Regional de Comercio Exterior y Turismo - Loreto/Municipalidad Provincial de Maynas\nNombre (Persona(s) responsable(s) del inventario turístico):\nSilvia Maribel Aspajo Morales /Cecilia Guzman Yalta\nCargo:\nEncargada de Recursos Turísticos de Loreto/Subgerente de turismo cultura y artesania.\nCorreo:\nturismodircetura@gmail.com /cecilia.guzman.509@munimaynas.gob.pe\nTeléfono:\n971950312/948035374\nFuentes Bibliográfica:\n-Seminario San Agustín y la Capilla de la consolación. Edwin J. Villacorta. http://www.geocities.ws/iquitosweb/turism5.html\n- Hoy reabre sus puertas capilla La Consolación. Pro y Contra. 2015 https://proycontra.com.pe/hoy-reabre-sus-puertas-capilla-la-consolacion/\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\nMejora de alrededores por la obra pública Alameda Iquitos y pintado de fachadas según lo establece la Resolución Ministerial N° 185-2021-VIVIENDA.\nFecha:\n23/10/2024 12:18:48"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -3.75441997472448,
+    "longitud": -73.25054883956909
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-3.75441997472448,-73.25054883956909"
+}

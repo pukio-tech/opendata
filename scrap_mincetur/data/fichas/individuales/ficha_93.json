@@ -1,0 +1,350 @@
+{
+  "cod_ficha": 93,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=93",
+  "nombre": "Cascada De Chapawanki",
+  "departamento": "San Martín",
+  "provincia": "Lamas",
+  "distrito": "LAMAS",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "j. Caídas de agua",
+  "subtipo": "Cascadas",
+  "jerarquia": "2",
+  "altitud": "708",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=291088",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=291088",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=292784",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=517240",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=517143",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=517144",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=517241",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=654311"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Otros(Especificar)",
+    "Naturaleza - Observación de fauna",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de paisaje",
+    "Deportes / Aventura - Caminata/Trekking",
+    "Deportes / Aventura - Camping",
+    "Paseos - Otros",
+    "Otros - Compra de productos regionales"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Otros(Especificar)",
+      "observacion": "Baño en la cascada",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/otros02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de fauna",
+      "observacion": "Majas, Mono titi, sajino, zarigüeyas.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fauna02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "Pashaca, tornillo, cedro, caoba, moena.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Camping",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/camping02.png"
+    },
+    {
+      "actividad": "Paseos",
+      "tipo": "Otros",
+      "observacion": "Caminatas",
+      "icono_url": null
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Compra de productos regionales",
+      "observacion": "--",
+      "icono_url": null
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "San Martín/San Martín/Tarapoto - San Martín/Lamas/Lamas",
+      "detalle": "Plaza Mayor de Tarapoto - Plaza de Armas de Lamas",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mini bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "23 km / 25 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "San Martín/Lamas/Lamas - San Martín/Lamas/Lamas",
+      "detalle": "Plaza de Armas de Lamas - Desvío hacia la Carretera a la Comunidad Nativa Aviación",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mototaxi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "2.5 km / 05 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "San Martín/Lamas/Lamas - San Martín/Lamas/Lamas",
+      "detalle": "Desvío hacia la carretera a la Comunidad Nativa Aviación - Boletería Cascada de Chapawanki",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "3 km / 5 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "San Martín/Lamas/Lamas - San Martín/Lamas/Lamas",
+      "detalle": "Boletería Cascada de Chapawanki - Caída de agua",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Sendero",
+      "distancia_tiempo": "300 m / 15 min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "9",
+      "horario": "CARTA N°001-2026-CCH",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "72",
+      "horario": "CARTA N°001-2026/CCH",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "65",
+      "horario": "CARTA N°001-2026/CCH",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "09:00 a.m. - 05:00 p.m. Lunes a domingo. Tener en consideración la temporada de lluvia, entre los meses de enero a marzo. Contacto Lucy Gonzales 980053262.",
+      "observaciones": "Lunes a domingo. Tener en consideración la temporada de lluvia, entre los meses de enero a marzo. Contacto Lucy Gonzales 980053262."
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "Entrada general S/ 5.00"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Lugares de picnic",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Boletería",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos de herradura (caballo)",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "2 tenedores / Pueblo de Lamas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Pueblo de Lamas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Pueblo de Lamas / Comunidad Nativa Kechwa Wayku"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Pueblo de Lamas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Pueblo de Lamas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Albergues",
+      "observacion": "Pueblo de Lamas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Pueblo de Lamas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Pueblo de Lamas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Pueblo de Lamas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Pueblo de Lamas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "Pueblo de Lamas"
+    }
+  ],
+  "descripcion": "La cascada Chapawanki es un recurso turístico natural de tipo caída de agua, reconocido por su alto valor paisajístico, recreativo y ambiental. Constituye uno de los principales atractivos de la provincia de Lamas, destacando por su fácil acceso y adecuada puesta en valor. Se encuentra ubicada en el caserío de Urcopata, aproximadamente a 5km, 15 minutos en vehículo desde la ciudad de Lamas, seguido de una caminata corta de alrededor de 15 minutos por un sendero acondicionado. El recurso se sitúa dentro de la zona de amortiguamiento del Área de Conservación Regional Cordillera Escalera, lo que le otorga un entorno natural bien conservado y de gran riqueza ecológica.\nLa cascada presenta una caída de agua de aproximadamente 16 metros de altura, que desciende con fuerza sobre formaciones rocosas irregulares, generando una imagen dinámica y armoniosa. Su estructura se divide en dos caídas paralelas que evocan la forma de un velo blanco y continuo, contrastando con el verde intenso de la vegetación circundante. El agua, cristalina y fresca, forma en su base una poza natural de tonalidad entre verde jade y turquesa, de forma semicircular, apta para el baño.\nEn el entorno inmediato, al frente de la cascada se ubica la poza principal; alrededor, se extiende una densa cobertura vegetal propia de la selva alta, compuesta por árboles de gran tamaño como renacos y catahuas, además de palmeras, helechos y orquídeas. A los lados del sendero se observan pequeñas áreas de descanso, puentes rústicos y barandas de madera que facilitan el recorrido. En la parte superior discurre la quebrada que alimenta la caída de agua, mientras que en la parte inferior, el terreno desciende suavemente hacia zonas boscosas más densas.\nUno de los elementos más destacados es la poza natural, ubicada en el centro del espacio escénico, cuya transparencia permite observar el fondo rocoso. Esta poza no solo cumple una función recreativa, sino que también aporta un alto valor estético al paisaje, reflejando la vegetación y generando una atmósfera de tranquilidad y frescura.\nEn este lugar se desarrollan diversas actividades turísticas, entre las que destacan la caminata por senderos, el baño recreativo, la observación de flora y fauna, la fotografía paisajística y la educación ambiental. Asimismo, el recorrido permite apreciar mariposas, aves y otros elementos de biodiversidad propios del ecosistema amazónico.\nLa cascada Chapawanki posee una clara vocación turística orientada al ecoturismo y turismo de naturaleza, gracias a sus condiciones de accesibilidad, seguridad y belleza escénica. Es un destino ideal para visitantes que buscan contacto directo con la naturaleza en un entorno ordenado y de fácil recorrido.\nVisitar este recurso permite disfrutar de un paisaje natural singular, caracterizado por la armonía entre agua, vegetación y relieve, así como vivir una experiencia de descanso, contemplación y conexión con el entorno amazónico, lo que lo convierte en un atractivo imprescindible dentro del circuito turístico de la región San Martín.",
+  "particularidades": "",
+  "estado_actual": "Bueno, se han adecuado pozas para retener el caudal de la cascada, haciendo que éstas adopten la forma de piscinas naturales, propiciando seguridad y comodidad a los visitantes. El sendero que conduce hacia la cascada es adecuado en épocas de verano, en época de lluvias el acceso se restringe de manera oportuna para la seguridad de los visitantes. Cuenta con zonas de descanso, barandas y servicios higiénicos en constante mantenimiento.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "La cascada Chapawanki es un recurso turístico natural de tipo caída de agua, reconocido por su alto valor paisajístico, recreativo y ambiental. Constituye uno de los principales atractivos de la provincia de Lamas, destacando por su fácil acceso y adecuada puesta en valor. Se encuentra ubicada en el caserío de Urcopata, aproximadamente a 5km, 15 minutos en vehículo desde la ciudad de Lamas, seguido de una caminata corta de alrededor de 15 minutos por un sendero acondicionado. El recurso se sitúa dentro de la zona de amortiguamiento del Área de Conservación Regional Cordillera Escalera, lo que le otorga un entorno natural bien conservado y de gran riqueza ecológica.\nLa cascada presenta una caída de agua de aproximadamente 16 metros de altura, que desciende con fuerza sobre formaciones rocosas irregulares, generando una imagen dinámica y armoniosa. Su estructura se divide en dos caídas paralelas que evocan la forma de un velo blanco y continuo, contrastando con el verde intenso de la vegetación circundante. El agua, cristalina y fresca, forma en su base una poza natural de tonalidad entre verde jade y turquesa, de forma semicircular, apta para el baño.\nEn el entorno inmediato, al frente de la cascada se ubica la poza principal; alrededor, se extiende una densa cobertura vegetal propia de la selva alta, compuesta por árboles de gran tamaño como renacos y catahuas, además de palmeras, helechos y orquídeas. A los lados del sendero se observan pequeñas áreas de descanso, puentes rústicos y barandas de madera que facilitan el recorrido. En la parte superior discurre la quebrada que alimenta la caída de agua, mientras que en la parte inferior, el terreno desciende suavemente hacia zonas boscosas más densas.\nUno de los elementos más destacados es la poza natural, ubicada en el centro del espacio escénico, cuya transparencia permite observar el fondo rocoso. Esta poza no solo cumple una función recreativa, sino que también aporta un alto valor estético al paisaje, reflejando la vegetación y generando una atmósfera de tranquilidad y frescura.\nEn este lugar se desarrollan diversas actividades turísticas, entre las que destacan la caminata por senderos, el baño recreativo, la observación de flora y fauna, la fotografía paisajística y la educación ambiental. Asimismo, el recorrido permite apreciar mariposas, aves y otros elementos de biodiversidad propios del ecosistema amazónico.\nLa cascada Chapawanki posee una clara vocación turística orientada al ecoturismo y turismo de naturaleza, gracias a sus condiciones de accesibilidad, seguridad y belleza escénica. Es un destino ideal para visitantes que buscan contacto directo con la naturaleza en un entorno ordenado y de fácil recorrido.\nVisitar este recurso permite disfrutar de un paisaje natural singular, caracterizado por la armonía entre agua, vegetación y relieve, así como vivir una experiencia de descanso, contemplación y conexión con el entorno amazónico, lo que lo convierte en un atractivo imprescindible dentro del circuito turístico de la región San Martín."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, se han adecuado pozas para retener el caudal de la cascada, haciendo que éstas adopten la forma de piscinas naturales, propiciando seguridad y comodidad a los visitantes. El sendero que conduce hacia la cascada es adecuado en épocas de verano, en época de lluvias el acceso se restringe de manera oportuna para la seguridad de los visitantes. Cuenta con zonas de descanso, barandas y servicios higiénicos en constante mantenimiento."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n9\nCARTA N°001-2026-CCH\n2025\nReporte recibido y validado por la Dircetur Bajo Mayo.\nTuristas Nacionales\n72\nCARTA N°001-2026/CCH\n2025\nReporte recibido y validado por la Dircetur Bajo Mayo\nVisitantes Locales(Excursionistas)\n65\nCARTA N°001-2026/CCH\n2025\nReporte recibido y validado por la Dircetur Bajo Mayo"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nSan Martín/San Martín/Tarapoto\n-\nSan Martín/Lamas/Lamas\nPlaza Mayor de Tarapoto - Plaza de Armas de Lamas\nTerrestre\nMini bus público\nAsfaltado\n23 km / 25 min\n1\nSan Martín/Lamas/Lamas\n-\nSan Martín/Lamas/Lamas\nPlaza de Armas de Lamas - Desvío hacia la Carretera a la Comunidad Nativa Aviación\nTerrestre\nMototaxi\nAsfaltado\n2.5 km / 05 min\n1\nSan Martín/Lamas/Lamas\n-\nSan Martín/Lamas/Lamas\nDesvío hacia la carretera a la Comunidad Nativa Aviación - Boletería Cascada de Chapawanki\nTerrestre\nAutomóvil particular\nAfirmado\n3 km / 5 minutos\n1\nSan Martín/Lamas/Lamas\n-\nSan Martín/Lamas/Lamas\nBoletería Cascada de Chapawanki - Caída de agua\nTerrestre\nA pie\nSendero\n300 m / 15 min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nEntrada general S/ 5.00"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n09:00 a.m.\n-\n05:00 p.m.\nLunes a domingo. Tener en consideración la temporada de lluvia, entre los meses de enero a marzo. Contacto Lucy Gonzales 980053262."
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nOtros(Especificar)\nBaño en la cascada\nNaturaleza\nObservación de fauna\nMajas, Mono titi, sajino, zarigüeyas.\nNaturaleza\nObservación de flora\nPashaca, tornillo, cedro, caoba, moena.\nNaturaleza\nObservación de paisaje\n--\nDeportes / Aventura\nCaminata/Trekking\n--\nDeportes / Aventura\nCamping\n--\nPaseos\nOtros\nCaminatas\nOtros\nCompra de productos regionales\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nLugares de Recreación\nLugares de picnic\n--\nInstalaciones Privadas\nAlimentación\nKioskos de comida y bebidas\n--\nInstalaciones Públicas\nServicios Públicos\nEstacionamiento de vehículos\n--\nInstalaciones Públicas\nServicios Públicos\nBoletería\n--\nInstalaciones Públicas\nServicios Públicos\nCaminos de herradura (caballo)\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlimentación\nRestaurantes\n2 tenedores / Pueblo de Lamas\nLugares de Recreación\nDiscotecas\nPueblo de Lamas\nOtros Servicios Turísticos\nVenta de artesanía\nPueblo de Lamas / Comunidad Nativa Kechwa Wayku\nServicios Públicos\nOficina de Información turística\nPueblo de Lamas\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nPueblo de Lamas\nAlojamiento\nAlbergues\nPueblo de Lamas\nAlimentación\nCafeterías\nPueblo de Lamas\nAlimentación\nFuentes de soda\nPueblo de Lamas\nOtros Servicios Turísticos\nAgencia de Viajes\nPueblo de Lamas\nLugares de Recreación\nBares\nPueblo de Lamas\nServicios Públicos\nMiradores turísticos\nPueblo de Lamas"
+    },
+    {
+      "titulo": "Servicios Complementarios dentro del recurso",
+      "contenido": "Servicio Complementario\nObservación\nServicio de estacionamiento\n--"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nPueblo de Lamas\nBancos\nBanco de la Nación - Pueblo de Lamas\nCajero automático\nPueblo de Lamas\nServicio de estacionamiento\nPueblo de Lamas\nServicios de taxis\nPueblo de Lamas\nSeguridad / POLTUR / Comisaría\nPueblo de Lamas\nOtros(especificar)\nHospital / Pueblo de Lamas\nBodegas o minimarkets\nPueblo de Lamas\nEstación de servicios, grifos, gasolineras y gasocentros\nPueblo de Lamas\nLibrerías\nPueblo de Lamas\nServicio de correos\nSerpost, Olva Courrier, Shalom en el Pueblo de Lamas"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nOtros (Especificar)\nCaptación de agua, no potable\nAlternativo de Residuos (Biodigestor, pozo séptico, otros)\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Lamas\nAlcantarillado sanitario\nCiudad de Lamas\nLuz (Suministro Eléctrico)\nCiudad de Lamas\nTeléfono\nCiudad de Lamas\nSeñalización turística\nCiudad de Lamas\nAlcantarillado pluvial\nCiudad de Lamas"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\n--\nPrivado:\nJORGE JOSIAS GONZALES CAMPOS\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nTitulo de propiedad con resolucion directoral n°4399-97-CTAR-DRA\nAdministrador por\nNombre\nLucy Gonzales Diaz\nTiempo de administración\n4 años desde 2021"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo de San Martín\nNombre (Persona(s) responsable(s) del inventario turístico):\nEva Maria Samillan Montenegro\nCargo:\nAsistencia Técnica Administrativa\nCorreo:\nevamariasamillan@gmail.com\nTeléfono:\n930927554\nFuentes Bibliográfica:\n1)Turismo en Cascada Chapawanki, por turismo.pe (Plataforma digital de turismo de Latinoamérica) – Enlace: https://turismoi.pe/naturaleza/cataratas/cascada-chapawanki.htm\n2)Cascada de Chapawanki, por Y tú qué planes (Portal web de promoción turística del MINCETUR) - Enlace: https://www.ytuqueplanes.com/destinos/san-martin/provincia-de-lamas/cascada-de-chapawanki\n3)Cascada de Chapawanki, por Tarapoto.com (Portal web de promoción turística en la Amazonía peruana) - Enlace: https://tarapoto.com/lamas/cascada-de-chapawanki-lamas-tarapoto-peru/\n4)Cascada de Chapawanki por miviajeporperu.com (Portal web) – Enlace: https://miviajeporperu.com/tarapoto/cascada-chapawanki/\nMaterial Audiovisual actual del Recurso:\nFOTO, VIDEOS\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n23/03/2026 12:18:46"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -6.38063,
+    "longitud": -76.5206
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-6.38063,-76.5206"
+}

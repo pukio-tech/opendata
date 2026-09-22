@@ -1,0 +1,364 @@
+{
+  "cod_ficha": 2328,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=2328",
+  "nombre": "Centro Historico De Cajamarca",
+  "departamento": "Cajamarca",
+  "provincia": "Cajamarca",
+  "distrito": "CAJAMARCA",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Lugares Históricos",
+  "subtipo": "Centros Históricos",
+  "jerarquia": "POR JERARQUIZAR",
+  "altitud": "2722",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=541340",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=541340",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=541296",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=541341",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=541342",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=541346",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=541348"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Actividades Sociales",
+    "Otros - Realización de eventos"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "Centro Histórico",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Actividades Sociales",
+      "observacion": "Centro Histórico",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/sociales02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Realización de eventos",
+      "observacion": "Centro Histórico",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/eventos02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Cajamarca/Cajamarca/Cajamarca - Cajamarca/Cajamarca/Cajamarca",
+      "detalle": "Desde la plaza de armas, a tres cuadras a la redonda es el perímetro del Centro histórico de Cajamarca",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "3 horas"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "187",
+      "horario": "Información turisica",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "3050",
+      "horario": "Oficina Información Turística",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "2088",
+      "horario": "Oficina Información Turística",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "12:00 a.m. - 12:00 p.m. Las 24 horas del día",
+      "observaciones": "Las 24 horas del día"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "De 1 a 3 Estrellas, ciudad Cajamarca"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad Cajamarca"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Cajamarca"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de Cajamarca"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Español - Inglés - Ciudad Cajamarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "Ciudad de Cajamarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Casa de Hospedaje",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Cajamarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Snacks",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Casinos de Juego",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Pubs",
+      "observacion": "Ciudad de Cajamarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Peñas",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Cajamarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Plaza de Armas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Seguridad / POLTUR",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Correos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Fax",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Internet",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de taxi",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Tópico",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de Material Informativo(libro,revistas,postales,videos,etc)",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de Material para Fotografía",
+      "observacion": "--"
+    }
+  ],
+  "descripcion": "La ciudad actual se superpone a un antiguo asentamiento prehispánico de especial importancia durante la Época Inca. En 1532 a la llegada de los conquistadores españoles “era pueblo muy grande, cabeza de provincia”, donde destacaban una plaza y sus calles, diversos edificios civiles y religiosos, un conjunto de recintos murados, una fortaleza, una muralla perimétrica, con una gran concentración demográfica.\nProducida la captura y muerte de Atahualpa, el 26 de julio de 1533, la destrucción de la ciudad fue casi inmediata. El mismo día de la captura del inca – 16 de noviembre de 1532 – según el testimonio de los secretarios de Pizarro, Miguel de Estete y Francisco de Jerez, los propios indios “rompieron un lienzo de pared”, y a las pocas semanas el Gobernador “mando hacer en la plaza…una iglesia donde se celebra el Santísimo Sacramento y derribaron la cerca de la plaza…” Cajamarca, no tuvo una verdadera fundación española. La ciudad se organizó sobre las trazas del poblado indígena y mantuvo en cierto modo el patrón de asentamiento prehispánico. Los primitivos ayllus dispersos en más de 500 pueblos pequeños, en 1571 se redujeron a solo 17.Hacia 1593, Cajamarca conservaba aún un pueblo indígena. Allí vivían 5 mil indios, y 17 familias españolas. A comienzos de del siglo XVII Cajamarca ingresa a una etapa de franco desarrollo socioeconómico. En 1619, en mérito a su carácter urbano, se elevó el pueblo a la categoría de villa. Cajamarca, es reconocida como la Villa San Antonio de Cajamarca La Grande del Perú, adquiere una estructura urbana que le otorga una particularidad muy original, sui géneris, en el conjunto de las ciudades coloniales del siglo XVIII, consistente en la configuración de la trama urbana de medias manzanas. En 1699 se delinea la plaza principal, construyéndose al centro una fuente de cantería labrada de forma cilíndrica. El 19 de diciembre de 1802, por Real Cédula de Carlos II, se eleva al rango de ciudad.El 3 de enero de 1854, Toribio Casanova López, Juan Antonio Egúsquiza y Pedro José Villanueva organizaron y ejecutaron el movimiento armado que exigió y obtuvo del gobierno la confirmación del Departamento de Cajamarca. Cajamarca fue creada durante el gobierno del mariscal Ramón Castilla, por decreto del 11 de febrero de 1855. Desde la conquista y durante el régimen colonial fue partido, intendencia y corregimiento, A partir de la Independencia y hasta 1854, provincia del departamento de La Libertad.La fisionomía urbana del Centro Histórico o Zona Monumental de Cajamarca, es la expresión de más de 500 años de desarrollo histórico de la sierra Nor Andina del Perú y sus características arquitectónicas y urbanísticas peculiares son reconocidas como valor artístico cultural, tanto por organizaciones internacionales como por organismos públicos nacionales, habiéndose promulgado varios dispositivos legales vigentes orientados a proteger los bienes monumentales de la ciudad.El Centro Histórico está integrado por un gran número de monumentos históricos, destaca la arquitectura religiosa colonial precisamente con la edificación de la iglesia y convento de La Recoleta, en la fase del barroco clásico cajamarquino destacan las edificaciones de las iglesias monumentales de Santa Catalina (La Catedral), San Antonio de Padua (San Francisco), Belén y sus hospitales, existiendo otras iglesias de singular belleza como el Monasterio de las Monjas Concepcionistas Descalzas, San Pedro, San José, santuarios y capillas, hermosas plazuelas, así también dentro de la arquitectura civil barroca clásica cajamarquina se tiene conjunto de casas señoriales que representan el esplendor de la arquitectura colonial cajamarquina en un proceso radical de transformación urbana de pueblo de indios, a villa señorial española. Con R.S. N° 2900-1972-ED, del 28 de diciembre de 1972, se declaró Zona monumental comprendida dentro del perímetro formado por los jrs: Sullana, José Gálvez, Unión, Ucayali, 13 de Julio,, Chepén, Av.Fátima, Romero.y Sta.Apolonia",
+  "particularidades": "",
+  "estado_actual": "Bueno, el continuo mantenimiento por la Municipalidad Provincial de Cajamarca",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "La ciudad actual se superpone a un antiguo asentamiento prehispánico de especial importancia durante la Época Inca. En 1532 a la llegada de los conquistadores españoles “era pueblo muy grande, cabeza de provincia”, donde destacaban una plaza y sus calles, diversos edificios civiles y religiosos, un conjunto de recintos murados, una fortaleza, una muralla perimétrica, con una gran concentración demográfica.\nProducida la captura y muerte de Atahualpa, el 26 de julio de 1533, la destrucción de la ciudad fue casi inmediata. El mismo día de la captura del inca – 16 de noviembre de 1532 – según el testimonio de los secretarios de Pizarro, Miguel de Estete y Francisco de Jerez, los propios indios “rompieron un lienzo de pared”, y a las pocas semanas el Gobernador “mando hacer en la plaza…una iglesia donde se celebra el Santísimo Sacramento y derribaron la cerca de la plaza…” Cajamarca, no tuvo una verdadera fundación española. La ciudad se organizó sobre las trazas del poblado indígena y mantuvo en cierto modo el patrón de asentamiento prehispánico. Los primitivos ayllus dispersos en más de 500 pueblos pequeños, en 1571 se redujeron a solo 17.Hacia 1593, Cajamarca conservaba aún un pueblo indígena. Allí vivían 5 mil indios, y 17 familias españolas. A comienzos de del siglo XVII Cajamarca ingresa a una etapa de franco desarrollo socioeconómico. En 1619, en mérito a su carácter urbano, se elevó el pueblo a la categoría de villa. Cajamarca, es reconocida como la Villa San Antonio de Cajamarca La Grande del Perú, adquiere una estructura urbana que le otorga una particularidad muy original, sui géneris, en el conjunto de las ciudades coloniales del siglo XVIII, consistente en la configuración de la trama urbana de medias manzanas. En 1699 se delinea la plaza principal, construyéndose al centro una fuente de cantería labrada de forma cilíndrica. El 19 de diciembre de 1802, por Real Cédula de Carlos II, se eleva al rango de ciudad.El 3 de enero de 1854, Toribio Casanova López, Juan Antonio Egúsquiza y Pedro José Villanueva organizaron y ejecutaron el movimiento armado que exigió y obtuvo del gobierno la confirmación del Departamento de Cajamarca. Cajamarca fue creada durante el gobierno del mariscal Ramón Castilla, por decreto del 11 de febrero de 1855. Desde la conquista y durante el régimen colonial fue partido, intendencia y corregimiento, A partir de la Independencia y hasta 1854, provincia del departamento de La Libertad.La fisionomía urbana del Centro Histórico o Zona Monumental de Cajamarca, es la expresión de más de 500 años de desarrollo histórico de la sierra Nor Andina del Perú y sus características arquitectónicas y urbanísticas peculiares son reconocidas como valor artístico cultural, tanto por organizaciones internacionales como por organismos públicos nacionales, habiéndose promulgado varios dispositivos legales vigentes orientados a proteger los bienes monumentales de la ciudad.El Centro Histórico está integrado por un gran número de monumentos históricos, destaca la arquitectura religiosa colonial precisamente con la edificación de la iglesia y convento de La Recoleta, en la fase del barroco clásico cajamarquino destacan las edificaciones de las iglesias monumentales de Santa Catalina (La Catedral), San Antonio de Padua (San Francisco), Belén y sus hospitales, existiendo otras iglesias de singular belleza como el Monasterio de las Monjas Concepcionistas Descalzas, San Pedro, San José, santuarios y capillas, hermosas plazuelas, así también dentro de la arquitectura civil barroca clásica cajamarquina se tiene conjunto de casas señoriales que representan el esplendor de la arquitectura colonial cajamarquina en un proceso radical de transformación urbana de pueblo de indios, a villa señorial española. Con R.S. N° 2900-1972-ED, del 28 de diciembre de 1972, se declaró Zona monumental comprendida dentro del perímetro formado por los jrs: Sullana, José Gálvez, Unión, Ucayali, 13 de Julio,, Chepén, Av.Fátima, Romero.y Sta.Apolonia"
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "La ciudad fue declarada \"Patrimonio Histórico y Cultural de las Américas\", por la Organización de los Estados Americanos- OEA, el 14 de noviembre de 1986, así también se encuentra en una lista oficial para ser declarada su centro histórico Patrimonio de la Humanidad, por la UNESCO"
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, el continuo mantenimiento por la Municipalidad Provincial de Cajamarca"
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n187\nInformación turisica\n2023\nDatos obtenidos de la Oficina de Información turística de la Municipalidad Provincial de Cajamarca\nTuristas Nacionales\n3050\nOficina Información Turística\n2023\nDatos obtenidos de la Oficina de Información turística de la Municipalidad Provincial de Cajamarca\nVisitantes Locales(Excursionistas)\n2088\nOficina Información Turística\n2023\nDatos obtenidos de la Oficina de Información turística de la Municipalidad Provincial de Cajamarca"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nCajamarca/Cajamarca/Cajamarca\n-\nCajamarca/Cajamarca/Cajamarca\nDesde la plaza de armas, a tres cuadras a la redonda es el perímetro del Centro histórico de Cajamarca\nTerrestre\nA pie\nAsfaltado\n3 horas"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n12:00 a.m.\n-\n12:00 p.m.\nLas 24 horas del día"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\nCentro Histórico\nOtros\nActividades Sociales\nCentro Histórico\nOtros\nRealización de eventos\nCentro Histórico"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nAlojamiento\nHoteles (especificar categorías)\nDe 1 a 3 Estrellas, ciudad Cajamarca\nInstalaciones Privadas\nAlimentación\nRestaurantes\nCiudad Cajamarca\nInstalaciones Privadas\nLugares de Recreación\nDiscotecas\nCiudad de Cajamarca\nInstalaciones Privadas\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de Cajamarca\nInstalaciones Privadas\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nEspañol - Inglés - Ciudad Cajamarca"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\nCiudad de Cajamarca\nAlojamiento\nHostales (especificar categorías)\n--\nAlojamiento\nCasa de Hospedaje\n--\nAlimentación\nRestaurantes\nCiudad de Cajamarca\nAlimentación\nBares\n--\nAlimentación\nCafeterías\n--\nAlimentación\nSnacks\n--\nLugares de Recreación\nDiscotecas\n--\nLugares de Recreación\nCasinos de Juego\n--\nLugares de Recreación\nPubs\nCiudad de Cajamarca\nLugares de Recreación\nPeñas\n--\nLugares de Recreación\nJuegos de casino y/o tragamonedas\n--\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Cajamarca\nOtros Servicios Turísticos\nAgencia de Viajes\nPlaza de Armas\nOtros Servicios Turísticos\nSeguridad / POLTUR\n--\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\n--\nOtros Servicios Turísticos\nServicio de Correos\n--\nOtros Servicios Turísticos\nServicio de Fax\n--\nOtros Servicios Turísticos\nServicio de Internet\n--\nOtros Servicios Turísticos\nServicio de taxi\n--\nOtros Servicios Turísticos\nTópico\n--\nOtros Servicios Turísticos\nVenta de Material Informativo(libro,revistas,postales,videos,etc)\n--\nOtros Servicios Turísticos\nVenta de Material para Fotografía\n--"
+    },
+    {
+      "titulo": "Servicios Complementarios dentro del recurso",
+      "contenido": "Servicio Complementario\nObservación\nServicios de internet\nCiudad Cajamarca\nBancos\nCiudad de Cajamarca\nCajero automático\nCiudad de Cajamarca\nServicios de taxis\nCiudad de Cajamarca\nVenta de materiales para fotografías\nCiudad de Cajamarca\nCentro de salud - tópico\nCiudad de Cajamarca\nSeguridad / POLTUR / Comisaría\nCiudad de Cajamarca\nBodegas o minimarkets\nCiudad de Cajamarca\nLibrerías\nCiudad de Cajamarca"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad Cajamarca\nBancos\nCiudad Cajamarca\nCajero automático\nCiudad Cajamarca\nCasa de cambio\nCiudad Cajamarca\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad Cajamarca\nServicio de correos\nCiudad Cajamarca\nServicio de estacionamiento\nCiudad Cajamarca\nServicios de taxis\nCiudad Cajamarca\nCentro de salud - tópico\nCiudad Cajamarca\nSeguridad / POLTUR / Comisaría\nCiudad Cajamarca\nVenta de materiales para fotografías\nCiudad Cajamarca\nLibrerías\nCiudad Cajamarca\nBodegas o minimarkets\nCiudad Cajamarca"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\n--\nAlcantarillado sanitario\n--\nDesagüe\n--\nLuz (Suministro Eléctrico)\n--\nTeléfono\n--\nSeñalización turística\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad Cajamarca\nAlcantarillado sanitario\nCiudad Cajamarca\nDesagüe\nCiudad Cajamarca\nLuz (Suministro Eléctrico)\nCiudad Cajamarca\nTeléfono\nCiudad Cajamarca\nSeñalización turística\nCiudad Cajamarca"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDIRECCI`´ON REGIONAL DE COMERCIO EXTERIOR Y TURISMO CAJAMARCA\nNombre (Persona(s) responsable(s) del inventario turístico):\nESPERANZA ESCOBAR PORTAL\nCargo:\nTECNICO EN TURISMO I\nCorreo:\nmescobar@regioncajamarca.gob.pe\nTeléfono:\n962690326\nFuentes Bibliográfica:\n• Nazario Chávez Aliaga, Lima 28 de Julio de 1958. Cajamarca, Volumen IV – Toribio Casanova.\n• Carlos Burga Larrea, 1983. Diccionario Geográfico e Histórico de Cajamarca (Toponimia Departamental).\n• Cajamarca, Arquitectura religiosa y civil, editado por el Instituto Nacional de Cultura – Lima 1983, de la serie Inventario del Patrimonio Histórico – artístico.\n• Instituto Nacional de Cultura de Cajamarca, 1985. Historia de Cajamarca: Etnohistoria y Lingüística.\n• Antonio Campos Fernández, 1990. Cajamarca la bella, reminiscencias y cuentos.\n• Julio Sarmiento Gutiérrez - Tristán Ravines Sánchez, 2004.Cajamarca Historia y Cultura.\n• Iván Roberto Reyna, 2010. El Encuentro de Cajamarca.\n• Municipalidad Provincial de Cajamarca, Dirección Desconcentrada de Cultura, Asociación Los Andes de Cajamarca, agosto 2016. Plan de Gestión de la Zona Monumental de Cajamarca.\n• José Tejada Chávez, 2023, mayo. Libro de Fotografías Cajamarca: Belleza, Soledad y Coraje, se presentó en España.\nMaterial Audiovisual actual del Recurso:\nFOTO, VIDEOS\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n5/07/2024 12:05:08"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -7.156719758700725,
+    "longitud": -78.5177743434906
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-7.156719758700725,-78.5177743434906"
+}

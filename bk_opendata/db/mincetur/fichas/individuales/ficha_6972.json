@@ -1,0 +1,495 @@
+{
+  "cod_ficha": 6972,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=6972",
+  "nombre": "Bodega La Caravedo",
+  "departamento": "Ica",
+  "provincia": "Ica",
+  "distrito": "SALAS",
+  "categoria": "4. REALIZACIONES TÉCNICAS, CIENTÍFICAS Y ARTÍSTICAS CONTEMPORÁNEAS",
+  "tipo": "Explotaciones Industriales",
+  "subtipo": "Bodegas de pisco, vinos y/u otros licores",
+  "jerarquia": "2",
+  "altitud": "475",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=292143",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=292143",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=463432",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=463349",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=463433",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=463350",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=463434",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=463351"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Paseos - Excursiones",
+    "Otros - Realización de eventos",
+    "Otros - Otros(Especificar)",
+    "Naturaleza - Observación de paisaje",
+    "Cultura y Folclore - Degustación y preparación de platos, productos o bebidas típicas",
+    "Paseos - Paseos a caballo",
+    "Cultura y Folclore - Apreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Paseos",
+      "tipo": "Excursiones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/excursiones02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Realización de eventos",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/eventos02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Otros(Especificar)",
+      "observacion": "Cata y venta de Pisco",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/otros02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Degustación y preparación de platos, productos o bebidas típicas",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/platos_tipicos02.png"
+    },
+    {
+      "actividad": "Paseos",
+      "tipo": "Paseos a caballo",
+      "observacion": "Solo para los huéspedes",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paseo_caballo02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Apreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)",
+      "observacion": "--",
+      "icono_url": null
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Ica/Ica/Ica - Ica/Ica/Salas",
+      "detalle": "Plaza de Armas de Ica - Plaza de Armas de Guadalupe",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "6 Km. /15 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Ica/Ica/Salas - Ica/Ica/Salas",
+      "detalle": "Plaza de Armas de Guadalupe - Bodega La Caravedo",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "4 km. /10 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Ica/Ica/Ica - Ica/Ica/Salas",
+      "detalle": "Plaza de Armas de Ica - Plaza de Armas de Guadalupe",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus turístico",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "6 Km. /20 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Ica/Ica/Salas - Ica/Ica/Salas",
+      "detalle": "Plaza de Armas de Guadalupe - Bodega La Caravedo",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus turístico",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "4 km. /15 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Ica/Ica/Ica - Ica/Ica/Salas",
+      "detalle": "Plaza de Armas de Ica - Plaza de Armas de Guadalupe",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Camioneta doble tracción",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "6 Km. /10 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Ica/Ica/Salas - Ica/Ica/Salas",
+      "detalle": "Plaza de Armas de Guadalupe - Bodega La Caravedo",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Camioneta doble tracción",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "4 km. / 5 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Ica/Ica/Ica - Ica/Ica/Salas",
+      "detalle": "Plaza de Armas de Ica - Plaza de Armas de Guadalupe",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mini bus turístico",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "6 Km. /18 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Ica/Ica/Salas - Ica/Ica/Salas",
+      "detalle": "Plaza de Armas de Guadalupe - Bodega La Caravedo",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mini bus turístico",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "4 km. / 13 min."
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "3861",
+      "horario": "Libro de Registro de visitantes",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "26673",
+      "horario": "Libro de Registro de visitantes",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "4562",
+      "horario": "Libro de Registro de visitantes",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "09:00 a.m. - 05:00 p.m. Ofrecen 5 tipos de tours dentro de la bodega: Cata básica, Clásica, Premium, Experiencia sabores de la Hacienda, Caravedo pool. Los horarios de desarrollo de los tours son a las 10:00, 12:00, 15:00,.",
+      "observaciones": "Ofrecen 5 tipos de tours dentro de la bodega: Cata básica, Clásica, Premium, Experiencia sabores de la Hacienda, Caravedo pool. Los horarios de desarrollo de los tours son a las 10:00, 12:00, 15:00,."
+    },
+    {
+      "epoca": "Adulto mayor",
+      "especificacion": "Rampas",
+      "horario": "--",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Semi-restringido(previo permiso)",
+      "observaciones": "Puede realizar sus consultas y/o reservas enviando un mail a: turismo@lacaravedo.com También podrá comunicarse a los siguientes números telefónicos: Teléfono fijo: 056 – 641090 Celular : 981-249789"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "Hotel de 3 estrellass."
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicios Higiénicos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Idioma Ingles"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Estacionamiento",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "Hostales de 1 a 3 estrellas - Ciudad de Ica y Salas Guadalupe."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Ica y Salas Guadalupe."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Salas Guadalupe."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Ciudad de Salas Guadalupe"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Ica y Salas Guadalupe."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "Hoteles de 1 a 5 estrellas - Ciudad de Ica"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Ciudad de Ica y Salas Guadalupe."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Food Truck - Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de bicicleta",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Idioma Ingles - Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Peñas",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Cines o Teatros",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de interpretación",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Museo de Sitio Turísticos",
+      "observacion": "Ciudad de Ica."
+    }
+  ],
+  "descripcion": "Las primeras escrituras de la bodega La Caravedo datan de 1563, año en que se fundó la ciudad de Ica. Los primeros dueños fueron Doña Guiomar de Sosa y Francisco Sánchez de Revata, quienes cosecharon las primeras uvas cuando comenzaba la producción de piscos y vinos a mediados del siglo XVII. El 14 de octubre de 1684, la bodega pasa hacer propiedad del Sr. Roque de Caravedo yerno de doña Guimar y Francisco. Al pasar de los años la propiedad fue cambiado de dueño a través de herencia o venta.\nEn el siglo XXI, fue adquirido por el Sr. Rodrigo Pesquería para luego vendérsela al empresario estadounidense William Kallop y junto con la representación de Johnny Schuler se unen en alianza para elaborar los mejores piscos y vinos.\nEn las instalaciones se puede observar la antigua destilería donde aún tienen el lagar circular con capacidad para 20 toneladas de uva, una prensa de huarango, botijas o tinajas, viñedos.\nEn su zona de destilación cuenta con tres falcas de cobre (capacidad 1500 litros), las cuales son únicas en el Perú, estas se diferencian a las tradicionales porque no tienen capitel ni cuello de cisne, estos elementos son reemplazados por un cañón lateral el cual atrapa el vapor que se forma durante la destilación. Asimismo, cuenta con tecnología avanzada, un claro ejemplo es visitar su planta de producción que se asemeja a un laboratorio, la cual fue instalada en el año 2009, esta tiene una capacidad de producción de un millón y medio de litros de pisco, donde el 30% es para la exportación y el 70% es dirigido al mercado nacional, siendo uno de los más reconocidos, Pisco Portón.\nSe puede disfrutar del paisaje, realizar la pisa tradicional, tomas de fotografías, degustación de vinos y pisco de las diferentes variedades.\nActualmente, la bodega cuenta con 24 hectáreas de uva quebranta, uva negra, criolla, mollar, Italia.",
+  "particularidades": "",
+  "estado_actual": "Bueno; porque recibe mantenimiento permanente de parte de los propietarios.",
+  "observaciones": "Zona de los lagares: Al ser una construcción artesanal, sus gradas están hechas de adobe, las cuales se observan un poco deterioradas.\nSu marca más emblemática es el “Pisco Portón”, la cual cuenta con ocho cepas diferentes: Quebranta, Acholado, Torontel, Albilla, Moscatel, Mollar, Italia y Negra Criolla.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Las primeras escrituras de la bodega La Caravedo datan de 1563, año en que se fundó la ciudad de Ica. Los primeros dueños fueron Doña Guiomar de Sosa y Francisco Sánchez de Revata, quienes cosecharon las primeras uvas cuando comenzaba la producción de piscos y vinos a mediados del siglo XVII. El 14 de octubre de 1684, la bodega pasa hacer propiedad del Sr. Roque de Caravedo yerno de doña Guimar y Francisco. Al pasar de los años la propiedad fue cambiado de dueño a través de herencia o venta.\nEn el siglo XXI, fue adquirido por el Sr. Rodrigo Pesquería para luego vendérsela al empresario estadounidense William Kallop y junto con la representación de Johnny Schuler se unen en alianza para elaborar los mejores piscos y vinos.\nEn las instalaciones se puede observar la antigua destilería donde aún tienen el lagar circular con capacidad para 20 toneladas de uva, una prensa de huarango, botijas o tinajas, viñedos.\nEn su zona de destilación cuenta con tres falcas de cobre (capacidad 1500 litros), las cuales son únicas en el Perú, estas se diferencian a las tradicionales porque no tienen capitel ni cuello de cisne, estos elementos son reemplazados por un cañón lateral el cual atrapa el vapor que se forma durante la destilación. Asimismo, cuenta con tecnología avanzada, un claro ejemplo es visitar su planta de producción que se asemeja a un laboratorio, la cual fue instalada en el año 2009, esta tiene una capacidad de producción de un millón y medio de litros de pisco, donde el 30% es para la exportación y el 70% es dirigido al mercado nacional, siendo uno de los más reconocidos, Pisco Portón.\nSe puede disfrutar del paisaje, realizar la pisa tradicional, tomas de fotografías, degustación de vinos y pisco de las diferentes variedades.\nActualmente, la bodega cuenta con 24 hectáreas de uva quebranta, uva negra, criolla, mollar, Italia."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "Cuenta con el Reconocimiento del Sello Safe Travels."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno; porque recibe mantenimiento permanente de parte de los propietarios."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "Zona de los lagares: Al ser una construcción artesanal, sus gradas están hechas de adobe, las cuales se observan un poco deterioradas.\nSu marca más emblemática es el “Pisco Portón”, la cual cuenta con ocho cepas diferentes: Quebranta, Acholado, Torontel, Albilla, Moscatel, Mollar, Italia y Negra Criolla."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n3861\nLibro de Registro de visitantes\n2022\nLa información brindada es del mes de enero a octubre de 2022\nTuristas Nacionales\n26673\nLibro de Registro de visitantes\n2022\nLa información brindada es del mes de enero a octubre de 2022\nVisitantes Locales(Excursionistas)\n4562\nLibro de Registro de visitantes\n2022\nLa información brindada es del mes de enero a octubre de 2022."
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nIca/Ica/Ica\n-\nIca/Ica/Salas\nPlaza de Armas de Ica - Plaza de Armas de Guadalupe\nTerrestre\nAutomóvil particular\nAsfaltado\n6 Km. /15 min.\n1\nIca/Ica/Salas\n-\nIca/Ica/Salas\nPlaza de Armas de Guadalupe - Bodega La Caravedo\nTerrestre\nAutomóvil particular\nTrocha carrozable\n4 km. /10 min.\n1\nIca/Ica/Ica\n-\nIca/Ica/Salas\nPlaza de Armas de Ica - Plaza de Armas de Guadalupe\nTerrestre\nBus turístico\nAsfaltado\n6 Km. /20 min.\n1\nIca/Ica/Salas\n-\nIca/Ica/Salas\nPlaza de Armas de Guadalupe - Bodega La Caravedo\nTerrestre\nBus turístico\nTrocha carrozable\n4 km. /15 min.\n1\nIca/Ica/Ica\n-\nIca/Ica/Salas\nPlaza de Armas de Ica - Plaza de Armas de Guadalupe\nTerrestre\nCamioneta doble tracción\nAsfaltado\n6 Km. /10 min.\n1\nIca/Ica/Salas\n-\nIca/Ica/Salas\nPlaza de Armas de Guadalupe - Bodega La Caravedo\nTerrestre\nCamioneta doble tracción\nTrocha carrozable\n4 km. / 5 min.\n1\nIca/Ica/Ica\n-\nIca/Ica/Salas\nPlaza de Armas de Ica - Plaza de Armas de Guadalupe\nTerrestre\nMini bus turístico\nAsfaltado\n6 Km. /18 min.\n1\nIca/Ica/Salas\n-\nIca/Ica/Salas\nPlaza de Armas de Guadalupe - Bodega La Caravedo\nTerrestre\nMini bus turístico\nTrocha carrozable\n4 km. / 13 min."
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nSemi-restringido(previo permiso)\nPuede realizar sus consultas y/o reservas enviando un mail a:\nturismo@lacaravedo.com\nTambién podrá comunicarse a los siguientes números telefónicos:\nTeléfono fijo: 056 – 641090\nCelular : 981-249789"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n09:00 a.m.\n-\n05:00 p.m.\nOfrecen 5 tipos de tours dentro de la bodega: Cata básica, Clásica, Premium, Experiencia sabores de la Hacienda, Caravedo pool. Los horarios de desarrollo de los tours son a las 10:00, 12:00, 15:00,."
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nPaseos\nExcursiones\n--\nOtros\nRealización de eventos\n--\nOtros\nOtros(Especificar)\nCata y venta de Pisco\nNaturaleza\nObservación de paisaje\n--\nCultura y Folclore\nDegustación y preparación de platos, productos o bebidas típicas\n--\nPaseos\nPaseos a caballo\nSolo para los huéspedes\nCultura y Folclore\nApreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nAlojamiento\nHoteles (especificar categorías)\nHotel de 3 estrellass.\nInstalaciones Privadas\nOtros Servicios Turísticos\nVenta de artesanía\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nServicios Higiénicos\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nIdioma Ingles\nInstalaciones Privadas\nOtros Servicios Turísticos\nServicio de Estacionamiento\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHostales (especificar categorías)\nHostales de 1 a 3 estrellas - Ciudad de Ica y Salas Guadalupe.\nAlimentación\nRestaurantes\nCiudad de Ica y Salas Guadalupe.\nAlimentación\nKioskos de comida y bebidas\nCiudad de Salas Guadalupe.\nLugares de Recreación\nJuegos Infantiles\nCiudad de Salas Guadalupe\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Ica y Salas Guadalupe.\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Ica.\nAlojamiento\nHoteles (especificar categorías)\nHoteles de 1 a 5 estrellas - Ciudad de Ica\nAlimentación\nBares\nCiudad de Ica.\nAlimentación\nCafeterías\nCiudad de Ica.\nAlimentación\nFuentes de soda\nCiudad de Ica y Salas Guadalupe.\nAlimentación\nVenta de comida Rápida\nFood Truck - Ciudad de Ica.\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de Ica.\nOtros Servicios Turísticos\nAlquiler de bicicleta\nCiudad de Ica.\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nIdioma Ingles - Ciudad de Ica.\nLugares de Recreación\nDiscotecas\nCiudad de Ica.\nLugares de Recreación\nPeñas\nCiudad de Ica.\nLugares de Recreación\nCines o Teatros\nCiudad de Ica.\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nCiudad de Ica.\nLugares de Recreación\nCentros Deportivos\nCiudad de Ica.\nLugares de Recreación\nKaraoke\nCiudad de Ica.\nLugares de Recreación\nBares\nCiudad de Ica.\nServicios Públicos\nEstacionamiento de vehículos\nCiudad de Ica.\nServicios Públicos\nSeñales turísticas de interpretación\nCiudad de Ica.\nServicios Públicos\nOficina de Información turística\nCiudad de Ica.\nServicios Públicos\nMuseo de Sitio Turísticos\nCiudad de Ica."
+    },
+    {
+      "titulo": "Servicios Complementarios dentro del recurso",
+      "contenido": "Servicio Complementario\nObservación\nServicios de internet\n--"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Ica y Salas Guadalupe.\nBancos\nCiudad de Ica y Salas Guadalupe.\nCajero automático\nCiudad de Ica y Salas Guadalupe.\nCasa de cambio\nCiudad de Ica.\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Ica y Salas Guadalupe.\nServicio de correos\nCiudad de Ica.\nServicio de estacionamiento\nCiudad de Ica y Salas Guadalupe.\nServicios de taxis\nCiudad de Ica y Salas Guadalupe.\nCentro de salud - tópico\nCiudad de Ica y Salas Guadalupe.\nVenta de materiales para fotografías\nCiudad de Ica.\nSeguridad / POLTUR / Comisaría\nCiudad de Ica y Salas Guadalupe.\nAlquiler y compra de equipos deportivos\nCiudad de Ica.\nLibrerías\nCiudad de Ica y Salas Guadalupe.\nBodegas o minimarkets\nCiudad de Ica y Salas Guadalupe.\nOtros(especificar)\nCentro Comerciales - Ciudad de Ica."
+    },
+    {
+      "titulo": "Condiciones de Accesibilidad al Visitante",
+      "contenido": "Visitante\nInstalación\nActividades y/o programas\nEquipamiento\nObservación\nAdulto mayor\nRampas\n--\n--\n--"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\n--\nLuz (Suministro Eléctrico)\n--\nTeléfono\n--\nAlcantarillado sanitario\n--\nSeñalización turística\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Salas Guadalupe.\nLuz (Suministro Eléctrico)\nCiudad de Salas Guadalupe.\nTeléfono\nCiudad de Salas Guadalupe.\nSeñalización turística\nCiudad de Salas Guadalupe."
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\n--\nPrivado:\nAsociación Pisco Portón L.L.C.\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nZona Registral XI - Oficina Registral Ica\nNúmero de Partida:\n11075101\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nDaniel Alonso Byrne Labarthe\nTiempo de administración\nDesde el año 2022"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo de Ica\nNombre (Persona(s) responsable(s) del inventario turístico):\nLic. Leslie Pilar Jorge Guerra\nCargo:\nEspecialista en Turismo\nCorreo:\nservicioturismo@dirceturica.gob.pe\nTeléfono:\n992243714\nFuentes Bibliográfica:\nHTTP://WWW.MINCETUR.GOB.PE/NEWWEB/PORTALS/0/TURISMO/PDFS/GUIA_BODEGAS_ICA_RUTA_PISCO2013.PDF-HTTP://ELCOMERCIO.PE/GASTRONOMIA/BARES-Y-COPAS/VIDEO-RECORRIDO-TURISTICO-VINEDOS-ICA-NOTICIA-1419371\nMaterial Audiovisual actual del Recurso:\nFOTO, VIDEOS\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n15/12/2022"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -13.9826509,
+    "longitud": -75.7450347
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-13.9826509,-75.7450347"
+}

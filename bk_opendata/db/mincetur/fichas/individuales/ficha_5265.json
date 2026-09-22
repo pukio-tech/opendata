@@ -1,0 +1,314 @@
+{
+  "cod_ficha": 5265,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=5265",
+  "nombre": "Museo Leymebamba",
+  "departamento": "Amazonas",
+  "provincia": "Chachapoyas",
+  "distrito": "LEIMEBAMBA",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Museos y otros",
+  "subtipo": "Museos",
+  "jerarquia": "2",
+  "altitud": "2400",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=562471",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=562471",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=562436",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=562437",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=562438",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=562472",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=562439",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=562440",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=562642",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=562671"
+  ],
+  "actividades_permitidas": [
+    "Otros - Compras de artesanía/souvenir",
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Estudios e Investigación",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de aves"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Compras de artesanía/souvenir",
+      "observacion": "Elaborada a base de madera y lana de oveja",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/artesania02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "4 salas arqueológicas y en la parte externa",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "Constante investigación científica por parte de los arqueólogos residentes",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "Helechos, Brómelas, Orquídeas, Palmeras, Cedro, Alisos, Nogal, Ishpingo, Chonta, Árbol de la Quina, Pajuro, entre otros especies",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de aves",
+      "observacion": "Colibríes, Tangaras y Zorzales",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/aves02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Amazonas/Chachapoyas/Leimebamba - Amazonas/Chachapoyas/Leimebamba",
+      "detalle": "Plaza principal de la localidad de Leymebamba-Museo Leymebamba",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "5 Km./ 10 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Amazonas/Chachapoyas/Leimebamba - Amazonas/Chachapoyas/Leimebamba",
+      "detalle": "Plaza principal de la localidad de Leymebamba-Museo Leymebamba",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mototaxi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "5 Km./ 15 min."
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "1065",
+      "horario": "Área de administración del Museo Leymebamba",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "6029",
+      "horario": "Área de administración del Museo Leymebamba",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "776",
+      "horario": "Área de administración del Museo Leymebamba",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "10:00 a.m. - 04:30 p.m. Lunes a Domingo",
+      "observaciones": "Lunes a Domingo"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "Los visitantes adquieren su ticket en boletería. -Adulto: 30 soles. -Adulto Mayor y Universitarios: 15 soles. -Escolares: 05 soles."
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Museo Leymebamba"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Museo Leymebamba Idioma Castellano"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Museo Leymebamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Localidad de Leymebamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Localidad de Leymebamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Localidad de Leymebamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Localidad de Leymebamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Localidad de Leymebamba."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Localidad de Leymebamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Localidad de Leymebamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Localidad de Leymebamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Localidad de Leymebamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "Localidad de Leymebamba 2 estrellas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "Localidad de Leymebamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "Localidad de Leymebamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Puesto de auxilio rápido",
+      "observacion": "Localidad de Leymebamba"
+    }
+  ],
+  "descripcion": "El Museo Leymebamba está incorporado al Sistema Nacional de Museos del Estado; La bioantropóloga peruana Dra. Sonia Elizabeth Guillén Oneeglio, en su publicación \"Chacha Motivos en el Museo Leymebamba\" en el año 2011, indica que fue inaugurado el 10 de junio del año 2000; Guillén, además de haber supervisado la creación del museo, también se encarga de la gestión y conservación de sus colecciones, asegurando su adecuada documentación y difusión. El Centro Mallqui, mediante el proyecto arqueológico de emergencia, rescató 219 momias y más de 2300 objetos de ajuar funerario, recuperado en 1997 del sitio arqueológico Laguna de los Cóndores o Laguna de las Momias, pertenecientes a la época Chachapoya-Inca; el diseño del museo recrea las tradiciones arquitectónicas locales, empleando tecnología constructiva y materiales de la zona. Existen 3 salas que albergan el material arqueológico recuperado; se ha implementado una sala etnográfica en donde se presentan las diversas expresiones del modo de vida de las sociedades que actualmente habitan el territorio de los antiguos Chachapoya, así como una sala destinada a promover actividades de divulgación científica y cultural. Las piezas arqueológicas incluyen bienes materiales muebles como 219 fardos funerarios, 31 quipus, instrumentos musicales de viento, mates pirograbados como cuencos, botellas, copas y caleros y contenedores de caña utilizados para llevar instrumentos de tejer como usos, piruros y cargar flechas. En esta colección se encontraron tallados en madera donde representaban el aspecto facial de las personas; textiles elaborados a base de algodón, fibra de llama, alpaca, vicuña y guanaco. La cerámica fue de estilo utilitario, elaborada con la técnica del enrollado utilizando los dedos; tonalidades de gris a negro.\nEl estado de conservación de las piezas arqueológicas y la arquitectura del museo es buena; se realizan investigaciones permanentes, acciones de conservación y mantenimiento, además se pueden apreciar con claridad los detalles de las muestras. Esto genera interés de visita en los turistas locales, naciones e internacionales.",
+  "particularidades": "Según la publicación \"Chacha Motivos en el Museo Leymebamba\", el recurso turístico cuenta con 2300 piezas arqueológicas de la cultura Chachapoya-Inca, lo que lo convierte en una de las colecciones arqueológicas más grandes de la región Amazonas.",
+  "estado_actual": "Bueno, Porque se realiza investigaciones permanentes, acciones de conservación y mantenimiento además se pueden apreciar con claridad los detalles de las piezas arqueológicas que se exhiben en el Museo Leymebamba",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "El Museo Leymebamba está incorporado al Sistema Nacional de Museos del Estado; La bioantropóloga peruana Dra. Sonia Elizabeth Guillén Oneeglio, en su publicación \"Chacha Motivos en el Museo Leymebamba\" en el año 2011, indica que fue inaugurado el 10 de junio del año 2000; Guillén, además de haber supervisado la creación del museo, también se encarga de la gestión y conservación de sus colecciones, asegurando su adecuada documentación y difusión. El Centro Mallqui, mediante el proyecto arqueológico de emergencia, rescató 219 momias y más de 2300 objetos de ajuar funerario, recuperado en 1997 del sitio arqueológico Laguna de los Cóndores o Laguna de las Momias, pertenecientes a la época Chachapoya-Inca; el diseño del museo recrea las tradiciones arquitectónicas locales, empleando tecnología constructiva y materiales de la zona. Existen 3 salas que albergan el material arqueológico recuperado; se ha implementado una sala etnográfica en donde se presentan las diversas expresiones del modo de vida de las sociedades que actualmente habitan el territorio de los antiguos Chachapoya, así como una sala destinada a promover actividades de divulgación científica y cultural. Las piezas arqueológicas incluyen bienes materiales muebles como 219 fardos funerarios, 31 quipus, instrumentos musicales de viento, mates pirograbados como cuencos, botellas, copas y caleros y contenedores de caña utilizados para llevar instrumentos de tejer como usos, piruros y cargar flechas. En esta colección se encontraron tallados en madera donde representaban el aspecto facial de las personas; textiles elaborados a base de algodón, fibra de llama, alpaca, vicuña y guanaco. La cerámica fue de estilo utilitario, elaborada con la técnica del enrollado utilizando los dedos; tonalidades de gris a negro.\nEl estado de conservación de las piezas arqueológicas y la arquitectura del museo es buena; se realizan investigaciones permanentes, acciones de conservación y mantenimiento, además se pueden apreciar con claridad los detalles de las muestras. Esto genera interés de visita en los turistas locales, naciones e internacionales."
+    },
+    {
+      "titulo": "Particularidades",
+      "contenido": "Según la publicación \"Chacha Motivos en el Museo Leymebamba\", el recurso turístico cuenta con 2300 piezas arqueológicas de la cultura Chachapoya-Inca, lo que lo convierte en una de las colecciones arqueológicas más grandes de la región Amazonas."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "El Museo Leymebamba esta incorporación al Sistema Nacional de Museos del Estado, mediante RDN N° 080/ INC-2002"
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, Porque se realiza investigaciones permanentes, acciones de conservación y mantenimiento además se pueden apreciar con claridad los detalles de las piezas arqueológicas que se exhiben en el Museo Leymebamba"
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": ""
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n1065\nÁrea de administración del Museo Leymebamba\n2023\nValidado por Dircetur Amazonas\nTuristas Nacionales\n6029\nÁrea de administración del Museo Leymebamba\n2023\nValidado por Dircetur Amazonas\nVisitantes Locales(Excursionistas)\n776\nÁrea de administración del Museo Leymebamba\n2023\nValidado por Dircetur Amazonas"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nAmazonas/Chachapoyas/Leimebamba\n-\nAmazonas/Chachapoyas/Leimebamba\nPlaza principal de la localidad de Leymebamba-Museo Leymebamba\nTerrestre\nAutomóvil particular\nAsfaltado\n5 Km./ 10 min.\n1\nAmazonas/Chachapoyas/Leimebamba\n-\nAmazonas/Chachapoyas/Leimebamba\nPlaza principal de la localidad de Leymebamba-Museo Leymebamba\nTerrestre\nMototaxi\nAsfaltado\n5 Km./ 15 min."
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nLos visitantes adquieren su ticket en boletería. -Adulto: 30 soles. -Adulto Mayor y Universitarios: 15 soles. -Escolares: 05 soles."
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n10:00 a.m.\n-\n04:30 p.m.\nLunes a Domingo"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nCompras de artesanía/souvenir\nElaborada a base de madera y lana de oveja\nOtros\nToma de fotografías y filmaciones\n4 salas arqueológicas y en la parte externa\nOtros\nEstudios e Investigación\nConstante investigación científica por parte de los arqueólogos residentes\nNaturaleza\nObservación de flora\nHelechos, Brómelas, Orquídeas, Palmeras, Cedro, Alisos, Nogal, Ishpingo, Chonta, Árbol de la Quina, Pajuro, entre otros especies\nNaturaleza\nObservación de aves\nColibríes, Tangaras y Zorzales"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nOtros Servicios Turísticos\nVenta de artesanía\nMuseo Leymebamba\nInstalaciones Privadas\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nMuseo Leymebamba Idioma Castellano\nInstalaciones Privadas\nAlimentación\nCafeterías\nMuseo Leymebamba"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nLugares de Recreación\nDiscotecas\nLocalidad de Leymebamba\nLugares de Recreación\nJuegos Infantiles\nLocalidad de Leymebamba\nLugares de Recreación\nCentros Deportivos\nLocalidad de Leymebamba\nLugares de Recreación\nBares\nLocalidad de Leymebamba\nOtros Servicios Turísticos\nAgencia de Viajes\nLocalidad de Leymebamba.\nAlimentación\nRestaurantes\nLocalidad de Leymebamba\nAlimentación\nCafeterías\nLocalidad de Leymebamba\nAlimentación\nKioskos de comida y bebidas\nLocalidad de Leymebamba\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nLocalidad de Leymebamba\nAlojamiento\nHostales (especificar categorías)\nLocalidad de Leymebamba 2 estrellas\nServicios Públicos\nMiradores turísticos\nLocalidad de Leymebamba\nServicios Públicos\nSeñales turísticas de orientación\nLocalidad de Leymebamba\nServicios Públicos\nPuesto de auxilio rápido\nLocalidad de Leymebamba"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nLocalidad de Leymebamba\nServicios de taxis\nLocalidad de Leymebamba\nCentro de salud - tópico\nLocalidad de Leymebamba\nSeguridad / POLTUR / Comisaría\nLocalidad de Leymebamba\nBodegas o minimarkets\nLocalidad de Leymebamba\nEstación de servicios, grifos, gasolineras y gasocentros\nLocalidad de Leymebamba"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\n--\nLuz (Suministro Eléctrico)\n--\nTeléfono\n--\nSeñalización turística\n--\nEnergía Alternativa\n--\nSistemas de tratamiento alternativo de residuos (Biodigestor, pozo séptico, otros)\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nLocalidad de Leymebamba\nAlcantarillado sanitario\nLocalidad de Leymebamba\nLuz (Suministro Eléctrico)\nLocalidad de Leymebamba\nTeléfono\nLocalidad de Leymebamba\nSeñalización turística\nLocalidad de Leymebamba"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\n--\nPrivado:\nAsociación Museo Leymebamba\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nNúmero de Partida:\n11000018\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nCertificado de Vigencia de Poder inscrito en la Partida Electrónica Nº 11000018, en la Oficina Registral de Chachapoyas, que otorga posesión del Museo Leymebamba\nAdministrador por\nNombre\nCentro Mallqui\nTiempo de administración\nDesde el año 2000 respectivamente, por tiempo indeterminado"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior Y Turismo - Dircetur Amazonas\nNombre (Persona(s) responsable(s) del inventario turístico):\nLic. Gilber Ramos Chappa\nCargo:\nResponsable de inventario\nCorreo:\nramoschappa@gmail.com\nTeléfono:\n988062534\nFuentes Bibliográfica:\n-Chacha motivos en el museo Leymebamba,Sonia Guillen-Peter Lerche-Evelin Guevara,2011,Perú\n-Amazonas Arqueología e Historia,Arturo Ruiz Estrada,2010,Perú\n-https://www.gob.pe/27321-sistema-nacional-de-museos-del-estado-snme\nhttps://consultasenlinea.mincetur.gob.pe/directoriodeserviciosturisticos/DirPrestadores/DirBusquedaPrincipal\nhttps://museos.cultura.pe/museos/museo-leymebamba\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n- Proyecto de renovación del techo de paja en la casa Chacha, ejecutado por el Museo Leymebamba, Asociación Comunal de Turismo Leymebamba y pobladores de la Localidad de Leymebamba - 2023\nFecha:\n23/10/2024 08:52:45"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -6.709503378572591,
+    "longitud": -77.80426325396729
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-6.709503378572591,-77.80426325396729"
+}

@@ -1,0 +1,423 @@
+{
+  "cod_ficha": 7607,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=7607",
+  "nombre": "Mina De Sal De Sonomoro",
+  "departamento": "Junín",
+  "provincia": "Satipo",
+  "distrito": "PANGOA",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "i. Manantiales",
+  "subtipo": "Manantiales",
+  "jerarquia": "POR JERARQUIZAR",
+  "altitud": "758",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=634964",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=634964",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=634998",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=634965",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=634999",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=635000",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=635001",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=635002",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=634966",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=634967",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=634968",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=634969"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Naturaleza - Observación de fauna",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de paisaje",
+    "Deportes / Aventura - Camping",
+    "Cultura y Folclore - Degustación y preparación de platos, productos o bebidas típicas",
+    "Cultura y Folclore - Participación y/u observación del proceso de elaboración de productos locales"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de fauna",
+      "observacion": "Armadillo (Dasypus novemcinctus), Añuje (Dasyprocta variegata), Zarigüeya (Didelphis",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fauna02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "Cedro (Cedrela odorata), Capirona (Calycophyllum spruceanum), Uña de gato (Uncaria tomentosa), Matico (Piper aduncum), Chonta (Iriartea deltoidea), Bijao (Calathea lutea), Heliconia (Heliconia spp.)",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Camping",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/camping02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Degustación y preparación de platos, productos o bebidas típicas",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/platos_tipicos02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Participación y/u observación del proceso de elaboración de productos locales",
+      "observacion": "--",
+      "icono_url": null
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Junín/Satipo/Satipo - Junín/Satipo/Pangoa",
+      "detalle": "Plaza Cívica de Satipo - Plaza Cívica San Martin de Pangoa",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "35.3 km / 35 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Junín/Satipo/Pangoa - Junín/Satipo/Pangoa",
+      "detalle": "Plaza Cívica San Martin de Pangoa - Desvío hacia el CC.PP Naylamp de Sonomoro",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Camioneta doble tracción",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "8.6 km / 20 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Junín/Satipo/Pangoa - Junín/Satipo/Pangoa",
+      "detalle": "desvío hacia el CC.PP Naylamp de Sonomoro - CC.PP Naylamp de Sonomoro",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Camioneta doble tracción",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "0.42 km / 2 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Junín/Satipo/Pangoa - Junín/Satipo/Pangoa",
+      "detalle": "CC.PP Naylamp de Sonomoro - CC.NN San Antonio de Sonomoro",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Camioneta doble tracción",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "0.52 km / 3 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Junín/Satipo/Pangoa - Junín/Satipo/Pangoa",
+      "detalle": "CC.NN San Antonio de Sonomoro - Mina de Sal de Sonomoro",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Camioneta doble tracción",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "1.55 km / 7 minutos"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "270",
+      "horario": "Conteo muestral de visitas al recurso turístico.",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "1170",
+      "horario": "Conteo muestral de visitas al recurso turístico.",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "08:00 a.m. - 04:30 p.m. Se recomienda usar ropa cómoda y llevar toalla si se desea tomar un baño terapéutico, respetar el entorno natural, mantener la zona limpia.",
+      "observaciones": "Se recomienda usar ropa cómoda y llevar toalla si se desea tomar un baño terapéutico, respetar el entorno natural, mantener la zona limpia."
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Semi-restringido(previo permiso)",
+      "observaciones": "Previo permiso del presidente de turismo de la comunidad nativa San Antonio de Sonomoro el Sr. Napoleon Chimanga Shumpate, numero de teléfono 927 364 366."
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "Ciudad de San Martín de Pangoa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Servicio de hospedaje"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Naylamp de Sonomoro"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Pubs",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Night Clubs",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Bancos - Cajeros",
+      "observacion": "Banco de la Nación, Banco de Crédito"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Oficina de Información",
+      "observacion": "Municipalidad Distrital de Pangoa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Seguridad / POLTUR",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicios Higiénicos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Correos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Estacionamiento",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Fax",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Internet",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de taxi",
+      "observacion": "Servicio de mototaxis"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Tópico",
+      "observacion": "Centro de Salud de San Martín de Pangoa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de Material Informativo(libro,revistas,postales,videos,etc)",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de Material para Fotografía",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Servicio de alquiler de motos"
+    }
+  ],
+  "descripcion": "La Mina de Sal de Sonomoro se ubica en la comunidad nativa San Antonio de Sonomoro, distrito de Pangoa, provincia de Satipo, región Junín. Un recurso natural y cultural de gran importancia histórica para la selva central. Desde tiempos ancestrales, los pueblos nomatsigenga y asháninka lo utilizaron como fuente vital de sal natural, indispensable para la alimentación, conservación de carne y pescado, así como con fines medicinales, culturales y de intercambio. La sal se obtenía por evaporación natural del agua, lo que generaba bloques cristalizados que también servían para la alimentación del ganado y como producto de valor económico.\nActualmente, el manantial ha sido puesto en valor con fines turísticos y de conservación comunitaria. La población local, en coordinación con asociaciones y autoridades, ha implementado accesos señalizados, áreas de descanso y miradores, además de un circuito interpretativo que explica la historia del uso de la sal, la cosmovisión indígena y demostraciones del método tradicional de evaporación.\nEl manantial, de 12 metros de perímetro, 37 cm de profundidad y con aguas de tono ambarino a 26 °C, se ubica en un paisaje de huertos frutales y cultivos como el cacao, yuca y achiote.\nEl entorno destaca por su biodiversidad, ideal para el ecoturismo y la observación de aves como el paujil, la tucaneta encrespada, el chihuaquito, el chihuaco, la chicua, el guardacaballo, el violinista y la gallineta. Entre los mamíferos figuran el armadillo, el añuje y la zarigüeya; mientras que la flora incluye especies de valor maderable, cultural y medicinal como el cedro, capirona, uña de gato, matico, chonta, bijao, heliconias y achiote.\nEl Manantial de Aguas Saladas es un patrimonio cultural vivo que preserva la memoria de los pueblos originarios y sus prácticas tradicionales. Hoy se consolida como un atractivo turístico emergente de la selva central, ideal para circuitos de ecoturismo, turismo cultural comunitario y turismo vivencial, donde se integran naturaleza, tradición e identidad local.",
+  "particularidades": "",
+  "estado_actual": "Se encuentra en buen estado de conservación, con agua limpia y flujo constante, rodeado de frutales y cultivos de panllevar. Su entorno mantiene una rica biodiversidad, especialmente aves y mariposas, lo que lo convierte en un recurso de fácil acceso con alto potencial para turismo cultural y de naturaleza.",
+  "observaciones": "El Manantial de Agua Salada de Sonomoro, de 12¿m de perímetro, 37¿cm de profundidad y temperatura promedio de 26¿°C, ha sido utilizado desde tiempos ancestrales por pueblos originarios como los Nomatsiguenga y Asháninka para extraer sal mediante evaporación, técnica aún vigente. Rodeado de frutales y cultivos de panllevar, su entorno alberga variada avifauna y mariposas, lo que lo convierte en un recurso de fácil acceso con potencial para turismo cultural y de naturaleza.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "La Mina de Sal de Sonomoro se ubica en la comunidad nativa San Antonio de Sonomoro, distrito de Pangoa, provincia de Satipo, región Junín. Un recurso natural y cultural de gran importancia histórica para la selva central. Desde tiempos ancestrales, los pueblos nomatsigenga y asháninka lo utilizaron como fuente vital de sal natural, indispensable para la alimentación, conservación de carne y pescado, así como con fines medicinales, culturales y de intercambio. La sal se obtenía por evaporación natural del agua, lo que generaba bloques cristalizados que también servían para la alimentación del ganado y como producto de valor económico.\nActualmente, el manantial ha sido puesto en valor con fines turísticos y de conservación comunitaria. La población local, en coordinación con asociaciones y autoridades, ha implementado accesos señalizados, áreas de descanso y miradores, además de un circuito interpretativo que explica la historia del uso de la sal, la cosmovisión indígena y demostraciones del método tradicional de evaporación.\nEl manantial, de 12 metros de perímetro, 37 cm de profundidad y con aguas de tono ambarino a 26 °C, se ubica en un paisaje de huertos frutales y cultivos como el cacao, yuca y achiote.\nEl entorno destaca por su biodiversidad, ideal para el ecoturismo y la observación de aves como el paujil, la tucaneta encrespada, el chihuaquito, el chihuaco, la chicua, el guardacaballo, el violinista y la gallineta. Entre los mamíferos figuran el armadillo, el añuje y la zarigüeya; mientras que la flora incluye especies de valor maderable, cultural y medicinal como el cedro, capirona, uña de gato, matico, chonta, bijao, heliconias y achiote.\nEl Manantial de Aguas Saladas es un patrimonio cultural vivo que preserva la memoria de los pueblos originarios y sus prácticas tradicionales. Hoy se consolida como un atractivo turístico emergente de la selva central, ideal para circuitos de ecoturismo, turismo cultural comunitario y turismo vivencial, donde se integran naturaleza, tradición e identidad local."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Se encuentra en buen estado de conservación, con agua limpia y flujo constante, rodeado de frutales y cultivos de panllevar. Su entorno mantiene una rica biodiversidad, especialmente aves y mariposas, lo que lo convierte en un recurso de fácil acceso con alto potencial para turismo cultural y de naturaleza."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "El Manantial de Agua Salada de Sonomoro, de 12¿m de perímetro, 37¿cm de profundidad y temperatura promedio de 26¿°C, ha sido utilizado desde tiempos ancestrales por pueblos originarios como los Nomatsiguenga y Asháninka para extraer sal mediante evaporación, técnica aún vigente. Rodeado de frutales y cultivos de panllevar, su entorno alberga variada avifauna y mariposas, lo que lo convierte en un recurso de fácil acceso con potencial para turismo cultural y de naturaleza."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Nacionales\n270\nConteo muestral de visitas al recurso turístico.\n2025\nVisitantes Locales(Excursionistas)\n1170\nConteo muestral de visitas al recurso turístico.\n2025"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nJunín/Satipo/Satipo\n-\nJunín/Satipo/Pangoa\nPlaza Cívica de Satipo - Plaza Cívica San Martin de Pangoa\nTerrestre\nAutomóvil particular\nAsfaltado\n35.3 km / 35 minutos\n1\nJunín/Satipo/Pangoa\n-\nJunín/Satipo/Pangoa\nPlaza Cívica San Martin de Pangoa - Desvío hacia el CC.PP Naylamp de Sonomoro\nTerrestre\nCamioneta doble tracción\nAfirmado\n8.6 km / 20 minutos\n1\nJunín/Satipo/Pangoa\n-\nJunín/Satipo/Pangoa\ndesvío hacia el CC.PP Naylamp de Sonomoro - CC.PP Naylamp de Sonomoro\nTerrestre\nCamioneta doble tracción\nAfirmado\n0.42 km / 2 minutos\n1\nJunín/Satipo/Pangoa\n-\nJunín/Satipo/Pangoa\nCC.PP Naylamp de Sonomoro - CC.NN San Antonio de Sonomoro\nTerrestre\nCamioneta doble tracción\nAfirmado\n0.52 km / 3 minutos\n1\nJunín/Satipo/Pangoa\n-\nJunín/Satipo/Pangoa\nCC.NN San Antonio de Sonomoro - Mina de Sal de Sonomoro\nTerrestre\nCamioneta doble tracción\nAfirmado\n1.55 km / 7 minutos"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nSemi-restringido(previo permiso)\nPrevio permiso del presidente de turismo de la comunidad nativa San Antonio de Sonomoro el Sr. Napoleon Chimanga Shumpate, numero de teléfono 927 364 366."
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n08:00 a.m.\n-\n04:30 p.m.\nSe recomienda usar ropa cómoda y llevar toalla si se desea tomar un baño terapéutico, respetar el entorno natural, mantener la zona limpia."
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nNaturaleza\nObservación de fauna\nArmadillo (Dasypus novemcinctus), Añuje (Dasyprocta variegata), Zarigüeya (Didelphis\nNaturaleza\nObservación de flora\nCedro (Cedrela odorata), Capirona (Calycophyllum spruceanum), Uña de gato (Uncaria tomentosa), Matico (Piper aduncum), Chonta (Iriartea deltoidea), Bijao (Calathea lutea), Heliconia (Heliconia spp.)\nNaturaleza\nObservación de paisaje\n--\nDeportes / Aventura\nCamping\n--\nCultura y Folclore\nDegustación y preparación de platos, productos o bebidas típicas\n--\nCultura y Folclore\nParticipación y/u observación del proceso de elaboración de productos locales\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHostales (especificar categorías)\nCiudad de San Martín de Pangoa\nAlojamiento\nOtros (Especificar)\nServicio de hospedaje\nAlimentación\nRestaurantes\n--\nAlimentación\nBares\n--\nAlimentación\nCafeterías\n--\nAlimentación\nFuentes de soda\n--\nAlimentación\nKioskos de comida y bebidas\nNaylamp de Sonomoro\nLugares de Recreación\nDiscotecas\n--\nLugares de Recreación\nPubs\n--\nLugares de Recreación\nNight Clubs\n--\nLugares de Recreación\nJuegos Infantiles\n--\nLugares de Recreación\nJuegos de casino y/o tragamonedas\n--\nOtros Servicios Turísticos\nVenta de artesanía\n--\nOtros Servicios Turísticos\nAgencia de Viajes\n--\nOtros Servicios Turísticos\nBancos - Cajeros\nBanco de la Nación, Banco de Crédito\nOtros Servicios Turísticos\nOficina de Información\nMunicipalidad Distrital de Pangoa\nOtros Servicios Turísticos\nSeguridad / POLTUR\n--\nOtros Servicios Turísticos\nServicios Higiénicos\n--\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\n--\nOtros Servicios Turísticos\nServicio de Correos\n--\nOtros Servicios Turísticos\nServicio de Estacionamiento\n--\nOtros Servicios Turísticos\nServicio de Fax\n--\nOtros Servicios Turísticos\nServicio de Internet\n--\nOtros Servicios Turísticos\nServicio de taxi\nServicio de mototaxis\nOtros Servicios Turísticos\nTópico\nCentro de Salud de San Martín de Pangoa\nOtros Servicios Turísticos\nVenta de Material Informativo(libro,revistas,postales,videos,etc)\n--\nOtros Servicios Turísticos\nVenta de Material para Fotografía\n--\nOtros Servicios Turísticos\nOtros (Especificar)\nServicio de alquiler de motos"
+    },
+    {
+      "titulo": "Servicios Complementarios dentro del recurso",
+      "contenido": "Servicio Complementario\nObservación\nServicio de estacionamiento\nel estacionamiento se encuentra al ingreso del RR.TT"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Satipo\nBancos\nCiudad de Satipo\nCajero automático\nCiudad de Satipo\nCasa de cambio\nCiudad de Satipo\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Satipo\nServicio de correos\nCiudad de Satipo\nServicio de estacionamiento\nCiudad de Satipo\nServicios de taxis\nCiudad de Satipo\nCentro de salud - tópico\nCiudad de Satipo\nVenta de materiales para fotografías\nCiudad de Satipo\nSeguridad / POLTUR / Comisaría\nCiudad de Satipo\nAlquiler y compra de equipos deportivos\nCiudad de Satipo\nLibrerías\nCiudad de Satipo\nBodegas o minimarkets\nCiudad de Satipo"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Satipo\nLuz (Suministro Eléctrico)\nCiudad de Satipo\nTeléfono\nCiudad de Satipo"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\n--\nPrivado:\nCOMUNIDAD NATIVA SAN ANTIONIO DE SONOMORO\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nTITULO DE PROPIEDAD N° CN-0044-76\nAdministrador por\nNombre\nCOMUNIDAD NATIVA SAN ANTIONIO DE SONOMORO\nTiempo de administración\ndesde el año 1976"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior - Junín\nNombre (Persona(s) responsable(s) del inventario turístico):\nLIC. KARINA ZAMORA BOGO\nCargo:\nEncargada de la Oficina Zonal DIRCETUR San Ramón\nCorreo:\nzamorakarina2009@gmail.com\nTeléfono:\n957526926\nFuentes Bibliográfica:\nMunicipalidad Provincial de Satipo. (2013). Actualización del inventario turístico y cultural de la provincia de Satipo – Junín – Perú (Informe final; H. Ginés S., consultor). Municipalidad Provincial de Satipo. http://www.munisatipo.gob.pe/\nGines, H. (2010). Evaluación del potencial turístico: informe temático. Proyecto Mesozonificación Ecológica y Económica para el Desarrollo Sostenible de la Provincia de Satipo, convenio entre el IIAP, DEVIDA y la Municipalidad Provincial de Satipo. Instituto de Investigaciones de la Amazonía Peruana – PROTERRA. http://iiap.org.pe/Archivos/publicaciones/Publicacion_1513.pdf\nMunicipalidad Distrital de Pangoa. 2015. Plan de Desarrollo Concertado Distrital de Pangoa (2015-2025). Pangoa – Satipo – Junín.\nMunicipalidad Distrital de Pangoa. 2017. Plan de Desarrollo Turístico Local Pangoa (2017-2025). Pangoa – Satipo – Junín.\nAgencia Andina. Safe Travels: estos son los destinos del Perú certificados como seguros para el turismo [Internet]. Lima\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n21/11/2025 08:15:44"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -11.43635,
+    "longitud": -74.42879600000003
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-11.43635,-74.42879600000003"
+}

@@ -1,0 +1,277 @@
+{
+  "cod_ficha": 5129,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=5129",
+  "nombre": "Mirador Natural De Occowillca",
+  "departamento": "Huancavelica",
+  "provincia": "Churcampa",
+  "distrito": "PAUCARBAMBA",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "ñ. Zonas paisajísticas",
+  "subtipo": "Miradores naturales",
+  "jerarquia": "1",
+  "altitud": "4159",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=552003",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=552003",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=552004",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=552005",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=552033",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=552006",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=552008",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=552034",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=552036"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Paseos - Excursiones",
+    "Naturaleza - Observación de fauna",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de paisaje",
+    "Deportes / Aventura - Caminata/Trekking"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Paseos",
+      "tipo": "Excursiones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/excursiones02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de fauna",
+      "observacion": "zorro, vizcacha, huallatas, huachwas, gaviotas y camélidos.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fauna02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "Huyllaichu, millma, lumpa, lima lima, qorihuaylla y una infinidad de plantas medicinales.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Huancavelica/Churcampa/Churcampa - Huancavelica/Churcampa/Churcampa",
+      "detalle": "Huancavelica (Plaza Santa Ana ) - Churcampa (Plaza de Utcuypampa)",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "293 km/ 6Hr."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Huancavelica/Churcampa/Churcampa - Huancavelica/Churcampa/Paucarbamba",
+      "detalle": "Churcampa (Plaza de Utcuypampa) - Paucarbamba( Plaza comunidad de San Martin)",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "40.7 km/ 1.30 mim"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Huancavelica/Churcampa/Paucarbamba - Huancavelica/Churcampa/Paucarbamba",
+      "detalle": "Comunidad San Martin (Plaza principal) - Mirador Occowillca",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Camino de Herradura",
+      "distancia_tiempo": "2 km / 30 min"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Junín/Huancayo/Huancayo - Junín/Huancayo/Huancayo",
+      "detalle": "Huancayo (Av. Ferrocarrill entre Jr. Tarapacà) - Churcampa (Parque Utcuypampa)",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mini bus público",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "223 km / 6 hr."
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Huancavelica/Churcampa/Churcampa - Huancavelica/Churcampa/Churcampa",
+      "detalle": "Churcampa (Plaza de Utcuypampa) - Comunidad de San Martin (Plaza principal)",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "40.7 km / 1.30 min."
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Huancavelica/Churcampa/Churcampa - Huancavelica/Churcampa/Churcampa",
+      "detalle": "Comunidad de San Martin( Plaza principal) - Mirador Occowillca",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Camino de Herradura",
+      "distancia_tiempo": "2 km / 30 min"
+    },
+    {
+      "recorrido": "3",
+      "tramo": "Ayacucho/Huanta/Huanta - Huancavelica/Churcampa/Churcampa",
+      "detalle": "Huanta (Jr. Gervacio Santillana Cdra. 5) - Churcampa (Plaza Utcuypampa)",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mini bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "48.9 km / 2.hr"
+    },
+    {
+      "recorrido": "3",
+      "tramo": "Huancavelica/Churcampa/Churcampa - Huancavelica/Churcampa/Paucarbamba",
+      "detalle": "Churcampa (Plaza Utcuypampa) - Comunidad San Martìn (Plaza Principal)",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mini bus público",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "40.7 km / 1.30"
+    },
+    {
+      "recorrido": "3",
+      "tramo": "Huancavelica/Churcampa/Paucarbamba - Huancavelica/Churcampa/Paucarbamba",
+      "detalle": "Comunidad de San Martin (Plaza Principal) - Mirador Occowillca",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Camino de Herradura",
+      "distancia_tiempo": "2 km / 30 min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "8100",
+      "horario": "encuestra muestral",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "990",
+      "horario": "Encuesta muestral",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Esporádicamente - Algunos meses",
+      "especificacion": "--",
+      "horario": "08:00 a.m. - 04:00 p.m. --",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": "Para el acenso llevar liquidos y abrigo por el viento y protector del sol."
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Pueblo de Paucarbamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Pueblo de Paucarbamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Pueblo de Churcampa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Puesto de auxilio rápido",
+      "observacion": "Posta médica en Paucarbamba"
+    }
+  ],
+  "descripcion": "Mirador de Occowillca, se asienta en la cúspide del cerro Toroccacca de la comunidad Campesina de San Martin de Acllahuasi, en el Pueblo de Paucarbamba de la provincia de Churcampa – Huancavelica, ubicado a 4. 613 msnm, se encuentra en el piso de la región puna, su clima es de tipo lluvioso y frío seco; presenta durante el año, en promedio, temperaturas máximas de 9°C a 19°C y temperaturas mínimas de -3°C a 3°C, de acuerdo a la estación.\nTiene una extensión aproximada de 3500 metros cuadrados y una altura de 500 metros y desde de la cúspide se puede apreciar el panorama de los lugares colindantes como de la región de Ayacucho, Paucarbamba, Huayribambilla, Churcampa, San Pedro de Coris, Cosme.\nDurante el trayecto, dada su considerable elevación, se aprecia lagunas, valles y sinuosas cadenas montañosas que se pierden en lontananza, generando una sensación de estar sobrevolando. Dentro de sus pronunciadas grietas y andenerías, macollan ccorihuayllas, lompas, lima limas, huaylla ichus, todas, flores muy codiciadas durante la fiesta del ganado, más conocido como “Santiago”. Existen, además, orquídeas, millmas, cuchipa chupan, entre otras plantas usadas como remedio dentro de la medicina tradicional. Una de las flores sagradas son las lompas y las lima limas, su recojo conlleva todo un ritual para pedir permiso a los Apus.\nDesde la cima, se aprecia el nevado de Huaytapallana en el departamento de Junín; Ccolccewichqana, en el departamento de Ayacucho, y demás montañas que circundan el mirador natural. Es uno de los lugares de mayor atracción y misterio dentro del distrito de Paucarbamba, pues, existen muchos mitos basados en el Gran Señor Wamani, que habita en sus entrañas. Este Wamani es considerado el mayor respecto al resto, y al mismo tiempo, protector de toda la comarca de la microcuenca del Mantaro.\nVisto del horizonte contrario, pareciera escalinatas que se elevan al cielo, cada farallón está compuesto por distintos tipos de rocas caprichosas formadas durante la orogénesis cenozoica, profundamente marcadas por la glaciación cuaternaria y erosión atmosférica\nEn el mirador, el visitante puede desarrollar actividades turísticas, como caminata, observación de paisajes, y tomas de fotografía.",
+  "particularidades": "",
+  "estado_actual": "Bueno, protegido por la Comunidad de San Martín.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Mirador de Occowillca, se asienta en la cúspide del cerro Toroccacca de la comunidad Campesina de San Martin de Acllahuasi, en el Pueblo de Paucarbamba de la provincia de Churcampa – Huancavelica, ubicado a 4. 613 msnm, se encuentra en el piso de la región puna, su clima es de tipo lluvioso y frío seco; presenta durante el año, en promedio, temperaturas máximas de 9°C a 19°C y temperaturas mínimas de -3°C a 3°C, de acuerdo a la estación.\nTiene una extensión aproximada de 3500 metros cuadrados y una altura de 500 metros y desde de la cúspide se puede apreciar el panorama de los lugares colindantes como de la región de Ayacucho, Paucarbamba, Huayribambilla, Churcampa, San Pedro de Coris, Cosme.\nDurante el trayecto, dada su considerable elevación, se aprecia lagunas, valles y sinuosas cadenas montañosas que se pierden en lontananza, generando una sensación de estar sobrevolando. Dentro de sus pronunciadas grietas y andenerías, macollan ccorihuayllas, lompas, lima limas, huaylla ichus, todas, flores muy codiciadas durante la fiesta del ganado, más conocido como “Santiago”. Existen, además, orquídeas, millmas, cuchipa chupan, entre otras plantas usadas como remedio dentro de la medicina tradicional. Una de las flores sagradas son las lompas y las lima limas, su recojo conlleva todo un ritual para pedir permiso a los Apus.\nDesde la cima, se aprecia el nevado de Huaytapallana en el departamento de Junín; Ccolccewichqana, en el departamento de Ayacucho, y demás montañas que circundan el mirador natural. Es uno de los lugares de mayor atracción y misterio dentro del distrito de Paucarbamba, pues, existen muchos mitos basados en el Gran Señor Wamani, que habita en sus entrañas. Este Wamani es considerado el mayor respecto al resto, y al mismo tiempo, protector de toda la comarca de la microcuenca del Mantaro.\nVisto del horizonte contrario, pareciera escalinatas que se elevan al cielo, cada farallón está compuesto por distintos tipos de rocas caprichosas formadas durante la orogénesis cenozoica, profundamente marcadas por la glaciación cuaternaria y erosión atmosférica\nEn el mirador, el visitante puede desarrollar actividades turísticas, como caminata, observación de paisajes, y tomas de fotografía."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, protegido por la Comunidad de San Martín."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nVisitantes Locales(Excursionistas)\n8100\nencuestra muestral\n2023\nInforme N° 002-2024\nTuristas Nacionales\n990\nEncuesta muestral\n2023\nInforme N° 002-2024/MPCH"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nHuancavelica/Churcampa/Churcampa\n-\nHuancavelica/Churcampa/Churcampa\nHuancavelica (Plaza Santa Ana ) - Churcampa (Plaza de Utcuypampa)\nTerrestre\nAutomóvil particular\nAfirmado\n293 km/ 6Hr.\n1\nHuancavelica/Churcampa/Churcampa\n-\nHuancavelica/Churcampa/Paucarbamba\nChurcampa (Plaza de Utcuypampa) - Paucarbamba( Plaza comunidad de San Martin)\nTerrestre\nAutomóvil particular\nAfirmado\n40.7 km/ 1.30 mim\n1\nHuancavelica/Churcampa/Paucarbamba\n-\nHuancavelica/Churcampa/Paucarbamba\nComunidad San Martin (Plaza principal) - Mirador Occowillca\nTerrestre\nA pie\nCamino de Herradura\n2 km / 30 min\n2\nJunín/Huancayo/Huancayo\n-\nJunín/Huancayo/Huancayo\nHuancayo (Av. Ferrocarrill entre Jr. Tarapacà) - Churcampa (Parque Utcuypampa)\nTerrestre\nMini bus público\nAfirmado\n223 km / 6 hr.\n2\nHuancavelica/Churcampa/Churcampa\n-\nHuancavelica/Churcampa/Churcampa\nChurcampa (Plaza de Utcuypampa) - Comunidad de San Martin (Plaza principal)\nTerrestre\nAutomóvil particular\nAfirmado\n40.7 km / 1.30 min.\n2\nHuancavelica/Churcampa/Churcampa\n-\nHuancavelica/Churcampa/Churcampa\nComunidad de San Martin( Plaza principal) - Mirador Occowillca\nTerrestre\nA pie\nCamino de Herradura\n2 km / 30 min\n3\nAyacucho/Huanta/Huanta\n-\nHuancavelica/Churcampa/Churcampa\nHuanta (Jr. Gervacio Santillana Cdra. 5) - Churcampa (Plaza Utcuypampa)\nTerrestre\nMini bus público\nAsfaltado\n48.9 km / 2.hr\n3\nHuancavelica/Churcampa/Churcampa\n-\nHuancavelica/Churcampa/Paucarbamba\nChurcampa (Plaza Utcuypampa) - Comunidad San Martìn (Plaza Principal)\nTerrestre\nMini bus público\nAfirmado\n40.7 km / 1.30\n3\nHuancavelica/Churcampa/Paucarbamba\n-\nHuancavelica/Churcampa/Paucarbamba\nComunidad de San Martin (Plaza Principal) - Mirador Occowillca\nTerrestre\nA pie\nCamino de Herradura\n2 km / 30 min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre\nPara el acenso llevar liquidos y abrigo por el viento y protector del sol."
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nEsporádicamente - Algunos meses\n--\n08:00 a.m.\n-\n04:00 p.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nPaseos\nExcursiones\n--\nNaturaleza\nObservación de fauna\nzorro, vizcacha, huallatas, huachwas, gaviotas y camélidos.\nNaturaleza\nObservación de flora\nHuyllaichu, millma, lumpa, lima lima, qorihuaylla y una infinidad de plantas medicinales.\nNaturaleza\nObservación de paisaje\n--\nDeportes / Aventura\nCaminata/Trekking\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nPueblo de Paucarbamba\nAlimentación\nRestaurantes\nPueblo de Paucarbamba\nLugares de Recreación\nDiscotecas\nPueblo de Churcampa\nServicios Públicos\nPuesto de auxilio rápido\nPosta médica en Paucarbamba"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nCentro de salud - tópico\nPueblo de Paucarbamba\nBodegas o minimarkets\nPueblo de Paucarbamba\nEstación de servicios, grifos, gasolineras y gasocentros\nPueblo Paucarbamba\nServicios de taxis\nPueblo de Pucarbamba"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nOtra\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nLuz (Suministro Eléctrico)\nPueblo de Paucarbamba\nAgua potable\nPueblo de Paucarbamba\nTeléfono\nPueblo de Paucarbamba (Claro, entel )"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\n--\nPrivado:\nComunidad Campesina de San Martin de Acllahuasi\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nNúmero de Partida:\n11004635\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nResolución Directoral N° 0086-88-DD-XVII-Hvca\nAdministrador por\nNombre\nComunidad Campesina de San Martin de Acllahuasi\nTiempo de administración\nDesde el año 1994"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio, Turismo y Artesania de Huancavelica\nNombre (Persona(s) responsable(s) del inventario turístico):\nYovana Cuicapusa Ccanto\nCargo:\nEspecialista en Turismo\nCorreo:\nyovalina78@yahoo.es\nTeléfono:\n.067 - 452938\nFuentes Bibliográfica:\nTovar, W. (2021). Turismo en el valle. Nuevas estrategias de desarrollo. El Heraldo del Valle(2), 40-41.\nMinisterio de Desarrollo Agrario y Riego . (s.f.). Obtenido de Experiencias Ancestrales en la Cuenca del Mantaro: https://www.ana.gob.pe/2019/consejo-de-cuenca/mantaro/ICDE\nBoletín Informativo Municipal N° 1 (Alcalde: Oscar Tovar Cabezas), 2004, \"Paucarbamba Construye\".\nCardenas, W. T. (28 de 07 de 2023). informacion del mirador de Occowilca. (I. M. Langa, Entrevistador)\nMinisterio de Desarrollo Agrario y Riego . (s.f.). Obtenido de Experiencias Ancestrales en la Cuenca del Mantaro.\nBoletín Informativo Municipal N° 1 (Alcalde: Oscar Tovar Cabezas), 2004, \"Paucarbamba Construye\".\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n2/08/2024 14:08:02"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -12.519925420330814,
+    "longitud": -75.00688198413087
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-12.519925420330814,-75.00688198413087"
+}

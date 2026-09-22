@@ -1,0 +1,364 @@
+{
+  "cod_ficha": 10243,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=10243",
+  "nombre": "Laguna De Marcapomacocha",
+  "departamento": "Junín",
+  "provincia": "Yauli",
+  "distrito": "MARCAPOMACOCHA",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "g. Cuerpo de Agua",
+  "subtipo": "Lagunas",
+  "jerarquia": "2",
+  "altitud": "4435",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=523514",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=523514",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=523473",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=523474",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=523475",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=523515",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=523516",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=523517",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=523476",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=523518",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=523519",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=523477",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=523478"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Estudios e Investigación",
+    "Naturaleza - Observación de fauna",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de paisaje",
+    "Naturaleza - Observación de aves",
+    "Deportes / Aventura - Caminata/Trekking"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de fauna",
+      "observacion": "Taruca o “venado andino”,\" atoq\" o \"zorro andino\", vizcacha, puma, zorrillo; así mismo podemos apreciar ganado ovino, vacuno y camélidos (llamas, alpacas y vicuñas).",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fauna02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "Ichu(paja), huamanpinta, huajuro, garbanzo, variedad de cactus, turpo, huilahuila, escorzonera entre otros.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de aves",
+      "observacion": "Perdiz cordillerana, pato de puna, flamenco chileno, zambullidor plateado, estrella andina, gallareta, gaviota, huallatas, bandurrias, huashuas, águilas y otros.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/aves02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Junín/Yauli/La Oroya - Junín/Yauli/Marcapomacocha",
+      "detalle": "La Oroya - Marcapomacocha",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "96.5 Km / 2 hrs y 28 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Junín/Yauli/Marcapomacocha - Junín/Yauli/Marcapomacocha",
+      "detalle": "Marcapomacocha - Laguna Marcapomacocha",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Sendero",
+      "distancia_tiempo": "0.1 Km / 10 min"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Lima/Lima/Independencia - Junín/Yauli/Marcapomacocha",
+      "detalle": "Lima - Independencia(Plaza Norte) - Marcapomacocha",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "161 Km / 4 hrs y 4 min"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Junín/Yauli/Marcapomacocha - Junín/Yauli/Marcapomacocha",
+      "detalle": "Marcapomacocha - Laguna Marcapomacocha",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Sendero",
+      "distancia_tiempo": "0.1 Km / 10 min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "4140",
+      "horario": "Conteo Muestral de Visitantes al Recurso",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "180",
+      "horario": "Conteo Muestral de Visitantes al Recurso",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "270",
+      "horario": "Conteo Muestral de Visitantes al Recurso",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Esporádicamente - Algunos meses",
+      "especificacion": "--",
+      "horario": "08:00 a.m. - 04:00 p.m. Es recomendable de abril a noviembre temporada de baja precipitación pluvial en la sierra.Se recomienda llevar ropa abrigadora, zapatillas antideslizantes, y gorros.",
+      "observaciones": "Es recomendable de abril a noviembre temporada de baja precipitación pluvial en la sierra.Se recomienda llevar ropa abrigadora, zapatillas antideslizantes, y gorros."
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Marcapomacocha, La Oroya"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Marcapomacocha, La Oroya"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Marcapomacocha, La Oroya"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Marcapomacocha, La Oroya"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "La Oroya"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "La Oroya"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "La Oroya"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "La Oroya"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Huancayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "La Oroya"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Peñas",
+      "observacion": "La Oroya"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "La Oroya"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "La Oroya"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "La Oroya"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "La Oroya"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "La Oroya"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "Marcapomacocha, La Oroya"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Marcapomacocha, La Oroya"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Marcapomacocha"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de Campamento(camping)",
+      "observacion": "Marcapomacocha"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos de herradura (caballo)",
+      "observacion": "Marcapomacocha"
+    }
+  ],
+  "descripcion": "La Laguna Marcapomacocha se encuentra ubicada a un lado del Pueblo de Marcapomacocha; a una altitud de 4435 m.s.n.m., por cual se ubica en la región natural Puna que comprende desde los 4000 m.s.n.m. hasta los 4800 m.s.n.m. (según Pulgar y Vidal). Este espejo de agua tiene una extensión de 6,700 m. largo por 2,033 m. de ancho, con una profundidad máxima de 20 a 30 m; Sus aguas son de color azul claro; con una temperatura que oscila entre 0 °C por la noche y 7 °C durante el día; alimentada por las vertientes de las lagunas Antacoto, Cuyo, Ancococha y Marcacocha; su capacidad de almacenamiento es de 120 millones de metros cúbicos de agua, la misma que abastece del líquido elemento a la Ciudad de Lima y Callao mediante canales y el túnel trasandino de 10 kilómetros hasta la planta de la Atarjea, uniendo sus aguas al rio Rímac.\nEste singular espejo de agua, a unos metros de la orilla muestra una pequeña isla rocosa, siendo hábitat de aves altoandinas. Las características de sus riberas comprenden pequeñas formaciones de cuerpos de agua, que presentan vegetación hidromórfica y zonas pantanosas. En tiempo de crecida, la laguna ocupa una superficie con ecosistema frágil de 1,241.90 ha. cuya área se inunda de manera intermitente; ciclo que lo hace esencial para una variedad de especies animales y vegetales que dependen de ella para su subsistencia; Marcapomacocha es un lugar ideal para la pesca de trucha arcoíris, encontrándose ejemplares que llegan a pesar un promedio de 6 kilos.\nLa Laguna de Marcapomacocha es habitad de una variedad de avifauna constituida por la perdiz cordillerana, pato de puna, flamenco chileno, zambullidor plateado, estrella andina, gallareta, gaviota, huallatas, bandurrias, huashuas, entre otros; Con respecto a la fauna silvestre en el entorno de la laguna, encontramos diversas especies de interés como la taruca o “venado andino”,\" atoq\" o \"zorro andino\" (Lycalopex culpaeus), vizcacha (Lagidium viscacia), puma, zorrillo; así mismo se puede apreciar ganado ovino, vacuno y camélidos (llamas, alpacas y vicuñas). Entre la flora circundante a la laguna podemos identificar el ichu (paja), huamanpinta, huajuro, garbanzo, variedad de cactus, turpo, huilahuila, escorzonera entre otros.\nLa laguna Marcapomacocha fue incluida por “BirdLife International” del Reino Unido (organización dedicada a la conservación de la naturaleza), en la lista de Áreas Importantes para las Aves y la Biodiversidad (IBA por sus siglas en ingles). En esta zona se conoce de la presencia de 70 especies de aves, que incluyen especies globalmente amenazadas y endémicas.",
+  "particularidades": "",
+  "estado_actual": "El estado de conversación es muy bueno, debido a la importancia que la comunidad le otorga a la zona, ellos realizan quincenalmente jornadas de limpieza, para proteger el recurso y sobre todo a la flora y fauna que alberga.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "La Laguna Marcapomacocha se encuentra ubicada a un lado del Pueblo de Marcapomacocha; a una altitud de 4435 m.s.n.m., por cual se ubica en la región natural Puna que comprende desde los 4000 m.s.n.m. hasta los 4800 m.s.n.m. (según Pulgar y Vidal). Este espejo de agua tiene una extensión de 6,700 m. largo por 2,033 m. de ancho, con una profundidad máxima de 20 a 30 m; Sus aguas son de color azul claro; con una temperatura que oscila entre 0 °C por la noche y 7 °C durante el día; alimentada por las vertientes de las lagunas Antacoto, Cuyo, Ancococha y Marcacocha; su capacidad de almacenamiento es de 120 millones de metros cúbicos de agua, la misma que abastece del líquido elemento a la Ciudad de Lima y Callao mediante canales y el túnel trasandino de 10 kilómetros hasta la planta de la Atarjea, uniendo sus aguas al rio Rímac.\nEste singular espejo de agua, a unos metros de la orilla muestra una pequeña isla rocosa, siendo hábitat de aves altoandinas. Las características de sus riberas comprenden pequeñas formaciones de cuerpos de agua, que presentan vegetación hidromórfica y zonas pantanosas. En tiempo de crecida, la laguna ocupa una superficie con ecosistema frágil de 1,241.90 ha. cuya área se inunda de manera intermitente; ciclo que lo hace esencial para una variedad de especies animales y vegetales que dependen de ella para su subsistencia; Marcapomacocha es un lugar ideal para la pesca de trucha arcoíris, encontrándose ejemplares que llegan a pesar un promedio de 6 kilos.\nLa Laguna de Marcapomacocha es habitad de una variedad de avifauna constituida por la perdiz cordillerana, pato de puna, flamenco chileno, zambullidor plateado, estrella andina, gallareta, gaviota, huallatas, bandurrias, huashuas, entre otros; Con respecto a la fauna silvestre en el entorno de la laguna, encontramos diversas especies de interés como la taruca o “venado andino”,\" atoq\" o \"zorro andino\" (Lycalopex culpaeus), vizcacha (Lagidium viscacia), puma, zorrillo; así mismo se puede apreciar ganado ovino, vacuno y camélidos (llamas, alpacas y vicuñas). Entre la flora circundante a la laguna podemos identificar el ichu (paja), huamanpinta, huajuro, garbanzo, variedad de cactus, turpo, huilahuila, escorzonera entre otros.\nLa laguna Marcapomacocha fue incluida por “BirdLife International” del Reino Unido (organización dedicada a la conservación de la naturaleza), en la lista de Áreas Importantes para las Aves y la Biodiversidad (IBA por sus siglas en ingles). En esta zona se conoce de la presencia de 70 especies de aves, que incluyen especies globalmente amenazadas y endémicas."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "El estado de conversación es muy bueno, debido a la importancia que la comunidad le otorga a la zona, ellos realizan quincenalmente jornadas de limpieza, para proteger el recurso y sobre todo a la flora y fauna que alberga."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Nacionales\n4140\nConteo Muestral de Visitantes al Recurso\n2024\nEfectuado los días 30/12/2023 y 06,13,20/01/2024\nVisitantes Locales(Excursionistas)\n180\nConteo Muestral de Visitantes al Recurso\n2024\nEfectuado los días 30/12/2023 y 06,13,20/01/2024\nTuristas Extranjeros\n270\nConteo Muestral de Visitantes al Recurso\n2024\nEfectuado los días 30/12/2023 y 06,13,20/01/2024"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nJunín/Yauli/La Oroya\n-\nJunín/Yauli/Marcapomacocha\nLa Oroya - Marcapomacocha\nTerrestre\nAutomóvil particular\nAfirmado\n96.5 Km / 2 hrs y 28 min\n1\nJunín/Yauli/Marcapomacocha\n-\nJunín/Yauli/Marcapomacocha\nMarcapomacocha - Laguna Marcapomacocha\nTerrestre\nA pie\nSendero\n0.1 Km / 10 min\n2\nLima/Lima/Independencia\n-\nJunín/Yauli/Marcapomacocha\nLima - Independencia(Plaza Norte) - Marcapomacocha\nTerrestre\nAutomóvil particular\nAsfaltado\n161 Km / 4 hrs y 4 min\n2\nJunín/Yauli/Marcapomacocha\n-\nJunín/Yauli/Marcapomacocha\nMarcapomacocha - Laguna Marcapomacocha\nTerrestre\nA pie\nSendero\n0.1 Km / 10 min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nEsporádicamente - Algunos meses\n--\n08:00 a.m.\n-\n04:00 p.m.\nEs recomendable de abril a noviembre temporada de baja precipitación pluvial en la sierra.Se recomienda llevar ropa abrigadora, zapatillas antideslizantes, y gorros."
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nEstudios e Investigación\n--\nNaturaleza\nObservación de fauna\nTaruca o “venado andino”,\" atoq\" o \"zorro andino\", vizcacha, puma, zorrillo; así mismo podemos apreciar ganado ovino, vacuno y camélidos (llamas, alpacas y vicuñas).\nNaturaleza\nObservación de flora\nIchu(paja), huamanpinta, huajuro, garbanzo, variedad de cactus, turpo, huilahuila, escorzonera entre otros.\nNaturaleza\nObservación de paisaje\n--\nNaturaleza\nObservación de aves\nPerdiz cordillerana, pato de puna, flamenco chileno, zambullidor plateado, estrella andina, gallareta, gaviota, huallatas, bandurrias, huashuas, águilas y otros.\nDeportes / Aventura\nCaminata/Trekking\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nMarcapomacocha, La Oroya\nAlojamiento\nOtros (Especificar)\nMarcapomacocha, La Oroya\nAlimentación\nRestaurantes\nMarcapomacocha, La Oroya\nAlimentación\nKioskos de comida y bebidas\nMarcapomacocha, La Oroya\nAlimentación\nBares\nLa Oroya\nAlimentación\nFuentes de soda\nLa Oroya\nAlimentación\nCafeterías\nLa Oroya\nAlimentación\nVenta de comida Rápida\nLa Oroya\nOtros Servicios Turísticos\nAgencia de Viajes\nHuancayo\nLugares de Recreación\nDiscotecas\nLa Oroya\nLugares de Recreación\nPeñas\nLa Oroya\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nLa Oroya\nLugares de Recreación\nKaraoke\nLa Oroya\nLugares de Recreación\nBares\nLa Oroya\nLugares de Recreación\nJuegos Infantiles\nLa Oroya\nLugares de Recreación\nCentros Deportivos\nLa Oroya\nServicios Públicos\nMiradores turísticos\nMarcapomacocha, La Oroya\nServicios Públicos\nEstacionamiento de vehículos\nMarcapomacocha, La Oroya\nServicios Públicos\nOficina de Información turística\nMarcapomacocha\nServicios Públicos\nZonas de Campamento(camping)\nMarcapomacocha\nServicios Públicos\nCaminos de herradura (caballo)\nMarcapomacocha"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nMarcapomacocha, La Oroya\nBancos\nLa Oroya\nCajero automático\nLa Oroya\nCasa de cambio\nLa Oroya\nEstación de servicios, grifos, gasolineras y gasocentros\nLa Oroya\nServicio de correos\nLa Oroya\nServicio de estacionamiento\nMarcapomacocha, La Oroya\nServicios de taxis\nLa Oroya\nCentro de salud - tópico\nMarcapomacocha, La Oroya\nVenta de materiales para fotografías\nLa Oroya\nSeguridad / POLTUR / Comisaría\nLa Oroya\nLibrerías\nLa Oroya\nBodegas o minimarkets\nMarcapomacocha, La Oroya"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nMarcapomacocha, La Oroya\nLuz (Suministro Eléctrico)\nMarcapomacocha, La Oroya\nTeléfono\nMarcapomacocha, La Oroya\nAlcantarillado sanitario\nMarcapomacocha, La Oroya"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\n--\nPrivado:\nComunidad Campesina de Marcapomacocha\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nNúmero de Partida:\n11001591\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nComunidad Campesina de Marcapomacocha\nTiempo de administración\nDesde el año 2019"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo de Junín\nNombre (Persona(s) responsable(s) del inventario turístico):\nLic. Gregoria Flores Loaiza\nCargo:\nEspecialista en Turismo\nCorreo:\nfloresloaiza@yahoo.es\nTeléfono:\n948992261\nFuentes Bibliográfica:\nDescubre como llegar a la espectacular Laguna Marcapomacocha. Perú en Videos: Gloria Medina: https://www.peruenvideos.com/marcapomacocha-reto-viajar-grandes-alturas-junin/\nPlan de Desarrollo Concertado (PDC) 2019-2025 del Distrito de Marcapomacocha. Municipalidad Distrital de Marcapomacocha.\nMarcapomacocha y lo mejor de la Cordillera de la Viuda. Pasos del Viajero:\nhttps://www.pasosdeviajero.com/viajes-de-aventura/marcapomacocha/\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n9/07/2024 16:21:59"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -11.406667,
+    "longitud": -76.33611100000002
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-11.406667,-76.33611100000002"
+}

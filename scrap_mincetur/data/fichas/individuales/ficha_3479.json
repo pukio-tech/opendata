@@ -1,0 +1,243 @@
+{
+  "cod_ficha": 3479,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=3479",
+  "nombre": "Baños Termales De Uchuhuma",
+  "departamento": "Puno",
+  "provincia": "Carabaya",
+  "distrito": "COASA",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "k. Agua termo-mineral",
+  "subtipo": "Ojos de agua",
+  "jerarquia": "1",
+  "altitud": "4009",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=549602",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=549602",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=549603",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=549645",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=549604",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=549646",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=549607",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=549647",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=550334",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=550335",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=550423"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Otros(Especificar)",
+    "Deportes acuáticos - Natación",
+    "Naturaleza - Observación de paisaje"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Otros(Especificar)",
+      "observacion": "Baños termales",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/otros02.png"
+    },
+    {
+      "actividad": "Deportes acuáticos",
+      "tipo": "Natación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/natacion02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "Paisaje andino a mas de 4000 mts de altura",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Puno/Carabaya/Macusani - Puno/Carabaya/Ajoyani",
+      "detalle": "Paradero de minibuses de Macusani - desvio a Ajoyani",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Combi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "34 kms. / 50 minutos."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Puno/Carabaya/Coasa - Puno/Carabaya/Coasa",
+      "detalle": "desvío a Ajoyani - Coasa",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Combi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "52 km., 1.30 horas."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Puno/Carabaya/Coasa - Puno/Carabaya/Coasa",
+      "detalle": "Coasa - Baños Termales de Uchuhuma",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Taxi",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "12 km. 30 minutos"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "7",
+      "horario": "OFICIO N° 002-2024-MCP-U PISCINA UCHUHUMA",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "2538",
+      "horario": "OFICIO N° 002-2024 MCP-U PISCINA DE UCHUHUMA",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "4391",
+      "horario": "OFICIO N°002-2024 MCP-U PISCINA UCHUHUMA",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "09:00 a.m. - 04:00 p.m. --",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "Adultos S/.3.00, Jovenes S/.3.00, Niños S/.1.50"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicios Higiénicos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Estacionamiento",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "En la localidad de Coasa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "En la localidad de Coasa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "En la localidad de Coasa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "En la ciudad de Macusani"
+    }
+  ],
+  "descripcion": "Ubicadas en una amplia explanada a más de 4,000 m.s.n.m. en la parte alta de la localidad de Coaza, la temperatura promedio de afloración de las aguas es de aproximadamente 70° C, su color varia de marrón claro a verde, sus aguas tienen sabor ligeramente salado, fuerte olor por la presencia de azufre, y alto caudal por la presencia de dos manantiales. Para el servicio al público se ha construido una piscina de concreto armado para adultos de 20.00 x 10.00 mts x una profundidad diferenciada de 1.20 a 1.80 mts, con 6 carriles señalizados y trampolín, cuenta además con una piscina para niños de forma circular deformada de poca profundidad. 06 pozas personales independientes, 08 vestuarios, 08 duchas personales, 02 servicios higiénicos para damas y varones.\nConformando bloques separados con paredes de ladrillo, techo de calamina y puertas con seguridad, servicios adicionales de control de ingreso, jardinería con asientos para descanso y recreación, veredas de circulación, y postes para iluminación interior, cerco perimetral de seguridad de ladrillo.\nEs un recurso turístico cada vez es más solicitado por los turistas en tránsito hacia y desde la selva, ofrece la posibilidad de tomar un refrescante y reparador baño termal en la piscina, y en las pozas personales por sus propiedades curativas, y de sanación ante algunas enfermedades reumáticas y respiratorias, es decir el turismo de salud en crecimiento motiva la visita turística, así como de recrearse al observar el paisaje andino propios de esta zona altoandina que adorna el lugar.",
+  "particularidades": "",
+  "estado_actual": "Regular, son necesarios trabajos complementarios y de mantenimiento.",
+  "observaciones": "Uchuhuma está ubicado a 14 Kms. al oeste de Coasa Capital del Distrito, de la provincia de Carabaya. Infraestructura construida por la Municipalidad Distrital de Coasa a partir del año 2000, en coordinación con las autoridades del Centro Poblado de Uchuhuma.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Ubicadas en una amplia explanada a más de 4,000 m.s.n.m. en la parte alta de la localidad de Coaza, la temperatura promedio de afloración de las aguas es de aproximadamente 70° C, su color varia de marrón claro a verde, sus aguas tienen sabor ligeramente salado, fuerte olor por la presencia de azufre, y alto caudal por la presencia de dos manantiales. Para el servicio al público se ha construido una piscina de concreto armado para adultos de 20.00 x 10.00 mts x una profundidad diferenciada de 1.20 a 1.80 mts, con 6 carriles señalizados y trampolín, cuenta además con una piscina para niños de forma circular deformada de poca profundidad. 06 pozas personales independientes, 08 vestuarios, 08 duchas personales, 02 servicios higiénicos para damas y varones.\nConformando bloques separados con paredes de ladrillo, techo de calamina y puertas con seguridad, servicios adicionales de control de ingreso, jardinería con asientos para descanso y recreación, veredas de circulación, y postes para iluminación interior, cerco perimetral de seguridad de ladrillo.\nEs un recurso turístico cada vez es más solicitado por los turistas en tránsito hacia y desde la selva, ofrece la posibilidad de tomar un refrescante y reparador baño termal en la piscina, y en las pozas personales por sus propiedades curativas, y de sanación ante algunas enfermedades reumáticas y respiratorias, es decir el turismo de salud en crecimiento motiva la visita turística, así como de recrearse al observar el paisaje andino propios de esta zona altoandina que adorna el lugar."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Regular, son necesarios trabajos complementarios y de mantenimiento."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "Uchuhuma está ubicado a 14 Kms. al oeste de Coasa Capital del Distrito, de la provincia de Carabaya. Infraestructura construida por la Municipalidad Distrital de Coasa a partir del año 2000, en coordinación con las autoridades del Centro Poblado de Uchuhuma."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n7\nOFICIO N° 002-2024-MCP-U PISCINA UCHUHUMA\n2023\nTuristas Nacionales\n2538\nOFICIO N° 002-2024 MCP-U PISCINA DE UCHUHUMA\n2023\nVisitantes Locales(Excursionistas)\n4391\nOFICIO N°002-2024 MCP-U PISCINA UCHUHUMA\n2023"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nPuno/Carabaya/Macusani\n-\nPuno/Carabaya/Ajoyani\nParadero de minibuses de Macusani - desvio a Ajoyani\nTerrestre\nCombi\nAsfaltado\n34 kms. / 50 minutos.\n1\nPuno/Carabaya/Coasa\n-\nPuno/Carabaya/Coasa\ndesvío a Ajoyani - Coasa\nTerrestre\nCombi\nAsfaltado\n52 km., 1.30 horas.\n1\nPuno/Carabaya/Coasa\n-\nPuno/Carabaya/Coasa\nCoasa - Baños Termales de Uchuhuma\nTerrestre\nTaxi\nAfirmado\n12 km. 30 minutos"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nAdultos S/.3.00, Jovenes S/.3.00, Niños S/.1.50"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n09:00 a.m.\n-\n04:00 p.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nOtros(Especificar)\nBaños termales\nDeportes acuáticos\nNatación\n--\nNaturaleza\nObservación de paisaje\nPaisaje andino a mas de 4000 mts de altura"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nOtros Servicios Turísticos\nServicios Higiénicos\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nServicio de Estacionamiento\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nLugares de Recreación\nCentros Deportivos\nEn la localidad de Coasa\nAlimentación\nRestaurantes\nEn la localidad de Coasa\nAlimentación\nKioskos de comida y bebidas\nEn la localidad de Coasa\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nEn la ciudad de Macusani"
+    },
+    {
+      "titulo": "Servicios Complementarios dentro del recurso",
+      "contenido": "Servicio Complementario\nObservación\nServicios de taxis\nsolicitar servico de taxis en la oficina de tiket de ingreso"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nEn la localidad de Coasa\nEstación de servicios, grifos, gasolineras y gasocentros\nEn la localidad de Coasa\nServicio de estacionamiento\nEn la localidad de Coasa\nServicios de taxis\nEn la localidad de Coasa\nCentro de salud - tópico\nEn la localidad de Coasa\nSeguridad / POLTUR / Comisaría\nComisaria Rural de la PNP en la localidad de Coasa\nBodegas o minimarkets\nEn la localidad de Coasaa"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\n--\nDesagüe\n--\nLuz (Suministro Eléctrico)\n--\nSeñalización turística\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nEn la localidad de Coasa\nAlcantarillado sanitario\nEn la localidad de Coasa\nLuz (Suministro Eléctrico)\nEn la localidad de Coasa\nTeléfono\nEn la localidad de Coasa"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nComunidad Campesina Uchuhuma Chacamarca\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nTestimonio de Titulo de Propiedad Notarial\nNúmero de Partida:\n4927 -R\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nCelestino Zarate Farfan\nTiempo de administración\ndesde el año 2022"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección de Turismo de la DIRCETUR Puno / Municipalidad Provincial de Carabaya - Macusani\nNombre (Persona(s) responsable(s) del inventario turístico):\nArq. Vadim Masciotti Cabala / Lic. Juana Yola Quispe Pizarro\nCargo:\nArq. / Especialista en Turismo de la Municipalidad Provincial de Carabaya - Macusani\nCorreo:\nvamasciotti@gmail.com /juanayolaquisp@gmail.com\nTeléfono:\n051 351261 /904478243\nFuentes Bibliográfica:\nParedes Apaza, Jhospani M.; Pari Mamani, Lizbeth (2019)APP TIC`s como alternativa interactiva para el acceso a la información de los principales recursos turísticos del corredor quechua de la región Puno.\nsergio mergo humpiri y julian juarez mamani (2015 )apuntes históricos por la travesía por coasa\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n11/07/2024 09:08:11"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -13.952049250259625,
+    "longitud": -70.0721394686584
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-13.952049250259625,-70.0721394686584"
+}

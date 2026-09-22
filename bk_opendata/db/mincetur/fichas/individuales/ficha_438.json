@@ -1,0 +1,230 @@
+{
+  "cod_ficha": 438,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=438",
+  "nombre": "Baños Termales De Ollachea",
+  "departamento": "Puno",
+  "provincia": "Carabaya",
+  "distrito": "OLLACHEA",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "k. Agua termo-mineral",
+  "subtipo": "Otros",
+  "jerarquia": "1",
+  "altitud": "2696",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=296548",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=296548",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=548427",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=548383",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=548428",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=554943",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=554945",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=554855"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Otros(Especificar)",
+    "Deportes acuáticos - Natación",
+    "Naturaleza - Observación de paisaje"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Otros(Especificar)",
+      "observacion": "Baños termo medicinales en pozas personales",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/otros02.png"
+    },
+    {
+      "actividad": "Deportes acuáticos",
+      "tipo": "Natación",
+      "observacion": "En la piscina termal",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/natacion02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "Paisaje circundante",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Puno/Carabaya/Macusani - Puno/Carabaya/Ollachea",
+      "detalle": "Macusani - Ollachea",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Camioneta doble tracción",
+      "tipo_via": "",
+      "distancia_tiempo": "58 km., 1.20 horas"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Puno/Carabaya/Ollachea - Puno/Carabaya/Ollachea",
+      "detalle": "Ollachea - Baños Termales",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "",
+      "distancia_tiempo": "900 mt., 10 minutos"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "47",
+      "horario": "Reporte de vistas a los B.T. de Ollachea",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "760",
+      "horario": "Reporte de vistas a los B.T. de Ollachea",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "888",
+      "horario": "Reporte de vistas a los B.T. de Ollachea",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "08:00 a.m. - 08:30 p.m. --",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "Piscina S/ 5.00 adultos, S/1.50 niños S/8.00 visitantes, Pozas; S/.5.00 adultos, S/.5.00 visitantes, Duchas S/.2.00 adultos, S/.4.00 visitantes"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Localidad de Ollachea"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Localidad de Ollachea"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Localidad de Ollachea"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Localidad de Ollachea"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Localidad de Ollachea"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "Localidad de Ollachea"
+    }
+  ],
+  "descripcion": "Son aguas termales provenientes de la formación Huancané, se encuentran aproximadamente a 900 m, al sureste de la plaza principal de Ollachea, ubicado en la ladera del cerro Qoropiña, en un lugar abrigado y cálido con bastante vegetación y vistoso paisaje, del subsuelo brota en un amplio manantial, agua caliente con una temperatura de afloramiento de 99.26 °C, y pH de 9.48 (básico), tipo clorurada y/o sulfatada sódica, de sabor salino sulfuroso y de color verdoso transparente, de regular caudal, desde donde mediante canales que conservan la temperatura de alrededor 61¿°C, llegan a las Instalaciones construidas. Estas instalaciones constan de: una piscina para adultos de 25.00 x 15.00 m, x 1.50 a 2.00 m, de profundidad, y una piscina de forma semicircular para niños, ambas con recubrimiento de mayólica celeste, 25 vestidores con asiento, colgaropa, y casilleros guardarropa, 07 pozas familiares, una poza tipo sauna con el uso de hierbas medicínales cómo, eucalipto, muña, salvia, plantas medicinales de la zona, buenas para la salud, ayuda al sistema respiratorio y alivia dolores musculares, servicio higiénico para damas y varones, oficina de control – boletería, kiosco de venta de golosinas, quioscos de venta de ropa de baño y otros, jardines con plantas, flores y arbustos ornamentales, servicio de restaurante en concesión, graderías, y mirador en el segundo piso.\nEs una fuente termal con excelente temperatura, caudal, y ubicación, con instalaciones adecuadas para el descanso y fortalecimiento de la salud, balneario termal turístico con apropiada infraestructura y vías de acceso. Además, su entorno muestra un impresionante paisaje natural, montañas, nevados, lagunas y ríos.",
+  "particularidades": "",
+  "estado_actual": "Regular, se realizan permanentes trabajos de mantenimiento y limpeza.",
+  "observaciones": "Ollachea se encuentra aproximadamente a 306 kms al norte de la ciudad de Puno.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Son aguas termales provenientes de la formación Huancané, se encuentran aproximadamente a 900 m, al sureste de la plaza principal de Ollachea, ubicado en la ladera del cerro Qoropiña, en un lugar abrigado y cálido con bastante vegetación y vistoso paisaje, del subsuelo brota en un amplio manantial, agua caliente con una temperatura de afloramiento de 99.26 °C, y pH de 9.48 (básico), tipo clorurada y/o sulfatada sódica, de sabor salino sulfuroso y de color verdoso transparente, de regular caudal, desde donde mediante canales que conservan la temperatura de alrededor 61¿°C, llegan a las Instalaciones construidas. Estas instalaciones constan de: una piscina para adultos de 25.00 x 15.00 m, x 1.50 a 2.00 m, de profundidad, y una piscina de forma semicircular para niños, ambas con recubrimiento de mayólica celeste, 25 vestidores con asiento, colgaropa, y casilleros guardarropa, 07 pozas familiares, una poza tipo sauna con el uso de hierbas medicínales cómo, eucalipto, muña, salvia, plantas medicinales de la zona, buenas para la salud, ayuda al sistema respiratorio y alivia dolores musculares, servicio higiénico para damas y varones, oficina de control – boletería, kiosco de venta de golosinas, quioscos de venta de ropa de baño y otros, jardines con plantas, flores y arbustos ornamentales, servicio de restaurante en concesión, graderías, y mirador en el segundo piso.\nEs una fuente termal con excelente temperatura, caudal, y ubicación, con instalaciones adecuadas para el descanso y fortalecimiento de la salud, balneario termal turístico con apropiada infraestructura y vías de acceso. Además, su entorno muestra un impresionante paisaje natural, montañas, nevados, lagunas y ríos."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Regular, se realizan permanentes trabajos de mantenimiento y limpeza."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "Ollachea se encuentra aproximadamente a 306 kms al norte de la ciudad de Puno."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n47\nReporte de vistas a los B.T. de Ollachea\n2023\nOficio N°03-2024 PISCINA MUNICIPAL OLLACHEA\nTuristas Nacionales\n760\nReporte de vistas a los B.T. de Ollachea\n2023\nOficio N°03-2024 PISCINA MUNICIPAL OLLACHEA\nVisitantes Locales(Excursionistas)\n888\nReporte de vistas a los B.T. de Ollachea\n2023\nOficio N°03-2024 PISCINA MUNICIPAL OLLACHEA"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nPuno/Carabaya/Macusani\n-\nPuno/Carabaya/Ollachea\nMacusani - Ollachea\nTerrestre\nCamioneta doble tracción\n58 km., 1.20 horas\n1\nPuno/Carabaya/Ollachea\n-\nPuno/Carabaya/Ollachea\nOllachea - Baños Termales\nTerrestre\nA pie\n900 mt., 10 minutos"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nPiscina S/ 5.00 adultos, S/1.50 niños S/8.00 visitantes, Pozas; S/.5.00 adultos, S/.5.00 visitantes, Duchas S/.2.00 adultos, S/.4.00 visitantes"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n08:00 a.m.\n-\n08:30 p.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nOtros(Especificar)\nBaños termo medicinales en pozas personales\nDeportes acuáticos\nNatación\nEn la piscina termal\nNaturaleza\nObservación de paisaje\nPaisaje circundante"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nAlimentación\nKioskos de comida y bebidas\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nLugares de Recreación\nCentros Deportivos\nLocalidad de Ollachea\nAlimentación\nRestaurantes\nLocalidad de Ollachea\nAlimentación\nKioskos de comida y bebidas\nLocalidad de Ollachea\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nLocalidad de Ollachea\nServicios Públicos\nEstacionamiento de vehículos\nLocalidad de Ollachea\nServicios Públicos\nCaminos peatonales\nLocalidad de Ollachea"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nLocalidad de Ollachea\nEstación de servicios, grifos, gasolineras y gasocentros\nLocalidad de Ollachea\nServicio de estacionamiento\nLocalidad de Ollachea\nServicios de taxis\nLocalidad de Ollachea\nCentro de salud - tópico\nLocalidad de Ollachea\nSeguridad / POLTUR / Comisaría\nComisaria Rural de la PNP en la localidad de Ollachea\nBodegas o minimarkets\nLocalidad de Ollachea\nLibrerías\nLocalidad de Ollachea"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nLocalidad de Ollachea\nLuz (Suministro Eléctrico)\nLocalidad de Ollachea\nTeléfono\nLocalidad de Ollachea\nAlcantarillado sanitario\nLocalidad de ollachea\nSeñalización turística\nLocalidad de Ollachea"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nMunicipalidad distrital de Ollachea\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nExpediente de Autorización de Utilización del Recurso Hídrico Autoridad Nacional del Agua - ALA.\nAdministrador por\nNombre\nPedro Mullisaca Huarcaya cel:951315873\nTiempo de administración\nDesde el año 2021"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección de Turismo de la DIRCETUR Puno / Municipalidad Provincial de Carabaya Macusani\nNombre (Persona(s) responsable(s) del inventario turístico):\nArq. Vadim Masciotti Cabala / Lic. Juana Yola Quispe Pizarro\nCargo:\nArq. /Especialista en turismo.\nCorreo:\nvamasciotti@gmail.com / juanayolaquisp@gmail.com\nTeléfono:\n051 351261 / 904478243\nFuentes Bibliográfica:\nE. J. Tapia H., U.N.A. Puno, Caracterización Geo energética de Fuentes Termales: Pasanaccollo, Acora, Ollachea, Cuyo Cuyo, Loripongo, y Puente Bello, Tesis para optar el Titulo Profesional de Ingeniero Geólogo, Puno, 2016.\nG. Pérez, Acuíferos regionales en las altiplanicies del extremo sur de los Andes del Perú, Lima, 1976.\nAgencia de Cooperación Internacional del Japón (JICA), Plan maestro para el desarrollo de la energía geotérmica en el Perú. Lima, 2012.\nJ. Barraza, Geología y contaminación por fuentes hidrotermales: caso Río Ollachea – Carabaya, Puno, 2017.\nMaterial Audiovisual actual del Recurso:\n--\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n7/08/2024 09:40:58"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -13.799678095735974,
+    "longitud": -70.47044992446894
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-13.799678095735974,-70.47044992446894"
+}

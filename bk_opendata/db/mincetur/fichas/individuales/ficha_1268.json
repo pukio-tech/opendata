@@ -1,0 +1,305 @@
+{
+  "cod_ficha": 1268,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=1268",
+  "nombre": "Catarata De Puzapaqcha",
+  "departamento": "Ayacucho",
+  "provincia": "Lucanas",
+  "distrito": "CARMEN SALCEDO",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "j. Caídas de agua",
+  "subtipo": "Cataratas",
+  "jerarquia": "1",
+  "altitud": "3562",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=456905",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=456905",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=456906",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=456856",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=456860",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=462836"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Naturaleza - Observación de fauna",
+    "Naturaleza - Observación de paisaje",
+    "Naturaleza - Observación de aves",
+    "Cultura y Folclore - Rituales místicos o tradicionales",
+    "Deportes / Aventura - Caminata/Trekking"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de fauna",
+      "observacion": "Venados, Zoros Andinos, Puma, e.t.c.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fauna02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "Andenes, ríos, Caminos.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de aves",
+      "observacion": "Cóndor Andino, Gavilanes, Lechuza, Colibrís, Chiwaco, Pichinko.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/aves02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Rituales místicos o tradicionales",
+      "observacion": "Consagración de la Danza de Tijera.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/rituales_misticos02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "Caminos de Herradura",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Ayacucho/Huamanga/Ayacucho - Ayacucho/Lucanas/Carmen Salcedo",
+      "detalle": "Terminal sur de Ayacucho - Terminal de provincia Sucre",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus turístico",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "206K.M /6Horas"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Ayacucho/Sucre/Querobamba - Ayacucho/Lucanas/Carmen Salcedo",
+      "detalle": "Terminal Provincia Sucre - Cdra. 3 Jr. Lima de la ciudad de Andamarca",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus turístico",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "117K.M /4Horas"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Ayacucho/Lucanas/Carmen Salcedo - Ayacucho/Lucanas/Carmen Salcedo",
+      "detalle": "Cdra. 3 Jr. Lima de la ciudad de Andamarca - Puza paqcha",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Camino de Herradura",
+      "distancia_tiempo": "7 km/ 2 horas"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Lima/Lima/Lima - Ayacucho/Lucanas/Carmen Salcedo",
+      "detalle": "Terminal de Lima Av. 28 Julio - Terminal Ciudad de Ica",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus turístico",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "305 km/4 horas"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Ica/Ica/Ica - Ayacucho/Lucanas/Puquio",
+      "detalle": "Terminal Ciudad de Ica - Terminal Provincia Puquio",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus turístico",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "117 K.M / 3 Horas"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Ayacucho/Lucanas/Puquio - Ayacucho/Lucanas/Carmen Salcedo",
+      "detalle": "Terminal Provincia de Puquio - Cdra. 3 Jr. Lima de la ciudad de Andamarca",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus turístico",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "75 Km./2 hrs."
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Ayacucho/Lucanas/Carmen Salcedo - Ayacucho/Lucanas/Carmen Salcedo",
+      "detalle": "Cdra. 3 Jr. Lima de la ciudad de Andamarca - Puza paqcha",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Camino de Herradura",
+      "distancia_tiempo": "7 k.m /2 horas"
+    },
+    {
+      "recorrido": "3",
+      "tramo": "Ayacucho/Huamanga/Ayacucho - Ayacucho/Lucanas/Carmen Salcedo",
+      "detalle": "Terminal Provincia Huanca Sancos - Cdra. 3 Jr. Lima de la ciudad de Andamarca",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus turístico",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "142 K.M/ 3.37 Horas"
+    },
+    {
+      "recorrido": "3",
+      "tramo": "Ayacucho/Huanca Sancos/Sancos - Ayacucho/Lucanas/Carmen Salcedo",
+      "detalle": "Terminal Provincia Huanca Sancos- Cdra. 3 Jr. Lima de la ciudad de Andamarca",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus turístico",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "117K.M /3 Horas"
+    },
+    {
+      "recorrido": "3",
+      "tramo": "Ayacucho/Lucanas/Carmen Salcedo - Ayacucho/Lucanas/Carmen Salcedo",
+      "detalle": "Cdra. 3 Jr. Lima de la ciudad de Andamarca - Puza paqcha",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Camino de Herradura",
+      "distancia_tiempo": "7 k.m. / 2 Horas"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "768",
+      "horario": "Municipalidad de Carmen Salcedo",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Esporádicamente - Algunos meses",
+      "especificacion": "--",
+      "horario": "07:00 a.m. - 03:30 p.m. Es recomendable visitar al lugar con un orientador local. de abril a diciembre.",
+      "observaciones": "Es recomendable visitar al lugar con un orientador local. de abril a diciembre."
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": "Comunicarse con responsable de la Municipalidad para el registro de Flujo de Visitantes Teléfono: 972550691"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Andamarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Andamarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Andamarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Andamarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Andamarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de Andamarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Césped Sintético Jr. Alfonso Ugarte B. Tuna Ciudad de Andamarca Telefono: 940759010"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Ciudad de Andamarca Teléfono: 972550691"
+    }
+  ],
+  "descripcion": "La caída del agua de esta catarata alcanza los 200 metros y se desliza en tres etapas o escalones de acuerdo a la temporada de lluvia en los meses de Diciembre, Enero, Febrero y Marzo . Los alrededores del recurso presentan una fauna típica y flora típica de la zona, como vizcachas, halcones, venados, flores, ichus, flores silvestres, alberga abundante trucha.\nEsta recurso está considerado como la \"Catedral de los danzantes de tijeras\", quienes van a tomar la energía y fuerza que los Aukis y Wamanis (Dioses Andinos) Realizando pago a la tierra al agua con un ritual que otorgan a los danzantes luego de haberles examinado la noche del Viernes Santo de todos los años la condición de \"doctorado\" o maestro de la Danza de Tijera.\nEn la narrativas orales se dice que alberga los restos del Inca Huáscar arrojados por los seguidores de Atahualpa luego de su ejecución, según el historiador Hugo Vallenas Málaga, Investigación realizada en el año 2002.",
+  "particularidades": "",
+  "estado_actual": "Bueno, sin intervención con la mano del hombre. Comunidad Campesina de Andamarca realiza su mantenimiento Rutunaria.",
+  "observaciones": "Ubicada a 7 km al sur del distrito de Carmen Salcedo, Andamarca (Lucanas).\nLa ruta de treking que conduce hasta la zona se considera como de moderado esfuerzo físico. Esta recurso se encuentra en el curso del río Negro Mayo (río negro)",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "La caída del agua de esta catarata alcanza los 200 metros y se desliza en tres etapas o escalones de acuerdo a la temporada de lluvia en los meses de Diciembre, Enero, Febrero y Marzo . Los alrededores del recurso presentan una fauna típica y flora típica de la zona, como vizcachas, halcones, venados, flores, ichus, flores silvestres, alberga abundante trucha.\nEsta recurso está considerado como la \"Catedral de los danzantes de tijeras\", quienes van a tomar la energía y fuerza que los Aukis y Wamanis (Dioses Andinos) Realizando pago a la tierra al agua con un ritual que otorgan a los danzantes luego de haberles examinado la noche del Viernes Santo de todos los años la condición de \"doctorado\" o maestro de la Danza de Tijera.\nEn la narrativas orales se dice que alberga los restos del Inca Huáscar arrojados por los seguidores de Atahualpa luego de su ejecución, según el historiador Hugo Vallenas Málaga, Investigación realizada en el año 2002."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, sin intervención con la mano del hombre. Comunidad Campesina de Andamarca realiza su mantenimiento Rutunaria."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "Ubicada a 7 km al sur del distrito de Carmen Salcedo, Andamarca (Lucanas).\nLa ruta de treking que conduce hasta la zona se considera como de moderado esfuerzo físico. Esta recurso se encuentra en el curso del río Negro Mayo (río negro)"
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Nacionales\n768\nMunicipalidad de Carmen Salcedo\n2022\nInforme de Visita a los recursos turísticos del distrito de Carmen Salcedo"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nAyacucho/Huamanga/Ayacucho\n-\nAyacucho/Lucanas/Carmen Salcedo\nTerminal sur de Ayacucho - Terminal de provincia Sucre\nTerrestre\nBus turístico\nAsfaltado\n206K.M /6Horas\n1\nAyacucho/Sucre/Querobamba\n-\nAyacucho/Lucanas/Carmen Salcedo\nTerminal Provincia Sucre - Cdra. 3 Jr. Lima de la ciudad de Andamarca\nTerrestre\nBus turístico\nAsfaltado\n117K.M /4Horas\n1\nAyacucho/Lucanas/Carmen Salcedo\n-\nAyacucho/Lucanas/Carmen Salcedo\nCdra. 3 Jr. Lima de la ciudad de Andamarca - Puza paqcha\nTerrestre\nA pie\nCamino de Herradura\n7 km/ 2 horas\n2\nLima/Lima/Lima\n-\nAyacucho/Lucanas/Carmen Salcedo\nTerminal de Lima Av. 28 Julio - Terminal Ciudad de Ica\nTerrestre\nBus turístico\nAsfaltado\n305 km/4 horas\n2\nIca/Ica/Ica\n-\nAyacucho/Lucanas/Puquio\nTerminal Ciudad de Ica - Terminal Provincia Puquio\nTerrestre\nBus turístico\nAsfaltado\n117 K.M / 3 Horas\n2\nAyacucho/Lucanas/Puquio\n-\nAyacucho/Lucanas/Carmen Salcedo\nTerminal Provincia de Puquio - Cdra. 3 Jr. Lima de la ciudad de Andamarca\nTerrestre\nBus turístico\nAsfaltado\n75 Km./2 hrs.\n2\nAyacucho/Lucanas/Carmen Salcedo\n-\nAyacucho/Lucanas/Carmen Salcedo\nCdra. 3 Jr. Lima de la ciudad de Andamarca - Puza paqcha\nTerrestre\nA pie\nCamino de Herradura\n7 k.m /2 horas\n3\nAyacucho/Huamanga/Ayacucho\n-\nAyacucho/Lucanas/Carmen Salcedo\nTerminal Provincia Huanca Sancos - Cdra. 3 Jr. Lima de la ciudad de Andamarca\nTerrestre\nBus turístico\nAfirmado\n142 K.M/ 3.37 Horas\n3\nAyacucho/Huanca Sancos/Sancos\n-\nAyacucho/Lucanas/Carmen Salcedo\nTerminal Provincia Huanca Sancos- Cdra. 3 Jr. Lima de la ciudad de Andamarca\nTerrestre\nBus turístico\nAsfaltado\n117K.M /3 Horas\n3\nAyacucho/Lucanas/Carmen Salcedo\n-\nAyacucho/Lucanas/Carmen Salcedo\nCdra. 3 Jr. Lima de la ciudad de Andamarca - Puza paqcha\nTerrestre\nA pie\nCamino de Herradura\n7 k.m. / 2 Horas"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre\nComunicarse con responsable de la Municipalidad para el registro de Flujo de Visitantes Teléfono: 972550691"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nEsporádicamente - Algunos meses\n--\n07:00 a.m.\n-\n03:30 p.m.\nEs recomendable visitar al lugar con un orientador local. de abril a diciembre."
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nNaturaleza\nObservación de fauna\nVenados, Zoros Andinos, Puma, e.t.c.\nNaturaleza\nObservación de paisaje\nAndenes, ríos, Caminos.\nNaturaleza\nObservación de aves\nCóndor Andino, Gavilanes, Lechuza, Colibrís, Chiwaco, Pichinko.\nCultura y Folclore\nRituales místicos o tradicionales\nConsagración de la Danza de Tijera.\nDeportes / Aventura\nCaminata/Trekking\nCaminos de Herradura"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Andamarca\nAlimentación\nRestaurantes\nCiudad de Andamarca\nAlimentación\nCafeterías\nCiudad de Andamarca\nAlimentación\nKioskos de comida y bebidas\nCiudad de Andamarca\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Andamarca\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de Andamarca\nLugares de Recreación\nCentros Deportivos\nCésped Sintético Jr. Alfonso Ugarte B. Tuna Ciudad de Andamarca Telefono: 940759010\nServicios Públicos\nOficina de Información turística\nCiudad de Andamarca Teléfono: 972550691"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nBancos\nAgentes Multi Red en la Ciudad de Andamarca\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Andamarca B. Antara Millopampa Telefono: 935076949\nSeguridad / POLTUR / Comisaría\nJr. Miguel Grau a Media Cdra. Plaza de Armas Ciudad de Andamarca\nCentro de salud - tópico\nJr. Alfonso Ugarte Penultima Cdra. B. Antara Ciudad de Andamarca\nBodegas o minimarkets\nCiudad de Andamarca\nServicios de taxis\nCiudad de Andamarca\nServicio de estacionamiento\nCiudad de Andamarca"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Andamarca\nAlcantarillado sanitario\nCiudad de Andamarca\nLuz (Suministro Eléctrico)\nCiudad de Andamarca\nTeléfono\nCiudad de Andamarca\nSeñalización turística\nCiudad de Andamarca"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nComunidad Campesina de Andamarca\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nPARTIDA ELECTRONICA – SUNARP-XI\nNúmero de Partida:\n11001959\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nComunidad Campesina de Andamarca - Municipalidad de Carmen Salcedo\nTiempo de administración\nDesde año 2002"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDIRCETUR - AYACUCHO / MUNICIPALIDAD DE CARMEN SALCEDO\nNombre (Persona(s) responsable(s) del inventario turístico):\nEFRAIN GOMEZ LOPEZ/ HEBER CUPE OROPEZA\nCargo:\nDIRECTOR DE TURISMO / RESPONSABLE DE LA OFICINA DE TURISMO\nCorreo:\newgl7@hotmail.com/hcupeoropeza@gmail.com\nTeléfono:\n938130971 / 972550691\nFuentes Bibliográfica:\n1.-REVISTA CULTURAL \"RUKANAS\" 2011\n2.- Atlas del territorio de Carmen Salcedo 2015 Ministerio de Ambiente\n3.- Recuperacion de Recursos Turisticos del Valle de Sondondo 2011 DIRCETUR AYACUCHO\n4.-Andamarca Bendita Morada del Sol Prof. Carlos Herrera Alfaro 1999\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n18/11/2022"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -14.38752545929724,
+    "longitud": -73.96205046627045
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-14.38752545929724,-73.96205046627045"
+}

@@ -1,0 +1,291 @@
+{
+  "cod_ficha": 8189,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=8189",
+  "nombre": "Centro De Interpretación Artesanal Sumac Pallay",
+  "departamento": "Arequipa",
+  "provincia": "Caylloma",
+  "distrito": "SIBAYO",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Museos y otros",
+  "subtipo": "Otros",
+  "jerarquia": "POR JERARQUIZAR",
+  "altitud": "3820 m.s.n.m.",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=546385",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=546385",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=546386",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=546387",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=546388",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=546389",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=570229"
+  ],
+  "actividades_permitidas": [
+    "Otros - Compras de artesanía/souvenir",
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Estudios e Investigación",
+    "Otros - Otros(Especificar)",
+    "Cultura y Folclore - Rituales místicos o tradicionales",
+    "Cultura y Folclore - Degustación y preparación de platos, productos o bebidas típicas",
+    "Cultura y Folclore - Apreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)",
+    "Cultura y Folclore - Participación y/u observación del proceso de elaboración de productos locales",
+    "Otros - Compra de productos regionales"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Compras de artesanía/souvenir",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/artesania02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Otros(Especificar)",
+      "observacion": "Manipulacion de las maquinas de bordado",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/otros02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Rituales místicos o tradicionales",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/rituales_misticos02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Degustación y preparación de platos, productos o bebidas típicas",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/platos_tipicos02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Apreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)",
+      "observacion": "--",
+      "icono_url": null
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Participación y/u observación del proceso de elaboración de productos locales",
+      "observacion": "--",
+      "icono_url": null
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Compra de productos regionales",
+      "observacion": "--",
+      "icono_url": null
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Arequipa/Arequipa/Arequipa - Arequipa/Caylloma/Chivay",
+      "detalle": "Terminal de minivans Arequipa - Terminal terrestre Chivay",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mini bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "151km /3 horas"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Arequipa/Arequipa/Arequipa - Arequipa/Caylloma/Sibayo",
+      "detalle": "Terminal terrestre Chivay - Plaza de Sibayo",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mini bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "39 km. /45 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Arequipa/Caylloma/Sibayo - Arequipa/Caylloma/Sibayo",
+      "detalle": "Plaza de Sibayo - Centro de Interpretacion",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Otros",
+      "distancia_tiempo": "180 m/3 min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "983",
+      "horario": "OFICIO N° 0257-2024/MD-S",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "414",
+      "horario": "OFICIO N° 0257-2024/MD-S",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "370",
+      "horario": "OFICIO N° 0257-2024/MD-S",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "08:00 a.m. - 03:00 p.m. --",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Semi-restringido(previo permiso)",
+      "observaciones": "Coordinar con la Sra Ruth Cutipa Cel. 901 178 104 ó Luz Marina Sotomayor Cel. 900 843 138, ya que se realizan pagos dependiendo la actividad, Visita, Exposicion, Noche Cultural, u otros"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Centros de interpretación",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Localidad de Sibayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Localidad de Sibayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Localidad de Sibayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Localidad de Sibayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "Localidad de Sibayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Localidad de Sibayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Casas Vivenciales"
+    }
+  ],
+  "descripcion": "El centro de interpretación artesanal se ha venido gestando desde el año 2009, por la Asociación de Artesanos Asociados “Sumac Pallay Sibayo”; junto al apoyo de instituciones públicas y privadas; la misma cuenta con tres salas implementadas con juegos didácticos relacionados con la artesanía (adivinanzas) y paneles informativos y fotográficos, con imágenes desde la trasquila hasta la trasformación de la fibra de alpaca en productos, siendo estos en tejidos y bordados.\nEl primer local está destinado a la interpretación de tejido a telar al estilo ancestral (se expresa las formas de tejido) existe una muestra del telar a pedal que es a base de madera y cuero de alpaca y funciona pisando los pedales, esta herramienta exige precisión de trabajo con las manos y los pies y es utilizado principalmente por varones especializados, con esta herramienta se confeccionan productos como: el pañete, que es una tela sencilla que se utiliza para confeccionar polleras, la ventaja del uso de la fibra de alpaca es que debido a su color no necesita teñirse, ya que sus colores son naturales, también se aprecia la exposición de estos colores, otros de los instrumentos que se aprecia es la urdimbre, esta consiste en colocar los hilos en unas estacas incrustadas en el suelo, luego está el pampa away la misma que se realiza desde épocas prehispánicas, existen dos formas de tejer en este telar instalándolo en el suelo con cuatro estacas o sujetándolos en la cintura de la tejedora, los productos que se obtienen son las llicllas que son mantas para cargarse y los pullos mantitas para taparse la espalda, frazadas, chumpis, ponchos, costales, chuspas, esta sala está decorada con mantos bordados.\nEl segundo ambiente está destinado a la interpretación del hilado desde cómo se esquila la alpaca, selección de la fibra de alpaca, el proceso del hilado, y el tejido a palitos a través de las, la misma que se muestra a través de paneles informativos de las duranas de aluminio y palitos de madera que son utilizados para tejidos de punto, sobre la iconografía utilizada para el bordado se denomina pallay que en quechua significa dibujo, estos dibujos representan elementos de la flora y fauna, así como escenas de la vida, los símbolos más representativos son la vizcacha, el cóndor, la vicuña, la trucha, danzantes, picaflor, el hogar, mano de puma, el enamoramiento, el corazón, llama, la flor de tupay, hay una exposición de la diferenciación de la fibra de alpaca siendo esta del suri, huacaya, fibra de llama y la lana de oveja.\nEl tercer ambiente está destinado al taller de bordado, donde se aprecia las máquinas de bordado al igual que las otras salas también cuenta con paneles fotográficos relacionadas con el bordado siendo estos el: armado, bordado, relleno y acabado. La infraestructura que alberga este centro artesanal es de material propio de la zona, con piedras y techo de ichu.",
+  "particularidades": "",
+  "estado_actual": "Bueno, debido al mantenimiento de la asociación con ayuda de MINCETUR.",
+  "observaciones": "Es el único centro de interpretación en el Valle del Colca que destaca la importancia de la alpaca y su lana.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "El centro de interpretación artesanal se ha venido gestando desde el año 2009, por la Asociación de Artesanos Asociados “Sumac Pallay Sibayo”; junto al apoyo de instituciones públicas y privadas; la misma cuenta con tres salas implementadas con juegos didácticos relacionados con la artesanía (adivinanzas) y paneles informativos y fotográficos, con imágenes desde la trasquila hasta la trasformación de la fibra de alpaca en productos, siendo estos en tejidos y bordados.\nEl primer local está destinado a la interpretación de tejido a telar al estilo ancestral (se expresa las formas de tejido) existe una muestra del telar a pedal que es a base de madera y cuero de alpaca y funciona pisando los pedales, esta herramienta exige precisión de trabajo con las manos y los pies y es utilizado principalmente por varones especializados, con esta herramienta se confeccionan productos como: el pañete, que es una tela sencilla que se utiliza para confeccionar polleras, la ventaja del uso de la fibra de alpaca es que debido a su color no necesita teñirse, ya que sus colores son naturales, también se aprecia la exposición de estos colores, otros de los instrumentos que se aprecia es la urdimbre, esta consiste en colocar los hilos en unas estacas incrustadas en el suelo, luego está el pampa away la misma que se realiza desde épocas prehispánicas, existen dos formas de tejer en este telar instalándolo en el suelo con cuatro estacas o sujetándolos en la cintura de la tejedora, los productos que se obtienen son las llicllas que son mantas para cargarse y los pullos mantitas para taparse la espalda, frazadas, chumpis, ponchos, costales, chuspas, esta sala está decorada con mantos bordados.\nEl segundo ambiente está destinado a la interpretación del hilado desde cómo se esquila la alpaca, selección de la fibra de alpaca, el proceso del hilado, y el tejido a palitos a través de las, la misma que se muestra a través de paneles informativos de las duranas de aluminio y palitos de madera que son utilizados para tejidos de punto, sobre la iconografía utilizada para el bordado se denomina pallay que en quechua significa dibujo, estos dibujos representan elementos de la flora y fauna, así como escenas de la vida, los símbolos más representativos son la vizcacha, el cóndor, la vicuña, la trucha, danzantes, picaflor, el hogar, mano de puma, el enamoramiento, el corazón, llama, la flor de tupay, hay una exposición de la diferenciación de la fibra de alpaca siendo esta del suri, huacaya, fibra de llama y la lana de oveja.\nEl tercer ambiente está destinado al taller de bordado, donde se aprecia las máquinas de bordado al igual que las otras salas también cuenta con paneles fotográficos relacionadas con el bordado siendo estos el: armado, bordado, relleno y acabado. La infraestructura que alberga este centro artesanal es de material propio de la zona, con piedras y techo de ichu."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, debido al mantenimiento de la asociación con ayuda de MINCETUR."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "Es el único centro de interpretación en el Valle del Colca que destaca la importancia de la alpaca y su lana."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n983\nOFICIO N° 0257-2024/MD-S\n2023\nRegistro de visitantes 2023\nTuristas Nacionales\n414\nOFICIO N° 0257-2024/MD-S\n2023\nRegistro de visitantes 2023\nVisitantes Locales(Excursionistas)\n370\nOFICIO N° 0257-2024/MD-S\n2023\nRegistro de visitantes 2023"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nArequipa/Arequipa/Arequipa\n-\nArequipa/Caylloma/Chivay\nTerminal de minivans Arequipa - Terminal terrestre Chivay\nTerrestre\nMini bus público\nAsfaltado\n151km /3 horas\n1\nArequipa/Arequipa/Arequipa\n-\nArequipa/Caylloma/Sibayo\nTerminal terrestre Chivay - Plaza de Sibayo\nTerrestre\nMini bus público\nAsfaltado\n39 km. /45 min\n1\nArequipa/Caylloma/Sibayo\n-\nArequipa/Caylloma/Sibayo\nPlaza de Sibayo - Centro de Interpretacion\nTerrestre\nA pie\nOtros\n180 m/3 min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nSemi-restringido(previo permiso)\nCoordinar con la Sra Ruth Cutipa Cel. 901 178 104 ó Luz Marina Sotomayor Cel. 900 843 138, ya que se realizan pagos dependiendo la actividad, Visita, Exposicion, Noche Cultural, u otros"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n08:00 a.m.\n-\n03:00 p.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nCompras de artesanía/souvenir\n--\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nEstudios e Investigación\n--\nOtros\nOtros(Especificar)\nManipulacion de las maquinas de bordado\nCultura y Folclore\nRituales místicos o tradicionales\n--\nCultura y Folclore\nDegustación y preparación de platos, productos o bebidas típicas\n--\nCultura y Folclore\nApreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)\n--\nCultura y Folclore\nParticipación y/u observación del proceso de elaboración de productos locales\n--\nOtros\nCompra de productos regionales\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nOtros Servicios Turísticos\nVenta de artesanía\n--\nInstalaciones Públicas\nServicios Públicos\nCentros de interpretación\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nLocalidad de Sibayo\nAlimentación\nRestaurantes\nLocalidad de Sibayo\nAlimentación\nKioskos de comida y bebidas\nLocalidad de Sibayo\nOtros Servicios Turísticos\nVenta de artesanía\nLocalidad de Sibayo\nServicios Públicos\nMiradores turísticos\nLocalidad de Sibayo\nServicios Públicos\nEstacionamiento de vehículos\nLocalidad de Sibayo\nAlojamiento\nOtros (Especificar)\nCasas Vivenciales"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nLocalidad de Sibayo\nEstación de servicios, grifos, gasolineras y gasocentros\nLocalidad de Sibayo\nServicio de estacionamiento\nLocalidad de Sibayo\nServicios de taxis\nLocalidad de Sibayo\nCentro de salud - tópico\nLocalidad de Sibayo\nSeguridad / POLTUR / Comisaría\nLocalidad de Sibayo\nOtros(especificar)\nTiendas, Localidad de Sibayo"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\n--\nLuz (Suministro Eléctrico)\n--\nSeñalización turística\n--\nAlcantarillado sanitario\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nLocalidad de Sibayo\nDesagüe\nLocalidad de Sibayo\nLuz (Suministro Eléctrico)\nLocalidad de Sibayo\nTeléfono\nLocalidad de Sibayo\nSeñalización turística\nLocalidad de Sibayo\nSistemas de tratamiento alternativo de residuos (Biodigestor, pozo séptico, otros)\nLocalidad de Sibayo"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\n--\nPrivado:\nArtesanos Asociados Sumac Pallay\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nConstancia de Posesión de predio Urbano a nombre de la Asociacion\nAdministrador por\nNombre\nAsociación de Artesanos Asociados Sumac Pallay Sibayo\nTiempo de administración\nDesde 2010"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nGerencia de Comercio Exterior y Turismo de Arequipa\nNombre (Persona(s) responsable(s) del inventario turístico):\nLic. Claudia Barrios Cacya\nCargo:\nEspecialista en Turismo\nCorreo:\ncbarrios@correo.regionarequipa.gob.pe\nTeléfono:\n988099750\nFuentes Bibliográfica:\nPlan de Desarrollo Turístico Local del distrito de Sibayo 2021-2025\nPlan Maestro, AUTOCOLCA, 2010\nPlan de Desarrollo Turístico Sibayo, 2013-2017, Ministerio de Comercio Exterior y Turismo 2013\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n14/11/2024 21:43:39"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -15.487895593556159,
+    "longitud": -71.45784616470343
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-15.487895593556159,-71.45784616470343"
+}

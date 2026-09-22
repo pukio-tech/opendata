@@ -1,0 +1,283 @@
+{
+  "cod_ficha": 6543,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=6543",
+  "nombre": "Laguna Huallhua De Huancaya",
+  "departamento": "Lima",
+  "provincia": "Yauyos",
+  "distrito": "HUANCAYA",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "g. Cuerpo de Agua",
+  "subtipo": "Lagunas",
+  "jerarquia": "2",
+  "altitud": "3678",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=389077",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=389077",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=389078",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=389081",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=389082",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=495790",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=495791",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=495792",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=495793"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de paisaje",
+    "Naturaleza - Observación de aves",
+    "Deportes / Aventura - Camping",
+    "Paseos - Paseos en bote"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "Pinos, queña, huamanpinta, tillo-tillo",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de aves",
+      "observacion": "Pato crestón, pato barcino, pato de la puna, zambullidor pimpollo",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/aves02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Camping",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/camping02.png"
+    },
+    {
+      "actividad": "Paseos",
+      "tipo": "Paseos en bote",
+      "observacion": "S/ 10.00 precio del paseo en bote",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paseo_bote02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Lima/Cañete/San Vicente De Cañete - Lima/Yauyos/Huancaya",
+      "detalle": "San Vicente Cañete (Plaza de armas)– Plaza de Armas de Huancaya",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "177 km/ 4 horas 51 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Lima/Yauyos/Huancaya - Lima/Yauyos/Huancaya",
+      "detalle": "Plaza de Armas de Huancaya – Laguna Huallhua de Huancaya",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "4 km / 13 minutos"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "11868",
+      "horario": "Reserva Paisajística Nor Yauyos Cochas SERNANP",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "10384",
+      "horario": "Reserva Paisajística Nor Yauyos Cochas SERNANP",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "7418",
+      "horario": "Reserva Paisajística Nor Yauyos Cochas SERNANP",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "06:00 a.m. - 06:00 p.m. Lunes a domingo",
+      "observaciones": "Lunes a domingo"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "S/ 10.00 por derecho de ingreso"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Huancaya / sin categoria"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de Huancaya"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Huancaya"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de Caballos",
+      "observacion": "Ciudad de Huancaya"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "Ciudad de Huancaya / 2 Estrellas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Huancaya / Hospedaje municipal"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "Ciudad de Huancaya"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Ciudad de Huancaya"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de interpretación",
+      "observacion": "Ciudad de Huancaya"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "Ciudad de Huancaya"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de Campamento(camping)",
+      "observacion": "Ciudad de Huancaya"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "Ciudad de Huancaya"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Puesto de auxilio rápido",
+      "observacion": "Ciudad de Huancaya"
+    }
+  ],
+  "descripcion": "Ubicada en la región natural Suni, a 15 minutos del Pueblo de Huancaya (4¿km) con una extensión de 1.5 kilómetros de largo, con 500 metros de ancho y con 35 a 40 metros de profundidad.\nEl centro poblado más cercano es el Pueblo de Vitis, desde donde los turistas inician el camino hacia la laguna.\nLa leyenda cuenta sobre la existencia de una bella sirena que pide ofrendas humanas (solo varones puros) para portarse bien y no causar ningún tipo de daño a los turistas.\nLa laguna posee una gran belleza caracterizada por sus caídas de agua cristalina, las cuales se tornan de color turquesa, pero tienden a cambiar en temporadas a un color esmeralda. En el transcurso del paseo en bote podemos observar grutas formadas por las estalactitas, productos de la caída de agua.\nEstá rodeada de una diversidad de flora como: Baccharis odorata (“taya”), Pasiflora trifoliata (“porojcha”), Fabiana fiebrigii (“tillo-tillo”), Kageneckia lanceolada (“lloque”), Escallonia myrtilloides (“karkac”), Senecio soukupii (“putaca”), Berberis lutea (“chejche”), Calceolaria linearis y fauna como diversos picaflores (Myrtis fanny, Chalcostigma sp, etc.). Además, se observa esepcies de fauna silvestre como el gato montés, venados, vizcachas, zorrillos, etc.\nCabe mencionar que existe una asociación de boteros que han habilitado senderos para la caminata alrededor de la laguna.\nLos visitan llegan motivados a la Laguna Huallhua, por los bellos paisajes y realizar diversas actividades que los conectan más con el entorno, como paseos en paddle, kayak o en bote.",
+  "particularidades": "",
+  "estado_actual": "Bueno, porque la Comunidad Campesina de Huancaya , Municipalidad distrital de Huancaya y el Sernanp protegen, cuidan y conservan el espacio natural.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Ubicada en la región natural Suni, a 15 minutos del Pueblo de Huancaya (4¿km) con una extensión de 1.5 kilómetros de largo, con 500 metros de ancho y con 35 a 40 metros de profundidad.\nEl centro poblado más cercano es el Pueblo de Vitis, desde donde los turistas inician el camino hacia la laguna.\nLa leyenda cuenta sobre la existencia de una bella sirena que pide ofrendas humanas (solo varones puros) para portarse bien y no causar ningún tipo de daño a los turistas.\nLa laguna posee una gran belleza caracterizada por sus caídas de agua cristalina, las cuales se tornan de color turquesa, pero tienden a cambiar en temporadas a un color esmeralda. En el transcurso del paseo en bote podemos observar grutas formadas por las estalactitas, productos de la caída de agua.\nEstá rodeada de una diversidad de flora como: Baccharis odorata (“taya”), Pasiflora trifoliata (“porojcha”), Fabiana fiebrigii (“tillo-tillo”), Kageneckia lanceolada (“lloque”), Escallonia myrtilloides (“karkac”), Senecio soukupii (“putaca”), Berberis lutea (“chejche”), Calceolaria linearis y fauna como diversos picaflores (Myrtis fanny, Chalcostigma sp, etc.). Además, se observa esepcies de fauna silvestre como el gato montés, venados, vizcachas, zorrillos, etc.\nCabe mencionar que existe una asociación de boteros que han habilitado senderos para la caminata alrededor de la laguna.\nLos visitan llegan motivados a la Laguna Huallhua, por los bellos paisajes y realizar diversas actividades que los conectan más con el entorno, como paseos en paddle, kayak o en bote."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "Forma parte de la Reserva Paisajista Nor Yauyos Cochas, cuenta con reconocimiento como Zona Reservada Alto Cañete y Cochas-Pachacayo, mediante Decreto Supremo Nº 001-99-AG, artículo 1º, del 7 de enero de 1999, por Instituto Nacional de Recursos Naturales INRENA."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, porque la Comunidad Campesina de Huancaya , Municipalidad distrital de Huancaya y el Sernanp protegen, cuidan y conservan el espacio natural."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n11868\nReserva Paisajística Nor Yauyos Cochas SERNANP\n2022\nRegistro de Visitantes admitido por la DIRCETUR Lima.\nTuristas Nacionales\n10384\nReserva Paisajística Nor Yauyos Cochas SERNANP\n2022\nRegistro de Visitantes admitido por la DIRCETUR Lima.\nVisitantes Locales(Excursionistas)\n7418\nReserva Paisajística Nor Yauyos Cochas SERNANP\n2022\nRegistro de Visitantes admitido por la DIRCETUR Lima."
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nLima/Cañete/San Vicente De Cañete\n-\nLima/Yauyos/Huancaya\nSan Vicente Cañete (Plaza de armas)– Plaza de Armas de Huancaya\nTerrestre\nAutomóvil particular\nAsfaltado\n177 km/ 4 horas 51 minutos\n1\nLima/Yauyos/Huancaya\n-\nLima/Yauyos/Huancaya\nPlaza de Armas de Huancaya – Laguna Huallhua de Huancaya\nTerrestre\nAutomóvil particular\nTrocha carrozable\n4 km / 13 minutos"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nS/ 10.00 por derecho de ingreso"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n06:00 a.m.\n-\n06:00 p.m.\nLunes a domingo"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nNaturaleza\nObservación de flora\nPinos, queña, huamanpinta, tillo-tillo\nNaturaleza\nObservación de paisaje\n--\nNaturaleza\nObservación de aves\nPato crestón, pato barcino, pato de la puna, zambullidor pimpollo\nDeportes / Aventura\nCamping\n--\nPaseos\nPaseos en bote\nS/ 10.00 precio del paseo en bote"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlimentación\nRestaurantes\nCiudad de Huancaya / sin categoria\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de Huancaya\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Huancaya\nOtros Servicios Turísticos\nAlquiler de Caballos\nCiudad de Huancaya\nAlojamiento\nHoteles (especificar categorías)\nCiudad de Huancaya / 2 Estrellas\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Huancaya / Hospedaje municipal\nServicios Públicos\nMiradores turísticos\nCiudad de Huancaya\nServicios Públicos\nEstacionamiento de vehículos\nCiudad de Huancaya\nServicios Públicos\nSeñales turísticas de interpretación\nCiudad de Huancaya\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\nCiudad de Huancaya\nServicios Públicos\nZonas de Campamento(camping)\nCiudad de Huancaya\nServicios Públicos\nCaminos peatonales\nCiudad de Huancaya\nServicios Públicos\nPuesto de auxilio rápido\nCiudad de Huancaya"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Huancaya\nBancos\nCiudad de Huancaya\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Huancaya\nServicio de estacionamiento\nCiudad de Huancaya\nCentro de salud - tópico\nCiudad de Huancaya\nVenta de materiales para fotografías\nCiudad de Huancaya\nSeguridad / POLTUR / Comisaría\nCiudad de Yauyos"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Huancaya\nAlcantarillado sanitario\nCiudad de Huancaya\nLuz (Suministro Eléctrico)\nCiudad de Huancaya\nTeléfono\nCiudad de Huancaya\nSeñalización turística\nCiudad de Huancaya"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nMunicipalidad Distrital de Huancaya\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nPartida\nNúmero de Partida:\nN° 21257505\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nMunicipalidad Distrital de Huancaya\nTiempo de administración\nDesde el año 1996"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo de Lima\nNombre (Persona(s) responsable(s) del inventario turístico):\nJorge Luis Torres Chirito\nCargo:\nAsistente Administrativo\nCorreo:\njchiritoxx@gmail.com\nTeléfono:\n956454928\nFuentes Bibliográfica:\n1) Plan Estratégico Regional de Turismo por el Gobierno Regional de Lima. Junio, 2022.\n2) Plan Maestro de la Reserva Paisajística Nor Yauyos Cocha. Autor: SERNANP. Yauyos, 2006.\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n12/10/2023 16:33:58"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -12.179942,
+    "longitud": -75.80147299999999
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-12.179942,-75.80147299999999"
+}

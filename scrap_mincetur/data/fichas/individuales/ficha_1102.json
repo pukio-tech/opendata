@@ -1,0 +1,312 @@
+{
+  "cod_ficha": 1102,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=1102",
+  "nombre": "Templo San Francisco De Paula",
+  "departamento": "Ayacucho",
+  "provincia": "Huamanga",
+  "distrito": "AYACUCHO",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Arquitectura y Espacios Urbanos",
+  "subtipo": "Templo",
+  "jerarquia": "2",
+  "altitud": "2762",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=610682",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=610682",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=610685",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=610687",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=610689",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=610723",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=610726",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=610693",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=610694"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Cultura y Folclore - Actividades Religiosas o Patronales"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Actividades Religiosas o Patronales",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/act_religiosas02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Ayacucho/Huamanga/Ayacucho - Ayacucho/Huamanga/Ayacucho",
+      "detalle": "Plaza Mayor - Templo San Francisco de Paula",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "100 metros/3 minutos"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Ayacucho/Huamanga/Ayacucho - Ayacucho/Huamanga/Ayacucho",
+      "detalle": "Aeropuerto Nacional Alfredo Mendivil Duarte - Templo San Francisco de Paula",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Taxi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "2,97 km / 9 min"
+    },
+    {
+      "recorrido": "3",
+      "tramo": "Ayacucho/Huamanga/Ayacucho - Ayacucho/Huamanga/Ayacucho",
+      "detalle": "Terminal Terrestre Los Libertadores de America - Templo San Francisco de Paula",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Taxi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "3,7 km /13 min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "5395",
+      "horario": "Estadisticas de la DIRCETUR Ayacucho",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "211074",
+      "horario": "Estadisticas de la DIRCETUR Ayacucho",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "06:00 a.m. - 09:00 p.m. Durante horas de misa y actividades religiosas",
+      "observaciones": "Durante horas de misa y actividades religiosas"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    },
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "Las visitas a las catacumbas se realizan solo en Semana Santa con un costo de S/ 5.00 soles tarifa general"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "1 a 3 estrellas en la ciudad de Ayacucho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "1 a 3 estrellas en la ciudad de Ayacucho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Ayacucho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "1 a 3 tenedores en la ciudad de Ayacucho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Ayacucho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Ayacucho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Ciudad de Ayacucho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Ayacucho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Ciudad de Ayacucho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Ayacucho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de Ayacucho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Guías con dominio en inglés y quechua en la ciudad de Ayacucho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de camionetas 4 x 4",
+      "observacion": "Ciudad de Ayacucho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "Ciudad de Ayacucho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Ciudad de Ayacucho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "Ciudad de Ayacucho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Ciudad de Ayacucho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "Ciudad de Ayacucho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Museo de Sitio Turísticos",
+      "observacion": "Ciudad de Ayacucho"
+    }
+  ],
+  "descripcion": "El templo de San Francisco de Paula, ubicado entre los jirones Garcilaso de la Vega y Callao, frente a la plazoleta del mismo nombre, es una construcción colonial que se remonta a los primeros años del siglo XVIII. Su edificación se inició a mediados de 1716 y no fue consagrado sino hasta el año 1783. Su construcción consta de una sola nave. La fachada está flanqueada por dos torres, cada una conformada por dos cuerpos. Estas torres se caracterizan por tener una base de considerable altura, rematada con decoraciones florales en relieve. En ellas se sitúan los campanarios de la iglesia. La portada de la fachada es de diseño simple, y sobre ella se encuentra un segundo cuerpo que alberga, en su nicho, la efigie pétrea de San Francisco de Paula, patrono de esta iglesia. En los muros laterales del templo se abren cuatro puertas grandes: una da salida a la calle, otra comunica al presbiterio con la sacristía, y las restantes conectan el templo con una galería anexa. En su interior, los altares del templo —de estilo barroco— son de madera y presentan detalles decorativos en pan de oro. En total son cuatro altares, ubicados en nichos abiertos en los muros. En el primer altar, a la izquierda de la entrada, se encuentra la imagen de “Cristo Pobre”. El segundo altar está dedicado a “San Francisco de Paula”. En el lado de la epístola (lado derecho del templo), los otros dos altares están ocupados respectivamente por la “Virgen del Carmen” y “El Calvario”. El Altar Mayor presenta un tabernáculo de color dorado, y en su parte superior destaca la imagen de la Virgen de la Inmaculada Concepción. El púlpito, de madera tallada, tiene figuras de los cuatro evangelistas, y en la parte superior se encuentra la imagen de San Agustín. A su lado, se exhiben lienzos religiosos de gran tamaño pertenecientes a la escuela ayacuchana, con pasajes de la historia de la Virgen María. En la parte superior del templo se ubica el coro alto, con balaustres de madera, que conserva un melodio, una reliquia con detalles religiosos en su decoración. De este templo sale la procesión de “Cristo Pobre” un miércoles antes de Semana Santa, lo que ha convertido a este evento en parte oficial de la programación de actividades de esas festividades. Dentro del templo se preservan las catacumbas, donde se han encontrado restos óseos de personajes importantes de la historia ayacuchana y del clero. Curiosamente, existen pasadizos cerrados que, según la tradición popular, eran interconexiones con otros templos. Durante la Semana Santa, se habilitan visitas guiadas a las catacumbas del templo, ofreciendo a los visitantes una experiencia única para conocer parte del legado histórico y espiritual de Ayacucho.",
+  "particularidades": "Mediante Ley Nº 9460, de fecha 16 de diciembre de 1941, ha sido Declarado Monumento integrante del Patrimonio Cultural de la Nación.",
+  "estado_actual": "Buen estado de conservación. Las paredes del recinto tanto externas como internas presentan buen estado de conservación.",
+  "observaciones": "La orden religiosa de los Mínimos llego a Lima en 1646, y en 1713 se registra la fundacion de su templo y convento en Huamanga. El convento era adyacente y tenia un hospicio. El templo fue restaurado entre los años 1942 y 1952.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "El templo de San Francisco de Paula, ubicado entre los jirones Garcilaso de la Vega y Callao, frente a la plazoleta del mismo nombre, es una construcción colonial que se remonta a los primeros años del siglo XVIII. Su edificación se inició a mediados de 1716 y no fue consagrado sino hasta el año 1783. Su construcción consta de una sola nave. La fachada está flanqueada por dos torres, cada una conformada por dos cuerpos. Estas torres se caracterizan por tener una base de considerable altura, rematada con decoraciones florales en relieve. En ellas se sitúan los campanarios de la iglesia. La portada de la fachada es de diseño simple, y sobre ella se encuentra un segundo cuerpo que alberga, en su nicho, la efigie pétrea de San Francisco de Paula, patrono de esta iglesia. En los muros laterales del templo se abren cuatro puertas grandes: una da salida a la calle, otra comunica al presbiterio con la sacristía, y las restantes conectan el templo con una galería anexa. En su interior, los altares del templo —de estilo barroco— son de madera y presentan detalles decorativos en pan de oro. En total son cuatro altares, ubicados en nichos abiertos en los muros. En el primer altar, a la izquierda de la entrada, se encuentra la imagen de “Cristo Pobre”. El segundo altar está dedicado a “San Francisco de Paula”. En el lado de la epístola (lado derecho del templo), los otros dos altares están ocupados respectivamente por la “Virgen del Carmen” y “El Calvario”. El Altar Mayor presenta un tabernáculo de color dorado, y en su parte superior destaca la imagen de la Virgen de la Inmaculada Concepción. El púlpito, de madera tallada, tiene figuras de los cuatro evangelistas, y en la parte superior se encuentra la imagen de San Agustín. A su lado, se exhiben lienzos religiosos de gran tamaño pertenecientes a la escuela ayacuchana, con pasajes de la historia de la Virgen María. En la parte superior del templo se ubica el coro alto, con balaustres de madera, que conserva un melodio, una reliquia con detalles religiosos en su decoración. De este templo sale la procesión de “Cristo Pobre” un miércoles antes de Semana Santa, lo que ha convertido a este evento en parte oficial de la programación de actividades de esas festividades. Dentro del templo se preservan las catacumbas, donde se han encontrado restos óseos de personajes importantes de la historia ayacuchana y del clero. Curiosamente, existen pasadizos cerrados que, según la tradición popular, eran interconexiones con otros templos. Durante la Semana Santa, se habilitan visitas guiadas a las catacumbas del templo, ofreciendo a los visitantes una experiencia única para conocer parte del legado histórico y espiritual de Ayacucho."
+    },
+    {
+      "titulo": "Particularidades",
+      "contenido": "Mediante Ley Nº 9460, de fecha 16 de diciembre de 1941, ha sido Declarado Monumento integrante del Patrimonio Cultural de la Nación."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Buen estado de conservación. Las paredes del recinto tanto externas como internas presentan buen estado de conservación."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "La orden religiosa de los Mínimos llego a Lima en 1646, y en 1713 se registra la fundacion de su templo y convento en Huamanga. El convento era adyacente y tenia un hospicio. El templo fue restaurado entre los años 1942 y 1952."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n5395\nEstadisticas de la DIRCETUR Ayacucho\n2024\nTuristas Nacionales\n211074\nEstadisticas de la DIRCETUR Ayacucho\n2024"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nAyacucho/Huamanga/Ayacucho\n-\nAyacucho/Huamanga/Ayacucho\nPlaza Mayor - Templo San Francisco de Paula\nTerrestre\nA pie\nAsfaltado\n100 metros/3 minutos\n2\nAyacucho/Huamanga/Ayacucho\n-\nAyacucho/Huamanga/Ayacucho\nAeropuerto Nacional Alfredo Mendivil Duarte - Templo San Francisco de Paula\nTerrestre\nTaxi\nAsfaltado\n2,97 km / 9 min\n3\nAyacucho/Huamanga/Ayacucho\n-\nAyacucho/Huamanga/Ayacucho\nTerminal Terrestre Los Libertadores de America - Templo San Francisco de Paula\nTerrestre\nTaxi\nAsfaltado\n3,7 km /13 min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nLas visitas a las catacumbas se realizan solo en Semana Santa con un costo de S/ 5.00 soles tarifa general"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n06:00 a.m.\n-\n09:00 p.m.\nDurante horas de misa y actividades religiosas"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nCultura y Folclore\nActividades Religiosas o Patronales\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\n1 a 3 estrellas en la ciudad de Ayacucho\nAlojamiento\nHostales (especificar categorías)\n1 a 3 estrellas en la ciudad de Ayacucho\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Ayacucho\nAlimentación\nRestaurantes\n1 a 3 tenedores en la ciudad de Ayacucho\nAlimentación\nCafeterías\nCiudad de Ayacucho\nAlimentación\nBares\nCiudad de Ayacucho\nAlimentación\nFuentes de soda\nCiudad de Ayacucho\nAlimentación\nKioskos de comida y bebidas\nCiudad de Ayacucho\nAlimentación\nVenta de comida Rápida\nCiudad de Ayacucho\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Ayacucho\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de Ayacucho\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nGuías con dominio en inglés y quechua en la ciudad de Ayacucho\nOtros Servicios Turísticos\nAlquiler de camionetas 4 x 4\nCiudad de Ayacucho\nServicios Públicos\nMiradores turísticos\nCiudad de Ayacucho\nServicios Públicos\nEstacionamiento de vehículos\nCiudad de Ayacucho\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\nCiudad de Ayacucho\nServicios Públicos\nOficina de Información turística\nCiudad de Ayacucho\nServicios Públicos\nCaminos peatonales\nCiudad de Ayacucho\nServicios Públicos\nMuseo de Sitio Turísticos\nCiudad de Ayacucho"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Ayacucho\nBancos\nCiudad de Ayacucho\nCajero automático\nCiudad de Ayacucho\nCasa de cambio\nCiudad de Ayacucho\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Ayacucho\nServicio de correos\nCiudad de Ayacucho\nServicio de estacionamiento\nCiudad de Ayacucho\nServicios de taxis\nCiudad de Ayacucho\nServicios de salvavidas\nCiudad de Ayacucho\nCentro de salud - tópico\nCiudad de Ayacucho\nVenta de materiales para fotografías\nCiudad de Ayacucho\nSeguridad / POLTUR / Comisaría\nCiudad de Ayacucho\nAlquiler y compra de equipos deportivos\nCiudad de Ayacucho\nLibrerías\nCiudad de Ayacucho\nBodegas o minimarkets\nCiudad de Ayacucho"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\n--\nAlcantarillado sanitario\n--\nLuz (Suministro Eléctrico)\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Ayacucho\nAlcantarillado sanitario\nCiudad de Ayacucho\nLuz (Suministro Eléctrico)\nCiudad de Ayacucho\nTeléfono\nCiudad de Ayacucho\nSeñalización turística\nCiudad de Ayacucho\nAlcantarillado pluvial\nCiudad de Ayacucho"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\n--\nPrivado:\nIglesia Católica\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nDeclaración por el Monseñor Salvador Piñeiro Garcia Calderon - Arzobispo Metropolitano de Ayacucho, donde declara que los templos fueron entregados a la iglesia católica para uso de culto religioso\nAdministrador por\nNombre\nParroquia de San Francisco de Paula\nTiempo de administración\nDesde 1783"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo de Ayacucho\nNombre (Persona(s) responsable(s) del inventario turístico):\nEfraín Walter Gómez López\nCargo:\nEspecialista de Turismo II\nCorreo:\newgl7@hotmail.com\nTeléfono:\n938130971\nFuentes Bibliográfica:\n1.Pío Max (1942) Monumentos Coloniales de Huamanga\n2.Arquitectura Religiosa De Ayacucho - Jesus Vargas\n3.Limaco C. (1961): La ciudad de Ayacucho. Guía para turistas\n4.Revista: Ayacucho Guía práctica para el viajero - PROMPERU, Lima, setiembre de 2023\n5.San Cristóbal S.(1998) Esplendor del barroco en Ayacucho : retablos y arquitectura religiosa en Huamanga.\n6.Angie A (2019) Centro Histórico De Ayacucho, Viviendas Y Arquitectura Religiosa\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n9/07/2025 19:29:49"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -13.159594023860286,
+    "longitud": -74.22728927116395
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-13.159594023860286,-74.22728927116395"
+}

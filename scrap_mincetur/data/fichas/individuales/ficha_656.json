@@ -1,0 +1,236 @@
+{
+  "cod_ficha": 656,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=656",
+  "nombre": "Museo De Sitio Kuntur Wasi",
+  "departamento": "Cajamarca",
+  "provincia": "San Pablo",
+  "distrito": "SAN PABLO",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Museos y otros",
+  "subtipo": "Museos de sitio",
+  "jerarquia": "2",
+  "altitud": "2,273 m.s.n.m.",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=292361",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=292361",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=292364",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=292366",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=538773",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=538774",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=538776",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=538743"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Estudios e Investigación"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Cajamarca/San Pablo/San Pablo - Cajamarca/San Pablo/San Pablo",
+      "detalle": "Desde la plaza de San Pablo hasta el Museo",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "6Km/ 8 minutos"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "196",
+      "horario": "Libro de visita del recurso",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "2286",
+      "horario": "Libro de visita del recurso",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "1547",
+      "horario": "Libro de visita del recurso",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "09:00 a.m. - 05:00 p.m. Atención: de martes a domingo de 9:00 am-17:00pm de abril a diciembre y de 9am-1pm de enero a marzo.",
+      "observaciones": "Atención: de martes a domingo de 9:00 am-17:00pm de abril a diciembre y de 9am-1pm de enero a marzo."
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "arifa: Adultos S/. 10; Universitarios: S/.5; Escolares 2; Extranjeros:12."
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "Hoteles de 1 a 4 Estrellas. Ciudad de Cajamarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Cajamarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Cajamarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Cajamarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "Ciudad de Cajamarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Puesto de auxilio rápido",
+      "observacion": "Ciudad de Cajamarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Ciudad de Cajamarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "De 1º a 3 Estrellas - Ciudad de Cajamarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Ciudad de Cajamarca"
+    }
+  ],
+  "descripcion": "El 15 de octubre de 1994, se inauguró el Museo Kuntur Wasi. Al mismo tiempo los habitantes del centro poblado Menor de Kuntur Wasi organizaron la Asociación Cultural Kuntur Wasi, encargaron al consejo de Administración del Museo (CAM) la dirección de las actividades del museo.\nLa Asociación y CAM desde entonces ha venido cuidando y mejorando el museo con toda sinceridad y diligencia. Han ampliado la sala de oro, construcción de la caseta de guardianía, arreglo de techo del museo, cambio del tejido del museo y el laboratorio, cambio cableado de luz, etc. además de las actividades diarias de la atención al público, mantenimiento del ambiente interior y exterior del museo y han venido cumpliendo los requisitos básicos como museo.\nEl museo Kuntur Wasi, a través de sus actividades, han construido extraordinariamente a elevar la conciencia de autonomía del pueblo y de la protección del monumento arqueológico. El esfuerzo del pueblo ha sido apreciado por las Naciones Unidas como un ejemplo maravilloso de desarrollo humano, siendo apremiado por Andrés Bello de Colombia y condecorado por el congreso de la República del Perú. El pueblo Kuntur Wasi preservo y preservara su museo y el sitio con la antigüedad de los tres milenios.\nEl Museo posee dos plantas, con las siguientes salas exposición: Sala de Origen, Sala de Oro y una Sala de material orgánico. Los servicios con que cuenta son: sala de conferencias, audiovisuales, gabinete de arqueología,\ncasa o residencia del arqueólogo. El museo exhibe objetos de cerámica, metales, textiles, restos líticos, mapas planos, elementos naturales y fotografías de los trabajos de investigación realizados por la Universidad de Tokio.\nEn Descripción del museo, según el manual de inventario le faltan datos como; Tipo de Colección, Descripción de la colección de piezas, Pertenece o no a la Red de Museos del Perú, Estado de conservación de la muestra, Nombre de la Curaduría. En Estado Actual, le falta sustento el por que se encuentra en estado bueno, quien o que institución la mantiene y cuida para que este en ese estado.\nEl Museo de sitio Kuntur Wasi, cuenta con tres salas de exhibición:\nLa primera sala tiene restos de monolito de piedras con caras de felino y cabezas de serpientes. Ostenta de una maqueta, que explica lo que es el complejo arqueológico.\nLa segunda sala, encontramos cuentas de piedra (sodalita, Jasper, conchas, crisolitas). Dentro la cerámica están las compoteras, tazas, fragmentos de cuatro fases (Ídolo, Kuntur Wasi, Copa y Sotera) las botellas, tazas de diversos colores gris fino, rojo grafitado, rojo cobre anaranjado, negro grafitado. Encontramos al Ídolo de barro con cara de felino, lleva un pectoral en el pecho, cinturón y cinta en la cabeza. En la fase Ídolo encontramos una botella de cerámica, en la fase Kuntur Wasi 3 botellas de cerámica, en la fase copa hallamos cerámica en forma de felinos, serpientes, aves y también encontramos a los dijes. En la fase sotera la cerámica es en forma de tejido parecido a la cultura de Cajamarca como la de Layzón y Huacalona. Y en la fase Kuntur Wasi, tenemos al martillo lítico, tupas de hueso de llama.\nEn la tercera sala, encontramos 9 tumbas, la primera tiene 3 coronas de oro una tiene 5 caras de felino, acompañado con sus narigueras y pectorales de oro. En la segunda encontramos la corona de 14 caras humanas, acompañado de 3 caracoles y sus botellas con el diseño de cabeza de cóndor. En la tercera tiene 12 caras de felino de perfil, 2 pares de aretes en forma de mano con 6 dedos y otros aretes en forma de pera y sus orejeras de oro. También cuentan con collares de piedra. En la cuarta tumba encontramos un pectoral de oro y una botella de cerámica de rana. En la quinta tumba encontramos a collares de 7000 piezas entre Jasper, sodalita estas cuentas son de Bolivia, también están las crisolitas, conchas y spondylus. Acompañados de pendientes de oro y plata, vasija de piedra riolita. Tumba 6 (Tumba de orejeras, encontramos a la copotera de",
+  "particularidades": "",
+  "estado_actual": "El museo Kuntur Wasi, se encuentra en muy buenas condiciones, el mismo que ha sido remodelado la Misión Japonesa 2024, y está al cuidado de la Asociación Cultural Kuntur Wasi.(Trabajos: ampliación de la sala de oro, la construcción de la caseta de guardianía, arreglo del techo del museo cambio del tejado del museo y el laboratorio. mantenimiento del ambiente interior y exterior del museo; además cuentan con calefactores y termómetros para mantener la temperatura adecuada de las piezas de oro del museo)",
+  "observaciones": "Se situa en la cima del cerro La Copa, a 2 273 msnm.\nEs el único museo de la provincia de San Pablo.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "El 15 de octubre de 1994, se inauguró el Museo Kuntur Wasi. Al mismo tiempo los habitantes del centro poblado Menor de Kuntur Wasi organizaron la Asociación Cultural Kuntur Wasi, encargaron al consejo de Administración del Museo (CAM) la dirección de las actividades del museo.\nLa Asociación y CAM desde entonces ha venido cuidando y mejorando el museo con toda sinceridad y diligencia. Han ampliado la sala de oro, construcción de la caseta de guardianía, arreglo de techo del museo, cambio del tejido del museo y el laboratorio, cambio cableado de luz, etc. además de las actividades diarias de la atención al público, mantenimiento del ambiente interior y exterior del museo y han venido cumpliendo los requisitos básicos como museo.\nEl museo Kuntur Wasi, a través de sus actividades, han construido extraordinariamente a elevar la conciencia de autonomía del pueblo y de la protección del monumento arqueológico. El esfuerzo del pueblo ha sido apreciado por las Naciones Unidas como un ejemplo maravilloso de desarrollo humano, siendo apremiado por Andrés Bello de Colombia y condecorado por el congreso de la República del Perú. El pueblo Kuntur Wasi preservo y preservara su museo y el sitio con la antigüedad de los tres milenios.\nEl Museo posee dos plantas, con las siguientes salas exposición: Sala de Origen, Sala de Oro y una Sala de material orgánico. Los servicios con que cuenta son: sala de conferencias, audiovisuales, gabinete de arqueología,\ncasa o residencia del arqueólogo. El museo exhibe objetos de cerámica, metales, textiles, restos líticos, mapas planos, elementos naturales y fotografías de los trabajos de investigación realizados por la Universidad de Tokio.\nEn Descripción del museo, según el manual de inventario le faltan datos como; Tipo de Colección, Descripción de la colección de piezas, Pertenece o no a la Red de Museos del Perú, Estado de conservación de la muestra, Nombre de la Curaduría. En Estado Actual, le falta sustento el por que se encuentra en estado bueno, quien o que institución la mantiene y cuida para que este en ese estado.\nEl Museo de sitio Kuntur Wasi, cuenta con tres salas de exhibición:\nLa primera sala tiene restos de monolito de piedras con caras de felino y cabezas de serpientes. Ostenta de una maqueta, que explica lo que es el complejo arqueológico.\nLa segunda sala, encontramos cuentas de piedra (sodalita, Jasper, conchas, crisolitas). Dentro la cerámica están las compoteras, tazas, fragmentos de cuatro fases (Ídolo, Kuntur Wasi, Copa y Sotera) las botellas, tazas de diversos colores gris fino, rojo grafitado, rojo cobre anaranjado, negro grafitado. Encontramos al Ídolo de barro con cara de felino, lleva un pectoral en el pecho, cinturón y cinta en la cabeza. En la fase Ídolo encontramos una botella de cerámica, en la fase Kuntur Wasi 3 botellas de cerámica, en la fase copa hallamos cerámica en forma de felinos, serpientes, aves y también encontramos a los dijes. En la fase sotera la cerámica es en forma de tejido parecido a la cultura de Cajamarca como la de Layzón y Huacalona. Y en la fase Kuntur Wasi, tenemos al martillo lítico, tupas de hueso de llama.\nEn la tercera sala, encontramos 9 tumbas, la primera tiene 3 coronas de oro una tiene 5 caras de felino, acompañado con sus narigueras y pectorales de oro. En la segunda encontramos la corona de 14 caras humanas, acompañado de 3 caracoles y sus botellas con el diseño de cabeza de cóndor. En la tercera tiene 12 caras de felino de perfil, 2 pares de aretes en forma de mano con 6 dedos y otros aretes en forma de pera y sus orejeras de oro. También cuentan con collares de piedra. En la cuarta tumba encontramos un pectoral de oro y una botella de cerámica de rana. En la quinta tumba encontramos a collares de 7000 piezas entre Jasper, sodalita estas cuentas son de Bolivia, también están las crisolitas, conchas y spondylus. Acompañados de pendientes de oro y plata, vasija de piedra riolita. Tumba 6 (Tumba de orejeras, encontramos a la copotera de"
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "El Sitio Kuntur Wasi, es el único que cuenta con una Resolución 000236-2023-VMPCIC-MC."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "El museo Kuntur Wasi, se encuentra en muy buenas condiciones, el mismo que ha sido remodelado la Misión Japonesa 2024, y está al cuidado de la Asociación Cultural Kuntur Wasi.(Trabajos: ampliación de la sala de oro, la construcción de la caseta de guardianía, arreglo del techo del museo cambio del tejado del museo y el laboratorio. mantenimiento del ambiente interior y exterior del museo; además cuentan con calefactores y termómetros para mantener la temperatura adecuada de las piezas de oro del museo)"
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "Se situa en la cima del cerro La Copa, a 2 273 msnm.\nEs el único museo de la provincia de San Pablo."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n196\nLibro de visita del recurso\n2023\nRegistro de visitas al museo\nTuristas Nacionales\n2286\nLibro de visita del recurso\n2023\nRegistro de visitas al museo\nVisitantes Locales(Excursionistas)\n1547\nLibro de visita del recurso\n2023\nRegistro de visitas al museo"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nCajamarca/San Pablo/San Pablo\n-\nCajamarca/San Pablo/San Pablo\nDesde la plaza de San Pablo hasta el Museo\nTerrestre\nAutomóvil particular\nAfirmado\n6Km/ 8 minutos"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\narifa: Adultos S/. 10; Universitarios: S/.5; Escolares 2; Extranjeros:12."
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n09:00 a.m.\n-\n05:00 p.m.\nAtención: de martes a domingo de 9:00 am-17:00pm de abril a diciembre y de 9am-1pm de enero a marzo."
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nEstudios e Investigación\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nAlimentación\nKioskos de comida y bebidas\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\nHoteles de 1 a 4 Estrellas. Ciudad de Cajamarca\nAlimentación\nRestaurantes\nCiudad de Cajamarca\nAlimentación\nKioskos de comida y bebidas\nCiudad de Cajamarca\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Cajamarca\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\nCiudad de Cajamarca\nServicios Públicos\nPuesto de auxilio rápido\nCiudad de Cajamarca\nServicios Públicos\nEstacionamiento de vehículos\nCiudad de Cajamarca\nAlojamiento\nHostales (especificar categorías)\nDe 1º a 3 Estrellas - Ciudad de Cajamarca\nServicios Públicos\nOficina de Información turística\nCiudad de Cajamarca"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Cajamarca\nBancos\nCiudad de Cajamarca\nCajero automático\nCiudad de Cajamarca\nCasa de cambio\nCiudad de Cajamarca\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Cajamarca\nServicio de correos\nCiudad de Cajamarca\nServicios de taxis\nCiudad de Cajamarca\nCentro de salud - tópico\nCiudad de Cajamarca\nVenta de materiales para fotografías\nCiudad de Cajamarca\nSeguridad / POLTUR / Comisaría\nCiudad de Cajamarca\nLibrerías\nCiudad de Cajamarca\nBodegas o minimarkets\nCiudad de Cajamarca"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nPara uso de los visitantes\nDesagüe\nLos SSHH para uso del visitante\nTeléfono\nCiudad de San Pablo"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Cajamarca\nDesagüe\nCiudad de Cajamarca\nLuz (Suministro Eléctrico)\nCiudad de Cajamarca\nTeléfono\nCiudad de Cajamarca"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\n--\nPrivado:\nAsociación Cultural Kuntur Wasi\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nEscritura Pública\nAdministrador por\nNombre\nAmérico García Vargas\nTiempo de administración\nDesde 1994 a 2024 (30 años)."
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo Cajamarca\nNombre (Persona(s) responsable(s) del inventario turístico):\nEsperanza Escobar Portal\nCargo:\nTécnico en Turismo I\nCorreo:\nmescobar@regioncajamarca.gob.pe\nTeléfono:\n962690326\nFuentes Bibliográfica:\n• http://www.i-m.mx/Museo/KunturWasi/\n• https://www.gob.pe/institucion/cultura/noticias/590666-piezas-arqueologicas-de-kuntur-wasi-fueron-expuestas-en-el-museo-britanico-de-londres\n• https://es.scribd.com/document/478012978/RECURSOS-TURSTICOS-SAN-PABLO-pdf.\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n30/06/2025 17:28:47"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -7.125852245363025,
+    "longitud": -78.84157181349184
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-7.125852245363025,-78.84157181349184"
+}

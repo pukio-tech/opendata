@@ -1,0 +1,318 @@
+{
+  "cod_ficha": 2033,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=2033",
+  "nombre": "Castillo Forga",
+  "departamento": "Arequipa",
+  "provincia": "Islay",
+  "distrito": "MOLLENDO",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Arquitectura y Espacios Urbanos",
+  "subtipo": "Castillo",
+  "jerarquia": "2",
+  "altitud": "23 m.s.n.m.",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=290944",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=290944",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=292737",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=295850",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=557129",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=557110"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Arequipa/Arequipa/Jacobo Hunter - Arequipa/Islay/Mollendo",
+      "detalle": "Terrapuerto de Arequipa/Terminal terrestre de Mollendo",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "121km/2h,30 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Arequipa/Islay/Mollendo - Arequipa/Islay/Mollendo",
+      "detalle": "Terminal terrestre de Mollendo/Castillo Forga",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "3.5Km/10 min"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Arequipa/Arequipa/Arequipa - Arequipa/Islay/Mollendo",
+      "detalle": "Plaza de Armas/Castillo Forga",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mini bus turístico",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "133km /2h,40 min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "611",
+      "horario": "OFICIO N°120-2024-MDI/A-GM-GDS",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "607",
+      "horario": "OFICIO N°120-2024-MDI/A-GM-GDS",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "94",
+      "horario": "OFICIO N°120-2024-MDI/A-GM-GDS",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "06:00 a.m. - 06:00 p.m. Solo se puede ver externamente",
+      "observaciones": "Solo se puede ver externamente"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Otros (especificar)",
+      "observaciones": "Ingreso restringido, por el momento solo se visita y se aprecia desde afuera."
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "2 a 3 estrellas en la ciudad de mollendo."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "1 a 3 estrelllas en la ciudad de Mollendo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Mollendo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Mollendo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Mollendo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de Mollendo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Mollendo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Mollendo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Ciudad de Mollendo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Ciudad de Mollendo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Ciudad de Mollendo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Mollendo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Ciudad de Mollendo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "Ciudad de Mollendo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Ciudad de Mollendo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "Ciudad de Mollendo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Museo de Sitio Turísticos",
+      "observacion": "Ciudad de Mollendo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "Ciudad de Mollendo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "Ciudad de Mollendo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de botes",
+      "observacion": "Ciudad de Mollendo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Mollendo"
+    }
+  ],
+  "descripcion": "El Castillo Forga se ubica entre la segunda y tercera playa de Molllendo, se construyó a partir del 24 de julio de 1924, este ícono de la ciudad de Mollendo tiene el área del peñón de 3,500 mts.2 y está a 23 m.s.n.m. su antigüedad de 100 años, es una edificación paladina de aproximadamente 15mt que van de la base a la torre, fue construida por el empresario arequipeño don José Miguel Forga Selinger, fue adquirido el predio del peñón conocido como el polvorín de Meier, que a su vez era ya de propiedad de la Peruvian Corporation Limited, una empresa inglesa concesionaria de los ferrocarriles de Mollendo.\nLa construcción del Castillo Forga fue por etapas, iniciándose a partir de 1924 y se desconoce el año exacto de su culminación.\nPresenta un estilo arquitectónico ecléctico (neogótico, mozárabe y neoclásico), se puede observar una serie de elementos ornamentales como: Modillones en todas sus fachadas; de igual manera presenta cornisas escalonadas; almenas decorativas en la parte superior; arcos neogóticos en el lado norte; torre del homenaje con ajimes en sus ventanales también con fines decorativos; arcos neogóticos, lado norte; monogramas catalanes en la portada principal, lado este; formando en conjunto una peculiar ornamentación arquitectónica. Su distribución en el interior consta de 17 habitaciones en toda la edificación, siete son dormitorios 2 de ellos con baños en el segundo piso, en el primero están el salón de media luna, la biblioteca, un baño, comedor, cocina, dos vestíbulos, el lobby en la parte central, la cocina y el oratorio.\nEra una novedad ver llegar en el convoy de los ferrocarriles que llegaban de Arequipa a una gran cantidad de personas del mundo empresarial, así como familiares de don Miguel Forga, para pasar varias temporadas de verano, los trabajadores ferroviarios que laboraban en Mollendo lo denominaban al castillo como la Casa blanca, debido a los visitantes extranjeros y visitantes de la alta aristocracia arequipeña, se notaba también la presencia de ocasionales políticos de turno, el Castillo Forga reflejaba una versión de la “Belle Epoqué“ limeña aunque apartado de la ciudad, era un enclave notorio que sobresalía de las demás construcciones que el puerto ofrecía, no olvidemos que Mollendo estaba inmerso en el boom portuario del comercio lanero de exportación, era la época dorada y motivo de los grandes avances de la tecnología moderna.\nLa presencia cada vez mas de empresarios de ultramar, de Bolivia y Brasil, el incremento de consulados europeos y agencias aduaneras.\nLamentablemente el crac bursátil de 1929 hace tambalear los negocios y sus empresas de don Miguel Forga, tuvo que vender sus propiedades a la familia Eguren - Frisancho\ny esta a su vez a sus descendientes.\nEl castillo Forga fue el símbolo de grandeza, de bienestar, influencia empresarial de este gran y culto señor, pero también fue su tumba.",
+  "particularidades": "",
+  "estado_actual": "Malo; Toda la infraestructura de este edificio estaría en peligro de colapsar, por la acción del tiempo y el descuido a que estuvo sometido. Se han iniciado las gestiones para su restauración.",
+  "observaciones": "El Castillo Forga de Mollendo es ahora propiedad del Estado, (Municipalidad Provincial de Islay), y para su puesta en valor existe un Patronato Cultural que tiene como objetivo la reconstrucción y recuperación de este monumento histórico.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "El Castillo Forga se ubica entre la segunda y tercera playa de Molllendo, se construyó a partir del 24 de julio de 1924, este ícono de la ciudad de Mollendo tiene el área del peñón de 3,500 mts.2 y está a 23 m.s.n.m. su antigüedad de 100 años, es una edificación paladina de aproximadamente 15mt que van de la base a la torre, fue construida por el empresario arequipeño don José Miguel Forga Selinger, fue adquirido el predio del peñón conocido como el polvorín de Meier, que a su vez era ya de propiedad de la Peruvian Corporation Limited, una empresa inglesa concesionaria de los ferrocarriles de Mollendo.\nLa construcción del Castillo Forga fue por etapas, iniciándose a partir de 1924 y se desconoce el año exacto de su culminación.\nPresenta un estilo arquitectónico ecléctico (neogótico, mozárabe y neoclásico), se puede observar una serie de elementos ornamentales como: Modillones en todas sus fachadas; de igual manera presenta cornisas escalonadas; almenas decorativas en la parte superior; arcos neogóticos en el lado norte; torre del homenaje con ajimes en sus ventanales también con fines decorativos; arcos neogóticos, lado norte; monogramas catalanes en la portada principal, lado este; formando en conjunto una peculiar ornamentación arquitectónica. Su distribución en el interior consta de 17 habitaciones en toda la edificación, siete son dormitorios 2 de ellos con baños en el segundo piso, en el primero están el salón de media luna, la biblioteca, un baño, comedor, cocina, dos vestíbulos, el lobby en la parte central, la cocina y el oratorio.\nEra una novedad ver llegar en el convoy de los ferrocarriles que llegaban de Arequipa a una gran cantidad de personas del mundo empresarial, así como familiares de don Miguel Forga, para pasar varias temporadas de verano, los trabajadores ferroviarios que laboraban en Mollendo lo denominaban al castillo como la Casa blanca, debido a los visitantes extranjeros y visitantes de la alta aristocracia arequipeña, se notaba también la presencia de ocasionales políticos de turno, el Castillo Forga reflejaba una versión de la “Belle Epoqué“ limeña aunque apartado de la ciudad, era un enclave notorio que sobresalía de las demás construcciones que el puerto ofrecía, no olvidemos que Mollendo estaba inmerso en el boom portuario del comercio lanero de exportación, era la época dorada y motivo de los grandes avances de la tecnología moderna.\nLa presencia cada vez mas de empresarios de ultramar, de Bolivia y Brasil, el incremento de consulados europeos y agencias aduaneras.\nLamentablemente el crac bursátil de 1929 hace tambalear los negocios y sus empresas de don Miguel Forga, tuvo que vender sus propiedades a la familia Eguren - Frisancho\ny esta a su vez a sus descendientes.\nEl castillo Forga fue el símbolo de grandeza, de bienestar, influencia empresarial de este gran y culto señor, pero también fue su tumba."
+    },
+    {
+      "titulo": "Particularidades",
+      "contenido": ""
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "Reconocido como monumento Histórico por R.M. Nro. 775-87-INC. del 9 de noviembre de 1987 y R.J. N°348-91-INC/J del 08.03.1991. Es uno de los cuatro castillos republicanos de la costa peruana."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Malo; Toda la infraestructura de este edificio estaría en peligro de colapsar, por la acción del tiempo y el descuido a que estuvo sometido. Se han iniciado las gestiones para su restauración."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "El Castillo Forga de Mollendo es ahora propiedad del Estado, (Municipalidad Provincial de Islay), y para su puesta en valor existe un Patronato Cultural que tiene como objetivo la reconstrucción y recuperación de este monumento histórico."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n611\nOFICIO N°120-2024-MDI/A-GM-GDS\n2024\nCuaderno de registro de visitantes del mes de Enero hasta el mes de Junio 2024.\nTuristas Nacionales\n607\nOFICIO N°120-2024-MDI/A-GM-GDS\n2024\nCuaderno de registro de visitantes del mes de Enero hasta el mes de Junio 2024.\nVisitantes Locales(Excursionistas)\n94\nOFICIO N°120-2024-MDI/A-GM-GDS\n2024\nCuaderno de registro de visitantes del mes de Enero hasta el mes de Junio 2024."
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nArequipa/Arequipa/Jacobo Hunter\n-\nArequipa/Islay/Mollendo\nTerrapuerto de Arequipa/Terminal terrestre de Mollendo\nTerrestre\nBus público\nAsfaltado\n121km/2h,30 min\n1\nArequipa/Islay/Mollendo\n-\nArequipa/Islay/Mollendo\nTerminal terrestre de Mollendo/Castillo Forga\nTerrestre\nAutomóvil particular\nAsfaltado\n3.5Km/10 min\n2\nArequipa/Arequipa/Arequipa\n-\nArequipa/Islay/Mollendo\nPlaza de Armas/Castillo Forga\nTerrestre\nMini bus turístico\nAsfaltado\n133km /2h,40 min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nOtros (especificar)\nIngreso restringido, por el momento solo se visita y se aprecia desde afuera."
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n06:00 a.m.\n-\n06:00 p.m.\nSolo se puede ver externamente"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\n2 a 3 estrellas en la ciudad de mollendo.\nAlojamiento\nHostales (especificar categorías)\n1 a 3 estrelllas en la ciudad de Mollendo\nAlimentación\nRestaurantes\nCiudad de Mollendo\nAlimentación\nKioskos de comida y bebidas\nCiudad de Mollendo\nAlimentación\nCafeterías\nCiudad de Mollendo\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de Mollendo\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Mollendo\nLugares de Recreación\nDiscotecas\nCiudad de Mollendo\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nCiudad de Mollendo\nLugares de Recreación\nJuegos Infantiles\nCiudad de Mollendo\nLugares de Recreación\nCentros Deportivos\nCiudad de Mollendo\nLugares de Recreación\nBares\nCiudad de Mollendo\nAlimentación\nVenta de comida Rápida\nCiudad de Mollendo\nServicios Públicos\nMiradores turísticos\nCiudad de Mollendo\nServicios Públicos\nOficina de Información turística\nCiudad de Mollendo\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\nCiudad de Mollendo\nServicios Públicos\nMuseo de Sitio Turísticos\nCiudad de Mollendo\nServicios Públicos\nCaminos peatonales\nCiudad de Mollendo\nServicios Públicos\nSeñales turísticas de orientación\nCiudad de Mollendo\nOtros Servicios Turísticos\nAlquiler de botes\nCiudad de Mollendo\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Mollendo"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nBancos\nCiudad de Mollendo\nCajero automático\nCiudad de Mollendo\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Mollendo\nServicio de estacionamiento\nCiudad de Mollendo\nServicios de taxis\nCiudad de Mollendo\nCentro de salud - tópico\nCiudad de Mollendo\nSeguridad / POLTUR / Comisaría\nCiudad de Mollendo\nLibrerías\nCiudad de Mollendo\nBodegas o minimarkets\nCiudad de Mollendo\nOtros(especificar)\nCompañia de bomberos"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Mollendo\nAlcantarillado sanitario\nCiudad de Mollendo\nLuz (Suministro Eléctrico)\nCiudad de Mollendo\nSeñalización turística\nCiudad de Mollendo\nTeléfono\nCiudad de Mollendo (movistar, claro,entel y bitel)"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nMunicipalidad Provincial de Islay - Mollendo\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n12016042\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nOPD Patronato Cultural Castillo Forga\nTiempo de administración\nDesde el 2015"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nGerencia Regional de Comercio Exterior y Turismo Arequipa\nNombre (Persona(s) responsable(s) del inventario turístico):\nLic. Claudia Isabel Barrios Cacya\nCargo:\nEspecialista en Turismo\nCorreo:\ncbarrios@correo.regionarequipa.gob.pe.\nTeléfono:\n988099750\nFuentes Bibliográfica:\nEl Castillo Forga, Guillermo Coloma Elías, Instituto Latinoamericano De Cultura Y Desarrollo, Lima 2008.*Mollendo,\nHistoria, Tradición Y Desarrollo, Uriel Pérez Calderón 2001 (Pag. 192)\nUn Capricho Llamado Mollendo, Bernardino Rodríguez C. Primera Edición 2003 (Pag.281).\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\nLevantamientos topográficos, levantamiento arquitectónico, análisis de suelos, análisis de estructuras.\nFecha:\n2/09/2024 12:21:00"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -17.033315295925423,
+    "longitud": -72.00837761163706
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-17.033315295925423,-72.00837761163706"
+}

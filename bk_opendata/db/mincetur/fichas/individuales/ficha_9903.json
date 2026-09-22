@@ -1,0 +1,374 @@
+{
+  "cod_ficha": 9903,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=9903",
+  "nombre": "Laguna Yuraccocha",
+  "departamento": "Junín",
+  "provincia": "Huancayo",
+  "distrito": "CHONGOS ALTO",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "g. Cuerpo de Agua",
+  "subtipo": "Lagunas",
+  "jerarquia": "1",
+  "altitud": "4613",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=573541",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=573541",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=573542",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=573591",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=573543",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=573544",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=573592",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=573545",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=573546",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=573593",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=573594",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=573548",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=573549"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Estudios e Investigación",
+    "Naturaleza - Observación de fauna",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de paisaje",
+    "Deportes / Aventura - Caminata/Trekking"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de fauna",
+      "observacion": "Zorro, zorrino, gato andino, vicuña, puma, ovinos, alpacas, truchas, challhuas, pato puna, pato silvestre, gallareta, huashua y condor.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fauna02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "Hualajo, huamanpinta, ortiga colorada, yareta, ichu, flores silvestres y otras gramíneas de los géneros Festuca y Calamagrostis.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Junín/Huancayo/Huancayo - Junín/Huancayo/Chicche",
+      "detalle": "Plaza Constitución de Huancayo - Chupuro -Anexo de Vista Alegre (distrito de Chicche)",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "48 Km / 1 hora."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Junín/Huancayo/Chicche - Junín/Huancayo/Chongos Alto",
+      "detalle": "Anexo de Vista Alegre (distrito de Chicche) - Mirador Gorila Canipaco",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "18.7 Km / 30 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Junín/Huancayo/Chongos Alto - Junín/Huancayo/Chongos Alto",
+      "detalle": "Mirador Gorila Canipaco - Laguna Yuraccocha",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "16.2 Km / 30 min."
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "270",
+      "horario": "Conteo muestral de visitas a recurso turistico",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "6210",
+      "horario": "Conteo muestral de visitas a recurso turistico",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Esporádicamente - Algunos meses",
+      "especificacion": "--",
+      "horario": "09:00 a.m. - 04:00 p.m. Son recomendables los meses de mayo a noviembre porque corresponden a los periodos de baja precipitación pluvial en la zona andina.",
+      "observaciones": "Son recomendables los meses de mayo a noviembre porque corresponden a los periodos de baja precipitación pluvial en la zona andina."
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "4 estrellas en la Ciudad de Huancayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "3 estrellas en la Ciudad de Huancayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Huancayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Huancayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Huancayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Huancayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Ciudad de Huancayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Huancayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Ciudad de Huancayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Huancayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de Huancayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de bicicleta",
+      "observacion": "Ciudad de Huancayo - Jasva Tours (Cel.: 993 560 367)."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de camionetas 4 x 4",
+      "observacion": "Ciudad de Huancayo - VIP CAR (Cel.: 982 083 835)"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Huancayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Peñas",
+      "observacion": "Ciudad de Huancayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Cines o Teatros",
+      "observacion": "Ciudad de Huancayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Ciudad de Huancayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Ciudad de Huancayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "Ciudad de Huancayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Huancayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Ciudad de Huancayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "Ciudad de Huancayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Ciudad de Huancayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "Ciudad de Huancayo"
+    }
+  ],
+  "descripcion": "Ubicada en las faldas del Cerro Wakravilca (apu tutelar y/o dios prehispánico de la cultura “Chuncu”), este cuerpo de agua llamado Yuraccocha se encuentra en el piso ecológico altitudinal de Puna o Jalca (Javier Pulgar Vidal) tiene un área total de 16.46 hectáreas con un perímetro de 1.88 kilómetros y una profundidad máxima de 17 metros. Es una de laguna de origen glaciar, es decir, se formó al final de la última edad de hielo (110,000 a.C. – 10,000 a.C.); posee una combinación de riveras rocosas con tramos de arenisca y presencia mayoritaria de ichu (Stipa Ichu) y otras gramíneas de apariencia similar de los géneros Stipa, Festuca y Calamagrostis, las cuales sirven de sustento a los rebaños de ganado vacuno, equino y ovino que pastan en sus alrededores; sus aguas tienen una temperatura promedio anual de 12ºC pero que pueden bajar a menos de 0°C durante las noches y madrugadas de los meses de julio y agosto; en consecuencia predomina un clima frío con elevada sequedad atmosférica, es algo calurosa durante el día y bastante fría en la noche; asimismo, suele presentar precipitaciones estivales de lluvia, granizo y nieve de diciembre a abril, especialmente en enero y febrero (llamado también invierno andino), lo que determina un clima húmedo en esta época del año. A nivel de fauna, en su entorno se pueden observar mamíferos como la vizcacha (Lagidium viscacia), zorro andino o “atoq” (Lycalopex culpaeus), zorrino (Conepatus chinga rex), vicuña (vicugna vicugna), gato andino en su variante dorada y ploma (Leopardus jacobita) y puma (Puma concolor), también algunas veces alpacas (Vicugna pacos); a nivel de fauna ictiológica, en la laguna se pueden encontrar trucha (Oncorhynchus mykiss) y la challhua (Orestias empyraeus), y a nivel de avifauna destacan la gallareta (Fulica ardesiaca), huashua (Chloephaga melanoptera), pato puna (Anas puna), pato silvestre (Anas platyrhynchos) y avistamientos ocasionales del cóndor (Vultur gryphus). A nivel de flora presente en el lugar se observan plantas endémicas de la zona andina como el hualajo o huajuro (Austrocylindropuntia floccosa), huamanpinta (Chuquiraga spinosa Less), ortiga colorada (Caiophora cirsiifolia C.), yareta (Azorella compacta) y pequeñas flores silvestres; también se advierte la presencia de musgos como la Ochrolechia upsaliensis (un género de líquenes perteneciente al subgénero de Lecanorineae), así como de la Xanthoria parietina, el cual es un liquen foliáceo, de color anaranjado vivo y cuya presencia se extiende entre las rocas del lugar. A nivel de modificaciones realizadas por el hombre, la laguna presenta un represamiento mediante dique en su extremo noroeste, resultado de proyectos realizados en la última década orientados a un mayor aprovechamiento de su potencial hídrico para irrigación de tierras en la parte baja de la cuenca; en sus orillas se puede efectuar pesca de truchas, así como la observación de avifauna acuática. Esta laguna si bien se encuentra alejada de la población, podría ser parte de un recorrido turístico mayor junto al cerro Wakravilca y otros recursos turísticos cercanos como las lagunas de Balsacocha y Llacsacocha o miradores naturales como el vigía de Yana Ulo, el cerro Gorila y el Cerro Librillón de Leo Ulo, todos estos recursos se encuentran dentro del mismo área, y podrían complementarse por su belleza paisajística, presencia de flora y fauna nativa, su combinación de historia y cosmovisión andina, destinado para la práctica de caminatas o trekking.",
+  "particularidades": "",
+  "estado_actual": "Se encuentra en buen estado de conservación, sin rastro de residuos solidos en sus riveras, esto debido a la limpieza que le brindan los pastores que llevan a su ganado a pastear a la zona.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Ubicada en las faldas del Cerro Wakravilca (apu tutelar y/o dios prehispánico de la cultura “Chuncu”), este cuerpo de agua llamado Yuraccocha se encuentra en el piso ecológico altitudinal de Puna o Jalca (Javier Pulgar Vidal) tiene un área total de 16.46 hectáreas con un perímetro de 1.88 kilómetros y una profundidad máxima de 17 metros. Es una de laguna de origen glaciar, es decir, se formó al final de la última edad de hielo (110,000 a.C. – 10,000 a.C.); posee una combinación de riveras rocosas con tramos de arenisca y presencia mayoritaria de ichu (Stipa Ichu) y otras gramíneas de apariencia similar de los géneros Stipa, Festuca y Calamagrostis, las cuales sirven de sustento a los rebaños de ganado vacuno, equino y ovino que pastan en sus alrededores; sus aguas tienen una temperatura promedio anual de 12ºC pero que pueden bajar a menos de 0°C durante las noches y madrugadas de los meses de julio y agosto; en consecuencia predomina un clima frío con elevada sequedad atmosférica, es algo calurosa durante el día y bastante fría en la noche; asimismo, suele presentar precipitaciones estivales de lluvia, granizo y nieve de diciembre a abril, especialmente en enero y febrero (llamado también invierno andino), lo que determina un clima húmedo en esta época del año. A nivel de fauna, en su entorno se pueden observar mamíferos como la vizcacha (Lagidium viscacia), zorro andino o “atoq” (Lycalopex culpaeus), zorrino (Conepatus chinga rex), vicuña (vicugna vicugna), gato andino en su variante dorada y ploma (Leopardus jacobita) y puma (Puma concolor), también algunas veces alpacas (Vicugna pacos); a nivel de fauna ictiológica, en la laguna se pueden encontrar trucha (Oncorhynchus mykiss) y la challhua (Orestias empyraeus), y a nivel de avifauna destacan la gallareta (Fulica ardesiaca), huashua (Chloephaga melanoptera), pato puna (Anas puna), pato silvestre (Anas platyrhynchos) y avistamientos ocasionales del cóndor (Vultur gryphus). A nivel de flora presente en el lugar se observan plantas endémicas de la zona andina como el hualajo o huajuro (Austrocylindropuntia floccosa), huamanpinta (Chuquiraga spinosa Less), ortiga colorada (Caiophora cirsiifolia C.), yareta (Azorella compacta) y pequeñas flores silvestres; también se advierte la presencia de musgos como la Ochrolechia upsaliensis (un género de líquenes perteneciente al subgénero de Lecanorineae), así como de la Xanthoria parietina, el cual es un liquen foliáceo, de color anaranjado vivo y cuya presencia se extiende entre las rocas del lugar. A nivel de modificaciones realizadas por el hombre, la laguna presenta un represamiento mediante dique en su extremo noroeste, resultado de proyectos realizados en la última década orientados a un mayor aprovechamiento de su potencial hídrico para irrigación de tierras en la parte baja de la cuenca; en sus orillas se puede efectuar pesca de truchas, así como la observación de avifauna acuática. Esta laguna si bien se encuentra alejada de la población, podría ser parte de un recorrido turístico mayor junto al cerro Wakravilca y otros recursos turísticos cercanos como las lagunas de Balsacocha y Llacsacocha o miradores naturales como el vigía de Yana Ulo, el cerro Gorila y el Cerro Librillón de Leo Ulo, todos estos recursos se encuentran dentro del mismo área, y podrían complementarse por su belleza paisajística, presencia de flora y fauna nativa, su combinación de historia y cosmovisión andina, destinado para la práctica de caminatas o trekking."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Se encuentra en buen estado de conservación, sin rastro de residuos solidos en sus riveras, esto debido a la limpieza que le brindan los pastores que llevan a su ganado a pastear a la zona."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Nacionales\n270\nConteo muestral de visitas a recurso turistico\n2024\nRegistro realizado los días sábados 6, 13, 20 y 27 de octubre de 2024\nVisitantes Locales(Excursionistas)\n6210\nConteo muestral de visitas a recurso turistico\n2024\nRegistro realizado los días sábados 6, 13, 20 y 27 de octubre de 2024"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nJunín/Huancayo/Huancayo\n-\nJunín/Huancayo/Chicche\nPlaza Constitución de Huancayo - Chupuro -Anexo de Vista Alegre (distrito de Chicche)\nTerrestre\nAutomóvil particular\nAsfaltado\n48 Km / 1 hora.\n1\nJunín/Huancayo/Chicche\n-\nJunín/Huancayo/Chongos Alto\nAnexo de Vista Alegre (distrito de Chicche) - Mirador Gorila Canipaco\nTerrestre\nAutomóvil particular\nAfirmado\n18.7 Km / 30 min.\n1\nJunín/Huancayo/Chongos Alto\n-\nJunín/Huancayo/Chongos Alto\nMirador Gorila Canipaco - Laguna Yuraccocha\nTerrestre\nAutomóvil particular\nAfirmado\n16.2 Km / 30 min."
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nEsporádicamente - Algunos meses\n--\n09:00 a.m.\n-\n04:00 p.m.\nSon recomendables los meses de mayo a noviembre porque corresponden a los periodos de baja precipitación pluvial en la zona andina."
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nEstudios e Investigación\n--\nNaturaleza\nObservación de fauna\nZorro, zorrino, gato andino, vicuña, puma, ovinos, alpacas, truchas, challhuas, pato puna, pato silvestre, gallareta, huashua y condor.\nNaturaleza\nObservación de flora\nHualajo, huamanpinta, ortiga colorada, yareta, ichu, flores silvestres y otras gramíneas de los géneros Festuca y Calamagrostis.\nNaturaleza\nObservación de paisaje\n--\nDeportes / Aventura\nCaminata/Trekking\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Públicas\nServicios Públicos\nEstacionamiento de vehículos\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\n4 estrellas en la Ciudad de Huancayo\nAlojamiento\nHostales (especificar categorías)\n3 estrellas en la Ciudad de Huancayo\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Huancayo\nAlimentación\nRestaurantes\nCiudad de Huancayo\nAlimentación\nBares\nCiudad de Huancayo\nAlimentación\nCafeterías\nCiudad de Huancayo\nAlimentación\nFuentes de soda\nCiudad de Huancayo\nAlimentación\nKioskos de comida y bebidas\nCiudad de Huancayo\nAlimentación\nVenta de comida Rápida\nCiudad de Huancayo\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Huancayo\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de Huancayo\nOtros Servicios Turísticos\nAlquiler de bicicleta\nCiudad de Huancayo - Jasva Tours (Cel.: 993 560 367).\nOtros Servicios Turísticos\nAlquiler de camionetas 4 x 4\nCiudad de Huancayo - VIP CAR (Cel.: 982 083 835)\nLugares de Recreación\nDiscotecas\nCiudad de Huancayo\nLugares de Recreación\nPeñas\nCiudad de Huancayo\nLugares de Recreación\nCines o Teatros\nCiudad de Huancayo\nLugares de Recreación\nJuegos Infantiles\nCiudad de Huancayo\nLugares de Recreación\nCentros Deportivos\nCiudad de Huancayo\nLugares de Recreación\nKaraoke\nCiudad de Huancayo\nLugares de Recreación\nBares\nCiudad de Huancayo\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nCiudad de Huancayo\nServicios Públicos\nMiradores turísticos\nCiudad de Huancayo\nServicios Públicos\nEstacionamiento de vehículos\nCiudad de Huancayo\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\nCiudad de Huancayo"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Huancayo\nBancos\nCiudad de Huancayo\nCajero automático\nCiudad de Huancayo\nCasa de cambio\nCiudad de Huancayo\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Huancayo\nServicio de correos\nCiudad de Huancayo\nServicio de estacionamiento\nCiudad de Huancayo\nServicios de taxis\nCiudad de Huancayo\nVenta de materiales para fotografías\nCiudad de Huancayo\nLibrerías\nCiudad de Huancayo\nBodegas o minimarkets\nCiudad de Huancayo\nCentro de salud - tópico\nPueblo de Chongos Alto y Ciudad de Huancayo\nSeguridad / POLTUR / Comisaría\nPueblo de Chongos Alto y Ciudad de Huancayo"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Huancayo\nAlcantarillado sanitario\nCiudad de Huancayo\nLuz (Suministro Eléctrico)\nCiudad de Huancayo\nTeléfono\nCiudad de Huancayo\nAlcantarillado pluvial\nCiudad de Huancayo"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\n--\nPrivado:\nSociedad Agrícola de Interés Social - SAIS Cahuide (Predio Canipaco).\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nNúmero de Partida:\n02023117\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\n07 Comunidades Campesinas socias de la Ex SAIS Cahuide\nTiempo de administración\nDesde el año 1988."
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo Junín\nNombre (Persona(s) responsable(s) del inventario turístico):\nLic. Gregoria Flores Loaiza\nCargo:\nEspecialista en Turismo\nCorreo:\nfloresloaiza@yahoo.es\nTeléfono:\n948992261\nFuentes Bibliográfica:\nPlan de Desarrollo Concertado del Distrito de Chongos Alto 2013-2021. Municipalidad Distrital de Chongos Alto (2012).\nLaguna Yuraccocha:\nhttps://www.turismoperuano.com/laguna-yuraccocha-junin\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\nEl año 2014, la MD Chongos Alto, aperturó una trocha carrozable que una la vía principal afirmada con la laguna y cerro Wakravilca, mejorando su accesibilidad.\nFecha:\n3/12/2024 15:43:29"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -12.45862,
+    "longitud": -75.41496999999998
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-12.45862,-75.41496999999998"
+}

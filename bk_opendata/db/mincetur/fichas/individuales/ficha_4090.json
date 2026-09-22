@@ -1,0 +1,323 @@
+{
+  "cod_ficha": 4090,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=4090",
+  "nombre": "Baños Termales De Luicho",
+  "departamento": "Arequipa",
+  "provincia": "La Union",
+  "distrito": "HUAYNACOTAS",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "k. Agua termo-mineral",
+  "subtipo": "Otros",
+  "jerarquia": "POR JERARQUIZAR",
+  "altitud": "2.722 m.s.n.m",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=611267",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=611267",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=611246",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=611268",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=611425",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=611426",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=611427",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=611449"
+  ],
+  "actividades_permitidas": [
+    "Otros - Compras de artesanía/souvenir",
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Estudios e Investigación",
+    "Naturaleza - Observación de fauna",
+    "Naturaleza - Observación de paisaje",
+    "Paseos - Paseos a caballo",
+    "Otros - Compra de productos regionales"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Compras de artesanía/souvenir",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/artesania02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de fauna",
+      "observacion": "Animales de la zona y patos de los torrentes",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fauna02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Paseos",
+      "tipo": "Paseos a caballo",
+      "observacion": "Es ofertado por emprendimientos de la zona",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paseo_caballo02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Compra de productos regionales",
+      "observacion": "--",
+      "icono_url": null
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Arequipa/Arequipa/Jacobo Hunter - Arequipa/Condesuyos/Chuquibamba",
+      "detalle": "Terminal Terrestre de Arequipa- Terminal de Chuquibamba",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "4 hrs 20 min/ 225 km"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Arequipa/Condesuyos/Chuquibamba - Arequipa/La Unión/Cotahuasi",
+      "detalle": "Terminal terrestre de Chuquibamba- Terminal de Buses Cotahuasi",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus público",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "3 hrs/ 145 km"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Arequipa/La Unión/Cotahuasi - Arequipa/La Unión/Huaynacotas",
+      "detalle": "Terminal de Buses de Cotahuasi - Baños Termales de Luicho",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus público",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "32 km/17 min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "80",
+      "horario": "Oficio Nro 210-2025-MDH-ALC",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "400",
+      "horario": "Oficio Nro 210-2025-MDH-ALC",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "700",
+      "horario": "Oficio Nro 210-2025-MDH-ALC",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "04:00 a.m. - 11:00 p.m. --",
+      "observaciones": "--"
+    },
+    {
+      "epoca": "Personas con discapacidad física",
+      "especificacion": "Rampas",
+      "horario": "--",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "Piscina N°1 entrada 4.00 soles Piscina N°2 entrada 5 .00 soles Piscina N°3 entrada 7.00 soles"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "En la localidad de Cotahuasi"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "En la localidad de Cotahuasi"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "En la localidad de Cotahuasi"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Español- Ingles Básico. En la localidad de Cotahuasi"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "En la localidad de Cotahuasi"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "En la localidad de Cotahuasi"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "1 estrella. En la localidad de Cotahuasi"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "En la localidad de Cotahuasi"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Casas hospedaje. En la localidad de Cotahuasi"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "En la localidad de Cotahuasi"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "En la localidad de Cotahuasi"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "En la localidad de Cotahuasi"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Puesto de auxilio rápido",
+      "observacion": "En la localidad de Cotahuasi"
+    }
+  ],
+  "descripcion": "Ubicado en el distrito de Huaynacotas, a 2 horas y 17 km de Cotahuasi y a 2 km del pueblo de Alca, se encuentran los baños termales de Luicho, conocidos por sus propiedades medicinales y relajantes.\nEste recurso turístico se sitúa en la ribera del río Cotahuasi. La temperatura de sus aguas, que brotan del cerro del mismo nombre, varía entre 33 °C y 38 °C. El complejo cuenta con puntos de captación de las aguas provenientes del río Cotahuasi, las cuales son conducidas a través de un canal. Las aguas de los baños de Luicho pertenecen a la familia de aguas bicarbonatadas y afloran en depósitos aluviales sobreyacentes a la formación Arcurquina y/o a intrusivos terciarios. Por sus propiedades medicinales, se recomiendan para personas que padecen dolencias como reumatismo, artritis, atrofias musculares, estrés, entre otras. Actualmente, este recurso no cuenta con certificado emitido por el Instituto Geológico, Minero y Metalúrgico (INGEMMET).\nEl complejo dispone de dos pozas al aire libre y una cerrada, con un aforo de entre 90 y 100 personas, además de otros servicios como duchas de agua caliente, vestuarios para damas y varones, servicios higiénicos, casilleros numerados, dos zonas de estacionamiento, un establecimiento de alimentación, restaurantes y hospedajes en los alrededores, así como un área de información y boletería.",
+  "particularidades": "",
+  "estado_actual": "Bueno, la municipalidad distrital realiza el mantenimiento necesario",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Ubicado en el distrito de Huaynacotas, a 2 horas y 17 km de Cotahuasi y a 2 km del pueblo de Alca, se encuentran los baños termales de Luicho, conocidos por sus propiedades medicinales y relajantes.\nEste recurso turístico se sitúa en la ribera del río Cotahuasi. La temperatura de sus aguas, que brotan del cerro del mismo nombre, varía entre 33 °C y 38 °C. El complejo cuenta con puntos de captación de las aguas provenientes del río Cotahuasi, las cuales son conducidas a través de un canal. Las aguas de los baños de Luicho pertenecen a la familia de aguas bicarbonatadas y afloran en depósitos aluviales sobreyacentes a la formación Arcurquina y/o a intrusivos terciarios. Por sus propiedades medicinales, se recomiendan para personas que padecen dolencias como reumatismo, artritis, atrofias musculares, estrés, entre otras. Actualmente, este recurso no cuenta con certificado emitido por el Instituto Geológico, Minero y Metalúrgico (INGEMMET).\nEl complejo dispone de dos pozas al aire libre y una cerrada, con un aforo de entre 90 y 100 personas, además de otros servicios como duchas de agua caliente, vestuarios para damas y varones, servicios higiénicos, casilleros numerados, dos zonas de estacionamiento, un establecimiento de alimentación, restaurantes y hospedajes en los alrededores, así como un área de información y boletería."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, la municipalidad distrital realiza el mantenimiento necesario"
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n80\nOficio Nro 210-2025-MDH-ALC\n2024\nReporte de la Municipalidad Distrital de Huaynacotas\nTuristas Nacionales\n400\nOficio Nro 210-2025-MDH-ALC\n2024\nReporte de la Municipalidad distrital de Huaynacotas\nVisitantes Locales(Excursionistas)\n700\nOficio Nro 210-2025-MDH-ALC\n2024\nReporte Municipalidad Distrital de Huaynacotas"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nArequipa/Arequipa/Jacobo Hunter\n-\nArequipa/Condesuyos/Chuquibamba\nTerminal Terrestre de Arequipa- Terminal de Chuquibamba\nTerrestre\nBus público\nAsfaltado\n4 hrs 20 min/ 225 km\n1\nArequipa/Condesuyos/Chuquibamba\n-\nArequipa/La Unión/Cotahuasi\nTerminal terrestre de Chuquibamba- Terminal de Buses Cotahuasi\nTerrestre\nBus público\nAfirmado\n3 hrs/ 145 km\n1\nArequipa/La Unión/Cotahuasi\n-\nArequipa/La Unión/Huaynacotas\nTerminal de Buses de Cotahuasi - Baños Termales de Luicho\nTerrestre\nBus público\nAfirmado\n32 km/17 min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nPiscina N°1 entrada 4.00 soles\nPiscina N°2 entrada 5 .00 soles\nPiscina N°3 entrada 7.00 soles"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n04:00 a.m.\n-\n11:00 p.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nCompras de artesanía/souvenir\n--\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nEstudios e Investigación\n--\nNaturaleza\nObservación de fauna\nAnimales de la zona y patos de los torrentes\nNaturaleza\nObservación de paisaje\n--\nPaseos\nPaseos a caballo\nEs ofertado por emprendimientos de la zona\nOtros\nCompra de productos regionales\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nAlimentación\nKioskos de comida y bebidas\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nLugares de Recreación\nJuegos Infantiles\nEn la localidad de Cotahuasi\nLugares de Recreación\nCentros Deportivos\nEn la localidad de Cotahuasi\nOtros Servicios Turísticos\nVenta de artesanía\nEn la localidad de Cotahuasi\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nEspañol- Ingles Básico. En la localidad de Cotahuasi\nAlimentación\nRestaurantes\nEn la localidad de Cotahuasi\nAlimentación\nKioskos de comida y bebidas\nEn la localidad de Cotahuasi\nAlojamiento\nHoteles (especificar categorías)\n1 estrella. En la localidad de Cotahuasi\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nEn la localidad de Cotahuasi\nAlojamiento\nOtros (Especificar)\nCasas hospedaje. En la localidad de Cotahuasi\nServicios Públicos\nMiradores turísticos\nEn la localidad de Cotahuasi\nServicios Públicos\nEstacionamiento de vehículos\nEn la localidad de Cotahuasi\nServicios Públicos\nOficina de Información turística\nEn la localidad de Cotahuasi\nServicios Públicos\nPuesto de auxilio rápido\nEn la localidad de Cotahuasi"
+    },
+    {
+      "titulo": "Servicios Complementarios dentro del recurso",
+      "contenido": "Servicio Complementario\nObservación\nServicio de estacionamiento\n--"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nEn la localidad de Cotahuasi\nBancos\nEn la localidad de Cotahuasi\nEstación de servicios, grifos, gasolineras y gasocentros\nEn la localidad de Cotahuasi\nServicio de estacionamiento\nEn la localidad de Cotahuasi\nCentro de salud - tópico\nEn la localidad de Cotahuasi\nSeguridad / POLTUR / Comisaría\nEn la localidad de Cotahuasi\nOtros(especificar)\nTiendas, en la localidad de Cotahuasi"
+    },
+    {
+      "titulo": "Condiciones de Accesibilidad al Visitante",
+      "contenido": "Visitante\nInstalación\nActividades y/o programas\nEquipamiento\nObservación\nPersonas con discapacidad física\nRampas\n--\n--\nRampas acondicionadas en ingresos"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\n--\nLuz (Suministro Eléctrico)\n--\nTeléfono\n--\nSeñalización turística\n--\nAlcantarillado sanitario\n--\nSistemas de tratamiento alternativo de residuos (Biodigestor, pozo séptico, otros)\nBiodigestor cercano a los Baños"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nEn la localidad de Cotahuasi\nLuz (Suministro Eléctrico)\nEn la localidad de Cotahuasi\nTeléfono\nEn la localidad de Cotahuasi\nAlcantarillado sanitario\nEn la localidad de Cotahuasi\nSeñalización turística\nEn la localidad de Cotahuasi"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nMunicipalidad Distrital de Huaynacotas\nPrivado:\nComunidad Campesina de San Jose de Luicho\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nNúmero de Partida:\n04031354\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nA traves de acuerdos entre la Comundiad Campesina y la Municipalidad se cedio la administracion de los baños al Gobierno Local a tarvesd e la Escritura Publica Nro 1814\nAdministrador por\nNombre\nMunicipalidad Distrital de Huaynacotas\nTiempo de administración\nDesde el año 2015"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nGerencia Regional de Comercio Exterior y Turismo de Arequipa\nNombre (Persona(s) responsable(s) del inventario turístico):\nLic. Claudia Barrios Cacya\nCargo:\nEspecialista en Turismo\nCorreo:\ncbarrios@correo.regionarequipa.gob.pe\nTeléfono:\n98809975\nFuentes Bibliográfica:\nBaños termales de Luicho (Huaynacotas) | Lugares turísticos, Y tú que planes? https://www.ytuqueplanes.com/destinos/arequipa/valle-y-canon-de-cotahuasi/banos-termales-de-luicho-huaynacotas\n“EVALUACIÓN DE LOS PRINCIPALES RECURSOS TURISTICOS DEL DISTRITO DE HUAYNACOTAS – LA UNION-AREQUIPA Y SU\nRELACIÓN CON UN TURISMO SOSTENIBLE 2012”MILAGROS MERCEDES SOLIS ORTEGA, Universidad Catolica de Santa María\nINVENTARIO DE LOS RECURSOS NATURALES Y ECODEPORTIVOSDEL CAÑÓN DE COTAHUASI, LA UNIÓN – AREQUIPA, Universidad Nacional Federico Villarreal, James Posso Sanchez, 2023\nPlan de Protección, Conservación, Promoción y Desarrollo Turístico del Cañón de Cotahuasi y de su Zona de Influencia, 2018\nHidrotermalismo en el sur del Perú-sector Cailloma-Puquio, Klaus Steinmüller, Segundo Núñez Juárez, 1998\nHistoria y Cultura de la Provincia de La Unión, GJ Gómez, 2010, Arequipa: UCSM\nMaterial Audiovisual actual del Recurso:\nFOTO, OTROS\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n11/08/2025 15:27:07"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -15.143435904847776,
+    "longitud": -72.78413414955139
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-15.143435904847776,-72.78413414955139"
+}

@@ -1,0 +1,373 @@
+{
+  "cod_ficha": 3582,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=3582",
+  "nombre": "Laguna Mancapozo",
+  "departamento": "Huánuco",
+  "provincia": "Huanuco",
+  "distrito": "AMARILIS",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "g. Cuerpo de Agua",
+  "subtipo": "Lagunas",
+  "jerarquia": "1",
+  "altitud": "3725",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=508450",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=508450",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=508484",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=508485",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=508993",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=508994",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=508995",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=508946",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=508950"
+  ],
+  "actividades_permitidas": [
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de paisaje",
+    "Naturaleza - Observación de aves",
+    "Cultura y Folclore - Rituales místicos o tradicionales",
+    "Cultura y Folclore - Degustación y preparación de platos, productos o bebidas típicas",
+    "Paseos - Paseos en bote",
+    "Paseos - Paseos a caballo"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "Helechos, flore, plantas medicinales, zarzamoras, gongapas y piñas silvestres.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de aves",
+      "observacion": "Colibrí, perdiz, gorrión y zorzal.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/aves02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Rituales místicos o tradicionales",
+      "observacion": "Lectura de coca",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/rituales_misticos02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Degustación y preparación de platos, productos o bebidas típicas",
+      "observacion": "Sólo las fechas que se realizan los eventos de aniversario del distrito",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/platos_tipicos02.png"
+    },
+    {
+      "actividad": "Paseos",
+      "tipo": "Paseos en bote",
+      "observacion": "Con reserva y en festividades del aniversario del distrito",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paseo_bote02.png"
+    },
+    {
+      "actividad": "Paseos",
+      "tipo": "Paseos a caballo",
+      "observacion": "Desde la Hacienda Shismay y previa reserva",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paseo_caballo02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Huánuco/Huánuco/Huanuco - Huánuco/Huánuco/Amarilis",
+      "detalle": "Plaza de Armas - La Esperanza (Subida a Malconga)",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "7 km / 17 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Huánuco/Huánuco/Huanuco - Huánuco/Huánuco/Huanuco",
+      "detalle": "Plaza de Armas - La Esperanza (Subida a Malconga)",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Camioneta doble tracción",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "7 km / 17 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Huánuco/Huánuco/Amarilis - Huánuco/Huánuco/Amarilis",
+      "detalle": "La Esperanza (Subida a Malconga) - CP Paucar",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "15 Km / 25 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Huánuco/Huánuco/Huanuco - Huánuco/Huánuco/Amarilis",
+      "detalle": "La Esperanza (Subida a Malconga) - CP Paucar",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Camioneta doble tracción",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "15 km / 38 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Huánuco/Huánuco/Amarilis - Huánuco/Huánuco/Amarilis",
+      "detalle": "CP Paucar - Desvío Paraquencho",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Camioneta doble tracción",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "15 km / 45 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Huánuco/Huánuco/Amarilis - Huánuco/Huánuco/Amarilis",
+      "detalle": "Dersvío Paraquencho - Laguna Manca Pozo",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Camioneta doble tracción",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "5 km / 14 minutos"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Huánuco/Huánuco/Huanuco - Huánuco/Huánuco/Amarilis",
+      "detalle": "Plaza de Armas - La Esperanza (Subida a Malconga)",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "7 km / 17 minutos"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Huánuco/Huánuco/Huanuco - Huánuco/Huánuco/Amarilis",
+      "detalle": "La Esperanza (Subida a Malconga) - Hacienda Shismay",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "17 km / 50 minutos"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Huánuco/Huánuco/Amarilis - Huánuco/Huánuco/Amarilis",
+      "detalle": "Hacienda Shismay - Laguna Manca Pozo",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A caballo",
+      "tipo_via": "Camino de Herradura",
+      "distancia_tiempo": "14 km / 1 hora 30 minutos"
+    },
+    {
+      "recorrido": "3",
+      "tramo": "Huánuco/Huánuco/Huanuco - Huánuco/Huánuco/Amarilis",
+      "detalle": "PLaza de Armas - la Esperanza (Subida a Malconga)",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "7 km / 17 minutos"
+    },
+    {
+      "recorrido": "3",
+      "tramo": "Huánuco/Huánuco/Amarilis - Huánuco/Huánuco/Amarilis",
+      "detalle": "La Esperanza (Subida a Malconga) - CP Malconga",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "16 Km / 25 minutos"
+    },
+    {
+      "recorrido": "3",
+      "tramo": "Huánuco/Huánuco/Amarilis - Huánuco/Huánuco/Amarilis",
+      "detalle": "CP Malconga - Laguna Manca Pozo",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Sendero",
+      "distancia_tiempo": "20 Km / 3 horas 20 minutos"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "25",
+      "horario": "Cuaderno de Registro de Visitantes",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "390",
+      "horario": "Cuaderno de Registro de Visitantes",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "2850",
+      "horario": "Cuaderno de Registro de Visitantes",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "06:00 a.m. - 03:30 p.m. --",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Localidad de Amarilis"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de Caballos",
+      "observacion": "CP Shismay- CP Malconga"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Huánuco (En español e inglés.)"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Localidad de Amarilis"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Localidad de Amarilis"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Localidad de Amarilis"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Localidad de Amarilis"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "Localidad de Amarilis Hoteles de 1 y 2 estrellas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "Localidad de Amarilis, hostales de 1 a 3 estrellas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "CP Shismay"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Localidad de Amarilis y Huánuco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Localidad de Amarilis"
+    }
+  ],
+  "descripcion": "Ubicada en la microcuenca del centro poblado de Malconga, la región natural a la que pertenece es Suni o también llamada Jalca. Cuenta con un volumen de almacenamiento de 1 599,818.25 m3, un área de 20.135 Hectáreas y una profundidad que llega a los 85 metros. En temporada de verano, disminuye su nivel del agua, lo que permite apreciar dos islas pequeñas, la primera a unos 3 metros de distancia de la orilla y la segunda a unos 30 metros. La Laguna se encuentra represada cuyo desfogue origina una catarata de regular caída. El paisaje circundante está compuesto por una imponente montaña de roca sólida y abundante vegetación conformada por helechos, flores amarillas, matico, zarzamoras, gongapas y piñas silvestres. En cuanto a la fauna de los alrededores, es posible encontrar mamíferos como ovejas, zorros, zorrillos, sachacuys, truchas, patos silvestres entre otros. En cuanto a aves, se pueden observar picaflor, gorrión y zorzal y perdiz. Los centros poblados más cercanos son Malconga y Paucar. Desde el lugar se puede visualizar la belleza paisajística del distrito y los centros poblados de Paucar, La esperanza, Shismay y otros. Su principal motivación turística se debe a la leyenda Huanuqueña que cuentan los pobladores, de la existencia de una gigantesca serpiente conocida como “Huaracuy\" que cuida los tesoros inmensos que se guardan en el fondo de la laguna.",
+  "particularidades": "",
+  "estado_actual": "Bueno, la administración vela por su cuidado y protección.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Ubicada en la microcuenca del centro poblado de Malconga, la región natural a la que pertenece es Suni o también llamada Jalca. Cuenta con un volumen de almacenamiento de 1 599,818.25 m3, un área de 20.135 Hectáreas y una profundidad que llega a los 85 metros. En temporada de verano, disminuye su nivel del agua, lo que permite apreciar dos islas pequeñas, la primera a unos 3 metros de distancia de la orilla y la segunda a unos 30 metros. La Laguna se encuentra represada cuyo desfogue origina una catarata de regular caída. El paisaje circundante está compuesto por una imponente montaña de roca sólida y abundante vegetación conformada por helechos, flores amarillas, matico, zarzamoras, gongapas y piñas silvestres. En cuanto a la fauna de los alrededores, es posible encontrar mamíferos como ovejas, zorros, zorrillos, sachacuys, truchas, patos silvestres entre otros. En cuanto a aves, se pueden observar picaflor, gorrión y zorzal y perdiz. Los centros poblados más cercanos son Malconga y Paucar. Desde el lugar se puede visualizar la belleza paisajística del distrito y los centros poblados de Paucar, La esperanza, Shismay y otros. Su principal motivación turística se debe a la leyenda Huanuqueña que cuentan los pobladores, de la existencia de una gigantesca serpiente conocida como “Huaracuy\" que cuida los tesoros inmensos que se guardan en el fondo de la laguna."
+    },
+    {
+      "titulo": "Particularidades",
+      "contenido": ""
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, la administración vela por su cuidado y protección."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n25\nCuaderno de Registro de Visitantes\n2022\nTuristas Nacionales\n390\nCuaderno de Registro de Visitantes\n2022\nVisitantes Locales(Excursionistas)\n2850\nCuaderno de Registro de Visitantes\n2022"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nHuánuco/Huánuco/Huanuco\n-\nHuánuco/Huánuco/Amarilis\nPlaza de Armas - La Esperanza (Subida a Malconga)\nTerrestre\nAutomóvil particular\nAsfaltado\n7 km / 17 minutos\n1\nHuánuco/Huánuco/Huanuco\n-\nHuánuco/Huánuco/Huanuco\nPlaza de Armas - La Esperanza (Subida a Malconga)\nTerrestre\nCamioneta doble tracción\nAsfaltado\n7 km / 17 minutos\n1\nHuánuco/Huánuco/Amarilis\n-\nHuánuco/Huánuco/Amarilis\nLa Esperanza (Subida a Malconga) - CP Paucar\nTerrestre\nAutomóvil particular\nAsfaltado\n15 Km / 25 minutos\n1\nHuánuco/Huánuco/Huanuco\n-\nHuánuco/Huánuco/Amarilis\nLa Esperanza (Subida a Malconga) - CP Paucar\nTerrestre\nCamioneta doble tracción\nAfirmado\n15 km / 38 minutos\n1\nHuánuco/Huánuco/Amarilis\n-\nHuánuco/Huánuco/Amarilis\nCP Paucar - Desvío Paraquencho\nTerrestre\nCamioneta doble tracción\nAfirmado\n15 km / 45 minutos\n1\nHuánuco/Huánuco/Amarilis\n-\nHuánuco/Huánuco/Amarilis\nDersvío Paraquencho - Laguna Manca Pozo\nTerrestre\nCamioneta doble tracción\nTrocha carrozable\n5 km / 14 minutos\n2\nHuánuco/Huánuco/Huanuco\n-\nHuánuco/Huánuco/Amarilis\nPlaza de Armas - La Esperanza (Subida a Malconga)\nTerrestre\nAutomóvil particular\nAsfaltado\n7 km / 17 minutos\n2\nHuánuco/Huánuco/Huanuco\n-\nHuánuco/Huánuco/Amarilis\nLa Esperanza (Subida a Malconga) - Hacienda Shismay\nTerrestre\nAutomóvil particular\nAfirmado\n17 km / 50 minutos\n2\nHuánuco/Huánuco/Amarilis\n-\nHuánuco/Huánuco/Amarilis\nHacienda Shismay - Laguna Manca Pozo\nTerrestre\nA caballo\nCamino de Herradura\n14 km / 1 hora 30 minutos\n3\nHuánuco/Huánuco/Huanuco\n-\nHuánuco/Huánuco/Amarilis\nPLaza de Armas - la Esperanza (Subida a Malconga)\nTerrestre\nAutomóvil particular\nAsfaltado\n7 km / 17 minutos\n3\nHuánuco/Huánuco/Amarilis\n-\nHuánuco/Huánuco/Amarilis\nLa Esperanza (Subida a Malconga) - CP Malconga\nTerrestre\nAutomóvil particular\nTrocha carrozable\n16 Km / 25 minutos\n3\nHuánuco/Huánuco/Amarilis\n-\nHuánuco/Huánuco/Amarilis\nCP Malconga - Laguna Manca Pozo\nTerrestre\nA pie\nSendero\n20 Km / 3 horas 20 minutos"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n06:00 a.m.\n-\n03:30 p.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nNaturaleza\nObservación de flora\nHelechos, flore, plantas medicinales, zarzamoras, gongapas y piñas silvestres.\nNaturaleza\nObservación de paisaje\n--\nNaturaleza\nObservación de aves\nColibrí, perdiz, gorrión y zorzal.\nCultura y Folclore\nRituales místicos o tradicionales\nLectura de coca\nCultura y Folclore\nDegustación y preparación de platos, productos o bebidas típicas\nSólo las fechas que se realizan los eventos de aniversario del distrito\nPaseos\nPaseos en bote\nCon reserva y en festividades del aniversario del distrito\nPaseos\nPaseos a caballo\nDesde la Hacienda Shismay y previa reserva"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlimentación\nRestaurantes\nLocalidad de Amarilis\nOtros Servicios Turísticos\nAlquiler de Caballos\nCP Shismay- CP Malconga\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nHuánuco (En español e inglés.)\nAlimentación\nBares\nLocalidad de Amarilis\nAlimentación\nCafeterías\nLocalidad de Amarilis\nAlimentación\nFuentes de soda\nLocalidad de Amarilis\nAlimentación\nKioskos de comida y bebidas\nLocalidad de Amarilis\nAlojamiento\nHoteles (especificar categorías)\nLocalidad de Amarilis Hoteles de 1 y 2 estrellas\nAlojamiento\nHostales (especificar categorías)\nLocalidad de Amarilis, hostales de 1 a 3 estrellas\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCP Shismay\nOtros Servicios Turísticos\nAgencia de Viajes\nLocalidad de Amarilis y Huánuco\nOtros Servicios Turísticos\nVenta de artesanía\nLocalidad de Amarilis"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nLocalidad de Amarilis\nBancos\nCiudad de Huánuco.\nCajero automático\nCiudad de Huánuco\nCasa de cambio\nCiudad de Huánuco\nEstación de servicios, grifos, gasolineras y gasocentros\nLocalidad de Amarilis\nServicio de correos\nCiudad de Huánuco\nCentro de salud - tópico\nLocalidad de Amarilis\nVenta de materiales para fotografías\nCiudad de Huánuco\nSeguridad / POLTUR / Comisaría\nLocalidad de Amarilis\nAlquiler y compra de equipos deportivos\nCiudad de Huánuco\nLibrerías\nLocalidad de Amarilis\nBodegas o minimarkets\nCP de Paucar, Malconga"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nLocalidad de Amarilis\nLuz (Suministro Eléctrico)\nLocalidad de Amarilis\nTeléfono\nLocalidad de Amarilis\nAlcantarillado sanitario\nLocalidad de Amarilis\nSeñalización turística\nLocalidad de Amarilis\nEnergía Alternativa\nLocalidad de Amarilis\nSistemas de tratamiento alternativo de residuos (Biodigestor, pozo séptico, otros)\nCP Shismay\nAlcantarillado pluvial\nLocalidad de Amarilis"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nMunicipalidad Distrital de Amarilis\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nLey N° 23419, Ley de creación política del distrito de Amarilis\nAdministrador por\nNombre\nMunicipalidad Distrital de Amarilis\nTiempo de administración\nDesde el año 1982"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo - DIRCETUR Huánuco\nNombre (Persona(s) responsable(s) del inventario turístico):\nGlen Larson Arriaga Silva\nCargo:\nEspecialista en Turismo\nCorreo:\nglenlarsonarriaga@gmail.com\nTeléfono:\n962555050\nFuentes Bibliográfica:\nHuánuco: Laguna de Mancapozo y la serpiente que cuida tesoros. El Comercio. Lima 2013\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n14/11/2023 12:20:01"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -9.949111131331389,
+    "longitud": -76.1308765411377
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-9.949111131331389,-76.1308765411377"
+}

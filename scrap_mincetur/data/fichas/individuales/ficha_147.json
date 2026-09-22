@@ -1,0 +1,453 @@
+{
+  "cod_ficha": 147,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=147",
+  "nombre": "Iglesia Matriz De Iquitos",
+  "departamento": "Loreto",
+  "provincia": "Maynas",
+  "distrito": "IQUITOS",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Arquitectura y Espacios Urbanos",
+  "subtipo": "Iglesias",
+  "jerarquia": "2",
+  "altitud": "104",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=533433",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=533433",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=533436",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=550153",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=552944",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=553071",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=552946",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=552949",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=552951"
+  ],
+  "actividades_permitidas": [
+    "Otros - Compras de artesanía/souvenir",
+    "Otros - Toma de fotografías y filmaciones",
+    "Cultura y Folclore - Actividades Religiosas o Patronales",
+    "Otros - Realización de eventos",
+    "Cultura y Folclore - Visita y participación en actividades de vida cotidiana de la comunidad",
+    "Cultura y Folclore - Apreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Compras de artesanía/souvenir",
+      "observacion": "Artesanías religiosas",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/artesania02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "Dentro de la Iglesia se tiene esculturas religiosas talladas en madera y pinturas sacras que narran pasajes bíblicos",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Actividades Religiosas o Patronales",
+      "observacion": "La iglesia durante el año realiza celebraciones religiosas, donde los fieles y turistas se sumergen en la historia y la fe católica",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/act_religiosas02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Realización de eventos",
+      "observacion": "Dentro de la Iglesia se realiza bodas y bautizos, previa culminación de sus catequesis religiosa",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/eventos02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Visita y participación en actividades de vida cotidiana de la comunidad",
+      "observacion": "--",
+      "icono_url": null
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Apreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)",
+      "observacion": "--",
+      "icono_url": null
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Loreto/Maynas/Iquitos - Loreto/Maynas/Iquitos",
+      "detalle": "Plaza de Armas de Iquitos hacia el recurso",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mototaxi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "150 metros / 1 minuto"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Loreto/Maynas/Iquitos - Loreto/Maynas/Iquitos",
+      "detalle": "Plaza de Armas de Iquitos hacia el recurso",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "84 m / 1min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "1354",
+      "horario": "OFICIO N° 01-2024-IGLESIA-MATRIZ",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "650",
+      "horario": "OFICIO N° 01-2024-IGLESIA-MATRIZ",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "207",
+      "horario": "OFICIO N° 01-2024-IGLESIA-MATRIZ",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "07:30 a.m. - 09:00 p.m. De lunes a domingo",
+      "observaciones": "De lunes a domingo"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "Artesanías y souvenirs religiosos"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "En el área de administración de la Iglesia"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "Hoteles de 2, 3, 4 y 5 estrellas / Ciudad de Iquitos"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Restaurantes de 1, 2, 3, 5 tenedores / Ciudad de Iquitos"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Iquitos"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Iquitos"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Ciudad de Iquitos"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "Ciudad de Iquitos"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "Hostales de 1, 2, 3 estrellas / Ciudad de Iquitos"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Cines o Teatros",
+      "observacion": "Ciudad de Iquitos"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Ciudad de Iquitos"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Ciudad de Iquitos"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Ciudad de Iquitos"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "Ciudad de Iquitos"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Iquitos"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de Iquitos"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de botes",
+      "observacion": "Ciudad de Iquitos"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de bicicleta",
+      "observacion": "Ciudad de Iquitos"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Ingles, Portugués, Frances / Ciudad de Iquitos"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de camionetas 4 x 4",
+      "observacion": "Ciudad de Iquitos"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Iquitos"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Iquitos"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Ciudad de Iquitos"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Apart-hoteles (especificar categorías)",
+      "observacion": "Apart - hoteles de 3 y 4 estrellas / Ciudad de Iquitos"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Albergues",
+      "observacion": "Ciudad de Iquitos"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Iquitos"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "Ciudad de Iquitos"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Ciudad de Iquitos"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "Ciudad de Iquitos"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Embarcaderos",
+      "observacion": "Ciudad de Iquitos"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Marina turística",
+      "observacion": "Ciudad de Iquitos"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de Campamento(camping)",
+      "observacion": "Ciudad de Iquitos"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "Ciudad de Iquitos"
+    }
+  ],
+  "descripcion": "La Iglesia Matriz de Iquitos, es un lugar de culto católico de gran importancia histórica y arquitectónica en la región amazónica peruana. Se encuentra en el centro histórico de la ciudad de Iquitos, capital de la región de Loreto, en una zona céntrica y accesible para los visitantes. La iglesia es majestuosa y elegante, con una arquitectura colonial que combina elementos neoclásicos y barrocos, además su fachada presenta detalles ornamentales tallados en piedra y una imponente torre campanario que se eleva hacia el cielo, asimismo se destaca el altar mayor de la iglesia, decorado con finos detalles dorados, esculturas religiosas talladas en madera y pinturas sacras que narran pasajes bíblicos con gran maestría artística. En la Iglesia Matriz de Iquitos se realizan misas, celebraciones religiosas, bodas, bautizos y festividades católicas a lo largo del año. Los fieles y turistas pueden visitar el templo para orar, admirar su arquitectura y conocer más sobre su historia. Además la Iglesia Matriz de Iquitos, también conocida como la Catedral de Iquitos, es un importante punto turístico en la ciudad, debido a su arquitectura colonial y su relevancia histórica, asimismo los visitantes pueden apreciar su imponente fachada, detalles arquitectónicos y elementos decorativos en su interior, además la iglesia suele ser parte de los recorridos turísticos por el centro histórico de Iquitos, ofreciendo a los visitantes la oportunidad de conocer más sobre la historia y la cultura de la región amazónica.",
+  "particularidades": "",
+  "estado_actual": "bueno, porque conserva su arquitectura colonial, tiene servicios básicos e higiénicos, además cuenta con acceso a personas con discapacidad y una oficina para atención a los feligreses y visitantes.",
+  "observaciones": "Actualmente es la Iglesia católica más alto de la ciudad de Iquitos y uno de los edificios patrimoniales que se encuentra en mejor estado de conservación. En la Iglesia reposan los restos mortales de los dos primeros obispos del vicariato de Iquitos: Monseñor Sotelo Redondo y Monseñor José García Pulgar La Torre.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "La Iglesia Matriz de Iquitos, es un lugar de culto católico de gran importancia histórica y arquitectónica en la región amazónica peruana. Se encuentra en el centro histórico de la ciudad de Iquitos, capital de la región de Loreto, en una zona céntrica y accesible para los visitantes. La iglesia es majestuosa y elegante, con una arquitectura colonial que combina elementos neoclásicos y barrocos, además su fachada presenta detalles ornamentales tallados en piedra y una imponente torre campanario que se eleva hacia el cielo, asimismo se destaca el altar mayor de la iglesia, decorado con finos detalles dorados, esculturas religiosas talladas en madera y pinturas sacras que narran pasajes bíblicos con gran maestría artística. En la Iglesia Matriz de Iquitos se realizan misas, celebraciones religiosas, bodas, bautizos y festividades católicas a lo largo del año. Los fieles y turistas pueden visitar el templo para orar, admirar su arquitectura y conocer más sobre su historia. Además la Iglesia Matriz de Iquitos, también conocida como la Catedral de Iquitos, es un importante punto turístico en la ciudad, debido a su arquitectura colonial y su relevancia histórica, asimismo los visitantes pueden apreciar su imponente fachada, detalles arquitectónicos y elementos decorativos en su interior, además la iglesia suele ser parte de los recorridos turísticos por el centro histórico de Iquitos, ofreciendo a los visitantes la oportunidad de conocer más sobre la historia y la cultura de la región amazónica."
+    },
+    {
+      "titulo": "Particularidades",
+      "contenido": ""
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "Declarado Patrimonio Histórico Cultural de la Nación con Resolución Ministerial. 793-86 ed"
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "bueno, porque conserva su arquitectura colonial, tiene servicios básicos e higiénicos, además cuenta con acceso a personas con discapacidad y una oficina para atención a los feligreses y visitantes."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "Actualmente es la Iglesia católica más alto de la ciudad de Iquitos y uno de los edificios patrimoniales que se encuentra en mejor estado de conservación. En la Iglesia reposan los restos mortales de los dos primeros obispos del vicariato de Iquitos: Monseñor Sotelo Redondo y Monseñor José García Pulgar La Torre."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nVisitantes Locales(Excursionistas)\n1354\nOFICIO N° 01-2024-IGLESIA-MATRIZ\n2023\nDe enero a diciembre\nTuristas Nacionales\n650\nOFICIO N° 01-2024-IGLESIA-MATRIZ\n2023\nDe enero a diciembre\nTuristas Extranjeros\n207\nOFICIO N° 01-2024-IGLESIA-MATRIZ\n2023\nDe enero a diciembre"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nLoreto/Maynas/Iquitos\n-\nLoreto/Maynas/Iquitos\nPlaza de Armas de Iquitos hacia el recurso\nTerrestre\nMototaxi\nAsfaltado\n150 metros / 1 minuto\n1\nLoreto/Maynas/Iquitos\n-\nLoreto/Maynas/Iquitos\nPlaza de Armas de Iquitos hacia el recurso\nTerrestre\nA pie\nAsfaltado\n84 m / 1min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n07:30 a.m.\n-\n09:00 p.m.\nDe lunes a domingo"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nCompras de artesanía/souvenir\nArtesanías religiosas\nOtros\nToma de fotografías y filmaciones\nDentro de la Iglesia se tiene esculturas religiosas talladas en madera y pinturas sacras que narran pasajes bíblicos\nCultura y Folclore\nActividades Religiosas o Patronales\nLa iglesia durante el año realiza celebraciones religiosas, donde los fieles y turistas se sumergen en la historia y la fe católica\nOtros\nRealización de eventos\nDentro de la Iglesia se realiza bodas y bautizos, previa culminación de sus catequesis religiosa\nCultura y Folclore\nVisita y participación en actividades de vida cotidiana de la comunidad\n--\nCultura y Folclore\nApreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Públicas\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\nArtesanías y souvenirs religiosos\nInstalaciones Públicas\nServicios Públicos\nOficina de Información turística\nEn el área de administración de la Iglesia\nInstalaciones Públicas\nServicios Públicos\nCaminos peatonales\n--\nInstalaciones Públicas\nServicios Públicos\nEstacionamiento de vehículos\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\nHoteles de 2, 3, 4 y 5 estrellas / Ciudad de Iquitos\nAlimentación\nRestaurantes\nRestaurantes de 1, 2, 3, 5 tenedores / Ciudad de Iquitos\nLugares de Recreación\nDiscotecas\nCiudad de Iquitos\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Iquitos\nServicios Públicos\nOficina de Información turística\nCiudad de Iquitos\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\nCiudad de Iquitos\nAlojamiento\nHostales (especificar categorías)\nHostales de 1, 2, 3 estrellas / Ciudad de Iquitos\nLugares de Recreación\nCines o Teatros\nCiudad de Iquitos\nLugares de Recreación\nJuegos Infantiles\nCiudad de Iquitos\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nCiudad de Iquitos\nLugares de Recreación\nCentros Deportivos\nCiudad de Iquitos\nLugares de Recreación\nKaraoke\nCiudad de Iquitos\nLugares de Recreación\nBares\nCiudad de Iquitos\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de Iquitos\nOtros Servicios Turísticos\nAlquiler de botes\nCiudad de Iquitos\nOtros Servicios Turísticos\nAlquiler de bicicleta\nCiudad de Iquitos\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nIngles, Portugués, Frances / Ciudad de Iquitos\nOtros Servicios Turísticos\nAlquiler de camionetas 4 x 4\nCiudad de Iquitos\nAlimentación\nCafeterías\nCiudad de Iquitos\nAlimentación\nKioskos de comida y bebidas\nCiudad de Iquitos\nAlimentación\nVenta de comida Rápida\nCiudad de Iquitos\nAlojamiento\nApart-hoteles (especificar categorías)\nApart - hoteles de 3 y 4 estrellas / Ciudad de Iquitos\nAlojamiento\nAlbergues\nCiudad de Iquitos\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Iquitos\nServicios Públicos\nMiradores turísticos\nCiudad de Iquitos\nServicios Públicos\nEstacionamiento de vehículos\nCiudad de Iquitos\nServicios Públicos\nSeñales turísticas de orientación\nCiudad de Iquitos\nServicios Públicos\nEmbarcaderos\nCiudad de Iquitos\nServicios Públicos\nMarina turística\nCiudad de Iquitos\nServicios Públicos\nZonas de Campamento(camping)\nCiudad de Iquitos\nServicios Públicos\nCaminos peatonales\nCiudad de Iquitos"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nCajero automático\nCiudad de Iquitos\nBancos\nCiudad de Iquitos\nCasa de cambio\nCiudad de Iquitos\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Iquitos\nSeguridad / POLTUR / Comisaría\nCiudad de Iquitos\nBodegas o minimarkets\nCiudad de Iquitos\nCentro de salud - tópico\nCiudad de Iquitos\nServicios de internet\nCiudad de Iquitos\nServicio de estacionamiento\nCiudad de Iquitos\nVenta de materiales para fotografías\nCiudad de Iquitos\nAlquiler y compra de equipos deportivos\nCiudad de Iquitos\nLibrerías\nCiudad de Iquitos"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\n--\nDesagüe\n--\nLuz (Suministro Eléctrico)\n--\nTeléfono\n--\nSeñalización turística\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Iquitos\nDesagüe\nCiudad de Iquitos\nLuz (Suministro Eléctrico)\nCiudad de Iquitos\nTeléfono\nCiudad de Iquitos\nSeñalización turística\nCiudad de Iquitos"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nMinisterio de Cultura\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nCopia Literal\nNúmero de Partida:\nPartida N° 00011311 Tomo 47 Foja 343 REGISTRO DE PREDIO\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nVicariato Apostólico de Iquitos\nTiempo de administración\nDesde el año 1921"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nGerencia Regional de Comercio Exterior y Turismo de Loreto\nNombre (Persona(s) responsable(s) del inventario turístico):\nSilvia Maribel Aspajo Morales\nCargo:\nEncargada de Recursos Turísticos\nCorreo:\nturismodircetura@gmail.com\nTeléfono:\n971950312\nFuentes Bibliográfica:\nhttps://patrimonioculturalperu.com/wp-content/uploads/2020/04/historia-y-arquitectura-patrimonial-en-iquitos.pdf / HISTORIA Y ARQUITECTURA PATRIMONIAL DE IQUITOS / Samuel Amorós / 04 - 2020.\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n2/08/2024 12:28:15"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -3.7494471115295824,
+    "longitud": -73.24500739574432
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-3.7494471115295824,-73.24500739574432"
+}

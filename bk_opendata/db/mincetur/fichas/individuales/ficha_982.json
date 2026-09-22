@@ -1,0 +1,380 @@
+{
+  "cod_ficha": 982,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=982",
+  "nombre": "Iglesia Y Museo De La Recoleta",
+  "departamento": "Arequipa",
+  "provincia": "Arequipa",
+  "distrito": "AREQUIPA",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Arquitectura y Espacios Urbanos",
+  "subtipo": "Iglesias",
+  "jerarquia": "2",
+  "altitud": "2400 m.s.n.m.",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=541386",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=541386",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=541387",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=541388",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=541439"
+  ],
+  "actividades_permitidas": [
+    "Otros - Compras de artesanía/souvenir",
+    "Otros - Toma de fotografías y filmaciones",
+    "Cultura y Folclore - Actividades Religiosas o Patronales",
+    "Otros - Estudios e Investigación",
+    "Cultura y Folclore - Apreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Compras de artesanía/souvenir",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/artesania02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Actividades Religiosas o Patronales",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/act_religiosas02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Apreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)",
+      "observacion": "--",
+      "icono_url": null
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Arequipa/Arequipa/Arequipa - Arequipa/Arequipa/Arequipa",
+      "detalle": "Plaza de armas-Iglesia y Museo la Recoleta",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "4.5km / 10min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "2376",
+      "horario": "Carta S/N , de fecha 31 de mayo del 2024, Doc., 7019525",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "449",
+      "horario": "Carta S/N , de fecha 29 de mayo del 2024, Doc, 7019525",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "08:00 a.m. - 08:00 p.m. Para el ingreso del museo: De martes a sábado, de 9:00 am a 13:00 pm y de 14:30 pm a 17:00 pm.",
+      "observaciones": "Para el ingreso del museo: De martes a sábado, de 9:00 am a 13:00 pm y de 14:30 pm a 17:00 pm."
+    },
+    {
+      "epoca": "Fines de semana",
+      "especificacion": "--",
+      "horario": "07:00 a.m. - 08:00 p.m. Para el ingreso del museo los días domingos es de 9:00 am a 13:00 pm",
+      "observaciones": "Para el ingreso del museo los días domingos es de 9:00 am a 13:00 pm"
+    },
+    {
+      "epoca": "Personas con discapacidad física",
+      "especificacion": "Rampas",
+      "horario": "--",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": "Ingreso para la iglesia."
+    },
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "Ingreso para el museo, tiene Costo de entrada de s/10.00 adulto, S/5.00 estudiantes e universitarios."
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Museo de Sitio Turísticos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Boletería",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de interpretación",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "De 1 a 5 estrellas en el distrito de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Apart-hoteles (especificar categorías)",
+      "observacion": "4 estrellas en el distrito de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "1 a 3 estrellas en el distrito de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Albergues",
+      "observacion": "Distrito de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Distrito de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Distrito de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Distrito de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Distrito de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Distrito de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Distrito de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Distrito de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Distrito de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Cines o Teatros",
+      "observacion": "Distrito de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Distrito de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Distrito de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Distrito de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "Distrito de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Distrito de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "Distrito de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Boletería",
+      "observacion": "Distrito de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "Distrito de Arequipa"
+    }
+  ],
+  "descripcion": "La iglesia - Museo de la Recoleta es un monumento religioso de la ciudad de Arequipa que data de mediados del siglo XVII.\nEstá vinculada a la orden franciscana y es importante por sus claustros y por albergar en su museo varias colecciones artísticas. Las diversas colecciones que alberga el museo son las precolombinas, entre las que podemos mencionar la cultura Moche, Chimú e Inca, se presentan también exhibiciones de animales disecados de la taxidermia, utensilios e indumentarias de las tribus de la amazonia, a su vez se puede apreciar arte religioso, con lienzos y objetos litúrgicos, así como pinturas de la Escuela Cuzqueña, también destaca su biblioteca, donde se conservan valiosos ejemplares impresos en el siglo XV.\nEn 1651 ya estaban edificados sus claustros mayores, menores y una pequeña iglesia. Durante la época colonial fue centro de apostolado y misión. En 1869 es convertido en Colegio de Misioneros Apostólicos, pasando a ser administrado por los Franciscanos Descalzos y en 1914 es incorporado a la Provincia Misionera de San Francisco Solano.\nActualmente está compuesto por cuatro claustros donde se observa el despliegue del generoso sillar, la alfombrada ondulación de los tejados y diversas rejas, farolillos, veletas y campaniles que adornan muy sutilmente su construcción Recoletana.\nEl Templo fue inaugurado el 14 de octubre de 1940. En el interior del Templo se aprecian altares también de estilo neogótico hechos todos en mármol italiano, incluido el altar mayor. Contiene imágenes de varios siglos, ya que no todas pertenecían a este Templo, por ejemplo, la Virgen de Montserrat pertenece al siglo XVII y tenía su propio Templo, el cual fue víctima de un terremoto; de entre sus imágenes propias son de los siglos XVIII, XIX y XX, aunque destaca la imagen de la Virgen de los Dolores “La Napolitana” una hermosa imagen del año de 1648, hecha en Nápoles, Italia.\nTanto el museo como la iglesia constituyen uno de los más bellos conjuntos monumentales de Hispanoamérica, a partir de 1978 se pone en funcionamiento el museo, gracias a las refacciones hechas por la Comunidad Recoletana. Siendo el verdadero museo de arte colonial y orgullo de la orden en el Perú, es así que desde entonces La Recoleta es declarado “monumento histórico”\nActualmente en el museo se ha ampliado una sala de numismáticos, una sala de diversas estampillas y una sala de diversos objetos de tierra santa (está es una sala de visualización de monedas y objetos antiguos del tiempo de Jesús).\nLa iglesia y museo de la Recoleta posee un gran valor histórico y arquitectónico, siendo fundamental su preservación y protección para garantizar la integridad y autenticidad de sus espacios. Siendo de gran atracción para los visitantes.",
+  "particularidades": "",
+  "estado_actual": "Bueno, debido a que se realiza mantenimiento y limpieza del recurso a través de la administración de la iglesia y museo de la recoleta. Así mismo cuenta con todos los servicios de infraestructura dentro de sus instalaciones y es de fácil acceso al recurso.",
+  "observaciones": "El complejo de La Recoleta está dividido por el Instituto de Educación Superior Tecnológica La Recoleta, el Colegio Parroquial La Recoleta, el Convento – Museo y la Iglesia Nuestra Señora de Monserrat",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "La iglesia - Museo de la Recoleta es un monumento religioso de la ciudad de Arequipa que data de mediados del siglo XVII.\nEstá vinculada a la orden franciscana y es importante por sus claustros y por albergar en su museo varias colecciones artísticas. Las diversas colecciones que alberga el museo son las precolombinas, entre las que podemos mencionar la cultura Moche, Chimú e Inca, se presentan también exhibiciones de animales disecados de la taxidermia, utensilios e indumentarias de las tribus de la amazonia, a su vez se puede apreciar arte religioso, con lienzos y objetos litúrgicos, así como pinturas de la Escuela Cuzqueña, también destaca su biblioteca, donde se conservan valiosos ejemplares impresos en el siglo XV.\nEn 1651 ya estaban edificados sus claustros mayores, menores y una pequeña iglesia. Durante la época colonial fue centro de apostolado y misión. En 1869 es convertido en Colegio de Misioneros Apostólicos, pasando a ser administrado por los Franciscanos Descalzos y en 1914 es incorporado a la Provincia Misionera de San Francisco Solano.\nActualmente está compuesto por cuatro claustros donde se observa el despliegue del generoso sillar, la alfombrada ondulación de los tejados y diversas rejas, farolillos, veletas y campaniles que adornan muy sutilmente su construcción Recoletana.\nEl Templo fue inaugurado el 14 de octubre de 1940. En el interior del Templo se aprecian altares también de estilo neogótico hechos todos en mármol italiano, incluido el altar mayor. Contiene imágenes de varios siglos, ya que no todas pertenecían a este Templo, por ejemplo, la Virgen de Montserrat pertenece al siglo XVII y tenía su propio Templo, el cual fue víctima de un terremoto; de entre sus imágenes propias son de los siglos XVIII, XIX y XX, aunque destaca la imagen de la Virgen de los Dolores “La Napolitana” una hermosa imagen del año de 1648, hecha en Nápoles, Italia.\nTanto el museo como la iglesia constituyen uno de los más bellos conjuntos monumentales de Hispanoamérica, a partir de 1978 se pone en funcionamiento el museo, gracias a las refacciones hechas por la Comunidad Recoletana. Siendo el verdadero museo de arte colonial y orgullo de la orden en el Perú, es así que desde entonces La Recoleta es declarado “monumento histórico”\nActualmente en el museo se ha ampliado una sala de numismáticos, una sala de diversas estampillas y una sala de diversos objetos de tierra santa (está es una sala de visualización de monedas y objetos antiguos del tiempo de Jesús).\nLa iglesia y museo de la Recoleta posee un gran valor histórico y arquitectónico, siendo fundamental su preservación y protección para garantizar la integridad y autenticidad de sus espacios. Siendo de gran atracción para los visitantes."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "Reconocida como Patrimonio cultural de la Nación según R.S. 218-1964-ED del 13/03/64"
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, debido a que se realiza mantenimiento y limpieza del recurso a través de la administración de la iglesia y museo de la recoleta. Así mismo cuenta con todos los servicios de infraestructura dentro de sus instalaciones y es de fácil acceso al recurso."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "El complejo de La Recoleta está dividido por el Instituto de Educación Superior Tecnológica La Recoleta, el Colegio Parroquial La Recoleta, el Convento – Museo y la Iglesia Nuestra Señora de Monserrat"
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n2376\nCarta S/N , de fecha 31 de mayo del 2024, Doc., 7019525\n2023\nLibro de registro de visitantes\nTuristas Nacionales\n449\nCarta S/N , de fecha 29 de mayo del 2024, Doc, 7019525\n2023\nLibro de registro de visitantes"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nArequipa/Arequipa/Arequipa\n-\nArequipa/Arequipa/Arequipa\nPlaza de armas-Iglesia y Museo la Recoleta\nTerrestre\nAutomóvil particular\nAsfaltado\n4.5km / 10min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre\nIngreso para la iglesia.\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nIngreso para el museo, tiene Costo de entrada de s/10.00 adulto, S/5.00 estudiantes e universitarios."
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n08:00 a.m.\n-\n08:00 p.m.\nPara el ingreso del museo:\nDe martes a sábado, de 9:00 am a 13:00 pm y de 14:30 pm a 17:00 pm.\nFines de semana\n--\n07:00 a.m.\n-\n08:00 p.m.\nPara el ingreso del museo los días domingos es de 9:00 am a 13:00 pm"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nCompras de artesanía/souvenir\n--\nOtros\nToma de fotografías y filmaciones\n--\nCultura y Folclore\nActividades Religiosas o Patronales\n--\nOtros\nEstudios e Investigación\n--\nCultura y Folclore\nApreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Públicas\nServicios Públicos\nMuseo de Sitio Turísticos\n--\nInstalaciones Públicas\nServicios Públicos\nBoletería\n--\nInstalaciones Públicas\nServicios Públicos\nSeñales turísticas de orientación\n--\nInstalaciones Públicas\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\n--\nInstalaciones Públicas\nServicios Públicos\nSeñales turísticas de interpretación\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\nDe 1 a 5 estrellas en el distrito de Arequipa\nAlojamiento\nApart-hoteles (especificar categorías)\n4 estrellas en el distrito de Arequipa\nAlojamiento\nHostales (especificar categorías)\n1 a 3 estrellas en el distrito de Arequipa\nAlojamiento\nAlbergues\nDistrito de Arequipa\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nDistrito de Arequipa\nAlimentación\nRestaurantes\nDistrito de Arequipa\nAlimentación\nCafeterías\nDistrito de Arequipa\nAlimentación\nVenta de comida Rápida\nDistrito de Arequipa\nOtros Servicios Turísticos\nVenta de artesanía\nDistrito de Arequipa\nOtros Servicios Turísticos\nAgencia de Viajes\nDistrito de Arequipa\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nDistrito de Arequipa\nLugares de Recreación\nDiscotecas\nDistrito de Arequipa\nLugares de Recreación\nCines o Teatros\nDistrito de Arequipa\nLugares de Recreación\nJuegos Infantiles\nDistrito de Arequipa\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nDistrito de Arequipa\nLugares de Recreación\nCentros Deportivos\nDistrito de Arequipa\nLugares de Recreación\nKaraoke\nDistrito de Arequipa\nServicios Públicos\nEstacionamiento de vehículos\nDistrito de Arequipa\nServicios Públicos\nSeñales turísticas de orientación\nDistrito de Arequipa\nServicios Públicos\nBoletería\nDistrito de Arequipa\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\nDistrito de Arequipa"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nDisrito de Arequipa\nBancos\nDisrito de Arequipa\nCajero automático\nDisrito de Arequipa\nCasa de cambio\nDisrito de Arequipa\nEstación de servicios, grifos, gasolineras y gasocentros\nDisrito de Arequipa\nServicio de correos\nDisrito de Arequipa\nServicio de estacionamiento\nDisrito de Arequipa\nServicios de taxis\nDisrito de Arequipa\nCentro de salud - tópico\nDisrito de Arequipa\nVenta de materiales para fotografías\nDisrito de Arequipa\nSeguridad / POLTUR / Comisaría\nDisrito de Arequipa\nLibrerías\nDisrito de Arequipa\nBodegas o minimarkets\nDisrito de Arequipa"
+    },
+    {
+      "titulo": "Condiciones de Accesibilidad al Visitante",
+      "contenido": "Visitante\nInstalación\nActividades y/o programas\nEquipamiento\nObservación\nPersonas con discapacidad física\nRampas\n--\n--\n--"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\n--\nAlcantarillado sanitario\n--\nLuz (Suministro Eléctrico)\n--\nSeñalización turística\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nDisrito de Arequipa\nAlcantarillado sanitario\nDisrito de Arequipa\nLuz (Suministro Eléctrico)\nDisrito de Arequipa\nTeléfono\nDisrito de Arequipa\nSeñalización turística\nDisrito de Arequipa\nAlcantarillado pluvial\nDisrito de Arequipa"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\n--\nPrivado:\nProvincia Misionera de San Francisco Solano del Peru\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n105375\nNúmero de Partida:\n01187699\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nIglesia y Museo de la Recoleta por, Fray Magno Monzonbite - Administrador de la Iglesia.\nTiempo de administración\n1914"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nGERENCIA REGIONAL DE COMERCIO EXTERIOR Y TURISMO DE AREQUIPA\nNombre (Persona(s) responsable(s) del inventario turístico):\nLic. Claudia Isabel Barrios Cacya\nCargo:\nEspecialista en Turismo\nCorreo:\nclaudiaisabelbarrios.c@gmail.com\nTeléfono:\n988099750\nFuentes Bibliográfica:\nTerandes. (2023c, enero 10). Monasterio y museo de La recoleta, Arequipa. Terandes.\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n19/07/2024 09:54:45"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -16.39364288113065,
+    "longitud": -71.54159009456635
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-16.39364288113065,-71.54159009456635"
+}

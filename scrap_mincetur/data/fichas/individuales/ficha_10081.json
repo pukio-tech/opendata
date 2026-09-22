@@ -1,0 +1,364 @@
+{
+  "cod_ficha": 10081,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=10081",
+  "nombre": "Bioagricultura Casablanca",
+  "departamento": "Lima",
+  "provincia": "Lima",
+  "distrito": "PACHACAMAC",
+  "categoria": "4. REALIZACIONES TÉCNICAS, CIENTÍFICAS Y ARTÍSTICAS CONTEMPORÁNEAS",
+  "tipo": "Explotaciones Agropecuarias y Pesqueras",
+  "subtipo": "Agricultura",
+  "jerarquia": "1",
+  "altitud": "93",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=640569",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=640569",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=640570",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=640610",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=640611",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=640612",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=640613",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=640571",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=640572",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=640573",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=640593",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=640594",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=640651",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=640653"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Paseos - Excursiones",
+    "Otros - Estudios e Investigación",
+    "Cultura y Folclore - Participación y/u observación del proceso de elaboración de productos locales",
+    "Otros - Compra de productos regionales"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Paseos",
+      "tipo": "Excursiones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/excursiones02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "Ensayos experimentales, observaciones y registros propios de campo, con estudiantes de carreras agrarias y ambientales principalmente",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Participación y/u observación del proceso de elaboración de productos locales",
+      "observacion": "Producción y uso de diversos abonos orgánicos; guano, compost, bioabonos y abonos verdes; rotaciones de cultivos, implementación de sistemas de riego tecnificado)",
+      "icono_url": null
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Compra de productos regionales",
+      "observacion": "Arracacha, yuca, tomate cherry, camote, y hortalizas como lechuga, betarraga, rabanito y ajíes. También frutas como fresas, zarzamoras, paltas, lúcuma, entre otras, según la temporada y cuyes",
+      "icono_url": null
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Lima/Lima/Lima - Lima/Lima/Pachacamac",
+      "detalle": "Paseo de Colón - Cruce de Pachacámac",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "40.2 km / 1 h 50 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Lima/Lima/Pachacamac - Lima/Lima/Pachacamac",
+      "detalle": "Cruce de Pachacámac - Plaza de Armas de Pachacámac",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "4.6 km / 08 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Lima/Lima/Pachacamac - Lima/Lima/Pachacamac",
+      "detalle": "Plaza de Armas de Pachacámac - Av. Manuel Valle con Mz. K Lote 67",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "1.6 km/ 4 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Lima/Lima/Pachacamac - Lima/Lima/Pachacamac",
+      "detalle": "Av. Manuel Valle con Mz. K Lote 67 - Bioagrcultura Casablanca",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "1.6 km / 4 min"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Lima/Lima/San Borja - Lima/Lima/Pachacamac",
+      "detalle": "Centro Comercial La Rambla de San Borja - Paradero Tres Marías de Huertos de Manchay",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "21.4 km / 1h"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Lima/Lima/Pachacamac - Lima/Lima/Pachacamac",
+      "detalle": "Paradero Tres Marías de Huertos de Manchay - Av. Manuel Valle con Mz. K Lote 67",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "18.4 km/35 min"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Lima/Lima/Pachacamac - Lima/Lima/Pachacamac",
+      "detalle": "Av. Manuel Valle con Mz. K Lote 67 - Bioagricultura Casablanca",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "1.6 km/ 4 min"
+    },
+    {
+      "recorrido": "3",
+      "tramo": "Lima/Lima/Lima - Lima/Lima/Pachacamac",
+      "detalle": "Estación Javier Prado del Metropolitano - Paradero Tres Marías de Huertos de Manchay",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "22.4 km/ 1h 14 min."
+    },
+    {
+      "recorrido": "3",
+      "tramo": "Lima/Lima/Pachacamac - Lima/Lima/Pachacamac",
+      "detalle": "Paradero Tres Marías de Huertos de Manchay - Av. Manuel Valle con Mz. K Lote 67",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "18.4km / 35 min"
+    },
+    {
+      "recorrido": "3",
+      "tramo": "Lima/Lima/Pachacamac - Lima/Lima/Pachacamac",
+      "detalle": "Av. Manuel Valle con Mz. K Lote 67 - Bioagricultura Casablanca",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "1.6km / 4 min."
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "6681",
+      "horario": "CARTA N°001-BIOAGRICULTURA-CASABLANCA",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "09:00 a.m. - 05:00 p.m. Previa reservación al correo biocasablanca@gmail.com o al número 999184590",
+      "observaciones": "Previa reservación al correo biocasablanca@gmail.com o al número 999184590"
+    },
+    {
+      "epoca": "Personas con discapacidad física",
+      "especificacion": "Piso sin desniveles",
+      "horario": "--",
+      "observaciones": "--"
+    },
+    {
+      "epoca": "Jóvenes",
+      "especificacion": "--",
+      "horario": "Estudios de investigación",
+      "observaciones": "--"
+    },
+    {
+      "epoca": "Adulto mayor",
+      "especificacion": "--",
+      "horario": "preparación de compost en casa",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Semi-restringido(previo permiso)",
+      "observaciones": "- Solo visita guiada (S/10.00 escolares y S/15.00 adultos) - Visita guiada más almuerzo (el precio varía dependiendo el menú elegido) Contactarse con la Sra Carmen Felipe al número 999184590"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "almuerzos, previa reservacion"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicios Higiénicos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Previa coordinación"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "Pueblo Histórico de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "En Sector Casablanca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Pueblo Histórico de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Pueblo Histórico de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Otros (especificar)",
+      "observacion": "S.S.H.H. en la Plaza de Armas de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Distrito de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Feria Turística Municipal en Pueblo Histórico de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Pueblo Histórico de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "Pueblo Histórico de Pachacámac"
+    }
+  ],
+  "descripcion": "La finca Bioagricultura Casablanca se encuentra ubicada en sector Casablanca y tiene una extensión de 1,06 hectáreas. Fundada en el año 1984 por Carmen Felipe Morales y Ulises Moreno, ambos Ingenieros Agrónomos, hoy docentes cesantes de la Universidad Nacional Agraria La Molina. Su enfoque agroecológico, integra conocimientos tradicionales, empíricos y científicos, que ha demostrado la posibilidad de cultivar alimentos saludables y nutritivos sin recurrir a pesticidas o fertilizantes químicos.\nEsta finca ha evolucionado hasta convertirse en un \"Centro de Producción, Investigación y Capacitación en Agricultura Ecológica y Agroecoturismo\" y ha contribuido significativamente a la promoción de la agricultura ecológica en Perú, participando en la creación de la Red de Agricultura Ecológica del Perú (RAE-PERÚ), la Asociación Nacional de Productores Ecológicos (ANPE-PERÚ) y la Asociación ECOLÓGICA – PERÚ. Asimismo se distingue por utilizar un biodigestor de modelo chino, que produce el “Gas de Cuyisea” como fuente de energía renovable en base al guano del cuy, el cual es usado como combustible ecológico para cocina y generación de energía sostenible.\nBioagricultura Casa Blanca impulsa la educación ambiental con el enfoque “Aprender haciendo”, guiando a los participantes en prácticas agroecológicas reales. Utilizan un biodigestor que transforma precompost, guano de cuy y residuos agrícolas en bioabono y biogás, reduciendo desechos y cerrando ciclos productivos. También emplean riego tecnificado por sifón, microaspersión y goteo para optimizar el uso del agua. Su humedal artificial destaca como una solución sostenible, ya que trata las aguas servidas de la vivienda y permite reutilizarlas en el riego, fortaleciendo su modelo integral de sostenibilidad.\nEn sus terrenos se cultivan aproximadamente 270 especies de flora, incluyendo arracacha, yuca, tomate cherry, camote; hortalizas como lechuga, betarraga, rabanito y ajíes; frutas como fresas, zarzamoras, paltas, lúcuma, entre otras, según la temporada, y se crían animales como cuyes. Todos estos productos cuentan con certificación y se comercializan en la Bioferia de Miraflores desde 1999.\nLos visitantes pueden vivir una experiencia de agroturismo mediante visitas guiadas con reserva previa, dirigidas por la dueña, quien explica los procesos y su importancia para la sostenibilidad. Este recorrido puede incluir talleres, tales como, la elaboración de abonos orgánicos, la crianza de cuyes, el uso de sistemas de riego tecnificado y la compra de productos frescos a precios preferenciales. Además, pueden disfrutar de helados elaborados con fruta cultivada en la finca. Este es un destino habitual de agricultores, asociaciones y/o instituciones vinculadas a la sostenibilidad, estudiantes, turistas y público en general, convirtiéndose en un referente en educación ambiental y prácticas agrícolas sostenibles.",
+  "particularidades": "",
+  "estado_actual": "Se encuentra en buen estado de conservación.",
+  "observaciones": "Se ubica en Parcelación Casablanca Calle 14, Lt.20, a 14 minutos de la Plaza de Armas de Pachacámac.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "La finca Bioagricultura Casablanca se encuentra ubicada en sector Casablanca y tiene una extensión de 1,06 hectáreas. Fundada en el año 1984 por Carmen Felipe Morales y Ulises Moreno, ambos Ingenieros Agrónomos, hoy docentes cesantes de la Universidad Nacional Agraria La Molina. Su enfoque agroecológico, integra conocimientos tradicionales, empíricos y científicos, que ha demostrado la posibilidad de cultivar alimentos saludables y nutritivos sin recurrir a pesticidas o fertilizantes químicos.\nEsta finca ha evolucionado hasta convertirse en un \"Centro de Producción, Investigación y Capacitación en Agricultura Ecológica y Agroecoturismo\" y ha contribuido significativamente a la promoción de la agricultura ecológica en Perú, participando en la creación de la Red de Agricultura Ecológica del Perú (RAE-PERÚ), la Asociación Nacional de Productores Ecológicos (ANPE-PERÚ) y la Asociación ECOLÓGICA – PERÚ. Asimismo se distingue por utilizar un biodigestor de modelo chino, que produce el “Gas de Cuyisea” como fuente de energía renovable en base al guano del cuy, el cual es usado como combustible ecológico para cocina y generación de energía sostenible.\nBioagricultura Casa Blanca impulsa la educación ambiental con el enfoque “Aprender haciendo”, guiando a los participantes en prácticas agroecológicas reales. Utilizan un biodigestor que transforma precompost, guano de cuy y residuos agrícolas en bioabono y biogás, reduciendo desechos y cerrando ciclos productivos. También emplean riego tecnificado por sifón, microaspersión y goteo para optimizar el uso del agua. Su humedal artificial destaca como una solución sostenible, ya que trata las aguas servidas de la vivienda y permite reutilizarlas en el riego, fortaleciendo su modelo integral de sostenibilidad.\nEn sus terrenos se cultivan aproximadamente 270 especies de flora, incluyendo arracacha, yuca, tomate cherry, camote; hortalizas como lechuga, betarraga, rabanito y ajíes; frutas como fresas, zarzamoras, paltas, lúcuma, entre otras, según la temporada, y se crían animales como cuyes. Todos estos productos cuentan con certificación y se comercializan en la Bioferia de Miraflores desde 1999.\nLos visitantes pueden vivir una experiencia de agroturismo mediante visitas guiadas con reserva previa, dirigidas por la dueña, quien explica los procesos y su importancia para la sostenibilidad. Este recorrido puede incluir talleres, tales como, la elaboración de abonos orgánicos, la crianza de cuyes, el uso de sistemas de riego tecnificado y la compra de productos frescos a precios preferenciales. Además, pueden disfrutar de helados elaborados con fruta cultivada en la finca. Este es un destino habitual de agricultores, asociaciones y/o instituciones vinculadas a la sostenibilidad, estudiantes, turistas y público en general, convirtiéndose en un referente en educación ambiental y prácticas agrícolas sostenibles."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Se encuentra en buen estado de conservación."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "Se ubica en Parcelación Casablanca Calle 14, Lt.20, a 14 minutos de la Plaza de Armas de Pachacámac."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nVisitantes Locales(Excursionistas)\n6681\nCARTA N°001-BIOAGRICULTURA-CASABLANCA\n2023\nEn el año 2023, no hubo registro de la procedencia de los visitantes, por ello se está considerando a todos como locales."
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nLima/Lima/Lima\n-\nLima/Lima/Pachacamac\nPaseo de Colón - Cruce de Pachacámac\nTerrestre\nAutomóvil particular\nAsfaltado\n40.2 km / 1 h 50 min\n1\nLima/Lima/Pachacamac\n-\nLima/Lima/Pachacamac\nCruce de Pachacámac - Plaza de Armas de Pachacámac\nTerrestre\nAutomóvil particular\nAsfaltado\n4.6 km / 08 min\n1\nLima/Lima/Pachacamac\n-\nLima/Lima/Pachacamac\nPlaza de Armas de Pachacámac - Av. Manuel Valle con Mz. K Lote 67\nTerrestre\nAutomóvil particular\nAsfaltado\n1.6 km/ 4 min\n1\nLima/Lima/Pachacamac\n-\nLima/Lima/Pachacamac\nAv. Manuel Valle con Mz. K Lote 67 - Bioagrcultura Casablanca\nTerrestre\nAutomóvil particular\nAsfaltado\n1.6 km / 4 min\n2\nLima/Lima/San Borja\n-\nLima/Lima/Pachacamac\nCentro Comercial La Rambla de San Borja - Paradero Tres Marías de Huertos de Manchay\nTerrestre\nBus público\nAsfaltado\n21.4 km / 1h\n2\nLima/Lima/Pachacamac\n-\nLima/Lima/Pachacamac\nParadero Tres Marías de Huertos de Manchay - Av. Manuel Valle con Mz. K Lote 67\nTerrestre\nAutomóvil particular\nAsfaltado\n18.4 km/35 min\n2\nLima/Lima/Pachacamac\n-\nLima/Lima/Pachacamac\nAv. Manuel Valle con Mz. K Lote 67 - Bioagricultura Casablanca\nTerrestre\nAutomóvil particular\nAsfaltado\n1.6 km/ 4 min\n3\nLima/Lima/Lima\n-\nLima/Lima/Pachacamac\nEstación Javier Prado del Metropolitano - Paradero Tres Marías de Huertos de Manchay\nTerrestre\nBus público\nAsfaltado\n22.4 km/ 1h 14 min.\n3\nLima/Lima/Pachacamac\n-\nLima/Lima/Pachacamac\nParadero Tres Marías de Huertos de Manchay - Av. Manuel Valle con Mz. K Lote 67\nTerrestre\nAutomóvil particular\nAsfaltado\n18.4km / 35 min\n3\nLima/Lima/Pachacamac\n-\nLima/Lima/Pachacamac\nAv. Manuel Valle con Mz. K Lote 67 - Bioagricultura Casablanca\nTerrestre\nAutomóvil particular\nAsfaltado\n1.6km / 4 min."
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nSemi-restringido(previo permiso)\n- Solo visita guiada (S/10.00 escolares y S/15.00 adultos) - Visita guiada más almuerzo (el precio varía dependiendo el menú elegido) Contactarse con la Sra Carmen Felipe al número 999184590"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n09:00 a.m.\n-\n05:00 p.m.\nPrevia reservación al correo biocasablanca@gmail.com o al número 999184590"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nPaseos\nExcursiones\n--\nOtros\nEstudios e Investigación\nEnsayos experimentales, observaciones y registros propios de campo, con estudiantes de carreras agrarias y ambientales principalmente\nCultura y Folclore\nParticipación y/u observación del proceso de elaboración de productos locales\nProducción y uso de diversos abonos orgánicos; guano, compost, bioabonos y abonos verdes; rotaciones de cultivos, implementación de sistemas de riego tecnificado)\nOtros\nCompra de productos regionales\nArracacha, yuca, tomate cherry, camote, y hortalizas como lechuga, betarraga, rabanito y ajíes. También frutas como fresas, zarzamoras, paltas, lúcuma, entre otras, según la temporada y cuyes"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nAlimentación\nOtros (Especificar)\nalmuerzos, previa reservacion\nInstalaciones Privadas\nOtros Servicios Turísticos\nServicios Higiénicos\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nPrevia coordinación"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\nPueblo Histórico de Pachacámac\nAlimentación\nRestaurantes\nEn Sector Casablanca\nAlimentación\nFuentes de soda\nPueblo Histórico de Pachacámac\nServicios Públicos\nOficina de Información turística\nPueblo Histórico de Pachacámac\nServicios Públicos\nOtros (especificar)\nS.S.H.H. en la Plaza de Armas de Pachacámac\nOtros Servicios Turísticos\nAgencia de Viajes\nDistrito de Pachacámac\nOtros Servicios Turísticos\nVenta de artesanía\nFeria Turística Municipal en Pueblo Histórico de Pachacámac\nServicios Públicos\nEstacionamiento de vehículos\nPueblo Histórico de Pachacámac\nServicios Públicos\nMiradores turísticos\nPueblo Histórico de Pachacámac"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nCajero automático\nPueblo Histórico de Pachacámac\nBancos\nPueblo Histórico de Pachacámac\nCentro de salud - tópico\nPueblo Histórico de Pachacámac\nBodegas o minimarkets\nDistrito de Pachacámac\nEstación de servicios, grifos, gasolineras y gasocentros\nPueblo Histórico de Pachacámac\nServicios de taxis\nPueblo Histórico de Pachacámac\nSeguridad / POLTUR / Comisaría\nPueblo Histórico de Pachacámac"
+    },
+    {
+      "titulo": "Condiciones de Accesibilidad al Visitante",
+      "contenido": "Visitante\nInstalación\nActividades y/o programas\nEquipamiento\nObservación\nPersonas con discapacidad física\nPiso sin desniveles\n--\n--\n--\nJóvenes\n--\nEstudios de investigación\n--\n--\nAdulto mayor\n--\npreparación de compost en casa\n--\n--"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\n--\nLuz (Suministro Eléctrico)\n--\nSistemas de tratamiento alternativo de residuos (Biodigestor, pozo séptico, otros)\nbiodigestor"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nSector Casablanca\nLuz (Suministro Eléctrico)\nSector Casablanca\nTeléfono\nSector Casablanca"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\n--\nPrivado:\nSr. Ulises Moreno y Sra. Carmen Felipe Morales\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nPartida registral\nNúmero de Partida:\n42246433\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nSr. Ulises Moreno y Sra. Carmen Felipe Morales\nTiempo de administración\nDesde 2001"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nMunicipalidad Metropolitana de Lima - Municipalidad Distrital de Pachacámac\nNombre (Persona(s) responsable(s) del inventario turístico):\nAlex Reaño Torres - Guadalupe del Carmen Vásquez Meza\nCargo:\nEspecialista en Turismo - Gerente de Turismo, Cultura y Asuntos Internacionales\nCorreo:\nalexreanotorres@gmail.com - gvasquezm@munipachacamac.gob.pe\nTeléfono:\n948909364 / 940241174\nFuentes Bibliográfica:\n1. Red INNOVAGRO. Ruta de INNOVACIÓN al Sur de Lima: Pachacámac.\nFundo Ecológico Casa Blanca. Pagina Web: https://www.redinnovagro.in/pdfs/RutaCasaBlanca.pdf\n2. Agricultura en Lima. Pagina Web. https://agriculturaenlima.com/noticia/2023/Mayo/CasaBlanca.php\n3. Revista de Agroecología LEISA, 2005, PP. 23 - 27\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n29/12/2025 10:46:28"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -12.202669728748534,
+    "longitud": -76.86376073082323
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-12.202669728748534,-76.86376073082323"
+}

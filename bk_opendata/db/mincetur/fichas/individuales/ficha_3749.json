@@ -1,0 +1,272 @@
+{
+  "cod_ficha": 3749,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=3749",
+  "nombre": "Antigua Estación Del Ferrocarril De Puerto Eten",
+  "departamento": "Lambayeque",
+  "provincia": "Chiclayo",
+  "distrito": "ETEN PUERTO",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Lugares Históricos",
+  "subtipo": "Otros",
+  "jerarquia": "1",
+  "altitud": "5",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=547535",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=547535",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=547536",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=547538",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=547495",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=547539",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=547496",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=547540",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=547541"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Lambayeque/Chiclayo/Chiclayo - Lambayeque/Chiclayo/Eten Puerto",
+      "detalle": "Chiclayo - Reque - Puerto Eten - Antigua Estación del Ferrocarril de Puerto Eten.",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Combi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "20 km / 50 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Lambayeque/Chiclayo/Chiclayo - Lambayeque/Chiclayo/Eten Puerto",
+      "detalle": "Parque Principal- Antigua Estación del Ferrocarril de Puerto Eten.",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "150 mts / 3 minutos"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Lambayeque/Chiclayo/Chiclayo - Lambayeque/Chiclayo/Eten Puerto",
+      "detalle": "Chiclayo - Monsefú - Puerto Eten - Antigua Estación del Ferrocarril de Puerto Eten.",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "18.40 km / 40 minutos."
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "90",
+      "horario": "Aplicación formato de conteo muestral los días 06, 17, 26 de abril y 07 de mayo 2024.",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "2340",
+      "horario": "Aplicación del formato de conteo muestral, los días 06,17, 26 de abril y 07 de mayo.",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "6570",
+      "horario": "Aplicación del formato de conteo muestral, los días 06,17, 26 de abril y 07 de mayo.",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "08:00 a.m. - 05:00 p.m. De Lunes a Domingo.",
+      "observaciones": "De Lunes a Domingo."
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "Entrada general S/. 1.00"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "A cargo del Responsable del Área de Turismo del Municipio."
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Otros (especificar)",
+      "observacion": "Servicios Higiénicos"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Servicio de orientación, previa coordinación con los Responsables de la Oficina de Turismo del Municipio."
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Boletería",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "2 y 3 estrellas en Ciudad de Puerto Eten"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Casa de Hospedaje",
+      "observacion": "Ciudad de Puerto Eten"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Puerto Eten"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Puerto Eten"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Puerto Eten"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Puerto Eten"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Bancos - Cajeros",
+      "observacion": "Ciudad de Puerto Eten"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Seguridad / POLTUR",
+      "observacion": "Ciudad de Puerto Eten"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Tópico",
+      "observacion": "Ciudad de Puerto Eten"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "Malecón de la Playa de Puerto Eten."
+    }
+  ],
+  "descripcion": "La antigua estación ferroviaria de Puerto Eten se ubica entre las calles San Martin, Diego Ferre, Dos de mayo y Elías Aguirre; en el centro de la considerada zona monumental del distrito porteño. En la actualidad, aquel espacio es compartido con las oficinas municipales y la biblioteca distrital.\nEl conjunto de la estación tiene 182 m de ancho por 365 m de largo con un total de 66 mil metros cuadrados.\nEl 7 de julio de 1868, se finaliza la disputa entre los dos concesionarios ferroviarios de Lambayeque, Pimentel - Chiclayo y Eten – Ferreñafe, resultando a favor del D. José Antonio García y García, como el propietario de la Compañía del Ferrocarril de Eten” y en febrero de 1872, en el boletín oficial de El Peruano, se da a conocer sobre la situación de las estaciones de la Compañía, indicando que los ocho edificios para aquel objetivo, dispersos en Puerto Eten, Monsefú, Chiclayo, Lambayeque, Pomalca, Combo y Ferreñafe, la estructura de dichas edificaciones estaban acordes a las exigencias de los empresarios, siendo considerados cómodas, elegantes, sólidas y de capacidad necesaria para el objeto a la que están destinadas.\nLa fuerte inversión realizada en el Puerto de Eten, condujo a que el primero de marzo de 1872, el presidente constitucional de la república, José Balta, otorgue el decreto oficial (con fecha 25 de agosto de 1871), en el cual se declaró a Eten como puerto mayor, siendo el primer puerto que gozaba de dicho status en la región.\nLas construcciones de la antigua estación ferroviaria, presentan una mixtura de materiales, las cuales poseen cimientos de piedra mezclada con cal, paredes de adobe, quincha, madera y ladrillo, pisos de madera, de baldosas cerámicas, de canto rodado, cemento pulido; techos de madera, de fierro galvanizado, caña brava. También, hay muestras de las puertas y ventanas de material de madera con fierro.\nAlmacén Principal Nº1, posee lucernarios de 0.8 m, y elaborado por una base de piedra, con unos muros de material de adobe, soportados con acero. En la parte del techo, posee tijerales de madera con apoyos de madera, cubierta con partes de calamina y tablas de madera, esta carpintería de madera es de 3.5 x 3.8 m.\nEl almacén Nº 2, conserva su estructura original, manteniendo aún los rieles originales y un vagón desmantelado en su interior. Respecto, a las patologías arquitectónicas detectadas se puede apreciar un ligero deterioro en los vanos y en la plataforma posterior. Este espacio, no posee su techo original, siendo reemplazado por calaminas colocadas provisionalmente. El Depósito de Cayaltí, preserva aún las columnas y vigas tipo H, recubiertas con caña y torta de barro, los cuales sostienen el techo original de caña.\nEn el almacén Nº4, se encuentran 6 locomotoras, han sido fabricadas en Rogers (Rogers Locomotive and Machine Works) y Baldwin (Baldwin Locomotive Works). El ferrocarril Nº2 está considerado como uno de los más antiguos de las construcciones ferroviarias de la casa Rogers, elaborado en 1870, de la serie 4-4-0.\nActualmente, en el espacio de la Maestranza o taller de reparaciones de las locomotoras de la Compañía de Ferrocarriles de Eten, aún perduran las máquinas que datan de 1870, procedentes de la prestigiosa compañía inglesa Smith Beacock & Tannett Victoria Foundry Leeds, se encuentran en un estado avanzado de corrosión, como consecuencia de la humedad en la zona.\nEl almacén Nº 5, es el edificio que tiene menor espacio, en este recinto, se puede apreciar el suelo de tierra afirmada, que aún conserva los rieles de acero y madera; posee un pórtico principal con columnas de concreto. En este almacén se encuentra un ejemplar del Autovagón Man uno de los tres de los que contaba el FC de Eten. Esta maquinaria fue fabricada en 1936, de procedencia alemana.\nEntre los espacios de los almacenes Nº 2, del autocarril y del almacén Nº 5, aún se aprecia la poza que albergaba la tornamesa, maquinaria encargada en el giro de las locomotoras hacia cada riel, la cual fue desmantelada",
+  "particularidades": "",
+  "estado_actual": "Regular y mal estado de conservación; según Fichas de identificación sobre la situación actual de los bienes inmuebles del espacio monumental de la antigua estación ferroviaria de Puerto Eten de la tesis Propuesta de un centro de interpretación de la Antigua Estación Ferroviaria de Puerto Eten, provincia de Chiclayo - región de Lambayeque de Soto, M. (2018).",
+  "observaciones": "Como mudos testigos de su pasado de esplendor, se conservan en el Puerto el muelle de embarque y desembarque y la antigua estación ferroviaria con sus instalaciones de maestranza (o sala de reparación de máquinas) y almacenes que acusan el natural deterioro por el tiempo transcurrido; ésta se ubica ubicada en el centro del área urbana, frente al Parque Miguel Grau calle San Martín Nº 126 y ocupa una extensión de 56, 635 m2. Además, una de las locomotoras denominadas Venadito se encuentra en el Parque Infantil de Chiclayo.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "La antigua estación ferroviaria de Puerto Eten se ubica entre las calles San Martin, Diego Ferre, Dos de mayo y Elías Aguirre; en el centro de la considerada zona monumental del distrito porteño. En la actualidad, aquel espacio es compartido con las oficinas municipales y la biblioteca distrital.\nEl conjunto de la estación tiene 182 m de ancho por 365 m de largo con un total de 66 mil metros cuadrados.\nEl 7 de julio de 1868, se finaliza la disputa entre los dos concesionarios ferroviarios de Lambayeque, Pimentel - Chiclayo y Eten – Ferreñafe, resultando a favor del D. José Antonio García y García, como el propietario de la Compañía del Ferrocarril de Eten” y en febrero de 1872, en el boletín oficial de El Peruano, se da a conocer sobre la situación de las estaciones de la Compañía, indicando que los ocho edificios para aquel objetivo, dispersos en Puerto Eten, Monsefú, Chiclayo, Lambayeque, Pomalca, Combo y Ferreñafe, la estructura de dichas edificaciones estaban acordes a las exigencias de los empresarios, siendo considerados cómodas, elegantes, sólidas y de capacidad necesaria para el objeto a la que están destinadas.\nLa fuerte inversión realizada en el Puerto de Eten, condujo a que el primero de marzo de 1872, el presidente constitucional de la república, José Balta, otorgue el decreto oficial (con fecha 25 de agosto de 1871), en el cual se declaró a Eten como puerto mayor, siendo el primer puerto que gozaba de dicho status en la región.\nLas construcciones de la antigua estación ferroviaria, presentan una mixtura de materiales, las cuales poseen cimientos de piedra mezclada con cal, paredes de adobe, quincha, madera y ladrillo, pisos de madera, de baldosas cerámicas, de canto rodado, cemento pulido; techos de madera, de fierro galvanizado, caña brava. También, hay muestras de las puertas y ventanas de material de madera con fierro.\nAlmacén Principal Nº1, posee lucernarios de 0.8 m, y elaborado por una base de piedra, con unos muros de material de adobe, soportados con acero. En la parte del techo, posee tijerales de madera con apoyos de madera, cubierta con partes de calamina y tablas de madera, esta carpintería de madera es de 3.5 x 3.8 m.\nEl almacén Nº 2, conserva su estructura original, manteniendo aún los rieles originales y un vagón desmantelado en su interior. Respecto, a las patologías arquitectónicas detectadas se puede apreciar un ligero deterioro en los vanos y en la plataforma posterior. Este espacio, no posee su techo original, siendo reemplazado por calaminas colocadas provisionalmente. El Depósito de Cayaltí, preserva aún las columnas y vigas tipo H, recubiertas con caña y torta de barro, los cuales sostienen el techo original de caña.\nEn el almacén Nº4, se encuentran 6 locomotoras, han sido fabricadas en Rogers (Rogers Locomotive and Machine Works) y Baldwin (Baldwin Locomotive Works). El ferrocarril Nº2 está considerado como uno de los más antiguos de las construcciones ferroviarias de la casa Rogers, elaborado en 1870, de la serie 4-4-0.\nActualmente, en el espacio de la Maestranza o taller de reparaciones de las locomotoras de la Compañía de Ferrocarriles de Eten, aún perduran las máquinas que datan de 1870, procedentes de la prestigiosa compañía inglesa Smith Beacock & Tannett Victoria Foundry Leeds, se encuentran en un estado avanzado de corrosión, como consecuencia de la humedad en la zona.\nEl almacén Nº 5, es el edificio que tiene menor espacio, en este recinto, se puede apreciar el suelo de tierra afirmada, que aún conserva los rieles de acero y madera; posee un pórtico principal con columnas de concreto. En este almacén se encuentra un ejemplar del Autovagón Man uno de los tres de los que contaba el FC de Eten. Esta maquinaria fue fabricada en 1936, de procedencia alemana.\nEntre los espacios de los almacenes Nº 2, del autocarril y del almacén Nº 5, aún se aprecia la poza que albergaba la tornamesa, maquinaria encargada en el giro de las locomotoras hacia cada riel, la cual fue desmantelada"
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "El Ministerio de Educación a nombre del Instituto Nacional de Cultura emite la Resolución Ministerial Nº 329-86-ED, mediante la cual declara Monumento Histórico Artístico a la Antigua Estación de Ferrocarril de Puerto Eten y se incluye en el Patrimonio Monumental de la Nación."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Regular y mal estado de conservación; según Fichas de identificación sobre la situación actual de los bienes inmuebles del espacio monumental de la antigua estación ferroviaria de Puerto Eten de la tesis Propuesta de un centro de interpretación de la Antigua Estación Ferroviaria de Puerto Eten, provincia de Chiclayo - región de Lambayeque de Soto, M. (2018)."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "Como mudos testigos de su pasado de esplendor, se conservan en el Puerto el muelle de embarque y desembarque y la antigua estación ferroviaria con sus instalaciones de maestranza (o sala de reparación de máquinas) y almacenes que acusan el natural deterioro por el tiempo transcurrido; ésta se ubica ubicada en el centro del área urbana, frente al Parque Miguel Grau calle San Martín Nº 126 y ocupa una extensión de 56, 635 m2. Además, una de las locomotoras denominadas Venadito se encuentra en el Parque Infantil de Chiclayo."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n90\nAplicación formato de conteo muestral los días 06, 17, 26 de abril y 07 de mayo 2024.\n2024\nValidado por el Gerente Municipal y Sub Gerente de Desarrollo Económico, Social y Gestión Ambiental de la Municipalidad distrital de Puerto Eten.\nTuristas Nacionales\n2340\nAplicación del formato de conteo muestral, los días 06,17, 26 de abril y 07 de mayo.\n2024\nValidado por el Gerente Municipal y Sub Gerente de Desarrollo Económico, Social y Gestión Ambiental de la Municipalidad Distrital de Puerto Eten\nVisitantes Locales(Excursionistas)\n6570\nAplicación del formato de conteo muestral, los días 06,17, 26 de abril y 07 de mayo.\n2024\nValidado por el Gerente Municipal y Sub Gerente de Desarrollo Económico, Social y Gestión Ambiental de la Municipalidad Distrital de Puerto Eten"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nLambayeque/Chiclayo/Chiclayo\n-\nLambayeque/Chiclayo/Eten Puerto\nChiclayo - Reque - Puerto Eten - Antigua Estación del Ferrocarril de Puerto Eten.\nTerrestre\nCombi\nAsfaltado\n20 km / 50 minutos\n1\nLambayeque/Chiclayo/Chiclayo\n-\nLambayeque/Chiclayo/Eten Puerto\nParque Principal- Antigua Estación del Ferrocarril de Puerto Eten.\nTerrestre\nA pie\nAsfaltado\n150 mts / 3 minutos\n2\nLambayeque/Chiclayo/Chiclayo\n-\nLambayeque/Chiclayo/Eten Puerto\nChiclayo - Monsefú - Puerto Eten - Antigua Estación del Ferrocarril de Puerto Eten.\nTerrestre\nAutomóvil particular\nAsfaltado\n18.40 km / 40 minutos."
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nEntrada general S/. 1.00"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n08:00 a.m.\n-\n05:00 p.m.\nDe Lunes a Domingo."
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Públicas\nServicios Públicos\nOficina de Información turística\nA cargo del Responsable del Área de Turismo del Municipio.\nInstalaciones Públicas\nServicios Públicos\nOtros (especificar)\nServicios Higiénicos\nInstalaciones Privadas\nOtros Servicios Turísticos\nOtros (Especificar)\nServicio de orientación, previa coordinación con los Responsables de la Oficina de Turismo del Municipio.\nInstalaciones Públicas\nServicios Públicos\nBoletería\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHostales (especificar categorías)\n2 y 3 estrellas en Ciudad de Puerto Eten\nAlojamiento\nCasa de Hospedaje\nCiudad de Puerto Eten\nAlimentación\nRestaurantes\nCiudad de Puerto Eten\nAlimentación\nBares\nCiudad de Puerto Eten\nAlimentación\nKioskos de comida y bebidas\nCiudad de Puerto Eten\nLugares de Recreación\nDiscotecas\nCiudad de Puerto Eten\nOtros Servicios Turísticos\nBancos - Cajeros\nCiudad de Puerto Eten\nOtros Servicios Turísticos\nSeguridad / POLTUR\nCiudad de Puerto Eten\nOtros Servicios Turísticos\nTópico\nCiudad de Puerto Eten\nServicios Públicos\nCaminos peatonales\nMalecón de la Playa de Puerto Eten."
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Puerto Eten.\nBancos\nCiudad de Puerto Eten.\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Puerto Eten.\nServicio de estacionamiento\nMalecón de Playa de Puerto Eten.\nCentro de salud - tópico\nCiudad de Puerto Eten.\nSeguridad / POLTUR / Comisaría\nCiudad de Puerto Eten.\nBodegas o minimarkets\nCiudad de Puerto Eten."
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Puerto Eten\nAlcantarillado sanitario\nCiudad de Puerto Eten\nDesagüe\nCiudad de Puerto Eten\nLuz (Suministro Eléctrico)\nCiudad de Puerto Eten\nTeléfono\nCiudad de Puerto Eten"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nMunicipalidad Distrital de Puerto Eten.\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nP10159303\nNúmero de Partida:\nP10169498\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nMunicipalidad Distrital de Puerto Eten.\nTiempo de administración\n58 años, según Ley 15974 del 13 de enero de 1966"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nGERENCIA REGIONAL DE COMERCIO EXTERIOR Y TURISMO DE LAMBAYEQUE\nNombre (Persona(s) responsable(s) del inventario turístico):\nLic. Magali Exebio Cabrera\nCargo:\nTécnico en Turismo\nCorreo:\nmagaliexebioc@gmail.com\nTeléfono:\n947672674\nFuentes Bibliográfica:\n- Soto, M. (2018). Propuesta de un centro de interpretación de la Antigua Estación Ferroviaria de Puerto Eten, provincia de Chiclayo - región de Lambayeque (Proyecto cultural para optar el título de Licenciado en Historia y Gestión Cultural). Universidad de Piura. Facultad de Humanidades. Especialidad en Historia y Gestión Cultural. Piura, Perú. (pp.18-22,24-25,104,107)\nhttps://pirhua.udep.edu.pe/backend/api/core/bitstreams/9a6c3399-e1d9-46c9-8a55-f2e5aba2edc9/content\nMaterial Audiovisual actual del Recurso:\n, VIDEOS, OTROS\nEspecificación:\nhttps://fb.watch/rpF5PTBQ0R/ - Blog: https://eausat.blogspot.com/2013/01/estacion-ferroviariaproyectos-similares.html\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n7/08/2024 09:45:09"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -6.925559112623198,
+    "longitud": -79.86622808580245
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-6.925559112623198,-79.86622808580245"
+}

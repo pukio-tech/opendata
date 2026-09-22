@@ -1,0 +1,268 @@
+{
+  "cod_ficha": 921,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=921",
+  "nombre": "Parque Arqueológico De Tipon",
+  "departamento": "Cusco",
+  "provincia": "Quispicanchi",
+  "distrito": "OROPESA",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Sitios Arqueológicos",
+  "subtipo": "Parques arqueológicos",
+  "jerarquia": "3",
+  "altitud": "3452",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=290995",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=290995",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=379736",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=379737",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=379685",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=379739",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=488413",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=488401",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=488414"
+  ],
+  "actividades_permitidas": [
+    "Otros - Compras de artesanía/souvenir",
+    "Otros - Toma de fotografías y filmaciones",
+    "Naturaleza - Observación de paisaje",
+    "Deportes / Aventura - Caminata/Trekking"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Compras de artesanía/souvenir",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/artesania02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Cusco/Cusco/Cusco - Cusco/Quispicanchi/Oropesa",
+      "detalle": "Cusco - Plaza de Tipon",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "23.5 km / 40 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Cusco/Quispicanchi/Oropesa - Cusco/Quispicanchi/Oropesa",
+      "detalle": "Plaza de Tipon hasta el ingreso del Parque Arqueológico de Tipon",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "2.7 Km. / 9 min."
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "16200",
+      "horario": "Datos de MINCETUR",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "71166",
+      "horario": "Datos de MINCETUR",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "07:00 a.m. - 05:00 p.m. --",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "Esta Incluido Dentro Del Boleto Turístico General BTG Adulto Extranjero S/130 Estudiante S/70; o Boleto Turístico Parcial Circuito II S/70. Boleto parcial II - S/70"
+    },
+    {
+      "tipo": "Libre",
+      "observaciones": "Ingreso libre para Cusqueños, previa presentación de DNI"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Boletería",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "Hostal de 3 y 2 estrella/ ciudad del Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de bicicleta",
+      "observacion": "Ciudad de Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "Hotel de 5, 3 y 2 estrellas / ciudad del Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Ciudad de Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Ciudad de Cusco"
+    }
+  ],
+  "descripcion": "El Parque Arqueológico de Tipón se ubica en la comunidad de Choquepata,en el distrito de Oropesa, provincia de Quispicanchí. Fue declarado como Parque Arqueológico mediante Resolución Directoral Nacional Nº 393 del año 2002.\nEl complejo ocupa un área aproximada de 2,200 hectáreas. Este fue reconocido por los científicos de la Sociedad Americana de ingenieros Civiles, como un Monumento Internacional de Ingeniería Civil desde 2008.\nSe tiene conocimiento por la historia que Tipón fue construido por el Inca Huiracocha, para que fuese la residencia de su padre Huaqaj.\nTipón fue un gran santuario donde el agua era adorada con el cuidado y veneración que los incas.\nAparte de ser un complejo arqueológico más, en este sitio se encuentra una de las más grandes obras de irrigación en las terrazas llamados también andenes, la increíble distribución de los conductos de agua al aire libre.Contienen recintos, terrazas y una acequia intacta. La parte alta del conjunto es atravesada por el Camino del Inca junto con un canal de irrigación. Probablemente haya sido utilizado como laboratorio de productos agrícolas por los diversos microclimas que se hallan en este complejo.\nEl historiador peruano Dr. Luis Antonio Pardo, cree que el nombre actual de Tipón puede derivar de la palabra quechua Timpuj, que significa \"estar hirviendo\" y que se refiere a que las aguas de las fuentes brotan como si el líquido hirviera. Este nombre fue asignado en los tiempos modernos, ya que el nombre original era otro.\nEsta admirable recreación inca se encuentra en una superficie altamente irregular. En los tiempos de los Incas no existían tierras planas ni horizontales, todo fue modificado por los habitantes decididos de Tahuantinsuyo a satisfacción de su veterano monarca.\nLos principales sectores que conforman Tipón son:\nRecintos Reales y Jardines\nHermosas habitaciones y jardines levantados en base de megalíticos bloques de piedra constituyeron la Casa Real que Wiracocha mandó construir como morada para su padre Yahuar Huaca. Este es el grupo más bello y amplio del complejo, cuenta con hermosas fuentes y canaletas que hasta el día de hoy siguen vertiendo agua, que aflora de misteriosos y secretos canales subterráneos. Una construcción ovoide a manera de torreón se ubica al sur de los andenes. Desde este lugar se puede apreciar toda la quebrada con una vista impresionante.\nIntiwatana\nHermosas habitaciones de primera calidad con exquisitas hornacinas trapezoidales, desde donde se puede abarcar visualmente casi todo Tipón, se ubican a escasos metros de los recintos principales. Se encuentran ubicadas a mayor altura sobre una elevación montañosa que protege todo el conjunto.\nRecintos Menores\nUna personalidad de cierta importancia, pero que no pertenecía a la nobleza, debió habitar en estos recintos. Las habitaciones, ubicadas casi a 1 km. del Intiwatana, son de menor calidad, pero a pesar de esto muestran importancia y solemnidad. Están construidas inicialmente de piedra y concluidas de adobe.\nMirador del Cusco\nEn la parte norte del conjunto arqueológico se encuentra una significativa prominencia orogénica que fue, en la antigüedad, un importante sitio para observación y señales. Se le ha denominado Cruz Moqo que significa \"cumbre donde hay una cruz\" y a la vez QosqoQhawarina que quiere decir \"desde donde se divisa el Cusco\". Se le ha llamado así porque desde este lugar se divisa la parte occidental de la ciudad del Cusco. Fue un lugar de abundante población durante el incanato, morada de personalidades con amplios poderes políticos y económicos.\nLa Muralla\nEs posible que la zona de Tipón haya sido ocupada por señoríos que libraban guerras de muchos años y para asegurarse, construyeron colosales y extensos muros defensivos, que sin lugar a dudas les llevó muchos años de trabajo. Posteriormente la muralla careció de objeto pues todos los reinos regionales pasaron a formar parte del gran Imperio del Tahuantisuyo.",
+  "particularidades": "Reconocido por científicos de La Sociedad Americana de Ingenieros Civiles (ASCE) como Monumento Internacional de Ingeniería Civil el 26 de julio de 2008.\nASCE, \"TIPÓN: OBRA MAESTRA DE LA INGENIERÍA HIDRÁULICA DEL IMPERIO INCA\"\nLa unica obra maestra de ingenieria hidraulica",
+  "estado_actual": "Muy bueno, la administración y mantenimiento está a cargo de la Dirección Desconcentrada de Cultura Cusco (antes INC).",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "El Parque Arqueológico de Tipón se ubica en la comunidad de Choquepata,en el distrito de Oropesa, provincia de Quispicanchí. Fue declarado como Parque Arqueológico mediante Resolución Directoral Nacional Nº 393 del año 2002.\nEl complejo ocupa un área aproximada de 2,200 hectáreas. Este fue reconocido por los científicos de la Sociedad Americana de ingenieros Civiles, como un Monumento Internacional de Ingeniería Civil desde 2008.\nSe tiene conocimiento por la historia que Tipón fue construido por el Inca Huiracocha, para que fuese la residencia de su padre Huaqaj.\nTipón fue un gran santuario donde el agua era adorada con el cuidado y veneración que los incas.\nAparte de ser un complejo arqueológico más, en este sitio se encuentra una de las más grandes obras de irrigación en las terrazas llamados también andenes, la increíble distribución de los conductos de agua al aire libre.Contienen recintos, terrazas y una acequia intacta. La parte alta del conjunto es atravesada por el Camino del Inca junto con un canal de irrigación. Probablemente haya sido utilizado como laboratorio de productos agrícolas por los diversos microclimas que se hallan en este complejo.\nEl historiador peruano Dr. Luis Antonio Pardo, cree que el nombre actual de Tipón puede derivar de la palabra quechua Timpuj, que significa \"estar hirviendo\" y que se refiere a que las aguas de las fuentes brotan como si el líquido hirviera. Este nombre fue asignado en los tiempos modernos, ya que el nombre original era otro.\nEsta admirable recreación inca se encuentra en una superficie altamente irregular. En los tiempos de los Incas no existían tierras planas ni horizontales, todo fue modificado por los habitantes decididos de Tahuantinsuyo a satisfacción de su veterano monarca.\nLos principales sectores que conforman Tipón son:\nRecintos Reales y Jardines\nHermosas habitaciones y jardines levantados en base de megalíticos bloques de piedra constituyeron la Casa Real que Wiracocha mandó construir como morada para su padre Yahuar Huaca. Este es el grupo más bello y amplio del complejo, cuenta con hermosas fuentes y canaletas que hasta el día de hoy siguen vertiendo agua, que aflora de misteriosos y secretos canales subterráneos. Una construcción ovoide a manera de torreón se ubica al sur de los andenes. Desde este lugar se puede apreciar toda la quebrada con una vista impresionante.\nIntiwatana\nHermosas habitaciones de primera calidad con exquisitas hornacinas trapezoidales, desde donde se puede abarcar visualmente casi todo Tipón, se ubican a escasos metros de los recintos principales. Se encuentran ubicadas a mayor altura sobre una elevación montañosa que protege todo el conjunto.\nRecintos Menores\nUna personalidad de cierta importancia, pero que no pertenecía a la nobleza, debió habitar en estos recintos. Las habitaciones, ubicadas casi a 1 km. del Intiwatana, son de menor calidad, pero a pesar de esto muestran importancia y solemnidad. Están construidas inicialmente de piedra y concluidas de adobe.\nMirador del Cusco\nEn la parte norte del conjunto arqueológico se encuentra una significativa prominencia orogénica que fue, en la antigüedad, un importante sitio para observación y señales. Se le ha denominado Cruz Moqo que significa \"cumbre donde hay una cruz\" y a la vez QosqoQhawarina que quiere decir \"desde donde se divisa el Cusco\". Se le ha llamado así porque desde este lugar se divisa la parte occidental de la ciudad del Cusco. Fue un lugar de abundante población durante el incanato, morada de personalidades con amplios poderes políticos y económicos.\nLa Muralla\nEs posible que la zona de Tipón haya sido ocupada por señoríos que libraban guerras de muchos años y para asegurarse, construyeron colosales y extensos muros defensivos, que sin lugar a dudas les llevó muchos años de trabajo. Posteriormente la muralla careció de objeto pues todos los reinos regionales pasaron a formar parte del gran Imperio del Tahuantisuyo."
+    },
+    {
+      "titulo": "Particularidades",
+      "contenido": "Reconocido por científicos de La Sociedad Americana de Ingenieros Civiles (ASCE) como Monumento Internacional de Ingeniería Civil el 26 de julio de 2008.\nASCE, \"TIPÓN: OBRA MAESTRA DE LA INGENIERÍA HIDRÁULICA DEL IMPERIO INCA\"\nLa unica obra maestra de ingenieria hidraulica"
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "- Tipon fue declarado por el Instituto nacional de Cultura de Cusco, como Patrimonio Cultural de la Nación al parque arqueológico Tipon con R.D.N. Nº 393/INC-2002.\n- Reconocido por científicos de La Sociedad Americana de Ingenieros Civiles (ASCE) como Monumento Internacional de Ingeniería Civil el 26 de julio de 2008.\nASCE, \"TIPÓN: OBRA MAESTRA DE LA INGENIERÍA HIDRÁULICA DEL IMPERIO INCA\""
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Muy bueno, la administración y mantenimiento está a cargo de la Dirección Desconcentrada de Cultura Cusco (antes INC)."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n16200\nDatos de MINCETUR\n2022\nTuristas Nacionales\n71166\nDatos de MINCETUR\n2022"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nCusco/Cusco/Cusco\n-\nCusco/Quispicanchi/Oropesa\nCusco - Plaza de Tipon\nTerrestre\nAutomóvil particular\nAsfaltado\n23.5 km / 40 min\n1\nCusco/Quispicanchi/Oropesa\n-\nCusco/Quispicanchi/Oropesa\nPlaza de Tipon hasta el ingreso del Parque Arqueológico de Tipon\nTerrestre\nAutomóvil particular\nAsfaltado\n2.7 Km. / 9 min."
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nEsta Incluido Dentro Del Boleto Turístico General BTG Adulto Extranjero S/130 Estudiante S/70; o Boleto Turístico Parcial Circuito II S/70. Boleto parcial II - S/70\nLibre\nIngreso libre para Cusqueños, previa presentación de DNI"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n07:00 a.m.\n-\n05:00 p.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nCompras de artesanía/souvenir\n--\nOtros\nToma de fotografías y filmaciones\n--\nNaturaleza\nObservación de paisaje\n--\nDeportes / Aventura\nCaminata/Trekking\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Públicas\nServicios Públicos\nMiradores turísticos\n--\nInstalaciones Públicas\nServicios Públicos\nSeñales turísticas de orientación\n--\nInstalaciones Públicas\nServicios Públicos\nBoletería\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nVenta de artesanía\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHostales (especificar categorías)\nHostal de 3 y 2 estrella/ ciudad del Cusco\nAlimentación\nRestaurantes\nCiudad de Cusco\nAlimentación\nKioskos de comida y bebidas\nCiudad de Cusco\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de Cusco\nOtros Servicios Turísticos\nAlquiler de bicicleta\nCiudad de Cusco\nAlojamiento\nHoteles (especificar categorías)\nHotel de 5, 3 y 2 estrellas / ciudad del Cusco\nLugares de Recreación\nCentros Deportivos\nCiudad de Cusco\nServicios Públicos\nEstacionamiento de vehículos\nCiudad de Cusco"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Cusco\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Cusco\nServicio de estacionamiento\nCiudad de Cusco\nServicios de taxis\nCiudad de Cusco\nCentro de salud - tópico\nCiudad de Cusco\nSeguridad / POLTUR / Comisaría\nCiudad de Cusco\nBodegas o minimarkets\nCiudad de Cusco"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nDistrito de Oropesa\nAlcantarillado sanitario\nDistrito de Oropesa\nDesagüe\nDistrito de Oropesa\nLuz (Suministro Eléctrico)\nDistrito de Oropesa\nTeléfono\nDistrito de Oropesa\nSeñalización turística\nDistrito de Oropesa"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nEstado Peruano administrado por el Ministerio de Cultura a través de la Dirección Desconcentrada de Cultura Cusco\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nResolución Directoral Nacional Nº 393/INC-2002. Articulo 3°disponer la inscripción en registros públicos y en el MARGESI de bienes nacionales.\nAdministrador por\nNombre\nDireccion Desconcentrada de Cultura Cusco\nTiempo de administración\nDesde 1985"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nGerencia Regional de Comercio Exterior Turismo y Artesania\nNombre (Persona(s) responsable(s) del inventario turístico):\nEcon. Marco Luna Galindo\nCargo:\nResponsable del inventario de recursos turísticos\nCorreo:\nsgdp.gercetur@gmail.com\nTeléfono:\n926629209\nFuentes Bibliográfica:\nTIPON MARAVILLA DE LA INGENIERÍA CIVIL DE LOS INCAS (KENETH WRIHT) PDF 2008.\nPaisaje cultural restauración y puesta en valor del monumento prehispánico parque arqueológico de Tipón sector Pukara Alto, B Domínguez, N Fernández – 2016\nImpacto ambiental y social generado por el desarrollo del turismo en la comunidad de Choquepata, estudio de caso: parque arqueológico de Tipon del distrito de Oropesa-región Cusco, Pérez Flórez , Ruth – 2012\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n15/07/2025 19:21:01"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -13.569698359150014,
+    "longitud": -71.78229004795458
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-13.569698359150014,-71.78229004795458"
+}

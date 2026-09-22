@@ -1,0 +1,488 @@
+{
+  "cod_ficha": 10008,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=10008",
+  "nombre": "Fundo Agroecologico Casablanca",
+  "departamento": "Lima",
+  "provincia": "Lima",
+  "distrito": "PACHACAMAC",
+  "categoria": "4. REALIZACIONES TÉCNICAS, CIENTÍFICAS Y ARTÍSTICAS CONTEMPORÁNEAS",
+  "tipo": "Explotaciones Agropecuarias y Pesqueras",
+  "subtipo": "Agricultura",
+  "jerarquia": "1",
+  "altitud": "92",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=587737",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=587737",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=587738",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=587664",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=587665",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=587666",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=587739",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=587740",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=587741",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=587667",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=587742",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=587743",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=587744",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=587745",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=587668"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Estudios e Investigación",
+    "Naturaleza - Observación de fauna",
+    "Naturaleza - Observación de flora",
+    "Cultura y Folclore - Degustación y preparación de platos, productos o bebidas típicas",
+    "Cultura y Folclore - Visita y participación en actividades de vida cotidiana de la comunidad",
+    "Cultura y Folclore - Participación y/u observación del proceso de elaboración de productos locales"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "Parcela de práctica",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de fauna",
+      "observacion": "llamas, alpacas, cuyes y gallinas nagasaki.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fauna02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "campos de cultivos con especies nativas como molles, pacay. lúcuma, chirimoya",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Degustación y preparación de platos, productos o bebidas típicas",
+      "observacion": "Helados, cremoladas, mermeladas, jaleas, vinos artesanales",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/platos_tipicos02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Visita y participación en actividades de vida cotidiana de la comunidad",
+      "observacion": "Experiencia \"cosecha y cómelo\"",
+      "icono_url": null
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Participación y/u observación del proceso de elaboración de productos locales",
+      "observacion": "Siembra, cosecha de productos, preparación de panes y helados",
+      "icono_url": null
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Lima/Lima/Lima - Lima/Lima/Pachacamac",
+      "detalle": "Paseo Colon - Cruce Pachacamac",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "40.2km/1h 50 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Lima/Lima/Pachacamac - Lima/Lima/Pachacamac",
+      "detalle": "Cruce Pachacamac - Plaza de Armas de Pachacámac",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "4.6km/8min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Lima/Lima/Pachacamac - Lima/Lima/Pachacamac",
+      "detalle": "Plaza de Armas de Pachacámac - Av. Manuel Valle con Mz K Lote 67",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "1.7km/4min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Lima/Lima/Pachacamac - Lima/Lima/Pachacamac",
+      "detalle": "Av. Manuel Valle con Mz K Lote 67 - Fundo Agroecológico Casablanca",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "1.7km/4min"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Lima/Lima/San Borja - Lima/Lima/Pachacamac",
+      "detalle": "Centro Comercial La Rambla de San Borja - Cruce Pachacámac",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "30.3km/50min"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Lima/Lima/Pachacamac - Lima/Lima/Pachacamac",
+      "detalle": "Cruce Pachacámac - Plaza de Armas de Pachacámac",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "4.6km/8min"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Lima/Lima/Pachacamac - Lima/Lima/Pachacamac",
+      "detalle": "Plaza de Armas de Pachacámac - Av. Manuel Valle con Mz K Lote 67",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "2.5km/6min"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Lima/Lima/Pachacamac - Lima/Lima/Pachacamac",
+      "detalle": "Av. Manuel Valle con Mz K Lote 67 - Fundo Agroecológico Casablanca",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "1.7km/4min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "480",
+      "horario": "Fundo Agroecológico CasaBlanca - CARTA N°001-2025-FAC",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "9100",
+      "horario": "Fundo Agroecológico CasaBlanca - CARTA N°001-2025-FAC",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "10830",
+      "horario": "Fundo Agroecológico CasaBlanca - CARTA N°001-2025-FAC",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "09:00 a.m. - 06:00 p.m. Lunes a viernes de 09:00 am a 06:00 pm / Sábados y domingos de 08:00 am a 7:00 pm.",
+      "observaciones": "Lunes a viernes de 09:00 am a 06:00 pm / Sábados y domingos de 08:00 am a 7:00 pm."
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Semi-restringido(previo permiso)",
+      "observaciones": "Reservas al 922369667 o al correo casablancafundoagro@gmail.com. Talleres S/. 20.00, Máx. 20 personas por taller. Experiencia “Cosecha y cómelo” S/. 15.00. Máx. 25 personas."
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicios Higiénicos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "español e inglés"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "atención en español e inglés"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "zona de bar"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Cines o Teatros",
+      "observacion": "Ciudad de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Ciudad de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Ciudad de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Ciudad de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "Ciudad de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de bicicleta",
+      "observacion": "Ciudad de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Inglés y portugués. Ciudad de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Ciudad de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Ciudad de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "Ciudad de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Boletería",
+      "observacion": "Ciudad de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "Ciudad de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Plaza de Armas de Pachacámac. Ciudad de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "Ciudad de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos de herradura (caballo)",
+      "observacion": "Ciudad de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Puesto de auxilio rápido",
+      "observacion": "Ciudad de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Museo de Sitio Turísticos",
+      "observacion": "Ciudad de Pachacámac"
+    }
+  ],
+  "descripcion": "Fundado en 2010, abarca una hectárea de terreno. En 2015, fue conocido con el nombre de \"Helados Gourmet Casa Blanca\", destacando por sus helados artesanales en base a una variada producción de frutos como mangos, guanábanas, lúcumas, manzanas, higos, limones, paltas, fresas, frambuesas, granadillas, maracuyás, zarzamoras y tumbos; especies que se producen en el fundo. El lugar goza de un clima templado, ideal para el desarrollo de flora autóctona, con especies como el molle y la tara, además de los frutales señalados. Como parte del circuito turístico y gastronómico de Pachacámac, el fundo ofrece un restaurante ecológico, que destaca por su cocina saludable basada en productos cosechados en el propio terreno. Además, los visitantes pueden disfrutar de sus reconocidos helados artesanales, mermeladas, jaleas y cremoladas, disponibles también en la feria turística de la Plaza de Armas del distrito, así como de un tour guiado, el cual, con previa coordinación, incluye la participación en diversos talleres y actividades. Estas abarcan desde la preparación de pan y helados, hasta la cosecha y siembra de frutas y verduras, así como la alimentación de los animales como gallinas, cuyes y alpacas. Durante la visita, los participantes tienen la oportunidad de conocer y comprender la importancia de la agricultura sostenible y aprender técnicas de cultivo ecológico. Una de las actividades más destacadas es la experiencia “Cosecha y cómelo”, impulsada por la Red de Agricultura Ecológica del Perú - RAE PERÚ, donde los visitantes participan activamente en la recolección de productos naturales, que luego utilizan para preparar platos tradicionales con técnicas ancestrales como el uso del batán y la cocción a leña. Esta experiencia sensorial refuerza la conexión entre el visitante y la tierra, permitiéndole comprender el valor de la producción local. Referente de agricultura orgánica, Casablanca es un lugar atractivo para los amantes de la naturaleza y visitantes en general, quienes también pueden visitar la ecotienda donde se ofrecen distintos productos ecológicamente producidos y procesados. Para los más pequeños, hay un puesto de juegos creativos que les ofrece una experiencia divertida y educativa.",
+  "particularidades": "",
+  "estado_actual": "Buen estado de conservación, mantenimiento por parte de la Familia Gonzales Tinoco",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Fundado en 2010, abarca una hectárea de terreno. En 2015, fue conocido con el nombre de \"Helados Gourmet Casa Blanca\", destacando por sus helados artesanales en base a una variada producción de frutos como mangos, guanábanas, lúcumas, manzanas, higos, limones, paltas, fresas, frambuesas, granadillas, maracuyás, zarzamoras y tumbos; especies que se producen en el fundo. El lugar goza de un clima templado, ideal para el desarrollo de flora autóctona, con especies como el molle y la tara, además de los frutales señalados. Como parte del circuito turístico y gastronómico de Pachacámac, el fundo ofrece un restaurante ecológico, que destaca por su cocina saludable basada en productos cosechados en el propio terreno. Además, los visitantes pueden disfrutar de sus reconocidos helados artesanales, mermeladas, jaleas y cremoladas, disponibles también en la feria turística de la Plaza de Armas del distrito, así como de un tour guiado, el cual, con previa coordinación, incluye la participación en diversos talleres y actividades. Estas abarcan desde la preparación de pan y helados, hasta la cosecha y siembra de frutas y verduras, así como la alimentación de los animales como gallinas, cuyes y alpacas. Durante la visita, los participantes tienen la oportunidad de conocer y comprender la importancia de la agricultura sostenible y aprender técnicas de cultivo ecológico. Una de las actividades más destacadas es la experiencia “Cosecha y cómelo”, impulsada por la Red de Agricultura Ecológica del Perú - RAE PERÚ, donde los visitantes participan activamente en la recolección de productos naturales, que luego utilizan para preparar platos tradicionales con técnicas ancestrales como el uso del batán y la cocción a leña. Esta experiencia sensorial refuerza la conexión entre el visitante y la tierra, permitiéndole comprender el valor de la producción local. Referente de agricultura orgánica, Casablanca es un lugar atractivo para los amantes de la naturaleza y visitantes en general, quienes también pueden visitar la ecotienda donde se ofrecen distintos productos ecológicamente producidos y procesados. Para los más pequeños, hay un puesto de juegos creativos que les ofrece una experiencia divertida y educativa."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Buen estado de conservación, mantenimiento por parte de la Familia Gonzales Tinoco"
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": ""
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n480\nFundo Agroecológico CasaBlanca - CARTA N°001-2025-FAC\n2024\nundefined\nTuristas Nacionales\n9100\nFundo Agroecológico CasaBlanca - CARTA N°001-2025-FAC\n2024\nundefined\nVisitantes Locales(Excursionistas)\n10830\nFundo Agroecológico CasaBlanca - CARTA N°001-2025-FAC\n2024\nundefined"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nLima/Lima/Lima\n-\nLima/Lima/Pachacamac\nPaseo Colon - Cruce Pachacamac\nTerrestre\nAutomóvil particular\nAsfaltado\n40.2km/1h 50 min\n1\nLima/Lima/Pachacamac\n-\nLima/Lima/Pachacamac\nCruce Pachacamac - Plaza de Armas de Pachacámac\nTerrestre\nAutomóvil particular\nAsfaltado\n4.6km/8min\n1\nLima/Lima/Pachacamac\n-\nLima/Lima/Pachacamac\nPlaza de Armas de Pachacámac - Av. Manuel Valle con Mz K Lote 67\nTerrestre\nAutomóvil particular\nAsfaltado\n1.7km/4min\n1\nLima/Lima/Pachacamac\n-\nLima/Lima/Pachacamac\nAv. Manuel Valle con Mz K Lote 67 - Fundo Agroecológico Casablanca\nTerrestre\nAutomóvil particular\nAfirmado\n1.7km/4min\n2\nLima/Lima/San Borja\n-\nLima/Lima/Pachacamac\nCentro Comercial La Rambla de San Borja - Cruce Pachacámac\nTerrestre\nAutomóvil particular\nAsfaltado\n30.3km/50min\n2\nLima/Lima/Pachacamac\n-\nLima/Lima/Pachacamac\nCruce Pachacámac - Plaza de Armas de Pachacámac\nTerrestre\nAutomóvil particular\nAsfaltado\n4.6km/8min\n2\nLima/Lima/Pachacamac\n-\nLima/Lima/Pachacamac\nPlaza de Armas de Pachacámac - Av. Manuel Valle con Mz K Lote 67\nTerrestre\nAutomóvil particular\nAsfaltado\n2.5km/6min\n2\nLima/Lima/Pachacamac\n-\nLima/Lima/Pachacamac\nAv. Manuel Valle con Mz K Lote 67 - Fundo Agroecológico Casablanca\nTerrestre\nAutomóvil particular\nAfirmado\n1.7km/4min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nSemi-restringido(previo permiso)\nReservas al 922369667 o al correo casablancafundoagro@gmail.com. Talleres S/. 20.00, Máx. 20 personas por taller. Experiencia “Cosecha y cómelo” S/. 15.00. Máx. 25 personas."
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n09:00 a.m.\n-\n06:00 p.m.\nLunes a viernes de 09:00 am a 06:00 pm / Sábados y domingos de 08:00 am a 7:00 pm."
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nEstudios e Investigación\nParcela de práctica\nNaturaleza\nObservación de fauna\nllamas, alpacas, cuyes y gallinas nagasaki.\nNaturaleza\nObservación de flora\ncampos de cultivos con especies nativas como molles, pacay. lúcuma, chirimoya\nCultura y Folclore\nDegustación y preparación de platos, productos o bebidas típicas\nHelados, cremoladas, mermeladas, jaleas, vinos artesanales\nCultura y Folclore\nVisita y participación en actividades de vida cotidiana de la comunidad\nExperiencia \"cosecha y cómelo\"\nCultura y Folclore\nParticipación y/u observación del proceso de elaboración de productos locales\nSiembra, cosecha de productos, preparación de panes y helados"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nOtros Servicios Turísticos\nServicios Higiénicos\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nespañol e inglés\nInstalaciones Privadas\nAlimentación\nRestaurantes\natención en español e inglés\nInstalaciones Privadas\nLugares de Recreación\nJuegos Infantiles\n--\nInstalaciones Privadas\nAlimentación\nBares\nzona de bar"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nLugares de Recreación\nDiscotecas\nCiudad de Pachacámac\nLugares de Recreación\nCines o Teatros\nCiudad de Pachacámac\nLugares de Recreación\nJuegos Infantiles\nCiudad de Pachacámac\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nCiudad de Pachacámac\nLugares de Recreación\nCentros Deportivos\nCiudad de Pachacámac\nLugares de Recreación\nKaraoke\nCiudad de Pachacámac\nLugares de Recreación\nBares\nCiudad de Pachacámac\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Pachacámac\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de Pachacámac\nOtros Servicios Turísticos\nAlquiler de bicicleta\nCiudad de Pachacámac\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nInglés y portugués. Ciudad de Pachacámac\nAlimentación\nRestaurantes\nCiudad de Pachacámac\nAlimentación\nBares\nCiudad de Pachacámac\nAlimentación\nCafeterías\nCiudad de Pachacámac\nAlimentación\nFuentes de soda\nCiudad de Pachacámac\nAlimentación\nKioskos de comida y bebidas\nCiudad de Pachacámac\nAlimentación\nVenta de comida Rápida\nCiudad de Pachacámac\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Pachacámac\nServicios Públicos\nSeñales turísticas de orientación\nCiudad de Pachacámac\nServicios Públicos\nBoletería\nCiudad de Pachacámac\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\nCiudad de Pachacámac\nServicios Públicos\nOficina de Información turística\nPlaza de Armas de Pachacámac. Ciudad de Pachacámac\nServicios Públicos\nCaminos peatonales\nCiudad de Pachacámac\nServicios Públicos\nCaminos de herradura (caballo)\nCiudad de Pachacámac\nServicios Públicos\nPuesto de auxilio rápido\nCiudad de Pachacámac\nServicios Públicos\nMuseo de Sitio Turísticos\nCiudad de Pachacámac"
+    },
+    {
+      "titulo": "Servicios Complementarios dentro del recurso",
+      "contenido": "Servicio Complementario\nObservación\nOtros(especificar)\nEcotienda"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Pachacámac\nBancos\nCiudad de Pachacámac\nCajero automático\nCiudad de Pachacámac\nCasa de cambio\nCiudad de Pachacámac\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Pachacámac\nServicio de correos\nCiudad de Pachacámac\nServicio de estacionamiento\nCiudad de Pachacámac\nServicios de taxis\nCiudad de Pachacámac\nCentro de salud - tópico\nCiudad de Pachacámac\nVenta de materiales para fotografías\nCiudad de Pachacámac\nSeguridad / POLTUR / Comisaría\nCiudad de Pachacámac\nAlquiler y compra de equipos deportivos\nCiudad de Pachacámac\nLibrerías\nCiudad de Pachacámac\nBodegas o minimarkets\nCiudad de Pachacámac"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nSistemas de tratamiento alternativo de residuos (Biodigestor, pozo séptico, otros)\nGeneración de energía alternativa a través de biogestor cargado con los residuos orgánicos que se producen en el fundo.\nSeñalización turística\n--\nLuz (Suministro Eléctrico)\na través de un generador\nAgua potable\n--\nAlcantarillado sanitario\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Pachacámac\nAlcantarillado sanitario\nCiudad de Pachacámac\nLuz (Suministro Eléctrico)\nCiudad de Pachacámac\nTeléfono\nCiudad de Pachacámac\nSeñalización turística\nCiudad de Pachacámac"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\n--\nPrivado:\nFamilia Gonzales Tinoco\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nPartida Registral\nNúmero de Partida:\n42250937\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nFamilia Gonzales Tinoco\nTiempo de administración\nDesde el año 2010"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nMunicipalidad Metropolitana de Lima - Municipalidad Distrital de Pachacámac\nNombre (Persona(s) responsable(s) del inventario turístico):\nAlex Reaño Torres - Guadalupe del Carmen Vásquez Meza\nCargo:\nEspecialista en Turismo - Gerente de Turismo, Cultura y Asuntos Internacionales\nCorreo:\nalexreanotorres@gmail.com - gvasquezm@munipachacamac.gob.pe\nTeléfono:\n016321801 / 940241174\nFuentes Bibliográfica:\n1. Fundo Agroecológico CasaBlanca. Pagina Web: https://casablancarestaurante.pe.\n2. Municipalidad de Pachacámac. Pagina Web: https://www.munipachacamac.gob.pe/turismo/lugares-turisticos.html\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n9/05/2025 12:13:03"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -12.204783597956657,
+    "longitud": -76.86460018157959
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-12.204783597956657,-76.86460018157959"
+}

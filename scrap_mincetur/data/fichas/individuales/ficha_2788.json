@@ -1,0 +1,309 @@
+{
+  "cod_ficha": 2788,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=2788",
+  "nombre": "Mirador Turístico Julio C. Tello",
+  "departamento": "Lima",
+  "provincia": "Lima",
+  "distrito": "LURIN",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Arquitectura y Espacios Urbanos",
+  "subtipo": "Miradores",
+  "jerarquia": "1",
+  "altitud": "100",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=563996",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=563996",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=563997",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=563998",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=563969",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=564020",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=564000",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=564001",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=564002",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=564003",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=564004",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=564021",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=564022"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Naturaleza - Observación de paisaje"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Lima/Lima/Lima - Lima/Lima/Lurin",
+      "detalle": "Plaza de Armas de Lima-Plaza Ramón Castilla de Lurín",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mini bus turístico",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "40km/1 hora y 20 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Lima/Lima/Lurin - Lima/Lima/Lurin",
+      "detalle": "Plaza Ramón Castilla de Lurín –Mirador Turístico Julio C. Tello.",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mini bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "5.21km/ 10 minutos"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "9720",
+      "horario": "Ficha de conteo muestral-MTJCT-MDL-2023",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "90",
+      "horario": "Ficha de conteo muestral-MTJCT-MDL-2023",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "08:00 a.m. - 04:00 p.m. --",
+      "observaciones": "--"
+    },
+    {
+      "epoca": "Personas con discapacidad física",
+      "especificacion": "Rampas de acceso y barandas.",
+      "horario": "--",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Servicios Higiénicos."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Distrito de Lurín"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Distrito de Lurín"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Distrito de Lurín"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Distrito de Lurín"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "Distrito de Lurín/ De 2 estrellas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Distrito de Lurín"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Distrito de Lurín"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "Distrito de Lurín"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de Caballos",
+      "observacion": "Distrito de Lurín"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Distrito de Lurín. En idiomas inglés y alemán."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Distrito de Lurín"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Distrito de Lurín"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "Distrito de Lurín"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Puesto de auxilio rápido",
+      "observacion": "Distrito de Lurín"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Museo de Sitio Turísticos",
+      "observacion": "Distrito de Lurín"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Distrito de Lurín"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Distrito de Lurín"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "Distrito de Lurín"
+    }
+  ],
+  "descripcion": "Ubicado en el distrito de Lurín, Lima, Perú, el Mirador Julio César Tello es un atractivo destacado para turistas y locales que desean disfrutar de impresionantes vistas panorámicas del Valle de Lurín y sus alrededores. Construido entre 2007 y 2010, este mirador se encuentra en la parte alta del centro poblado que lleva su nombre y abarca un área de 897 m².\nDesde su posición elevada, los visitantes pueden observar áreas agrícolas, casas-haciendas y otros elementos característicos de la ciudad. El mirador, dividido en tres niveles en forma de plazuelas, ofrece una vista despejada, lo que lo convierte en un lugar ideal para capturar fotografías, especialmente al atardecer, cuando el cielo se llena de cálidos colores.\nLa infraestructura del mirador es moderna y funcional, equipada con bancas para el descanso, servicios higiénicos diferenciados para hombres, mujeres y personas con discapacidades, así como rampas, barandas y contenedores para residuos sólidos. En los alrededores, se pueden apreciar una réplica del ídolo de Pachacámac, una escultura de Santa Rosa de Lima y diversas iconografías que reflejan la rica cultura local de Lurín.\nEl mirador es de fácil acceso, ya sea en vehículo particular o mediante transporte público desde la ciudad de Lima, y es un punto de partida o parada en rutas turísticas que exploran la historia y cultura de Lurín, incluyendo visitas al cercano sitio arqueológico de Pachacámac.\nSe recomienda llevar protección solar y agua, especialmente durante las horas de mayor calor, y visitar el mirador durante el día para maximizar la experiencia visual y por razones de seguridad. Aunque el estado de conservación del mirador es regular y algunas áreas requieren mantenimiento, sigue siendo un lugar ideal para disfrutar de las impresionantes vistas y es utilizado también para exposiciones educativas relacionadas con la historia e identidad del distrito de Lurín.",
+  "particularidades": "",
+  "estado_actual": "Malo, considerando la contaminación por residuos sólidos y del aire, asimismo algunas partes de sus edificaciones necesitan mantenimiento y carecen de señalización adecuada.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Ubicado en el distrito de Lurín, Lima, Perú, el Mirador Julio César Tello es un atractivo destacado para turistas y locales que desean disfrutar de impresionantes vistas panorámicas del Valle de Lurín y sus alrededores. Construido entre 2007 y 2010, este mirador se encuentra en la parte alta del centro poblado que lleva su nombre y abarca un área de 897 m².\nDesde su posición elevada, los visitantes pueden observar áreas agrícolas, casas-haciendas y otros elementos característicos de la ciudad. El mirador, dividido en tres niveles en forma de plazuelas, ofrece una vista despejada, lo que lo convierte en un lugar ideal para capturar fotografías, especialmente al atardecer, cuando el cielo se llena de cálidos colores.\nLa infraestructura del mirador es moderna y funcional, equipada con bancas para el descanso, servicios higiénicos diferenciados para hombres, mujeres y personas con discapacidades, así como rampas, barandas y contenedores para residuos sólidos. En los alrededores, se pueden apreciar una réplica del ídolo de Pachacámac, una escultura de Santa Rosa de Lima y diversas iconografías que reflejan la rica cultura local de Lurín.\nEl mirador es de fácil acceso, ya sea en vehículo particular o mediante transporte público desde la ciudad de Lima, y es un punto de partida o parada en rutas turísticas que exploran la historia y cultura de Lurín, incluyendo visitas al cercano sitio arqueológico de Pachacámac.\nSe recomienda llevar protección solar y agua, especialmente durante las horas de mayor calor, y visitar el mirador durante el día para maximizar la experiencia visual y por razones de seguridad. Aunque el estado de conservación del mirador es regular y algunas áreas requieren mantenimiento, sigue siendo un lugar ideal para disfrutar de las impresionantes vistas y es utilizado también para exposiciones educativas relacionadas con la historia e identidad del distrito de Lurín."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Malo, considerando la contaminación por residuos sólidos y del aire, asimismo algunas partes de sus edificaciones necesitan mantenimiento y carecen de señalización adecuada."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nVisitantes Locales(Excursionistas)\n9720\nFicha de conteo muestral-MTJCT-MDL-2023\n2023\nFicha de conteo desarrollada por la Subgerencia de Turismo de la Municipalidad de Lurín\nTuristas Nacionales\n90\nFicha de conteo muestral-MTJCT-MDL-2023\n2023\nFicha de conteo desarrollado por la subgerencia de Turismo de la Municipalidad de Lurín."
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nLima/Lima/Lima\n-\nLima/Lima/Lurin\nPlaza de Armas de Lima-Plaza Ramón Castilla de Lurín\nTerrestre\nMini bus turístico\nAsfaltado\n40km/1 hora y 20 minutos\n1\nLima/Lima/Lurin\n-\nLima/Lima/Lurin\nPlaza Ramón Castilla de Lurín –Mirador Turístico Julio C. Tello.\nTerrestre\nMini bus público\nAsfaltado\n5.21km/ 10 minutos"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n08:00 a.m.\n-\n04:00 p.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nNaturaleza\nObservación de paisaje\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nOtros Servicios Turísticos\nOtros (Especificar)\nServicios Higiénicos."
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlimentación\nRestaurantes\nDistrito de Lurín\nAlimentación\nFuentes de soda\nDistrito de Lurín\nAlimentación\nKioskos de comida y bebidas\nDistrito de Lurín\nOtros Servicios Turísticos\nVenta de artesanía\nDistrito de Lurín\nAlojamiento\nHoteles (especificar categorías)\nDistrito de Lurín/ De 2 estrellas\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nDistrito de Lurín\nLugares de Recreación\nJuegos Infantiles\nDistrito de Lurín\nLugares de Recreación\nKaraoke\nDistrito de Lurín\nOtros Servicios Turísticos\nAlquiler de Caballos\nDistrito de Lurín\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nDistrito de Lurín. En idiomas inglés y alemán.\nAlimentación\nCafeterías\nDistrito de Lurín\nAlimentación\nVenta de comida Rápida\nDistrito de Lurín\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\nDistrito de Lurín\nServicios Públicos\nPuesto de auxilio rápido\nDistrito de Lurín\nServicios Públicos\nMuseo de Sitio Turísticos\nDistrito de Lurín\nServicios Públicos\nOficina de Información turística\nDistrito de Lurín\nServicios Públicos\nEstacionamiento de vehículos\nDistrito de Lurín\nServicios Públicos\nCaminos peatonales\nDistrito de Lurín"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nDistrito de Lurín\nBancos\nBanco de la Nación, BCP, Interbank, BBVA. Distrito de Lurín\nCajero automático\nBanco de la Nación, BCP, Interbank, BBVA. Distrito de Lurín\nEstación de servicios, grifos, gasolineras y gasocentros\nDistrito de Lurín\nCentro de salud - tópico\nDistrito de Lurín\nVenta de materiales para fotografías\nDistrito de Lurín\nSeguridad / POLTUR / Comisaría\nDistrito de Lurín\nBodegas o minimarkets\nDistrito de Lurín\nLibrerías\nDistrito de Lurín\nServicio de correos\nDistrito de Lurín\nServicios de taxis\nDistrito de Lurín"
+    },
+    {
+      "titulo": "Condiciones de Accesibilidad al Visitante",
+      "contenido": "Visitante\nInstalación\nActividades y/o programas\nEquipamiento\nObservación\nPersonas con discapacidad física\nRampas de acceso y barandas.\n--\n--\n--"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\n--\nLuz (Suministro Eléctrico)\n--\nAlcantarillado sanitario\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nDistrito de Lurín\nLuz (Suministro Eléctrico)\nDistrito de Lurín\nTeléfono\nDistrito de Lurín\nAlcantarillado sanitario\nDistrito de Lurín\nSeñalización turística\nDistrito de Lurín"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nMunicipalidad Distrital de Lurín\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nPartida registral\nNúmero de Partida:\nP03185690\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nMunicipalidad Distrital de Lurín.\nTiempo de administración\nDesde el año 2010"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nMUNICIPALIDAD METROPOLITANA DE LIMA\nNombre (Persona(s) responsable(s) del inventario turístico):\nAlex Reaño Torres\nCargo:\nEspecialista en Turismo\nCorreo:\nalexreanotorres@gmail.com\nTeléfono:\n01-6321801\nFuentes Bibliográfica:\n•Tesis para optar el Título de Profesional de Arquitecto: “Centro de desarrollo gastronómico y turismo sostenible en Lurín”. Merly Ebony Delgadillo Yupanqui Vanessa Milagros Pérez Mayta . Lima, Perú 2019.\n•Tesis para Obtener el grado de magíster en Administración Estratégica: Planeamiento Estratégico para el Desarrollo Turístico del Valle De Lurín. Carlos Arrieta Boulangger, José Antonio Solís Villavicencio, Gonzalo Zapatero Alba. Lima, Perú 2012.\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n18/02/2025 18:22:11"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -12.246044150448233,
+    "longitud": -76.89384698867798
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-12.246044150448233,-76.89384698867798"
+}

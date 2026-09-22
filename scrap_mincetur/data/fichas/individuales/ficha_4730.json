@@ -1,0 +1,299 @@
+{
+  "cod_ficha": 4730,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=4730",
+  "nombre": "Cerro Asiru Phatjata",
+  "departamento": "Puno",
+  "provincia": "Yunguyo",
+  "distrito": "YUNGUYO",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "a. Montañas",
+  "subtipo": "Cerros",
+  "jerarquia": "2",
+  "altitud": "4001",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=296879",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=296879",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=460057",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=460010",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=460011",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=470818",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=470820",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=470821"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Cultura y Folclore - Actividades Religiosas o Patronales",
+    "Otros - Estudios e Investigación",
+    "Naturaleza - Observación de fauna",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de paisaje",
+    "Deportes / Aventura - Caminata/Trekking",
+    "Cultura y Folclore - Degustación y preparación de platos, productos o bebidas típicas"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "Paisaje natural del lago Titicaca",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Actividades Religiosas o Patronales",
+      "observacion": "Fiesta patronal 10 de mayo, carnavales en el mes de febrero, aniversario del C.P. Acari el 23 de agosto y Waynacusisiwi el 23 de setiembre.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/act_religiosas02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "Vestigios arqueológicos.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de fauna",
+      "observacion": "Vicuñas, zorros, zorrino, venados, perdiz, codorniz, aves de rapiña, vizcachas, cuyes salvajes, etc.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fauna02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "Kiswara, yerbas aromáticas como: patacoa, chinchircoma, muña, salvia, ceticios, eucaliptos, pinos hongueros, kollis, queñuas, kelas, Thola, Sankayo, espinos, paja brava, ichu, Siki, etc.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "Lago Titicaca, Isla del Sol, lago Wiñaymarca, ciudad de Yunguyo, cerro apu Khapia, etc.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Degustación y preparación de platos, productos o bebidas típicas",
+      "observacion": "Feria de platos típicos el 23 de setiembre.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/platos_tipicos02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Puno/Puno/Puno - Puno/Yunguyo/Yunguyo",
+      "detalle": "Terminal Zonal Puno - Terminal Terrestre Yunguyo",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mini bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "136 km / 2 hrs."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Puno/Yunguyo/Yunguyo - Puno/Yunguyo/Yunguyo",
+      "detalle": "Terminal Terrestre Yunguyo -Paradero de Taxi Cuturapi",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mototaxi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "0.5 km / 5 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Puno/Yunguyo/Yunguyo - Puno/Yunguyo/Yunguyo",
+      "detalle": "Paradero Taxi Cuturapi - Desvío Acari",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Taxi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "5 km / 15 minutos."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Puno/Yunguyo/Yunguyo - Puno/Yunguyo/Yunguyo",
+      "detalle": "Desvío Acari - Capilla Acari",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Taxi",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "1.5 km / 10 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Puno/Yunguyo/Yunguyo - Puno/Yunguyo/Yunguyo",
+      "detalle": "Capilla Acari - Calvario C. Kerata",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Sendero",
+      "distancia_tiempo": "920 mt. / 1 hora"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "16",
+      "horario": "Informe Técnico N° 01-2022-MPY/SGTGF",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "261",
+      "horario": "Informe Técnico N° 01-2022-MPY/SGTGF",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "326",
+      "horario": "Informe Técnico N° 01-2022-MPY/SGTGF",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "05:00 a.m. - 04:00 p.m. De preferencia visitar en horas de la mañana y llevar implemento necesarios en épocas de lluvias y seguridad.",
+      "observaciones": "De preferencia visitar en horas de la mañana y llevar implemento necesarios en épocas de lluvias y seguridad."
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": "En coordinación con Presidente Comunal, Sr. Yony Rubiño Cahuaya Chino"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Yunguyo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Yunguyo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Yunguyo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Ciudad de Yunguyo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Puesto de auxilio rápido",
+      "observacion": "C.P. Queñuani y Ciudad de Yunguyo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "Ciudad de Yunguyo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "Comunidad campesina de Acari"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos de herradura (caballo)",
+      "observacion": "Comunidad campesina de Acari"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Yunguyo"
+    }
+  ],
+  "descripcion": "Es una monumental formación natural de roca y tierra que simula la forma de una gigantesca culebra partida que se arrastra en zigzag, conformada por los cerros Qherata y Wich’inqhala que abarca varios kilómetros de extensión. Comienza desde la parte posterior del cerro Wich’inqhala, con una interrupción por donde pasa la carretera panamericana sur, continuando en el cerro Qherata, que simula parte del cuerpo y la cabeza de la culebra, terminando a orillas del lago Titicaca.\nA esta configuración lítica se le atribuyen varias leyendas, unos dicen que la virgen de Copacabana habría cortado la cabeza de la culebra con una espada, otros indican que el inca habría cortado la cabeza con un hacha de oro y también está la versión de que el dios Sol habría soltado una gran roca para partir la cabeza de la culebra con la finalidad de que la culebra no se tome el agua del lago Titicaca.\nEl cerro Qherata contiene un bosque de eucalipto y las rocas que tiene es parte del cuerpo de la culebra, en la cima de este cerro se encuentra una estructura funeraria (chullpa) de forma cuadrangular, en ambos lados del cerro se tienen andenes, donde se encontró fragmentos de cerámica de la cultura Tiawanaku y Lupaka.\nEl cerro Wich’inqhala tiene la forma de cono bastante alto y empinado lleno de rocas y precipicios, en la cima se encuentra la fortaleza de Wich’inqhala Pukara, con construcciones de murallas de grande bloques de piedras que dan vuelta a todo el cerro, se observa también la construcción de un templo de planta cuadrangular con dos mojinetes y sin ventanas, el dintel de la puerta está acomodado con dos lascas de piedra mirando hacia la isla del Sol; en el patio circular se hacía la ceremonia ritual de ofrenda a la Pachamama o madre tierra, los lugareños lo conocen como el templo del Sol.",
+  "particularidades": "",
+  "estado_actual": "Bueno, cuenta con mantenimiento por parte de la comunidad campesina de Acari.",
+  "observaciones": "El lugar ofrece un amplio recorrido a través de los cerros Qherata y Wich’inqhala, donde se podrá evidenciar los vestigios arquitectónicos de las culturas de Tiawanaku y Lupaka, así como de los rituales culturales propios de la cultura aimara.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Es una monumental formación natural de roca y tierra que simula la forma de una gigantesca culebra partida que se arrastra en zigzag, conformada por los cerros Qherata y Wich’inqhala que abarca varios kilómetros de extensión. Comienza desde la parte posterior del cerro Wich’inqhala, con una interrupción por donde pasa la carretera panamericana sur, continuando en el cerro Qherata, que simula parte del cuerpo y la cabeza de la culebra, terminando a orillas del lago Titicaca.\nA esta configuración lítica se le atribuyen varias leyendas, unos dicen que la virgen de Copacabana habría cortado la cabeza de la culebra con una espada, otros indican que el inca habría cortado la cabeza con un hacha de oro y también está la versión de que el dios Sol habría soltado una gran roca para partir la cabeza de la culebra con la finalidad de que la culebra no se tome el agua del lago Titicaca.\nEl cerro Qherata contiene un bosque de eucalipto y las rocas que tiene es parte del cuerpo de la culebra, en la cima de este cerro se encuentra una estructura funeraria (chullpa) de forma cuadrangular, en ambos lados del cerro se tienen andenes, donde se encontró fragmentos de cerámica de la cultura Tiawanaku y Lupaka.\nEl cerro Wich’inqhala tiene la forma de cono bastante alto y empinado lleno de rocas y precipicios, en la cima se encuentra la fortaleza de Wich’inqhala Pukara, con construcciones de murallas de grande bloques de piedras que dan vuelta a todo el cerro, se observa también la construcción de un templo de planta cuadrangular con dos mojinetes y sin ventanas, el dintel de la puerta está acomodado con dos lascas de piedra mirando hacia la isla del Sol; en el patio circular se hacía la ceremonia ritual de ofrenda a la Pachamama o madre tierra, los lugareños lo conocen como el templo del Sol."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "Su área arqueológica fue declarada Patrimonio Cultural de la Nación por Instituto Nacional de Cultura mediante la R.D.N. Nº 561/INC, del 16 de marzo del 2010."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, cuenta con mantenimiento por parte de la comunidad campesina de Acari."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "El lugar ofrece un amplio recorrido a través de los cerros Qherata y Wich’inqhala, donde se podrá evidenciar los vestigios arquitectónicos de las culturas de Tiawanaku y Lupaka, así como de los rituales culturales propios de la cultura aimara."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n16\nInforme Técnico N° 01-2022-MPY/SGTGF\n2021\nTuristas Nacionales\n261\nInforme Técnico N° 01-2022-MPY/SGTGF\n2021\nVisitantes Locales(Excursionistas)\n326\nInforme Técnico N° 01-2022-MPY/SGTGF\n2021"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nPuno/Puno/Puno\n-\nPuno/Yunguyo/Yunguyo\nTerminal Zonal Puno - Terminal Terrestre Yunguyo\nTerrestre\nMini bus público\nAsfaltado\n136 km / 2 hrs.\n1\nPuno/Yunguyo/Yunguyo\n-\nPuno/Yunguyo/Yunguyo\nTerminal Terrestre Yunguyo -Paradero de Taxi Cuturapi\nTerrestre\nMototaxi\nAsfaltado\n0.5 km / 5 min.\n1\nPuno/Yunguyo/Yunguyo\n-\nPuno/Yunguyo/Yunguyo\nParadero Taxi Cuturapi - Desvío Acari\nTerrestre\nTaxi\nAsfaltado\n5 km / 15 minutos.\n1\nPuno/Yunguyo/Yunguyo\n-\nPuno/Yunguyo/Yunguyo\nDesvío Acari - Capilla Acari\nTerrestre\nTaxi\nTrocha carrozable\n1.5 km / 10 min.\n1\nPuno/Yunguyo/Yunguyo\n-\nPuno/Yunguyo/Yunguyo\nCapilla Acari - Calvario C. Kerata\nTerrestre\nA pie\nSendero\n920 mt. / 1 hora"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre\nEn coordinación con Presidente Comunal, Sr. Yony Rubiño Cahuaya Chino"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n05:00 a.m.\n-\n04:00 p.m.\nDe preferencia visitar en horas de la mañana y llevar implemento necesarios en épocas de lluvias y seguridad."
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\nPaisaje natural del lago Titicaca\nCultura y Folclore\nActividades Religiosas o Patronales\nFiesta patronal 10 de mayo, carnavales en el mes de febrero, aniversario del C.P. Acari el 23 de agosto y Waynacusisiwi el 23 de setiembre.\nOtros\nEstudios e Investigación\nVestigios arqueológicos.\nNaturaleza\nObservación de fauna\nVicuñas, zorros, zorrino, venados, perdiz, codorniz, aves de rapiña, vizcachas, cuyes salvajes, etc.\nNaturaleza\nObservación de flora\nKiswara, yerbas aromáticas como: patacoa, chinchircoma, muña, salvia, ceticios, eucaliptos, pinos hongueros, kollis, queñuas, kelas, Thola, Sankayo, espinos, paja brava, ichu, Siki, etc.\nNaturaleza\nObservación de paisaje\nLago Titicaca, Isla del Sol, lago Wiñaymarca, ciudad de Yunguyo, cerro apu Khapia, etc.\nDeportes / Aventura\nCaminata/Trekking\n--\nCultura y Folclore\nDegustación y preparación de platos, productos o bebidas típicas\nFeria de platos típicos el 23 de setiembre."
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlimentación\nRestaurantes\nCiudad de Yunguyo\nAlimentación\nKioskos de comida y bebidas\nCiudad de Yunguyo\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Yunguyo\nServicios Públicos\nOficina de Información turística\nCiudad de Yunguyo\nServicios Públicos\nPuesto de auxilio rápido\nC.P. Queñuani y Ciudad de Yunguyo\nServicios Públicos\nMiradores turísticos\nCiudad de Yunguyo\nServicios Públicos\nCaminos peatonales\nComunidad campesina de Acari\nServicios Públicos\nCaminos de herradura (caballo)\nComunidad campesina de Acari\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Yunguyo"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Yunguyo\nBancos\nBanco de la Nación en la ciudad de Yunguyo\nCajero automático\nBanco de la Nación en el ciudad de Yunguyo\nCasa de cambio\nCiudad de Yunguyo\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Yunguyo\nServicio de correos\nCiudad de Yunguyo\nServicios de taxis\nCiudad de Yunguyo\nCentro de salud - tópico\nCiudad de Yunguyo\nVenta de materiales para fotografías\nCiudad de Yunguyo\nSeguridad / POLTUR / Comisaría\nPuesto de la PNP en la ciudad de Yunguyo\nLibrerías\nCiudad de Yunguyo\nBodegas o minimarkets\nCiudad de Yunguyo"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Yunguyo\nDesagüe\nCiudad de Yunguyo\nLuz (Suministro Eléctrico)\nCiudad de Yunguyo\nTeléfono\nCiudad de Yunguyo\nSistemas de tratamiento alternativo de residuos (Biodigestor, pozo séptico, otros)\nCiudad de Yunguyo\nAlternativo de Residuos (Biodigestor, pozo séptico, otros)\nComunidad Campesina de Acari"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\n--\nPrivado:\nComunidad campesina de Acari\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n052-MA-94\nNúmero de Partida:\nN° 05005988\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nComunidad Campesina de Acari\nTiempo de administración\nDesde el año 1964"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección de Turismo - DIRCETUR Puno / Municipalidad Provincial de Yunguyo\nNombre (Persona(s) responsable(s) del inventario turístico):\nArq. Vadim Masciotti Cabala / David Cayo Pachauiri\nCargo:\nDirector de Turismo - DIRCETUR Puno / Subgerencia de Turismo y Gestión de Fronteras\nCorreo:\nvmaciotti@dirceturpuno.gob.pe\nTeléfono:\n051 351261 / 949874988\nFuentes Bibliográfica:\nChuchullo, J. T. Registro Arqueológico e Historia de la Provincia de Yunguyo. Yunguyo. 1997.\nChura, Y. Inventario de Recursos Turísticos de la provincia de Yunguyo. Documento de la Municipalidad Provincial de Yunguyo. Puno. 2010.\nR.D.N. Nº 561/INC\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n15/08/2023 17:47:18"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -16.244337154457526,
+    "longitud": -69.09252405166626
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-16.244337154457526,-69.09252405166626"
+}

@@ -1,0 +1,305 @@
+{
+  "cod_ficha": 5493,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=5493",
+  "nombre": "Lago Huitoto",
+  "departamento": "Madre De Dios",
+  "provincia": "Tambopata",
+  "distrito": "LABERINTO",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "g. Cuerpo de Agua",
+  "subtipo": "Lagunas",
+  "jerarquia": "2",
+  "altitud": "220",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=468303",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=468303",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=468304",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=468305",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=468306"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Estudios e Investigación",
+    "Naturaleza - Observación de fauna",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de paisaje",
+    "Naturaleza - Observación de aves",
+    "Deportes / Aventura - Caminata/Trekking",
+    "Deportes / Aventura - Camping",
+    "Paseos - Paseos en bote"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de fauna",
+      "observacion": "27 especies entre anfibios y reptiles  74 especies de peces  29 especies de mamíferos",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fauna02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "Más de 540 especies de flora y 6 tipos de bosques.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de aves",
+      "observacion": "Más de 170 especies de aves",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/aves02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "Por las trochas alrededor de la orilla del lago.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Camping",
+      "observacion": "Área definida a la orilla del lago.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/camping02.png"
+    },
+    {
+      "actividad": "Paseos",
+      "tipo": "Paseos en bote",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paseo_bote02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Madre De Dios/Tambopata/Tambopata - Madre De Dios/Tambopata/Laberinto",
+      "detalle": "Ciudad de Puerto MAldonado - Localidad de Laberinto",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "58 kms. / 01 hora y 10 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Madre De Dios/Tambopata/Laberinto - Madre De Dios/Tambopata/Laberinto",
+      "detalle": "Localidad de Laberinto - Comunidad Huitoto",
+      "tipo_acceso": "Lacustre / Fluvial",
+      "medio_transporte": "Bote",
+      "tipo_via": "",
+      "distancia_tiempo": "03 horas"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Madre De Dios/Tambopata/Laberinto - Madre De Dios/Tambopata/Laberinto",
+      "detalle": "Comunidad Huitoto - Huitoto Lake Lodge",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "",
+      "distancia_tiempo": "01 km. / 15 minutos."
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "150",
+      "horario": "Informe Dircetur Madre de Dios",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "04:30 a.m. - 10:00 a.m. --",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Semi-restringido(previo permiso)",
+      "observaciones": "Previo permiso solicitado al concesionario. Sr. Gilberto Vela. Celular: 974615271."
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Albergues",
+      "observacion": "Consesionario Huitoto Lake Lodge"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Consesionario Huitoto Lake Lodge"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Localidad de Laberinto."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Localidad de Laberinto."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de botes",
+      "observacion": "Localidad de Laberinto."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de taxi",
+      "observacion": "Localidad de Laberinto."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Tópico",
+      "observacion": "Localidad de Laberinto."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Puerto Maldonado"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Ciudad de Puerto Maldonado"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Puerto Maldonado"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de Puerto Maldonado"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Inglés, portugués y español en la Ciudad de Puerto Maldonado"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Localidad de Laberinto."
+    }
+  ],
+  "descripcion": "Se ubica a 60 kilómetros al oeste de la ciudad de Puerto Maldonado, en la ecorregión natural de Selva Baja, con un clima tropical, muy húmedo y lluvioso, y temperaturas que oscila entre los 25 y 35 °C. El lago recibe su nombre por la presencia ancestral de una comunidad indígena del grupo étnico Huitoto. Posee una longitud aproximada de 400 metros, siendo uno de los lagos más extensos de la región Madre de Dios, originado a partir del cauce antiguo del rio Madre de Dios.\nExiste una isla a mitad del lago que aparenta dividir al lago en dos partes. Sus aguas tienen una profundidad máxima de 17 metros y una mínima de 10 metros, con una claridad de hasta 80 centímetros, con aguas color claro verde turquesa por la presencia de fitoplancton y flora acuática, que permite divisar la presencia de la flora y la fauna ictiológica del recurso.\nSegún investigaciones realizadas por la ONG Asociación para la Conservación de la Cuenca Amazónica (ACCA), responsable del monitoreo de la flora y fauna del lago Huitoto y sus alrededores, confirman la asombrosa diversidad que presenta el ecosistema de este recurso Más de 540 especies de flora, Más de 170 especies de aves, 27 especies entre anfibios y reptiles, 74 especies de peces, 29 especies de mamíferos, 6 tipos de bosques.\nEntre las aves destacan la Anhinga o Pato Aguja (Anhinga anhinga), la Garza Tamanquita (Butorides estriatus), el Shiguango (Daptrius ater), Locrero (Crotophaga major), Shansho u Hoatzin (Ophistocomus hoazin), peculiar ave considerada prehistórica por los científicos y ornitologos, el Martin Pescador Grande (Ceryle torquata), el Gaviotin pequeño (Phaetusa simplex), la Riparia riparia, el Tuqui Tuqui (Jacana jacana), la golondrina (Tachycineta albiventer), la Porphyrula martinica, la Chicua (Piaya cayana), el Elanoides forficarius, la Garza blanca grande (Ardea alba), el Patito silvestre (Tachybaptus dominicus), el Donacobius Negro (Donacobius atricapillus), el Limpkin (Aramus guarano), el Pato Amazónico (Cairina moschata).\nAdemás, existen mamíferos como el Maquisapa (Ateles paniscus), el Mono Ardilla (Saimiri boliviensis), y el emblemático Lobo de río (Pteronura brasiliensis), especie que, con su presencia, confirma los índices óptimos de salubridad de los ecosistemas acuáticos de selva baja, lo que evidencia el buen estado de conservación de este recurso. Entre los reptiles se aprecian a la Taricaya (Podocnemis unifilis), y esporádicamente la gran Anaconda y el Caimán Negro (Melanosuchus niger) que da un increíble espectáculo por las noches donde sus ojos brillan intensamente a la luz de la luna.\nTambién existen peces propios de este ecosistema como la piraña roja, la sardina, la palometa, el bujurqui, el huasaco, el Bagre, la lisa, entre otros. La familia Vela propietaria de Huitoto Lake Lodge y concesionario del área, ha realizado labores de conservación, cuidando los bosques primarios y aguajales. Producto de estas acciones, se ha registrado la presencia del jaguar, la sachavaca, la huangana, el sajino y el venado colorado, recorriendo las orillas del lago, uno de los más vistosos de la Amazonía peruana.",
+  "particularidades": "",
+  "estado_actual": "Muy bueno, se realizan constantemente acciones de conservación y protección por parte de los concesionarios.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Se ubica a 60 kilómetros al oeste de la ciudad de Puerto Maldonado, en la ecorregión natural de Selva Baja, con un clima tropical, muy húmedo y lluvioso, y temperaturas que oscila entre los 25 y 35 °C. El lago recibe su nombre por la presencia ancestral de una comunidad indígena del grupo étnico Huitoto. Posee una longitud aproximada de 400 metros, siendo uno de los lagos más extensos de la región Madre de Dios, originado a partir del cauce antiguo del rio Madre de Dios.\nExiste una isla a mitad del lago que aparenta dividir al lago en dos partes. Sus aguas tienen una profundidad máxima de 17 metros y una mínima de 10 metros, con una claridad de hasta 80 centímetros, con aguas color claro verde turquesa por la presencia de fitoplancton y flora acuática, que permite divisar la presencia de la flora y la fauna ictiológica del recurso.\nSegún investigaciones realizadas por la ONG Asociación para la Conservación de la Cuenca Amazónica (ACCA), responsable del monitoreo de la flora y fauna del lago Huitoto y sus alrededores, confirman la asombrosa diversidad que presenta el ecosistema de este recurso Más de 540 especies de flora, Más de 170 especies de aves, 27 especies entre anfibios y reptiles, 74 especies de peces, 29 especies de mamíferos, 6 tipos de bosques.\nEntre las aves destacan la Anhinga o Pato Aguja (Anhinga anhinga), la Garza Tamanquita (Butorides estriatus), el Shiguango (Daptrius ater), Locrero (Crotophaga major), Shansho u Hoatzin (Ophistocomus hoazin), peculiar ave considerada prehistórica por los científicos y ornitologos, el Martin Pescador Grande (Ceryle torquata), el Gaviotin pequeño (Phaetusa simplex), la Riparia riparia, el Tuqui Tuqui (Jacana jacana), la golondrina (Tachycineta albiventer), la Porphyrula martinica, la Chicua (Piaya cayana), el Elanoides forficarius, la Garza blanca grande (Ardea alba), el Patito silvestre (Tachybaptus dominicus), el Donacobius Negro (Donacobius atricapillus), el Limpkin (Aramus guarano), el Pato Amazónico (Cairina moschata).\nAdemás, existen mamíferos como el Maquisapa (Ateles paniscus), el Mono Ardilla (Saimiri boliviensis), y el emblemático Lobo de río (Pteronura brasiliensis), especie que, con su presencia, confirma los índices óptimos de salubridad de los ecosistemas acuáticos de selva baja, lo que evidencia el buen estado de conservación de este recurso. Entre los reptiles se aprecian a la Taricaya (Podocnemis unifilis), y esporádicamente la gran Anaconda y el Caimán Negro (Melanosuchus niger) que da un increíble espectáculo por las noches donde sus ojos brillan intensamente a la luz de la luna.\nTambién existen peces propios de este ecosistema como la piraña roja, la sardina, la palometa, el bujurqui, el huasaco, el Bagre, la lisa, entre otros. La familia Vela propietaria de Huitoto Lake Lodge y concesionario del área, ha realizado labores de conservación, cuidando los bosques primarios y aguajales. Producto de estas acciones, se ha registrado la presencia del jaguar, la sachavaca, la huangana, el sajino y el venado colorado, recorriendo las orillas del lago, uno de los más vistosos de la Amazonía peruana."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "Ordenanza Regional N° 025-2012-RMDD/CR, que declara de interés regional la conservación del Lago Huitoto, por su valor bioecologico, importancia natural y diversidad biológica en flora y fauna."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Muy bueno, se realizan constantemente acciones de conservación y protección por parte de los concesionarios."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n150\nInforme Dircetur Madre de Dios\n2021"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nMadre De Dios/Tambopata/Tambopata\n-\nMadre De Dios/Tambopata/Laberinto\nCiudad de Puerto MAldonado - Localidad de Laberinto\nTerrestre\nAutomóvil particular\nAsfaltado\n58 kms. / 01 hora y 10 minutos\n1\nMadre De Dios/Tambopata/Laberinto\n-\nMadre De Dios/Tambopata/Laberinto\nLocalidad de Laberinto - Comunidad Huitoto\nLacustre / Fluvial\nBote\n03 horas\n1\nMadre De Dios/Tambopata/Laberinto\n-\nMadre De Dios/Tambopata/Laberinto\nComunidad Huitoto - Huitoto Lake Lodge\nTerrestre\nA pie\n01 km. / 15 minutos."
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nSemi-restringido(previo permiso)\nPrevio permiso solicitado al concesionario. Sr. Gilberto Vela. Celular: 974615271."
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n04:30 a.m.\n-\n10:00 a.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nEstudios e Investigación\n--\nNaturaleza\nObservación de fauna\n27 especies entre anfibios y reptiles\n74 especies de peces\n29 especies de mamíferos\nNaturaleza\nObservación de flora\nMás de 540 especies de flora y 6 tipos de bosques.\nNaturaleza\nObservación de paisaje\n--\nNaturaleza\nObservación de aves\nMás de 170 especies de aves\nDeportes / Aventura\nCaminata/Trekking\nPor las trochas alrededor de la orilla del lago.\nDeportes / Aventura\nCamping\nÁrea definida a la orilla del lago.\nPaseos\nPaseos en bote\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nAlojamiento\nAlbergues\nConsesionario Huitoto Lake Lodge\nInstalaciones Privadas\nAlimentación\nOtros (Especificar)\nConsesionario Huitoto Lake Lodge"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlimentación\nRestaurantes\nLocalidad de Laberinto.\nAlimentación\nKioskos de comida y bebidas\nLocalidad de Laberinto.\nOtros Servicios Turísticos\nAlquiler de botes\nLocalidad de Laberinto.\nOtros Servicios Turísticos\nServicio de taxi\nLocalidad de Laberinto.\nOtros Servicios Turísticos\nTópico\nLocalidad de Laberinto.\nLugares de Recreación\nDiscotecas\nCiudad de Puerto Maldonado\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nCiudad de Puerto Maldonado\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Puerto Maldonado\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de Puerto Maldonado\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nInglés, portugués y español en la Ciudad de Puerto Maldonado\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nLocalidad de Laberinto."
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nLocalidad de Laberinto\nBancos\nLocalidad de Laberinto\nCajero automático\nLocalidad de Laberinto\nEstación de servicios, grifos, gasolineras y gasocentros\nLocalidad de Laberinto\nServicio de correos\nCiudad de Puerto Maldonado\nServicios de taxis\nLocalidad de laberinto\nCentro de salud - tópico\nLocalidad de Laberinto\nSeguridad / POLTUR / Comisaría\nLocalidad de Laberinto\nBodegas o minimarkets\nLocalidad de Laberinto"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nEnergía Alternativa\nHuitoto Lake Lodge\nTeléfono\nHuitoto Lake Lodge\nSeñalización turística\nHuitoto Lake Lodge"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nLocalidad de Laberinto.\nDesagüe\nLocalidad de Laberinto\nLuz (Suministro Eléctrico)\nLocalidad de Laberinto\nTeléfono\nLocalidad de Laberinto"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\n--\nPrivado:\nHuitoto Lake Lodge\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nConcesión Privada Huitoto Lake Lodge.\nAdministrador por\nNombre\nAdministrador Huitoto Lake Lodge: Sr. Gilberto Vela\nTiempo de administración\nDesde el año 2015."
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo - Madre de Dios\nNombre (Persona(s) responsable(s) del inventario turístico):\nRosa Milagros Delgado Huaytalla\nCargo:\nTécnico de recurso turístico\nCorreo:\nrmilagrosd@gmail.com\nTeléfono:\n953458376\nFuentes Bibliográfica:\n- Portal Web del Consesionario Huitoto Lake Lodge.\nhttps://www.huitotolakelodge.com/lago-huitoto/\n- “Diagnóstico Hidrológico de la Cuenca Madre de Dios”. Autoridad Nacional del Agua - Administración Local de Agua Maldonado. Agosto 2010.\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n12/12/2022"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -12.628728280135597,
+    "longitud": -69.98249298413089
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-12.628728280135597,-69.98249298413089"
+}

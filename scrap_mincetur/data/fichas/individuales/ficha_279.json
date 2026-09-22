@@ -1,0 +1,632 @@
+{
+  "cod_ficha": 279,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=279",
+  "nombre": "Santuario Histórico Bosque De Pómac",
+  "departamento": "Lambayeque",
+  "provincia": "Ferreñafe",
+  "distrito": "PITIPO",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "n. Áreas Protegidas",
+  "subtipo": "Santuarios Históricos",
+  "jerarquia": "4",
+  "altitud": "60",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=497955",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=497955",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=497957",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=497928",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=502716",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=502983",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=503021",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=503022",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=503023",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=503024",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=503025",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=502984",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=503235",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=503236",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=503266",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=503267",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=503237",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=503238"
+  ],
+  "actividades_permitidas": [
+    "Otros - Compras de artesanía/souvenir",
+    "Otros - Toma de fotografías y filmaciones",
+    "Paseos - Excursiones",
+    "Otros - Actividades Culturales",
+    "Otros - Estudios e Investigación",
+    "Naturaleza - Observación de fauna",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de paisaje",
+    "Naturaleza - Observación de aves",
+    "Deportes / Aventura - Caminata/Trekking",
+    "Deportes / Aventura - Ciclismo",
+    "Deportes / Aventura - Camping",
+    "Cultura y Folclore - Degustación y preparación de platos, productos o bebidas típicas",
+    "Cultura y Folclore - Ferias",
+    "Paseos - Paseos a caballo",
+    "Paseos - Paseos en bicicleta",
+    "Deportes / Aventura - Cabalgatas",
+    "Cultura y Folclore - Visita y participación en actividades de vida cotidiana de la comunidad",
+    "Cultura y Folclore - Apreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)",
+    "Cultura y Folclore - Participación y/u observación del proceso de elaboración de productos locales",
+    "Otros - Compra de productos regionales"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Compras de artesanía/souvenir",
+      "observacion": "Al lado derecho del Centro de Interpretación.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/artesania02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "Se paga de acuerdo a TUPA sólo con fines comercial",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Paseos",
+      "tipo": "Excursiones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/excursiones02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Actividades Culturales",
+      "observacion": "Representación del Señor de Sicán",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/act_culturales02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de fauna",
+      "observacion": "Ruta ecuestre, rutas de aves. Zorros, Coralillo, Ardillas.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fauna02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "Árbol milenario: algarrobos. Ruta Río Viejo: Faiques, Cuncunos, Vichayos, etc.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de aves",
+      "observacion": "Rutas: la Cortarrama, río viejo, golondrina Tumbes",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/aves02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "Hacia el Arbol Milenario, Mirador Salinas, Complejo Arqueológico Sicán. Ruta de aves: Río viejo Ruta de la Cortarrama, Ruta de la Golondrina.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Ciclismo",
+      "observacion": "En la zona de uso turístico de acuerdo al Plan de Sitio del ANP y que han sido acondicionadas (Señalización y estacionamientos): Árbol Milenario–Mirador Las Salinas-Casa Karl Weis- Mirador La Merced.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/ciclismo02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Camping",
+      "observacion": "Se cuenta con 02 áreas (Karl Weiss y Centro de Interpretación) que han sido acondicionadas y autorizadas en el Plan de Sitio del ANP para realizar el Camping (Operador Turístico autorizado por SERNANP",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/camping02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Degustación y preparación de platos, productos o bebidas típicas",
+      "observacion": "En ferias por Aniversario del Santuario.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/platos_tipicos02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Ferias",
+      "observacion": "En aniversario del SHBP",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/feria02.png"
+    },
+    {
+      "actividad": "Paseos",
+      "tipo": "Paseos a caballo",
+      "observacion": "Se realiza en la Ruta Ecuestre, a través de uno de los Operadores Turísticos autorizados por SERNANP.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paseo_caballo02.png"
+    },
+    {
+      "actividad": "Paseos",
+      "tipo": "Paseos en bicicleta",
+      "observacion": "En zona de Uso Turístico de acuerdo al Plan de Sitio del ANP y que han sido acondicionadas (Señalización y estacionamientos): Árbol Milenario – Mirador Las Salinas - Casa Karl Weiss - Mirador La Merc",
+      "icono_url": null
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Cabalgatas",
+      "observacion": "Se realiza en la Ruta Ecuestre, a través de uno de los Operadores Turísticos autorizados por SERNANP.",
+      "icono_url": null
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Visita y participación en actividades de vida cotidiana de la comunidad",
+      "observacion": "--",
+      "icono_url": null
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Apreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)",
+      "observacion": "--",
+      "icono_url": null
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Participación y/u observación del proceso de elaboración de productos locales",
+      "observacion": "--",
+      "icono_url": null
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Compra de productos regionales",
+      "observacion": "Como miel de abeja, algarrobina, polen, etc.",
+      "icono_url": null
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Lambayeque/Chiclayo/Chiclayo - Lambayeque/Ferreñafe/Pitipo",
+      "detalle": "Chiclayo - Ferreñafe - Pítipo - Santuario Histórico Bosque de Pómac",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "42 Km. / 50 minutos"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Lambayeque/Chiclayo/Chiclayo - Lambayeque/Lambayeque/Tucume",
+      "detalle": "Chiclayo - Túcume - Santa Rosa de las Salinas",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "40.5 Km / 1 hora"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Lambayeque/Lambayeque/Tucume - Lambayeque/Lambayeque/Tucume",
+      "detalle": "Santa Rosa de las Salina - Puesto de Control a Moyocupe",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "500 metros / 5 minutos"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Lambayeque/Chiclayo/Chiclayo - Lambayeque/Lambayeque/Illimo",
+      "detalle": "Chiclayo - Illimo - Centro Poblado Cruz Verde",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "40 Km. / 50 minutos"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Lambayeque/Lambayeque/Illimo - Lambayeque/Lambayeque/Illimo",
+      "detalle": "Centro Poblado Cruz Verde - Puesto de Control de Illimo",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "2 km / 15 minutos."
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "443",
+      "horario": "Registro en Jefatura del Santuario Histórico Bosque de Pómac",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "13047",
+      "horario": "Registro en Jefatura del Santuario Histórico Bosque de Pómac",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "08:30 a.m. - 04:30 p.m. Lleva ropa cómoda para las caminatas Usa repelente y bloqueador para protegerte de los rayos UV. Usa ropa y accesorios adecuados para tu visita según el clima y características del lugar.",
+      "observaciones": "Lleva ropa cómoda para las caminatas Usa repelente y bloqueador para protegerte de los rayos UV. Usa ropa y accesorios adecuados para tu visita según el clima y características del lugar."
+    },
+    {
+      "epoca": "Personas con discapacidad física",
+      "especificacion": "Rampas y servicios higiénicos,",
+      "horario": "--",
+      "observaciones": "--"
+    },
+    {
+      "epoca": "Niños",
+      "especificacion": "Área de interpretación lúdica \"Bosque de los Niños\"",
+      "horario": "--",
+      "observaciones": "--"
+    },
+    {
+      "epoca": "Adulto mayor",
+      "especificacion": "--",
+      "horario": "Tours gratuitos.",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "- Extranjero: Adulto y niño S/ 30.00 - Nacional: Adulto S/ 11.00 y Niño () S/ 5.00 - Locales (residentes locales presentan DNI) Adulto S/ 5.00 Niño (*) S/ 3.00 (*)Menores entre 5 a 16 años"
+    },
+    {
+      "tipo": "Libre",
+      "observaciones": "Para población nacional a menores de 5 años y mayores de 65 años."
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de Caballos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de bicicleta",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Centro de Interpretación",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Seguridad / POLTUR",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicios Higiénicos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Las agencias en algunos casos llegan con guías en idioma inglés."
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Estacionamiento",
+      "observacion": "Lado lateral del Centro de Interpretación"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Venta de productos naturales"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Lugares de picnic",
+      "observacion": "En espacio autorizado por SERNANP."
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "Mirador Las Salinas."
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Al ingreso al Centro de interpretación."
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de interpretación",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Boletería",
+      "observacion": "En el Centro de interpretación."
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "En el Centro de Interpretación."
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Centros de interpretación",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Instalación para la exposición de flora o fauna silvestre",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Paradores turísticos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de Campamento(camping)",
+      "observacion": "En áreas autorizadas por SERNANP"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Puesto de auxilio rápido",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Museo de Sitio Turísticos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Refugios (para recorridos largos)",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "Ciudad de Chiclayo (Hoteles de 4 estrellas)"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ferreñafe y Chiclayo (centro soporte)"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Servicio de internet en Ferreñafe y Chiclayo (centro soporte)"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Centro de Salud, en Ferreñafe y Chiclayo (centro soporte)"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Chiclayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Ecolodge (En Illimo y Túcume)"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ferreñafe y Chiclayo (centro soporte)"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "En Chiclayo."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Cines o Teatros",
+      "observacion": "En Chiclayo."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ferreñafe y Chiclayo (centro soporte)"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de camionetas 4 x 4",
+      "observacion": "En Chiclayo."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "En Chiclayo (centro soporte) y Ferreñafe"
+    }
+  ],
+  "descripcion": "Área Natural Protegida, que forma parte del Sistema Nacional de Áreas Naturales Protegidas por el Estado (SINANPE) y administrado por el Ministerio del Ambiente, a través del Servicio Nacional de Áreas Naturales Protegidas (SERNANP), cuyo objetivo de creación es conservar la unidad paisajística – cultural que forma parte del Bosque Seco Ecuatorial y el Complejo Arqueológico perteneciente a la Cultura Lambayeque.\nSe encuentra dentro de la Ecorregión de Bosque Seco Ecuatorial, y forma parte de la Zona de Endemismo Tumbesina, que es considerado a nivel mundial, como área prioritaria para la conservación, donde se protege la mayor y más densa formación de algarrobos del planeta. Su nivel de importancia se incrementa dado que en el Santuario conserva además el complejo de pirámides más numeroso de Sudamérica y uno de los más importantes del país; donde fueron hallados el famoso Tumi de Oro y la Máscara de Ojos Alados, íconos que representan a Naylamp, mítico fundador de la cultura Sicán o Lambayeque, y que en determinado momento llegó a ser uno de los centros del desarrollo de una de las culturas más importantes de la costa norte del Perú.\nEl Santuario Histórico Bosque de Pómac (ex Zona Reservada Batan Grande) ubicado a 41.5 Km. de Chiclayo, se estableció mediante Decreto Supremo Nº 034–2001–AG, el 01 de junio del 2001, sobre una superficie de 5,887.38 hectáreas que conforman un lugar fascinante donde la diversidad biológica y cultural de nuestro país se fusionan para ofrecerle al visitante una mezcla inolvidable de naturaleza e historia y donde en sus alrededores están asentadas poblaciones de origen Muchik que aún conservan algunas tradiciones ancestrales. Su clima es seco y su temperatura es entre 14 °C – 35 °C. Su ecosistema presenta flora silvestre diversa en especies considerando las herbáceas, diversa en edad, que asegura el reclutamiento, y continuidad del ecosistema, estableciéndose el hábitat de 03 especies de aves en peligro en extinción: Tumbezia salvini, Myiarchus semirufus, Phytotoma raimondii. Existe plantas preferidas que asegura la alimentación y reproducción de estas especies para continuar el desarrollo e incremento de las especies. También se puede apreciar a la Cortarrama Peruana, Golondrina de Tumbes, Copetón Rufo, Pitajo de Tumbes y La Macanche.\nComunidades Ecológicas: Algarrobal, Bosque de Galería, y Bosque Tipo Sábana.\nEntre los atractivos y rutas turísticas tenemos: el Centro de Interpretación, aquí se conocerá los valiosos recursos que alberga el Santuario, adquirir el ticket de ingreso, recibir información y contratar los diversos servicios turísticos. Bosque de los Niños, área de interpretación lúdica, donde se promueve la Educación Ambiental como estrategia de sensibilización y educación a los visitantes y población local sobre la valoración y entendimiento del ANP como Santuario Histórico y su involucramiento en la protección y conservación de todo el Patrimonio cultural y natural que alberga y se protege en el Bosque de Pómac. El Árbol Milenario, uno de los principales atractivos del Bosque. Mirador Las Salinas, donde se podrá tener una increíble vista del paisaje conformado por el extenso bosque seco y las pirámides. Complejo Arqueológico Sicán, el más importante al interior del Santuario, destacan Huaca Las Ventanas y Huaca El Oro por sus grandes hallazgos. Casa Karl Weiss, casa del ingeniero alemán, Karl Weiss Schereiber, quien introdujo la crianza tecnificada de la abeja europea y donde las más importantes familias productoras de miel de abeja de la Z.A. y de la cuenca iniciaron esta actividad. Huaca La Merced: una de las Huacas más representativas que forma parte del Complejo Arqueológico, donde se realiza la interpretación del paisaje del que fue el asentamiento más importante de la cultura Sicán, siendo por ello reconocido al SHBP como el bosque de los reyes de Lambayeque. También podrá recorrer las Ruta de Aves (del Río Viejo, Cortarrama y Golondrina de Tumbes), así como la ruta ecuestre.",
+  "particularidades": "Característica Histórica: la Tumba Este de Huaca del Oro o Loro del Santuario Histórico Bosque de Pómac, es la TUMBA MÁS RICA DE AMÉRICA, durante los trabajos de investigación arqueológica en torno a la naturaleza del poder, desarrollo y organización sociopolítica de un estado teocrático durante el periodo Sicán Medio, el Proyecto Arqueológico de Sicán dirigido por Dr. Izumi Shimada y codirigido por el Dr. Carlos Elera (1991), se decidió excavar tumbas de la elite Sicán en los Templos/Mausoleos de Huaca Las Ventanas y Huaca del Oro o Loro, ubicadas en el Santuario Histórico Bosque de Pómac. Por primera vez se tuvo la oportunidad de excavar una cámara funeraria In situ, vinculada a un personaje de alto rango social, este personaje fue encontrado rodeado por 1.2 toneladas de bienes culturales asociados, siendo hasta la fecha la tumba precolombina más rica documentada arqueológicamente en el continente americano. En su conjunto los objetos encontrados exhiben una clara unidad estilística y técnica junto con las orejeras de oro halladas sobre la máscara y la cabeza del personaje principal, Estos ocho pares de orejeras, al igual que la máscara, representan uno de los mejores trabajos en oro del mundo prehispánico.\nEsto se fundamenta en los libros “Cultura Sicán. Dios, riqueza y poder en la costa norte del Perú”, de Shimada, Izumi. Edición: Lima: EDUBANCO, Fundación del Banco Continental para el fomento de la Educación y la Cultura, 1995 y el libro “CULTURA SICÁN Esplendor Cultural de la costa Norte”, Editor Izumi Shimada, Editorial del Congreso de la República del Perú, 2014, se puede leer en la página Nº 56, 76 y 54 respectivamente,\nAsimismo, en el Programa: Grandes Descubrimientos del Perú, de RPP Noticias, se puede observar en uno de sus programas publicados en el año 2023, titulado “El Señor de Sicán”, se menciona también que el tesoro de la cámara funeraria de la Tumba Este del Complejo Arqueológico Sicán, llegaba casi a 1.5 toneladas de peso, considerada la tumba más rica de América.\nEn resumen, se trata de la tumba más rica de América encontrada, procedentes de los linajes reales del Núcleo Monumental Sicán del Santuario Histórico Bosque de Pómac, conteniendo la más significativa producción de bienes suntuarios de gran prestigio del Antiguo Perú, hechos en oro y plata, que tienen como eje principal a la representación del Dios Ñaymlap, “Ave del Agua”.\nCaracterísticas Naturales: El Santuario Histórico Bosque de Pómac se ubica en la ecorregión de Bosque Seco Ecuatorial, el científico peruano y también primer Ministro del Ambiente del Perú, Dr. Antonio Brack Egg, afirma en su libro Ecología del Perú, que el bosque seco ecuatorial es un bioma único en el mundo que se encuentra sólo en el sur del Ecuador y en el norte del Perú. Esto genera condiciones particulares para que albergue diversas especies endémicas. Esto se encuentra plasmado en el capítulo 5 en la página 128 del libro.\nAsimismo, en la página oficial del Estado Peruano, sitio web del SERNANP, ente rector, al describir el Santuario Histórico Bosque de Pómac, destaca que este santuario, creado como Área Natural Protegida, el 01 junio 2001, mediante D.S. 034-2001-AG \"protege la mayor y más densa formación de algarrobos del planeta. Además, se enfatiza que sus más de 5 mil hectáreas conforman un lugar fascinante donde la diversidad biológica y cultural del país se entrelazan para ofrecer a los visitantes una experiencia inolvidable que combina naturaleza e historia.",
+  "estado_actual": "Muy bueno, ya que de acuerdo al último Reporte Técnico N° 004-2023-SERNANP-DDE, (II Trimestre 2023) se puede observar que no se reporta efecto alguno ni por contaminación ni por sobreuso de recursos (depredación) relacionados a la actividad turística (0.00%); demostrando así, que el turismo es una estrategia clave para los objetivos de conservación efectiva del Área Natural Protegida.\nAsimismo, cuenta con un Plan Maestro 2017-2021, el cual ha sido un instrumento de gestión Clave, que ha permitido asegurar en una primera instancia la conservación del ANP, desde su creación, promoviendo el uso sostenible a través de actividades humanas compatibles y además determinar las responsabilidades y obligaciones de los actores relacionados con el SHBP.\nAdemás el Santuario Histórico Bosque de Pómac, cuenta con un Plan de Sitio del Área Natural Protegida donde se han establecido instrumentos de gestión que contribuyen a controlar el mínimo impacto negativo para con los espacios naturales y culturales del Bosque de Pómac, tales como: Niveles de uso turístico, Capacidad de carga turística, Límites aceptables de cambio, Fichas de avistamiento de fauna y Normas de conducta.",
+  "observaciones": "El acceso principal es por el distrito de Pítipo, en la provincia de Ferreñafe; pero también se cuenta con otros puntos de acceso en los distritos de Túcume, Íllimo, Pacora de la provincia de Lambayeque, cada uno de ellos cuenta con un puesto de control y vigilancia los cuales son: PCV – Centro de Interpretación, PCV – Íllimo, PCV – Moyocupe y PCV – Pómac II.\nCada Puestos de Control y Vigilancia, son custodiados las 24 horas del día por un Guardaparque Oficial del Santuario Histórico Bosque de Pómac, quienes controlan la entrada y salidas de todas las personas que visitan el Área Natural Protegida, a su vez que realizan sus patrullajes diarios respectivos que permitan en todo momento monitorear la actividad turística y de esta manera garantizar una visita segura para los turistas.\nAdemás, es importante recalcar que dentro del Bosque de Pómac se encuentra instalado el Destacamento de Medio Ambiente del distrito de Batan Grande, perteneciente a la Dependencia de Medio Ambiente de la Policía Nacional del Perú – DEPMA PNP LAMBAYEQUE, y la cual cuenta con Personal Efectivo Policial disponible las 24 horas del día, quienes a su vez acompañan diariamente a los Guardaparques Oficiales, en los diversos patrullajes rutinarios dentro del Área Natural Protegida.\nActualmente se encuentra en proceso de reconocimiento mundial por la UNESCO como Patrimonio Mundial Mixto de la Humanidad\nEl Santuario Histórico Bosque de Pómac, promueve la Gestión Participativa, la cual se debe entender como el involucramiento no solo entidades públicas y privadas; sino también de la población local, como una estrategia clave para alcanzar los objetivos de conservación del Área Natural Protegida - ANP.\nEn ese sentido, se cuenta con un Comité de Gestión Local (Resolución Directoral N°059-2022-SERNANP-DGANP), integrado por 03 Grupos de Interés: Turismo, Recursos Naturales y Cultura, siendo el escenario de participación ciudadana voluntaria de mayor importancia para la gestión del ANP, conformada actualmente por 101 actores, de los cuales 44 son actores “Usuarios de los Recursos Naturales (Poblaciones, Comunidades, Organizaciones Civiles)”, 33 del sector público, 21 del sector privado y 03 son organizaciones sin fines de lucro y/u otras instituciones de cooperación, donde se resalta que 35 aliados (35%) forman parte del Grupo de Interés de Turismo.\nGracias a este espacio, todos estos actores vinculados al Santuario, se ofrecen voluntariamente para apoyar a su gestión en estrecha coordinación con la jefatura del Bosque, en acciones de vigilancia, protección, conservación, educación ambiental, turismo, entre muchas otras, siendo sus aportes y compromisos finalmente incluidos en los Instrumentos de Gestión del Área Natural Protegida.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Área Natural Protegida, que forma parte del Sistema Nacional de Áreas Naturales Protegidas por el Estado (SINANPE) y administrado por el Ministerio del Ambiente, a través del Servicio Nacional de Áreas Naturales Protegidas (SERNANP), cuyo objetivo de creación es conservar la unidad paisajística – cultural que forma parte del Bosque Seco Ecuatorial y el Complejo Arqueológico perteneciente a la Cultura Lambayeque.\nSe encuentra dentro de la Ecorregión de Bosque Seco Ecuatorial, y forma parte de la Zona de Endemismo Tumbesina, que es considerado a nivel mundial, como área prioritaria para la conservación, donde se protege la mayor y más densa formación de algarrobos del planeta. Su nivel de importancia se incrementa dado que en el Santuario conserva además el complejo de pirámides más numeroso de Sudamérica y uno de los más importantes del país; donde fueron hallados el famoso Tumi de Oro y la Máscara de Ojos Alados, íconos que representan a Naylamp, mítico fundador de la cultura Sicán o Lambayeque, y que en determinado momento llegó a ser uno de los centros del desarrollo de una de las culturas más importantes de la costa norte del Perú.\nEl Santuario Histórico Bosque de Pómac (ex Zona Reservada Batan Grande) ubicado a 41.5 Km. de Chiclayo, se estableció mediante Decreto Supremo Nº 034–2001–AG, el 01 de junio del 2001, sobre una superficie de 5,887.38 hectáreas que conforman un lugar fascinante donde la diversidad biológica y cultural de nuestro país se fusionan para ofrecerle al visitante una mezcla inolvidable de naturaleza e historia y donde en sus alrededores están asentadas poblaciones de origen Muchik que aún conservan algunas tradiciones ancestrales. Su clima es seco y su temperatura es entre 14 °C – 35 °C. Su ecosistema presenta flora silvestre diversa en especies considerando las herbáceas, diversa en edad, que asegura el reclutamiento, y continuidad del ecosistema, estableciéndose el hábitat de 03 especies de aves en peligro en extinción: Tumbezia salvini, Myiarchus semirufus, Phytotoma raimondii. Existe plantas preferidas que asegura la alimentación y reproducción de estas especies para continuar el desarrollo e incremento de las especies. También se puede apreciar a la Cortarrama Peruana, Golondrina de Tumbes, Copetón Rufo, Pitajo de Tumbes y La Macanche.\nComunidades Ecológicas: Algarrobal, Bosque de Galería, y Bosque Tipo Sábana.\nEntre los atractivos y rutas turísticas tenemos: el Centro de Interpretación, aquí se conocerá los valiosos recursos que alberga el Santuario, adquirir el ticket de ingreso, recibir información y contratar los diversos servicios turísticos. Bosque de los Niños, área de interpretación lúdica, donde se promueve la Educación Ambiental como estrategia de sensibilización y educación a los visitantes y población local sobre la valoración y entendimiento del ANP como Santuario Histórico y su involucramiento en la protección y conservación de todo el Patrimonio cultural y natural que alberga y se protege en el Bosque de Pómac. El Árbol Milenario, uno de los principales atractivos del Bosque. Mirador Las Salinas, donde se podrá tener una increíble vista del paisaje conformado por el extenso bosque seco y las pirámides. Complejo Arqueológico Sicán, el más importante al interior del Santuario, destacan Huaca Las Ventanas y Huaca El Oro por sus grandes hallazgos. Casa Karl Weiss, casa del ingeniero alemán, Karl Weiss Schereiber, quien introdujo la crianza tecnificada de la abeja europea y donde las más importantes familias productoras de miel de abeja de la Z.A. y de la cuenca iniciaron esta actividad. Huaca La Merced: una de las Huacas más representativas que forma parte del Complejo Arqueológico, donde se realiza la interpretación del paisaje del que fue el asentamiento más importante de la cultura Sicán, siendo por ello reconocido al SHBP como el bosque de los reyes de Lambayeque. También podrá recorrer las Ruta de Aves (del Río Viejo, Cortarrama y Golondrina de Tumbes), así como la ruta ecuestre."
+    },
+    {
+      "titulo": "Particularidades",
+      "contenido": "Característica Histórica: la Tumba Este de Huaca del Oro o Loro del Santuario Histórico Bosque de Pómac, es la TUMBA MÁS RICA DE AMÉRICA, durante los trabajos de investigación arqueológica en torno a la naturaleza del poder, desarrollo y organización sociopolítica de un estado teocrático durante el periodo Sicán Medio, el Proyecto Arqueológico de Sicán dirigido por Dr. Izumi Shimada y codirigido por el Dr. Carlos Elera (1991), se decidió excavar tumbas de la elite Sicán en los Templos/Mausoleos de Huaca Las Ventanas y Huaca del Oro o Loro, ubicadas en el Santuario Histórico Bosque de Pómac. Por primera vez se tuvo la oportunidad de excavar una cámara funeraria In situ, vinculada a un personaje de alto rango social, este personaje fue encontrado rodeado por 1.2 toneladas de bienes culturales asociados, siendo hasta la fecha la tumba precolombina más rica documentada arqueológicamente en el continente americano. En su conjunto los objetos encontrados exhiben una clara unidad estilística y técnica junto con las orejeras de oro halladas sobre la máscara y la cabeza del personaje principal, Estos ocho pares de orejeras, al igual que la máscara, representan uno de los mejores trabajos en oro del mundo prehispánico.\nEsto se fundamenta en los libros “Cultura Sicán. Dios, riqueza y poder en la costa norte del Perú”, de Shimada, Izumi. Edición: Lima: EDUBANCO, Fundación del Banco Continental para el fomento de la Educación y la Cultura, 1995 y el libro “CULTURA SICÁN Esplendor Cultural de la costa Norte”, Editor Izumi Shimada, Editorial del Congreso de la República del Perú, 2014, se puede leer en la página Nº 56, 76 y 54 respectivamente,\nAsimismo, en el Programa: Grandes Descubrimientos del Perú, de RPP Noticias, se puede observar en uno de sus programas publicados en el año 2023, titulado “El Señor de Sicán”, se menciona también que el tesoro de la cámara funeraria de la Tumba Este del Complejo Arqueológico Sicán, llegaba casi a 1.5 toneladas de peso, considerada la tumba más rica de América.\nEn resumen, se trata de la tumba más rica de América encontrada, procedentes de los linajes reales del Núcleo Monumental Sicán del Santuario Histórico Bosque de Pómac, conteniendo la más significativa producción de bienes suntuarios de gran prestigio del Antiguo Perú, hechos en oro y plata, que tienen como eje principal a la representación del Dios Ñaymlap, “Ave del Agua”.\nCaracterísticas Naturales: El Santuario Histórico Bosque de Pómac se ubica en la ecorregión de Bosque Seco Ecuatorial, el científico peruano y también primer Ministro del Ambiente del Perú, Dr. Antonio Brack Egg, afirma en su libro Ecología del Perú, que el bosque seco ecuatorial es un bioma único en el mundo que se encuentra sólo en el sur del Ecuador y en el norte del Perú. Esto genera condiciones particulares para que albergue diversas especies endémicas. Esto se encuentra plasmado en el capítulo 5 en la página 128 del libro.\nAsimismo, en la página oficial del Estado Peruano, sitio web del SERNANP, ente rector, al describir el Santuario Histórico Bosque de Pómac, destaca que este santuario, creado como Área Natural Protegida, el 01 junio 2001, mediante D.S. 034-2001-AG \"protege la mayor y más densa formación de algarrobos del planeta. Además, se enfatiza que sus más de 5 mil hectáreas conforman un lugar fascinante donde la diversidad biológica y cultural del país se entrelazan para ofrecer a los visitantes una experiencia inolvidable que combina naturaleza e historia."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "En el año 2009, con Resolución Directoral Nacional N° 057/INC-2009-ED, se declara al Santuario Histórico Bosque de Pómac como PATRIMONIO CULTURAL DE LA NACIÓN.\nCon Resolución Ejecutiva Regional N° 403-2018-GR.LAMB/GR, el Gobierno Regional Lambayeque, otorga CONDECORACIÓN CULTURA SICÁN, al SANTUARIO HISTÓRICO BOSQUE DE PÓMAC por ser modelo de gestión social participativa, en aras de fortalecer los elementos naturales y arqueológicos, promoviendo el desarrollo económico y social de las comunidades"
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Muy bueno, ya que de acuerdo al último Reporte Técnico N° 004-2023-SERNANP-DDE, (II Trimestre 2023) se puede observar que no se reporta efecto alguno ni por contaminación ni por sobreuso de recursos (depredación) relacionados a la actividad turística (0.00%); demostrando así, que el turismo es una estrategia clave para los objetivos de conservación efectiva del Área Natural Protegida.\nAsimismo, cuenta con un Plan Maestro 2017-2021, el cual ha sido un instrumento de gestión Clave, que ha permitido asegurar en una primera instancia la conservación del ANP, desde su creación, promoviendo el uso sostenible a través de actividades humanas compatibles y además determinar las responsabilidades y obligaciones de los actores relacionados con el SHBP.\nAdemás el Santuario Histórico Bosque de Pómac, cuenta con un Plan de Sitio del Área Natural Protegida donde se han establecido instrumentos de gestión que contribuyen a controlar el mínimo impacto negativo para con los espacios naturales y culturales del Bosque de Pómac, tales como: Niveles de uso turístico, Capacidad de carga turística, Límites aceptables de cambio, Fichas de avistamiento de fauna y Normas de conducta."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "El acceso principal es por el distrito de Pítipo, en la provincia de Ferreñafe; pero también se cuenta con otros puntos de acceso en los distritos de Túcume, Íllimo, Pacora de la provincia de Lambayeque, cada uno de ellos cuenta con un puesto de control y vigilancia los cuales son: PCV – Centro de Interpretación, PCV – Íllimo, PCV – Moyocupe y PCV – Pómac II.\nCada Puestos de Control y Vigilancia, son custodiados las 24 horas del día por un Guardaparque Oficial del Santuario Histórico Bosque de Pómac, quienes controlan la entrada y salidas de todas las personas que visitan el Área Natural Protegida, a su vez que realizan sus patrullajes diarios respectivos que permitan en todo momento monitorear la actividad turística y de esta manera garantizar una visita segura para los turistas.\nAdemás, es importante recalcar que dentro del Bosque de Pómac se encuentra instalado el Destacamento de Medio Ambiente del distrito de Batan Grande, perteneciente a la Dependencia de Medio Ambiente de la Policía Nacional del Perú – DEPMA PNP LAMBAYEQUE, y la cual cuenta con Personal Efectivo Policial disponible las 24 horas del día, quienes a su vez acompañan diariamente a los Guardaparques Oficiales, en los diversos patrullajes rutinarios dentro del Área Natural Protegida.\nActualmente se encuentra en proceso de reconocimiento mundial por la UNESCO como Patrimonio Mundial Mixto de la Humanidad\nEl Santuario Histórico Bosque de Pómac, promueve la Gestión Participativa, la cual se debe entender como el involucramiento no solo entidades públicas y privadas; sino también de la población local, como una estrategia clave para alcanzar los objetivos de conservación del Área Natural Protegida - ANP.\nEn ese sentido, se cuenta con un Comité de Gestión Local (Resolución Directoral N°059-2022-SERNANP-DGANP), integrado por 03 Grupos de Interés: Turismo, Recursos Naturales y Cultura, siendo el escenario de participación ciudadana voluntaria de mayor importancia para la gestión del ANP, conformada actualmente por 101 actores, de los cuales 44 son actores “Usuarios de los Recursos Naturales (Poblaciones, Comunidades, Organizaciones Civiles)”, 33 del sector público, 21 del sector privado y 03 son organizaciones sin fines de lucro y/u otras instituciones de cooperación, donde se resalta que 35 aliados (35%) forman parte del Grupo de Interés de Turismo.\nGracias a este espacio, todos estos actores vinculados al Santuario, se ofrecen voluntariamente para apoyar a su gestión en estrecha coordinación con la jefatura del Bosque, en acciones de vigilancia, protección, conservación, educación ambiental, turismo, entre muchas otras, siendo sus aportes y compromisos finalmente incluidos en los Instrumentos de Gestión del Área Natural Protegida."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n443\nRegistro en Jefatura del Santuario Histórico Bosque de Pómac\n2022\nTuristas Nacionales\n13047\nRegistro en Jefatura del Santuario Histórico Bosque de Pómac\n2022"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nLambayeque/Chiclayo/Chiclayo\n-\nLambayeque/Ferreñafe/Pitipo\nChiclayo - Ferreñafe - Pítipo - Santuario Histórico Bosque de Pómac\nTerrestre\nAutomóvil particular\nAsfaltado\n42 Km. / 50 minutos\n2\nLambayeque/Chiclayo/Chiclayo\n-\nLambayeque/Lambayeque/Tucume\nChiclayo - Túcume - Santa Rosa de las Salinas\nTerrestre\nAutomóvil particular\nAsfaltado\n40.5 Km / 1 hora\n2\nLambayeque/Lambayeque/Tucume\n-\nLambayeque/Lambayeque/Tucume\nSanta Rosa de las Salina - Puesto de Control a Moyocupe\nTerrestre\nAutomóvil particular\nTrocha carrozable\n500 metros / 5 minutos\n2\nLambayeque/Chiclayo/Chiclayo\n-\nLambayeque/Lambayeque/Illimo\nChiclayo - Illimo - Centro Poblado Cruz Verde\nTerrestre\nAutomóvil particular\nAsfaltado\n40 Km. / 50 minutos\n2\nLambayeque/Lambayeque/Illimo\n-\nLambayeque/Lambayeque/Illimo\nCentro Poblado Cruz Verde - Puesto de Control de Illimo\nTerrestre\nAutomóvil particular\nTrocha carrozable\n2 km / 15 minutos."
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\n- Extranjero: Adulto y niño S/ 30.00\n- Nacional: Adulto S/ 11.00 y Niño () S/ 5.00\n- Locales (residentes locales presentan DNI) Adulto S/ 5.00 Niño (*) S/ 3.00\n(*)Menores entre 5 a 16 años\nLibre\nPara población nacional a menores de 5 años y mayores de 65 años."
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n08:30 a.m.\n-\n04:30 p.m.\nLleva ropa cómoda para las caminatas\nUsa repelente y bloqueador para protegerte de los rayos UV.\nUsa ropa y accesorios adecuados para tu visita según el clima y características del lugar."
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nCompras de artesanía/souvenir\nAl lado derecho del Centro de Interpretación.\nOtros\nToma de fotografías y filmaciones\nSe paga de acuerdo a TUPA sólo con fines comercial\nPaseos\nExcursiones\n--\nOtros\nActividades Culturales\nRepresentación del Señor de Sicán\nOtros\nEstudios e Investigación\n--\nNaturaleza\nObservación de fauna\nRuta ecuestre, rutas de aves.\nZorros, Coralillo, Ardillas.\nNaturaleza\nObservación de flora\nÁrbol milenario: algarrobos.\nRuta Río Viejo: Faiques, Cuncunos, Vichayos, etc.\nNaturaleza\nObservación de paisaje\n--\nNaturaleza\nObservación de aves\nRutas: la Cortarrama, río viejo, golondrina Tumbes\nDeportes / Aventura\nCaminata/Trekking\nHacia el Arbol Milenario, Mirador Salinas, Complejo Arqueológico Sicán.\nRuta de aves: Río viejo Ruta de la Cortarrama, Ruta de la Golondrina.\nDeportes / Aventura\nCiclismo\nEn la zona de uso turístico de acuerdo al Plan de Sitio del ANP y que han sido acondicionadas (Señalización y estacionamientos): Árbol Milenario–Mirador Las Salinas-Casa Karl Weis- Mirador La Merced.\nDeportes / Aventura\nCamping\nSe cuenta con 02 áreas (Karl Weiss y Centro de Interpretación) que han sido acondicionadas y autorizadas en el Plan de Sitio del ANP para realizar el Camping (Operador Turístico autorizado por SERNANP\nCultura y Folclore\nDegustación y preparación de platos, productos o bebidas típicas\nEn ferias por Aniversario del Santuario.\nCultura y Folclore\nFerias\nEn aniversario del SHBP\nPaseos\nPaseos a caballo\nSe realiza en la Ruta Ecuestre, a través de uno de los Operadores Turísticos autorizados por SERNANP.\nPaseos\nPaseos en bicicleta\nEn zona de Uso Turístico de acuerdo al Plan de Sitio del ANP y que han sido acondicionadas (Señalización y estacionamientos): Árbol Milenario – Mirador Las Salinas - Casa Karl Weiss - Mirador La Merc\nDeportes / Aventura\nCabalgatas\nSe realiza en la Ruta Ecuestre, a través de uno de los Operadores Turísticos autorizados por SERNANP.\nCultura y Folclore\nVisita y participación en actividades de vida cotidiana de la comunidad\n--\nCultura y Folclore\nApreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)\n--\nCultura y Folclore\nParticipación y/u observación del proceso de elaboración de productos locales\n--\nOtros\nCompra de productos regionales\nComo miel de abeja, algarrobina, polen, etc."
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nAlimentación\nRestaurantes\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nVenta de artesanía\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nAlquiler de Caballos\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nAlquiler de bicicleta\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nCentro de Interpretación\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nSeguridad / POLTUR\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nServicios Higiénicos\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nLas agencias en algunos casos llegan con guías en idioma inglés.\nInstalaciones Privadas\nOtros Servicios Turísticos\nServicio de Estacionamiento\nLado lateral del Centro de Interpretación\nInstalaciones Privadas\nOtros Servicios Turísticos\nOtros (Especificar)\nVenta de productos naturales\nInstalaciones Privadas\nLugares de Recreación\nLugares de picnic\nEn espacio autorizado por SERNANP.\nInstalaciones Públicas\nServicios Públicos\nMiradores turísticos\nMirador Las Salinas.\nInstalaciones Públicas\nServicios Públicos\nEstacionamiento de vehículos\nAl ingreso al Centro de interpretación.\nInstalaciones Públicas\nServicios Públicos\nSeñales turísticas de orientación\n--\nInstalaciones Públicas\nServicios Públicos\nSeñales turísticas de interpretación\n--\nInstalaciones Públicas\nServicios Públicos\nBoletería\nEn el Centro de interpretación.\nInstalaciones Públicas\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\nEn el Centro de Interpretación.\nInstalaciones Públicas\nServicios Públicos\nCentros de interpretación\n--\nInstalaciones Públicas\nServicios Públicos\nInstalación para la exposición de flora o fauna silvestre\n--\nInstalaciones Públicas\nServicios Públicos\nParadores turísticos\n--\nInstalaciones Públicas\nServicios Públicos\nZonas de Campamento(camping)\nEn áreas autorizadas por SERNANP\nInstalaciones Públicas\nServicios Públicos\nCaminos peatonales\n--\nInstalaciones Públicas\nServicios Públicos\nPuesto de auxilio rápido\n--\nInstalaciones Públicas\nServicios Públicos\nMuseo de Sitio Turísticos\n--\nInstalaciones Públicas\nServicios Públicos\nRefugios (para recorridos largos)\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\nCiudad de Chiclayo (Hoteles de 4 estrellas)\nAlimentación\nKioskos de comida y bebidas\nFerreñafe y Chiclayo (centro soporte)\nOtros Servicios Turísticos\nOtros (Especificar)\nServicio de internet en Ferreñafe y Chiclayo (centro soporte)\nOtros Servicios Turísticos\nOtros (Especificar)\nCentro de Salud, en Ferreñafe y Chiclayo (centro soporte)\nOtros Servicios Turísticos\nAgencia de Viajes\nChiclayo\nAlojamiento\nOtros (Especificar)\nEcolodge (En Illimo y Túcume)\nLugares de Recreación\nDiscotecas\nFerreñafe y Chiclayo (centro soporte)\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nEn Chiclayo.\nLugares de Recreación\nCines o Teatros\nEn Chiclayo.\nOtros Servicios Turísticos\nVenta de artesanía\nFerreñafe y Chiclayo (centro soporte)\nOtros Servicios Turísticos\nAlquiler de camionetas 4 x 4\nEn Chiclayo.\nAlimentación\nRestaurantes\nEn Chiclayo (centro soporte) y Ferreñafe"
+    },
+    {
+      "titulo": "Servicios Complementarios dentro del recurso",
+      "contenido": "Servicio Complementario\nObservación\nServicios de internet\n--\nSeguridad / POLTUR / Comisaría\n--"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nBancos\nEn Ferreñafe y Chiclayo (Centro soporte)\nCajero automático\nChiclayo (Centro soporte)\nCasa de cambio\nEn Chiclayo (Centro soporte)\nEstación de servicios, grifos, gasolineras y gasocentros\nEn Ferreñafe y Chiclayo (Centro soporte)\nServicio de correos\nEn Chiclayo (Centro soporte)\nServicio de estacionamiento\nEn Ferreñafe y Chiclayo (Centro soporte)\nServicios de taxis\nEn Chiclayo (Centro soporte)\nCentro de salud - tópico\nEn Ferreñafe y Chiclayo (Centro soporte)\nVenta de materiales para fotografías\nEn Chiclayo (Centro soporte)\nAlquiler y compra de equipos deportivos\nEn Chiclayo (Centro soporte)\nBodegas o minimarkets\nEn Ferreñafe y Chiclayo (Centro soporte)"
+    },
+    {
+      "titulo": "Condiciones de Accesibilidad al Visitante",
+      "contenido": "Visitante\nInstalación\nActividades y/o programas\nEquipamiento\nObservación\nPersonas con discapacidad física\nRampas y servicios higiénicos,\n--\n--\nUbicados en el Centro de Interpretación y punto principal de acceso al Santuario.\nNiños\nÁrea de interpretación lúdica \"Bosque de los Niños\"\n--\n--\nContribuye al fortalecimiento de los procesos de enseñanza y valoración del Bosque de Pómac, permitiendo que los niños aprendan jugando antes, durante y después de haber visitado el ANP.\nAdulto mayor\n--\nTours gratuitos.\n--\nSe coordinan con diversas Instituciones, el desarrollo frecuente de salidas y/o tours gratuitos que permitan a estos grupos de Adulto Mayor, conocer y disfrutar de los atractivos turísticos del Bosque"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\n--\nLuz (Suministro Eléctrico)\n--\nSeñalización turística\n--\nEnergía Alternativa\n--\nTeléfono\n--\nSistemas de tratamiento alternativo de residuos (Biodigestor, pozo séptico, otros)\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nFerreñafe y Chiclayo\nAlcantarillado sanitario\nPítipo, Ferreñafe y Chiclayo\nDesagüe\nFerreñafe y Chiclayo\nLuz (Suministro Eléctrico)\nFerreñafe y Chiclayo\nTeléfono\nFerreñafe y Chiclayo\nSeñalización turística\nFerreñafe y Chiclayo"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nEstado Peruano (18.82%)\nPrivado:\nEmpresa Agroindustrial Pucalá (74.22%) Comunidad Campesina Santa Lucía de Ferreñafe (6.3%) y Comunidad Campesina Santa Rosa de Las Salinas (0.66%)\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nRegistro de Áreas Naturales Protegidas\nNúmero de Partida:\n11247797\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nServicio Nacional de Áreas Naturales Protegidas por el Estado - SERNANP / Ministerio del Ambiente\nTiempo de administración\n22 años, desde el año 2000."
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nGERENCIA REGIONAL DE COMERCIO EXTERIOR Y TURISMO LAMBAYEQUE\nNombre (Persona(s) responsable(s) del inventario turístico):\nLic. Magali Exebio Cabrera\nCargo:\nTécnico en Turismo\nCorreo:\nmagaliexebioc@gmail.com\nTeléfono:\n947672674\nFuentes Bibliográfica:\nECOTOURISTIC ACTIVITY OF LOCAL ENTREPRENEURS IN THE SUSTAINABILITY OF THE HISTORICAL SANCTUARY FOREST OF PÓMAC-Journal of Tourism and Heritage Research (2020), Vol. 3, pp. 360-380 Esparza R; Gamarra C. & Ángeles D.\nHERENCIA MUCHIK EN EL BOSQUE DE PÓMAC. Universita Degli Studi Di Milano Año 2015 Cooperazione Italiana Allo Sviluppo–Ministero degli Affari Esteri e della Cooperazione Internazionale.\nTURISTA NACIONAL QUE VISITA EL SANTUARIO HISTÓRICO BOSQUE DE POMAC. Guayaquil, Ecuador, 2021 Vidaurre T, Esparza R, Solano J, Jeuna R.\nMATRIZ PARA LA EVALUACIÓN DE LA GESTIÓN DEL TURISMO EN ÁREAS NATURALES PROTEGIDAS: CASO SANTUARIO HISTÓRICO BOSQUE DE PÓMAC, LAMBAYEQUE, PERÚ. Tese apresentada ao Programa de Pós-Graduação em Engenharia Forestal Universidade Federal do Parana,\nTHE TOMB OF THE LORD OF SICAN. Departmentament of Anthropology, Southern Illinois University, Carbondale, Illinois 62901 USA.(2019) Izumi Shimada\nGUÍA DE AVES–SANTUARIO HISTÓRICO BOSQUE DE PÓMAC. Lima-Perú, 2023 MINCETUR\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n9/04/2024 18:01:24"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -6.485048069140987,
+    "longitud": -79.77167570898439
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-6.485048069140987,-79.77167570898439"
+}

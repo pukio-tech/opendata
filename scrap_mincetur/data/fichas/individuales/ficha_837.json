@@ -1,0 +1,448 @@
+{
+  "cod_ficha": 837,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=837",
+  "nombre": "Catarata El Tirol",
+  "departamento": "Junín",
+  "provincia": "Chanchamayo",
+  "distrito": "SAN RAMÓN",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "j. Caídas de agua",
+  "subtipo": "Cataratas",
+  "jerarquia": "POR JERARQUIZAR",
+  "altitud": "1000",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=641757",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=641757",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=641758",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=641759",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=641760",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=641797",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=641798",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=641761",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=641762",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=641763"
+  ],
+  "actividades_permitidas": [
+    "Otros - Compras de artesanía/souvenir",
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Estudios e Investigación",
+    "Deportes acuáticos - Natación",
+    "Naturaleza - Observación de paisaje",
+    "Deportes / Aventura - Caminata/Trekking"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Compras de artesanía/souvenir",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/artesania02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Deportes acuáticos",
+      "tipo": "Natación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/natacion02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Junín/Chanchamayo/San Ramón - Junín/Chanchamayo/San Ramón",
+      "detalle": "Plaza Mayor San Ramón - Sector Playa Hermosa",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "5 km /15 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Junín/Chanchamayo/San Ramón - Junín/Chanchamayo/San Ramón",
+      "detalle": "Sector Playa Hermosa - Catarata Tirol",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "2 km/ 40min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "15512",
+      "horario": "Conteo de Tickets",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "08:00 a.m. - 05:00 p.m. Se recomienda el uso de repelente, bloqueador, gorra y un cambio de ropa.",
+      "observaciones": "Se recomienda el uso de repelente, bloqueador, gorra y un cambio de ropa."
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "Costo de ingreso para niños es de 3 soles, adultos 5 soles"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Boletería",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Paradores turísticos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de San Ramón"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Cines o Teatros",
+      "observacion": "Ciudad de San Ramón"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Ciudad de San Ramón"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Ciudad de San Ramón"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Ciudad de San Ramón"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Lugares de picnic",
+      "observacion": "Ciudad de San Ramón"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "Ciudad de San Ramón"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de San Ramón"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de San Ramón"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de San Ramón"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Ciudad de San Ramón - Idioma Ingles"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de camionetas 4 x 4",
+      "observacion": "Ciudad de San Ramón"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "3 tenedores - Ciudad de San Ramón"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de San Ramón"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de San Ramón"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Ciudad de San Ramón"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de San Ramón"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Ciudad de San Ramón"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "1-2-3 estrellas - Ciudad de San Ramón"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "2 estrellas- Ciudad de San Ramón"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de San Ramón"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de bicicleta",
+      "observacion": "Ciudad de San Ramón"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "Ciudad de San Ramón"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Ciudad de San Ramón"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "Ciudad de San Ramón"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "Ciudad de San Ramón"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Instalación para la exposición de flora o fauna silvestre",
+      "observacion": "Ciudad de San Ramón"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Ciudad de San Ramón"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de Campamento(camping)",
+      "observacion": "Ciudad de San Ramón"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Orquideario",
+      "observacion": "Ciudad de San Ramón"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "Ciudad de San Ramón"
+    }
+  ],
+  "descripcion": "La catarata del Tirol se encuentra en la región natural de Selva Alta y consta de tres saltos, dos de ellos muy pequeños, que en conjunto alcanzan 35 m de altura que se precipitan abruptamente formando un hermoso velo que alcanza un ancho de 7 m en la base en donde se forma una poza de poca profundidad (1 m) con lecho de piedras. Sus aguas, muy cristalinas, tienen un ligero tono verde esmeralda y una agradable temperatura de 21ºC. Durante el recorrido hacia la catarata se puede observar abundante vegetación compuesta principalmente por palmeras, yungul, aliso, lianas, orquídeas, bromelias, helechos entre muchos otros. La fauna observable en la zona incluye diferentes especies de mariposas, aves pequeñas, colibríes y algunos insectos propios del ecosistema. Para acceder a la catarata los visitantes deben recorrer un sendero peatonal que parte desde una vía accesible ubicada a pocos minutos de la plaza de San Ramón. Este camino, que ha sido acondicionado en los últimos años para brindar seguridad y comodidad, incluye tramos con escaleras, pasarelas y barandas con una señalización instalada en el sendero que permite orientar a los visitantes para atravesar las zonas más irregulares del terreno. En el trayecto también se han instalado paradores construidos con materiales típicos de la zona en las que se expenden alimentos y bebida envasada. Aproximadamente a mitad del recorrido se encuentran las Cataratas Mellizas que tienen una altura de 3 m en cuya poza se pueden recibir estimulantes hidromasajes. En la parte central de las dos caídas caen finos chorros de agua a manera de ducha natural.\nLa combinación de accesibilidad, atractivo visual y ambiente natural hace que la catarata sea un punto frecuente para excursiones familiares, grupos escolares, turistas mochileros y viajeros interesados en experiencias de naturaleza de corta duración.",
+  "particularidades": "",
+  "estado_actual": "El recurso se encuentra en un buen estado de conservación por parte del Comité de Defensa y Desarrollo Turístico \"Catarata el Tirol\" Playa Hermosa.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "La catarata del Tirol se encuentra en la región natural de Selva Alta y consta de tres saltos, dos de ellos muy pequeños, que en conjunto alcanzan 35 m de altura que se precipitan abruptamente formando un hermoso velo que alcanza un ancho de 7 m en la base en donde se forma una poza de poca profundidad (1 m) con lecho de piedras. Sus aguas, muy cristalinas, tienen un ligero tono verde esmeralda y una agradable temperatura de 21ºC. Durante el recorrido hacia la catarata se puede observar abundante vegetación compuesta principalmente por palmeras, yungul, aliso, lianas, orquídeas, bromelias, helechos entre muchos otros. La fauna observable en la zona incluye diferentes especies de mariposas, aves pequeñas, colibríes y algunos insectos propios del ecosistema. Para acceder a la catarata los visitantes deben recorrer un sendero peatonal que parte desde una vía accesible ubicada a pocos minutos de la plaza de San Ramón. Este camino, que ha sido acondicionado en los últimos años para brindar seguridad y comodidad, incluye tramos con escaleras, pasarelas y barandas con una señalización instalada en el sendero que permite orientar a los visitantes para atravesar las zonas más irregulares del terreno. En el trayecto también se han instalado paradores construidos con materiales típicos de la zona en las que se expenden alimentos y bebida envasada. Aproximadamente a mitad del recorrido se encuentran las Cataratas Mellizas que tienen una altura de 3 m en cuya poza se pueden recibir estimulantes hidromasajes. En la parte central de las dos caídas caen finos chorros de agua a manera de ducha natural.\nLa combinación de accesibilidad, atractivo visual y ambiente natural hace que la catarata sea un punto frecuente para excursiones familiares, grupos escolares, turistas mochileros y viajeros interesados en experiencias de naturaleza de corta duración."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "El recurso se encuentra en un buen estado de conservación por parte del Comité de Defensa y Desarrollo Turístico \"Catarata el Tirol\" Playa Hermosa."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nVisitantes Locales(Excursionistas)\n15512\nConteo de Tickets\n2024"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nJunín/Chanchamayo/San Ramón\n-\nJunín/Chanchamayo/San Ramón\nPlaza Mayor San Ramón - Sector Playa Hermosa\nTerrestre\nAutomóvil particular\nAsfaltado\n5 km /15 min.\n1\nJunín/Chanchamayo/San Ramón\n-\nJunín/Chanchamayo/San Ramón\nSector Playa Hermosa - Catarata Tirol\nTerrestre\nAutomóvil particular\nAfirmado\n2 km/ 40min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nCosto de ingreso para niños es de 3 soles, adultos 5 soles"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n08:00 a.m.\n-\n05:00 p.m.\nSe recomienda el uso de repelente, bloqueador, gorra y un cambio de ropa."
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nCompras de artesanía/souvenir\n--\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nEstudios e Investigación\n--\nDeportes acuáticos\nNatación\n--\nNaturaleza\nObservación de paisaje\n--\nDeportes / Aventura\nCaminata/Trekking\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nAlimentación\nKioskos de comida y bebidas\n--\nInstalaciones Públicas\nServicios Públicos\nEstacionamiento de vehículos\n--\nInstalaciones Públicas\nServicios Públicos\nSeñales turísticas de orientación\n--\nInstalaciones Públicas\nServicios Públicos\nBoletería\n--\nInstalaciones Públicas\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\n--\nInstalaciones Públicas\nServicios Públicos\nParadores turísticos\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nLugares de Recreación\nDiscotecas\nCiudad de San Ramón\nLugares de Recreación\nCines o Teatros\nCiudad de San Ramón\nLugares de Recreación\nJuegos Infantiles\nCiudad de San Ramón\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nCiudad de San Ramón\nLugares de Recreación\nCentros Deportivos\nCiudad de San Ramón\nLugares de Recreación\nLugares de picnic\nCiudad de San Ramón\nLugares de Recreación\nKaraoke\nCiudad de San Ramón\nLugares de Recreación\nBares\nCiudad de San Ramón\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de San Ramón\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de San Ramón\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nCiudad de San Ramón - Idioma Ingles\nOtros Servicios Turísticos\nAlquiler de camionetas 4 x 4\nCiudad de San Ramón\nAlimentación\nRestaurantes\n3 tenedores - Ciudad de San Ramón\nAlimentación\nBares\nCiudad de San Ramón\nAlimentación\nCafeterías\nCiudad de San Ramón\nAlimentación\nFuentes de soda\nCiudad de San Ramón\nAlimentación\nKioskos de comida y bebidas\nCiudad de San Ramón\nAlimentación\nVenta de comida Rápida\nCiudad de San Ramón\nAlojamiento\nHoteles (especificar categorías)\n1-2-3 estrellas - Ciudad de San Ramón\nAlojamiento\nHostales (especificar categorías)\n2 estrellas- Ciudad de San Ramón\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de San Ramón\nOtros Servicios Turísticos\nAlquiler de bicicleta\nCiudad de San Ramón\nServicios Públicos\nMiradores turísticos\nCiudad de San Ramón\nServicios Públicos\nEstacionamiento de vehículos\nCiudad de San Ramón\nServicios Públicos\nSeñales turísticas de orientación\nCiudad de San Ramón\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\nCiudad de San Ramón\nServicios Públicos\nInstalación para la exposición de flora o fauna silvestre\nCiudad de San Ramón\nServicios Públicos\nOficina de Información turística\nCiudad de San Ramón\nServicios Públicos\nZonas de Campamento(camping)\nCiudad de San Ramón\nServicios Públicos\nOrquideario\nCiudad de San Ramón\nServicios Públicos\nCaminos peatonales\nCiudad de San Ramón"
+    },
+    {
+      "titulo": "Servicios Complementarios dentro del recurso",
+      "contenido": "Servicio Complementario\nObservación\nServicios de internet\n--"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de San Ramón\nBancos\nCiudad de San Ramón\nCajero automático\nCiudad de San Ramón\nCasa de cambio\nCiudad de San Ramón\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de San Ramón\nServicio de correos\nCiudad de San Ramón\nServicio de estacionamiento\nCiudad de San Ramón\nServicios de taxis\nCiudad de San Ramón\nCentro de salud - tópico\nCiudad de San Ramón\nVenta de materiales para fotografías\nCiudad de San Ramón\nSeguridad / POLTUR / Comisaría\nCiudad de San Ramón\nAlquiler y compra de equipos deportivos\nCiudad de San Ramón\nLibrerías\nCiudad de San Ramón\nBodegas o minimarkets\nCiudad de San Ramón"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nTeléfono\n--\nSistemas de tratamiento alternativo de residuos (Biodigestor, pozo séptico, otros)\nen los SS.HH ubicados cerca de las primeras posas de la Catarata\nSeñalización turística\nCiudad de San Ramón"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de San Ramón\nAlcantarillado sanitario\nCiudad de San Ramón\nLuz (Suministro Eléctrico)\nCiudad de San Ramón\nTeléfono\nCiudad de San Ramón\nSeñalización turística\nCiudad de San Ramón\nAlcantarillado pluvial\nCiudad de San Ramón"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\n--\nPrivado:\nComité de Defensa y Desarrollo Turístico Catarata el Tirol Playa Hermosa\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nCARTA N° 0738-2024-ANA-AAA.U-ALA.PE\nAdministrador por\nNombre\nComité de Defensa y Desarrollo Turístico Catarata el Tirol\nTiempo de administración\ndesde el año 2001"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo - Junín\nNombre (Persona(s) responsable(s) del inventario turístico):\nLIC. KARINA ZAMORA BOGO\nCargo:\nEncargada de la Oficina Zonal DIRCETUR San Ramón\nCorreo:\nzamorakarina2009@gmail.com\nTeléfono:\n957526926\nFuentes Bibliográfica:\nPLAN DE DESARROLLO CONCERTADO AL 2025 DE LA MUNICIPALIDAD DISTRITAL DE SAN RAMÓN\nhttps://www.turismoperuano.com/catarata-el-tirol-junin\nhttps://www.munichanchamayo.gob.pe/destino8.php\nhttps://lugarturistico.pe/junin/catarata-tirol/\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n18/12/2025 17:02:45"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -11.1377,
+    "longitud": -75.3347
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-11.1377,-75.3347"
+}

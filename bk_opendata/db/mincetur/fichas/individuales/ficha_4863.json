@@ -1,0 +1,415 @@
+{
+  "cod_ficha": 4863,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=4863",
+  "nombre": "Alameda Perú",
+  "departamento": "Huánuco",
+  "provincia": "Leoncio Prado",
+  "distrito": "RUPA-RUPA",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Arquitectura y Espacios Urbanos",
+  "subtipo": "Alamedas",
+  "jerarquia": "POR JERARQUIZAR",
+  "altitud": "647",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=677566",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=677566",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=677567",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=677569",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=678577",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=677570",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=677571",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=677572",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=678578",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=678579",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=678581",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=678582",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=678583",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=678584",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=678585",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=678586",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=678587",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=678589",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=677573",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=678590",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=677574",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=678591",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=678592",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=678593",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=678594",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=678596",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=678597"
+  ],
+  "actividades_permitidas": [
+    "Otros - Compras de artesanía/souvenir",
+    "Otros - Toma de fotografías y filmaciones",
+    "Naturaleza - Observación de paisaje",
+    "Cultura y Folclore - Degustación y preparación de platos, productos o bebidas típicas",
+    "Cultura y Folclore - Ferias",
+    "Cultura y Folclore - Apreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Compras de artesanía/souvenir",
+      "observacion": "En los locales de venta de artesanía de la ciudad de Tingo María.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/artesania02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Degustación y preparación de platos, productos o bebidas típicas",
+      "observacion": "En los locales de venta de comida típica de la ciudad de Tingo María.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/platos_tipicos02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Ferias",
+      "observacion": "Diversas ferias organizadas por distintas instituciones, durante todo el año. Entre las que se encuentran ferias turísticas, artesanales y gastronómicas.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/feria02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Apreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)",
+      "observacion": "Cuenta con esculturas distribuidas en sus cinco sectores, las cuales incorporan elementos turísticos, culturales y paisajísticos. Asimismo, se realizan actividades artísticas durante todo el año.",
+      "icono_url": null
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Huánuco/Leoncio Prado/Rupa-Rupa - Huánuco/Leoncio Prado/Rupa-Rupa",
+      "detalle": "Terminal de empresas de transporte terrestre (Av. Raymondi) - Alameda Perú",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "400 Mts / 6 Min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Huánuco/Leoncio Prado/Rupa-Rupa - Huánuco/Leoncio Prado/Rupa-Rupa",
+      "detalle": "Terminal de empresas de transporte terrestre (Av. Raymondi) - Alameda Perú",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mototaxi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "400 Mts / 2 Min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Huánuco/Leoncio Prado/Rupa-Rupa - Huánuco/Leoncio Prado/Rupa-Rupa",
+      "detalle": "Aeropuerto de Tingo María - Alameda Perú",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "1.8 Km / 7 Min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Huánuco/Leoncio Prado/Rupa-Rupa - Huánuco/Leoncio Prado/Rupa-Rupa",
+      "detalle": "Aeropuerto de Tingo María - Alameda Perú",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mototaxi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "1.8 Km / 10 Min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "5490",
+      "horario": "Conteo Muestral",
+      "observaciones": "2026"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "1710",
+      "horario": "Conteo Muestral",
+      "observaciones": "2026"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "06:00 a.m. - 09:30 p.m. Se recomienda visitar el recurso en fechas festivas para complementar la experiencia del visitante.",
+      "observaciones": "Se recomienda visitar el recurso en fechas festivas para complementar la experiencia del visitante."
+    },
+    {
+      "epoca": "Personas con discapacidad sensorial",
+      "especificacion": "Pisos Podotáctiles",
+      "horario": "--",
+      "observaciones": "--"
+    },
+    {
+      "epoca": "Personas con discapacidad física",
+      "especificacion": "Rampas y zonas de descanso",
+      "horario": "--",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de interpretación",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "Ciudad de Tingo María / Hoteles de 1 a 3 estrellas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "Ciudad de Tingo María / Hostales de 1 a 2 estrellas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Tingo María"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Tingo María / Restaurantes de 1 a 5 Tenedores"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Tingo María"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Ciudad de Tingo María"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Tingo María"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Ciudad de Tingo María"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Tingo María"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de Tingo María"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Tingo María"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Ciudad de Tingo María"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Ciudad de Tingo María"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Ciudad de Tingo María"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Lugares de picnic",
+      "observacion": "Ciudad de Tingo María"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Tingo María"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Ciudad de Tingo María"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "Ciudad de Tingo María"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Puesto de auxilio rápido",
+      "observacion": "Ciudad de Tingo María"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Ciudad de Tingo María / Español e Inglés"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Ciudad de Tingo María / Dircetur y Municipalidad Provincial Leoncio Prado"
+    }
+  ],
+  "descripcion": "La Alameda Perú se encuentra ubicada en el distrito de Rupa Rupa, provincia de Leoncio Prado, en el centro de la ciudad de Tingo María, constituye uno de los principales espacios públicos, turísticos y de esparcimiento urbano de la ciudad. Su desarrollo se encuentra vinculado al proceso de expansión urbana y colonización de Tingo María durante el siglo XX. Aunque no se cuenta con un registro oficial sobre la fecha exacta de su creación, se deduce que su consolidación como paseo público y su primera arborización con ficus y renacos se realizaron progresivamente entre las décadas de 1940 y 1950, en paralelo a la habilitación de las principales vías comerciales y urbanas del centro de la ciudad. Actualmente presenta una moderna estructura arquitectónica con una extensión aproximada de 18 mil metros cuadrados, reorganizada en cinco sectores funcionales tras el proceso de remodelación ejecutado por el Gobierno Regional Huánuco e inaugurado el 17 de abril del 2026. La intervención incorporó elementos turísticos, culturales, paisajísticos y tecnológicos. El sector 1 corresponde a una zona de paseo peatonal hasta el jirón Callao, donde se ubica el juego de aguas denominado “Colono”. El sector 2, ubicado frente al mercado, está orientado a los mitos, flora y fauna amazónica, e incorpora nueve esculturas temáticas, entre ellas la Yacumama, el Tunchi, el Chullachaqui, el Gallito de las Rocas y el Yacuruna. El sector 3 está dedicado a los recursos turísticos emblemáticos, con esculturas del hombre y la mujer tingalesa, representaciones de los Tulumayos y réplicas de atractivos como la Cueva de las Pavas y la Cueva de las Lechuzas, además de cataratas ornamentales como Santa Carmen y Sol Naciente. El sector 4 corresponde a la zona cívica, con monumentos dedicados a Atahualpa, José Abelardo Quiñones y Francisco Bolognesi, además de la plaza central con una pileta que representa la puerta de entrada a la Amazonía. El sector 5 comprende un espacio interactivo con mural de la Bella Durmiente, juegos de agua, plazoletas culturales, túnel de agua e intervención paisajística del árbol patrimonial renaco. La alameda está conformada por palmeras, áreas verdes y en su interior se encuentra la plaza mayor y una estatua del héroe Leoncio Prado Gutiérrez, consolidándose como el principal punto de encuentro cívico y social de la ciudad. Asimismo, alberga el árbol patrimonial Ficus elastica “Renaco”, protegido mediante la Ordenanza Municipal N.° 023-2022-MPLP, lo que fortalece su valor ambiental y paisajístico. Desde distintos puntos del recorrido se aprecia la silueta de la Bella Durmiente, paisaje natural emblemático que refuerza su valor escénico. La alameda se encuentra rodeada por edificaciones institucionales y de servicios como la Municipalidad Provincial de Leoncio Prado, la iglesia Santa Teresita del Niño Jesús, además de establecimientos turísticos y comerciales. Durante las horas nocturnas cuenta con iluminación ornamental que realza su diseño y favorece la seguridad, siendo altamente concurrida por población local y visitantes. La remodelación incorpora estancias con techos solares, puntos de carga para dispositivos móviles, iluminación mixta eléctrica y solar, paneles informativos con códigos QR, rampas de accesibilidad universal, pisos podotáctiles, mobiliario urbano y elementos de seguridad. Asimismo, se realiza monitoreo constante de los sistemas hidráulicos, iluminación y componentes escultóricos, además del mantenimiento permanente de las áreas verdes, lo que permite que el recurso presente un estado de conservación muy bueno. La Alameda Perú posee alto interés turístico por constituirse como un espacio urbano orientado a la interpretación y puesta en valor de la identidad amazónica de la provincia de Leoncio Prado, integrando representaciones de recursos turísticos emblemáticos, mitología amazónica, biodiversidad, expresiones culturales y espacios recreativos que permiten al visitante una primera aproximación al destino Tingo María.",
+  "particularidades": "La Alameda Perú concentra en un solo recorrido peatonal esculturas monumentales inspiradas en los principales recursos naturales, culturales e identitarios de la provincia de Leoncio Prado. Esta integración temática convierte a la alameda en un espacio de interpretación turística y cultural único en la ciudad.",
+  "estado_actual": "Muy bueno, porque cuenta con una remodelación integral reciente, infraestructura moderna en buen estado y mantenimiento continuo de pisos, esculturas y áreas verdes; además, presenta sistemas hidráulicos e iluminación operativos, incorporación de tecnología y accesibilidad universal, monitoreo permanente de sus componentes y cuidado constante a cargo de la Municipalidad Provincial de Leoncio Prado en coordinación con las autoridades regionales.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "La Alameda Perú se encuentra ubicada en el distrito de Rupa Rupa, provincia de Leoncio Prado, en el centro de la ciudad de Tingo María, constituye uno de los principales espacios públicos, turísticos y de esparcimiento urbano de la ciudad. Su desarrollo se encuentra vinculado al proceso de expansión urbana y colonización de Tingo María durante el siglo XX. Aunque no se cuenta con un registro oficial sobre la fecha exacta de su creación, se deduce que su consolidación como paseo público y su primera arborización con ficus y renacos se realizaron progresivamente entre las décadas de 1940 y 1950, en paralelo a la habilitación de las principales vías comerciales y urbanas del centro de la ciudad. Actualmente presenta una moderna estructura arquitectónica con una extensión aproximada de 18 mil metros cuadrados, reorganizada en cinco sectores funcionales tras el proceso de remodelación ejecutado por el Gobierno Regional Huánuco e inaugurado el 17 de abril del 2026. La intervención incorporó elementos turísticos, culturales, paisajísticos y tecnológicos. El sector 1 corresponde a una zona de paseo peatonal hasta el jirón Callao, donde se ubica el juego de aguas denominado “Colono”. El sector 2, ubicado frente al mercado, está orientado a los mitos, flora y fauna amazónica, e incorpora nueve esculturas temáticas, entre ellas la Yacumama, el Tunchi, el Chullachaqui, el Gallito de las Rocas y el Yacuruna. El sector 3 está dedicado a los recursos turísticos emblemáticos, con esculturas del hombre y la mujer tingalesa, representaciones de los Tulumayos y réplicas de atractivos como la Cueva de las Pavas y la Cueva de las Lechuzas, además de cataratas ornamentales como Santa Carmen y Sol Naciente. El sector 4 corresponde a la zona cívica, con monumentos dedicados a Atahualpa, José Abelardo Quiñones y Francisco Bolognesi, además de la plaza central con una pileta que representa la puerta de entrada a la Amazonía. El sector 5 comprende un espacio interactivo con mural de la Bella Durmiente, juegos de agua, plazoletas culturales, túnel de agua e intervención paisajística del árbol patrimonial renaco. La alameda está conformada por palmeras, áreas verdes y en su interior se encuentra la plaza mayor y una estatua del héroe Leoncio Prado Gutiérrez, consolidándose como el principal punto de encuentro cívico y social de la ciudad. Asimismo, alberga el árbol patrimonial Ficus elastica “Renaco”, protegido mediante la Ordenanza Municipal N.° 023-2022-MPLP, lo que fortalece su valor ambiental y paisajístico. Desde distintos puntos del recorrido se aprecia la silueta de la Bella Durmiente, paisaje natural emblemático que refuerza su valor escénico. La alameda se encuentra rodeada por edificaciones institucionales y de servicios como la Municipalidad Provincial de Leoncio Prado, la iglesia Santa Teresita del Niño Jesús, además de establecimientos turísticos y comerciales. Durante las horas nocturnas cuenta con iluminación ornamental que realza su diseño y favorece la seguridad, siendo altamente concurrida por población local y visitantes. La remodelación incorpora estancias con techos solares, puntos de carga para dispositivos móviles, iluminación mixta eléctrica y solar, paneles informativos con códigos QR, rampas de accesibilidad universal, pisos podotáctiles, mobiliario urbano y elementos de seguridad. Asimismo, se realiza monitoreo constante de los sistemas hidráulicos, iluminación y componentes escultóricos, además del mantenimiento permanente de las áreas verdes, lo que permite que el recurso presente un estado de conservación muy bueno. La Alameda Perú posee alto interés turístico por constituirse como un espacio urbano orientado a la interpretación y puesta en valor de la identidad amazónica de la provincia de Leoncio Prado, integrando representaciones de recursos turísticos emblemáticos, mitología amazónica, biodiversidad, expresiones culturales y espacios recreativos que permiten al visitante una primera aproximación al destino Tingo María."
+    },
+    {
+      "titulo": "Particularidades",
+      "contenido": "La Alameda Perú concentra en un solo recorrido peatonal esculturas monumentales inspiradas en los principales recursos naturales, culturales e identitarios de la provincia de Leoncio Prado. Esta integración temática convierte a la alameda en un espacio de interpretación turística y cultural único en la ciudad."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "Constancia de reconocimiento institucional otorgado en mayo del 2026 por la Dirección Regional de Comercio Exterior y Turismo del Gobierno Regional Huánuco a la Alameda Perú de Tingo María, por su contribución al fortalecimiento del turismo, la identidad cultural y la puesta en valor de los recursos representativos de la provincia de Leoncio Prado."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Muy bueno, porque cuenta con una remodelación integral reciente, infraestructura moderna en buen estado y mantenimiento continuo de pisos, esculturas y áreas verdes; además, presenta sistemas hidráulicos e iluminación operativos, incorporación de tecnología y accesibilidad universal, monitoreo permanente de sus componentes y cuidado constante a cargo de la Municipalidad Provincial de Leoncio Prado en coordinación con las autoridades regionales."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Nacionales\n5490\nConteo Muestral\n2026\nFuente de Datos Dirección Regional de Comercio Exterior y Turismo de Huánuco\nVisitantes Locales(Excursionistas)\n1710\nConteo Muestral\n2026\nFuente de Datos Dirección Regional de Comercio Exterior y Turismo de Huánuco"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nHuánuco/Leoncio Prado/Rupa-Rupa\n-\nHuánuco/Leoncio Prado/Rupa-Rupa\nTerminal de empresas de transporte terrestre (Av. Raymondi) - Alameda Perú\nTerrestre\nA pie\nAsfaltado\n400 Mts / 6 Min\n1\nHuánuco/Leoncio Prado/Rupa-Rupa\n-\nHuánuco/Leoncio Prado/Rupa-Rupa\nTerminal de empresas de transporte terrestre (Av. Raymondi) - Alameda Perú\nTerrestre\nMototaxi\nAsfaltado\n400 Mts / 2 Min\n1\nHuánuco/Leoncio Prado/Rupa-Rupa\n-\nHuánuco/Leoncio Prado/Rupa-Rupa\nAeropuerto de Tingo María - Alameda Perú\nTerrestre\nAutomóvil particular\nAsfaltado\n1.8 Km / 7 Min\n1\nHuánuco/Leoncio Prado/Rupa-Rupa\n-\nHuánuco/Leoncio Prado/Rupa-Rupa\nAeropuerto de Tingo María - Alameda Perú\nTerrestre\nMototaxi\nAsfaltado\n1.8 Km / 10 Min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n06:00 a.m.\n-\n09:30 p.m.\nSe recomienda visitar el recurso en fechas festivas para complementar la experiencia del visitante."
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nCompras de artesanía/souvenir\nEn los locales de venta de artesanía de la ciudad de Tingo María.\nOtros\nToma de fotografías y filmaciones\n--\nNaturaleza\nObservación de paisaje\n--\nCultura y Folclore\nDegustación y preparación de platos, productos o bebidas típicas\nEn los locales de venta de comida típica de la ciudad de Tingo María.\nCultura y Folclore\nFerias\nDiversas ferias organizadas por distintas instituciones, durante todo el año. Entre las que se encuentran ferias turísticas, artesanales y gastronómicas.\nCultura y Folclore\nApreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)\nCuenta con esculturas distribuidas en sus cinco sectores, las cuales incorporan elementos turísticos, culturales y paisajísticos. Asimismo, se realizan actividades artísticas durante todo el año."
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Públicas\nServicios Públicos\nSeñales turísticas de orientación\n--\nInstalaciones Públicas\nServicios Públicos\nSeñales turísticas de interpretación\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\nCiudad de Tingo María / Hoteles de 1 a 3 estrellas\nAlojamiento\nHostales (especificar categorías)\nCiudad de Tingo María / Hostales de 1 a 2 estrellas\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Tingo María\nAlimentación\nRestaurantes\nCiudad de Tingo María / Restaurantes de 1 a 5 Tenedores\nAlimentación\nCafeterías\nCiudad de Tingo María\nAlimentación\nFuentes de soda\nCiudad de Tingo María\nAlimentación\nKioskos de comida y bebidas\nCiudad de Tingo María\nAlimentación\nVenta de comida Rápida\nCiudad de Tingo María\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Tingo María\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de Tingo María\nLugares de Recreación\nDiscotecas\nCiudad de Tingo María\nLugares de Recreación\nJuegos Infantiles\nCiudad de Tingo María\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nCiudad de Tingo María\nLugares de Recreación\nCentros Deportivos\nCiudad de Tingo María\nLugares de Recreación\nLugares de picnic\nCiudad de Tingo María\nLugares de Recreación\nBares\nCiudad de Tingo María\nServicios Públicos\nEstacionamiento de vehículos\nCiudad de Tingo María\nServicios Públicos\nSeñales turísticas de orientación\nCiudad de Tingo María\nServicios Públicos\nPuesto de auxilio rápido\nCiudad de Tingo María\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nCiudad de Tingo María / Español e Inglés\nServicios Públicos\nOficina de Información turística\nCiudad de Tingo María / Dircetur y Municipalidad Provincial Leoncio Prado"
+    },
+    {
+      "titulo": "Servicios Complementarios dentro del recurso",
+      "contenido": "Servicio Complementario\nObservación\nServicios de internet\n--"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Tingo María\nBancos\nCiudad de Tingo María\nCajero automático\nCiudad de Tingo María\nCasa de cambio\nCiudad de Tingo María\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Tingo María\nServicios de taxis\nCiudad de Tingo María\nCentro de salud - tópico\nCiudad de Tingo María\nVenta de materiales para fotografías\nCiudad de Tingo María\nSeguridad / POLTUR / Comisaría\nCiudad de Tingo María\nLibrerías\nCiudad de Tingo María\nBodegas o minimarkets\nCiudad de Tingo María\nServicio de estacionamiento\nCiudad de Tingo María\nAlquiler y compra de equipos deportivos\nCiudad de Tingo María"
+    },
+    {
+      "titulo": "Condiciones de Accesibilidad al Visitante",
+      "contenido": "Visitante\nInstalación\nActividades y/o programas\nEquipamiento\nObservación\nPersonas con discapacidad sensorial\nPisos Podotáctiles\n--\n--\nSirven para guiar desplazamientos seguros.\nPersonas con discapacidad física\nRampas y zonas de descanso\n--\n--\n--"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nLuz (Suministro Eléctrico)\nIluminación en toda la Alameda Perú.\nSeñalización turística\nEn todo el recorrido de la Alameda Perú se cuenta con paneles informativos y códigos QR con información para los visitantes."
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Tingo María\nAlcantarillado sanitario\nCiudad de Tingo María\nLuz (Suministro Eléctrico)\nCiudad de Tingo María\nSeñalización turística\nCiudad de Tingo María\nTeléfono\nCiudad de Tingo María\nAlcantarillado pluvial\nCiudad de Tingo María"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nMunicipalidad Provincial de Leoncio Prado\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nLey N.º 27972, Ley Orgánica de Municipalidades, artículo 55. Declara que los bienes de dominio público municipal son inalienables, imprescriptibles e inembargables.\nAdministrador por\nNombre\nMunicipalidad Provincial de Leoncio Prado\nTiempo de administración\nDesde el año de 1940."
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo Huánuco\nNombre (Persona(s) responsable(s) del inventario turístico):\nLic. Andres Roberto Moron Carhuaricra\nCargo:\nEspecialista en Turismo\nCorreo:\narmoroncarhuaricra@gmail.com\nTeléfono:\n994 558 564\nFuentes Bibliográfica:\n• Namuche Adrianzén, J. (1995). Historia de Tingo María (1.ª ed.). Edición del autor. https://www.librosperuanos.com/libros/detalle/14364/historia-de-tingo-maria\n• Talancha Crespo, E. (2022). Tingo María: Historia de la demarcación política de Leoncio Prado desde el Tahuantinsuyo a la actualidad. Amarilis Indiana Editores.\n• Municipalidad Provincial de Leoncio Prado. (s.f.). Historia de Tingo María. https://munitingomaria.gob.pe/home/historia/\n• Municipalidad Provincial de Leoncio Prado. (s.f.). Visite la ciudad. https://munitingomaria.gob.pe/home/visite-la-ciudad/\n• Municipalidad Provincial de Leoncio Prado. (2022). Ordenanza Municipal N.° 023-2022-MPLP. https://www.munitingomaria.gob.pe/mplp/sites/default/files//ORDENANZA%20MUNICIPAL%20N%C2%B0023-2022-MPLP.pdf\n• Tu Diario Huánuco. (2026, 6 de abril). La renovada Alameda Perú fortalece la imagen turística de Tingo María. https://tudiariohuanuco.pe/actualidad/la-renovada-alameda-peru-fortalece-la-imagen-turistica-de-tingo-maria/\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\nFecha:\n9/06/2026 12:13:23"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -9.298376232056587,
+    "longitud": -76.00030660629272
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-9.298376232056587,-76.00030660629272"
+}

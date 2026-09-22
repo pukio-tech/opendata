@@ -1,0 +1,325 @@
+{
+  "cod_ficha": 250,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=250",
+  "nombre": "Acueducto De Cantayo",
+  "departamento": "Ica",
+  "provincia": "Nazca",
+  "distrito": "NASCA",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Sitios Arqueológicos",
+  "subtipo": "Otros",
+  "jerarquia": "2",
+  "altitud": "638",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=465181",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=465181",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=465102",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=465103",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=465182"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Estudios e Investigación",
+    "Naturaleza - Observación de paisaje",
+    "Cultura y Folclore - Rituales místicos o tradicionales"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Rituales místicos o tradicionales",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/rituales_misticos02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Ica/Nasca/Nasca - Ica/Nasca/Nasca",
+      "detalle": "Plaza de Armas de la ciudad de Nasca - Km 4 (Vía inter oceánica).",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "4km/15 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Ica/Nasca/Nasca - Ica/Nasca/Nasca",
+      "detalle": "Km 4 (Vía interoceánica) – Acueducto de Cantayo.",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "1 km/3 min."
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Ica/Nasca/Nasca - Ica/Nasca/Nasca",
+      "detalle": "Plaza de Armas de la ciudad de Nasca – Comunidad de Cantayo.",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "3 km/12 min."
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Ica/Nasca/Nasca - Ica/Nasca/Nasca",
+      "detalle": "Comunidad de Cantalloc – Acueducto de Cantayo.",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "0.8 km/3 min."
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "5983",
+      "horario": "Carta N°0048-2022-GTDE-MPN",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "11967",
+      "horario": "Carta N°0048-2022-GTDE-MPN",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "1994",
+      "horario": "Carta N°0048-2022-GTDE",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "08:00 a.m. - 05:30 p.m. --",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "Adulto: 10 soles, niños: 5 soles"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "Hoteles de 1 a 3 estrellas en la ciudad de Nasca."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "Hostales de 1 a 3 estrellas en la ciudad de Nasca."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "En la ciudad de Nasca."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "En la ciudad de Nasca."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "En la ciudad de Nasca."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "En la ciudad de Nasca."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "En la ciudad de Nasca."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "En la ciudad de Nasca."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "En la ciudad de Nasca."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "En la ciudad de Nasca."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "En la ciudad de Nasca."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "En la ciudad de Nasca."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "En la ciudad de Nasca."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "En la ciudad de Nasca."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "En la ciudad de Nasca."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Museo de Sitio Turísticos",
+      "observacion": "En la ciudad de Nasca."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "En la ciudad de Nasca."
+    }
+  ],
+  "descripcion": "Ubicado al este de la ciudad de Nasca. Es una obra de ingeniería hidráulica de la cultura Nasca (200 a.c. a 700 d.c.), que consistía en extraer las aguas subterráneas (del acuífero del subsuelo) hacia la superficie por gravedad, usando la inclinación propia del valle. Esta sociedad empezó la construcción de esta obra aproximadamente 400 d.c. con estilo socavón y cuenta con 20 ojos o respiraderos que en su mayoría tienen forma de espiral y miden entre 3 y 15 metros de profundidad. Se inicia con dos ramales que son las acopiadoras del agua que se van a derivar en un canal principal que en un tramo es de tajo abierto que tiene una forma sinuosa que era para disminuir la velocidad del agua y evitar la erosión del canal, confluyendo finalmente en un reservorio denominado cocha, desde donde se hace el manejo de la distribución de las aguas para los terrenos de cultivo. En la construcción se usó piedras de canto rodadas para las paredes pircadas en seco (puestos unos sobre otros sin argamasa), para el techo se usaron piedras lajas o planchones con troncos de huarango.\nLos puquios, como la llaman los pobladores naturales, fueron construidos para ganar terreno a los desiertos, ampliando las fronteras agrícolas y formando asentamientos permanentes porque el líquido elemento también les sirvió para su consumo.\nEstos acueductos desde su construcción nunca han dejado de funcionar y siguen cumpliendo el propósito para los que fueron hechos. Asimismo, es uno de los recursos turísticos más visitados por los turistas nacionales y extranjero por ser una de las mayores expresiones de la ingeniería hidráulica.",
+  "particularidades": "",
+  "estado_actual": "Bueno, se encuentra bajo el cuidado de la Municipalidad Provincial de Nazca y el Ministerio de Cultura.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Ubicado al este de la ciudad de Nasca. Es una obra de ingeniería hidráulica de la cultura Nasca (200 a.c. a 700 d.c.), que consistía en extraer las aguas subterráneas (del acuífero del subsuelo) hacia la superficie por gravedad, usando la inclinación propia del valle. Esta sociedad empezó la construcción de esta obra aproximadamente 400 d.c. con estilo socavón y cuenta con 20 ojos o respiraderos que en su mayoría tienen forma de espiral y miden entre 3 y 15 metros de profundidad. Se inicia con dos ramales que son las acopiadoras del agua que se van a derivar en un canal principal que en un tramo es de tajo abierto que tiene una forma sinuosa que era para disminuir la velocidad del agua y evitar la erosión del canal, confluyendo finalmente en un reservorio denominado cocha, desde donde se hace el manejo de la distribución de las aguas para los terrenos de cultivo. En la construcción se usó piedras de canto rodadas para las paredes pircadas en seco (puestos unos sobre otros sin argamasa), para el techo se usaron piedras lajas o planchones con troncos de huarango.\nLos puquios, como la llaman los pobladores naturales, fueron construidos para ganar terreno a los desiertos, ampliando las fronteras agrícolas y formando asentamientos permanentes porque el líquido elemento también les sirvió para su consumo.\nEstos acueductos desde su construcción nunca han dejado de funcionar y siguen cumpliendo el propósito para los que fueron hechos. Asimismo, es uno de los recursos turísticos más visitados por los turistas nacionales y extranjero por ser una de las mayores expresiones de la ingeniería hidráulica."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, se encuentra bajo el cuidado de la Municipalidad Provincial de Nazca y el Ministerio de Cultura."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n5983\nCarta N°0048-2022-GTDE-MPN\n2022\nMunicipalidad Provincial de Nasca\nTuristas Nacionales\n11967\nCarta N°0048-2022-GTDE-MPN\n2022\nMunicipalidad Provincial de Nasca\nVisitantes Locales(Excursionistas)\n1994\nCarta N°0048-2022-GTDE\n2022\nMunicipalidad Provincial de Nasca."
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nIca/Nasca/Nasca\n-\nIca/Nasca/Nasca\nPlaza de Armas de la ciudad de Nasca - Km 4 (Vía inter oceánica).\nTerrestre\nAutomóvil particular\nAsfaltado\n4km/15 min\n1\nIca/Nasca/Nasca\n-\nIca/Nasca/Nasca\nKm 4 (Vía interoceánica) – Acueducto de Cantayo.\nTerrestre\nAutomóvil particular\nAfirmado\n1 km/3 min.\n2\nIca/Nasca/Nasca\n-\nIca/Nasca/Nasca\nPlaza de Armas de la ciudad de Nasca – Comunidad de Cantayo.\nTerrestre\nAutomóvil particular\nAsfaltado\n3 km/12 min.\n2\nIca/Nasca/Nasca\n-\nIca/Nasca/Nasca\nComunidad de Cantalloc – Acueducto de Cantayo.\nTerrestre\nAutomóvil particular\nAfirmado\n0.8 km/3 min."
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nAdulto: 10 soles, niños: 5 soles"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n08:00 a.m.\n-\n05:30 p.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nEstudios e Investigación\n--\nNaturaleza\nObservación de paisaje\n--\nCultura y Folclore\nRituales místicos o tradicionales\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Públicas\nServicios Públicos\nSeñales turísticas de orientación\n--\nInstalaciones Públicas\nServicios Públicos\nEstacionamiento de vehículos\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\nHoteles de 1 a 3 estrellas en la ciudad de Nasca.\nAlojamiento\nHostales (especificar categorías)\nHostales de 1 a 3 estrellas en la ciudad de Nasca.\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nEn la ciudad de Nasca.\nAlimentación\nRestaurantes\nEn la ciudad de Nasca.\nAlimentación\nBares\nEn la ciudad de Nasca.\nAlimentación\nCafeterías\nEn la ciudad de Nasca.\nAlimentación\nKioskos de comida y bebidas\nEn la ciudad de Nasca.\nAlimentación\nVenta de comida Rápida\nEn la ciudad de Nasca.\nLugares de Recreación\nDiscotecas\nEn la ciudad de Nasca.\nLugares de Recreación\nJuegos Infantiles\nEn la ciudad de Nasca.\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nEn la ciudad de Nasca.\nOtros Servicios Turísticos\nVenta de artesanía\nEn la ciudad de Nasca.\nOtros Servicios Turísticos\nAgencia de Viajes\nEn la ciudad de Nasca.\nServicios Públicos\nEstacionamiento de vehículos\nEn la ciudad de Nasca.\nServicios Públicos\nOficina de Información turística\nEn la ciudad de Nasca.\nServicios Públicos\nMuseo de Sitio Turísticos\nEn la ciudad de Nasca.\nServicios Públicos\nSeñales turísticas de orientación\nEn la ciudad de Nasca."
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nEn la ciudad de Nasca.\nBancos\nEn la ciudad de Nasca.\nCajero automático\nEn la ciudad de Nasca.\nCasa de cambio\nEn la ciudad de Nasca.\nEstación de servicios, grifos, gasolineras y gasocentros\nEn la ciudad de Nasca.\nServicio de correos\nEn la ciudad de Nasca.\nServicio de estacionamiento\nEn la ciudad de Nasca.\nServicios de taxis\nEn la ciudad de Nasca.\nCentro de salud - tópico\nEn la ciudad de Nasca.\nVenta de materiales para fotografías\nEn la ciudad de Nasca.\nSeguridad / POLTUR / Comisaría\nEn la ciudad de Nasca.\nLibrerías\nEn la ciudad de Nasca.\nBodegas o minimarkets\nEn la ciudad de Nasca."
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Nasca\nAlcantarillado sanitario\nCiudad de Nasca\nLuz (Suministro Eléctrico)\nCaserío de Cantalloc y Ciudad de Nasca.\nTeléfono\nCaserío de Cantalloc."
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nEstado Peruano-Ministerio de Cultura\nPrivado:\n--\nOtra Situación:\nLey General de Patrimonio Cultural de la Nación N° 28296, Resolución Ministerial N° 019-2015-MC “Sistema de Gestión para el Patrimonio Cultural del Territorio de Nasca y Palpa”\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nLey General de Patrimonio Cultural de la Nación N° 28296, Resolución Ministerial N° 019-2015-MC “Sistema de Gestión para el Patrimonio Cultural del Territorio de Nasca y Palpa”\nAdministrador por\nNombre\nMunicipalidad Provincial de Nasca\nTiempo de administración\nDesde el 2007."
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo de Ica\nNombre (Persona(s) responsable(s) del inventario turístico):\nLeslie Jorge Guerra.\nCargo:\nProfesional en Turismo\nCorreo:\nservicioturismo@dirceturica.gob.pe\nTeléfono:\n992243714\nFuentes Bibliográfica:\n• Historia y arte del Perú antiguo (tomo 2) – Federico Kauffmann Doig\n• Culturas Prehispánicas - Fascículos coleccionables del diario El Comercio 2002\n• Nuestra Identidad Cultural –Municipalidad Provincial de Palpa 2017\n• Contribuciones a la Geometría y la Astronomía en el Antiguo Perú – María Reiche\n• Aguas en el Desierto los Puquios de Nasca – Katharina Schreiber y Josue Lancho Rojas\n• Guía turística de Ica – Mitinci 2000\n• Cultura Alimentaria de los antiguos Nascas – Giuseppe Orefici\n• Conociendo la Biodiversidad de Nasca – Cecilia Mendiola Vargas y Olivia Sejuro Nanetti\n• Arqueología del Sur del Perú – Alberto Rossel Castro\n• Acueductos de Nasca “La Joya de la Obra Hidráulica de la cultura Pre Inca” – Máximo Alejanndro Crispín Gómez.\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n28/11/2022"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -14.826609333971048,
+    "longitud": -74.91035878658295
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-14.826609333971048,-74.91035878658295"
+}

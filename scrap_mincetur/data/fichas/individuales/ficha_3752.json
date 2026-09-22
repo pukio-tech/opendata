@@ -1,0 +1,269 @@
+{
+  "cod_ficha": 3752,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=3752",
+  "nombre": "Portada De La Iglesia De Nuestra Señora De Las Mercedes De Saña",
+  "departamento": "Lambayeque",
+  "provincia": "Chiclayo",
+  "distrito": "SAÑA",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Arquitectura y Espacios Urbanos",
+  "subtipo": "Iglesias",
+  "jerarquia": "2",
+  "altitud": "57",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=613952",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=613952",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=613953",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=616678",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=616627",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=616852",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=629606",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=629554",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=629609",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=629556"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Estudios e Investigación"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Lambayeque/Chiclayo/Chiclayo - Lambayeque/Chiclayo/Saña",
+      "detalle": "Chiclayo (Terminal Epsel) – Plaza de Armas de Saña.",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Combi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "48 km/53 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Lambayeque/Chiclayo/Saña - Lambayeque/Chiclayo/Saña",
+      "detalle": "Plaza de Armas de Saña - Iglesia Nuestra Señora de las Mercedes de Saña.",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mototaxi",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "500 m/4 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Lambayeque/Chiclayo/Saña - Lambayeque/Chiclayo/Saña",
+      "detalle": "Plaza de Armas de Saña - Iglesia Nuestra Señora de las Mercedes de Saña.",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "500 m/10 min"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Lambayeque/Chiclayo/Chiclayo - Lambayeque/Chiclayo/Saña",
+      "detalle": "Parque principal de Chiclayo - Iglesia Nuestra Señora de las Mercedes de Saña.",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "47.3 km/45 min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "3060",
+      "horario": "Aplicación del formato de conteo muestral realizado los días 26 de junio 03, 10 y 17 de julio.",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "180",
+      "horario": "Aplicación del formato de conteo muestral realizado los días 26 de junio 03, 10 y 17 de julio.",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "08:00 a.m. - 05:00 p.m. Coordinar previamente con la Municipalidad Distrital de Saña. Contacto: Jaime Linares - Cel. 972 697 426.",
+      "observaciones": "Coordinar previamente con la Municipalidad Distrital de Saña. Contacto: Jaime Linares - Cel. 972 697 426."
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Semi-restringido(previo permiso)",
+      "observaciones": "Solo con autorización de la Municipalidad Distrital de Saña. Contacto: Jaime Linares - Cel. 972 697 426."
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "Ciudad de Saña, 3*"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Saña."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Saña."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Saña."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "Ciudad de Saña. 1*"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Saña."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Saña."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Ciudad de Saña."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Ciudad de Saña."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Saña."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Ciudad de Saña."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "Ciudad de Saña."
+    }
+  ],
+  "descripcion": "La Iglesia de Nuestra Señora de las Mercedes de Saña, conocida en la actualidad como Iglesia La Merced, de la que hoy solo se conserva el frontispicio y una de las paredes adyacentes, no tiene una fecha exacta de construcción; sin embargo, se sabe que la presencia de los frailes mercedarios en Saña se remonta al siglo XVII; y aunque lograron establecerse formalmente en la zona, su permanencia fue interrumpida debido a fenómenos naturales, como lluvias e inundaciones ocasionadas por el Fenómeno del Niño, entre otros eventos críticos. Los mercedarios regresaron a Saña en 1637, año en que la iglesia fue reconstruida, consolidando así su presencia y su función como centro religioso en la ciudad.\nLas primeras referencias sobre la estructura, a través de registros históricos y de imágenes (como las láminas de Martínez Compañón de 1789), revelan que el monasterio de La Merced se encontraba en un lugar destacado dentro del trazado urbano de la entonces Villa Santiago de Miraflores de Saña. El cambio climático frecuente y el declive de Saña provocaron el abandono progresivo del templo durante los siglos XVIII y XIX; aunque en su época fue de gran importancia, hoy solo sobreviven vestigios significativos.\nLa iglesia es un claro ejemplo de arquitectura virreinal, con influencias del Renacimiento clásico y elementos coloniales tempranos; su fachada presenta líneas sencillas, donde destacan las pilastras dóricas y un frontón clásico que alberga la hornacina central; el frontispicio, que es lo que se conserva actualmente, muestra un diseño austero, con un frontón decorativo en la parte superior y una hornacina rectangular; la cornisa tiene poca profundidad, y el diseño se caracteriza por la simplicidad de sus formas y una proporción severa; a ambos lados del hastial principal, permanecen en pie dos torres campanario, que fueron construidas con mampostería de adobe y ladrillo, materiales típicos de la región durante la época colonial.\nHoy, únicamente subsisten el frontispicio, las torres y algunos fragmentos de los muros laterales; el interior y la cubierta original han desaparecido casi por completo, debido al colapso progresivo de la estructura y la falta de restauración y conservación.",
+  "particularidades": "",
+  "estado_actual": "Regular, la estructura presenta fisuras, riesgo de desplome y ocupación incompleta por cercos modernos.",
+  "observaciones": "Solo es posible observar los restos desde el exterior y realizar fotografía del patrimonio arquitectónico remanente.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "La Iglesia de Nuestra Señora de las Mercedes de Saña, conocida en la actualidad como Iglesia La Merced, de la que hoy solo se conserva el frontispicio y una de las paredes adyacentes, no tiene una fecha exacta de construcción; sin embargo, se sabe que la presencia de los frailes mercedarios en Saña se remonta al siglo XVII; y aunque lograron establecerse formalmente en la zona, su permanencia fue interrumpida debido a fenómenos naturales, como lluvias e inundaciones ocasionadas por el Fenómeno del Niño, entre otros eventos críticos. Los mercedarios regresaron a Saña en 1637, año en que la iglesia fue reconstruida, consolidando así su presencia y su función como centro religioso en la ciudad.\nLas primeras referencias sobre la estructura, a través de registros históricos y de imágenes (como las láminas de Martínez Compañón de 1789), revelan que el monasterio de La Merced se encontraba en un lugar destacado dentro del trazado urbano de la entonces Villa Santiago de Miraflores de Saña. El cambio climático frecuente y el declive de Saña provocaron el abandono progresivo del templo durante los siglos XVIII y XIX; aunque en su época fue de gran importancia, hoy solo sobreviven vestigios significativos.\nLa iglesia es un claro ejemplo de arquitectura virreinal, con influencias del Renacimiento clásico y elementos coloniales tempranos; su fachada presenta líneas sencillas, donde destacan las pilastras dóricas y un frontón clásico que alberga la hornacina central; el frontispicio, que es lo que se conserva actualmente, muestra un diseño austero, con un frontón decorativo en la parte superior y una hornacina rectangular; la cornisa tiene poca profundidad, y el diseño se caracteriza por la simplicidad de sus formas y una proporción severa; a ambos lados del hastial principal, permanecen en pie dos torres campanario, que fueron construidas con mampostería de adobe y ladrillo, materiales típicos de la región durante la época colonial.\nHoy, únicamente subsisten el frontispicio, las torres y algunos fragmentos de los muros laterales; el interior y la cubierta original han desaparecido casi por completo, debido al colapso progresivo de la estructura y la falta de restauración y conservación."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "Declarado Patrimonio Cultural por el Instituto Nacional de Cultura, mediante R.S. Nº 2900-72-ED, de fecha 23 de enero de 1973."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Regular, la estructura presenta fisuras, riesgo de desplome y ocupación incompleta por cercos modernos."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "Solo es posible observar los restos desde el exterior y realizar fotografía del patrimonio arquitectónico remanente."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nVisitantes Locales(Excursionistas)\n3060\nAplicación del formato de conteo muestral realizado los días 26 de junio 03, 10 y 17 de julio.\n2025\nValidado por la Dirección de Turismo de la GERCETUR Lambayeque.\nTuristas Nacionales\n180\nAplicación del formato de conteo muestral realizado los días 26 de junio 03, 10 y 17 de julio.\n2025\nValidado por la Dirección de Turismo de la GERCETUR Lambayeque."
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nLambayeque/Chiclayo/Chiclayo\n-\nLambayeque/Chiclayo/Saña\nChiclayo (Terminal Epsel) – Plaza de Armas de Saña.\nTerrestre\nCombi\nAsfaltado\n48 km/53 min\n1\nLambayeque/Chiclayo/Saña\n-\nLambayeque/Chiclayo/Saña\nPlaza de Armas de Saña - Iglesia Nuestra Señora de las Mercedes de Saña.\nTerrestre\nMototaxi\nTrocha carrozable\n500 m/4 min\n1\nLambayeque/Chiclayo/Saña\n-\nLambayeque/Chiclayo/Saña\nPlaza de Armas de Saña - Iglesia Nuestra Señora de las Mercedes de Saña.\nTerrestre\nA pie\nTrocha carrozable\n500 m/10 min\n2\nLambayeque/Chiclayo/Chiclayo\n-\nLambayeque/Chiclayo/Saña\nParque principal de Chiclayo - Iglesia Nuestra Señora de las Mercedes de Saña.\nTerrestre\nAutomóvil particular\nAsfaltado\n47.3 km/45 min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nSemi-restringido(previo permiso)\nSolo con autorización de la Municipalidad Distrital de Saña. Contacto: Jaime Linares - Cel. 972 697 426."
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n08:00 a.m.\n-\n05:00 p.m.\nCoordinar previamente con la Municipalidad Distrital de Saña. Contacto: Jaime Linares - Cel. 972 697 426."
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nEstudios e Investigación\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\nCiudad de Saña, 3*\nAlimentación\nRestaurantes\nCiudad de Saña.\nAlimentación\nBares\nCiudad de Saña.\nAlimentación\nKioskos de comida y bebidas\nCiudad de Saña.\nAlojamiento\nHostales (especificar categorías)\nCiudad de Saña. 1*\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Saña.\nAlimentación\nCafeterías\nCiudad de Saña.\nLugares de Recreación\nJuegos Infantiles\nCiudad de Saña.\nLugares de Recreación\nCentros Deportivos\nCiudad de Saña.\nLugares de Recreación\nBares\nCiudad de Saña.\nServicios Públicos\nEstacionamiento de vehículos\nCiudad de Saña.\nServicios Públicos\nSeñales turísticas de orientación\nCiudad de Saña."
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Saña.\nBancos\nCiudad de Saña.\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Saña.\nServicio de estacionamiento\nCiudad de Saña.\nCentro de salud - tópico\nCiudad de Saña.\nSeguridad / POLTUR / Comisaría\nCiudad de Saña.\nLibrerías\nCiudad de Saña.\nBodegas o minimarkets\nCiudad de Saña."
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nSeñalización turística\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Saña.\nAlcantarillado sanitario\nCiudad de Saña.\nLuz (Suministro Eléctrico)\nCiudad de Saña.\nTeléfono\nCiudad de Saña.\nSeñalización turística\nCiudad de Saña."
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nEstado Peruano.\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nNúmero de Partida:\n11005368\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nMunicipalidad Distrital de Saña.\nTiempo de administración\nDesde su declaratoria como Patrimonio Cultural en 1973."
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nGerencia Regional de Comercio Exterior y Turismo de Lambayeque.\nNombre (Persona(s) responsable(s) del inventario turístico):\nLic. Magali Exebio Cabrera.\nCargo:\nTécnico en Turismo.\nCorreo:\nluzmexebio@gmail.com\nTeléfono:\n947 672 674\nFuentes Bibliográfica:\n1. Harth-Terré, E. (1964). Los Monumentos Religiosos de la Desaparecida Villa de Saña. Anales de Instituto de Arte Americano e Investigaciones Estéticas de la Facultad de Arquitectura y Urbanismo de la Universidad de Buenos Aires.\n2. Vargas L. (2024). Reconstrucción virtual de la iglesia y convento La Merced de Zaña. Facultad de Ingeniería de la Universidad Católica Santo Toribio de Mogrovejo. Disponible: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://tesis.usat.edu.pe/bitstream/20.500.12423/8161/1/TL_VargasZapataLinda.pdf\n3. Huertas, L. (1993) Fundación de la Villa Santiago de Miraflores de Saña: Un modelo hispano de planificación urbana. Historia y Cultura, Revista del Museo Nacional de Arqueología, Antropología e Historia del Perú. Disponible en: https://revistas.cultura.gob.pe/index.php/historiaycultura/article/download/387/450/1594\n4. Zaña virtual (2016). El Monasterio de Nuestra Señora de las Mercedes. Disponible en: https://yimrodriguezsamper.wixsite.com/zanavirtu\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n26/10/2025 22:29:48"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -6.92623756686607,
+    "longitud": -79.58709301112282
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-6.92623756686607,-79.58709301112282"
+}

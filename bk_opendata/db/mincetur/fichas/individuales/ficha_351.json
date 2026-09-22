@@ -1,0 +1,277 @@
+{
+  "cod_ficha": 351,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=351",
+  "nombre": "Iglesia De San Jerónimo - Ilo",
+  "departamento": "Moquegua",
+  "provincia": "Ilo",
+  "distrito": "ILO",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Arquitectura y Espacios Urbanos",
+  "subtipo": "Iglesias",
+  "jerarquia": "3",
+  "altitud": "26",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=423177",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=423177",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=423202",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=423204",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=423205",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=423178"
+  ],
+  "actividades_permitidas": [
+    "Cultura y Folclore - Actividades Religiosas o Patronales",
+    "Otros - Actividades Culturales"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Actividades Religiosas o Patronales",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/act_religiosas02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Actividades Culturales",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/act_culturales02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Moquegua/Ilo/Ilo - Moquegua/Ilo/Ilo",
+      "detalle": "Plaza Principal de Ilo - Iglesia San Jerónimo.",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "100m / 3min."
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "49566",
+      "horario": "Encuesta elaborada los días 26 y 27 octubre 2021",
+      "observaciones": "2019"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "50545",
+      "horario": "Encuesta elaborada los días 26 y 27 octubre 2021",
+      "observaciones": "2019"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "07:00 a.m. - 12:00 p.m. En la tarde de:4:00p.m. - 7:00 p.m.",
+      "observaciones": "En la tarde de:4:00p.m. - 7:00 p.m."
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Venta de libros, rosarios, velas, etc."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "Ciudad de Ilo(1,2,3 y 4 estrellas)"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "Ciudad de Ilo( 1,2 y 3 estrellas)"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Ilo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Ilo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Ciudad de Ilo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Ilo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Ciudad de Ilo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Ciudad de Ilo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "Ciudad de Ilo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "Ciudad de Ilo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Ciudad de Ilo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "Ciudad de Ilo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Muelles turísticos",
+      "observacion": "Ciudad de Ilo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Ciudad de Ilo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Puesto de auxilio rápido",
+      "observacion": "Ciudad de Ilo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Museo de Sitio Turísticos",
+      "observacion": "Ciudad de Ilo"
+    }
+  ],
+  "descripcion": "Ubicado en el Centro Urbano de la Ciudad de Ilo frente a la Plaza Principal. Es una Iglesia que data del Siglo XVIII, monumento histórico que comenzó a edificarse a partir del 14 de febrero de 1871, ya que el coronel Juan Francisco Balta, ministro de Guerra, hermano de José Balta, presidente de la República, colocó la piedra fundamental del ferrocarril de Pacocha a Moquegua y en el sitio de la Parroquia colocó también el mismo día la primera piedra sobre la que se edificaría la iglesia San Jerónimo de Ilo.\nSe halla sobre un roquerío donde pueden observarse durmientes de madera a manera de base de la estructura. Asimismo, se encuentra construido con elementos ornamentales tipo mojinete de madera, donde la cubierta es un techo de estructura de tijeral de madera con cubierta de calamina. La arquitectura religiosa de la iglesia consta de una sola nave de planta rectangular con un coro alto. Al atrio se accede por dos escalinatas, la fachada es simétrica y termina en una torre central, existiendo en el campanario un reloj de origen alemán.\nEn el interior de la iglesia contiene retablos laterales y un retablo mayor donde se aprecian imágenes religiosas que datan del Siglo XIX, entre las principales se puede resaltar a la imagen de la Virgen del Rosario, Patrona del Puerto de Ilo San Pedro y San Pablo, Patrones de los pescadores, la Virgen del Carmen entre otras.",
+  "particularidades": "- Cuenta en su campanario, con una campana que data de año 1647.\n- Conserva un antiguo reloj Alemán.",
+  "estado_actual": "Bueno, mantenimiento a cargo de la Municipalidad Provincial de Ilo",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Ubicado en el Centro Urbano de la Ciudad de Ilo frente a la Plaza Principal. Es una Iglesia que data del Siglo XVIII, monumento histórico que comenzó a edificarse a partir del 14 de febrero de 1871, ya que el coronel Juan Francisco Balta, ministro de Guerra, hermano de José Balta, presidente de la República, colocó la piedra fundamental del ferrocarril de Pacocha a Moquegua y en el sitio de la Parroquia colocó también el mismo día la primera piedra sobre la que se edificaría la iglesia San Jerónimo de Ilo.\nSe halla sobre un roquerío donde pueden observarse durmientes de madera a manera de base de la estructura. Asimismo, se encuentra construido con elementos ornamentales tipo mojinete de madera, donde la cubierta es un techo de estructura de tijeral de madera con cubierta de calamina. La arquitectura religiosa de la iglesia consta de una sola nave de planta rectangular con un coro alto. Al atrio se accede por dos escalinatas, la fachada es simétrica y termina en una torre central, existiendo en el campanario un reloj de origen alemán.\nEn el interior de la iglesia contiene retablos laterales y un retablo mayor donde se aprecian imágenes religiosas que datan del Siglo XIX, entre las principales se puede resaltar a la imagen de la Virgen del Rosario, Patrona del Puerto de Ilo San Pedro y San Pablo, Patrones de los pescadores, la Virgen del Carmen entre otras."
+    },
+    {
+      "titulo": "Particularidades",
+      "contenido": "- Cuenta en su campanario, con una campana que data de año 1647.\n- Conserva un antiguo reloj Alemán."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "- Declarada como Monumento Histórico del Perú, con R.M. Nº475-82-ED 03/06/2022.\n- Certificación Internacional del Sello Safe Travels, Ilo Destino Seguro, Otorgado por el Consejo mundial de\nViajes y Turismo. Ilo 22/12/2021."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, mantenimiento a cargo de la Municipalidad Provincial de Ilo"
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nVisitantes Locales(Excursionistas)\n49566\nEncuesta elaborada los días 26 y 27 octubre 2021\n2019\nTuristas Nacionales\n50545\nEncuesta elaborada los días 26 y 27 octubre 2021\n2019"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nMoquegua/Ilo/Ilo\n-\nMoquegua/Ilo/Ilo\nPlaza Principal de Ilo - Iglesia San Jerónimo.\nTerrestre\nA pie\nAsfaltado\n100m / 3min."
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n07:00 a.m.\n-\n12:00 p.m.\nEn la tarde de:4:00p.m. - 7:00 p.m."
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nCultura y Folclore\nActividades Religiosas o Patronales\n--\nOtros\nActividades Culturales\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nOtros Servicios Turísticos\nOtros (Especificar)\nVenta de libros, rosarios, velas, etc."
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\nCiudad de Ilo(1,2,3 y 4 estrellas)\nAlojamiento\nHostales (especificar categorías)\nCiudad de Ilo( 1,2 y 3 estrellas)\nAlimentación\nRestaurantes\nCiudad de Ilo\nAlimentación\nKioskos de comida y bebidas\nCiudad de Ilo\nAlimentación\nVenta de comida Rápida\nCiudad de Ilo\nLugares de Recreación\nDiscotecas\nCiudad de Ilo\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nCiudad de Ilo\nLugares de Recreación\nCentros Deportivos\nCiudad de Ilo\nLugares de Recreación\nKaraoke\nCiudad de Ilo\nServicios Públicos\nMiradores turísticos\nCiudad de Ilo\nServicios Públicos\nEstacionamiento de vehículos\nCiudad de Ilo\nServicios Públicos\nSeñales turísticas de orientación\nCiudad de Ilo\nServicios Públicos\nMuelles turísticos\nCiudad de Ilo\nServicios Públicos\nOficina de Información turística\nCiudad de Ilo\nServicios Públicos\nPuesto de auxilio rápido\nCiudad de Ilo\nServicios Públicos\nMuseo de Sitio Turísticos\nCiudad de Ilo"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Ilo (Claro, Movistar, Bitel, Entel)\nBancos\nCiudad de Ilo ( Banco de la Nación, Interbank, Scotiabank, BBVA, BCP)\nCajero automático\nCiudad de Ilo\nCasa de cambio\nCiudad de Ilo\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Ilo\nServicio de correos\nCiudad de Ilo\nServicio de estacionamiento\nCiudad de Ilo\nServicios de taxis\nCiudad de Ilo\nCentro de salud - tópico\nCiudad de Ilo\nVenta de materiales para fotografías\nCiudad de Ilo\nSeguridad / POLTUR / Comisaría\nCiudad de Ilo(cuenta con todos)\nAlquiler y compra de equipos deportivos\nCiudad de Ilo\nLibrerías\nCiudad de Ilo\nBodegas o minimarkets\nCiudad de Ilo"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\n--\nLuz (Suministro Eléctrico)\n--\nAlcantarillado sanitario\n--\nSeñalización turística\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Ilo\nAlcantarillado sanitario\nCiudad de Ilo\nLuz (Suministro Eléctrico)\nCiudad de Ilo\nTeléfono\nCiudad de Ilo\nSeñalización turística\nCiudad de Ilo\nEnergía Alternativa\nCiudad de Ilo\nSistemas de tratamiento alternativo de residuos (Biodigestor, pozo séptico, otros)\nCiudad de Ilo"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\n--\nPrivado:\nDiócesis de Tacna y Moquegua\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nN° 9656\nNúmero de Partida:\n05002200\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nDiócesis de Tacna y Moquegua\nTiempo de administración\nDesde 1982"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo- Moquegua\nNombre (Persona(s) responsable(s) del inventario turístico):\nEco. Fernando Mamani Meza.\nCargo:\nSub Director de Turismo.\nCorreo:\nfemeza555@yahoo.com\nTeléfono:\n953549922\nFuentes Bibliográfica:\n- https://www.ytuqueplanes.com/rutas-cortas/moquegua/sol-y-playa-en-ilo-\n- Kuon Cabello, Luis Enrique. Retazos de la Historia de Ilo. Editorial: Familia Kuon. Lima.1993.\n- DePeru.com\nEnlace: https://www.deperu.com> iglesias-y-templos> iglesia-de-san-jeronimo-ilo-134\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n22/07/2022"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -17.646498806548202,
+    "longitud": -71.34495198726648
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-17.646498806548202,-71.34495198726648"
+}

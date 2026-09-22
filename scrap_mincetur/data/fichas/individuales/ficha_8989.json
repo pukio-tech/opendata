@@ -1,0 +1,251 @@
+{
+  "cod_ficha": 8989,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=8989",
+  "nombre": "Playa Punta Yaya",
+  "departamento": "Lima",
+  "provincia": "Cañete",
+  "distrito": "CHILCA",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "l. Costas",
+  "subtipo": "Playas",
+  "jerarquia": "POR JERARQUIZAR",
+  "altitud": "5",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=582522",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=582522",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=589395",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=589396",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=589362",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=589397",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=589365",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=589398",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=589366"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Estudios e Investigación"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Lima/Cañete/Chilca - Lima/Cañete/Chilca",
+      "detalle": "Plaza de Armas de Chilca – Playa Punta Yaya",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mini bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "1,5 km / 3 min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "40463",
+      "horario": "Municipalidad distrital de Chilca",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "08:00 a.m. - 06:00 p.m. Lunes a domingo",
+      "observaciones": "Lunes a domingo"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "Ciudad de Chilca / Hotel 2 Estrellas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "Ciudad de Chilca / Hostal 3 Estrellas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Chilca / Restaurante 3 Tenedores"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Chilca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Chilca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Chilca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Chilca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Ciudad de Chilca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Ciudad de Chilca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Chilca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "Ciudad de Chilca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Ciudad de Chilca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "Ciudad de Chilca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de interpretación",
+      "observacion": "Ciudad de Chilca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Puesto de auxilio rápido",
+      "observacion": "Ciudad de Chilca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "Ciudad de Chilca"
+    }
+  ],
+  "descripcion": "La Playa Punta Yaya, llamada también Playa Yaya o Playa Las Salinas, se encuentra ubicado a 1.5 Km. del centro poblado de Salinas del distrito de Chilca, es una playa de ingreso libre, lo bordea un imponente cerro, muy conocido como Punta Yaya que le confiere un aspecto muy peculiar y seguro. En los alrededores del cerro se pueden encontrar hermosas zonas con variados rompientes de olas, que denotan singular belleza natural.La extensión promedio es de 1.1 km de longitud. El clima es cálido y húmedo durante la mayor parte del año, con veranos calurosos y bochornosos, e inviernos frescos y secos, con temperaturas que varían  de 16° C a 26° C.La fauna que se logra observar en la playa son lagartijas, arácnidos y dada su cercanía al humedal de Chilca, se observan más de 50 especias de aves, entre las que destacan las parihuanas, garzas, patos y gaviotas.La playa cuenta con un malecón y áreas de recreación, estacionamiento para vehículos, restaurantes, alquiler de sombrillas y sillas para comodidad de los veraneantes; el mar es movido en el entorno de la Playa Yaya, por lo que, si bien se   pueden bañar los visitantes, deben tener cuidado, durante las temporadas de verano se organizan fogatas y campamentos en sus extensas arenas, es una playa calificada   como saludable por  la Dirección General de Salud Ambiental.La playa Yaya es conocida por sus historias de contactismo y avistamiento ufológico. Muchas personas acuden hasta aquí con tal de tener una experiencia de este tipo. En esta playa  podemos encontrar dos famosas cuevas que son la Cueva del Pirata I y Cueva del Pirata II,  conocidas por su avistamiento de ovnis. Cerca de la playa, en el Centro Poblado de Salinas, se  encuentran las lagunas Milagrosa, Mellicera y Encantada, que son consideradas como  medicinales, y que son un complemento para los que visitan las playas; los visitantes a la playa  son principalmente pobladores de la ciudad de Lima.",
+  "particularidades": "",
+  "estado_actual": "Bueno, porque la Municipalidad Distrital de Chilca se encarga de limpieza y mantenimiento constante.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "La Playa Punta Yaya, llamada también Playa Yaya o Playa Las Salinas, se encuentra ubicado a 1.5 Km. del centro poblado de Salinas del distrito de Chilca, es una playa de ingreso libre, lo bordea un imponente cerro, muy conocido como Punta Yaya que le confiere un aspecto muy peculiar y seguro. En los alrededores del cerro se pueden encontrar hermosas zonas con variados rompientes de olas, que denotan singular belleza natural.La extensión promedio es de 1.1 km de longitud. El clima es cálido y húmedo durante la mayor parte del año, con veranos calurosos y bochornosos, e inviernos frescos y secos, con temperaturas que varían  de 16° C a 26° C.La fauna que se logra observar en la playa son lagartijas, arácnidos y dada su cercanía al humedal de Chilca, se observan más de 50 especias de aves, entre las que destacan las parihuanas, garzas, patos y gaviotas.La playa cuenta con un malecón y áreas de recreación, estacionamiento para vehículos, restaurantes, alquiler de sombrillas y sillas para comodidad de los veraneantes; el mar es movido en el entorno de la Playa Yaya, por lo que, si bien se   pueden bañar los visitantes, deben tener cuidado, durante las temporadas de verano se organizan fogatas y campamentos en sus extensas arenas, es una playa calificada   como saludable por  la Dirección General de Salud Ambiental.La playa Yaya es conocida por sus historias de contactismo y avistamiento ufológico. Muchas personas acuden hasta aquí con tal de tener una experiencia de este tipo. En esta playa  podemos encontrar dos famosas cuevas que son la Cueva del Pirata I y Cueva del Pirata II,  conocidas por su avistamiento de ovnis. Cerca de la playa, en el Centro Poblado de Salinas, se  encuentran las lagunas Milagrosa, Mellicera y Encantada, que son consideradas como  medicinales, y que son un complemento para los que visitan las playas; los visitantes a la playa  son principalmente pobladores de la ciudad de Lima."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, porque la Municipalidad Distrital de Chilca se encarga de limpieza y mantenimiento constante."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nVisitantes Locales(Excursionistas)\n40463\nMunicipalidad distrital de Chilca\n2025\nEstimación del número de visitantes admitidos por Dircetur Lima."
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nLima/Cañete/Chilca\n-\nLima/Cañete/Chilca\nPlaza de Armas de Chilca – Playa Punta Yaya\nTerrestre\nMini bus público\nAsfaltado\n1,5 km / 3 min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n08:00 a.m.\n-\n06:00 p.m.\nLunes a domingo"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nEstudios e Investigación\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\nCiudad de Chilca / Hotel 2 Estrellas\nAlojamiento\nHostales (especificar categorías)\nCiudad de Chilca / Hostal 3 Estrellas\nAlimentación\nRestaurantes\nCiudad de Chilca / Restaurante 3 Tenedores\nAlimentación\nBares\nCiudad de Chilca\nAlimentación\nCafeterías\nCiudad de Chilca\nAlimentación\nKioskos de comida y bebidas\nCiudad de Chilca\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Chilca\nLugares de Recreación\nJuegos Infantiles\nCiudad de Chilca\nLugares de Recreación\nCentros Deportivos\nCiudad de Chilca\nLugares de Recreación\nBares\nCiudad de Chilca\nServicios Públicos\nMiradores turísticos\nCiudad de Chilca\nServicios Públicos\nEstacionamiento de vehículos\nCiudad de Chilca\nServicios Públicos\nSeñales turísticas de orientación\nCiudad de Chilca\nServicios Públicos\nSeñales turísticas de interpretación\nCiudad de Chilca\nServicios Públicos\nPuesto de auxilio rápido\nCiudad de Chilca\nLugares de Recreación\nKaraoke\nCiudad de Chilca"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Chilca\nCajero automático\nCiudad de Chilca\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Chilca\nServicio de estacionamiento\nCiudad de Chilca\nServicios de taxis\nCiudad de Chilca\nCentro de salud - tópico\nCiudad de Chilca\nSeguridad / POLTUR / Comisaría\nCiudad de Chilca\nAlquiler y compra de equipos deportivos\nCiudad de Chilca\nLibrerías\nCiudad de Chilca\nBodegas o minimarkets\nCiudad de Chilca"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Chilca\nAlcantarillado sanitario\nCiudad de Chilca\nLuz (Suministro Eléctrico)\nCiudad de Chilca\nTeléfono\nCiudad de Chilca\nSeñalización turística\nCiudad de Chilca"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nDirección General de Capitanías y Guarda Costas de Perú\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nPartida\nNúmero de Partida:\n21264280\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nMunicipalidad Distrital de Chilca\nTiempo de administración\nDesde el año 1957"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo - Gobierno Regional de Lima\nNombre (Persona(s) responsable(s) del inventario turístico):\nJorge Luis Torres Chirito\nCargo:\nAsistente Administrativo II\nCorreo:\njtorresc@regionlima.gob.pe\nTeléfono:\n956454928\nFuentes Bibliográfica:\n1) Informe Técnico Nro. A6867 Estudio Hidrogeológico de Las Lagunas: La Milagrosa, San Pedro, La Mellicera y La Encantada, de las Salinas de Chilca, Provincia de Cañete– Lima.\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n5/04/2025 18:15:38"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -12.533934881990069,
+    "longitud": -76.75600290298462
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-12.533934881990069,-76.75600290298462"
+}

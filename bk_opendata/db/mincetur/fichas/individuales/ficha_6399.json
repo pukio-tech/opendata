@@ -1,0 +1,234 @@
+{
+  "cod_ficha": 6399,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=6399",
+  "nombre": "Mirador San Isidro",
+  "departamento": "Cajamarca",
+  "provincia": "Celendin",
+  "distrito": "CELENDÍN",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Arquitectura y Espacios Urbanos",
+  "subtipo": "Miradores",
+  "jerarquia": "1",
+  "altitud": "2625",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=489504",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=489504",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=489554",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=500370",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=500330",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=500371",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=500331",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=539193",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=539239"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Naturaleza - Observación de paisaje"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Cajamarca/Cajamarca/Cajamarca - Cajamarca/Celendín/Celendín",
+      "detalle": "Paradero a Celendín desde la Av. Atahualpa hasta Celendín",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "2 horas, 97 km"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Cajamarca/Celendín/Celendín - Cajamarca/Celendín/Celendín",
+      "detalle": "Plaza principal – Mirador Cristo Redentor",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "2 min, 500 mt"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "110",
+      "horario": "cuaderno de registro",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "360",
+      "horario": "Cuaderno de registro de visitantes.",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "1200",
+      "horario": "Cuaderno de registro de visitantes.",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "06:00 a.m. - 06:00 p.m. Todo el día.",
+      "observaciones": "Todo el día."
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "Hoteles de 3 Estrellas. Ciudad de Celendin"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Celendin"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Celendin"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Celendin"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Celendin"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Celendin"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Ciudad de Celendin"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Ciudad de Celendin"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Puesto de auxilio rápido",
+      "observacion": "Ciudad de Celendin"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "Hostales de 1, 2 y 3 Estrellas. Ciudad de Celendin"
+    }
+  ],
+  "descripcion": "Se encuentra ubicado en una pequeña colina que se levanta al oeste de Celendín; la construcción del actual mirador se inició en el año 2005 y concluyó en 2006. Se trata de una de las principales atracciones para los turistas que visitan Celendín, por ser una réplica del Cristo Redentor de Brasil, que tiene una altura de 10 metros y con los brazos extendidos en gesto protector hacia la ciudad de Celendín, se encuentra en lo alto de una pequeña colina a 1685 msnm, con una extensión de 6379.30 m2. Se accede hacia él, a pie por una gradería de piedra y también por una vía afirmada.\nEs muy importante para Celendín, dado el potencial de la actividad turística como medio de desarrollo local, es muy visitado por turistas nacionales y extranjeros por ser una zona de paso hacia la ciudadela de Kueláp..\nDesde su ubicación puede ser apreciada la ciudad de Celendín que se destaca por su arquitectura que data del siglo XVIII considerada una de las pequeñas ciudad más bellas de los Andes peruanos por la rectitud de sus calles que es comparada como un tablero de ajedrez, es además uno de los pocos atractivos turísticos que se ubica alrededor de la ciudad de Celendín.",
+  "particularidades": "",
+  "estado_actual": "Se encuentra activo en buen estado, bajo cuidado de la MPC",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Se encuentra ubicado en una pequeña colina que se levanta al oeste de Celendín; la construcción del actual mirador se inició en el año 2005 y concluyó en 2006. Se trata de una de las principales atracciones para los turistas que visitan Celendín, por ser una réplica del Cristo Redentor de Brasil, que tiene una altura de 10 metros y con los brazos extendidos en gesto protector hacia la ciudad de Celendín, se encuentra en lo alto de una pequeña colina a 1685 msnm, con una extensión de 6379.30 m2. Se accede hacia él, a pie por una gradería de piedra y también por una vía afirmada.\nEs muy importante para Celendín, dado el potencial de la actividad turística como medio de desarrollo local, es muy visitado por turistas nacionales y extranjeros por ser una zona de paso hacia la ciudadela de Kueláp..\nDesde su ubicación puede ser apreciada la ciudad de Celendín que se destaca por su arquitectura que data del siglo XVIII considerada una de las pequeñas ciudad más bellas de los Andes peruanos por la rectitud de sus calles que es comparada como un tablero de ajedrez, es además uno de los pocos atractivos turísticos que se ubica alrededor de la ciudad de Celendín."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Se encuentra activo en buen estado, bajo cuidado de la MPC"
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n110\ncuaderno de registro\n2023\nCuaderno de registro de visitantes.\nTuristas Nacionales\n360\nCuaderno de registro de visitantes.\n2023\nCuaderno de registro de visitantes.\nVisitantes Locales(Excursionistas)\n1200\nCuaderno de registro de visitantes.\n2023\nCuaderno de registro de visitantes."
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nCajamarca/Cajamarca/Cajamarca\n-\nCajamarca/Celendín/Celendín\nParadero a Celendín desde la Av. Atahualpa hasta Celendín\nTerrestre\nAutomóvil particular\nAsfaltado\n2 horas, 97 km\n1\nCajamarca/Celendín/Celendín\n-\nCajamarca/Celendín/Celendín\nPlaza principal – Mirador Cristo Redentor\nTerrestre\nAutomóvil particular\nTrocha carrozable\n2 min, 500 mt"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n06:00 a.m.\n-\n06:00 p.m.\nTodo el día."
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nNaturaleza\nObservación de paisaje\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\nHoteles de 3 Estrellas. Ciudad de Celendin\nAlimentación\nRestaurantes\nCiudad de Celendin\nAlimentación\nBares\nCiudad de Celendin\nAlimentación\nCafeterías\nCiudad de Celendin\nAlimentación\nKioskos de comida y bebidas\nCiudad de Celendin\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Celendin\nOtros Servicios Turísticos\nOtros (Especificar)\nCiudad de Celendin\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nCiudad de Celendin\nServicios Públicos\nPuesto de auxilio rápido\nCiudad de Celendin\nAlojamiento\nHostales (especificar categorías)\nHostales de 1, 2 y 3 Estrellas. Ciudad de Celendin"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Celendín\nBancos\nCiudad de Celendín\nSeguridad / POLTUR / Comisaría\nCiudad de Celendín\nCentro de salud - tópico\nCiudad de Celendín\nVenta de materiales para fotografías\nCiudad de Celendín\nLibrerías\nCiudad de Celendín"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nLuz (Suministro Eléctrico)\nPara iluminar el Cristo"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Celendin\nAlcantarillado sanitario\nCiudad de Celendin\nDesagüe\nCiudad de Celendin\nLuz (Suministro Eléctrico)\nCiudad de Celendin\nTeléfono\nCiudad de Celendin\nOtros (Especificar)\nPosta Medica, Puesto Policia, Bancos. Ciudad de Celendin\nSeñalización turística\nCiudad de Celendin"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nMUNICIPALIDAD PROVINCIAL DE CELENDIN\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nADJUDICADO A LA MUNICIPALIDAD PROVINCIAL CELENDÍN\nAdministrador por\nNombre\nMUNICIPALIDAD PROVINCIAL DE CELENDIN\nTiempo de administración\nDesde 2006 - 18 años"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo Cajamarca\nNombre (Persona(s) responsable(s) del inventario turístico):\nEsperanza Escobar Portal\nCargo:\nTécnico en Turismo I\nCorreo:\nmescobar@regioncajamarca.gob.pe\nTeléfono:\n962690326\nFuentes Bibliográfica:\nInventario de Atractivos Turísticos de Cajamarca 2006 - Dirección Regional de Comercio Exterior y Turismo Cajamarca.\nInventario de Recursos Turísticos 2016 - Municipalidad Provincial de Celendín\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n30/06/2025 17:48:28"
+    }
+  ],
+  "coordenadas": {
+    "latitud": null,
+    "longitud": null
+  },
+  "google_maps_url": null
+}

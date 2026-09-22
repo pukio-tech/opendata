@@ -1,0 +1,302 @@
+{
+  "cod_ficha": 7143,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=7143",
+  "nombre": "Laguna Lulicocha",
+  "departamento": "Pasco",
+  "provincia": "Pasco",
+  "distrito": "NINACACA",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "g. Cuerpo de Agua",
+  "subtipo": "Lagunas",
+  "jerarquia": "2",
+  "altitud": "4297",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=468004",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=468004",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=468005",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=468006",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=468007"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Naturaleza - Observación de paisaje",
+    "Paseos - Paseos en bote"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Paseos",
+      "tipo": "Paseos en bote",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paseo_bote02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Pasco/Pasco/Chaupimarca - Pasco/Pasco/Ninacaca",
+      "detalle": "Terminal terrestre del distrito de Chaupimarca – Paradero Chasqui, ingreso a la localidad de Ninacaca",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "36.7 km / 60 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Pasco/Pasco/Ninacaca - Pasco/Pasco/Ninacaca",
+      "detalle": "Paradero Chasqui, ingreso a la localidad de Ninacaca – Plaza Huagaycondor de la localidad de Ninacaca",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mototaxi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "1.6 km / 6 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Pasco/Pasco/Ninacaca - Pasco/Pasco/Ninacaca",
+      "detalle": "Plaza Huagaycondor de la localidad de Ninacaca – Laguna Lulicocha",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Taxi",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "10.71 km / 12 min"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Lima/Lima/La Victoria - Pasco/Pasco/Ninacaca",
+      "detalle": "Terminal Terreste Luna Pizarro del distrito de La Victoria - Paradero Chasqui, ingreso a la localidad de Ninacaca",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "255 km / 6 h 13 min"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Pasco/Pasco/Ninacaca - Pasco/Pasco/Ninacaca",
+      "detalle": "Paradero Chasqui, ingreso a la localidad de Ninacaca – Plaza Huagaycondor de la localidad de Ninacaca",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mototaxi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "1.6 km / 6 min"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Pasco/Pasco/Ninacaca - Pasco/Pasco/Ninacaca",
+      "detalle": "Plaza Huagaycondor de la localidad de Ninacaca – Laguna Lulicocha",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Taxi",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "10.71 km / 12 min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "380",
+      "horario": "Municipalidad Distrital de Ninacaca",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "120",
+      "horario": "Municipalidad Distrital de Ninacaca",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "09:00 a.m. - 03:00 p.m. Por las condiciones del clima, se recomienda visitar el recurso hasta las 3:00 p.m.",
+      "observaciones": "Por las condiciones del clima, se recomienda visitar el recurso hasta las 3:00 p.m."
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de botes",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Embarcaderos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Las habitaciones son ofertadas por el párroco de la iglesia de Ninacaca, localidad de Ninacaca."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Localidad de Ninacaca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Localidad de Ninacaca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Localidad de Yanacancha"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Idioma español. Localidad de Ninacaca."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Localidad de Ninacaca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Localidad de Ninacaca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "Localidad de Ninacaca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Localidad de Ninacaca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Centros de interpretación",
+      "observacion": "Localidad de Ninacaca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Localidad de Ninacaca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "Localidad de Ninacaca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Puesto de auxilio rápido",
+      "observacion": "Localidad de Ninacaca"
+    }
+  ],
+  "descripcion": "La laguna Lulicocha se encuentra ubicada en la cuenca del río Mantaro, a 10.7 km al norte de la plaza principal del distrito de Ninacaca, bajo un clima frío y lluvioso con otoño e inviernos secos y veranos frescos de la región natural Puna. Durante el año, la temperatura varía entre -1 °C a 14 °C. Su área aproximada es de 96.53 ha. con un perímetro de 4.54 km. Su profundidad es de más de 30 metros, con una extensión que abarca los 1800 metros de largo por 520 metros de ancho en su parte más central. Su ribera incorpora ecosistemas como el pajonal de puna húmeda y los bofedales andinos, comprendidos a su vez, sobre depósitos aluviales con presencia de gravas, depósitos glaciares con presencia de bloques, gravas, limo y arena; y montañas y colinas estructurales en rocas sedimentarias con presencia de caliza y arenisca.\nEn el contorno de esta hermosa laguna de aguas cristalinas crecen totorales, algas y microalgas. También, se encuentran embarcaderos rústicos e infraestructuras conocidos como “colcas”. En este último, los pobladores almacenan sus alimentos.\nEntre otros recursos biológicos, se encuentra la trucha, aves como el corcovado (Odontophorus gujanensis), el blanquillo (Podiceps occipitalis), la gaviota andina (Chroicocephalus serranus), la huachua (Chloephaga melanoptera), yanavico (Plegadis ridgwayi), el pato andino (Lophonetta specularioides), la garza blanca (Ardea alba) y otras aves migratorias que llegan en temporada de invierno. También, esta laguna es hábitat natural de la rana gigante que se encuentra en peligro de extinción. En su área circundante, la presencia del ichu es predominante.\nLos centros poblados más cercanos son Huay Huay y Pimapchupan; ambos son caseríos al que pertenece la laguna Lulicocha.\nEn esta laguna, considerada por la comunidad como “terreno ancestral”, las actividades que se realizan son: la observación del paisaje, la pesca artesanal mediante botes que son conducidos por los visitantes o los mismos pobladores locales, y la crianza de truchas a través de jaulas flotantes. En esta última, son las personas del mismo distrito y del caserío de Huay Huay quienes se dedican permanentemente en el desarrollo de esta actividad.\nEn el interior de la laguna se ha evidenciado la formación de pequeños remolinos, principalmente en puntos conocidos como tragaderos, donde el agua ingresa y sale por el distrito de Pariamarca. Adicionalmente, en los cerros aledaños se puede apreciar huacas andinas que dieron origen a los relatos que se tienen de esta laguna, como el cuento del “Luli Huarmi”. Un cuento local que narra la historia de una bella sirena y un joven pastor llamado Tashguish.",
+  "particularidades": "",
+  "estado_actual": "Muy bueno. La laguna mantiene sus características naturales paisajísticas, de flora y fauna.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "La laguna Lulicocha se encuentra ubicada en la cuenca del río Mantaro, a 10.7 km al norte de la plaza principal del distrito de Ninacaca, bajo un clima frío y lluvioso con otoño e inviernos secos y veranos frescos de la región natural Puna. Durante el año, la temperatura varía entre -1 °C a 14 °C. Su área aproximada es de 96.53 ha. con un perímetro de 4.54 km. Su profundidad es de más de 30 metros, con una extensión que abarca los 1800 metros de largo por 520 metros de ancho en su parte más central. Su ribera incorpora ecosistemas como el pajonal de puna húmeda y los bofedales andinos, comprendidos a su vez, sobre depósitos aluviales con presencia de gravas, depósitos glaciares con presencia de bloques, gravas, limo y arena; y montañas y colinas estructurales en rocas sedimentarias con presencia de caliza y arenisca.\nEn el contorno de esta hermosa laguna de aguas cristalinas crecen totorales, algas y microalgas. También, se encuentran embarcaderos rústicos e infraestructuras conocidos como “colcas”. En este último, los pobladores almacenan sus alimentos.\nEntre otros recursos biológicos, se encuentra la trucha, aves como el corcovado (Odontophorus gujanensis), el blanquillo (Podiceps occipitalis), la gaviota andina (Chroicocephalus serranus), la huachua (Chloephaga melanoptera), yanavico (Plegadis ridgwayi), el pato andino (Lophonetta specularioides), la garza blanca (Ardea alba) y otras aves migratorias que llegan en temporada de invierno. También, esta laguna es hábitat natural de la rana gigante que se encuentra en peligro de extinción. En su área circundante, la presencia del ichu es predominante.\nLos centros poblados más cercanos son Huay Huay y Pimapchupan; ambos son caseríos al que pertenece la laguna Lulicocha.\nEn esta laguna, considerada por la comunidad como “terreno ancestral”, las actividades que se realizan son: la observación del paisaje, la pesca artesanal mediante botes que son conducidos por los visitantes o los mismos pobladores locales, y la crianza de truchas a través de jaulas flotantes. En esta última, son las personas del mismo distrito y del caserío de Huay Huay quienes se dedican permanentemente en el desarrollo de esta actividad.\nEn el interior de la laguna se ha evidenciado la formación de pequeños remolinos, principalmente en puntos conocidos como tragaderos, donde el agua ingresa y sale por el distrito de Pariamarca. Adicionalmente, en los cerros aledaños se puede apreciar huacas andinas que dieron origen a los relatos que se tienen de esta laguna, como el cuento del “Luli Huarmi”. Un cuento local que narra la historia de una bella sirena y un joven pastor llamado Tashguish."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Muy bueno. La laguna mantiene sus características naturales paisajísticas, de flora y fauna."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nVisitantes Locales(Excursionistas)\n380\nMunicipalidad Distrital de Ninacaca\n2021\nOficio N° 007-2022-MDN-A-GM-SGDSYE\nTuristas Nacionales\n120\nMunicipalidad Distrital de Ninacaca\n2021\nOficio N° 007-2022-MDN-A-GM-SGDSYE"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nPasco/Pasco/Chaupimarca\n-\nPasco/Pasco/Ninacaca\nTerminal terrestre del distrito de Chaupimarca – Paradero Chasqui, ingreso a la localidad de Ninacaca\nTerrestre\nBus público\nAsfaltado\n36.7 km / 60 min\n1\nPasco/Pasco/Ninacaca\n-\nPasco/Pasco/Ninacaca\nParadero Chasqui, ingreso a la localidad de Ninacaca – Plaza Huagaycondor de la localidad de Ninacaca\nTerrestre\nMototaxi\nAsfaltado\n1.6 km / 6 min\n1\nPasco/Pasco/Ninacaca\n-\nPasco/Pasco/Ninacaca\nPlaza Huagaycondor de la localidad de Ninacaca – Laguna Lulicocha\nTerrestre\nTaxi\nAfirmado\n10.71 km / 12 min\n2\nLima/Lima/La Victoria\n-\nPasco/Pasco/Ninacaca\nTerminal Terreste Luna Pizarro del distrito de La Victoria - Paradero Chasqui, ingreso a la localidad de Ninacaca\nTerrestre\nBus público\nAsfaltado\n255 km / 6 h 13 min\n2\nPasco/Pasco/Ninacaca\n-\nPasco/Pasco/Ninacaca\nParadero Chasqui, ingreso a la localidad de Ninacaca – Plaza Huagaycondor de la localidad de Ninacaca\nTerrestre\nMototaxi\nAsfaltado\n1.6 km / 6 min\n2\nPasco/Pasco/Ninacaca\n-\nPasco/Pasco/Ninacaca\nPlaza Huagaycondor de la localidad de Ninacaca – Laguna Lulicocha\nTerrestre\nTaxi\nAfirmado\n10.71 km / 12 min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n09:00 a.m.\n-\n03:00 p.m.\nPor las condiciones del clima, se recomienda visitar el recurso hasta las 3:00 p.m."
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nNaturaleza\nObservación de paisaje\n--\nPaseos\nPaseos en bote\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nOtros Servicios Turísticos\nAlquiler de botes\n--\nInstalaciones Públicas\nServicios Públicos\nEmbarcaderos\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nLas habitaciones son ofertadas por el párroco de la iglesia de Ninacaca, localidad de Ninacaca.\nAlimentación\nRestaurantes\nLocalidad de Ninacaca\nAlimentación\nKioskos de comida y bebidas\nLocalidad de Ninacaca\nOtros Servicios Turísticos\nAgencia de Viajes\nLocalidad de Yanacancha\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nIdioma español. Localidad de Ninacaca.\nOtros Servicios Turísticos\nVenta de artesanía\nLocalidad de Ninacaca\nLugares de Recreación\nCentros Deportivos\nLocalidad de Ninacaca\nServicios Públicos\nMiradores turísticos\nLocalidad de Ninacaca\nServicios Públicos\nEstacionamiento de vehículos\nLocalidad de Ninacaca\nServicios Públicos\nCentros de interpretación\nLocalidad de Ninacaca\nServicios Públicos\nOficina de Información turística\nLocalidad de Ninacaca\nServicios Públicos\nCaminos peatonales\nLocalidad de Ninacaca\nServicios Públicos\nPuesto de auxilio rápido\nLocalidad de Ninacaca"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nLocalidad de Ninacaca\nEstación de servicios, grifos, gasolineras y gasocentros\nLocalidad de Ninacaca\nServicio de estacionamiento\nLocalidad de Ninacaca\nServicios de taxis\nLocalidad de Ninacaca\nCentro de salud - tópico\nLocalidad de Ninacaca\nBodegas o minimarkets\nLocalidad de Ninacaca\nOtros(especificar)\nAgente del Banco de la Nación. Localidad de Ninacaca."
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nLocalidad de Ninacaca\nLuz (Suministro Eléctrico)\nLocalidad de Ninacaca\nEnergía Alternativa\nLocalidad de Ninacaca\nAlcantarillado sanitario\nLocalidad de Ninacaca\nSistemas de tratamiento alternativo de residuos (Biodigestor, pozo séptico, otros)\nLocalidad de Ninacaca\nAlternativo de Residuos (Biodigestor, pozo séptico, otros)\nLocalidad de Ninacaca\nSeñalización turística\nLocalidad de Ninacaca"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nComunidad Campesina de Ninacaca\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nSegún Ley N° 24657 sobre deslinde y titulación, y ley N° 24656 sobre comunidades campesinas.\nAdministrador por\nNombre\nComunidad Campesina de Ninacaca\nTiempo de administración\nDesde el 23 de mayo de 1904."
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo de Pasco – Municipalidad Distrital de Ninacaca\nNombre (Persona(s) responsable(s) del inventario turístico):\nLic. Nilton Llanos López – DIRCETUR Pasco\nCargo:\nDirector de Turismo\nCorreo:\ndireccionturismo@regionpasco.gob.pe\nTeléfono:\n932 272 625\nFuentes Bibliográfica:\n- Geocatmin (2022). https://geocatmin.ingemmet.gob.pe/geocatmin/\n- SENAMHI (2020). Mapa Climático del Perú, Clasificación Climática de Warren Thornthwaite. Perú. https://www.senamhi.gob.pe/servicios/?p=mapa-climatico-del-peru\n- MINAM (2019). Mapa Nacional de Ecosistemas del Perú. Perú. https://sinia.minam.gob.pe/mapas/mapa-nacional-ecosistemas-peru\n- Weather Spark (2017). El clima y el tiempo promedio en todo el año en Ninacaca. Perú. https://es.weatherspark.com/y/21345/Clima-promedio-en-Ninacaca-Per%C3%BA-durante-todo-el-a%C3%B1o\n- Entrevista Oral a Pelayo Álvarez Llanos. 12 de diciembre del 2022\n- Entrevista Oral a Antonio Carhuaricra Reyes. 12 de diciembre del 2022\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n13/12/2022"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -10.77125401020088,
+    "longitud": -76.0916519165039
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-10.77125401020088,-76.0916519165039"
+}

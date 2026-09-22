@@ -1,0 +1,296 @@
+{
+  "cod_ficha": 766,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=766",
+  "nombre": "Calle José Olaya - Huaraz",
+  "departamento": "Áncash",
+  "provincia": "Huaraz",
+  "distrito": "HUARAZ",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Arquitectura y Espacios Urbanos",
+  "subtipo": "Barrios tradicionales",
+  "jerarquia": "2",
+  "altitud": "3103",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=438309",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=438309",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=441697",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=441698",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=659633",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=659583",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=659584",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=659634",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=659586",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=659587",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=659589"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Paseos - Excursiones",
+    "Otros - Actividades Culturales",
+    "Otros - Actividades Sociales",
+    "Otros - Realización de eventos",
+    "Cultura y Folclore - Degustación y preparación de platos, productos o bebidas típicas",
+    "Cultura y Folclore - Ferias"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Paseos",
+      "tipo": "Excursiones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/excursiones02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Actividades Culturales",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/act_culturales02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Actividades Sociales",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/sociales02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Realización de eventos",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/eventos02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Degustación y preparación de platos, productos o bebidas típicas",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/platos_tipicos02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Ferias",
+      "observacion": "Comidas típicas de la región",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/feria02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Áncash/Huaraz/Huaraz - Áncash/Huaraz/Huaraz",
+      "detalle": "Plaza de Huaraz - Calle José Olaya",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "",
+      "distancia_tiempo": "1/2km/10 minutos"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "37906",
+      "horario": "Indicad. de Ocupabilidad (Resultados de la Encuesta Mensual de EEHH)",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "255913",
+      "horario": "Indicad. de Ocupabilidad (Resultados de la Encuesta Mensual de EEHH)",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "06:00 a.m. - 10:00 p.m. Recurrencia peatonal de los vecinos.",
+      "observaciones": "Recurrencia peatonal de los vecinos."
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Comidas típicas de la Zona"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "De 1 a 3 estrellas. Ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "De 1 a 3 estrellas, ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Casa de Hospedaje",
+      "observacion": "ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Casa de Cambio",
+      "observacion": "ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Facilidades para discapacitados",
+      "observacion": "ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicios Higiénicos",
+      "observacion": "ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de taxi",
+      "observacion": "ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Tópico",
+      "observacion": "ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de Material para Fotografía",
+      "observacion": "ciudad de Huaraz"
+    }
+  ],
+  "descripcion": "Calle tradicional que antiguamente se llamaba Quemash que significa quedarse a descansar; está ubicada dentro de la ciudad de Huaraz, a 5 minutos de la Plaza de Armas; es la única calle que mantiene la estructura de la ciudad de Huaraz antes del terremoto de 1970, caracterizada por ser empedrada con vía de estructura angosta y las viviendas cuentan con balcones de madera, fachadas pintadas de color blanco y puertas de color verde, de típica arquitectura colonial. El 9 de noviembre de 1987 fue declarado Ambiente Urbano Monumental. Las viviendas son usadas como Restaurantes que presentan todos los domingos variedad de platos típicos de la gastronomía Ancashina (sopa de Llunca, Picante de Cuy, Pachamanca, Chicharrón de Chancho, Chicha de Jora y panes tradicionales de Huaraz) visitados por los turistas locales y nacionales, también encontramos establecimientos de Hospedaje y agencias de viaje con instalaciones para hacer deporte de aventura (palestra); esta importante calle forma parte del City Tours en la ciudad de Huaraz, cuyo recorrido dura entre 3 a 4 horas, recomendable para los visitantes que tienen poco tiempo en la ciudad.",
+  "particularidades": "",
+  "estado_actual": "Bueno, porque su cuidado está a cargo de los vecinos y la municipalidad provincial de Huaraz.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Calle tradicional que antiguamente se llamaba Quemash que significa quedarse a descansar; está ubicada dentro de la ciudad de Huaraz, a 5 minutos de la Plaza de Armas; es la única calle que mantiene la estructura de la ciudad de Huaraz antes del terremoto de 1970, caracterizada por ser empedrada con vía de estructura angosta y las viviendas cuentan con balcones de madera, fachadas pintadas de color blanco y puertas de color verde, de típica arquitectura colonial. El 9 de noviembre de 1987 fue declarado Ambiente Urbano Monumental. Las viviendas son usadas como Restaurantes que presentan todos los domingos variedad de platos típicos de la gastronomía Ancashina (sopa de Llunca, Picante de Cuy, Pachamanca, Chicharrón de Chancho, Chicha de Jora y panes tradicionales de Huaraz) visitados por los turistas locales y nacionales, también encontramos establecimientos de Hospedaje y agencias de viaje con instalaciones para hacer deporte de aventura (palestra); esta importante calle forma parte del City Tours en la ciudad de Huaraz, cuyo recorrido dura entre 3 a 4 horas, recomendable para los visitantes que tienen poco tiempo en la ciudad."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "Declarado Ambiente Urbano Monumental mediante Resolución Ministerial Nº 775-87-ED del 09 de noviembre de 1987."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, porque su cuidado está a cargo de los vecinos y la municipalidad provincial de Huaraz."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n37906\nIndicad. de Ocupabilidad (Resultados de la Encuesta Mensual de EEHH)\n2025\nTuristas Nacionales\n255913\nIndicad. de Ocupabilidad (Resultados de la Encuesta Mensual de EEHH)\n2025"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nÁncash/Huaraz/Huaraz\n-\nÁncash/Huaraz/Huaraz\nPlaza de Huaraz - Calle José Olaya\nTerrestre\nAutomóvil particular\n1/2km/10 minutos"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n06:00 a.m.\n-\n10:00 p.m.\nRecurrencia peatonal de los vecinos."
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nPaseos\nExcursiones\n--\nOtros\nActividades Culturales\n--\nOtros\nActividades Sociales\n--\nOtros\nRealización de eventos\n--\nCultura y Folclore\nDegustación y preparación de platos, productos o bebidas típicas\n--\nCultura y Folclore\nFerias\nComidas típicas de la región"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nAlimentación\nRestaurantes\nComidas típicas de la Zona"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\nDe 1 a 3 estrellas. Ciudad de Huaraz\nAlojamiento\nHostales (especificar categorías)\nDe 1 a 3 estrellas, ciudad de Huaraz\nAlojamiento\nCasa de Hospedaje\nciudad de Huaraz\nAlimentación\nRestaurantes\nciudad de Huaraz\nAlimentación\nCafeterías\nciudad de Huaraz\nAlimentación\nKioskos de comida y bebidas\nciudad de Huaraz\nOtros Servicios Turísticos\nVenta de artesanía\nciudad de Huaraz\nOtros Servicios Turísticos\nCasa de Cambio\nciudad de Huaraz\nOtros Servicios Turísticos\nFacilidades para discapacitados\nciudad de Huaraz\nOtros Servicios Turísticos\nServicios Higiénicos\nciudad de Huaraz\nOtros Servicios Turísticos\nServicio de taxi\nciudad de Huaraz\nOtros Servicios Turísticos\nTópico\nciudad de Huaraz\nOtros Servicios Turísticos\nVenta de Material para Fotografía\nciudad de Huaraz"
+    },
+    {
+      "titulo": "Servicios Complementarios dentro del recurso",
+      "contenido": "Servicio Complementario\nObservación\nOtros(especificar)\nRestaurants, Jr. José Olaya\nBodegas o minimarkets\nJr. José Olaya"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Huaraz.\nBancos\nCiudad de Huaraz.\nCajero automático\nCiudad de Huaraz.\nCasa de cambio\nCiudad de Huaraz.\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Huaraz.\nServicio de estacionamiento\nCiudad de Huaraz.\nCentro de salud - tópico\nCiudad de Huaraz.\nVenta de materiales para fotografías\nCiudad de Huaraz.\nSeguridad / POLTUR / Comisaría\nCiudad de Huaraz."
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\n--\nAlcantarillado sanitario\n--\nLuz (Suministro Eléctrico)\n--\nTeléfono\n--\nSeñalización turística\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nciudad de Huaraz\nAlcantarillado sanitario\nciudad de Huaraz\nLuz (Suministro Eléctrico)\nciudad de Huaraz\nTeléfono\nciudad de Huaraz"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nMunicipalidad Provincial de Huaraz\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nEspacio publico (calle).\nAdministrador por\nNombre\nMunicipalidad Provincial de Huaraz\nTiempo de administración\nDesde el año 1970"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterios y Turismo\nNombre (Persona(s) responsable(s) del inventario turístico):\nFrank Cristian Olivera Blas\nCargo:\nEspecialista en Turismo\nCorreo:\ndirceturancashdt2@gmail.com\nTeléfono:\n974771911\nFuentes Bibliográfica:\nRevista Ancash Ecología y Turismo. (2011). Cordillera Blanca (1ra ed.). Ancash, Perú: Revista Ancash Ecología y Turismo.\nUnknown. (2017, marzo 10). Jirón José Olaya. Conozca Huaraz. Recuperado de https://conozcahuaraz.blogspot.com/2017/03/jiron-jose-olaya.html\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n8/05/2026 12:35:40"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -9.52834396985447,
+    "longitud": -77.51981994477461
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-9.52834396985447,-77.51981994477461"
+}

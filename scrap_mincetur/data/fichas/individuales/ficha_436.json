@@ -1,0 +1,301 @@
+{
+  "cod_ficha": 436,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=436",
+  "nombre": "Arte Rupestre De Chaqatira",
+  "departamento": "Puno",
+  "provincia": "Carabaya",
+  "distrito": "MACUSANI",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Sitios Arqueológicos",
+  "subtipo": "Pintura Rupestre",
+  "jerarquia": "1",
+  "altitud": "3950",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=473809",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=473809",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=473810",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=473811",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=473759",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=473812",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=473813",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=473814",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=473815"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Actividades Culturales",
+    "Otros - Estudios e Investigación",
+    "Naturaleza - Observación de fauna",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de paisaje",
+    "Naturaleza - Observación de aves",
+    "Cultura y Folclore - Rituales místicos o tradicionales"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Actividades Culturales",
+      "observacion": "Durante celebraciones del calendario andino (año nuevo andino, día de la Pachamama, carnavales, pentecostés, domigo de tentación y otros)",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/act_culturales02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de fauna",
+      "observacion": "vizcachas, cuyes silvestres. Además camelidos sudamericanos; llama, alpaca.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fauna02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "Hiru ichu, Paqupaqu, Chilligua, colonias de cactus como el Orco huaraqo y la China waraqu y ortigas como la Urqu kisa",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de aves",
+      "observacion": "gorrión andino, águila cordillerana, cernícalos, alqamaris",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/aves02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Rituales místicos o tradicionales",
+      "observacion": "Durante celebraciones del calendario andino (año nuevo andino, día de la Pachamama, carnavales, pentecostés, domigo de tentación y otros)",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/rituales_misticos02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Puno/Puno/Puno - Puno/San Román/Juliaca",
+      "detalle": "Terminal Terrestre Zonal Interprovincial de Puno - Terminal Terrestre Privado a Macusani - Juliaca (Salida a Cusco)",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Combi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "47 kms /1:10 horas"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Puno/San Román/Juliaca - Puno/Carabaya/Macusani",
+      "detalle": "Terminal Terrestre Privado a Macusani - Juliaca (Salida a Cusco) - Terminal Terrestre Interprovincial de Macusani",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Combi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "210 kms / 3:00 horas"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Puno/Carabaya/Macusani - Puno/Carabaya/Macusani",
+      "detalle": "Terminal Terrestre Interprovincial de Macusani - Carretera Interoceánica a Ollachea km. 10",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Taxi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "10 kms / 10 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Puno/Carabaya/Macusani - Puno/Carabaya/Macusani",
+      "detalle": "Carretera Interoceánica a Ollachea km. 10 - Arte Rupestre de Chaqatira",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Sendero",
+      "distancia_tiempo": "100 mts/ 5 min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "860",
+      "horario": "Informe Técnico",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "1350",
+      "horario": "Informe Técnico",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "2350",
+      "horario": "Informe Técnico",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "07:00 a.m. - 05:30 p.m. --",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Macusani"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Macusani"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Macusani"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Macusani"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de camionetas 4 x 4",
+      "observacion": "Ciudad de Macusani"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Ciudad de Macusani"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Ciudad de Macusani"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Sub Gerencia de Comercializacion, Promoción Empresarial y Turismo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Macusani"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Ciudad de Macusani"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Ciudad de Macusani"
+    }
+  ],
+  "descripcion": "Ubicado a 10 km. al oeste de la ciudad de Macusani, en los extremos de la comunidad campesina de Tantamaco, a pocos metros de la margen izquierda de la carretera Interoceánica en dirección al distrito de Ollachea, en un abrigo rocoso caracterizado por representaciones del arte prehistórico, manifestaciones culturales de los primeros pobladores de la zona en dibujos y bocetos primitivos, como expresión artística espiritual de las vivencias del hombre y sus prácticas religiosas para propiciar la caza. Chaqatira presenta su arte rupestre, plasmado en la roca expuesta, sus composiciones geométricas cerradas o abiertas podrían haber constituido marcas de identidad social al interior de un ayllu o determinado clan familiar de pastores/agricultores que habitaban en las cabeceras de los valles orientales, dedicándose al pastoreo de camélidos en las partes altas de su territorio. Posiblemente, estos diseños hayan tenido un carácter simbólico vinculado con los ritos y ceremonias en pro de la fertilidad de los rebaños de camélidos. Con representaciones de diseños geométricos, cuadrados, triángulos, líneas zigzagueantes, a manera de textiles, presenta figuras alusivas a los diseños del pallay en los tejidos, que en tiempos prehispánicos representaban símbolos del linaje y otros aspectos relacionados con la identidad propia de cada grupo étnico, motivos característicos de los tocapus diseños que corresponderían a las épocas entre el Horizonte Intermedio Temprano y el Horizonte Tardío, así mismo se muestran escenas de grupos de camélidos y venados pastando, utilizando los colores rojo indio, amarillo y blanco. El lugar por su forma y características actuales formaría parte de un lugar de descanso y refugio de los antiguos pobladores que vivieron o estuvieron de paso por el lugar.",
+  "particularidades": "Se ubica en la margen izquierda de la carretera interoceánica de Macusani a Puerto Maldonado. De fácil visualización y acceso es inmediato.",
+  "estado_actual": "Bueno, la comunidad ha tomado conciencia de la importancia cultural del recurso, lo que motiva su preservación.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Ubicado a 10 km. al oeste de la ciudad de Macusani, en los extremos de la comunidad campesina de Tantamaco, a pocos metros de la margen izquierda de la carretera Interoceánica en dirección al distrito de Ollachea, en un abrigo rocoso caracterizado por representaciones del arte prehistórico, manifestaciones culturales de los primeros pobladores de la zona en dibujos y bocetos primitivos, como expresión artística espiritual de las vivencias del hombre y sus prácticas religiosas para propiciar la caza. Chaqatira presenta su arte rupestre, plasmado en la roca expuesta, sus composiciones geométricas cerradas o abiertas podrían haber constituido marcas de identidad social al interior de un ayllu o determinado clan familiar de pastores/agricultores que habitaban en las cabeceras de los valles orientales, dedicándose al pastoreo de camélidos en las partes altas de su territorio. Posiblemente, estos diseños hayan tenido un carácter simbólico vinculado con los ritos y ceremonias en pro de la fertilidad de los rebaños de camélidos. Con representaciones de diseños geométricos, cuadrados, triángulos, líneas zigzagueantes, a manera de textiles, presenta figuras alusivas a los diseños del pallay en los tejidos, que en tiempos prehispánicos representaban símbolos del linaje y otros aspectos relacionados con la identidad propia de cada grupo étnico, motivos característicos de los tocapus diseños que corresponderían a las épocas entre el Horizonte Intermedio Temprano y el Horizonte Tardío, así mismo se muestran escenas de grupos de camélidos y venados pastando, utilizando los colores rojo indio, amarillo y blanco. El lugar por su forma y características actuales formaría parte de un lugar de descanso y refugio de los antiguos pobladores que vivieron o estuvieron de paso por el lugar."
+    },
+    {
+      "titulo": "Particularidades",
+      "contenido": "Se ubica en la margen izquierda de la carretera interoceánica de Macusani a Puerto Maldonado. De fácil visualización y acceso es inmediato."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, la comunidad ha tomado conciencia de la importancia cultural del recurso, lo que motiva su preservación."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n860\nInforme Técnico\n2021\nINFORME TECNICO N° 002-2022-MINCETUR/DPDT/ET/BDPP\nTuristas Nacionales\n1350\nInforme Técnico\n2021\nINFORME TECNICO N° 002-2022-MINCETUR/DPDT/ET/BDPP\nVisitantes Locales(Excursionistas)\n2350\nInforme Técnico\n2021\nINFORME TECNICO N° 002-2022-MINCETUR/DPDT/ET/BDPP"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nPuno/Puno/Puno\n-\nPuno/San Román/Juliaca\nTerminal Terrestre Zonal Interprovincial de Puno - Terminal Terrestre Privado a Macusani - Juliaca (Salida a Cusco)\nTerrestre\nCombi\nAsfaltado\n47 kms /1:10 horas\n1\nPuno/San Román/Juliaca\n-\nPuno/Carabaya/Macusani\nTerminal Terrestre Privado a Macusani - Juliaca (Salida a Cusco) - Terminal Terrestre Interprovincial de Macusani\nTerrestre\nCombi\nAsfaltado\n210 kms / 3:00 horas\n1\nPuno/Carabaya/Macusani\n-\nPuno/Carabaya/Macusani\nTerminal Terrestre Interprovincial de Macusani - Carretera Interoceánica a Ollachea km. 10\nTerrestre\nTaxi\nAsfaltado\n10 kms / 10 min\n1\nPuno/Carabaya/Macusani\n-\nPuno/Carabaya/Macusani\nCarretera Interoceánica a Ollachea km. 10 - Arte Rupestre de Chaqatira\nTerrestre\nA pie\nSendero\n100 mts/ 5 min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n07:00 a.m.\n-\n05:30 p.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nActividades Culturales\nDurante celebraciones del calendario andino (año nuevo andino, día de la Pachamama, carnavales, pentecostés, domigo de tentación y otros)\nOtros\nEstudios e Investigación\n--\nNaturaleza\nObservación de fauna\nvizcachas, cuyes silvestres. Además camelidos sudamericanos; llama, alpaca.\nNaturaleza\nObservación de flora\nHiru ichu, Paqupaqu, Chilligua, colonias de cactus como el Orco huaraqo y la China waraqu y ortigas como la Urqu kisa\nNaturaleza\nObservación de paisaje\n--\nNaturaleza\nObservación de aves\ngorrión andino, águila cordillerana, cernícalos, alqamaris\nCultura y Folclore\nRituales místicos o tradicionales\nDurante celebraciones del calendario andino (año nuevo andino, día de la Pachamama, carnavales, pentecostés, domigo de tentación y otros)"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlimentación\nRestaurantes\nCiudad de Macusani\nAlimentación\nKioskos de comida y bebidas\nCiudad de Macusani\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Macusani\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Macusani\nOtros Servicios Turísticos\nAlquiler de camionetas 4 x 4\nCiudad de Macusani\nLugares de Recreación\nCentros Deportivos\nCiudad de Macusani\nLugares de Recreación\nJuegos Infantiles\nCiudad de Macusani\nServicios Públicos\nOficina de Información turística\nSub Gerencia de Comercializacion, Promoción Empresarial y Turismo\nAlimentación\nCafeterías\nCiudad de Macusani\nAlimentación\nFuentes de soda\nCiudad de Macusani\nAlimentación\nVenta de comida Rápida\nCiudad de Macusani"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Macusani\nBancos\nBanco de la Nación en la ciudad de Macusani\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Macusani\nServicios de taxis\nCiudad de Macusani\nCentro de salud - tópico\nHospital San Martin en Macusani\nVenta de materiales para fotografías\nCiudad de Macusani\nSeguridad / POLTUR / Comisaría\nComisaria PNP en Macusani\nAlquiler y compra de equipos deportivos\nCiudad de Macusani\nLibrerías\nCiudad de Macusani\nBodegas o minimarkets\nCiudad de Macusani\nServicio de correos\nCiudad de Macusani\nServicio de estacionamiento\nCiudad de Macusani"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Macusani\nDesagüe\nCiudad de Macusani\nLuz (Suministro Eléctrico)\nCiudad de Macusani\nTeléfono\nCiudad de Macusani"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\n--\nPrivado:\nComunidad campesina de Chaqatira\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nCon expediente técnico para la emisión de Certificación de Posesión a nombre de la comunidad campesina de Chaqatira\nAdministrador por\nNombre\nComunidad campesina de Chaqatira\nTiempo de administración\nDesde el año 1939"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección de Turismo DIRCETUR Puno /\nNombre (Persona(s) responsable(s) del inventario turístico):\nArq. Vadim Masciotti Cabala / Lic. Briseida D. Pauro Pino\nCargo:\nArq. / Especialista en Turismo\nCorreo:\nvamasciotti@gmail.com / briseidapauro@gmail.com\nTeléfono:\n051-351261 / 930363370\nFuentes Bibliográfica:\nPlan Estratégico Regional de Turismo - Puno 2021 - 2026, PERTUR Puno, DIRCETUR Puno, 2021.\nPlan Estratégico Regional de Turismo de Puno al 2021, PERTUR Puno – 2021, DIRCETUR Puno, 2013.\nAlfonso Torres Luna, Puno Histórico. Hosting Rainer, Arte Rupestre del Perú, California, 1968.\nInventario Nacional, Lima 2003.\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\nLa Dirección Desconcentrada de Cultura de Puno, ha realizado la rehabilitacion del arte rupestre el año 2018\nFecha:\n20/07/2023 12:25:21"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -14.000762854876744,
+    "longitud": -70.47804557128904
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-14.000762854876744,-70.47804557128904"
+}

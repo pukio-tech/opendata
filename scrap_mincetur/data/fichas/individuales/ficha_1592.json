@@ -1,0 +1,378 @@
+{
+  "cod_ficha": 1592,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=1592",
+  "nombre": "Aguas Termales Y Sulfurosas De Jepelacio",
+  "departamento": "San Martín",
+  "provincia": "Moyobamba",
+  "distrito": "JEPELACIO",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "k. Agua termo-mineral",
+  "subtipo": "Ojos de agua",
+  "jerarquia": "1",
+  "altitud": "1017",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=430186",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=430186",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=430187",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=430188",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=430189",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=431012",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=431047"
+  ],
+  "actividades_permitidas": [
+    "Otros - Otros(Especificar)",
+    "Deportes acuáticos - Natación",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de paisaje",
+    "Deportes / Aventura - Caminata/Trekking",
+    "Deportes / Aventura - Camping"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Otros(Especificar)",
+      "observacion": "Termalismo/toma de fotografias",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/otros02.png"
+    },
+    {
+      "actividad": "Deportes acuáticos",
+      "tipo": "Natación",
+      "observacion": "Se practica en la piscina de agua fria y en el río Gera",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/natacion02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "Vegetación prístina, orquideas como golondrina\" (Catleya rex) y otras.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "Alrededor de las aguas termales",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "Previa coordinación, llamando al señor Wellington Chavez Vasquez celular N° 928599086, o al correo medioambiente@munijepelacio.gob.pe",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Camping",
+      "observacion": "Previa coordinación, llamando al señor Wellington Chavez Vasquez celular N° 928599086, o al correo gmedioambiente@munijepelacio.gob.pe",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/camping02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "San Martín/Moyobamba/Moyobamba - San Martín/Moyobamba/Jepelacio",
+      "detalle": "Plaza de armas ciudad de Moyobamba a la Plaza de armas del pueblo de Jepelacio",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mototaxi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "15.7 Km / 34 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "San Martín/Moyobamba/Jepelacio - San Martín/Moyobamba/Jepelacio",
+      "detalle": "Plaza de armas del pueblo de Jepelacio a las Aguas Termales y Sulfurosas de Jepelacio",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mototaxi",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "7.5 Km / 15 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "San Martín/Moyobamba/Moyobamba - San Martín/Moyobamba/Jepelacio",
+      "detalle": "Plaza de armas ciudad de Moyobamba a la Plaza de armas del pueblo de Jepelacio",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "15.7 Km / 22 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "San Martín/Moyobamba/Jepelacio - San Martín/Moyobamba/Jepelacio",
+      "detalle": "Plaza de armas del pueblo de Jepelacio a las Aguas Termales y Sulfurosas de Jepelacio",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "7.5 Km / 8 min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "103",
+      "horario": "Registro de visitantes del Recurso",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "1339",
+      "horario": "Registro de visitantes al recurso",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "8165",
+      "horario": "Registro de visitantes al recurso",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "07:00 a.m. - 05:00 p.m. Cuenta con personal de vigilancia de la municipalidad distrital de Jepelacio",
+      "observaciones": "Cuenta con personal de vigilancia de la municipalidad distrital de Jepelacio"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "Adulto S/ 2.00- Niño S/ 1.00"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicios Higiénicos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Estacionamiento",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Boletería",
+      "observacion": "Tarifas Adultos: 2.00 Niños: 1.00"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "Venta de artesanías, tallados, souvenirs."
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Instalación para la exposición de flora o fauna silvestre",
+      "observacion": "Exposición de orquídeas."
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Otros (especificar)",
+      "observacion": "Servicio de telefonía móvil (operador movistar, claro, bitel, entel)"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Pueblo de Jepelacio y ciudad de Moyobamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Pueblo de Jepelacio y ciudad de Moyobamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Pueblo de Jepelacio y ciudad de Moyobamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Pueblo de Jepelacio y ciudad de Moyobamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Puesto de auxilio rápido",
+      "observacion": "Pueblo de Jepelacio y ciudad de Moyobamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Otros (especificar)",
+      "observacion": "Servicio de telefonía móvil (operador movistar, claro, bitel, entel) en el pueblo de Jepelacio"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "Hoteles de 1estrella a 3 estrellas en la ciudad de Moyobamba a 30 minutos del pueblo de Jepelacio."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "Hostales de 1 a 2 estrellas en la ciudad de Moyobamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "En la Ciudad de Moyobamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "En la ciudad de Moyobamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "En el pueblo de Jepelacio, y en la ciudad de Moyobamba."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "En la ciudad de Moyobamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Cines o Teatros",
+      "observacion": "En la ciudad de Moyobamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "En la ciudad de Moyobamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "En el pueblo de Jepelacio y en la ciudad de Moyobamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "En la ciudad de Moyobamba"
+    }
+  ],
+  "descripcion": "Se ubica en la región altitudinal de selva alta o rupa rupa, a una altitud aproximada de 1017 msnm, en el valle del río Gera, a 49 minutos en vehículo desde la ciudad de Moyobamba, y a tan solo 15 minutos del pueblo de Jepelacio.\nEl afloramiento de agua termal y azufrada; nace desde en el sub suelo; se concentra en una poza circular de 8 m² aproximadamente, muy cerca a la margen derecha del río Gera; con una altura aproximada de 1.20 m, cuyas aguas presentan una temperatura promedio de 37 °C, a estas aguas se le atribuyen propiedades medicinales y terapéuticas, especialmente para el tratamiento de afecciones o enfermedades de la piel, artritis, reumatismo, estrés, dolores musculares, entre otras. Las instalaciones cuentan con un área aproximada de 32 165.00 m². El lugar y sus alrededores, goza de un clima lluvioso, con humedad abundante todas las estaciones del año, y templado, la temperatura durante el transcurso del año, generalmente varía entre 16 °C (T° mínima) a 28 °C (T° máxima) y rara vez baja a menos de 14 °C o sube a más de 31 °C.\nEn el mismo punto del establecimiento el tipo de suelo es aluvial, alternado con suelo rocoso, con un relieve de pendiente suave, y de relieve más abrupto en sus alrededores. El sitio se encuentra rodeado de hermosos paisajes de flora, entre ellas bosques prístinos de selva alta, con orquídeas, bromelias, palmeras y otras especies,fauna como bandadas de loros, garzas, pájaro carpintero, otras aves e insectos, los mismos que son unificados con el paisaje por el transcurrir del río Gera. Las Aguas Termales y Sulfurosas se encuentran en buen estado de conservación; asimismo, la municipalidad distrital de Jepelacio brinda el mantenimiento rutinario del establecimiento.\nEl lugar también cuenta con un espacio para restaurante, ambiente de descanso, piscina de agua fría para adultos, piscinas de agua fría para niños, servicios higiénicos recién construidos, un espacio para parqueo de vehículos, campo de fulbito, entre otros, lo que lo hacen ideal para realizar turismo de naturaleza, bienestar y descanso.",
+  "particularidades": "",
+  "estado_actual": "Bueno. Se encuentra bajo el cuidado de un personal contratado por la Municipalidad Distrital de Jepelacio.",
+  "observaciones": "Se encuentra ubicado a 21 Km. de Moyobamaba en el distrito Jepelacio.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Se ubica en la región altitudinal de selva alta o rupa rupa, a una altitud aproximada de 1017 msnm, en el valle del río Gera, a 49 minutos en vehículo desde la ciudad de Moyobamba, y a tan solo 15 minutos del pueblo de Jepelacio.\nEl afloramiento de agua termal y azufrada; nace desde en el sub suelo; se concentra en una poza circular de 8 m² aproximadamente, muy cerca a la margen derecha del río Gera; con una altura aproximada de 1.20 m, cuyas aguas presentan una temperatura promedio de 37 °C, a estas aguas se le atribuyen propiedades medicinales y terapéuticas, especialmente para el tratamiento de afecciones o enfermedades de la piel, artritis, reumatismo, estrés, dolores musculares, entre otras. Las instalaciones cuentan con un área aproximada de 32 165.00 m². El lugar y sus alrededores, goza de un clima lluvioso, con humedad abundante todas las estaciones del año, y templado, la temperatura durante el transcurso del año, generalmente varía entre 16 °C (T° mínima) a 28 °C (T° máxima) y rara vez baja a menos de 14 °C o sube a más de 31 °C.\nEn el mismo punto del establecimiento el tipo de suelo es aluvial, alternado con suelo rocoso, con un relieve de pendiente suave, y de relieve más abrupto en sus alrededores. El sitio se encuentra rodeado de hermosos paisajes de flora, entre ellas bosques prístinos de selva alta, con orquídeas, bromelias, palmeras y otras especies,fauna como bandadas de loros, garzas, pájaro carpintero, otras aves e insectos, los mismos que son unificados con el paisaje por el transcurrir del río Gera. Las Aguas Termales y Sulfurosas se encuentran en buen estado de conservación; asimismo, la municipalidad distrital de Jepelacio brinda el mantenimiento rutinario del establecimiento.\nEl lugar también cuenta con un espacio para restaurante, ambiente de descanso, piscina de agua fría para adultos, piscinas de agua fría para niños, servicios higiénicos recién construidos, un espacio para parqueo de vehículos, campo de fulbito, entre otros, lo que lo hacen ideal para realizar turismo de naturaleza, bienestar y descanso."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "La Municipalidad Provincial de Moyobamba reconoció al recurso con Decreto de Alcaldía Nº 002-2017-MPM/A, de fecha 31 de marzo del 2017."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno. Se encuentra bajo el cuidado de un personal contratado por la Municipalidad Distrital de Jepelacio."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "Se encuentra ubicado a 21 Km. de Moyobamaba en el distrito Jepelacio."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n103\nRegistro de visitantes del Recurso\n2021\nRegistro de visitantes del año 2021 al recurso Aguas Termales y Sulfurosas de Jepelacio remitido por la municipalidad distrital de Jepelacio.\nTuristas Nacionales\n1339\nRegistro de visitantes al recurso\n2021\nRegistro de visitantes del año 2021 al recurso Aguas Termales y Sulfurosas de Jepelacio remitido por la municipalidad distrital de Jepelacio.\nVisitantes Locales(Excursionistas)\n8165\nRegistro de visitantes al recurso\n2021\nRegistro de visitantes del año 2021 al recurso Aguas Termales y Sulfurosas de Jepelacio remitido por la municipalidad distrital de Jepelacio."
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nSan Martín/Moyobamba/Moyobamba\n-\nSan Martín/Moyobamba/Jepelacio\nPlaza de armas ciudad de Moyobamba a la Plaza de armas del pueblo de Jepelacio\nTerrestre\nMototaxi\nAsfaltado\n15.7 Km / 34 min\n1\nSan Martín/Moyobamba/Jepelacio\n-\nSan Martín/Moyobamba/Jepelacio\nPlaza de armas del pueblo de Jepelacio a las Aguas Termales y Sulfurosas de Jepelacio\nTerrestre\nMototaxi\nAfirmado\n7.5 Km / 15 min\n1\nSan Martín/Moyobamba/Moyobamba\n-\nSan Martín/Moyobamba/Jepelacio\nPlaza de armas ciudad de Moyobamba a la Plaza de armas del pueblo de Jepelacio\nTerrestre\nAutomóvil particular\nAsfaltado\n15.7 Km / 22 min\n1\nSan Martín/Moyobamba/Jepelacio\n-\nSan Martín/Moyobamba/Jepelacio\nPlaza de armas del pueblo de Jepelacio a las Aguas Termales y Sulfurosas de Jepelacio\nTerrestre\nAutomóvil particular\nAfirmado\n7.5 Km / 8 min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nAdulto S/ 2.00- Niño S/ 1.00"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n07:00 a.m.\n-\n05:00 p.m.\nCuenta con personal de vigilancia de la municipalidad distrital de Jepelacio"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nOtros(Especificar)\nTermalismo/toma de fotografias\nDeportes acuáticos\nNatación\nSe practica en la piscina de agua fria y en el río Gera\nNaturaleza\nObservación de flora\nVegetación prístina, orquideas como golondrina\" (Catleya rex) y otras.\nNaturaleza\nObservación de paisaje\nAlrededor de las aguas termales\nDeportes / Aventura\nCaminata/Trekking\nPrevia coordinación, llamando al señor Wellington Chavez Vasquez celular N° 928599086, o al correo medioambiente@munijepelacio.gob.pe\nDeportes / Aventura\nCamping\nPrevia coordinación, llamando al señor Wellington Chavez Vasquez celular N° 928599086, o al correo gmedioambiente@munijepelacio.gob.pe"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nOtros Servicios Turísticos\nServicios Higiénicos\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nServicio de Estacionamiento\n--\nInstalaciones Públicas\nServicios Públicos\nBoletería\nTarifas Adultos: 2.00 Niños: 1.00\nInstalaciones Públicas\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\nVenta de artesanías, tallados, souvenirs.\nInstalaciones Públicas\nServicios Públicos\nInstalación para la exposición de flora o fauna silvestre\nExposición de orquídeas.\nInstalaciones Públicas\nServicios Públicos\nOtros (especificar)\nServicio de telefonía móvil (operador movistar, claro, bitel, entel)"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlimentación\nRestaurantes\nPueblo de Jepelacio y ciudad de Moyobamba\nAlimentación\nKioskos de comida y bebidas\nPueblo de Jepelacio y ciudad de Moyobamba\nAlimentación\nVenta de comida Rápida\nPueblo de Jepelacio y ciudad de Moyobamba\nServicios Públicos\nEstacionamiento de vehículos\nPueblo de Jepelacio y ciudad de Moyobamba\nServicios Públicos\nPuesto de auxilio rápido\nPueblo de Jepelacio y ciudad de Moyobamba\nServicios Públicos\nOtros (especificar)\nServicio de telefonía móvil (operador movistar, claro, bitel, entel) en el pueblo de Jepelacio\nAlojamiento\nHoteles (especificar categorías)\nHoteles de 1estrella a 3 estrellas en la ciudad de Moyobamba a 30 minutos del pueblo de Jepelacio.\nAlojamiento\nHostales (especificar categorías)\nHostales de 1 a 2 estrellas en la ciudad de Moyobamba\nOtros Servicios Turísticos\nAgencia de Viajes\nEn la Ciudad de Moyobamba\nOtros Servicios Turísticos\nVenta de artesanía\nEn la ciudad de Moyobamba\nLugares de Recreación\nDiscotecas\nEn el pueblo de Jepelacio, y en la ciudad de Moyobamba.\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nEn la ciudad de Moyobamba\nLugares de Recreación\nCines o Teatros\nEn la ciudad de Moyobamba\nLugares de Recreación\nKaraoke\nEn la ciudad de Moyobamba\nLugares de Recreación\nBares\nEn el pueblo de Jepelacio y en la ciudad de Moyobamba\nServicios Públicos\nOficina de Información turística\nEn la ciudad de Moyobamba"
+    },
+    {
+      "titulo": "Servicios Complementarios dentro del recurso",
+      "contenido": "Servicio Complementario\nObservación\nServicio de estacionamiento\n--"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nEn el pueblo de Jepelacio y en la ciudad de Moyobamba\nBancos\nAtención en agente bancario KasNet en el pueblo de Jepelacio y en la ciudad de Moyobamba con oficinas.\nCajero automático\nEn la ciudad de Moyobamba\nCasa de cambio\nEn la ciudad de Moyobamba\nEstación de servicios, grifos, gasolineras y gasocentros\nEn la ciudad de Moyobamba.\nServicio de correos\nEn la ciudad de Moyobamba\nCentro de salud - tópico\nEn el pueblo de Jepelacio y en la ciudad de Moyobamba\nSeguridad / POLTUR / Comisaría\nEn el pueblo de Jepelacio y en la ciudad de Moyobamba\nAlquiler y compra de equipos deportivos\nEn la ciudad de Moyobamba\nLibrerías\nEn la ciudad de Moyobamba\nBodegas o minimarkets\nEn el pueblo de Jepelacio y en la ciudad de Moyobamba"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\n--\nDesagüe\nPozo Septico\nEnergía Alternativa\nMediante generador eléctrico"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nEn el pueblo de Jepelacio\nLuz (Suministro Eléctrico)\nEn el pueblo de Jepelacio\nTeléfono\nEn el pueblo de Jepelacio\nSeñalización turística\nEn el pueblo de Jepelacio\nAlcantarillado sanitario\nEn el pueblo de Jepelacio\nSistemas de tratamiento alternativo de residuos (Biodigestor, pozo séptico, otros)\nEn el pueblo de Jepelacio"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nMunicipalidad distrital de Jepelacio\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\nContrato privado de compra vente Del 31 de Octubre de 1994\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nMunicipalidad Distrital de Jepelacio\nTiempo de administración\nDesde el año 1994"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDIRCETUR SAN MARTIN\nNombre (Persona(s) responsable(s) del inventario turístico):\nJenny Angulo Acosta\nCargo:\nTécnico Administrativo\nCorreo:\nanguloacostaj@gmail.com\nTeléfono:\n960339187\nFuentes Bibliográfica:\nGUIA DE INFORMACIÓN TURÍSTICA REGIÓN SAN MARTÍN. AUTOR: GOBIERNO REGIONAL DE SAN MARTIN. PRIMERA EDICION: MAYO 2014. LIBRO MOYOBAMBA CAPITAL DE LA AMAZONIA PERUANA, AUTOR PEDRO VARGAS ROJAS, QUINTA EDICIÓN 2005, PAG. 187 Y 188.\nGUIA DE INFORMACIÓN TURÍSTICA REGIÓN SAN MARTÍN. AUTOR: GOBIERNO REGIONAL DE SAN MARTIN. PRIMERA EDICION: DICIEMBRE 2019\nMaterial Audiovisual actual del Recurso:\nFOTO, VIDEOS\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\nSe ha mejorado la piscina y los servicios higiénicos por parte de la municipalidad distrital de Jepelacio en el año 2022.\nFecha:\n21/06/2022"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -6.130629774129879,
+    "longitud": -76.88852461772495
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-6.130629774129879,-76.88852461772495"
+}

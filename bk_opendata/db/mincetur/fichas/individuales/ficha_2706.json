@@ -1,0 +1,256 @@
+{
+  "cod_ficha": 2706,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=2706",
+  "nombre": "Mirador La Ermita",
+  "departamento": "Cajamarca",
+  "provincia": "Contumaza",
+  "distrito": "CONTUMAZA",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Arquitectura y Espacios Urbanos",
+  "subtipo": "Miradores",
+  "jerarquia": "1",
+  "altitud": "2 706",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=537446",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=537446",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=537396",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=537447",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=537448",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=537397",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=537449",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=537450"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Naturaleza - Observación de paisaje",
+    "Deportes / Aventura - Caminata/Trekking"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Cajamarca/Contumazá/Contumaza - Cajamarca/Contumazá/Contumaza",
+      "detalle": "Contumazá (Plaza de armas- La Ermita)",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "600 m / 15 min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "70",
+      "horario": "libro de registro de la oficina información turistica",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "150",
+      "horario": "Libro de registro de la oficina de información turística",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "310",
+      "horario": "Libro de información turística",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "08:00 a.m. - 05:30 p.m. --",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Casa de Hospedaje",
+      "observacion": "Ciudad de Contumaza"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Contumaza"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Contumazá"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Contumazá"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de Contumazá"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Contumazá"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Ciudad de Contumazá"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "Hostal de 1 y 2 Estrellas. Ciudad de Contumazá"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "Ciudad de Contumazá"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Ciudad de Contumazá"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "Ciudad de Contumazá"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Ciudad de Contumazá"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "CIudad Cóntumazá"
+    }
+  ],
+  "descripcion": "La colina \"La Ermita\" está situada al oeste de la ciudad de Contumazá como un mirador natural del panorama de ciudad de Contumazá, la Ermita es centro obligado de visita en un city tour, cuenta con jardines con hortensias y flores endémicas, es un monumento central a los gestores de la creación de Contumazá como provincia, un parque, y restos arqueológicos de la cultura Cuizmango - Guzmango. Posee tres vías de acceso dos peatonales y una vehicular, se construyó un graderío, subiendo desde el colegio \"Abel Alva\"; colocaron farolas que iluminan las noches. Al centro se encuentra el obelisco mandado construir por el Centro Contumacino en Lima, de años anteriores en memoria de los fundadores de la provincia. A un extremo se levanta una cruz blanca de cemento y yeso. Además la municipalidad ha instalado un mini zoológico con especies nativas de Cajamarca y algunas decorativas y/o exóticas como los pavos reales, perdices y palomas de Castilla, venado, etc.\nLa perfecta convivencia entre especies nativas y foráneas, como el capulí, el pino, las hortensias y las flores naturales del Perú, es algo de lo que podemos apreciar en la Ermita, un gran trabajo de jardinería y paisajismo, además de la responsabilidad cultural y el esfuerzo por protección de la fauna y flora silvestre, es también un proyecto municipal usar uno de los ambientes del canal, para difundir el legado del ilustre Contumacino Abundio Sagastegui Alva.",
+  "particularidades": "",
+  "estado_actual": "Bueno, al cuidado de la Municipalidad Provincial de Contumazá",
+  "observaciones": "Es un atractivo al que no se puede dejar de visitar dentro del city tour de la provincia de Contumazá. Desde allí se observa todo el panorama de Contumazá y alrededores. Se encuentra en constante mantenimiento de jardines.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "La colina \"La Ermita\" está situada al oeste de la ciudad de Contumazá como un mirador natural del panorama de ciudad de Contumazá, la Ermita es centro obligado de visita en un city tour, cuenta con jardines con hortensias y flores endémicas, es un monumento central a los gestores de la creación de Contumazá como provincia, un parque, y restos arqueológicos de la cultura Cuizmango - Guzmango. Posee tres vías de acceso dos peatonales y una vehicular, se construyó un graderío, subiendo desde el colegio \"Abel Alva\"; colocaron farolas que iluminan las noches. Al centro se encuentra el obelisco mandado construir por el Centro Contumacino en Lima, de años anteriores en memoria de los fundadores de la provincia. A un extremo se levanta una cruz blanca de cemento y yeso. Además la municipalidad ha instalado un mini zoológico con especies nativas de Cajamarca y algunas decorativas y/o exóticas como los pavos reales, perdices y palomas de Castilla, venado, etc.\nLa perfecta convivencia entre especies nativas y foráneas, como el capulí, el pino, las hortensias y las flores naturales del Perú, es algo de lo que podemos apreciar en la Ermita, un gran trabajo de jardinería y paisajismo, además de la responsabilidad cultural y el esfuerzo por protección de la fauna y flora silvestre, es también un proyecto municipal usar uno de los ambientes del canal, para difundir el legado del ilustre Contumacino Abundio Sagastegui Alva."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, al cuidado de la Municipalidad Provincial de Contumazá"
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "Es un atractivo al que no se puede dejar de visitar dentro del city tour de la provincia de Contumazá. Desde allí se observa todo el panorama de Contumazá y alrededores. Se encuentra en constante mantenimiento de jardines."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n70\nlibro de registro de la oficina información turistica\n2023\nLibro de registro de la oficina información turística de la Municipalidad Provincial de Contumazá\nTuristas Nacionales\n150\nLibro de registro de la oficina de información turística\n2023\nLibro de registro de la oficina información turística de la Municipalidad Provincial de Contumazá\nVisitantes Locales(Excursionistas)\n310\nLibro de información turística\n2023\nLibro de registro de la oficina información turística de la Municipalidad Provincial de Contumazá"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nCajamarca/Contumazá/Contumaza\n-\nCajamarca/Contumazá/Contumaza\nContumazá (Plaza de armas- La Ermita)\nTerrestre\nA pie\nAsfaltado\n600 m / 15 min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n08:00 a.m.\n-\n05:30 p.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nNaturaleza\nObservación de paisaje\n--\nDeportes / Aventura\nCaminata/Trekking\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nCasa de Hospedaje\nCiudad de Contumaza\nAlimentación\nRestaurantes\nCiudad de Contumaza\nLugares de Recreación\nBares\nCiudad de Contumazá\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Contumazá\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de Contumazá\nAlimentación\nKioskos de comida y bebidas\nCiudad de Contumazá\nAlimentación\nFuentes de soda\nCiudad de Contumazá\nAlojamiento\nHostales (especificar categorías)\nHostal de 1 y 2 Estrellas. Ciudad de Contumazá\nServicios Públicos\nMiradores turísticos\nCiudad de Contumazá\nServicios Públicos\nEstacionamiento de vehículos\nCiudad de Contumazá\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\nCiudad de Contumazá\nServicios Públicos\nOficina de Información turística\nCiudad de Contumazá\nServicios Públicos\nCaminos peatonales\nCIudad Cóntumazá"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Contumazá\nBancos\nCiudad de Contumazá\nServicio de estacionamiento\nCiudad de Contumazá\nCentro de salud - tópico\nCiudad de Contumazá\nSeguridad / POLTUR / Comisaría\nCiudad de Contumazá\nBodegas o minimarkets\nCiudad de Contumazá\nServicios de taxis\nCiudad de Contumazá"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\n--\nLuz (Suministro Eléctrico)\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Contumaza\nDesagüe\nCiudad de Contumaza\nLuz (Suministro Eléctrico)\nCiudad de Contumazá\nTeléfono\nCiudad de Contumazá\nSeñalización turística\nCiudad de Contumazá"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nMUNICIPALIDAD PROVINCIAL DE CONTUMAZÁ\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nNúmero de Partida:\n11197169\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nMUNICIPALIDAD PROVINCIAL DE CONTUMAZÁ\nTiempo de administración\n2021 -3 AÑOS"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDIRCETUR CAJAMARCA\nNombre (Persona(s) responsable(s) del inventario turístico):\nESPERANZA ESCOBAR PORTAL\nCargo:\nTECNICO EN TURISMO I\nCorreo:\nmescobar@regioncajamarca.gob.pe\nTeléfono:\n962690326\nFuentes Bibliográfica:\n• https://www.municontumaza.gob.pe/turismo.php\n• https://destino.regioncajamarca.gob.pe/prv/0605•\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n30/06/2025 15:08:08"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -7.367854,
+    "longitud": -78.802707
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-7.367854,-78.802707"
+}

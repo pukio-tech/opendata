@@ -1,0 +1,329 @@
+{
+  "cod_ficha": 688,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=688",
+  "nombre": "Zona Arqueológica Monumental De Huánuco Pampa",
+  "departamento": "Huánuco",
+  "provincia": "Dos De Mayo",
+  "distrito": "LA UNIÓN",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Sitios Arqueológicos",
+  "subtipo": "Zonas arqueológicas",
+  "jerarquia": "3",
+  "altitud": "3697",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=296616",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=296616",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=296617",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=451705",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=451706",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=451707",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=451755",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=451756",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=451757"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Cultura y Folclore - Actividades Religiosas o Patronales",
+    "Paseos - Excursiones",
+    "Otros - Estudios e Investigación",
+    "Naturaleza - Observación de paisaje",
+    "Deportes / Aventura - Caminata/Trekking"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Actividades Religiosas o Patronales",
+      "observacion": "1. Encuentro de la Cultura Autóctona del Chinchaysuyo los días 20 y 21 de junio. 2. Fiesta del Sol, el 27 de julio de cada año.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/act_religiosas02.png"
+    },
+    {
+      "actividad": "Paseos",
+      "tipo": "Excursiones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/excursiones02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "En arqueología",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Huánuco/Huánuco/Huanuco - Huánuco/Dos De Mayo/La Unión",
+      "detalle": "Plaza de Armas de Huánuco - Plaza de principal de La Unión (capital de la provincia)",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "136 km / 4 horas 30 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Huánuco/Dos De Mayo/La Unión - Huánuco/Dos De Mayo/La Unión",
+      "detalle": "Plaza de principal de La Unión (capital de la provincia) - ZAM Huánuco Pampa",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "11 km / 40 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Huánuco/Dos De Mayo/La Unión - Huánuco/Dos De Mayo/La Unión",
+      "detalle": "Plaza de principal de La Unión (capital de la provincia) - ZAM Huánuco Pampa",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Taxi",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "11 km / 30 minutos"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Lima/Lima/La Victoria - Huánuco/Dos De Mayo/La Unión",
+      "detalle": "Terminal de Bus de la Victoria - Terminal de bus de La Unión (capital de la provincia)",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "436 km / 10 horas"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Huánuco/Dos De Mayo/La Unión - Huánuco/Dos De Mayo/La Unión",
+      "detalle": "Terminal de bus de La Unión (capital de la provincia)- Plaza de principal de La Unión (capital de la provincia).",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Taxi",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "3 km / 10 minutos"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Huánuco/Dos De Mayo/La Unión - Huánuco/Dos De Mayo/La Unión",
+      "detalle": "Plaza de principal de La Unión (capital de la provincia)-ZAM Huánuco Pampa",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Taxi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "11 km/30 minutos"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "11556",
+      "horario": "Afluencia Estadística de Visitantes",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "20",
+      "horario": "Afluencia Estadística de Visitantes",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "08:30 a.m. - 04:00 p.m. --",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "Adulto nacional y extranjero S/. 5.00, Universitario S/. 2.00, Niños y Escolares S/. 1.00"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicios Higiénicos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Estacionamiento",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Boletería",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Hospedajes sin clase ni categoría / Todos los servicios en la ciudad de La Unión"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de La Unión"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de La Unión"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Ciudad de La Unión"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de La Unión"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de La Unión"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Otros(especificar)",
+      "observacion": "Baños termales, piscinas-Ciudad de la Unión."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de La Unión"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Grifos y talleres mecánicos-Ciudad de la Unión."
+    }
+  ],
+  "descripcion": "Se encuentra asentada en una extensa altiplanicie a unos 3650 m.s.n.m., ubicada dentro del tramo longitudinal de la ruta Qhapaq Ñan que comunicaba Cusco con Quito. Huánuco Pampa fue uno de los centros administrativos más importantes y mejor planificados del Chinchaysuyo, cuya ubicación estratégica permitió el control de las poblaciones situadas en esta región del Tawantinsuyo. Su construcción se inició bajo el gobierno del Inca Túpac Yupanqui en la segunda mitad del siglo XV. Está constituida por cerca de 4000 estructuras que se agrupan en 8 sectores delimitados por calles y pasajes amurallados. Destaca la presencia de una enorme plaza (de 550¿m x 350¿m) en cuya parte central se encuentra el Ushnu, un edificio de carácter ceremonial (de 48¿m de largo x 32¿m de ancho y 4 m de altura), al cual se accede a través de dos escalinatas flanqueadas por pares de felinos duales, esta construcción está elaborada con piedras finamente labrado estilo Inca imperial, hacia el lado oeste de la plaza se encuentra el Palacio Inca, en cuyo inicio se encuentran dos enormes Kallankas elaboradas con piedras canteadas y con una tendencia al aparejo celular, cuya extensión es de más de 75 m de largo cada una, alcanzando en su momento de esplendor una altura de 12¿m. Luego de las Kallankas se encuentra una serie de seis portadas perfectamente alineadas por las cuales se acceden a espacios o plazas cada vez más restringidos, la constructiva es similar al Ushnu (piedras finamente labradas), resaltando por la presencia de los vanos de doble jamba de forma trapezoidal, típicos símbolos de poder de la época inca, al finalizar las portadas se accede a la casa del inca, el cual está compuesto por una serie de viviendas elaboradas con piedras finamente labradas de mayor acabado del sitio, con nichos trapezoidales al interior. Además de esta estructura elitista, hacia la zona sur, en la ladera del cerro, se puede observar una serie de edificios dispuestos en hileras, los cuales eran utilizados como qolqas o depósitos; hacia el resto de zonas se puede observar las construcciones residenciales del pueblo, las cuales están constituidas por edificios de forma rectangular y circular, en cuyos espacios se realizaban actividades de carácter doméstico y productivo. Finamente, es importante indicar que entre los años 1539 y 1542, la ciudad de Huánuco fue fundada en esta zona, abarcando el espacio que comprende la plaza principal, la cual es conocida como Huánuco Viejo, una vez que este espacio fue abandonado y el asentamiento español fue trasladado al actual valle del Pillco.\nEn este sitio arqueológico, cuenta con el Ushnu (centro ceremonial) y el Palacio inca (Kallankas, portadas, Inkawasi, baño inca y templo incompleto, como los edificios en mejor estado de conservación.\nLa Zona Arqueológica fue declarada Patrimonio de la Nación en el año 2001.",
+  "particularidades": "Según el Ministerio de Cultura (2015). Presenta el Ushnu más grande de todo el Tawantinsuyo, el cual constituye a su vez el mayor observatorio astronómico del imperio inca.",
+  "estado_actual": "Bueno, el Proyecto Qapac Ñam está desarrolando trabajos de investigación y conservación",
+  "observaciones": "Ubicado a 12 Km. de la ciudad de La Unión. En esta Zona Arqueológica se realiza la escenificación de la Fiesta del Sol el 27 de julio, asimismo los días 20 y 21 de junio se realiza el Encuentro de la Cultura Autóctona del Chinchaysuyo.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Se encuentra asentada en una extensa altiplanicie a unos 3650 m.s.n.m., ubicada dentro del tramo longitudinal de la ruta Qhapaq Ñan que comunicaba Cusco con Quito. Huánuco Pampa fue uno de los centros administrativos más importantes y mejor planificados del Chinchaysuyo, cuya ubicación estratégica permitió el control de las poblaciones situadas en esta región del Tawantinsuyo. Su construcción se inició bajo el gobierno del Inca Túpac Yupanqui en la segunda mitad del siglo XV. Está constituida por cerca de 4000 estructuras que se agrupan en 8 sectores delimitados por calles y pasajes amurallados. Destaca la presencia de una enorme plaza (de 550¿m x 350¿m) en cuya parte central se encuentra el Ushnu, un edificio de carácter ceremonial (de 48¿m de largo x 32¿m de ancho y 4 m de altura), al cual se accede a través de dos escalinatas flanqueadas por pares de felinos duales, esta construcción está elaborada con piedras finamente labrado estilo Inca imperial, hacia el lado oeste de la plaza se encuentra el Palacio Inca, en cuyo inicio se encuentran dos enormes Kallankas elaboradas con piedras canteadas y con una tendencia al aparejo celular, cuya extensión es de más de 75 m de largo cada una, alcanzando en su momento de esplendor una altura de 12¿m. Luego de las Kallankas se encuentra una serie de seis portadas perfectamente alineadas por las cuales se acceden a espacios o plazas cada vez más restringidos, la constructiva es similar al Ushnu (piedras finamente labradas), resaltando por la presencia de los vanos de doble jamba de forma trapezoidal, típicos símbolos de poder de la época inca, al finalizar las portadas se accede a la casa del inca, el cual está compuesto por una serie de viviendas elaboradas con piedras finamente labradas de mayor acabado del sitio, con nichos trapezoidales al interior. Además de esta estructura elitista, hacia la zona sur, en la ladera del cerro, se puede observar una serie de edificios dispuestos en hileras, los cuales eran utilizados como qolqas o depósitos; hacia el resto de zonas se puede observar las construcciones residenciales del pueblo, las cuales están constituidas por edificios de forma rectangular y circular, en cuyos espacios se realizaban actividades de carácter doméstico y productivo. Finamente, es importante indicar que entre los años 1539 y 1542, la ciudad de Huánuco fue fundada en esta zona, abarcando el espacio que comprende la plaza principal, la cual es conocida como Huánuco Viejo, una vez que este espacio fue abandonado y el asentamiento español fue trasladado al actual valle del Pillco.\nEn este sitio arqueológico, cuenta con el Ushnu (centro ceremonial) y el Palacio inca (Kallankas, portadas, Inkawasi, baño inca y templo incompleto, como los edificios en mejor estado de conservación.\nLa Zona Arqueológica fue declarada Patrimonio de la Nación en el año 2001."
+    },
+    {
+      "titulo": "Particularidades",
+      "contenido": "Según el Ministerio de Cultura (2015). Presenta el Ushnu más grande de todo el Tawantinsuyo, el cual constituye a su vez el mayor observatorio astronómico del imperio inca."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "Declarado Patrimonio Cultural de la Nación con Resolución Directoral INC N.º 1224 del año 2001. Modificada con Resolución Viceministerial N° 726-2011-VMPCIC-MC del 20 de diciembre de 2011.\nSello Internacional SAFE TRAVEL Viaja Seguro."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, el Proyecto Qapac Ñam está desarrolando trabajos de investigación y conservación"
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "Ubicado a 12 Km. de la ciudad de La Unión. En esta Zona Arqueológica se realiza la escenificación de la Fiesta del Sol el 27 de julio, asimismo los días 20 y 21 de junio se realiza el Encuentro de la Cultura Autóctona del Chinchaysuyo."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Nacionales\n11556\nAfluencia Estadística de Visitantes\n2021\nTuristas Extranjeros\n20\nAfluencia Estadística de Visitantes\n2021"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nHuánuco/Huánuco/Huanuco\n-\nHuánuco/Dos De Mayo/La Unión\nPlaza de Armas de Huánuco - Plaza de principal de La Unión (capital de la provincia)\nTerrestre\nAutomóvil particular\nAfirmado\n136 km / 4 horas 30 minutos\n1\nHuánuco/Dos De Mayo/La Unión\n-\nHuánuco/Dos De Mayo/La Unión\nPlaza de principal de La Unión (capital de la provincia) - ZAM Huánuco Pampa\nTerrestre\nAutomóvil particular\nAfirmado\n11 km / 40 minutos\n1\nHuánuco/Dos De Mayo/La Unión\n-\nHuánuco/Dos De Mayo/La Unión\nPlaza de principal de La Unión (capital de la provincia) - ZAM Huánuco Pampa\nTerrestre\nTaxi\nAfirmado\n11 km / 30 minutos\n2\nLima/Lima/La Victoria\n-\nHuánuco/Dos De Mayo/La Unión\nTerminal de Bus de la Victoria - Terminal de bus de La Unión (capital de la provincia)\nTerrestre\nBus público\nAsfaltado\n436 km / 10 horas\n2\nHuánuco/Dos De Mayo/La Unión\n-\nHuánuco/Dos De Mayo/La Unión\nTerminal de bus de La Unión (capital de la provincia)- Plaza de principal de La Unión (capital de la provincia).\nTerrestre\nTaxi\nAfirmado\n3 km / 10 minutos\n2\nHuánuco/Dos De Mayo/La Unión\n-\nHuánuco/Dos De Mayo/La Unión\nPlaza de principal de La Unión (capital de la provincia)-ZAM Huánuco Pampa\nTerrestre\nTaxi\nAsfaltado\n11 km/30 minutos"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nAdulto nacional y extranjero S/. 5.00, Universitario S/. 2.00, Niños y Escolares S/. 1.00"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n08:30 a.m.\n-\n04:00 p.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nCultura y Folclore\nActividades Religiosas o Patronales\n1. Encuentro de la Cultura Autóctona del Chinchaysuyo los días 20 y 21 de junio.\n2. Fiesta del Sol, el 27 de julio de cada año.\nPaseos\nExcursiones\n--\nOtros\nEstudios e Investigación\nEn arqueología\nNaturaleza\nObservación de paisaje\n--\nDeportes / Aventura\nCaminata/Trekking\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nOtros Servicios Turísticos\nServicios Higiénicos\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nServicio de Estacionamiento\n--\nInstalaciones Públicas\nServicios Públicos\nBoletería\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nOtros (Especificar)\nHospedajes sin clase ni categoría / Todos los servicios en la ciudad de La Unión\nAlimentación\nRestaurantes\nCiudad de La Unión\nAlimentación\nBares\nCiudad de La Unión\nAlimentación\nFuentes de soda\nCiudad de La Unión\nAlimentación\nKioskos de comida y bebidas\nCiudad de La Unión\nLugares de Recreación\nDiscotecas\nCiudad de La Unión\nLugares de Recreación\nOtros(especificar)\nBaños termales, piscinas-Ciudad de la Unión.\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de La Unión\nOtros Servicios Turísticos\nOtros (Especificar)\nGrifos y talleres mecánicos-Ciudad de la Unión."
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de La Unión\nBancos\nCiudad de La Unión\nCasa de cambio\nCiudad de La Unión\nCajero automático\nCiudad de La Unión\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de La Unión\nServicios de taxis\nCiudad de La Unión\nCentro de salud - tópico\nCiudad de La Unión\nVenta de materiales para fotografías\nCiudad de La Unión\nSeguridad / POLTUR / Comisaría\nCiudad de La Unión\nAlquiler y compra de equipos deportivos\nCiudad de La Unión\nLibrerías\nCiudad de La Unión\nBodegas o minimarkets\nCiudad de La Unión"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nSeñalización turística\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de La Unión\nDesagüe\nCiudad de La Unión\nLuz (Suministro Eléctrico)\nCiudad de La Unión\nTeléfono\nCiudad de La Unión"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nEstado Peruano-Ministerio de Cultura\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nZona Arqueológica Monumental Resolución Viceministerial N° 726-2011-VMPCIC-MC\nAdministrador por\nNombre\nDirección Desconcentrada De Cultura-Huánuco.\nTiempo de administración\nDesde el año 2011."
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDIRECCIÓN REGIONAL DE COMERCIO EXTERIOR Y TURISMO HUÁNUCO\nNombre (Persona(s) responsable(s) del inventario turístico):\nLic. Glen Arriaga Silva\nCargo:\nProfesional en Turismo\nCorreo:\nglenarriaga@hotmail.com\nTeléfono:\n962555050\nFuentes Bibliográfica:\n1. Huánuco Pampa: An Inca City and its Hinterland (New Aspects of Antiquity). By Craig Morris And Donald E. Thompson. 1885.\n2. The Huánuco Pampa Archaeological Project Volume I: The Plaza and Palace Complex: Craig Morris, R. Alan Covey, PatStein.2006\n3. Squier, George (1974). Un Viaje por Tierras Incaicas: crónica de una expedición arqueológica (1863-1865). Universidad Nacional Mayor de San Marcos – Embajada de Estados Unidos de América. Lima.\n4. Vásquez De Espinoza, Antonio 1969. Compendio y Descripción de las Indias occidentales. Ediciones Atlas (Biblioteca de Autores Españoles, 231). Madrid.\n5. Varallanos, José 1959. Historia de Huánuco: introducción para el estudio de la vida social de una región del Perú, desde la prehistoria a nuestros días. Imprenta López, pp. 672, Buenos Aires.\n6. RIVERO, Mariano Eduardo de y Juan Diego de TSHUDI 1851. Antigüedades Peruanas. Imprenta Imperial de la Corte y del Estado, pp. 328, Viena.\n7. Ministerio de Cultura (2015). El Centro Administrativo -\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n27/09/2022"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -9.875390833994908,
+    "longitud": -76.81643755315145
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-9.875390833994908,-76.81643755315145"
+}

@@ -1,0 +1,217 @@
+{
+  "cod_ficha": 3105,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=3105",
+  "nombre": "Lagunas Arreviatadas",
+  "departamento": "Cajamarca",
+  "provincia": "San Ignacio",
+  "distrito": "TABACONAS",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "g. Cuerpo de Agua",
+  "subtipo": "Lagunas",
+  "jerarquia": "2",
+  "altitud": "3800",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=293593",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=293593",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=536870",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=536920",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=536921",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=536922",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=536970"
+  ],
+  "actividades_permitidas": [
+    "Otros - Estudios e Investigación",
+    "Naturaleza - Observación de fauna",
+    "Deportes / Aventura - Caminata/Trekking"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de fauna",
+      "observacion": "Oso de anteojos, tapir de altura, venados,",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fauna02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "En los alrededores del atractivo",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Cajamarca/San Ignacio/Tabaconas - Cajamarca/San Ignacio/Tabaconas",
+      "detalle": "Desde la Plaza de armas de San Ignacio - Distrito de Tabaconas",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Camioneta doble tracción",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "90 km/ 3 horas"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Cajamarca/San Ignacio/Tabaconas - Cajamarca/San Ignacio/Tabaconas",
+      "detalle": "Desde la plaza de armas del distrito de Tabaconas a Estación Biológica Chichilapa",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Camino de Herradura",
+      "distancia_tiempo": "4 km/ 2 horas"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Cajamarca/San Ignacio/Tabaconas - Cajamarca/San Ignacio/Tabaconas",
+      "detalle": "Desde el paradero de la Estación Biológica Chichilapa - Lagunas Arreviatadas",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Camino de Herradura",
+      "distancia_tiempo": "6 km./ 6 horas"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "20",
+      "horario": "Libro de registro",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "150",
+      "horario": "Libro de Registro",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "200",
+      "horario": "Libro de registro",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Esporádicamente - Algunos meses",
+      "especificacion": "--",
+      "horario": "06:00 a.m. - 04:00 p.m. Visita recomendable durante los meses de Agosto-Noviembre",
+      "observaciones": "Visita recomendable durante los meses de Agosto-Noviembre"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Semi-restringido(previo permiso)",
+      "observaciones": "Ingreso autorizado por SERNANP. Ing. Carolina Guevara 968218439"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Tabaconas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Tabaconas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Tabaconas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Puesto de auxilio rápido",
+      "observacion": "Ciudad de Tabaconas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Tabaconas"
+    }
+  ],
+  "descripcion": "El área se encuentra geográficamente en el noreste del país, distrito de Tabaconas - Cerro Coyona, en la cuenca alta del río Tabaconas), en la región natural de los Paramos andinos (encontrándose altas pendientes fusionadas con bruscas extensiones de peñas y muros escarpados). El Santuario Nacional Tabaconas Namballe es predominantemente montañoso, en las sonas altas se observan afloramientos rocosos desnudos y laderas sumamente escarpadas; sin embargo, también existen zonas onduladas y planas. Además, cuenta con una extensión de 32 124,87 hectáreas. Para acceder a las lagunas Las Arreviatadas se accede a pie desde el poblado de Tabaconas, tras 8 horas de camino de herradura por el flanco oriental de la quebrada Coyona, hasta la loma Vista Hermosa, de donde se aprecian las primeras lagunas. Desde allí también se inicia el recorrido para visitar las 4 lagunas principales y los otros espejos de agua. Altitud: Entre 3,000 y 3,300 msnm. Se encuentran rodeadas por cumbres: macizos rocosos erosionados por acción glacial. Las lagunas se complementan con una red de múltiples quebradas tributarias y de desagüe, además de turberas de altura y bosquecillos alto andinos. Se han identificado hasta 16 lagunas en la región, aunque algunas son en realidad pequeñas pozas de quebradas o arroyos. Las cuatro lagunas principales son: Corazón de San Miguel, La Victoria, Los Cuatro Amigos y Lagarto (o Lagartococha), otra laguna de importancia es la Del Tapir (o Sachavaca); las otras lagunas son: Los Charcos del Valle, Del Lucero, Las Gemelas, Azul, Baño de El Inca, Sirena del Coyona, Las Solitarias, Los Charcos de la Cumbre del Coyona, Del Remolino, Del Sol y El Bebedero del Buitre. Cabe destacar que en la laguna Corazón de San Miguel se han registrado profundidades de hasta 20 metros. Años atrás esta laguna contaba con un bote inflable para navegar, pero por factores del clima y desgaste del material no es posible navegar, pero si se puede nadar en las orillas de las lagunas. Asimismo, las riveras de las lagunas están rodeadas de macizos rocosos, pajonales, bosquecillos y matorrales. Los ríos y arroyos del área pertenecen a la cuenca hidrográfica del Amazonas; dichos ríos desaguan por la vertiente oriental de la cadena Occidental de los Andes y son considerados las nacientes del río Tabaconas. Las lagunas Arreviatadas desaguan por la quebrada Chorrera hacia el río Tabaconas, el cual desfoga en el río Chinchipe en la localidad de Las Juntas, el mismo que, a su vez, es tributario del río Marañón–Amazonas. La laguna Corazón de San Miguel, la más grande y emblemática de Las Arreviatadas, tiene forma de herradura o corazón, ya que es producto de la unión de dos lagunas, posiblemente por desecamiento y filtración de otra laguna ubicada en un nivel superior, la misma que está actualmente cubierta por vegetación y que presenta afloramientos de agua que drenan hacia las otras lagunas. Las lagunas Las Arreviatadas se encuentran dentro del Santuario Nacional Tabaconas Namballe, que es la única área natural protegida que protege una muestra del Páramo en el Perú. En el entorno de las lagunas Las Arreviatadas existe gran variedad de plantas que se les atribuye valores medicinales, así como restos y vestigios arqueológicos y cavernas. Entre la fauna destacada en el santuario se encuentra el oso de anteojos, el tapir de altura, así como 59 especies de mamíferos, 186 de aves (43 de ellas endémicas. Del total destacan las tangaras), 13 de anfibios y 5 de reptiles. Además, se ha identificado dos especies nuevas para la ciencia: un murciélago frutero (Sturnira sp nov) y un ratón arrocero (Oryzomys sp nov). El santuario alberga también otras especies como el venado colorado del páramo (Mazama rufina) y el pudú o sachacabra (Pudú mephistophiles), este último es un venado enano de costumbres crepusculares que durante el día se refugia entre los matorrales. En cuanto a la flora, cuenta con la presencia de 286 especies de plantas, helechos con 27 especies.",
+  "particularidades": "",
+  "estado_actual": "Se encuentran en buenas condiciones, actualmente estas lagunas están protegidas por el Estado dentro del SINANPE a través del Santuario Nacional Tabaconas Namballe.",
+  "observaciones": "El acceso es muy dificultoso. Se recomienda visitarlas en los meses de agosto a noviembre por ser temporadas de verano, se puede utilizar la vía Jaén-Tamborapa puerto - Tabaconas y Jaén-San ignacio - el Chaupe - Tabaconas.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "El área se encuentra geográficamente en el noreste del país, distrito de Tabaconas - Cerro Coyona, en la cuenca alta del río Tabaconas), en la región natural de los Paramos andinos (encontrándose altas pendientes fusionadas con bruscas extensiones de peñas y muros escarpados). El Santuario Nacional Tabaconas Namballe es predominantemente montañoso, en las sonas altas se observan afloramientos rocosos desnudos y laderas sumamente escarpadas; sin embargo, también existen zonas onduladas y planas. Además, cuenta con una extensión de 32 124,87 hectáreas. Para acceder a las lagunas Las Arreviatadas se accede a pie desde el poblado de Tabaconas, tras 8 horas de camino de herradura por el flanco oriental de la quebrada Coyona, hasta la loma Vista Hermosa, de donde se aprecian las primeras lagunas. Desde allí también se inicia el recorrido para visitar las 4 lagunas principales y los otros espejos de agua. Altitud: Entre 3,000 y 3,300 msnm. Se encuentran rodeadas por cumbres: macizos rocosos erosionados por acción glacial. Las lagunas se complementan con una red de múltiples quebradas tributarias y de desagüe, además de turberas de altura y bosquecillos alto andinos. Se han identificado hasta 16 lagunas en la región, aunque algunas son en realidad pequeñas pozas de quebradas o arroyos. Las cuatro lagunas principales son: Corazón de San Miguel, La Victoria, Los Cuatro Amigos y Lagarto (o Lagartococha), otra laguna de importancia es la Del Tapir (o Sachavaca); las otras lagunas son: Los Charcos del Valle, Del Lucero, Las Gemelas, Azul, Baño de El Inca, Sirena del Coyona, Las Solitarias, Los Charcos de la Cumbre del Coyona, Del Remolino, Del Sol y El Bebedero del Buitre. Cabe destacar que en la laguna Corazón de San Miguel se han registrado profundidades de hasta 20 metros. Años atrás esta laguna contaba con un bote inflable para navegar, pero por factores del clima y desgaste del material no es posible navegar, pero si se puede nadar en las orillas de las lagunas. Asimismo, las riveras de las lagunas están rodeadas de macizos rocosos, pajonales, bosquecillos y matorrales. Los ríos y arroyos del área pertenecen a la cuenca hidrográfica del Amazonas; dichos ríos desaguan por la vertiente oriental de la cadena Occidental de los Andes y son considerados las nacientes del río Tabaconas. Las lagunas Arreviatadas desaguan por la quebrada Chorrera hacia el río Tabaconas, el cual desfoga en el río Chinchipe en la localidad de Las Juntas, el mismo que, a su vez, es tributario del río Marañón–Amazonas. La laguna Corazón de San Miguel, la más grande y emblemática de Las Arreviatadas, tiene forma de herradura o corazón, ya que es producto de la unión de dos lagunas, posiblemente por desecamiento y filtración de otra laguna ubicada en un nivel superior, la misma que está actualmente cubierta por vegetación y que presenta afloramientos de agua que drenan hacia las otras lagunas. Las lagunas Las Arreviatadas se encuentran dentro del Santuario Nacional Tabaconas Namballe, que es la única área natural protegida que protege una muestra del Páramo en el Perú. En el entorno de las lagunas Las Arreviatadas existe gran variedad de plantas que se les atribuye valores medicinales, así como restos y vestigios arqueológicos y cavernas. Entre la fauna destacada en el santuario se encuentra el oso de anteojos, el tapir de altura, así como 59 especies de mamíferos, 186 de aves (43 de ellas endémicas. Del total destacan las tangaras), 13 de anfibios y 5 de reptiles. Además, se ha identificado dos especies nuevas para la ciencia: un murciélago frutero (Sturnira sp nov) y un ratón arrocero (Oryzomys sp nov). El santuario alberga también otras especies como el venado colorado del páramo (Mazama rufina) y el pudú o sachacabra (Pudú mephistophiles), este último es un venado enano de costumbres crepusculares que durante el día se refugia entre los matorrales. En cuanto a la flora, cuenta con la presencia de 286 especies de plantas, helechos con 27 especies."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "Ramsar site no. 1691\nCategoría III (Monumento natural) de la IUCN"
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Se encuentran en buenas condiciones, actualmente estas lagunas están protegidas por el Estado dentro del SINANPE a través del Santuario Nacional Tabaconas Namballe."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "El acceso es muy dificultoso. Se recomienda visitarlas en los meses de agosto a noviembre por ser temporadas de verano, se puede utilizar la vía Jaén-Tamborapa puerto - Tabaconas y Jaén-San ignacio - el Chaupe - Tabaconas."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n20\nLibro de registro\n2023\nLibro de registro de visitas - Circuito Turístico lagunas arreviatadas\nTuristas Nacionales\n150\nLibro de Registro\n2023\nLibro de registro de visitas del Circuito turístico Lagunas arreviatadas\nVisitantes Locales(Excursionistas)\n200\nLibro de registro\n2023\nLibro de registro de visitas - Circuito Turístico lagunas arreviatadas"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nCajamarca/San Ignacio/Tabaconas\n-\nCajamarca/San Ignacio/Tabaconas\nDesde la Plaza de armas de San Ignacio - Distrito de Tabaconas\nTerrestre\nCamioneta doble tracción\nAfirmado\n90 km/ 3 horas\n1\nCajamarca/San Ignacio/Tabaconas\n-\nCajamarca/San Ignacio/Tabaconas\nDesde la plaza de armas del distrito de Tabaconas a Estación Biológica Chichilapa\nTerrestre\nA pie\nCamino de Herradura\n4 km/ 2 horas\n1\nCajamarca/San Ignacio/Tabaconas\n-\nCajamarca/San Ignacio/Tabaconas\nDesde el paradero de la Estación Biológica Chichilapa - Lagunas Arreviatadas\nTerrestre\nA pie\nCamino de Herradura\n6 km./ 6 horas"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nSemi-restringido(previo permiso)\nIngreso autorizado por SERNANP. Ing. Carolina Guevara 968218439"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nEsporádicamente - Algunos meses\n--\n06:00 a.m.\n-\n04:00 p.m.\nVisita recomendable durante los meses de Agosto-Noviembre"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nEstudios e Investigación\n--\nNaturaleza\nObservación de fauna\nOso de anteojos, tapir de altura, venados,\nDeportes / Aventura\nCaminata/Trekking\nEn los alrededores del atractivo"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Tabaconas\nAlimentación\nKioskos de comida y bebidas\nCiudad de Tabaconas\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Tabaconas\nServicios Públicos\nPuesto de auxilio rápido\nCiudad de Tabaconas\nAlimentación\nBares\nCiudad de Tabaconas"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad Tabaconas\nCajero automático\nCiudad Tabaconas\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad Tabaconas\nServicios de taxis\nCiudad Tabaconas\nCentro de salud - tópico\nCiudad Tabaconas\nSeguridad / POLTUR / Comisaría\nCiudad Tabaconas\nBodegas o minimarkets\nCiudad Tabaconas"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Tabaconas\nLuz (Suministro Eléctrico)\nCiudad de Tabaconas\nTeléfono\nCiudad de Tabaconas"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nESTADO PERUANO\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nNúmero de Partida:\n2018-02488883\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nSERNAMP\nTiempo de administración\n1989 - 35 años"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo Cajamarca\nNombre (Persona(s) responsable(s) del inventario turístico):\nEsperanza Escobar Portal\nCargo:\nTécnico en Turismo I\nCorreo:\nmescobar@regioncajamarca.gob.pe\nTeléfono:\n962690326\nFuentes Bibliográfica:\nINVENTARIO DE ATRACTIVOS TURISTICOS CAJAMARCA- 2006.FICHA INFORMATIVA DE HUMEDAL RAMSAR (FIR): LAGUNAS LAS ARREVIATADAS, SANTUARIO NACIONAL TABACONAS-NAMBALLE (CAJAMARCA, PERÚ). EXPEDIENTE PARA EL RECONOCIMIENTO DEL COMPLEJO DE LAGUNAS PARAMUNAS LAS ARREVIATADAS COMO HUMEDALES DE IMPORTANCIA INTERNACIONAL - SITIO RAMSAR. HTTP://CDC.LAMOLINA.EDU.PE/DESCARGAS/ANP/EXPEDIENTE_ARREVIATADAS.HTML\nMaterial Audiovisual actual del Recurso:\n--\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n30/06/2025 17:56:38"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -5.235549,
+    "longitud": -79.280798
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-5.235549,-79.280798"
+}

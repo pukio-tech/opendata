@@ -1,0 +1,241 @@
+{
+  "cod_ficha": 2664,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=2664",
+  "nombre": "Caño Panaillo",
+  "departamento": "Ucayali",
+  "provincia": "Coronel Portillo",
+  "distrito": "YARINACOCHA",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "d. Quebradas",
+  "subtipo": "Quebradas",
+  "jerarquia": "1",
+  "altitud": "147",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=661790",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=661790",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=661791",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=661792",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=661839",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=661840",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=661793"
+  ],
+  "actividades_permitidas": [
+    "Naturaleza - Observación de fauna",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de paisaje",
+    "Naturaleza - Observación de aves",
+    "Deportes / Aventura - Caminata/Trekking"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de fauna",
+      "observacion": "Delfín gris, oso perezoso, delfin rosado, iguana, boa",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fauna02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "Cetico, Renaco, Capirona, Mango, Poma Rosa, Camu Camu, Almendros, Palmeras",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de aves",
+      "observacion": "Garzas, Tibes, Tuqui Tuqui, Shihuango, Cushuri, Gavilán caracolero",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/aves02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Ucayali/Coronel Portillo/Yarinacocha - Ucayali/Coronel Portillo/Yarinacocha",
+      "detalle": "Desde Puerto Callao al recurso",
+      "tipo_acceso": "Lacustre / Fluvial",
+      "medio_transporte": "Deslizador",
+      "tipo_via": "",
+      "distancia_tiempo": "17 km/ 3 h. 30 min"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Ucayali/Coronel Portillo/Yarinacocha - Ucayali/Coronel Portillo/Yarinacocha",
+      "detalle": "Desde la Plaza de Armas de Yarinacocha hasta el recurso",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Camioneta doble tracción",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "21 km / 2 h"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "720",
+      "horario": "Conteo Muestra",
+      "observaciones": "2026"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "06:00 a.m. - 04:00 p.m. Época de creciente (deslizador) Época de estiaje (canoa)",
+      "observaciones": "Época de creciente (deslizador) Época de estiaje (canoa)"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Yarinacocha"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Yarinacocha"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Ciudad de Yarinacocha"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Yarinacocha"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Yarinacocha"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Yarinacocha"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "3* Ciudad de Yarinacocha"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Yarinacocha"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de Yarinacocha"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de camionetas 4 x 4",
+      "observacion": "Ciudad de Yarinacocha"
+    }
+  ],
+  "descripcion": "Canal natural de agua dulce ubicado en el departamento de Ucayali, que se origina en el extremo izquierdo de la Laguna Yarinacocha, a la altura de la Comunidad Nativa San Francisco, aproximadamente a 12 km del boulevard de Yarinacocha. Presenta un curso sinuoso con orientación de sur a norte, evacuando las aguas de la laguna hacia el río Río Ucayali, en las proximidades del poblado de Tacshitea y de las desembocaduras de los ríos Aguaytía y Callería.\nEl canal posee una extensión aproximada de 42 km por tramos y un ancho promedio de 15 metros. El color de sus aguas varía de turbio a oscuro, pasando por tonalidades verdes y cristalinas, dependiendo de las condiciones climáticas y del régimen hidrológico de la laguna y del río Ucayali. Durante la época de creciente, gran parte de sus orillas son inundables y el incremento del caudal facilita la navegación en pequeñas embarcaciones tipo “peque peque” a lo largo de todo su recorrido.\nEl entorno natural del canal está conformado por abundante vegetación ribereña y bosques húmedos tropicales característicos de la Amazonía, donde destacan especies arbóreas como el cetico, capirona, lupuna, renaco y diversas variedades de palmeras. Asimismo, extensas áreas de las orillas se encuentran cubiertas por vegetación flotante, predominando especies como huamas, piripiri y gramalote.\nEl área presenta una importante diversidad biológica, especialmente de avifauna, observándose de manera permanente especies representativas como garzas blancas y cenizas, cushuris, gavilanes y patos silvestres, entre otras aves que se concentran en bandadas durante la época de creciente debido a la abundancia de peces, principal fuente de alimentación.\nEn las riberas del canal se ubican la Comunidad Nativa Puerto Firmeza y los caseríos Nueva Esperanza de Panaillo, Edén y San Miguel de Panaillo, cuyos habitantes desarrollan principalmente actividades de agricultura tradicional de rozo y quema, pesca artesanal y caza de subsistencia.\nEl recurso presenta condiciones favorables para el desarrollo de actividades turísticas vinculadas al ecoturismo, observación de flora y fauna, paseos en embarcaciones menores, fotografía paisajística y experiencias de contacto con las comunidades ribereñas. Asimismo, durante la época de creciente, los puertos de los centros poblados constituyen zonas aptas para la natación y recreación.",
+  "particularidades": "",
+  "estado_actual": "Bueno, recibe mantenimiento por parte de los pobladores",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Canal natural de agua dulce ubicado en el departamento de Ucayali, que se origina en el extremo izquierdo de la Laguna Yarinacocha, a la altura de la Comunidad Nativa San Francisco, aproximadamente a 12 km del boulevard de Yarinacocha. Presenta un curso sinuoso con orientación de sur a norte, evacuando las aguas de la laguna hacia el río Río Ucayali, en las proximidades del poblado de Tacshitea y de las desembocaduras de los ríos Aguaytía y Callería.\nEl canal posee una extensión aproximada de 42 km por tramos y un ancho promedio de 15 metros. El color de sus aguas varía de turbio a oscuro, pasando por tonalidades verdes y cristalinas, dependiendo de las condiciones climáticas y del régimen hidrológico de la laguna y del río Ucayali. Durante la época de creciente, gran parte de sus orillas son inundables y el incremento del caudal facilita la navegación en pequeñas embarcaciones tipo “peque peque” a lo largo de todo su recorrido.\nEl entorno natural del canal está conformado por abundante vegetación ribereña y bosques húmedos tropicales característicos de la Amazonía, donde destacan especies arbóreas como el cetico, capirona, lupuna, renaco y diversas variedades de palmeras. Asimismo, extensas áreas de las orillas se encuentran cubiertas por vegetación flotante, predominando especies como huamas, piripiri y gramalote.\nEl área presenta una importante diversidad biológica, especialmente de avifauna, observándose de manera permanente especies representativas como garzas blancas y cenizas, cushuris, gavilanes y patos silvestres, entre otras aves que se concentran en bandadas durante la época de creciente debido a la abundancia de peces, principal fuente de alimentación.\nEn las riberas del canal se ubican la Comunidad Nativa Puerto Firmeza y los caseríos Nueva Esperanza de Panaillo, Edén y San Miguel de Panaillo, cuyos habitantes desarrollan principalmente actividades de agricultura tradicional de rozo y quema, pesca artesanal y caza de subsistencia.\nEl recurso presenta condiciones favorables para el desarrollo de actividades turísticas vinculadas al ecoturismo, observación de flora y fauna, paseos en embarcaciones menores, fotografía paisajística y experiencias de contacto con las comunidades ribereñas. Asimismo, durante la época de creciente, los puertos de los centros poblados constituyen zonas aptas para la natación y recreación."
+    },
+    {
+      "titulo": "Particularidades",
+      "contenido": ""
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, recibe mantenimiento por parte de los pobladores"
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nVisitantes Locales(Excursionistas)\n720\nConteo Muestra\n2026"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nUcayali/Coronel Portillo/Yarinacocha\n-\nUcayali/Coronel Portillo/Yarinacocha\nDesde Puerto Callao al recurso\nLacustre / Fluvial\nDeslizador\n17 km/ 3 h. 30 min\n2\nUcayali/Coronel Portillo/Yarinacocha\n-\nUcayali/Coronel Portillo/Yarinacocha\nDesde la Plaza de Armas de Yarinacocha hasta el recurso\nTerrestre\nCamioneta doble tracción\nTrocha carrozable\n21 km / 2 h"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n06:00 a.m.\n-\n04:00 p.m.\nÉpoca de creciente (deslizador)\nÉpoca de estiaje (canoa)"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nNaturaleza\nObservación de fauna\nDelfín gris, oso perezoso, delfin rosado, iguana, boa\nNaturaleza\nObservación de flora\nCetico, Renaco, Capirona, Mango, Poma Rosa, Camu Camu, Almendros, Palmeras\nNaturaleza\nObservación de paisaje\n--\nNaturaleza\nObservación de aves\nGarzas, Tibes, Tuqui Tuqui, Shihuango, Cushuri, Gavilán caracolero\nDeportes / Aventura\nCaminata/Trekking\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nLugares de Recreación\nDiscotecas\nCiudad de Yarinacocha\nLugares de Recreación\nBares\nCiudad de Yarinacocha\nLugares de Recreación\nJuegos Infantiles\nCiudad de Yarinacocha\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Yarinacocha\nAlimentación\nRestaurantes\nCiudad de Yarinacocha\nAlimentación\nKioskos de comida y bebidas\nCiudad de Yarinacocha\nAlojamiento\nHoteles (especificar categorías)\n3* Ciudad de Yarinacocha\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Yarinacocha\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de Yarinacocha\nOtros Servicios Turísticos\nAlquiler de camionetas 4 x 4\nCiudad de Yarinacocha"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Yarinacocha\nBancos\nBanco de la Nación - Ciudad de Yarinacocha\nCajero automático\nCiudad de Yarinacocha\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Yarinacocha\nServicio de estacionamiento\nCiudad de Yarinacocha\nCentro de salud - tópico\nHospital Amazónico - Ciudad de Yarinacocha\nSeguridad / POLTUR / Comisaría\nCiudad de Yarinacocha\nBodegas o minimarkets\nCiudad de Yarinacocha"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Yarinacocha\nAlcantarillado sanitario\nCiudad de Yarinacocha\nLuz (Suministro Eléctrico)\nCiudad de Yarinacocha\nSeñalización turística\nCiudad de Yarinacocha\nAlcantarillado pluvial\nCiudad de Yarinacocha"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nEstado Peruano\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nNo cuenta con delimitación de faja fiscal, pero forma parte del Estado Peruano conforme a la Ley N°29338, ley de Recursos Hídricos.\nAdministrador por\nNombre\nMunicipalidad Distrital de Yarinacocha\nTiempo de administración\nDesde el año 2021"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo de Ucayali /Municipalidad Distrital de Yarinacocha\nNombre (Persona(s) responsable(s) del inventario turístico):\nCarmen Roca Borges // Miguel Alexei Rojas Yarin\nCargo:\nEspecialista en turismo // Sub Gerente de Turismo\nCorreo:\nkarminy@hotmail.com // miguelrojas131291@gmail.com\nTeléfono:\n957253776 // 915056568\nFuentes Bibliográfica:\n1. GARAY, P. (2015). “Yarinacocha 51 años de historia”.\nEstudio de actualización del inventario de recursos turísticos del Distrito de Yarinacocha 2023 de la Sub Gerencia de Desarrollo Económico, Turismo y Asuntos Indígenas - MDY. Autor Lic. José Luis Alvites Vásquez.\nhttps://cdn.www.gob.pe/uploads/document/file/2688516/PDLC%20YARINACOCHA%20AL%202030.pdf.pdf\nEstudio de Actualización del Inventario de Recursos Turísticos del Distrito de Yarinacocha 2026 de la Sub Gerencia de Turismo, Asuntos Indígenas y Desarrollo Sostenible. Autor: Lic. César Rodríguez Vergaray\nMaterial Audiovisual actual del Recurso:\nFOTO, VIDEOS\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n25/05/2026 19:55:38"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -8.064838466067773,
+    "longitud": -74.63004112243652
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-8.064838466067773,-74.63004112243652"
+}

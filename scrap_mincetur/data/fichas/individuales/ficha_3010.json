@@ -1,0 +1,403 @@
+{
+  "cod_ficha": 3010,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=3010",
+  "nombre": "Playa San Pedro",
+  "departamento": "Piura",
+  "provincia": "Sechura",
+  "distrito": "VICE",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "l. Costas",
+  "subtipo": "Playas",
+  "jerarquia": "3",
+  "altitud": "6",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=414940",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=414940",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=416235",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=416236",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=528726",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=528770",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=528727",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=528728",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=539017"
+  ],
+  "actividades_permitidas": [
+    "Deportes / Aventura - Pesca de altura",
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Estudios e Investigación",
+    "Otros - Otros(Especificar)",
+    "Deportes acuáticos - Sea Kayac",
+    "Deportes acuáticos - Natación",
+    "Deportes acuáticos - Pesca deportiva",
+    "Deportes acuáticos - Buceo/diving",
+    "Naturaleza - Observación de paisaje",
+    "Naturaleza - Observación de aves",
+    "Deportes / Aventura - Caminata/Trekking",
+    "Deportes / Aventura - Pesca submarina"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Pesca de altura",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/pesca_altura02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Otros(Especificar)",
+      "observacion": "Pesca",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/otros02.png"
+    },
+    {
+      "actividad": "Deportes acuáticos",
+      "tipo": "Sea Kayac",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/kayac02.png"
+    },
+    {
+      "actividad": "Deportes acuáticos",
+      "tipo": "Natación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/natacion02.png"
+    },
+    {
+      "actividad": "Deportes acuáticos",
+      "tipo": "Pesca deportiva",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/pesca_deportiva02.png"
+    },
+    {
+      "actividad": "Deportes acuáticos",
+      "tipo": "Buceo/diving",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/buceo02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de aves",
+      "observacion": "Gaviotin Real, Tijereta",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/aves02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Pesca submarina",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/pesca_submarina02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Piura/Sechura/Vice - Piura/Sechura/Vice",
+      "detalle": "Plaza Principal de la ciudad de Vice - Playa San Pedro",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Camioneta doble tracción",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "22 km/ 43 min"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Piura/Piura/Piura - Piura/Sechura/Vice",
+      "detalle": "Terminal Terrestre Piura - Sechura (Ex Polvorines) - Plaza principal de la ciudad de Vice (Miguel Grau)",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "56 km / 1h 15 min"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Piura/Sechura/Vice - Piura/Sechura/Vice",
+      "detalle": "Plaza Principal de la ciudad de Vice (Miguel Grau) - Playa San Pedro.",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mototaxi",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "21 km / 30 min"
+    },
+    {
+      "recorrido": "3",
+      "tramo": "Piura/Sechura/Vice - Piura/Sechura/Vice",
+      "detalle": "Padero Terrestre (Sechura - La Union) - Paradero de mototaxi (Cruce Becará)",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Otros (especificar)",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "25 km / 55 min"
+    },
+    {
+      "recorrido": "3",
+      "tramo": "Piura/Sechura/Vice - Piura/Sechura/Vice",
+      "detalle": "Paradero de mototaxi (Cruce Becará)- Playa San Pedro.",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mototaxi",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "16 km / 24 min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "360",
+      "horario": "Conteo Muestral de Visitas al Recurso turístico",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "175",
+      "horario": "Conteo Muestral de Visitas al Recurso turístico",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "07:00 a.m. - 06:00 p.m. Recoger y retornar los desperdicios que se puedan generar durante la visita. Evitar la contaminación auditiva que pueda ahuyentar o molestar a las aves de la zona.",
+      "observaciones": "Recoger y retornar los desperdicios que se puedan generar durante la visita. Evitar la contaminación auditiva que pueda ahuyentar o molestar a las aves de la zona."
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Otros (especificar)",
+      "observacion": "Baños / Cambiadores"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "Localidad de Sechura (2 estrellas)"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "Localidad de Sechura (2 estrellas)"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Localidad de Sechura / Localidad de Vice"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Localidad de Sechura / Localidad de Vice"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Localidad de Sechura"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Localidad de Sechura / Localidad de Vice"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de Material para Fotografía",
+      "observacion": "Sechura"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "Localidad de Vice"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de interpretación",
+      "observacion": "Localidad de Sechura"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Localidad de Sechura"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de camionetas 4 x 4",
+      "observacion": "Localidad de Sechura"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Localidad de Sechura"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Peñas",
+      "observacion": "Localidad de Sechura"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Localidad de Sechura"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "Localidad de Sechura"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Localidad de Sechura / Localidad de Vice"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Localidad de Sechura"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Localidad de Sechura"
+    }
+  ],
+  "descripcion": "Playa San Pedro, situada en la región de Piura, Perú, es un auténtico tesoro costero localizado a unos 11 kilómetros al oeste del distrito de Vice. Esta playa, ubicada en la región natural conocida como costa o chala, cuenta con una extensión de 2,70 kilómetros de arena blanca y limpia, ideal para tomar sol o acampar con familiares y amigos. Sus aguas serenas y tibias son cristalinas, y su clima cálido presenta temperaturas que varían entre los 27 y 35 grados centígrados en verano, y entre 20 y 21 grados centígrados durante el resto del año.\nEn época de verano, Playa San Pedro es una de las playas más concurridas por los lugareños, debido a su cercanía con la ciudad de Vice. Además, esta playa es un lugar privilegiado para la observación de una rica biodiversidad, especialmente de numerosas especies de aves, tanto residentes como migratorias, gracias a su proximidad al manglar de San Pedro. Entre las aves que se pueden avistar se encuentran pelícanos, gaviotas, parihuanas y garzas blancas, entre otras.\nEl estuario de esta playa alberga más de 100 especies de aves debidamente registradas y cuenta con 46 especies de plantas, así como una variada población de peces. Este entorno natural se convierte en un verdadero paraíso para los amantes de la observación de aves y la vida marina.",
+  "particularidades": "",
+  "estado_actual": "Regular. En algunas zonas de la playa se encuentran desperdicios provenientes desde el mar o arrojados por los visitantes.\nSi bien el mantenimiento recae por parte de la Municipalidad Distrital de Vice, no se puede tener un control constante de los pasivos dejados por los visitantes.",
+  "observaciones": "La Playa necesita con carácter de urgencia, infraestructura turística adecuada para evitar la depredación del recurso o pasivos ambientales.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Playa San Pedro, situada en la región de Piura, Perú, es un auténtico tesoro costero localizado a unos 11 kilómetros al oeste del distrito de Vice. Esta playa, ubicada en la región natural conocida como costa o chala, cuenta con una extensión de 2,70 kilómetros de arena blanca y limpia, ideal para tomar sol o acampar con familiares y amigos. Sus aguas serenas y tibias son cristalinas, y su clima cálido presenta temperaturas que varían entre los 27 y 35 grados centígrados en verano, y entre 20 y 21 grados centígrados durante el resto del año.\nEn época de verano, Playa San Pedro es una de las playas más concurridas por los lugareños, debido a su cercanía con la ciudad de Vice. Además, esta playa es un lugar privilegiado para la observación de una rica biodiversidad, especialmente de numerosas especies de aves, tanto residentes como migratorias, gracias a su proximidad al manglar de San Pedro. Entre las aves que se pueden avistar se encuentran pelícanos, gaviotas, parihuanas y garzas blancas, entre otras.\nEl estuario de esta playa alberga más de 100 especies de aves debidamente registradas y cuenta con 46 especies de plantas, así como una variada población de peces. Este entorno natural se convierte en un verdadero paraíso para los amantes de la observación de aves y la vida marina."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Regular. En algunas zonas de la playa se encuentran desperdicios provenientes desde el mar o arrojados por los visitantes.\nSi bien el mantenimiento recae por parte de la Municipalidad Distrital de Vice, no se puede tener un control constante de los pasivos dejados por los visitantes."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "La Playa necesita con carácter de urgencia, infraestructura turística adecuada para evitar la depredación del recurso o pasivos ambientales."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Nacionales\n360\nConteo Muestral de Visitas al Recurso turístico\n2024\nSe recopilo los datos a través del conteo muestral de visitante durante el mes de Enero del 2024\nVisitantes Locales(Excursionistas)\n175\nConteo Muestral de Visitas al Recurso turístico\n2024\nSe recopilo los datos a través del conteo muestral de visitante durante el mes de Enero del 2024"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nPiura/Sechura/Vice\n-\nPiura/Sechura/Vice\nPlaza Principal de la ciudad de Vice - Playa San Pedro\nTerrestre\nCamioneta doble tracción\nAfirmado\n22 km/ 43 min\n2\nPiura/Piura/Piura\n-\nPiura/Sechura/Vice\nTerminal Terrestre Piura - Sechura (Ex Polvorines) - Plaza principal de la ciudad de Vice (Miguel Grau)\nTerrestre\nBus público\nAsfaltado\n56 km / 1h 15 min\n2\nPiura/Sechura/Vice\n-\nPiura/Sechura/Vice\nPlaza Principal de la ciudad de Vice (Miguel Grau) - Playa San Pedro.\nTerrestre\nMototaxi\nAfirmado\n21 km / 30 min\n3\nPiura/Sechura/Vice\n-\nPiura/Sechura/Vice\nPadero Terrestre (Sechura - La Union) - Paradero de mototaxi (Cruce Becará)\nTerrestre\nOtros (especificar)\nAsfaltado\n25 km / 55 min\n3\nPiura/Sechura/Vice\n-\nPiura/Sechura/Vice\nParadero de mototaxi (Cruce Becará)- Playa San Pedro.\nTerrestre\nMototaxi\nAfirmado\n16 km / 24 min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n07:00 a.m.\n-\n06:00 p.m.\nRecoger y retornar los desperdicios que se puedan generar durante la visita. Evitar la contaminación auditiva que pueda ahuyentar o molestar a las aves de la zona."
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nDeportes / Aventura\nPesca de altura\n--\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nEstudios e Investigación\n--\nOtros\nOtros(Especificar)\nPesca\nDeportes acuáticos\nSea Kayac\n--\nDeportes acuáticos\nNatación\n--\nDeportes acuáticos\nPesca deportiva\n--\nDeportes acuáticos\nBuceo/diving\n--\nNaturaleza\nObservación de paisaje\n--\nNaturaleza\nObservación de aves\nGaviotin Real, Tijereta\nDeportes / Aventura\nCaminata/Trekking\n--\nDeportes / Aventura\nPesca submarina\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Públicas\nServicios Públicos\nSeñales turísticas de orientación\n--\nInstalaciones Públicas\nServicios Públicos\nOtros (especificar)\nBaños / Cambiadores"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\nLocalidad de Sechura (2 estrellas)\nAlojamiento\nHostales (especificar categorías)\nLocalidad de Sechura (2 estrellas)\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nLocalidad de Sechura / Localidad de Vice\nAlimentación\nRestaurantes\nLocalidad de Sechura / Localidad de Vice\nAlimentación\nBares\nLocalidad de Sechura\nAlimentación\nKioskos de comida y bebidas\nLocalidad de Sechura / Localidad de Vice\nOtros Servicios Turísticos\nVenta de Material para Fotografía\nSechura\nServicios Públicos\nSeñales turísticas de orientación\nLocalidad de Vice\nServicios Públicos\nSeñales turísticas de interpretación\nLocalidad de Sechura\nServicios Públicos\nOficina de Información turística\nLocalidad de Sechura\nOtros Servicios Turísticos\nAlquiler de camionetas 4 x 4\nLocalidad de Sechura\nLugares de Recreación\nDiscotecas\nLocalidad de Sechura\nLugares de Recreación\nPeñas\nLocalidad de Sechura\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nLocalidad de Sechura\nLugares de Recreación\nKaraoke\nLocalidad de Sechura\nLugares de Recreación\nBares\nLocalidad de Sechura / Localidad de Vice\nLugares de Recreación\nCentros Deportivos\nLocalidad de Sechura\nOtros Servicios Turísticos\nAgencia de Viajes\nLocalidad de Sechura"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Vice\nBancos\nCiudad de Vice\nCajero automático\nCiudad de Vice\nCasa de cambio\nCiudad de Vice\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Vice\nServicios de taxis\nCiudad de Vice\nCentro de salud - tópico\nCiudad de Vice\nVenta de materiales para fotografías\nCiudad de Vice\nSeguridad / POLTUR / Comisaría\nCiudad de Vice\nLibrerías\nCiudad de Vice\nBodegas o minimarkets\nCiudad de Vice\nAlquiler y compra de equipos deportivos\nCiudad de Vice"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Vice\nDesagüe\nCiudad de Vice\nLuz (Suministro Eléctrico)\nCiudad de Vice\nTeléfono\nCiudad de Vice\nAlcantarillado sanitario\nCiudad de Vice"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nEstado Peruano , de acuerdo a Ley N°26856\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nMunicipalidad Distrital de Vice\nTiempo de administración\nDesde el 15 de Junio de 1920"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDIRECCION REGIONAL DE COMERCIO EXTERIOR Y TURISMO - PIURA\nNombre (Persona(s) responsable(s) del inventario turístico):\nRichard Neira Colmenares\nCargo:\nDirector Regional de la Dirección de Turismo.\nCorreo:\nrneira@regionpiura.gob.pe\nTeléfono:\n984448829\nFuentes Bibliográfica:\n-RPP Noticias. (2012). Las playas sechuranas son la nueva alternativa de turismo en Piura. Recuperado de RPP Noticias.\n-Panorama Solutions for a Healthy Planet. (s.f.). Manglares de San Pedro de Vice: Un referente en gestión de humedales en el Perú. Recuperado de Panorama Solutions.\n-Naturaleza & Cultura Internacional. (s.f.). Zonificación del Sitio Ramsar Los Manglares de San Pedro de Vice. Recuperado de Naturaleza & Cultura Internacional.\n-Walac Noticias. (2019). San Pedro de Sechura es la única playa declarada como saludable. Recuperado de Walac Noticias.\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n29/05/2024 16:02:01"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -5.491880666337432,
+    "longitud": -80.90711832046509
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-5.491880666337432,-80.90711832046509"
+}

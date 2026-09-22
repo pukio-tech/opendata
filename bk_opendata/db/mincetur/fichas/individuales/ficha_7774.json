@@ -1,0 +1,354 @@
+{
+  "cod_ficha": 7774,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=7774",
+  "nombre": "Bodega Artesanal Vitivinicola San Inocente",
+  "departamento": "Ica",
+  "provincia": "Ica",
+  "distrito": "PUEBLO NUEVO",
+  "categoria": "4. REALIZACIONES TÉCNICAS, CIENTÍFICAS Y ARTÍSTICAS CONTEMPORÁNEAS",
+  "tipo": "Explotaciones Industriales",
+  "subtipo": "Bodegas de pisco, vinos y/u otros licores",
+  "jerarquia": "1",
+  "altitud": "390",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=294573",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=294573",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=500465",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=500466",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=501356",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=501329"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Cultura y Folclore - Degustación y preparación de platos, productos o bebidas típicas",
+    "Otros - Compra de productos regionales"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Degustación y preparación de platos, productos o bebidas típicas",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/platos_tipicos02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Compra de productos regionales",
+      "observacion": "Piscos y vinos.",
+      "icono_url": null
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Ica/Ica/Ica - Ica/Ica/Pueblo Nuevo",
+      "detalle": "Plaza de Armas de Ica - Bodega San Inocente",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "9.4 Km. /22 Min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Ica/Ica/Ica - Ica/Ica/Pueblo Nuevo",
+      "detalle": "Plaza de Armas de Ica - Bodega San Inocente",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Taxi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "9.4 Km. /22 Min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Ica/Ica/Ica - Ica/Ica/Pueblo Nuevo",
+      "detalle": "Plaza de Armas de Ica - Bodega San Inocente",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Camioneta doble tracción",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "9.4 Km. / 22 Min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Ica/Ica/Ica - Ica/Ica/Pueblo Nuevo",
+      "detalle": "Plaza de Armas de Ica - Bodega San Inocente",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus turístico",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "9.4 Km. / 22 Min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Ica/Ica/Ica - Ica/Ica/Pueblo Nuevo",
+      "detalle": "Plaza de Armas de Ica - Bodega San Inocente",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mini bus turístico",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "9.4 Km. /22 Min."
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "60",
+      "horario": "Carta N°001-2023-SGDE-MDPN",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "317",
+      "horario": "Carta N°001-2023-SGDE-MDPN",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Esporádicamente - Algunos meses",
+      "especificacion": "--",
+      "horario": "03:00 p.m. - 06:00 p.m. Enero a marzo.",
+      "observaciones": "Enero a marzo."
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Semi-restringido(previo permiso)",
+      "observaciones": "Previa coordinación con el Sr. Ismael Anicama un día antes al cel 951401134"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "Ciudad de Ica - Hoteles de 1 a 5 estrellas."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Pueblo Nuevo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Pueblo Nuevo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Ciudad de Pueblo Nuevo."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Cines o Teatros",
+      "observacion": "Cinerama - Ciudad de Ica"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Ciudad de Pueblo Nuevo."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Ica"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de bicicleta",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Food Truck - Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "Hostales de 1 a 3 estrellas - Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Puesto de auxilio rápido",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Otros (especificar)",
+      "observacion": "Museo Regional de Ica - Ciudad de Ica."
+    }
+  ],
+  "descripcion": "Distrito de pueblo nuevo, chulpaca U-5, Esta bodega artesanal tiene 28 años de historia, tradición, y costumbres elaborando los mejores piscos y vinos del valle de Ica. Fundada por Don Ismael Anicama Angulo y Doña Rosa Torres López el 22 de febrero de 1986. Posee una extensión de 1,200 metros cuadrados, cuenta con infraestructura artesanal para la elaboración de vino, pisco quebranta y pisco acholado, con una capacidad total de 2,500 litros. La bodega cuenta con tres ambientes: uno de recepción, uno de procesamiento, y uno de almacenamiento. El zumo de la uva extraído en el lagar se deposita en botijas de barro, durante catorce días; el azúcar de la uva se transforma en alcohol por un fenómeno químico al fermentar el mosto. El mosto se lleva al alambique para el proceso de destilación depositandose, en un caldero para que entre en ebullición. Los vapores alcohólicos recorren un serpentín de cobre cubierto de agua fría y se transforma en aguardiente. El pisco de cabecera, de alto grado alcohólico aparece como un fino hilillo. A medida que sigue discurriendo baja la graduación y se obtiene entonces el típico pisco, listo para embotellar. Es un lugar pintoresco donde se conservan las antiguas botijas de barro y los burros de madera de huarango que servían para trasladar las botijas llenas de jugo de uva.\nEl espacio que ofrece la Bodega para el turista es donde elaboran su pisco, vino y también posee una pequeña sala de bienes materiales muebles culturales de la época Ica – Chincha del periodo Intermedio Tardío. El interés Turístico que brinda son las bebidas artesanales y su sala de exhibición de materiales Arqueológicos.",
+  "particularidades": "",
+  "estado_actual": "Regular, el mantenimiento del lugar está a cargo de los propietarios.",
+  "observaciones": "En los meses de abril a diciembre permanece cerrado por mantenimiento.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Distrito de pueblo nuevo, chulpaca U-5, Esta bodega artesanal tiene 28 años de historia, tradición, y costumbres elaborando los mejores piscos y vinos del valle de Ica. Fundada por Don Ismael Anicama Angulo y Doña Rosa Torres López el 22 de febrero de 1986. Posee una extensión de 1,200 metros cuadrados, cuenta con infraestructura artesanal para la elaboración de vino, pisco quebranta y pisco acholado, con una capacidad total de 2,500 litros. La bodega cuenta con tres ambientes: uno de recepción, uno de procesamiento, y uno de almacenamiento. El zumo de la uva extraído en el lagar se deposita en botijas de barro, durante catorce días; el azúcar de la uva se transforma en alcohol por un fenómeno químico al fermentar el mosto. El mosto se lleva al alambique para el proceso de destilación depositandose, en un caldero para que entre en ebullición. Los vapores alcohólicos recorren un serpentín de cobre cubierto de agua fría y se transforma en aguardiente. El pisco de cabecera, de alto grado alcohólico aparece como un fino hilillo. A medida que sigue discurriendo baja la graduación y se obtiene entonces el típico pisco, listo para embotellar. Es un lugar pintoresco donde se conservan las antiguas botijas de barro y los burros de madera de huarango que servían para trasladar las botijas llenas de jugo de uva.\nEl espacio que ofrece la Bodega para el turista es donde elaboran su pisco, vino y también posee una pequeña sala de bienes materiales muebles culturales de la época Ica – Chincha del periodo Intermedio Tardío. El interés Turístico que brinda son las bebidas artesanales y su sala de exhibición de materiales Arqueológicos."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Regular, el mantenimiento del lugar está a cargo de los propietarios."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "En los meses de abril a diciembre permanece cerrado por mantenimiento."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Nacionales\n60\nCarta N°001-2023-SGDE-MDPN\n2023\nRegistro visitantes periodo 2023\nVisitantes Locales(Excursionistas)\n317\nCarta N°001-2023-SGDE-MDPN\n2023\nRegistro visitantes periodo 2023"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nIca/Ica/Ica\n-\nIca/Ica/Pueblo Nuevo\nPlaza de Armas de Ica - Bodega San Inocente\nTerrestre\nAutomóvil particular\nAsfaltado\n9.4 Km. /22 Min.\n1\nIca/Ica/Ica\n-\nIca/Ica/Pueblo Nuevo\nPlaza de Armas de Ica - Bodega San Inocente\nTerrestre\nTaxi\nAsfaltado\n9.4 Km. /22 Min.\n1\nIca/Ica/Ica\n-\nIca/Ica/Pueblo Nuevo\nPlaza de Armas de Ica - Bodega San Inocente\nTerrestre\nCamioneta doble tracción\nAsfaltado\n9.4 Km. / 22 Min.\n1\nIca/Ica/Ica\n-\nIca/Ica/Pueblo Nuevo\nPlaza de Armas de Ica - Bodega San Inocente\nTerrestre\nBus turístico\nAsfaltado\n9.4 Km. / 22 Min.\n1\nIca/Ica/Ica\n-\nIca/Ica/Pueblo Nuevo\nPlaza de Armas de Ica - Bodega San Inocente\nTerrestre\nMini bus turístico\nAsfaltado\n9.4 Km. /22 Min."
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nSemi-restringido(previo permiso)\nPrevia coordinación con el Sr. Ismael Anicama un día antes al cel 951401134"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nEsporádicamente - Algunos meses\n--\n03:00 p.m.\n-\n06:00 p.m.\nEnero a marzo."
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nCultura y Folclore\nDegustación y preparación de platos, productos o bebidas típicas\n--\nOtros\nCompra de productos regionales\nPiscos y vinos."
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\nCiudad de Ica - Hoteles de 1 a 5 estrellas.\nAlimentación\nRestaurantes\nCiudad de Pueblo Nuevo\nAlimentación\nKioskos de comida y bebidas\nCiudad de Pueblo Nuevo\nLugares de Recreación\nJuegos Infantiles\nCiudad de Pueblo Nuevo.\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de Ica.\nLugares de Recreación\nDiscotecas\nCiudad de Ica.\nLugares de Recreación\nCines o Teatros\nCinerama - Ciudad de Ica\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nCiudad de Ica.\nLugares de Recreación\nCentros Deportivos\nCiudad de Pueblo Nuevo.\nLugares de Recreación\nBares\nCiudad de Ica\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Ica.\nOtros Servicios Turísticos\nAlquiler de bicicleta\nCiudad de Ica.\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nCiudad de Ica.\nAlimentación\nBares\nCiudad de Ica.\nAlimentación\nCafeterías\nCiudad de Ica.\nAlimentación\nFuentes de soda\nCiudad de Ica.\nAlimentación\nVenta de comida Rápida\nCiudad de Ica.\nAlimentación\nOtros (Especificar)\nFood Truck - Ciudad de Ica.\nAlojamiento\nHostales (especificar categorías)\nHostales de 1 a 3 estrellas - Ciudad de Ica.\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Ica.\nServicios Públicos\nOficina de Información turística\nCiudad de Ica.\nServicios Públicos\nPuesto de auxilio rápido\nCiudad de Ica.\nServicios Públicos\nOtros (especificar)\nMuseo Regional de Ica - Ciudad de Ica."
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Ica.\nBancos\nBanco Continental, Scotiabank, Interbank, Banco Crédito del Perú, Banco de la Nación, Banco Banbif - Ciudad de Ica.\nCajero automático\nGlobalnet, BCP, BBVA y Multired - Distrito de Ica.\nCasa de cambio\nWester Union y Moneygram - Ciudad de Ica.\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Ica.\nServicio de correos\nSerpost y Olva Courier - Ciudad de Ica.\nServicio de estacionamiento\nCiudad de Ica.\nServicios de taxis\nCiudad de Ica.\nCentro de salud - tópico\nCiudad de Pueblo Nuevo.\nVenta de materiales para fotografías\nCiudad de Ica.\nLibrerías\nCiudad de Ica.\nBodegas o minimarkets\nCiudad de Pueblo Nuevo.\nOtros(especificar)\nCentro comerciales y supermercados - Ciudad de Ica.\nSeguridad / POLTUR / Comisaría\nCiudad de Pueblo Nuevo."
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\n--\nDesagüe\n--\nLuz (Suministro Eléctrico)\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nPueblo de Pueblo Nuevo\nDesagüe\nPueblo de Pueblo Nuevo\nLuz (Suministro Eléctrico)\nPueblo de Pueblo Nuevo\nTeléfono\nPueblo de Pueblo Nuevo\nSeñalización turística\nPueblo de Pueblo Nuevo"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\n--\nPrivado:\nIsmael Anicama Torres\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nAUTOVALU – Cód. Contribuyente 2337\nAdministrador por\nNombre\nIsmael Anicama Torres\nTiempo de administración\nDesde 1986"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo de Ica - DIRCETUR ICA.\nNombre (Persona(s) responsable(s) del inventario turístico):\nLic. Leslie Pilar Jorge Guerra\nCargo:\nProfesional en Turismo\nCorreo:\nservicioturismo@dirceturica.gob.pe\nTeléfono:\n992243714\nFuentes Bibliográfica:\nTurismo Peruano - Bodega Artesanal Vitivinicola San Inocente, s/a Enlace: https://www.turismoperuano.com/bodega-artesanal-vitivinicola-san-inocente-ica\nFelipe Cortázar, Pedro (1988) Documental del Perú: Enciclopedia Nacional Básica. Ediciones Océano S.A.\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n24/11/2023 11:26:21"
+    }
+  ],
+  "coordenadas": {
+    "latitud": null,
+    "longitud": null
+  },
+  "google_maps_url": null
+}

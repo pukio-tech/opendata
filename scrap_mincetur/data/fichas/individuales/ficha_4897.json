@@ -1,0 +1,331 @@
+{
+  "cod_ficha": 4897,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=4897",
+  "nombre": "Museo De Sitio Chotuna - Chornacap",
+  "departamento": "Lambayeque",
+  "provincia": "Lambayeque",
+  "distrito": "LAMBAYEQUE",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Museos y otros",
+  "subtipo": "Museos",
+  "jerarquia": "2",
+  "altitud": "10",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=456757",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=456757",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=553170",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=553171",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=553172",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=553173",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=553125",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=553126"
+  ],
+  "actividades_permitidas": [
+    "Otros - Compras de artesanía/souvenir",
+    "Otros - Toma de fotografías y filmaciones",
+    "Cultura y Folclore - Apreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)",
+    "Cultura y Folclore - Participación y/u observación del proceso de elaboración de productos locales"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Compras de artesanía/souvenir",
+      "observacion": "De acuerdo a la programación de la dirección del Museo",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/artesania02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Apreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)",
+      "observacion": "De acuerdo a la programación de la dirección del Museo.",
+      "icono_url": null
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Participación y/u observación del proceso de elaboración de productos locales",
+      "observacion": "De acuerdo a la programación de la dirección del Museo.",
+      "icono_url": null
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Lambayeque/Chiclayo/Chiclayo - Lambayeque/Lambayeque/Lambayeque",
+      "detalle": "Chiclayo (Vicente de la Vega N° 198 con Av. Jose Leonardo Ortiz) – Lambayeque (Mercado de Lambayeque)",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Combi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "15 km / 25 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Lambayeque/Lambayeque/Lambayeque - Lambayeque/Lambayeque/Lambayeque",
+      "detalle": "Lambayeque (Mercado de Lambayeque) – Caserío Ranchería - Complejo Arqueológico",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mototaxi",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "6.5 km / 15 min."
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Lambayeque/Chiclayo/Chiclayo - Lambayeque/Lambayeque/Lambayeque",
+      "detalle": "Chiclayo - Lambayeque – Nuevo Mocce - Dren 1000",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Combi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "12 km / 20 min."
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Lambayeque/Lambayeque/Lambayeque - Lambayeque/Lambayeque/Lambayeque",
+      "detalle": "Dren 1000 – Colegio Naylamp - Complejo Arqueológico",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mototaxi",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "8 km / 18 min."
+    },
+    {
+      "recorrido": "3",
+      "tramo": "Lambayeque/Chiclayo/Chiclayo - Lambayeque/Lambayeque/San José",
+      "detalle": "Chiclayo - San José - Dren 1000",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Combi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "11 km. / 18 minutos."
+    },
+    {
+      "recorrido": "3",
+      "tramo": "Lambayeque/Lambayeque/San José - Lambayeque/Lambayeque/Lambayeque",
+      "detalle": "Dren 1000 - Colegio Naylamp - Complejo Arqueológico",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mototaxi",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "7 km / 15 minutos"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "82",
+      "horario": "Reporte Proyecto Especial Naylamp - Lambayeque - Unidad Ejecutora 005",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "6222",
+      "horario": "Reporte Proyecto Especial Naylamp - Lambayeque - Unidad Ejecutora 005",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "09:00 a.m. - 04:00 p.m. De lunes a domingo, incluyendo feriados.",
+      "observaciones": "De lunes a domingo, incluyendo feriados."
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "General S/ 8.00 - Estudiantes universitarios o técnica S/ 4.00 - adultos mayores de 60 años, personas en servicio militar voluntario y profesores 50% descuento sobre el valor de la entrada de adultos"
+    },
+    {
+      "tipo": "Libre",
+      "observaciones": "Menores de edad según R.M. N° 000092-2024-MC. - 1er domingo de cada mes, 18 Mayo (Dia Internacional de los Museos), y 19 Setiembre (aniversario del Museo) - En el 2024 personas con discapacidad debida"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Boletería",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "3 y 2** Ciudad de Lambayeque"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "3*** Ciudad de Lambayeque"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Lambayeque"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Lambayeque"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Lambayeque"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Lambayeque"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Lambayeque"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Lambayeque"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de Lambayeque"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Bancos - Cajeros",
+      "observacion": "Ciudad de Lambayeque"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Ciudad de Lambayeque"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicios Higiénicos",
+      "observacion": "Ciudad de Lambayeque"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Inglés y Francés - Ciudad de Lambayeque"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Parte externa del Museo."
+    }
+  ],
+  "descripcion": "Ubicado a 08 km. de Lambayeque, surge como resultado de investigaciones arqueológicas iniciadas en el 2006; abrió sus puertas el 19 de Setiembre del 2009; pertenece al Sistema Nacional de Museos del Estado.\nSu infraestructura rescata la fachada principal del “Templo de los Frisos” del Complejo Chotuna, con temática simbólica de los relieves con las serpientes bicéfalas, fauna terrestre y marítima, que genera en el visitante la impresión de acceder a un templo clásico de la arquitectura prehispánica, produciéndose a partir de este encuentro la revaloración de la tradición arquitectónica del ayer en el presente.\nCuenta con un solo nivel, con una sala amplia dividida en tres secciones distribuidas paralelamente, conectados por espacios paralelos amplios para el recorrido y poder observar los materiales arqueológicos que son parte del mismo complejo, expuestos en las vitrinas empotradas alrededor del museo.\nLa primera sección es un área pequeña donde se muestra 3 vitrinas, (2 empotradas y 1 tipo panel), ofrece una introducción general a la cultura Lambayeque y la importancia del sitio arqueológico Chotuna-Chornancap. La vitrina empotrada del lado derecho, muestra las fotografías con pequeña reseña de los primeros estudios del complejo Chotuna Chornancap, una fotografía ampliada como fondo, de la huaca Chotuna acompañada de un ceramio representativo de la cultura Lambayeque. Paneles informativos, maquetas y mapas que ayudan a los visitantes a ubicarse temporal y geográficamente. También, hay paneles de la ubicación geográfica del sitio que transmiten la cronología de la cultura Lambayeque en el norte del Perú. La segunda vitrina empotrada del lado izquierdo, se visualiza una fotografía ampliada del cuenco de plata, hallada en la tumba de la Sacerdotisa, con muestras de cerámica de la cultura Lambayeque tardío. En la vitrina tipo panel al lado izquierdo de la entrada, se exponen fotografías de la huaca Chornancap y el mural de una de las plazas del sector norte de Chornancap, alusivos a una danza ritual.\nUn panel tipo biombo separa la primera sección con la segunda, en su parte central un calado del cuchillo ceremonial Lambayeque conocido como Tumi, permite visualizar huaca Chotuna. Además, se exhiben cuadros de la reconstrucción de la tumba de la Sacerdotisa e imágenes donde se grafica las exequias del personaje Naylamp.\nLa segunda sección, espacio central delimitado por muros de poca altura, encierran la exposición de la maqueta del sitio arqueológico de Chotuna y en un muro se expone una pintura en óleo de la sacerdotisa de Chornancap (mujer de la élite Lambayeque que vivió entre los años 1250 al 1350 DC) y este delimita la segunda y tercera sección, dejando un espacio amplio en los laterales para el recorrido y poder observar las cuatro vitrinas empotradas, dos al lado derecho que muestran hallazgos realizados en diversas temporadas de investigación en el complejo arqueológico, una presenta una ofrenda de un conjunto de cerámica de los periodos culturales Lambayeque, Chimú, Inca y Colonial. La otra muestra el entierro de un niño sacrificado, acompañado de un camélido bebé. La vitrina central, expone la técnica constructiva de una columna con relieve del frontis principal del templo de los frisos. Vitrinas empotradas del lado izquierdo, evidencia un entierro de un personaje adulto con ofrendas de cerámica asociados al periodo cultual Inca en el complejo arqueológico y la otra muestra una ofrenda de cerámica en miniatura asociada al entierro del sacrificador hallado en Chornancap.\nLa tercera sección expone un ideograma del arribo de Naylamp, con algunos personajes inspirados en la leyenda de Ñaylamp, elaborados a escala natural, en él se observa al personaje principal seguido por su séquito de sirvientes y concubinas. El relato habla de la presencia emblemática de un caudillo conocido como Ñaylamp que arriba a las costas del distrito San José con su séquito y ordena construir un templo al que llamó Chot con su ídolo Yampallec.",
+  "particularidades": "",
+  "estado_actual": "Buen estado, por el mantenimiento periódico que se realiza.",
+  "observaciones": "El Director del Museo es el Arql. Marco Antonio Fernández Manayalle y el encargado de la Museografía o curaduría es el Arqueólogo Samuel Aristóteles Castillo Reyes.\nEsta obra fue construida gracias al valioso aporte de la Municipalidad Provincial de Lambayeque y el Programa Construyendo Perú; la implementación estuvo a cargo del Museo Arqueológico Nacional Brüning, con el financiamiento de la Unidad Ejecutora N° 111 Naylamp – Lambayeque.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Ubicado a 08 km. de Lambayeque, surge como resultado de investigaciones arqueológicas iniciadas en el 2006; abrió sus puertas el 19 de Setiembre del 2009; pertenece al Sistema Nacional de Museos del Estado.\nSu infraestructura rescata la fachada principal del “Templo de los Frisos” del Complejo Chotuna, con temática simbólica de los relieves con las serpientes bicéfalas, fauna terrestre y marítima, que genera en el visitante la impresión de acceder a un templo clásico de la arquitectura prehispánica, produciéndose a partir de este encuentro la revaloración de la tradición arquitectónica del ayer en el presente.\nCuenta con un solo nivel, con una sala amplia dividida en tres secciones distribuidas paralelamente, conectados por espacios paralelos amplios para el recorrido y poder observar los materiales arqueológicos que son parte del mismo complejo, expuestos en las vitrinas empotradas alrededor del museo.\nLa primera sección es un área pequeña donde se muestra 3 vitrinas, (2 empotradas y 1 tipo panel), ofrece una introducción general a la cultura Lambayeque y la importancia del sitio arqueológico Chotuna-Chornancap. La vitrina empotrada del lado derecho, muestra las fotografías con pequeña reseña de los primeros estudios del complejo Chotuna Chornancap, una fotografía ampliada como fondo, de la huaca Chotuna acompañada de un ceramio representativo de la cultura Lambayeque. Paneles informativos, maquetas y mapas que ayudan a los visitantes a ubicarse temporal y geográficamente. También, hay paneles de la ubicación geográfica del sitio que transmiten la cronología de la cultura Lambayeque en el norte del Perú. La segunda vitrina empotrada del lado izquierdo, se visualiza una fotografía ampliada del cuenco de plata, hallada en la tumba de la Sacerdotisa, con muestras de cerámica de la cultura Lambayeque tardío. En la vitrina tipo panel al lado izquierdo de la entrada, se exponen fotografías de la huaca Chornancap y el mural de una de las plazas del sector norte de Chornancap, alusivos a una danza ritual.\nUn panel tipo biombo separa la primera sección con la segunda, en su parte central un calado del cuchillo ceremonial Lambayeque conocido como Tumi, permite visualizar huaca Chotuna. Además, se exhiben cuadros de la reconstrucción de la tumba de la Sacerdotisa e imágenes donde se grafica las exequias del personaje Naylamp.\nLa segunda sección, espacio central delimitado por muros de poca altura, encierran la exposición de la maqueta del sitio arqueológico de Chotuna y en un muro se expone una pintura en óleo de la sacerdotisa de Chornancap (mujer de la élite Lambayeque que vivió entre los años 1250 al 1350 DC) y este delimita la segunda y tercera sección, dejando un espacio amplio en los laterales para el recorrido y poder observar las cuatro vitrinas empotradas, dos al lado derecho que muestran hallazgos realizados en diversas temporadas de investigación en el complejo arqueológico, una presenta una ofrenda de un conjunto de cerámica de los periodos culturales Lambayeque, Chimú, Inca y Colonial. La otra muestra el entierro de un niño sacrificado, acompañado de un camélido bebé. La vitrina central, expone la técnica constructiva de una columna con relieve del frontis principal del templo de los frisos. Vitrinas empotradas del lado izquierdo, evidencia un entierro de un personaje adulto con ofrendas de cerámica asociados al periodo cultual Inca en el complejo arqueológico y la otra muestra una ofrenda de cerámica en miniatura asociada al entierro del sacrificador hallado en Chornancap.\nLa tercera sección expone un ideograma del arribo de Naylamp, con algunos personajes inspirados en la leyenda de Ñaylamp, elaborados a escala natural, en él se observa al personaje principal seguido por su séquito de sirvientes y concubinas. El relato habla de la presencia emblemática de un caudillo conocido como Ñaylamp que arriba a las costas del distrito San José con su séquito y ordena construir un templo al que llamó Chot con su ídolo Yampallec."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Buen estado, por el mantenimiento periódico que se realiza."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "El Director del Museo es el Arql. Marco Antonio Fernández Manayalle y el encargado de la Museografía o curaduría es el Arqueólogo Samuel Aristóteles Castillo Reyes.\nEsta obra fue construida gracias al valioso aporte de la Municipalidad Provincial de Lambayeque y el Programa Construyendo Perú; la implementación estuvo a cargo del Museo Arqueológico Nacional Brüning, con el financiamiento de la Unidad Ejecutora N° 111 Naylamp – Lambayeque."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n82\nReporte Proyecto Especial Naylamp - Lambayeque - Unidad Ejecutora 005\n2023\nValidado por la Dirección de Turismo y Artesanía de la Gercetur Lambayeque.\nTuristas Nacionales\n6222\nReporte Proyecto Especial Naylamp - Lambayeque - Unidad Ejecutora 005\n2023\nValidado por la Dirección de Turismo y Artesanía de la Gercetur Lambayeque."
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nLambayeque/Chiclayo/Chiclayo\n-\nLambayeque/Lambayeque/Lambayeque\nChiclayo (Vicente de la Vega N° 198 con Av. Jose Leonardo Ortiz) – Lambayeque (Mercado de Lambayeque)\nTerrestre\nCombi\nAsfaltado\n15 km / 25 minutos\n1\nLambayeque/Lambayeque/Lambayeque\n-\nLambayeque/Lambayeque/Lambayeque\nLambayeque (Mercado de Lambayeque) – Caserío Ranchería - Complejo Arqueológico\nTerrestre\nMototaxi\nAfirmado\n6.5 km / 15 min.\n2\nLambayeque/Chiclayo/Chiclayo\n-\nLambayeque/Lambayeque/Lambayeque\nChiclayo - Lambayeque – Nuevo Mocce - Dren 1000\nTerrestre\nCombi\nAsfaltado\n12 km / 20 min.\n2\nLambayeque/Lambayeque/Lambayeque\n-\nLambayeque/Lambayeque/Lambayeque\nDren 1000 – Colegio Naylamp - Complejo Arqueológico\nTerrestre\nMototaxi\nAfirmado\n8 km / 18 min.\n3\nLambayeque/Chiclayo/Chiclayo\n-\nLambayeque/Lambayeque/San José\nChiclayo - San José - Dren 1000\nTerrestre\nCombi\nAsfaltado\n11 km. / 18 minutos.\n3\nLambayeque/Lambayeque/San José\n-\nLambayeque/Lambayeque/Lambayeque\nDren 1000 - Colegio Naylamp - Complejo Arqueológico\nTerrestre\nMototaxi\nAfirmado\n7 km / 15 minutos"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nGeneral S/ 8.00 - Estudiantes universitarios o técnica S/ 4.00 - adultos mayores de 60 años, personas en servicio militar voluntario y profesores 50% descuento sobre el valor de la entrada de adultos\nLibre\nMenores de edad según R.M. N° 000092-2024-MC. - 1er domingo de cada mes, 18 Mayo (Dia Internacional de los Museos), y 19 Setiembre (aniversario del Museo) - En el 2024 personas con discapacidad debida"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n09:00 a.m.\n-\n04:00 p.m.\nDe lunes a domingo, incluyendo feriados."
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nCompras de artesanía/souvenir\nDe acuerdo a la programación de la dirección del Museo\nOtros\nToma de fotografías y filmaciones\n--\nCultura y Folclore\nApreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)\nDe acuerdo a la programación de la dirección del Museo.\nCultura y Folclore\nParticipación y/u observación del proceso de elaboración de productos locales\nDe acuerdo a la programación de la dirección del Museo."
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nOtros Servicios Turísticos\nVenta de artesanía\n--\nInstalaciones Públicas\nServicios Públicos\nBoletería\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\n3 y 2** Ciudad de Lambayeque\nAlojamiento\nHostales (especificar categorías)\n3*** Ciudad de Lambayeque\nAlimentación\nRestaurantes\nCiudad de Lambayeque\nAlimentación\nBares\nCiudad de Lambayeque\nAlimentación\nCafeterías\nCiudad de Lambayeque\nAlimentación\nKioskos de comida y bebidas\nCiudad de Lambayeque\nLugares de Recreación\nDiscotecas\nCiudad de Lambayeque\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Lambayeque\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de Lambayeque\nOtros Servicios Turísticos\nBancos - Cajeros\nCiudad de Lambayeque\nServicios Públicos\nOficina de Información turística\nCiudad de Lambayeque\nOtros Servicios Turísticos\nServicios Higiénicos\nCiudad de Lambayeque\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nInglés y Francés - Ciudad de Lambayeque\nServicios Públicos\nEstacionamiento de vehículos\nParte externa del Museo."
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Lambayeque.\nBancos\nCiudad de Lambayeque.\nCajero automático\nCiudad de Lambayeque.\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Lambayeque.\nServicio de estacionamiento\nCiudad de Lambayeque.\nCentro de salud - tópico\nCiudad de Lambayeque.\nSeguridad / POLTUR / Comisaría\nCiudad de Lambayeque.\nAlquiler y compra de equipos deportivos\nCiudad de Lambayeque.\nLibrerías\nCiudad de Lambayeque.\nBodegas o minimarkets\nCiudad de Lambayeque.\nVenta de materiales para fotografías\nCiudad de Lambayeque\nServicios de taxis\nCiudad de Lambayeque"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\n--\nLuz (Suministro Eléctrico)\nGenerada por un motor"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Lambayeque\nAlcantarillado sanitario\nCiudad de Lambayeque\nLuz (Suministro Eléctrico)\nCiudad de Lambayeque\nTeléfono\nCiudad de Lambayeque\nSistemas de tratamiento alternativo de residuos (Biodigestor, pozo séptico, otros)\nCiudad de Lambayeque."
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nMinisterio de Cultura - Unidad Ejecutora 005 Naylamp - Lambayeque\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nResolución Directoral N° 000160-2021-DGPA/MC, Determinan Protección Provisional del Zona Arqueológica Monumental Chotuna; ubicado en distrito, Provincia y departamento Lambayeque\nAdministrador por\nNombre\nMinisterio de Cultura - Unidad Ejecutora 005 Naylamp - Lambayeque\nTiempo de administración\n15 años, desde 2009"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nGerencia Regional de Comercio Exterior y Turismo - LAMBAYEQUE\nNombre (Persona(s) responsable(s) del inventario turístico):\nLIC. MAGALI EXEBIO CABRERA\nCargo:\nTÉCNICO EN TURISMO\nCorreo:\nmagaliexebioc@gmail.com\nTeléfono:\n947672674\nFuentes Bibliográfica:\n- Chotuna – Chornancap “Templos, Riruales y Ancestros Lambayeque” Carlos Eduardo Wester La Torre – Primera edición – agosto 2010\n- Museo de Sitio Huaca Chotuna – Chornancap - Guía de Museos- Ministerio de Cultura - Segunda edición 2012.\n- Complejo Arqueológico y Museo de Sitio Chotuna - Chornancap - Municipalidad Provincial de Lambayeque - 2022.\nMaterial Audiovisual actual del Recurso:\nFOTO, OTROS\nEspecificación:\nFacebook: https://www.facebook.com/museodesitiochotuna\nReferencia de las últimas intervenciones en el Recurso Turístico:\n- Proyecto de investigación arqueológica (2017) “Puesta en Valor del Complejo Arqueológico Chotuna – Chornancap–Lambayeque”\n- Prevención frente a las lluvias del fenómeno YAKU y Fenómeno El Niño 2023\nFecha:\n29/08/2024 14:46:28"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -6.721793017367933,
+    "longitud": -79.95565635945513
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-6.721793017367933,-79.95565635945513"
+}

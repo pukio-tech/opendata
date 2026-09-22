@@ -1,0 +1,368 @@
+{
+  "cod_ficha": 3937,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=3937",
+  "nombre": "Museo Andrés Del Castillo",
+  "departamento": "Lima",
+  "provincia": "Lima",
+  "distrito": "LIMA",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Museos y otros",
+  "subtipo": "Museos",
+  "jerarquia": "2",
+  "altitud": "153",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=558262",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=558262",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=558263",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=558264",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=558206",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=558265",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=558266",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=558267",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=558268",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=558208"
+  ],
+  "actividades_permitidas": [
+    "Otros - Compras de artesanía/souvenir",
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Actividades Culturales",
+    "Otros - Estudios e Investigación",
+    "Otros - Realización de eventos",
+    "Cultura y Folclore - Ferias",
+    "Cultura y Folclore - Apreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Compras de artesanía/souvenir",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/artesania02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Actividades Culturales",
+      "observacion": "Talleres de arte, conservacion y vacaciones útiles.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/act_culturales02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Realización de eventos",
+      "observacion": "Noche de los museos (últimos viernes de cada mes)",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/eventos02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Ferias",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/feria02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Apreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)",
+      "observacion": "--",
+      "icono_url": null
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Lima/Lima/Lima - Lima/Lima/Lima",
+      "detalle": "Plaza Mayor de Lima - Museo Andrés del Castillo",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "850 m / 17 Min."
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "11228",
+      "horario": "Reporte de visitantes del Museo Andrés del Castillo",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "1088",
+      "horario": "Reporte de visitantes del Museo Andrés del Castillo",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "10:00 a.m. - 07:00 p.m. Mayor informacion: museo@mad.com.pe W: 940485380 T: (01)4332831",
+      "observaciones": "Mayor informacion: museo@mad.com.pe W: 940485380 T: (01)4332831"
+    },
+    {
+      "epoca": "Personas con discapacidad física",
+      "especificacion": "Rampas de acceso y servicios higiénicos para personas con discapacidad",
+      "horario": "--",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "a) Extranjeros: S/20, Adulto mayor y estudiantes S/15, Niños y escolares S/5 – b) Nacionales: S/15, Adulto mayor y estudiantes S/10, Niños y escolares S/5"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Alquiler de audioguías Alquiler de espacios para eventos"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Servicio de mediación cultural en inglés y español, previa reserva."
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Otros (especificar)",
+      "observacion": "Servicios higiénicos"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de interpretación",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Boletería",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "1, 2, 3 y 5 estrellas. Cercado de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "1, 2 y 3 estrellas. Cercado de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Cercado de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Cercado de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Cercado de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Cercado de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Cercado de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Peñas",
+      "observacion": "Cercado de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Cines o Teatros",
+      "observacion": "Cercado de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Cercado de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Cercado de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Cercado de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "Cercado de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Cercado de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Museo de Sitio Turísticos",
+      "observacion": "Cercado de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Inglés, francés, portugués e italiano. Cercado de Lima"
+    }
+  ],
+  "descripcion": "Fue inaugurado el 6 de noviembre del año 2008 por el Ing. Guido Del Castillo en memoria de su hijo Andrés, con la misión de dar a conocer la riqueza natural y cultural de nuestro país mediante la exposición de su colección permanente y la ejecución de actividades culturales y artísticas.\nEl Museo Andrés del Castillo conocido como MAD, se ubica en la histórica Casa Belén, protagonista de la historia de la ciudad de Lima a causa de las instituciones y personajes que habitaron en ella.\nEl museo cuenta con 13 salas expositivas donde muestra colecciones y ejemplares singulares de mineralogía, arqueología y arte popular.\nEn 7 salas se muestran más de 3,000 ejemplares de minerales cristalizados provenientes de distintas regiones mineras del Perú, cuidadosamente clasificados según su composición química y particularidades, observándose así elementos nativos, silicatos, sulfuros, sulfatos, fosfatos, wolframatos, haluros, carbonatos, una sala especial de minerales de grandes cristales y una dedicada a los minerales fluorescentes; es decir, minerales que reaccionan al contacto con la luz ultravioleta alterando su apariencia. La pieza más destacada de la colección mineralógica es un cristal octaédrico perfecto, Scheelita, que pertenece a la familia de los wolframatos. Este ejemplar es considerado como uno de los más grandes del mundo, proveniente de la mina Turmalina en Piura, midiendo aproximadamente 16 cm.\nEn las otras seis salas se exhiben colecciones de metales, cerámicas, textiles prehispánicos y arte popular (constituida por el cajón de San Marcos). Cada una de las salas está implementada con códigos QR que ofrecen material informativo de las exposiciones. Además, cuenta con un ambiente de realidad virtual que muestra el funcionamiento de una mina modelo.\nLa conservación y curaduría de las piezas minerales se encuentra a cargo de una especialista en minerales cristalizados del Museo Andrés del Castillo; asi como el mantenimiento de todas sus muestras a cargo de personal capacitado, asegurando su buen estado de conservación.\nEste recurso turístico no pertenece a la Red de Museos del Perú; sin embargo, es parte de la Red de Museos del Centro Históricos de Lima.",
+  "particularidades": "",
+  "estado_actual": "Bueno, porque la edificación y las muestras de exhibición están conservadas. La Asociación Andrés del Castillo se encarga de su mantenimiento constante.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Fue inaugurado el 6 de noviembre del año 2008 por el Ing. Guido Del Castillo en memoria de su hijo Andrés, con la misión de dar a conocer la riqueza natural y cultural de nuestro país mediante la exposición de su colección permanente y la ejecución de actividades culturales y artísticas.\nEl Museo Andrés del Castillo conocido como MAD, se ubica en la histórica Casa Belén, protagonista de la historia de la ciudad de Lima a causa de las instituciones y personajes que habitaron en ella.\nEl museo cuenta con 13 salas expositivas donde muestra colecciones y ejemplares singulares de mineralogía, arqueología y arte popular.\nEn 7 salas se muestran más de 3,000 ejemplares de minerales cristalizados provenientes de distintas regiones mineras del Perú, cuidadosamente clasificados según su composición química y particularidades, observándose así elementos nativos, silicatos, sulfuros, sulfatos, fosfatos, wolframatos, haluros, carbonatos, una sala especial de minerales de grandes cristales y una dedicada a los minerales fluorescentes; es decir, minerales que reaccionan al contacto con la luz ultravioleta alterando su apariencia. La pieza más destacada de la colección mineralógica es un cristal octaédrico perfecto, Scheelita, que pertenece a la familia de los wolframatos. Este ejemplar es considerado como uno de los más grandes del mundo, proveniente de la mina Turmalina en Piura, midiendo aproximadamente 16 cm.\nEn las otras seis salas se exhiben colecciones de metales, cerámicas, textiles prehispánicos y arte popular (constituida por el cajón de San Marcos). Cada una de las salas está implementada con códigos QR que ofrecen material informativo de las exposiciones. Además, cuenta con un ambiente de realidad virtual que muestra el funcionamiento de una mina modelo.\nLa conservación y curaduría de las piezas minerales se encuentra a cargo de una especialista en minerales cristalizados del Museo Andrés del Castillo; asi como el mantenimiento de todas sus muestras a cargo de personal capacitado, asegurando su buen estado de conservación.\nEste recurso turístico no pertenece a la Red de Museos del Perú; sin embargo, es parte de la Red de Museos del Centro Históricos de Lima."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "La edificación fue declarada Patrimonio Cultural de la Nación por Resolución Ministerial 0928-80-ED de fecha 23 de julio de 1980."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, porque la edificación y las muestras de exhibición están conservadas. La Asociación Andrés del Castillo se encarga de su mantenimiento constante."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Nacionales\n11228\nReporte de visitantes del Museo Andrés del Castillo\n2023\nPeriodo de enero a diciembre 2023\nTuristas Extranjeros\n1088\nReporte de visitantes del Museo Andrés del Castillo\n2023\nPeriodo de enero a diciembre 2023"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nLima/Lima/Lima\n-\nLima/Lima/Lima\nPlaza Mayor de Lima - Museo Andrés del Castillo\nTerrestre\nA pie\nAsfaltado\n850 m / 17 Min."
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\na) Extranjeros: S/20, Adulto mayor y estudiantes S/15, Niños y escolares S/5 – b) Nacionales: S/15, Adulto mayor y estudiantes S/10, Niños y escolares S/5"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n10:00 a.m.\n-\n07:00 p.m.\nMayor informacion: museo@mad.com.pe W: 940485380 T: (01)4332831"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nCompras de artesanía/souvenir\n--\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nActividades Culturales\nTalleres de arte, conservacion y vacaciones útiles.\nOtros\nEstudios e Investigación\n--\nOtros\nRealización de eventos\nNoche de los museos (últimos viernes de cada mes)\nCultura y Folclore\nFerias\n--\nCultura y Folclore\nApreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nOtros Servicios Turísticos\nOtros (Especificar)\nAlquiler de audioguías\nAlquiler de espacios para eventos\nInstalaciones Privadas\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nServicio de mediación cultural en inglés y español, previa reserva.\nInstalaciones Públicas\nServicios Públicos\nOtros (especificar)\nServicios higiénicos\nInstalaciones Públicas\nServicios Públicos\nSeñales turísticas de orientación\n--\nInstalaciones Públicas\nServicios Públicos\nSeñales turísticas de interpretación\n--\nInstalaciones Públicas\nServicios Públicos\nBoletería\n--\nInstalaciones Públicas\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\n1, 2, 3 y 5 estrellas. Cercado de Lima\nAlojamiento\nHostales (especificar categorías)\n1, 2 y 3 estrellas. Cercado de Lima\nAlimentación\nRestaurantes\nCercado de Lima\nAlimentación\nBares\nCercado de Lima\nAlimentación\nCafeterías\nCercado de Lima\nAlimentación\nKioskos de comida y bebidas\nCercado de Lima\nAlimentación\nVenta de comida Rápida\nCercado de Lima\nLugares de Recreación\nPeñas\nCercado de Lima\nLugares de Recreación\nCines o Teatros\nCercado de Lima\nLugares de Recreación\nJuegos Infantiles\nCercado de Lima\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nCercado de Lima\nOtros Servicios Turísticos\nAgencia de Viajes\nCercado de Lima\nServicios Públicos\nSeñales turísticas de orientación\nCercado de Lima\nServicios Públicos\nOficina de Información turística\nCercado de Lima\nServicios Públicos\nMuseo de Sitio Turísticos\nCercado de Lima\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nInglés, francés, portugués e italiano. Cercado de Lima"
+    },
+    {
+      "titulo": "Servicios Complementarios dentro del recurso",
+      "contenido": "Servicio Complementario\nObservación\nSeguridad / POLTUR / Comisaría\nPersonal de seguridad privada\nServicios de internet\n--\nLibrerías\n--"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCercado de Lima\nBancos\nCercado de Lima\nCajero automático\nCercado de Lima\nCasa de cambio\nCercado de Lima\nEstación de servicios, grifos, gasolineras y gasocentros\nCercado de Lima\nServicios de taxis\nCercado de Lima\nCentro de salud - tópico\nCercado de Lima\nSeguridad / POLTUR / Comisaría\nCercado de Lima\nLibrerías\nCercado de Lima\nBodegas o minimarkets\nCercado de Lima\nServicio de estacionamiento\nCercado de Lima"
+    },
+    {
+      "titulo": "Condiciones de Accesibilidad al Visitante",
+      "contenido": "Visitante\nInstalación\nActividades y/o programas\nEquipamiento\nObservación\nPersonas con discapacidad física\nRampas de acceso y servicios higiénicos para personas con discapacidad\n--\n--\n--"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\n--\nLuz (Suministro Eléctrico)\n--\nTeléfono\n--\nAlcantarillado sanitario\n--\nSeñalización turística\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCercado de Lima\nLuz (Suministro Eléctrico)\nCercado de Lima\nTeléfono\nCercado de Lima\nSeñalización turística\nCercado de Lima\nAlcantarillado sanitario\nCercado de Lima"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\n--\nPrivado:\nAsociación Andrés del Castillo\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nPartida registral\nNúmero de Partida:\n12070874\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nAsociación Andrés del Castillo\nTiempo de administración\nDesde el año 2008"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nMunicipalidad Metropolitana de Lima\nNombre (Persona(s) responsable(s) del inventario turístico):\nAlex Reaño Torres/Guiliana Prada Caceres\nCargo:\nEspecialista en turismo/Técnico en elaboración de inventarios.\nCorreo:\nalexreanotorres@gmail.com/patricia.prada@munlima.gob.pe\nTeléfono:\n01-6321801\nFuentes Bibliográfica:\n1) Página web del Museo Andrés del Castillo (2024), https://mad.com.pe/\n2) Del Castillo, Guido (2019) Historias de un minero. Primera Edición. Asociación Andrés del Castillo. Lima.\n3) Del Castillo, Guido (2012). Joyas de la tierra. Minerales del Perú. Segunda edición. Asociación Andrés del Castillo. Lima.\n4) Hyršl, Jaroslav; Crowley, Jack A.; Currier, Rock H.; Szenics, Terry (2011) Perú: Paradise of Minerals. Asociación Andrés Del Castillo. Versión inglés.\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n19/09/2024 12:40:35"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -12.052055,
+    "longitud": -77.03594499999997
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-12.052055,-77.03594499999997"
+}

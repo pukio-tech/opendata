@@ -1,0 +1,320 @@
+{
+  "cod_ficha": 219,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=219",
+  "nombre": "Cascada Anana",
+  "departamento": "Pasco",
+  "provincia": "Oxapampa",
+  "distrito": "HUANCABAMBA",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "j. Caídas de agua",
+  "subtipo": "Cascadas",
+  "jerarquia": "1",
+  "altitud": "1959",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=544004",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=544004",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=544032",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=544005",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=544006",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=544007",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=544008",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=544033",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=544039",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=544019"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Deportes acuáticos - Natación",
+    "Deportes acuáticos - Pesca deportiva",
+    "Naturaleza - Observación de flora"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Deportes acuáticos",
+      "tipo": "Natación",
+      "observacion": "En zona permitida",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/natacion02.png"
+    },
+    {
+      "actividad": "Deportes acuáticos",
+      "tipo": "Pesca deportiva",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/pesca_deportiva02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "Palmeras, pinos, plantación de pituca ,crotones, cartuchos, gazanias, pacae, entre otros.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Pasco/Oxapampa/Oxapampa - Pasco/Oxapampa/Huancabamba",
+      "detalle": "Plaza Principal de Oxapampa - Puente Chorobamba de Huancabamba",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "24.7 km / 40 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Pasco/Oxapampa/Huancabamba - Pasco/Oxapampa/Huancabamba",
+      "detalle": "Puente Chorobamba de Huancabamba - Margen izquierda a la Cascada Anana",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "22.05 km / 45 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Pasco/Oxapampa/Huancabamba - Pasco/Oxapampa/Huancabamba",
+      "detalle": "Margen Izquierdo a la Cascada Anana- Boletería para el ingreso a la Cascada Anana",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "20.5 km/42 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Pasco/Oxapampa/Huancabamba - Pasco/Oxapampa/Huancabamba",
+      "detalle": "Boletería para el ingreso a la Cascada Anana- Cascada Anana",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Sendero",
+      "distancia_tiempo": "150 metros/ 3 minutos"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "357",
+      "horario": "Libro de registro de visitantes de la Cascada Anana",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "331",
+      "horario": "Libro de registro de visitantes de la Cascada Anana",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "44",
+      "horario": "Libro de registro de visitantes del recurso turístico Anana",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "08:00 a.m. - 05:00 p.m. De preferencia del mes de abril a octubre (época de menos lluvia)",
+      "observaciones": "De preferencia del mes de abril a octubre (época de menos lluvia)"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "Tarifa : s/. 3.00 adultos s/. 2.00 niños"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Otros(especificar)",
+      "observacion": "Zonas de parrilla, camping, fogata."
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Lugares de picnic",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Previa reservación con el administrador"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Huancabamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Albergues",
+      "observacion": "Ciudad de Huancabamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "De 2 estrellas - Ciudad de Huancabamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "De 1 tenedor - Ciudad de Huancabamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Huancabamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Huancabamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Ciudad de Huancabamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Huancabamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Ciudad de Huancabamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "Ciudad de Huancabamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "Ciudad de Huancabamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Huancabamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Huancabamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Huancabamba"
+    }
+  ],
+  "descripcion": "Ubicada en el distrito de Huancabamba, provincia de Oxapampa, dentro de la región natural Yunga a 1948 m.s.n.m., según la clasificación de Javier Pulgar Vidal, esta cascada posee un clima parcialmente fresco, nublado y húmedo, con temperaturas que oscilan entre 12 °C y 23 °C y frecuentes precipitaciones características de la zona. La cascada tiene una caída de agua de 45 metros de altura y un ancho máximo de 8 metros, según los paneles informativos. Forma una poza profunda de aproximadamente 5 metros, casi cerrada por las rocas, que desemboca en otra poza donde es posible bañarse, preferiblemente en temporada de sol debido a la temperatura y volumen del agua.\nEl agua que abastece a esta hermosa cascada proviene de la quebrada Anana. Sus aguas, de un tono verde oscuro, desembocan en el río Huaylamayo, que confluye con el río Chorobamba para formar el río Huancabamba. La temperatura fría de estas aguas permite la pesca de truchas, lo que atrae a visitantes y pobladores. La cascada Anana es uno de los principales recursos turísticos del distrito de Huancabamba, destacándose por ser la más representativa y acondicionada en su categoría. Además, está rodeada de hermosos paisajes y amplias zonas naturales para actividades recreativas, y se encuentra dentro de la Zona de Desarrollo Turístico Oxapampa Reserva de Biósfera, según el PERTUR Pasco.\nEl interés turístico de la cascada Anana radica en su espectacular belleza natural, la posibilidad de realizar diversas actividades recreativas y su entorno único. Los visitantes pueden disfrutar de la pesca de truchas, nadar en las pozas naturales, hacer caminatas por los senderos naturales y relajarse en un entorno de naturaleza. Además, las instalaciones alrededor de la cascada, que incluyen vestuarios, servicios higiénicos, señalizaciones, zonas de parrilla, áreas para acampar, servicio de venta de truchas, boletería y zonas verdes, hacen que sea un destino cómodo y accesible para disfrutar en compañía de niños, amigos y familiares. También dispone de un restaurante que ofrece servicios de alimentación previa coordinación con el administrador, añadiendo un valor extra a la experiencia turística.",
+  "particularidades": "",
+  "estado_actual": "Bueno, porque los administradores se encargan de mantener, limpio y mejorar las instalaciones y servicios.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Ubicada en el distrito de Huancabamba, provincia de Oxapampa, dentro de la región natural Yunga a 1948 m.s.n.m., según la clasificación de Javier Pulgar Vidal, esta cascada posee un clima parcialmente fresco, nublado y húmedo, con temperaturas que oscilan entre 12 °C y 23 °C y frecuentes precipitaciones características de la zona. La cascada tiene una caída de agua de 45 metros de altura y un ancho máximo de 8 metros, según los paneles informativos. Forma una poza profunda de aproximadamente 5 metros, casi cerrada por las rocas, que desemboca en otra poza donde es posible bañarse, preferiblemente en temporada de sol debido a la temperatura y volumen del agua.\nEl agua que abastece a esta hermosa cascada proviene de la quebrada Anana. Sus aguas, de un tono verde oscuro, desembocan en el río Huaylamayo, que confluye con el río Chorobamba para formar el río Huancabamba. La temperatura fría de estas aguas permite la pesca de truchas, lo que atrae a visitantes y pobladores. La cascada Anana es uno de los principales recursos turísticos del distrito de Huancabamba, destacándose por ser la más representativa y acondicionada en su categoría. Además, está rodeada de hermosos paisajes y amplias zonas naturales para actividades recreativas, y se encuentra dentro de la Zona de Desarrollo Turístico Oxapampa Reserva de Biósfera, según el PERTUR Pasco.\nEl interés turístico de la cascada Anana radica en su espectacular belleza natural, la posibilidad de realizar diversas actividades recreativas y su entorno único. Los visitantes pueden disfrutar de la pesca de truchas, nadar en las pozas naturales, hacer caminatas por los senderos naturales y relajarse en un entorno de naturaleza. Además, las instalaciones alrededor de la cascada, que incluyen vestuarios, servicios higiénicos, señalizaciones, zonas de parrilla, áreas para acampar, servicio de venta de truchas, boletería y zonas verdes, hacen que sea un destino cómodo y accesible para disfrutar en compañía de niños, amigos y familiares. También dispone de un restaurante que ofrece servicios de alimentación previa coordinación con el administrador, añadiendo un valor extra a la experiencia turística."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, porque los administradores se encargan de mantener, limpio y mejorar las instalaciones y servicios."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Nacionales\n357\nLibro de registro de visitantes de la Cascada Anana\n2023\nConsolidado validado por la DIRCETUR Pasco - Zonal Oxapampa\nVisitantes Locales(Excursionistas)\n331\nLibro de registro de visitantes de la Cascada Anana\n2023\nConsolidado validado por la DIRCETUR Pasco - Zonal Oxapampa\nTuristas Extranjeros\n44\nLibro de registro de visitantes del recurso turístico Anana\n2023\nConsolidado validado por la DIRCETUR Pasco - Zonal Oxapampa"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nPasco/Oxapampa/Oxapampa\n-\nPasco/Oxapampa/Huancabamba\nPlaza Principal de Oxapampa - Puente Chorobamba de Huancabamba\nTerrestre\nAutomóvil particular\nAsfaltado\n24.7 km / 40 minutos\n1\nPasco/Oxapampa/Huancabamba\n-\nPasco/Oxapampa/Huancabamba\nPuente Chorobamba de Huancabamba - Margen izquierda a la Cascada Anana\nTerrestre\nAutomóvil particular\nAfirmado\n22.05 km / 45 minutos\n1\nPasco/Oxapampa/Huancabamba\n-\nPasco/Oxapampa/Huancabamba\nMargen Izquierdo a la Cascada Anana- Boletería para el ingreso a la Cascada Anana\nTerrestre\nAutomóvil particular\nAfirmado\n20.5 km/42 min\n1\nPasco/Oxapampa/Huancabamba\n-\nPasco/Oxapampa/Huancabamba\nBoletería para el ingreso a la Cascada Anana- Cascada Anana\nTerrestre\nA pie\nSendero\n150 metros/ 3 minutos"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nTarifa :\ns/. 3.00 adultos s/. 2.00 niños"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n08:00 a.m.\n-\n05:00 p.m.\nDe preferencia del mes de abril a octubre (época de menos lluvia)"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nDeportes acuáticos\nNatación\nEn zona permitida\nDeportes acuáticos\nPesca deportiva\n--\nNaturaleza\nObservación de flora\nPalmeras, pinos, plantación de pituca ,crotones, cartuchos, gazanias, pacae, entre otros."
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nLugares de Recreación\nOtros(especificar)\nZonas de parrilla, camping, fogata.\nInstalaciones Privadas\nLugares de Recreación\nLugares de picnic\n--\nInstalaciones Privadas\nAlimentación\nRestaurantes\nPrevia reservación con el administrador"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Huancabamba\nAlojamiento\nAlbergues\nCiudad de Huancabamba\nAlojamiento\nHostales (especificar categorías)\nDe 2 estrellas - Ciudad de Huancabamba\nAlimentación\nRestaurantes\nDe 1 tenedor - Ciudad de Huancabamba\nAlimentación\nBares\nCiudad de Huancabamba\nAlimentación\nCafeterías\nCiudad de Huancabamba\nAlimentación\nFuentes de soda\nCiudad de Huancabamba\nAlimentación\nKioskos de comida y bebidas\nCiudad de Huancabamba\nServicios Públicos\nEstacionamiento de vehículos\nCiudad de Huancabamba\nServicios Públicos\nSeñales turísticas de orientación\nCiudad de Huancabamba\nServicios Públicos\nCaminos peatonales\nCiudad de Huancabamba\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Huancabamba\nLugares de Recreación\nDiscotecas\nCiudad de Huancabamba\nLugares de Recreación\nBares\nCiudad de Huancabamba"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Huancabamba\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Huancabamba\nServicio de estacionamiento\nCiudad de Huancabamba\nCentro de salud - tópico\nCiudad de Huancabamba\nSeguridad / POLTUR / Comisaría\nCiudad de Huancabamba\nLibrerías\nCiudad de Huancabamba\nBodegas o minimarkets\nCiudad de Huancabamba\nOtros(especificar)\nAgentes bancarios"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nTeléfono\n--\nSistemas de tratamiento alternativo de residuos (Biodigestor, pozo séptico, otros)\n--\nLuz (Suministro Eléctrico)\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Huancabamba\nAlcantarillado sanitario\nCiudad de Huancabamba\nLuz (Suministro Eléctrico)\nCiudad de Huancabamba\nTeléfono\nCiudad de Huancabamba\nSeñalización turística\nCiudad de Huancabamba\nEnergía Alternativa\nCiudad de Huancabamba\nSistemas de tratamiento alternativo de residuos (Biodigestor, pozo séptico, otros)\nCiudad de Huancabamba"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nEstado peruano\nPrivado:\n--\nOtra Situación:\nSe encuentra dentro de la Propiedad del señor Isayas Urbano Ortiz Casimiro con registro en SUNARP N°11024387\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nPartida\nNúmero de Partida:\n11024387\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nIsayas Urbano Ortiz Casimiro\nTiempo de administración\nDesde el año 2014"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo - Zonal Oxapampa\nNombre (Persona(s) responsable(s) del inventario turístico):\nTessy Loren Huamán De La Matta\nCargo:\nTécnica en turismo de la Dirección Zonal Oxapampa\nCorreo:\ncomerioexterioroxapampa@regionpasco.gob.pe\nTeléfono:\n915989848\nFuentes Bibliográfica:\n1) Catarata de Anana por Chullos Travel Perú (portal web), 2023 enlace: https:// https://www.chullostravelperu.com/blog/catarata-de-anana/\n2) La catarata Anana, la colosal caída de agua de la selva central, por Inca Trail guide ( portal web),2023 enlace: https://www.incatrailtomachupicchu.pe/informacion-ubicacion-catarata-anana\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\nImplementación de contenedores de basura, zonas de parilla en el año 2022 por el sr Isayas Urbano Ortiz Casimiro\nFecha:\n13/06/2024 12:13:39"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -10.5824,
+    "longitud": -75.38740000000001
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-10.5824,-75.38740000000001"
+}

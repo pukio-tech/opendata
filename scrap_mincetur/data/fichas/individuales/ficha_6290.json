@@ -1,0 +1,314 @@
+{
+  "cod_ficha": 6290,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=6290",
+  "nombre": "Finca Parcela Reyna Del Bosque",
+  "departamento": "Cajamarca",
+  "provincia": "San Ignacio",
+  "distrito": "SAN IGNACIO",
+  "categoria": "4. REALIZACIONES TÉCNICAS, CIENTÍFICAS Y ARTÍSTICAS CONTEMPORÁNEAS",
+  "tipo": "Explotaciones Industriales",
+  "subtipo": "Otros",
+  "jerarquia": "1",
+  "altitud": "1050 m.s.n.m",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=510699",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=510699",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=510700",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=510930",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=510701",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=510933",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=510934",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=536242",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=536243"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Estudios e Investigación",
+    "Naturaleza - Observación de flora"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "Plantaciones de naranjas, guabas, limas, noni.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Cajamarca/San Ignacio/San Ignacio - Cajamarca/San Ignacio/San Ignacio",
+      "detalle": "Desde la plaza de armas de San Ignacio hasta la Finca Reyna del Bosque",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "8 km./10 minutos"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "15",
+      "horario": "Libro de visita del recurso",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "141",
+      "horario": "Libro de visita del recurso",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "110",
+      "horario": "Libro de visita del recurso",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "- --",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "• Menores de 5 años (gratis) • Niños de 6 a 10 años (3 soles) • Jóvenes de 11 a 17 (5 Soles) • Mayores de 18 años (10 Soles) (Incluye el Servicio de guiado y degustación de productos (cocteles y/o ca"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "El propietario ofrece platos tradicionales de la provincia de San Ignacio"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "Se encuentran hoteles de 1 a 3 estrellas en la Ciudad de San Ignacio."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "San Ignacio, Hostales de 1 a 3 Estrellas."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "San Ignacio"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "San Ignacio"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "San Ignacio"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "San Ignacio"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Bancos - Cajeros",
+      "observacion": "San Ignacio"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Seguridad / POLTUR",
+      "observacion": "San Ignacio"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicios Higiénicos",
+      "observacion": "San Ignacio"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Internet",
+      "observacion": "San Ignacio"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de Material para Fotografía",
+      "observacion": "San Ignacio"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de San Ignacio."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Peñas",
+      "observacion": "Ciudad de San Ignacio."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de San Ignacio."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de camionetas 4 x 4",
+      "observacion": "Ciudad de San Ignacio."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de San Ignacio."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "Ciudad de San Ignacio."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Puesto de auxilio rápido",
+      "observacion": "Ciudad de San Ignacio."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "Ciudad de San Ignacio."
+    }
+  ],
+  "descripcion": "Esta finca, es una empresa que se constituyó en setiembre de 1987, de propiedad del Sr. Eusebio Rosel Nuñez Ocampo, con una extensión de 4 hectáreas de café. Además, se puede encontrar árboles frutales como naranjas, carambola, guabas, limas, granadillas, noni. Entre otros.\nUna de las características de ésta parcela es que se ha convertido en un centro de procesamiento del café, en las que destacan diversos productos derivados del café, así como también productos naturales como la deliciosa miel de abeja propia de la flor del café y las especies de flora que se encuentran en la zona. Asimismo, cuenta con certificaciones por la Junta Nacional del Café y el Sistema Nacional de Evaluación, Acreditación y Certificación de la Calidad Educativa SINEACE, por haber desarrollado la selección de Planta Madre y obtención de semillas de café certificadas; así como importantes reconocimientos a nivel regional. También complementan a las actividades del café, la producción de licores, cocteles y miel de abeja. La empresa registra una demanda de turistas extranjeros, pasantías en su parcela agroforestal sector Timaruca de alumnos de diferentes universidades de Trujillo, visita de cooperativas, asociaciones locales, cooperación de cafetaleros del norte - sede Jaén (CENFROCAFE, APROCASI, Cooperativa de Chirinos, UNICAFEC) El visitante tiene la oportunidad de participar en la cosecha de frutos silvestres y frutas que se encuentran circundando las fincas de café, asimismo disfrutará de la experiencia de aprender el proceso tradicional del apicultor, en donde sacarle miel a los panales, es toda una experiencia de turismo vivencial.",
+  "particularidades": "",
+  "estado_actual": "Bueno, porque el propietario le hace mantenimiento permanente.",
+  "observaciones": "Esta finca, se ubica en el Sector Timaruca en Chililique, en el km. 3.81.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Esta finca, es una empresa que se constituyó en setiembre de 1987, de propiedad del Sr. Eusebio Rosel Nuñez Ocampo, con una extensión de 4 hectáreas de café. Además, se puede encontrar árboles frutales como naranjas, carambola, guabas, limas, granadillas, noni. Entre otros.\nUna de las características de ésta parcela es que se ha convertido en un centro de procesamiento del café, en las que destacan diversos productos derivados del café, así como también productos naturales como la deliciosa miel de abeja propia de la flor del café y las especies de flora que se encuentran en la zona. Asimismo, cuenta con certificaciones por la Junta Nacional del Café y el Sistema Nacional de Evaluación, Acreditación y Certificación de la Calidad Educativa SINEACE, por haber desarrollado la selección de Planta Madre y obtención de semillas de café certificadas; así como importantes reconocimientos a nivel regional. También complementan a las actividades del café, la producción de licores, cocteles y miel de abeja. La empresa registra una demanda de turistas extranjeros, pasantías en su parcela agroforestal sector Timaruca de alumnos de diferentes universidades de Trujillo, visita de cooperativas, asociaciones locales, cooperación de cafetaleros del norte - sede Jaén (CENFROCAFE, APROCASI, Cooperativa de Chirinos, UNICAFEC) El visitante tiene la oportunidad de participar en la cosecha de frutos silvestres y frutas que se encuentran circundando las fincas de café, asimismo disfrutará de la experiencia de aprender el proceso tradicional del apicultor, en donde sacarle miel a los panales, es toda una experiencia de turismo vivencial."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, porque el propietario le hace mantenimiento permanente."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "Esta finca, se ubica en el Sector Timaruca en Chililique, en el km. 3.81."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n15\nLibro de visita del recurso\n2023\nundefined\nTuristas Nacionales\n141\nLibro de visita del recurso\n2023\nVisitantes Locales(Excursionistas)\n110\nLibro de visita del recurso\n2023"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nCajamarca/San Ignacio/San Ignacio\n-\nCajamarca/San Ignacio/San Ignacio\nDesde la plaza de armas de San Ignacio hasta la Finca Reyna del Bosque\nTerrestre\nAutomóvil particular\nAfirmado\n8 km./10 minutos"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\n• Menores de 5 años (gratis)\n• Niños de 6 a 10 años (3 soles)\n• Jóvenes de 11 a 17 (5 Soles)\n• Mayores de 18 años (10 Soles)\n(Incluye el Servicio de guiado y degustación de productos (cocteles y/o ca"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n-\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nEstudios e Investigación\n--\nNaturaleza\nObservación de flora\nPlantaciones de naranjas, guabas, limas, noni."
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nAlimentación\nOtros (Especificar)\nEl propietario ofrece platos tradicionales de la provincia de San Ignacio"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\nSe encuentran hoteles de 1 a 3 estrellas en la Ciudad de San Ignacio.\nAlojamiento\nHostales (especificar categorías)\nSan Ignacio, Hostales de 1 a 3 Estrellas.\nAlimentación\nRestaurantes\nSan Ignacio\nAlimentación\nBares\nSan Ignacio\nAlimentación\nKioskos de comida y bebidas\nSan Ignacio\nOtros Servicios Turísticos\nVenta de artesanía\nSan Ignacio\nOtros Servicios Turísticos\nBancos - Cajeros\nSan Ignacio\nOtros Servicios Turísticos\nSeguridad / POLTUR\nSan Ignacio\nOtros Servicios Turísticos\nServicios Higiénicos\nSan Ignacio\nOtros Servicios Turísticos\nServicio de Internet\nSan Ignacio\nOtros Servicios Turísticos\nVenta de Material para Fotografía\nSan Ignacio\nLugares de Recreación\nDiscotecas\nCiudad de San Ignacio.\nLugares de Recreación\nPeñas\nCiudad de San Ignacio.\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de San Ignacio.\nOtros Servicios Turísticos\nAlquiler de camionetas 4 x 4\nCiudad de San Ignacio.\nAlimentación\nCafeterías\nCiudad de San Ignacio.\nServicios Públicos\nSeñales turísticas de orientación\nCiudad de San Ignacio.\nServicios Públicos\nPuesto de auxilio rápido\nCiudad de San Ignacio.\nServicios Públicos\nCaminos peatonales\nCiudad de San Ignacio."
+    },
+    {
+      "titulo": "Servicios Complementarios dentro del recurso",
+      "contenido": "Servicio Complementario\nObservación\nServicios de internet\n--"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de San Ignacio.\nBancos\nCiudad de San Ignacio.\nCajero automático\nCiudad de San Ignacio.\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de San Ignacio.\nServicio de estacionamiento\nCiudad de San Ignacio.\nCentro de salud - tópico\nCiudad de San Ignacio.\nSeguridad / POLTUR / Comisaría\nCiudad de San Ignacio.\nLibrerías\nCiudad de San Ignacio.\nBodegas o minimarkets\nCiudad de San Ignacio."
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nEn las viviendas de la Finca\nSeñalización turística\nEn toda la Finca\nLuz (Suministro Eléctrico)\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nSan Ignacio\nAlcantarillado sanitario\nSan Ignacio\nDesagüe\nSan ignacio\nLuz (Suministro Eléctrico)\nSan Ignacio\nTeléfono\nSan Ignacio\nOtros (Especificar)\nPuesto de Salud, Puesto Policial\nSeñalización turística\nCiudad de San Ignacio."
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\n--\nPrivado:\nEusebio Rosell Nuñez Ocampos\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n24545\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nEusebio Rosell Nuñez Ocampos\nTiempo de administración\nDesde el año 2016 - 8 años"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDIRCETUR CAJAMARCA\nNombre (Persona(s) responsable(s) del inventario turístico):\nLIC. ESPERANZA ESCOBAR PORTAL\nCargo:\nTECNICO EN TURISMO I\nCorreo:\nmescobar@regioncajamarca.gob.pe\nTeléfono:\n962690326\nFuentes Bibliográfica:\nINVENTARIO DE RECURSOS TURÍSTICOS DE LA PROVINCIA DE SAN IGNACIO 2014 - DIRECCIÓN ZONAL DE COMERCIO EXTERIOR Y TURISMO JAEN - SAN IGNACIO.\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n21/05/2024 11:04:03"
+    }
+  ],
+  "coordenadas": {
+    "latitud": null,
+    "longitud": null
+  },
+  "google_maps_url": null
+}

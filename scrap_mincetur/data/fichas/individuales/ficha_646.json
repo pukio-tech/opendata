@@ -1,0 +1,281 @@
+{
+  "cod_ficha": 646,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=646",
+  "nombre": "Granja Porcón",
+  "departamento": "Cajamarca",
+  "provincia": "Cajamarca",
+  "distrito": "CAJAMARCA",
+  "categoria": "4. REALIZACIONES TÉCNICAS, CIENTÍFICAS Y ARTÍSTICAS CONTEMPORÁNEAS",
+  "tipo": "Explotaciones Agropecuarias y Pesqueras",
+  "subtipo": "Granadería",
+  "jerarquia": "3",
+  "altitud": "3800",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=292282",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=292282",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=292283",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=292287",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=292348",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=536432",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=536486",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=536487",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=536433"
+  ],
+  "actividades_permitidas": [
+    "Otros - Compras de artesanía/souvenir",
+    "Otros - Toma de fotografías y filmaciones",
+    "Paseos - Excursiones",
+    "Otros - Actividades Culturales",
+    "Naturaleza - Observación de flora",
+    "Deportes / Aventura - Ciclismo",
+    "Paseos - Paseos a caballo"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Compras de artesanía/souvenir",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/artesania02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Paseos",
+      "tipo": "Excursiones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/excursiones02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Actividades Culturales",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/act_culturales02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "Quinuales, Pino Radiata,",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Ciclismo",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/ciclismo02.png"
+    },
+    {
+      "actividad": "Paseos",
+      "tipo": "Paseos a caballo",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paseo_caballo02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Cajamarca/Cajamarca/Cajamarca - Cajamarca/Cajamarca/Cajamarca",
+      "detalle": "Desde Plaza de Armas de Cajamarca - Granja Porcón",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus turístico",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "30 km/1 hora"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Cajamarca/Cajamarca/Cajamarca - Cajamarca/Cajamarca/Cajamarca",
+      "detalle": "Desde la Plaza de Armas de Cajamarca - Granja Porcón",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "30 km/ 1.30 minutos"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "100000",
+      "horario": "LIbro registro Grnaja Porcón",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "1143",
+      "horario": "Libro de registro Grnaja Porcón",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "76508",
+      "horario": "Libro de registro Granja Porcón",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "07:00 a.m. - 05:00 p.m. --",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "adultos: S/.10.00 niños 5.00"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Casa de Hospedaje",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de Caballos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Oficina de Información",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "Hostales de 1 a 3 Estrellas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Cajamarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Cajamarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "Hoteles de 1 a 4 Estrellas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "En la ciudad de Cajamarca"
+    }
+  ],
+  "descripcion": "Su importancia radica en el hecho de que constituye una exitosa experiencia de cooperativismo que se tiene en el Perú. Han desarrollado en los últimos 25 años un proyecto de forestación con más de 10 000 hás. de plantaciones de especies exóticas de pinos que han logrado beneficios climáticos, donde antes eran paisajes desolados. Se trata de uno de los pocos bosques trabajados de pinos de la variedad radiata, ubicados entre los 2,800 a 3,600 metros de altitud; como consecuencia se han convertido en hábitat para la fauna y flora; Cabe resaltar la crianza de auquénidos: alpacas y vicuñas, lo que permite el desarrollo de la artesanía textil.\nTambién cuentan con un zoológico, piscigranjas, producción -venta de artesanía y de productos lácteos.\nRecientemente, por las condiciones favorables del bosque se ha desarrollado una especie de hongos gigantes comestibles, los mismos que están siendo comercializados por su delicioso sabor en la gastronomía.\nEste manejo en la Granja Porcón ha generado actividades empresariales forestales, agrícolas y ganaderas, incluyendo la actividad turística, mejorando la calidad de vida de los pobladores involucrados.\nEl visitante nacional y extranjero puede disfrutar de experiencias inolvidables participando en todas las actividades que se desarrollan en la Granja.\nEn Granja Porcón se han definido 3 circuitos de turismo vivencial, ecológico y cultural. El camino o tramo de la Florista, el camino al Puente Inca y el camino de las vicuñas. La Granja también cuenta con restaurante y albergues de 15 habitaciones dobles con chimenea, baño propio, agua caliente y vista parnorámica a los paisajes que rodean la comunidad.\nLa experiencia en este recurso es un ejemplo de manejo sostenible.",
+  "particularidades": "La Granja Porcón, es la única comunidad en el norte del país, que ha diversificado las actividades económicas rurales (Agropecuarias, ganadera, forestal, pesquera, turística, artesanal), generando una diversificación de agrupaciones de edificaciones de viviendas, públicas y de producción.",
+  "estado_actual": "Bueno, por el mantenimiento constante que brinda la Comunidad de la Granja Porcón.",
+  "observaciones": "Esta Cooperativa Agraria dista a 30 Km. de la ciudad de Cajamarca, ubicada al norte de la misma a una altura de 3,400 m.s.n.m. Se recomienda llevar ropa apropiada para protegerse del frío.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Su importancia radica en el hecho de que constituye una exitosa experiencia de cooperativismo que se tiene en el Perú. Han desarrollado en los últimos 25 años un proyecto de forestación con más de 10 000 hás. de plantaciones de especies exóticas de pinos que han logrado beneficios climáticos, donde antes eran paisajes desolados. Se trata de uno de los pocos bosques trabajados de pinos de la variedad radiata, ubicados entre los 2,800 a 3,600 metros de altitud; como consecuencia se han convertido en hábitat para la fauna y flora; Cabe resaltar la crianza de auquénidos: alpacas y vicuñas, lo que permite el desarrollo de la artesanía textil.\nTambién cuentan con un zoológico, piscigranjas, producción -venta de artesanía y de productos lácteos.\nRecientemente, por las condiciones favorables del bosque se ha desarrollado una especie de hongos gigantes comestibles, los mismos que están siendo comercializados por su delicioso sabor en la gastronomía.\nEste manejo en la Granja Porcón ha generado actividades empresariales forestales, agrícolas y ganaderas, incluyendo la actividad turística, mejorando la calidad de vida de los pobladores involucrados.\nEl visitante nacional y extranjero puede disfrutar de experiencias inolvidables participando en todas las actividades que se desarrollan en la Granja.\nEn Granja Porcón se han definido 3 circuitos de turismo vivencial, ecológico y cultural. El camino o tramo de la Florista, el camino al Puente Inca y el camino de las vicuñas. La Granja también cuenta con restaurante y albergues de 15 habitaciones dobles con chimenea, baño propio, agua caliente y vista parnorámica a los paisajes que rodean la comunidad.\nLa experiencia en este recurso es un ejemplo de manejo sostenible."
+    },
+    {
+      "titulo": "Particularidades",
+      "contenido": "La Granja Porcón, es la única comunidad en el norte del país, que ha diversificado las actividades económicas rurales (Agropecuarias, ganadera, forestal, pesquera, turística, artesanal), generando una diversificación de agrupaciones de edificaciones de viviendas, públicas y de producción."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, por el mantenimiento constante que brinda la Comunidad de la Granja Porcón."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "Esta Cooperativa Agraria dista a 30 Km. de la ciudad de Cajamarca, ubicada al norte de la misma a una altura de 3,400 m.s.n.m. Se recomienda llevar ropa apropiada para protegerse del frío."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nVisitantes Locales(Excursionistas)\n100000\nLIbro registro Grnaja Porcón\n2023\nDatos obtenidos del libro de registro de turistas de la Oficina de Información turística de Grnaja Porcón.\nTuristas Extranjeros\n1143\nLibro de registro Grnaja Porcón\n2023\nDatos obtenidos del libro de registro de la Oficina de Información Turística Granja Porcón\nTuristas Nacionales\n76508\nLibro de registro Granja Porcón\n2023\nLibro de registro de la Oficina de Información Turística Granja Porcón"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nCajamarca/Cajamarca/Cajamarca\n-\nCajamarca/Cajamarca/Cajamarca\nDesde Plaza de Armas de Cajamarca - Granja Porcón\nTerrestre\nBus turístico\nAsfaltado\n30 km/1 hora\n1\nCajamarca/Cajamarca/Cajamarca\n-\nCajamarca/Cajamarca/Cajamarca\nDesde la Plaza de Armas de Cajamarca - Granja Porcón\nTerrestre\nAutomóvil particular\nAsfaltado\n30 km/ 1.30 minutos"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nadultos: S/.10.00\nniños 5.00"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n07:00 a.m.\n-\n05:00 p.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nCompras de artesanía/souvenir\n--\nOtros\nToma de fotografías y filmaciones\n--\nPaseos\nExcursiones\n--\nOtros\nActividades Culturales\n--\nNaturaleza\nObservación de flora\nQuinuales, Pino Radiata,\nDeportes / Aventura\nCiclismo\n--\nPaseos\nPaseos a caballo\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nAlojamiento\nCasa de Hospedaje\n--\nInstalaciones Privadas\nAlimentación\nRestaurantes\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nAlquiler de Caballos\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nOficina de Información\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHostales (especificar categorías)\nHostales de 1 a 3 Estrellas\nAlimentación\nRestaurantes\nCiudad de Cajamarca\nLugares de Recreación\nDiscotecas\nCiudad de Cajamarca\nAlojamiento\nHoteles (especificar categorías)\nHoteles de 1 a 4 Estrellas\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nEn la ciudad de Cajamarca"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad Cajamarca\nBancos\nCiudad Cajamarca\nCajero automático\nCiudad Cajamarca\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad Cajamarca\nCentro de salud - tópico\nCiudad Cajamarca\nSeguridad / POLTUR / Comisaría\nCiudad Cajamarca"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nDentro de la cooperativa\nDesagüe\nDentro de la cooperativa\nLuz (Suministro Eléctrico)\nDentro de la cooperativa\nTeléfono\nDentro de la cooperativa"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCentro Poblado de Huanbocancha\nDesagüe\nCentro Poblado de Huanbocancha\nLuz (Suministro Eléctrico)\nCentro Poblado de Huanbocancha"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\n--\nPrivado:\nCooperativa Agraria Atahualpa Jerusalén de Trabajadores LTda.\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nTITULO\nNúmero de Partida:\n201901853276\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nVenta de Jose Cruz Zambrano Chuquimango a favor de Alejandro Zambrano Chilón y María Felicita Zambrano Chilón y María Rosalia Zambrano Chilón\nAdministrador por\nNombre\nCOOPERATIVA AGRARIA ATAHUALPA JERUSALEN DE TRABAJADORES LTDA.\nTiempo de administración\nAÑO 2019"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDIRCETUR CAJAMARCA\nNombre (Persona(s) responsable(s) del inventario turístico):\nESPERANZA ESCOBAR PORTAL\nCargo:\nTECNICO EN TURISMO I\nCorreo:\nmescobar@regioncajamarca.gob.pe\nTeléfono:\n962690326\nFuentes Bibliográfica:\nINVENTARIO TURISTICO DE CAJAMARCA, DIRECCIÓN REGIONAL DE COMERCIO EXTERIOR Y TURISMO.REVISTAS.PUCP.EDU.PE/INDEX.PHP/INVESTIGATERRITORIOS/ARTICLE/DOWNLOAD/13976/14598\nMaterial Audiovisual actual del Recurso:\nFOTO, VIDEOS\nEspecificación:\nMATERIAL AUDIOVISUAL DE PROPIEDAD DE LA COOPERATIVA\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n17/05/2024 17:02:04"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -7.060221068105678,
+    "longitud": -78.63816261291504
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-7.060221068105678,-78.63816261291504"
+}

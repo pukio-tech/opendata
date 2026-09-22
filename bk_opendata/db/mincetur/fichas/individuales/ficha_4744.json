@@ -1,0 +1,270 @@
+{
+  "cod_ficha": 4744,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=4744",
+  "nombre": "Anfiteatro De Occolle",
+  "departamento": "Arequipa",
+  "provincia": "Caylloma",
+  "distrito": "YANQUE",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Sitios Arqueológicos",
+  "subtipo": "Andenes",
+  "jerarquia": "2",
+  "altitud": "3417 m.s.n.m",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=495214",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=495214",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=495267",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=495268",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=568766"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Estudios e Investigación",
+    "Naturaleza - Observación de paisaje",
+    "Cultura y Folclore - Rituales místicos o tradicionales",
+    "Deportes / Aventura - Caminata/Trekking"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Rituales místicos o tradicionales",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/rituales_misticos02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "Caminata desde Plaza de Armas de Yanque – Anfiteatro de Occolle, 2.6 km /35min.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Arequipa/Arequipa/Arequipa - Arequipa/Caylloma/Chivay",
+      "detalle": "Terminal terrestre de Arequipa - terminal de Chivay",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "167 km. / 3 hrs."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Arequipa/Caylloma/Chivay - Arequipa/Caylloma/Yanque",
+      "detalle": "Terminal de Chivay - plaza principal de Yanque",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "7.8 km. / 12 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Arequipa/Caylloma/Yanque - Arequipa/Caylloma/Yanque",
+      "detalle": "Plaza principal de Yanque - Anfiteatro de Occolle",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "2.6 km /35min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "655",
+      "horario": "infocultura.cultura.pe",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "07:00 a.m. - 04:00 p.m. --",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "2, 3 y 4* - pueblo de Yanque"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "2* - pueblo de Yanque"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Casas vivenciales del Programa de Turismo Rural Comunitario - pueblo de Yanque"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Pueblo de Yanque"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Pueblo de Yanque"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Pueblo de Yanque"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de bicicleta",
+      "observacion": "Pueblo de Yanque"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de botes",
+      "observacion": "Pueblo de Yanque"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Museo de Sitio Turísticos",
+      "observacion": "Pueblo de Yanque"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Inglés, francés - pueblo de Yanque"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Albergues",
+      "observacion": "Pueblo de Yanque"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "Pueblo de Yanque"
+    }
+  ],
+  "descripcion": "El Anfiteatro de Occolle, también conocido como el \"Coliseo de los Incas\", es un sitio arqueológico situado en el distrito de Yanque, en la provincia de Caylloma, departamento de Arequipa, Perú. Este complejo arqueológico es atribuido a la cultura Collagua y destaca por su diseño semicircular, compuesto por andenes de 1.5 a 2 metros de altura en promedio, que se adaptan a la topografía natural del terreno. Estas estructuras siguen un patrón concéntrico en una ladera de aproximadamente 60 metros de diámetro, optimizando el uso del espacio y permitiendo la creación de microclimas para actividades agrícolas.\nLos andenes semicirculares fueron diseñados con alta precisión para captar y distribuir la radiación solar de manera uniforme, lo que permitía el cultivo de especies vegetales adaptadas a diferentes niveles de exposición y temperatura. Este diseño no solo optimizaba la producción agrícola, sino que también protegía a los cultivos de las heladas, un desafío constante en las regiones altoandinas. Según los estudios arqueológicos, estos andenes fueron construidos con una base de piedras medianas y un núcleo de tierra compactada, asegurando la estabilidad y longevidad de las terrazas frente a la erosión.\nEl sistema hidráulico del Anfiteatro de Occolle es una de sus características más destacadas, compuesto por canales de irrigación perimetrales y reservorios integrados a la estructura. Los canales, que miden entre 0.5 y 0.8 metros de ancho, permitían captar agua de fuentes cercanas, distribuyéndola de manera eficiente a través de un sistema de pendiente controlada. Este diseño garantizaba una irrigación uniforme y continua, incluso durante las estaciones más secas, y refleja el avanzado conocimiento de los Collaguas sobre la gestión del agua en zonas áridas.\nEn términos de funcionalidad, el anfiteatro no solo servía como espacio agrícola, sino también como un laboratorio experimental para la domesticación y mejora de cultivos. Las condiciones generadas en sus microclimas habrían permitido a los Collaguas observar y seleccionar las especies vegetales más adecuadas para su entorno. Entre los restos materiales encontrados se incluyen fragmentos de herramientas agrícolas y cerámicas decoradas, que sugieren un uso intensivo del espacio para actividades cotidianas y ceremoniales.\nActualmente, el Anfiteatro de Occolle (andenería de Yanque), se encuentra en un estado de conservación aceptable, aunque enfrenta desafíos debido a factores climáticos y al impacto humano. Estudios recientes recomiendan implementar medidas de preservación que incluyan la restauración de los canales hidráulicos y la protección contra la erosión para garantizar la integridad del sitio. Este espacio arqueológico no solo es un testimonio del ingenio técnico de la cultura Collagua, sino que también representa un recurso invaluable para la investigación arqueológica y un atractivo turístico destacado dentro del Valle del Colca.",
+  "particularidades": "",
+  "estado_actual": "Se encuentra en buen estado de conservación, la población local sigue operando las terrazas para sembrar cultivos como trigo, cebada, papas, maíz, y quinua.",
+  "observaciones": "El anfiteatro de Occolle esta integrado por terrenos de 52 familias .",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "El Anfiteatro de Occolle, también conocido como el \"Coliseo de los Incas\", es un sitio arqueológico situado en el distrito de Yanque, en la provincia de Caylloma, departamento de Arequipa, Perú. Este complejo arqueológico es atribuido a la cultura Collagua y destaca por su diseño semicircular, compuesto por andenes de 1.5 a 2 metros de altura en promedio, que se adaptan a la topografía natural del terreno. Estas estructuras siguen un patrón concéntrico en una ladera de aproximadamente 60 metros de diámetro, optimizando el uso del espacio y permitiendo la creación de microclimas para actividades agrícolas.\nLos andenes semicirculares fueron diseñados con alta precisión para captar y distribuir la radiación solar de manera uniforme, lo que permitía el cultivo de especies vegetales adaptadas a diferentes niveles de exposición y temperatura. Este diseño no solo optimizaba la producción agrícola, sino que también protegía a los cultivos de las heladas, un desafío constante en las regiones altoandinas. Según los estudios arqueológicos, estos andenes fueron construidos con una base de piedras medianas y un núcleo de tierra compactada, asegurando la estabilidad y longevidad de las terrazas frente a la erosión.\nEl sistema hidráulico del Anfiteatro de Occolle es una de sus características más destacadas, compuesto por canales de irrigación perimetrales y reservorios integrados a la estructura. Los canales, que miden entre 0.5 y 0.8 metros de ancho, permitían captar agua de fuentes cercanas, distribuyéndola de manera eficiente a través de un sistema de pendiente controlada. Este diseño garantizaba una irrigación uniforme y continua, incluso durante las estaciones más secas, y refleja el avanzado conocimiento de los Collaguas sobre la gestión del agua en zonas áridas.\nEn términos de funcionalidad, el anfiteatro no solo servía como espacio agrícola, sino también como un laboratorio experimental para la domesticación y mejora de cultivos. Las condiciones generadas en sus microclimas habrían permitido a los Collaguas observar y seleccionar las especies vegetales más adecuadas para su entorno. Entre los restos materiales encontrados se incluyen fragmentos de herramientas agrícolas y cerámicas decoradas, que sugieren un uso intensivo del espacio para actividades cotidianas y ceremoniales.\nActualmente, el Anfiteatro de Occolle (andenería de Yanque), se encuentra en un estado de conservación aceptable, aunque enfrenta desafíos debido a factores climáticos y al impacto humano. Estudios recientes recomiendan implementar medidas de preservación que incluyan la restauración de los canales hidráulicos y la protección contra la erosión para garantizar la integridad del sitio. Este espacio arqueológico no solo es un testimonio del ingenio técnico de la cultura Collagua, sino que también representa un recurso invaluable para la investigación arqueológica y un atractivo turístico destacado dentro del Valle del Colca."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "Declarada Patrimonio Cultural de la Nación, la andenería comprendida en las localidades de Tuti, Chivay, Coporaque, Yanque (Anfiteatro de Occolle), Ichupampa, Achoma, Lari, Maca, Madrigal, Tapay y Cabanaconde, según Resolución Directoral Nacional N° 262/INC"
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Se encuentra en buen estado de conservación, la población local sigue operando las terrazas para sembrar cultivos como trigo, cebada, papas, maíz, y quinua."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "El anfiteatro de Occolle esta integrado por terrenos de 52 familias ."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Nacionales\n655\ninfocultura.cultura.pe\n2023\nSe ha considerado las mismas cifras de visitantes que el Complejo Arqueológico de Uyo Uyo, ya que la visita al Anfiteatro de Occolle forma parte del recorrido turístico que se realiza para visitar el Complejo Arqueológico de Uyo Uyo."
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nArequipa/Arequipa/Arequipa\n-\nArequipa/Caylloma/Chivay\nTerminal terrestre de Arequipa - terminal de Chivay\nTerrestre\nBus público\nAsfaltado\n167 km. / 3 hrs.\n1\nArequipa/Caylloma/Chivay\n-\nArequipa/Caylloma/Yanque\nTerminal de Chivay - plaza principal de Yanque\nTerrestre\nBus público\nAsfaltado\n7.8 km. / 12 min.\n1\nArequipa/Caylloma/Yanque\n-\nArequipa/Caylloma/Yanque\nPlaza principal de Yanque - Anfiteatro de Occolle\nTerrestre\nA pie\nTrocha carrozable\n2.6 km /35min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n07:00 a.m.\n-\n04:00 p.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nEstudios e Investigación\n--\nNaturaleza\nObservación de paisaje\n--\nCultura y Folclore\nRituales místicos o tradicionales\n--\nDeportes / Aventura\nCaminata/Trekking\nCaminata desde Plaza de Armas de Yanque – Anfiteatro de Occolle, 2.6 km /35min."
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\n2, 3 y 4* - pueblo de Yanque\nAlojamiento\nHostales (especificar categorías)\n2* - pueblo de Yanque\nAlojamiento\nOtros (Especificar)\nCasas vivenciales del Programa de Turismo Rural Comunitario - pueblo de Yanque\nAlimentación\nRestaurantes\nPueblo de Yanque\nAlimentación\nKioskos de comida y bebidas\nPueblo de Yanque\nOtros Servicios Turísticos\nVenta de artesanía\nPueblo de Yanque\nOtros Servicios Turísticos\nAlquiler de bicicleta\nPueblo de Yanque\nOtros Servicios Turísticos\nAlquiler de botes\nPueblo de Yanque\nServicios Públicos\nMuseo de Sitio Turísticos\nPueblo de Yanque\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nInglés, francés - pueblo de Yanque\nAlojamiento\nAlbergues\nPueblo de Yanque\nServicios Públicos\nSeñales turísticas de orientación\nPueblo de Yanque"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nEstación de servicios, grifos, gasolineras y gasocentros\nPueblo de Yanque\nServicios de taxis\nPueblo de Yanque\nCentro de salud - tópico\nPueblo de Yanque\nBodegas o minimarkets\nPueblo de Yanque"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nSeñalización turística\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nPueblo de Yanque\nLuz (Suministro Eléctrico)\nPueblo de Yanque\nTeléfono\nPueblo de Yanque\nOtros (Especificar)\nTelevisión Satelital - pueblo de Yanque\nAlcantarillado sanitario\nPueblo de Yanque"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\n--\nPrivado:\nComunidad Campesina de Urinsaya\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nLey N° 24656, Ley de Comunidades Campesinas\nAdministrador por\nNombre\nComunidad Campesina de Urinsaya\nTiempo de administración\nDesde el año 1987"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nGerencia Regional de Comercio Exterior y Turismo de Arequipa\nNombre (Persona(s) responsable(s) del inventario turístico):\nLic. Claudia Barrios Cacya\nCargo:\nEspecilista en Turismo\nCorreo:\ncbarrios@correo.regionarequipa.gob.pe\nTeléfono:\n98809975\nFuentes Bibliográfica:\nInventario de Recursos Turísticos AUTOCOLCA. AUTOCOLCA - marzo 2009\nPlan de Desarrollo Turístico Local de Yanque PDTL 2021-2025. Municipalidad distrital de Yanque 2022\nMaterial Audiovisual actual del Recurso:\nFOTO, OTROS\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n2/12/2024 19:28:06"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -15.645445,
+    "longitud": -71.65966300000002
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-15.645445,-71.65966300000002"
+}

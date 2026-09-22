@@ -1,0 +1,547 @@
+{
+  "cod_ficha": 2493,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=2493",
+  "nombre": "Pueblo De Oxapampa",
+  "departamento": "Pasco",
+  "provincia": "Oxapampa",
+  "distrito": "OXAPAMPA",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Pueblos",
+  "subtipo": "Tradicionales",
+  "jerarquia": "2",
+  "altitud": "1812",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=537816",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=537816",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=537817",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=537819",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=537822",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=537823",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=537824",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=537871",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=537872",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=537827",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=537828",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=537877"
+  ],
+  "actividades_permitidas": [
+    "Otros - Compras de artesanía/souvenir",
+    "Otros - Toma de fotografías y filmaciones",
+    "Cultura y Folclore - Actividades Religiosas o Patronales",
+    "Naturaleza - Observación de paisaje",
+    "Cultura y Folclore - Ferias",
+    "Paseos - Paseos en bicicleta",
+    "Cultura y Folclore - Apreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)",
+    "Cultura y Folclore - Participación y/u observación del proceso de elaboración de productos locales",
+    "Otros - Compra de productos regionales"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Compras de artesanía/souvenir",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/artesania02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Actividades Religiosas o Patronales",
+      "observacion": "Fiesta de fundación y Fiesta Patronal 30 de agosto",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/act_religiosas02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Ferias",
+      "observacion": "Venta de artesania y productos agroindustriales en fechas festivas y feriados largos.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/feria02.png"
+    },
+    {
+      "actividad": "Paseos",
+      "tipo": "Paseos en bicicleta",
+      "observacion": "City tour",
+      "icono_url": null
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Apreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)",
+      "observacion": "--",
+      "icono_url": null
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Participación y/u observación del proceso de elaboración de productos locales",
+      "observacion": "--",
+      "icono_url": null
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Compra de productos regionales",
+      "observacion": "--",
+      "icono_url": null
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Pasco/Oxapampa/Oxapampa - Pasco/Oxapampa/Oxapampa",
+      "detalle": "Terminal Terrestre de Oxapampa - Plaza principal de Oxapampa",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mototaxi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "1 Km / 4 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Pasco/Oxapampa/Oxapampa - Pasco/Oxapampa/Oxapampa",
+      "detalle": "Terminal Terrestre de Oxapampa - Plaza principal de Oxapampa",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "1 Km / 15 min."
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "1215",
+      "horario": "Indicador de Ocupabilidad mensual de establecimientos de Hospedaje -MINCETUR",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "110593",
+      "horario": "Indicador de Ocupabilidad mensual de establecimientos de Hospedaje -MINCETUR",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "06:00 a.m. - 10:00 p.m. Llevar ropa ligera para el día y algo abrigador para la noche ya que las temperaturas pueden bajar considerablemente, Impermeable, bloqueador, gorro y repelente.",
+      "observaciones": "Llevar ropa ligera para el día y algo abrigador para la noche ya que las temperaturas pueden bajar considerablemente, Impermeable, bloqueador, gorro y repelente."
+    },
+    {
+      "epoca": "Personas con discapacidad física",
+      "especificacion": "Rampas en las calles principales y plaza principal",
+      "horario": "--",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "De 2 y 3 estrellas."
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "De 2 estrellas"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "De 1 y 2 tenedores"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Español"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de bicicleta",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Alquiler de cuatrimotos"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "De 2 y 3 estrellas - Ciudad de Oxapampa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Albergues",
+      "observacion": "Ciudad de Oxapampa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "De 2 y 3 estrellas - Ciudad de Oxapampa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Oxapampa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "De 1 y 2 tenedores - Ciudad de Oxapampa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Oxapampa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Oxapampa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Ciudad de Oxapampa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Oxapampa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Ciudad de Oxapampa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de Oxapampa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Idioma Español - Ciudad de Oxapampa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Oxapampa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de bicicleta",
+      "observacion": "Ciudad de Oxapampa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Alquiler de cuatrimotos - Ciudad de Oxapampa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Oxapampa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Ciudad de Oxapampa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "Ciudad de Oxapampa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Oxapampa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Ciudad de Oxapampa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "Ciudad de Oxapampa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Ciudad de Oxapampa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "Ciudad de Oxapampa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "Ciudad de Oxapampa"
+    }
+  ],
+  "descripcion": "Oxapampa se encuentra en la región de Pasco, en la selva central del Perú, a 1,814 msnm. Tiene un clima húmedo, semicálido y lluvioso. Fundado el 30 de agosto de 1891 por colonos austroalemanes, el nombre de Oxapampa proviene del quechua \"OCSHA\" (paja) y \"PAMPA\" (llanura). Los Yáneshas la llaman “Monkun´ma”, que también significa llanura de carrizo. Conocida como la “Tierra de Colonos”, Oxapampa destaca por su historia y combinación de culturas.\nEl territorio perteneció originalmente a los Yáneshas. En 1635, los franciscanos evangelizaron la región, elaborando los primeros informes geográficos y etnológicos. En 1673, los misioneros fueron exterminados por los nativos, lo que llevó al retiro de las misiones. La sublevación de Juan Santos Atahualpa en 1742 causó la decadencia de las misiones franciscanas, que fueron atacadas por las tribus Yánesha y Asháninka. En 1763, se organizaron expediciones para restablecer las misiones.\nEntre 1837 y 1840, José Rufino Cárdenas se estableció en el valle de Huancabamba. Dieciséis años más tarde, junto con Esteban Bravo y Gregorio Rivera, gestionaron la colonización de la zona para que colonos austroalemanes poblasen estas tierras. En 1857, llegó el primer grupo de colonos gracias a un convenio entre el Barón Cosme Damián Freiherr Schütz von Holzhausen y el gobierno peruano, representado por Santiago Scotland.\nEn 1868, otro grupo de inmigrantes alemanes llegó al Pozuzo con destino a la región del Mayro, enfrentando grandes adversidades como epidemias y condiciones inhóspitas, lo que llevó a muchos a regresar al Pozuzo. Ante la falta de tierras fértiles, buscaron nuevas tierras en Huancabamba y el valle de Oxapampa. Oxapampa fue fundada oficialmente el 30 de agosto de 1891, liderada por el descendiente de colonos Austroalemanes Enrique Bottger Treu y 33 colonos manteniendo una estrecha colaboración con los Misioneros franciscanos radicados en Quillazú empezaron la exploración del valle de Huancabamba y Oxapampa y a tramitar los permisos correspondientes para la posesión de tierras.\nLa provincia de Oxapampa, con su capital en el pueblo del mismo nombre, fue creada políticamente el 27 de noviembre de 1944. La influencia europea es visible en la arquitectura, con casas de madera al estilo alpino. La música y danzas típicas utilizan instrumentos como el acordeón, guitarras y armónica. La gastronomía es una fusión de la cocina austro-alemana y peruana, destacando platos como el Wiener Schnitzel y postres como el Strudel de plátano y canela.\nEl pueblo de Oxapampa celebra festividades que combinan tradiciones austro-alemanas con costumbres locales, como la actividad de torneo de cinta que se realiza en su fiesta patronal y de fundación y el Día de la Herencia Oxapampina. La economía de Oxapampa se basa en la agricultura, ganadería y turismo. La ciudad es famosa por la producción de café de alta calidad y productos lácteos. El ecoturismo ha cobrado relevancia en las últimas décadas, atrayendo a visitantes interesados en la naturaleza y experiencias culturales auténticas.\nOxapampa se distingue por ser una ciudad ordenada, limpia y con áreas verdes. La Plaza Mayor está rodeada por la Iglesia Santa Rosa, la Municipalidad Provincial de Oxapampa, el Club Social Oxapampa, el Banco de Crédito, tiendas comerciales, restaurantes, hostales y otras edificaciones de madera y concreto.\nOxapampa forma parte del destino turístico “Selva Central”, una ruta con seis destinos de naturaleza y biodiversidad. Es parte del Parque Nacional Yanachaga Chemillén y la Reserva de Biosfera Oxapampa-Asháninka-Yánesha, reconocida por la UNESCO. También pertenece a la “Zona de Desarrollo Turístico de la Reserva de la Biosfera Oxapampa-Asháninka-Yánesha”, un destino de aventura, cultura viva y naturaleza para turistas nacionales y extranjeros.",
+  "particularidades": "",
+  "estado_actual": "Bueno, porque la Municipalidad Provincial de Oxapampa que esta a cargo de la administración mantiene en cuidado y limpieza de las calles y áreas públicas de la ciudad , asimismo los pobladores mantienen los lugares públicos y sus fachadas en constante mantenimiento y cuidado.",
+  "observaciones": "Se encuentra ubicada en la margen derecha del río Chorobamba, que divide al distrito de Oxapampa con el distrito de Chontabamba.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Oxapampa se encuentra en la región de Pasco, en la selva central del Perú, a 1,814 msnm. Tiene un clima húmedo, semicálido y lluvioso. Fundado el 30 de agosto de 1891 por colonos austroalemanes, el nombre de Oxapampa proviene del quechua \"OCSHA\" (paja) y \"PAMPA\" (llanura). Los Yáneshas la llaman “Monkun´ma”, que también significa llanura de carrizo. Conocida como la “Tierra de Colonos”, Oxapampa destaca por su historia y combinación de culturas.\nEl territorio perteneció originalmente a los Yáneshas. En 1635, los franciscanos evangelizaron la región, elaborando los primeros informes geográficos y etnológicos. En 1673, los misioneros fueron exterminados por los nativos, lo que llevó al retiro de las misiones. La sublevación de Juan Santos Atahualpa en 1742 causó la decadencia de las misiones franciscanas, que fueron atacadas por las tribus Yánesha y Asháninka. En 1763, se organizaron expediciones para restablecer las misiones.\nEntre 1837 y 1840, José Rufino Cárdenas se estableció en el valle de Huancabamba. Dieciséis años más tarde, junto con Esteban Bravo y Gregorio Rivera, gestionaron la colonización de la zona para que colonos austroalemanes poblasen estas tierras. En 1857, llegó el primer grupo de colonos gracias a un convenio entre el Barón Cosme Damián Freiherr Schütz von Holzhausen y el gobierno peruano, representado por Santiago Scotland.\nEn 1868, otro grupo de inmigrantes alemanes llegó al Pozuzo con destino a la región del Mayro, enfrentando grandes adversidades como epidemias y condiciones inhóspitas, lo que llevó a muchos a regresar al Pozuzo. Ante la falta de tierras fértiles, buscaron nuevas tierras en Huancabamba y el valle de Oxapampa. Oxapampa fue fundada oficialmente el 30 de agosto de 1891, liderada por el descendiente de colonos Austroalemanes Enrique Bottger Treu y 33 colonos manteniendo una estrecha colaboración con los Misioneros franciscanos radicados en Quillazú empezaron la exploración del valle de Huancabamba y Oxapampa y a tramitar los permisos correspondientes para la posesión de tierras.\nLa provincia de Oxapampa, con su capital en el pueblo del mismo nombre, fue creada políticamente el 27 de noviembre de 1944. La influencia europea es visible en la arquitectura, con casas de madera al estilo alpino. La música y danzas típicas utilizan instrumentos como el acordeón, guitarras y armónica. La gastronomía es una fusión de la cocina austro-alemana y peruana, destacando platos como el Wiener Schnitzel y postres como el Strudel de plátano y canela.\nEl pueblo de Oxapampa celebra festividades que combinan tradiciones austro-alemanas con costumbres locales, como la actividad de torneo de cinta que se realiza en su fiesta patronal y de fundación y el Día de la Herencia Oxapampina. La economía de Oxapampa se basa en la agricultura, ganadería y turismo. La ciudad es famosa por la producción de café de alta calidad y productos lácteos. El ecoturismo ha cobrado relevancia en las últimas décadas, atrayendo a visitantes interesados en la naturaleza y experiencias culturales auténticas.\nOxapampa se distingue por ser una ciudad ordenada, limpia y con áreas verdes. La Plaza Mayor está rodeada por la Iglesia Santa Rosa, la Municipalidad Provincial de Oxapampa, el Club Social Oxapampa, el Banco de Crédito, tiendas comerciales, restaurantes, hostales y otras edificaciones de madera y concreto.\nOxapampa forma parte del destino turístico “Selva Central”, una ruta con seis destinos de naturaleza y biodiversidad. Es parte del Parque Nacional Yanachaga Chemillén y la Reserva de Biosfera Oxapampa-Asháninka-Yánesha, reconocida por la UNESCO. También pertenece a la “Zona de Desarrollo Turístico de la Reserva de la Biosfera Oxapampa-Asháninka-Yánesha”, un destino de aventura, cultura viva y naturaleza para turistas nacionales y extranjeros."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, porque la Municipalidad Provincial de Oxapampa que esta a cargo de la administración mantiene en cuidado y limpieza de las calles y áreas públicas de la ciudad , asimismo los pobladores mantienen los lugares públicos y sus fachadas en constante mantenimiento y cuidado."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "Se encuentra ubicada en la margen derecha del río Chorobamba, que divide al distrito de Oxapampa con el distrito de Chontabamba."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n1215\nIndicador de Ocupabilidad mensual de establecimientos de Hospedaje -MINCETUR\n2023\nConsolidado del reporte de estadísticas de los establecimientos de hospedaje del distrito de Oxapampa.\nTuristas Nacionales\n110593\nIndicador de Ocupabilidad mensual de establecimientos de Hospedaje -MINCETUR\n2023\nConsolidado del reporte de estadísticas de los establecimientos de hospedaje del distrito de Oxapampa."
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nPasco/Oxapampa/Oxapampa\n-\nPasco/Oxapampa/Oxapampa\nTerminal Terrestre de Oxapampa - Plaza principal de Oxapampa\nTerrestre\nMototaxi\nAsfaltado\n1 Km / 4 min\n1\nPasco/Oxapampa/Oxapampa\n-\nPasco/Oxapampa/Oxapampa\nTerminal Terrestre de Oxapampa - Plaza principal de Oxapampa\nTerrestre\nA pie\nAsfaltado\n1 Km / 15 min."
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n06:00 a.m.\n-\n10:00 p.m.\nLlevar ropa ligera para el día y algo abrigador para la noche ya que las temperaturas pueden bajar considerablemente, Impermeable, bloqueador, gorro y repelente."
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nCompras de artesanía/souvenir\n--\nOtros\nToma de fotografías y filmaciones\n--\nCultura y Folclore\nActividades Religiosas o Patronales\nFiesta de fundación y Fiesta Patronal 30 de agosto\nNaturaleza\nObservación de paisaje\n--\nCultura y Folclore\nFerias\nVenta de artesania y productos agroindustriales en fechas festivas y feriados largos.\nPaseos\nPaseos en bicicleta\nCity tour\nCultura y Folclore\nApreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)\n--\nCultura y Folclore\nParticipación y/u observación del proceso de elaboración de productos locales\n--\nOtros\nCompra de productos regionales\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nAlojamiento\nHoteles (especificar categorías)\nDe 2 y 3 estrellas.\nInstalaciones Privadas\nAlojamiento\nHostales (especificar categorías)\nDe 2 estrellas\nInstalaciones Privadas\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\n--\nInstalaciones Privadas\nAlimentación\nRestaurantes\nDe 1 y 2 tenedores\nInstalaciones Privadas\nAlimentación\nBares\n--\nInstalaciones Privadas\nAlimentación\nCafeterías\n--\nInstalaciones Privadas\nAlimentación\nFuentes de soda\n--\nInstalaciones Privadas\nAlimentación\nKioskos de comida y bebidas\n--\nInstalaciones Privadas\nAlimentación\nVenta de comida Rápida\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nAgencia de Viajes\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nEspañol\nInstalaciones Privadas\nOtros Servicios Turísticos\nVenta de artesanía\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nAlquiler de bicicleta\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nOtros (Especificar)\nAlquiler de cuatrimotos\nInstalaciones Privadas\nLugares de Recreación\nDiscotecas\n--\nInstalaciones Privadas\nLugares de Recreación\nKaraoke\n--\nInstalaciones Privadas\nLugares de Recreación\nBares\n--\nInstalaciones Públicas\nServicios Públicos\nEstacionamiento de vehículos\n--\nInstalaciones Públicas\nServicios Públicos\nSeñales turísticas de orientación\n--\nInstalaciones Públicas\nServicios Públicos\nOficina de Información turística\n--\nInstalaciones Públicas\nServicios Públicos\nCaminos peatonales\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\nDe 2 y 3 estrellas - Ciudad de Oxapampa\nAlojamiento\nAlbergues\nCiudad de Oxapampa\nAlojamiento\nHostales (especificar categorías)\nDe 2 y 3 estrellas - Ciudad de Oxapampa\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Oxapampa\nAlimentación\nRestaurantes\nDe 1 y 2 tenedores - Ciudad de Oxapampa\nAlimentación\nBares\nCiudad de Oxapampa\nAlimentación\nCafeterías\nCiudad de Oxapampa\nAlimentación\nFuentes de soda\nCiudad de Oxapampa\nAlimentación\nKioskos de comida y bebidas\nCiudad de Oxapampa\nAlimentación\nVenta de comida Rápida\nCiudad de Oxapampa\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de Oxapampa\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nIdioma Español - Ciudad de Oxapampa\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Oxapampa\nOtros Servicios Turísticos\nAlquiler de bicicleta\nCiudad de Oxapampa\nOtros Servicios Turísticos\nOtros (Especificar)\nAlquiler de cuatrimotos - Ciudad de Oxapampa\nLugares de Recreación\nDiscotecas\nCiudad de Oxapampa\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nCiudad de Oxapampa\nLugares de Recreación\nKaraoke\nCiudad de Oxapampa\nLugares de Recreación\nBares\nCiudad de Oxapampa\nLugares de Recreación\nCentros Deportivos\nCiudad de Oxapampa\nServicios Públicos\nMiradores turísticos\nCiudad de Oxapampa\nServicios Públicos\nEstacionamiento de vehículos\nCiudad de Oxapampa\nServicios Públicos\nSeñales turísticas de orientación\nCiudad de Oxapampa\nServicios Públicos\nCaminos peatonales\nCiudad de Oxapampa"
+    },
+    {
+      "titulo": "Servicios Complementarios dentro del recurso",
+      "contenido": "Servicio Complementario\nObservación\nBancos\nBanco de la Nación y Banco de Credito del Perú\nCajero automático\nBanco de la Nación, Banco de Credito del Perú, Caja Piura, Caja Arequipa, Caja Cuzso\nEstación de servicios, grifos, gasolineras y gasocentros\n--\nServicios de internet\nMovistar, Claro, Entel y Bitel\nServicios de taxis\nMototaxi - Ciudad de Oxapampa\nCentro de salud - tópico\n--\nSeguridad / POLTUR / Comisaría\nComisaria PNP Oxapampa\nLibrerías\n--\nBodegas o minimarkets\n--\nAlquiler y compra de equipos deportivos\n--\nVenta de materiales para fotografías\n--"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nBancos\nBanco de la Nación y Banco de Credito del Perú - Ciudad de Oxapampa\nCajero automático\nBanco de la Nación, Banco de Credito del Perú, BBVA, Caja Piura, Caja Arequipa, Caja Cuzco - Ciudad de Oxapampa\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Oxapampa\nServicios de internet\nCiudad de Oxapampa\nServicios de taxis\nMototaxis - Ciudad de Oxapampa\nCentro de salud - tópico\nCiudad de Oxapampa\nSeguridad / POLTUR / Comisaría\nComisaria PNP Oxapampa - Ciudad de Oxapampa\nLibrerías\nCiudad de Oxapampa\nBodegas o minimarkets\nCiudad de Oxapampa\nAlquiler y compra de equipos deportivos\nCiudad de Oxapampa\nVenta de materiales para fotografías\nCiudad de Oxapampa"
+    },
+    {
+      "titulo": "Condiciones de Accesibilidad al Visitante",
+      "contenido": "Visitante\nInstalación\nActividades y/o programas\nEquipamiento\nObservación\nPersonas con discapacidad física\nRampas en las calles principales y plaza principal\n--\n--\n--"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\n--\nAlcantarillado sanitario\n--\nLuz (Suministro Eléctrico)\n--\nTeléfono\n--\nSeñalización turística\n--\nAlcantarillado pluvial\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Oxapampa\nAlcantarillado sanitario\nCiudad de Oxapampa\nLuz (Suministro Eléctrico)\nCiudad de Oxapampa\nTeléfono\nCiudad de Oxapampa\nSeñalización turística\nCiudad de Oxapampa\nEnergía Alternativa\nCiudad de Oxapampa\nSistemas de tratamiento alternativo de residuos (Biodigestor, pozo séptico, otros)\nCiudad de Oxapampa\nAlcantarillado pluvial\nCiudad de Oxapampa"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nEstado Peruano\nPrivado:\nViviendas y otros\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nMediante la Ley Nº 10030 se crea la provincia de Oxapampa\nAdministrador por\nNombre\nMunicipalidad Provincial de Oxapampa\nTiempo de administración\nDesde el 30 de agosto de 1891"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Zonal de Comercio Exterior y Turismo Oxapampa / Municipalidad Provincial de Oxapampa\nNombre (Persona(s) responsable(s) del inventario turístico):\nTessy Loren Huamán De La Matta /Mercedes Fiorelly Salinas Cardenas\nCargo:\nTécnico en turismo / Especialista en Turismo\nCorreo:\ncomercioexterioroxapampa@regionpasco.gob.pe/ turismo@munioxapampa.com\nTeléfono:\n915989848/ 957394242\nFuentes Bibliográfica:\nLibro: Oxapampa, estudio de una provincia de la selva del Perú · Tomo 1 Autor: Dionisio Ortiz Juárez Fecha de publicación: Lima 1967 Editorial: Imp. Edit. \"San Antonio\"\nLibro: Informe sobre las colonias de Oxapampa y Pozuzo y los ríos Palcazú y Pichis Autor: Tamayo, Augusto E. Fecha de publicación: Lima; Impr. Liber\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\nMATERIALES PROMOCIONALES ELABORADOS POR LA MUNICIPALIDAD, DIRCETUR, OTROS.\nReferencia de las últimas intervenciones en el Recurso Turístico:\nLimpieza, mantenimiento y acondicionamiento de las calles y avenidas en el pueblo de Oxapampa en el año 2023\nFecha:\n28/06/2024 10:32:15"
+    }
+  ],
+  "coordenadas": {
+    "latitud": null,
+    "longitud": null
+  },
+  "google_maps_url": null
+}

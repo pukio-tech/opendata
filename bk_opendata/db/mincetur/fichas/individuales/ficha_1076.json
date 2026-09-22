@@ -1,0 +1,230 @@
+{
+  "cod_ficha": 1076,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=1076",
+  "nombre": "Cerro De Huancash",
+  "departamento": "Áncash",
+  "provincia": "Mariscal Luzuriaga",
+  "distrito": "PISCOBAMBA",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Sitios Arqueológicos",
+  "subtipo": "Fortalezas",
+  "jerarquia": "2",
+  "altitud": "3 405",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=464520",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=464520",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=464581",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=464582",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=464521"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Cultura y Folclore - Actividades Religiosas o Patronales",
+    "Naturaleza - Observación de fauna",
+    "Naturaleza - Observación de flora",
+    "Deportes / Aventura - Caminata/Trekking",
+    "Deportes / Aventura - Camping"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Actividades Religiosas o Patronales",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/act_religiosas02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de fauna",
+      "observacion": "Ganados vacunos y ovinos, entre otros.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fauna02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "Flor de la cantuta, Tarwi silvestre, tubérculos, entre otros.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Camping",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/camping02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Áncash/Mariscal Luzuriaga/Piscobamba - Áncash/Mariscal Luzuriaga/Piscobamba",
+      "detalle": "Plaza de Piscobamba – Cruce a Collata",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "2.8 km/10 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Áncash/Mariscal Luzuriaga/Piscobamba - Áncash/Mariscal Luzuriaga/Piscobamba",
+      "detalle": "Cruce collota- Cerro Huancash",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Camino de Herradura",
+      "distancia_tiempo": "600 mt/20 min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "50",
+      "horario": "Empresa Konchucos Perú Travel E.I.R.L.",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "600",
+      "horario": "Empresa Konchucos Perú Travel E.I.R.L.",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "3000",
+      "horario": "Empresa Konchucos Perú Travel E.I.R.L.",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "06:00 a.m. - 05:30 p.m. --",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Piscobamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Piscobamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Piscobamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Piscobamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Ciudad de Piscobamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Ciudad de Piscobamba"
+    }
+  ],
+  "descripcion": "El sitio arqueológico de Huáncash, se ubica al lado sur de la ciudad de Piscobamba, a una distancia de 2.8 km en el barrio de Huáncash y límite con el distrito de Musga, el cerro y quebrada de Collota. Este sitio está a 3 405 m.s.n.m. en la región natural quechua. Fue declarado Patrimonio Cultural de la Nación en el año 2009 por el Instituto Nacional de Cultura, hoy Ministerio de Cultura. Desde Huáncash se puede observar la ciudad de Piscobamba y parte de la Cordillera Blanca. También es el recurso turístico más popular y visitado por los pobladores de Piscobamba y a nivel de la provincia de Mariscal Luzuriaga. Este sitio arqueológico pertenece al periodo Intermedio Temprano asociado a la Cultura Recuay (200 – 700 d.C.), presenta más de 4 estructuras de forma rectangular de aproximadamente 4 m de largo, con esquinas rectas, accesos orientados al este y de 1 m de ancho, los muros con mejor estado de conservación tienen hasta 1.70 m de alto, entre 60 y 70 m de ancho. Estas estructuras fueron construidas a base de piedras, se caracterizan por estar unidas con morteros de barro, superficie se puede evidenciar fragmentos de cerámica de color blanco que están elaboradas en arcilla caolín y cuya decoración fue hecha con pintura naranja, marrón y negro con figuras triangulares y líneas zigzagueantes. En la parte superior incluye hay una cruz con una pequeña capilla construida por la gestión del presbítero Manuel Vizarraga y donde se celebra la fiesta de Pascua de San Leopoldo de Huáncash que es celebrada con músicos y danzantes como los Huanca, Huanquillas, negritos y entre otros, otra festividad asociada a este lugar es la fiesta de la Cruz de Huáncash celebrada en carnavales. Del cerro de Huáncash también se narra historias que ahí están guardado tesoros de los incas que fueron enterradas tras la captura y posterior muerte de Atahualpa, gobernante del Tahuantinsuyo, a manos de los españoles.",
+  "particularidades": "",
+  "estado_actual": "Bueno:La zona que incluye el sitio arqueológico se encuentra en regular estado de conservación por factores antrópicos y naturales.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "El sitio arqueológico de Huáncash, se ubica al lado sur de la ciudad de Piscobamba, a una distancia de 2.8 km en el barrio de Huáncash y límite con el distrito de Musga, el cerro y quebrada de Collota. Este sitio está a 3 405 m.s.n.m. en la región natural quechua. Fue declarado Patrimonio Cultural de la Nación en el año 2009 por el Instituto Nacional de Cultura, hoy Ministerio de Cultura. Desde Huáncash se puede observar la ciudad de Piscobamba y parte de la Cordillera Blanca. También es el recurso turístico más popular y visitado por los pobladores de Piscobamba y a nivel de la provincia de Mariscal Luzuriaga. Este sitio arqueológico pertenece al periodo Intermedio Temprano asociado a la Cultura Recuay (200 – 700 d.C.), presenta más de 4 estructuras de forma rectangular de aproximadamente 4 m de largo, con esquinas rectas, accesos orientados al este y de 1 m de ancho, los muros con mejor estado de conservación tienen hasta 1.70 m de alto, entre 60 y 70 m de ancho. Estas estructuras fueron construidas a base de piedras, se caracterizan por estar unidas con morteros de barro, superficie se puede evidenciar fragmentos de cerámica de color blanco que están elaboradas en arcilla caolín y cuya decoración fue hecha con pintura naranja, marrón y negro con figuras triangulares y líneas zigzagueantes. En la parte superior incluye hay una cruz con una pequeña capilla construida por la gestión del presbítero Manuel Vizarraga y donde se celebra la fiesta de Pascua de San Leopoldo de Huáncash que es celebrada con músicos y danzantes como los Huanca, Huanquillas, negritos y entre otros, otra festividad asociada a este lugar es la fiesta de la Cruz de Huáncash celebrada en carnavales. Del cerro de Huáncash también se narra historias que ahí están guardado tesoros de los incas que fueron enterradas tras la captura y posterior muerte de Atahualpa, gobernante del Tahuantinsuyo, a manos de los españoles."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "Sitio arqueológico por el Ministerio de Cultura según la Resolución directoral nacional - 640 de fecha 19 de abril del 2009"
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno:La zona que incluye el sitio arqueológico se encuentra en regular estado de conservación por factores antrópicos y naturales."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n50\nEmpresa Konchucos Perú Travel E.I.R.L.\n2022\nTuristas Nacionales\n600\nEmpresa Konchucos Perú Travel E.I.R.L.\n2022\nVisitantes Locales(Excursionistas)\n3000\nEmpresa Konchucos Perú Travel E.I.R.L.\n2022\nEs recurso turístico más visitado por los pobladores de Piscobamba."
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nÁncash/Mariscal Luzuriaga/Piscobamba\n-\nÁncash/Mariscal Luzuriaga/Piscobamba\nPlaza de Piscobamba – Cruce a Collata\nTerrestre\nAutomóvil particular\nTrocha carrozable\n2.8 km/10 min\n1\nÁncash/Mariscal Luzuriaga/Piscobamba\n-\nÁncash/Mariscal Luzuriaga/Piscobamba\nCruce collota- Cerro Huancash\nTerrestre\nA pie\nCamino de Herradura\n600 mt/20 min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n06:00 a.m.\n-\n05:30 p.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nCultura y Folclore\nActividades Religiosas o Patronales\n--\nNaturaleza\nObservación de fauna\nGanados vacunos y ovinos, entre otros.\nNaturaleza\nObservación de flora\nFlor de la cantuta, Tarwi\nsilvestre, tubérculos, entre otros.\nDeportes / Aventura\nCaminata/Trekking\n--\nDeportes / Aventura\nCamping\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlimentación\nRestaurantes\nCiudad de Piscobamba\nAlimentación\nKioskos de comida y bebidas\nCiudad de Piscobamba\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Piscobamba\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Piscobamba\nAlimentación\nVenta de comida Rápida\nCiudad de Piscobamba\nServicios Públicos\nEstacionamiento de vehículos\nCiudad de Piscobamba"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nBancos\nCiudad de Piscobamba\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Piscobamba\nServicio de estacionamiento\nCiudad de Piscobamba\nServicios de taxis\nCiudad de Piscobamba\nCentro de salud - tópico\nCiudad de Piscobamba\nSeguridad / POLTUR / Comisaría\nCiudad de Piscobamba"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nPiscobamba - centro poblado de Huancash\nDesagüe\npiscobamba\nLuz (Suministro Eléctrico)\nPiscobamba - Centro poblado de Huancash\nTeléfono\nPiscobamba"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nRepública del Perú – Ministerio de Cultura\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nPatrimonio Cultural de la Nación – RDN N° 640 – 2009/INC\nAdministrador por\nNombre\nBarrio de Huancash\nTiempo de administración\nDesde el 2009"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDIRCETUR ANCASH/MUNICIPALIDAD PROVINCIAL DE MARISCAL LUZURIAGA\nNombre (Persona(s) responsable(s) del inventario turístico):\nPatricia Camones Trejo/ Edgar Rover Vergara Juan\nCargo:\nEspecialista en turismo/ (E) Oficina de Turismo\nCorreo:\nPatriciaturismo@gmail.com/edgarrover2014@gmail.com\nTeléfono:\n937082574/902386383\nFuentes Bibliográfica:\nRESOLUCIÓN DIRECTORAL NACIONAL N° 640 – 2009/INC\n• Neyra, Elmer (01 de marzo del 2017) El Tesoro de Huancash. Obtenido de: https://naloalvaradochiquian.blogspot.com/2017/03/el-tesoro-de\u0002huancash-por-elmer-neyra.html\n• 2007. Libro de oro. Lima. Perú\n• Egúsquiza, Máximo (2016). El tesoro de Huancash. En Más Allá del Silencio. P, 22- 23. Lima – Perú\n• Neyra, Elmer (2009). Mitos, leyendas y tradiciones, recogidos de Piscobamba y de provincias vecinas hacia 1955. En Cuadernos Arguedianos Nº 9\nÉpoca II, Año 9.P, 22 – 23.\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n13/01/2023"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -8.880323189368342,
+    "longitud": -77.35263347619627
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-8.880323189368342,-77.35263347619627"
+}

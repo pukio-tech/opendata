@@ -1,0 +1,287 @@
+{
+  "cod_ficha": 5665,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=5665",
+  "nombre": "Sitio Arqueológico Ninaquero",
+  "departamento": "Ayacucho",
+  "provincia": "Lucanas",
+  "distrito": "CARMEN SALCEDO",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Sitios Arqueológicos",
+  "subtipo": "Ciudadelas",
+  "jerarquia": "1",
+  "altitud": "3618",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=457861",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=457861",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=457862",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=457811",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=457813",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=457863",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=457814",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=457864",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=457815"
+  ],
+  "actividades_permitidas": [
+    "Naturaleza - Observación de fauna",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de paisaje",
+    "Naturaleza - Observación de aves",
+    "Deportes / Aventura - Caminata/Trekking"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de fauna",
+      "observacion": "Zorriño, Zorro Andino, Venados, Vicacha, e.t.c.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fauna02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "Flores silvestres, ichu, espinas, ojiquiskca, waraqo,molle, eucalipto, tasta, e.t.c.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "Andenes, Caminos, Canales de Riego. e.t.c.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de aves",
+      "observacion": "Chiwaco, Perdiz, pichinko, Colibrís, Wico, Gorrion Andino. E.t.c.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/aves02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "Caminata moderada por el Camino ancestral",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Ayacucho/Huamanga/Ayacucho - Ayacucho/Lucanas/Carmen Salcedo",
+      "detalle": "Terminal sur de Ayacucho - Terminal de provincia Sucre",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus turístico",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "206K.M /6Horas"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Ayacucho/Sucre/Querobamba - Ayacucho/Lucanas/Carmen Salcedo",
+      "detalle": "Terminal Provincia Sucre - Cdra. 3 Jr. Lima de la ciudad de Andamarca",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus turístico",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "117 K.M / 4 Horas"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Ayacucho/Lucanas/Carmen Salcedo - Ayacucho/Lucanas/Carmen Salcedo",
+      "detalle": "Cdra. 3 Jr. Lima de la ciudad de Andamarca - Ultima Cdra. Jr. Alfonso Ugarte Plaza de Toros - Camino Inca",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Camino de Herradura",
+      "distancia_tiempo": "2 K.M. /40 minutos"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Ayacucho/Huamanga/Ayacucho - Ayacucho/Lucanas/Carmen Salcedo",
+      "detalle": "Terminal sur de Ayacucho - Terminal de provincia Huanca Sancos",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus turístico",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "142K.M/3.37Horas"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Ayacucho/Huanca Sancos/Sancos - Ayacucho/Lucanas/Carmen Salcedo",
+      "detalle": "Terminal Provincia Huanca Sancos - Cdra. 3 Jr. Lima de la ciudad de Andamarca",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus turístico",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "117 K.M / 3 Horas"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Ayacucho/Lucanas/Carmen Salcedo - Ayacucho/Lucanas/Carmen Salcedo",
+      "detalle": "Cdra. 3 Jr. Lima de la ciudad de Andamarca - Ultima Cdra. Jr. Alfonso Ugarte Plaza de Toros - Camino Inca",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Camino de Herradura",
+      "distancia_tiempo": "2 K.M. / 40 Minutos"
+    },
+    {
+      "recorrido": "3",
+      "tramo": "Lima/Lima/Lima - Ayacucho/Lucanas/Carmen Salcedo",
+      "detalle": "Terminal de Lima Av. 28 Julio - Terminal Ciudad de Ica",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus turístico",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "305 km/4 horas"
+    },
+    {
+      "recorrido": "3",
+      "tramo": "Ica/Ica/Ica - Ayacucho/Lucanas/Carmen Salcedo",
+      "detalle": "Terminal Provincia de Ica - Terminal de provincia Puquio",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus turístico",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "206K.M /6Horas"
+    },
+    {
+      "recorrido": "3",
+      "tramo": "Ayacucho/Lucanas/Puquio - Ayacucho/Lucanas/Carmen Salcedo",
+      "detalle": "Terminal Provincia Puquio - Cdra. 3 Jr. Lima de la ciudad de Andamarca",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus turístico",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "75 Km./2 hrs."
+    },
+    {
+      "recorrido": "3",
+      "tramo": "Ayacucho/Lucanas/Carmen Salcedo - Ayacucho/Lucanas/Carmen Salcedo",
+      "detalle": "Cdra. 3 Jr. Lima de la ciudad de Andamarca - Ultima Cdra. Jr. Alfonso Ugarte Plaza de Toros- camino Inca",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Camino de Herradura",
+      "distancia_tiempo": "2 km / 40 minutos"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "969",
+      "horario": "Municipalidad de Carmen Salcedo",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "08:00 a.m. - 03:30 p.m. Comunicarse con la con la Municipalidad para el registro de flujo de visitantes Teléfono: 972550691",
+      "observaciones": "Comunicarse con la con la Municipalidad para el registro de flujo de visitantes Teléfono: 972550691"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": "Comunicarse con la Municipalidad para el registro de flujo de visitantes Teléfono : 972550691"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Andamarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Andamarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Andamarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de Andamarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Andamarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Césped Sintético Jr. Alfonso Ugarte B. Tuna"
+    }
+  ],
+  "descripcion": "Se trata de una estructura funeraria Pucullos (chullpas); de tres estructuras semicirculares conformando un pequeño mausoleo con vista al río Negro Mayo (Sondondo). La dimensión de estos Pucullos va de 1. 5 m de diámetro por un alto de 1.5 hasta los 2 metros. La forma constructiva de este mausoleo fue inicialmente planificada buscando un lugar estratégico con una vista hacia lugares específicos; vista al pueblo (Caniche), vista hacia el alba, hacia al río (Negro mayo) o apu principal y secundario (Accaimarca). Luego se prepara los materiales constructivos que consisten en piedras angulosas y cantean hasta lograr formas cuadrangulares y rectangulares para ser unidos con mortero de barro arcillosas y muchas veces juntados con pequeñas cuñas, los muros son de doble hilada logrando un semicírculo presentan un techo abovedado con lajas grandes. Los Pucullos tienen un pequeño patio con un muro perimetral, lo cual evidencia ser un mausoleo perteneciente al periodo Horizonte Tardío (Inca). Estas estructuras presentan en su parte superior varias lajas superpuestas y sobresaliente al exterior a unos 30 c.m. del dintel de acceso, representando un ornamento de elite o jerarquía social. Los accesos están elaborados con piedras largas cuadrangulares a manera de dintel y pequeñas columnas, formando un trapezoide sello típico de la expansión Inca. Las estructuras se encuentran totalmente vacías como producto de constantes saqueos, es posible que en su época de abandono (Conquista y Colonia) estas estaban asociadas con mantos funerarios (momias enfardeladas) y estaban presentes sus objetos de culto como también sus pertenencias que en vida identificaban su oficio y rango que desempeñaba en la época. También se momificaba los cuerpos para preservarlos y poder venerarlos por ser ellos personajes importantes, en muchos casos se le hacían pleitesías y procesiones en determinadas épocas. En la actualidad las estructuras funerarias se encuentran en buen estado de conservación, es posible que reciban mantenimiento constante por los pobladores y dueños de terrenos de cultivo que están circundando.",
+  "particularidades": "",
+  "estado_actual": "Regular, falta restaurar gran parte del sitio arqueológico.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Se trata de una estructura funeraria Pucullos (chullpas); de tres estructuras semicirculares conformando un pequeño mausoleo con vista al río Negro Mayo (Sondondo). La dimensión de estos Pucullos va de 1. 5 m de diámetro por un alto de 1.5 hasta los 2 metros. La forma constructiva de este mausoleo fue inicialmente planificada buscando un lugar estratégico con una vista hacia lugares específicos; vista al pueblo (Caniche), vista hacia el alba, hacia al río (Negro mayo) o apu principal y secundario (Accaimarca). Luego se prepara los materiales constructivos que consisten en piedras angulosas y cantean hasta lograr formas cuadrangulares y rectangulares para ser unidos con mortero de barro arcillosas y muchas veces juntados con pequeñas cuñas, los muros son de doble hilada logrando un semicírculo presentan un techo abovedado con lajas grandes. Los Pucullos tienen un pequeño patio con un muro perimetral, lo cual evidencia ser un mausoleo perteneciente al periodo Horizonte Tardío (Inca). Estas estructuras presentan en su parte superior varias lajas superpuestas y sobresaliente al exterior a unos 30 c.m. del dintel de acceso, representando un ornamento de elite o jerarquía social. Los accesos están elaborados con piedras largas cuadrangulares a manera de dintel y pequeñas columnas, formando un trapezoide sello típico de la expansión Inca. Las estructuras se encuentran totalmente vacías como producto de constantes saqueos, es posible que en su época de abandono (Conquista y Colonia) estas estaban asociadas con mantos funerarios (momias enfardeladas) y estaban presentes sus objetos de culto como también sus pertenencias que en vida identificaban su oficio y rango que desempeñaba en la época. También se momificaba los cuerpos para preservarlos y poder venerarlos por ser ellos personajes importantes, en muchos casos se le hacían pleitesías y procesiones en determinadas épocas. En la actualidad las estructuras funerarias se encuentran en buen estado de conservación, es posible que reciban mantenimiento constante por los pobladores y dueños de terrenos de cultivo que están circundando."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "Está reconocido como Patrimonio Cultural de la Nación con:\nRDN Nº 496 del 31/05/2002-INC.\nRDN N°197 del 02/04/2003-INC.\nRDN N° 950 del 30/09/2004-INC"
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Regular, falta restaurar gran parte del sitio arqueológico."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nVisitantes Locales(Excursionistas)\n969\nMunicipalidad de Carmen Salcedo\n2022\nINFORME DE VISITAS A LOS RECURSOS TURÍSTICOS DEL DISTRITO DE CARMEN SALCEDO"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nAyacucho/Huamanga/Ayacucho\n-\nAyacucho/Lucanas/Carmen Salcedo\nTerminal sur de Ayacucho - Terminal de provincia Sucre\nTerrestre\nBus turístico\nAsfaltado\n206K.M /6Horas\n1\nAyacucho/Sucre/Querobamba\n-\nAyacucho/Lucanas/Carmen Salcedo\nTerminal Provincia Sucre - Cdra. 3 Jr. Lima de la ciudad de Andamarca\nTerrestre\nBus turístico\nAsfaltado\n117 K.M / 4 Horas\n1\nAyacucho/Lucanas/Carmen Salcedo\n-\nAyacucho/Lucanas/Carmen Salcedo\nCdra. 3 Jr. Lima de la ciudad de Andamarca - Ultima Cdra. Jr. Alfonso Ugarte Plaza de Toros - Camino Inca\nTerrestre\nA pie\nCamino de Herradura\n2 K.M. /40 minutos\n2\nAyacucho/Huamanga/Ayacucho\n-\nAyacucho/Lucanas/Carmen Salcedo\nTerminal sur de Ayacucho - Terminal de provincia Huanca Sancos\nTerrestre\nBus turístico\nAsfaltado\n142K.M/3.37Horas\n2\nAyacucho/Huanca Sancos/Sancos\n-\nAyacucho/Lucanas/Carmen Salcedo\nTerminal Provincia Huanca Sancos - Cdra. 3 Jr. Lima de la ciudad de Andamarca\nTerrestre\nBus turístico\nAfirmado\n117 K.M / 3 Horas\n2\nAyacucho/Lucanas/Carmen Salcedo\n-\nAyacucho/Lucanas/Carmen Salcedo\nCdra. 3 Jr. Lima de la ciudad de Andamarca - Ultima Cdra. Jr. Alfonso Ugarte Plaza de Toros - Camino Inca\nTerrestre\nA pie\nCamino de Herradura\n2 K.M. / 40 Minutos\n3\nLima/Lima/Lima\n-\nAyacucho/Lucanas/Carmen Salcedo\nTerminal de Lima Av. 28 Julio - Terminal Ciudad de Ica\nTerrestre\nBus turístico\nAsfaltado\n305 km/4 horas\n3\nIca/Ica/Ica\n-\nAyacucho/Lucanas/Carmen Salcedo\nTerminal Provincia de Ica - Terminal de provincia Puquio\nTerrestre\nBus turístico\nAsfaltado\n206K.M /6Horas\n3\nAyacucho/Lucanas/Puquio\n-\nAyacucho/Lucanas/Carmen Salcedo\nTerminal Provincia Puquio - Cdra. 3 Jr. Lima de la ciudad de Andamarca\nTerrestre\nBus turístico\nAsfaltado\n75 Km./2 hrs.\n3\nAyacucho/Lucanas/Carmen Salcedo\n-\nAyacucho/Lucanas/Carmen Salcedo\nCdra. 3 Jr. Lima de la ciudad de Andamarca - Ultima Cdra. Jr. Alfonso Ugarte Plaza de Toros- camino Inca\nTerrestre\nA pie\nCamino de Herradura\n2 km / 40 minutos"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre\nComunicarse con la Municipalidad para el registro de flujo de visitantes Teléfono : 972550691"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n08:00 a.m.\n-\n03:30 p.m.\nComunicarse con la con la Municipalidad para el registro de flujo de visitantes Teléfono: 972550691"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nNaturaleza\nObservación de fauna\nZorriño, Zorro Andino, Venados, Vicacha, e.t.c.\nNaturaleza\nObservación de flora\nFlores silvestres, ichu, espinas, ojiquiskca, waraqo,molle, eucalipto, tasta, e.t.c.\nNaturaleza\nObservación de paisaje\nAndenes, Caminos, Canales de Riego. e.t.c.\nNaturaleza\nObservación de aves\nChiwaco, Perdiz, pichinko, Colibrís, Wico, Gorrion Andino. E.t.c.\nDeportes / Aventura\nCaminata/Trekking\nCaminata moderada por el Camino ancestral"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Andamarca\nAlimentación\nRestaurantes\nCiudad de Andamarca\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Andamarca\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de Andamarca\nLugares de Recreación\nBares\nCiudad de Andamarca\nLugares de Recreación\nCentros Deportivos\nCésped Sintético Jr. Alfonso Ugarte B. Tuna"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiuadad de Andamarca\nBancos\nAgentes de MiltiRed en la Ciudad de Anmdamarca\nEstación de servicios, grifos, gasolineras y gasocentros\nMillopampa Ciudad de Andamarca\nServicio de estacionamiento\nCiudad de Andamarca\nServicios de taxis\nCiudad de Andamarca\nCentro de salud - tópico\nMicro Red Jr. Alfonso Ugarte Ultima Cdra. Ciudad de Andamarca\nSeguridad / POLTUR / Comisaría\nJr. Miguel Grau a media Crda. Plaza de Armas\nBodegas o minimarkets\nCiudad de Andamarca"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Andamarca\nDesagüe\nCiudad de Andamarca\nLuz (Suministro Eléctrico)\nCiudad de Andamarca\nTeléfono\nCiudad de Andamarca\nSeñalización turística\nCiudad de Andamarca"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nMinisterio de Cultura\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nEn proceso de saneamiento Físico por parte DDC AYACUCHO - MINISTERIO DE CULTURA\nAdministrador por\nNombre\nMinisterio de Cultura - Municipalidad de Carmen Salcedo\nTiempo de administración\nDesde año 2002"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDIRCETUR - AYACUCHO / MUNICIPALIDAD DE CARMEN SALCEDO\nNombre (Persona(s) responsable(s) del inventario turístico):\nEFRAIN WALTER GOMEZ LOPEZ / HEBER CUPE OROPEZA\nCargo:\nDIRECTOR DE TURISMO / RESPONSABLE DE LA OFICINA DE TURISMO\nCorreo:\newgl7@hotmail.com/hcupeoropeza@gmail.com\nTeléfono:\n938130971 / 972550691\nFuentes Bibliográfica:\n1.-Recuperacion de recursos turisticos del Valle Sondondo DIRCETUR-AYACUCHO 2011 pag. 14\n2.-Atlas del Territorio de Carmen Salcedo - Ministerio de Ambiente 2015\n3.-El VALOR DEL VALLE SONDONDO - Aproximaciones desde el Territorio lo Urbano- Rural y la Arquitectura- PUCP 2018\n4.- Andamarca Bendita Morada del Sol Prof. Carlos Herrera Alfaro 1999\n5.- https://www.yumpu.com/es/document/read/14343383/catalogo-andamarca2-pdfcdr-municipalidad-de-andamarca\n6.- Guia de Turismo de la Provincia de Lucanas - Puquio 2016\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n17/11/2022"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -14.387527,
+    "longitud": -73.96204599999999
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-14.387527,-73.96204599999999"
+}

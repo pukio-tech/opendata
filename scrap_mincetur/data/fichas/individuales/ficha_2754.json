@@ -1,0 +1,288 @@
+{
+  "cod_ficha": 2754,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=2754",
+  "nombre": "Río Colca - Sector Sibayo",
+  "departamento": "Arequipa",
+  "provincia": "Caylloma",
+  "distrito": "SIBAYO",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "h. Corrientes de agua",
+  "subtipo": "Ríos",
+  "jerarquia": "2",
+  "altitud": "3819 m.s.n.m.",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=546426",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=546426",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=546402",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=546404",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=546428"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Deportes acuáticos - Sea Kayac",
+    "Deportes acuáticos - Canotaje / Rafting",
+    "Naturaleza - Observación de paisaje"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Deportes acuáticos",
+      "tipo": "Sea Kayac",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/kayac02.png"
+    },
+    {
+      "actividad": "Deportes acuáticos",
+      "tipo": "Canotaje / Rafting",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/canotaje02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Arequipa/Arequipa/Jacobo Hunter - Arequipa/Caylloma/Chivay",
+      "detalle": "Terminal Terrestre de Arequipa - Chivay",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mini bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "151KM. /3 horas"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Arequipa/Caylloma/Chivay - Arequipa/Caylloma/Sibayo",
+      "detalle": "Plaza de Armas de Chivay - Plaza de Sibayo",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mini bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "39KM. /45 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Arequipa/Caylloma/Sibayo - Arequipa/Caylloma/Sibayo",
+      "detalle": "Plaza de Sibayo - Rio Colca - sector puente Colgante",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Sendero",
+      "distancia_tiempo": "750 m/10min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "1275",
+      "horario": "OFICIO N° 0257-2024/MD-S",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "415",
+      "horario": "OFICIO N° 0257-2024/MD-S",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "374",
+      "horario": "OFICIO N° 0257-2024/MD-S",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "07:00 a.m. - 03:00 p.m. --",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estancia para animales de transporte turísticos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "Hoteles de 2,3,4 estrellas en Chivay"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "Hostales de 1,2,3 estrellas en Chivay"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Localidad de Chivay"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Localidad de Chivay"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Localidad de Chivay"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Localidad de Chivay"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Localidad de Chivay"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Localidad de Chivay"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Localidad de Chivay"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Localidad de Chivay"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Localidad de Chivay"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Lugares de picnic",
+      "observacion": "Localidad de Chivay"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "Localidad de Chivay"
+    }
+  ],
+  "descripcion": "El río colca con más de 129 Km. de recorrido, nace en Pampa Blanca- Callalli recorre sus aguas por toda la zona alta y baja de la provincia de Caylloma hasta Majes, con dirección Suroeste - Noreste, drena sus aguas hacia el Océano Pacífico. Por el lado izquierdo está flanqueado por una cadena de montañas de origen volcánico, entre las que destacan Ampato, Sabancaya, y Hualca Hualca, mientras que por el lado derecho se alinea la Cordillera volcánica del Chila. Este rio discurre por todos los pueblos del valle del Colca, Sibayo, Callalli, Tuti, Canocota, Chivay, Coporaque, Ichupampa, Yanque, Achoma, Maca, Lari, Madrigal, Pinchollo, Cabanaconde y en su recorrido toma varios nombres, al confluir con el Río Andamayo toma nombre de Río Majes y al confluir con el río Pucayura, cerca de la costa, toma el nombre de río Camaná.\nEl rio Colca es de régimen permanente con crecidas abundantes cuando se presentan precipitaciones (enero, febrero, marzo) se incrementa su caudal, mantiene un cauce natural, limpio y guarda una apariencia armoniosa.\nEl tramo del Rio Colca en el sector de Sibayo ubicado en la parte alta de la cuenca del rio Colca tiene uso turístico para actividades de aventura, se encuentra a una altura promedio de 3885m.s.n.m. en la región natural quechua, con una extensión de 2.3 km y con un ancho variable en ambas márgenes, se inicia desde el Puente colgante de Sibayo hasta el puente Callalli- Sibayo. En las riberas del rio se encuentran viviendas, áreas recreativas (estadio), canales, áreas de cultivo, caminos y carreteras.\nCon un caudal máximo de 693 m³/seg en temporada de lluvias que junto a la sinuosidad de su cauce y la presencia de zonas profundas y remolinos (pequeños) que se forman, dan oportunidad a realizar actividades de deportes de aventura como Kayakismo y Canotaje en un trayecto de 2.3 km la cual inicia en el sector del puente colgante para realizar el recorrido hasta el puente Calllali -Sibayo, también es usual la presencia de pobladores y excursionistas practicando pesca de truchas, los pobladores realizan también pesca artesanal para el consumo local.",
+  "particularidades": "",
+  "estado_actual": "Bueno, ecosistemas bien conservados, libre de contaminación",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "El río colca con más de 129 Km. de recorrido, nace en Pampa Blanca- Callalli recorre sus aguas por toda la zona alta y baja de la provincia de Caylloma hasta Majes, con dirección Suroeste - Noreste, drena sus aguas hacia el Océano Pacífico. Por el lado izquierdo está flanqueado por una cadena de montañas de origen volcánico, entre las que destacan Ampato, Sabancaya, y Hualca Hualca, mientras que por el lado derecho se alinea la Cordillera volcánica del Chila. Este rio discurre por todos los pueblos del valle del Colca, Sibayo, Callalli, Tuti, Canocota, Chivay, Coporaque, Ichupampa, Yanque, Achoma, Maca, Lari, Madrigal, Pinchollo, Cabanaconde y en su recorrido toma varios nombres, al confluir con el Río Andamayo toma nombre de Río Majes y al confluir con el río Pucayura, cerca de la costa, toma el nombre de río Camaná.\nEl rio Colca es de régimen permanente con crecidas abundantes cuando se presentan precipitaciones (enero, febrero, marzo) se incrementa su caudal, mantiene un cauce natural, limpio y guarda una apariencia armoniosa.\nEl tramo del Rio Colca en el sector de Sibayo ubicado en la parte alta de la cuenca del rio Colca tiene uso turístico para actividades de aventura, se encuentra a una altura promedio de 3885m.s.n.m. en la región natural quechua, con una extensión de 2.3 km y con un ancho variable en ambas márgenes, se inicia desde el Puente colgante de Sibayo hasta el puente Callalli- Sibayo. En las riberas del rio se encuentran viviendas, áreas recreativas (estadio), canales, áreas de cultivo, caminos y carreteras.\nCon un caudal máximo de 693 m³/seg en temporada de lluvias que junto a la sinuosidad de su cauce y la presencia de zonas profundas y remolinos (pequeños) que se forman, dan oportunidad a realizar actividades de deportes de aventura como Kayakismo y Canotaje en un trayecto de 2.3 km la cual inicia en el sector del puente colgante para realizar el recorrido hasta el puente Calllali -Sibayo, también es usual la presencia de pobladores y excursionistas practicando pesca de truchas, los pobladores realizan también pesca artesanal para el consumo local."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, ecosistemas bien conservados, libre de contaminación"
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n1275\nOFICIO N° 0257-2024/MD-S\n2023\nRegistro de visitantes\nTuristas Nacionales\n415\nOFICIO N° 0257-2024/MD-S\n2023\nRegistro de visitantes\nVisitantes Locales(Excursionistas)\n374\nOFICIO N° 0257-2024/MD-S\n2023\nRegistro de visitantes"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nArequipa/Arequipa/Jacobo Hunter\n-\nArequipa/Caylloma/Chivay\nTerminal Terrestre de Arequipa - Chivay\nTerrestre\nMini bus público\nAsfaltado\n151KM. /3 horas\n1\nArequipa/Caylloma/Chivay\n-\nArequipa/Caylloma/Sibayo\nPlaza de Armas de Chivay - Plaza de Sibayo\nTerrestre\nMini bus público\nAsfaltado\n39KM. /45 min\n1\nArequipa/Caylloma/Sibayo\n-\nArequipa/Caylloma/Sibayo\nPlaza de Sibayo - Rio Colca - sector puente Colgante\nTerrestre\nA pie\nSendero\n750 m/10min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n07:00 a.m.\n-\n03:00 p.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nDeportes acuáticos\nSea Kayac\n--\nDeportes acuáticos\nCanotaje / Rafting\n--\nNaturaleza\nObservación de paisaje\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Públicas\nServicios Públicos\nSeñales turísticas de orientación\n--\nInstalaciones Públicas\nServicios Públicos\nEstancia para animales de transporte turísticos\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\nHoteles de 2,3,4 estrellas en Chivay\nAlojamiento\nHostales (especificar categorías)\nHostales de 1,2,3 estrellas en Chivay\nAlimentación\nRestaurantes\nLocalidad de Chivay\nLugares de Recreación\nDiscotecas\nLocalidad de Chivay\nOtros Servicios Turísticos\nVenta de artesanía\nLocalidad de Chivay\nOtros Servicios Turísticos\nAgencia de Viajes\nLocalidad de Chivay\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nLocalidad de Chivay\nAlimentación\nBares\nLocalidad de Chivay\nAlimentación\nKioskos de comida y bebidas\nLocalidad de Chivay\nLugares de Recreación\nBares\nLocalidad de Chivay\nLugares de Recreación\nCentros Deportivos\nLocalidad de Chivay\nLugares de Recreación\nLugares de picnic\nLocalidad de Chivay\nServicios Públicos\nSeñales turísticas de orientación\nLocalidad de Chivay"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nLocalidad de Chivay\nCajero automático\nLocalidad de Chivay\nBancos\nLocalidad de Chivay\nEstación de servicios, grifos, gasolineras y gasocentros\nLocalidad de Chivay\nServicio de estacionamiento\nLocalidad de Chivay\nServicios de taxis\nLocalidad de Chivay\nCentro de salud - tópico\nLocalidad de Chivay\nSeguridad / POLTUR / Comisaría\nLocalidad de Chivay\nBodegas o minimarkets\nLocalidad de Chivay"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nLocalidad de Chivay\nLuz (Suministro Eléctrico)\nLocalidad de Chivay\nTeléfono\nLocalidad de Chivay\nAlcantarillado sanitario\nLocalidad de Chivay\nSeñalización turística\nLocalidad de Chivay\nSistemas de tratamiento alternativo de residuos (Biodigestor, pozo séptico, otros)\nLocalidad de Chivay"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nAutoridad Nacional del Agua - Administración Local de Agua Colca-Siguas-Chivay\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nLey de Recursos Hídricos LEY Nº 29338\nAdministrador por\nNombre\nMunicipalidad Distrital de Sibayo\nTiempo de administración\n2009"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nGerencia de Comercio Exterior y Turismo de Arequipa\nNombre (Persona(s) responsable(s) del inventario turístico):\nLic. Claudia Barrios Cacya\nCargo:\nEspecialista en Turismo\nCorreo:\ncbarrios@correo.regionarequipa.gob.pe\nTeléfono:\n988099750\nFuentes Bibliográfica:\nDesarrollo Turístico Local del distrito de Sibayo 2021-2025 Plan Maestro, AUTOCOLCA, 2010 Plan de Desarrollo Turístico Sibayo, 2013-2017, Ministerio de Comercio Exterior y Turismo 2013\nMemoria Descriptiva del estudio Topográfico, Estudio de Delimitación de faja marginal del rio Colca Tramo Sibayo en 2.3 km Municipalidad distrital de Sibayo,2019\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n6/09/2024 08:21:37"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -15.594939008079878,
+    "longitud": -71.97602069444275
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-15.594939008079878,-71.97602069444275"
+}

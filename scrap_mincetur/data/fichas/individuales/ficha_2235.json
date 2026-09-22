@@ -1,0 +1,364 @@
+{
+  "cod_ficha": 2235,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=2235",
+  "nombre": "Museo De Arte Religioso",
+  "departamento": "Cusco",
+  "provincia": "Cusco",
+  "distrito": "CUSCO",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Museos y otros",
+  "subtipo": "Museos",
+  "jerarquia": "2",
+  "altitud": "3400",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=293344",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=293344",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=293345",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=607721",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=607722",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=607802",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=607723",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=607724",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=607725",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=607803",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=607726",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=607804",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=607727",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=607728",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=607729",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=607805"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Actividades Culturales"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Actividades Culturales",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/act_culturales02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Cusco/Cusco/Cusco - Cusco/Cusco/Cusco",
+      "detalle": "Plaza de Armas del Cusco - Museo de Arte Religioso del Cusco",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "250 ms. / 4 min."
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "9630",
+      "horario": "Conteo muestral",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "1890",
+      "horario": "Conteo muestral",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "09:00 a.m. - 04:30 p.m. --",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "Incluido en el Circuito Religioso del Cusco Adultos S/30, Estudiantes S/ 15"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Español, inglés y francés"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad del Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Cines o Teatros",
+      "observacion": "Ciudad del Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Ciudad del Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Ciudad del Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Ciudad del Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "Ciudad del Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad del Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad del Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Español, inglés, francés, italiano entre otros / Ciudad del Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de camionetas 4 x 4",
+      "observacion": "Ciudad del Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad del Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad del Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad del Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Ciudad del Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad del Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Ciudad del Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "3,4 y 5 estrellas / Ciudad del Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Apart-hoteles (especificar categorías)",
+      "observacion": "3 y 4 estrellas / Ciudad del Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "2 y 3 estrellas / Ciudad del Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "Ciudad del Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Ciudad del Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "Ciudad del Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de interpretación",
+      "observacion": "Ciudad del Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "Ciudad del Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Ciudad del Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Museo de Sitio Turísticos",
+      "observacion": "Ciudad del Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "Ciudad del Cusco"
+    }
+  ],
+  "descripcion": "El museo de Arte Religioso se encuentra en Palacio Arzobispal del Cusco en la Calle Hatunrumiyoc a una cuadra de la plaza de Armas en el Centro histórico del Cusco, La edificación colonial fue construida en el siglo XVI sobre el palacio de Inca Roca el sexto gobernante Inca, Parte del recinto original fue destruido para edificar el palacio y casa del primer obispo del Perú y Cusco, el fray Vicente Valverde. En el siglo XX pasó a ser el palacio arzobispal del Cuzco. La arquitectura de tipo colonial se caracteriza por la decoración barroca. Está hecha de piedra. Presenta columnas, balcones de ajimez, ventanas, patios, piletas, arcos y todo bellamente decorado. Destacan sus muros, cuyas bases mantienen su estructura de piedra de la época inca. Todo el edificio posee un gran valor histórico, pues resume las distintas etapas del Cusco: desde su época preinca (existen muros de esta época), inca, colonial y moderna. El Museo de Arte Religioso fue inaugurado el 24 de junio de 1969 por iniciativa del arzobispo Monseñor Ricardo Durand Flórez y don José Orihuela Yábar, quien donó su colección de arte religioso virreinal. Forma parte del sistema nacional de museos del Perú y Ofrece una visión integral del arte sacro colonial, alberga las colecciones más completas de arte religioso virreinal de la Escuela Cusqueña, destacando el mestizaje entre las tradiciones andinas y europeas durante los siglos XVII y XVIII, con obras de destacados representantes de la Escuela Cusqueña, como Marcos Zapata y Diego Quispe Tito. El museo posee más de 200 piezas de arte sacro, entre las cuales destacan: • Lienzos de gran formato de los siglos XVII y XVIII. • Esculturas policromadas de santos, vírgenes y cristos. • Retablos barrocos, como el dorado con pan de oro de 22 quilates proveniente de Huaraypata. • Vestimentas litúrgicas bordadas con hilos de oro y plata. • Objetos eucarísticos como cálices, relicarios, y custodias. • Series de pintura de contenido catequético, alegórico y litúrgico. Tiene 8 salas temáticas de exhibición:\n1. Salón Dorado\n• Alberga el retablo barroco dorado procedente de la hacienda de Huaraypata.\n• Decorado con detalles ornamentales en pan de oro de 22 quilates.\n• También incluye esculturas religiosas y relicarios.\n2. Sala del huerto\n• Representa escenas de la vida de Cristo en el Huerto de los Olivos.\n• Incluye esculturas de Cristo y los apóstoles en momentos de oración y angustia.\n3. Sala del Libertador\n• Dedicada a la historia republicana del Perú.\n• Exhibe retratos del general San Martín y Simón Bolívar.\n• Incluye mobiliario virreinal que muestra la transición hacia la era republicana.\n4. Sala de Orígenes\n• Muestra elementos de la arquitectura incaica original del edificio.\n• Aquí se puede apreciar de cerca la integración de la estructura inca con la edificación colonial.\n• Se incluye información sobre la piedra de los Doce Ángulos y los muros de Hatun Rumiyoc.\n5. Sala del Corpus Christi\n• Contiene la famosa Serie del Corpus Christi, compuesta por 12 lienzos que representan la procesión más importante de Cusco.\n• Las pinturas muestran a cada santo patrono de las parroquias cusqueñas portado en andas, acompañado de clérigos y fieles.\n6. Capilla\n• Espacio íntimo con obras de carácter devocional.\n• Exhibe esculturas de la Virgen María, santos y escenas del Calvario.\n• Incluye objetos litúrgicos como cálices y cruces procesionales.\n7. Sacristía\n• Presenta una colección de casullas bordadas, estolas y otros textiles religiosos.\n• También contiene retratos de obispos y arzobispos cusqueños.\n• Se pueden observar pinturas de gran valor simbólico.\n8. Sala del Zodiaco\n• Alberga la Serie del Zodiaco, atribuida al pintor indígena Diego Quispe Tito, uno de los fundadores de la Escuela Cusqueña.\n• La serie contiene nueve lienzos con los signos zodiacales, integrados con figuras de ángeles y referencias cristianas.\n• Esta sala refleja el sincretismo entre la astrología europea, el simbolismo cristiano y la visión andina del cosmos.",
+  "particularidades": "",
+  "estado_actual": "Bueno, mantenimiento y cuidado por el Arzobispado del Cusco",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "El museo de Arte Religioso se encuentra en Palacio Arzobispal del Cusco en la Calle Hatunrumiyoc a una cuadra de la plaza de Armas en el Centro histórico del Cusco, La edificación colonial fue construida en el siglo XVI sobre el palacio de Inca Roca el sexto gobernante Inca, Parte del recinto original fue destruido para edificar el palacio y casa del primer obispo del Perú y Cusco, el fray Vicente Valverde. En el siglo XX pasó a ser el palacio arzobispal del Cuzco. La arquitectura de tipo colonial se caracteriza por la decoración barroca. Está hecha de piedra. Presenta columnas, balcones de ajimez, ventanas, patios, piletas, arcos y todo bellamente decorado. Destacan sus muros, cuyas bases mantienen su estructura de piedra de la época inca. Todo el edificio posee un gran valor histórico, pues resume las distintas etapas del Cusco: desde su época preinca (existen muros de esta época), inca, colonial y moderna. El Museo de Arte Religioso fue inaugurado el 24 de junio de 1969 por iniciativa del arzobispo Monseñor Ricardo Durand Flórez y don José Orihuela Yábar, quien donó su colección de arte religioso virreinal. Forma parte del sistema nacional de museos del Perú y Ofrece una visión integral del arte sacro colonial, alberga las colecciones más completas de arte religioso virreinal de la Escuela Cusqueña, destacando el mestizaje entre las tradiciones andinas y europeas durante los siglos XVII y XVIII, con obras de destacados representantes de la Escuela Cusqueña, como Marcos Zapata y Diego Quispe Tito. El museo posee más de 200 piezas de arte sacro, entre las cuales destacan: • Lienzos de gran formato de los siglos XVII y XVIII. • Esculturas policromadas de santos, vírgenes y cristos. • Retablos barrocos, como el dorado con pan de oro de 22 quilates proveniente de Huaraypata. • Vestimentas litúrgicas bordadas con hilos de oro y plata. • Objetos eucarísticos como cálices, relicarios, y custodias. • Series de pintura de contenido catequético, alegórico y litúrgico. Tiene 8 salas temáticas de exhibición:\n1. Salón Dorado\n• Alberga el retablo barroco dorado procedente de la hacienda de Huaraypata.\n• Decorado con detalles ornamentales en pan de oro de 22 quilates.\n• También incluye esculturas religiosas y relicarios.\n2. Sala del huerto\n• Representa escenas de la vida de Cristo en el Huerto de los Olivos.\n• Incluye esculturas de Cristo y los apóstoles en momentos de oración y angustia.\n3. Sala del Libertador\n• Dedicada a la historia republicana del Perú.\n• Exhibe retratos del general San Martín y Simón Bolívar.\n• Incluye mobiliario virreinal que muestra la transición hacia la era republicana.\n4. Sala de Orígenes\n• Muestra elementos de la arquitectura incaica original del edificio.\n• Aquí se puede apreciar de cerca la integración de la estructura inca con la edificación colonial.\n• Se incluye información sobre la piedra de los Doce Ángulos y los muros de Hatun Rumiyoc.\n5. Sala del Corpus Christi\n• Contiene la famosa Serie del Corpus Christi, compuesta por 12 lienzos que representan la procesión más importante de Cusco.\n• Las pinturas muestran a cada santo patrono de las parroquias cusqueñas portado en andas, acompañado de clérigos y fieles.\n6. Capilla\n• Espacio íntimo con obras de carácter devocional.\n• Exhibe esculturas de la Virgen María, santos y escenas del Calvario.\n• Incluye objetos litúrgicos como cálices y cruces procesionales.\n7. Sacristía\n• Presenta una colección de casullas bordadas, estolas y otros textiles religiosos.\n• También contiene retratos de obispos y arzobispos cusqueños.\n• Se pueden observar pinturas de gran valor simbólico.\n8. Sala del Zodiaco\n• Alberga la Serie del Zodiaco, atribuida al pintor indígena Diego Quispe Tito, uno de los fundadores de la Escuela Cusqueña.\n• La serie contiene nueve lienzos con los signos zodiacales, integrados con figuras de ángeles y referencias cristianas.\n• Esta sala refleja el sincretismo entre la astrología europea, el simbolismo cristiano y la visión andina del cosmos."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "Fue declarado como Patrimonio Cultural de la Nación como Monumento Histórico Artístico con R.S.Nro.2900-72-ED con fecha 28/12/1972 por el Instituto Nacional de Cultura."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, mantenimiento y cuidado por el Arzobispado del Cusco"
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n9630\nConteo muestral\n2025\nTuristas Nacionales\n1890\nConteo muestral\n2025"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nCusco/Cusco/Cusco\n-\nCusco/Cusco/Cusco\nPlaza de Armas del Cusco - Museo de Arte Religioso del Cusco\nTerrestre\nA pie\nAsfaltado\n250 ms. / 4 min."
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nIncluido en el Circuito Religioso del Cusco\nAdultos S/30, Estudiantes S/ 15"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n09:00 a.m.\n-\n04:30 p.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nActividades Culturales\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nEspañol, inglés y francés"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nLugares de Recreación\nDiscotecas\nCiudad del Cusco\nLugares de Recreación\nCines o Teatros\nCiudad del Cusco\nLugares de Recreación\nJuegos Infantiles\nCiudad del Cusco\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nCiudad del Cusco\nLugares de Recreación\nCentros Deportivos\nCiudad del Cusco\nLugares de Recreación\nKaraoke\nCiudad del Cusco\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad del Cusco\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad del Cusco\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nEspañol, inglés, francés, italiano entre otros / Ciudad del Cusco\nOtros Servicios Turísticos\nAlquiler de camionetas 4 x 4\nCiudad del Cusco\nAlimentación\nRestaurantes\nCiudad del Cusco\nAlimentación\nBares\nCiudad del Cusco\nAlimentación\nCafeterías\nCiudad del Cusco\nAlimentación\nFuentes de soda\nCiudad del Cusco\nAlimentación\nKioskos de comida y bebidas\nCiudad del Cusco\nAlimentación\nVenta de comida Rápida\nCiudad del Cusco\nAlojamiento\nHoteles (especificar categorías)\n3,4 y 5 estrellas / Ciudad del Cusco\nAlojamiento\nApart-hoteles (especificar categorías)\n3 y 4 estrellas / Ciudad del Cusco\nAlojamiento\nHostales (especificar categorías)\n2 y 3 estrellas / Ciudad del Cusco\nServicios Públicos\nMiradores turísticos\nCiudad del Cusco\nServicios Públicos\nEstacionamiento de vehículos\nCiudad del Cusco\nServicios Públicos\nSeñales turísticas de orientación\nCiudad del Cusco\nServicios Públicos\nSeñales turísticas de interpretación\nCiudad del Cusco\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\nCiudad del Cusco\nServicios Públicos\nOficina de Información turística\nCiudad del Cusco\nServicios Públicos\nMuseo de Sitio Turísticos\nCiudad del Cusco\nServicios Públicos\nCaminos peatonales\nCiudad del Cusco"
+    },
+    {
+      "titulo": "Servicios Complementarios dentro del recurso",
+      "contenido": "Servicio Complementario\nObservación\nServicios de internet\n--"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad del Cusco\nBancos\nCiudad del Cusco\nCajero automático\nCiudad del Cusco\nCasa de cambio\nCiudad del Cusco\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad del Cusco\nServicio de correos\nCiudad del Cusco\nServicio de estacionamiento\nCiudad del Cusco\nServicios de taxis\nCiudad del Cusco\nCentro de salud - tópico\nCiudad del Cusco\nVenta de materiales para fotografías\nCiudad del Cusco\nSeguridad / POLTUR / Comisaría\nCiudad del Cusco\nAlquiler y compra de equipos deportivos\nCiudad del Cusco\nLibrerías\nCiudad del Cusco\nBodegas o minimarkets\nCiudad del Cusco"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\n--\nAlcantarillado sanitario\n--\nLuz (Suministro Eléctrico)\n--\nTeléfono\n--\nSeñalización turística\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad del Cusco\nAlcantarillado sanitario\nCiudad del Cusco\nLuz (Suministro Eléctrico)\nCiudad del Cusco\nTeléfono\nCiudad del Cusco\nSeñalización turística\nCiudad del Cusco\nAlcantarillado pluvial\nCiudad del Cusco"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\n--\nPrivado:\nArzobispado del Cusco\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nFue comprada para ser el palacio arzobispal el año 1814\nAdministrador por\nNombre\nArzobispado del Cusco\nTiempo de administración\nDesde el año 1814"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nGerencia Regional de Comercio Esterior, Turismo y Artesanía del Cusco\nNombre (Persona(s) responsable(s) del inventario turístico):\nLic. Marco Luna Galindo\nCargo:\nResponsable del Inventario de Recursos Turísticos\nCorreo:\nmluna@regioncusco.gob.pe\nTeléfono:\n926629209\nFuentes Bibliográfica:\nArzobispado del Cusco, Museo del Palacio Arzobispal. https://www.arzobispadodelcusco.org/\nMaterial Audiovisual actual del Recurso:\n, VIDEOS\nEspecificación:\nhttps://youtu.be/twizENZgqRU?si=18i4ADygS0JufpzF\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n30/07/2025 13:05:13"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -13.516209651980512,
+    "longitud": -71.97648365889552
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-13.516209651980512,-71.97648365889552"
+}

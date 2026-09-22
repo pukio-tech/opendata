@@ -1,0 +1,420 @@
+{
+  "cod_ficha": 748,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=748",
+  "nombre": "Sitio Arqueológico Olán",
+  "departamento": "Amazonas",
+  "provincia": "Chachapoyas",
+  "distrito": "MARISCAL CASTILLA",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Sitios Arqueológicos",
+  "subtipo": "Zonas arqueológicas",
+  "jerarquia": "2",
+  "altitud": "2841",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=604789",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=604789",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=604771",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=604772",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=604773",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=604790",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=604791",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=604793",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=604774",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=604795"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Estudios e Investigación",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de paisaje",
+    "Naturaleza - Observación de aves",
+    "Deportes / Aventura - Caminata/Trekking"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "Ishpingo (Ocotea quixos), Matico (Piper aduncum), Zarzamora (Rubus ulmifolius), Aliso (Alnus glutinosa), entre otros.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de aves",
+      "observacion": "Pibí ahumado (Contopus fumigatus),Inca arcoiris )Coeligena iris),Zopilote negro (Coragyps atratus), Golondrina barranquera (Pygochelidon cyanoleuca), etc.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/aves02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "Recorrido dentro del recurso turístico.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Amazonas/Chachapoyas/Chachapoyas - Amazonas/Chachapoyas/Chachapoyas",
+      "detalle": "Plaza principal de la ciudad Chachapoyas - Desvío de Mariscal Castilla",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "68 Km./02h. y 5 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Amazonas/Chachapoyas/Mariscal Castilla - Amazonas/Chachapoyas/Mariscal Castilla",
+      "detalle": "Desvío de Mariscal Castilla - Mariscal Castilla.",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "03 Km./10 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Amazonas/Chachapoyas/Mariscal Castilla - Amazonas/Chachapoyas/Mariscal Castilla",
+      "detalle": "Mariscal Castilla - Montevideo- San Pedro de Utac.",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "6.5 Km./25 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Amazonas/Chachapoyas/Mariscal Castilla - Amazonas/Chachapoyas/Mariscal Castilla",
+      "detalle": "San Pedro de Utac-Sitio Arqueológico Olán.",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Sendero",
+      "distancia_tiempo": "1.3 Km./40 min."
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "25",
+      "horario": "Recopilación de datos de las AA.VV de la ciudad de Chachapoyas",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "7",
+      "horario": "Recopilación de datos de las AA.VV de la ciudad de Chachapoyas",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "08:00 a.m. - 03:00 p.m. Mejor época para visita, de mayo a noviembre",
+      "observaciones": "Mejor época para visita, de mayo a noviembre"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": "Es necesario ir con guía turístico."
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "1,2,3 estrellas ciudad de Chachapoyas."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Chachapoyas 1,2,3 tenedores"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Chachapoyas."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Chachapoyas."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Ciudad de Chachapoyas."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Chachapoyas."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de Chachapoyas."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Inglés - Español ciudad de Chachapoyas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "Ciudad de Chachapoyas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Ciudad de Chachapoyas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "Ciudad de Chachapoyas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de interpretación",
+      "observacion": "Ciudad de Chachapoyas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "Ciudad de Chachapoyas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Ciudad de Chachapoyas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Puesto de auxilio rápido",
+      "observacion": "Ciudad de Chachapoyas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Ciudad de Chachapoyas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Ciudad de Chachapoyas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "Ciudad de Chachapoyas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Chachapoyas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de camionetas 4 x 4",
+      "observacion": "Ciudad de Chachapoyas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Chachapoyas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Ciudad de Chachapoyas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Ciudad de Chachapoyas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Chachapoyas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "1,2,3 estrellas ciudad de Chachapoyas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Chachapoyas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "Ciudad de Chachapoyas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Cochera privada en la ciudad de Chachapoyas"
+    }
+  ],
+  "descripcion": "El recurso turístico fue declarado Patrimonio Cultural de la Nación mediante la Resolución Viceministerial N.º 196/INC-2003, bajo la denominación de sitio arqueológico, perteneciente a la cultura Chachapoya, que se desarrolló durante el periodo del Intermedio Tardío (1100–1470 d. C.). Se encuentra en la cima del cerro Olán, al este de la localidad de San Pedro de Utac, dentro de un ecosistema de bosque húmedo montano caracterizado por su densa vegetación arbórea, con presencia de orquídeas, bromelias, líquenes y musgo. El sitio arqueológico se extiende aproximadamente sobre cinco hectáreas y está conformado por edificaciones de planta circular construidas con bloques de roca caliza, unidas con mortero de barro, lo que permitía dar solidez a los muros. Algunas estructuras alcanzan hasta siete metros de altura y presentan hornacinas o ventanas. Según las investigaciones realizadas por Arturo Ruiz Estrada en 2013, el complejo fue dividido en cuatro sectores bien definidos, donde las construcciones se distribuyen de forma dispersa y no tangente entre sí, debido a la amplitud del terreno. Se estima la existencia de alrededor de 500 edificaciones. Varias de las edificaciones de mayor jerarquía presentan frisos ornamentales con iconografía geométrica, entre las que destacan los motivos en zigzag (simples y dobles) y los rombos (simples y triples), delineados con hileras de piedras planas. El uso de piedra caliza finamente trabajada evidencia un elevado nivel técnico y estético alcanzado por los antiguos constructores Chachapoya. Hasta la fecha, no se cuenta con un informe actualizado del Ministerio de Cultura sobre su estado de conservación. No obstante, a simple vista, el estado del sitio es regular, ya que muchas estructuras se encuentran parcialmente cubiertas por maleza, arbustos espinosos, árboles y cactáceas propias del entorno. Esta situación dificulta su plena apreciación y representa un riesgo para la integridad del recurso. La monumentalidad arquitectónica de Olán, su riqueza ornamental y su emplazamiento en un entorno natural de gran belleza convierten a este sitio arqueológico en un destino de alto valor patrimonial. Estas características generan interés tanto en visitantes nacionales como internacionales, atraídos por la historia, la simbología y el legado cultural de los antiguos Chachapoya en la región Amazonas.",
+  "particularidades": "",
+  "estado_actual": "Regular, debido a que en el sitio arqueológico, se encuentran parcialmente cubiertas por maleza, arbustos espinosos, árboles y cactáceas propias del ecosistema.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "El recurso turístico fue declarado Patrimonio Cultural de la Nación mediante la Resolución Viceministerial N.º 196/INC-2003, bajo la denominación de sitio arqueológico, perteneciente a la cultura Chachapoya, que se desarrolló durante el periodo del Intermedio Tardío (1100–1470 d. C.). Se encuentra en la cima del cerro Olán, al este de la localidad de San Pedro de Utac, dentro de un ecosistema de bosque húmedo montano caracterizado por su densa vegetación arbórea, con presencia de orquídeas, bromelias, líquenes y musgo. El sitio arqueológico se extiende aproximadamente sobre cinco hectáreas y está conformado por edificaciones de planta circular construidas con bloques de roca caliza, unidas con mortero de barro, lo que permitía dar solidez a los muros. Algunas estructuras alcanzan hasta siete metros de altura y presentan hornacinas o ventanas. Según las investigaciones realizadas por Arturo Ruiz Estrada en 2013, el complejo fue dividido en cuatro sectores bien definidos, donde las construcciones se distribuyen de forma dispersa y no tangente entre sí, debido a la amplitud del terreno. Se estima la existencia de alrededor de 500 edificaciones. Varias de las edificaciones de mayor jerarquía presentan frisos ornamentales con iconografía geométrica, entre las que destacan los motivos en zigzag (simples y dobles) y los rombos (simples y triples), delineados con hileras de piedras planas. El uso de piedra caliza finamente trabajada evidencia un elevado nivel técnico y estético alcanzado por los antiguos constructores Chachapoya. Hasta la fecha, no se cuenta con un informe actualizado del Ministerio de Cultura sobre su estado de conservación. No obstante, a simple vista, el estado del sitio es regular, ya que muchas estructuras se encuentran parcialmente cubiertas por maleza, arbustos espinosos, árboles y cactáceas propias del entorno. Esta situación dificulta su plena apreciación y representa un riesgo para la integridad del recurso. La monumentalidad arquitectónica de Olán, su riqueza ornamental y su emplazamiento en un entorno natural de gran belleza convierten a este sitio arqueológico en un destino de alto valor patrimonial. Estas características generan interés tanto en visitantes nacionales como internacionales, atraídos por la historia, la simbología y el legado cultural de los antiguos Chachapoya en la región Amazonas."
+    },
+    {
+      "titulo": "Particularidades",
+      "contenido": ""
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "Declarado Patrimonio Cultural de la Nación, mediante RDN N.º 196/INC- del 2 de abril de 2003."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Regular, debido a que en el sitio arqueológico, se encuentran parcialmente cubiertas por maleza, arbustos espinosos, árboles y cactáceas propias del ecosistema."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n25\nRecopilación de datos de las AA.VV de la ciudad de Chachapoyas\n2024\nValidado por la Dircetur - Amazonas\nTuristas Nacionales\n7\nRecopilación de datos de las AA.VV de la ciudad de Chachapoyas\n2024\nValidado por la Dircetur - Amazonas"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nAmazonas/Chachapoyas/Chachapoyas\n-\nAmazonas/Chachapoyas/Chachapoyas\nPlaza principal de la ciudad Chachapoyas - Desvío de Mariscal Castilla\nTerrestre\nAutomóvil particular\nAfirmado\n68 Km./02h. y 5 min.\n1\nAmazonas/Chachapoyas/Mariscal Castilla\n-\nAmazonas/Chachapoyas/Mariscal Castilla\nDesvío de Mariscal Castilla - Mariscal Castilla.\nTerrestre\nAutomóvil particular\nAfirmado\n03 Km./10 min.\n1\nAmazonas/Chachapoyas/Mariscal Castilla\n-\nAmazonas/Chachapoyas/Mariscal Castilla\nMariscal Castilla - Montevideo- San Pedro de Utac.\nTerrestre\nAutomóvil particular\nAfirmado\n6.5 Km./25 min.\n1\nAmazonas/Chachapoyas/Mariscal Castilla\n-\nAmazonas/Chachapoyas/Mariscal Castilla\nSan Pedro de Utac-Sitio Arqueológico Olán.\nTerrestre\nA pie\nSendero\n1.3 Km./40 min."
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre\nEs necesario ir con guía turístico."
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n08:00 a.m.\n-\n03:00 p.m.\nMejor época para visita, de mayo a noviembre"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nEstudios e Investigación\n--\nNaturaleza\nObservación de flora\nIshpingo (Ocotea quixos), Matico (Piper aduncum), Zarzamora (Rubus ulmifolius), Aliso (Alnus glutinosa), entre otros.\nNaturaleza\nObservación de paisaje\n--\nNaturaleza\nObservación de aves\nPibí ahumado\n(Contopus fumigatus),Inca arcoiris\n)Coeligena iris),Zopilote negro\n(Coragyps atratus), Golondrina barranquera\n(Pygochelidon cyanoleuca), etc.\nDeportes / Aventura\nCaminata/Trekking\nRecorrido dentro del recurso turístico."
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Públicas\nServicios Públicos\nSeñales turísticas de orientación\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHostales (especificar categorías)\n1,2,3 estrellas ciudad de Chachapoyas.\nAlimentación\nRestaurantes\nCiudad de Chachapoyas 1,2,3 tenedores\nAlimentación\nKioskos de comida y bebidas\nCiudad de Chachapoyas.\nLugares de Recreación\nDiscotecas\nCiudad de Chachapoyas.\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nCiudad de Chachapoyas.\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Chachapoyas.\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de Chachapoyas.\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nInglés - Español ciudad de Chachapoyas\nServicios Públicos\nMiradores turísticos\nCiudad de Chachapoyas\nServicios Públicos\nEstacionamiento de vehículos\nCiudad de Chachapoyas\nServicios Públicos\nSeñales turísticas de orientación\nCiudad de Chachapoyas\nServicios Públicos\nSeñales turísticas de interpretación\nCiudad de Chachapoyas\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\nCiudad de Chachapoyas\nServicios Públicos\nOficina de Información turística\nCiudad de Chachapoyas\nServicios Públicos\nPuesto de auxilio rápido\nCiudad de Chachapoyas\nLugares de Recreación\nJuegos Infantiles\nCiudad de Chachapoyas\nLugares de Recreación\nCentros Deportivos\nCiudad de Chachapoyas\nLugares de Recreación\nKaraoke\nCiudad de Chachapoyas\nLugares de Recreación\nBares\nCiudad de Chachapoyas\nOtros Servicios Turísticos\nAlquiler de camionetas 4 x 4\nCiudad de Chachapoyas\nAlimentación\nCafeterías\nCiudad de Chachapoyas\nAlimentación\nFuentes de soda\nCiudad de Chachapoyas\nAlimentación\nVenta de comida Rápida\nCiudad de Chachapoyas\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Chachapoyas\nAlojamiento\nHoteles (especificar categorías)\n1,2,3 estrellas ciudad de Chachapoyas\nAlimentación\nBares\nCiudad de Chachapoyas\nServicios Públicos\nCaminos peatonales\nCiudad de Chachapoyas\nOtros Servicios Turísticos\nOtros (Especificar)\nCochera privada en la ciudad de Chachapoyas"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Chachapoyas\nBancos\nCiudad de Chachapoyas\nCajero automático\nCiudad de Chachapoyas\nCasa de cambio\nCiudad de Chachapoyas\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Chachapoyas\nServicio de estacionamiento\nCiudad de Chachapoyas\nServicios de taxis\nCiudad de Chachapoyas\nCentro de salud - tópico\nCiudad de Chachapoyas\nVenta de materiales para fotografías\nCiudad de Chachapoyas\nSeguridad / POLTUR / Comisaría\nCiudad de Chachapoyas\nAlquiler y compra de equipos deportivos\nCiudad de Chachapoyas\nLibrerías\nCiudad de Chachapoyas\nBodegas o minimarkets\nCiudad de Chachapoyas\nServicio de correos\nCiudad de Chachapoyas\nServicios de salvavidas\nCiudad de Chachapoyas"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nTeléfono\nSeñal de telefonía Movistar, Claro, Entel y Bitel.\nSeñalización turística\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAlcantarillado sanitario\nCiudad de Chachapoyas.\nLuz (Suministro Eléctrico)\nCiudad de Chachapoyas.\nTeléfono\nCiudad de Chachapoyas. (Claro, Entel, Bitel Y Movistar)\nAgua potable\nCiudad de Chachapoyas."
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nMinisterio de Cultura\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nResolución Directoral Nacional N° 196/INC/2003 declara como Patrimonio Cultural de la Nación al Sitio Arqueológico Intangible Olan\nAdministrador por\nNombre\nDireccion Desconcertada de Cultura de Amazonas\nTiempo de administración\nDesde el año 2003 respectivamente, por tiempo indeterminado"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior Y Turismo Amazonas\nNombre (Persona(s) responsable(s) del inventario turístico):\nLic. Gilber Ramos Chappa\nCargo:\nEncargado de Inventario\nCorreo:\nramoschappa@gmail.com\nTeléfono:\n988062534\nFuentes Bibliográfica:\n1. Kauffmann Doig, F. (2017). La cultura Chachapoya. Lima, Perú: Cartolan Editora y Comercializadora.\n2. Banco de Crédito del Perú. (2013). Los Chachapoyas. Banco de Crédito del Perú.\n3. Ruiz Estrada, A. (2013). Investigaciones arqueológicas en San Pedro, Chachapoyas – Perú. Repositorio Nacional Digital de Ciencia, Tecnología e Innovación del Perú – ALICIA. https://alicia.concytec.gob.pe/vufind/Record/1818-4758_87ab2104f2b561c29dba49e4e7e9ba67\n4. Guía Arqueológica del departamento de Amazonas, Victor M. Zubiate Zabarburu, 1984, Perú.\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\nLimpieza, mantenimiento y acondicionamiento del Sitio Arqueológico Olán del distrito de Mariscal Castilla - provincia de Chachapoyas - departamento de Amazonas – 2021.\nFecha:\n3/07/2025 17:15:37"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -6.65069,
+    "longitud": -77.72379999999998
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-6.65069,-77.72379999999998"
+}

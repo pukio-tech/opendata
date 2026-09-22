@@ -1,0 +1,312 @@
+{
+  "cod_ficha": 425,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=425",
+  "nombre": "Sitio Arqueológico Inka Uyu",
+  "departamento": "Puno",
+  "provincia": "Puno",
+  "distrito": "CHUCUITO",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Sitios Arqueológicos",
+  "subtipo": "Zonas arqueológicas",
+  "jerarquia": "3",
+  "altitud": "3873",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=469475",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=469475",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=469476",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=469540",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=469541",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=469477",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=469542",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=469543"
+  ],
+  "actividades_permitidas": [
+    "Otros - Compras de artesanía/souvenir",
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Estudios e Investigación",
+    "Naturaleza - Observación de paisaje"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Compras de artesanía/souvenir",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/artesania02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Puno/Puno/Puno - Puno/Puno/Chucuito",
+      "detalle": "Paradero interdistrital del Jr. Banchero Rossi - Plaza de armas de Chucuito",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Combi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "18 km / 20 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Puno/Puno/Chucuito - Puno/Puno/Chucuito",
+      "detalle": "Plaza de Armas de Chucuito - Al recurso",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "300 m / 5 min."
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "1408",
+      "horario": "Informe técnico del flujo de visitantes.",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "2347",
+      "horario": "Informe técnico del flujo de visitantes.",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "1875",
+      "horario": "Informe técnico del flujo de visitantes.",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "08:00 a.m. - 04:00 p.m. Lunes - domingo",
+      "observaciones": "Lunes - domingo"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "Adulto Extranjero: S/. 6.00, Adulto Nacional: S/. 3.00, Niños: S/. 1.00"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Boletería",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "4 estrellas en la ciudad de Chucuito."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Albergues",
+      "observacion": "Ciudad de Chucuito."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Chucuito."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Chucuito."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Chucuito."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Ciudad de Chucuito."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Chucuito."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "Ciudad de Chucuito."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "Ciudad de Chucuito."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Puesto de auxilio rápido",
+      "observacion": "Puesto de salud en la ciudad de Chucuito."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Centros de interpretación",
+      "observacion": "Ciudad de Chucuito."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Museo de Sitio Turísticos",
+      "observacion": "Ciudad de Chucuito."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "3 estrellas en la ciudad de Chucuito."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Chucuito."
+    }
+  ],
+  "descripcion": "Ubicado a 18 km. al sur de la capital de Puno, en la ciudad de Chucuito, a unos 3873 m.s.n.m., antigua capital y centro administrativo del reino aimara Lupaca, que posteriormente pasó a tener dominio Inca.\nSe trata de una intrigante construcción conocida como Inka Uyu, que corresponde a una construcción de estilo Inca, probablemente para cumplir alguna función ceremonial, este recinto tiene muros con medidas de 10 x 10 m., que posee 2 hileras de piedra pulida y labrada, que sin duda fue claramente modelada con el estilo de piedra poligonal del Cusco.\nPara el arqueólogo Charles Stanish, por la forma de las otras piedras encontradas cerca de la estructura indicarían que esta o una estructura asociada tenían ventanas. Por tanto, la estructura no era un ushnu, o plataforma ceremonial.\nEn 1940, Marion Tschopik, excavó la estructura encontrando muros de piedra de la época colonial, cerámica y huesos de llama, pero no encontró estratigrafía prehistórica (Hyslop 1984:129-130). Cieza de León sostiene que el edificio incaico en Chucuito se hizo durante el gobierno de Pachacuti Inca ([155 3b] 1967: 204), su función no ha sido comprendida, aún, cuando puede tratarse de un ushnu o lugar donde se sentaba el Inca cuando visitaba Chucuito y desde donde se leían las proclamas.\nLa hilera superior de piedras del Inca Uyu fue encontrada y reemplazada por Orompelio Vidal en la década de 1960, quien continuó excavaciones en el sitio. Otra teoría señala que Chucuito fue probablemente una parada de descanso en la peregrinación a la Isla del Sol desde Cuzco.\nHyslop relata también que le hablaron de otra estructura llamada Kurinuyu, al este del Inka Uyu, sin embargo, nadie conoce su ubicación o algún rastro de su existencia.\nEstas ruinas precolombinas aún mantienen misterio de su real función, lo que lo convierte aún más atractivo, solo se tarda 30 minutos en llegar a Inca Uyo desde la ciudad de Puno y está abierta todo el año.",
+  "particularidades": "",
+  "estado_actual": "Regular, ha sufrido modificaciones desde que se inició el proceso de puesta en valor para fomentar el\nturismo.",
+  "observaciones": "En el año 1993, a pedido del entonces director del INC, se plantó algunas esculturas líticas fungiformes en el área del Inka Uyo encontradas en casa aledañas. Esto causo una mala interpretación y muchos, confundieron el lugar con un \"Templo de la Fertilidad”. Esta versión, sin embargo, ha sido descartada, pues tanto en la época Lupaca, como en la Inca o virreinal no existió ninguna referencia al respecto y tampoco se menciona en las excavaciones antes mencionadas sobre tales estructuras.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Ubicado a 18 km. al sur de la capital de Puno, en la ciudad de Chucuito, a unos 3873 m.s.n.m., antigua capital y centro administrativo del reino aimara Lupaca, que posteriormente pasó a tener dominio Inca.\nSe trata de una intrigante construcción conocida como Inka Uyu, que corresponde a una construcción de estilo Inca, probablemente para cumplir alguna función ceremonial, este recinto tiene muros con medidas de 10 x 10 m., que posee 2 hileras de piedra pulida y labrada, que sin duda fue claramente modelada con el estilo de piedra poligonal del Cusco.\nPara el arqueólogo Charles Stanish, por la forma de las otras piedras encontradas cerca de la estructura indicarían que esta o una estructura asociada tenían ventanas. Por tanto, la estructura no era un ushnu, o plataforma ceremonial.\nEn 1940, Marion Tschopik, excavó la estructura encontrando muros de piedra de la época colonial, cerámica y huesos de llama, pero no encontró estratigrafía prehistórica (Hyslop 1984:129-130). Cieza de León sostiene que el edificio incaico en Chucuito se hizo durante el gobierno de Pachacuti Inca ([155 3b] 1967: 204), su función no ha sido comprendida, aún, cuando puede tratarse de un ushnu o lugar donde se sentaba el Inca cuando visitaba Chucuito y desde donde se leían las proclamas.\nLa hilera superior de piedras del Inca Uyu fue encontrada y reemplazada por Orompelio Vidal en la década de 1960, quien continuó excavaciones en el sitio. Otra teoría señala que Chucuito fue probablemente una parada de descanso en la peregrinación a la Isla del Sol desde Cuzco.\nHyslop relata también que le hablaron de otra estructura llamada Kurinuyu, al este del Inka Uyu, sin embargo, nadie conoce su ubicación o algún rastro de su existencia.\nEstas ruinas precolombinas aún mantienen misterio de su real función, lo que lo convierte aún más atractivo, solo se tarda 30 minutos en llegar a Inca Uyo desde la ciudad de Puno y está abierta todo el año."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "Fue declarado Patrimonio Cultural de la Nación, como sitio arqueológico, mediante R.D,N. Nº 296/INC-2003 del 15 de mayo de 2003, por el Instituto Nacional de Cultura. En el año 2021, recibe reconocimiento del Sello Internacional Safe Travel con los circuitos del destino Puno-Lago Titicaca."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Regular, ha sufrido modificaciones desde que se inició el proceso de puesta en valor para fomentar el\nturismo."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "En el año 1993, a pedido del entonces director del INC, se plantó algunas esculturas líticas fungiformes en el área del Inka Uyo encontradas en casa aledañas. Esto causo una mala interpretación y muchos, confundieron el lugar con un \"Templo de la Fertilidad”. Esta versión, sin embargo, ha sido descartada, pues tanto en la época Lupaca, como en la Inca o virreinal no existió ninguna referencia al respecto y tampoco se menciona en las excavaciones antes mencionadas sobre tales estructuras."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nVisitantes Locales(Excursionistas)\n1408\nInforme técnico del flujo de visitantes.\n2022\nValidado por la DIRCETUR PUNO.\nTuristas Nacionales\n2347\nInforme técnico del flujo de visitantes.\n2022\nValidado por la DIRCETUR PUNO.\nTuristas Extranjeros\n1875\nInforme técnico del flujo de visitantes.\n2022\nValidado por la DIRCETUR PUNO."
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nPuno/Puno/Puno\n-\nPuno/Puno/Chucuito\nParadero interdistrital del Jr. Banchero Rossi - Plaza de armas de Chucuito\nTerrestre\nCombi\nAsfaltado\n18 km / 20 min.\n1\nPuno/Puno/Chucuito\n-\nPuno/Puno/Chucuito\nPlaza de Armas de Chucuito - Al recurso\nTerrestre\nA pie\nAsfaltado\n300 m / 5 min."
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nAdulto Extranjero: S/. 6.00, Adulto Nacional: S/. 3.00, Niños: S/. 1.00"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n08:00 a.m.\n-\n04:00 p.m.\nLunes - domingo"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nCompras de artesanía/souvenir\n--\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nEstudios e Investigación\n--\nNaturaleza\nObservación de paisaje\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nOtros Servicios Turísticos\nVenta de artesanía\n--\nInstalaciones Públicas\nServicios Públicos\nBoletería\n--\nInstalaciones Públicas\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\n4 estrellas en la ciudad de Chucuito.\nAlojamiento\nAlbergues\nCiudad de Chucuito.\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Chucuito.\nAlimentación\nRestaurantes\nCiudad de Chucuito.\nAlimentación\nKioskos de comida y bebidas\nCiudad de Chucuito.\nLugares de Recreación\nCentros Deportivos\nCiudad de Chucuito.\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Chucuito.\nServicios Públicos\nMiradores turísticos\nCiudad de Chucuito.\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\nCiudad de Chucuito.\nServicios Públicos\nPuesto de auxilio rápido\nPuesto de salud en la ciudad de Chucuito.\nServicios Públicos\nCentros de interpretación\nCiudad de Chucuito.\nServicios Públicos\nMuseo de Sitio Turísticos\nCiudad de Chucuito.\nAlojamiento\nHostales (especificar categorías)\n3 estrellas en la ciudad de Chucuito.\nAlimentación\nCafeterías\nCiudad de Chucuito."
+    },
+    {
+      "titulo": "Servicios Complementarios dentro del recurso",
+      "contenido": "Servicio Complementario\nObservación\nBodegas o minimarkets\n--"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nCentro de salud - tópico\nCentro de salud de Chucuito.\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Chucuito.\nServicios de internet\nCiudad de Chucuito.\nSeguridad / POLTUR / Comisaría\nComisaria de Chucuito.\nLibrerías\nCiudad de Chucuito.\nBodegas o minimarkets\nCiudad de Chucuito."
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Chucuito.\nLuz (Suministro Eléctrico)\nCiudad de Chucuito.\nAlcantarillado sanitario\nCiudad de Chucuito.\nTeléfono\nCiudad de Chucuito.\nAlternativo de Residuos (Biodigestor, pozo séptico, otros)\nCiudad de Chucuito."
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nMunicipalidad Distrital de Chucuito\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nLey General del Patrimonio Cultural de la Nación 28296\nAdministrador por\nNombre\nMunicipalidad Distrital de Chucuito\nTiempo de administración\nDesde el año 2008"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo Puno\nNombre (Persona(s) responsable(s) del inventario turístico):\nArq. Vadim Masciotti Cabala\nCargo:\nDirector de Turismo - DIRCETUR Puno\nCorreo:\nvmasciotti@dirceturpuno.gob.pe\nTeléfono:\n958618196\nFuentes Bibliográfica:\n• Charles Stanish, Amanda B. Cohen, and Mark S. Aldenderfer (2005) Advances in Titicaca Basin Archaeology-1. Cotsen Institute of Archaeology.\n• Charles Stanish, Edmundo de La Vega, Lee Steadman, Matthew T. Seddon, Cecilia Chavez Justo, Percy Calisaya Chuquimia, Kirk Lawrence Frye, Luperio Onofre Mamani. (1997) Archaeological Survey in the Juli-Desaguadero Region of Lake Titicaca Basin, Southern Peru. Published By Field Museum Of Natural History.\n• John Hyslop, El área Lupaca Bajo El Dominio Incaico Un Reconocimiento Arqueológico (1979) Institute of Andean Research- New York.\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n7/12/2022"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -15.894302,
+    "longitud": -69.88909899999999
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-15.894302,-69.88909899999999"
+}

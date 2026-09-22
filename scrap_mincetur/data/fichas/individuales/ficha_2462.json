@@ -1,0 +1,229 @@
+{
+  "cod_ficha": 2462,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=2462",
+  "nombre": "Complejo Ecoturìstico Seccsachaca - Villa Cariño",
+  "departamento": "Huancavelica",
+  "provincia": "Huancavelica",
+  "distrito": "HUANCAVELICA",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "ñ. Zonas paisajísticas",
+  "subtipo": "Otros",
+  "jerarquia": "1",
+  "altitud": "3748",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=616631",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=616631",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=616683",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=616633",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=616684",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=616634",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=616635",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=616636",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=616637"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Estudios e Investigación"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Huancavelica/Huancavelica/Huancavelica - Huancavelica/Huancavelica/Huancavelica",
+      "detalle": "Huancavelica Plaza Ramòn Castilla- Complejo Seqsachaca",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "",
+      "distancia_tiempo": "1.5 km/35 Min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Huancavelica/Huancavelica/Huancavelica - Huancavelica/Huancavelica/Huancavelica",
+      "detalle": "Plaza Ramon Castilla - Complejo Ecoturìstico Seqsachaca",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Taxi",
+      "tipo_via": "",
+      "distancia_tiempo": "1.5 Km/15 Min."
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "3680",
+      "horario": "Informe Tecnico Nº 001-2025-GDE/MPH",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "800",
+      "horario": "Informe Tècnico Nº 001-2025/GDE/MPH",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "09:00 a.m. - 02:00 p.m. Martes a domingo.",
+      "observaciones": "Martes a domingo."
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "S/. 10.00 Adultos, S/. 5.00 Niños"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "En español"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "1 a 3 estrella - ciudad de Huancavelica"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Huancavelica"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Internet",
+      "observacion": "Ciudad de Huancavelica"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "1-3 estrellas, ciudad de Huancavelica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de Huancavelica"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "ciudad de Huancavelica - portales del municipio y mercado local."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "ciudad de Huancavelica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Policía de Turismo y Municipalidad Provincial de Huancavelica."
+    }
+  ],
+  "descripcion": "El complejo Ecoturístico Villa Cariño “Santuario del amor” se encuentra en el paraje de Paturpampa del barrio de San Cristóbal de la ciudad de Huancavelica, con una altitud de 3748 m.s.n.m., pertenece a la región natural Suni, siendo frígida por las noches y soleada por el día.\nEl área de Villa Cariño, también conocida como Tres Boas, se encuentra situada a la margen izquierda del río Ichu. Protegido por una muralla que alberga dos circuitos turísticos establecidos en 4 ha, un sitio ideal para practicar excursiones, donde tienen la posibilidad de recorrer todo el parque para descubrir sus encantos. A lo largo del recorrido, descubrirás rocas con siluetas humanas. Además, si visitas el mirador ubicado dentro del complejo, podrás apreciar los espectaculares paisajes. Desde este momento, tendrás una perspectiva única de las hermosuras naturales que adornan. Adicionalmente, es el lugar ideal para una sesión de fotografía artística, ya que dispondrás de uno de los paisajes más hermosos de Huancavelica.\nDurante el trayecto conocerás espacios de formaciones geológicas de origen volcánico, brindando a la vista peñascos gigantes con grutas, recintos, pasadizos, siluetas de rostros y miradores naturales que a toda visitante llama atención. Los espacios también presentan piscina con agua mineros medicinales, sus salidas forman tres niveles de caídas naturales de aguas con presencia de estalactitas, espacio más conocido como Tres Boas, de acuerdo a las características geomorfológicas de la zona. En el camino te encontrarás con unas misteriosas cuevas en las que podrás ingresar para vivir una aventura. Lo más interesante de este viaje es que no tendrás ningún inconveniente con las rutas, ya que, al ser un complejo turístico, está perfectamente adecuado con caminos señalizados y protegidos para que no tengas problemas con los recorridos. Además, estos caminos se rodean de una vegetación extraordinaria, que te llevarán por un viaje inolvidable\nPor otra parte, si te gustan los deportes extremos, en el complejo tienes la opción de escalar por una elevada pared con ayuda de unas cuerdas. Esta actividad está adecuada para todo el público porque no requiere ningún tipo de experiencia; además, puedes desarrollar las actividades de natación, camping e incluso tiene espacios para cocinar unas parrillas a tu gusto.\nFinalmente, no puedes dejar de conocer su puente colgante de cuerdas, y las estatuas que se encuentran por el parque, Villa cariño, es vivir aventuras inolvidables.",
+  "particularidades": "",
+  "estado_actual": "Buenas condiciones,administrado por la Municipalidad Provincial de Huancavelica",
+  "observaciones": "Ubicado a lado este de Huancavelica a 15 min.,con los comités de autos 2, 3 y 7, hasta la altura del Baño los Incas, con movilidad particular hasta la puerta del ingreso, previo pago.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "El complejo Ecoturístico Villa Cariño “Santuario del amor” se encuentra en el paraje de Paturpampa del barrio de San Cristóbal de la ciudad de Huancavelica, con una altitud de 3748 m.s.n.m., pertenece a la región natural Suni, siendo frígida por las noches y soleada por el día.\nEl área de Villa Cariño, también conocida como Tres Boas, se encuentra situada a la margen izquierda del río Ichu. Protegido por una muralla que alberga dos circuitos turísticos establecidos en 4 ha, un sitio ideal para practicar excursiones, donde tienen la posibilidad de recorrer todo el parque para descubrir sus encantos. A lo largo del recorrido, descubrirás rocas con siluetas humanas. Además, si visitas el mirador ubicado dentro del complejo, podrás apreciar los espectaculares paisajes. Desde este momento, tendrás una perspectiva única de las hermosuras naturales que adornan. Adicionalmente, es el lugar ideal para una sesión de fotografía artística, ya que dispondrás de uno de los paisajes más hermosos de Huancavelica.\nDurante el trayecto conocerás espacios de formaciones geológicas de origen volcánico, brindando a la vista peñascos gigantes con grutas, recintos, pasadizos, siluetas de rostros y miradores naturales que a toda visitante llama atención. Los espacios también presentan piscina con agua mineros medicinales, sus salidas forman tres niveles de caídas naturales de aguas con presencia de estalactitas, espacio más conocido como Tres Boas, de acuerdo a las características geomorfológicas de la zona. En el camino te encontrarás con unas misteriosas cuevas en las que podrás ingresar para vivir una aventura. Lo más interesante de este viaje es que no tendrás ningún inconveniente con las rutas, ya que, al ser un complejo turístico, está perfectamente adecuado con caminos señalizados y protegidos para que no tengas problemas con los recorridos. Además, estos caminos se rodean de una vegetación extraordinaria, que te llevarán por un viaje inolvidable\nPor otra parte, si te gustan los deportes extremos, en el complejo tienes la opción de escalar por una elevada pared con ayuda de unas cuerdas. Esta actividad está adecuada para todo el público porque no requiere ningún tipo de experiencia; además, puedes desarrollar las actividades de natación, camping e incluso tiene espacios para cocinar unas parrillas a tu gusto.\nFinalmente, no puedes dejar de conocer su puente colgante de cuerdas, y las estatuas que se encuentran por el parque, Villa cariño, es vivir aventuras inolvidables."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Buenas condiciones,administrado por la Municipalidad Provincial de Huancavelica"
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "Ubicado a lado este de Huancavelica a 15 min.,con los comités de autos 2, 3 y 7, hasta la altura del Baño los Incas, con movilidad particular hasta la puerta del ingreso, previo pago."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nVisitantes Locales(Excursionistas)\n3680\nInforme Tecnico Nº 001-2025-GDE/MPH\n2024\nEl ingreso es en registro físico, durante el horario establecido\nTuristas Nacionales\n800\nInforme Tècnico Nº 001-2025/GDE/MPH\n2024\nEl ingreso se registra en fìsico durante la programaciòn del horario establecido."
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nHuancavelica/Huancavelica/Huancavelica\n-\nHuancavelica/Huancavelica/Huancavelica\nHuancavelica Plaza Ramòn Castilla- Complejo Seqsachaca\nTerrestre\nA pie\n1.5 km/35 Min\n1\nHuancavelica/Huancavelica/Huancavelica\n-\nHuancavelica/Huancavelica/Huancavelica\nPlaza Ramon Castilla - Complejo Ecoturìstico Seqsachaca\nTerrestre\nTaxi\n1.5 Km/15 Min."
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nS/. 10.00 Adultos, S/. 5.00 Niños"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n09:00 a.m.\n-\n02:00 p.m.\nMartes a domingo."
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nEstudios e Investigación\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nEn español"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHostales (especificar categorías)\n1 a 3 estrella - ciudad de Huancavelica\nAlimentación\nRestaurantes\nCiudad de Huancavelica\nOtros Servicios Turísticos\nServicio de Internet\nCiudad de Huancavelica\nAlojamiento\nHoteles (especificar categorías)\n1-3 estrellas, ciudad de Huancavelica.\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de Huancavelica\nOtros Servicios Turísticos\nVenta de artesanía\nciudad de Huancavelica - portales del municipio y mercado local.\nServicios Públicos\nEstacionamiento de vehículos\nciudad de Huancavelica.\nServicios Públicos\nOficina de Información turística\nPolicía de Turismo y Municipalidad Provincial de Huancavelica."
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Huancavelica.\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Huancavelica.\nCentro de salud - tópico\nCiudad de Huancavelica.\nSeguridad / POLTUR / Comisaría\nCiudad de Huancavelica.\nBodegas o minimarkets\nCiudad de Huancavelica.\nServicios de taxis\nCiudad de Huancavelica."
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\n--\nLuz (Suministro Eléctrico)\n--\nSeñalización turística\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Huancavelica\nLuz (Suministro Eléctrico)\nCiudad de Huancavelica\nAlcantarillado sanitario\nCiudad de Huancavelica\nTeléfono\nCiudad de Huancavelica"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nMunicipalidad provincial de Huancavelica\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nEn tramite de delimitación del espacio físico por la municipalidad provincial de Huancavelica\nAdministrador por\nNombre\nMunicipalidad provincial de Huancavelica\nTiempo de administración\nDesde el año 1941"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirecciòn Regional de Comercio Exterior, Turismo y Artesanía de Huancavelica.\nNombre (Persona(s) responsable(s) del inventario turístico):\nYovana Cuicapusa Ccanto\nCargo:\nEspecialista de Turismo\nCorreo:\nyovalinas@yahoo.es\nTeléfono:\n067 - 452938\nFuentes Bibliográfica:\n*Estampas huancavelica, Quijada Jara Sergio, ediciòn Dugrafis, 1985 - Lima Perù.\n*Historia de Huancavelica, Salas Guevara, Federico, ediciòn Acerva, 2008 - Lima Perù.\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n29/09/2025 10:20:54"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -12.784248891230222,
+    "longitud": -74.9435933452607
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-12.784248891230222,-74.9435933452607"
+}

@@ -1,0 +1,376 @@
+{
+  "cod_ficha": 8433,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=8433",
+  "nombre": "Casa De Artesanos Don Bosco",
+  "departamento": "Lima",
+  "provincia": "Lima",
+  "distrito": "BARRANCO",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Arquitectura y Espacios Urbanos",
+  "subtipo": "Casa de Valor Arquitectónico",
+  "jerarquia": "2",
+  "altitud": "20",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=294009",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=294009",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=463140",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=463186",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=463187"
+  ],
+  "actividades_permitidas": [
+    "Otros - Compras de artesanía/souvenir",
+    "Otros - Toma de fotografías y filmaciones"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Compras de artesanía/souvenir",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/artesania02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Lima/Lima/Lima - Lima/Lima/Barranco",
+      "detalle": "Plaza Mayor - Casa de Artesanos Don Bosco",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "15.5 Km / 20 minutos"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Lima/Lima/Barranco - Lima/Lima/Barranco",
+      "detalle": "Plaza Municipal de Barranco - Casa de Artesanos Don Bosco",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "900 m / 10 min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "8158",
+      "horario": "ANÁLISIS DE CARGA TURÍSTICA PARA BARRANCO 2022 y PERFIL DEL VISITANTE DE BARRANCO 2022",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "5099",
+      "horario": "ANÁLISIS DE CARGA TURÍSTICA PARA BARRANCO 2022 y PERFIL DEL VISITANTE DE BARRANCO 2022",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "7138",
+      "horario": "ANÁLISIS DE CARGA TURÍSTICA PARA BARRANCO 2022 y PERFIL DEL VISITANTE DE BARRANCO 2022",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "11:00 a.m. - 06:30 p.m. De martes a sábado 11 a.m. a 8 p.m. Domingo 2 p.m. a 7 p.m.",
+      "observaciones": "De martes a sábado 11 a.m. a 8 p.m. Domingo 2 p.m. a 7 p.m."
+    },
+    {
+      "epoca": "Personas con discapacidad física",
+      "especificacion": "Senderos accesibles",
+      "horario": "--",
+      "observaciones": "--"
+    },
+    {
+      "epoca": "Personas con discapacidad mental",
+      "especificacion": "Senderos accesibles a pie, andador y silla de ruedas.",
+      "horario": "--",
+      "observaciones": "--"
+    },
+    {
+      "epoca": "Personas con discapacidad intelectual",
+      "especificacion": "Senderos accesibles a pie, andador y silla de ruedas.",
+      "horario": "--",
+      "observaciones": "--"
+    },
+    {
+      "epoca": "Personas con discapacidad sensorial",
+      "especificacion": "Senderos accesibles a pie, andador y silla de ruedas.",
+      "horario": "--",
+      "observaciones": "--"
+    },
+    {
+      "epoca": "Niños",
+      "especificacion": "Senderos y escalera accesible en el Primer nivel y segundo nivel",
+      "horario": "--",
+      "observaciones": "--"
+    },
+    {
+      "epoca": "Jóvenes",
+      "especificacion": "Senderos y escalera accesible en el Primer nivel y segundo nivel",
+      "horario": "--",
+      "observaciones": "--"
+    },
+    {
+      "epoca": "Adulto mayor",
+      "especificacion": "Senderos accesibles",
+      "horario": "--",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": "Lunes a Sábado de 10:30 am a 07:30 pm"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicios Higiénicos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "Hoteles de Cinco, y Tres Estrellas - Miraflores."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Apart-hoteles (especificar categorías)",
+      "observacion": "Miraflores"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "Categoría de Tres y Dos Estrellas - Miraflores"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Albergues",
+      "observacion": "Barranco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Barranco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Barranco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Barranco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Barranco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Barranco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Barranco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Barranco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Barranco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Peñas",
+      "observacion": "Barranco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Barranco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Barranco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Barranco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de bicicleta",
+      "observacion": "Barranco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Oficina de Información",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Barranco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Barranco"
+    }
+  ],
+  "descripcion": "La exposición-venta se exhibe en una casa con características típicas de fines del siglo XIX, llamado Rancho Arístides Álvarez. Se encuentra ubicado en plena Avenida San Martín con el número 135. Lleva el nombre de primer propietario, quien la construyó en el año 1924, en plena belle epoqué de surgimiento de Barranco, como un distrito social propicio para recibir ingleses, italianos, alemanes y españoles y franceses que dejaron sus nombres estampados en nuestra historia vecinal y cultural. Varios de estos inmigrantes construyeron sus ranchos con estilos propios de su arraigo europeos que subsisten hasta hoy. De influencia neoclásica, es de dos plantas, amplias terrazas con barandales, techos de tejas, y el hall de entrada con columnas que sostienen una de las terrazas. Álvarez era dueño de un terreno ubicado en la antigua avenida Terry. La obra estuvo a cargo del ingeniero Germán E. Pflucker. La licencia de construcción se solicita basándose en los planos con diseño de “finca alta y baja”, con la albañilería de adobe en los bajos y telares de quincha para los altos. Como elementos externos se señalaron cercos de adobe y fierro, los cimientos y las columnas hechas de concreto, hermosas escaleras de mármol, techos con cubiertas de tejas, balaustres con cenefas de madera. Como internos estaban las escaleras y techos de madera, zócalos y pisos entablados, y puertas de madera y vidrio, y rejas de fierro forjado.\nEsta hermosa casa era conocida como el “Rancho San Martín”. Para poder albergar la muestra, la casa tuvo que ser restaurada. Este proyecto fue realizado por la arquitecta Katia Ampuero y la restauradora Ana Elisa Berenguel, quienes realizaron algunos cambios al inmueble, previa autorización del Ministerio de Cultura. Se habilitó una rampa en la entrada principal; internamente se eliminaron unos arcos que no iban con el estilo de la casa, cambiándolos por marcos cuadrados; se colocaron zanjas de ventilación en el patio para absorber la humedad; la escalera de madera interna fue restaurada por completo y las puertas posteriores tuvieron que adaptarse para ser usadas como salidas de emergencia. El inmueble está compuesto por dos lotes (el de exposición y una vivienda), los cuales fueron unidos por una escalera de fierro en reemplazo de la antigua escalera de madera que se encontraba en mal estado; se colocó un sistema de iluminación en las habitaciones. Tras la restauración, se conservó una pared con enchape y la imagen de Santa Marta ubicada en el patio posterior. Los pisos originales, formados por mosaicos empastados que datan de las primeras décadas del siglo XX, se conservaron en su totalidad. Con respecto a los colores, estos hacen referencia a la piedra y el mármol, y fueron elegidos basándose en investigaciones históricas realizadas. La casa está abierta durante su horario de atención, y la afluencia de turistas (mayormente extranjeros) es constante por su ubicación, belleza, contenido, y total accesibilidad. Igualmente, los vínculos con la congregación salesiana en Italia y toda Europa, así como la promoción y venta a través de su página web y redes sociales, motivan el interés internacional por visitarla.",
+  "particularidades": "Desde el año 2011, Artesanos Don Bosco cuenta con una exhibición permanente y venta de sus obras en el Rancho Arístides Álvarez. Los artesanos y artesanas del pueblo de Chacas en Ancash fabrican muebles, textiles, arte sacra, adornos en vidrio - piedra, hermosos cuadros hechos con polvo de vidrio, entre otros. También llevan estudios de especialización en tallado y escultura en madera, restauración, pintura artística, vitrales, vidrio - fusión, repujado en cobre y tallado en piedra.",
+  "estado_actual": "Muy Bueno, por la restauración y constante mantenimiento de sus dueños.",
+  "observaciones": "Av. San Martin 135. Telf. 713 1344 / correo: arquitecto.donbosco@gmail.com / web: http://www.artesanosdonbosco.org",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "La exposición-venta se exhibe en una casa con características típicas de fines del siglo XIX, llamado Rancho Arístides Álvarez. Se encuentra ubicado en plena Avenida San Martín con el número 135. Lleva el nombre de primer propietario, quien la construyó en el año 1924, en plena belle epoqué de surgimiento de Barranco, como un distrito social propicio para recibir ingleses, italianos, alemanes y españoles y franceses que dejaron sus nombres estampados en nuestra historia vecinal y cultural. Varios de estos inmigrantes construyeron sus ranchos con estilos propios de su arraigo europeos que subsisten hasta hoy. De influencia neoclásica, es de dos plantas, amplias terrazas con barandales, techos de tejas, y el hall de entrada con columnas que sostienen una de las terrazas. Álvarez era dueño de un terreno ubicado en la antigua avenida Terry. La obra estuvo a cargo del ingeniero Germán E. Pflucker. La licencia de construcción se solicita basándose en los planos con diseño de “finca alta y baja”, con la albañilería de adobe en los bajos y telares de quincha para los altos. Como elementos externos se señalaron cercos de adobe y fierro, los cimientos y las columnas hechas de concreto, hermosas escaleras de mármol, techos con cubiertas de tejas, balaustres con cenefas de madera. Como internos estaban las escaleras y techos de madera, zócalos y pisos entablados, y puertas de madera y vidrio, y rejas de fierro forjado.\nEsta hermosa casa era conocida como el “Rancho San Martín”. Para poder albergar la muestra, la casa tuvo que ser restaurada. Este proyecto fue realizado por la arquitecta Katia Ampuero y la restauradora Ana Elisa Berenguel, quienes realizaron algunos cambios al inmueble, previa autorización del Ministerio de Cultura. Se habilitó una rampa en la entrada principal; internamente se eliminaron unos arcos que no iban con el estilo de la casa, cambiándolos por marcos cuadrados; se colocaron zanjas de ventilación en el patio para absorber la humedad; la escalera de madera interna fue restaurada por completo y las puertas posteriores tuvieron que adaptarse para ser usadas como salidas de emergencia. El inmueble está compuesto por dos lotes (el de exposición y una vivienda), los cuales fueron unidos por una escalera de fierro en reemplazo de la antigua escalera de madera que se encontraba en mal estado; se colocó un sistema de iluminación en las habitaciones. Tras la restauración, se conservó una pared con enchape y la imagen de Santa Marta ubicada en el patio posterior. Los pisos originales, formados por mosaicos empastados que datan de las primeras décadas del siglo XX, se conservaron en su totalidad. Con respecto a los colores, estos hacen referencia a la piedra y el mármol, y fueron elegidos basándose en investigaciones históricas realizadas. La casa está abierta durante su horario de atención, y la afluencia de turistas (mayormente extranjeros) es constante por su ubicación, belleza, contenido, y total accesibilidad. Igualmente, los vínculos con la congregación salesiana en Italia y toda Europa, así como la promoción y venta a través de su página web y redes sociales, motivan el interés internacional por visitarla."
+    },
+    {
+      "titulo": "Particularidades",
+      "contenido": "Desde el año 2011, Artesanos Don Bosco cuenta con una exhibición permanente y venta de sus obras en el Rancho Arístides Álvarez. Los artesanos y artesanas del pueblo de Chacas en Ancash fabrican muebles, textiles, arte sacra, adornos en vidrio - piedra, hermosos cuadros hechos con polvo de vidrio, entre otros. También llevan estudios de especialización en tallado y escultura en madera, restauración, pintura artística, vitrales, vidrio - fusión, repujado en cobre y tallado en piedra."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "Declarado Monumento histórico por R.J. Nº 009-89-INC/J con fecha 12 de enero 1989."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Muy Bueno, por la restauración y constante mantenimiento de sus dueños."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "Av. San Martin 135. Telf. 713 1344 / correo: arquitecto.donbosco@gmail.com / web: http://www.artesanosdonbosco.org"
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n8158\nANÁLISIS DE CARGA TURÍSTICA PARA BARRANCO 2022 y PERFIL DEL VISITANTE DE BARRANCO 2022\n2022\nRealizado por Consultoría e Inversiones de Desarrollo Económico Holística (consultor César Rodríguez Vergaray, Jefe de Proyectos) para la Municipalidad de Barranco en Mayo - Junio 2022.\nTuristas Nacionales\n5099\nANÁLISIS DE CARGA TURÍSTICA PARA BARRANCO 2022 y PERFIL DEL VISITANTE DE BARRANCO 2022\n2022\nRealizado por Consultoría e Inversiones de Desarrollo Económico Holística (consultor César Rodríguez Vergaray, Jefe de Proyectos) para la Municipalidad de Barranco en Mayo - Junio 2022.\nVisitantes Locales(Excursionistas)\n7138\nANÁLISIS DE CARGA TURÍSTICA PARA BARRANCO 2022 y PERFIL DEL VISITANTE DE BARRANCO 2022\n2022\nRealizado por Consultoría e Inversiones de Desarrollo Económico Holística (consultor César Rodríguez Vergaray, Jefe de Proyectos) para la Municipalidad de Barranco en Mayo - Junio 2022."
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nLima/Lima/Lima\n-\nLima/Lima/Barranco\nPlaza Mayor - Casa de Artesanos Don Bosco\nTerrestre\nAutomóvil particular\nAsfaltado\n15.5 Km / 20 minutos\n2\nLima/Lima/Barranco\n-\nLima/Lima/Barranco\nPlaza Municipal de Barranco - Casa de Artesanos Don Bosco\nTerrestre\nA pie\nAsfaltado\n900 m / 10 min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre\nLunes a Sábado de 10:30 am a 07:30 pm"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n11:00 a.m.\n-\n06:30 p.m.\nDe martes a sábado 11 a.m. a 8 p.m.\nDomingo 2 p.m. a 7 p.m."
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nCompras de artesanía/souvenir\n--\nOtros\nToma de fotografías y filmaciones\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nOtros Servicios Turísticos\nVenta de artesanía\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nServicios Higiénicos\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\nHoteles de Cinco, y Tres Estrellas - Miraflores.\nAlojamiento\nApart-hoteles (especificar categorías)\nMiraflores\nAlojamiento\nHostales (especificar categorías)\nCategoría de Tres y Dos Estrellas - Miraflores\nAlojamiento\nAlbergues\nBarranco\nAlimentación\nRestaurantes\nBarranco\nAlimentación\nBares\nBarranco\nAlimentación\nCafeterías\nBarranco\nAlimentación\nFuentes de soda\nBarranco\nAlimentación\nKioskos de comida y bebidas\nBarranco\nAlimentación\nVenta de comida Rápida\nBarranco\nLugares de Recreación\nDiscotecas\nBarranco\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nBarranco\nLugares de Recreación\nPeñas\nBarranco\nLugares de Recreación\nJuegos Infantiles\nBarranco\nOtros Servicios Turísticos\nVenta de artesanía\nBarranco\nOtros Servicios Turísticos\nAgencia de Viajes\nBarranco\nOtros Servicios Turísticos\nAlquiler de bicicleta\nBarranco\nOtros Servicios Turísticos\nOficina de Información\n--\nServicios Públicos\nOficina de Información turística\nBarranco\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nBarranco"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nBarranco\nBancos\nBarranco\nCajero automático\nBarranco\nCasa de cambio\nBarranco\nEstación de servicios, grifos, gasolineras y gasocentros\nBarranco\nServicio de correos\nBarranco\nServicio de estacionamiento\nBarranco\nServicios de taxis\nBarranco\nServicios de salvavidas\nBarranco\nCentro de salud - tópico\nBarranco\nVenta de materiales para fotografías\nBarranco\nSeguridad / POLTUR / Comisaría\nBarranco\nAlquiler y compra de equipos deportivos\nBarranco\nLibrerías\nBarranco\nBodegas o minimarkets\nBarranco"
+    },
+    {
+      "titulo": "Condiciones de Accesibilidad al Visitante",
+      "contenido": "Visitante\nInstalación\nActividades y/o programas\nEquipamiento\nObservación\nPersonas con discapacidad física\nSenderos accesibles\n--\n--\n--\nPersonas con discapacidad mental\nSenderos accesibles a pie, andador y silla de ruedas.\n--\n--\n--\nPersonas con discapacidad intelectual\nSenderos accesibles a pie, andador y silla de ruedas.\n--\n--\n--\nPersonas con discapacidad sensorial\nSenderos accesibles a pie, andador y silla de ruedas.\n--\n--\n--\nNiños\nSenderos y escalera accesible en el Primer nivel y segundo nivel\n--\n--\n--\nJóvenes\nSenderos y escalera accesible en el Primer nivel y segundo nivel\n--\n--\n--\nAdulto mayor\nSenderos accesibles\n--\n--\n--"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\n--\nDesagüe\n--\nLuz (Suministro Eléctrico)\n--\nTeléfono\n--\nOtros (Especificar)\nInternet"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nBarranco\nAlcantarillado sanitario\nBarranco\nDesagüe\nBarranco\nLuz (Suministro Eléctrico)\nBarranco\nTeléfono\nBarranco\nSeñalización turística\nBarranco\nOtros (Especificar)\nBarranco - Internet"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\n--\nPrivado:\nAsociación de Artesanos Don Bosco (Orden Salesiana)\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nParroquia San Andrés de Llamellin\nNúmero de Partida:\n49073577\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nAsociación de Artesanos Don Bosco (Orden Salesiana)\nTiempo de administración\nDesde 27 de febrero de 2006"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nMunicipalidad de Barranco\nNombre (Persona(s) responsable(s) del inventario turístico):\nDanilo Fernando Gutiérrez Baella\nCargo:\nGestor en Turismo de la Gerencia de Cultura y Turismo\nCorreo:\nturismoenbarranco@gmail.com\nTeléfono:\n987269642\nFuentes Bibliográfica:\nRELACIÓN DE MONUMENTOS HISTÓRICOS DEL PERÚ (1999), INC- CENTRO NACIONAL DE INFORMACIÓN CULTURAL, LUIS MENESES HERMOZA, PG. 59; ARTICULO WEB: ?MAÑANA INAUGURAN LA CASA DE ARTESANOS DON BOSCO?, ANDINA AGENCIA PERUANA DE NOTICIAS, 2011; HTTP://WWW.ANDINA.COM.PE/ESPANOL/NOTICIA-MANANA-INAUGURAN-CASA-ARTESANOS-DON-BOSCO-BARRANCO-390895.ASPX\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\nArchivos de la gestión en Turismo municipal 2019-2022.\nReferencia de las últimas intervenciones en el Recurso Turístico:\nMantenimiento permanente por parte de los propietarios.\nFecha:\n30/11/2022"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -12.145492309957579,
+    "longitud": -77.023052
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-12.145492309957579,-77.023052"
+}

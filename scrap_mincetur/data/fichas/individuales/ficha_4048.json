@@ -1,0 +1,218 @@
+{
+  "cod_ficha": 4048,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=4048",
+  "nombre": "Capilla Pentecostes Esmeralda",
+  "departamento": "Puno",
+  "provincia": "Azangaro",
+  "distrito": "ARAPA",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Arquitectura y Espacios Urbanos",
+  "subtipo": "Capilla",
+  "jerarquia": "1",
+  "altitud": "3842",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=291353",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=291353",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=530664",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=530708",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=530665",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=530666",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=537572",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=537573",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=537574"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Cultura y Folclore - Actividades Religiosas o Patronales",
+    "Otros - Estudios e Investigación",
+    "Naturaleza - Observación de paisaje"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Actividades Religiosas o Patronales",
+      "observacion": "En fechas festivas",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/act_religiosas02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Puno/Azángaro/Azángaro - Puno/Azángaro/Asillo",
+      "detalle": "Terminal de Minibuses de Azángaro - Desvío en la comunidad Huerta Tacama Esmeralda",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "17 kms. / 30 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Puno/Azángaro/Arapa - Puno/Azángaro/Arapa",
+      "detalle": "Desvio en la comunidad Huerta Tacama Esmeralda - Capilla Pentecostés Esmeralda",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Sendero",
+      "distancia_tiempo": "800 mts. / 20 minutos"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "450",
+      "horario": "Conteo muestra por la Municipalidad Distrital de Arapa",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "90",
+      "horario": "Conteo muestra por la Municipalidad Distrital de Arapa",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "08:00 a.m. - 01:00 p.m. --",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Semi-restringido(previo permiso)",
+      "observaciones": "Coordinar con el encargado Sr. Mariano Quispe Mayta."
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "En la ciudad de Azángaro."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "En la ciudad de Azángaro."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "En la ciudad de Azángaro."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "En la ciudad de Azángaro."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "En la ciudad de Azángaro."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "En la ciudad de Azángaro."
+    }
+  ],
+  "descripcion": "La Capilla Pentecostés Esmeralda está ubicada en la Comunidad del mismo nombre, es una construcción de adobe de antigua fábrica, con tarrajeo de argamasa de barro, guarda las características propias de las pequeñas capillas construidas en las zonas rurales andinas durante la época colonial, con el propósito de catequizar a la población.\nHoy se la puede apreciar sola y apartada en una extensa pradera a poca distancia de la ciudad de Azángaro, está compuesta por una pequeña torre cuadrangular hecha de adobe de 3.80 mts. x 3.60 mts. x 8.00 mts. de altura, implementado con 4 pequeñas campanas, techo de calamina a cuatro aguas con tijerales de madera, pequeños vanos en los cuatro lados, en la frentera un vano en la parte media y un vano pequeño sin puerta en la parte baja, la torre está separada de la capilla a 4.00 mts. de distancia.\nLa nave principal de 6.00 mts. por 17.00 mts. de fondo x 7.00 mts. de alto, así como la torre están orientadas hacia el norte, hace pocos años fue refaccionada con techo de calamina en reemplazo del antiguo techo de paja, el frontis de la capilla tiene un retiro hasta donde alcanza el techo de calamina a dos aguas con tijerales de madera a par y nudillo y cumbrera de refuerzo, los muros secundarios de adobe de 0.35 mt. de ancho, la puerta frontal de madera de 1.30 mts. de dos hojas en arco de medio punto, un pequeño atrio con dos gradas interiores, en el exterior a ambos lados de la puerta asientos corridos de adobe y piedra en forma de ele.\nEn el exterior a ambos extremos laterales hay cementerios, cuyas cruces y tumbas demuestran la antigüedad de la capilla. Frente a la capilla se ha delimitado, con un cerco de adobe a 1.60 mts. de alto una amplia área para las celebraciones religiosas de la comunidad.\nEl interior tiene piso de tablones de madera, el altar se diferencia por encontrarse una grada más elevada, las paredes blanqueadas, asientos corridos en los extremos a lo largo de la nave principal, posteriormente se ha agregado bancas de madera en la parte central. Sus ornamentos y las imágenes son muy sencillas, características de las capillas rurales.",
+  "particularidades": "",
+  "estado_actual": "Regular, la comunidad se encarga de mantenimiento.",
+  "observaciones": "Se encuentra aproximadamente a 10 kms. al sur de la ciudad de Azángaro. Formó parte de la hacienda de José Domingo Choquehuanca, Abogado, político e intelectual azangarino.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "La Capilla Pentecostés Esmeralda está ubicada en la Comunidad del mismo nombre, es una construcción de adobe de antigua fábrica, con tarrajeo de argamasa de barro, guarda las características propias de las pequeñas capillas construidas en las zonas rurales andinas durante la época colonial, con el propósito de catequizar a la población.\nHoy se la puede apreciar sola y apartada en una extensa pradera a poca distancia de la ciudad de Azángaro, está compuesta por una pequeña torre cuadrangular hecha de adobe de 3.80 mts. x 3.60 mts. x 8.00 mts. de altura, implementado con 4 pequeñas campanas, techo de calamina a cuatro aguas con tijerales de madera, pequeños vanos en los cuatro lados, en la frentera un vano en la parte media y un vano pequeño sin puerta en la parte baja, la torre está separada de la capilla a 4.00 mts. de distancia.\nLa nave principal de 6.00 mts. por 17.00 mts. de fondo x 7.00 mts. de alto, así como la torre están orientadas hacia el norte, hace pocos años fue refaccionada con techo de calamina en reemplazo del antiguo techo de paja, el frontis de la capilla tiene un retiro hasta donde alcanza el techo de calamina a dos aguas con tijerales de madera a par y nudillo y cumbrera de refuerzo, los muros secundarios de adobe de 0.35 mt. de ancho, la puerta frontal de madera de 1.30 mts. de dos hojas en arco de medio punto, un pequeño atrio con dos gradas interiores, en el exterior a ambos lados de la puerta asientos corridos de adobe y piedra en forma de ele.\nEn el exterior a ambos extremos laterales hay cementerios, cuyas cruces y tumbas demuestran la antigüedad de la capilla. Frente a la capilla se ha delimitado, con un cerco de adobe a 1.60 mts. de alto una amplia área para las celebraciones religiosas de la comunidad.\nEl interior tiene piso de tablones de madera, el altar se diferencia por encontrarse una grada más elevada, las paredes blanqueadas, asientos corridos en los extremos a lo largo de la nave principal, posteriormente se ha agregado bancas de madera en la parte central. Sus ornamentos y las imágenes son muy sencillas, características de las capillas rurales."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Regular, la comunidad se encarga de mantenimiento."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "Se encuentra aproximadamente a 10 kms. al sur de la ciudad de Azángaro. Formó parte de la hacienda de José Domingo Choquehuanca, Abogado, político e intelectual azangarino."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nVisitantes Locales(Excursionistas)\n450\nConteo muestra por la Municipalidad Distrital de Arapa\n2023\nTuristas Nacionales\n90\nConteo muestra por la Municipalidad Distrital de Arapa\n2023"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nPuno/Azángaro/Azángaro\n-\nPuno/Azángaro/Asillo\nTerminal de Minibuses de Azángaro - Desvío en la comunidad Huerta Tacama Esmeralda\nTerrestre\nAutomóvil particular\nAsfaltado\n17 kms. / 30 minutos\n1\nPuno/Azángaro/Arapa\n-\nPuno/Azángaro/Arapa\nDesvio en la comunidad Huerta Tacama Esmeralda - Capilla Pentecostés Esmeralda\nTerrestre\nA pie\nSendero\n800 mts. / 20 minutos"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nSemi-restringido(previo permiso)\nCoordinar con el encargado Sr. Mariano Quispe Mayta."
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n08:00 a.m.\n-\n01:00 p.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nCultura y Folclore\nActividades Religiosas o Patronales\nEn fechas festivas\nOtros\nEstudios e Investigación\n--\nNaturaleza\nObservación de paisaje\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nEn la ciudad de Azángaro.\nAlimentación\nRestaurantes\nEn la ciudad de Azángaro.\nAlimentación\nKioskos de comida y bebidas\nEn la ciudad de Azángaro.\nOtros Servicios Turísticos\nVenta de artesanía\nEn la ciudad de Azángaro.\nLugares de Recreación\nCentros Deportivos\nEn la ciudad de Azángaro.\nServicios Públicos\nEstacionamiento de vehículos\nEn la ciudad de Azángaro."
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nEn la ciudad de Azángaro.\nEstación de servicios, grifos, gasolineras y gasocentros\nEn la ciudad de Azángaro.\nServicio de estacionamiento\nEn la ciudad de Azángaro.\nServicios de taxis\nEn la ciudad de Azángaro.\nCentro de salud - tópico\nHospital en la ciudad de Azángaro.\nVenta de materiales para fotografías\nEn la ciudad de Azángaro.\nSeguridad / POLTUR / Comisaría\nComisaria Sectorial PNP en la ciudad de Azángaro.\nAlquiler y compra de equipos deportivos\nEn la ciudad de Azángaro.\nLibrerías\nEn la ciudad de Azángaro.\nBodegas o minimarkets\nEn la ciudad de Azángaro."
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nLuz (Suministro Eléctrico)\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nEn la ciudad de Azángaro.\nLuz (Suministro Eléctrico)\nEn la ciudad de Azángaro.\nTeléfono\nEn la ciudad de Azángaro.\nAlcantarillado sanitario\nEn la ciudad de Azángaro."
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nMunicipalidad Distrital de Arapa\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nMunicipalidad Distrital de Arapa\nTiempo de administración\nDes del año 2001"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección de Turismo de la DIRCETUR PUNO / Municipalidad Distrital de Arapa\nNombre (Persona(s) responsable(s) del inventario turístico):\nArq. Vadim Masciotti Cabala / Yaneth Huacantara Huanca\nCargo:\nArq. / Responsable de la Unidad de Turismo y Comercio\nCorreo:\nvamasciotti@gmail.com / yekahh29@gamil.com\nTeléfono:\n051 351261 / 991447575\nFuentes Bibliográfica:\nA. Guevara V., Apuntes sobre mi patria: volumen del departamento de Puno – Provincia de Azángaro, Universidad de California, Digitalizado el 5 de junio del 2007.\nJ.M. Talavera C., Monografía de Azángaro, Azángaro, 1983.\nUniversidad Nacional del Altiplano. Facultad de Ciencias de la Educación.\nEstudio Monográfico de Azángaro. F. Núñez R. y G.E Mamani H., Puno, 2009.\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n29/05/2024 16:01:25"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -14.909531,
+    "longitud": -70.195899
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-14.909531,-70.195899"
+}

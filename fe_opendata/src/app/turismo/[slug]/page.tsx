@@ -305,19 +305,6 @@ function FichaTurismoContent({ params }: FichaTurismoPageProps) {
   const rutasAcceso = useMemo(() => parseRutasList(ficha), [ficha]);
   const epocaPropicia = useMemo(() => parseEpocaList(ficha), [ficha]);
 
-  const otherSections = (ficha?.secciones || []).filter((sec) => {
-    const title = sec.titulo.toLowerCase();
-    return (
-      !title.includes('descrip') &&
-      !title.includes('ruta de acceso') &&
-      !title.includes('acceso') &&
-      !title.includes('epoca propicia') &&
-      !title.includes('época propicia') &&
-      !title.includes('actividad') &&
-      !title.includes('responsable')
-    );
-  });
-
   const descriptionParagraphs = useMemo(() => {
     if (!ficha?.descripcion) return [];
     let cleanDesc = ficha.descripcion.trim();
@@ -686,31 +673,6 @@ function FichaTurismoContent({ params }: FichaTurismoPageProps) {
                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                         allowFullScreen
                       />
-                    </div>
-                  </section>
-                )}
-
-                {/* 4. Otras Secciones Oficiales */}
-                {otherSections.length > 0 && (
-                  <section className="space-y-6 pt-4 border-t border-slate-200 dark:border-slate-800">
-                    <div className="flex items-center gap-2">
-                      <Icons.Layers className="w-5 h-5 text-amber-500" />
-                      <h2 className="text-xl font-black tracking-tight text-slate-900 dark:text-white uppercase">
-                        {t('ficha.additionalInfo')}
-                      </h2>
-                    </div>
-
-                    <div className="space-y-6">
-                      {otherSections.map((sec, idx) => (
-                        <div key={sec.id || idx} className="space-y-2">
-                          <h3 className="text-sm font-bold uppercase tracking-wider text-sky-600 dark:text-sky-400">
-                            <DynamicText text={sec.titulo} />
-                          </h3>
-                          <div className="text-sm text-slate-600 dark:text-slate-300 leading-relaxed whitespace-pre-line">
-                            <DynamicText text={sec.contenido_texto} />
-                          </div>
-                        </div>
-                      ))}
                     </div>
                   </section>
                 )}

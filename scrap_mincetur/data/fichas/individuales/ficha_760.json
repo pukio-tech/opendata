@@ -1,0 +1,373 @@
+{
+  "cod_ficha": 760,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=760",
+  "nombre": "Nevado Churup",
+  "departamento": "Áncash",
+  "provincia": "Huaraz",
+  "distrito": "INDEPENDENCIA",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "a. Montañas",
+  "subtipo": "Nevado",
+  "jerarquia": "POR JERARQUIZAR",
+  "altitud": "5495",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=447632",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=447632",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=447686",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=447687",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=447688",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=447689"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Deportes / Aventura - Escalada en Hielo",
+    "Naturaleza - Observación de paisaje",
+    "Deportes / Aventura - Caminata/Trekking",
+    "Deportes / Aventura - Camping"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Escalada en Hielo",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/escalada_hielo02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Camping",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/camping02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Áncash/Huaraz/Huaraz - Áncash/Huaraz/Independencia",
+      "detalle": "Plaza civica de Independencia (Parque los leones)- Caserio de Pitec (Control Parque Nacional Huascarán)",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "20 km/45 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Áncash/Huaraz/Independencia - Áncash/Huaraz/Independencia",
+      "detalle": "Caserío Pitec (Control Parque Nacional Huascarán) - Laguna Churup",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Camino de Herradura",
+      "distancia_tiempo": "3.15 km/2 hrs 30 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Áncash/Huaraz/Independencia - Áncash/Huaraz/Independencia",
+      "detalle": "Laguna churup - Campo base del nevado Churup",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Camino de Herradura",
+      "distancia_tiempo": "4 km / 1 hrs"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "2552",
+      "horario": "Parque Nacional Huascaran",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "1458",
+      "horario": "Parque Nacional Huascaran",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "7407",
+      "horario": "Parque Nacional Huascaran",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Esporádicamente - Algunos meses",
+      "especificacion": "--",
+      "horario": "06:00 a.m. - 05:00 p.m. De mayo a setiembre",
+      "observaciones": "De mayo a setiembre"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "Pago de S/.65.00 nuevos soles al PNH para 30 días de permanencia. Extranjero S/. 30.00 Nacional S/.15.00 Local S/. 5.00"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Paradores turísticos",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de Campamento(camping)",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Puesto de auxilio rápido",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Museo de Sitio Turísticos",
+      "observacion": "Ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Lugares de picnic",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de camionetas 4 x 4",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "1 a 3 estrellas en la Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "1 a 3 estrellas en la Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Independencia"
+    }
+  ],
+  "descripcion": "El Nevado Churup se ubica aproximadamente a 18 km al este del distrito de Independencia, provincia de Huaraz, departamento de Áncash, dentro del ámbito del Parque Nacional Huascarán, área natural protegida administrada por el Servicio Nacional de Áreas Naturales Protegidas por el Estado (SERNANP). Este recurso natural pertenece a la categoría Sitios Naturales, tipo Montaña y subtipo Nevado, alcanzando una altitud aproximada de 5495 m s. n. m. y constituyendo uno de los nevados más representativos y accesibles de la Cordillera Blanca. Se localiza en la región natural Puna, presentando un ecosistema de clima muy húmedo y frígido, con precipitaciones anuales variables entre 680 mm y 1290 mm, y temperaturas medias que oscilan entre 3 °C y 1.5 °C, registrándose durante las noches condiciones permanentes de congelación. El nevado está conformado principalmente por formaciones rocosas granodioríticas y glaciares de gran belleza escénica, alimentando con sus aguas de deshielo a la Laguna Churup, reconocida por el intenso color turquesa de sus aguas, cuya tonalidad varía según la incidencia de la luz solar. El acceso al nevado y a la laguna se realiza desde el caserío de Pitec mediante un sendero de trekking ampliamente utilizado por visitantes nacionales y extranjeros; en el tramo final se deben superar pendientes rocosas y pequeñas secciones de escalada, especialmente en el margen izquierdo del riachuelo que desciende desde la laguna formando pequeñas cascadas, aunque también existe una ruta alternativa de menor dificultad por el margen derecho. El entorno natural alberga una importante diversidad de flora altoandina característica del Parque Nacional Huascarán, destacando especies como el quenual, quishuar, ichu, tsampa estrella, jacapa pishqun, wallpapa chaquin, paraqsha, waqur weta, lleqllish qora y wamanripa, las cuales cumplen funciones ecológicas relacionadas con la protección del suelo y regulación hídrica. Asimismo, se observan especies de fauna silvestre como la vizcacha, gato montés y diversas aves altoandinas, entre ellas los patos silvestres. Debido a sus características naturales, paisajísticas y deportivas, el Nevado Churup constituye un importante destino para actividades de trekking, camping, montañismo, fotografía paisajística y aclimatación de andinistas, siendo frecuentemente visitado por turistas extranjeros, excursionistas y estudiantes de la ciudad de Huaraz interesados en la naturaleza y el turismo de aventura.",
+  "particularidades": "",
+  "estado_actual": "Bueno, porque el Parque Nacional Huascarán en coordinación con la Municipalidad Distrital de Independencia realizan la conservación de dicho recurso.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "El Nevado Churup se ubica aproximadamente a 18 km al este del distrito de Independencia, provincia de Huaraz, departamento de Áncash, dentro del ámbito del Parque Nacional Huascarán, área natural protegida administrada por el Servicio Nacional de Áreas Naturales Protegidas por el Estado (SERNANP). Este recurso natural pertenece a la categoría Sitios Naturales, tipo Montaña y subtipo Nevado, alcanzando una altitud aproximada de 5495 m s. n. m. y constituyendo uno de los nevados más representativos y accesibles de la Cordillera Blanca. Se localiza en la región natural Puna, presentando un ecosistema de clima muy húmedo y frígido, con precipitaciones anuales variables entre 680 mm y 1290 mm, y temperaturas medias que oscilan entre 3 °C y 1.5 °C, registrándose durante las noches condiciones permanentes de congelación. El nevado está conformado principalmente por formaciones rocosas granodioríticas y glaciares de gran belleza escénica, alimentando con sus aguas de deshielo a la Laguna Churup, reconocida por el intenso color turquesa de sus aguas, cuya tonalidad varía según la incidencia de la luz solar. El acceso al nevado y a la laguna se realiza desde el caserío de Pitec mediante un sendero de trekking ampliamente utilizado por visitantes nacionales y extranjeros; en el tramo final se deben superar pendientes rocosas y pequeñas secciones de escalada, especialmente en el margen izquierdo del riachuelo que desciende desde la laguna formando pequeñas cascadas, aunque también existe una ruta alternativa de menor dificultad por el margen derecho. El entorno natural alberga una importante diversidad de flora altoandina característica del Parque Nacional Huascarán, destacando especies como el quenual, quishuar, ichu, tsampa estrella, jacapa pishqun, wallpapa chaquin, paraqsha, waqur weta, lleqllish qora y wamanripa, las cuales cumplen funciones ecológicas relacionadas con la protección del suelo y regulación hídrica. Asimismo, se observan especies de fauna silvestre como la vizcacha, gato montés y diversas aves altoandinas, entre ellas los patos silvestres. Debido a sus características naturales, paisajísticas y deportivas, el Nevado Churup constituye un importante destino para actividades de trekking, camping, montañismo, fotografía paisajística y aclimatación de andinistas, siendo frecuentemente visitado por turistas extranjeros, excursionistas y estudiantes de la ciudad de Huaraz interesados en la naturaleza y el turismo de aventura."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, porque el Parque Nacional Huascarán en coordinación con la Municipalidad Distrital de Independencia realizan la conservación de dicho recurso."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nVisitantes Locales(Excursionistas)\n2552\nParque Nacional Huascaran\n2025\nundefined\nTuristas Nacionales\n1458\nParque Nacional Huascaran\n2025\nundefined\nTuristas Extranjeros\n7407\nParque Nacional Huascaran\n2025\nundefined"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nÁncash/Huaraz/Huaraz\n-\nÁncash/Huaraz/Independencia\nPlaza civica de Independencia (Parque los leones)- Caserio de Pitec (Control Parque Nacional Huascarán)\nTerrestre\nAutomóvil particular\nAsfaltado\n20 km/45 min\n1\nÁncash/Huaraz/Independencia\n-\nÁncash/Huaraz/Independencia\nCaserío Pitec (Control Parque Nacional Huascarán) - Laguna Churup\nTerrestre\nA pie\nCamino de Herradura\n3.15 km/2 hrs 30 min\n1\nÁncash/Huaraz/Independencia\n-\nÁncash/Huaraz/Independencia\nLaguna churup - Campo base del nevado Churup\nTerrestre\nA pie\nCamino de Herradura\n4 km / 1 hrs"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nPago de S/.65.00 nuevos soles al PNH para 30 días de permanencia. Extranjero S/. 30.00 Nacional S/.15.00 Local S/. 5.00"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nEsporádicamente - Algunos meses\n--\n06:00 a.m.\n-\n05:00 p.m.\nDe mayo a setiembre"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nDeportes / Aventura\nEscalada en Hielo\n--\nNaturaleza\nObservación de paisaje\n--\nDeportes / Aventura\nCaminata/Trekking\n--\nDeportes / Aventura\nCamping\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nServicios Públicos\nMiradores turísticos\nCiudad de Independencia\nServicios Públicos\nEstacionamiento de vehículos\nCiudad de Independencia\nServicios Públicos\nParadores turísticos\nCiudad de Independencia\nServicios Públicos\nOficina de Información turística\nCiudad de Independencia\nServicios Públicos\nZonas de Campamento(camping)\nCiudad de Independencia\nServicios Públicos\nCaminos peatonales\nCiudad de Independencia\nServicios Públicos\nPuesto de auxilio rápido\nCiudad de Independencia\nServicios Públicos\nMuseo de Sitio Turísticos\nCiudad de Huaraz\nLugares de Recreación\nDiscotecas\nCiudad de Independencia\nLugares de Recreación\nJuegos Infantiles\nCiudad de Huaraz\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nCiudad de Huaraz\nLugares de Recreación\nCentros Deportivos\nCiudad de Independencia\nLugares de Recreación\nLugares de picnic\nCiudad de Independencia\nLugares de Recreación\nKaraoke\nCiudad de Independencia\nLugares de Recreación\nBares\nCiudad de Independencia\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de Independencia\nOtros Servicios Turísticos\nAlquiler de camionetas 4 x 4\nCiudad de Independencia\nAlimentación\nRestaurantes\nCiudad de Independencia\nAlimentación\nBares\nCiudad de Independencia\nAlimentación\nCafeterías\nCiudad de Independencia\nAlimentación\nFuentes de soda\nCiudad de Independencia\nAlimentación\nKioskos de comida y bebidas\nCiudad de Independencia\nAlimentación\nVenta de comida Rápida\nCiudad de Independencia\nAlojamiento\nHoteles (especificar categorías)\n1 a 3 estrellas en la Ciudad de Independencia\nAlojamiento\nHostales (especificar categorías)\n1 a 3 estrellas en la Ciudad de Independencia\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Independencia"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Independencia\nBancos\nCiudad de Independencia\nCajero automático\nCiudad de Independencia\nCasa de cambio\nCiudad de Independencia\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Independencia\nServicio de correos\nCiudad de Independencia\nServicio de estacionamiento\nCiudad de Independencia\nServicios de taxis\nCiudad de Independencia\nCentro de salud - tópico\nCiudad de Independencia\nVenta de materiales para fotografías\nCiudad de Independencia\nSeguridad / POLTUR / Comisaría\nCiudad de Independencia\nAlquiler y compra de equipos deportivos\nCiudad de Independencia\nLibrerías\nCiudad de Independencia\nBodegas o minimarkets\nCiudad de Independencia"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nSeñalización turística\nsendero señalizado"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Independencia\nAlcantarillado sanitario\nCiudad de Independencia\nLuz (Suministro Eléctrico)\nCiudad de Independencia\nTeléfono\nCiudad de Independencia\nSistemas de tratamiento alternativo de residuos (Biodigestor, pozo séptico, otros)\nCiudad de Independencia"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nPARQUE NACIONAL HUASCARÁN - SERNANP\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nRegistrado con\nNúmero de Partida:\n11300446\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nPARQUE NACIONAL HUASCARÁN - SERNANP\nTiempo de administración\nDesde el año 1975"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDireccion Regional de Comercio Exterior y Turismo de Àncash / Municipalidad Distrital de Independencia\nNombre (Persona(s) responsable(s) del inventario turístico):\nFrank Cristian Olivera Blas/ Pedro Luyo Sanchez\nCargo:\nEspecialista en turismo / Coordinador de la Unidad de Turismo\nCorreo:\ndirceturancashdt2@gmail.com/ Pedroluisls2023@gmail.com\nTeléfono:\n974771911/ 997008614\nFuentes Bibliográfica:\nhttps://www.lugaresturisticosperu.com/nevado-churup/\nCLASIC CLIMB OF THE CORDILLERA BLANCA PERU / AUTOR BRAD JOHNSONAUTORIDAD NACIONAL DEL AGUA. INVENTARIO DE LAGUNAS DE LA CORDILLERA BLANCA. PERÚ: ANA BRAD, J. (2009) CLASSIC CLIMBS OF THE CORDILLERA BLANCA - PERÚ. CHINA: REVISED EDITION.DIAZ, F. (2009) TOURIST MAP: CORDILLERAS BLANCA Y HUAYHUASH. PERÚ: INFORMACIÓN TURÍSTICA KUNTUR.\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n12/06/2026 16:32:07"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -9.471322610028754,
+    "longitud": -77.41772526991105
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-9.471322610028754,-77.41772526991105"
+}

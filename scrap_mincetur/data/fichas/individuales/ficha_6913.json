@@ -1,0 +1,290 @@
+{
+  "cod_ficha": 6913,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=6913",
+  "nombre": "Laguna Patarcocha",
+  "departamento": "Áncash",
+  "provincia": "Asuncion",
+  "distrito": "CHACAS",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "g. Cuerpo de Agua",
+  "subtipo": "Lagunas",
+  "jerarquia": "1",
+  "altitud": "3883",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=525111",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=525111",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=525156",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=526047",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=526327"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de paisaje",
+    "Deportes / Aventura - Caminata/Trekking",
+    "Paseos - Paseos en bote"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "Alisos (alnus jorullemis), ichu (Stipa ichu), quisuar (buddleiia coriácea), warwash hembra (gynoxys sp)",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    },
+    {
+      "actividad": "Paseos",
+      "tipo": "Paseos en bote",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paseo_bote02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Áncash/Asunción/Chacas - Áncash/Asunción/Chacas",
+      "detalle": "Chacas (Jr. Lima)– Mina Guellearunán",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Camioneta doble tracción",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "5.7 km / 25 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Áncash/Asunción/Chacas - Áncash/Asunción/Chacas",
+      "detalle": "Mina Guellearunán-Laguna Patarcocha",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Camino de Herradura",
+      "distancia_tiempo": "2.1 km / 45 minutos"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Áncash/Asunción/Chacas - Áncash/Asunción/Chacas",
+      "detalle": "Chacas (Jr. Lima)-Caserío Santa Cruz de Cochas",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "1.5 km /20 min."
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Áncash/Asunción/Chacas - Áncash/Asunción/Chacas",
+      "detalle": "Caserío Santa Cruz de Cochas - Laguna Patarcocha",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Camino de Herradura",
+      "distancia_tiempo": "2.9 km /1 hora y 30 min."
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "180",
+      "horario": "Formato de cálculo de visita anual al recurso con potencial turístico en base al conteo muestra.",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "180",
+      "horario": "Formato de cálculo de visita anual al recurso con potencial turístico en base al conteo muestra.",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "90",
+      "horario": "Formato de cálculo de visita anual al recurso con potencial turístico en base al conteo muestra.",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "08:00 a.m. - 04:00 p.m. La mejor época de visita es de abril a octubre.",
+      "observaciones": "La mejor época de visita es de abril a octubre."
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "3 estrellas en la ciudad de Chacas."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Chacas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Chacas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Chacas."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Chacas."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Chacas."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Ciudad de Chacas."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Ciudad de Chacas."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Ciudad de Chacas."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "Ciudad de Chacas."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "Ciudad de Chacas."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos de herradura (caballo)",
+      "observacion": "Ciudad de Chacas."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Museo de Sitio Turísticos",
+      "observacion": "Ciudad de Chacas."
+    }
+  ],
+  "descripcion": "Se encuentra ubicado en la región natural suni a 3883 m.s.n.m., en la quebrada del mismo nombre, posee una dimensión de 290 m. de largo y 70 m. de ancho aproximadamente, cuenta con una profundidad de 15 metros en la parte central.\nSus aguas poseen una coloración verde oscuro durante el día, el cual hace una década eran alimentadas por el nevado Patarcocha, hoy solo son alimentadas por filtraciones, lluvias en época de invierno y el río Huegrococha, para finalmente ser emplazadas en la primera cuenca izquierda del río Arma, cuenta con un relieve generalmente empinado, aunque existen extensiones llanas o pampas como la ruta hacia la laguna Patarcocha donde se observan plantas de alisos (alnus jorullemis), ichu (Stipa ichu), quisuar (buddleiia coriácea), warwash hembra (gynoxys sp), y en algunas ocasiones se puede observar una gran diversidad de fauna como el venado (odacoileus virgineanus), taruca (hippocamelus antisenis), el atoq o zorro andino (dusicyon culpaeus), el centro poblado más cercano es el Caserío Santa Cruz de Cochas quienes a su vez administran el albergue que se encuentra en el entorno de la laguna, construido a través del Instituto para el Desarrollo de Chacas – INDECHA.\nEl espacio de uso turístico inicia desde el lado frontal hasta la parte derecha e izquierda, donde existen senderos que llegan a la mitad de la laguna.\nEste recurso, de singular belleza paisajística, caracterizado por su ruta de trekking cuya dificultad es de intensidad media, cuenta con una flora circundante variada, ideal para desarrollar actividades como el disfrute de paisaje y toma de fotografías.",
+  "particularidades": "",
+  "estado_actual": "Es bueno, debido al mantenimiento que realizan los encargados del Parque Nacional Huascaran y la comunidad campesina Santa Cruz de Cochas.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Se encuentra ubicado en la región natural suni a 3883 m.s.n.m., en la quebrada del mismo nombre, posee una dimensión de 290 m. de largo y 70 m. de ancho aproximadamente, cuenta con una profundidad de 15 metros en la parte central.\nSus aguas poseen una coloración verde oscuro durante el día, el cual hace una década eran alimentadas por el nevado Patarcocha, hoy solo son alimentadas por filtraciones, lluvias en época de invierno y el río Huegrococha, para finalmente ser emplazadas en la primera cuenca izquierda del río Arma, cuenta con un relieve generalmente empinado, aunque existen extensiones llanas o pampas como la ruta hacia la laguna Patarcocha donde se observan plantas de alisos (alnus jorullemis), ichu (Stipa ichu), quisuar (buddleiia coriácea), warwash hembra (gynoxys sp), y en algunas ocasiones se puede observar una gran diversidad de fauna como el venado (odacoileus virgineanus), taruca (hippocamelus antisenis), el atoq o zorro andino (dusicyon culpaeus), el centro poblado más cercano es el Caserío Santa Cruz de Cochas quienes a su vez administran el albergue que se encuentra en el entorno de la laguna, construido a través del Instituto para el Desarrollo de Chacas – INDECHA.\nEl espacio de uso turístico inicia desde el lado frontal hasta la parte derecha e izquierda, donde existen senderos que llegan a la mitad de la laguna.\nEste recurso, de singular belleza paisajística, caracterizado por su ruta de trekking cuya dificultad es de intensidad media, cuenta con una flora circundante variada, ideal para desarrollar actividades como el disfrute de paisaje y toma de fotografías."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Es bueno, debido al mantenimiento que realizan los encargados del Parque Nacional Huascaran y la comunidad campesina Santa Cruz de Cochas."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nVisitantes Locales(Excursionistas)\n180\nFormato de cálculo de visita anual al recurso con potencial turístico en base al conteo muestra.\n2023\nEstadística aproximada.\nTuristas Nacionales\n180\nFormato de cálculo de visita anual al recurso con potencial turístico en base al conteo muestra.\n2023\nEstadística aproximada.\nTuristas Extranjeros\n90\nFormato de cálculo de visita anual al recurso con potencial turístico en base al conteo muestra.\n2023\nEstadística aproximada."
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nÁncash/Asunción/Chacas\n-\nÁncash/Asunción/Chacas\nChacas (Jr. Lima)– Mina Guellearunán\nTerrestre\nCamioneta doble tracción\nTrocha carrozable\n5.7 km / 25 minutos\n1\nÁncash/Asunción/Chacas\n-\nÁncash/Asunción/Chacas\nMina Guellearunán-Laguna Patarcocha\nTerrestre\nA pie\nCamino de Herradura\n2.1 km / 45 minutos\n2\nÁncash/Asunción/Chacas\n-\nÁncash/Asunción/Chacas\nChacas (Jr. Lima)-Caserío Santa Cruz de Cochas\nTerrestre\nA pie\nTrocha carrozable\n1.5 km /20 min.\n2\nÁncash/Asunción/Chacas\n-\nÁncash/Asunción/Chacas\nCaserío Santa Cruz de Cochas - Laguna Patarcocha\nTerrestre\nA pie\nCamino de Herradura\n2.9 km /1 hora y 30 min."
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n08:00 a.m.\n-\n04:00 p.m.\nLa mejor época de visita es de abril a octubre."
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nNaturaleza\nObservación de flora\nAlisos (alnus jorullemis), ichu (Stipa ichu), quisuar (buddleiia coriácea), warwash hembra (gynoxys sp)\nNaturaleza\nObservación de paisaje\n--\nDeportes / Aventura\nCaminata/Trekking\n--\nPaseos\nPaseos en bote\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\n3 estrellas en la ciudad de Chacas.\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Chacas\nAlimentación\nRestaurantes\nCiudad de Chacas\nAlimentación\nKioskos de comida y bebidas\nCiudad de Chacas.\nAlimentación\nCafeterías\nCiudad de Chacas.\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Chacas.\nLugares de Recreación\nJuegos Infantiles\nCiudad de Chacas.\nLugares de Recreación\nCentros Deportivos\nCiudad de Chacas.\nServicios Públicos\nEstacionamiento de vehículos\nCiudad de Chacas.\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\nCiudad de Chacas.\nServicios Públicos\nCaminos peatonales\nCiudad de Chacas.\nServicios Públicos\nCaminos de herradura (caballo)\nCiudad de Chacas.\nServicios Públicos\nMuseo de Sitio Turísticos\nCiudad de Chacas."
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nBancos\nCiudad de Chacas (BN)\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Chacas.\nServicio de estacionamiento\nCiudad de Chacas.\nServicios de taxis\nCiudad de Chacas.\nCentro de salud - tópico\nCiudad de Chacas.\nSeguridad / POLTUR / Comisaría\nCiudad de Chacas.\nBodegas o minimarkets\nCiudad de Chacas (efectivo, tarjeta y yape)\nOtros(especificar)\nCiudad de Chacas: Agente banco BCP Y BN"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nSeñalización turística\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Chacas\nLuz (Suministro Eléctrico)\nCiudad de Chacas\nTeléfono\nCiudad de Chacas(línea Claro, Movistar y Entel).\nAlcantarillado sanitario\nCiudad de Chacas.\nSistemas de tratamiento alternativo de residuos (Biodigestor, pozo séptico, otros)\nCiudad de Chacas."
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nParque Nacional Huascarán - SERNANP\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nCertificado literal - predio\nNúmero de Partida:\n11300446\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nParque Nacional Huascarán - SERNANP\nTiempo de administración\nDesde el 1 de julio 1975"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo de Áncash\nNombre (Persona(s) responsable(s) del inventario turístico):\nLic Patricia Camones Trejo\nCargo:\nEspecialista en Turismo.\nCorreo:\ndirceturancashdt2@gmail.com\nTeléfono:\n043-349698.\nFuentes Bibliográfica:\n1.-Ficha de Inventario de Recursos Turisticos, MINCETUR, 06 de noviembre de 2012: https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=6913\n2.- Inventario de Recursos Turísticos de la Provincia de Asunción 2024, Municipalidad Provincial de Asunción, Consultoría: Lic. Turismo Oscar Negreiros Cerna, 14 de febrero del 2024, Pag. 68.\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n2/04/2024 12:25:52"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -9.210461111111112,
+    "longitud": -77.35811666666666
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-9.210461111111112,-77.35811666666666"
+}

@@ -1,0 +1,281 @@
+{
+  "cod_ficha": 2742,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=2742",
+  "nombre": "Complejo Arqueologico Quebrada De La Waca O Puerto Inka",
+  "departamento": "Arequipa",
+  "provincia": "Caraveli",
+  "distrito": "ATIQUIPA",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Sitios Arqueológicos",
+  "subtipo": "Zonas arqueológicas",
+  "jerarquia": "2",
+  "altitud": "15",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=292399",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=292399",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=292400",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=488360",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=488309",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=488361",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=488310",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=488362",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=488363",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=488311",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=488364",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=488312",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=488313",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=488314",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=488315",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=488316"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Estudios e Investigación",
+    "Deportes acuáticos - Natación",
+    "Naturaleza - Observación de paisaje",
+    "Naturaleza - Observación de aves",
+    "Deportes / Aventura - Caminata/Trekking"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Deportes acuáticos",
+      "tipo": "Natación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/natacion02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de aves",
+      "observacion": "gaviotas, otras",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/aves02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Arequipa/Arequipa/Jacobo Hunter - Arequipa/Caravelí/Chala",
+      "detalle": "Terrapuerto de Arequipa a Paradero Chala",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "400 km / 7 horas 30 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Arequipa/Caravelí/Chala - Arequipa/Caravelí/Atiquipa",
+      "detalle": "Paradero Chala a km 610 Panamericana Sur",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Camioneta doble tracción",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "10 km / 12 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Arequipa/Caravelí/Atiquipa - Arequipa/Caravelí/Atiquipa",
+      "detalle": "km 610 desvío al Oeste a Playa Puerto Inca",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Camioneta doble tracción",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "3 km / 2 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Arequipa/Caravelí/Atiquipa - Arequipa/Caravelí/Atiquipa",
+      "detalle": "Playa Puerto Inca a Complejo Arqueológico",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Sendero",
+      "distancia_tiempo": "200 m / 3 min."
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "2430",
+      "horario": "Conteo Muestra de Visitas",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "2250",
+      "horario": "Conteo Muestra de Visitas",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "2790",
+      "horario": "Conteo Muestra de Visitas",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "08:00 a.m. - 04:00 p.m. --",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "200 m del Complejo Arqueológico"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "200 m del Complejo Arqueológico"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "200 m del Complejo Arqueológico"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "200 m del Complejo Arqueológico, sin categoría ni clase"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Chala, a 10 km al sur del Complejo Arqueológico"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Chala, a 10 km al sur del Complejo Arqueológico"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Ciudad de Chala, a 10 km al sur del Complejo Arqueológico"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Chala, a 10 km al sur del Complejo Arqueológico y 200 m del Complejo Arqueológico, sin categoría ni clase"
+    }
+  ],
+  "descripcion": "El Complejo Arqueológico Quebrada de la Vaca o Puerto Inka es el más importante centro arqueológico de la costa peruana, entre Nazca (Perú) y Copiapó (Chile), es un asentamiento de culturas Pre-Incas e Incas; denominado también complejo arqueológico \"Quebrada de la Waca\".\nSe encuentra ubicado exactamente en el kilómetro 610 de la Panamericana Sur, con un área aproximada de 51 hectáreas, donde se encuentran restos arqueológicos de al menos tres períodos distintos y que van desde el pre-cerámico hasta la presencia Inca, dándole una antigüedad aproximada de 4,000 años, siendo importante destacar la presencia de las llamadas qolqas que son construcciones subterráneas que tienen la finalidad de depósitos con forma de botella, hallándose en ellas vestigios vegetales, lo que hace pensar que además de una dieta basada en productos marinos, conservados mediante la técnica del secado, y a causa de la ausencia de valles cercanos, los pobladores de esta zona lograron algún tipo de domesticación de la tierra, logrando, mediante el abono, hacerla territorio fértil durante su asentamiento en el área.\nLa última ocupación que tuvo corresponde a la cultura inca, fue edificada a base de piedras canteadas y unidas con argamasa de arcilla. El complejo arqueológico está constituido por grupos de construcciones, chullpas, tumbas, plazas ceremoniales, etc.\nContiene colcas o depósitos semi-subterráneos y subterráneos de formas circulares y de diferentes dimensiones, o tumbas semi-subterráneas y subterráneas, tumbas unipersonales o multipersonales de falsa bóveda y trabajos de piedra y mortero, típicas hornacinas trapezoidales de característica singular; las que se ubican en el noreste y sureste de la plaza de ceremonias.\nLas habitaciones de su interior son amplias, de formas rectangulares y cuadradas, están construidas a base de piedras canteadas unidas con mortero de argamasa, también se pueden observar la presencia del camino inca, del cual algunos escritores afirman que la ruta había partido del Cuzco hasta Arequipa; pasando por Nazca, Acarí, Atiquipa, Chala, Atico, Camaná, Siguas y Vítor.\nLos miembros de la cultura inca extraían los productos del mar, los escogían y secaban en los secaderos, para luego ser transportados hacia el Cuzco a través de un camino inca perfectamente delineado y prácticamente rectilíneo que unía Cuzco y Puerto Inka; así la distancia es más corta entre la capital del imperio incaico y la costa peruana.\nEste lugar, según la tradición, era el tambo y centro de relajamiento preferido del Inca, quien llegaba desde el Cuzco, visitando diversos ayllus, aquí descansaba, junto con sus coyas (esposas), algunos dignatarios de su corte, de ahí la existencia de algunas plataformas posiblemente ceremoniales.\nAl visitar el Complejo Arqueológico Quebrada de la Vaca se podrá observar un laboratorio natural donde se procesaban alimentos para poder ser llevados a las diferentes regiones del Tawantinsuyo por lo que los antiguos pobladores de esta región aprovecharon al máximo los recursos que las lomas y el mar les ofrecían.",
+  "particularidades": "Considerado el más Importante Centro Arqueológico de la Costa del Perú (Resolución Directoral 0111-2021-DGPA/MC).\nLugar de veraneo y descanso del Inca y la élite imperial, y el lugar de donde se enviaban pescados y mariscos al Cusco dada su comunicación más rápida del mar con la capital del Imperio.",
+  "estado_actual": "Bueno, recibe mantenimiento periódico de parte de la población y la municipalidad.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "El Complejo Arqueológico Quebrada de la Vaca o Puerto Inka es el más importante centro arqueológico de la costa peruana, entre Nazca (Perú) y Copiapó (Chile), es un asentamiento de culturas Pre-Incas e Incas; denominado también complejo arqueológico \"Quebrada de la Waca\".\nSe encuentra ubicado exactamente en el kilómetro 610 de la Panamericana Sur, con un área aproximada de 51 hectáreas, donde se encuentran restos arqueológicos de al menos tres períodos distintos y que van desde el pre-cerámico hasta la presencia Inca, dándole una antigüedad aproximada de 4,000 años, siendo importante destacar la presencia de las llamadas qolqas que son construcciones subterráneas que tienen la finalidad de depósitos con forma de botella, hallándose en ellas vestigios vegetales, lo que hace pensar que además de una dieta basada en productos marinos, conservados mediante la técnica del secado, y a causa de la ausencia de valles cercanos, los pobladores de esta zona lograron algún tipo de domesticación de la tierra, logrando, mediante el abono, hacerla territorio fértil durante su asentamiento en el área.\nLa última ocupación que tuvo corresponde a la cultura inca, fue edificada a base de piedras canteadas y unidas con argamasa de arcilla. El complejo arqueológico está constituido por grupos de construcciones, chullpas, tumbas, plazas ceremoniales, etc.\nContiene colcas o depósitos semi-subterráneos y subterráneos de formas circulares y de diferentes dimensiones, o tumbas semi-subterráneas y subterráneas, tumbas unipersonales o multipersonales de falsa bóveda y trabajos de piedra y mortero, típicas hornacinas trapezoidales de característica singular; las que se ubican en el noreste y sureste de la plaza de ceremonias.\nLas habitaciones de su interior son amplias, de formas rectangulares y cuadradas, están construidas a base de piedras canteadas unidas con mortero de argamasa, también se pueden observar la presencia del camino inca, del cual algunos escritores afirman que la ruta había partido del Cuzco hasta Arequipa; pasando por Nazca, Acarí, Atiquipa, Chala, Atico, Camaná, Siguas y Vítor.\nLos miembros de la cultura inca extraían los productos del mar, los escogían y secaban en los secaderos, para luego ser transportados hacia el Cuzco a través de un camino inca perfectamente delineado y prácticamente rectilíneo que unía Cuzco y Puerto Inka; así la distancia es más corta entre la capital del imperio incaico y la costa peruana.\nEste lugar, según la tradición, era el tambo y centro de relajamiento preferido del Inca, quien llegaba desde el Cuzco, visitando diversos ayllus, aquí descansaba, junto con sus coyas (esposas), algunos dignatarios de su corte, de ahí la existencia de algunas plataformas posiblemente ceremoniales.\nAl visitar el Complejo Arqueológico Quebrada de la Vaca se podrá observar un laboratorio natural donde se procesaban alimentos para poder ser llevados a las diferentes regiones del Tawantinsuyo por lo que los antiguos pobladores de esta región aprovecharon al máximo los recursos que las lomas y el mar les ofrecían."
+    },
+    {
+      "titulo": "Particularidades",
+      "contenido": "Considerado el más Importante Centro Arqueológico de la Costa del Perú (Resolución Directoral 0111-2021-DGPA/MC).\nLugar de veraneo y descanso del Inca y la élite imperial, y el lugar de donde se enviaban pescados y mariscos al Cusco dada su comunicación más rápida del mar con la capital del Imperio."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "Resolución Ministerial Nº 078-95-ITINCI/DM, Declarado como Zona de Reserva Turística Nacional Quebrada de la Waca.\nResolución Directoral 0111-2021-DGPA/MC, Determina la Protección Provisional del Complejo Arqueològico Quebrada de la Vaca o Puerto Inca"
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, recibe mantenimiento periódico de parte de la población y la municipalidad."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Nacionales\n2430\nConteo Muestra de Visitas\n2022\nVisitantes Locales(Excursionistas)\n2250\nConteo Muestra de Visitas\n2022\nTuristas Extranjeros\n2790\nConteo Muestra de Visitas\n2022"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nArequipa/Arequipa/Jacobo Hunter\n-\nArequipa/Caravelí/Chala\nTerrapuerto de Arequipa a Paradero Chala\nTerrestre\nBus público\nAsfaltado\n400 km / 7 horas 30 min.\n1\nArequipa/Caravelí/Chala\n-\nArequipa/Caravelí/Atiquipa\nParadero Chala a km 610 Panamericana Sur\nTerrestre\nCamioneta doble tracción\nAsfaltado\n10 km / 12 min.\n1\nArequipa/Caravelí/Atiquipa\n-\nArequipa/Caravelí/Atiquipa\nkm 610 desvío al Oeste a Playa Puerto Inca\nTerrestre\nCamioneta doble tracción\nAfirmado\n3 km / 2 min.\n1\nArequipa/Caravelí/Atiquipa\n-\nArequipa/Caravelí/Atiquipa\nPlaya Puerto Inca a Complejo Arqueológico\nTerrestre\nA pie\nSendero\n200 m / 3 min."
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n08:00 a.m.\n-\n04:00 p.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nEstudios e Investigación\n--\nDeportes acuáticos\nNatación\n--\nNaturaleza\nObservación de paisaje\n--\nNaturaleza\nObservación de aves\ngaviotas, otras\nDeportes / Aventura\nCaminata/Trekking\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nLugares de Recreación\nDiscotecas\n200 m del Complejo Arqueológico\nLugares de Recreación\nJuegos Infantiles\n200 m del Complejo Arqueológico\nLugares de Recreación\nBares\n200 m del Complejo Arqueológico\nAlimentación\nRestaurantes\n200 m del Complejo Arqueológico, sin categoría ni clase\nAlimentación\nCafeterías\nCiudad de Chala, a 10 km al sur del Complejo Arqueológico\nAlimentación\nKioskos de comida y bebidas\nCiudad de Chala, a 10 km al sur del Complejo Arqueológico\nAlimentación\nVenta de comida Rápida\nCiudad de Chala, a 10 km al sur del Complejo Arqueológico\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Chala, a 10 km al sur del Complejo Arqueológico y 200 m del Complejo Arqueológico, sin categoría ni clase"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Chala, a 10 km al sur del Complejo Arqueológico\nBancos\nCiudad de Chala, a 10 km al sur del Complejo Arqueológico\nCajero automático\nCiudad de Chala, a 10 km al sur del Complejo Arqueológico\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Chala, a 10 km al sur del Complejo Arqueológico\nServicios de taxis\nCiudad de Chala, a 10 km al sur del Complejo Arqueológico\nCentro de salud - tópico\nCiudad de Chala, a 10 km al sur del Complejo Arqueológico\nSeguridad / POLTUR / Comisaría\nCiudad de Chala, a 10 km al sur del Complejo Arqueológico\nBodegas o minimarkets\nCiudad de Chala, a 10 km al sur del Complejo Arqueológico"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nSeñalización turística\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Chala, a 10 km al sur del Complejo Arqueológico\nAlcantarillado sanitario\nCiudad de Chala, a 10 km al sur del Complejo Arqueológico\nLuz (Suministro Eléctrico)\nCiudad de Chala, a 10 km al sur del Complejo Arqueológico\nTeléfono\nCiudad de Chala, a 10 km al sur del Complejo Arqueológico"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nEstado Peruano\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nLey 28296, Ley General del Patrimonio Cultural de la Nación\nAdministrador por\nNombre\nMunicipalidad Distrital de Atiquipa\nTiempo de administración\nIndefinido"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nGerencia Regional de Comercio Exterior y Turismo / Municipalidad Provincial de Caravelí\nNombre (Persona(s) responsable(s) del inventario turístico):\nClaudia Isabel Barrios Cacya / Saulo Christian Montoya Mayorga\nCargo:\nEspecialista en Turismo / Encargado de la Unidad de Turismo\nCorreo:\nturismo@regionarequipa.gob.pe / oluasmayorg@hotmail.com\nTeléfono:\n988 099 750 / 968 480 098\nFuentes Bibliográfica:\nNeira Máximo, Avendaño; Galdós Rodríguez, Guillero; Málaga Medina, Alejandro; Quiroz Paz-Soldán, Eusebio; Carpio Muñoz, Juan Guillermo: Historia General de Arequipa (1990)\nMinisterio de Cultura: Rutas Ancestrales del Qhapaq Ñan (2020)\nRostworowski de Diez Canseco, María: Comentarios a la Visita de Acarí de 1593 (1982)\nTrimborn, Hermann: Quebrada de la Vaca, Eine Vorspanische Siedlung im mittleren Süden Perus (1985)\nAndean Past: Archaeological Recovery at Quebrada de la Vaca (2007)\nKatterman, Grace, University of Nebraska: Clothing from Quebrada de la Vaca West, an Inca Cemetery on the South Coast of Peru (2003)\nMenzel, Dorothy and Francis A. Riddell: Field Notes of the burials at Quebrada de la Vaca West (1954)\nHowell, Carol and Jonathan Kent: Counting Camelids without Quipu: Internal Features of \"Corrals\" at Quebrada de la Vaca, Southern Central Coast, Peru (1991)\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n16/06/2023 17:13:32"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -15.839816745651241,
+    "longitud": -74.31025466910734
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-15.839816745651241,-74.31025466910734"
+}

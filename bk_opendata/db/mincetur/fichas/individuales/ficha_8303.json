@@ -1,0 +1,272 @@
+{
+  "cod_ficha": 8303,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=8303",
+  "nombre": "Sitio Arqueológico De Cedrocucho",
+  "departamento": "Ayacucho",
+  "provincia": "La Mar",
+  "distrito": "SANTA ROSA",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Sitios Arqueológicos",
+  "subtipo": "Andenes",
+  "jerarquia": "1",
+  "altitud": "1228",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=515111",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=515111",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=517931",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=517932",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=517933",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=517934",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=524809"
+  ],
+  "actividades_permitidas": [
+    "Otros - Estudios e Investigación",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de paisaje",
+    "Deportes / Aventura - Caminata/Trekking"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "estudios arqueológicas",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "Cedro, caoba",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Ayacucho/La Mar/San Miguel - Ayacucho/La Mar/Santa Rosa",
+      "detalle": "Paradero de autos de San Miguel - Plaza principal de Santa Rosa",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Combi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "154 km/ 4h. 11 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Ayacucho/La Mar/Santa Rosa - Ayacucho/La Mar/Santa Rosa",
+      "detalle": "Plaza principal de Santa Rosa - Centro poblado de Qawasana",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Camioneta doble tracción",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "8.2 km/ 25 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Ayacucho/La Mar/Santa Rosa - Ayacucho/La Mar/Santa Rosa",
+      "detalle": "Centro poblado de Qawasana - Curva de Cedrocucho",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Camioneta doble tracción",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "3.5 km /20 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Ayacucho/La Mar/Santa Rosa - Ayacucho/La Mar/Santa Rosa",
+      "detalle": "Curva de Cedrocucho - Sitio Arqueològico de Cedrocucho",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Sendero",
+      "distancia_tiempo": "1km/ 40 min."
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "990",
+      "horario": "Conteo Muestral de visitantes de Recursos Turisticos",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "360",
+      "horario": "Conteo Muestral de visitantes al Recurso Turistico",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "07:00 a.m. - 05:00 p.m. --",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Casas de Hospedaje en la Ciudad de Santa Rosa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Santa Rosa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Santa Rosa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Santa Rosa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Santa Rosa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Santa Rosa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Santa Rosa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Santa Rosa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "Ciudad de Santa Rosa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Ciudad de Santa Rosa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "Ciudad de Santa Rosa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "Ciudad de Santa Rosa"
+    }
+  ],
+  "descripcion": "Ubicado al Oeste del distrito de Santa Rosa, provincia de la Mar, departamento de Ayacucho. Sobre los 1228 msnm en la región yunga de bosque andino húmedo de gran biodiversidad, en las faldas del cerro del mismo nombre El área arqueológico abarca 133,845.399 m², ocupando la cima y flancos del lado Norte, Sur y Oeste del recurso arqueológico de Cedrocucho; se accede mediante un sendero empinado de 48 grados, la misma que se recorre en 40 minutos, con vegetación densa hasta llegar a los muros que conforman la andenería construida por la población prehispánica aún no terminada, cuya base de construcción son piedras de laja sobrepuestas formando estructuras circulares cuadrangulares y rectangulares. Las dimensiones promedio de cada uno son aproximadamente como sigue: cuadrangulares entre 6.00 m. de largo por 2.50 m. de ancho, el espesor de los muros tiene de 50 a 60 cm. asimismo se puede observar andenerías que oscila entre 0.40 a 1.50 m. de alto y con un espesor de los muros que varía entre 30 y 40 cm. y muros de contención con alturas que va desde los 40 cm. a 1.00 m. y de largo entre 20 y 25 m que a la fecha se encuentra recubiertas por la vegetación típica de la selva alta. En cierta temporada del año, los pobladores de la comunidad utilizan algunos espacios de la andenería para cultivar vainilla y la tagua. También, en el recurso se observa la presencia de árboles forestales de cedro, caoba y arbustos de cube entre otros. El lugar está habitado por aves, reptiles, anfibios. Asimismo, desde la cima del recurso se logra observar la vista panorámica del valle de VRAEM.\nEl lugar es de interés turístico porque forma parte de un paisaje cultural de los valles del VRAEM, donde los visitantes desarrollan actividades de caminata, encuentro con la naturaleza, conocer la riqueza cultural que guarda este espacio de la selva.",
+  "particularidades": "",
+  "estado_actual": "Regular, se viene realizando trabajos de recuperación con faenas comunales.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Ubicado al Oeste del distrito de Santa Rosa, provincia de la Mar, departamento de Ayacucho. Sobre los 1228 msnm en la región yunga de bosque andino húmedo de gran biodiversidad, en las faldas del cerro del mismo nombre El área arqueológico abarca 133,845.399 m², ocupando la cima y flancos del lado Norte, Sur y Oeste del recurso arqueológico de Cedrocucho; se accede mediante un sendero empinado de 48 grados, la misma que se recorre en 40 minutos, con vegetación densa hasta llegar a los muros que conforman la andenería construida por la población prehispánica aún no terminada, cuya base de construcción son piedras de laja sobrepuestas formando estructuras circulares cuadrangulares y rectangulares. Las dimensiones promedio de cada uno son aproximadamente como sigue: cuadrangulares entre 6.00 m. de largo por 2.50 m. de ancho, el espesor de los muros tiene de 50 a 60 cm. asimismo se puede observar andenerías que oscila entre 0.40 a 1.50 m. de alto y con un espesor de los muros que varía entre 30 y 40 cm. y muros de contención con alturas que va desde los 40 cm. a 1.00 m. y de largo entre 20 y 25 m que a la fecha se encuentra recubiertas por la vegetación típica de la selva alta. En cierta temporada del año, los pobladores de la comunidad utilizan algunos espacios de la andenería para cultivar vainilla y la tagua. También, en el recurso se observa la presencia de árboles forestales de cedro, caoba y arbustos de cube entre otros. El lugar está habitado por aves, reptiles, anfibios. Asimismo, desde la cima del recurso se logra observar la vista panorámica del valle de VRAEM.\nEl lugar es de interés turístico porque forma parte de un paisaje cultural de los valles del VRAEM, donde los visitantes desarrollan actividades de caminata, encuentro con la naturaleza, conocer la riqueza cultural que guarda este espacio de la selva."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "Resolución Directoral N° 000143-2023-DGPA/MC Determinan la Protección Provisional del Paisaje Arqueológico Cedro Cucho, ubicado en el distrito de Santa Rosa, provincia de La Mar, departamento de Ayacucho."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Regular, se viene realizando trabajos de recuperación con faenas comunales."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nVisitantes Locales(Excursionistas)\n990\nConteo Muestral de visitantes de Recursos Turisticos\n2023\nTuristas Nacionales\n360\nConteo Muestral de visitantes al Recurso Turistico\n2023"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nAyacucho/La Mar/San Miguel\n-\nAyacucho/La Mar/Santa Rosa\nParadero de autos de San Miguel - Plaza principal de Santa Rosa\nTerrestre\nCombi\nAsfaltado\n154 km/ 4h. 11 min.\n1\nAyacucho/La Mar/Santa Rosa\n-\nAyacucho/La Mar/Santa Rosa\nPlaza principal de Santa Rosa - Centro poblado de Qawasana\nTerrestre\nCamioneta doble tracción\nAfirmado\n8.2 km/ 25 min.\n1\nAyacucho/La Mar/Santa Rosa\n-\nAyacucho/La Mar/Santa Rosa\nCentro poblado de Qawasana - Curva de Cedrocucho\nTerrestre\nCamioneta doble tracción\nTrocha carrozable\n3.5 km /20 min\n1\nAyacucho/La Mar/Santa Rosa\n-\nAyacucho/La Mar/Santa Rosa\nCurva de Cedrocucho - Sitio Arqueològico de Cedrocucho\nTerrestre\nA pie\nSendero\n1km/ 40 min."
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n07:00 a.m.\n-\n05:00 p.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nEstudios e Investigación\nestudios arqueológicas\nNaturaleza\nObservación de flora\nCedro, caoba\nNaturaleza\nObservación de paisaje\n--\nDeportes / Aventura\nCaminata/Trekking\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nOtros (Especificar)\nCasas de Hospedaje en la Ciudad de Santa Rosa\nAlimentación\nRestaurantes\nCiudad de Santa Rosa\nLugares de Recreación\nDiscotecas\nCiudad de Santa Rosa\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Santa Rosa\nAlimentación\nCafeterías\nCiudad de Santa Rosa\nAlimentación\nKioskos de comida y bebidas\nCiudad de Santa Rosa\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Santa Rosa\nLugares de Recreación\nBares\nCiudad de Santa Rosa\nServicios Públicos\nMiradores turísticos\nCiudad de Santa Rosa\nServicios Públicos\nEstacionamiento de vehículos\nCiudad de Santa Rosa\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\nCiudad de Santa Rosa\nServicios Públicos\nCaminos peatonales\nCiudad de Santa Rosa"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Santa Rosa\nCasa de cambio\nCiudad de Santa Rosa\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Santa Rosa\nServicio de estacionamiento\nCiudad de Santa Rosa\nCentro de salud - tópico\nCiudad de Santa Rosa\nSeguridad / POLTUR / Comisaría\nCiudad de Santa Rosa\nLibrerías\nCiudad de Santa Rosa\nBodegas o minimarkets\nCiudad de Santa Rosa"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Santa Rosa\nAlcantarillado sanitario\nCiudad de Santa Rosa\nTeléfono\nCiudad de Santa Rosa\nLuz (Suministro Eléctrico)\nCiudad de Santa Rosa\nSeñalización turística\nCiudad de Santa Rosa\nEnergía Alternativa\nCiudad de Santa Rosa (paneles solares )"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\n--\nPrivado:\nComunidad Nativa de Camavenia\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nResolución de reconocimiento como comunidad Nativa R.D.R. 264-2011-GRA/GG-GRDE-DRA-OAJ-DR. y delimitación territorial\nAdministrador por\nNombre\nComunidad Nativa de Camavenia\nTiempo de administración\nDesde el año 2011"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo de Ayacucho\nNombre (Persona(s) responsable(s) del inventario turístico):\nEfrain Walter Gomez Lopez\nCargo:\nEspecialista en Turismo II\nCorreo:\newgl@hotmail.com\nTeléfono:\n938130971\nFuentes Bibliográfica:\n1. Cordova a. Luis Alejandro: Prospección de superficie en Cedrocucho Santa Rosa, Ayacucho. Práctica profesional. Unsch. 2007.\n2. XII Congreso de Historia agraria\" 13, 14, 15 de marzo, Cordova, 2008.Kendall, Ann, Rodriguez Abelardo: desarrollo y perspectivas de los sistemas de andenerías en los Andes centrales del Perú. Instituto francés de estudios peruanos (ifea). Lima Perú. 2009.\n3. Resolución Directoral N° 000143-2023-DGPA/MC Determinan la Protección Provisional del Paisaje Arqueológico Cedro Cucho, ubicado en el distrito de Santa Rosa, provincia de La Mar, departamento de Ayacucho. Anchayhua.\n4. Bonavia, Duccio: investigación de la ceja de selva de Ayacucho. Museo Nacional de Arqueología - Pueblo Libre. Lima. 1964.\n5. scott raymond j. Warren deboer, g peter. \"Cumancaya a Peruviam Ceramic Tradition. 1975.Kendall Ann, Ouden Gerard Gen: \"terrazas, una infraestructura agrícola como contribución a las estrategias de manejo de riesgos climáticos\".\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n12/03/2024 16:56:56"
+    }
+  ],
+  "coordenadas": {
+    "latitud": null,
+    "longitud": null
+  },
+  "google_maps_url": null
+}

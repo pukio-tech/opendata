@@ -1,0 +1,359 @@
+{
+  "cod_ficha": 5355,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=5355",
+  "nombre": "Bosque Piedra Del Toro",
+  "departamento": "Piura",
+  "provincia": "Morropon",
+  "distrito": "MORROPON",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "ñ. Zonas paisajísticas",
+  "subtipo": "Bosques",
+  "jerarquia": "1",
+  "altitud": "208",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=297742",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=297742",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=298108",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=298109",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=471569",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=471571",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=471533"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Paseos - Excursiones",
+    "Naturaleza - Observación de fauna",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de paisaje",
+    "Naturaleza - Observación de aves"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Paseos",
+      "tipo": "Excursiones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/excursiones02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de fauna",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fauna02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de aves",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/aves02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Piura/Piura/Castilla - Piura/Morropón/Morropon",
+      "detalle": "Terminal terrestre de Castilla - Distrito de Morropón",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "65 km/ 1H 30Min"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Piura/Morropón/Morropon - Piura/Morropón/Morropon",
+      "detalle": "Distrito de Morropón - Bosque Piedra del Toro",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "3km/ 10 Min."
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "160",
+      "horario": "Informe Técnico",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "660",
+      "horario": "Informe Técnico",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "817",
+      "horario": "Informe Técnico",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "- --",
+      "observaciones": "--"
+    },
+    {
+      "epoca": "Otros",
+      "especificacion": "--",
+      "horario": "--",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "En la ruta. Sin embargo no cumplen los requisitos del Manual de Señalización Turística"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "DISTRITO DE MORROPON"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Casa de Hospedaje",
+      "observacion": "DISTRITO DE MORROPON"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "DISTRITO DE MORROPON"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "DISTRITO DE MORROPON"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Snacks",
+      "observacion": "DISTRITO DE MORROPON"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "DISTRITO DE MORROPON"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Pubs",
+      "observacion": "DISTRITO DE MORROPON"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Night Clubs",
+      "observacion": "DISTRITO DE MORROPON"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "DISTRITO DE MORROPON"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "DISTRITO DE MORROPON"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Bancos - Cajeros",
+      "observacion": "DISTRITO DE MORROPON"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Oficina de Información",
+      "observacion": "DISTRITO DE MORROPON OFICINA DE TURISMO MUNICIPALIDAD DE MORROPON"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Internet",
+      "observacion": "DISTRITO DE MORROPON"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Tópico",
+      "observacion": "DISTRITO DE MORROPON"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de Material para Fotografía",
+      "observacion": "DISTRITO DE MORROPON"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Peñas",
+      "observacion": "Distrito de Morropón"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Distrito de Morropón"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "Existen, pero no cumplen los requisitos del Manual de Señalización Turística"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Distrito de Morropón"
+    }
+  ],
+  "descripcion": "El Bosque Piedra del Toro, está ubicado en el Distrito de Morropón a 3 km. del distrito de Morropón. Abarca un área de 745.25 Ha. con un rango altitudinal que varía desde 200 m.s.n.m., en los caseríos San Luis, Piedra del Toro, La Unión; hasta los 900 m.s.n.m. en la cumbre del (Cerro Negro) y forma parte de la Sub cuenca La Gallega de la Cuenca del río Piura, este bosque pertenece a la Ecorregión del Bosque Seco Ecuatorial; considerado como el ecosistema más frágil del país debido a limitaciones impuestas por factores eco climáticos.\nEste bosque alberga una diversidad única, actuando como un banco de germoplasma in situ, permitiendo preservar el gran potencial de plantas y animales. El clima durante el año es normal, es cálido y árido en las partes inferiores y templado semiárido en la parte alta y además se presentan dos estaciones bien definidas, la época de lluvias (verano) generalmente en enero - abril en la que se encuentra cerca del 85% de la precipitación pluvial total anual y la época seca (invierno) en los meses de mayo - diciembre, siendo un periodo de escasa precipitación y condiciones de aridez; estos factores son variables de un año a otro, dando el caso de temporadas fuerte precipitaciones, como es el caso del fenómeno del niño. La vegetación se identifica por su carácter caducifolio es decir la mayoría de especies y sobre todo las predominantes eliminan completamente su follaje, se registran un total de 37 especies vegetales de las cuales unas corresponden a especies arbóreas otras son arbustivas y la restante es un especie suculenta. Respecto a su flora encontramos el hualtaco, palo santo, sapote algarrobo faique (casi amenazados) entre otros. En cuanto a su fauna existen 63 especies en el ámbito, las cuales 47 corresponden a especies de aves donde 8 son aves endémicas tumbesinas, como la urraca la chiroca loro cabeza roja, el periquito,07corresponden a reptiles como la iguana, el macanche, la boa entre otros y 01 especies corresponden a anfibios. Existe un expediente técnico para su conservación, el contempla recorridos para la georreferenciación del área y evolución de sus potencialidades como la flora, fauna, fuentes de agua y otros realizado con el apoyo del PDRS-GTZ conjuntamente con la Municipalidad Distrital de Morropón y la población.\nEl paisaje está conformado por un conjunto de colinas bajas, medianas y altas, interrumpidas por quebradas, de régimen irregular como la quebrada Chililique y algunos bebederos llamados: Palo Negro, Orcones y el Papallo. Estos bebederos junto con la quebrada desembocan en el Río la Gallega la cual desemboca en el río Piura.",
+  "particularidades": "",
+  "estado_actual": "El estado actual es regular, existen problemas de tala de árboles y animales en peligro de extinción, problemas ambientales de contaminación.",
+  "observaciones": "Este Bosque forma parte de la Sub Cuenca del rio Piura entre los 79º 55 longitud al oeste y 5º 11 al sur.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "El Bosque Piedra del Toro, está ubicado en el Distrito de Morropón a 3 km. del distrito de Morropón. Abarca un área de 745.25 Ha. con un rango altitudinal que varía desde 200 m.s.n.m., en los caseríos San Luis, Piedra del Toro, La Unión; hasta los 900 m.s.n.m. en la cumbre del (Cerro Negro) y forma parte de la Sub cuenca La Gallega de la Cuenca del río Piura, este bosque pertenece a la Ecorregión del Bosque Seco Ecuatorial; considerado como el ecosistema más frágil del país debido a limitaciones impuestas por factores eco climáticos.\nEste bosque alberga una diversidad única, actuando como un banco de germoplasma in situ, permitiendo preservar el gran potencial de plantas y animales. El clima durante el año es normal, es cálido y árido en las partes inferiores y templado semiárido en la parte alta y además se presentan dos estaciones bien definidas, la época de lluvias (verano) generalmente en enero - abril en la que se encuentra cerca del 85% de la precipitación pluvial total anual y la época seca (invierno) en los meses de mayo - diciembre, siendo un periodo de escasa precipitación y condiciones de aridez; estos factores son variables de un año a otro, dando el caso de temporadas fuerte precipitaciones, como es el caso del fenómeno del niño. La vegetación se identifica por su carácter caducifolio es decir la mayoría de especies y sobre todo las predominantes eliminan completamente su follaje, se registran un total de 37 especies vegetales de las cuales unas corresponden a especies arbóreas otras son arbustivas y la restante es un especie suculenta. Respecto a su flora encontramos el hualtaco, palo santo, sapote algarrobo faique (casi amenazados) entre otros. En cuanto a su fauna existen 63 especies en el ámbito, las cuales 47 corresponden a especies de aves donde 8 son aves endémicas tumbesinas, como la urraca la chiroca loro cabeza roja, el periquito,07corresponden a reptiles como la iguana, el macanche, la boa entre otros y 01 especies corresponden a anfibios. Existe un expediente técnico para su conservación, el contempla recorridos para la georreferenciación del área y evolución de sus potencialidades como la flora, fauna, fuentes de agua y otros realizado con el apoyo del PDRS-GTZ conjuntamente con la Municipalidad Distrital de Morropón y la población.\nEl paisaje está conformado por un conjunto de colinas bajas, medianas y altas, interrumpidas por quebradas, de régimen irregular como la quebrada Chililique y algunos bebederos llamados: Palo Negro, Orcones y el Papallo. Estos bebederos junto con la quebrada desembocan en el Río la Gallega la cual desemboca en el río Piura."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "Ganador como Maravilla Turística de la Provincia de Morropón, en el Concurso Las 8 Maravillas Turísticas de la Región organizado por la DIRCETUR en el año 2016."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "El estado actual es regular, existen problemas de tala de árboles y animales en peligro de extinción, problemas ambientales de contaminación."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "Este Bosque forma parte de la Sub Cuenca del rio Piura entre los 79º 55 longitud al oeste y 5º 11 al sur."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n160\nInforme Técnico\n2021\nLa elaboración del Informe Técnico para la estimación de flujo turístico, fue realizado previo trabajo en gabinete con actores turísticos involucrados y la Municipalidad Provincial de Morropón.\nTuristas Nacionales\n660\nInforme Técnico\n2021\nLa elaboración del Informe Técnico para la estimación de flujo turístico, fue realizado previo trabajo en gabinete con actores turísticos involucrados y la Municipalidad Provincial de Morropón.\nVisitantes Locales(Excursionistas)\n817\nInforme Técnico\n2021\nLa elaboración del Informe Técnico para la estimación de flujo turístico, fue realizado previo trabajo en gabinete con actores turísticos involucrados y la Municipalidad Provincial de Morropón."
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nPiura/Piura/Castilla\n-\nPiura/Morropón/Morropon\nTerminal terrestre de Castilla - Distrito de Morropón\nTerrestre\nBus público\nAsfaltado\n65 km/ 1H 30Min\n2\nPiura/Morropón/Morropon\n-\nPiura/Morropón/Morropon\nDistrito de Morropón - Bosque Piedra del Toro\nTerrestre\nAutomóvil particular\nAsfaltado\n3km/ 10 Min."
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n-\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nPaseos\nExcursiones\n--\nNaturaleza\nObservación de fauna\n--\nNaturaleza\nObservación de flora\n--\nNaturaleza\nObservación de paisaje\n--\nNaturaleza\nObservación de aves\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Públicas\nServicios Públicos\nSeñales turísticas de orientación\nEn la ruta. Sin embargo no cumplen los requisitos del Manual de Señalización Turística"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHostales (especificar categorías)\nDISTRITO DE MORROPON\nAlojamiento\nCasa de Hospedaje\nDISTRITO DE MORROPON\nAlimentación\nRestaurantes\nDISTRITO DE MORROPON\nAlimentación\nBares\nDISTRITO DE MORROPON\nAlimentación\nSnacks\nDISTRITO DE MORROPON\nLugares de Recreación\nDiscotecas\nDISTRITO DE MORROPON\nLugares de Recreación\nPubs\nDISTRITO DE MORROPON\nLugares de Recreación\nNight Clubs\nDISTRITO DE MORROPON\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nDISTRITO DE MORROPON\nOtros Servicios Turísticos\nVenta de artesanía\nDISTRITO DE MORROPON\nOtros Servicios Turísticos\nBancos - Cajeros\nDISTRITO DE MORROPON\nOtros Servicios Turísticos\nOficina de Información\nDISTRITO DE MORROPON OFICINA DE TURISMO MUNICIPALIDAD DE MORROPON\nOtros Servicios Turísticos\nServicio de Internet\nDISTRITO DE MORROPON\nOtros Servicios Turísticos\nTópico\nDISTRITO DE MORROPON\nOtros Servicios Turísticos\nVenta de Material para Fotografía\nDISTRITO DE MORROPON\nAlimentación\nCafeterías\n--\nLugares de Recreación\nPeñas\nDistrito de Morropón\nLugares de Recreación\nBares\nDistrito de Morropón\nServicios Públicos\nSeñales turísticas de orientación\nExisten, pero no cumplen los requisitos del Manual de Señalización Turística\nServicios Públicos\nOficina de Información turística\nDistrito de Morropón"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nDistrito de Morropón\nBancos\nDistrito de Morropón\nCajero automático\nDistrito de Morropón\nCasa de cambio\nDistrito de Morropón\nEstación de servicios, grifos, gasolineras y gasocentros\nDistrito de Morropón\nServicios de taxis\nDistrito de Morropón\nCentro de salud - tópico\nDistrito de Morropón\nSeguridad / POLTUR / Comisaría\nDistrito de Morropón\nLibrerías\nDistrito de Morropón\nBodegas o minimarkets\nDistrito de Morropón"
+    },
+    {
+      "titulo": "Condiciones de Accesibilidad al Visitante",
+      "contenido": "Visitante\nInstalación\nActividades y/o programas\nEquipamiento\nObservación\nOtros\n--\n--\n--\nNo es un lugar accesible para personas con discapacidad."
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nOtra\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nDISTRITO DE MORROPON\nAlcantarillado sanitario\nDISTRITO DE MORROPON\nDesagüe\nDISTRITO DE MORROPON\nLuz (Suministro Eléctrico)\nDISTRITO DE MORROPON\nTeléfono\nDISTRITO DE MORROPON\nSeñalización turística\nEn el camino de llegada. Sin embargo, no cumple los criterios del Manual de señalización turística.\nAlternativo de Residuos (Biodigestor, pozo séptico, otros)\nDistrito de Morropón"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nAsaciacion Agropecuaria, Conservacionista Y Ecoturistica del Bosque Seco de Piedra del Toro, San Luis y La Union - Morropón\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nPartida Electrónica\nNúmero de Partida:\n11157223\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nAsaciacion Agropecuaria, Conservacionista Y Ecoturistica del Bosque Seco de Piedra del Toro, San Luis y La Union - Morropón\nTiempo de administración\n2019"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDIRECCIÓN DE COMERCIO EXTERIOR Y TURISMO - PIURA\nNombre (Persona(s) responsable(s) del inventario turístico):\nJulia Hermelinda Menacho Alvarado\nCargo:\nDirectora de Turismo\nCorreo:\ndir.turismo.dircetur@regionpiura.gob.pe\nTeléfono:\n073-216305\nFuentes Bibliográfica:\nEXPEDIENTE TÉCNICO PARA EL ESTABLECIMIENTO DE UN ÁREA DECONSERVACIÓN PRIVADA EN PIEDRA EL TORO; ELABORADO POR: BR. BLGÍA. JULIA MERCEDES TICONA MICHILOT - PDRS ? GTZ AÑO - 2007 - LIBRO: MUNICIPIOS RURALES Y GESTIÓN LOCAL PARTICIPATIVA EN ZONAS DE MONTAÑA, GABRIELA MORALES PEÑA; MUNICIPALIDAD DISTRITAL DE CHALACO; AÑO 2002. PAG. 74 - 76\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n23/04/2026 09:41:30"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -5.151266,
+    "longitud": -79.93765300000001
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-5.151266,-79.93765300000001"
+}

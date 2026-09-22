@@ -1,0 +1,364 @@
+{
+  "cod_ficha": 2580,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=2580",
+  "nombre": "Baños Termales De Lares",
+  "departamento": "Cusco",
+  "provincia": "Calca",
+  "distrito": "LARES",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "k. Agua termo-mineral",
+  "subtipo": "Ojos de agua",
+  "jerarquia": "2",
+  "altitud": "3250",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=413488",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=413488",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=413489",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=413442",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=413490",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=413443",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=413491",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=566862",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=566863",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=566864"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Estudios e Investigación",
+    "Naturaleza - Observación de fauna",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de paisaje",
+    "Deportes / Aventura - Caminata/Trekking",
+    "Deportes / Aventura - Camping"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de fauna",
+      "observacion": "En ocasiones se puede observar el Gorrión - Passer domesticus, Tordo – Turdus Chiguanco (Tordo peruano), Ruiseñor - Luscinia megarhynchos, Jilguero encapuchado – Spinus Magellanicus, La golondrina",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fauna02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "La Chachacoma - Escallonia resinosa, La Queuña – Polylepis, Palmera – Arecaceae, Floripondio - Brugmansia arborea (En quechua Campachu), Kantu - Cantua buxifolia",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "Aguas Termales de Lares y alrededores.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Camping",
+      "observacion": "cuenta con zonas de camping alrededor de las Aguas Termales de Lares",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/camping02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Cusco/Cusco/Cusco - Cusco/Calca/Calca",
+      "detalle": "Desde la plaza mayor del Cusco hasta plaza de armas Calca",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mini bus turístico",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "51 km/ 1 hrs."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Cusco/Calca/Calca - Cusco/Calca/Lares",
+      "detalle": "Desde la plaza de armas de Calca hasta plaza principal de Lares",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mini bus turístico",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "57 km/ 1 hrs. 30 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Cusco/Calca/Lares - Cusco/Calca/Lares",
+      "detalle": "Desde la plaza principal de Lares hasta los baños termales",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Taxi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "1.2 km/ 3 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Cusco/Calca/Lares - Cusco/Calca/Lares",
+      "detalle": "De la Plaza principal de Lares hasta los baños termales",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "1.2 km/ 14 min."
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "36634",
+      "horario": "Constancia de boletas emitidas por la Municipalidad Distrital de Lares",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "11392",
+      "horario": "Constancia de boletas emitidas por la Municipalidad Distrital de Lares",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "12:00 a.m. - 11:30 p.m. la atención son las 24 hrs.",
+      "observaciones": "la atención son las 24 hrs."
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "Tarifas: Turista nacional: S/8.00 Turista nacional niño: S/4.00 Turista extranjero: S/15"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "camping(Aguas Termales de Lares)"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Aguas Termales de Lares"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Servicios Higienicos (Aguas Termales de Lares)"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Artesanía local"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Distrito de Calca."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Distrito de Calca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Español,ingles, portugues/ Distrito de Calca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Distrito de Calca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Distrito de Calca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Distrito de Calca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Distrito de Calca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Distrito de Calca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "Distrito de Calca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Distrito de Calca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Distrito de Calca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "Categoria 3,2 Estrellas Distrito de Calca"
+    }
+  ],
+  "descripcion": "Los baños termales se encuentran ubicados en el distrito de Lares, a 3250 m.s.n.m, localizándose en la región natural Quechua. Cuenta con 06 pozas de diferentes temperaturas, tamaños, diseños y profundidades, aquí el agua tiene un color amarillento y se distribuyen adecuadamente por las canaletas, fluctuando así temperaturas desde los 35º hasta los 48º C. Su composición química según un estudio está basada en: Turbidez NTU:28.60, PH:6.35, C.E.us/cm:4110.00, Dureza ppm CaCo31788.00, Dureza cálcica ppm CaCo3:666.00, Dureza magnésica ppm CaCo3 : 287.50, Sodio ppm 897.60, Potasio ppm:114.00, Cloruros ppm: 1236.00, Sulfatos ppm : 966.20, Bicarbonatos ppm: 172.60, CO2 PPM: 12.40, Hierro ppm: 10.70, Boro ppm: 0.56, Aluminio ppm: 0.86, Magnesio ppm: 0.17, Cobre ppm: 0.22, Zinc ppm: 5.36, Silicio ppm: 42.20.\nAdemás de las pozas, existe una batería de chorros de agua tibia, vestuario para damas, caballeros y personas con habilidades diferentes, servicios higiénicos, áreas verdes, zonas de camping, zona de estalactitas, miradores, hospedaje y playa de estacionamiento.\nLas aguas emergen de las laderas del cerro Lalaq`ay, de un lecho de rocas salitrosas y volcánicas, por ello se puede concluir que el origen de las aguas termo minerales procede de un sistema hidrotermal en el que existe una fuente de calor volcánica interna permanente que al contacto con la cantidad de agua que fluye hace que estos emerjan como fuentes de aguas termales con altos contenidos de minerales.\nEstas aguas son muy recomendadas para el tratamiento de afecciones reumáticas y traumatológicas como la artritis, fracturas, afecciones óseas, tendinitis, neuralgia, dolores musculares, esquinces, lumbalgias, estrés, afecciones respiratorias y estomacales, y en general, bueno para el sistema nervioso.\nEl centro poblado más cercano en dirección al este es la capital de Lares y al oeste el anexo de Tambohuaylla.",
+  "particularidades": "",
+  "estado_actual": "Se encuentra en Muy buen estado de conservación, porque la municipalidad distrital de Lares se encarga de la Administración y cuidado del balneario. Por lo cual dispuso la contratación de personal de limpieza, seguridad y personal de boletería.",
+  "observaciones": "El color del agua varía de acuerdo a la temperatura entre amarillo y amarillo ocre. “Documental Lares, ineludible destino turístico del Perú, Lucio Ormachea Méndez, 2010”",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Los baños termales se encuentran ubicados en el distrito de Lares, a 3250 m.s.n.m, localizándose en la región natural Quechua. Cuenta con 06 pozas de diferentes temperaturas, tamaños, diseños y profundidades, aquí el agua tiene un color amarillento y se distribuyen adecuadamente por las canaletas, fluctuando así temperaturas desde los 35º hasta los 48º C. Su composición química según un estudio está basada en: Turbidez NTU:28.60, PH:6.35, C.E.us/cm:4110.00, Dureza ppm CaCo31788.00, Dureza cálcica ppm CaCo3:666.00, Dureza magnésica ppm CaCo3 : 287.50, Sodio ppm 897.60, Potasio ppm:114.00, Cloruros ppm: 1236.00, Sulfatos ppm : 966.20, Bicarbonatos ppm: 172.60, CO2 PPM: 12.40, Hierro ppm: 10.70, Boro ppm: 0.56, Aluminio ppm: 0.86, Magnesio ppm: 0.17, Cobre ppm: 0.22, Zinc ppm: 5.36, Silicio ppm: 42.20.\nAdemás de las pozas, existe una batería de chorros de agua tibia, vestuario para damas, caballeros y personas con habilidades diferentes, servicios higiénicos, áreas verdes, zonas de camping, zona de estalactitas, miradores, hospedaje y playa de estacionamiento.\nLas aguas emergen de las laderas del cerro Lalaq`ay, de un lecho de rocas salitrosas y volcánicas, por ello se puede concluir que el origen de las aguas termo minerales procede de un sistema hidrotermal en el que existe una fuente de calor volcánica interna permanente que al contacto con la cantidad de agua que fluye hace que estos emerjan como fuentes de aguas termales con altos contenidos de minerales.\nEstas aguas son muy recomendadas para el tratamiento de afecciones reumáticas y traumatológicas como la artritis, fracturas, afecciones óseas, tendinitis, neuralgia, dolores musculares, esquinces, lumbalgias, estrés, afecciones respiratorias y estomacales, y en general, bueno para el sistema nervioso.\nEl centro poblado más cercano en dirección al este es la capital de Lares y al oeste el anexo de Tambohuaylla."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Se encuentra en Muy buen estado de conservación, porque la municipalidad distrital de Lares se encarga de la Administración y cuidado del balneario. Por lo cual dispuso la contratación de personal de limpieza, seguridad y personal de boletería."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "El color del agua varía de acuerdo a la temperatura entre amarillo y amarillo ocre. “Documental Lares, ineludible destino turístico del Perú, Lucio Ormachea Méndez, 2010”"
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Nacionales\n36634\nConstancia de boletas emitidas por la Municipalidad Distrital de Lares\n2023\nTuristas Extranjeros\n11392\nConstancia de boletas emitidas por la Municipalidad Distrital de Lares\n2023"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nCusco/Cusco/Cusco\n-\nCusco/Calca/Calca\nDesde la plaza mayor del Cusco hasta plaza de armas Calca\nTerrestre\nMini bus turístico\nAsfaltado\n51 km/ 1 hrs.\n1\nCusco/Calca/Calca\n-\nCusco/Calca/Lares\nDesde la plaza de armas de Calca hasta plaza principal de Lares\nTerrestre\nMini bus turístico\nAsfaltado\n57 km/ 1 hrs. 30 min.\n1\nCusco/Calca/Lares\n-\nCusco/Calca/Lares\nDesde la plaza principal de Lares hasta los baños termales\nTerrestre\nTaxi\nAsfaltado\n1.2 km/ 3 min.\n1\nCusco/Calca/Lares\n-\nCusco/Calca/Lares\nDe la Plaza principal de Lares hasta los baños termales\nTerrestre\nA pie\nAsfaltado\n1.2 km/ 14 min."
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nTarifas:\nTurista nacional: S/8.00\nTurista nacional niño: S/4.00\nTurista extranjero: S/15"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n12:00 a.m.\n-\n11:30 p.m.\nla atención son las 24 hrs."
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\nOtros\nEstudios e Investigación\nNaturaleza\nObservación de fauna\nEn ocasiones se puede observar el Gorrión - Passer domesticus, Tordo – Turdus Chiguanco (Tordo peruano), Ruiseñor - Luscinia megarhynchos, Jilguero encapuchado – Spinus Magellanicus, La golondrina\nNaturaleza\nObservación de flora\nLa Chachacoma - Escallonia resinosa, La Queuña – Polylepis, Palmera – Arecaceae, Floripondio - Brugmansia arborea (En quechua Campachu), Kantu - Cantua buxifolia\nNaturaleza\nObservación de paisaje\n--\nDeportes / Aventura\nCaminata/Trekking\nAguas Termales de Lares y alrededores.\nDeportes / Aventura\nCamping\ncuenta con zonas de camping alrededor de las Aguas Termales de Lares"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nAlojamiento\nOtros (Especificar)\ncamping(Aguas Termales de Lares)\nInstalaciones Privadas\nAlimentación\nKioskos de comida y bebidas\nAguas Termales de Lares\nInstalaciones Privadas\nOtros Servicios Turísticos\nOtros (Especificar)\nServicios Higienicos (Aguas Termales de Lares)\nInstalaciones Privadas\nOtros Servicios Turísticos\nVenta de artesanía\nArtesanía local\nInstalaciones Públicas\nServicios Públicos\nMiradores turísticos\n--\nInstalaciones Públicas\nServicios Públicos\nEstacionamiento de vehículos\n--\nInstalaciones Públicas\nServicios Públicos\nSeñales turísticas de orientación\n--\nInstalaciones Públicas\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlimentación\nRestaurantes\nDistrito de Calca.\nAlimentación\nKioskos de comida y bebidas\nDistrito de Calca\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nEspañol,ingles, portugues/ Distrito de Calca\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nDistrito de Calca\nLugares de Recreación\nBares\nDistrito de Calca\nAlimentación\nCafeterías\nDistrito de Calca\nAlimentación\nBares\nDistrito de Calca\nOtros Servicios Turísticos\nVenta de artesanía\nDistrito de Calca\nLugares de Recreación\nKaraoke\nDistrito de Calca\nLugares de Recreación\nJuegos Infantiles\nDistrito de Calca\nLugares de Recreación\nCentros Deportivos\nDistrito de Calca\nAlojamiento\nHoteles (especificar categorías)\nCategoria 3,2 Estrellas Distrito de Calca"
+    },
+    {
+      "titulo": "Servicios Complementarios dentro del recurso",
+      "contenido": "Servicio Complementario\nObservación\nCentro de salud - tópico\nServicio de estacionamiento\nEn la entrada de los Baños Termales de Lares"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nDistrito de Calca\nBancos\nDistrito de Calca\nEstación de servicios, grifos, gasolineras y gasocentros\nDistrito de Calca\nServicio de estacionamiento\nDistrito de Calca\nSeguridad / POLTUR / Comisaría\nDistrito de Calca\nLibrerías\nDistrito de Calca\nBodegas o minimarkets\nDistrito de Calca\nServicios de taxis\nDistrito de Calca\nCentro de salud - tópico\nDistrito de Calca"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nBaños termales de lares\nLuz (Suministro Eléctrico)\nBaños termales de lares\nOtros (Especificar)\nAreas de Camping (Baños termales de lares)\nSeñalización turística\nBaños termales de lares"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nDistrito de Calca\nAlcantarillado sanitario\nDistrito de Calca\nDesagüe\nDistrito de Calca\nLuz (Suministro Eléctrico)\nDistrito de Calca\nTeléfono\nDistrito de Calca\nSeñalización turística\nDistrito de Calca\nEnergía Alternativa\nDistrito de Calca"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\n--\nPrivado:\n--\nOtra Situación:\nLo Administra la Municipalidad Distrital de Lares / Comunidad Lares Ayllu Talana\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nR.D. 0951- 90 – DUAD- XX – C ; Partida Electrónica: 02082289\nAdministrador por\nNombre\nMunicipalidad Distrital de Lares / Comunidad Lares Ayllu Talana\nTiempo de administración\nDesde 1989"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nGerencia Regional de Comercio Exterior, Turismo y Artesanía - CUSCO\nNombre (Persona(s) responsable(s) del inventario turístico):\nEcon. Marco Luna Galindo\nCargo:\nResponsable del Inventario de Recursos Turisticos\nCorreo:\nsgdp.gercetur@gmail.com\nTeléfono:\n926629209\nFuentes Bibliográfica:\nLibro: Documental Lares, ineludible destino turístico del Perú Vol 1 , por Lucio Ormachea Mendez,2010\nInforme de Investigacion: El Turismo Termal en el Perú Según la Percepción del Turista Limeño, por García Chumioque, Florisa Graciela - 2015\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n2005 – Municipalidad provincial de Calca y distrital de Lares\n2011 – Municipalidad Distrital de Lares\n2019 y 2020 – Municipalidad Distrital de Lares\nFecha:\n23/04/2025 12:11:07"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -13.111571628327853,
+    "longitud": -72.0559848099947
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-13.111571628327853,-72.0559848099947"
+}

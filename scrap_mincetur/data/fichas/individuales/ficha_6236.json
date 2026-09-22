@@ -1,0 +1,446 @@
+{
+  "cod_ficha": 6236,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=6236",
+  "nombre": "Puente De Fierro",
+  "departamento": "Arequipa",
+  "provincia": "Arequipa",
+  "distrito": "AREQUIPA",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Arquitectura y Espacios Urbanos",
+  "subtipo": "Puentes",
+  "jerarquia": "2",
+  "altitud": "2,240",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=291870",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=291870",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=719578",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=698080",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=719579",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=698081"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Estudios e Investigación",
+    "Naturaleza - Observación de paisaje",
+    "Paseos - Paseos en bicicleta"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Paseos",
+      "tipo": "Paseos en bicicleta",
+      "observacion": "--",
+      "icono_url": null
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Arequipa/Arequipa/Jacobo Hunter - Arequipa/Arequipa/Arequipa",
+      "detalle": "Terminal Terrestre – Puente de Fierro",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Taxi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "3 km / 10 min"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Arequipa/Arequipa/Arequipa - Arequipa/Arequipa/Arequipa",
+      "detalle": "Plaza de Armas – Puente de Fierro",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Taxi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "3,9 km / 15 min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "180",
+      "horario": "Conteo Muestral a cargo de la Municipalidad Provincial de Arequipa",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "810",
+      "horario": "Conteo Muestral a cargo de la Municipalidad Provincial de Arequipa",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "1260",
+      "horario": "Conteo Muestral a cargo de la Municipalidad Provincial de Arequipa",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "06:00 a.m. - 08:00 p.m. No se permite cruzar el puente en vehículo motorizado",
+      "observaciones": "No se permite cruzar el puente en vehículo motorizado"
+    },
+    {
+      "epoca": "Personas con discapacidad física",
+      "especificacion": "Rampas de acceso",
+      "horario": "--",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "Ciudad de Arequipa – de 1 a 5 estrellas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Albergues",
+      "observacion": "Ciudad de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Apart-hoteles (especificar categorías)",
+      "observacion": "Ciudad de Arequipa-de 4 estrellas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "Ciudad de Arequipa – de 1 a 3 estrellas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Ciudad de Arequipa (Airbnb)"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Ciudad de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Ciudad de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Ciudad de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de camionetas 4 x 4",
+      "observacion": "Ciudad de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de bicicleta",
+      "observacion": "Ciudad de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Peñas",
+      "observacion": "Ciudad de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Cines o Teatros",
+      "observacion": "Ciudad de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Ciudad de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "Ciudad de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Ciudad de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Ciudad de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Hipódromos",
+      "observacion": "Ciudad de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "Ciudad de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Ciudad de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "Ciudad de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de interpretación",
+      "observacion": "Ciudad de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "Ciudad de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Centros de interpretación",
+      "observacion": "Ciudad de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Paradores turísticos",
+      "observacion": "Ciudad de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Ciudad de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Puesto de auxilio rápido",
+      "observacion": "Ciudad de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Museo de Sitio Turísticos",
+      "observacion": "Ciudad de Arequipa"
+    }
+  ],
+  "descripcion": "El Puente de Fierro o Puente Bolívar es una sobresaliente obra de ingeniería metálica del siglo XIX, representativa de la etapa de modernización e industrialización del Perú. Su construcción data de 1871, en el marco de la expansión ferroviaria del sur peruano, con el propósito de mejorar la conexión entre la ciudad de Arequipa y el puerto de Mollendo. La estructura presenta un diseño de armadura tipo Fink, conformada por columnas tipo Phoenix y módulos metálicos prefabricados ensamblados sobre bastiones de piedra de sillar volcánico. Posee una longitud aproximada de 484 metros y una altura de 20 metros sobre el nivel del río Chili, lo que le otorga una presencia dominante dentro del paisaje urbano arequipeño. En su época, fue considerado uno de los puentes metálicos más largos del mundo dentro de su categoría.\nEl diseño, de estilo industrial funcionalista, prescinde de ornamentación clásica, destacando por la estética del hierro remachado, las diagonales cruzadas y el ritmo repetitivo de sus pórticos metálicos. Este lenguaje estructural refleja la transición hacia la ingeniería moderna y el dominio de nuevas tecnologías constructivas durante el siglo XIX. Durante muchos años se atribuyó erróneamente su diseño a Gustave Eiffel; sin embargo, investigaciones recientes confirman que fue construido por la Phoenix Iron Company de Filadelfia (EE. UU.), empresa pionera en la fabricación de estructuras metálicas prefabricadas. Su ejecución marcó un hito en la ingeniería peruana, al introducir de manera temprana el uso del hierro forjado como material estructural principal.\nActualmente, el puente presenta un estado de conservación regular. Si bien ha sufrido deterioro debido a la exposición climática y al tránsito vehicular del pasado, en 2022 fue objeto de trabajos de puesta en valor impulsados por la Universidad Católica de Santa María y la Municipalidad Provincial de Arequipa. Estas labores incluyeron limpieza general, repintado, sustitución de barandas y la instalación de un sistema de iluminación LED, que realza su valor patrimonial y paisajístico. En la actualidad, el puente se destina principalmente al uso peatonal y ciclístico.\nEl Puente de Fierro posee un alto interés turístico por su valor histórico, arquitectónico y paisajístico. Constituye una de las obras de ingeniería metálica más representativas del Perú, símbolo del avance tecnológico del siglo XIX y referente del patrimonio industrial nacional. Su emplazamiento sobre el río Chili ofrece vistas panorámicas únicas de la ciudad y de los volcanes Misti, Chachani y Pichu Pichu, convirtiéndolo en un punto de observación privilegiado. Además de su valor histórico, el puente se ha consolidado como un atractivo cultural y fotográfico integrado a los recorridos urbanos y circuitos patrimoniales de Arequipa. Su iluminación nocturna y su accesibilidad lo convierten en un espacio idóneo para el turismo recreativo, histórico y de contemplación, siendo un emblema del paisaje urbano arequipeño y de su identidad patrimonial.",
+  "particularidades": "Se distingue a nivel nacional por ser la obra de ingeniería metálica más antigua y de mayor longitud del Perú, empezó a edificarse en la década de 1860 y se terminó en 1871 para el paso del Ferrocarril del Sur, mide casi 485 metros de largo, construida íntegramente con elementos prefabricados de hierro forjado importados y ensamblados en el país durante el siglo XIX. (Colegio de Ingenieros del Perú (CIP) en su revista “Puente”).",
+  "estado_actual": "Bueno, se realizó la puesta en valor de la edificación a\ncargo de la Municipalidad Provincial de Arequipa y\nAECID",
+  "observaciones": "Es el único puente diseñado por Eiffel.\nEl puente se inicia en la zona de Sachaca (Pueblo Tradicional de Arrayanes) y termina en el Cercado de Arequipa (Av. Parra).\nNo se permite el tránsito vehicular motorizado por\nprevención",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "El Puente de Fierro o Puente Bolívar es una sobresaliente obra de ingeniería metálica del siglo XIX, representativa de la etapa de modernización e industrialización del Perú. Su construcción data de 1871, en el marco de la expansión ferroviaria del sur peruano, con el propósito de mejorar la conexión entre la ciudad de Arequipa y el puerto de Mollendo. La estructura presenta un diseño de armadura tipo Fink, conformada por columnas tipo Phoenix y módulos metálicos prefabricados ensamblados sobre bastiones de piedra de sillar volcánico. Posee una longitud aproximada de 484 metros y una altura de 20 metros sobre el nivel del río Chili, lo que le otorga una presencia dominante dentro del paisaje urbano arequipeño. En su época, fue considerado uno de los puentes metálicos más largos del mundo dentro de su categoría.\nEl diseño, de estilo industrial funcionalista, prescinde de ornamentación clásica, destacando por la estética del hierro remachado, las diagonales cruzadas y el ritmo repetitivo de sus pórticos metálicos. Este lenguaje estructural refleja la transición hacia la ingeniería moderna y el dominio de nuevas tecnologías constructivas durante el siglo XIX. Durante muchos años se atribuyó erróneamente su diseño a Gustave Eiffel; sin embargo, investigaciones recientes confirman que fue construido por la Phoenix Iron Company de Filadelfia (EE. UU.), empresa pionera en la fabricación de estructuras metálicas prefabricadas. Su ejecución marcó un hito en la ingeniería peruana, al introducir de manera temprana el uso del hierro forjado como material estructural principal.\nActualmente, el puente presenta un estado de conservación regular. Si bien ha sufrido deterioro debido a la exposición climática y al tránsito vehicular del pasado, en 2022 fue objeto de trabajos de puesta en valor impulsados por la Universidad Católica de Santa María y la Municipalidad Provincial de Arequipa. Estas labores incluyeron limpieza general, repintado, sustitución de barandas y la instalación de un sistema de iluminación LED, que realza su valor patrimonial y paisajístico. En la actualidad, el puente se destina principalmente al uso peatonal y ciclístico.\nEl Puente de Fierro posee un alto interés turístico por su valor histórico, arquitectónico y paisajístico. Constituye una de las obras de ingeniería metálica más representativas del Perú, símbolo del avance tecnológico del siglo XIX y referente del patrimonio industrial nacional. Su emplazamiento sobre el río Chili ofrece vistas panorámicas únicas de la ciudad y de los volcanes Misti, Chachani y Pichu Pichu, convirtiéndolo en un punto de observación privilegiado. Además de su valor histórico, el puente se ha consolidado como un atractivo cultural y fotográfico integrado a los recorridos urbanos y circuitos patrimoniales de Arequipa. Su iluminación nocturna y su accesibilidad lo convierten en un espacio idóneo para el turismo recreativo, histórico y de contemplación, siendo un emblema del paisaje urbano arequipeño y de su identidad patrimonial."
+    },
+    {
+      "titulo": "Particularidades",
+      "contenido": "Se distingue a nivel nacional por ser la obra de ingeniería metálica más antigua y de mayor longitud del Perú, empezó a edificarse en la década de 1860 y se terminó en 1871 para el paso del Ferrocarril del Sur, mide casi 485 metros de largo, construida íntegramente con elementos prefabricados de hierro forjado importados y ensamblados en el país durante el siglo XIX. (Colegio de Ingenieros del Perú (CIP) en su revista “Puente”)."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "Declarado “Ambiente Urbano Monumental” por el Instituto Nacional de Cultura (INC) con la “Resolución Municipal Nº 1251-85-ED, el 2 de febrero del 2003”"
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, se realizó la puesta en valor de la edificación a\ncargo de la Municipalidad Provincial de Arequipa y\nAECID"
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "Es el único puente diseñado por Eiffel.\nEl puente se inicia en la zona de Sachaca (Pueblo Tradicional de Arrayanes) y termina en el Cercado de Arequipa (Av. Parra).\nNo se permite el tránsito vehicular motorizado por\nprevención"
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n180\nConteo Muestral a cargo de la Municipalidad Provincial de Arequipa\n2025\nundefined\nTuristas Nacionales\n810\nConteo Muestral a cargo de la Municipalidad Provincial de Arequipa\n2025\nundefined\nVisitantes Locales(Excursionistas)\n1260\nConteo Muestral a cargo de la Municipalidad Provincial de Arequipa\n2025\nundefined"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nArequipa/Arequipa/Jacobo Hunter\n-\nArequipa/Arequipa/Arequipa\nTerminal Terrestre – Puente de Fierro\nTerrestre\nTaxi\nAsfaltado\n3 km / 10 min\n2\nArequipa/Arequipa/Arequipa\n-\nArequipa/Arequipa/Arequipa\nPlaza de Armas – Puente de Fierro\nTerrestre\nTaxi\nAsfaltado\n3,9 km / 15 min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n06:00 a.m.\n-\n08:00 p.m.\nNo se permite cruzar el puente en vehículo motorizado"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nEstudios e Investigación\n--\nNaturaleza\nObservación de paisaje\n--\nPaseos\nPaseos en bicicleta\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\nCiudad de Arequipa – de 1 a 5 estrellas\nAlojamiento\nAlbergues\nCiudad de Arequipa\nAlojamiento\nApart-hoteles (especificar categorías)\nCiudad de Arequipa-de 4 estrellas\nAlojamiento\nHostales (especificar categorías)\nCiudad de Arequipa – de 1 a 3 estrellas\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Arequipa\nAlojamiento\nOtros (Especificar)\nCiudad de Arequipa (Airbnb)\nAlimentación\nRestaurantes\nCiudad de Arequipa\nAlimentación\nKioskos de comida y bebidas\nCiudad de Arequipa\nAlimentación\nBares\nCiudad de Arequipa\nAlimentación\nFuentes de soda\nCiudad de Arequipa\nAlimentación\nCafeterías\nCiudad de Arequipa\nAlimentación\nVenta de comida Rápida\nCiudad de Arequipa\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de Arequipa\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nCiudad de Arequipa\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Arequipa\nOtros Servicios Turísticos\nAlquiler de camionetas 4 x 4\nCiudad de Arequipa\nOtros Servicios Turísticos\nAlquiler de bicicleta\nCiudad de Arequipa\nLugares de Recreación\nDiscotecas\nCiudad de Arequipa\nLugares de Recreación\nPeñas\nCiudad de Arequipa\nLugares de Recreación\nCines o Teatros\nCiudad de Arequipa\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nCiudad de Arequipa\nLugares de Recreación\nKaraoke\nCiudad de Arequipa\nLugares de Recreación\nJuegos Infantiles\nCiudad de Arequipa\nLugares de Recreación\nCentros Deportivos\nCiudad de Arequipa\nLugares de Recreación\nHipódromos\nCiudad de Arequipa\nServicios Públicos\nMiradores turísticos\nCiudad de Arequipa\nServicios Públicos\nEstacionamiento de vehículos\nCiudad de Arequipa\nServicios Públicos\nSeñales turísticas de orientación\nCiudad de Arequipa\nServicios Públicos\nSeñales turísticas de interpretación\nCiudad de Arequipa\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\nCiudad de Arequipa\nServicios Públicos\nCentros de interpretación\nCiudad de Arequipa\nServicios Públicos\nParadores turísticos\nCiudad de Arequipa\nServicios Públicos\nOficina de Información turística\nCiudad de Arequipa\nServicios Públicos\nPuesto de auxilio rápido\nCiudad de Arequipa\nServicios Públicos\nMuseo de Sitio Turísticos\nCiudad de Arequipa"
+    },
+    {
+      "titulo": "Servicios Complementarios dentro del recurso",
+      "contenido": "Servicio Complementario\nObservación\nServicios de internet\n--"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Arequipa\nBancos\nCiudad de Arequipa\nCajero automático\nCiudad de Arequipa\nCasa de cambio\nCiudad de Arequipa\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Arequipa\nServicio de correos\nCiudad de Arequipa\nServicio de estacionamiento\nCiudad de Arequipa\nServicios de taxis\nCiudad de Arequipa\nCentro de salud - tópico\nCiudad de Arequipa\nVenta de materiales para fotografías\nCiudad de Arequipa\nSeguridad / POLTUR / Comisaría\nCiudad de Arequipa\nLibrerías\nCiudad de Arequipa\nBodegas o minimarkets\nCiudad de Arequipa\nAlquiler y compra de equipos deportivos\nCiudad de Arequipa"
+    },
+    {
+      "titulo": "Condiciones de Accesibilidad al Visitante",
+      "contenido": "Visitante\nInstalación\nActividades y/o programas\nEquipamiento\nObservación\nPersonas con discapacidad física\nRampas de acceso\n--\n--\n--"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nLuz (Suministro Eléctrico)\n--\nTeléfono\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Arequipa\nAlcantarillado sanitario\nCiudad de Arequipa\nLuz (Suministro Eléctrico)\nCiudad de Arequipa\nTeléfono\nCiudad de Arequipa\nSeñalización turística\nCiudad de Arequipa\nAlcantarillado pluvial\nCiudad de Arequipa\nEnergía Alternativa\nCiudad de Arequipa\nSistemas de tratamiento alternativo de residuos (Biodigestor, pozo séptico, otros)\nCiudad de Arequipa"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nMunicipalidad Provincial de Arequipa\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nA partir de la declaratoria como “Ambiente Urbano Monumental” “Resolución Municipal Nº 1251-85-ED” pasa a ser responsabilidad de la Municipalidad Provincial de Arequipa\nAdministrador por\nNombre\nMunicipalidad Provincial de Arequipa\nTiempo de administración\nDesde el año 2003"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nGerencia Regional de Comercio Exterior y Turismo de Arequipa\nNombre (Persona(s) responsable(s) del inventario turístico):\nLic. Claudia Isabel Barrios Cacya\nCargo:\nEspecialista en Turismo\nCorreo:\ncbarrios@correo.regionarequipa.gob.pe\nTeléfono:\n054-382860\nFuentes Bibliográfica:\nLa verdadera historia del puente Fierro de Arequipa: ¿lo construyó el creador de la Torre Eiffel?. Por Diario La República https://larepublica.pe/sociedad/2022/07/22/arequipa-conoce-la-verdadera-historia-del-puente-fierro-lo construyo-el-creador-de-la-torre-eiffel-puente-bolivar publicado el 22 Jul 2022, consultado el 28 de noviembre del 2025.\nFuente Fierro: Un ícono de la arquitectura matemática en Arequipa. Por diario Correo,\nhttps://diariocorreo.pe/edicion/arequipa/puente-fierro-un-icono-de-la-arquitectura-matematica-en-arequipa-noticia/ publicado el 01/02/2025, consultado el 28 de noviembre del 2025.\nAnálisis microestructural y determinación de propiedades mecánicas del puente Simón Bolívar (Puente de Fierro). Por Ancasi Huisa, Aldo Edgar y Lupaca Gomocio, Dean Emerson, Universidad Nacional de San Agustín de Arequipa, 2020.\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\nEn marzo de 2022 la MPA inició un proyecto de mantenimiento de la plataforma, del alumbrado público y de las barandas del puente, adaptándolo también para uso peatonal.\nFecha:\n31/08/2026 15:54:08"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -16.409950915312358,
+    "longitud": -71.54879987239838
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-16.409950915312358,-71.54879987239838"
+}

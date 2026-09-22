@@ -1,0 +1,285 @@
+{
+  "cod_ficha": 5669,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=5669",
+  "nombre": "Mirador Apu Accaimarca",
+  "departamento": "Ayacucho",
+  "provincia": "Lucanas",
+  "distrito": "CARMEN SALCEDO",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "ñ. Zonas paisajísticas",
+  "subtipo": "Miradores naturales",
+  "jerarquia": "1",
+  "altitud": "3750",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=299256",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=299256",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=299257",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=458415",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=458336",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=458416",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=463004"
+  ],
+  "actividades_permitidas": [
+    "Paseos - Excursiones",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de aves",
+    "Cultura y Folclore - Rituales místicos o tradicionales"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Paseos",
+      "tipo": "Excursiones",
+      "observacion": "Caminata, senderismo.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/excursiones02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "Ichu, Flores Silvestres,Tuna, Espinas e.t.c.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de aves",
+      "observacion": "Condor Andino, Gavilanes, Halcones, Chiwaco, Colibrís, Pechinko. E.T.C.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/aves02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Rituales místicos o tradicionales",
+      "observacion": "Pago a la tierra.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/rituales_misticos02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Ayacucho/Huamanga/Ayacucho - Ayacucho/Lucanas/Carmen Salcedo",
+      "detalle": "Terminal sur de Ayacucho - Terminal de provincia Sucre",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus turístico",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "206K.M /6Horas"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Ayacucho/Sucre/Querobamba - Ayacucho/Lucanas/Carmen Salcedo",
+      "detalle": "Terminal Provincia Sucre - Cdra. 3 Jr. Lima de la ciudad de Andamarca",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus turístico",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "117 K.M / 4 Horas"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Ayacucho/Lucanas/Carmen Salcedo - Ayacucho/Lucanas/Carmen Salcedo",
+      "detalle": "Cdra. 3 Jr. Lima de la ciudad de Andamarca - Mirador de Accaimarca",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Camino de Herradura",
+      "distancia_tiempo": "3 k.m. / 1 hora con 30 minutos"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Ayacucho/Huamanga/Ayacucho - Ayacucho/Lucanas/Carmen Salcedo",
+      "detalle": "Terminal sur de Ayacucho - Terminal de provincia de Huanca Sancos",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mini bus turístico",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "142 K.M/ 3.37 Horas"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Ayacucho/Huanca Sancos/Sancos - Ayacucho/Lucanas/Carmen Salcedo",
+      "detalle": "Terminal Provincia Huanca Sancos - Cdra. 3 Jr. Lima de la ciudad de Andamarca",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus turístico",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "117 K.M / 3 Horas"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Ayacucho/Lucanas/Carmen Salcedo - Ayacucho/Lucanas/Carmen Salcedo",
+      "detalle": "Cdra. 3 Jr. Lima de la ciudad de Andamarca - Mirador de Accaimarca",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Camino de Herradura",
+      "distancia_tiempo": "3 k.m. / 1 hora 30 minutos"
+    },
+    {
+      "recorrido": "3",
+      "tramo": "Lima/Lima/Lima - Ayacucho/Lucanas/Carmen Salcedo",
+      "detalle": "Terminal de Lima Av. 28 Julio - Terminal Ciudad de Ica",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus turístico",
+      "tipo_via": "Camino de Herradura",
+      "distancia_tiempo": "305km/4horas"
+    },
+    {
+      "recorrido": "3",
+      "tramo": "Ica/Ica/Ica - Ayacucho/Lucanas/Carmen Salcedo",
+      "detalle": "Terminal Provincia Ica - Terminal Provincia de Puquio",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus turístico",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "298 k.m. / 5 horas"
+    },
+    {
+      "recorrido": "3",
+      "tramo": "Ayacucho/Lucanas/Puquio - Ayacucho/Lucanas/Carmen Salcedo",
+      "detalle": "Terminal Provincia Puquio - Cdra. 3 Jr. Lima de la ciudad de Andamarca",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus turístico",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "75 Km./2 hrs."
+    },
+    {
+      "recorrido": "3",
+      "tramo": "Ayacucho/Lucanas/Carmen Salcedo - Ayacucho/Lucanas/Carmen Salcedo",
+      "detalle": "Cdra. 3 Jr. Lima de la ciudad de Andamarca - Mirador de Accaimarca",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Camino de Herradura",
+      "distancia_tiempo": "3 k.m. / 1 hora 30 minutos"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "1048",
+      "horario": "Municipalidad de Carmen Salcedo",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "07:00 a.m. - 02:30 p.m. Para la visita requiere esfuerzo físico moderado. Para el registro de flujo de visitantes comunicarse con la Municipalidad Teléfono 972550691",
+      "observaciones": "Para la visita requiere esfuerzo físico moderado. Para el registro de flujo de visitantes comunicarse con la Municipalidad Teléfono 972550691"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": "Para el registro de flujo de Visitantes comunicarse con la municipalidad área de Turismo teléfono 972550691"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "Ciudad de Andamarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Andamarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Andamarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Andamarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de Andamarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Césped Sintético B. Tuna Ciudad de Andamarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "ciudad de Andamarca"
+    }
+  ],
+  "descripcion": "Montaña rocosa que se eleva desde el río Negro mayo y alcanza unos 400 metros de altura, es uno de los miradores naturales de las milenarias andenerías de Andamarca, de donde se aprecia la Capital del Distrito rodeado de andenes en su máxima expresión de la cultura viva, podemos observar una cruz gigante grabada por la naturaleza misteriosamente de 30 metros por 15 metros gracias a la erosión del viento podemos observar las formaciones rocosas monjas, rostros humanos, perfil del humano. Se observa también el canal de agua que ha quedado truncado que pasa por la mitad de la montaña rocosa. Los Andamarquinos los consideran como un “Apu” guardián eterno de la capital que tiene la forma de un puma que se observa del Mirador de Huaylla. También se observa el recorrido del río Negro mayo por donde cruza el camino inka que recorre toda la zona del Valle Sondondo. Lugar propicio para la toma de fotografías y filmación por su altitud y ubicación estratégica. Es además un lugar ideal para observar un atardecer muy bello. Y poder volver con toda comodidad al pueblo de Anadamarca antes que nos llegue la noche. Además, este mirador natural tiene las condiciones necesarias, para la adaptación turística, tanto en escaleras, como una base en la punta del cerro, para una mejor comodidad al momento de la visita.",
+  "particularidades": "",
+  "estado_actual": "Regular. El camino de herradura se encuentra en un estado regular, puesto, no existe mantenimiento, es paso obligado de ganados. El Cerro Apu Accaimarca por su misma naturaleza es la más imponente frente al Pueblo de Andamarca.",
+  "observaciones": "Alguna vez sirvió para que los deportistas de vuelo libre realicen sus pruebas desde lo alto del cerro y por sus paredes rocosas verticales se practica la escalada en roca.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Montaña rocosa que se eleva desde el río Negro mayo y alcanza unos 400 metros de altura, es uno de los miradores naturales de las milenarias andenerías de Andamarca, de donde se aprecia la Capital del Distrito rodeado de andenes en su máxima expresión de la cultura viva, podemos observar una cruz gigante grabada por la naturaleza misteriosamente de 30 metros por 15 metros gracias a la erosión del viento podemos observar las formaciones rocosas monjas, rostros humanos, perfil del humano. Se observa también el canal de agua que ha quedado truncado que pasa por la mitad de la montaña rocosa. Los Andamarquinos los consideran como un “Apu” guardián eterno de la capital que tiene la forma de un puma que se observa del Mirador de Huaylla. También se observa el recorrido del río Negro mayo por donde cruza el camino inka que recorre toda la zona del Valle Sondondo. Lugar propicio para la toma de fotografías y filmación por su altitud y ubicación estratégica. Es además un lugar ideal para observar un atardecer muy bello. Y poder volver con toda comodidad al pueblo de Anadamarca antes que nos llegue la noche. Además, este mirador natural tiene las condiciones necesarias, para la adaptación turística, tanto en escaleras, como una base en la punta del cerro, para una mejor comodidad al momento de la visita."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Regular. El camino de herradura se encuentra en un estado regular, puesto, no existe mantenimiento, es paso obligado de ganados. El Cerro Apu Accaimarca por su misma naturaleza es la más imponente frente al Pueblo de Andamarca."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "Alguna vez sirvió para que los deportistas de vuelo libre realicen sus pruebas desde lo alto del cerro y por sus paredes rocosas verticales se practica la escalada en roca."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Nacionales\n1048\nMunicipalidad de Carmen Salcedo\n2022\nINFORME DE VISITAS A LOS RECURSOS TURÍSTICOS EN EL DISTRITO DE CARMEN SALCEDO"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nAyacucho/Huamanga/Ayacucho\n-\nAyacucho/Lucanas/Carmen Salcedo\nTerminal sur de Ayacucho - Terminal de provincia Sucre\nTerrestre\nBus turístico\nAsfaltado\n206K.M /6Horas\n1\nAyacucho/Sucre/Querobamba\n-\nAyacucho/Lucanas/Carmen Salcedo\nTerminal Provincia Sucre - Cdra. 3 Jr. Lima de la ciudad de Andamarca\nTerrestre\nBus turístico\nAsfaltado\n117 K.M / 4 Horas\n1\nAyacucho/Lucanas/Carmen Salcedo\n-\nAyacucho/Lucanas/Carmen Salcedo\nCdra. 3 Jr. Lima de la ciudad de Andamarca - Mirador de Accaimarca\nTerrestre\nA pie\nCamino de Herradura\n3 k.m. / 1 hora con 30 minutos\n2\nAyacucho/Huamanga/Ayacucho\n-\nAyacucho/Lucanas/Carmen Salcedo\nTerminal sur de Ayacucho - Terminal de provincia de Huanca Sancos\nTerrestre\nMini bus turístico\nAsfaltado\n142 K.M/ 3.37 Horas\n2\nAyacucho/Huanca Sancos/Sancos\n-\nAyacucho/Lucanas/Carmen Salcedo\nTerminal Provincia Huanca Sancos - Cdra. 3 Jr. Lima de la ciudad de Andamarca\nTerrestre\nBus turístico\nAfirmado\n117 K.M / 3 Horas\n2\nAyacucho/Lucanas/Carmen Salcedo\n-\nAyacucho/Lucanas/Carmen Salcedo\nCdra. 3 Jr. Lima de la ciudad de Andamarca - Mirador de Accaimarca\nTerrestre\nA pie\nCamino de Herradura\n3 k.m. / 1 hora 30 minutos\n3\nLima/Lima/Lima\n-\nAyacucho/Lucanas/Carmen Salcedo\nTerminal de Lima Av. 28 Julio - Terminal Ciudad de Ica\nTerrestre\nBus turístico\nCamino de Herradura\n305km/4horas\n3\nIca/Ica/Ica\n-\nAyacucho/Lucanas/Carmen Salcedo\nTerminal Provincia Ica - Terminal Provincia de Puquio\nTerrestre\nBus turístico\nAsfaltado\n298 k.m. / 5 horas\n3\nAyacucho/Lucanas/Puquio\n-\nAyacucho/Lucanas/Carmen Salcedo\nTerminal Provincia Puquio - Cdra. 3 Jr. Lima de la ciudad de Andamarca\nTerrestre\nBus turístico\nAsfaltado\n75 Km./2 hrs.\n3\nAyacucho/Lucanas/Carmen Salcedo\n-\nAyacucho/Lucanas/Carmen Salcedo\nCdra. 3 Jr. Lima de la ciudad de Andamarca - Mirador de Accaimarca\nTerrestre\nA pie\nCamino de Herradura\n3 k.m. / 1 hora 30 minutos"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre\nPara el registro de flujo de Visitantes comunicarse con la municipalidad área de Turismo teléfono 972550691"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n07:00 a.m.\n-\n02:30 p.m.\nPara la visita requiere esfuerzo físico moderado. Para el registro de flujo de visitantes comunicarse con la Municipalidad Teléfono 972550691"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nPaseos\nExcursiones\nCaminata, senderismo.\nNaturaleza\nObservación de flora\nIchu, Flores Silvestres,Tuna, Espinas e.t.c.\nNaturaleza\nObservación de aves\nCondor Andino, Gavilanes, Halcones, Chiwaco, Colibrís, Pechinko. E.T.C.\nCultura y Folclore\nRituales místicos o tradicionales\nPago a la tierra."
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHostales (especificar categorías)\nCiudad de Andamarca\nAlimentación\nRestaurantes\nCiudad de Andamarca\nAlimentación\nCafeterías\nCiudad de Andamarca\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Andamarca\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de Andamarca\nLugares de Recreación\nCentros Deportivos\nCésped Sintético B. Tuna Ciudad de Andamarca\nLugares de Recreación\nBares\nciudad de Andamarca"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nBancos\nAgente MiltiRed en Ciudad de Andamarca\nEstación de servicios, grifos, gasolineras y gasocentros\nAv. Industrial Millo Pampa en Ciudad de Andamarca\nServicio de estacionamiento\nCiudad de Andamarca\nServicios de taxis\nCiudad de Andamarca\nCentro de salud - tópico\nMicro Red Jr. Alfonso Ugarte Ultima Cdra. B. Antara Ciudad de Andamarca\nSeguridad / POLTUR / Comisaría\nJr. Miguel Grau a Media Cdra. Plaza de Armas Ciudad de Andamarca\nBodegas o minimarkets\nCiudad de Andamarca"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Andamarca\nDesagüe\nCiudad de Andamarca\nLuz (Suministro Eléctrico)\nCiudad de Andamarca\nTeléfono\nCiudad de Andamarca\nSeñalización turística\nCiudad de Andamarca"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nComunidad Campesina de Andamarca\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nPARTIDA ELECTRONICA – SUNARP-XI\nNúmero de Partida:\n11001959\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nComunidad Campesina de Andamarca - Municipalidad de Carmen Salcedo\nTiempo de administración\nDesde año 2002"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDIRCETUR-AYACUCHO / MUNICIPALIDAD DE CARMEN SALCEDO\nNombre (Persona(s) responsable(s) del inventario turístico):\nEFRAIN GOMEZ LOPEZ / CUPE OROPEZA HEBER\nCargo:\nDIRECTOR DE TURISMO / RESPONSABLE DE LA OFICINA DE TURISMO\nCorreo:\newgl7@hotmail.com/hcupeoropeza@gmail.com\nTeléfono:\n938130971 / 972550691\nFuentes Bibliográfica:\n1.-“DESARROLLO DE CAPACIDADES EN ZONIFICACION ECONOMICA Y ECOLOGICA PARA EL ORDENAMIENTO TERRITORIAL EN LA REGION AYACUCHO”.- GOBIERNO REGIONAL DE AYACUCHO, 2012\n2.- El VALOR DEL VALLE SONDONDO - Aproximaciones desde el Territorio lo Urbano- Rural y la Arquitectura- PUCP 2018.\n3.- Andamarca Bendita Morada del Sol Prof. Carlos Herrera Alfaro 1999.\n4.- Atlas del territorio de Carmen Salcedo 2015 Ministerio de Ambiente.\n5.- https://www.yumpu.com/es/document/read/14343383/catalogo-andamarca2-pdfcdr-municipalidad-de-andamarca\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n17/11/2022"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -14.393024182817614,
+    "longitud": -73.95755990457747
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-14.393024182817614,-73.95755990457747"
+}

@@ -1,0 +1,375 @@
+{
+  "cod_ficha": 239,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=239",
+  "nombre": "Caserío De Cachiche",
+  "departamento": "Ica",
+  "provincia": "Ica",
+  "distrito": "ICA",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Pueblos",
+  "subtipo": "Tradicionales",
+  "jerarquia": "2",
+  "altitud": "432",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=465430",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=465430",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=465485",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=465431",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=465486",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=465432",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=465433",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=465434",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=465487",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=465435",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=465489"
+  ],
+  "actividades_permitidas": [
+    "Cultura y Folclore - Rituales místicos o tradicionales",
+    "Cultura y Folclore - Ferias",
+    "Cultura y Folclore - Visita y participación en actividades de vida cotidiana de la comunidad"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Rituales místicos o tradicionales",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/rituales_misticos02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Ferias",
+      "observacion": "En fechas especiales como: Aniversario del Parque Temático.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/feria02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Visita y participación en actividades de vida cotidiana de la comunidad",
+      "observacion": "--",
+      "icono_url": null
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Ica/Ica/Ica - Ica/Ica/Ica",
+      "detalle": "Plaza de Ica-Parque Temático de Cachiche.",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "4km/ 15 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Ica/Ica/Ica - Ica/Ica/Ica",
+      "detalle": "Plaza de Ica-Parque Temático de Cachiche.",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus turístico",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "4km/ 20 min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "15000",
+      "horario": "Asociación de Veladores, Cuidadores y Trabajadores del Parque Temático de la Bruja de Cachiche.",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "135000",
+      "horario": "Asociación de Veladores, Cuidadores y Trabajadores del Parque Temático de la Bruja de Cachiche",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "07:00 a.m. - 08:00 p.m. --",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "SS.HH"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Peñas",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Cines o Teatros",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "1 a 5 estrellas. Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "1 a 3 estrellas. Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Puesto de auxilio rápido",
+      "observacion": "Ciudad de Ica."
+    }
+  ],
+  "descripcion": "El pueblo esotérico de Cachiche, cobro fama por sus brujos en el siglo XIX, sus habitantes eran de razas cobrizas y practicaban la magia yunga que curaban toda clase de males y daños. Utilizaban pócimas y amuletos para realizar sus artilugios, lo primero a base de hierbas y lo segundo de variada índole, también curaban el mal de ojo. Se cuenta que los primeros brujos llegaron gracias a la inquisición española de la época virreinal. Durante la inquisición, varias mujeres acusadas de ser brujas fueron perseguidas por sus creencias paganas en Europa. Algunas de estas mujeres escaparon a la capital del virreinato del Perú, sin embargo, se encontraron inseguros incluso allí, trasladándose más al sur, estableciéndose en el pueblo de Cachiche. En la actualidad existen personas que practican este oculto arte, dando lugar a comentarios sobre la brujería iqueña, que desde la década de los 80, gracias al renovado interés en el Perú por la medicina alternativa, ha vuelto a resurgir.\nEl pueblo cuenta con un parque temático que es muy concurrido por los visitantes, el lugar muestra una estatua de Julia Nazario Hernández Pecho, viuda de Díaz, que fue una de las brujas más conocidas de la localidad. Así mismo encontramos las diversas facetas de las brujas; la bruja del amor, de la sabiduría, de la naturaleza, del huarango, de la riqueza y el brujo de la virilidad. Además, en el caserío se ve árboles de huarango y palmeras datileras, siendo esta última una protagonista para las visitas turísticas por la peculiar forma de su ramificación en forma de serpiente con siete brazos o ramas que se incrustan y salen del suelo, motivo para que los habitantes originan leyendas maléficas y de hechicería.",
+  "particularidades": "",
+  "estado_actual": "Bueno, porque los pobladores realizan el mantenimiento constante.",
+  "observaciones": "Al ingresar se observa el monumento de la Bruja, y en el centro del Caserío la Palmera de 07 cabezas.\nLa última semana del mes de Octubre se celebra la semana de las Brujitas, en donde se elige la Bruja más bella de Cachiche.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "El pueblo esotérico de Cachiche, cobro fama por sus brujos en el siglo XIX, sus habitantes eran de razas cobrizas y practicaban la magia yunga que curaban toda clase de males y daños. Utilizaban pócimas y amuletos para realizar sus artilugios, lo primero a base de hierbas y lo segundo de variada índole, también curaban el mal de ojo. Se cuenta que los primeros brujos llegaron gracias a la inquisición española de la época virreinal. Durante la inquisición, varias mujeres acusadas de ser brujas fueron perseguidas por sus creencias paganas en Europa. Algunas de estas mujeres escaparon a la capital del virreinato del Perú, sin embargo, se encontraron inseguros incluso allí, trasladándose más al sur, estableciéndose en el pueblo de Cachiche. En la actualidad existen personas que practican este oculto arte, dando lugar a comentarios sobre la brujería iqueña, que desde la década de los 80, gracias al renovado interés en el Perú por la medicina alternativa, ha vuelto a resurgir.\nEl pueblo cuenta con un parque temático que es muy concurrido por los visitantes, el lugar muestra una estatua de Julia Nazario Hernández Pecho, viuda de Díaz, que fue una de las brujas más conocidas de la localidad. Así mismo encontramos las diversas facetas de las brujas; la bruja del amor, de la sabiduría, de la naturaleza, del huarango, de la riqueza y el brujo de la virilidad. Además, en el caserío se ve árboles de huarango y palmeras datileras, siendo esta última una protagonista para las visitas turísticas por la peculiar forma de su ramificación en forma de serpiente con siete brazos o ramas que se incrustan y salen del suelo, motivo para que los habitantes originan leyendas maléficas y de hechicería."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "Cuenta con el Sello Safe Travels"
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, porque los pobladores realizan el mantenimiento constante."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "Al ingresar se observa el monumento de la Bruja, y en el centro del Caserío la Palmera de 07 cabezas.\nLa última semana del mes de Octubre se celebra la semana de las Brujitas, en donde se elige la Bruja más bella de Cachiche."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n15000\nAsociación de Veladores, Cuidadores y Trabajadores del Parque Temático de la Bruja de Cachiche.\n2022\nDe enero a octubre\nTuristas Nacionales\n135000\nAsociación de Veladores, Cuidadores y Trabajadores del Parque Temático de la Bruja de Cachiche\n2022\nDe enero a octubre."
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nIca/Ica/Ica\n-\nIca/Ica/Ica\nPlaza de Ica-Parque Temático de Cachiche.\nTerrestre\nAutomóvil particular\nAsfaltado\n4km/ 15 min.\n1\nIca/Ica/Ica\n-\nIca/Ica/Ica\nPlaza de Ica-Parque Temático de Cachiche.\nTerrestre\nBus turístico\nAsfaltado\n4km/ 20 min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n07:00 a.m.\n-\n08:00 p.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nCultura y Folclore\nRituales místicos o tradicionales\n--\nCultura y Folclore\nFerias\nEn fechas especiales como: Aniversario del Parque Temático.\nCultura y Folclore\nVisita y participación en actividades de vida cotidiana de la comunidad\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nOtros Servicios Turísticos\nOtros (Especificar)\nSS.HH\nInstalaciones Públicas\nServicios Públicos\nSeñales turísticas de orientación\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nLugares de Recreación\nDiscotecas\nCiudad de Ica.\nLugares de Recreación\nPeñas\nCiudad de Ica.\nLugares de Recreación\nCines o Teatros\nCiudad de Ica.\nLugares de Recreación\nJuegos Infantiles\nCiudad de Ica.\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nCiudad de Ica.\nLugares de Recreación\nCentros Deportivos\nCiudad de Ica.\nLugares de Recreación\nKaraoke\nCiudad de Ica.\nLugares de Recreación\nBares\nCiudad de Ica.\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Ica.\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de Ica.\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nCiudad de Ica.\nAlimentación\nRestaurantes\nCiudad de Ica.\nAlimentación\nBares\nCiudad de Ica.\nAlimentación\nCafeterías\nCiudad de Ica.\nAlimentación\nFuentes de soda\nCiudad de Ica.\nAlimentación\nKioskos de comida y bebidas\nCiudad de Ica.\nAlimentación\nVenta de comida Rápida\nCiudad de Ica.\nAlojamiento\nHoteles (especificar categorías)\n1 a 5 estrellas. Ciudad de Ica.\nAlojamiento\nHostales (especificar categorías)\n1 a 3 estrellas. Ciudad de Ica.\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Ica.\nServicios Públicos\nEstacionamiento de vehículos\nCiudad de Ica.\nServicios Públicos\nSeñales turísticas de orientación\nCiudad de Ica.\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\nCiudad de Ica.\nServicios Públicos\nOficina de Información turística\nCiudad de Ica.\nServicios Públicos\nCaminos peatonales\nCiudad de Ica.\nServicios Públicos\nPuesto de auxilio rápido\nCiudad de Ica."
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Ica.\nBancos\nCiudad de Ica.\nCajero automático\nCiudad de Ica.\nCasa de cambio\nCiudad de Ica.\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Ica.\nServicio de correos\nCiudad de Ica.\nServicio de estacionamiento\nCiudad de Ica.\nServicios de taxis\nCiudad de Ica.\nCentro de salud - tópico\nCiudad de Ica.\nSeguridad / POLTUR / Comisaría\nCiudad de Ica.\nLibrerías\nCiudad de Ica.\nBodegas o minimarkets\nCiudad de Ica."
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\n--\nLuz (Suministro Eléctrico)\n--\nTeléfono\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Ica.\nAlcantarillado sanitario\nCiudad de Ica.\nLuz (Suministro Eléctrico)\nCiudad de Ica.\nTeléfono\nCiudad de Ica."
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nMunicipalidad Distrital de Ica\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nLey Orgánica de de Municipalidades N°27972.\nAdministrador por\nNombre\nMunicipalidad Distrital de Ica\nTiempo de administración\nDesde 1955."
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo de Ica.\nNombre (Persona(s) responsable(s) del inventario turístico):\nLeslie Jorge Guerra.\nCargo:\nProfesional en Turismo\nCorreo:\nservicioturismo@dirceturica.gob.pe\nTeléfono:\n992243714\nFuentes Bibliográfica:\nGuía turística de Ica – Mitinci 2000\nGuía Turística del departamento de Ica – Colección Los Cuatro Suyos (Pontificia Universidad Católica del Perú).\nBrujos y Brujas en el Antiguo Perú – Iris Garei\nLa Inquisición y las Brujas - Htpps://www.elcongreso.gob.pe\nLa Brujería en el Perú – Roberto Mac-Lean y Estenós\nBrujas y Beatas en Virreinato del Perú – Marta Ortiz Canseco\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n15/12/2022"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -14.09501077009113,
+    "longitud": -75.73552161455154
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-14.09501077009113,-75.73552161455154"
+}

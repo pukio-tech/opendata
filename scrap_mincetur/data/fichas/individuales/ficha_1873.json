@@ -1,0 +1,295 @@
+{
+  "cod_ficha": 1873,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=1873",
+  "nombre": "Cueva De Cascayunga",
+  "departamento": "San Martín",
+  "provincia": "Rioja",
+  "distrito": "RIOJA",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "m. Cavidades naturales",
+  "subtipo": "Grutas",
+  "jerarquia": "1",
+  "altitud": "871",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=580736",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=580736",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=580737",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=581405",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=581463",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=581466",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=581408",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=581493",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=581636"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Paseos - Excursiones",
+    "Naturaleza - Observación de paisaje",
+    "Deportes / Aventura - Espeleísmo"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Paseos",
+      "tipo": "Excursiones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/excursiones02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Espeleísmo",
+      "observacion": "--",
+      "icono_url": null
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "San Martín/Rioja/Rioja - San Martín/Rioja/Rioja",
+      "detalle": "Plaza de Armas de la ciudad de Rioja - Caserío Perla de Cascayunga",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "11 km. / 25 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "San Martín/Rioja/Rioja - San Martín/Rioja/Rioja",
+      "detalle": "Caserío Perla de Cascayunga - Cueva de Cascayunga",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Camino de Herradura",
+      "distancia_tiempo": "900 m. / 20 minutos"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "1399",
+      "horario": "Informe de sustento de visitas a la Cueva de Cascayunga",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Esporádicamente - Algunos meses",
+      "especificacion": "--",
+      "horario": "09:00 a.m. - 04:00 p.m. Es necesario portar equipamiento de seguridad, portar repelente, agua y bloqueador solar.",
+      "observaciones": "Es necesario portar equipamiento de seguridad, portar repelente, agua y bloqueador solar."
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Rioja"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Ciudad de Rioja"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "Ciudad de Rioja"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Rioja"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Rioja"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de Rioja"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "De 2 tenedores en la ciudad de Rioja"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Rioja"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Ciudad de Rioja"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Rioja"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Ciudad de Rioja"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "Tres estrellas (***) en la ciudad de Rioja"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "Tres estrellas (***) en la ciudad de Rioja"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Rioja"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Ciudad de Rioja"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "Ciudad de Rioja"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "Ciudad de Rioja"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Centros de interpretación",
+      "observacion": "Ciudad de Rioja"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Ciudad de Rioja"
+    }
+  ],
+  "descripcion": "La Cueva de Cascayunga es una cavidad formada hace millones de años por la infiltración de agua en el suelo, al disolver la roca caliza, formando cuevas, sumideros y un río subterráneo. Se ubica en un ecosistema de Selva Alta de montaña, en la Zona de Recuperación Conservación y Recuperación de Ecosistemas “Naciente del Río Negro”, a pocos minutos del poblado Perla de Cascayunga. La parte activa de la cueva mide aproximadamente 2 805 metros de recorrido desde la abertura de ingreso, sin embargo, de acuerdo a expediciones del Espeleo Club Andino (ECA) solo se ha explorado los primeros 300 metros.\nLa entrada es un pequeño y angosto conducto de fósiles unidos a un río subterráneo; a medida que se realiza el recorrido se ve favorecido por la presencia de ambientes más amplios en donde se puede observar el discurrir de riachuelos interiores de agua cristalina. La cueva cuenta con diferentes galerías de aproximadamente 15 metros de altura y 3 metros de diámetro, constituidos generalmente por la presencia de estalactitas y estalagmitas de roca caliza.\nAl interior de la cueva, en la galería fósil del sector final, se ubica la Galería de las Fuentes, un pequeño afluente de agua que termina con una chimenea de 20 m.\nLos diversos ambientes de la cueva sirven de hábitat natural a murciélagos, arañas y otros tipos de insectos. Por otro lado, en los alrededores de la entrada se puede apreciar abundante y exuberante vegetación propia de la zona de Selva Alta, así como plantaciones agrícolas e instalaciones ganaderas.\nLa causa de interés turístico del recurso es la majestuosidad de sus salas, con espeleotemas de llamativas formas, con potencial para el desarrollo del turismo de aventura.",
+  "particularidades": "",
+  "estado_actual": "Regular; falta mejorar las instalaciones.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "La Cueva de Cascayunga es una cavidad formada hace millones de años por la infiltración de agua en el suelo, al disolver la roca caliza, formando cuevas, sumideros y un río subterráneo. Se ubica en un ecosistema de Selva Alta de montaña, en la Zona de Recuperación Conservación y Recuperación de Ecosistemas “Naciente del Río Negro”, a pocos minutos del poblado Perla de Cascayunga. La parte activa de la cueva mide aproximadamente 2 805 metros de recorrido desde la abertura de ingreso, sin embargo, de acuerdo a expediciones del Espeleo Club Andino (ECA) solo se ha explorado los primeros 300 metros.\nLa entrada es un pequeño y angosto conducto de fósiles unidos a un río subterráneo; a medida que se realiza el recorrido se ve favorecido por la presencia de ambientes más amplios en donde se puede observar el discurrir de riachuelos interiores de agua cristalina. La cueva cuenta con diferentes galerías de aproximadamente 15 metros de altura y 3 metros de diámetro, constituidos generalmente por la presencia de estalactitas y estalagmitas de roca caliza.\nAl interior de la cueva, en la galería fósil del sector final, se ubica la Galería de las Fuentes, un pequeño afluente de agua que termina con una chimenea de 20 m.\nLos diversos ambientes de la cueva sirven de hábitat natural a murciélagos, arañas y otros tipos de insectos. Por otro lado, en los alrededores de la entrada se puede apreciar abundante y exuberante vegetación propia de la zona de Selva Alta, así como plantaciones agrícolas e instalaciones ganaderas.\nLa causa de interés turístico del recurso es la majestuosidad de sus salas, con espeleotemas de llamativas formas, con potencial para el desarrollo del turismo de aventura."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Regular; falta mejorar las instalaciones."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Nacionales\n1399\nInforme de sustento de visitas a la Cueva de Cascayunga\n2024\nInformación remitida a la DIRCETUR San Martín, mediante INFORME N° 522-2024-SGPT-GDEL/MPR."
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nSan Martín/Rioja/Rioja\n-\nSan Martín/Rioja/Rioja\nPlaza de Armas de la ciudad de Rioja - Caserío Perla de Cascayunga\nTerrestre\nAutomóvil particular\nAfirmado\n11 km. / 25 minutos\n1\nSan Martín/Rioja/Rioja\n-\nSan Martín/Rioja/Rioja\nCaserío Perla de Cascayunga - Cueva de Cascayunga\nTerrestre\nA pie\nCamino de Herradura\n900 m. / 20 minutos"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nEsporádicamente - Algunos meses\n--\n09:00 a.m.\n-\n04:00 p.m.\nEs necesario portar equipamiento de seguridad, portar repelente, agua y bloqueador solar."
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nPaseos\nExcursiones\n--\nNaturaleza\nObservación de paisaje\n--\nDeportes / Aventura\nEspeleísmo\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nLugares de Recreación\nDiscotecas\nCiudad de Rioja\nLugares de Recreación\nJuegos Infantiles\nCiudad de Rioja\nLugares de Recreación\nKaraoke\nCiudad de Rioja\nLugares de Recreación\nBares\nCiudad de Rioja\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Rioja\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de Rioja\nAlimentación\nRestaurantes\nDe 2 tenedores en la ciudad de Rioja\nAlimentación\nCafeterías\nCiudad de Rioja\nAlimentación\nFuentes de soda\nCiudad de Rioja\nAlimentación\nKioskos de comida y bebidas\nCiudad de Rioja\nAlimentación\nVenta de comida Rápida\nCiudad de Rioja\nAlojamiento\nHoteles (especificar categorías)\nTres estrellas (***) en la ciudad de Rioja\nAlojamiento\nHostales (especificar categorías)\nTres estrellas (***) en la ciudad de Rioja\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Rioja\nServicios Públicos\nEstacionamiento de vehículos\nCiudad de Rioja\nServicios Públicos\nSeñales turísticas de orientación\nCiudad de Rioja\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\nCiudad de Rioja\nServicios Públicos\nCentros de interpretación\nCiudad de Rioja\nServicios Públicos\nOficina de Información turística\nCiudad de Rioja"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Rioja\nBancos\nCiudad de Rioja\nCajero automático\nCiudad de Rioja\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Rioja\nServicio de correos\nCiudad de Rioja\nServicio de estacionamiento\nCiudad de Rioja\nCentro de salud - tópico\nCiudad de Rioja\nVenta de materiales para fotografías\nCiudad de Rioja\nSeguridad / POLTUR / Comisaría\nCiudad de Rioja\nAlquiler y compra de equipos deportivos\nCiudad de Rioja\nLibrerías\nCiudad de Rioja\nBodegas o minimarkets\nCiudad de Rioja"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Rioja y caserío Perla de Cascayunga\nLuz (Suministro Eléctrico)\nCiudad de Rioja y caserío Perla de Cascayunga\nTeléfono\nCiudad de Rioja y caserío Perla de Cascayunga\nSeñalización turística\nCiudad de Rioja\nAlcantarillado pluvial\nCiudad de Rioja\nAlcantarillado sanitario\nCiudad de Rioja"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nGobierno Regional San Martín\nPrivado:\n--\nOtra Situación:\nZona de Conservación y Recuperación de Ecosistemas \"Naciente del Río Negro\"\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nPartida\nNúmero de Partida:\n11054499\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nAutoridad Regional Ambiental - ARA\nTiempo de administración\nDesde el año 2012"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo de San Martín\nNombre (Persona(s) responsable(s) del inventario turístico):\nEdison Rodríguez Chupe\nCargo:\nAnalista en Turismo\nCorreo:\nedison.rodriguezchupe@gmail.com\nTeléfono:\n976 980 815\nFuentes Bibliográfica:\n- - Portal web: Cuevas y Tragaderos del Perú y de Bolivia; Enlace: https://cuevasdelperu.org/san-martin-rioja/cueva-de-cascayunga/?utm_source=chatgpt.com\n- Portal web: Rutas Alto Mayo \"Cueva de Cascayunga\"; Enlace: https://rutasaltomayo.com/atractivos-naturales-de-rioja/\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n20/01/2025 10:30:11"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -6.108021,
+    "longitud": -77.23996699999998
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-6.108021,-77.23996699999998"
+}

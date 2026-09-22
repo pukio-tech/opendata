@@ -1,0 +1,310 @@
+{
+  "cod_ficha": 10220,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=10220",
+  "nombre": "Mirador De Jerusalén",
+  "departamento": "Junín",
+  "provincia": "Yauli",
+  "distrito": "SUITUCANCHA",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "ñ. Zonas paisajísticas",
+  "subtipo": "Miradores naturales",
+  "jerarquia": "1",
+  "altitud": "4400",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=610466",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=610466",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=610467",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=610468",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=610469",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=610470",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=610476",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=610477",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=610409",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=610478",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=610479",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=610480",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=610481",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=610410",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=610483",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=610484",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=610411",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=610485",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=610486"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Estudios e Investigación",
+    "Naturaleza - Observación de fauna",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de paisaje",
+    "Deportes / Aventura - Caminata/Trekking"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de fauna",
+      "observacion": "Ocasionalmente: zorro, zorrino, puma, vizcacha, alpaca y llama, killincho, caracara andino, huashua, gavilán coliblanco, mochuelo andino, pato puna, huaychao, yanavico y cóndor.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fauna02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "Ichu, yareta, huamanpinta, ortiga colorada, hualajo, antañahui, jacashquillo.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Junín/Yauli/La Oroya - Junín/Yauli/Huay-Huay",
+      "detalle": "Parque La Libertad de La Oroya - Plaza principal del pueblo de Huari.",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "23 km / 30 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Junín/Yauli/Huay-Huay - Junín/Yauli/Suitucancha",
+      "detalle": "Plaza principal del pueblo de Huari - Pueblo de Huay Huay - Pueblo de Suitucancha.",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "29.5 km / 50 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Junín/Yauli/Suitucancha - Junín/Yauli/Suitucancha",
+      "detalle": "Pueblo de Suitucancha - Mirador de Jerusalen.",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "5.47 km / 15 min."
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "450",
+      "horario": "Conteo muestral de visitas al Recurso Turistico",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "3960",
+      "horario": "Conteo muestral de visitas al Recurso Turistico",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "09:00 a.m. - 03:00 p.m. Son recomendados los meses de mayo a octubre, porque corresponden a los periodos de baja precipitación pluvial en la zona andina.",
+      "observaciones": "Son recomendados los meses de mayo a octubre, porque corresponden a los periodos de baja precipitación pluvial en la zona andina."
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de La Oroya."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de La Oroya."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de La Oroya."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de La Oroya."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Ciudad de La Oroya."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de La Oroya."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de La Oroya."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de camionetas 4 x 4",
+      "observacion": "Ciudad de La Oroya. Turismo y Servicios JY - Cel.: 964788633."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de La Oroya."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Peñas",
+      "observacion": "Ciudad de La Oroya."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Ciudad de La Oroya."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "Ciudad de La Oroya."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Ciudad de La Oroya."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Ciudad de La Oroya."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Ciudad de La Oroya."
+    }
+  ],
+  "descripcion": "El mirador natural de Jerusalén se encuentra en una elevación rocosa, en el piso altitudinal de Puna o Jalca (Javier Pulgar Vidal), ubicada al frente del pueblo de Suitucancha y al lado del río Keka, el cual discurre en sus faldas, su altura máxima es de aproximadamente 150 metros (tomando como referencia el lecho del río) con un área de mirador aproximada de 3000 m2; su temperatura promedio anual fluctúa entre 5 y 13 °C, su temperatura mínima varía entre -9 y -25 °C durante la noche, mientras que la temperatura máxima llega a 20 °C durante el día; de clima subhúmedo, se pueden observar frecuentes precipitaciones durante los meses de noviembre a marzo. Su acceso peatonal se encuentra con mantenimiento y bordeado con piedras en razón a una intervención con el programa Llamkasun Perú a finales del año 2024, cuenta también un acceso vehicular en buen estado, el cual conduce a los visitantes directamente a la cima del mirador. El lugar ofrece vistas panorámicas del “Valle dorado” (paraje altoandino compuesto por territorio de los distritos de Huay Huay, Chacapalpa y Suitucancha); al frente del mirador se observan los cerros de “San” y “Shacsha” y las pampas de “Rupacuto” y de “Quishuar”; a la izquierda se divisa con claridad el nevado “Tunsho” y el cerro “Santa Rosa” con curiosas formaciones geológicas, así como la quebrada de “Huallo”; finalmente a la espalda del mirador se divisa en toda su magnitud el paraje de “Wilcacancha” donde se observan estancias de crianza de alpacas (Vicugna pacos), llamas (Lama glama) y ovinos (Ovis orientalis aries) de comuneros de Suitucancha. A nivel de flora del lugar, se puede observar el ichu (Stipa ichu) y yareta (Azorella compacta) así como plantas medicinales propias de la zona andina como la huamanpinta (Chuquiraga spinosa Less), huajuro o hualajo (Austrocylindropuntia floccosa), ortiga colorada (Caiophora cirsiifolia C.), antañahui (Oenothera multicaulis) y el jacashquillo (diente de cuy) con propiedades antiinflamatorias. La fauna está compuesta por avistamientos ocasionales del zorro andino o “atoq” (Lycalopex culpaeus), zorrino (Conepatus chinga rex), vizcacha (Lagidium viscacia) y puma (Puma concolor); así como avistamientos de aves como el cernícalo o killincho (Falco sparverius), caracara andino (Daptrius megalopterus), la huashua (Oressochen melanopterus), gavilán coliblanco (Geranoaetus albicaudatus) tuco o mochuelo andino (Glaucidium jardinii), pato puna (Anas puna), huaychao (Agriornis montanus) , yanavico (Plegadis ridgwayi) y cóndor (Vultur Gryphus). Un punto de interés de este mirador, son los restos de una antigua capilla colonial, edificada con la técnica de la “pirca” (muro de construcción rústica y de baja altura, realizado con piedras sin labrar calzadas sin el uso de mortero), la cual (según la tradición oral) data del Siglo XVI y fue edificada alrededor de una cruz colocada por los españoles en el cerro, el cual antiguamente era considerado un “apu protector” de la población de Suitucancha, todo esto se dio en el marco de la campaña de extirpación de idolatrías en la segunda mitad del Siglo XVI. En la actualidad aún se aprecian vestigios de la capilla, que rodean una antigua cruz de madera a la cual la población le rinde veneración durante la semana santa (momento en el cual los fieles peregrinan en procesión al lugar); además se pueden observar algunos corrales al lado del área del mirador, que usaban antaño, los pastores del lugar para guardar sus animales, de estos corrales el único que continua en actividad es el perteneciente a Don Geremias Vicente Ventura, que posee una cantidad considerable de alpacas y quien además realiza el servicio de alquiler de caballos para los visitantes que lo requieran. Este mirador, con gran simbolismo e historia para la población local, se configura como un punto de observación paisajística, tomas fotográficas y la práctica de caminatas.",
+  "particularidades": "",
+  "estado_actual": "Se encuentra en buen estado de conservación, con accesos recientemente intervenidos y con mantenimiento por parte de la comunidad campesina de Suitucancha.",
+  "observaciones": "Este mirador natural se encuentra dentro de la Reserva Paisajística Nor Yauyos Cochas creada con Decreto Supremo Nº 033-2001-AG.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "El mirador natural de Jerusalén se encuentra en una elevación rocosa, en el piso altitudinal de Puna o Jalca (Javier Pulgar Vidal), ubicada al frente del pueblo de Suitucancha y al lado del río Keka, el cual discurre en sus faldas, su altura máxima es de aproximadamente 150 metros (tomando como referencia el lecho del río) con un área de mirador aproximada de 3000 m2; su temperatura promedio anual fluctúa entre 5 y 13 °C, su temperatura mínima varía entre -9 y -25 °C durante la noche, mientras que la temperatura máxima llega a 20 °C durante el día; de clima subhúmedo, se pueden observar frecuentes precipitaciones durante los meses de noviembre a marzo. Su acceso peatonal se encuentra con mantenimiento y bordeado con piedras en razón a una intervención con el programa Llamkasun Perú a finales del año 2024, cuenta también un acceso vehicular en buen estado, el cual conduce a los visitantes directamente a la cima del mirador. El lugar ofrece vistas panorámicas del “Valle dorado” (paraje altoandino compuesto por territorio de los distritos de Huay Huay, Chacapalpa y Suitucancha); al frente del mirador se observan los cerros de “San” y “Shacsha” y las pampas de “Rupacuto” y de “Quishuar”; a la izquierda se divisa con claridad el nevado “Tunsho” y el cerro “Santa Rosa” con curiosas formaciones geológicas, así como la quebrada de “Huallo”; finalmente a la espalda del mirador se divisa en toda su magnitud el paraje de “Wilcacancha” donde se observan estancias de crianza de alpacas (Vicugna pacos), llamas (Lama glama) y ovinos (Ovis orientalis aries) de comuneros de Suitucancha. A nivel de flora del lugar, se puede observar el ichu (Stipa ichu) y yareta (Azorella compacta) así como plantas medicinales propias de la zona andina como la huamanpinta (Chuquiraga spinosa Less), huajuro o hualajo (Austrocylindropuntia floccosa), ortiga colorada (Caiophora cirsiifolia C.), antañahui (Oenothera multicaulis) y el jacashquillo (diente de cuy) con propiedades antiinflamatorias. La fauna está compuesta por avistamientos ocasionales del zorro andino o “atoq” (Lycalopex culpaeus), zorrino (Conepatus chinga rex), vizcacha (Lagidium viscacia) y puma (Puma concolor); así como avistamientos de aves como el cernícalo o killincho (Falco sparverius), caracara andino (Daptrius megalopterus), la huashua (Oressochen melanopterus), gavilán coliblanco (Geranoaetus albicaudatus) tuco o mochuelo andino (Glaucidium jardinii), pato puna (Anas puna), huaychao (Agriornis montanus) , yanavico (Plegadis ridgwayi) y cóndor (Vultur Gryphus). Un punto de interés de este mirador, son los restos de una antigua capilla colonial, edificada con la técnica de la “pirca” (muro de construcción rústica y de baja altura, realizado con piedras sin labrar calzadas sin el uso de mortero), la cual (según la tradición oral) data del Siglo XVI y fue edificada alrededor de una cruz colocada por los españoles en el cerro, el cual antiguamente era considerado un “apu protector” de la población de Suitucancha, todo esto se dio en el marco de la campaña de extirpación de idolatrías en la segunda mitad del Siglo XVI. En la actualidad aún se aprecian vestigios de la capilla, que rodean una antigua cruz de madera a la cual la población le rinde veneración durante la semana santa (momento en el cual los fieles peregrinan en procesión al lugar); además se pueden observar algunos corrales al lado del área del mirador, que usaban antaño, los pastores del lugar para guardar sus animales, de estos corrales el único que continua en actividad es el perteneciente a Don Geremias Vicente Ventura, que posee una cantidad considerable de alpacas y quien además realiza el servicio de alquiler de caballos para los visitantes que lo requieran. Este mirador, con gran simbolismo e historia para la población local, se configura como un punto de observación paisajística, tomas fotográficas y la práctica de caminatas."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Se encuentra en buen estado de conservación, con accesos recientemente intervenidos y con mantenimiento por parte de la comunidad campesina de Suitucancha."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "Este mirador natural se encuentra dentro de la Reserva Paisajística Nor Yauyos Cochas creada con Decreto Supremo Nº 033-2001-AG."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Nacionales\n450\nConteo muestral de visitas al Recurso Turistico\n2024\nEfectuado los días domingos 1, 8, 15 y 22 de setiembre de 2024.\nVisitantes Locales(Excursionistas)\n3960\nConteo muestral de visitas al Recurso Turistico\n2024\nEfectuado los días domingos 1, 8, 15 y 22 de setiembre de 2024."
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nJunín/Yauli/La Oroya\n-\nJunín/Yauli/Huay-Huay\nParque La Libertad de La Oroya - Plaza principal del pueblo de Huari.\nTerrestre\nAutomóvil particular\nAsfaltado\n23 km / 30 min.\n1\nJunín/Yauli/Huay-Huay\n-\nJunín/Yauli/Suitucancha\nPlaza principal del pueblo de Huari - Pueblo de Huay Huay - Pueblo de Suitucancha.\nTerrestre\nAutomóvil particular\nAfirmado\n29.5 km / 50 min.\n1\nJunín/Yauli/Suitucancha\n-\nJunín/Yauli/Suitucancha\nPueblo de Suitucancha - Mirador de Jerusalen.\nTerrestre\nAutomóvil particular\nAfirmado\n5.47 km / 15 min."
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n09:00 a.m.\n-\n03:00 p.m.\nSon recomendados los meses de mayo a octubre, porque corresponden a los periodos de baja precipitación pluvial en la zona andina."
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nEstudios e Investigación\n--\nNaturaleza\nObservación de fauna\nOcasionalmente: zorro, zorrino, puma, vizcacha, alpaca y llama, killincho, caracara andino, huashua, gavilán coliblanco, mochuelo andino, pato puna, huaychao, yanavico y cóndor.\nNaturaleza\nObservación de flora\nIchu, yareta, huamanpinta, ortiga colorada, hualajo, antañahui, jacashquillo.\nNaturaleza\nObservación de paisaje\n--\nDeportes / Aventura\nCaminata/Trekking\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de La Oroya.\nAlimentación\nRestaurantes\nCiudad de La Oroya.\nAlimentación\nKioskos de comida y bebidas\nCiudad de La Oroya.\nAlimentación\nBares\nCiudad de La Oroya.\nAlimentación\nFuentes de soda\nCiudad de La Oroya.\nAlimentación\nCafeterías\nCiudad de La Oroya.\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de La Oroya.\nOtros Servicios Turísticos\nAlquiler de camionetas 4 x 4\nCiudad de La Oroya. Turismo y Servicios JY - Cel.: 964788633.\nLugares de Recreación\nDiscotecas\nCiudad de La Oroya.\nLugares de Recreación\nPeñas\nCiudad de La Oroya.\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nCiudad de La Oroya.\nLugares de Recreación\nKaraoke\nCiudad de La Oroya.\nLugares de Recreación\nJuegos Infantiles\nCiudad de La Oroya.\nLugares de Recreación\nCentros Deportivos\nCiudad de La Oroya.\nServicios Públicos\nEstacionamiento de vehículos\nCiudad de La Oroya."
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de La Oroya.\nBancos\nCiudad de La Oroya.\nCajero automático\nCiudad de La Oroya.\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de La Oroya.\nServicio de correos\nCiudad de La Oroya.\nServicio de estacionamiento\nCiudad de La Oroya.\nServicios de taxis\nCiudad de La Oroya.\nCentro de salud - tópico\nCiudad de La Oroya y pueblo de Suitucancha\nSeguridad / POLTUR / Comisaría\nCiudad de La Oroya.\nLibrerías\nCiudad de La Oroya.\nBodegas o minimarkets\nCiudad de La Oroya."
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de La Oroya\nLuz (Suministro Eléctrico)\nCiudad de La Oroya\nTeléfono\nCiudad de La Oroya\nAlcantarillado sanitario\nCiudad de La Oroya"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\n--\nPrivado:\nComunidad Campesina de Suitucancha\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nResolución Directoral Agraria N°043-96-DRA-PETT.CR/RAAC. Proyecto Especial de Titulación de Tierras.\nAdministrador por\nNombre\nComunidad Campesina de Suitucancha.\nTiempo de administración\nDesde el año 1996."
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo Junín\nNombre (Persona(s) responsable(s) del inventario turístico):\nLic. Gregoria Flores Loaiza\nCargo:\nEspecialista en Turismo\nCorreo:\nfloresloaiza@yahoo.es\nTeléfono:\n948992261\nFuentes Bibliográfica:\n1. Ficha Técnica: Limpieza, mantenimiento y acondicionamiento del acceso al mirador Jerusalén en el centro poblado de Suitucancha, Distrito de Suitucancha – Provincia de Yauli – Departamento de Junín. Municipalidad Distrital de Suitucancha (2024).\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\nAño 2024, Llamkasun Perú intervino los accesos al mirador, aperturando un camino peatonal con acabados de empedrado con canto rodado.\nFecha:\n4/06/2026 15:44:55"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -11.864902090671972,
+    "longitud": -75.98916966452498
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-11.864902090671972,-75.98916966452498"
+}

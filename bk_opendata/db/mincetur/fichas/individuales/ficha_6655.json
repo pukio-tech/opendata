@@ -1,0 +1,399 @@
+{
+  "cod_ficha": 6655,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=6655",
+  "nombre": "Plaza Mayor De Vitoc",
+  "departamento": "Junín",
+  "provincia": "Chanchamayo",
+  "distrito": "VITOC",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Arquitectura y Espacios Urbanos",
+  "subtipo": "Plazas",
+  "jerarquia": "1",
+  "altitud": "948 m.s.n.m.",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=604669",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=604669",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=604670",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=604622",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=604623",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=604624",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=604625",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=604671",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=604672",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=604673"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Estudios e Investigación",
+    "Otros - Realización de eventos",
+    "Naturaleza - Observación de paisaje"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Realización de eventos",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/eventos02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Junín/Chanchamayo/San Ramón - Junín/Chanchamayo/Vitoc",
+      "detalle": "Ciudad de San Ramón - Plaza Mayor de Vitoc.",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "11.8 Km / 25 min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "90",
+      "horario": "Conteo muestral de visitas al recurso turístico.",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "6390",
+      "horario": "Conteo muestral de visitas al recurso turístico.",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "08:00 a.m. - 08:00 p.m. --",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "1 Estrella, 2 Estrellas y 3 Estrellas en la Ciudad de San Ramón"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "2 estrellas en la Ciudad de San Ramón"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de San Ramón"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de San Ramón"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de San Ramón"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de San Ramón"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Ciudad de San Ramón"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de San Ramón"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Ciudad de San Ramón"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de San Ramón"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de San Ramón"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de camionetas 4 x 4",
+      "observacion": "Ciudad de San Ramón"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de bicicleta",
+      "observacion": "Ciudad de San Ramón"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Servicio de Colectivo y Mototaxi - Ciudad de San Ramón"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de San Ramón"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Peñas",
+      "observacion": "Ciudad de San Ramón"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Cines o Teatros",
+      "observacion": "Ciudad de San Ramón"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Ciudad de San Ramón"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Ciudad de San Ramón"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Ciudad de San Ramón"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Lugares de picnic",
+      "observacion": "Ciudad de San Ramón"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "Ciudad de San Ramón"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de San Ramón"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "Ciudad de San Ramón"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Ciudad de San Ramón"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "Ciudad de San Ramón"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de interpretación",
+      "observacion": "Ciudad de San Ramón"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "Ciudad de San Ramón"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Ciudad de San Ramón"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Orquideario",
+      "observacion": "Ciudad de San Ramón"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "Ciudad de San Ramón"
+    }
+  ],
+  "descripcion": "Sobre la margen izquierda del río Tulumayo se ubica el pueblo de Vitoc, capital del distrito más antiguo de la selva central, creado durante el gobierno del Presidente José Balta y Montero por la Ley N.º 2564 del 27 de enero de 1871, con el nombre de Santa Ana de Pucara; esta antigua población tiene como punto central su plaza principal o plaza mayor, la cual se constituye en el núcleo o centro neurálgico del pueblo, este espacio arquitectónico se encuentra rodeado de las principales instituciones públicas y privadas del distrito, entre las que destacan el local de la Municipalidad Distrital de Vitoc, la iglesia matriz, comercios locales, entre otros. La plaza mayor de Vitoc tiene forma cuadrangular con cuatro áreas verdes que presentan una cuidada flora ornamental compuesta por árboles de ciprés (Cupressus), crotón (Codiaeum variegatum) y palmeras (Arecaceae) y se encuentra en el piso ecológico altitudinal denominado Selva Alta o Rupa Rupa, (del quechua “caliente caliente”) de acuerdo a la clasificación propuesta por el geógrafo Javier Pulgar Vidal en el año de 1943, presentando un clima tropical, cálido y lluvioso; muestra como atractivo central una rotonda que luce en la parte alta las estatuas de un nativo asháninca y un misionero perteneciente a la orden franciscana, recordando el encuentro de estos dos representantes de la cultura amazónica y europea-occidental; estas estatuas se ubican sobre un bloque rectangular pintado de gris y blanco que recuerda los colores de las rocas que contienen minerales de zinc y plomo, principal recurso minero de la zona que es explotado por la Empresa Minera San Ignacio de Morococha SIMSA, en el famoso yacimiento minero San Vicente; asimismo, cuenta con bancas semicirculares y rectas de granito con respaldos de fierro y madera y está iluminada por farolas circulares instaladas en el centro y alrededor de la plaza. En los alrededores de la plaza, se pueden observar viviendas con estilo arquitectónico andino, las cuales son un vivo recordatorio del origen de las familias fundadoras de este pueblo, las cuales descienden de los primeros colonizadores procedentes principalmente de Tarma y Jauja, quienes abrieron la ruta hacia las ubérrimas selvas de Chanchamayo; también destacan en sus contornos unas coloridas letras que forman la palabra “Vitoc” y al lado de ellas un puente peatonal que cruza el río Tulumayo. Como una característica complementaria, se debe resaltar que desde esta plaza se puede apreciar a la “Nativa Dormida”, la cual viene a ser la superposición de unas altas montañas ubicadas hacia el lado sureste y cuyo perfil recuerda la forma de una dama acostada. El lugar es ideal para los visitantes interesados en conocer más acerca de la historia de la colonización de la selva central del Perú, además su clima tropical brinda un espacio fresco y rodeado de vegetación que atrae a cada vez más visitantes que llegan al distrito de Vitoc en busca de la paz y tranquilidad que brinda este antiguo pueblo de la amazonia peruana.",
+  "particularidades": "",
+  "estado_actual": "Se encuentra en regular estado de conservación, si bien su espacio se encuentra libre de residuos sólidos, en razón a la limpieza que le brinda el personal de la Municipalidad Distrital de Vitoc; las bancas y barandas requieren pintura y mantenimiento.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Sobre la margen izquierda del río Tulumayo se ubica el pueblo de Vitoc, capital del distrito más antiguo de la selva central, creado durante el gobierno del Presidente José Balta y Montero por la Ley N.º 2564 del 27 de enero de 1871, con el nombre de Santa Ana de Pucara; esta antigua población tiene como punto central su plaza principal o plaza mayor, la cual se constituye en el núcleo o centro neurálgico del pueblo, este espacio arquitectónico se encuentra rodeado de las principales instituciones públicas y privadas del distrito, entre las que destacan el local de la Municipalidad Distrital de Vitoc, la iglesia matriz, comercios locales, entre otros. La plaza mayor de Vitoc tiene forma cuadrangular con cuatro áreas verdes que presentan una cuidada flora ornamental compuesta por árboles de ciprés (Cupressus), crotón (Codiaeum variegatum) y palmeras (Arecaceae) y se encuentra en el piso ecológico altitudinal denominado Selva Alta o Rupa Rupa, (del quechua “caliente caliente”) de acuerdo a la clasificación propuesta por el geógrafo Javier Pulgar Vidal en el año de 1943, presentando un clima tropical, cálido y lluvioso; muestra como atractivo central una rotonda que luce en la parte alta las estatuas de un nativo asháninca y un misionero perteneciente a la orden franciscana, recordando el encuentro de estos dos representantes de la cultura amazónica y europea-occidental; estas estatuas se ubican sobre un bloque rectangular pintado de gris y blanco que recuerda los colores de las rocas que contienen minerales de zinc y plomo, principal recurso minero de la zona que es explotado por la Empresa Minera San Ignacio de Morococha SIMSA, en el famoso yacimiento minero San Vicente; asimismo, cuenta con bancas semicirculares y rectas de granito con respaldos de fierro y madera y está iluminada por farolas circulares instaladas en el centro y alrededor de la plaza. En los alrededores de la plaza, se pueden observar viviendas con estilo arquitectónico andino, las cuales son un vivo recordatorio del origen de las familias fundadoras de este pueblo, las cuales descienden de los primeros colonizadores procedentes principalmente de Tarma y Jauja, quienes abrieron la ruta hacia las ubérrimas selvas de Chanchamayo; también destacan en sus contornos unas coloridas letras que forman la palabra “Vitoc” y al lado de ellas un puente peatonal que cruza el río Tulumayo. Como una característica complementaria, se debe resaltar que desde esta plaza se puede apreciar a la “Nativa Dormida”, la cual viene a ser la superposición de unas altas montañas ubicadas hacia el lado sureste y cuyo perfil recuerda la forma de una dama acostada. El lugar es ideal para los visitantes interesados en conocer más acerca de la historia de la colonización de la selva central del Perú, además su clima tropical brinda un espacio fresco y rodeado de vegetación que atrae a cada vez más visitantes que llegan al distrito de Vitoc en busca de la paz y tranquilidad que brinda este antiguo pueblo de la amazonia peruana."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Se encuentra en regular estado de conservación, si bien su espacio se encuentra libre de residuos sólidos, en razón a la limpieza que le brinda el personal de la Municipalidad Distrital de Vitoc; las bancas y barandas requieren pintura y mantenimiento."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Nacionales\n90\nConteo muestral de visitas al recurso turístico.\n2025\nEfectuado los días Domingos 2, 9, 16, 23 de Febrero de 2025.\nVisitantes Locales(Excursionistas)\n6390\nConteo muestral de visitas al recurso turístico.\n2025\nEfectuado los días Domingos 2, 9, 16, 23 de Febrero de 2025."
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nJunín/Chanchamayo/San Ramón\n-\nJunín/Chanchamayo/Vitoc\nCiudad de San Ramón - Plaza Mayor de Vitoc.\nTerrestre\nAutomóvil particular\nAfirmado\n11.8 Km / 25 min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n08:00 a.m.\n-\n08:00 p.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nEstudios e Investigación\n--\nOtros\nRealización de eventos\n--\nNaturaleza\nObservación de paisaje\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nAlimentación\nKioskos de comida y bebidas\n--\nInstalaciones Públicas\nServicios Públicos\nEstacionamiento de vehículos\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\n1 Estrella, 2 Estrellas y 3 Estrellas en la Ciudad de San Ramón\nAlojamiento\nHostales (especificar categorías)\n2 estrellas en la Ciudad de San Ramón\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de San Ramón\nAlimentación\nRestaurantes\nCiudad de San Ramón\nAlimentación\nBares\nCiudad de San Ramón\nAlimentación\nCafeterías\nCiudad de San Ramón\nAlimentación\nFuentes de soda\nCiudad de San Ramón\nAlimentación\nKioskos de comida y bebidas\nCiudad de San Ramón\nAlimentación\nVenta de comida Rápida\nCiudad de San Ramón\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de San Ramón\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de San Ramón\nOtros Servicios Turísticos\nAlquiler de camionetas 4 x 4\nCiudad de San Ramón\nOtros Servicios Turísticos\nAlquiler de bicicleta\nCiudad de San Ramón\nOtros Servicios Turísticos\nOtros (Especificar)\nServicio de Colectivo y Mototaxi - Ciudad de San Ramón\nLugares de Recreación\nDiscotecas\nCiudad de San Ramón\nLugares de Recreación\nPeñas\nCiudad de San Ramón\nLugares de Recreación\nCines o Teatros\nCiudad de San Ramón\nLugares de Recreación\nJuegos Infantiles\nCiudad de San Ramón\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nCiudad de San Ramón\nLugares de Recreación\nCentros Deportivos\nCiudad de San Ramón\nLugares de Recreación\nLugares de picnic\nCiudad de San Ramón\nLugares de Recreación\nKaraoke\nCiudad de San Ramón\nLugares de Recreación\nBares\nCiudad de San Ramón\nServicios Públicos\nMiradores turísticos\nCiudad de San Ramón\nServicios Públicos\nEstacionamiento de vehículos\nCiudad de San Ramón\nServicios Públicos\nSeñales turísticas de orientación\nCiudad de San Ramón\nServicios Públicos\nSeñales turísticas de interpretación\nCiudad de San Ramón\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\nCiudad de San Ramón\nServicios Públicos\nOficina de Información turística\nCiudad de San Ramón\nServicios Públicos\nOrquideario\nCiudad de San Ramón\nServicios Públicos\nCaminos peatonales\nCiudad de San Ramón"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de San Ramón\nBancos\nCiudad de San Ramón\nCajero automático\nCiudad de San Ramón\nCasa de cambio\nCiudad de San Ramón\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de San Ramón\nServicio de correos\nCiudad de San Ramón\nServicio de estacionamiento\nCiudad de San Ramón\nServicios de taxis\nCiudad de San Ramón\nCentro de salud - tópico\nCiudad de San Ramón y Pueblo de Vitoc\nVenta de materiales para fotografías\nCiudad de San Ramón\nSeguridad / POLTUR / Comisaría\nCiudad de San Ramón\nAlquiler y compra de equipos deportivos\nCiudad de San Ramón\nLibrerías\nCiudad de San Ramón\nBodegas o minimarkets\nCiudad de San Ramón\nOtros(especificar)\nLavandería - Ciudad de San Ramón"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\n--\nDesagüe\n--\nLuz (Suministro Eléctrico)\n--\nTeléfono\nTelefonía móvil"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de San Ramón\nAlcantarillado sanitario\nCiudad de San Ramón\nLuz (Suministro Eléctrico)\nCiudad de San Ramón\nTeléfono\nCiudad de San Ramón\nAlcantarillado pluvial\nCiudad de San Ramón"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nMunicipalidad Distrital de Vitoc\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nCertificado de Posesión N°001-2025-MDV\nAdministrador por\nNombre\nMunicipalidad Distrital de Vitoc\nTiempo de administración\ndesde el año 1871"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo Junín\nNombre (Persona(s) responsable(s) del inventario turístico):\nLIC. KARINA ZAMORA BOGO\nCargo:\nEncargada de la Oficina Zonal DIRCETUR San Ramón\nCorreo:\nzamorakarina2009@gmail.com\nTeléfono:\n957526926\nFuentes Bibliográfica:\n1. Lugares turísticos de Vitoc: https://selvacentral.com.pe/lugares-turisticos-de-vitoc/\n2. Distrito más antiguo de Selva Central celebra aniversario: https://diariocorreo.pe/peru/distrito-mas-antiguo-de-selva-central-celebra-aniversario-590169/?ref=dcr\n3. Plaza Mayor de Vitoc: https://www.turismoperuano.com/plaza-mayor-de-vitoc-junin\n4. Plaza de Armas de Vitoc: http://www.turismojuninperu.com/plaza-de-armas-de-vitoc\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n16/06/2025 15:34:32"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -11.20997,
+    "longitud": -75.33479999999997
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-11.20997,-75.33479999999997"
+}

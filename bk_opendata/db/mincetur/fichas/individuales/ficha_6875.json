@@ -1,0 +1,311 @@
+{
+  "cod_ficha": 6875,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=6875",
+  "nombre": "Laguna De Burlan",
+  "departamento": "Amazonas",
+  "provincia": "Utcubamba",
+  "distrito": "BAGUA GRANDE",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "g. Cuerpo de Agua",
+  "subtipo": "Lagunas",
+  "jerarquia": "2",
+  "altitud": "541",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=626965",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=626965",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=626966",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=626967",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=627015",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=627016",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=627017",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=627018"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Deportes acuáticos - Sea Kayac",
+    "Deportes acuáticos - Natación",
+    "Deportes acuáticos - Motonaútica",
+    "Naturaleza - Observación de fauna",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de aves"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Deportes acuáticos",
+      "tipo": "Sea Kayac",
+      "observacion": "s/.10 por persona",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/kayac02.png"
+    },
+    {
+      "actividad": "Deportes acuáticos",
+      "tipo": "Natación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/natacion02.png"
+    },
+    {
+      "actividad": "Deportes acuáticos",
+      "tipo": "Motonaútica",
+      "observacion": "S/. 15.00 por persona",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/motonautica02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de fauna",
+      "observacion": "Tilapia del Nilo (Oreochromis niloticus) y Carpa(Cyprinus Carpio)",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fauna02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "Totora (Schoenoplectus Californicus)",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de aves",
+      "observacion": "Pato Silvestre",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/aves02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Amazonas/Utcubamba/Bagua Grande - Amazonas/Utcubamba/Bagua Grande",
+      "detalle": "Plaza de Armas de la Ciudad de Bagua Grande-Cruce Miraflores",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mototaxi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "5km./10min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Amazonas/Utcubamba/Bagua Grande - Amazonas/Utcubamba/Bagua Grande",
+      "detalle": "Cruce Miraflores-Laguna de Burlán",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mototaxi",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "2km./10min."
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "28740",
+      "horario": "Agente del Caserío de Burlan",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "20",
+      "horario": "Agente del Caserío de Burlan",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "08:00 a.m. - 10:00 p.m. Es recomendable llevar bloqueador solar, gorra o sombrero, repelente.",
+      "observaciones": "Es recomendable llevar bloqueador solar, gorra o sombrero, repelente."
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "Ingreso general S/.2"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "Ciudad de Bagua Grande( 6 hoteles; 5 de 2 estrellas y 1 de 3 estrellas)"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "Ciudad de Bagua Grande(4 hostales; 2 de dos estrellas, 1 de 1 estrella y 1 de 3 estrellas)"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Bagua Grande( 8 categorizados y/o calificados; 5 restaurantes de 1tenedor y 3 de 2 tenedores)"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Bagua Grande"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Ciudad de Bagua Grande"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Ciudad de Bagua Grande"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Bagua Grande"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "Ciudad de Bagua Grande"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Ciudad de Bagua Grande"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "Ciudad de Bagua Grande"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Ciudad de Bagua Grande"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Museo de Sitio Turísticos",
+      "observacion": "Ciudad de Bagua Grande"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "Ciudad de Bagua Grande"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Bagua Grande"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Ciudad de Bagua Grande"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de camionetas 4 x 4",
+      "observacion": "Ciudad de Bagua Grande"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de bicicleta",
+      "observacion": "Ciudad de Bagua Grande"
+    }
+  ],
+  "descripcion": "La Laguna de Burlan conocida como laguna de Los Ángeles se localiza en el caserío de Pampas de Burlan, distrito de Bagua Grande, provincia de Utcubamba, región Amazonas, a una distancia aproximada de 7 km de la ciudad de Bagua Grande. El acceso se realiza mediante la carretera Fernando Belaúnde Terry hasta el kilómetro 234, desde donde se continúa por un tramo afirmado de 2 km hasta llegar al espejo de agua.\nSe trata de un cuerpo de agua artificial originado por la filtración y derivación de canales provenientes de parcelas de cultivo de arroz adyacentes, aunque con el tiempo ha adquirido la configuración de un humedal con valor ecológico y paisajístico. La superficie de la laguna alcanza las 57,62 hectáreas, con una profundidad máxima de 9 metros y una morfología de contorno ovalado irregular.\nEl origen etimológico del topónimo “Burlan” se relaciona con la presencia histórica de burros silvestres en la década de 1960, los cuales, según la tradición oral, “se burlaban” de los cazadores locales. En cuanto a la gestión del recurso hídrico, la Autoridad Nacional del Agua aprobó en 2025 la delimitación de una faja marginal de 10 metros de ancho, equivalente a un área de 3,34 hectáreas, la cual constituye un bien de dominio público hidráulico. Esta delimitación tiene como finalidad garantizar la protección del ecosistema acuático, la intangibilidad de su ribera y el uso regulado de sus aguas (ANA, 2025). La diversidad biológica de la laguna incluye especies ícticas como la tilapia (Oreochromis niloticus) y la carpa (Cyprinus carpio), así como aves acuáticas locales conocidas como “Pato Silvestre”. Además, se registra presencia de totorales en sectores ribereños, que funcionan como hábitat para fauna asociada. Desde el punto de vista turístico, la Laguna de Burlán recibe un flujo visitantes, atraídos principalmente por actividades recreativas y deportivas tales como sea kayac, motonáutica y natación.\nEl estado de conservación bueno, se ubica en un entorno natural con vegetación circundante que realza su belleza escénica y favorece actividades recreativas y de contemplación; no obstante, conserva un alto potencial para consolidarse como un producto ecoturístico sostenible en la provincia de Utcubamba, siempre que se implementen estrategias de manejo ambiental y de posicionamiento turístico.",
+  "particularidades": "",
+  "estado_actual": "Bueno, se ubica en un entorno natural con vegetación circundante que realza su belleza escénica y favorece actividades recreativas y de contemplación.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "La Laguna de Burlan conocida como laguna de Los Ángeles se localiza en el caserío de Pampas de Burlan, distrito de Bagua Grande, provincia de Utcubamba, región Amazonas, a una distancia aproximada de 7 km de la ciudad de Bagua Grande. El acceso se realiza mediante la carretera Fernando Belaúnde Terry hasta el kilómetro 234, desde donde se continúa por un tramo afirmado de 2 km hasta llegar al espejo de agua.\nSe trata de un cuerpo de agua artificial originado por la filtración y derivación de canales provenientes de parcelas de cultivo de arroz adyacentes, aunque con el tiempo ha adquirido la configuración de un humedal con valor ecológico y paisajístico. La superficie de la laguna alcanza las 57,62 hectáreas, con una profundidad máxima de 9 metros y una morfología de contorno ovalado irregular.\nEl origen etimológico del topónimo “Burlan” se relaciona con la presencia histórica de burros silvestres en la década de 1960, los cuales, según la tradición oral, “se burlaban” de los cazadores locales. En cuanto a la gestión del recurso hídrico, la Autoridad Nacional del Agua aprobó en 2025 la delimitación de una faja marginal de 10 metros de ancho, equivalente a un área de 3,34 hectáreas, la cual constituye un bien de dominio público hidráulico. Esta delimitación tiene como finalidad garantizar la protección del ecosistema acuático, la intangibilidad de su ribera y el uso regulado de sus aguas (ANA, 2025). La diversidad biológica de la laguna incluye especies ícticas como la tilapia (Oreochromis niloticus) y la carpa (Cyprinus carpio), así como aves acuáticas locales conocidas como “Pato Silvestre”. Además, se registra presencia de totorales en sectores ribereños, que funcionan como hábitat para fauna asociada. Desde el punto de vista turístico, la Laguna de Burlán recibe un flujo visitantes, atraídos principalmente por actividades recreativas y deportivas tales como sea kayac, motonáutica y natación.\nEl estado de conservación bueno, se ubica en un entorno natural con vegetación circundante que realza su belleza escénica y favorece actividades recreativas y de contemplación; no obstante, conserva un alto potencial para consolidarse como un producto ecoturístico sostenible en la provincia de Utcubamba, siempre que se implementen estrategias de manejo ambiental y de posicionamiento turístico."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, se ubica en un entorno natural con vegetación circundante que realza su belleza escénica y favorece actividades recreativas y de contemplación."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Nacionales\n28740\nAgente del Caserío de Burlan\n2024\nValidado por Dircetur-Amazonas\nTuristas Extranjeros\n20\nAgente del Caserío de Burlan\n2024\nValidado por Dircetur-Amazonas"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nAmazonas/Utcubamba/Bagua Grande\n-\nAmazonas/Utcubamba/Bagua Grande\nPlaza de Armas de la Ciudad de Bagua Grande-Cruce Miraflores\nTerrestre\nMototaxi\nAsfaltado\n5km./10min.\n1\nAmazonas/Utcubamba/Bagua Grande\n-\nAmazonas/Utcubamba/Bagua Grande\nCruce Miraflores-Laguna de Burlán\nTerrestre\nMototaxi\nAfirmado\n2km./10min."
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nIngreso general S/.2"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n08:00 a.m.\n-\n10:00 p.m.\nEs recomendable llevar bloqueador solar, gorra o sombrero, repelente."
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nDeportes acuáticos\nSea Kayac\ns/.10 por persona\nDeportes acuáticos\nNatación\n--\nDeportes acuáticos\nMotonaútica\nS/. 15.00 por persona\nNaturaleza\nObservación de fauna\nTilapia del Nilo (Oreochromis niloticus) y Carpa(Cyprinus Carpio)\nNaturaleza\nObservación de flora\nTotora (Schoenoplectus Californicus)\nNaturaleza\nObservación de aves\nPato Silvestre"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\nCiudad de Bagua Grande( 6 hoteles; 5 de 2 estrellas y 1 de 3 estrellas)\nAlojamiento\nHostales (especificar categorías)\nCiudad de Bagua Grande(4 hostales; 2 de dos estrellas, 1 de 1 estrella y 1 de 3 estrellas)\nAlimentación\nRestaurantes\nCiudad de Bagua Grande( 8 categorizados y/o calificados; 5 restaurantes de 1tenedor y 3 de 2 tenedores)\nLugares de Recreación\nDiscotecas\nCiudad de Bagua Grande\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nCiudad de Bagua Grande\nLugares de Recreación\nCentros Deportivos\nCiudad de Bagua Grande\nLugares de Recreación\nBares\nCiudad de Bagua Grande\nLugares de Recreación\nKaraoke\nCiudad de Bagua Grande\nServicios Públicos\nEstacionamiento de vehículos\nCiudad de Bagua Grande\nServicios Públicos\nSeñales turísticas de orientación\nCiudad de Bagua Grande\nServicios Públicos\nOficina de Información turística\nCiudad de Bagua Grande\nServicios Públicos\nMuseo de Sitio Turísticos\nCiudad de Bagua Grande\nServicios Públicos\nCaminos peatonales\nCiudad de Bagua Grande\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Bagua Grande\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nCiudad de Bagua Grande\nOtros Servicios Turísticos\nAlquiler de camionetas 4 x 4\nCiudad de Bagua Grande\nOtros Servicios Turísticos\nAlquiler de bicicleta\nCiudad de Bagua Grande"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Bagua Grande\nBancos\nCiudad de Bagua Grande( Servicios de bancos: Banco de la Nación, Banco de Crédito del Perú,BBVA Continental)\nCajero automático\nCiudad de Bagua Grande(Servicio de cajero automático: Banco de Crédito del Perú, BBVA Continental, Cooperativa de ahorro y crédito Santo Cristo de Bagazán)\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Bagua Grande\nServicio de correos\nCiudad de Bagua Grande\nServicios de taxis\nCiudad de Bagua Grande(Servicio de mototaxi)\nCentro de salud - tópico\nCiudad de Bagua Grande\nVenta de materiales para fotografías\nCiudad de Bagua Grande\nSeguridad / POLTUR / Comisaría\nCiudad de Bagua Grande\nAlquiler y compra de equipos deportivos\nCiudad de Bagua Grande\nLibrerías\nCiudad de Bagua Grande\nBodegas o minimarkets\nCiudad de Bagua Grande"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nTeléfono\nServicio de operadores móviles de: movistar, entel, claro y bitel."
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Bagua Grande\nAlcantarillado sanitario\nCiudad de Bagua Grande\nLuz (Suministro Eléctrico)\nCiudad de Bagua Grande\nTeléfono\nCiudad de Bagua Grande(Servicio de operadores móviles de: movistal, claro, entel y bitel)"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nAutoridad Local del Agua Utcubamba (ALA Utcubamba)\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nResolución Directoral N.° 0759-2025-ANA/AAA.M\nAdministrador por\nNombre\nAutoridad Local del Agua Utcubamba (ALA Utcubamba)\nTiempo de administración\n17 de junio del 2025"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo-Amazonas\nNombre (Persona(s) responsable(s) del inventario turístico):\nGilber Ramos Chappa\nCargo:\nResponsable de Inventario\nCorreo:\nramoschappa@gmail.com\nTeléfono:\n988062534\nFuentes Bibliográfica:\n1.Autoridad Nacional del Agua. (2025). Resolución Directoral N.° 0759-2025-ANA/AAA.M. Delimitación de la faja marginal de la Laguna de Burlán. Perú.\n2.Sánchez Vásquez, R. del P. (2018). Estrategias para el posicionamiento de la Laguna de Burlán como parte de la oferta turística en la provincia de Utcubamba [Tesis de licenciatura, Universidad Nacional Toribio Rodríguez de Mendoza de Amazonas]. Repositorio Institucional UNTRM.\nMaterial Audiovisual actual del Recurso:\nFOTO, VIDEOS\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n3/10/2025 16:21:14"
+    }
+  ],
+  "coordenadas": {
+    "latitud": null,
+    "longitud": null
+  },
+  "google_maps_url": null
+}

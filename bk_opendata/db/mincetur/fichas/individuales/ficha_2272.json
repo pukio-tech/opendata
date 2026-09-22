@@ -1,0 +1,255 @@
+{
+  "cod_ficha": 2272,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=2272",
+  "nombre": "Cataratas De Panina",
+  "departamento": "Tacna",
+  "provincia": "Jorge Basadre",
+  "distrito": "ILABAYA",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "j. Caídas de agua",
+  "subtipo": "Cataratas",
+  "jerarquia": "1",
+  "altitud": "2566 m",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=556347",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=556347",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=556354",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=556356",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=556449",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=556450",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=556361",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=556451",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=556453",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=559442",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=559443"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Naturaleza - Observación de paisaje"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Tacna/Jorge Basadre/Locumba - Tacna/Jorge Basadre/Ilabaya",
+      "detalle": "Desde la Plaza de Locumba hasta la plaza de Ilabaya",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "41.1 Km / 44 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Tacna/Jorge Basadre/Ilabaya - Tacna/Jorge Basadre/Ilabaya",
+      "detalle": "Plaza de Ilabaya hasta la plaza de Cambaya",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "22 km / 30 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Tacna/Jorge Basadre/Ilabaya - Tacna/Jorge Basadre/Ilabaya",
+      "detalle": "Desde la plaza de Cambaya hasta La Catarata de Panina",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "3.6 km / 8 min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "9990",
+      "horario": "Cálculo de visita anual",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "360",
+      "horario": "Cálculo de visita anual",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "1080",
+      "horario": "Cálculo de visita anual",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "06:00 a.m. - 05:00 p.m. --",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Pueblo de Ilabaya"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Pueblo de Ilabaya"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Pueblo de Ilabaya"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Pueblo de Ilabaya."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Pueblo de Ilabaya"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Pueblo de Ilabaya"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Pueblo de Ilabaya"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "Pueblo de Ilabaya"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Pueblo de Ilabaya"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "Pueblo de Ilabaya"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos de herradura (caballo)",
+      "observacion": "Pueblo de Ilabaya"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Puesto de auxilio rápido",
+      "observacion": "Pueblo de Ilabaya"
+    }
+  ],
+  "descripcion": "Las Cataratas de Panina se encuentran ubicadas entre las comunidades Campesinas de Cambaya y Cairani. Este impresionante recurso turístico se sitúa a una altitud de 2,566 metros sobre el nivel del mar, caracterizada por sus formaciones montañosas y valles fértiles.\nLa catarata es alimentada por el Río Camilaca, el cual origina el flujo de agua que se desplaza por las cascadas. El curso de agua de esta cascada contribuye a la formación de una piscina natural en la base, que se convierte en un punto atractivo para los visitantes. La cascada cuenta con dos saltos de agua, siendo el más alto de aproximadamente 30 metros.\nEn cuanto al clima de la zona, este es típicamente de montaña, con un rango de temperatura que varía considerablemente entre el día y la noche. Los cambios estacionales son marcados, con una temporada de lluvias que se extiende de diciembre a marzo y una temporada seca durante el resto del año.\nLa geomorfología alrededor de las Cataratas de Panina está caracterizada por la presencia de fragmentos de rocas y una erosión significativa, resultante del constante flujo de agua. No hay glaciares en la zona, pero el paisaje está dominado por formaciones rocosas y valles fértiles.\nLa población que vive cerca en su mayoría a la plantación del orégano, trigo, papa, maíz choclo. En términos de fauna cerca se puede apreciar diversas aves, incluyendo gallinas, patos, palomas, gallinazos, y una variedad de jilgueros.\nEl centro poblado más cercano a las Cataratas de Panina es Cambaya, ubicado a aproximadamente 3.6 kilómetros de distancia. Los caminos y senderos que conducen a la catarata permiten un acceso relativamente fácil para los turistas y son de aproximadamente 4 kilómetros de extensión.\nUna de las particularidades de las Cataratas de Panina es el mito local que menciona la presencia de una sirena en las aguas de la cascada, lo que añade un aire de misterio. Esta creencia popular contribuye a la fascinación que ejerce el sitio sobre los visitantes.\nLa catarata de Panina se encuentra dentro del Circuito turístico del distrito de Ilabaya.",
+  "particularidades": "",
+  "estado_actual": "Bueno, Se está realizando un mantenimiento de vía a través de la Municipalidad Provincial de Ilabaya, para mejorar el acceso a las cataratas.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Las Cataratas de Panina se encuentran ubicadas entre las comunidades Campesinas de Cambaya y Cairani. Este impresionante recurso turístico se sitúa a una altitud de 2,566 metros sobre el nivel del mar, caracterizada por sus formaciones montañosas y valles fértiles.\nLa catarata es alimentada por el Río Camilaca, el cual origina el flujo de agua que se desplaza por las cascadas. El curso de agua de esta cascada contribuye a la formación de una piscina natural en la base, que se convierte en un punto atractivo para los visitantes. La cascada cuenta con dos saltos de agua, siendo el más alto de aproximadamente 30 metros.\nEn cuanto al clima de la zona, este es típicamente de montaña, con un rango de temperatura que varía considerablemente entre el día y la noche. Los cambios estacionales son marcados, con una temporada de lluvias que se extiende de diciembre a marzo y una temporada seca durante el resto del año.\nLa geomorfología alrededor de las Cataratas de Panina está caracterizada por la presencia de fragmentos de rocas y una erosión significativa, resultante del constante flujo de agua. No hay glaciares en la zona, pero el paisaje está dominado por formaciones rocosas y valles fértiles.\nLa población que vive cerca en su mayoría a la plantación del orégano, trigo, papa, maíz choclo. En términos de fauna cerca se puede apreciar diversas aves, incluyendo gallinas, patos, palomas, gallinazos, y una variedad de jilgueros.\nEl centro poblado más cercano a las Cataratas de Panina es Cambaya, ubicado a aproximadamente 3.6 kilómetros de distancia. Los caminos y senderos que conducen a la catarata permiten un acceso relativamente fácil para los turistas y son de aproximadamente 4 kilómetros de extensión.\nUna de las particularidades de las Cataratas de Panina es el mito local que menciona la presencia de una sirena en las aguas de la cascada, lo que añade un aire de misterio. Esta creencia popular contribuye a la fascinación que ejerce el sitio sobre los visitantes.\nLa catarata de Panina se encuentra dentro del Circuito turístico del distrito de Ilabaya."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, Se está realizando un mantenimiento de vía a través de la Municipalidad Provincial de Ilabaya, para mejorar el acceso a las cataratas."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nVisitantes Locales(Excursionistas)\n9990\nCálculo de visita anual\n2025\narchivo\nTuristas Nacionales\n360\nCálculo de visita anual\n2025\narchivo\nTuristas Extranjeros\n1080\nCálculo de visita anual\n2025\narchivo"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nTacna/Jorge Basadre/Locumba\n-\nTacna/Jorge Basadre/Ilabaya\nDesde la Plaza de Locumba hasta la plaza de Ilabaya\nTerrestre\nAutomóvil particular\nAsfaltado\n41.1 Km / 44 min\n1\nTacna/Jorge Basadre/Ilabaya\n-\nTacna/Jorge Basadre/Ilabaya\nPlaza de Ilabaya hasta la plaza de Cambaya\nTerrestre\nAutomóvil particular\nAsfaltado\n22 km / 30 min\n1\nTacna/Jorge Basadre/Ilabaya\n-\nTacna/Jorge Basadre/Ilabaya\nDesde la plaza de Cambaya hasta La Catarata de Panina\nTerrestre\nAutomóvil particular\nAfirmado\n3.6 km / 8 min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n06:00 a.m.\n-\n05:00 p.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nNaturaleza\nObservación de paisaje\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nPueblo de Ilabaya\nAlimentación\nRestaurantes\nPueblo de Ilabaya\nAlimentación\nKioskos de comida y bebidas\nPueblo de Ilabaya\nLugares de Recreación\nJuegos Infantiles\nPueblo de Ilabaya.\nLugares de Recreación\nCentros Deportivos\nPueblo de Ilabaya\nLugares de Recreación\nBares\nPueblo de Ilabaya\nAlimentación\nVenta de comida Rápida\nPueblo de Ilabaya\nServicios Públicos\nMiradores turísticos\nPueblo de Ilabaya\nServicios Públicos\nEstacionamiento de vehículos\nPueblo de Ilabaya\nServicios Públicos\nCaminos peatonales\nPueblo de Ilabaya\nServicios Públicos\nCaminos de herradura (caballo)\nPueblo de Ilabaya\nServicios Públicos\nPuesto de auxilio rápido\nPueblo de Ilabaya"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nPueblo de Ilabaya\nEstación de servicios, grifos, gasolineras y gasocentros\nPueblo de Ilabaya\nCentro de salud - tópico\nPueblo de Ilabaya\nSeguridad / POLTUR / Comisaría\nPueblo de Ilabaya\nBodegas o minimarkets\nPueblo de Ilabaya"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nPueblo de Ilabaya\nLuz (Suministro Eléctrico)\nPueblo de Ilabaya\nTeléfono\nPueblo de Ilabaya\nAlcantarillado sanitario\nPueblo de Ilabaya"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nEstado Peruano\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nLey de los Recursos Hídricos: Ley N° 29338\nAdministrador por\nNombre\nAutoridad Nacional del Agua-ANA\nTiempo de administración\nDesde el año 2019"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo de Tacna\nNombre (Persona(s) responsable(s) del inventario turístico):\nPatricia Milagros Carrasco Mamani\nCargo:\nTécnico en Turismo\nCorreo:\nantindana21@gmail.com\nTeléfono:\n902504772\nFuentes Bibliográfica:\nMunicipalidad Distrital de Ilabaya, Lugares Turísticos\nhttps://munilabaya.gob.pe/site/lugares-turisticos/\nDisfruta Tacna, 10 Atractivos turísticos Jorge Basadre, https://www.disfrutatacna.com/destinos/tacna/11/Jorge-Basadre https://www.kusillotravel.com/tours/lugar-turistico-catarata-de-panina-locumba/\nMamani-Chipana, R. M. (2021). Fomento turístico municipal en el desarrollo económico del distrito de Ilabaya –Jorge Basadre –Tacna. WAYNARROQUE. Revista de Ciencias Sociales Aplicadas, 1(1),\nhttps://www.unaj.edu.pe/revistacientificawaynarroque/index.php/rcsaw/article/view/30\nMamani chipana, R. (2018). INFLUENCIA DE FOMENTO TURÍSTICO MUNICIPAL EN EL DESARROLLO ECONÓMICO DEL DISTRITO DE ILABAYA – JORGE BASADRE – TACNA. [Tesis de Maestría, Universidad Inca Garcilaso de la Vega]. Academia.edu. https://www.academia.edu/81559381/Influencia_de_fomento_tur%C3%ADstico_municipal_en_el_desarrollo_econ%C3%B3mico_del_distrito_de_Ilabaya_Jorge_Basadre_Tacna Pág. 21-26\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n29/10/2025 09:24:54"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -17.3061,
+    "longitud": -70.41489999999999
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-17.3061,-70.41489999999999"
+}

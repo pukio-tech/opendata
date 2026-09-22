@@ -1,0 +1,352 @@
+{
+  "cod_ficha": 2234,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=2234",
+  "nombre": "Cataratas Las Golondrinas",
+  "departamento": "Cusco",
+  "provincia": "La Convencion",
+  "distrito": "KIMBIRI",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "j. Caídas de agua",
+  "subtipo": "Cataratas",
+  "jerarquia": "POR JERARQUIZAR",
+  "altitud": "1300",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=295436",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=295436",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=346551",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=545208",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=545229",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=545210",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=545211",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=545231",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=545212",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=545213"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Estudios e Investigación",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de paisaje",
+    "Naturaleza - Observación de aves",
+    "Deportes / Aventura - Caminata/Trekking"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "Helechos, orquídeas, bromeliáceas, musgos, lianas y árboles como la Quina, Cedro, Nogal entres otros",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de aves",
+      "observacion": "Gallito de las Rocas (Rupicola peruviana)",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/aves02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Cusco/Cusco/Cusco - Cusco/La Convención/Santa Ana",
+      "detalle": "Del Terminal de Cusco hasta el paradero salida al VRAEM",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus turístico",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "221 km 4.5 horas"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Cusco/La Convención/Santa Ana - Cusco/La Convención/Kimbiri",
+      "detalle": "De la salida Paradero VRAE hasta la llegada paradero Kimbiri",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Camioneta doble tracción",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "331 km / 5 horas"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "1080",
+      "horario": "Conteo Muestral",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "450",
+      "horario": "Conteo Muestral",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "07:00 a.m. - 05:00 p.m. Se recomienda iniciar el recorrido y el retorno con la luz del día, llevar ropa adicional para bañarse, calzado antideslizante, bebida hidratante y alimento frio para el almuerzo",
+      "observaciones": "Se recomienda iniciar el recorrido y el retorno con la luz del día, llevar ropa adicional para bañarse, calzado antideslizante, bebida hidratante y alimento frio para el almuerzo"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": "Se recomienda ir con un guía local o por medio de un operador turístico que conozca el recorrido al recurso turístico."
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "Kimbiri Capital"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Kimbiri Capital"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Kimbiri Capital"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Kimbiri Capital"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Kimbiri Capital"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Kimbiri Capital"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Kimbiri Capital"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Kimbiri Capital"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Kimbiri Capital"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Kimbiri Capital"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de camionetas 4 x 4",
+      "observacion": "Kimbiri Capital"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Kimbiri Capital"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Kimbiri Capital"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Kimbiri Capital"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "Kimbiri Capital"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Kimbiri Capital"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "Kimbiri Capital"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de interpretación",
+      "observacion": "Kimbiri Capital"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "Kimbiri Capital"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Kimbiri Capital"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Orquideario",
+      "observacion": "Kimbiri Capital"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "Kimbiri Capital"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Puesto de auxilio rápido",
+      "observacion": "Kimbiri Capital"
+    }
+  ],
+  "descripcion": "La Catarata Las Golondrinas, llamada así por la presencia de estas aves en el lugar; se encuentra ubicada en la región natural de selva alta o rupa rupa, exactamente en el distrito de Kimbiri, para acceder a este bello lugar se hace una caminata nivel de dificultad exigente, la caminata inicia de la Comunidad Nativa Ashaninka de Capirutsiato, y tiene una duración de 1.5 horas aproximadamente, pasando por bosques primarios de basta vegetación entre las que destacan las grandes hojas de helechos, las orquídeas, bromeliáceas, musgos, lianas y árboles como la Quina, Cedro, Nogal entres otros que hace posible la presencia de ardillas y los Gallitos de la Rocas (TUNKI), el punto más alto es de 1650 m.s.n.m. una caminata con mucha aventura, y disfrute paisajístico, la catarata se encuentra a una altitud 1300 m.s.n.m., la caída de agua tiene un salto de aproximadamente 150 m. la misma que forma en su base una poza de 18 m. de diámetro que amerita un baño, sus cristalinas aguas tienen una temperatura promedio de 17 °C. al ingreso del cañón, antes nos recibe con una linda cascada, una antesala para el disfrute de la impresionante caída de agua de la catarata, las aguas que fluyen por las cataratas son del río Capirushiato. Las Golondrinas, se encuentra oculta en medio bosque tropical húmedo de selva o bosque denso de clima tropical, esperando que lo admiren y disfruten de sus pozas de agua cristalina, los nativos al ver estas dos caídas de agua lo llaman dos golondrinas en idioma Ashaninka (APITE ETSONE).",
+  "particularidades": "",
+  "estado_actual": "Se encuentra en buen estado de Conservación, debido la Comunidad Nativa de Capirutsiato se encarga del cuidado y administración del recurso Turístico.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "La Catarata Las Golondrinas, llamada así por la presencia de estas aves en el lugar; se encuentra ubicada en la región natural de selva alta o rupa rupa, exactamente en el distrito de Kimbiri, para acceder a este bello lugar se hace una caminata nivel de dificultad exigente, la caminata inicia de la Comunidad Nativa Ashaninka de Capirutsiato, y tiene una duración de 1.5 horas aproximadamente, pasando por bosques primarios de basta vegetación entre las que destacan las grandes hojas de helechos, las orquídeas, bromeliáceas, musgos, lianas y árboles como la Quina, Cedro, Nogal entres otros que hace posible la presencia de ardillas y los Gallitos de la Rocas (TUNKI), el punto más alto es de 1650 m.s.n.m. una caminata con mucha aventura, y disfrute paisajístico, la catarata se encuentra a una altitud 1300 m.s.n.m., la caída de agua tiene un salto de aproximadamente 150 m. la misma que forma en su base una poza de 18 m. de diámetro que amerita un baño, sus cristalinas aguas tienen una temperatura promedio de 17 °C. al ingreso del cañón, antes nos recibe con una linda cascada, una antesala para el disfrute de la impresionante caída de agua de la catarata, las aguas que fluyen por las cataratas son del río Capirushiato. Las Golondrinas, se encuentra oculta en medio bosque tropical húmedo de selva o bosque denso de clima tropical, esperando que lo admiren y disfruten de sus pozas de agua cristalina, los nativos al ver estas dos caídas de agua lo llaman dos golondrinas en idioma Ashaninka (APITE ETSONE)."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Se encuentra en buen estado de Conservación, debido la Comunidad Nativa de Capirutsiato se encarga del cuidado y administración del recurso Turístico."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": ""
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Nacionales\n1080\nConteo Muestral\n2024\nVisitantes Locales(Excursionistas)\n450\nConteo Muestral\n2024"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nCusco/Cusco/Cusco\n-\nCusco/La Convención/Santa Ana\nDel Terminal de Cusco hasta el paradero salida al VRAEM\nTerrestre\nBus turístico\nAsfaltado\n221 km 4.5 horas\n1\nCusco/La Convención/Santa Ana\n-\nCusco/La Convención/Kimbiri\nDe la salida Paradero VRAE hasta la llegada paradero Kimbiri\nTerrestre\nCamioneta doble tracción\nAfirmado\n331 km / 5 horas"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre\nSe recomienda ir con un guía local o por medio de un operador turístico que conozca el recorrido al recurso turístico."
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n07:00 a.m.\n-\n05:00 p.m.\nSe recomienda iniciar el recorrido y el retorno con la luz del día, llevar ropa adicional para bañarse, calzado antideslizante, bebida hidratante y alimento frio para el almuerzo"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nEstudios e Investigación\n--\nNaturaleza\nObservación de flora\nHelechos, orquídeas, bromeliáceas, musgos, lianas y árboles como la Quina, Cedro, Nogal entres otros\nNaturaleza\nObservación de paisaje\nNaturaleza\nObservación de aves\nGallito de las Rocas (Rupicola peruviana)\nDeportes / Aventura\nCaminata/Trekking"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHostales (especificar categorías)\nKimbiri Capital\nAlimentación\nRestaurantes\nKimbiri Capital\nAlimentación\nBares\nKimbiri Capital\nAlimentación\nKioskos de comida y bebidas\nKimbiri Capital\nLugares de Recreación\nJuegos Infantiles\nKimbiri Capital\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nKimbiri Capital\nAlimentación\nCafeterías\nKimbiri Capital\nAlimentación\nVenta de comida Rápida\nKimbiri Capital\nOtros Servicios Turísticos\nAgencia de Viajes\nKimbiri Capital\nOtros Servicios Turísticos\nVenta de artesanía\nKimbiri Capital\nOtros Servicios Turísticos\nAlquiler de camionetas 4 x 4\nKimbiri Capital\nLugares de Recreación\nDiscotecas\nKimbiri Capital\nLugares de Recreación\nBares\nKimbiri Capital\nLugares de Recreación\nCentros Deportivos\nKimbiri Capital\nServicios Públicos\nMiradores turísticos\nKimbiri Capital\nServicios Públicos\nEstacionamiento de vehículos\nKimbiri Capital\nServicios Públicos\nSeñales turísticas de orientación\nKimbiri Capital\nServicios Públicos\nSeñales turísticas de interpretación\nKimbiri Capital\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\nKimbiri Capital\nServicios Públicos\nOficina de Información turística\nKimbiri Capital\nServicios Públicos\nOrquideario\nKimbiri Capital\nServicios Públicos\nCaminos peatonales\nKimbiri Capital\nServicios Públicos\nPuesto de auxilio rápido\nKimbiri Capital"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nKimbiri Capital\nBancos\nKimbiri Capital\nCajero automático\nKimbiri Capital\nCasa de cambio\nKimbiri Capital\nEstación de servicios, grifos, gasolineras y gasocentros\nKimbiri Capital\nServicios de taxis\nKimbiri Capital\nCentro de salud - tópico\nKimbiri Capital\nVenta de materiales para fotografías\nKimbiri Capital\nSeguridad / POLTUR / Comisaría\nKimbiri Capital\nAlquiler y compra de equipos deportivos\nKimbiri Capital\nLibrerías\nKimbiri Capital\nBodegas o minimarkets\nKimbiri Capital\nServicio de estacionamiento\nKimbiri Capital"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nLuz (Suministro Eléctrico)\nKimbiri Capital\nTeléfono\nKimbiri Capital\nAlcantarillado sanitario\nKimbiri Capital\nAgua potable\nKimbiri Capital\nEnergía Alternativa\nKimbiri Capital\nSistemas de tratamiento alternativo de residuos (Biodigestor, pozo séptico, otros)\nKimbiri Capital\nSeñalización turística\nKimbiri Capital"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nComunidad Nativa de Capirushiato\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nComunidad Nativa de Capirushiato\nTiempo de administración"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nGerencia Regional de Comercio Exterior Turismo y Artesanía - Cusco\nNombre (Persona(s) responsable(s) del inventario turístico):\nLic. Eliana Miranda Cabrera\nCargo:\nResponsable del Inventario de Recursos Turisticos\nCorreo:\nsgdp.gercetur@gmail.com\nTeléfono:\n967760331\nFuentes Bibliográfica:\n-INVENTARIO Y CATALOGACIÓN TURÍSTICA LEVANTADO POR LA MUNICIPALIDAD DISTRITAL DE KIMBIRI- AÑO 2009PROYECTO: MICROZONIFICACIÓN ECOLÓGICA Y ECONÓMICA DEL DISTRITO DEL DISTRITO DE KIMBIRI ? LA CONVENCIÓN CUSCO 2014.-HTTP://BDPI.CULTURA.GOB.PE/BUSQUEDA-DE-COMUNIDADES-NATIVAS MINISTERIO DE CULTURA.-INVENTARIO DE RECURSOS TURÍSTICOS DE LA PROVINCIA DE LA CONVENCIÓN 2017.\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n24/07/2024 09:52:37"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -12.7345,
+    "longitud": -73.64229999999998
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-12.7345,-73.64229999999998"
+}

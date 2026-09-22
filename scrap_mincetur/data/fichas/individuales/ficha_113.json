@@ -1,0 +1,342 @@
+{
+  "cod_ficha": 113,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=113",
+  "nombre": "Casa Urquiaga O Calonge",
+  "departamento": "La Libertad",
+  "provincia": "Trujillo",
+  "distrito": "TRUJILLO",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Museos y otros",
+  "subtipo": "Casas Museo",
+  "jerarquia": "POR JERARQUIZAR",
+  "altitud": "39 m.s.n.m.",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=760964",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=760964",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=760965",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=764749",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=760966",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=760967",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=764750",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=764751",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=760968",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=760969",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=760970"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Actividades Culturales",
+    "Otros - Realización de eventos",
+    "Cultura y Folclore - Apreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Actividades Culturales",
+      "observacion": "Exposiciones",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/act_culturales02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Realización de eventos",
+      "observacion": "Conferencias",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/eventos02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Apreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)",
+      "observacion": "--",
+      "icono_url": null
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "La Libertad/Trujillo/Trujillo - La Libertad/Trujillo/Trujillo",
+      "detalle": "Plaza Mayor de Trujillo - Casa Urquiaga",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "90 m / 1min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "1816",
+      "horario": "Registro de visitantes",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "6385",
+      "horario": "Registro de visitantes",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "09:30 a.m. - 05:00 p.m. Lunes a Viernes",
+      "observaciones": "Lunes a Viernes"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": "Previa presentación de Documento de Identidad (DNI) - Incluye guiado"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Inglés"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de interpretación",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "3 y 4 estrellas, Centro Histórico de Trujillo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "2 y 3 estrellas; Centro Histórico de Trujillo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Centro Histórico de Trujillo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Centro Histórico de Trujillo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Centro Histórico de Trujillo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Centro Histórico de Trujillo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Centro Histórico de Trujillo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Centro Histórico de Trujillo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Cines o Teatros",
+      "observacion": "Centro Histórico de Trujillo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "Centro Histórico de Trujillo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Centro Histórico de Trujillo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Centro Histórico de Trujillo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Centro Histórico de Trujillo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Centro Histórico de Trujillo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Inglés, Centro Histórico de Trujillo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Centro Histórico de Trujillo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Centro Histórico de Trujillo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Centro Histórico de Trujillo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "Centro Histórico de Trujillo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Centro Histórico de Trujillo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "Centro Histórico de Trujillo"
+    }
+  ],
+  "descripcion": "La Casa Urquiaga es una casona de gran valor arquitectónico e histórico ubicada en la Plaza Mayor de Trujillo. Su construcción original data del siglo XVI, poco después de la fundación de la ciudad en 1534, por lo que pertenece a la época colonial. Sin embargo, tras ser destruida por el terremoto de 1619, fue reconstruida y posteriormente remodelada en el siglo XIX bajo los lineamientos del estilo neoclásico, conservando elementos característicos de la arquitectura virreinal trujillana. En 1972 fue adquirida por el Banco Central de Reserva del Perú, institución que realizó importantes trabajos de restauración y actualmente garantiza su adecuada conservación. La casona se distingue por su portada de madera de estilo toscano, balcones de influencia vizcaína, ventanas con rejas de hierro, amplios corredores y tres patios interiores con galerías sostenidas por columnas dóricas, elementos que reflejan la arquitectura tradicional de las casonas trujillanas. En su interior alberga salas de exposición que muestran la evolución histórica de Trujillo y del Perú, entre ellas la Sala Conexiones, dedicada a las culturas prehispánicas y al proceso de independencia; la Sala Colonial, con pinturas, esculturas religiosas y mobiliario de los siglos XVII y XVIII; la Sala Republicana, con retratos de personajes destacados; además del comedor con vajilla de porcelana, una habitación con cama de dosel republicana y el escritorio del siglo XVIII utilizado por Simón Bolívar durante su estancia en Trujillo. Asimismo, cuenta con la Sala de Alimentos del Antiguo Perú y patios ornamentados que complementan el recorrido museográfico. Su interés turístico radica en su importancia histórica, arquitectónica y cultural, al haber sido residencia de personajes ilustres, escenario de acontecimientos relacionados con la independencia del Perú y actual sede del Museo del Banco Central de Reserva del Perú.\nLa Casa Urquiaga alberga el MUCEN Trujillo (Museo del Banco Central de Reserva del Perú), donde se exhiben objetos decorativos y piezas numismáticas conmemorativas de hechos históricos trujillanos.",
+  "particularidades": "",
+  "estado_actual": "Muy bueno, porque constantemente se encuentra en mantenimiento y conservación de los espacios y elementos arquitectónicos que componen la Casa Urquiaga.",
+  "observaciones": "El acceso a la Casa Urquiaga se realiza por la misma entrada principal del Banco Central de Reserva del Perú. Al ingresar, los visitantes reciben un folleto informativo que incluye el recorrido por los diferentes ambientes de la casa, así como un código QR que permite acceder a una audioguía con información detallada sobre cada uno de los espacios que conforman el inmueble histórico. Asimismo, resulta ser un atractivo complementario de la ruta city tour de Trujillo.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "La Casa Urquiaga es una casona de gran valor arquitectónico e histórico ubicada en la Plaza Mayor de Trujillo. Su construcción original data del siglo XVI, poco después de la fundación de la ciudad en 1534, por lo que pertenece a la época colonial. Sin embargo, tras ser destruida por el terremoto de 1619, fue reconstruida y posteriormente remodelada en el siglo XIX bajo los lineamientos del estilo neoclásico, conservando elementos característicos de la arquitectura virreinal trujillana. En 1972 fue adquirida por el Banco Central de Reserva del Perú, institución que realizó importantes trabajos de restauración y actualmente garantiza su adecuada conservación. La casona se distingue por su portada de madera de estilo toscano, balcones de influencia vizcaína, ventanas con rejas de hierro, amplios corredores y tres patios interiores con galerías sostenidas por columnas dóricas, elementos que reflejan la arquitectura tradicional de las casonas trujillanas. En su interior alberga salas de exposición que muestran la evolución histórica de Trujillo y del Perú, entre ellas la Sala Conexiones, dedicada a las culturas prehispánicas y al proceso de independencia; la Sala Colonial, con pinturas, esculturas religiosas y mobiliario de los siglos XVII y XVIII; la Sala Republicana, con retratos de personajes destacados; además del comedor con vajilla de porcelana, una habitación con cama de dosel republicana y el escritorio del siglo XVIII utilizado por Simón Bolívar durante su estancia en Trujillo. Asimismo, cuenta con la Sala de Alimentos del Antiguo Perú y patios ornamentados que complementan el recorrido museográfico. Su interés turístico radica en su importancia histórica, arquitectónica y cultural, al haber sido residencia de personajes ilustres, escenario de acontecimientos relacionados con la independencia del Perú y actual sede del Museo del Banco Central de Reserva del Perú.\nLa Casa Urquiaga alberga el MUCEN Trujillo (Museo del Banco Central de Reserva del Perú), donde se exhiben objetos decorativos y piezas numismáticas conmemorativas de hechos históricos trujillanos."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "Esta casa se encuentra declarada integrante del Ambiente Urbano Histórico Monumental de Trujillo mediante la Resolución Suprema N° 2900-72-ED, pasando a integrar el Patrimonio Monumental de la Nación."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Muy bueno, porque constantemente se encuentra en mantenimiento y conservación de los espacios y elementos arquitectónicos que componen la Casa Urquiaga."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "El acceso a la Casa Urquiaga se realiza por la misma entrada principal del Banco Central de Reserva del Perú. Al ingresar, los visitantes reciben un folleto informativo que incluye el recorrido por los diferentes ambientes de la casa, así como un código QR que permite acceder a una audioguía con información detallada sobre cada uno de los espacios que conforman el inmueble histórico. Asimismo, resulta ser un atractivo complementario de la ruta city tour de Trujillo."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n1816\nRegistro de visitantes\n2025\nReporte de visitantes al Museo de Arqueología, Antropología e Historia de la Universidad Nacional de Trujillo\nTuristas Nacionales\n6385\nRegistro de visitantes\n2025\nReporte de visitantes al Museo de Arqueología, Antropología e Historia de la Universidad Nacional de Trujillo"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nLa Libertad/Trujillo/Trujillo\n-\nLa Libertad/Trujillo/Trujillo\nPlaza Mayor de Trujillo - Casa Urquiaga\nTerrestre\nA pie\nAsfaltado\n90 m / 1min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre\nPrevia presentación de Documento de Identidad (DNI) - Incluye guiado"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n09:30 a.m.\n-\n05:00 p.m.\nLunes a Viernes"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nActividades Culturales\nExposiciones\nOtros\nRealización de eventos\nConferencias\nCultura y Folclore\nApreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nInglés\nInstalaciones Públicas\nServicios Públicos\nSeñales turísticas de interpretación\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\n3 y 4 estrellas, Centro Histórico de Trujillo\nAlojamiento\nHostales (especificar categorías)\n2 y 3 estrellas; Centro Histórico de Trujillo\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCentro Histórico de Trujillo\nAlimentación\nRestaurantes\nCentro Histórico de Trujillo\nAlimentación\nBares\nCentro Histórico de Trujillo\nAlimentación\nCafeterías\nCentro Histórico de Trujillo\nLugares de Recreación\nDiscotecas\nCentro Histórico de Trujillo\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nCentro Histórico de Trujillo\nLugares de Recreación\nCines o Teatros\nCentro Histórico de Trujillo\nLugares de Recreación\nKaraoke\nCentro Histórico de Trujillo\nAlimentación\nKioskos de comida y bebidas\nCentro Histórico de Trujillo\nAlimentación\nFuentes de soda\nCentro Histórico de Trujillo\nAlimentación\nVenta de comida Rápida\nCentro Histórico de Trujillo\nOtros Servicios Turísticos\nAgencia de Viajes\nCentro Histórico de Trujillo\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nInglés, Centro Histórico de Trujillo\nOtros Servicios Turísticos\nVenta de artesanía\nCentro Histórico de Trujillo\nLugares de Recreación\nBares\nCentro Histórico de Trujillo\nServicios Públicos\nEstacionamiento de vehículos\nCentro Histórico de Trujillo\nServicios Públicos\nSeñales turísticas de orientación\nCentro Histórico de Trujillo\nServicios Públicos\nOficina de Información turística\nCentro Histórico de Trujillo\nServicios Públicos\nCaminos peatonales\nCentro Histórico de Trujillo"
+    },
+    {
+      "titulo": "Servicios Complementarios dentro del recurso",
+      "contenido": "Servicio Complementario\nObservación\nSeguridad / POLTUR / Comisaría\n--"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nBancos\nCentro Histórico de Trujillo\nCajero automático\nCentro Histórico de Trujillo\nCasa de cambio\nCentro Histórico de Trujillo\nServicio de correos\nCentro Histórico de Trujillo\nServicio de estacionamiento\nCentro Histórico de Trujillo\nServicios de taxis\nCentro Histórico de Trujillo\nCentro de salud - tópico\nCentro Histórico de Trujillo\nLibrerías\nCentro Histórico de Trujillo\nAlquiler y compra de equipos deportivos\nCentro Histórico de Trujillo\nBodegas o minimarkets\nCentro Histórico de Trujillo"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\n--\nLuz (Suministro Eléctrico)\n--\nAlcantarillado sanitario\n--\nSeñalización turística\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCentro Histórico de Trujillo\nAlcantarillado sanitario\nCentro Histórico de Trujillo\nLuz (Suministro Eléctrico)\nCentro Histórico de Trujillo\nSeñalización turística\nCentro Histórico de Trujillo"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nBanco Central de Reserva del Perú (BCRP)\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nEn tenencia del Banco Central de Reserva del Perú (BCRP)\nAdministrador por\nNombre\nBanco Central de Reserva del Perú (BCRP)\nTiempo de administración\nDesde el 12 de Octubre de 1972"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nGerencia Regional de Comercio Exterior, Turismo y Artesanía La Libertad\nNombre (Persona(s) responsable(s) del inventario turístico):\nZoila Yuleysi Paredes Ruiz\nCargo:\nSubgerente de Turismo\nCorreo:\nzparedesr@regionlalibertad.gob.pe\nTeléfono:\n953414088\nFuentes Bibliográfica:\n1. Banco Central de Reserva del Perú. (2022). Revista Moneda, 189. https://www.bcrp.gob.pe/docs/publicaciones/revista-moneda/moneda-189/moneda-189-05.pdf\n2. Banco Central de Reserva del Perú. (s. f.). La Libertad: Atractivos. Sucursal Trujillo. https://www.bcrp.gob.pe/docs/Sucursales/Trujillo/La-Libertad-Atractivos.pdf\n3. Banco Central de Reserva del Perú. Museo Central. (s. f.). Audioguía MUCEN Trujillo – Escucha. https://mucen.bcrp.gob.pe/mucen/audios/articulo/escucha-audioguia-mucen-trujillo\n4. Perú. (1972). Resolución Suprema N.º 2900-72-ED. Gobierno del Perú. https://media.viajarsimple.com/vp/docs/resolucion-suprema-2900-72-ed.pdf\nMaterial Audiovisual actual del Recurso:\nFOTO, VIDEOS, OTROS\nEspecificación:\nAudioguías\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n26/08/2026 14:46:21"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -8.112335195695051,
+    "longitud": -79.02814105153084
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-8.112335195695051,-79.02814105153084"
+}

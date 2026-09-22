@@ -1,0 +1,303 @@
+{
+  "cod_ficha": 4111,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=4111",
+  "nombre": "Bosque De Rocas De Corani (Jaylluwa)",
+  "departamento": "Puno",
+  "provincia": "Carabaya",
+  "distrito": "CORANI",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "o. Otros",
+  "subtipo": "Formaciones rocosas(bosque de piedra)",
+  "jerarquia": "2",
+  "altitud": "4360",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=473056",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=473056",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=473029",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=506069",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=506020",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=506537",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=514258",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=514285",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=514259",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=514260",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=514288",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=514265"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Estudios e Investigación",
+    "Naturaleza - Observación de fauna",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de paisaje",
+    "Naturaleza - Observación de aves",
+    "Deportes / Aventura - Caminata/Trekking"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de fauna",
+      "observacion": "Vizcachas, zorros y cuyes silvestres. Además se pueden apreciar camelidos sudamericanos como la llama, alpaca, guanaco.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fauna02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "Hiru ichu, Paqupaqu, Chilligua, colonias de cactus como el Orco huaraqo y la China waraqu y ortigas como la Urqu kisa",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de aves",
+      "observacion": "Gorrión andino, águila cordillerana, cernícalos, alqamaris, cóndores, leke-lekes",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/aves02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Puno/Puno/Puno - Puno/San Román/Juliaca",
+      "detalle": "Terminal Terrestre Zonal Interprovincial de Puno - Terminal Terrestre Privado a Macusani - Juliaca (Salida a Cusco)",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mini bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "45 kms /1:00 hora"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Puno/San Román/Juliaca - Puno/Carabaya/Macusani",
+      "detalle": "Terminal Terrestre Privado a Macusani - Juliaca (Salida a Cusco) - Terminal Terrestre Interprovincial de Macusani",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mini bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "210 kms / 3:00 horas"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Puno/Carabaya/Macusani - Puno/Carabaya/Corani",
+      "detalle": "Terminal Terrestre Interprovincial de Macusani - Por la carretera interoceánica, desvío a Corani.",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Combi",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "24 kms / 2 horas"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Puno/Carabaya/Macusani - Puno/Carabaya/Corani",
+      "detalle": "Por la carretera afirmada, Corani - Plaza de Armas del C. P. de Aymaña",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Combi",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "12 kms / 1:15 horas"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Puno/Carabaya/Corani - Puno/Carabaya/Corani",
+      "detalle": "Plaza de Armas del C. P. de Aymaña - Comunidad C. de Chimboya (bosque de rocas Corani, Jaylluwa)",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mini bus público",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "3 kms / 15 min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "140",
+      "horario": "Informe Técnico",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "630",
+      "horario": "Informe Técnico",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "1390",
+      "horario": "Informe Técnico",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "07:00 a.m. - 05:00 p.m. --",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": "En coordinación con la comunidades de Chimboya y centro poblado de Aymaña"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Macusani"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Localidad de Corani, ciudad de Macusani"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Macusani"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Macusani"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Ciudad de Macusani"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Ciudad de Macusani"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Localidad de Corani, ciudad de Macusani"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de camionetas 4 x 4",
+      "observacion": "Ciudad de Macusani"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Ciudad de Macusani"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Localidad de Corani, ciudad de Macusani"
+    }
+  ],
+  "descripcion": "Ubicado en el piso ecológico puna, caracterizado por un clima frígido, con 600 km² de extensión territorial; conocido también como el bosque de piedras de Jaylluwa, debido a que se asemeja a un batallón de personas, como si estuviesen realizando labores o simplemente descansando. Apreciándolas desde diferente ángulo las formaciones rocosas se muestran variables, pudiendo cada cual interpretar diferentes formas, animales u objetos, de variado ancho, alto y profundidad, lo que permite al visitante dejar volar la imaginación, es un lugar de difícil acceso por lo escabroso del terreno, con altas montañas, profundas quebradas y abruptos roquedales de piedra volcánica y plutónica, por cuyas inmediaciones transcurren las aguas verdes del río Corani, presenta farallones de un centenar de metros y rocas de formas caprichosas, un conjunto de formaciones pétreas, en un vasto espacio, en toda la zona existen petroglifos, jeroglifos, cañones y formaciones muy particulares que albergan las más antiguas manifestaciones artísticas del hombre peruano, una gran variedad de arte rupestre plasmadas en los roqueríos con escenificaciones de caza, figuras antropomorfas con armas y sin armas, cazadores, la habitabilidad de los camélidos sudamericanos y tarukas en diferentes etapas cronológicas. El principal acceso se encuentra en la comunidad campesina de Vizcachani, en donde se aprecia la formación rocosa denominada Punku pata, que en su traducción en castellano significa puerta de arriba, desde donde se distingue el incomparable paisaje de la cordillera de Carabaya.",
+  "particularidades": "",
+  "estado_actual": "Bueno, son necesarios trabajos de acondicionamiento y puesta en valor para la actividad turística.",
+  "observaciones": "La fiesta principal de Corani es la Festividad de virgen de Rosario, cada 8 de octubre y cada 30 de agosto la patrona santa rosa de lima, en el centro poblado de Aymaña con corridas de toros y celebraciones religiosas, cívicas y danzas.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Ubicado en el piso ecológico puna, caracterizado por un clima frígido, con 600 km² de extensión territorial; conocido también como el bosque de piedras de Jaylluwa, debido a que se asemeja a un batallón de personas, como si estuviesen realizando labores o simplemente descansando. Apreciándolas desde diferente ángulo las formaciones rocosas se muestran variables, pudiendo cada cual interpretar diferentes formas, animales u objetos, de variado ancho, alto y profundidad, lo que permite al visitante dejar volar la imaginación, es un lugar de difícil acceso por lo escabroso del terreno, con altas montañas, profundas quebradas y abruptos roquedales de piedra volcánica y plutónica, por cuyas inmediaciones transcurren las aguas verdes del río Corani, presenta farallones de un centenar de metros y rocas de formas caprichosas, un conjunto de formaciones pétreas, en un vasto espacio, en toda la zona existen petroglifos, jeroglifos, cañones y formaciones muy particulares que albergan las más antiguas manifestaciones artísticas del hombre peruano, una gran variedad de arte rupestre plasmadas en los roqueríos con escenificaciones de caza, figuras antropomorfas con armas y sin armas, cazadores, la habitabilidad de los camélidos sudamericanos y tarukas en diferentes etapas cronológicas. El principal acceso se encuentra en la comunidad campesina de Vizcachani, en donde se aprecia la formación rocosa denominada Punku pata, que en su traducción en castellano significa puerta de arriba, desde donde se distingue el incomparable paisaje de la cordillera de Carabaya."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "Mediante la Ordenanza Regional N° 017-2015-GRP-CRP, del 10 enero del 2016, el Gobierno Regional de Puno, reconoce como Sitio Prioritario para la Conservación de la Diversidad Biológica.\nFormación pétrea con variadas formas y tamaños, conocida como de mayor extensión en la región de Puno."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, son necesarios trabajos de acondicionamiento y puesta en valor para la actividad turística."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "La fiesta principal de Corani es la Festividad de virgen de Rosario, cada 8 de octubre y cada 30 de agosto la patrona santa rosa de lima, en el centro poblado de Aymaña con corridas de toros y celebraciones religiosas, cívicas y danzas."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n140\nInforme Técnico\n2021\nINFORME TÉCNICO N° 002-2022-MINCETUR/DPDT/ET/BDPP\nTuristas Nacionales\n630\nInforme Técnico\n2021\nINFORME TÉCNICO N° 002-2022-MINCETUR/DPDT/ET/BDPP\nVisitantes Locales(Excursionistas)\n1390\nInforme Técnico\n2021\nINFORME TÉCNICO N° 002-2022-MINCETUR/DPDT/ET/BDPP"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nPuno/Puno/Puno\n-\nPuno/San Román/Juliaca\nTerminal Terrestre Zonal Interprovincial de Puno - Terminal Terrestre Privado a Macusani - Juliaca (Salida a Cusco)\nTerrestre\nMini bus público\nAsfaltado\n45 kms /1:00 hora\n1\nPuno/San Román/Juliaca\n-\nPuno/Carabaya/Macusani\nTerminal Terrestre Privado a Macusani - Juliaca (Salida a Cusco) - Terminal Terrestre Interprovincial de Macusani\nTerrestre\nMini bus público\nAsfaltado\n210 kms / 3:00 horas\n1\nPuno/Carabaya/Macusani\n-\nPuno/Carabaya/Corani\nTerminal Terrestre Interprovincial de Macusani - Por la carretera interoceánica, desvío a Corani.\nTerrestre\nCombi\nAfirmado\n24 kms / 2 horas\n1\nPuno/Carabaya/Macusani\n-\nPuno/Carabaya/Corani\nPor la carretera afirmada, Corani - Plaza de Armas del C. P. de Aymaña\nTerrestre\nCombi\nAfirmado\n12 kms / 1:15 horas\n1\nPuno/Carabaya/Corani\n-\nPuno/Carabaya/Corani\nPlaza de Armas del C. P. de Aymaña - Comunidad C. de Chimboya (bosque de rocas Corani, Jaylluwa)\nTerrestre\nMini bus público\nTrocha carrozable\n3 kms / 15 min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre\nEn coordinación con la comunidades de Chimboya y centro poblado de Aymaña"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n07:00 a.m.\n-\n05:00 p.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nEstudios e Investigación\n--\nNaturaleza\nObservación de fauna\nVizcachas, zorros y cuyes silvestres. Además se pueden apreciar camelidos sudamericanos como la llama, alpaca, guanaco.\nNaturaleza\nObservación de flora\nHiru ichu, Paqupaqu, Chilligua, colonias de cactus como el Orco huaraqo y la China waraqu y ortigas como la Urqu kisa\nNaturaleza\nObservación de paisaje\n--\nNaturaleza\nObservación de aves\nGorrión andino, águila cordillerana, cernícalos, alqamaris, cóndores, leke-lekes\nDeportes / Aventura\nCaminata/Trekking\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlimentación\nRestaurantes\nCiudad de Macusani\nAlimentación\nKioskos de comida y bebidas\nLocalidad de Corani, ciudad de Macusani\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Macusani\nAlimentación\nCafeterías\nCiudad de Macusani\nAlimentación\nFuentes de soda\nCiudad de Macusani\nAlimentación\nVenta de comida Rápida\nCiudad de Macusani\nOtros Servicios Turísticos\nVenta de artesanía\nLocalidad de Corani, ciudad de Macusani\nOtros Servicios Turísticos\nAlquiler de camionetas 4 x 4\nCiudad de Macusani\nLugares de Recreación\nJuegos Infantiles\nCiudad de Macusani\nLugares de Recreación\nCentros Deportivos\nLocalidad de Corani, ciudad de Macusani"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Macusani\nBancos\nBanco de la nacion en la ciudad de Macusani\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Macusani\nServicio de correos\nCiudad de Macusani\nServicio de estacionamiento\nCiudad de Macusani\nServicios de taxis\nCiudad de Macusani\nCentro de salud - tópico\nCentro de Salud en la localidad de Corani, Hospital en la ciudad de Macusani\nVenta de materiales para fotografías\nCiudad de Macusani\nSeguridad / POLTUR / Comisaría\nRondas campesinas en Corani, Comisaría PNP en la ciudad de Macusani\nAlquiler y compra de equipos deportivos\nCiudad de Macusani\nLibrerías\nCiudad de Macusani\nBodegas o minimarkets\nCiudad de Macusani"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Macusani\nDesagüe\nCiudad de Macusani\nLuz (Suministro Eléctrico)\nLocalidad de Corani, ciudad de Macusani\nTeléfono\nCiudad de Macusani\nEnergía Alternativa\nLocalidad de Corani\nSistemas de tratamiento alternativo de residuos (Biodigestor, pozo séptico, otros)\nLocalidad de Corani, ciudad de Macusani\nAlternativo de Residuos (Biodigestor, pozo séptico, otros)\nLocalidad de Corani, ciudad de Macusani"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nComunidades campesinas de Chimboya.\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nSe encuentra en proceso de Certificación de Posesión con expediente técnico a nombre de las comunidades campesina de Chimboya.\nAdministrador por\nNombre\nComunidad campesina de Chimboya y centro poblado de Aymaña\nTiempo de administración\nDesde el 2012"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección de Turismo - DIRCETUR Puno / Municipalidad Distrital de Corani\nNombre (Persona(s) responsable(s) del inventario turístico):\nArq. Vadim Masciotti Cabala / / Bach. Nicanor Carmona Mamani\nCargo:\nArq. / Responsable de la oficina de promoción y turismo - Municipalidad Distrital de Corani\nCorreo:\nvamasciotti@gmail.com / nikocarmonamamani@gmail.com\nTeléfono:\n051-351261 / 963051684\nFuentes Bibliográfica:\nPlan Estratégico Regional de Turismo - Puno al 2026, PERTUR Puno - 2026, DICETUR Puno, 2021.\nPlan Estratégico Regional de Turismo de Puno al 2021, Pertur Puno – 2021, Dircetur Puno, 2013.\nElena Causeco, Inseguridad Humana y Vulnerabilidad a Desastres Naturales en Las Provincias de Carabaya (Puno) Y Quispicanchis (Cusco), Lima, 2006.\nDávila Quispe, R. Art and work of the primitive men in the Altiplano. Description of the pictographic manifestations of Oqhoruni in the community of Isivilla in Puno. Revista Revoluciones, 2021.\nPatricia Vega. Gobierno Regional Puno, Sitios Prioritarios para La Conservación de la Diversidad Biológica, Puno, 2015.\nHostnig, R. Carabaya: Paisajes y Cultura Milenaria. Rainer Hostnig Ed, 2010.\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\nEn el año 2016, la Municipalidad Provincial de Carabaya, ha acondicionado la carretera Isivilla - Ajohuito\nFecha:\n15/12/2023 20:07:57"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -13.912896332158635,
+    "longitud": -70.67294597625732
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-13.912896332158635,-70.67294597625732"
+}

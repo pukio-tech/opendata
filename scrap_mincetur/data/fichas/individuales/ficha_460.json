@@ -1,0 +1,243 @@
+{
+  "cod_ficha": 460,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=460",
+  "nombre": "Complejo Arqueológico De Pukará",
+  "departamento": "Puno",
+  "provincia": "Lampa",
+  "distrito": "PUCARA",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Sitios Arqueológicos",
+  "subtipo": "Templos",
+  "jerarquia": "3",
+  "altitud": "3918",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=293008",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=293008",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=293009",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=298478",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=298479",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=298480"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Estudios e Investigación",
+    "Naturaleza - Observación de paisaje",
+    "Deportes / Aventura - Caminata/Trekking"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "sobre la cultura Pucara",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "al peñón San Cayetano",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Puno/Puno/Puno - Puno/San Román/Juliaca",
+      "detalle": "Paradero de minibuses en Puno - Paradero de minibuses en Juliaca",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mini bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "45 kms., 45 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Puno/San Román/Juliaca - Puno/Lampa/Pucara",
+      "detalle": "Paradero de minibuses en Juliaca - Paradero de minibuses en Pucara",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mini bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "63 kms., 1.00 horas"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Puno/Lampa/Pucara - Puno/Lampa/Pucara",
+      "detalle": "Paradero de minibuses en Pucara - Complejo arqueológico",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "700 mts., 10 minutos"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Cusco/Cusco/Cusco - Puno/Lampa/Pucara",
+      "detalle": "Terminal terrestre del Cusco – Sicuani – Ayaviri – Paradero de buses en Pucará",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "280 kms. 5 horas"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Puno/Lampa/Pucara - Puno/Lampa/Pucara",
+      "detalle": "Paradero de buses en Pucará – Complejo Arqueológico",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "700 mts., 10 minutos"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "4922",
+      "horario": "Sistema de Información Estadística de Turismo - MINCETUR",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "4701",
+      "horario": "Sistema de Información Estadística de Turismo - MINCETUR",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "08:00 a.m. - 04:00 p.m. De lunes a domingo",
+      "observaciones": "De lunes a domingo"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "S/15.00 adultos, S/5.00 estudiantes, S/2.00 niños y escolares, S/7.50 adulto mayor, población local gratuito con la presentación de DNI"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Pueblo de Pucara"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Pueblo de Pucara"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Pueblo de Pucara"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Pueblo de Pucara"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Pueblo de Pucara"
+    }
+  ],
+  "descripcion": "Las evidencias demuestran que fue un importante centro ceremonial de la Cultura Pukará, constituye un vestigio de la arquitectura y legado cultural de esta civilización que se desarrolló entre 150 a.C. al 100 d. C. en la zona noroeste del lago Titicaca, al pie del imponente peñón San Cayetano en un área de 4 km² aproximadamente\nSe destaca por la presencia de estructuras piramidales truncas escalonadas y con terraplenes superpuestos. Destaca por tener dos tipos de manifestaciones arquitectónicas: una de características monumentales de probable función ceremonial y religiosa, otra rústica posiblemente de viviendas y espacios urbanos. Destaca el sector ceremonial, predominando la pirámide principal llamada Kalasaya, construida a base de plataformas artificiales dispuestas en un sistema de escalonamientos, en la parte superior estructuras de carácter ceremonial de piedra arenisca con grandes monolitos o litoesculturas finamente trabajados, de forma rectangular en dos niveles superior e inferior, con un lado abierto hacia el oriente, con una escalera para ingresar al nivel inferior, adornada con estelas y esculturas trabajadas en la misma piedra. En el interior se aprecia que está rodeada por piedras areniscas planas labradas en el cual se construyó una cavidad que se alinea con la salida del sol en el solsticio de invierno.\nEn la parte izquierda de la explanada, en un recinto menor, se observa restos de estructuras a manera de una iglesia católica, que se erigió en el año 1678 con material del complejo arqueológico, con el fin de desterrar las antiguas costumbres de esta civilización. En los límites de la explanada se aprecia una roca arenisca labrada con surcos para ceremonias, posiblemente con chicha. También se aprecia tallada sobre una roca cuadrangular la Chakana o cruz andina, deduciendo que su origen se remonta a la cultura Pucará y a esta época.",
+  "particularidades": "",
+  "estado_actual": "Bueno",
+  "observaciones": "En la década de 1970 el Plan COPESCO realizo importantes obras de restauración.\nPrimer Centro Urbano Ceremonial de la region centro sur andino (Perú, Bolivia, Chile y noreste de Argentina).\nEn su interior se tiene la pirámide trunca denominada Kalasaya de 300 mts. de base por 16 mts. de alto, con tres templos hundidos en la parte superior.\nPukara, fue una cultura preinca, anterior a Tiahuanacu y Wari a las que dio origen.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Las evidencias demuestran que fue un importante centro ceremonial de la Cultura Pukará, constituye un vestigio de la arquitectura y legado cultural de esta civilización que se desarrolló entre 150 a.C. al 100 d. C. en la zona noroeste del lago Titicaca, al pie del imponente peñón San Cayetano en un área de 4 km² aproximadamente\nSe destaca por la presencia de estructuras piramidales truncas escalonadas y con terraplenes superpuestos. Destaca por tener dos tipos de manifestaciones arquitectónicas: una de características monumentales de probable función ceremonial y religiosa, otra rústica posiblemente de viviendas y espacios urbanos. Destaca el sector ceremonial, predominando la pirámide principal llamada Kalasaya, construida a base de plataformas artificiales dispuestas en un sistema de escalonamientos, en la parte superior estructuras de carácter ceremonial de piedra arenisca con grandes monolitos o litoesculturas finamente trabajados, de forma rectangular en dos niveles superior e inferior, con un lado abierto hacia el oriente, con una escalera para ingresar al nivel inferior, adornada con estelas y esculturas trabajadas en la misma piedra. En el interior se aprecia que está rodeada por piedras areniscas planas labradas en el cual se construyó una cavidad que se alinea con la salida del sol en el solsticio de invierno.\nEn la parte izquierda de la explanada, en un recinto menor, se observa restos de estructuras a manera de una iglesia católica, que se erigió en el año 1678 con material del complejo arqueológico, con el fin de desterrar las antiguas costumbres de esta civilización. En los límites de la explanada se aprecia una roca arenisca labrada con surcos para ceremonias, posiblemente con chicha. También se aprecia tallada sobre una roca cuadrangular la Chakana o cruz andina, deduciendo que su origen se remonta a la cultura Pucará y a esta época."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "Fue declarado Patrimonio Cultural de la Nación mediante R.D.N Nº 663/ INC-2001 por Instituto Nacional de Cultura.\nEl 7 de mayo del 2014, la Comisión de Cultura y Patrimonio Cultural del Congreso de la República aprobó el proyecto que declara de interés nacional y necesidad pública la investigación, protección, puesta en valor y promoción de la zona arqueológica monumental Pucará Central."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno"
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "En la década de 1970 el Plan COPESCO realizo importantes obras de restauración.\nPrimer Centro Urbano Ceremonial de la region centro sur andino (Perú, Bolivia, Chile y noreste de Argentina).\nEn su interior se tiene la pirámide trunca denominada Kalasaya de 300 mts. de base por 16 mts. de alto, con tres templos hundidos en la parte superior.\nPukara, fue una cultura preinca, anterior a Tiahuanacu y Wari a las que dio origen."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n4922\nSistema de Información Estadística de Turismo - MINCETUR\n2023\nLa visita turística incluye el Complejo Arqueológico y el Museo Lítico Pukara\nTuristas Nacionales\n4701\nSistema de Información Estadística de Turismo - MINCETUR\n2023\nLa visita turística incluye el Complejo Arqueológico y el Museo Lítico Pukara"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nPuno/Puno/Puno\n-\nPuno/San Román/Juliaca\nParadero de minibuses en Puno - Paradero de minibuses en Juliaca\nTerrestre\nMini bus público\nAsfaltado\n45 kms., 45 minutos\n1\nPuno/San Román/Juliaca\n-\nPuno/Lampa/Pucara\nParadero de minibuses en Juliaca - Paradero de minibuses en Pucara\nTerrestre\nMini bus público\nAsfaltado\n63 kms., 1.00 horas\n1\nPuno/Lampa/Pucara\n-\nPuno/Lampa/Pucara\nParadero de minibuses en Pucara - Complejo arqueológico\nTerrestre\nA pie\nAfirmado\n700 mts., 10 minutos\n2\nCusco/Cusco/Cusco\n-\nPuno/Lampa/Pucara\nTerminal terrestre del Cusco – Sicuani – Ayaviri – Paradero de buses en Pucará\nTerrestre\nBus público\nAsfaltado\n280 kms. 5 horas\n2\nPuno/Lampa/Pucara\n-\nPuno/Lampa/Pucara\nParadero de buses en Pucará – Complejo Arqueológico\nTerrestre\nA pie\nAfirmado\n700 mts., 10 minutos"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nS/15.00 adultos, S/5.00 estudiantes, S/2.00 niños y escolares, S/7.50 adulto mayor, población local gratuito con la presentación de DNI"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n08:00 a.m.\n-\n04:00 p.m.\nDe lunes a domingo"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nEstudios e Investigación\nsobre la cultura Pucara\nNaturaleza\nObservación de paisaje\n--\nDeportes / Aventura\nCaminata/Trekking\nal peñón San Cayetano"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlimentación\nKioskos de comida y bebidas\nPueblo de Pucara\nOtros Servicios Turísticos\nVenta de artesanía\nPueblo de Pucara\nAlimentación\nCafeterías\nPueblo de Pucara\nAlimentación\nRestaurantes\nPueblo de Pucara\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nPueblo de Pucara"
+    },
+    {
+      "titulo": "Servicios Complementarios dentro del recurso",
+      "contenido": "Servicio Complementario\nObservación\nSeguridad / POLTUR / Comisaría\nEn el mismo complejo arqueologico"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicio de estacionamiento\nPueblo de Pucara\nServicios de internet\nPueblo de Pucara\nBancos\nBanco de la Nación, Pueblo de Pucara\nEstación de servicios, grifos, gasolineras y gasocentros\nPueblo de Pucara\nServicios de taxis\nPueblo de Pucara\nCentro de salud - tópico\nPueblo de Pucara\nVenta de materiales para fotografías\nPueblo de Pucara\nSeguridad / POLTUR / Comisaría\nPueblo de Pucara\nAlquiler y compra de equipos deportivos\nPueblo de Pucara\nLibrerías\nPueblo de Pucara\nBodegas o minimarkets\nPueblo de Pucara"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nSeñalización turística\nEn el complejo arqueológico"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nPueblo de Pucara\nDesagüe\nPueblo de Pucara\nLuz (Suministro Eléctrico)\nPueblo de Pucara\nTeléfono\nPueblo de Pucara\nAlcantarillado sanitario\nPueblo de Pucara"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nMinisterio de Cultura\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nEn tramite trazo de la poligonal de delimitación, para su formalización.\nAdministrador por\nNombre\nDirección Desconcentrada de Cultura de Puno\nTiempo de administración\nDesde el año 1995"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección de Comercio Exterior y Turismo de Puno/ Municipalidad Distrital de Pucará\nNombre (Persona(s) responsable(s) del inventario turístico):\nArq. Vadim Masciotti Cabala // Jhon Adam Arapa Brabo\nCargo:\nEspecialista / Jefe de la unidad de promoción turística\nCorreo:\nvmasciotti@dirceturpuno.gob.pe / Johner.su@gmail.com\nTeléfono:\n958618196 / 954889581\nFuentes Bibliográfica:\nCHÁVEZ, Sergio 1992 The Conventionalized Rules in Pucara Pottery Technology and Iconography: Implications of Socio-Political Development in the Northern Titicaca Basin.\nHASTORF, Christine 2005 The Upper (Middle and Late) Formative in the Titicaca Region.\nKLARICH, Elizabeth 2005 From the Monumental to the Mundane: Defining Early Leadership Strategies at Late Formative Pukara, Peru.\nKLARICH, Elizabeth 2005. Cambios temporales y funcionales de los espacios públicos de Pukara como reflejo del cambio de las estrategias de liderazgo durante el Periodo Formativo Tardío.\nMujica, Elias. 1996. La Pirámide Qalasaya. En: Medio de Construcción. Lima.\nSarah Abraham, 2017 [libro electrónico completo]. Reconstrucción de la práctica ritual andina colonial temprana en Pukara, un enfoque arquitectónico. Rituales del pasado: estudios de casos prehispánicos y coloniales en arqueología andina , editado por Silvana A. Rosenfeld y Stefanie L. Bautista, pp. 217-239. Universidad de Colorado.\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\nDurante la década de 1970, el Plan COPESCO realizo obras de puesta de puesta en valor del complejo arqueológico\nFecha:\n10/07/2024 15:16:42"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -15.045347072137693,
+    "longitud": -70.37249565124512
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-15.045347072137693,-70.37249565124512"
+}

@@ -1,0 +1,231 @@
+{
+  "cod_ficha": 4028,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=4028",
+  "nombre": "El Campanario De Otuzco",
+  "departamento": "La Libertad",
+  "provincia": "Otuzco",
+  "distrito": "OTUZCO",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Otros",
+  "subtipo": "Piezas con valor histórico",
+  "jerarquia": "POR JERARQUIZAR",
+  "altitud": "2641 m.s.n.",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=731675",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=731675",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=730706",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=730711",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=730713",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=730715"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Cultura y Folclore - Actividades Religiosas o Patronales",
+    "Otros - Realización de eventos"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Actividades Religiosas o Patronales",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/act_religiosas02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Realización de eventos",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/eventos02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "La Libertad/Otuzco/Otuzco - La Libertad/Otuzco/Otuzco",
+      "detalle": "Plaza de Armas -Campanario",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "60 m / 2 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "La Libertad/Trujillo/Trujillo - La Libertad/Otuzco/Otuzco",
+      "detalle": "Plaza de mayor de Trujillo - Plaza de armas de Otuzco",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "70 km/ 1h y 50 min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "4526",
+      "horario": "Libro de registro de visitantes",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "8610",
+      "horario": "Libro de registro de visitantes",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "89",
+      "horario": "Libro de registro de visitantes",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "07:00 a.m. - 08:00 p.m. --",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "2 estrellas Pueblo de Otuzco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Pueblo de Otuzco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Pueblo de Otuzco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Pueblo de Otuzco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Pueblo de Otuzco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Pueblo de Otuzco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Pueblo de Otuzco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Puesto de auxilio rápido",
+      "observacion": "Pueblo de Otuzco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "Pueblo de Otuzco"
+    }
+  ],
+  "descripcion": "El Campanario de Otuzco constituye una destacada estructura arquitectónica de filiación colonial, edificada de manera exenta e independiente al costado de la antigua Iglesia Matriz de Otuzco, conformando con ella un conjunto monumental de notable armonía e importancia histórica. La construcción presenta una planta cuadrangular en su base, con aproximadamente 9 metros de ancho, muros de 3,80 metros de espesor y una altura total de 16 metros.\nLa torre fue edificada utilizando piedra y grandes bloques de adobe, evidenciando las técnicas constructivas predominantes durante el periodo virreinal. En su cuerpo inferior destaca un amplio arco de medio punto de 4,50 metros de altura y 3,50 metros de luz, mientras que en la parte superior se observan dos vanos con arcos de menor dimensión que albergan campanas de bronce, elaboradas a base de una aleación de cobre y estaño.\nDe acuerdo con registros históricos, las campanas fueron fundidas en 1822 por el maestro fundidor español Francisco Lazonte. Asimismo, la tradición oral local señala que durante su elaboración se incorporaron pequeñas cantidades de oro y plata con la finalidad de mejorar su resonancia y calidad sonora.\nEl monumento posee un significativo valor histórico al estar asociado a importantes acontecimientos de la historia regional y nacional. Su estructura fue testigo de la sublevación de los pobladores de Otuzco contra el tributo real en 1780 y de la proclamación local de la independencia en 1819. Del mismo modo, sus campanas repicaron para anunciar el paso del Libertador Simón Bolívar por la ciudad de Otuzco el 14 de abril de 1824, durante su recorrido hacia Huamachuco en el contexto de la campaña que consolidó la independencia del Perú.\nDesde el punto de vista arquitectónico y patrimonial, constituye uno de los escasos ejemplos conservados de torres campanario coloniales exentas en la región andina del norte peruano, junto con el campanario de Huamachuco. Su singularidad arquitectónica, antigüedad, estado de conservación y estrecha vinculación histórica con la Orden de San Agustín le confieren un elevado valor cultural, histórico y turístico, convirtiéndolo en uno de los principales referentes patrimoniales de la provincia de Otuzco.",
+  "particularidades": "",
+  "estado_actual": "Bueno, restauración y mantenimiento continuo especializado para su estructura de adobe y piedra a cargo de la arquidiósecis.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "El Campanario de Otuzco constituye una destacada estructura arquitectónica de filiación colonial, edificada de manera exenta e independiente al costado de la antigua Iglesia Matriz de Otuzco, conformando con ella un conjunto monumental de notable armonía e importancia histórica. La construcción presenta una planta cuadrangular en su base, con aproximadamente 9 metros de ancho, muros de 3,80 metros de espesor y una altura total de 16 metros.\nLa torre fue edificada utilizando piedra y grandes bloques de adobe, evidenciando las técnicas constructivas predominantes durante el periodo virreinal. En su cuerpo inferior destaca un amplio arco de medio punto de 4,50 metros de altura y 3,50 metros de luz, mientras que en la parte superior se observan dos vanos con arcos de menor dimensión que albergan campanas de bronce, elaboradas a base de una aleación de cobre y estaño.\nDe acuerdo con registros históricos, las campanas fueron fundidas en 1822 por el maestro fundidor español Francisco Lazonte. Asimismo, la tradición oral local señala que durante su elaboración se incorporaron pequeñas cantidades de oro y plata con la finalidad de mejorar su resonancia y calidad sonora.\nEl monumento posee un significativo valor histórico al estar asociado a importantes acontecimientos de la historia regional y nacional. Su estructura fue testigo de la sublevación de los pobladores de Otuzco contra el tributo real en 1780 y de la proclamación local de la independencia en 1819. Del mismo modo, sus campanas repicaron para anunciar el paso del Libertador Simón Bolívar por la ciudad de Otuzco el 14 de abril de 1824, durante su recorrido hacia Huamachuco en el contexto de la campaña que consolidó la independencia del Perú.\nDesde el punto de vista arquitectónico y patrimonial, constituye uno de los escasos ejemplos conservados de torres campanario coloniales exentas en la región andina del norte peruano, junto con el campanario de Huamachuco. Su singularidad arquitectónica, antigüedad, estado de conservación y estrecha vinculación histórica con la Orden de San Agustín le confieren un elevado valor cultural, histórico y turístico, convirtiéndolo en uno de los principales referentes patrimoniales de la provincia de Otuzco."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, restauración y mantenimiento continuo especializado para su estructura de adobe y piedra a cargo de la arquidiósecis."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Nacionales\n4526\nLibro de registro de visitantes\n2025\nVisitantes Locales(Excursionistas)\n8610\nLibro de registro de visitantes\n2025\nTuristas Extranjeros\n89\nLibro de registro de visitantes\n2025"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nLa Libertad/Otuzco/Otuzco\n-\nLa Libertad/Otuzco/Otuzco\nPlaza de Armas -Campanario\nTerrestre\nA pie\nAsfaltado\n60 m / 2 min.\n1\nLa Libertad/Trujillo/Trujillo\n-\nLa Libertad/Otuzco/Otuzco\nPlaza de mayor de Trujillo - Plaza de armas de Otuzco\nTerrestre\nAutomóvil particular\nAsfaltado\n70 km/ 1h y 50 min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n07:00 a.m.\n-\n08:00 p.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nCultura y Folclore\nActividades Religiosas o Patronales\n--\nOtros\nRealización de eventos\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHostales (especificar categorías)\n2 estrellas Pueblo de Otuzco\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nPueblo de Otuzco\nAlimentación\nRestaurantes\nPueblo de Otuzco\nAlimentación\nFuentes de soda\nPueblo de Otuzco\nAlimentación\nKioskos de comida y bebidas\nPueblo de Otuzco\nOtros Servicios Turísticos\nVenta de artesanía\nPueblo de Otuzco\nServicios Públicos\nEstacionamiento de vehículos\nPueblo de Otuzco\nServicios Públicos\nPuesto de auxilio rápido\nPueblo de Otuzco\nServicios Públicos\nSeñales turísticas de orientación\nPueblo de Otuzco"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nBancos\nPueblo de Otuzco\nCajero automático\nPueblo de Otuzco\nEstación de servicios, grifos, gasolineras y gasocentros\nPueblo de Otuzco\nServicio de estacionamiento\nPueblo de Otuzco\nBodegas o minimarkets\nPueblo de Otuzco\nLibrerías\nPueblo de Otuzco"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nLuz (Suministro Eléctrico)\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nPueblo de Otuzco\nAlcantarillado sanitario\nPueblo de Otuzco\nLuz (Suministro Eléctrico)\nPueblo de Otuzco\nTeléfono\nPueblo de Otuzco"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\n--\nPrivado:\nParroquia La Inmaculada Concepción de Otuzco\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nEn tenecia por pocesión de la “Parroquia La Inmaculada Concepción de Otuzco”\nAdministrador por\nNombre\nHermandad de la Virgen de la Puerta.\nTiempo de administración\nDesde el año 1560"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nGerencia Regional de Comercio Exterior, Turismo y Artesanía- La Libertad\nNombre (Persona(s) responsable(s) del inventario turístico):\nZoila Yuleysi Paredes Ruiz\nCargo:\nSubgerente de Turismo\nCorreo:\nzparedesr@regionlalibertad.gob.pe\nTeléfono:\n953414088\nFuentes Bibliográfica:\n1- Historia de Otuzco: http://macareo.pucp.edu.pe/~mgonzal/otuzco/historia.htm\n2- Compendio de historia de creación de Otuzco: https://www.regionlalibertad.gob.pe/web/opciones/pdfs/Provincia%20de%20Otuzco.pdf\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n25/06/2026 14:55:24"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -7.902266626955464,
+    "longitud": -78.56607795337294
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-7.902266626955464,-78.56607795337294"
+}

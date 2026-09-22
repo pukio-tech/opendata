@@ -1,0 +1,337 @@
+{
+  "cod_ficha": 118,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=118",
+  "nombre": "Plaza Mayor De Trujillo",
+  "departamento": "La Libertad",
+  "provincia": "Trujillo",
+  "distrito": "TRUJILLO",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Arquitectura y Espacios Urbanos",
+  "subtipo": "Plazas",
+  "jerarquia": "POR JERARQUIZAR",
+  "altitud": "34",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=760673",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=760673",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=761053",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=766717",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=766718",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=766719",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=761245"
+  ],
+  "actividades_permitidas": [
+    "Otros - Compras de artesanía/souvenir",
+    "Otros - Toma de fotografías y filmaciones",
+    "Cultura y Folclore - Actividades Religiosas o Patronales",
+    "Naturaleza - Observación de paisaje",
+    "Cultura y Folclore - Degustación y preparación de platos, productos o bebidas típicas",
+    "Cultura y Folclore - Ferias",
+    "Cultura y Folclore - Participación y/u observación del proceso de elaboración de productos locales"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Compras de artesanía/souvenir",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/artesania02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Actividades Religiosas o Patronales",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/act_religiosas02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Degustación y preparación de platos, productos o bebidas típicas",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/platos_tipicos02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Ferias",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/feria02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Participación y/u observación del proceso de elaboración de productos locales",
+      "observacion": "--",
+      "icono_url": null
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "La Libertad/Trujillo/Huanchaco - La Libertad/Trujillo/Trujillo",
+      "detalle": "Aeropuerto Internacional Capitán FAP Carlos Martínez de Pinillos - Plaza Mayor de Trujillo",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "11km / 35min"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "La Libertad/Trujillo/Moche - La Libertad/Trujillo/Trujillo",
+      "detalle": "Terminal Terrestre de Trujillo - Plaza Mayor de Trujillo",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "4.1km / 14min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "43",
+      "horario": "Casa de la Identidad",
+      "observaciones": "2026"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "180",
+      "horario": "Casa de la Identidad",
+      "observaciones": "2026"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "111",
+      "horario": "Casa de la Identidad",
+      "observaciones": "2026"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "07:00 a.m. - 11:00 p.m. --",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "Centro Historico de Trujillo 3 y 4 estrellas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "Centro Histórico de Trujillo 2 y 3"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Centro Histórico de Trujillo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Centro Histórico de Trujillo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Todos los servicios en la ciudad de Trujillo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Cines o Teatros",
+      "observacion": "Centro Histórico de Trujillo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Centro Histórico de Trujillo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Centro Histórico de Trujillo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Centro Histórico de Trujillo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Centro Histórico de Trujillo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Centro Histórico de Trujillo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Centro Histórico de Trujillo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Centro Histórico de Trujillo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Centro Histórico de Trujillo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "Centro Histórico de Trujillo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Centro Histórico de Trujillo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "Centro Histórico de Trujillo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Centro Histórico de Trujillo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "Centro Histórico de Trujillo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Centro Histórico de Trujillo"
+    }
+  ],
+  "descripcion": "La Plaza Mayor de Trujillo constituye un escenario histórico de gran importancia, pues desde este lugar Martín de Estete inició el trazado de la ciudad por encargo del fundador Diego de Almagro, en diciembre de 1534. En sus primeros años, la plaza presentaba un aspecto desolado y carecía de monumentos. Recién en 1841, don Pedro de Mandalengoitia Sanz de Zárate donó una pileta de piedra blanca, construida en su hacienda y obraje de Santa Cruz de Carabamba. Posteriormente, en 1867, la pileta fue iluminada con ocho pescantes y sus respectivos faroles, además de instalarse una verja de hierro para protegerla.\nCon el paso del tiempo, en el centro de la plaza se erigió el Monumento a la Libertad, diseñado y esculpido en Alemania por el artista alemán Edmund Moeller y ensamblado por Enrique Albretch. Mientras Moeller trabajaba el mármol travertino, surgió una controversia en Trujillo sobre el lugar donde debía instalarse el monumento: un sector proponía construir una plaza especial al ingreso de la ciudad, al final de la avenida Larco Herrera, mientras que otro defendía su ubicación en el centro de la Plaza Mayor, sitio donde finalmente fue colocado. La obra fue inaugurada el 4 de julio de 1929.\nEl monumento, de estilo barroco y aproximadamente 20 metros de altura, está elaborado con cobre y mármol y representa el proceso de independencia del Perú, el amor a la libertad y el reconocimiento a quienes hicieron posible la independencia. Se encuentra ubicado en el centro de la plaza y está conformado por tres cuerpos.\nEl primer cuerpo se levanta sobre una plataforma circular con pedestales apoyados en un basamento de granito y presenta cuatro esculturas que representan el Arte, simbolizado por una mujer adornada con guirnaldas que derrama flores; la Ciencia, representada por un anciano acompañado de un joven que sostiene un libro, en reconocimiento a Trujillo como ciudad culta; el Comercio, representado por un hombre musculoso con un sombrero alado, portador del caduceo y una rueda dentada sobre las piernas; y la Salud, representada por un hombre que sostiene una gavilla de trigo, acompañado por un carnero y un niño desnudo.\nEl segundo cuerpo está conformado por una base triangular curvilínea con tres placas de bronce que conmemoran la Proclamación de la Independencia de Trujillo (29 de diciembre de 1820), la Batalla de Junín y la Batalla de Ayacucho. En sus vértices se ubican tres esculturas que simbolizan las etapas de la libertad: la Opresión o Esclavitud, representada por un hombre inclinado con una mano sobre la cabeza; la Lucha por la Liberación, representada por un hombre con los brazos hacia atrás; y la Liberación, representada por un hombre con los brazos levantados y los puños cerrados.\nEl tercer cuerpo está formado por una columna con forma de prisma de corte diamantado, sobre la cual descansa una esfera que simboliza el mundo. En la parte superior se encuentra la Estatua de la Libertad, representada por un hombre con capa que señala hacia América con la punta del pie y sostiene una antorcha en la mano derecha, símbolo de la juventud y la libertad.\nComo información actualizada, durante los trabajos de limpieza y mantenimiento realizados en el año 2024 se registró el hallazgo de nuevas incisiones en bajo relieve con el nombre del escultor alemán Edmund Moeller, lo que permitió reafirmar y poner en valor su autoría en el monumento. Este descubrimiento fue realizado durante las labores de conservación supervisadas por la Dirección Desconcentrada de Cultura de La Libertad y difundido oficialmente por la Municipalidad Provincial de Trujillo.",
+  "particularidades": "",
+  "estado_actual": "Tiene un buen estado, la Municipalidad Provincial de Trujillo (MPT), a través del Servicio de Gestión Ambiental (Segat), ha puesto en marcha un plan integral de mantenimiento de las áreas verdes de la Plaza de Armas y espacios públicos del centro histórico.\nEn la histórica Plaza de Armas, símbolo del orgullo trujillano, se viene realizando una intervención minuciosa, con cuadrillas de obreros de Áreas Verdes que ejecutan diariamente labores de corte y nivelación de grass, poda ornamental de los arbustos y especies florales. Además de la limpieza profunda con el retiro de residuos y baldeo de veredas perimetrales para garantizar un ambiente saludable para las familias y turistas.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "La Plaza Mayor de Trujillo constituye un escenario histórico de gran importancia, pues desde este lugar Martín de Estete inició el trazado de la ciudad por encargo del fundador Diego de Almagro, en diciembre de 1534. En sus primeros años, la plaza presentaba un aspecto desolado y carecía de monumentos. Recién en 1841, don Pedro de Mandalengoitia Sanz de Zárate donó una pileta de piedra blanca, construida en su hacienda y obraje de Santa Cruz de Carabamba. Posteriormente, en 1867, la pileta fue iluminada con ocho pescantes y sus respectivos faroles, además de instalarse una verja de hierro para protegerla.\nCon el paso del tiempo, en el centro de la plaza se erigió el Monumento a la Libertad, diseñado y esculpido en Alemania por el artista alemán Edmund Moeller y ensamblado por Enrique Albretch. Mientras Moeller trabajaba el mármol travertino, surgió una controversia en Trujillo sobre el lugar donde debía instalarse el monumento: un sector proponía construir una plaza especial al ingreso de la ciudad, al final de la avenida Larco Herrera, mientras que otro defendía su ubicación en el centro de la Plaza Mayor, sitio donde finalmente fue colocado. La obra fue inaugurada el 4 de julio de 1929.\nEl monumento, de estilo barroco y aproximadamente 20 metros de altura, está elaborado con cobre y mármol y representa el proceso de independencia del Perú, el amor a la libertad y el reconocimiento a quienes hicieron posible la independencia. Se encuentra ubicado en el centro de la plaza y está conformado por tres cuerpos.\nEl primer cuerpo se levanta sobre una plataforma circular con pedestales apoyados en un basamento de granito y presenta cuatro esculturas que representan el Arte, simbolizado por una mujer adornada con guirnaldas que derrama flores; la Ciencia, representada por un anciano acompañado de un joven que sostiene un libro, en reconocimiento a Trujillo como ciudad culta; el Comercio, representado por un hombre musculoso con un sombrero alado, portador del caduceo y una rueda dentada sobre las piernas; y la Salud, representada por un hombre que sostiene una gavilla de trigo, acompañado por un carnero y un niño desnudo.\nEl segundo cuerpo está conformado por una base triangular curvilínea con tres placas de bronce que conmemoran la Proclamación de la Independencia de Trujillo (29 de diciembre de 1820), la Batalla de Junín y la Batalla de Ayacucho. En sus vértices se ubican tres esculturas que simbolizan las etapas de la libertad: la Opresión o Esclavitud, representada por un hombre inclinado con una mano sobre la cabeza; la Lucha por la Liberación, representada por un hombre con los brazos hacia atrás; y la Liberación, representada por un hombre con los brazos levantados y los puños cerrados.\nEl tercer cuerpo está formado por una columna con forma de prisma de corte diamantado, sobre la cual descansa una esfera que simboliza el mundo. En la parte superior se encuentra la Estatua de la Libertad, representada por un hombre con capa que señala hacia América con la punta del pie y sostiene una antorcha en la mano derecha, símbolo de la juventud y la libertad.\nComo información actualizada, durante los trabajos de limpieza y mantenimiento realizados en el año 2024 se registró el hallazgo de nuevas incisiones en bajo relieve con el nombre del escultor alemán Edmund Moeller, lo que permitió reafirmar y poner en valor su autoría en el monumento. Este descubrimiento fue realizado durante las labores de conservación supervisadas por la Dirección Desconcentrada de Cultura de La Libertad y difundido oficialmente por la Municipalidad Provincial de Trujillo."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Tiene un buen estado, la Municipalidad Provincial de Trujillo (MPT), a través del Servicio de Gestión Ambiental (Segat), ha puesto en marcha un plan integral de mantenimiento de las áreas verdes de la Plaza de Armas y espacios públicos del centro histórico.\nEn la histórica Plaza de Armas, símbolo del orgullo trujillano, se viene realizando una intervención minuciosa, con cuadrillas de obreros de Áreas Verdes que ejecutan diariamente labores de corte y nivelación de grass, poda ornamental de los arbustos y especies florales. Además de la limpieza profunda con el retiro de residuos y baldeo de veredas perimetrales para garantizar un ambiente saludable para las familias y turistas."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n43\nCasa de la Identidad\n2026\nDatos obtenidos de la Casa de la Identidad\nTuristas Nacionales\n180\nCasa de la Identidad\n2026\nDatos obtenidos de la Casa de la Identidad\nVisitantes Locales(Excursionistas)\n111\nCasa de la Identidad\n2026\nDatos obtenidos de la Casa de la Identidad"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nLa Libertad/Trujillo/Huanchaco\n-\nLa Libertad/Trujillo/Trujillo\nAeropuerto Internacional Capitán FAP Carlos Martínez de Pinillos - Plaza Mayor de Trujillo\nTerrestre\nAutomóvil particular\nAsfaltado\n11km / 35min\n2\nLa Libertad/Trujillo/Moche\n-\nLa Libertad/Trujillo/Trujillo\nTerminal Terrestre de Trujillo - Plaza Mayor de Trujillo\nTerrestre\nAutomóvil particular\nAsfaltado\n4.1km / 14min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n07:00 a.m.\n-\n11:00 p.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nCompras de artesanía/souvenir\n--\nOtros\nToma de fotografías y filmaciones\n--\nCultura y Folclore\nActividades Religiosas o Patronales\n--\nNaturaleza\nObservación de paisaje\n--\nCultura y Folclore\nDegustación y preparación de platos, productos o bebidas típicas\n--\nCultura y Folclore\nFerias\n--\nCultura y Folclore\nParticipación y/u observación del proceso de elaboración de productos locales\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\nCentro Historico de Trujillo 3 y 4 estrellas\nAlojamiento\nHostales (especificar categorías)\nCentro Histórico de Trujillo 2 y 3\nAlimentación\nRestaurantes\nCentro Histórico de Trujillo\nAlimentación\nBares\nCentro Histórico de Trujillo\nLugares de Recreación\nDiscotecas\nTodos los servicios en la ciudad de Trujillo\nLugares de Recreación\nCines o Teatros\nCentro Histórico de Trujillo\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nCentro Histórico de Trujillo\nAlimentación\nKioskos de comida y bebidas\nCentro Histórico de Trujillo\nAlimentación\nFuentes de soda\nCentro Histórico de Trujillo\nAlimentación\nCafeterías\nCentro Histórico de Trujillo\nAlimentación\nVenta de comida Rápida\nCentro Histórico de Trujillo\nOtros Servicios Turísticos\nAgencia de Viajes\nCentro Histórico de Trujillo\nOtros Servicios Turísticos\nVenta de artesanía\nCentro Histórico de Trujillo\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nCentro Histórico de Trujillo\nLugares de Recreación\nKaraoke\nCentro Histórico de Trujillo\nServicios Públicos\nEstacionamiento de vehículos\nCentro Histórico de Trujillo\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\nCentro Histórico de Trujillo\nServicios Públicos\nOficina de Información turística\nCentro Histórico de Trujillo\nServicios Públicos\nCaminos peatonales\nCentro Histórico de Trujillo\nLugares de Recreación\nBares\nCentro Histórico de Trujillo"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCentro Histórico de Trujillo\nBancos\nCentro Histórico de Trujillo\nCajero automático\nCentro Histórico de Trujillo\nCasa de cambio\nCentro Histórico de Trujillo\nEstación de servicios, grifos, gasolineras y gasocentros\nCentro Histórico de Trujillo\nServicio de correos\nCentro Histórico de Trujillo\nServicio de estacionamiento\nCentro Histórico de Trujillo\nServicios de taxis\nCentro Histórico de Trujillo\nVenta de materiales para fotografías\nCentro Histórico de Trujillo\nSeguridad / POLTUR / Comisaría\nCentro Histórico de Trujillo\nLibrerías\nCentro Histórico de Trujillo\nBodegas o minimarkets\nCentro Histórico de Trujillo\nAlquiler y compra de equipos deportivos\nCentro Histórico de Trujillo\nCentro de salud - tópico\nCentro Histórico de Trujillo"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nLuz (Suministro Eléctrico)\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCentro Histórico de Trujillo\nLuz (Suministro Eléctrico)\nCentro Histórico de Trujillo\nTeléfono\nCentro Histórico de Trujillo\nSeñalización turística\nCentro Histórico de Trujillo\nEnergía Alternativa\nCentro Histórico de Trujillo\nAlcantarillado sanitario\nCentro Histórico de Trujillo"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nEstado Peruano\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n221488\nNúmero de Partida:\n11634856\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nMunicipalidad Provincial de Trujillo\nTiempo de administración\n1535"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nGerencia Regional de Comercio Exterior, Turismo y Artesanía - LA LIBERTAD\nNombre (Persona(s) responsable(s) del inventario turístico):\nZoila Yuleysi Paredes Ruiz\nCargo:\nSubgerente de Turismo\nCorreo:\nzparedesr@regionlalibertad.gob.pe\nTeléfono:\n953414088\nFuentes Bibliográfica:\n1. Plaza Mayor fue inscrita en Registros Públicos a nombre de la MPT. (2026, 29 abril). Noticias - Municipalidad Provincial de Trujillo - Plataforma del Estado Peruano. https://www.gob.pe/institucion/munitrujillo/noticias/1386011-plaza-mayor-fue-inscrita-en-registros-publicos-a-nombre-de-la-mpt\n2. Trujillo nació oficialmente el 5 de marzo de 1535. (2023, 2 mayo). Noticias - Municipalidad Provincial de Trujillo - Plataforma del Estado Peruano. https://www.gob.pe/institucion/munitrujillo/noticias/751175-trujillo-nacio-oficialmente-el-5-de-marzo-de-1535\n3. Municipalidad de Trujillo embellece la Plaza de Armas. (2026, 15 enero). Noticias - Municipalidad Provincial de Trujillo - Plataforma del Estado Peruano. https://www.gob.pe/institucion/munitrujillo/noticias/1333963-municipalidad-de-trujillo-embellece-la-plaza-de-armas?utm_source\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n5/08/2026 08:34:12"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -8.111785533945682,
+    "longitud": -79.02868956327438
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-8.111785533945682,-79.02868956327438"
+}

@@ -2,6 +2,7 @@
 
 import React, { useState, useEffect, useMemo } from 'react';
 import Link from 'next/link';
+import dynamic from 'next/dynamic';
 import { useRouter } from 'next/navigation';
 import { Icons } from '../components/Icons';
 import { useLanguage } from '../context/LanguageContext';
@@ -9,6 +10,19 @@ import { CustomSelect, SelectOption } from '../components/CustomSelect';
 import { apiService, getPhotoUrl } from '../services/api';
 import { DepartmentItem, CategoryItem, ActivityItem, ResourceItem } from '../types/mincetur';
 import { createResourceSlug } from '../utils/slug';
+
+const OpenStreetMap = dynamic(
+  () => import('../components/OpenStreetMap').then((mod) => mod.OpenStreetMap),
+  {
+    ssr: false,
+    loading: () => (
+      <div className="w-full h-full min-h-[460px] sm:min-h-[520px] rounded-3xl bg-slate-900 animate-pulse flex flex-col items-center justify-center gap-3 text-slate-400 font-mono text-xs border border-slate-800">
+        <div className="w-8 h-8 border-2 border-sky-400 border-t-transparent rounded-full animate-spin" />
+        <span>Cargando Geoportal OpenStreetMap...</span>
+      </div>
+    ),
+  }
+);
 
 function cleanLabel(text: string | null | undefined): string {
   if (!text) return '';
@@ -66,9 +80,6 @@ export default function HomePage() {
   const [searchKeyword, setSearchKeyword] = useState<string>('');
   const [isMobileFiltersOpen, setIsMobileFiltersOpen] = useState<boolean>(false);
 
-  // Filtro de categoría en la galería Bento
-  const [bentoCategory, setBentoCategory] = useState<string>('');
-
   // Slider de fondos del Hero
   const [currentSlideIndex, setCurrentSlideIndex] = useState<number>(0);
   const [isSliderPaused, setIsSliderPaused] = useState<boolean>(false);
@@ -117,38 +128,35 @@ export default function HomePage() {
   }, []);
 
   // =========================================================================
-  // 2. CARGA DINÁMICA DE DESTINOS DESTACADOS DESDE LA API
+  // 2. CARGA DINÁMICA DE DESTINOS DESTACADOS DESDE LA API (RANDOM 6)
   // =========================================================================
   useEffect(() => {
     setLoadingFeatured(true);
     apiService
-      .searchResources({
-        category: bentoCategory || undefined,
-        limit: 9,
-        page: 1,
+      .getFeaturedResources({
+        limit: 6,
       })
-      .then((res) => {
-        setFeaturedResources(res.data || []);
+      .then((items) => {
+        setFeaturedResources(items || []);
       })
       .finally(() => {
         setLoadingFeatured(false);
       });
-  }, [bentoCategory]);
+  }, []);
 
   // =========================================================================
-  // 3. CARGA DINÁMICA DE PUNTOS GEORREFERENCIADOS PARA EL MAPA
+  // 3. CARGA DINÁMICA DE PUNTOS GEORREFERENCIADOS PARA OPENSTREETMAP
   // =========================================================================
   useEffect(() => {
     setLoadingMap(true);
     apiService
-      .searchResources({
+      .getMapResources({
         department: selectedDept || undefined,
-        limit: 30,
-        page: 1,
+        limit: 200,
       })
-      .then((res) => {
-        const withCoords = (res.data || []).filter(
-          (r) => r.x && r.y && !isNaN(Number(r.x)) && !isNaN(Number(r.y))
+      .then((items) => {
+        const withCoords = (items || []).filter(
+          (r) => (r.coordenadas?.latitud ?? r.y) != null && (r.coordenadas?.longitud ?? r.x) != null
         );
         setMapResources(withCoords);
         if (withCoords.length > 0) {
@@ -218,12 +226,6 @@ export default function HomePage() {
   // Recurso activo del Hero Slider
   const activeHeroItem = featuredResources[currentSlideIndex] || featuredResources[0];
 
-  const handleCopyEndpoint = () => {
-    navigator.clipboard.writeText('http://localhost:3001/api/resources?limit=10');
-    setCopiedEndpoint(true);
-    setTimeout(() => setCopiedEndpoint(false), 2000);
-  };
-
   return (
     <main className="flex-1 text-slate-900 dark:text-white transition-colors duration-300">
       {/* ========================================================================= */}
@@ -238,7 +240,7 @@ export default function HomePage() {
         <div className="absolute inset-0 overflow-hidden z-0 pointer-events-none">
           {featuredResources.slice(0, 5).map((resource, idx) => {
             const isActive = idx === currentSlideIndex;
-            const photoUrl = getPhotoUrl(resource.codigo);
+            const photoUrl = resource.imagen || resource.foto_url || getPhotoUrl(resource.codigo);
             return (
               <div
                 key={resource.codigo}
@@ -409,35 +411,6 @@ export default function HomePage() {
               Recursos Turísticos Destacados
             </h2>
           </div>
-
-          {/* Filtro de Categoría Dinámico */}
-          <div className="flex flex-wrap items-center gap-1.5 p-1 rounded-2xl bg-slate-100 dark:bg-slate-900 border border-slate-200 dark:border-slate-800 self-start sm:self-auto">
-            <button
-              type="button"
-              onClick={() => setBentoCategory('')}
-              className={`px-3.5 py-1.5 rounded-xl text-xs font-bold transition-all ${
-                bentoCategory === ''
-                  ? 'bg-sky-500 text-white shadow-md'
-                  : 'text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white'
-              }`}
-            >
-              Todos
-            </button>
-            {categories.map((cat) => (
-              <button
-                key={cat.atrac_categ}
-                type="button"
-                onClick={() => setBentoCategory(String(cat.atrac_categ))}
-                className={`px-3.5 py-1.5 rounded-xl text-xs font-bold transition-all ${
-                  bentoCategory === String(cat.atrac_categ)
-                    ? 'bg-sky-500 text-white shadow-md'
-                    : 'text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white'
-                }`}
-              >
-                {cleanLabel(cat.categoria)}
-              </button>
-            ))}
-          </div>
         </div>
 
         {/* Grid de Destinos Reales */}
@@ -459,7 +432,7 @@ export default function HomePage() {
         ) : (
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
             {featuredResources.map((item) => {
-              const photo = getPhotoUrl(item.codigo);
+              const photo = item.imagen || item.foto_url || getPhotoUrl(item.codigo);
               const slug = createResourceSlug(item.nombre, item.codigo);
 
               return (
@@ -573,94 +546,15 @@ export default function HomePage() {
           </div>
         </div>
 
-        {/* Layout del Mapa: SVG Canvas + Inspector Activo */}
+        {/* Layout del Mapa: OpenStreetMap + Inspector Activo */}
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 items-stretch">
-          {/* Canvas Cartográfico SVG */}
-          <div className="lg:col-span-7 bg-slate-900 border border-slate-800 rounded-3xl p-6 sm:p-8 relative min-h-[460px] sm:min-h-[520px] flex flex-col justify-between overflow-hidden shadow-2xl">
-            <div
-              className="absolute inset-0 opacity-10"
-              style={{
-                backgroundImage: 'radial-gradient(#38bdf8 1px, transparent 1px)',
-                backgroundSize: '24px 24px',
-              }}
+          {/* Geoportal OpenStreetMap con Leaflet */}
+          <div className="lg:col-span-7 flex flex-col min-h-[460px] sm:min-h-[520px]">
+            <OpenStreetMap
+              resources={mapResources}
+              selectedResource={selectedMapResource}
+              onSelectResource={setSelectedMapResource}
             />
-
-            {/* Cabecera del Mapa */}
-            <div className="relative z-10 flex items-center justify-between border-b border-slate-800/80 pb-4">
-              <div className="flex items-center gap-2 text-xs font-mono text-slate-400">
-                <span className="w-2 h-2 rounded-full bg-emerald-400 animate-ping" />
-                <span>COORDENADAS WGS-84 OFICIALES</span>
-              </div>
-              <span className="text-xs font-bold text-amber-400 bg-amber-400/10 px-2.5 py-1 rounded-lg border border-amber-400/20">
-                {mapResources.length} Puntos Georreferenciados
-              </span>
-            </div>
-
-            {/* Silueta Cartográfica de Perú y Marcadores Reales */}
-            <div className="relative z-10 my-auto h-[340px] sm:h-[380px] w-full max-w-[420px] mx-auto flex items-center justify-center">
-              <svg
-                viewBox="0 0 100 100"
-                className="w-full h-full opacity-20 filter drop-shadow-[0_0_15px_rgba(56,189,248,0.2)] text-sky-400"
-                fill="currentColor"
-              >
-                <path d="M 28,12 C 34,14 42,16 52,14 C 58,16 68,26 78,28 C 82,32 86,40 76,46 C 72,50 82,60 86,66 C 88,72 82,78 76,82 C 70,88 64,92 56,92 C 50,88 44,80 40,74 C 36,66 30,56 26,46 C 24,36 20,24 24,16 Z" />
-              </svg>
-
-              {/* Renderizado de Pines con Coordenadas Proyectadas de la API */}
-              {mapResources.map((item) => {
-                if (!item.x || !item.y) return null;
-                const lon = Number(item.x);
-                const lat = Number(item.y);
-
-                // Proyección porcentual en la caja contenedora
-                const xPercent = ((lon - GEO_BOUNDS.minX) / (GEO_BOUNDS.maxX - GEO_BOUNDS.minX)) * 80 + 10;
-                const yPercent = ((lat - GEO_BOUNDS.maxY) / (GEO_BOUNDS.minY - GEO_BOUNDS.maxY)) * 80 + 10;
-
-                const isCurrent = selectedMapResource?.codigo === item.codigo;
-
-                return (
-                  <div
-                    key={item.codigo}
-                    style={{
-                      position: 'absolute',
-                      left: `${Math.max(5, Math.min(95, xPercent))}%`,
-                      top: `${Math.max(5, Math.min(95, yPercent))}%`,
-                      transform: 'translate(-50%, -50%)',
-                    }}
-                    className="z-20 cursor-pointer group"
-                    onClick={() => setSelectedMapResource(item)}
-                  >
-                    <div className="relative flex items-center justify-center">
-                      {isCurrent && (
-                        <span className="absolute w-8 h-8 rounded-full bg-sky-400/30 animate-ping" />
-                      )}
-                      <button
-                        type="button"
-                        className={`w-7 h-7 sm:w-8 sm:h-8 rounded-2xl flex items-center justify-center transition-all duration-300 shadow-lg ${
-                          isCurrent
-                            ? 'bg-amber-400 text-slate-950 scale-125 ring-4 ring-amber-400/30'
-                            : 'bg-slate-800 text-sky-400 border border-sky-400/30 hover:scale-110 hover:bg-sky-500 hover:text-white'
-                        }`}
-                        title={`${item.nombre} (${item.desdpto})`}
-                      >
-                        <Icons.MapPin className="w-4 h-4" />
-                      </button>
-
-                      {/* Tooltip con nombre real */}
-                      <div className="absolute left-1/2 -bottom-8 -translate-x-1/2 hidden group-hover:block whitespace-nowrap bg-slate-950 px-2.5 py-1 rounded-md text-[10px] font-bold text-white border border-slate-700 shadow-xl pointer-events-none z-30">
-                        {cleanLabel(item.nombre)}
-                      </div>
-                    </div>
-                  </div>
-                );
-              })}
-            </div>
-
-            {/* Pie del Mapa */}
-            <div className="relative z-10 pt-4 border-t border-slate-800/80 flex flex-wrap items-center justify-between gap-2 text-xs text-slate-400">
-              <span>Haz clic en cualquier punto para inspeccionar sus datos oficiales.</span>
-              <span className="font-mono text-emerald-400">Data 100% de la Base de Datos</span>
-            </div>
           </div>
 
           {/* Inspector del Recurso Seleccionado */}
@@ -671,7 +565,7 @@ export default function HomePage() {
                   {/* Foto del recurso activo en el mapa */}
                   <div className="relative h-48 sm:h-52 w-full rounded-2xl overflow-hidden mb-5 bg-slate-900">
                     <img
-                      src={getPhotoUrl(selectedMapResource.codigo)}
+                      src={selectedMapResource.imagen || selectedMapResource.foto_url || getPhotoUrl(selectedMapResource.codigo)}
                       alt={selectedMapResource.nombre}
                       onError={(e) => {
                         e.currentTarget.src =

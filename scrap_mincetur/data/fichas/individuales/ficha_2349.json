@@ -1,0 +1,348 @@
+{
+  "cod_ficha": 2349,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=2349",
+  "nombre": "Playa Media Luna",
+  "departamento": "Lambayeque",
+  "provincia": "Chiclayo",
+  "distrito": "ETEN PUERTO",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "l. Costas",
+  "subtipo": "Playas",
+  "jerarquia": "1",
+  "altitud": "12.9",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=563701",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=563701",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=563654",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=563655",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=563702",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=563703",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=563704",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=563656",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=563657",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=563658"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Paseos - Excursiones",
+    "Otros - Otros(Especificar)",
+    "Naturaleza - Observación de fauna",
+    "Deportes / Aventura - Camping"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Paseos",
+      "tipo": "Excursiones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/excursiones02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Otros(Especificar)",
+      "observacion": "Extracción de piedrecillas de canto rodado.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/otros02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de fauna",
+      "observacion": "Pelicanos y piqueros.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fauna02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Camping",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/camping02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Lambayeque/Chiclayo/Chiclayo - Lambayeque/Chiclayo/Eten Puerto",
+      "detalle": "Chiclayo (Terminal Epsel) - Reque - Parque Principal de Puerto Eten",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Combi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "18.40 km / 40 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Lambayeque/Chiclayo/Eten Puerto - Lambayeque/Chiclayo/Eten Puerto",
+      "detalle": "Parque Principal de Puerto Eten - Playa Media Luna",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mototaxi",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "3 Km / 15 Min"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Lambayeque/Chiclayo/Chiclayo - Lambayeque/Chiclayo/Eten Puerto",
+      "detalle": "Chiclayo (ca. Mariscal Nieto cdra. 2) - Parque principal de Puerto Eten",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mini bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "18.40 km / 40 minutos"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "3780",
+      "horario": "Conteo muestral realizado los días 03, 10, 24 y 31 de agosto",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Esporádicamente - Algunos meses",
+      "especificacion": "--",
+      "horario": "06:00 a.m. - 05:00 p.m. Noviembre - Marzo",
+      "observaciones": "Noviembre - Marzo"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Otros (especificar)",
+      "observacion": "Urinarios."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "3 y 4 **** Ciudad de Chiclayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Chiclayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Chiclayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Chiclayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Ciudad de Chiclayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Chiclayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Inglés y francés. Ciudad de Chiclayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Salvavidas",
+      "observacion": "Playa El Ensueño: Enero - Marzo."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "3*** Ciudad de Chiclayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Chiclayo."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Ciudad de Chiclayo."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Chiclayo."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Ciudad de Chiclayo."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Ciudad de Chiclayo."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de bicicleta",
+      "observacion": "Ciudad de Chiclayo."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de camionetas 4 x 4",
+      "observacion": "Ciudad de Chiclayo."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Ciudad de Chiclayo."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Ciudad de Chiclayo."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Puesto de auxilio rápido",
+      "observacion": "Ciudad de Chiclayo."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "Ciudad de Chiclayo."
+    }
+  ],
+  "descripcion": "Se ubica a 21 kilómetros de la ciudad de Chiclayo, en la costa norte del país, es una playa amplia arenosa y en su orilla pedregosa, como característica geográfica natural ésta playa está asentada entre dos salientes del cerro las campanas con una extensión aproximada de 1 km de largo entre ambos extremos, la playa tiene aproximadamente 200 mts de ancho.\nSe localiza en la Región Natural Chala o Costa, su profundidad puede variar de 1.5 a 3 metros aproximadamente, dependiendo de la marea y la distancia de la orilla. Más lejos de la costa, a unos 100 metros o más mar adentro, la profundidad puede aumentar considerablemente, llegando a los 5 metros o más. Su temperatura generalmente varía de 16 °C a 29 °C y rara vez baja a menos de 14 °C o sube a más de 31 °C.\nEstá enclavada en los acantilados entre punta farola por el norte y punta zapato por el sur, de unos 500 m de largo y 300 m de ancho.\nPara descender a ella hay que hacerlo bordeando el acantilado por un camino de herradura muy estrecho. De ella se extrae las piedrecillas de canto rodado (se le conoce asi, debido al sonido que hacen cuando son expulsadas por las olas del mar) para acuarios y el cascajo para construcción de casas.\nEsta playa es muy concurrida por bañistas y pescadores y debe su nombre a su forma de media luna, que según la leyenda fue mandada a construir por el sol para su esposa la luna\nEstá considerada como un refugio para los enamorados y antiguamente era un lugar del habitad de los lobos marinos.",
+  "particularidades": "",
+  "estado_actual": "Buen estado de conservación, debido a que la municipalidad realiza jornadas de limpieza, sin embargo en algunas ocasiones se observa residuos sólidos generados por los visitantes.",
+  "observaciones": "Llegar hasta el cruce denominado playa media luna y farola; por el sendero hacia la izquierda.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Se ubica a 21 kilómetros de la ciudad de Chiclayo, en la costa norte del país, es una playa amplia arenosa y en su orilla pedregosa, como característica geográfica natural ésta playa está asentada entre dos salientes del cerro las campanas con una extensión aproximada de 1 km de largo entre ambos extremos, la playa tiene aproximadamente 200 mts de ancho.\nSe localiza en la Región Natural Chala o Costa, su profundidad puede variar de 1.5 a 3 metros aproximadamente, dependiendo de la marea y la distancia de la orilla. Más lejos de la costa, a unos 100 metros o más mar adentro, la profundidad puede aumentar considerablemente, llegando a los 5 metros o más. Su temperatura generalmente varía de 16 °C a 29 °C y rara vez baja a menos de 14 °C o sube a más de 31 °C.\nEstá enclavada en los acantilados entre punta farola por el norte y punta zapato por el sur, de unos 500 m de largo y 300 m de ancho.\nPara descender a ella hay que hacerlo bordeando el acantilado por un camino de herradura muy estrecho. De ella se extrae las piedrecillas de canto rodado (se le conoce asi, debido al sonido que hacen cuando son expulsadas por las olas del mar) para acuarios y el cascajo para construcción de casas.\nEsta playa es muy concurrida por bañistas y pescadores y debe su nombre a su forma de media luna, que según la leyenda fue mandada a construir por el sol para su esposa la luna\nEstá considerada como un refugio para los enamorados y antiguamente era un lugar del habitad de los lobos marinos."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Buen estado de conservación, debido a que la municipalidad realiza jornadas de limpieza, sin embargo en algunas ocasiones se observa residuos sólidos generados por los visitantes."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "Llegar hasta el cruce denominado playa media luna y farola; por el sendero hacia la izquierda."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nVisitantes Locales(Excursionistas)\n3780\nConteo muestral realizado los días 03, 10, 24 y 31 de agosto\n2024\nValidado por la Dirección de Turismo y Turismo de la Gercetur Lambayeque."
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nLambayeque/Chiclayo/Chiclayo\n-\nLambayeque/Chiclayo/Eten Puerto\nChiclayo (Terminal Epsel) - Reque - Parque Principal de Puerto Eten\nTerrestre\nCombi\nAsfaltado\n18.40 km / 40 minutos\n1\nLambayeque/Chiclayo/Eten Puerto\n-\nLambayeque/Chiclayo/Eten Puerto\nParque Principal de Puerto Eten - Playa Media Luna\nTerrestre\nMototaxi\nTrocha carrozable\n3 Km / 15 Min\n2\nLambayeque/Chiclayo/Chiclayo\n-\nLambayeque/Chiclayo/Eten Puerto\nChiclayo (ca. Mariscal Nieto cdra. 2) - Parque principal de Puerto Eten\nTerrestre\nMini bus público\nAsfaltado\n18.40 km / 40 minutos"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nEsporádicamente - Algunos meses\n--\n06:00 a.m.\n-\n05:00 p.m.\nNoviembre - Marzo"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nPaseos\nExcursiones\n--\nOtros\nOtros(Especificar)\nExtracción de piedrecillas de canto rodado.\nNaturaleza\nObservación de fauna\nPelicanos y piqueros.\nDeportes / Aventura\nCamping\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Públicas\nServicios Públicos\nMiradores turísticos\n--\nInstalaciones Públicas\nServicios Públicos\nCaminos peatonales\n--\nInstalaciones Públicas\nServicios Públicos\nOtros (especificar)\nUrinarios."
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\n3 y 4 **** Ciudad de Chiclayo\nAlimentación\nRestaurantes\nCiudad de Chiclayo\nAlimentación\nBares\nCiudad de Chiclayo\nAlimentación\nKioskos de comida y bebidas\nCiudad de Chiclayo\nAlimentación\nVenta de comida Rápida\nCiudad de Chiclayo\nLugares de Recreación\nDiscotecas\nCiudad de Chiclayo\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nInglés y francés. Ciudad de Chiclayo\nOtros Servicios Turísticos\nServicio de Salvavidas\nPlaya El Ensueño: Enero - Marzo.\nAlojamiento\nHostales (especificar categorías)\n3*** Ciudad de Chiclayo\nAlimentación\nCafeterías\nCiudad de Chiclayo.\nAlimentación\nFuentes de soda\nCiudad de Chiclayo.\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Chiclayo.\nLugares de Recreación\nCentros Deportivos\nCiudad de Chiclayo.\nLugares de Recreación\nJuegos Infantiles\nCiudad de Chiclayo.\nOtros Servicios Turísticos\nAlquiler de bicicleta\nCiudad de Chiclayo.\nOtros Servicios Turísticos\nAlquiler de camionetas 4 x 4\nCiudad de Chiclayo.\nServicios Públicos\nEstacionamiento de vehículos\nCiudad de Chiclayo.\nServicios Públicos\nOficina de Información turística\nCiudad de Chiclayo.\nServicios Públicos\nPuesto de auxilio rápido\nCiudad de Chiclayo.\nServicios Públicos\nCaminos peatonales\nCiudad de Chiclayo."
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Chiclayo.\nBancos\nCiudad de Chiclayo.\nCajero automático\nCiudad de Chiclayo.\nCasa de cambio\nCiudad de Chiclayo.\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Chiclayo.\nServicio de correos\nCiudad de Chiclayo.\nServicio de estacionamiento\nCiudad de Chiclayo.\nServicios de taxis\nCiudad de Chiclayo.\nCentro de salud - tópico\nCiudad de Chiclayo.\nVenta de materiales para fotografías\nCiudad de Chiclayo.\nSeguridad / POLTUR / Comisaría\nCiudad de Chiclayo.\nAlquiler y compra de equipos deportivos\nCiudad de Chiclayo.\nLibrerías\nCiudad de Chiclayo.\nBodegas o minimarkets\nCiudad de Chiclayo."
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Puerto Eten\nAlcantarillado sanitario\nCiudad de Puerto Eten\nLuz (Suministro Eléctrico)\nCiudad de Puerto Eten\nTeléfono\nCiudad de Puerto Eten"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nEstado Peruano\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nLey de Playas N° 26856 - D.S. N° 050-2006-EF\nAdministrador por\nNombre\nMunicipalidad Distrital de Puerto Eten.\nTiempo de administración\n58 años. Desde 1966"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nGERENCIA REGIONAL DE COMERCIO EXTERIOR Y TURISMO - LAMBAYEQUE\nNombre (Persona(s) responsable(s) del inventario turístico):\nLic. Magali Exebio Cabrera\nCargo:\nTécnico en Turismo\nCorreo:\nluzmexebio@gmail.com\nTeléfono:\n947672674\nFuentes Bibliográfica:\n- Lambayeque: Destinos Turístico, Capuñay Campos Francisco (2009)\n- Puerto Eten 1867-2018 Pasado y Porvenir, Puicán Carreño, Godofredo (2018).\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\nEn 2024, con el programa Llamakansun se inició el Proyecto de la playa media luna, financiado por el gobierno central, el cual ha permitido implementar y acondicionar miradores con camino peatonal.\nFecha:\n14/10/2024 12:05:05"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -6.9501769417313985,
+    "longitud": -79.86244082450867
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-6.9501769417313985,-79.86244082450867"
+}

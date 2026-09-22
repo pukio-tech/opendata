@@ -1,0 +1,275 @@
+{
+  "cod_ficha": 1469,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=1469",
+  "nombre": "Playa De Chulliyachi",
+  "departamento": "Piura",
+  "provincia": "Sechura",
+  "distrito": "SECHURA",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "l. Costas",
+  "subtipo": "Playas",
+  "jerarquia": "1",
+  "altitud": "2",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=472210",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=472210",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=472213",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=498205",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=498159",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=498206",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=498160",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=498207"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Deportes acuáticos - Pesca deportiva",
+    "Naturaleza - Observación de paisaje"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Deportes acuáticos",
+      "tipo": "Pesca deportiva",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/pesca_deportiva02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Piura/Piura/Piura - Piura/Sechura/Sechura",
+      "detalle": "Terminal Terrestre Satélite Bajo Piura de la ciudad de Piura (Consorcio Gemtranort) – Paraderos de Mototaxis del Mercado Modelo de la ciudad de Sechura.",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "55 km / 1h 30 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Piura/Sechura/Sechura - Piura/Sechura/Sechura",
+      "detalle": "Paraderos de Mototaxis del Mercado Modelo de la ciudad de Sechura – Playa Chulliyachi.",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mototaxi",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "07 km / 25 min"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Piura/Piura/Piura - Piura/Sechura/Sechura",
+      "detalle": "Terminal Terrestre Empresa de Transportes Turismo Dias de la ciudad de Piura (Emp. Transp. 3 Continentes) - Paraderos de Mototaxis del Mercado Modelo de la ciudad de Sechura",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mini bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "50 km / 1hr 10min"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Piura/Sechura/Sechura - Piura/Sechura/Sechura",
+      "detalle": "Paraderos de Mototaxis del Mercado Modelo de la ciudad de Sechura – Playa Chulliyachi.",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mototaxi",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "07 km / 25 min"
+    },
+    {
+      "recorrido": "3",
+      "tramo": "Piura/Sechura/Sechura - Piura/Sechura/Sechura",
+      "detalle": "Plaza de Armas de la ciudad de Sechura – Playa Chulliyachi.",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mototaxi",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "07 km / 15 min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "18035",
+      "horario": "Informe Técnico",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "90175",
+      "horario": "Informe Técnico",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "259560",
+      "horario": "Informe Técnico",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "07:00 a.m. - 06:00 p.m. --",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "En la ciudad de Sechura"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "En la ciudad de Sechura"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "En la ciudad de Sechura"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "En la ciudad de Sechura"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Peñas",
+      "observacion": "En la ciudad de Sechura"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "En la ciudad de Sechura"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "En la ciudad de Sechura"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "En la ciudad de Sechura."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "En la ciudad de Sechura"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "En la ciudad de Sechura"
+    }
+  ],
+  "descripcion": "Chulliyachi, se ubica a 7 kilómetros al oeste de la ciudad de Sechura. Es una playa amplia apropiada para paseos y descansos, destacando las puestas de sol que confluyen con la actividad de pesca artesanal en balsilla y botes que se realiza en la zona.\nSe puede apreciar diversidad de especies de aves, en su mayoría gaviotas y pelicanos, junto a delfines que se pueden divisar desde la orilla, especialmente en horas de la tarde.  Además, se realiza la captura de peces como la caballa, cabrilla, peje, cachema, cambrillón, entre otros, que son comercializados en los mercados de la ciudad de Sechura.\nEl recurso en mención forma parte de la región chala o costa, con clima tropical en la mayor parte de año, llegando a tener picos elevados de temperatura de hasta 37 grados centígrados en la época de verano. Y está considerada con la categoría de muy buena por la Dirección General de salud ambiental. Es un recurso natural con gran potencial por su valor medioambiental, pero necesita de infraestructuras en cuanto a accesos, y dotaciones públicas, para la mejora del recurso.\nEn Chulliyachi aún es posible observar las ruinas de la antigua caleta de pescadores, destruida por consecuencia de las inundaciones desde el mar y del Fenómeno de El Niño, acontecido en el año 1983, la cual es promocionada por agencias de viajes y tour operadores como “la ciudad perdida” o “ciudad fantasma”, dentro del circuito turístico desarrollado en esta playa en conjunto con otros puntos de visita en la provincia de Sechura.\nPor su cercanía a la ciudad de Sechura, recibe visitantes en su mayoría provenientes de los pueblos del Bajo Piura y otras localidades de la región, que encuentran en esta playa un espacio ideal para pasar un día en familia, en contacto con la naturaleza.",
+  "particularidades": "",
+  "estado_actual": "Regular. Algunas zonas de la playa presentan desperdicios provenientes desde el mar o arrojados por los visitantes.",
+  "observaciones": "Esta playa posee un gran potencial por su valor medio ambiental, pero necesita de infraestructura en cuanto a accesos, y dotaciones públicas, para la mejora en el acondicionamiento turístico del recurso.\nDebido a la alta afluencia de visitantes en los meses de verano (diciembre a marzo), la Dirección Regional de Salud realiza el monitoreo de los parámetros microbiológicos de la calidad del agua de mar, la limpieza de playas y el estado de los servicios higiénicos, con la finalidad de otorgarle la calificación de apta para bañistas.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Chulliyachi, se ubica a 7 kilómetros al oeste de la ciudad de Sechura. Es una playa amplia apropiada para paseos y descansos, destacando las puestas de sol que confluyen con la actividad de pesca artesanal en balsilla y botes que se realiza en la zona.\nSe puede apreciar diversidad de especies de aves, en su mayoría gaviotas y pelicanos, junto a delfines que se pueden divisar desde la orilla, especialmente en horas de la tarde.  Además, se realiza la captura de peces como la caballa, cabrilla, peje, cachema, cambrillón, entre otros, que son comercializados en los mercados de la ciudad de Sechura.\nEl recurso en mención forma parte de la región chala o costa, con clima tropical en la mayor parte de año, llegando a tener picos elevados de temperatura de hasta 37 grados centígrados en la época de verano. Y está considerada con la categoría de muy buena por la Dirección General de salud ambiental. Es un recurso natural con gran potencial por su valor medioambiental, pero necesita de infraestructuras en cuanto a accesos, y dotaciones públicas, para la mejora del recurso.\nEn Chulliyachi aún es posible observar las ruinas de la antigua caleta de pescadores, destruida por consecuencia de las inundaciones desde el mar y del Fenómeno de El Niño, acontecido en el año 1983, la cual es promocionada por agencias de viajes y tour operadores como “la ciudad perdida” o “ciudad fantasma”, dentro del circuito turístico desarrollado en esta playa en conjunto con otros puntos de visita en la provincia de Sechura.\nPor su cercanía a la ciudad de Sechura, recibe visitantes en su mayoría provenientes de los pueblos del Bajo Piura y otras localidades de la región, que encuentran en esta playa un espacio ideal para pasar un día en familia, en contacto con la naturaleza."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Regular. Algunas zonas de la playa presentan desperdicios provenientes desde el mar o arrojados por los visitantes."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "Esta playa posee un gran potencial por su valor medio ambiental, pero necesita de infraestructura en cuanto a accesos, y dotaciones públicas, para la mejora en el acondicionamiento turístico del recurso.\nDebido a la alta afluencia de visitantes en los meses de verano (diciembre a marzo), la Dirección Regional de Salud realiza el monitoreo de los parámetros microbiológicos de la calidad del agua de mar, la limpieza de playas y el estado de los servicios higiénicos, con la finalidad de otorgarle la calificación de apta para bañistas."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n18035\nInforme Técnico\n2021\nSe realizó la estimación del flujo de visitantes previo trabajo de gabinete con los actores involucrados.\nTuristas Nacionales\n90175\nInforme Técnico\n2021\nSe realizó la estimación del flujo de visitantes previo trabajo de gabinete con los actores involucrados.\nVisitantes Locales(Excursionistas)\n259560\nInforme Técnico\n2021\nSe realizó la estimación del flujo de visitantes previo trabajo de gabinete con los actores involucrados."
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nPiura/Piura/Piura\n-\nPiura/Sechura/Sechura\nTerminal Terrestre Satélite Bajo Piura de la ciudad de Piura (Consorcio Gemtranort) – Paraderos de Mototaxis del Mercado Modelo de la ciudad de Sechura.\nTerrestre\nBus público\nAsfaltado\n55 km / 1h 30 min\n1\nPiura/Sechura/Sechura\n-\nPiura/Sechura/Sechura\nParaderos de Mototaxis del Mercado Modelo de la ciudad de Sechura – Playa Chulliyachi.\nTerrestre\nMototaxi\nAfirmado\n07 km / 25 min\n2\nPiura/Piura/Piura\n-\nPiura/Sechura/Sechura\nTerminal Terrestre Empresa de Transportes Turismo Dias de la ciudad de Piura (Emp. Transp. 3 Continentes) - Paraderos de Mototaxis del Mercado Modelo de la ciudad de Sechura\nTerrestre\nMini bus público\nAsfaltado\n50 km / 1hr 10min\n2\nPiura/Sechura/Sechura\n-\nPiura/Sechura/Sechura\nParaderos de Mototaxis del Mercado Modelo de la ciudad de Sechura – Playa Chulliyachi.\nTerrestre\nMototaxi\nAfirmado\n07 km / 25 min\n3\nPiura/Sechura/Sechura\n-\nPiura/Sechura/Sechura\nPlaza de Armas de la ciudad de Sechura – Playa Chulliyachi.\nTerrestre\nMototaxi\nAfirmado\n07 km / 15 min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n07:00 a.m.\n-\n06:00 p.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nDeportes acuáticos\nPesca deportiva\n--\nNaturaleza\nObservación de paisaje\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlimentación\nRestaurantes\nEn la ciudad de Sechura\nAlimentación\nBares\nEn la ciudad de Sechura\nAlimentación\nCafeterías\nEn la ciudad de Sechura\nLugares de Recreación\nDiscotecas\nEn la ciudad de Sechura\nLugares de Recreación\nPeñas\nEn la ciudad de Sechura\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nEn la ciudad de Sechura\nAlojamiento\nHostales (especificar categorías)\nEn la ciudad de Sechura\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nEn la ciudad de Sechura.\nAlimentación\nKioskos de comida y bebidas\nEn la ciudad de Sechura\nAlimentación\nVenta de comida Rápida\nEn la ciudad de Sechura"
+    },
+    {
+      "titulo": "Servicios Complementarios dentro del recurso",
+      "contenido": "Servicio Complementario\nObservación\nServicios de salvavidas\nSolo en época de verano."
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nEn la ciudad de Sechura\nEstación de servicios, grifos, gasolineras y gasocentros\nEn la ciudad de Sechura\nCajero automático\nEn la ciudad de Sechura\nCasa de cambio\nEn la ciudad de Sechura\nServicio de correos\nEn la ciudad de Sechura\nServicio de estacionamiento\nEn la ciudad de Sechura\nServicios de taxis\nEn la ciudad de Sechura\nCentro de salud - tópico\nEn la ciudad de Sechura\nVenta de materiales para fotografías\nEn la ciudad de Sechura\nSeguridad / POLTUR / Comisaría\nEn la ciudad de Sechura\nBodegas o minimarkets\nEn la ciudad de Sechura\nLibrerías\nEn la ciudad de Sechura"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nOtros (Especificar)\nBaños/cambiadores\nSeñalización turística\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Sechura\nDesagüe\nCiudad de Sechura\nLuz (Suministro Eléctrico)\nCiudad de Sechura\nTeléfono\nCiudad de Sechura"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nEstado Peruano\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nLey N° 26856: Ley de playas - Superintendencia Nacional de Bienes Estatales.\nAdministrador por\nNombre\nMunicipalidad Provincial de Sechura\nTiempo de administración\nDesde el año 1994."
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo de Piura\nNombre (Persona(s) responsable(s) del inventario turístico):\nArnulfo Velásquez Avila\nCargo:\nDirector de Turismo\nCorreo:\ndir.turismo.dircetur@regionpiura.gob.pe\nTeléfono:\n947973728\nFuentes Bibliográfica:\n\"Guía Turística de Sechura\". Municipalidad Provincial de Sechura - Paolo Pastori. Año 2016.\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n28/08/2023 10:58:03"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -5.568892,
+    "longitud": -80.87468100000001
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-5.568892,-80.87468100000001"
+}

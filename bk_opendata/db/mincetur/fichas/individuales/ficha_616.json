@@ -1,0 +1,704 @@
+{
+  "cod_ficha": 616,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=616",
+  "nombre": "Valle Del Colca",
+  "departamento": "Arequipa",
+  "provincia": "Caylloma",
+  "distrito": "CHIVAY",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "c. Valles",
+  "subtipo": "Valles",
+  "jerarquia": "4",
+  "altitud": "3,651",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=524245",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=524245",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=524246",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=524562",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=524247",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=524248",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=524249",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=524250",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=524251"
+  ],
+  "actividades_permitidas": [
+    "Otros - Compras de artesanía/souvenir",
+    "Otros - Toma de fotografías y filmaciones",
+    "Cultura y Folclore - Actividades Religiosas o Patronales",
+    "Paseos - Excursiones",
+    "Otros - Estudios e Investigación",
+    "Deportes acuáticos - Canotaje / Rafting",
+    "Naturaleza - Observación de fauna",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de paisaje",
+    "Naturaleza - Observación de aves",
+    "Cultura y Folclore - Rituales místicos o tradicionales",
+    "Deportes / Aventura - Caminata/Trekking",
+    "Deportes / Aventura - Ciclismo",
+    "Deportes / Aventura - Camping",
+    "Cultura y Folclore - Ferias",
+    "Paseos - Paseos a caballo",
+    "Deportes / Aventura - Cabalgatas",
+    "Cultura y Folclore - Visita y participación en actividades de vida cotidiana de la comunidad",
+    "Cultura y Folclore - Apreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Compras de artesanía/souvenir",
+      "observacion": "En los pueblos del valle del Colca.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/artesania02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "En los pueblos del valle del Colca.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Actividades Religiosas o Patronales",
+      "observacion": "En los pueblos del valle del Colca.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/act_religiosas02.png"
+    },
+    {
+      "actividad": "Paseos",
+      "tipo": "Excursiones",
+      "observacion": "En los pueblos del valle del Colca.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/excursiones02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "En los pueblos del valle del Colca.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Deportes acuáticos",
+      "tipo": "Canotaje / Rafting",
+      "observacion": "En el río Colca.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/canotaje02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de fauna",
+      "observacion": "Animales como: la llama, guanaco, alpaca y la vicuña.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fauna02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "Variedades de quinua, maíz, ollucos, papas, habas, el queñual, el ichu, el césped, el bofedal, cáctaceas columnares, la yareta, el tolar, el rodal de la puya raymondi.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "En los pueblos del valle del Colca.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de aves",
+      "observacion": "El cóndor andino, el halcón peregrino y la perdiz serrana.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/aves02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Rituales místicos o tradicionales",
+      "observacion": "En los pueblos del valle del Colca.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/rituales_misticos02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "En los pueblos del valle del Colca.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Ciclismo",
+      "observacion": "En los pueblos del valle del Colca.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/ciclismo02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Camping",
+      "observacion": "En los pueblos del valle del Colca.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/camping02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Ferias",
+      "observacion": "Eventuales en Chivay.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/feria02.png"
+    },
+    {
+      "actividad": "Paseos",
+      "tipo": "Paseos a caballo",
+      "observacion": "En los pueblos del valle del Colca.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paseo_caballo02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Cabalgatas",
+      "observacion": "En los pueblos del valle del Colca.",
+      "icono_url": null
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Visita y participación en actividades de vida cotidiana de la comunidad",
+      "observacion": "En los pueblos del valle del Colca, turismo comunitario.",
+      "icono_url": null
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Apreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)",
+      "observacion": "En los pueblos del valle del Colca.",
+      "icono_url": null
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Arequipa/Arequipa/Arequipa - Arequipa/Caylloma/Chivay",
+      "detalle": "Centro de Arequipa a Chivay (Capital del distrito y centro de soporte).",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mini bus turístico",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "151 Km/3 horas aprox."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Arequipa/Arequipa/Jacobo Hunter - Arequipa/Caylloma/Chivay",
+      "detalle": "Terminal terrestre de Arequipa - Chivay.",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "151 Km / 3.30 horas aprox."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Arequipa/Arequipa/Arequipa - Arequipa/Caylloma/Chivay",
+      "detalle": "Centro de Arequipa - Chivay.",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus turístico",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "151 km /3 horas aprox."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Arequipa/Arequipa/Arequipa - Arequipa/Caylloma/Chivay",
+      "detalle": "Centro de Arequipa - Chivay.",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "151 km/ 3 horas aprox."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Arequipa/Caylloma/Chivay - Arequipa/Caylloma/Yanque",
+      "detalle": "Chivay - Yanque.",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Combi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "8 km/ 10 minutos aprox."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Arequipa/Caylloma/Chivay - Arequipa/Caylloma/Achoma",
+      "detalle": "Chivay - Achoma.",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Combi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "14 km/30 minutos aprox."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Arequipa/Caylloma/Chivay - Arequipa/Caylloma/Cabanaconde",
+      "detalle": "Chivay - Cabanaconde.",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "56 km/2 horas aprox."
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Arequipa/Arequipa/Jacobo Hunter - Arequipa/Caylloma/Sibayo",
+      "detalle": "Terminal terrestre de Arequipa - Sibayo.",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "190 Km / 4.30 horas aprox."
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Arequipa/Caylloma/Sibayo - Arequipa/Caylloma/Chivay",
+      "detalle": "Sibayo - Chivay.",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Otros (especificar)",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "36 km/ 50 minutos aprox."
+    },
+    {
+      "recorrido": "3",
+      "tramo": "Arequipa/Arequipa/Jacobo Hunter - Arequipa/Caylloma/Majes",
+      "detalle": "Arequipa-Pedregal",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "101 km/ 2 horas aprox."
+    },
+    {
+      "recorrido": "3",
+      "tramo": "Arequipa/Caylloma/Majes - Arequipa/Caylloma/Huambo",
+      "detalle": "Pedregal - Huambo.",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Camioneta doble tracción",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "120 km/ 4 horas aprox."
+    },
+    {
+      "recorrido": "3",
+      "tramo": "Arequipa/Caylloma/Majes - Arequipa/Caylloma/Huambo",
+      "detalle": "Pedregal - Huambo.",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus público",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "120 km/ 5 horas aprox."
+    },
+    {
+      "recorrido": "3",
+      "tramo": "Arequipa/Caylloma/Huambo - Arequipa/Caylloma/Cabanaconde",
+      "detalle": "Huambo - Cabanaconde.",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "45 km/55 minutos aprox."
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "173214",
+      "horario": "AUTOCOLCA",
+      "observaciones": "2019"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "102409",
+      "horario": "AUTOCOLCA",
+      "observaciones": "2019"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "06:00 a.m. - 05:00 p.m. De 7:00 am. a 12:00 m para presenciar el vuelo de los cóndores en el mirador cruz del cóndor, luego durante el día puede disfrutar de los demás atractivos turísticos del valle del Colca.",
+      "observaciones": "De 7:00 am. a 12:00 m para presenciar el vuelo de los cóndores en el mirador cruz del cóndor, luego durante el día puede disfrutar de los demás atractivos turísticos del valle del Colca."
+    },
+    {
+      "epoca": "Personas con discapacidad física",
+      "especificacion": "Rampa en mirador cruz del cóndor",
+      "horario": "--",
+      "observaciones": "--"
+    },
+    {
+      "epoca": "Niños",
+      "especificacion": "--",
+      "horario": "Niños estudiantes: Tarifa de boleto turístico S/5.00",
+      "observaciones": "--"
+    },
+    {
+      "epoca": "Jóvenes",
+      "especificacion": "--",
+      "horario": "Jovenes estudiantes: Tarifa de boleto turístico S/5.00",
+      "observaciones": "--"
+    },
+    {
+      "epoca": "Adulto mayor",
+      "especificacion": "--",
+      "horario": "Tarifa de Boleto turístico S/5.00",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "- Extranjeros S/.70.00 - Sudamericano S/. 40.00 - Nacionales S/. 20.00 - Estudiantes S/. 5.00 - Adulto Mayor S/. 5.00"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Albergues",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Peñas",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de interpretación",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de Campamento(camping)",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "En la ciudad de Arequipa y en los distritos de Chivay: de 4,3 y 2 estrellas. Yanque: de 3 estrellas. Coporaque: de 3 estrellas."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Albergues",
+      "observacion": "En la ciudad de Arequipa y en los distritos de Yanque y Coporaque."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "En la ciudad de Arequipa y en Chivay capital de la provincia de Caylloma ; en la margen derecha del valle en los distritos de: Coporaque, Ichupampa, Lari, Madrigal y Tapay."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Casas hospedajes y casas vivenciales."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "En la ciudad de Arequipa, en el distrito de Chivay y en los otros distritos que conforman los pueblos tradicionales del valle del Colca."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "En la ciudad de Arequipa y en los distritos de los pueblos tradicionales del valle del Colca."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "En la ciudad de Arequipa y en el distrito de Chivay y Cabanaconde."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "En la ciudad de Arequipa y en el distrito de Chivay."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "En la ciudad de Arequipa, Chivay y los distritos de los pueblos tradicionales del valle del Colca."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "En la ciudad de Arequipa y Chivay."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "En la Ciudad de Arequipa y Chivay."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "En la ciudad de Arequipa y en el distrito de Chivay y los puestos de venta de artesanía ubicados en los miradores turísticos de los pueblos tradicionales del valle del Colca."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de camionetas 4 x 4",
+      "observacion": "En la ciudad de Arequipa."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "En la ciudad de Arequipa y en el distrito de Chivay."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Peñas",
+      "observacion": "En la ciudad de Arequipa y en el distrito de Chivay."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "En la ciudad de Arequipa y en los distritos de Chivay y Cabanaconde"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Boletería",
+      "observacion": "Los Boletos turísticos son vendidos en la Ciudad de Arequipa en Urb. La negrita calle república de Chile 228, en Chivay oficina de Autocolca en la Plaza de Armas y en el anexo de Pinchollo."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "En los distritos de los pueblos tradicionales del Valle del Colca."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Centros de interpretación",
+      "observacion": "En el distrito de Chivay y en el Anexo de Pinchollo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "En la ciudad de Arequipa iPerú, En Chivay, Cabanaconde y Anexo de Pinchollo los centros de información y orientación turística de Autocolca."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Puesto de auxilio rápido",
+      "observacion": "En Cabanaconde y Tapay existen puestos de auxilio rápido para los turistas que realizan treking dentro del cañón."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Museo de Sitio Turísticos",
+      "observacion": "Museo de la Universidad Santa María en el distrito de Yanque, y el Museo Juanita en el distrito de Cabanaconde."
+    }
+  ],
+  "descripcion": "Se encuentra dentro de la «Zona Volcánica de los Andes Centrales» (ZVAC), es un valle cisandino en sus más de 100 km., de largo y con una extensión de 11 000 km2, su formación data de 450 millones de años y se observa estratos de esta formación, posee un variado conjunto de territorios volcánicos, volcán- nevados, lagunas, fallas geológicas, geiser, aguas termales, paisajes geomorfológicos, etc.\nSe ubica al norte-noroeste de la ciudad de Arequipa entre los 1200 m s.n.m. (Andamayo) y más de 5200 metros de altitud (Ampato). Políticamente, pertenece a la provincia Caylloma cuya capital es la ciudad de Chivay, 13 distritos se encuentran comprendidos, los distritos de Tisco y Huambo forman parte del área de amortiguamiento.\nEs un valle encañonado, por donde discurre el río Colca, con una disposición irregular de dirección promedio este-oeste, configurada por tres sistemas montañosos referenciales: la cordillera de Hualca Hualca, Ampato y Sabancaya todos sobre los 6000 m.sn.m., la cordillera del Huaracante sobre los 5,400 m.s.n.m., y la cordillera del Chila con el Mismi sobre los 5, 000 m.s.n.m. origen más remoto del río Amazonas.\nSe distinguen tres zonas diferenciadas tanto por su paisaje como por su producción. La primera es la conocida como: parte alta y comprende los distritos de Callalli, Sibayo, Tuti y Canacota, la principal actividad económica es la ganadería (vacunos, ovinos y especialmente camélidos sudamericanos). La parte media del valle es la que comprende los distritos de Chivay, Yanque, Achoma, Maca y Cabanaconde, en la marguen izquierda y Coporaque, Ichupampa, Lari y Madrigal en la margen derecha.\nEn todo el valle se aprecia construcciones de la época prehispánica: construcción de maquetas, recintos de viviendas o ciudadelas, apachetas, sitios de adoración, caminos, andenes, chullpas y graneros y otros.\nEl valle del Colca, extendido desde Sibayo y Callalli al este, hasta más al oeste de Huambo y Cabanaconde, se caracteriza por el sinnúmero de andenes, edificados en su mayor parte por los Collaguas y Cabanas, que transforman el paisaje natural de laderas inclinadas en un mosaico de escalinatas gigantescas se los encuentra desde los 3000 hasta los 4000 m.s.n.m., utilizadas para el cultivo actual de plantas alimenticias nativas como: la papa, el maíz y la quinua, especies introducidas como: el trigo, la cebada, la alfalfa, y una serie de especies frutales y agrícolas de pan llevar, la producción ya no es sólo para el autoconsumo sino también para su comercialización.\nAdemás, de la trama urbana tradicional típica en los pueblos de la sierra, sobresalen en su arquitectura urbana las iglesias coloniales, sin desmerecer las características de: vestimenta, danzas y comidas. A lo largo del Colca se encuentran las iglesias cuya construcción se remonta desde mediados de los siglos XVI al XVIII, en su totalidad construidas en sillar; una excelente fusión entre el arte europeo y el barroco mestizo.\nLa diversidad de pisos altitudinales, el relieve y la exposición de otros factores determinan la presencia de una gran variedad de biodiversidad, en el valle podemos encontrar diferentes especies de fauna entre las especies destacan: el cóndor andino, el cernícalo, el halcón peregrino, la perdiz serrana y la parihuana; encontrándose también: la llama, el guanaco, la alpaca, la vicuña, la taracuca, el zorro, la vizcacha entre otros y la flora del valle es diversa con más de casi 300 especies de las cuales algunas son usados como medicinales, otros como combustible, tintoreras y otros como pasto nutritivo para el ganado doméstico y los animales silvestres; entre la flora encontramos: el queñual, el ichu, cáctaceas columnares, la yareta, el tolar, el rodal de la puya raymondi y otros.\nEl valle del Colca ha colocado a Arequipa en los últimos años en un importante destino turístico, por su riqueza patrimonial desde el punto de vista geológico y cultural (arqueológico e inmaterial).",
+  "particularidades": "Forma parte del: Geoparque Colca y volcanes de Andagua, declarado por la Organización de la Naciones Unidas para la Educación, Ciencia y Cultura (UNESCO), considerado como el primer GeoParque del Perú y tercero de Sudamérica conformante de la Red Internacional de GeoParque Mundiales.",
+  "estado_actual": "Bueno, porque la UNESCO asegura de que todos los encargados lleven adelante el desarrollo integral de todo el Geoparque, sobre todo la conservación. La Autoridad Autónoma de Colca - AUTOCOLCA en concertación con el Gobierno Regional, MINCETUR, Gerencia Regional de Comercio Exterior y Turismo, municipalidades provinciales y distritales, brindan la conservación y mantenimiento de este importante recurso.",
+  "observaciones": "Con Acuerdo Regional N°046-2015-GRA/CR-AREQUIPA, se declara de necesidad pública e interés turístico regional “El Cañón del Colca y Valle de los Volcanes de Andagua”.\nEl Gobierno Regional de Arequipa viene gestionando la creación del Comité de Gestión del GeoParque, el mismo que estaría conformado por entidades públicas y privadas vinculadas con el tema a fin de impulsar el desarrollo y promoción de este GeoParque. Como Geoparque tiene un periodo de designación de: 19 de abril 2019 a 16 de abril 2023.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Se encuentra dentro de la «Zona Volcánica de los Andes Centrales» (ZVAC), es un valle cisandino en sus más de 100 km., de largo y con una extensión de 11 000 km2, su formación data de 450 millones de años y se observa estratos de esta formación, posee un variado conjunto de territorios volcánicos, volcán- nevados, lagunas, fallas geológicas, geiser, aguas termales, paisajes geomorfológicos, etc.\nSe ubica al norte-noroeste de la ciudad de Arequipa entre los 1200 m s.n.m. (Andamayo) y más de 5200 metros de altitud (Ampato). Políticamente, pertenece a la provincia Caylloma cuya capital es la ciudad de Chivay, 13 distritos se encuentran comprendidos, los distritos de Tisco y Huambo forman parte del área de amortiguamiento.\nEs un valle encañonado, por donde discurre el río Colca, con una disposición irregular de dirección promedio este-oeste, configurada por tres sistemas montañosos referenciales: la cordillera de Hualca Hualca, Ampato y Sabancaya todos sobre los 6000 m.sn.m., la cordillera del Huaracante sobre los 5,400 m.s.n.m., y la cordillera del Chila con el Mismi sobre los 5, 000 m.s.n.m. origen más remoto del río Amazonas.\nSe distinguen tres zonas diferenciadas tanto por su paisaje como por su producción. La primera es la conocida como: parte alta y comprende los distritos de Callalli, Sibayo, Tuti y Canacota, la principal actividad económica es la ganadería (vacunos, ovinos y especialmente camélidos sudamericanos). La parte media del valle es la que comprende los distritos de Chivay, Yanque, Achoma, Maca y Cabanaconde, en la marguen izquierda y Coporaque, Ichupampa, Lari y Madrigal en la margen derecha.\nEn todo el valle se aprecia construcciones de la época prehispánica: construcción de maquetas, recintos de viviendas o ciudadelas, apachetas, sitios de adoración, caminos, andenes, chullpas y graneros y otros.\nEl valle del Colca, extendido desde Sibayo y Callalli al este, hasta más al oeste de Huambo y Cabanaconde, se caracteriza por el sinnúmero de andenes, edificados en su mayor parte por los Collaguas y Cabanas, que transforman el paisaje natural de laderas inclinadas en un mosaico de escalinatas gigantescas se los encuentra desde los 3000 hasta los 4000 m.s.n.m., utilizadas para el cultivo actual de plantas alimenticias nativas como: la papa, el maíz y la quinua, especies introducidas como: el trigo, la cebada, la alfalfa, y una serie de especies frutales y agrícolas de pan llevar, la producción ya no es sólo para el autoconsumo sino también para su comercialización.\nAdemás, de la trama urbana tradicional típica en los pueblos de la sierra, sobresalen en su arquitectura urbana las iglesias coloniales, sin desmerecer las características de: vestimenta, danzas y comidas. A lo largo del Colca se encuentran las iglesias cuya construcción se remonta desde mediados de los siglos XVI al XVIII, en su totalidad construidas en sillar; una excelente fusión entre el arte europeo y el barroco mestizo.\nLa diversidad de pisos altitudinales, el relieve y la exposición de otros factores determinan la presencia de una gran variedad de biodiversidad, en el valle podemos encontrar diferentes especies de fauna entre las especies destacan: el cóndor andino, el cernícalo, el halcón peregrino, la perdiz serrana y la parihuana; encontrándose también: la llama, el guanaco, la alpaca, la vicuña, la taracuca, el zorro, la vizcacha entre otros y la flora del valle es diversa con más de casi 300 especies de las cuales algunas son usados como medicinales, otros como combustible, tintoreras y otros como pasto nutritivo para el ganado doméstico y los animales silvestres; entre la flora encontramos: el queñual, el ichu, cáctaceas columnares, la yareta, el tolar, el rodal de la puya raymondi y otros.\nEl valle del Colca ha colocado a Arequipa en los últimos años en un importante destino turístico, por su riqueza patrimonial desde el punto de vista geológico y cultural (arqueológico e inmaterial)."
+    },
+    {
+      "titulo": "Particularidades",
+      "contenido": "Forma parte del: Geoparque Colca y volcanes de Andagua, declarado por la Organización de la Naciones Unidas para la Educación, Ciencia y Cultura (UNESCO), considerado como el primer GeoParque del Perú y tercero de Sudamérica conformante de la Red Internacional de GeoParque Mundiales."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "El valle del Colca, representa un: “Libro abierto de evolución geológica”. Presenta manifestaciones culturales como las andenerías, templos e iglesias consideradas Patrimonio Cultural RM 0928-1980 ED y R.M. No. 329-1986-ED (16 Iglesias), los bordados del Colca como Patrimonio Cultural con Resolución 128-2018-VMPCIC-MC y la inclusión de la danza del Wititi en la lista del patrimonio cultural inmaterial de la humanidad UNESCO, 2015."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, porque la UNESCO asegura de que todos los encargados lleven adelante el desarrollo integral de todo el Geoparque, sobre todo la conservación. La Autoridad Autónoma de Colca - AUTOCOLCA en concertación con el Gobierno Regional, MINCETUR, Gerencia Regional de Comercio Exterior y Turismo, municipalidades provinciales y distritales, brindan la conservación y mantenimiento de este importante recurso."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "Con Acuerdo Regional N°046-2015-GRA/CR-AREQUIPA, se declara de necesidad pública e interés turístico regional “El Cañón del Colca y Valle de los Volcanes de Andagua”.\nEl Gobierno Regional de Arequipa viene gestionando la creación del Comité de Gestión del GeoParque, el mismo que estaría conformado por entidades públicas y privadas vinculadas con el tema a fin de impulsar el desarrollo y promoción de este GeoParque. Como Geoparque tiene un periodo de designación de: 19 de abril 2019 a 16 de abril 2023."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n173214\nAUTOCOLCA\n2019\nElaboración: MINCETUR/VMT/DGIETA-DIAITA\nTuristas Nacionales\n102409\nAUTOCOLCA\n2019\nElaboracion: MINCETUR/VMT/DGIETA-DIAITA"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nArequipa/Arequipa/Arequipa\n-\nArequipa/Caylloma/Chivay\nCentro de Arequipa a Chivay (Capital del distrito y centro de soporte).\nTerrestre\nMini bus turístico\nAsfaltado\n151 Km/3 horas aprox.\n1\nArequipa/Arequipa/Jacobo Hunter\n-\nArequipa/Caylloma/Chivay\nTerminal terrestre de Arequipa - Chivay.\nTerrestre\nBus público\nAsfaltado\n151 Km / 3.30 horas aprox.\n1\nArequipa/Arequipa/Arequipa\n-\nArequipa/Caylloma/Chivay\nCentro de Arequipa - Chivay.\nTerrestre\nBus turístico\nAsfaltado\n151 km /3 horas aprox.\n1\nArequipa/Arequipa/Arequipa\n-\nArequipa/Caylloma/Chivay\nCentro de Arequipa - Chivay.\nTerrestre\nAutomóvil particular\nAsfaltado\n151 km/ 3 horas aprox.\n1\nArequipa/Caylloma/Chivay\n-\nArequipa/Caylloma/Yanque\nChivay - Yanque.\nTerrestre\nCombi\nAsfaltado\n8 km/ 10 minutos aprox.\n1\nArequipa/Caylloma/Chivay\n-\nArequipa/Caylloma/Achoma\nChivay - Achoma.\nTerrestre\nCombi\nAsfaltado\n14 km/30 minutos aprox.\n1\nArequipa/Caylloma/Chivay\n-\nArequipa/Caylloma/Cabanaconde\nChivay - Cabanaconde.\nTerrestre\nBus público\nAsfaltado\n56 km/2 horas aprox.\n2\nArequipa/Arequipa/Jacobo Hunter\n-\nArequipa/Caylloma/Sibayo\nTerminal terrestre de Arequipa - Sibayo.\nTerrestre\nBus público\nAsfaltado\n190 Km / 4.30 horas aprox.\n2\nArequipa/Caylloma/Sibayo\n-\nArequipa/Caylloma/Chivay\nSibayo - Chivay.\nTerrestre\nOtros (especificar)\nAsfaltado\n36 km/ 50 minutos aprox.\n3\nArequipa/Arequipa/Jacobo Hunter\n-\nArequipa/Caylloma/Majes\nArequipa-Pedregal\nTerrestre\nBus público\nAsfaltado\n101 km/ 2 horas aprox.\n3\nArequipa/Caylloma/Majes\n-\nArequipa/Caylloma/Huambo\nPedregal - Huambo.\nTerrestre\nCamioneta doble tracción\nTrocha carrozable\n120 km/ 4 horas aprox.\n3\nArequipa/Caylloma/Majes\n-\nArequipa/Caylloma/Huambo\nPedregal - Huambo.\nTerrestre\nBus público\nTrocha carrozable\n120 km/ 5 horas aprox.\n3\nArequipa/Caylloma/Huambo\n-\nArequipa/Caylloma/Cabanaconde\nHuambo - Cabanaconde.\nTerrestre\nAutomóvil particular\nAsfaltado\n45 km/55 minutos aprox."
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\n- Extranjeros S/.70.00\n- Sudamericano S/. 40.00\n- Nacionales S/. 20.00\n- Estudiantes S/. 5.00\n- Adulto Mayor S/. 5.00"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n06:00 a.m.\n-\n05:00 p.m.\nDe 7:00 am. a 12:00 m para presenciar el vuelo de los cóndores en el mirador cruz del cóndor, luego durante el día puede disfrutar de los demás atractivos turísticos del valle del Colca."
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nCompras de artesanía/souvenir\nEn los pueblos del valle del Colca.\nOtros\nToma de fotografías y filmaciones\nEn los pueblos del valle del Colca.\nCultura y Folclore\nActividades Religiosas o Patronales\nEn los pueblos del valle del Colca.\nPaseos\nExcursiones\nEn los pueblos del valle del Colca.\nOtros\nEstudios e Investigación\nEn los pueblos del valle del Colca.\nDeportes acuáticos\nCanotaje / Rafting\nEn el río Colca.\nNaturaleza\nObservación de fauna\nAnimales como: la llama, guanaco, alpaca y la vicuña.\nNaturaleza\nObservación de flora\nVariedades de quinua, maíz, ollucos, papas, habas, el queñual, el ichu, el césped, el bofedal, cáctaceas columnares, la yareta, el tolar, el rodal de la puya raymondi.\nNaturaleza\nObservación de paisaje\nEn los pueblos del valle del Colca.\nNaturaleza\nObservación de aves\nEl cóndor andino, el halcón peregrino y la perdiz serrana.\nCultura y Folclore\nRituales místicos o tradicionales\nEn los pueblos del valle del Colca.\nDeportes / Aventura\nCaminata/Trekking\nEn los pueblos del valle del Colca.\nDeportes / Aventura\nCiclismo\nEn los pueblos del valle del Colca.\nDeportes / Aventura\nCamping\nEn los pueblos del valle del Colca.\nCultura y Folclore\nFerias\nEventuales en Chivay.\nPaseos\nPaseos a caballo\nEn los pueblos del valle del Colca.\nDeportes / Aventura\nCabalgatas\nEn los pueblos del valle del Colca.\nCultura y Folclore\nVisita y participación en actividades de vida cotidiana de la comunidad\nEn los pueblos del valle del Colca, turismo comunitario.\nCultura y Folclore\nApreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)\nEn los pueblos del valle del Colca."
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nAlojamiento\nHoteles (especificar categorías)\n--\nInstalaciones Privadas\nAlojamiento\nHostales (especificar categorías)\n--\nInstalaciones Privadas\nAlojamiento\nAlbergues\n--\nInstalaciones Privadas\nAlimentación\nRestaurantes\n--\nInstalaciones Privadas\nAlimentación\nKioskos de comida y bebidas\n--\nInstalaciones Privadas\nAlimentación\nBares\n--\nInstalaciones Privadas\nAlimentación\nCafeterías\n--\nInstalaciones Privadas\nAlimentación\nVenta de comida Rápida\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nVenta de artesanía\n--\nInstalaciones Privadas\nLugares de Recreación\nDiscotecas\n--\nInstalaciones Privadas\nLugares de Recreación\nPeñas\n--\nInstalaciones Privadas\nLugares de Recreación\nBares\n--\nInstalaciones Públicas\nServicios Públicos\nMiradores turísticos\n--\nInstalaciones Públicas\nServicios Públicos\nSeñales turísticas de orientación\n--\nInstalaciones Públicas\nServicios Públicos\nSeñales turísticas de interpretación\n--\nInstalaciones Públicas\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\n--\nInstalaciones Públicas\nServicios Públicos\nZonas de Campamento(camping)\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\nEn la ciudad de Arequipa y en los distritos de Chivay: de 4,3 y 2 estrellas.\nYanque: de 3 estrellas.\nCoporaque: de 3 estrellas.\nAlojamiento\nAlbergues\nEn la ciudad de Arequipa y en los distritos de Yanque y Coporaque.\nAlojamiento\nHostales (especificar categorías)\nEn la ciudad de Arequipa y en Chivay capital de la provincia de Caylloma ; en la margen derecha del valle en los distritos de: Coporaque, Ichupampa, Lari, Madrigal y Tapay.\nAlojamiento\nOtros (Especificar)\nCasas hospedajes y casas vivenciales.\nAlimentación\nRestaurantes\nEn la ciudad de Arequipa, en el distrito de Chivay y en los otros distritos que conforman los pueblos tradicionales del valle del Colca.\nAlimentación\nKioskos de comida y bebidas\nEn la ciudad de Arequipa y en los distritos de los pueblos tradicionales del valle del Colca.\nAlimentación\nBares\nEn la ciudad de Arequipa y en el distrito de Chivay y Cabanaconde.\nAlimentación\nCafeterías\nEn la ciudad de Arequipa y en el distrito de Chivay.\nAlimentación\nVenta de comida Rápida\nEn la ciudad de Arequipa, Chivay y los distritos de los pueblos tradicionales del valle del Colca.\nOtros Servicios Turísticos\nAgencia de Viajes\nEn la ciudad de Arequipa y Chivay.\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nEn la Ciudad de Arequipa y Chivay.\nOtros Servicios Turísticos\nVenta de artesanía\nEn la ciudad de Arequipa y en el distrito de Chivay y los puestos de venta de artesanía ubicados en los miradores turísticos de los pueblos tradicionales del valle del Colca.\nOtros Servicios Turísticos\nAlquiler de camionetas 4 x 4\nEn la ciudad de Arequipa.\nLugares de Recreación\nDiscotecas\nEn la ciudad de Arequipa y en el distrito de Chivay.\nLugares de Recreación\nPeñas\nEn la ciudad de Arequipa y en el distrito de Chivay.\nLugares de Recreación\nBares\nEn la ciudad de Arequipa y en los distritos de Chivay y Cabanaconde\nServicios Públicos\nBoletería\nLos Boletos turísticos son vendidos en la Ciudad de Arequipa en Urb. La negrita calle república de Chile 228, en Chivay oficina de Autocolca en la Plaza de Armas y en el anexo de Pinchollo.\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\nEn los distritos de los pueblos tradicionales del Valle del Colca.\nServicios Públicos\nCentros de interpretación\nEn el distrito de Chivay y en el Anexo de Pinchollo\nServicios Públicos\nOficina de Información turística\nEn la ciudad de Arequipa iPerú, En Chivay, Cabanaconde y Anexo de Pinchollo los centros de información y orientación turística de Autocolca.\nServicios Públicos\nPuesto de auxilio rápido\nEn Cabanaconde y Tapay existen puestos de auxilio rápido para los turistas que realizan treking dentro del cañón.\nServicios Públicos\nMuseo de Sitio Turísticos\nMuseo de la Universidad Santa María en el distrito de Yanque, y el Museo Juanita en el distrito de Cabanaconde."
+    },
+    {
+      "titulo": "Servicios Complementarios dentro del recurso",
+      "contenido": "Servicio Complementario\nObservación\nServicios de internet\nEn el distrito de Chivay.\nBancos\nDistrito de Chivay (Banco de la Nación, Caja Arequipa y Caja Piura).\nCajero automático\nChivay – Cajero de Red global.\nEstación de servicios, grifos, gasolineras y gasocentros\nChivay (Petro Perú y Primax).\nServicios de taxis\nEn Chivay.\nCentro de salud - tópico\nChivay y en los distritos de los pueblos tradicionales que conforman el valle del Colca.\nVenta de materiales para fotografías\nEn Chivay.\nSeguridad / POLTUR / Comisaría\nChivay y en los distritos de los pueblos tradicionales que conforman el valle del Colca.\nLibrerías\nChivay.\nBodegas o minimarkets\nChivay y en los distritos de los pueblos tradicionales que conforman el Valle del Colca."
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nEn la ciudad de Arequipa y en el distrito de Chivay\nBancos\nEn la ciudad de Arequipa y en el distrito de Chivay (Banco de la Nación, Caja Arequipa y Caja Piura)\nCajero automático\nEn la ciudad de Arequipa y en Chivay – Cajero de Red global\nEstación de servicios, grifos, gasolineras y gasocentros\nEn la ciudad de Arequipa y en Chivay (Petro Perú y Primax)\nServicios de taxis\nEn la ciudad de Arequipa y en el distrito de chivay\nCentro de salud - tópico\nEn la ciudad de Arequipa y en el distrito de Chivay y en los distritos de los pueblos tradicionales que conforman el Valle del Colca.\nVenta de materiales para fotografías\nEn la ciudad de Arequipa y en el distrito de Chivay\nSeguridad / POLTUR / Comisaría\nEn la ciudad de Arequipa y en el distrito de Chivay y en los distritos de los pueblos tradicionales que conforman el Valle del Colca.\nLibrerías\nEn la ciudad de Arequipa y en Chivay\nBodegas o minimarkets\nEn la ciudad de Arequipa y se encuentran pequeñas bodegas en el distrito de Chivay y en los distritos de los pueblos tradicionales que conforman el Valle del Colca."
+    },
+    {
+      "titulo": "Condiciones de Accesibilidad al Visitante",
+      "contenido": "Visitante\nInstalación\nActividades y/o programas\nEquipamiento\nObservación\nPersonas con discapacidad física\nRampa en mirador cruz del cóndor\n--\n--\n--\nNiños\n--\nNiños estudiantes: Tarifa de boleto turístico S/5.00\n--\n--\nJóvenes\n--\nJovenes estudiantes: Tarifa de boleto turístico S/5.00\n--\n--\nAdulto mayor\n--\nTarifa de Boleto turístico S/5.00\n--\n--"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nSeñalización turística\n--\nAgua potable\n--\nLuz (Suministro Eléctrico)\n--\nTeléfono\n--\nAlternativo de Residuos (Biodigestor, pozo séptico, otros)\n--\nAlcantarillado sanitario\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nEn la ciudad de Arequipa y en Chivay y en los distritos de los pueblos tradicionales que conforman el Valle del Colca.\nLuz (Suministro Eléctrico)\nEn la ciudad de Arequipa y en Chivay y en los distritos de los pueblos tradicionales que conforman el Valle del Colca.\nTeléfono\nEn la ciudad de Arequipa y en Chivay y en los distritos de los pueblos tradicionales que conforman el Valle del Colca.\nSeñalización turística\nEn Chivay y en los distritos de los pueblos tradicionales que conforman el Valle del Colca\nAlcantarillado sanitario\nEn la ciudad de Arequipa y en Chivay y en los distritos de los pueblos tradicionales que conforman el Valle del Colca.\nAlternativo de Residuos (Biodigestor, pozo séptico, otros)\nEn la ciudad de Arequipa y el distrito de Chivay cuenta con relleno sanitario para la disposición final de los residuos sólidos"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nEstado Peruano.\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nPor Ley N°24521, es jurisdicción y competencia de AUTOCOLCA el desarrollo turístico del valle del Colca.\nAdministrador por\nNombre\nAutoridad Autónoma del Colca y Anexos - AUTOCOLCA.\nTiempo de administración\nAUTOCOLCA, creada por la Ley N° 24521 de fecha 10 de mayo 1986, 34 años de administración."
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nGERCETUR-AREQUIPA\nNombre (Persona(s) responsable(s) del inventario turístico):\nEdgar Flores Hinojosa.\nCargo:\nEspecialista en evaluación turística II.\nCorreo:\nedgarflores19@hotmail.com\nTeléfono:\n(054) 274557\nFuentes Bibliográfica:\nDante Ojeda: COLCA VALLEY, editorial: UCSM-2018./Mauricio de Romaña y otros: DESCUBRIENDO EL VALLE DEL COLCA-DISCOVERING THE COLCA VALLEY, editor: El Viso (1987) Idioma: español-inglés./ Noble D. Cook y Alexandra P. Cook: Los hijos del volcán:dualidad andina en el Valle del Colca. Editorial(es): Ediciones El Lector-2011/Mauricio de Romaña y otros: Descubriendo el Valle del Colca. Editorial: Barcelona 1987/EL VUELO DEL CONDOR, Publisher: CreateSpace Independent Publishing Platform (July 6, 2016)./Job Francisco Rosales: Revista Ñan Perú Año 1 N°1 Colca, descubriendo el paraíso. /Pedro Allasi video: “Aves del Colca, la biodiversidad en el cañón más profundo“, actualizado el 26/12/2018./Baldárrago, E. (2007).Turismo y desarrollo económico local: El caso del cañón del Colca en la Provincia de Caylloma CIES-UNSA./INGEMMET: Geodiversidad y patrimonio geológico en el valle del Colca, Lima 2019./James Posso y otros: Colca, paraíso profundo. Asociación civil Ñan Perú y MPC 2012, español-inglés.\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\nEn mayo del 2018 MINCETUR inauguro la obra de: Mejoramiento de los servicios turísticos públicos de la ruta turística del Valle del Colca en el casco urbano de la localidad de Chivay.\nFecha:\n23/02/2024 15:43:53"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -15.645101325359954,
+    "longitud": -71.60466137301637
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-15.645101325359954,-71.60466137301637"
+}

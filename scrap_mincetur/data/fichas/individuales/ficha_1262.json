@@ -1,0 +1,362 @@
+{
+  "cod_ficha": 1262,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=1262",
+  "nombre": "Pueblo De Puquio",
+  "departamento": "Ayacucho",
+  "provincia": "Lucanas",
+  "distrito": "PUQUIO",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Pueblos",
+  "subtipo": "Tradicionales",
+  "jerarquia": "1",
+  "altitud": "3214",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=502711",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=502711",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=502712",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=502713",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=505537",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=505538",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=506422",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=506376",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=506423",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=506424"
+  ],
+  "actividades_permitidas": [
+    "Cultura y Folclore - Actividades Religiosas o Patronales",
+    "Naturaleza - Observación de paisaje",
+    "Deportes / Aventura - Ciclismo",
+    "Cultura y Folclore - Ferias",
+    "Cultura y Folclore - Apreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Actividades Religiosas o Patronales",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/act_religiosas02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Ciclismo",
+      "observacion": "Paseos en bicicleta: Puquio-San Andrés/San Andrés-Puquio; Puquio-Pachaya/Pachaya-Puquio",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/ciclismo02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Ferias",
+      "observacion": "Artesanales y gastronómicas",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/feria02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Apreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)",
+      "observacion": "Presentaciones artísticas en la plaza de armas, concursos de canto Ayacuchano",
+      "icono_url": null
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Ica/Nasca/Nasca - Ayacucho/Lucanas/Puquio",
+      "detalle": "Del terminal Cruce de Nazca a Puquio",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Combi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "154 Km/ 3 hrs."
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Ayacucho/Huamanga/Ayacucho - Ayacucho/Lucanas/Puquio",
+      "detalle": "Del terminal Maldonado de Ayacucho a Puquio (Vía Huanca Sancos)",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Camioneta doble tracción",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "385 Km./8 hrs."
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "4050",
+      "horario": "Conteo muestral del mes de octubre",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "32940",
+      "horario": "Conteo muestral del mes de octubre",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "1980",
+      "horario": "Conteo muestral del mes de octubre",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "06:00 a.m. - 08:00 p.m. --",
+      "observaciones": "--"
+    },
+    {
+      "epoca": "Personas con discapacidad física",
+      "especificacion": "Veredas con rampas de acceso para personas con discapacidad física",
+      "horario": "--",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Casa de Hospedaje",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Bancos - Cajeros",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Seguridad / POLTUR",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Internet",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "En la Municipalidad Provincial de Lucanas Puquio"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Peñas",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "2 estrellas"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Comedores Populares"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "En el pueblo de Lucanas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "En el pueblo de Lucanas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "En el pueblo de Lucanas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Municipalidad distrital de Lucanas."
+    }
+  ],
+  "descripcion": "Ubicada a 3214 m.s.n.m. En su entorno alrededores se aprecia abundantes yacimientos de agua cristalina que brotan de forma constante de la tierra, de ahí se otorga el nombre Puquio, del término quechua \"Pukio\" - Puquiales, que significa manantial u ojo de agua.\nIntegrada por cuatro barrios (Ccayao, Ccollana, Chaupi y Pichccachuri), con población aproximada de 17 mil habitantes, es una ciudad con identidad, costumbres y tradiciones propias que prevalecen desde décadas memorables, esto se evidencia en muchas de sus expresiones culturales (festividades costumbristas como la fiesta de “Sequia Tusuy”, los mitos y leyendas como el “Misitu”, Apu Huamani, Pedro Orcco, etc., conocimientos y técnicas milenarias como misas y rituales a los “Apus Huamani”, gastronomía y más), y en algunas de sus estructuras urbanas que aún mantienen el estilo colonial impuesto por los españoles cuando intentaban dominar a los pobladores andinos del lugar, tales como: la Iglesia Matriz de Puquio, La Plaza de Armas, Jr. Tacna - primera Cuadra, Jr. Mariscal Cáceres - Primera cuadra, etc.\nPuquio, presenta atractivos turísticos como: su Plaza de Armas, aquella se caracteriza por ser una de las que mayor extensión presentan en Lucanas. Perimetrada por edificaciones de antaño, aún se aprecia una arquitectura residencial homogénea, donde predomina el diseño de sus inicios republicanos, con edificaciones y sus balcones elaborados con madera, así como otros elementos característicos. La Iglesia Matriz, que es una de las edificaciones de mayor antigüedad en la ciudad, que representa el comienzo del catolicismo dentro de la sociedad Puquiana. En medio de la Plaza, también se aprecia la Pila Pata, monumento que hacía referencia una fuente de agua, pintada con pigmentos que parecen recrear la vestimenta de los danzantes de tijera. La Plaza de Toros, “Antonio Navarro”, es un lugar famoso donde se hacen las tardes taurinas durante la Fiesta de Mayo. “Maculirumi”, una estructura rocosa que alberga la singular mitología del hallazgo del Santo “Señor de la Ascensión” patrón de la sociedad Puquiana. “Pila Alberto”, tallado en piedra que simboliza al “Cargador de Agua”, personaje que aduce a los hombres quienes cargaban agua para su distribución a toda la ciudad Puquio. “Pichccachuri”, un poblado que ha sido inmortalizado en las historias del escritor peruano José María Arguedas, y donde se encuentran sitios como La Iglesia con su Campanario, la Plaza de Yawar Fiesta, el Parque Dúo Cóndor y el Toro, entre otros.\nLa ciudad se caracteriza por ser la residencia de cuatro \"ayllus\" o cuatro comunidades (barrios). Barrio de \"Chaupi\", término quechua que significa \"que está en medio\", además, los integrantes de este \"ayllu” eran conocidos por el prestigio social alto que alcanzaron en cierto momento; Barrio de \"Pichccachuri\", término quechua que significa “de cinco hijos”, pues los comuneros acostumbraban tener cinco hijos; Barrio de \"Qayao\", término quechua que significa \"llamar\", por ende, los comuneros estaban encargados de llamar o convocar a todos para las reuniones; Barrio de \"Qollana\", término quechua que significa “primera hija mujer”, además, cuentan que el primer asentamiento puquiano se creó en este \"Ayllu\".\nDe acuerdo con los cronistas, el 21 de junio de 1825 comienza su existencia política. El 30 de setiembre de 1853, bajo el gobierno de don José Echenique, el pueblo de Puquio se denomina como \"villa\" por su numerosa población y por haber prestado muchos y heroicos servicios a la causa de la independencia. En el año 1857 fue creado como distrito, y en el año de 1975 es elevada a capital de Provincia de Lucanas por su ubicación estratégica. Así mismo, en la década de 1920 se convirtió en un polo de desarrollo muy importante, por la conexión entre la carretera Nazca con Puquio.",
+  "particularidades": "",
+  "estado_actual": "Bueno, Hoy en día, Puquio evidencia un gran avance en cuento a desarrollo urbano, social y económico por ser un punto eje y puerto terrestre en Ayacucho Sur.",
+  "observaciones": "Se encuentra enmarcado dentro del corredor vial Transoceánico (Ruta 26).\nPor este pueblo pasa la Carretera Interoceánica de Nazca, Puquio, Abancay, Cusco, Madre de Dios y Brasil.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Ubicada a 3214 m.s.n.m. En su entorno alrededores se aprecia abundantes yacimientos de agua cristalina que brotan de forma constante de la tierra, de ahí se otorga el nombre Puquio, del término quechua \"Pukio\" - Puquiales, que significa manantial u ojo de agua.\nIntegrada por cuatro barrios (Ccayao, Ccollana, Chaupi y Pichccachuri), con población aproximada de 17 mil habitantes, es una ciudad con identidad, costumbres y tradiciones propias que prevalecen desde décadas memorables, esto se evidencia en muchas de sus expresiones culturales (festividades costumbristas como la fiesta de “Sequia Tusuy”, los mitos y leyendas como el “Misitu”, Apu Huamani, Pedro Orcco, etc., conocimientos y técnicas milenarias como misas y rituales a los “Apus Huamani”, gastronomía y más), y en algunas de sus estructuras urbanas que aún mantienen el estilo colonial impuesto por los españoles cuando intentaban dominar a los pobladores andinos del lugar, tales como: la Iglesia Matriz de Puquio, La Plaza de Armas, Jr. Tacna - primera Cuadra, Jr. Mariscal Cáceres - Primera cuadra, etc.\nPuquio, presenta atractivos turísticos como: su Plaza de Armas, aquella se caracteriza por ser una de las que mayor extensión presentan en Lucanas. Perimetrada por edificaciones de antaño, aún se aprecia una arquitectura residencial homogénea, donde predomina el diseño de sus inicios republicanos, con edificaciones y sus balcones elaborados con madera, así como otros elementos característicos. La Iglesia Matriz, que es una de las edificaciones de mayor antigüedad en la ciudad, que representa el comienzo del catolicismo dentro de la sociedad Puquiana. En medio de la Plaza, también se aprecia la Pila Pata, monumento que hacía referencia una fuente de agua, pintada con pigmentos que parecen recrear la vestimenta de los danzantes de tijera. La Plaza de Toros, “Antonio Navarro”, es un lugar famoso donde se hacen las tardes taurinas durante la Fiesta de Mayo. “Maculirumi”, una estructura rocosa que alberga la singular mitología del hallazgo del Santo “Señor de la Ascensión” patrón de la sociedad Puquiana. “Pila Alberto”, tallado en piedra que simboliza al “Cargador de Agua”, personaje que aduce a los hombres quienes cargaban agua para su distribución a toda la ciudad Puquio. “Pichccachuri”, un poblado que ha sido inmortalizado en las historias del escritor peruano José María Arguedas, y donde se encuentran sitios como La Iglesia con su Campanario, la Plaza de Yawar Fiesta, el Parque Dúo Cóndor y el Toro, entre otros.\nLa ciudad se caracteriza por ser la residencia de cuatro \"ayllus\" o cuatro comunidades (barrios). Barrio de \"Chaupi\", término quechua que significa \"que está en medio\", además, los integrantes de este \"ayllu” eran conocidos por el prestigio social alto que alcanzaron en cierto momento; Barrio de \"Pichccachuri\", término quechua que significa “de cinco hijos”, pues los comuneros acostumbraban tener cinco hijos; Barrio de \"Qayao\", término quechua que significa \"llamar\", por ende, los comuneros estaban encargados de llamar o convocar a todos para las reuniones; Barrio de \"Qollana\", término quechua que significa “primera hija mujer”, además, cuentan que el primer asentamiento puquiano se creó en este \"Ayllu\".\nDe acuerdo con los cronistas, el 21 de junio de 1825 comienza su existencia política. El 30 de setiembre de 1853, bajo el gobierno de don José Echenique, el pueblo de Puquio se denomina como \"villa\" por su numerosa población y por haber prestado muchos y heroicos servicios a la causa de la independencia. En el año 1857 fue creado como distrito, y en el año de 1975 es elevada a capital de Provincia de Lucanas por su ubicación estratégica. Así mismo, en la década de 1920 se convirtió en un polo de desarrollo muy importante, por la conexión entre la carretera Nazca con Puquio."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, Hoy en día, Puquio evidencia un gran avance en cuento a desarrollo urbano, social y económico por ser un punto eje y puerto terrestre en Ayacucho Sur."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "Se encuentra enmarcado dentro del corredor vial Transoceánico (Ruta 26).\nPor este pueblo pasa la Carretera Interoceánica de Nazca, Puquio, Abancay, Cusco, Madre de Dios y Brasil."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nVisitantes Locales(Excursionistas)\n4050\nConteo muestral del mes de octubre\n2023\nundefined\nTuristas Nacionales\n32940\nConteo muestral del mes de octubre\n2023\nundefined\nTuristas Extranjeros\n1980\nConteo muestral del mes de octubre\n2023\nConteo muestral del mes de octubre"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nIca/Nasca/Nasca\n-\nAyacucho/Lucanas/Puquio\nDel terminal Cruce de Nazca a Puquio\nTerrestre\nCombi\nAsfaltado\n154 Km/ 3 hrs.\n2\nAyacucho/Huamanga/Ayacucho\n-\nAyacucho/Lucanas/Puquio\nDel terminal Maldonado de Ayacucho a Puquio (Vía Huanca Sancos)\nTerrestre\nCamioneta doble tracción\nAsfaltado\n385 Km./8 hrs."
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n06:00 a.m.\n-\n08:00 p.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nCultura y Folclore\nActividades Religiosas o Patronales\n--\nNaturaleza\nObservación de paisaje\n--\nDeportes / Aventura\nCiclismo\nPaseos en bicicleta: Puquio-San Andrés/San Andrés-Puquio; Puquio-Pachaya/Pachaya-Puquio\nCultura y Folclore\nFerias\nArtesanales y gastronómicas\nCultura y Folclore\nApreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)\nPresentaciones artísticas en la plaza de armas, concursos de canto Ayacuchano"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nAlojamiento\nCasa de Hospedaje\n--\nInstalaciones Privadas\nAlimentación\nRestaurantes\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nBancos - Cajeros\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nSeguridad / POLTUR\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nServicio de Internet\n--\nInstalaciones Públicas\nServicios Públicos\nCaminos peatonales\n--\nInstalaciones Públicas\nServicios Públicos\nOficina de Información turística\nEn la Municipalidad Provincial de Lucanas Puquio\nInstalaciones Privadas\nLugares de Recreación\nDiscotecas\n--\nInstalaciones Privadas\nLugares de Recreación\nPeñas\n--\nInstalaciones Privadas\nLugares de Recreación\nJuegos Infantiles\n--\nInstalaciones Privadas\nLugares de Recreación\nCentros Deportivos\n--\nInstalaciones Privadas\nLugares de Recreación\nKaraoke\n--\nInstalaciones Privadas\nLugares de Recreación\nBares\n--\nInstalaciones Privadas\nAlojamiento\nHoteles (especificar categorías)\n2 estrellas\nInstalaciones Privadas\nAlimentación\nCafeterías\n--\nInstalaciones Privadas\nAlimentación\nKioskos de comida y bebidas\n--\nInstalaciones Privadas\nAlimentación\nVenta de comida Rápida\n--\nInstalaciones Privadas\nAlimentación\nOtros (Especificar)\nComedores Populares"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nEn el pueblo de Lucanas\nAlimentación\nRestaurantes\nEn el pueblo de Lucanas\nServicios Públicos\nMiradores turísticos\nEn el pueblo de Lucanas\nServicios Públicos\nOficina de Información turística\nMunicipalidad distrital de Lucanas."
+    },
+    {
+      "titulo": "Servicios Complementarios dentro del recurso",
+      "contenido": "Servicio Complementario\nObservación\nServicios de internet\n--\nBancos\nCooperativas, Banco de la Nación, Agentes BCP\nCajero automático\nBanco de la Nación, Caja Ica, y otros...\nEstación de servicios, grifos, gasolineras y gasocentros\n--\nServicios de taxis\n--\nCentro de salud - tópico\nHospitales, Seguros y Clínicas privadas...\nVenta de materiales para fotografías\n--\nSeguridad / POLTUR / Comisaría\nComisaria de la Policía Nacional del Perú, puestos de Seguridad Ciudadana, Policías Municipales y más...\nAlquiler y compra de equipos deportivos\n--\nBodegas o minimarkets\n--\nServicio de estacionamiento\n--\nLibrerías\n--"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nPueblo de Lucanas\nBancos\nPueblo de Lucanas\nEstación de servicios, grifos, gasolineras y gasocentros\nPueblo de Lucanas\nServicios de taxis\nPueblo de Lucanas\nCentro de salud - tópico\nPueblo de Lucanas\nSeguridad / POLTUR / Comisaría\nPueblo de Lucanas\nLibrerías\nPueblo de Lucanas\nBodegas o minimarkets\nPueblo de Lucanas"
+    },
+    {
+      "titulo": "Condiciones de Accesibilidad al Visitante",
+      "contenido": "Visitante\nInstalación\nActividades y/o programas\nEquipamiento\nObservación\nPersonas con discapacidad física\nVeredas con rampas de acceso para personas con discapacidad física\n--\n--\n--"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\n--\nAlcantarillado sanitario\n--\nDesagüe\n--\nLuz (Suministro Eléctrico)\n--\nTeléfono\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nEn el distrito de Lucanas, a 1 hora de Puquio.\nEn el distrito de San Pedro, a 1 hora de Puquio.\nAlcantarillado sanitario\nPueblo de Lucanas\nDesagüe\nPueblo de Lucanas\nLuz (Suministro Eléctrico)\nPueblo de Lucanas\nTeléfono\nPueblo de Lucanas"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\n--\nPrivado:\nPoblación de la ciudad de Puquio.\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nPartida registral: Pichccachuri (11074277),CCayao (11082262), Ccollana (11079563), San Martin (P11083159)\nAdministrador por\nNombre\nLa Municipalidad Provincial de Lucanas - Puquio\nTiempo de administración\nDesde el año 1875"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo-Ayacucho/Municipalidad Provincial de Lucanas, Puquio\nNombre (Persona(s) responsable(s) del inventario turístico):\nEfrain Gómes Lopez/Caceres Taya Rossylinda Jackie\nCargo:\nDirector de Turismo/Responsable de la Unidad de Turismo y Artesanía\nCorreo:\newgl7@hotmail.com/rossygcacerestaya@gmail.com\nTeléfono:\n938130971 / 984327397\nFuentes Bibliográfica:\n-Libro físico: \"Puquio, la morada de los Ayllus\" de Salomón Dumet, Juan Escajadillo y Jesús Quevedo. (Lima-2021)\n-Libro físico: \"Yawar Fiesta\" de Jose Maria Arguedas. (Lima-1941)\n-Libro físico: \"Agua\" de Jose Maria Arguedas.(Lima-1935)\n-Caceres R., Civico R.,(2021). Identidad cultural en la población Puquiana para impulsar el turismo en el distrito de Puquio, Ayacucho. Recuperado de: https://hdl.handle.net/20.500.12692/91546\n-Plan de Desarrollo Turístico Local - Puquio, Programa de Incentivos a la Mejora de la Gestión Municipal 2017, META 38.\n- Plan de Desarrollo Concertado de la Provincia de Lucanas 2013-2022.\nMaterial Audiovisual actual del Recurso:\nFOTO, VIDEOS\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n7/12/2023 07:51:46"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -14.694166448511146,
+    "longitud": -74.12418362698361
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-14.694166448511146,-74.12418362698361"
+}

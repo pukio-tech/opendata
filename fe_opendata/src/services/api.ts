@@ -199,7 +199,52 @@ export const apiService = {
     return this.searchResources(params);
   },
 
-  // 5. Obtener detalle de ficha oficial
+  // 5. Obtener Recursos Destacados Aleatorios (Random 6)
+  async getFeaturedResources(params?: {
+    category?: string;
+    limit?: number;
+  }): Promise<ResourceItem[]> {
+    try {
+      const query = new URLSearchParams();
+      if (params?.limit) query.set('limit', String(params.limit));
+      if (params?.category) query.set('category', params.category);
+
+      const res = await fetch(`${API_BASE_URL}/featured?${query.toString()}`, {
+        cache: 'no-store',
+      });
+      if (!res.ok) return [];
+      const data = await res.json();
+      return Array.isArray(data) ? data : (data.data || []);
+    } catch (e) {
+      console.error(e);
+      return [];
+    }
+  },
+
+  // 6. Obtener Recursos Georreferenciados para OpenStreetMap
+  async getMapResources(params?: {
+    department?: string;
+    category?: string;
+    search?: string;
+    limit?: number;
+  }): Promise<ResourceItem[]> {
+    try {
+      const query = new URLSearchParams();
+      if (params?.department) query.set('department', params.department);
+      if (params?.category) query.set('category', params.category);
+      if (params?.search) query.set('search', params.search);
+      if (params?.limit) query.set('limit', String(params.limit));
+
+      const res = await fetch(`${API_BASE_URL}/map/resources?${query.toString()}`);
+      if (!res.ok) return [];
+      return await res.json();
+    } catch (e) {
+      console.error('Error al cargar recursos para el mapa:', e);
+      return [];
+    }
+  },
+
+  // 6. Obtener detalle de ficha oficial
   async getFichaDetail(codFicha: number): Promise<FichaDetail | null> {
     const cacheKey = `ficha_${codFicha}`;
     const cached = getCached<FichaDetail>(cacheKey);

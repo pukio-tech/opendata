@@ -1,0 +1,337 @@
+{
+  "cod_ficha": 3948,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=3948",
+  "nombre": "Chocolatería Pepitas De Cacao",
+  "departamento": "San Martín",
+  "provincia": "Lamas",
+  "distrito": "LAMAS",
+  "categoria": "4. REALIZACIONES TÉCNICAS, CIENTÍFICAS Y ARTÍSTICAS CONTEMPORÁNEAS",
+  "tipo": "Explotaciones Industriales",
+  "subtipo": "Centros Productivos",
+  "jerarquia": "2",
+  "altitud": "789",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=630106",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=630106",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=630109",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=630112",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=630019",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=630420",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=630667",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=630668",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=630669",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=630670"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Estudios e Investigación",
+    "Otros - Compra de productos regionales"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Compra de productos regionales",
+      "observacion": "--",
+      "icono_url": null
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "San Martín/San Martín/Tarapoto - San Martín/San Martín/Cacatachi",
+      "detalle": "Paradero de colectivos a Lamas / Cruce carretera Fernando Belaunde Terry con carretera a Lamas",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Combi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "12.1 km /22 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "San Martín/San Martín/Cacatachi - San Martín/Lamas/Lamas",
+      "detalle": "Cruce carretera Fernando Belaunde Terry con carretera a Lamas / Plaza de Lamas",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Combi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "9.9 km /14 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "San Martín/Lamas/Lamas - San Martín/Lamas/Lamas",
+      "detalle": "Plaza de Lamas / Pepitas de Cacao",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Combi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "700 m / 3 min"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "San Martín/San Martín/Tarapoto - San Martín/San Martín/Cacatachi",
+      "detalle": "Plaza de Tarapoto / Cruce Fernando Belaunde Terry con carretera hacia Lamas",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "14.2 km / 31 min"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "San Martín/San Martín/Cacatachi - San Martín/Lamas/Lamas",
+      "detalle": "Cruce carretera Fernando Belaunde Terry con carretera a Lamas / Plaza de Lamas",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "9.5 km / 10 min"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "San Martín/Lamas/Lamas - San Martín/Lamas/Lamas",
+      "detalle": "Plaza de Lamas / Pepitas de Cacao",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "650 m / 2 min"
+    },
+    {
+      "recorrido": "3",
+      "tramo": "San Martín/Moyobamba/Moyobamba - San Martín/Lamas/Lamas",
+      "detalle": "Plaza de armas de Moyobamba / Pepitas de Cacao",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "94.6km / 2h 1min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "61",
+      "horario": "OFICIO N°002-2025/PEPITAS DE CACAO",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "1553",
+      "horario": "OFICIO N°002-2025/PEPITAS DE CACAO",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "24",
+      "horario": "OFICIO N°002-2025/PEPITAS DE CACAO",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "09:00 a.m. - 06:00 p.m. Para grupos y delegaciones se recomienda hacer previas coordinaciones con la señora Neydi Ramos al celular 971248402, al correo kiler.hidalgo@gmail.com.",
+      "observaciones": "Para grupos y delegaciones se recomienda hacer previas coordinaciones con la señora Neydi Ramos al celular 971248402, al correo kiler.hidalgo@gmail.com."
+    },
+    {
+      "epoca": "Personas con discapacidad física",
+      "especificacion": "Rampa en el ingreso para silla de ruedas",
+      "horario": "--",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Albergues",
+      "observacion": "En la ciudad de Lamas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "En la ciudad de Lamas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "En la ciudad de Lamas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "En la ciudad de Lamas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "En la ciudad de Lamas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "En la ciudad de Lamas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "En la ciudad de Lamas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "En la ciudad de Lamas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "En la ciudad de Lamas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "En la ciudad de Lamas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "En la ciudad de Lamas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "En la ciudad de Lamas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Otros (especificar)",
+      "observacion": "Puesto de Salud en la ciudad de Lamas"
+    }
+  ],
+  "descripcion": "Pepitas de Cacao es un centro productivo ubicado en la encantadora ciudad de Lamas, un distrito reconocido actualmente como Pueblo con Encanto, a solo 22 kilómetros de la ciudad de Tarapoto, en la región San Martín. Este emprendimiento familiar nació en el año 2015, motivado por la ausencia de una producción local de chocolate auténtico elaborado directamente desde el grano de cacao, y aprovechando la oportunidad que ofrecía el creciente flujo turístico de la zona. En sus inicios, la familia contaba únicamente con una pequeña refinadora, cerca de 30 moldes y un equipo básico de refrigeración. Sin embargo, gracias a su compromiso con la calidad, la sostenibilidad y la innovación, el centro ha experimentado un notable crecimiento. Actualmente dispone de siete refinadoras, dos conservadoras, más de 200 moldes de distintas variedades y formas de presentación, aire acondicionado en el área de temperado, así como equipos especializados de tostado y trituración, que garantizan un proceso artesanal completo y de alta calidad. El cacao utilizado proviene de las comunidades quechuas nativas del distrito de Lamas, reconocidas por su producción orgánica y sostenible. Durante sus primeros años, para la producción mensual se necesitaba apenas 20 kilogramos de cacao; hoy en día, gracias al fortalecimiento de su marca y al reconocimiento del público, el volumen de producción ha crecido y se necesita entre 300 a 350 kilogramos mensuales de cacao, reflejo de su consolidación en el mercado local y regional. La experiencia turística en Pepitas de Cacao inicia en la sala de recepción, donde los visitantes participan en una vivencia educativa y sensorial. Este espacio cuenta con un mural informativo sobre el cacao, que acompaña la explicación detallada de cada etapa del proceso de transformación: desde el grano de cacao hasta la barra final de chocolate. La exposición incluye el uso de instrumentos didácticos y maquetas que representan las fases de postcosecha y beneficio del cacao, culminando con una degustación de las diferentes variedades producidas en el centro. El recorrido continúa en el área de ventas, donde se ofrece una amplia gama de productos. Los visitantes, tanto locales como nacionales e internacionales, pueden conocer e interactuar con diversas presentaciones: tabletas con distintos porcentajes, desde el 44% hasta el 90% de pureza para consumo directo, además del chocolate puro al 100%, conocido como chocolate para taza. También se elaboran bombones, chocotejas, polvo de cacao y chocolate blanco hecho a base de macambo, una especie cercana al cacao, endulzado con panela, que resulta un producto innovador y saludable. Uno de los mayores aportes recientes de Pepitas de Cacao a la innovación local es la incorporación del frejol amazónico puspo poroto, un ingrediente rico en hierro vegetal que aporta un valor nutricional complementario al producto final. Actualmente, el centro forma parte de la oferta turística regional, incluido en el circuito “Lamas Nativo”, promovido por las principales agencias de viajes de Tarapoto y Moyobamba. Gracias a su enfoque de turismo vivencial, los visitantes no solo descubren el arte del chocolate artesanal, sino que también valoran la tradición, el trabajo local y la conexión cultural con las comunidades productoras de cacao. La vocación turística de Pepitas de Cacao se centra en la educación, la sostenibilidad y la puesta en valor del cacao amazónico, consolidándose como un punto imperdible para quienes desean conocer los secretos del verdadero chocolate peruano.",
+  "particularidades": ".",
+  "estado_actual": "Bueno, los ambientes se mantienen limpios, ordenados y con mucha iluminación.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Pepitas de Cacao es un centro productivo ubicado en la encantadora ciudad de Lamas, un distrito reconocido actualmente como Pueblo con Encanto, a solo 22 kilómetros de la ciudad de Tarapoto, en la región San Martín. Este emprendimiento familiar nació en el año 2015, motivado por la ausencia de una producción local de chocolate auténtico elaborado directamente desde el grano de cacao, y aprovechando la oportunidad que ofrecía el creciente flujo turístico de la zona. En sus inicios, la familia contaba únicamente con una pequeña refinadora, cerca de 30 moldes y un equipo básico de refrigeración. Sin embargo, gracias a su compromiso con la calidad, la sostenibilidad y la innovación, el centro ha experimentado un notable crecimiento. Actualmente dispone de siete refinadoras, dos conservadoras, más de 200 moldes de distintas variedades y formas de presentación, aire acondicionado en el área de temperado, así como equipos especializados de tostado y trituración, que garantizan un proceso artesanal completo y de alta calidad. El cacao utilizado proviene de las comunidades quechuas nativas del distrito de Lamas, reconocidas por su producción orgánica y sostenible. Durante sus primeros años, para la producción mensual se necesitaba apenas 20 kilogramos de cacao; hoy en día, gracias al fortalecimiento de su marca y al reconocimiento del público, el volumen de producción ha crecido y se necesita entre 300 a 350 kilogramos mensuales de cacao, reflejo de su consolidación en el mercado local y regional. La experiencia turística en Pepitas de Cacao inicia en la sala de recepción, donde los visitantes participan en una vivencia educativa y sensorial. Este espacio cuenta con un mural informativo sobre el cacao, que acompaña la explicación detallada de cada etapa del proceso de transformación: desde el grano de cacao hasta la barra final de chocolate. La exposición incluye el uso de instrumentos didácticos y maquetas que representan las fases de postcosecha y beneficio del cacao, culminando con una degustación de las diferentes variedades producidas en el centro. El recorrido continúa en el área de ventas, donde se ofrece una amplia gama de productos. Los visitantes, tanto locales como nacionales e internacionales, pueden conocer e interactuar con diversas presentaciones: tabletas con distintos porcentajes, desde el 44% hasta el 90% de pureza para consumo directo, además del chocolate puro al 100%, conocido como chocolate para taza. También se elaboran bombones, chocotejas, polvo de cacao y chocolate blanco hecho a base de macambo, una especie cercana al cacao, endulzado con panela, que resulta un producto innovador y saludable. Uno de los mayores aportes recientes de Pepitas de Cacao a la innovación local es la incorporación del frejol amazónico puspo poroto, un ingrediente rico en hierro vegetal que aporta un valor nutricional complementario al producto final. Actualmente, el centro forma parte de la oferta turística regional, incluido en el circuito “Lamas Nativo”, promovido por las principales agencias de viajes de Tarapoto y Moyobamba. Gracias a su enfoque de turismo vivencial, los visitantes no solo descubren el arte del chocolate artesanal, sino que también valoran la tradición, el trabajo local y la conexión cultural con las comunidades productoras de cacao. La vocación turística de Pepitas de Cacao se centra en la educación, la sostenibilidad y la puesta en valor del cacao amazónico, consolidándose como un punto imperdible para quienes desean conocer los secretos del verdadero chocolate peruano."
+    },
+    {
+      "titulo": "Particularidades",
+      "contenido": "."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, los ambientes se mantienen limpios, ordenados y con mucha iluminación."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n61\nOFICIO N°002-2025/PEPITAS DE CACAO\n2025\nReporte de visitas recibido y registrado por la Dirección Sub Regional de Comercio Exterior y Turismo Bajo Mayo\nTuristas Nacionales\n1553\nOFICIO N°002-2025/PEPITAS DE CACAO\n2025\nReporte de visitas recibido y registrado por la Dirección Sub Regional de Comercio Exterior y Turismo Bajo Mayo\nVisitantes Locales(Excursionistas)\n24\nOFICIO N°002-2025/PEPITAS DE CACAO\n2025\nReporte de visitas recibido y registrado por la Direccion Sub Regional de Comercio Exterior y Turismo Bajo Mayo"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nSan Martín/San Martín/Tarapoto\n-\nSan Martín/San Martín/Cacatachi\nParadero de colectivos a Lamas / Cruce carretera Fernando Belaunde Terry con carretera a Lamas\nTerrestre\nCombi\nAsfaltado\n12.1 km /22 min\n1\nSan Martín/San Martín/Cacatachi\n-\nSan Martín/Lamas/Lamas\nCruce carretera Fernando Belaunde Terry con carretera a Lamas / Plaza de Lamas\nTerrestre\nCombi\nAsfaltado\n9.9 km /14 min\n1\nSan Martín/Lamas/Lamas\n-\nSan Martín/Lamas/Lamas\nPlaza de Lamas / Pepitas de Cacao\nTerrestre\nCombi\nAsfaltado\n700 m / 3 min\n2\nSan Martín/San Martín/Tarapoto\n-\nSan Martín/San Martín/Cacatachi\nPlaza de Tarapoto / Cruce Fernando Belaunde Terry con carretera hacia Lamas\nTerrestre\nAutomóvil particular\nAsfaltado\n14.2 km / 31 min\n2\nSan Martín/San Martín/Cacatachi\n-\nSan Martín/Lamas/Lamas\nCruce carretera Fernando Belaunde Terry con carretera a Lamas / Plaza de Lamas\nTerrestre\nAutomóvil particular\nAsfaltado\n9.5 km / 10 min\n2\nSan Martín/Lamas/Lamas\n-\nSan Martín/Lamas/Lamas\nPlaza de Lamas / Pepitas de Cacao\nTerrestre\nAutomóvil particular\nAsfaltado\n650 m / 2 min\n3\nSan Martín/Moyobamba/Moyobamba\n-\nSan Martín/Lamas/Lamas\nPlaza de armas de Moyobamba / Pepitas de Cacao\nTerrestre\nAutomóvil particular\nAsfaltado\n94.6km / 2h 1min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n09:00 a.m.\n-\n06:00 p.m.\nPara grupos y delegaciones se recomienda hacer previas coordinaciones con la señora Neydi Ramos al celular 971248402, al correo kiler.hidalgo@gmail.com."
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nEstudios e Investigación\n--\nOtros\nCompra de productos regionales\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nOtros Servicios Turísticos\nVenta de artesanía\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nAlbergues\nEn la ciudad de Lamas\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nEn la ciudad de Lamas\nAlimentación\nKioskos de comida y bebidas\nEn la ciudad de Lamas\nOtros Servicios Turísticos\nVenta de artesanía\nEn la ciudad de Lamas\nOtros Servicios Turísticos\nAgencia de Viajes\nEn la ciudad de Lamas\nLugares de Recreación\nDiscotecas\nEn la ciudad de Lamas\nLugares de Recreación\nJuegos Infantiles\nEn la ciudad de Lamas\nLugares de Recreación\nDiscotecas\nEn la ciudad de Lamas\nLugares de Recreación\nCentros Deportivos\nEn la ciudad de Lamas\nLugares de Recreación\nBares\nEn la ciudad de Lamas\nAlimentación\nRestaurantes\nEn la ciudad de Lamas\nAlimentación\nCafeterías\nEn la ciudad de Lamas\nServicios Públicos\nOtros (especificar)\nPuesto de Salud en la ciudad de Lamas"
+    },
+    {
+      "titulo": "Servicios Complementarios dentro del recurso",
+      "contenido": "Servicio Complementario\nObservación\nServicios de internet\n--"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nBancos\nBanco de la Nación - En la ciudad de Lamas\nCajero automático\nBanco de la Nación - En la ciudad de Lamas\nEstación de servicios, grifos, gasolineras y gasocentros\nEn la ciudad de Lamas\nServicio de correos\nSerpost, Shalom, en la ciudad de Lamas\nLibrerías\nEn la ciudad de Lamas"
+    },
+    {
+      "titulo": "Condiciones de Accesibilidad al Visitante",
+      "contenido": "Visitante\nInstalación\nActividades y/o programas\nEquipamiento\nObservación\nPersonas con discapacidad física\nRampa en el ingreso para silla de ruedas\n--\n--\n--"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\n--\nAlcantarillado sanitario\n--\nLuz (Suministro Eléctrico)\n--\nTeléfono\n--\nSeñalización turística\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nEn la ciudad de Lamas\nLuz (Suministro Eléctrico)\nEn la ciudad de Lamas\nTeléfono\nEn la ciudad de Lamas\nSeñalización turística\nEn la ciudad de Lamas"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\n--\nPrivado:\nKiler Hidalgo Mori\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nPartida\nNúmero de Partida:\nP45018216\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nKiler Hidalgo Mori\nTiempo de administración\n10 años (desde el 2015)"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDIRECCIÓN SUB REGIONAL DE COMERCIO EXTERIOR Y TURISMO - BAJO MAYO.\nNombre (Persona(s) responsable(s) del inventario turístico):\nEva Maria Samillan Montenegro\nCargo:\nAsistencia Técnica Administrativa\nCorreo:\nevamariasamillan@gmail.com\nTeléfono:\n930927554\nFuentes Bibliográfica:\n1)Portal web Andina Agencia Peruana de Noticias: https://andina.pe/agencia/noticia-region-san-martin-presentara-su-variada-oferta-cacaotera-el-salon-del-cacao-y-chocolate-901106.aspx 2)Reportaje de Latina Noticias sobre los innovadores de chocolates: https://www.youtube.com/watch?v=KUESg_IhlHY 3) Video informativo de Pepitas de Cacao en su canal de Youtube: https://www.youtube.com/watch?v=_gUpnOABXt8\nMaterial Audiovisual actual del Recurso:\nFOTO, VIDEOS\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n19/11/2025 10:15:53"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -6.330971,
+    "longitud": -76.45327199999997
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-6.330971,-76.45327199999997"
+}

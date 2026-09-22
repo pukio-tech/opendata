@@ -1,0 +1,300 @@
+{
+  "cod_ficha": 1005,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=1005",
+  "nombre": "Laguna Cushillococha",
+  "departamento": "Loreto",
+  "provincia": "Mariscal Ramon Castilla",
+  "distrito": "RAMÓN CASTILLA",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "g. Cuerpo de Agua",
+  "subtipo": "Lagunas",
+  "jerarquia": "1",
+  "altitud": "74",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=322401",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=322401",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=322366",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=324002",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=324004",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=324037",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=324005",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=324006",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=498826"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Estudios e Investigación",
+    "Paseos - Paseos en lancha o canoa",
+    "Deportes acuáticos - Natación",
+    "Deportes acuáticos - Pesca deportiva",
+    "Naturaleza - Observación de fauna",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de paisaje",
+    "Naturaleza - Observación de aves"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Paseos",
+      "tipo": "Paseos en lancha o canoa",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paseo_canoa02.png"
+    },
+    {
+      "actividad": "Deportes acuáticos",
+      "tipo": "Natación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/natacion02.png"
+    },
+    {
+      "actividad": "Deportes acuáticos",
+      "tipo": "Pesca deportiva",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/pesca_deportiva02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de fauna",
+      "observacion": "Anfibios, insectos, serpientes (anaconda, boa), lagartos, entre otros.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fauna02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "Lirios de agua, totorales, kinilla, rosasisa, gengibre, hubus, ojé, cetico, renaquillo y otras.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de aves",
+      "observacion": "Loros, tucanes, colibríes, águilas arpía, lechuzas, garzas, entre otros.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/aves02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Loreto/Mariscal Ramón Castilla/Ramón Castilla - Loreto/Mariscal Ramón Castilla/Ramón Castilla",
+      "detalle": "Plaza de la ciudad de Caballo Cocha - Laguna Cushillo cocha",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mototaxi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "8.8 km / 15 min"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Loreto/Mariscal Ramón Castilla/Ramón Castilla - Loreto/Mariscal Ramón Castilla/Ramón Castilla",
+      "detalle": "embarcadero de la ciudad de Caballo Cocha - Lago Cushillo cocha",
+      "tipo_acceso": "Lacustre / Fluvial",
+      "medio_transporte": "Deslizador",
+      "tipo_via": "",
+      "distancia_tiempo": "15 km/ 35 min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "667",
+      "horario": "Libro de visitas",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "06:00 a.m. - 06:00 p.m. --",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": "El acceso a la laguna es libre"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de botes",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Establecimientos de alimentos y bebidas sin clase ni categoría / En la ciudad de Caballo Cocha"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Internet",
+      "observacion": "En la ciudad de Caballo Cocha"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Caballo Cocha"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Establecimiento de casino y traga monedas / Ciudad de Caballo Cocha"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Agente de venta de pasajes de transporte fluvial y aéreo / Ciudad de Caballo Cocha"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Ciudad de Caballo Cocha"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Snacks",
+      "observacion": "En la ciudad de Caballo Cocha"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de botes",
+      "observacion": "En la ciudad de Caballo Cocha"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "En la ciudad de Caballo Cocha"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Caballo Cocha"
+    }
+  ],
+  "descripcion": "Laguna Cushillo cocha se encuentra localizado en la región de selva baja a 69 m.s.n.m. a muy pocos kilómetros de la ciudad de Caballo Cocha, justo al lado de la Comunidad Nativa de Ticuna Cushillo cocha. Este lago comprende una superficie superior a 10 km². En algunos puntos puede alcanzar hasta 8 metros de profundidad. En época de creciente (enero - mayo) el lago puede crecer hasta 3 o 4 metros de altura y en época de vaciante (junio - diciembre) se llegan a formar pequeñas islas.\nEl lago es de origen meándrico y forma parte de los afluentes del río Amazonas. En algunos puntos sus aguas son relativamente oscuras, los cuales suelen ser los de mayor profundidad.\nEl lago cuenta con una riqueza ictiológica en el cual destaca la presencia del bufeo gris y colorado; otras especies muy apreciadas son el sábalo, boquichico, yulilla, palometa, carachama, cahuara, etc.; y algunos de los mencionados peces sirven para la alimentación y comercio de la Comunidad Ticuna Cushillo cocha. En el lago y las orillas se pueden observar aves como los loros, tucanes, colibríes, águilas, arpía, lechuzas, garzas, entre otros. Además, podemos observar también, anfibios, insectos, serpientes, lagartos y una flora exuberante, principalmente como lirios de agua, totorales, kinilla, rosasisa, gengibre, hubus, ojé, cetico, renaquillo y otras especies propias de la Amazonía peruana.\nEl lago se caracteriza por presentar zonas inundables y pantanosas; y a por estar ubicado a un lado de la comunidad Nativa de Cushillo cocha, el cual pertenece a los descendientes dela familia etno lingüística Ticuna, quienes suelen usar las aguas del lago, para actividades cotidianas de traslado, pesca y recreación, ya que tiene aguas muy tranquilas y navegables.\nEn el lago se puede practicar actividades de paseo en lancha o canoa y bote, observación de flora, fauna y paisaje; y en horas de la tarde, cuando el sol empieza a bajar y a esconderse en el horizonte, se puede obtener las mejores fotografías para el recuerdo. Un lugar donde transmite tranquilidad, armonía; un lugar donde puedes conectarte con la naturaleza y observar la variedad de flora y fauna que alberga el y los alrededores del lago de Cushillo cocha.",
+  "particularidades": "",
+  "estado_actual": "Bueno, la comunidad ticuna que se asienta a la orilla del lago viene tomando conciencia en temas de contaminación y cuidado del medio ambiente.",
+  "observaciones": "La Laguna es de forma irregular tanto en época de creciente y vaciante",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Laguna Cushillo cocha se encuentra localizado en la región de selva baja a 69 m.s.n.m. a muy pocos kilómetros de la ciudad de Caballo Cocha, justo al lado de la Comunidad Nativa de Ticuna Cushillo cocha. Este lago comprende una superficie superior a 10 km². En algunos puntos puede alcanzar hasta 8 metros de profundidad. En época de creciente (enero - mayo) el lago puede crecer hasta 3 o 4 metros de altura y en época de vaciante (junio - diciembre) se llegan a formar pequeñas islas.\nEl lago es de origen meándrico y forma parte de los afluentes del río Amazonas. En algunos puntos sus aguas son relativamente oscuras, los cuales suelen ser los de mayor profundidad.\nEl lago cuenta con una riqueza ictiológica en el cual destaca la presencia del bufeo gris y colorado; otras especies muy apreciadas son el sábalo, boquichico, yulilla, palometa, carachama, cahuara, etc.; y algunos de los mencionados peces sirven para la alimentación y comercio de la Comunidad Ticuna Cushillo cocha. En el lago y las orillas se pueden observar aves como los loros, tucanes, colibríes, águilas, arpía, lechuzas, garzas, entre otros. Además, podemos observar también, anfibios, insectos, serpientes, lagartos y una flora exuberante, principalmente como lirios de agua, totorales, kinilla, rosasisa, gengibre, hubus, ojé, cetico, renaquillo y otras especies propias de la Amazonía peruana.\nEl lago se caracteriza por presentar zonas inundables y pantanosas; y a por estar ubicado a un lado de la comunidad Nativa de Cushillo cocha, el cual pertenece a los descendientes dela familia etno lingüística Ticuna, quienes suelen usar las aguas del lago, para actividades cotidianas de traslado, pesca y recreación, ya que tiene aguas muy tranquilas y navegables.\nEn el lago se puede practicar actividades de paseo en lancha o canoa y bote, observación de flora, fauna y paisaje; y en horas de la tarde, cuando el sol empieza a bajar y a esconderse en el horizonte, se puede obtener las mejores fotografías para el recuerdo. Un lugar donde transmite tranquilidad, armonía; un lugar donde puedes conectarte con la naturaleza y observar la variedad de flora y fauna que alberga el y los alrededores del lago de Cushillo cocha."
+    },
+    {
+      "titulo": "Particularidades",
+      "contenido": ""
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, la comunidad ticuna que se asienta a la orilla del lago viene tomando conciencia en temas de contaminación y cuidado del medio ambiente."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "La Laguna es de forma irregular tanto en época de creciente y vaciante"
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n667\nLibro de visitas\n2022\nLibro de visitas del Pueblo Nativo Ticuna de Cushillo cocha"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nLoreto/Mariscal Ramón Castilla/Ramón Castilla\n-\nLoreto/Mariscal Ramón Castilla/Ramón Castilla\nPlaza de la ciudad de Caballo Cocha - Laguna Cushillo cocha\nTerrestre\nMototaxi\nAsfaltado\n8.8 km / 15 min\n2\nLoreto/Mariscal Ramón Castilla/Ramón Castilla\n-\nLoreto/Mariscal Ramón Castilla/Ramón Castilla\nembarcadero de la ciudad de Caballo Cocha - Lago Cushillo cocha\nLacustre / Fluvial\nDeslizador\n15 km/ 35 min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre\nEl acceso a la laguna es libre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n06:00 a.m.\n-\n06:00 p.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nEstudios e Investigación\n--\nPaseos\nPaseos en lancha o canoa\n--\nDeportes acuáticos\nNatación\n--\nDeportes acuáticos\nPesca deportiva\n--\nNaturaleza\nObservación de fauna\nAnfibios, insectos, serpientes (anaconda, boa), lagartos, entre otros.\nNaturaleza\nObservación de flora\nLirios de agua, totorales, kinilla, rosasisa, gengibre, hubus, ojé, cetico, renaquillo y otras.\nNaturaleza\nObservación de paisaje\n--\nNaturaleza\nObservación de aves\nLoros, tucanes, colibríes, águilas arpía, lechuzas, garzas, entre otros."
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nOtros Servicios Turísticos\nAlquiler de botes\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nVenta de artesanía\n--\nInstalaciones Privadas\nAlimentación\nKioskos de comida y bebidas\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlimentación\nRestaurantes\nEstablecimientos de alimentos y bebidas sin clase ni categoría / En la ciudad de Caballo Cocha\nOtros Servicios Turísticos\nServicio de Internet\nEn la ciudad de Caballo Cocha\nLugares de Recreación\nDiscotecas\nCiudad de Caballo Cocha\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nEstablecimiento de casino y traga monedas / Ciudad de Caballo Cocha\nOtros Servicios Turísticos\nAgencia de Viajes\nAgente de venta de pasajes de transporte fluvial y aéreo / Ciudad de Caballo Cocha\nAlimentación\nFuentes de soda\nCiudad de Caballo Cocha\nAlimentación\nSnacks\nEn la ciudad de Caballo Cocha\nOtros Servicios Turísticos\nAlquiler de botes\nEn la ciudad de Caballo Cocha\nLugares de Recreación\nJuegos Infantiles\nEn la ciudad de Caballo Cocha\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Caballo Cocha"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Caballo Cocha / Comunidad Nativa Ticuna Cushillo Cocha\nCajero automático\nCiudad de Caballo Cocha / Comunidad Nativa Ticuna Cushillo Cocha\nCasa de cambio\nCiudad de Caballo Cocha / Comunidad Nativa Ticuna Cushillo Cocha\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Caballo Cocha / Comunidad Nativa Ticuna Cushillo Cocha\nBodegas o minimarkets\nCiudad de Caballo Cocha / Comunidad Nativa Ticuna Cushillo Cocha\nSeguridad / POLTUR / Comisaría\nCiudad de Caballo Cocha / Comunidad Nativa Ticuna Cushillo Cocha"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nLuz (Suministro Eléctrico)\nEn la ciudad de Caballo Cocha y en la Comunidad Nativa de Cushillo cocha\nTeléfono\nEn la ciudad de Caballo Cocha y en la Comunidad Nativa de Cushillo cocha\nAgua potable\nEn la ciudad de Caballo Cocha y en la Comunidad Nativa de Cushillo cocha\nDesagüe\nEn la ciudad de Caballo Cocha"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nAutoridad Nacional del Agua ANA\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nLago de uso público\nAdministrador por\nNombre\nComunidad Nativa de Ticuna\nTiempo de administración\nDesde el año 1980"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nGerencia Regional de Comercio Exterior y Turismo / Municipalidad Provincial de Mariscal R. Castilla\nNombre (Persona(s) responsable(s) del inventario turístico):\nSilvia Maribel Aspajo Morales / Safira Celeste Espiritu Guerra\nCargo:\nAsistente Administrativo / Especialista en Turismo\nCorreo:\ngercetur.loreto@gmail.com / safiraespiritu@gmai.com\nTeléfono:\n971950312/ 910244476\nFuentes Bibliográfica:\nPlan de Acción para el Desarrollo del Turismo en la Provincia de Mariscal R. Castilla de la región Loreto 2018. MINCETUR / MUNICIPALIDAD PROVINCIAL DE MARISCAL R. CASTILLA\nMaterial Audiovisual actual del Recurso:\n--\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n3/11/2023 18:00:30"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -3.9167475786199146,
+    "longitud": -70.52604675292963
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-3.9167475786199146,-70.52604675292963"
+}

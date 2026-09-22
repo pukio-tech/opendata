@@ -1,0 +1,404 @@
+{
+  "cod_ficha": 4875,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=4875",
+  "nombre": "Quebrada Los Peroles De Peñarol",
+  "departamento": "Piura",
+  "provincia": "Piura",
+  "distrito": "TAMBO GRANDE",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "d. Quebradas",
+  "subtipo": "Quebradas",
+  "jerarquia": "1",
+  "altitud": "24 msnm",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=472886",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=472886",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=472887",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=472888",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=472889"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Paseos - Excursiones",
+    "Naturaleza - Observación de flora",
+    "Deportes / Aventura - Caminata/Trekking",
+    "Deportes / Aventura - Camping"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Paseos",
+      "tipo": "Excursiones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/excursiones02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Camping",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/camping02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Piura/Piura/Piura - Piura/Piura/Tambo Grande",
+      "detalle": "Piura - Tambogrande",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "60 km. / 1 h."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Piura/Piura/Tambo Grande - Piura/Piura/Tambo Grande",
+      "detalle": "Tambogrande - Peroles de Peñarol",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mototaxi",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "12 km./ 15 min."
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Piura/Piura/Piura - Piura/Piura/Tambo Grande",
+      "detalle": "Piura - Peroles de Peñarol",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "72 Km. / 55 min."
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "1440",
+      "horario": "Libro de visitantes del lugar",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "15840",
+      "horario": "Libro de visitantes del lugar",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Esporádicamente - Algunos meses",
+      "especificacion": "--",
+      "horario": "- En especial los meses de verano Dic - Mar.",
+      "observaciones": "En especial los meses de verano Dic - Mar."
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "Distrito de Tambogrande (2 ESTRELLAS)"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Distrito de Tambogrande"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Distrito de Tambogrande"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Distrito de Tambogrande"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Distrito de Tambogrande"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Pubs",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Bancos - Cajeros",
+      "observacion": "Distrito de Tambogrande"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Oficina de Información",
+      "observacion": "Distrito de Tambogrande"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Internet",
+      "observacion": "Distrito de Tambogrande"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Tópico",
+      "observacion": "Distrito de Tambogrande"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de Material para Fotografía",
+      "observacion": "Distrito de Tambogrande"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Distrito de Tambogrande"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Distrito de Tambogrande"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Distrito de Tambogrande"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Distrito de Tambogrande"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Peñas",
+      "observacion": "Distrito de Piura"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Cines o Teatros",
+      "observacion": "Distrito de Piura"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Distrito de Tambogrande"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Distrito de Piura"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Distrito de Tambogrande"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Lugares de picnic",
+      "observacion": "Distrito de Tambogrande"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Distrito de Tambogrande"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Distrito de Tambogrande"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Distrito Piura"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Distrito de Tambogrande"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de camionetas 4 x 4",
+      "observacion": "Distrito de Piura"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "Distrito de Tambogrande"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Distrito de Tambogrande"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "Distrito de Tambogrande"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "Distrito de Tambogrande"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Distrito de Tambogrande"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Puesto de auxilio rápido",
+      "observacion": "Distrito de Tambogrande"
+    }
+  ],
+  "descripcion": "El Balneario Turístico Los Peroles se encuentra ubicado en el caserío Peñarol, a 12 kilómetros de la capital del distrito de Tambo Grande. Es un área turística de aproximadamente 4.5 hectáreas, cruza por allí una corriente de agua que llena una piscina natural de 150 m2 con una profundidad de más de dos metros con espacio suficiente para nadar y practicar clavados. Está ubicada en un bosque, rodeada por piedras de gran tamaño con una flora y fauna abundante, donde encontramos el sapote, el algarrobo, el faique y otros ejemplares más y el chilalo, los colibríes, entre otros etc. con lo que respecta a fauna. Cuenta con áreas aproximadamente de 1,800.00 m2 que se encuentran en funcionamiento parcial. El balneario turístico es una zona donde acuden los pobladores a bañarse principalmente en los meses de verano, con más frecuencia los fines de semana.",
+  "particularidades": "",
+  "estado_actual": "Regular, porque aun se esta trabajando en el mejoramiento del recurso a cargo de la Municipalidad Distrital de Tambogrande",
+  "observaciones": "Se esta Ejecutando un proyecto de intervencion para la mejoramiento del Recurso.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "El Balneario Turístico Los Peroles se encuentra ubicado en el caserío Peñarol, a 12 kilómetros de la capital del distrito de Tambo Grande. Es un área turística de aproximadamente 4.5 hectáreas, cruza por allí una corriente de agua que llena una piscina natural de 150 m2 con una profundidad de más de dos metros con espacio suficiente para nadar y practicar clavados. Está ubicada en un bosque, rodeada por piedras de gran tamaño con una flora y fauna abundante, donde encontramos el sapote, el algarrobo, el faique y otros ejemplares más y el chilalo, los colibríes, entre otros etc. con lo que respecta a fauna. Cuenta con áreas aproximadamente de 1,800.00 m2 que se encuentran en funcionamiento parcial. El balneario turístico es una zona donde acuden los pobladores a bañarse principalmente en los meses de verano, con más frecuencia los fines de semana."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Regular, porque aun se esta trabajando en el mejoramiento del recurso a cargo de la Municipalidad Distrital de Tambogrande"
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "Se esta Ejecutando un proyecto de intervencion para la mejoramiento del Recurso."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Nacionales\n1440\nLibro de visitantes del lugar\n2024\nPROYECCIÒN DEL CONTEO MUESTRAL 2024\nVisitantes Locales(Excursionistas)\n15840\nLibro de visitantes del lugar\n2024\nPROYECCION DEL CONTEO MUESTRAL 2024"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nPiura/Piura/Piura\n-\nPiura/Piura/Tambo Grande\nPiura - Tambogrande\nTerrestre\nBus público\nAsfaltado\n60 km. / 1 h.\n1\nPiura/Piura/Tambo Grande\n-\nPiura/Piura/Tambo Grande\nTambogrande - Peroles de Peñarol\nTerrestre\nMototaxi\nTrocha carrozable\n12 km./ 15 min.\n2\nPiura/Piura/Piura\n-\nPiura/Piura/Tambo Grande\nPiura - Peroles de Peñarol\nTerrestre\nAutomóvil particular\nAsfaltado\n72 Km. / 55 min."
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nEsporádicamente - Algunos meses\n--\n-\nEn especial los meses de verano Dic - Mar."
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nPaseos\nExcursiones\n--\nNaturaleza\nObservación de flora\n--\nDeportes / Aventura\nCaminata/Trekking\n--\nDeportes / Aventura\nCamping\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHostales (especificar categorías)\nDistrito de Tambogrande (2 ESTRELLAS)\nAlimentación\nRestaurantes\nDistrito de Tambogrande\nAlimentación\nBares\nDistrito de Tambogrande\nAlimentación\nKioskos de comida y bebidas\nDistrito de Tambogrande\nLugares de Recreación\nDiscotecas\nDistrito de Tambogrande\nLugares de Recreación\nPubs\n--\nOtros Servicios Turísticos\nBancos - Cajeros\nDistrito de Tambogrande\nOtros Servicios Turísticos\nOficina de Información\nDistrito de Tambogrande\nOtros Servicios Turísticos\nServicio de Internet\nDistrito de Tambogrande\nOtros Servicios Turísticos\nTópico\nDistrito de Tambogrande\nOtros Servicios Turísticos\nVenta de Material para Fotografía\nDistrito de Tambogrande\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nDistrito de Tambogrande\nAlimentación\nCafeterías\nDistrito de Tambogrande\nAlimentación\nFuentes de soda\nDistrito de Tambogrande\nAlimentación\nVenta de comida Rápida\nDistrito de Tambogrande\nLugares de Recreación\nPeñas\nDistrito de Piura\nLugares de Recreación\nCines o Teatros\nDistrito de Piura\nLugares de Recreación\nJuegos Infantiles\nDistrito de Tambogrande\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nDistrito de Piura\nLugares de Recreación\nCentros Deportivos\nDistrito de Tambogrande\nLugares de Recreación\nLugares de picnic\nDistrito de Tambogrande\nLugares de Recreación\nBares\nDistrito de Tambogrande\nOtros Servicios Turísticos\nVenta de artesanía\nDistrito de Tambogrande\nOtros Servicios Turísticos\nAgencia de Viajes\nDistrito Piura\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nDistrito de Tambogrande\nOtros Servicios Turísticos\nAlquiler de camionetas 4 x 4\nDistrito de Piura\nServicios Públicos\nMiradores turísticos\nDistrito de Tambogrande\nServicios Públicos\nEstacionamiento de vehículos\nDistrito de Tambogrande\nServicios Públicos\nSeñales turísticas de orientación\nDistrito de Tambogrande\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\nDistrito de Tambogrande\nServicios Públicos\nOficina de Información turística\nDistrito de Tambogrande\nServicios Públicos\nPuesto de auxilio rápido\nDistrito de Tambogrande"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nDistrito de Tambogrande\nBancos\nDistrito de Tambogrande\nCajero automático\nDistrito de Tambogrande\nCasa de cambio\nDistrito de Tambogrande\nEstación de servicios, grifos, gasolineras y gasocentros\nDistrito de Tambogrande\nServicio de correos\nDistrito de Tambogrande\nServicio de estacionamiento\nDistrito de Tambogrande\nServicios de taxis\nDistrito de Tambogrande\nServicios de salvavidas\nDistrito de Tambogrande\nCentro de salud - tópico\nDistrito de Tambogrande\nVenta de materiales para fotografías\nDistrito de Tambogrande\nLibrerías\nDistrito de Tambogrande\nBodegas o minimarkets\nDistrito de Tambogrande"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nDistrito de Tambogrande\nAlcantarillado sanitario\nDistrito de Tambogrande\nDesagüe\nDistrito de Tambogrande\nLuz (Suministro Eléctrico)\nDistrito de Tambogrande\nTeléfono\nDistrito de Tambogrande"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo - DIRCETUR Piura\nNombre (Persona(s) responsable(s) del inventario turístico):\nRichard Neira Colmenares\nCargo:\nDirector Regional de la Dirección de Turismo.\nCorreo:\nrneira@regionpiura.gob.pe\nTeléfono:\n984448829\nFuentes Bibliográfica:\n1) HTTP://WWW.MUNITAMBOGRANDE.GOB.PE/\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n4/07/2024 12:26:02"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -4.935148215567206,
+    "longitud": -80.34234166145325
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-4.935148215567206,-80.34234166145325"
+}

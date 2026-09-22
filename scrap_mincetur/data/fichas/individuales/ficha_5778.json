@@ -1,0 +1,326 @@
+{
+  "cod_ficha": 5778,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=5778",
+  "nombre": "Cañón Del Sonche",
+  "departamento": "Amazonas",
+  "provincia": "Chachapoyas",
+  "distrito": "HUANCAS",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "e. Cañones",
+  "subtipo": "Cañones",
+  "jerarquia": "1",
+  "altitud": "2620",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=568682",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=568682",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=568734",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=568683",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=568684",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=568735",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=568685",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=568736",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=568686",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=568687"
+  ],
+  "actividades_permitidas": [
+    "Otros - Compras de artesanía/souvenir",
+    "Otros - Toma de fotografías y filmaciones",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de paisaje",
+    "Naturaleza - Observación de aves",
+    "Deportes / Aventura - Caminata/Trekking"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Compras de artesanía/souvenir",
+      "observacion": "Textiles y cerámica",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/artesania02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "Árbol de la Quina, Chamana, Aliso y Zarza Mora",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de aves",
+      "observacion": "Perdiz de Monte, Colibrí Cola De Espátula, Zorzales, Gavilanes y Palomas",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/aves02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Amazonas/Chachapoyas/Huancas - Amazonas/Chachapoyas/Huancas",
+      "detalle": "Plaza de Huancas - Boletería",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "600 m. / 10 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Amazonas/Chachapoyas/Huancas - Amazonas/Chachapoyas/Huancas",
+      "detalle": "Plaza de Huancas - Boletería",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "600 m. / 3 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Amazonas/Chachapoyas/Huancas - Amazonas/Chachapoyas/Huancas",
+      "detalle": "Boletería - Cañón del Sonche",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Sendero",
+      "distancia_tiempo": "200 m. / 3 min."
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "2089",
+      "horario": "Reporte de visitantes de la Municipalidad Distrital de Huancas",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "18058",
+      "horario": "Reporte de visitantes de la Municipalidad Distrital de Huancas",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "08:00 a.m. - 06:00 p.m. De lunes a domingo",
+      "observaciones": "De lunes a domingo"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "La tarifa de pago es: Adultos s/ 6.00, adultos mayores y estudiantes s/3.00 y niños de 5 a 12 años de edad s/2"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Localidad de Huancas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Localidad de Huancas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Localidad de Huancas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Localidad de Huancas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Localidad de Huancas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Localidad de Huancas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Localidad de Huancas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Localidad de Huancas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "Localidad de Huancas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Boletería",
+      "observacion": "Localidad de Huancas (Entrada al Cañón)"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Localidad de Huancas (Entrada al Cañón)"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Puesto de auxilio rápido",
+      "observacion": "Localidad de Huancas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "Localidad de Huancas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Localidad de Huancas (Entrada al Cañón)"
+    }
+  ],
+  "descripcion": "El Cañón del Sonche está ubicado a 2,620 metros sobre el nivel del mar, en el distrito de Huancas, provincia de Chachapoyas, en la región natural quechua. Este imponente cañón, de clima templado-frío, tiene una temperatura media de 14 °C y una humedad promedio del 35 %. Se extiende aproximadamente 11.45 km, con un ancho que varía entre 1.46 y 2.70 km, alcanzando una profundidad de 962 metros. Su recorrido comienza en el sector de Rondón y finaliza en Tingorbamba, donde el río Sonche desemboca en el río Utcubamba, creando un paisaje de gran belleza natural; la geomorfología del Cañón del Sonche se define por sus pronunciadas pendientes; en el margen derecho, se observan pliegues geológicos de calizas compactas, rocas sólidas y resistentes, mientras que en el margen izquierdo predominan estructuras de arenisca, afectadas por la erosión debido a factores climáticos y antrópicos. El recurso turístico presenta depósitos aluviales y sedimentarios del período cuaternario, con calizas y areniscas cuarzosas. Alberga especies significativas, como la Quina, considerada el árbol nacional del Perú, así como la Chamana, la Zarza Mora y el Aliso. En este ecosistema, se puede observar el colibrí Cola de Espátula, una especie endémica de la región Amazonas.\nSe ha construido un mirador de 12 metros de altura, con un diseño circular y techo de paja, que permite a los visitantes apreciar la agreste geografía del relieve de los Andes amazónicos. Este espacio también se utiliza para la exhibición y venta de artesanía local. Entre las infraestructuras adicionales se encuentran escalinatas, que presentan pasamanos de madera y un muro de protección construido con piedra arenisca al borde del precipicio, la cual presenta diseños en forma de zigzag, proporcionando seguridad y accesibilidad al recurso turístico, generando interés de vista nacional e internacional.",
+  "particularidades": "",
+  "estado_actual": "Bueno, conserva su entorno natural y no presenta signos evidentes de contaminación o degradación ambiental. Esto incluye vegetación nativa alrededor preservada e infraestructura turística segura para los visitantes.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "El Cañón del Sonche está ubicado a 2,620 metros sobre el nivel del mar, en el distrito de Huancas, provincia de Chachapoyas, en la región natural quechua. Este imponente cañón, de clima templado-frío, tiene una temperatura media de 14 °C y una humedad promedio del 35 %. Se extiende aproximadamente 11.45 km, con un ancho que varía entre 1.46 y 2.70 km, alcanzando una profundidad de 962 metros. Su recorrido comienza en el sector de Rondón y finaliza en Tingorbamba, donde el río Sonche desemboca en el río Utcubamba, creando un paisaje de gran belleza natural; la geomorfología del Cañón del Sonche se define por sus pronunciadas pendientes; en el margen derecho, se observan pliegues geológicos de calizas compactas, rocas sólidas y resistentes, mientras que en el margen izquierdo predominan estructuras de arenisca, afectadas por la erosión debido a factores climáticos y antrópicos. El recurso turístico presenta depósitos aluviales y sedimentarios del período cuaternario, con calizas y areniscas cuarzosas. Alberga especies significativas, como la Quina, considerada el árbol nacional del Perú, así como la Chamana, la Zarza Mora y el Aliso. En este ecosistema, se puede observar el colibrí Cola de Espátula, una especie endémica de la región Amazonas.\nSe ha construido un mirador de 12 metros de altura, con un diseño circular y techo de paja, que permite a los visitantes apreciar la agreste geografía del relieve de los Andes amazónicos. Este espacio también se utiliza para la exhibición y venta de artesanía local. Entre las infraestructuras adicionales se encuentran escalinatas, que presentan pasamanos de madera y un muro de protección construido con piedra arenisca al borde del precipicio, la cual presenta diseños en forma de zigzag, proporcionando seguridad y accesibilidad al recurso turístico, generando interés de vista nacional e internacional."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, conserva su entorno natural y no presenta signos evidentes de contaminación o degradación ambiental. Esto incluye vegetación nativa alrededor preservada e infraestructura turística segura para los visitantes."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n2089\nReporte de visitantes de la Municipalidad Distrital de Huancas\n2023\nValidado por Dircetur Amazonas\nTuristas Nacionales\n18058\nReporte de visitantes de la Municipalidad Distrital de Huancas\n2023\nValidado por Dircetur Amazonas"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nAmazonas/Chachapoyas/Huancas\n-\nAmazonas/Chachapoyas/Huancas\nPlaza de Huancas - Boletería\nTerrestre\nA pie\nAfirmado\n600 m. / 10 min.\n1\nAmazonas/Chachapoyas/Huancas\n-\nAmazonas/Chachapoyas/Huancas\nPlaza de Huancas - Boletería\nTerrestre\nAutomóvil particular\nAfirmado\n600 m. / 3 min.\n1\nAmazonas/Chachapoyas/Huancas\n-\nAmazonas/Chachapoyas/Huancas\nBoletería - Cañón del Sonche\nTerrestre\nA pie\nSendero\n200 m. / 3 min."
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nLa tarifa de pago es: Adultos s/ 6.00, adultos mayores y estudiantes s/3.00 y niños de 5 a 12 años de edad s/2"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n08:00 a.m.\n-\n06:00 p.m.\nDe lunes a domingo"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nCompras de artesanía/souvenir\nTextiles y cerámica\nOtros\nToma de fotografías y filmaciones\n--\nNaturaleza\nObservación de flora\nÁrbol de la Quina, Chamana, Aliso y Zarza Mora\nNaturaleza\nObservación de paisaje\n--\nNaturaleza\nObservación de aves\nPerdiz de Monte, Colibrí Cola De Espátula, Zorzales, Gavilanes y Palomas\nDeportes / Aventura\nCaminata/Trekking\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Públicas\nServicios Públicos\nMiradores turísticos\n--\nInstalaciones Públicas\nServicios Públicos\nSeñales turísticas de orientación\n--\nInstalaciones Privadas\nAlimentación\nKioskos de comida y bebidas\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nVenta de artesanía\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nLugares de Recreación\nJuegos Infantiles\nLocalidad de Huancas\nLugares de Recreación\nCentros Deportivos\nLocalidad de Huancas\nLugares de Recreación\nBares\nLocalidad de Huancas\nOtros Servicios Turísticos\nVenta de artesanía\nLocalidad de Huancas\nAlimentación\nRestaurantes\nLocalidad de Huancas\nAlimentación\nCafeterías\nLocalidad de Huancas\nAlimentación\nKioskos de comida y bebidas\nLocalidad de Huancas\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nLocalidad de Huancas\nServicios Públicos\nSeñales turísticas de orientación\nLocalidad de Huancas\nServicios Públicos\nBoletería\nLocalidad de Huancas\n(Entrada al Cañón)\nServicios Públicos\nOficina de Información turística\nLocalidad de Huancas (Entrada al Cañón)\nServicios Públicos\nPuesto de auxilio rápido\nLocalidad de Huancas\nServicios Públicos\nCaminos peatonales\nLocalidad de Huancas\nServicios Públicos\nEstacionamiento de vehículos\nLocalidad de Huancas\n(Entrada al Cañón)"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nLocalidad de Huancas\nCentro de salud - tópico\nLocalidad de Huancas\nSeguridad / POLTUR / Comisaría\nLocalidad de Huancas\nBodegas o minimarkets\nLocalidad de Huancas"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nTeléfono\nCobertura celular (Movistar, Bitel y Claro)\nLuz (Suministro Eléctrico)\n--\nSeñalización turística\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nLocalidad de Huancas\nAlcantarillado sanitario\nLocalidad de Huancas\nLuz (Suministro Eléctrico)\nLocalidad de Huancas\nTeléfono\nLocalidad de Huancas (Movistar, Bitel y Claro)\nSeñalización turística\nLocalidad de Huancas"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nMunicipalidad Distrital de Huancas\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nEscritura pública de donación de acciones y derechos de predio rústico\nAdministrador por\nNombre\nMunicipalidad Distrital de Huancas\nTiempo de administración\nDesde el año 2016 de acuerdo a la escritura pública de donación por tiempo indefinido."
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo - Dircetur Amazonas\nNombre (Persona(s) responsable(s) del inventario turístico):\nLic. Gilber Ramos Chappa\nCargo:\nResponsable de inventario\nCorreo:\nramoschappa@gmail.com\nTeléfono:\n988062534\nFuentes Bibliográfica:\n-Guion Turístico Chachapoyas, Huancas, Levanto y Cheto, Dirección Regional de Comercio Exterior Y Turismo, 2010, Perú\n-Valle Alto del Utcubamba, Ministerio de Cultura, Primer Edición, 2017, Perú\n- Descubre Chachapoyas” Guía Turística de Chachapoyas y sus Alrededores”/Stefan Ziemendorff/Primera Edición/2023.\nhttps://es.scribd.com/document/413887049/Trabajo-Practico-Canon-Del-Sonche, consultado el 31/10/2024\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\nLimpieza, mantenimiento y acondicionamiento de Acceso e Instalaciones del Mirador Turístico Cañon del Sonche en la localidad de Huancas, provincia de Chachapoyas, región Amazonas, 2023.\nFecha:\n31/10/2024 17:06:04"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -6.176297641150817,
+    "longitud": -77.85779414813231
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-6.176297641150817,-77.85779414813231"
+}

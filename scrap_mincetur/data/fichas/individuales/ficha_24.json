@@ -1,0 +1,324 @@
+{
+  "cod_ficha": 24,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=24",
+  "nombre": "Nevado De Yerupajá De Queropalca",
+  "departamento": "Huánuco",
+  "provincia": "Lauricocha",
+  "distrito": "QUEROPALCA",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "a. Montañas",
+  "subtipo": "Nevado",
+  "jerarquia": "2",
+  "altitud": "6,635 m",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=578889",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=578889",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=578890",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=578987",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=578988",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=578989",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=578891",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=579887",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=579843"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Estudios e Investigación",
+    "Naturaleza - Observación de paisaje",
+    "Deportes / Aventura - Caminata/Trekking",
+    "Deportes / Aventura - Camping",
+    "Deportes / Aventura - Montañismo"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Camping",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/camping02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Montañismo",
+      "observacion": "--",
+      "icono_url": null
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Huánuco/Lauricocha/Jesús - Huánuco/Lauricocha/Queropalca",
+      "detalle": "Plaza del distrito de Jesús – Plaza de Queropalca",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "74.7 km/ 2 horas 39 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Huánuco/Lauricocha/Queropalca - Huánuco/Lauricocha/Queropalca",
+      "detalle": "Plaza de Queropalca - Estancia Progreso",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "11 km/ 30 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Huánuco/Lauricocha/Queropalca - Huánuco/Lauricocha/Queropalca",
+      "detalle": "Estancia Progreso - Laguna Carhuacocha",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A caballo",
+      "tipo_via": "Camino de Herradura",
+      "distancia_tiempo": "1.2 km / 41 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Huánuco/Lauricocha/Queropalca - Huánuco/Lauricocha/Queropalca",
+      "detalle": "Laguna Carhuacocha - Yerupajá",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Sendero",
+      "distancia_tiempo": "7 km / 5 horas"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "5595",
+      "horario": "ficha de registro de visitantes",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "780",
+      "horario": "ficha de registro de visitantes",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "05:00 a.m. - 05:00 p.m. Recomendable ir en temporada de verano (mayo a setiembre)",
+      "observaciones": "Recomendable ir en temporada de verano (mayo a setiembre)"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "Se paga el ingreso al pueblo de Queropalca, S/. 40.00 Extranjeros y S/. 30.00 Nacionales. Monto único para visitar los recursos que se encuentran dentro de la reserva."
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de Campamento(camping)",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estancia para animales de transporte turísticos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos de herradura (caballo)",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Jesús"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Jesús"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Jesús"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Jesús"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Ciudad de Jesús"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Jesús"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Ciudad de Jesús"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Ciudad de Jesús, idioma español"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Jesús"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Jesús"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "Ciudad de Jesús"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Ciudad de Jesús"
+    }
+  ],
+  "descripcion": "El Nevado Yerupajá se localiza a 166 km al suroeste de Huánuco, en el límite de los departamentos de Huánuco, Lima y Áncash, dentro de la cordillera del Huayhuash, en la región Janca. Con una altitud de 6,635 metros sobre el nivel del mar, es el segundo nevado más alto del Perú, después del Huascarán, y uno de los destinos más desafiantes para los escaladores.\nEl Yerupajá es sin lugar a dudas una de las montañas más impresionantes de los Andes, lo que ha atraído la atención de muchos montañistas jóvenes de todo el mundo. Con sus más de 6600¿m, es la montaña más alta del Perú después de los Huascaranes, y una de las de más difícil acceso. Ubicado en el centro mismo de la Cordillera Huayhuash. El Yerupajá está rodeado por las más conspicuas cumbres de esta cadena montañosa: el Siula Grande por el sur y el espectacular Jirishanca por el Norte; que hacen del entorno del Yerupajá un lugar único y de belleza inigualable.\nPara acceder al Yerupajá se puede realizar principalmente por tres rutas: por la vertiente occidental desde las lagunas Jahuacocha o Solteracocha; por el este desde la laguna Carhuacocha; y por el norte desde la laguna Sarapococha.\nSu caprichosa forma asemeja a una gran lámina con dos caras que se unen en la arista cimera que une las tres cumbres principales: el Yerupajá Norte, que es el punto culminante de una gran pared rocosa con forma triangular; la cumbre principal o Yerupajá Grande, que ubicada en el centro de la gran arista se defiende de cualquier asalto por sus grandes paredes y aéreas aristas; y por último el Yerupajá Sur, que aparentemente es la menos esquiva de las tres y punto cúlmine de la pared sur.\nLos visitantes también pueden explorar la laguna Siulacocha, situada al pie de la imponente pared este del Yerupajá, y continuar hacia la quebrada Huacrish, donde el paisaje se completa con las lagunas Jahuacocha y Solterococha. El área es ideal para actividades de andinismo y es considerada un lugar sagrado por las comunidades locales, como los pobladores de Queropalca, que también protegen el entorno natural. Este nevado es parte de un área protegida y ofrece a los turistas un entorno único, caracterizado por el aire limpio, la paz que reina en el lugar y el contraste entre las rocas desnudas y las nieves perpetuas. Las noches despejadas brindan un cielo estrellado espectacular, lo que convierte al Yerupajá en un destino imprescindible para los amantes de la naturaleza y el turismo de aventura. Se recomienda para el ascenso subir con un guía especializado por su geografía.\nEn el trayecto al nevado Yerupaja por las quebradas se puede apreciar especies de flora, como: el quenual, quisuar, ichu, huarhuash, cuncush, tsampa estrella, vergonzosa, achupalla, chinchancu, awinchu, japllan shacoq, pishqupa chaquin, yulaq pashara, uchuspachupan, rima, romero- taya, cuncush, lleqllish qora, wamanripa, shupllac, wamanpinta, quima senqa, la papa silvestre, huaguru, taulli, taya, etc., y entre las principales especies de fauna destaca la vizcacha, venado, gato andino, la gaviota andina, zorzal , la perdiz, pichuchan, zorro andino, wiskur, ratón andino, entre otros.",
+  "particularidades": "Yerupajá es el nevado que representa el punto más alto de la cuenca amazónica.( Reserva Hídrica en los glaciares del Perú- ANA 2021 )",
+  "estado_actual": "Bueno, por las limpiezas y mantenimientos que brinda la Comunidad Campesina de Queropalca.",
+  "observaciones": "El Yerupajá es la segunda montaña más alta del Perú. (Peru.travel. ¿Cuáles son las montañas más altas del Perú?.2021)",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "El Nevado Yerupajá se localiza a 166 km al suroeste de Huánuco, en el límite de los departamentos de Huánuco, Lima y Áncash, dentro de la cordillera del Huayhuash, en la región Janca. Con una altitud de 6,635 metros sobre el nivel del mar, es el segundo nevado más alto del Perú, después del Huascarán, y uno de los destinos más desafiantes para los escaladores.\nEl Yerupajá es sin lugar a dudas una de las montañas más impresionantes de los Andes, lo que ha atraído la atención de muchos montañistas jóvenes de todo el mundo. Con sus más de 6600¿m, es la montaña más alta del Perú después de los Huascaranes, y una de las de más difícil acceso. Ubicado en el centro mismo de la Cordillera Huayhuash. El Yerupajá está rodeado por las más conspicuas cumbres de esta cadena montañosa: el Siula Grande por el sur y el espectacular Jirishanca por el Norte; que hacen del entorno del Yerupajá un lugar único y de belleza inigualable.\nPara acceder al Yerupajá se puede realizar principalmente por tres rutas: por la vertiente occidental desde las lagunas Jahuacocha o Solteracocha; por el este desde la laguna Carhuacocha; y por el norte desde la laguna Sarapococha.\nSu caprichosa forma asemeja a una gran lámina con dos caras que se unen en la arista cimera que une las tres cumbres principales: el Yerupajá Norte, que es el punto culminante de una gran pared rocosa con forma triangular; la cumbre principal o Yerupajá Grande, que ubicada en el centro de la gran arista se defiende de cualquier asalto por sus grandes paredes y aéreas aristas; y por último el Yerupajá Sur, que aparentemente es la menos esquiva de las tres y punto cúlmine de la pared sur.\nLos visitantes también pueden explorar la laguna Siulacocha, situada al pie de la imponente pared este del Yerupajá, y continuar hacia la quebrada Huacrish, donde el paisaje se completa con las lagunas Jahuacocha y Solterococha. El área es ideal para actividades de andinismo y es considerada un lugar sagrado por las comunidades locales, como los pobladores de Queropalca, que también protegen el entorno natural. Este nevado es parte de un área protegida y ofrece a los turistas un entorno único, caracterizado por el aire limpio, la paz que reina en el lugar y el contraste entre las rocas desnudas y las nieves perpetuas. Las noches despejadas brindan un cielo estrellado espectacular, lo que convierte al Yerupajá en un destino imprescindible para los amantes de la naturaleza y el turismo de aventura. Se recomienda para el ascenso subir con un guía especializado por su geografía.\nEn el trayecto al nevado Yerupaja por las quebradas se puede apreciar especies de flora, como: el quenual, quisuar, ichu, huarhuash, cuncush, tsampa estrella, vergonzosa, achupalla, chinchancu, awinchu, japllan shacoq, pishqupa chaquin, yulaq pashara, uchuspachupan, rima, romero- taya, cuncush, lleqllish qora, wamanripa, shupllac, wamanpinta, quima senqa, la papa silvestre, huaguru, taulli, taya, etc., y entre las principales especies de fauna destaca la vizcacha, venado, gato andino, la gaviota andina, zorzal , la perdiz, pichuchan, zorro andino, wiskur, ratón andino, entre otros."
+    },
+    {
+      "titulo": "Particularidades",
+      "contenido": "Yerupajá es el nevado que representa el punto más alto de la cuenca amazónica.( Reserva Hídrica en los glaciares del Perú- ANA 2021 )"
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, por las limpiezas y mantenimientos que brinda la Comunidad Campesina de Queropalca."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "El Yerupajá es la segunda montaña más alta del Perú. (Peru.travel. ¿Cuáles son las montañas más altas del Perú?.2021)"
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n5595\nficha de registro de visitantes\n2023\nFuente de datos Municipalidad Distrital de Queropalca\nTuristas Nacionales\n780\nficha de registro de visitantes\n2023\nFuente de datos Municipalidad Distrital de Queropalca"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nHuánuco/Lauricocha/Jesús\n-\nHuánuco/Lauricocha/Queropalca\nPlaza del distrito de Jesús – Plaza de Queropalca\nTerrestre\nAutomóvil particular\nAfirmado\n74.7 km/ 2 horas 39 minutos\n1\nHuánuco/Lauricocha/Queropalca\n-\nHuánuco/Lauricocha/Queropalca\nPlaza de Queropalca - Estancia Progreso\nTerrestre\nAutomóvil particular\nAfirmado\n11 km/ 30 minutos\n1\nHuánuco/Lauricocha/Queropalca\n-\nHuánuco/Lauricocha/Queropalca\nEstancia Progreso - Laguna Carhuacocha\nTerrestre\nA caballo\nCamino de Herradura\n1.2 km / 41 minutos\n1\nHuánuco/Lauricocha/Queropalca\n-\nHuánuco/Lauricocha/Queropalca\nLaguna Carhuacocha - Yerupajá\nTerrestre\nA pie\nSendero\n7 km / 5 horas"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nSe paga el ingreso al pueblo de Queropalca, S/. 40.00 Extranjeros y S/. 30.00 Nacionales. Monto único para visitar los recursos que se encuentran dentro de la reserva."
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n05:00 a.m.\n-\n05:00 p.m.\nRecomendable ir en temporada de verano (mayo a setiembre)"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nEstudios e Investigación\n--\nNaturaleza\nObservación de paisaje\n--\nDeportes / Aventura\nCaminata/Trekking\n--\nDeportes / Aventura\nCamping\n--\nDeportes / Aventura\nMontañismo\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Públicas\nServicios Públicos\nMiradores turísticos\n--\nInstalaciones Públicas\nServicios Públicos\nZonas de Campamento(camping)\n--\nInstalaciones Públicas\nServicios Públicos\nEstancia para animales de transporte turísticos\n--\nInstalaciones Públicas\nServicios Públicos\nCaminos de herradura (caballo)\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Jesús\nAlimentación\nRestaurantes\nCiudad de Jesús\nAlimentación\nBares\nCiudad de Jesús\nAlimentación\nCafeterías\nCiudad de Jesús\nAlimentación\nFuentes de soda\nCiudad de Jesús\nAlimentación\nKioskos de comida y bebidas\nCiudad de Jesús\nAlimentación\nVenta de comida Rápida\nCiudad de Jesús\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nCiudad de Jesús, idioma español\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Jesús\nLugares de Recreación\nBares\nCiudad de Jesús\nLugares de Recreación\nKaraoke\nCiudad de Jesús\nLugares de Recreación\nCentros Deportivos\nCiudad de Jesús"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Jesús\nBancos\nCiudad de Jesús\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Jesús\nServicio de estacionamiento\nCiudad de Jesús\nServicios de taxis\nCiudad de Jesús\nCentro de salud - tópico\nCiudad de Jesús\nBodegas o minimarkets\nCiudad de Jesús"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Jesús\nLuz (Suministro Eléctrico)\nCiudad de Jesús\nEnergía Alternativa\nCiudad de Jesús\nTeléfono\nCiudad de Jesús\nAlcantarillado pluvial\nCiudad de Jesús\nSistemas de tratamiento alternativo de residuos (Biodigestor, pozo séptico, otros)\nCiudad de Jesús\nSeñalización turística\nCiudad de Jesús"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\n--\nPrivado:\nComunidad Campesina de Queropalca\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nResolución Ministerial Nº 346-2007-AG Reconocimiento del Área de Conservación Privada “Jirishanca” .\nAdministrador por\nNombre\nComunidad Campesina de Queropalca, Municipalidad de Queropalca\nTiempo de administración\nDesde el año 2007."
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo Huánuco\nNombre (Persona(s) responsable(s) del inventario turístico):\nC.P.C Rosa Huamán León / LIC. Lindsey Ingrid M. Ramírez Segundo\nCargo:\nCoordinadora de turismo / Especialista en Turismo\nCorreo:\nrositahuamanleon@gmail.com / luzerimar11@gmail.com\nTeléfono:\n962 679 292 / 972136244\nFuentes Bibliográfica:\n1) Gaspar Benilde Osorio Zambrano, Retrato de mi Tierra “Paraíso de Belleza Natural, Tierra de la Hospitalidad Andina”, Huánuco 2016.\n2) Resolución Ministerial Nº 1173-2002-AG, Zona Reservada por el Servicio Nacional de Áreas Naturales Protegidas por el Estado (SERNANP), del 20 de diciembre de 2002.\n3) iPerú. Recuperado de: https://cdn.www.gob.pe/uploads/document/file/5565582/4950800-huanuco-gppv-espanol_web_2023.pdf setiembre del 2023.\n4) Y tú que planes. Recuperado de: https://www.ytuqueplanes.com/contigo-peru/categoria/fondo-pantalla-computadora/laguna-carhuacocha-y-nevado-yerupaja-trekking-en-la-cordillera-huayhuash-. Y tú que planes 2024.\n5) Nuestra Montaña SAC – Perú. Nuestra Montaña Expediciones, Cordillera De Huayhuash – Perú 2024.\n6) Pablo Bello Mejía, Cordillera Huayhuash: La caminata alpina más hermosa del mundo. Recuperado de: https://andeanrajuexpeditions.com/trekking/cordillera-huayhuash-la-caminata-alpina-mas-hermosa-del-mundo/#:~:text=La%20zona%20tambi%C3%A9n%20alberga\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n21/02/2025 17:53:25"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -10.268640834546622,
+    "longitud": -76.9052410125733
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-10.268640834546622,-76.9052410125733"
+}

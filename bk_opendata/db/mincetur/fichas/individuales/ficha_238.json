@@ -1,0 +1,503 @@
+{
+  "cod_ficha": 238,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=238",
+  "nombre": "Bodega Ocucaje",
+  "departamento": "Ica",
+  "provincia": "Ica",
+  "distrito": "OCUCAJE",
+  "categoria": "4. REALIZACIONES TÉCNICAS, CIENTÍFICAS Y ARTÍSTICAS CONTEMPORÁNEAS",
+  "tipo": "Explotaciones Industriales",
+  "subtipo": "Bodegas de pisco, vinos y/u otros licores",
+  "jerarquia": "2",
+  "altitud": "354",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=464585",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=464585",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=464523",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=464524",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=464586",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=464525",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=464587",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=464588"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Paseos - Excursiones",
+    "Naturaleza - Observación de paisaje",
+    "Cultura y Folclore - Degustación y preparación de platos, productos o bebidas típicas",
+    "Cultura y Folclore - Apreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)",
+    "Cultura y Folclore - Participación y/u observación del proceso de elaboración de productos locales"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Paseos",
+      "tipo": "Excursiones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/excursiones02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Degustación y preparación de platos, productos o bebidas típicas",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/platos_tipicos02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Apreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)",
+      "observacion": "--",
+      "icono_url": null
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Participación y/u observación del proceso de elaboración de productos locales",
+      "observacion": "--",
+      "icono_url": null
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Ica/Ica/Ica - Ica/Ica/Ocucaje",
+      "detalle": "Plaza de Armas de Ica - Entrada al Distrito de Ocucaje (km. 355)",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "32.9 km. / 30 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Ica/Ica/Ocucaje - Ica/Ica/Ocucaje",
+      "detalle": "Entrada al Distrito de Ocucaje (km- 355) - Plaza de Armas de Ocucaje.",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "2 km. / 08 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Ica/Ica/Ocucaje - Ica/Ica/Ocucaje",
+      "detalle": "Plaza de Armas de Ocucaje - Bodega Ocucaje",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "100 m./ 5 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Ica/Ica/Ica - Ica/Ica/Ocucaje",
+      "detalle": "Plaza de Armas de Ica - Entrada al Distrito de Ocucaje (km. 355)",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mini bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "32.9 km./ 40 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Ica/Ica/Ocucaje - Ica/Ica/Ocucaje",
+      "detalle": "Entrada al Distrito de Ocucaje (km- 355) - Plaza de Armas de Ocucaje.",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mini bus turístico",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "2 km. / 12 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Ica/Ica/Ocucaje - Ica/Ica/Ocucaje",
+      "detalle": "Plaza de Armas de Ocucaje - Bodega Ocucaje",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mini bus turístico",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "100 m. / 8 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Ica/Ica/Ica - Ica/Ica/Ocucaje",
+      "detalle": "Plaza de Armas de Ica - Entrada al Distrito de Ocucaje (km. 355)",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus turístico",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "32.9 km. / 40 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Ica/Ica/Ocucaje - Ica/Ica/Ocucaje",
+      "detalle": "Entrada al Distrito de Ocucaje (km- 355) - Plaza de Armas de Ocucaje.",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus turístico",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "2 km. / 12 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Ica/Ica/Ocucaje - Ica/Ica/Ocucaje",
+      "detalle": "Plaza de Armas de Ocucaje - Bodega Ocucaje",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus turístico",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "100 m./ 8 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Ica/Ica/Ica - Ica/Ica/Ocucaje",
+      "detalle": "Plaza de Armas de Ica - Entrada al Distrito de Ocucaje (km. 355)",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Camioneta doble tracción",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "32.9 km. / 25 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Ica/Ica/Ocucaje - Ica/Ica/Ocucaje",
+      "detalle": "Entrada al Distrito de Ocucaje (km- 355) - Plaza de Armas de Ocucaje.",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Camioneta doble tracción",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "2 km. / 05 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Ica/Ica/Ocucaje - Ica/Ica/Ocucaje",
+      "detalle": "Plaza de Armas de Ocucaje - Bodega Ocucaje",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Camioneta doble tracción",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "100 m. / 5 min."
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "274",
+      "horario": "Base de datos propio de la empresa.",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "654",
+      "horario": "Base de datos propio de la empresa.",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "210",
+      "horario": "Base de datos propio de la empresa.",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "08:00 a.m. - 02:00 p.m. Actualmente brinda servicio de guiado dentro de la bodega con degustación. El servicio de hotel y restaurante será aperturado durante el año 2023. Se recomienda ir con ropa ligera",
+      "observaciones": "Actualmente brinda servicio de guiado dentro de la bodega con degustación. El servicio de hotel y restaurante será aperturado durante el año 2023. Se recomienda ir con ropa ligera"
+    },
+    {
+      "epoca": "Personas con discapacidad física",
+      "especificacion": "Rampas",
+      "horario": "--",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Semi-restringido(previo permiso)",
+      "observaciones": "El ingreso a la bodega es previa reservación, puede comunicarse al cel. 973 623747 o enviar un correo a: admi_hotel@ocucaje.com erosero@ocucaje.com"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicios Higiénicos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Idioma Ingles."
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Estacionamiento",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Venta de Productos Vitivinicolas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Ocucaje, Santiago e Ica"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Ocucaje, Santiago e Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Ocucaje e Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de bicicleta",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Peñas",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Cines o Teatros",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Ciudad de Ocucaje, Santiago e Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Santiago e Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Ciudad de Ocucaje, Santiago e Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Ciudad de Ocucaje, Santiago e Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Food Trucks - Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "Ciudad de Ocucaje, Santiago e Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Puesto de auxilio rápido",
+      "observacion": "Ciudad de Ocucaje, Santiago e Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Otros (especificar)",
+      "observacion": "Museo Regional de Ica - Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "Hoteles de 1 a 5 estrellas - Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "Hostales de 1 a 3 estrellas - Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Ica."
+    }
+  ],
+  "descripcion": "La Bodega Ocucaje se hizo conocida a inicios del siglo XVI en tiempos de la colonia. En el siglo XVIII las tierras del valle y el complejo artesanal de producción de vinos y piscos pasaron a manos de los Jesuitas, quienes iniciaron con la plantación de la vid y producción de bebidas, pero fueron expulsados durante el gobierno del virrey Fernando de Abascal. Tras su expulsión, la bodega Ocucaje pasó a poder de Don Juan de Apesteguia, Marques de Torre Hermosa, casado con Doña Juana María de Herce y Dulce. Al fallecer el Marques, su viuda quedó dueña de la bodega, uniéndose en segundas nupcias con don Antonio de Arredondo, Regente de la Real Audiencia de Lima.\nEn 1848, Don Domingo Elías adquirió la bodega Ocucaje, pasando la propiedad de este a manos de Don Andrés Álvarez Calderón en 1867. Posteriormente, fue adquirida por Don Felipe Zunini, quien en 1898 empezó a producir los vinos y piscos Ocucaje con carácter industrial.\nEn la década de los años 30 la bodega Ocucaje pasó a ser propiedad del Sr. Virgilio Rubini, quien continuó con la tradición vitivinícola importando cepas especialmente seleccionadas de Francia, Italia, España, Portugal y valle del Rin, fundando entonces la sociedad Viña Ocucaje S.A., de propiedad única de la familia Rubini, produciendo diferentes tipos de vinos tintos y blancos, así como vinos generosos, piscos y sangría de excelente calidad, siendo ganadores de concursos nacionales e internacionales, obteniendo medallas de oro y plata haciendo que sus piscos sean reconocidos a nivel mundial.\nLa familia Rubini trabajó estas tierras por tres generaciones, siendo el último gerente general el Sr. Aldo Rubini quien en el año 2013 vende la propiedad a una empresa ecuatoriana “Grupo Corporativo El Juri”, quienes administran la bodega hasta la actualidad, retomando el negocio de producción de vinos y piscos al igual que el hotel y restaurante.\nActualmente, aún conserva características coloniales en su infraestructura y objetos como una campana que data del año 1761, conocida como la “Campana de la Independencia”, botijas artesanales, las cuales se encuentran en un área denominada “Ocucaje artesanal” donde se puede observar máquinas antiguas que eran utilizadas para la elaboración del pisco, un salón que tiene etiquetas antiguas pegadas en las paredes (lugar que expresa la historia de los productos de la bodega) plantas de huarango y 18 restos fósiles de ballena.\nLas instalaciones y producción de esta bodega son, tradición iqueña, representando la más clara expresión de nobleza y calidad de sus piscos y vinos, el cual se da a degustar a los turistas que visitan el lugar.",
+  "particularidades": "La bodega Ocucaje es la única bodega que dentro de sus instalaciones posee restos fósiles de ballena. Instituto Geológico, Minero y Metalúrgico (2019).",
+  "estado_actual": "Regular; a causa del terremoto del año 2007, gran parte de sus instalaciones quedaron inhabitables, y otra parte se pudo restaurar.",
+  "observaciones": "A causa del terremoto del año 2007, parte de sus instalaciones se encuentran en mal estado (paredes rajadas, otras a medio derrumbar), por ello, la empresa genera ingresos principalmente de la producción de vinos y piscos.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "La Bodega Ocucaje se hizo conocida a inicios del siglo XVI en tiempos de la colonia. En el siglo XVIII las tierras del valle y el complejo artesanal de producción de vinos y piscos pasaron a manos de los Jesuitas, quienes iniciaron con la plantación de la vid y producción de bebidas, pero fueron expulsados durante el gobierno del virrey Fernando de Abascal. Tras su expulsión, la bodega Ocucaje pasó a poder de Don Juan de Apesteguia, Marques de Torre Hermosa, casado con Doña Juana María de Herce y Dulce. Al fallecer el Marques, su viuda quedó dueña de la bodega, uniéndose en segundas nupcias con don Antonio de Arredondo, Regente de la Real Audiencia de Lima.\nEn 1848, Don Domingo Elías adquirió la bodega Ocucaje, pasando la propiedad de este a manos de Don Andrés Álvarez Calderón en 1867. Posteriormente, fue adquirida por Don Felipe Zunini, quien en 1898 empezó a producir los vinos y piscos Ocucaje con carácter industrial.\nEn la década de los años 30 la bodega Ocucaje pasó a ser propiedad del Sr. Virgilio Rubini, quien continuó con la tradición vitivinícola importando cepas especialmente seleccionadas de Francia, Italia, España, Portugal y valle del Rin, fundando entonces la sociedad Viña Ocucaje S.A., de propiedad única de la familia Rubini, produciendo diferentes tipos de vinos tintos y blancos, así como vinos generosos, piscos y sangría de excelente calidad, siendo ganadores de concursos nacionales e internacionales, obteniendo medallas de oro y plata haciendo que sus piscos sean reconocidos a nivel mundial.\nLa familia Rubini trabajó estas tierras por tres generaciones, siendo el último gerente general el Sr. Aldo Rubini quien en el año 2013 vende la propiedad a una empresa ecuatoriana “Grupo Corporativo El Juri”, quienes administran la bodega hasta la actualidad, retomando el negocio de producción de vinos y piscos al igual que el hotel y restaurante.\nActualmente, aún conserva características coloniales en su infraestructura y objetos como una campana que data del año 1761, conocida como la “Campana de la Independencia”, botijas artesanales, las cuales se encuentran en un área denominada “Ocucaje artesanal” donde se puede observar máquinas antiguas que eran utilizadas para la elaboración del pisco, un salón que tiene etiquetas antiguas pegadas en las paredes (lugar que expresa la historia de los productos de la bodega) plantas de huarango y 18 restos fósiles de ballena.\nLas instalaciones y producción de esta bodega son, tradición iqueña, representando la más clara expresión de nobleza y calidad de sus piscos y vinos, el cual se da a degustar a los turistas que visitan el lugar."
+    },
+    {
+      "titulo": "Particularidades",
+      "contenido": "La bodega Ocucaje es la única bodega que dentro de sus instalaciones posee restos fósiles de ballena. Instituto Geológico, Minero y Metalúrgico (2019)."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "Ganadores de la botella de plata en el Concurso regional del pisco sour – Ica 2022.\nGanadores de concursos internacionales Vinalies Internacionales, Challenge International Du Vin, 2004."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Regular; a causa del terremoto del año 2007, gran parte de sus instalaciones quedaron inhabitables, y otra parte se pudo restaurar."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "A causa del terremoto del año 2007, parte de sus instalaciones se encuentran en mal estado (paredes rajadas, otras a medio derrumbar), por ello, la empresa genera ingresos principalmente de la producción de vinos y piscos."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n274\nBase de datos propio de la empresa.\n2022\nEl total de visitantes corresponde a los meses de enero hasta setiembre.\nTuristas Nacionales\n654\nBase de datos propio de la empresa.\n2022\nEl total de visitantes corresponde a los meses de enero hasta setiembre.\nVisitantes Locales(Excursionistas)\n210\nBase de datos propio de la empresa.\n2022\nEl total de visitantes corresponde a los meses de enero hasta setiembre."
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nIca/Ica/Ica\n-\nIca/Ica/Ocucaje\nPlaza de Armas de Ica - Entrada al Distrito de Ocucaje (km. 355)\nTerrestre\nAutomóvil particular\nAsfaltado\n32.9 km. / 30 min.\n1\nIca/Ica/Ocucaje\n-\nIca/Ica/Ocucaje\nEntrada al Distrito de Ocucaje (km- 355) - Plaza de Armas de Ocucaje.\nTerrestre\nAutomóvil particular\nAsfaltado\n2 km. / 08 min.\n1\nIca/Ica/Ocucaje\n-\nIca/Ica/Ocucaje\nPlaza de Armas de Ocucaje - Bodega Ocucaje\nTerrestre\nAutomóvil particular\nAfirmado\n100 m./ 5 min.\n1\nIca/Ica/Ica\n-\nIca/Ica/Ocucaje\nPlaza de Armas de Ica - Entrada al Distrito de Ocucaje (km. 355)\nTerrestre\nMini bus público\nAsfaltado\n32.9 km./ 40 min.\n1\nIca/Ica/Ocucaje\n-\nIca/Ica/Ocucaje\nEntrada al Distrito de Ocucaje (km- 355) - Plaza de Armas de Ocucaje.\nTerrestre\nMini bus turístico\nAsfaltado\n2 km. / 12 min.\n1\nIca/Ica/Ocucaje\n-\nIca/Ica/Ocucaje\nPlaza de Armas de Ocucaje - Bodega Ocucaje\nTerrestre\nMini bus turístico\nAfirmado\n100 m. / 8 min.\n1\nIca/Ica/Ica\n-\nIca/Ica/Ocucaje\nPlaza de Armas de Ica - Entrada al Distrito de Ocucaje (km. 355)\nTerrestre\nBus turístico\nAsfaltado\n32.9 km. / 40 min.\n1\nIca/Ica/Ocucaje\n-\nIca/Ica/Ocucaje\nEntrada al Distrito de Ocucaje (km- 355) - Plaza de Armas de Ocucaje.\nTerrestre\nBus turístico\nAsfaltado\n2 km. / 12 min.\n1\nIca/Ica/Ocucaje\n-\nIca/Ica/Ocucaje\nPlaza de Armas de Ocucaje - Bodega Ocucaje\nTerrestre\nBus turístico\nAfirmado\n100 m./ 8 min.\n1\nIca/Ica/Ica\n-\nIca/Ica/Ocucaje\nPlaza de Armas de Ica - Entrada al Distrito de Ocucaje (km. 355)\nTerrestre\nCamioneta doble tracción\nAsfaltado\n32.9 km. / 25 min.\n1\nIca/Ica/Ocucaje\n-\nIca/Ica/Ocucaje\nEntrada al Distrito de Ocucaje (km- 355) - Plaza de Armas de Ocucaje.\nTerrestre\nCamioneta doble tracción\nAsfaltado\n2 km. / 05 min.\n1\nIca/Ica/Ocucaje\n-\nIca/Ica/Ocucaje\nPlaza de Armas de Ocucaje - Bodega Ocucaje\nTerrestre\nCamioneta doble tracción\nAfirmado\n100 m. / 5 min."
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nSemi-restringido(previo permiso)\nEl ingreso a la bodega es previa reservación, puede comunicarse al cel. 973 623747 o enviar un correo a:\nadmi_hotel@ocucaje.com\nerosero@ocucaje.com"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n08:00 a.m.\n-\n02:00 p.m.\nActualmente brinda servicio de guiado dentro de la bodega con degustación.\nEl servicio de hotel y restaurante será aperturado durante el año 2023.\nSe recomienda ir con ropa ligera"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nPaseos\nExcursiones\n--\nNaturaleza\nObservación de paisaje\n--\nCultura y Folclore\nDegustación y preparación de platos, productos o bebidas típicas\n--\nCultura y Folclore\nApreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)\n--\nCultura y Folclore\nParticipación y/u observación del proceso de elaboración de productos locales\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nOtros Servicios Turísticos\nServicios Higiénicos\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nIdioma Ingles.\nInstalaciones Privadas\nOtros Servicios Turísticos\nServicio de Estacionamiento\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nOtros (Especificar)\nVenta de Productos Vitivinicolas"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlimentación\nRestaurantes\nCiudad de Ocucaje, Santiago e Ica\nAlimentación\nKioskos de comida y bebidas\nCiudad de Ocucaje, Santiago e Ica.\nLugares de Recreación\nDiscotecas\nCiudad de Ica.\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Ocucaje e Ica.\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de Ica.\nOtros Servicios Turísticos\nAlquiler de bicicleta\nCiudad de Ica.\nLugares de Recreación\nPeñas\nCiudad de Ica.\nLugares de Recreación\nCines o Teatros\nCiudad de Ica.\nLugares de Recreación\nJuegos Infantiles\nCiudad de Ica.\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nCiudad de Ica.\nLugares de Recreación\nCentros Deportivos\nCiudad de Ocucaje, Santiago e Ica.\nLugares de Recreación\nKaraoke\nCiudad de Ica.\nLugares de Recreación\nBares\nCiudad de Ica.\nAlimentación\nBares\nCiudad de Santiago e Ica.\nAlimentación\nCafeterías\nCiudad de Ica.\nAlimentación\nFuentes de soda\nCiudad de Ocucaje, Santiago e Ica.\nAlimentación\nVenta de comida Rápida\nCiudad de Ocucaje, Santiago e Ica.\nAlimentación\nOtros (Especificar)\nFood Trucks - Ciudad de Ica.\nServicios Públicos\nSeñales turísticas de orientación\nCiudad de Ocucaje, Santiago e Ica.\nServicios Públicos\nPuesto de auxilio rápido\nCiudad de Ocucaje, Santiago e Ica.\nServicios Públicos\nOtros (especificar)\nMuseo Regional de Ica - Ciudad de Ica.\nAlojamiento\nHoteles (especificar categorías)\nHoteles de 1 a 5 estrellas - Ciudad de Ica.\nAlojamiento\nHostales (especificar categorías)\nHostales de 1 a 3 estrellas - Ciudad de Ica.\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Ica."
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Ocucaje, Santiago e Ica.\nBancos\nCiudad de Ica.\nCajero automático\nCiudad de Ica.\nCasa de cambio\nCiudad de Ica.\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Santiago e Ica.\nServicio de correos\nCiudad de Ica.\nServicio de estacionamiento\nCiudad de Ica.\nServicios de taxis\nCiudad de Ica.\nCentro de salud - tópico\nCiudad de Ocucaje, Santiago e Ica.\nVenta de materiales para fotografías\nCiudad de Ica.\nSeguridad / POLTUR / Comisaría\nCiudad de Ica.\nAlquiler y compra de equipos deportivos\nCiudad de Ica.\nLibrerías\nCiudad de Ica.\nBodegas o minimarkets\nCiudad de Ocucaje, Santiago e Ica.\nOtros(especificar)\nCentros comerciales y supermercados - Ciudad de Ica."
+    },
+    {
+      "titulo": "Condiciones de Accesibilidad al Visitante",
+      "contenido": "Visitante\nInstalación\nActividades y/o programas\nEquipamiento\nObservación\nPersonas con discapacidad física\nRampas\n--\n--\n--"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\n--\nLuz (Suministro Eléctrico)\n--\nTeléfono\n--\nAlcantarillado sanitario\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Ocucaje.\nDesagüe\nCiudad de Ocucaje.\nLuz (Suministro Eléctrico)\nCiudad de Ocucaje.\nTeléfono\nCiudad de Ocucaje.\nAlcantarillado sanitario\nCiudad de Ocucaje.\nSeñalización turística\nCiudad de Ocucaje."
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\n--\nPrivado:\nGrupo Corporativo ELJURI\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nZona Registral XI - Oficina Registral Ica\nNúmero de Partida:\n11039111\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nIng. Estuardo Rosero Viteri\nTiempo de administración\nDesde el año 2020."
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo de Ica.\nNombre (Persona(s) responsable(s) del inventario turístico):\nLic. Leslie Pilar Jorge Guerra\nCargo:\nEspecialista en Turismo\nCorreo:\nservicioturismo@dirceturica.gob.pe\nTeléfono:\n992243714\nFuentes Bibliográfica:\nIndecopi (2022). Listado alfabético de personas con autorización de uso de la denominación de origen de pisco.\nhttps://cdn.www.gob.pe/uploads/document/file/3446488\nLey General del Patrimonio Paleontológico del Perú – Ley N.º 31204. (2021, 28 de mayo). Congreso de la República. Diario Oficial del Bicentenario.\nhttps://busquedas.elperuano.pe/normaslegales/ley-general-del-patrimonio-paleontologico-del-peru-ley-n-31204-1958026-3/\nCóndor, J. (2021, diciembre 27). Ocucaje retomará negocio hotelero y ampliará planta para “ready to drink”.Gestión. URL: https://gestion.pe/economia/empresas/ocucaje-retomara-negocio-hotelero-y-ampliara-planta-para-ready-to-drink-noticia/?ref=gesr\nComité Vitivinícola (2010). La Industria Vitivinícola Nacional – Agenda tributaria pendiente promoción de la inversión.\nhttps://www.bcrp.gob.pe/docs/Proyeccion-Institucional/Encuentros-Regionales/2010/Ica/EER-Ica-Pedro-Olaechea.pdf\nURL:https://cdn.www.gob.pe/uploads/document/file/1127325/La_historia_de_un_fosil_peruano20\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n24/11/2022"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -14.356002489809494,
+    "longitud": -75.67636549472809
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-14.356002489809494,-75.67636549472809"
+}

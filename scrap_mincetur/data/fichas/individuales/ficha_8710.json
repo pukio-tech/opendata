@@ -1,0 +1,430 @@
+{
+  "cod_ficha": 8710,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=8710",
+  "nombre": "Malecón Grau",
+  "departamento": "La Libertad",
+  "provincia": "Pacasmayo",
+  "distrito": "PACASMAYO",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Arquitectura y Espacios Urbanos",
+  "subtipo": "Malecones",
+  "jerarquia": "2",
+  "altitud": "5",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=628250",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=628250",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=628306",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=628307",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=628257",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=628258",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=628310",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=628259",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=628260"
+  ],
+  "actividades_permitidas": [
+    "Otros - Compras de artesanía/souvenir",
+    "Otros - Toma de fotografías y filmaciones",
+    "Cultura y Folclore - Actividades Religiosas o Patronales",
+    "Otros - Realización de eventos",
+    "Naturaleza - Observación de paisaje",
+    "Cultura y Folclore - Degustación y preparación de platos, productos o bebidas típicas",
+    "Cultura y Folclore - Ferias"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Compras de artesanía/souvenir",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/artesania02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Actividades Religiosas o Patronales",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/act_religiosas02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Realización de eventos",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/eventos02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Degustación y preparación de platos, productos o bebidas típicas",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/platos_tipicos02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Ferias",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/feria02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "La Libertad/Pacasmayo/Pacasmayo - La Libertad/Pacasmayo/Pacasmayo",
+      "detalle": "Plaza de Armas de Pacasmayo - Malecón Grau",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "600 mt/ 3 min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "450",
+      "horario": "INRT Conteo Muestral",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "9450",
+      "horario": "INRT Conteo Muestral",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "900",
+      "horario": "INRT Conteo Muestral",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "06:00 a.m. - 08:00 p.m. Se recomienda este horario, sin embargo se puede visitar en cualquier momento.",
+      "observaciones": "Se recomienda este horario, sin embargo se puede visitar en cualquier momento."
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "3 estrellas - Solo uno"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de botes",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "Ciudad de Pacasmayo (3 estrellas)"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "Ciudad de Pacasmayo (3,2 estrellas)"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Pacasmayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Pacasmayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Pacasmayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Ciudad de Pacasmayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Ciudad de Pacasmayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Pacasmayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Ciudad de Pacasmayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Pacasmayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de Pacasmayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de botes",
+      "observacion": "Ciudad de Pacasmayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Pacasmayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Pacasmayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Ciudad de Pacasmayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "Ciudad de Pacasmayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Ciudad de Pacasmayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Pacasmayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "Ciudad de Pacasmayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Ciudad de Pacasmayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "Ciudad de Pacasmayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "Ciudad de Pacasmayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Muelles turísticos",
+      "observacion": "Ciudad de Pacasmayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Ciudad de Pacasmayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "Ciudad de Pacasmayo"
+    }
+  ],
+  "descripcion": "El proyecto de construir un malecón en la ribera del mar fue una iniciativa del alcalde Pedro Fuxa. Así, en marzo del año de 1898, se construyó una vereda junto al litoral. La construcción de un malecón sólido se llevó a cabo entre los años 1910 y 1912. El malecón, edificado en los primeros años de la segunda década del siglo XX, tuvo las siguientes dimensiones: 400 metros de largo, 10 metros de ancho y 1.50 metros de alto. La obra tuvo un costo de 59.50 libras peruanas. El malecón, en sus inicios, fue construido de madera y, debido a su cercanía al mar, sufría daños en su estructura cuando la marea era violenta. Este encantador paseo ha experimentado varias remodelaciones; una de ellas se inició el 7 de noviembre de 1941 y culminó el 11 de febrero de 1942. Los trabajos del nuevo malecón se iniciaron por iniciativa de la Junta de Defensa Marítima y fue inaugurado por el presidente de la República, don Manuel Prado y Ugarteche. La longitud de esta estructura fue de 370 metros, se construyó sobre 740 rieles y su ancho fue de 12 metros. Las obras complementarias, como el barandal, las farolas y las bancas, estuvieron a cargo del constructor Nemesio Forero en septiembre de 1942, siendo alcalde don Alamiro Calderón. El 6 de diciembre de 1973, el alcalde don Gonzalo Ugás Salcedo solicitó en sesión de concejo la remodelación de las barandas, las cuales habían sido destruidas por la erosión marina. La petición del burgomaestre fue aprobada por el pleno del concejo el 5 de abril de 1974, y se remodelaron 316.80 metros. La última intervención se inició en agosto de 1998 y culminó en abril de 1999. Los trabajos fueron ejecutados por la constructora ARAN, bajo la dirección del ingeniero Víctor Arizola Katto.\nEn cuanto a su arquitectura, tanto su uso original como el actual corresponde a un paseo peatonal. El piso está compuesto por bloques de concreto, con una trama central en forma de cuadrados de color rojo y negro. Por el lado oeste, el malecón cuenta con una baranda de 0.90 metros de altura, equipada con farolas de iluminación distribuidas cada 25 metros. Dispone de seis pérgolas de forma octogonal que permiten el libre acceso a la playa. Asimismo, cuenta con 52 bancas de hierro forjado con asientos y respaldos de madera, y 27 jardineras que decoran y embellecen este paseo. Bordean el malecón Grau dos plazuelas de buen gusto arquitectónico, edificadas en homenaje a dos ilustres héroes nacionales: don Miguel Grau y don Francisco Bolognesi. Estar ubicado frente al mar le otorga al malecón una expresión paisajística especial. Es un foco de atracción turística e histórica, no solo por su cercanía al mar, sino también por la valiosa herencia arquitectónica representada en las casonas de madera, que testimonian épocas pasadas y reflejan su evolución urbanística. Quienes visitan este paseo contemplan embelesados la inmensidad del océano. Su vista privilegiada al Pacífico, los atardeceres inolvidables y la cercanía a edificaciones tradicionales lo convierten en un lugar ideal para relajarse, tomar fotografías y disfrutar de la cultura costera del norte peruano.",
+  "particularidades": "",
+  "estado_actual": "Se encuentra en buen estado de conservación, la entidad responsable es la Municipalidad Distrital de Pacasmayo.",
+  "observaciones": "Actualmente, se viene ejecutando el proyecto \"Mejoramiento y ampliación de los servicios turísticos en el Malecón Grau\", cuya culminación está prevista para el mes de enero de 2026.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "El proyecto de construir un malecón en la ribera del mar fue una iniciativa del alcalde Pedro Fuxa. Así, en marzo del año de 1898, se construyó una vereda junto al litoral. La construcción de un malecón sólido se llevó a cabo entre los años 1910 y 1912. El malecón, edificado en los primeros años de la segunda década del siglo XX, tuvo las siguientes dimensiones: 400 metros de largo, 10 metros de ancho y 1.50 metros de alto. La obra tuvo un costo de 59.50 libras peruanas. El malecón, en sus inicios, fue construido de madera y, debido a su cercanía al mar, sufría daños en su estructura cuando la marea era violenta. Este encantador paseo ha experimentado varias remodelaciones; una de ellas se inició el 7 de noviembre de 1941 y culminó el 11 de febrero de 1942. Los trabajos del nuevo malecón se iniciaron por iniciativa de la Junta de Defensa Marítima y fue inaugurado por el presidente de la República, don Manuel Prado y Ugarteche. La longitud de esta estructura fue de 370 metros, se construyó sobre 740 rieles y su ancho fue de 12 metros. Las obras complementarias, como el barandal, las farolas y las bancas, estuvieron a cargo del constructor Nemesio Forero en septiembre de 1942, siendo alcalde don Alamiro Calderón. El 6 de diciembre de 1973, el alcalde don Gonzalo Ugás Salcedo solicitó en sesión de concejo la remodelación de las barandas, las cuales habían sido destruidas por la erosión marina. La petición del burgomaestre fue aprobada por el pleno del concejo el 5 de abril de 1974, y se remodelaron 316.80 metros. La última intervención se inició en agosto de 1998 y culminó en abril de 1999. Los trabajos fueron ejecutados por la constructora ARAN, bajo la dirección del ingeniero Víctor Arizola Katto.\nEn cuanto a su arquitectura, tanto su uso original como el actual corresponde a un paseo peatonal. El piso está compuesto por bloques de concreto, con una trama central en forma de cuadrados de color rojo y negro. Por el lado oeste, el malecón cuenta con una baranda de 0.90 metros de altura, equipada con farolas de iluminación distribuidas cada 25 metros. Dispone de seis pérgolas de forma octogonal que permiten el libre acceso a la playa. Asimismo, cuenta con 52 bancas de hierro forjado con asientos y respaldos de madera, y 27 jardineras que decoran y embellecen este paseo. Bordean el malecón Grau dos plazuelas de buen gusto arquitectónico, edificadas en homenaje a dos ilustres héroes nacionales: don Miguel Grau y don Francisco Bolognesi. Estar ubicado frente al mar le otorga al malecón una expresión paisajística especial. Es un foco de atracción turística e histórica, no solo por su cercanía al mar, sino también por la valiosa herencia arquitectónica representada en las casonas de madera, que testimonian épocas pasadas y reflejan su evolución urbanística. Quienes visitan este paseo contemplan embelesados la inmensidad del océano. Su vista privilegiada al Pacífico, los atardeceres inolvidables y la cercanía a edificaciones tradicionales lo convierten en un lugar ideal para relajarse, tomar fotografías y disfrutar de la cultura costera del norte peruano."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "El malecón Grau de Pacasmayo está inventariado como ambientes Urbano Monumentales del Patrimonio Monumental, declarado según R.D.N. Nº 026- INC- 2002."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Se encuentra en buen estado de conservación, la entidad responsable es la Municipalidad Distrital de Pacasmayo."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "Actualmente, se viene ejecutando el proyecto \"Mejoramiento y ampliación de los servicios turísticos en el Malecón Grau\", cuya culminación está prevista para el mes de enero de 2026."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n450\nINRT Conteo Muestral\n2025\nRealizado por la Municipalidad Distrital de Pacasmayo\nTuristas Nacionales\n9450\nINRT Conteo Muestral\n2025\nRealizado por la Municipalidad Distrital de Pacasmayo\nVisitantes Locales(Excursionistas)\n900\nINRT Conteo Muestral\n2025\nRealizado por la Municipalidad Distrital de Pacasmayo"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nLa Libertad/Pacasmayo/Pacasmayo\n-\nLa Libertad/Pacasmayo/Pacasmayo\nPlaza de Armas de Pacasmayo - Malecón Grau\nTerrestre\nAutomóvil particular\nAsfaltado\n600 mt/ 3 min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n06:00 a.m.\n-\n08:00 p.m.\nSe recomienda este horario, sin embargo se puede visitar en cualquier momento."
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nCompras de artesanía/souvenir\n--\nOtros\nToma de fotografías y filmaciones\n--\nCultura y Folclore\nActividades Religiosas o Patronales\n--\nOtros\nRealización de eventos\n--\nNaturaleza\nObservación de paisaje\n--\nCultura y Folclore\nDegustación y preparación de platos, productos o bebidas típicas\n--\nCultura y Folclore\nFerias\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nAlimentación\nFuentes de soda\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nVenta de artesanía\n--\nInstalaciones Privadas\nAlojamiento\nHoteles (especificar categorías)\n3 estrellas - Solo uno\nInstalaciones Privadas\nAlimentación\nRestaurantes\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nAlquiler de botes\n--\nInstalaciones Públicas\nServicios Públicos\nSeñales turísticas de orientación\n--\nInstalaciones Públicas\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\nCiudad de Pacasmayo (3 estrellas)\nAlojamiento\nHostales (especificar categorías)\nCiudad de Pacasmayo (3,2 estrellas)\nAlimentación\nRestaurantes\nCiudad de Pacasmayo\nAlimentación\nBares\nCiudad de Pacasmayo\nAlimentación\nCafeterías\nCiudad de Pacasmayo\nAlimentación\nFuentes de soda\nCiudad de Pacasmayo\nAlimentación\nVenta de comida Rápida\nCiudad de Pacasmayo\nLugares de Recreación\nDiscotecas\nCiudad de Pacasmayo\nLugares de Recreación\nJuegos Infantiles\nCiudad de Pacasmayo\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Pacasmayo\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de Pacasmayo\nOtros Servicios Turísticos\nAlquiler de botes\nCiudad de Pacasmayo\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Pacasmayo\nAlimentación\nKioskos de comida y bebidas\nCiudad de Pacasmayo\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nCiudad de Pacasmayo\nLugares de Recreación\nKaraoke\nCiudad de Pacasmayo\nLugares de Recreación\nCentros Deportivos\nCiudad de Pacasmayo\nLugares de Recreación\nBares\nCiudad de Pacasmayo\nServicios Públicos\nMiradores turísticos\nCiudad de Pacasmayo\nServicios Públicos\nEstacionamiento de vehículos\nCiudad de Pacasmayo\nServicios Públicos\nSeñales turísticas de orientación\nCiudad de Pacasmayo\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\nCiudad de Pacasmayo\nServicios Públicos\nMuelles turísticos\nCiudad de Pacasmayo\nServicios Públicos\nOficina de Información turística\nCiudad de Pacasmayo\nServicios Públicos\nCaminos peatonales\nCiudad de Pacasmayo"
+    },
+    {
+      "titulo": "Servicios Complementarios dentro del recurso",
+      "contenido": "Servicio Complementario\nObservación\nServicios de salvavidas\n--"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Pacasmayo\nBancos\nCiudad de Pacasmayo\nCajero automático\nCiudad de Pacasmayo\nCasa de cambio\nCiudad de Pacasmayo\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Pacasmayo\nServicio de correos\nCiudad de Pacasmayo\nServicio de estacionamiento\nCiudad de Pacasmayo\nServicios de taxis\nCiudad de Pacasmayo\nCentro de salud - tópico\nCiudad de Pacasmayo\nVenta de materiales para fotografías\nCiudad de Pacasmayo\nSeguridad / POLTUR / Comisaría\nCiudad de Pacasmayo\nAlquiler y compra de equipos deportivos\nCiudad de Pacasmayo\nLibrerías\nCiudad de Pacasmayo\nBodegas o minimarkets\nCiudad de Pacasmayo"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\n--\nLuz (Suministro Eléctrico)\n--\nAlcantarillado sanitario\n--\nSeñalización turística\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Pacasmayo\nLuz (Suministro Eléctrico)\nCiudad de Pacasmayo\nTeléfono\nCiudad de Pacasmayo\nAlcantarillado sanitario\nCiudad de Pacasmayo\nSistemas de tratamiento alternativo de residuos (Biodigestor, pozo séptico, otros)\nCiudad de Pacasmayo\nSeñalización turística\nCiudad de Pacasmayo"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nMunicipalidad Distrital de Pacasmayo\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nEn tenencia de la Municipalidad Distrital de Pacasmayo\nAdministrador por\nNombre\nMunicipalidad Distrital de Pacasmayo\nTiempo de administración\nDesde 1910"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nGerencia Regional de Comercio Exterior, Turismo y Artesanía de La Libertad\nNombre (Persona(s) responsable(s) del inventario turístico):\nYuleysi Paredes Ruiz\nCargo:\nSubgerente de Turismo\nCorreo:\nzparedesr@regionlalibertad.gob.pe\nTeléfono:\n953414088\nFuentes Bibliográfica:\nOctavio Polo Briceño (1999)- Pacasmayo Histórico.\nEl Correo-(2013 – 2016)-Plan De Desarrollo Turístico Local De Pacasmayo\nMunicipalidad Distrital De Pacasmayo-www.munipacasmayo.gob.pe\nPerú Top Tours-Malecón Grau\nhttps://www.perutoptours.com/index12pa_malecon_playa_pacasmayo.html\nRPP Noticias. (2013, enero 10). La Libertad, encanto y tradición del Malecón Grau en Pacasmayo. https://rpp.pe/peru/actualidad/la-libertad-encanto-y-tradicion-del-malecon-grau-en-pacasmayo-noticia-534310\nHuayta Araujo, L. A. (2019). Plan de marketing turístico para posicionar el distrito de Pacasmayo como destino turístico en el mercado nacional e internacional [Tesis de licenciatura, Universidad César Vallejo]. Repositorio Institucional UCV. https://repositorio.ucv.edu.pe/handle/20.500.12692/31644\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\nCD\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n14/10/2025 07:51:31"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -7.398632040724428,
+    "longitud": -79.57653880119324
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-7.398632040724428,-79.57653880119324"
+}

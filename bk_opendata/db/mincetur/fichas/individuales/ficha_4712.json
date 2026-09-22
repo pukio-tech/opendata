@@ -1,0 +1,286 @@
+{
+  "cod_ficha": 4712,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=4712",
+  "nombre": "Cerro Apu Khapia",
+  "departamento": "Puno",
+  "provincia": "Yunguyo",
+  "distrito": "YUNGUYO",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "n. Áreas Protegidas",
+  "subtipo": "Reservas Paisajistas",
+  "jerarquia": "2",
+  "altitud": "4960",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=296047",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=296047",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=296049",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=456821",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=456822",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=456791",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=456792",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=460954",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=470812"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Estudios e Investigación",
+    "Naturaleza - Observación de fauna",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de paisaje",
+    "Cultura y Folclore - Rituales místicos o tradicionales",
+    "Deportes / Aventura - Caminata/Trekking"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "Desde la cima se puede visializar el paisaje del lago Titicaca, lago Menor del Wiñaymarca.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de fauna",
+      "observacion": "Animales Como: Aguila, Cernicalos, alkamari, Buho, Vizcachas, Venados, Zorros, Zorrinos, etc.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fauna02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "Kishuar, Kelas, Thola, pastos naturales, collis, queñuales, eucaliptos, pinos, Muña Coas, canlli, etc.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "Desde la cima se puede visializar el paisaje del lago Titicaca, lago Menor del Wiñaymarca y sitios arqueológicos de la comunidad de Acari.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Rituales místicos o tradicionales",
+      "observacion": "Celebracion del año nuevo andino el dia 21 de junio.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/rituales_misticos02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Puno/Puno/Puno - Puno/Yunguyo/Yunguyo",
+      "detalle": "Terminal Zonal Puno - Terminal Terrestre Yunguyo",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mini bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "136km/2hrs."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Puno/Yunguyo/Yunguyo - Puno/Yunguyo/Yunguyo",
+      "detalle": "Terminal Terrestre Yunguyo - Paradero Cuturapi",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mototaxi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "0.5km/5min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Puno/Yunguyo/Yunguyo - Puno/Yunguyo/Yunguyo",
+      "detalle": "Paradero Cuturapi - Desvío Acari",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Taxi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "5km/20min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Puno/Yunguyo/Yunguyo - Puno/Yunguyo/Yunguyo",
+      "detalle": "Desvío Acari - Taro Okjo",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Combi",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "6.85km/25min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Puno/Yunguyo/Yunguyo - Puno/Yunguyo/Yunguyo",
+      "detalle": "Taro Okjo - Cerro Apu Khapía",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Sendero",
+      "distancia_tiempo": "2.9km/1.5h"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "300",
+      "horario": "Informe Tecnico N° 01-2022-MPY/SGTGF",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "1600",
+      "horario": "Informe Tecnico N° 01-2022-MPY/SGTGF",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "5100",
+      "horario": "Informe Tecnico N° 01-2022-MPY/SGTGF",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "04:00 a.m. - 04:00 p.m. Visitar de preferencia en las mañanas, llevar consigo alimentación y implementos de seguridad.",
+      "observaciones": "Visitar de preferencia en las mañanas, llevar consigo alimentación y implementos de seguridad."
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": "Previa coordinación con el Presidente comunidad, Sr. Yony Rubiño Peña Almendre."
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Yunguyo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Yunguyo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Yunguyo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Yunguyo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Yunguyo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "Ciudad de Yunguyo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Ciudad de Yunguyo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Puesto de auxilio rápido",
+      "observacion": "Ciudad de Yunguyo"
+    }
+  ],
+  "descripcion": "Es el Apu tutelar de la provincia de Yunguyo y tiene el pico más elevado en esta parte del territorio del Altiplano. Está ubicado al sur, a 15 Km de la ciudad de Yunguyo con una altura de 4809 m.s.n.m.\nDeclarado como Zona Reservada “Reserva Paisajística Cerro Khapia” mediante Decreto Supremo N.º 008-2011-MINAM.\nConsiderado un volcán apagado, que está compuesto de rocas volcánicas, barrancos y precipicios, cuyo ámbito de influencia comprende los distritos de Yunguyo, Copani y Cuturapi de la provincia de Yunguyo, y los distritos de Zepita y Pomata de la provincia de Chucuito, siendo la comunidad campesina de Acari la más cercana.\nSe atribuye su formación a la era terciaria o cenozoica del periodo plioceno. En su seno alberga una inmensa riqueza cultural aymara y natural, de las que se pueden destacar el K’aparo (tubérculo silvestre), zorros, zorrinos, vizcachas, codornices, águilas, lagartos y culebras.\nDesde épocas pre incas en él se realizan rituales andinos de pago a la pachamama o madre tierra, en el frente del cráter se han dispuesto grandes piedras planas a manera de mesa para la realización de los rituales y una especie de altar con una hornacina armada con piedras medianas que sirve para depositar las ofrendas y en la cima se puede apreciar un calvario.\nMayormente, es visitado para rendir culto mediante rituales mágicos religiosos donde se ofrenda diversas especies o insumos, con cánticos ancestrales y oraciones, especialmente en el mes de agosto por la madrugada.",
+  "particularidades": "El cerro Khapía es el pico más elevado en esta parte del territorio del altiplano y único cerro declarado como reserva paisajista en la provincia de Yunguyo.",
+  "estado_actual": "Bueno, cuenta con mantenimiento por parte de la comunidad campesina de Acari.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Es el Apu tutelar de la provincia de Yunguyo y tiene el pico más elevado en esta parte del territorio del Altiplano. Está ubicado al sur, a 15 Km de la ciudad de Yunguyo con una altura de 4809 m.s.n.m.\nDeclarado como Zona Reservada “Reserva Paisajística Cerro Khapia” mediante Decreto Supremo N.º 008-2011-MINAM.\nConsiderado un volcán apagado, que está compuesto de rocas volcánicas, barrancos y precipicios, cuyo ámbito de influencia comprende los distritos de Yunguyo, Copani y Cuturapi de la provincia de Yunguyo, y los distritos de Zepita y Pomata de la provincia de Chucuito, siendo la comunidad campesina de Acari la más cercana.\nSe atribuye su formación a la era terciaria o cenozoica del periodo plioceno. En su seno alberga una inmensa riqueza cultural aymara y natural, de las que se pueden destacar el K’aparo (tubérculo silvestre), zorros, zorrinos, vizcachas, codornices, águilas, lagartos y culebras.\nDesde épocas pre incas en él se realizan rituales andinos de pago a la pachamama o madre tierra, en el frente del cráter se han dispuesto grandes piedras planas a manera de mesa para la realización de los rituales y una especie de altar con una hornacina armada con piedras medianas que sirve para depositar las ofrendas y en la cima se puede apreciar un calvario.\nMayormente, es visitado para rendir culto mediante rituales mágicos religiosos donde se ofrenda diversas especies o insumos, con cánticos ancestrales y oraciones, especialmente en el mes de agosto por la madrugada."
+    },
+    {
+      "titulo": "Particularidades",
+      "contenido": "El cerro Khapía es el pico más elevado en esta parte del territorio del altiplano y único cerro declarado como reserva paisajista en la provincia de Yunguyo."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "Decreto Supremo N° 008-2011-MINAM-Declara Zona Reservada “Reserva Paisajística Cerro Khapia”.\nSello Internacional Safe Travels\nMediante Acuerdo de Consejo Nº 042-2010-CMPY del 22 de marzo del 2010, se declara al cerro Khapia como \"Reserva Natural y Patrimonio Eco Turístico de Nuestra Provincia de Yunguyo\".\nMediante Resolución de Alcaldía Nº 027-2010-MCPA/A del 25 de marzo del 2010, se declara como reserva de flora y fauna."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, cuenta con mantenimiento por parte de la comunidad campesina de Acari."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n300\nInforme Tecnico N° 01-2022-MPY/SGTGF\n2021\nTuristas Nacionales\n1600\nInforme Tecnico N° 01-2022-MPY/SGTGF\n2021\nVisitantes Locales(Excursionistas)\n5100\nInforme Tecnico N° 01-2022-MPY/SGTGF\n2021"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nPuno/Puno/Puno\n-\nPuno/Yunguyo/Yunguyo\nTerminal Zonal Puno - Terminal Terrestre Yunguyo\nTerrestre\nMini bus público\nAsfaltado\n136km/2hrs.\n1\nPuno/Yunguyo/Yunguyo\n-\nPuno/Yunguyo/Yunguyo\nTerminal Terrestre Yunguyo - Paradero Cuturapi\nTerrestre\nMototaxi\nAsfaltado\n0.5km/5min\n1\nPuno/Yunguyo/Yunguyo\n-\nPuno/Yunguyo/Yunguyo\nParadero Cuturapi - Desvío Acari\nTerrestre\nTaxi\nAsfaltado\n5km/20min.\n1\nPuno/Yunguyo/Yunguyo\n-\nPuno/Yunguyo/Yunguyo\nDesvío Acari - Taro Okjo\nTerrestre\nCombi\nTrocha carrozable\n6.85km/25min.\n1\nPuno/Yunguyo/Yunguyo\n-\nPuno/Yunguyo/Yunguyo\nTaro Okjo - Cerro Apu Khapía\nTerrestre\nA pie\nSendero\n2.9km/1.5h"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre\nPrevia coordinación con el Presidente comunidad, Sr. Yony Rubiño Peña Almendre."
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n04:00 a.m.\n-\n04:00 p.m.\nVisitar de preferencia en las mañanas, llevar consigo alimentación y implementos de seguridad."
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\nDesde la cima se puede visializar el paisaje del lago Titicaca, lago Menor del Wiñaymarca.\nOtros\nEstudios e Investigación\n--\nNaturaleza\nObservación de fauna\nAnimales Como: Aguila, Cernicalos, alkamari, Buho, Vizcachas, Venados, Zorros, Zorrinos, etc.\nNaturaleza\nObservación de flora\nKishuar, Kelas, Thola, pastos naturales, collis, queñuales, eucaliptos, pinos, Muña Coas, canlli, etc.\nNaturaleza\nObservación de paisaje\nDesde la cima se puede visializar el paisaje del lago Titicaca, lago Menor del Wiñaymarca y sitios arqueológicos de la comunidad de Acari.\nCultura y Folclore\nRituales místicos o tradicionales\nCelebracion del año nuevo andino el dia 21 de junio.\nDeportes / Aventura\nCaminata/Trekking\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlimentación\nRestaurantes\nCiudad de Yunguyo\nAlimentación\nKioskos de comida y bebidas\nCiudad de Yunguyo\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Yunguyo\nLugares de Recreación\nBares\nCiudad de Yunguyo\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Yunguyo\nServicios Públicos\nMiradores turísticos\nCiudad de Yunguyo\nServicios Públicos\nOficina de Información turística\nCiudad de Yunguyo\nServicios Públicos\nPuesto de auxilio rápido\nCiudad de Yunguyo"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Yunguyo\nBancos\nCiudad de Yunguyo\nCajero automático\nCiudad de Yunguyo\nCasa de cambio\nCiudad de Yunguyo\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Yunguyo\nServicio de correos\nCiudad de Yunguyo\nServicios de taxis\nCiudad de Yunguyo\nCentro de salud - tópico\nCiudad de Yunguyo\nVenta de materiales para fotografías\nCiudad de Yunguyo\nSeguridad / POLTUR / Comisaría\nCiudad de Yunguyo\nLibrerías\nCiudad de Yunguyo\nBodegas o minimarkets\nCiudad de Yunguyo"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nComunidad Campesina de Acari\nDesagüe\nCiudad de Yunguyo\nLuz (Suministro Eléctrico)\nComunidad Campesina de Acari\nTeléfono\nCiudad de Yunguyo\nSistemas de tratamiento alternativo de residuos (Biodigestor, pozo séptico, otros)\nCiudad de Yunguyo"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\n--\nPrivado:\nComunidad campesina de Acari\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n052-MA-94\nNúmero de Partida:\nN° 05005988\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nAdministrador por\nNombre\nComunidad Campesina de Acari\nTiempo de administración\nDesde el año 1994"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDireción Regional de Comercio Exterior y Turismo - DIRCETUR Puno\nNombre (Persona(s) responsable(s) del inventario turístico):\nArq. Vadim Masciotti Cabala\nCargo:\nDIrector de Turismo - DIRCETUR Puno\nCorreo:\nvmaciotti@dirceturpuno,gob.pe\nTeléfono:\n051 351261\nFuentes Bibliográfica:\nChuchullo, J. T. (1997). Registro Arqueológico e Historia de la Provincia de Yunguyo. Yunguyo.\nChura, Y. (2010). Inventario de Recursos Turisticos de la provincia de Yunguyo. Documento de la\nMunicipalidad Provincial de Yunguyo. Yunguyo, Puno, Perú: Municipalidad Provincial de Yunguyo.\nMarco V. Rueda, S. E. (1995). Cosmos, Hombre Y Sacralidad. Ediciones Abya-Yala.\nDecreto Supremo N° 008-2011-MINAM-Declara Zona Reservada “Reserva Paisajística Cerro Khapia”.\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n15/12/2022"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -16.373007,
+    "longitud": -69.12080900000001
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-16.373007,-69.12080900000001"
+}

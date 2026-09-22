@@ -1,0 +1,365 @@
+{
+  "cod_ficha": 2450,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=2450",
+  "nombre": "Museo Casa Carrión",
+  "departamento": "Pasco",
+  "provincia": "Pasco",
+  "distrito": "YANACANCHA",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Museos y otros",
+  "subtipo": "Museos",
+  "jerarquia": "2",
+  "altitud": "4345",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=618231",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=618231",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=618256",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=618232",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=618233",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=618234",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=618257",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=618235",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=618258",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=618259",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=618260",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=618261",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=618236",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=618237",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=618262",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=618263",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=618264",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=618265",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=618266",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=618238",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=618239",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=618267",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=618268"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Estudios e Investigación",
+    "Otros - Realización de eventos",
+    "Cultura y Folclore - Apreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "Se permite realizar fotografías y videos dentro del museo",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "Se realiza investigaciones sobre las muestras del museo.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Realización de eventos",
+      "observacion": "Se desarrollan conferencias, presentaciones de libros y otros en el auditorio",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/eventos02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Apreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)",
+      "observacion": "Muestras pictográficas de varios autores.",
+      "icono_url": null
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Pasco/Pasco/Chaupimarca - Pasco/Pasco/Yanacancha",
+      "detalle": "Plaza Daniel Alcides Carrión (Chaupimarca) - Museo Casa Carrión (Yanacancha)",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Combi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "3.04 km / 17 min."
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "67",
+      "horario": "REGISTRO DE VISITANTES DEL MUSEO - UNDAC",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "181",
+      "horario": "REGISTRO DE VISITANTES DEL MUSEO",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "693",
+      "horario": "REGISTRO DE VISITANTES DEL MUSEO",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "08:30 a.m. - 05:00 p.m. La atención es solamente de Lunes A Viernes",
+      "observaciones": "La atención es solamente de Lunes A Viernes"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Semi-restringido(previo permiso)",
+      "observaciones": "No se paga por el ingreso, pero se debe coordinar la disponibilidad del espacio, aforo y recorrido con el Responsable del museo, el Sr. Abraham Picoy - Num: 963652794."
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "En la ciudad de Cerro de Pasco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "En la ciudad de Cerro de Pasco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "En la ciudad de Cerro de Pasco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "En la ciudad de Cerro de Pasco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "En la ciudad de Cerro de Pasco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "En la ciudad de Cerro de Pasco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "En la ciudad de Cerro de Pasco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "En la ciudad de Cerro de Pasco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "En castellano, en la ciudad de Cerro de Pasco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "En la ciudad de Cerro de Pasco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "En la ciudad de Cerro de Pasco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "En la ciudad de Cerro de Pasco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "En la ciudad de Cerro de Pasco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "En la ciudad de Cerro de Pasco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "De 1 a 3 estrellas, En la ciudad de Cerro de Pasco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Apart-hoteles (especificar categorías)",
+      "observacion": "De 3 estrellas En la ciudad de Cerro de Pasco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "De 1 a 2 En la ciudad de Cerro de Pasco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "En la ciudad de Cerro de Pasco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "En la ciudad de Cerro de Pasco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "En la ciudad de Cerro de Pasco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "En la ciudad de Cerro de Pasco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "En la ciudad de Cerro de Pasco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Centros de interpretación",
+      "observacion": "En la ciudad de Cerro de Pasco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "En la ciudad de Cerro de Pasco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Puesto de auxilio rápido",
+      "observacion": "En la ciudad de Cerro de Pasco"
+    }
+  ],
+  "descripcion": "El museo Casa Carrión situado en el corazón del distrito de Yanacancha, es un espacio dedicado a preservar y difundir el conocimiento sobre instrumental médico de antaño, piezas y muestras arqueológicas, pictográficas y taxidermicas.\nEste museo ocupa la impresionante réplica de la casa del mártir de la medicina peruana y mundial, bien material reconocido como patrimonio histórico monumental de Pasco. La arquitectura de este inmueble combina elementos de estilo andino con el uso de materiales locales como el adobe y la piedra, incluyendo la madera para ventanas y puertas, carrizo para cobertura interior del cielorraso.\nEl museo fue inaugurado el 05 de octubre de 1995, con motivo de conmemorar los 110 años de muerte del mártir Daniel Alcides Carrión García; actualmente este espacio cultural y de interés turístico se encuentra bajo la administración de la Universidad Nacional Daniel Alcides Carrión, institución que utiliza el espacio como parte de su sistema educativo, siendo el responsable de la curaduría; organizando, contextualizando y presentando las muestras museográficas que buscan promover la investigación y conservación del legado del antiguo Pasco, desarrollo de actividades tradicionales significativas, fauna silvestre dentro del territorio, instrumental médico, documentación histórica y pictográfica.\nEl museo cuenta con cuatro salas de exposición permanente con una colección de bienes materiales muebles de relevancia histórica, arqueológica e instrumental; además de una sala auditorio en el segundo piso. La primera denominada Sala de Arqueología y Antropología guarda dentro de su colección muestras de evidencia arqueológica como puntas de proyectil, cerámica y artefactos diversos que evidencian el desarrollo cultural de la región desde la época prehispánica, entre los que destacan la cultura de los Yaros, Taramas y Chinchaycochas; además de la exhibición de una momia que data aproximadamente de 1460 d.C. hallada por el investigador Marino Pacheco Sandoval, también muestra indumentaria típica de la provincia Daniel Alcides Carrión y herramientas de uso agrícola.\nLa segunda sala denominada Sala Pictográfica, guarda muestras del arte pictórico del pintor pasqueño y paucartambino Leoncio Fidel Lugo Bao, pintor indigenista peruano, catalogado como uno de los más destacados primeros promotores y líderes del movimiento indigenista a nivel del centro del Perú; también se aprecia muestras pictográficas del artista pasqueño Juan Ortega Rojas, apreciándose el estilo de pintura en piezas líticas (piedra) con finos detalles de recursos turísticos o acontecimientos históricos de Pasco y también pinturas de Pastor Rojas. A un lado de la sala se observan las muestras de numismática (billetes y monedas) antiguas.\nLa tercera sala denominada Sala de Tecnología Médica en homenaje a Daniel Alcides Carrión, exhibe equipo médico utilizado en antaño, se puede visualizar una punta proyectora, resucitador, sondas, esterilizador, termómetros, autoclave, entre otros muchos más. También se exhibe documentos y fotografías del mártir de la medicina peruana, equipos de oficina como máquinas de escribir, teléfonos y relojes.\nLa sala de Taxidermia (cuarta sala), presenta especies de fauna, avifauna silvestres y animales de crianza doméstica; además de mostrar especies con alteraciones genéticas. Destacan la exhibición de el zorro andino, la parihuana, diversidad de patos, halcón, huallatas o huachuas, venado, rana gigante de Junín, alpacas y llamas.\nEn el segundo piso del recinto principal se encuentra el auditorio del museo, donde se exhiben pinturas y fotografías de los presidentes y benefactores de la Beneficencia Pública de Pasco.\nEste museo que pertenece a la Red de Museos del Perú con su colección Arqueológica, artística, ciencias naturales, etnográfica e histórica, se encuentran en buen estado de conservación por el cuidado y administración que guarda la Universidad Daniel Alcides Carrión.",
+  "particularidades": "",
+  "estado_actual": "Bueno; esta al cuidado de la Universidad Daniel Alcides Carrión.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "El museo Casa Carrión situado en el corazón del distrito de Yanacancha, es un espacio dedicado a preservar y difundir el conocimiento sobre instrumental médico de antaño, piezas y muestras arqueológicas, pictográficas y taxidermicas.\nEste museo ocupa la impresionante réplica de la casa del mártir de la medicina peruana y mundial, bien material reconocido como patrimonio histórico monumental de Pasco. La arquitectura de este inmueble combina elementos de estilo andino con el uso de materiales locales como el adobe y la piedra, incluyendo la madera para ventanas y puertas, carrizo para cobertura interior del cielorraso.\nEl museo fue inaugurado el 05 de octubre de 1995, con motivo de conmemorar los 110 años de muerte del mártir Daniel Alcides Carrión García; actualmente este espacio cultural y de interés turístico se encuentra bajo la administración de la Universidad Nacional Daniel Alcides Carrión, institución que utiliza el espacio como parte de su sistema educativo, siendo el responsable de la curaduría; organizando, contextualizando y presentando las muestras museográficas que buscan promover la investigación y conservación del legado del antiguo Pasco, desarrollo de actividades tradicionales significativas, fauna silvestre dentro del territorio, instrumental médico, documentación histórica y pictográfica.\nEl museo cuenta con cuatro salas de exposición permanente con una colección de bienes materiales muebles de relevancia histórica, arqueológica e instrumental; además de una sala auditorio en el segundo piso. La primera denominada Sala de Arqueología y Antropología guarda dentro de su colección muestras de evidencia arqueológica como puntas de proyectil, cerámica y artefactos diversos que evidencian el desarrollo cultural de la región desde la época prehispánica, entre los que destacan la cultura de los Yaros, Taramas y Chinchaycochas; además de la exhibición de una momia que data aproximadamente de 1460 d.C. hallada por el investigador Marino Pacheco Sandoval, también muestra indumentaria típica de la provincia Daniel Alcides Carrión y herramientas de uso agrícola.\nLa segunda sala denominada Sala Pictográfica, guarda muestras del arte pictórico del pintor pasqueño y paucartambino Leoncio Fidel Lugo Bao, pintor indigenista peruano, catalogado como uno de los más destacados primeros promotores y líderes del movimiento indigenista a nivel del centro del Perú; también se aprecia muestras pictográficas del artista pasqueño Juan Ortega Rojas, apreciándose el estilo de pintura en piezas líticas (piedra) con finos detalles de recursos turísticos o acontecimientos históricos de Pasco y también pinturas de Pastor Rojas. A un lado de la sala se observan las muestras de numismática (billetes y monedas) antiguas.\nLa tercera sala denominada Sala de Tecnología Médica en homenaje a Daniel Alcides Carrión, exhibe equipo médico utilizado en antaño, se puede visualizar una punta proyectora, resucitador, sondas, esterilizador, termómetros, autoclave, entre otros muchos más. También se exhibe documentos y fotografías del mártir de la medicina peruana, equipos de oficina como máquinas de escribir, teléfonos y relojes.\nLa sala de Taxidermia (cuarta sala), presenta especies de fauna, avifauna silvestres y animales de crianza doméstica; además de mostrar especies con alteraciones genéticas. Destacan la exhibición de el zorro andino, la parihuana, diversidad de patos, halcón, huallatas o huachuas, venado, rana gigante de Junín, alpacas y llamas.\nEn el segundo piso del recinto principal se encuentra el auditorio del museo, donde se exhiben pinturas y fotografías de los presidentes y benefactores de la Beneficencia Pública de Pasco.\nEste museo que pertenece a la Red de Museos del Perú con su colección Arqueológica, artística, ciencias naturales, etnográfica e histórica, se encuentran en buen estado de conservación por el cuidado y administración que guarda la Universidad Daniel Alcides Carrión."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno; esta al cuidado de la Universidad Daniel Alcides Carrión."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n67\nREGISTRO DE VISITANTES DEL MUSEO - UNDAC\n2024\nRegistro validado por la DIRCETUR Pasco.\nTuristas Nacionales\n181\nREGISTRO DE VISITANTES DEL MUSEO\n2024\nRegistro validado por la DIRCETUR Pasco.\nVisitantes Locales(Excursionistas)\n693\nREGISTRO DE VISITANTES DEL MUSEO\n2024\nRegistro validado por la DIRCETUR Pasco."
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nPasco/Pasco/Chaupimarca\n-\nPasco/Pasco/Yanacancha\nPlaza Daniel Alcides Carrión (Chaupimarca) - Museo Casa Carrión (Yanacancha)\nTerrestre\nCombi\nAsfaltado\n3.04 km / 17 min."
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nSemi-restringido(previo permiso)\nNo se paga por el ingreso, pero se debe coordinar la disponibilidad del espacio, aforo y recorrido con el Responsable del museo, el Sr. Abraham Picoy - Num: 963652794."
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n08:30 a.m.\n-\n05:00 p.m.\nLa atención es solamente de Lunes A Viernes"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\nSe permite realizar fotografías y videos dentro del museo\nOtros\nEstudios e Investigación\nSe realiza investigaciones sobre las muestras del museo.\nOtros\nRealización de eventos\nSe desarrollan conferencias, presentaciones de libros y otros en el auditorio\nCultura y Folclore\nApreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)\nMuestras pictográficas de varios autores."
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nLugares de Recreación\nDiscotecas\nEn la ciudad de Cerro de Pasco\nLugares de Recreación\nJuegos Infantiles\nEn la ciudad de Cerro de Pasco\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nEn la ciudad de Cerro de Pasco\nLugares de Recreación\nCentros Deportivos\nEn la ciudad de Cerro de Pasco\nLugares de Recreación\nKaraoke\nEn la ciudad de Cerro de Pasco\nLugares de Recreación\nBares\nEn la ciudad de Cerro de Pasco\nOtros Servicios Turísticos\nVenta de artesanía\nEn la ciudad de Cerro de Pasco\nOtros Servicios Turísticos\nAgencia de Viajes\nEn la ciudad de Cerro de Pasco\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nEn castellano, en la ciudad de Cerro de Pasco\nAlimentación\nRestaurantes\nEn la ciudad de Cerro de Pasco\nAlimentación\nBares\nEn la ciudad de Cerro de Pasco\nAlimentación\nCafeterías\nEn la ciudad de Cerro de Pasco\nAlimentación\nFuentes de soda\nEn la ciudad de Cerro de Pasco\nAlimentación\nKioskos de comida y bebidas\nEn la ciudad de Cerro de Pasco\nAlimentación\nVenta de comida Rápida\n--\nAlojamiento\nHoteles (especificar categorías)\nDe 1 a 3 estrellas, En la ciudad de Cerro de Pasco\nAlojamiento\nApart-hoteles (especificar categorías)\nDe 3 estrellas En la ciudad de Cerro de Pasco\nAlojamiento\nHostales (especificar categorías)\nDe 1 a 2 En la ciudad de Cerro de Pasco\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nEn la ciudad de Cerro de Pasco\nServicios Públicos\nMiradores turísticos\nEn la ciudad de Cerro de Pasco\nServicios Públicos\nEstacionamiento de vehículos\nEn la ciudad de Cerro de Pasco\nServicios Públicos\nSeñales turísticas de orientación\nEn la ciudad de Cerro de Pasco\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\nEn la ciudad de Cerro de Pasco\nServicios Públicos\nCentros de interpretación\nEn la ciudad de Cerro de Pasco\nServicios Públicos\nOficina de Información turística\nEn la ciudad de Cerro de Pasco\nServicios Públicos\nPuesto de auxilio rápido\nEn la ciudad de Cerro de Pasco"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nEn la ciudad de Cerro de Pasco\nBancos\nBCP, Banco de la Nación, Interbank, BBV y otros En la ciudad de Cerro de Pasco\nCajero automático\nEn la ciudad de Cerro de Pasco\nCasa de cambio\nEn la ciudad de Cerro de Pasco\nEstación de servicios, grifos, gasolineras y gasocentros\nEn la ciudad de Cerro de Pasco\nServicio de correos\nEn la ciudad de Cerro de Pasco\nServicio de estacionamiento\nEn la ciudad de Cerro de Pasco\nServicios de taxis\nEn la ciudad de Cerro de Pasco\nCentro de salud - tópico\nEn la ciudad de Cerro de Pasco\nVenta de materiales para fotografías\nEn la ciudad de Cerro de Pasco\nSeguridad / POLTUR / Comisaría\nEn la ciudad de Cerro de Pasco\nAlquiler y compra de equipos deportivos\nEn la ciudad de Cerro de Pasco\nLibrerías\nEn la ciudad de Cerro de Pasco\nBodegas o minimarkets\nEn la ciudad de Cerro de Pasco"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\n--\nAlcantarillado sanitario\n--\nLuz (Suministro Eléctrico)\n--\nTeléfono\n--\nAlcantarillado pluvial\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nEn la ciudad de Cerro de Pasco\nAlcantarillado sanitario\nEn la ciudad de Cerro de Pasco\nLuz (Suministro Eléctrico)\nEn la ciudad de Cerro de Pasco\nTeléfono\nEn la ciudad de Cerro de Pasco\nAlcantarillado pluvial\nEn la ciudad de Cerro de Pasco"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\n--\nPrivado:\nMunicipalidad Provincial de Pasco - Beneficencia Pública de Pasco\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nPartida\nNúmero de Partida:\nP13009600\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nUniversidad Daniel Alcides Carrión\nTiempo de administración\nDesde 1995 (hace 30 años)"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDIRCETUR PASCO\nNombre (Persona(s) responsable(s) del inventario turístico):\nWilfredo CARLOS VALLE\nCargo:\nDirector de Turismo\nCorreo:\ncarlosvallewilfredo14@gmail.com\nTeléfono:\n920102440\nFuentes Bibliográfica:\n1) Libro: Inventario de Recursos Turísticos del Distrito de Yanacancha - DIRCETUR Pasco y MD. Yanacancha.2010. (pág. 203-209)\n2) Libro: Guía de Museos e Instituciones Museales del Perú - Ministerio de Cultura.2023. (pág. 369)\n3) Tesis: La Revalorización Histórica del Patrimonio Monumental Histórico de la Provincia de Pasco y el Aprendizaje de la Historia Local en los Estudiantes del Cuarto Grado del Laboratorio Pedagógico El Amauta - UNDAC - Rita Poma Meza. 2015. (pág. 65)\n4) Revista: Historia del Museo Universitario - UNDAC. Facultad de Educación. 1999.\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n12/08/2025 14:49:10"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -10.668257281829092,
+    "longitud": -76.25280439853668
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-10.668257281829092,-76.25280439853668"
+}

@@ -1,0 +1,259 @@
+{
+  "cod_ficha": 1888,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=1888",
+  "nombre": "Laguna Pimientacocha",
+  "departamento": "Ucayali",
+  "provincia": "Coronel Portillo",
+  "distrito": "CAMPOVERDE",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "g. Cuerpo de Agua",
+  "subtipo": "Lagunas",
+  "jerarquia": "1",
+  "altitud": "200",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=487850",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=487850",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=487908",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=487851",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=487852",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=487909",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=487910",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=487853",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=487954",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=487955",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=487911"
+  ],
+  "actividades_permitidas": [
+    "Naturaleza - Observación de fauna",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de paisaje",
+    "Naturaleza - Observación de aves",
+    "Deportes / Aventura - Caminata/Trekking",
+    "Paseos - Paseos en pedalones"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de fauna",
+      "observacion": "Fasaco,bujurqui, tilapia",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fauna02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "Se observan arboles de aguaje.tahuari,coco",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "Alrededor de la laguna se observan pastizales y fundos agricolas.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de aves",
+      "observacion": "Garzas, unchalas,tuki tuki, martin pescador",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/aves02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "Alrededor de la laguna.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    },
+    {
+      "actividad": "Paseos",
+      "tipo": "Paseos en pedalones",
+      "observacion": "Costo S/.10.00 por hora.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/pedalones02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Ucayali/Coronel Portillo/Calleria - Ucayali/Coronel Portillo/Campoverde",
+      "detalle": "Desde el paradero de autos a Campo Verde, hasta el paradero de autos del Campo Verde",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Taxi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "34km/25 min"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Ucayali/Coronel Portillo/Campoverde - Ucayali/Coronel Portillo/Campoverde",
+      "detalle": "Desde el paradero de autos de Campo Verde hasta el ingreso a la carretera a Tournavista",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mototaxi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "400 m/2 min"
+    },
+    {
+      "recorrido": "3",
+      "tramo": "Ucayali/Coronel Portillo/Campoverde - Ucayali/Coronel Portillo/Campoverde",
+      "detalle": "Desde el ingreso a la carretera a Tournavista hasta el caserio Pimienta Cocha",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mototaxi",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "7 Km/20 min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "600",
+      "horario": "Informe Tecnico",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "80",
+      "horario": "informe tecnico de la MDCV",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "30",
+      "horario": "Informe Tecnico de la MDCV",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "06:00 a.m. - 06:00 p.m. Durante la luz del dia (no existe alumbrado electrico en las vias de acceso durante la noche)",
+      "observaciones": "Durante la luz del dia (no existe alumbrado electrico en las vias de acceso durante la noche)"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Libre , acondicionado por la MDCV"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Caserío de Campo Verde"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Caserío de Campo Verde"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Caserío de Campo Verde"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Caserío de Campo Verde"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Caserío de Campo Verde"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Caserío de Campo Verde"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "3 a 5* estrellas en la Ciudad de Pucallpa"
+    }
+  ],
+  "descripcion": "La laguna Pimientacocha se encuentra ubicado en el caserío Pimientacocha, del distrito de Campo Verde, provincia de Coronel Portillo. Se puede acceder desde la localidad de Campo Verde a través de una carretera afirmada de 7 km. La laguna está circundada por una suave topografía característica de la llanura amazónica. En la superficie la temperatura es de 30.8 a 33.1 °C. y a una profundidad de 3 m. es de 29.9 a 30.3 °C. Los valores registrados de alcalinidad (mg/I) son de 12 a 19.5, dureza total (mg/I) de 21 a 25.5 y pH de 6.5 a 7.6. Sus aguas son turbias y fresco, ideal para bañarse y dar paseos en bote y canoa, observando pastizales, aguajales, campo de cultivo de frutas y abundantes garzas. Su espejo de agua tiene una extensión de 10 ha. (100,000 m²), es de forma irregular con un largo de 500 m. un ancho que varía entre 300 a 400 m. y una profundidad máxima de 6 m. en la parte central. Su lecho presenta tierras arenosas y sus aguas provienen de filtraciones del subsuelo y de acumulaciones pluviales, se renuevan por evaporación. Debido a sus características es un balneario concurrido por visitantes locales para darse baños refrescantes y descansar en las sombras de los árboles que se encuentran alrededor, asimismo podemos apreciar aves como garzas, paucares, tuqui tuqui, entre otros.",
+  "particularidades": "",
+  "estado_actual": "Bueno, recibe el mantenimiento permanente de la Municipalidad Distrital de Campo Verde",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "La laguna Pimientacocha se encuentra ubicado en el caserío Pimientacocha, del distrito de Campo Verde, provincia de Coronel Portillo. Se puede acceder desde la localidad de Campo Verde a través de una carretera afirmada de 7 km. La laguna está circundada por una suave topografía característica de la llanura amazónica. En la superficie la temperatura es de 30.8 a 33.1 °C. y a una profundidad de 3 m. es de 29.9 a 30.3 °C. Los valores registrados de alcalinidad (mg/I) son de 12 a 19.5, dureza total (mg/I) de 21 a 25.5 y pH de 6.5 a 7.6. Sus aguas son turbias y fresco, ideal para bañarse y dar paseos en bote y canoa, observando pastizales, aguajales, campo de cultivo de frutas y abundantes garzas. Su espejo de agua tiene una extensión de 10 ha. (100,000 m²), es de forma irregular con un largo de 500 m. un ancho que varía entre 300 a 400 m. y una profundidad máxima de 6 m. en la parte central. Su lecho presenta tierras arenosas y sus aguas provienen de filtraciones del subsuelo y de acumulaciones pluviales, se renuevan por evaporación. Debido a sus características es un balneario concurrido por visitantes locales para darse baños refrescantes y descansar en las sombras de los árboles que se encuentran alrededor, asimismo podemos apreciar aves como garzas, paucares, tuqui tuqui, entre otros."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, recibe el mantenimiento permanente de la Municipalidad Distrital de Campo Verde"
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nVisitantes Locales(Excursionistas)\n600\nInforme Tecnico\n2021\nTuristas Nacionales\n80\ninforme tecnico de la MDCV\n2021\nTuristas Extranjeros\n30\nInforme Tecnico de la MDCV\n2021"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nUcayali/Coronel Portillo/Calleria\n-\nUcayali/Coronel Portillo/Campoverde\nDesde el paradero de autos a Campo Verde, hasta el paradero de autos del Campo Verde\nTerrestre\nTaxi\nAsfaltado\n34km/25 min\n2\nUcayali/Coronel Portillo/Campoverde\n-\nUcayali/Coronel Portillo/Campoverde\nDesde el paradero de autos de Campo Verde hasta el ingreso a la carretera a Tournavista\nTerrestre\nMototaxi\nAsfaltado\n400 m/2 min\n3\nUcayali/Coronel Portillo/Campoverde\n-\nUcayali/Coronel Portillo/Campoverde\nDesde el ingreso a la carretera a Tournavista hasta el caserio Pimienta Cocha\nTerrestre\nMototaxi\nAfirmado\n7 Km/20 min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n06:00 a.m.\n-\n06:00 p.m.\nDurante la luz del dia (no existe alumbrado electrico en las vias de acceso durante la noche)"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nNaturaleza\nObservación de fauna\nFasaco,bujurqui, tilapia\nNaturaleza\nObservación de flora\nSe observan arboles de aguaje.tahuari,coco\nNaturaleza\nObservación de paisaje\nAlrededor de la laguna se observan pastizales y fundos agricolas.\nNaturaleza\nObservación de aves\nGarzas, unchalas,tuki tuki, martin pescador\nDeportes / Aventura\nCaminata/Trekking\nAlrededor de la laguna.\nPaseos\nPaseos en pedalones\nCosto S/.10.00 por hora."
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Públicas\nServicios Públicos\nEstacionamiento de vehículos\nLibre , acondicionado por la MDCV"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCaserío de Campo Verde\nAlimentación\nRestaurantes\nCaserío de Campo Verde\nAlimentación\nBares\nCaserío de Campo Verde\nAlimentación\nKioskos de comida y bebidas\nCaserío de Campo Verde\nLugares de Recreación\nDiscotecas\nCaserío de Campo Verde\nServicios Públicos\nEstacionamiento de vehículos\nCaserío de Campo Verde\nAlojamiento\nHoteles (especificar categorías)\n3 a 5* estrellas en la Ciudad de Pucallpa"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCaserío de campo verde\nCajero automático\nCaserío de campo verde\nEstación de servicios, grifos, gasolineras y gasocentros\nCaserío de campo verde\nCentro de salud - tópico\nCaserío de campo verde\nSeguridad / POLTUR / Comisaría\nCaserío de campo verde\nBodegas o minimarkets\nCaserío de campo verde"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCaserío de campo verde\nLuz (Suministro Eléctrico)\nCaserío de campo verde\nTeléfono\nCaserío de campo verde\nSistemas de tratamiento alternativo de residuos (Biodigestor, pozo séptico, otros)\nCaserío de Campo Verde"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nMunicipalidad de Campo Verde\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nEn Poseción de la Municipalidad distrital de Campo Verde\nAdministrador por\nNombre\nMunicipalidad distrital de Campo Verde\nTiempo de administración\nDesde el año 2018"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo de Ucayali\nNombre (Persona(s) responsable(s) del inventario turístico):\nCarmen Roca Borges\nCargo:\nEspecilistas en Turismo\nCorreo:\nkarminy@hotmail.com\nTeléfono:\n957253776\nFuentes Bibliográfica:\nINFORME FINAL DEL PROYECTO: REPOBLAMIENTO DE CUERPOS DE AGUA CON ESPECIES AMAZONICAS-PRODUCE, 2015\nhttps://deviajesyturismo.com/destinos/visitar-laguna-pimientacocha-video-tour-full-day-turismo/\nMaterial Audiovisual actual del Recurso:\nFOTO, VIDEOS\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n6/06/2023 17:52:21"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -8.476067471638565,
+    "longitud": -74.81633297719725
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-8.476067471638565,-74.81633297719725"
+}

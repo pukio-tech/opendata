@@ -1,0 +1,396 @@
+{
+  "cod_ficha": 2008,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=2008",
+  "nombre": "Museo De Los Descalzos",
+  "departamento": "Lima",
+  "provincia": "Lima",
+  "distrito": "RÍMAC",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Museos y otros",
+  "subtipo": "Museos",
+  "jerarquia": "2",
+  "altitud": "151",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=593967",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=593967",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=594023",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=594024",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=594025",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=593968",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=594027",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=593969",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=594030",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=593970",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=594031",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=594032",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=594033"
+  ],
+  "actividades_permitidas": [
+    "Otros - Compras de artesanía/souvenir",
+    "Otros - Toma de fotografías y filmaciones",
+    "Cultura y Folclore - Actividades Religiosas o Patronales",
+    "Otros - Otros(Especificar)",
+    "Cultura y Folclore - Degustación y preparación de platos, productos o bebidas típicas",
+    "Paseos - Otros"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Compras de artesanía/souvenir",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/artesania02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Actividades Religiosas o Patronales",
+      "observacion": "Fiesta de la Porciúncula cada 2 de agosto.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/act_religiosas02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Otros(Especificar)",
+      "observacion": "Talleres para niños",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/otros02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Degustación y preparación de platos, productos o bebidas típicas",
+      "observacion": "Cata de vino durante los recorridos especiales.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/platos_tipicos02.png"
+    },
+    {
+      "actividad": "Paseos",
+      "tipo": "Otros",
+      "observacion": "Recorridos nocturnos.",
+      "icono_url": null
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Lima/Lima/Miraflores - Lima/Lima/Rímac",
+      "detalle": "Parque Kennedy - Museo del Convento de los Descalzos",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "10.72 km/40 min"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Lima/Lima/Lima - Lima/Lima/Rímac",
+      "detalle": "Plaza Mayor de Lima - Museo del Convento de los Descalzos",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "1.95 km/15 min"
+    },
+    {
+      "recorrido": "3",
+      "tramo": "Lima/Lima/Lima - Lima/Lima/Rímac",
+      "detalle": "Plaza Mayor de Lima - Museo del Convento de los Descalzos",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "1.46 km/30 min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "2642",
+      "horario": "Reporte de visitantes del Museo de los Descalzos",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "365",
+      "horario": "Reporte de visitantes del Museo de los Descalzos",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "1479",
+      "horario": "Reporte de visitantes del Museo de los Descalzos",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "10:00 a.m. - 05:00 p.m. De martes a viernes de 10:00 am a 1:00 pm y de 2:30 pm a 5:00 pm De sábado a domingo de 10:00 am a 3:00 pm",
+      "observaciones": "De martes a viernes de 10:00 am a 1:00 pm y de 2:30 pm a 5:00 pm De sábado a domingo de 10:00 am a 3:00 pm"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "Nacionales: S/ 10.00 Escolares: S/5.00 Adulto mayor: S/ 5.00 Extranjeros: S/. 15.00"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Facilidades para discapacitados",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Seguridad / POLTUR",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicios Higiénicos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Mediadores culturales en inglés y español."
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Estacionamiento",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de Material Informativo(libro,revistas,postales,videos,etc)",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "2 estrellas. Distrito del Rímac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Distrito del Rímac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Distrito del Rímac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Distrito del Rímac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Distrito del Rímac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Distrito del Rímac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Distrito del Rímac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Cines o Teatros",
+      "observacion": "Distrito del Rímac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Servicios higiénicos. Distrito del Rímac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "2 estrellas. Distrito del Rímac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "Distrito del Rímac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Distrito del Rímac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Distrito del Rímac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Distrito del Rímac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "Distrito del Rímac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Distrito del Rímac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Distrito del Rímac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "En idiomas: inglés, francés, alemán, portigués, italiano y español. Distrito del Rímac"
+    }
+  ],
+  "descripcion": "El Museo Convento de los Descalzos se encuentra en el antiguo convento que lleva el mismo nombre. Fue fundado el 18 de diciembre de 1981. Para dar inicio a sus actividades, fue necesario adaptar los antiguos espacios a un discurso museográfico. Así, se intervinieron los claustros, corredores, celdas, capillas, el refectorio, la bodega y la enfermería. Además, se restauraron importantes obras de arte y objetos litúrgicos.\nEl convento, en su totalidad, emana austeridad. Su arquitectura, aunque sencilla, ha perdurado desde la época virreinal, sobreviviendo a diversas vicisitudes. El museo alberga una impresionante colección de más de 400 pinturas, que incluyen obras de las escuelas limeña, cusqueña y quiteña. La mayoría de estas obras son de autores anónimos, aunque también se encuentran lienzos de talleres de pintores reconocidos, como San José con el Niño, del taller de Bartolomé Sebastián Murillo, o atribuciones como La Virgen de la Rosa, que se cree fue pintada por el jesuita Bernardo Bitti, y El Bautizo de Cristo, que se atribuye a Diego Quispe Tito. Además, se pueden apreciar pinturas de artistas renombrados de la época colonial, como Leonardo Jaramillo, Miguel de Santiago, Javier Cortés, Joaquín Urreta, entre otros.\nA lo largo del museo, se encuentran varios claustros y venerables celdas. El primer claustro es el de la Portería, al cual solo podían acceder los varones laicos. A continuación, se halla el claustro Guardianal, así denominado porque en su ala derecha se encontraba la celda del Padre Guardián, la cual alberga hoy pinturas dedicadas a la Virgen y retratos del primer guardián del convento, San Francisco Solano. Contigua a esta, se encuentra la celda del invitado, que conserva muebles coloniales y diversas pinturas. En otras salas del claustro, se mantienen los antiguos libros corales y la imprenta de los padres. Seguido de este, está el claustro de la Enfermería, que alberga las celdas de reposo de los frailes que regresaban de sus misiones. Este claustro custodia una de las pocas boticas coloniales que aún perduran en Lima, que ha mantenido su función desde el siglo XVIII. El último claustro, conocido como Ayacuchano, destaca por el colorido de sus paredes, arcos y pilares. Su nombre original fue claustro del Vía Crucis o Procesional, debido a que, en tiempos coloniales, los frailes solían realizar allí su peregrinación interna.\nUno de los espacios más imponentes es la Capilla del Carmen, que cuenta con un coro alto y una puerta que conecta con la enfermería, permitiendo que los enfermos pudieran escuchar misa. Otra capilla, más modesta, alberga la imagen de la patrona del convento. La pintura principal, de principios del siglo XVII, es Nuestra Señora de los Ángeles, de estilo italiano. Se sabe que el héroe nacional Miguel Grau visitó este recinto religioso antes de partir hacia la guerra de 1879. Durante el recorrido, se visita también el antiguo refectorio de los padres descalzos, que exhibe dos pinturas de gran formato de la escuela limeña: La Última Cena y La Cena de Baltazar, ambas de autor anónimo. Junto a este espacio se encuentra la sala Medoro, que presenta grandes pinturas, entre ellas Santa Catalina de Alejandría y Nuestra Señora de los Ángeles, así como una pintura monumental titulada La imposición de la casulla a San Ildefonso, del pintor español Leonardo Jaramillo.\nEntre otras áreas del museo, destaca la antigua bodega de vinos, que conserva sus barriles. En este espacio también se exhiben utensilios de cocina, incluido un gran perol que, hasta la fecha, se utiliza en la festividad de la Porciúncula.\nEl Museo Convento de los Descalzos es parte de la Red de Museos del Centro Histórico de Lima",
+  "particularidades": "",
+  "estado_actual": "En la actualidad se encuentra en buen estado de conservación ya que sus áreas fueron restauradas.",
+  "observaciones": "Las instalaciones del museo fueron acondicionadas en el convento antiguo.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "El Museo Convento de los Descalzos se encuentra en el antiguo convento que lleva el mismo nombre. Fue fundado el 18 de diciembre de 1981. Para dar inicio a sus actividades, fue necesario adaptar los antiguos espacios a un discurso museográfico. Así, se intervinieron los claustros, corredores, celdas, capillas, el refectorio, la bodega y la enfermería. Además, se restauraron importantes obras de arte y objetos litúrgicos.\nEl convento, en su totalidad, emana austeridad. Su arquitectura, aunque sencilla, ha perdurado desde la época virreinal, sobreviviendo a diversas vicisitudes. El museo alberga una impresionante colección de más de 400 pinturas, que incluyen obras de las escuelas limeña, cusqueña y quiteña. La mayoría de estas obras son de autores anónimos, aunque también se encuentran lienzos de talleres de pintores reconocidos, como San José con el Niño, del taller de Bartolomé Sebastián Murillo, o atribuciones como La Virgen de la Rosa, que se cree fue pintada por el jesuita Bernardo Bitti, y El Bautizo de Cristo, que se atribuye a Diego Quispe Tito. Además, se pueden apreciar pinturas de artistas renombrados de la época colonial, como Leonardo Jaramillo, Miguel de Santiago, Javier Cortés, Joaquín Urreta, entre otros.\nA lo largo del museo, se encuentran varios claustros y venerables celdas. El primer claustro es el de la Portería, al cual solo podían acceder los varones laicos. A continuación, se halla el claustro Guardianal, así denominado porque en su ala derecha se encontraba la celda del Padre Guardián, la cual alberga hoy pinturas dedicadas a la Virgen y retratos del primer guardián del convento, San Francisco Solano. Contigua a esta, se encuentra la celda del invitado, que conserva muebles coloniales y diversas pinturas. En otras salas del claustro, se mantienen los antiguos libros corales y la imprenta de los padres. Seguido de este, está el claustro de la Enfermería, que alberga las celdas de reposo de los frailes que regresaban de sus misiones. Este claustro custodia una de las pocas boticas coloniales que aún perduran en Lima, que ha mantenido su función desde el siglo XVIII. El último claustro, conocido como Ayacuchano, destaca por el colorido de sus paredes, arcos y pilares. Su nombre original fue claustro del Vía Crucis o Procesional, debido a que, en tiempos coloniales, los frailes solían realizar allí su peregrinación interna.\nUno de los espacios más imponentes es la Capilla del Carmen, que cuenta con un coro alto y una puerta que conecta con la enfermería, permitiendo que los enfermos pudieran escuchar misa. Otra capilla, más modesta, alberga la imagen de la patrona del convento. La pintura principal, de principios del siglo XVII, es Nuestra Señora de los Ángeles, de estilo italiano. Se sabe que el héroe nacional Miguel Grau visitó este recinto religioso antes de partir hacia la guerra de 1879. Durante el recorrido, se visita también el antiguo refectorio de los padres descalzos, que exhibe dos pinturas de gran formato de la escuela limeña: La Última Cena y La Cena de Baltazar, ambas de autor anónimo. Junto a este espacio se encuentra la sala Medoro, que presenta grandes pinturas, entre ellas Santa Catalina de Alejandría y Nuestra Señora de los Ángeles, así como una pintura monumental titulada La imposición de la casulla a San Ildefonso, del pintor español Leonardo Jaramillo.\nEntre otras áreas del museo, destaca la antigua bodega de vinos, que conserva sus barriles. En este espacio también se exhiben utensilios de cocina, incluido un gran perol que, hasta la fecha, se utiliza en la festividad de la Porciúncula.\nEl Museo Convento de los Descalzos es parte de la Red de Museos del Centro Histórico de Lima"
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "Mediante Resolución Suprema Nº 2900-72-ED, del 28 de diciembre de 1972, la Iglesia y el Convento de los Descalzos fueron reconocidos como Patrimonio Cultural de la Nación."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "En la actualidad se encuentra en buen estado de conservación ya que sus áreas fueron restauradas."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "Las instalaciones del museo fueron acondicionadas en el convento antiguo."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nVisitantes Locales(Excursionistas)\n2642\nReporte de visitantes del Museo de los Descalzos\n2024\nTuristas Extranjeros\n365\nReporte de visitantes del Museo de los Descalzos\n2024\nTuristas Nacionales\n1479\nReporte de visitantes del Museo de los Descalzos\n2024"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nLima/Lima/Miraflores\n-\nLima/Lima/Rímac\nParque Kennedy - Museo del Convento de los Descalzos\nTerrestre\nAutomóvil particular\nAsfaltado\n10.72 km/40 min\n2\nLima/Lima/Lima\n-\nLima/Lima/Rímac\nPlaza Mayor de Lima - Museo del Convento de los Descalzos\nTerrestre\nAutomóvil particular\nAsfaltado\n1.95 km/15 min\n3\nLima/Lima/Lima\n-\nLima/Lima/Rímac\nPlaza Mayor de Lima - Museo del Convento de los Descalzos\nTerrestre\nA pie\nAsfaltado\n1.46 km/30 min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nNacionales: S/ 10.00 Escolares: S/5.00 Adulto mayor: S/ 5.00 Extranjeros: S/. 15.00"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n10:00 a.m.\n-\n05:00 p.m.\nDe martes a viernes de 10:00 am a 1:00 pm y de 2:30 pm a 5:00 pm De sábado a domingo de 10:00 am a 3:00 pm"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nCompras de artesanía/souvenir\n--\nOtros\nToma de fotografías y filmaciones\n--\nCultura y Folclore\nActividades Religiosas o Patronales\nFiesta de la Porciúncula cada 2 de agosto.\nOtros\nOtros(Especificar)\nTalleres para niños\nCultura y Folclore\nDegustación y preparación de platos, productos o bebidas típicas\nCata de vino durante los recorridos especiales.\nPaseos\nOtros\nRecorridos nocturnos."
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nOtros Servicios Turísticos\nVenta de artesanía\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nFacilidades para discapacitados\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nSeguridad / POLTUR\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nServicios Higiénicos\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nMediadores culturales en inglés y español.\nInstalaciones Privadas\nOtros Servicios Turísticos\nServicio de Estacionamiento\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nVenta de Material Informativo(libro,revistas,postales,videos,etc)\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHostales (especificar categorías)\n2 estrellas. Distrito del Rímac\nAlimentación\nRestaurantes\nDistrito del Rímac\nAlimentación\nBares\nDistrito del Rímac\nAlimentación\nCafeterías\nDistrito del Rímac\nAlimentación\nFuentes de soda\nDistrito del Rímac\nAlimentación\nKioskos de comida y bebidas\nDistrito del Rímac\nAlimentación\nVenta de comida Rápida\nDistrito del Rímac\nLugares de Recreación\nCines o Teatros\nDistrito del Rímac\nOtros Servicios Turísticos\nOtros (Especificar)\nServicios higiénicos. Distrito del Rímac\nAlojamiento\nHoteles (especificar categorías)\n2 estrellas. Distrito del Rímac\nServicios Públicos\nMiradores turísticos\nDistrito del Rímac\nLugares de Recreación\nDiscotecas\nDistrito del Rímac\nLugares de Recreación\nJuegos Infantiles\nDistrito del Rímac\nLugares de Recreación\nBares\nDistrito del Rímac\nLugares de Recreación\nKaraoke\nDistrito del Rímac\nLugares de Recreación\nCentros Deportivos\nDistrito del Rímac\nOtros Servicios Turísticos\nAgencia de Viajes\nDistrito del Rímac\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nEn idiomas: inglés, francés, alemán, portigués, italiano y español. Distrito del Rímac"
+    },
+    {
+      "titulo": "Servicios Complementarios dentro del recurso",
+      "contenido": "Servicio Complementario\nObservación\nLibrerías\n--\nOtros(especificar)\nMisas de jueves a martes en la Parroquia Nstra. Sra. De Los Angeles"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nCajero automático\nDistrito del Rímac\nEstación de servicios, grifos, gasolineras y gasocentros\nDistrito del Rímac\nCentro de salud - tópico\nDistrito del Rímac\nVenta de materiales para fotografías\nDistrito del Rímac\nBodegas o minimarkets\nDistrito del Rímac\nCasa de cambio\nDistrito del Rímac\nBancos\nDistrito del Rímac\nServicio de correos\nDistrito del Rímac\nServicio de estacionamiento\nDistrito del Rímac\nServicios de taxis\nDistrito del Rímac\nSeguridad / POLTUR / Comisaría\nDistrito del Rímac"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\n--\nAlcantarillado sanitario\n--\nLuz (Suministro Eléctrico)\n--\nTeléfono\n--\nSeñalización turística\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nDistrito del Rímac\nAlcantarillado sanitario\nDistrito del Rímac\nLuz (Suministro Eléctrico)\nDistrito del Rímac\nTeléfono\nDistrito del Rímac\nSeñalización turística\nDistrito del Rímac"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\n--\nPrivado:\nProvincia Misionera de San Francisco Solano\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nLa Iglesia y el Convento de los Descalzos reconocidos mediante R.S.N° 2900-72-ED como Monumento Histórico del Perú el 28 de diciembre de 1972.\nAdministrador por\nNombre\nProvincia Misionera de San Francisco Solano\nTiempo de administración\nDesde el año 1981."
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nMunicipalidad Metropolitana de Lima- Subgerencia de turismo\nNombre (Persona(s) responsable(s) del inventario turístico):\nAlex Reaño Torres/Guiliana Prada Caceres\nCargo:\nEspecialista en turismo/Técnico en elaboración de inventarios.\nCorreo:\nalexreanotorres@gmail.com/patricia.prada@munlima.gob.pe\nTeléfono:\n01-6321801\nFuentes Bibliográfica:\n1) Heras, Julián (1995) El Convento de los Descalzos de Lima. Lima\n2) Capristán, Marco Antonio (2023). La historia de Lima. Pinceladas limeñas. Primera edición. Lima\n2) https://elperuano.pe/suplementosflipping/lonuestro/284/web/circuito.html Consultado el 14 de abril del 2025.\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\nEn marzo del 2024 se realizo el montaje de 2 salas de exposición.\nFecha:\n25/07/2025 13:20:00"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -12.033789,
+    "longitud": -77.024656
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-12.033789,-77.024656"
+}

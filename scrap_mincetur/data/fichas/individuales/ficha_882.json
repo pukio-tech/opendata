@@ -1,0 +1,367 @@
+{
+  "cod_ficha": 882,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=882",
+  "nombre": "Sitio Arqueológico Prehispánico Huarautambo",
+  "departamento": "Pasco",
+  "provincia": "Daniel Alcides Carrion",
+  "distrito": "YANAHUANCA",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Sitios Arqueológicos",
+  "subtipo": "Zonas arqueológicas",
+  "jerarquia": "3",
+  "altitud": "3770",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=500477",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=500477",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=500431",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=500432",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=627060",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=627112",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=627061",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=627062",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=627113",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=627114",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=627115"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Estudios e Investigación",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de paisaje",
+    "Cultura y Folclore - Apreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "Quinuales, penca, ichu, huayuna.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Apreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)",
+      "observacion": "En el mes de junio se desarrolla la escenificación inca de culto al agua",
+      "icono_url": null
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Pasco/Daniel Alcides Carrión/Yanahuanca - Pasco/Daniel Alcides Carrión/Yanahuanca",
+      "detalle": "Plaza de Armas de Yanahuanca - Puente del Malecón (altura del grifo robles)",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Taxi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "0.53 km / 4 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Pasco/Daniel Alcides Carrión/Yanahuanca - Pasco/Daniel Alcides Carrión/Yanahuanca",
+      "detalle": "Puente del Malecón (altura grifo Robles) - Desvío para Huarautambo (altura grifo Flores)",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Taxi",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "2.9 km / 08 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Pasco/Daniel Alcides Carrión/Yanahuanca - Pasco/Daniel Alcides Carrión/Yanahuanca",
+      "detalle": "Desvío a CP Huarautambo (altura grifo Flores) - Plaza del CP de Huarautambo",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Taxi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "4.27 km / 16 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Pasco/Daniel Alcides Carrión/Yanahuanca - Pasco/Daniel Alcides Carrión/Yanahuanca",
+      "detalle": "Plaza del CP Huarautambo - Sitio Arqueológico de Huarautambo",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "0.13 km / 04 min."
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "12",
+      "horario": "Registro de visitantes de la comunidad campesina de Huarautambo",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "1242",
+      "horario": "Registro de visitantes de la comunidad campesina de Huarautambo",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "778",
+      "horario": "Registro de visitantes de la comunidad campesina de Huarautambo",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "08:00 a.m. - 05:00 p.m. --",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "Ingreso de Adultos: S/ 3.00 Ingreso Niños: S/ 1.50"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Boletería",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "3 estrellas - Ciudad de Yanahuanca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Yanahuanca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Casas hospedajes. C.P de Huarautambo y Ciudad de Yanahuanca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "C.P de Huarautambo y Ciudad de Yanahuanca."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "C.P de Huarautambo y Ciudad de Yanahuanca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Yanahuanca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Ciudad de Yanahuanca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Yanahuanca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Ciudad de Yanahuanca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "C.P de Huarautambo y Ciudad de Yanahuanca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "C.P de Huarautambo y Ciudad de Yanahuanca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de Caballos",
+      "observacion": "C.P de Huarautambo a 30 soles por persona."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Yanahuanca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "Ciudad de Yanahuanca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Yanahuanca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Ciudad de Yanahuanca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Ciudad de Yanahuanca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "C.P de Huarautambo y Ciudad de Yanahuanca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "C.P de Huarautambo y Ciudad de Yanahuanca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Ciudad de Yanahuanca. Municipalidad Provincial de Daniel A. Carrión."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "Ciudad de Yanahuanca"
+    }
+  ],
+  "descripcion": "El Sitio Arqueológico Prehispánico de Huarautambo reconocido como Patrimonio Cultural de la Nación desde el 04 de diciembre del 2003 se ubica en la comunidad del mismo nombre, edificado entre los siglos XII Y XVI entre 1460 – 1470 d.C. perteneciente al periodo Horizonte Tardío durante el mandato de Pachacutec; este complejo administrativo regional se encargó del control político social directo de los Yarush, Yachas y Chupaichus; además de ser un asentamiento para el descanso del Inca y su séquito real.\nExisten 3 estructuras restauradas por un proyecto de puesta en valor de sitios arqueológicos de la cuenca del río Chaupihuaranga del año 2004; además se han desarrollado varias investigaciones arqueológicas y etnohistóricas por destacados personajes nacionales y algunos extranjeros.\nEl recinto arqueológico pese a tener áreas que aún no han sido excavadas mantiene un buen estado de conservación y cuidado por parte de la comunidad local, en sus 4.21 hectáreas podemos encontrar una técnica constructiva usada en el paramento de los muros corresponde al empleo de sillares dispuestos de forma concertada y amarrada, de estilo Inca Imperial. Los vanos de las estructuras son de forma trapezoidal al igual que las hornacinas ubicadas en los paramentos internos. Presenta un palacio principal (Inkawasi) de 12m de largo por 5m de ancho, con planta rectangular, piso empedrado, hornacinas trapezoidales y una puerta sin jambas con orientación hacia el lado este; el segundo edificio (Warmihuasi) es otro palacio construido a 20m de distancia del Inkahuasi. Al lado izquierdo del palacio principal se encuentra una pileta de agua, levantada totalmente de piedra pulida, su fuente principal tiene una base de 2 metros cuadrados, el agua dulce que provee esta fuente es de origen subterráneo, el cual llega a la pileta a través de un canal de piedra. Cerca de Huarautambo pasa el camino inca (Qhapac Ñan) que conecta con los demás pueblos incas entre ellos Wanuco Marca (Capital del Chinchaysuyo).\nPor su imponente arquitectura y aún vigente pakcha o pileta, además del entorno paisajístico que presenta genera gran atracción hacía los visitantes encontrando en el sitio un espacio ideal para la toma de fotografías, conocer más sobre el gran legado inca y actualmente disfrutar de eventos culturales del culto al agua.",
+  "particularidades": "Este conjunto arqueológico es único en la región central del país (Pasco, Junín, Huánuco, Huancavelica, Ancash y Lima) y refleja una visión claramente ligada al culto al agua. En la edificación central existe una hermosa fuente con cuatro vertientes alimentadas desde un manantial en las alturas. Huarautambo asombra no solo por su condición de tambo en el camino sino por el espectacular despliegue de sus fuentes de agua, que solo tiene parangón contemporáneo con el Santuario de Tipón en Cusco y el de la Huaca de los Caranquis en el norte de Ecuador, investigación realizada por el reconocido arqueólogo y antropólogo Luis Guillermo Lumbreras Salcedo y publicada en la Serie Numismática Riqueza y Orgullo del Perú del Banco Central de Reserva, 2015.",
+  "estado_actual": "Muy bueno, no presenta impactos de contaminación y/o depredación, además la comunidad de Huarautambo de manera conjunta con la Municipalidad Provincial de Daniel Alcides Carrión y la DDC Pasco realizan faenas de mantenimiento del sitio.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "El Sitio Arqueológico Prehispánico de Huarautambo reconocido como Patrimonio Cultural de la Nación desde el 04 de diciembre del 2003 se ubica en la comunidad del mismo nombre, edificado entre los siglos XII Y XVI entre 1460 – 1470 d.C. perteneciente al periodo Horizonte Tardío durante el mandato de Pachacutec; este complejo administrativo regional se encargó del control político social directo de los Yarush, Yachas y Chupaichus; además de ser un asentamiento para el descanso del Inca y su séquito real.\nExisten 3 estructuras restauradas por un proyecto de puesta en valor de sitios arqueológicos de la cuenca del río Chaupihuaranga del año 2004; además se han desarrollado varias investigaciones arqueológicas y etnohistóricas por destacados personajes nacionales y algunos extranjeros.\nEl recinto arqueológico pese a tener áreas que aún no han sido excavadas mantiene un buen estado de conservación y cuidado por parte de la comunidad local, en sus 4.21 hectáreas podemos encontrar una técnica constructiva usada en el paramento de los muros corresponde al empleo de sillares dispuestos de forma concertada y amarrada, de estilo Inca Imperial. Los vanos de las estructuras son de forma trapezoidal al igual que las hornacinas ubicadas en los paramentos internos. Presenta un palacio principal (Inkawasi) de 12m de largo por 5m de ancho, con planta rectangular, piso empedrado, hornacinas trapezoidales y una puerta sin jambas con orientación hacia el lado este; el segundo edificio (Warmihuasi) es otro palacio construido a 20m de distancia del Inkahuasi. Al lado izquierdo del palacio principal se encuentra una pileta de agua, levantada totalmente de piedra pulida, su fuente principal tiene una base de 2 metros cuadrados, el agua dulce que provee esta fuente es de origen subterráneo, el cual llega a la pileta a través de un canal de piedra. Cerca de Huarautambo pasa el camino inca (Qhapac Ñan) que conecta con los demás pueblos incas entre ellos Wanuco Marca (Capital del Chinchaysuyo).\nPor su imponente arquitectura y aún vigente pakcha o pileta, además del entorno paisajístico que presenta genera gran atracción hacía los visitantes encontrando en el sitio un espacio ideal para la toma de fotografías, conocer más sobre el gran legado inca y actualmente disfrutar de eventos culturales del culto al agua."
+    },
+    {
+      "titulo": "Particularidades",
+      "contenido": "Este conjunto arqueológico es único en la región central del país (Pasco, Junín, Huánuco, Huancavelica, Ancash y Lima) y refleja una visión claramente ligada al culto al agua. En la edificación central existe una hermosa fuente con cuatro vertientes alimentadas desde un manantial en las alturas. Huarautambo asombra no solo por su condición de tambo en el camino sino por el espectacular despliegue de sus fuentes de agua, que solo tiene parangón contemporáneo con el Santuario de Tipón en Cusco y el de la Huaca de los Caranquis en el norte de Ecuador, investigación realizada por el reconocido arqueólogo y antropólogo Luis Guillermo Lumbreras Salcedo y publicada en la Serie Numismática Riqueza y Orgullo del Perú del Banco Central de Reserva, 2015."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "Declarado como Patrimonio Cultural de la Nación por el Instituto Nacional de Cultura (Ministerio de Cultura), mediante R.D.N. Nº873 el 04 de diciembre del 2003."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Muy bueno, no presenta impactos de contaminación y/o depredación, además la comunidad de Huarautambo de manera conjunta con la Municipalidad Provincial de Daniel Alcides Carrión y la DDC Pasco realizan faenas de mantenimiento del sitio."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n12\nRegistro de visitantes de la comunidad campesina de Huarautambo\n2024\nRegistro evaluado y validado por la Dircetur Pasco\nTuristas Nacionales\n1242\nRegistro de visitantes de la comunidad campesina de Huarautambo\n2024\nRegistro evaluado y validado por la Dircetur Pasco\nVisitantes Locales(Excursionistas)\n778\nRegistro de visitantes de la comunidad campesina de Huarautambo\n2024\nRegistro evaluado y validado por la Dircetur Pasco"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nPasco/Daniel Alcides Carrión/Yanahuanca\n-\nPasco/Daniel Alcides Carrión/Yanahuanca\nPlaza de Armas de Yanahuanca - Puente del Malecón (altura del grifo robles)\nTerrestre\nTaxi\nAsfaltado\n0.53 km / 4 minutos\n1\nPasco/Daniel Alcides Carrión/Yanahuanca\n-\nPasco/Daniel Alcides Carrión/Yanahuanca\nPuente del Malecón (altura grifo Robles) - Desvío para Huarautambo (altura grifo Flores)\nTerrestre\nTaxi\nAfirmado\n2.9 km / 08 min.\n1\nPasco/Daniel Alcides Carrión/Yanahuanca\n-\nPasco/Daniel Alcides Carrión/Yanahuanca\nDesvío a CP Huarautambo (altura grifo Flores) - Plaza del CP de Huarautambo\nTerrestre\nTaxi\nAsfaltado\n4.27 km / 16 min.\n1\nPasco/Daniel Alcides Carrión/Yanahuanca\n-\nPasco/Daniel Alcides Carrión/Yanahuanca\nPlaza del CP Huarautambo - Sitio Arqueológico de Huarautambo\nTerrestre\nA pie\nAfirmado\n0.13 km / 04 min."
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nIngreso de Adultos: S/ 3.00\nIngreso Niños: S/ 1.50"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n08:00 a.m.\n-\n05:00 p.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nEstudios e Investigación\n--\nNaturaleza\nObservación de flora\nQuinuales, penca, ichu, huayuna.\nNaturaleza\nObservación de paisaje\n--\nCultura y Folclore\nApreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)\nEn el mes de junio se desarrolla la escenificación inca de culto al agua"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Públicas\nServicios Públicos\nBoletería\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\n3 estrellas - Ciudad de Yanahuanca\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Yanahuanca\nAlojamiento\nOtros (Especificar)\nCasas hospedajes. C.P de Huarautambo y Ciudad de Yanahuanca\nAlimentación\nRestaurantes\nC.P de Huarautambo y Ciudad de Yanahuanca.\nAlimentación\nKioskos de comida y bebidas\nC.P de Huarautambo y Ciudad de Yanahuanca\nAlimentación\nBares\nCiudad de Yanahuanca\nAlimentación\nFuentes de soda\nCiudad de Yanahuanca\nAlimentación\nCafeterías\nCiudad de Yanahuanca\nAlimentación\nVenta de comida Rápida\nCiudad de Yanahuanca\nOtros Servicios Turísticos\nAgencia de Viajes\nC.P de Huarautambo y Ciudad de Yanahuanca\nOtros Servicios Turísticos\nVenta de artesanía\nC.P de Huarautambo y Ciudad de Yanahuanca\nOtros Servicios Turísticos\nAlquiler de Caballos\nC.P de Huarautambo a 30 soles por persona.\nLugares de Recreación\nDiscotecas\nCiudad de Yanahuanca\nLugares de Recreación\nKaraoke\nCiudad de Yanahuanca\nLugares de Recreación\nBares\nCiudad de Yanahuanca\nLugares de Recreación\nJuegos Infantiles\nCiudad de Yanahuanca\nLugares de Recreación\nCentros Deportivos\nCiudad de Yanahuanca\nServicios Públicos\nSeñales turísticas de orientación\nC.P de Huarautambo y Ciudad de Yanahuanca\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\nC.P de Huarautambo y Ciudad de Yanahuanca\nServicios Públicos\nOficina de Información turística\nCiudad de Yanahuanca. Municipalidad Provincial de Daniel A. Carrión.\nServicios Públicos\nCaminos peatonales\nCiudad de Yanahuanca"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCobertura de Bitel, Claro, Movistar, Entel - Ciudad de Yanahuanca\nBancos\nBanco de la Nación en la Ciudad de Yanahuanca\nCajero automático\nCiudad de Yanahuanca\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Yanahuanca\nServicio de estacionamiento\nC.P de Huarautambo y Ciudad de Yanahuanca\nServicios de taxis\nC.P de Huarautambo y Ciudad de Yanahuanca\nCentro de salud - tópico\nC.P de Huarautambo y Ciudad de Yanahuanca\nSeguridad / POLTUR / Comisaría\nPNP en la ciudad de Yanahuanca.\nLibrerías\nCiudad de Yanahuanca.\nBodegas o minimarkets\nCiudad de Yanahuanca.\nAlquiler y compra de equipos deportivos\nEn la ciudad de Yanahuanca\nVenta de materiales para fotografías\nEn la ciudad de Yanahuanca"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Yanahuanca.\nLuz (Suministro Eléctrico)\nC.P de Huarautambo y Ciudad de Yanahuanca\nTeléfono\nSeñal de Bitel en Huarautambo y Bitel, Claro, Movistar, Entel Ciudad de Yanahuanca\nAlcantarillado sanitario\nC.P de Huarautambo y Ciudad de Yanahuanca\nSistemas de tratamiento alternativo de residuos (Biodigestor, pozo séptico, otros)\nC.P de Huarautambo y Ciudad de Yanahuanca\nSeñalización turística\nC.P de Huarautambo y Ciudad de Yanahuanca\nAlcantarillado pluvial\nEn la ciudad de Yanahuanca"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nMinisterio de Cultura\nPrivado:\n--\nOtra Situación:\nSe encuentra dentro de la jurisdicción territorial de la Comunidad Campesina de Huarautambo\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nResolución de Reconocimiento de la Comunidad de Huarautambo\nNúmero de Partida:\n085-87-DR-XI-P-1987\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nEl Ministerio de Cultura se encuentra en el proceso de delimitación del Sitio Arqueológico\nAdministrador por\nNombre\nComunidad Campesina de Huarautambo\nTiempo de administración\nAdministrado desde el año 2008."
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo de Pasco.\nNombre (Persona(s) responsable(s) del inventario turístico):\nJose Luis ROJAS MAYTA\nCargo:\nDirector (e) de Turismo\nCorreo:\njoytad100@gmail.com\nTeléfono:\n963 635 001\nFuentes Bibliográfica:\n1) Libro: Los Yaros, Estudio de la Cultura Prehispánica de Pasco – Marino Pacheco Sandoval.1984 (pág. 80-84)\n2) Libro: El Perú, Historia de la Geografía del Perú Tomo II – Antonio Raymondi.1876 (pág. 49-50)\n3) Libro: The Inka Road System - John Hyslop.1984.New York (pág. 77 – 79)\n4) Tesis: Ancient Andean Archipelagos: Human Interaction and Social Innovation at Chawin Punta and Kunturay in the East-Central Highlands of Pasco, Peru - Nicholas E. Brown/Yale University. 2022.Conecticut (pág. 98 – 99, 121, 274)\n5) Libro: El Cañón del Río Chaupihuaranga y Las Culturas Interandinas de Pasco: Guarautambo de Huarautambo, Yarushpampa de Astobamba, Goñicutac de Rocco, Gorish de Vilcabamba – Alberto Bueno Mendoza.2010 (pág.18 – 23)\n6) Sitio Web: https://www.bcrp.gob.pe/docs/Billetes-Monedas/Monedas-de-Coleccion/Riqueza-y-Orgullo-del-Peru/huarautambo.pdf - Banco Central de Reserva del Perú.2015\n7) Libro: Pumpu, Centro Administrativo Inka de la Puna de Junín. Ramiro Matos Mendieta.1994 (pág.106-108)\nMaterial Audiovisual actual del Recurso:\nFOTO, VIDEOS\nEspecificación:\nREPORTAJE AL PERÚ / TV PERÚ - Yanahuanca: https://www.youtube.com/watch?v=vdgu7KThH4I\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n22/10/2025 21:37:53"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -10.465952396707706,
+    "longitud": -76.53719416931153
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-10.465952396707706,-76.53719416931153"
+}

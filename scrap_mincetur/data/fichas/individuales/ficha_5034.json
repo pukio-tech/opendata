@@ -1,0 +1,336 @@
+{
+  "cod_ficha": 5034,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=5034",
+  "nombre": "Mirador Natural De Sirpiqaqa",
+  "departamento": "Puno",
+  "provincia": "San Antonio De Putina",
+  "distrito": "PUTINA",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "ñ. Zonas paisajísticas",
+  "subtipo": "Miradores naturales",
+  "jerarquia": "2",
+  "altitud": "3869",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=471411",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=471411",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=471463",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=471415",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=471416",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=471464",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=471417",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=471418",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=471465",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=471730",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=471761"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Estudios e Investigación",
+    "Naturaleza - Observación de fauna",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de paisaje",
+    "Naturaleza - Observación de aves",
+    "Cultura y Folclore - Rituales místicos o tradicionales",
+    "Deportes / Aventura - Caminata/Trekking"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de fauna",
+      "observacion": "Avistamiento de vizcachas, zorros (ocasional) y cuyes silvestres",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fauna02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "Queñua, espina de cristo, puyas andinas, hichu hichu, panty panty.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de aves",
+      "observacion": "Jilgueros, golondrinas, canasteros, pájaro carpintero andino, águilas, halcones cordilleranos, gorriones, canasteros, jilgueros, allqamaris.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/aves02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Rituales místicos o tradicionales",
+      "observacion": "Durante celebraciones del calendario andino (año nuevo andino, día de la Pachamama, carnavales, pentecostés, inicio de cuaresma y otros)",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/rituales_misticos02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Puno/Puno/Puno - Puno/San Román/Juliaca",
+      "detalle": "Terminal Terrestre Interprovincial de Puno - Mercado Túpac Amaru de la ciudad de Juliaca",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mini bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "45 kms / 1 hora"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Puno/San Román/Juliaca - Puno/San Román/San Miguel",
+      "detalle": "Mercado Túpac Amaru de la ciudad de Juliaca - Terminal Terrestre Interprovincial San Francisco",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mototaxi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "1.5 kms / 10 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Puno/San Román/San Miguel - Puno/San Antonio De Putina/Putina",
+      "detalle": "Terminal Terrestre Interprovincial San Francisco de la ciudad de Juliaca - Paradero de combis (Av. 2 de setiembre),ciudad de Putina",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Combi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "90 kms / 1:40 horas"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Puno/San Antonio De Putina/Putina - Puno/San Antonio De Putina/Putina",
+      "detalle": "Paradero de combis (Av. 2 de setiembre),ciudad de Putina - Mirador Natural Sirpiqaqa",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "400 mts / 15 min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "320",
+      "horario": "Informe Técnico",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "1640",
+      "horario": "Informe Técnico",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "2320",
+      "horario": "Informe Técnico",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "08:00 a.m. - 04:00 p.m. --",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "División de Turismo de la Municipalidad Provincial de San Antonio de Putina"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Putina"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "3*** y 2** en la ciudad de Putina"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Putina"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Putina"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Ciudad de Putina"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Putina"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Ciudad de Putina"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Putina"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de camionetas 4 x 4",
+      "observacion": "Ciudad de Putina"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Ciudad de Putina"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "2** en la ciudad de Putina"
+    }
+  ],
+  "descripcion": "Formación lítica de piedra volcánica de aproximadamente 30 hectáreas de extensión, ubicada al este de la ciudad de Putina, se emplaza desde los 3,900 a 4,120 msnm, en una quebrada cerrada de forma sinuosa, por esta característica el lugar es conocido como la serpiente de las siete cabezas, representadas por formaciones rocosas en forma de pilares que sobresalen en el paisaje, siendo la parte más importante del complejo la considerada “cabeza principal” que se ubica en el extremo norte en el cual se ha construido infraestructura pública, un anfiteatro, senderos peatonales, gradas, banquetas y una caída artificial de agua de tres saltos y según algunos pobladores cuentan que se asemeja a un castillo de piedra con sus torreones, desde donde se divisa el pueblo y el bello paisaje circundante de la ciudad de Putina.\nLos antiguos pobladores cuentan la leyenda del sirpiqaqa en tiempos remotos cuando una serpiente de siete cabezas vinculada al mal, se comía a los ganados de las personas que vivían ahí y también trató de revelarse ante la primera patrona de este pueblo, la virgen María, quien con el intermedio de su poder divino petrifico a la bestia. Hoy es una atracción para los visitantes en esta tierra, el visitante puede recorrer cada una de sus cominerías hasta escalar a la parte alta donde puede apreciar una vista panorámica de la ciudad de Putina. La experiencia turística del visitante se complementa con el avistamiento de vizcachas, huallatas, bandurrias de qaqe y otras aves que el parque alberga.",
+  "particularidades": "De la base de una de las cabezas de la serpiente (formacion rocosa), brota el agua apta para el consumo de la población de Putina, las que provendrían de las partes altas del cerro Oqorurini o inquillani, 500 metros hacia el Sur, se encuentran varias fuentes de agua termal de diferentes grados de temperatura, de una de ellas se escucha el ruido con que cae el agua desde lo alto de este cerro.",
+  "estado_actual": "Bueno, la Municipalidad Provincial de San Antonio de Putina hace mantenimiento de manera permanente del recurso turístico",
+  "observaciones": "La ciudad de Putina está ubicada a 135 kms. al noreste de la ciudad de Puno.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Formación lítica de piedra volcánica de aproximadamente 30 hectáreas de extensión, ubicada al este de la ciudad de Putina, se emplaza desde los 3,900 a 4,120 msnm, en una quebrada cerrada de forma sinuosa, por esta característica el lugar es conocido como la serpiente de las siete cabezas, representadas por formaciones rocosas en forma de pilares que sobresalen en el paisaje, siendo la parte más importante del complejo la considerada “cabeza principal” que se ubica en el extremo norte en el cual se ha construido infraestructura pública, un anfiteatro, senderos peatonales, gradas, banquetas y una caída artificial de agua de tres saltos y según algunos pobladores cuentan que se asemeja a un castillo de piedra con sus torreones, desde donde se divisa el pueblo y el bello paisaje circundante de la ciudad de Putina.\nLos antiguos pobladores cuentan la leyenda del sirpiqaqa en tiempos remotos cuando una serpiente de siete cabezas vinculada al mal, se comía a los ganados de las personas que vivían ahí y también trató de revelarse ante la primera patrona de este pueblo, la virgen María, quien con el intermedio de su poder divino petrifico a la bestia. Hoy es una atracción para los visitantes en esta tierra, el visitante puede recorrer cada una de sus cominerías hasta escalar a la parte alta donde puede apreciar una vista panorámica de la ciudad de Putina. La experiencia turística del visitante se complementa con el avistamiento de vizcachas, huallatas, bandurrias de qaqe y otras aves que el parque alberga."
+    },
+    {
+      "titulo": "Particularidades",
+      "contenido": "De la base de una de las cabezas de la serpiente (formacion rocosa), brota el agua apta para el consumo de la población de Putina, las que provendrían de las partes altas del cerro Oqorurini o inquillani, 500 metros hacia el Sur, se encuentran varias fuentes de agua termal de diferentes grados de temperatura, de una de ellas se escucha el ruido con que cae el agua desde lo alto de este cerro."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, la Municipalidad Provincial de San Antonio de Putina hace mantenimiento de manera permanente del recurso turístico"
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "La ciudad de Putina está ubicada a 135 kms. al noreste de la ciudad de Puno."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n320\nInforme Técnico\n2021\nINFORME TÉCNICO Nº 001 – 2022 – MINCETUR/ DPDT/ ET/ BDPP\nTuristas Nacionales\n1640\nInforme Técnico\n2021\nINFORME TÉCNICO Nº 001 – 2022 – MINCETUR/ DPDT/ ET/ BDPP\nVisitantes Locales(Excursionistas)\n2320\nInforme Técnico\n2021\nINFORME TÉCNICO Nº 001 – 2022 – MINCETUR/ DPDT/ ET/ BDPP"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nPuno/Puno/Puno\n-\nPuno/San Román/Juliaca\nTerminal Terrestre Interprovincial de Puno - Mercado Túpac Amaru de la ciudad de Juliaca\nTerrestre\nMini bus público\nAsfaltado\n45 kms / 1 hora\n1\nPuno/San Román/Juliaca\n-\nPuno/San Román/San Miguel\nMercado Túpac Amaru de la ciudad de Juliaca - Terminal Terrestre Interprovincial San Francisco\nTerrestre\nMototaxi\nAsfaltado\n1.5 kms / 10 min\n1\nPuno/San Román/San Miguel\n-\nPuno/San Antonio De Putina/Putina\nTerminal Terrestre Interprovincial San Francisco de la ciudad de Juliaca - Paradero de combis (Av. 2 de setiembre),ciudad de Putina\nTerrestre\nCombi\nAsfaltado\n90 kms / 1:40 horas\n1\nPuno/San Antonio De Putina/Putina\n-\nPuno/San Antonio De Putina/Putina\nParadero de combis (Av. 2 de setiembre),ciudad de Putina - Mirador Natural Sirpiqaqa\nTerrestre\nA pie\nAfirmado\n400 mts / 15 min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n08:00 a.m.\n-\n04:00 p.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nEstudios e Investigación\n--\nNaturaleza\nObservación de fauna\nAvistamiento de vizcachas, zorros (ocasional) y cuyes silvestres\nNaturaleza\nObservación de flora\nQueñua, espina de cristo, puyas andinas, hichu hichu, panty panty.\nNaturaleza\nObservación de paisaje\n--\nNaturaleza\nObservación de aves\nJilgueros, golondrinas, canasteros, pájaro carpintero andino, águilas, halcones cordilleranos, gorriones, canasteros, jilgueros, allqamaris.\nCultura y Folclore\nRituales místicos o tradicionales\nDurante celebraciones del calendario andino (año nuevo andino, día de la Pachamama, carnavales, pentecostés, inicio de cuaresma y otros)\nDeportes / Aventura\nCaminata/Trekking\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Públicas\nServicios Públicos\nMiradores turísticos\n--\nInstalaciones Públicas\nServicios Públicos\nSeñales turísticas de orientación\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nServicios Públicos\nOficina de Información turística\nDivisión de Turismo de la Municipalidad Provincial de San Antonio de Putina\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Putina\nAlojamiento\nHoteles (especificar categorías)\n3*** y 2** en la ciudad de Putina\nAlimentación\nRestaurantes\nCiudad de Putina\nAlimentación\nCafeterías\nCiudad de Putina\nAlimentación\nFuentes de soda\nCiudad de Putina\nAlimentación\nKioskos de comida y bebidas\nCiudad de Putina\nAlimentación\nVenta de comida Rápida\nCiudad de Putina\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Putina\nOtros Servicios Turísticos\nAlquiler de camionetas 4 x 4\nCiudad de Putina\nLugares de Recreación\nJuegos Infantiles\nCiudad de Putina\nAlojamiento\nHostales (especificar categorías)\n2** en la ciudad de Putina"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Putina\nBancos\nBanco de la Nación en la ciudad de Putina\nCajero automático\nBanco de la Nación en la ciudad de Putina\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Putina\nServicio de correos\nCiudad de Putina\nServicio de estacionamiento\nCiudad de Putina\nServicios de taxis\nCiudad de Putina\nCentro de salud - tópico\nCentro de salud estratégico en la ciudad de Putina\nVenta de materiales para fotografías\nCiudad de Putina\nSeguridad / POLTUR / Comisaría\nComisaria PNP de Putina\nAlquiler y compra de equipos deportivos\nCiudad de Putina\nBodegas o minimarkets\nCiudad de Putina\nLibrerías\nCiudad de Putina\nOtros(especificar)\nAgente del Banco de la Nación"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nLuz (Suministro Eléctrico)\n--\nAgua potable\n--\nAlcantarillado sanitario\n--\nTeléfono\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Putina\nAlcantarillado sanitario\nCiudad de Putina\nLuz (Suministro Eléctrico)\nCiudad de Putina\nTeléfono\nCiudad de Putina\nSeñalización turística\nCiudad de Putina"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nMunicipalidad Provincial de San Antonio de Putina\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nCon expediente técnico para la emisión de Certificación de Posesión a nombre de la Municipalidad Provincial de San Antonio de Putina\nAdministrador por\nNombre\nMunicipalidad Provincial de San Antonio de Putina\nTiempo de administración\nDesde el año 1939"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección de Turismo - DIRCETUR Puno / Municipalidad Provincial de S. A. de Putina\nNombre (Persona(s) responsable(s) del inventario turístico):\nArq. Vadim Masciotti Cabala / Lic. Briseida D. Pauro Pino\nCargo:\nArq. / Especialista en Turismo\nCorreo:\nvamasciotti@gmail.com / briseidapauro@gmail.com\nTeléfono:\n051-351261 / 930363370\nFuentes Bibliográfica:\nPlan Estratégico Regional de Turismo - PERTUR Puno 2021 - 2026\nRuta de las aguas termales “Una nueva alternativa de aventura” En el corredor turístico ecológico – Bahuaja Sonene, Jerry Calcina Mamani, 2da Edición, 2015\nAlberto Urquiaga Vásquez, Huella Histórica de Putina, Cusco 1981. Raúl Castillo Gamarra, San Antonio de Putina...siempre, Arequipa 2015.\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\nLa Municipalidad Provincial de San Antonio de Putina a través del programa Trabaja Perú, ha intervenido en el año 2021 en la mejora y acondicionamiento del recurso turístico\nFecha:\n9/08/2023 18:25:40"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -14.916176593118573,
+    "longitud": -69.86363901580808
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-14.916176593118573,-69.86363901580808"
+}

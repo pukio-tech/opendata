@@ -1,0 +1,239 @@
+{
+  "cod_ficha": 889,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=889",
+  "nombre": "Templo De San Francisco De Asís",
+  "departamento": "Puno",
+  "provincia": "Melgar",
+  "distrito": "AYAVIRI",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Arquitectura y Espacios Urbanos",
+  "subtipo": "Templo",
+  "jerarquia": "2",
+  "altitud": "3,907",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=513951",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=513951",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=514042",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=514044",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=513952",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=513953",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=514045",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=513954",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=513955",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=513956",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=514047",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=513957",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=513958"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Cultura y Folclore - Actividades Religiosas o Patronales",
+    "Cultura y Folclore - Apreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Actividades Religiosas o Patronales",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/act_religiosas02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Apreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)",
+      "observacion": "--",
+      "icono_url": null
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Puno/Puno/Puno - Puno/San Román/Juliaca",
+      "detalle": "Paradero de combis Virgen de Fatima Express de Puno - Terminal las Mercedes de Juliaca",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Combi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "45 km. 1 hora"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Puno/San Román/Juliaca - Puno/Melgar/Ayaviri",
+      "detalle": "Terminal las Mercedes de Juliaca - Terminal Terrestre de Ayaviri",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Combi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "96.1 km., 1 hora 20 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Puno/Melgar/Ayaviri - Puno/Melgar/Ayaviri",
+      "detalle": "Terminal Terrestre de Ayaviri - Templo San Francisco de Asis",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mototaxi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "1 km., 5 minutos"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "5400",
+      "horario": "Ficha de conteo muestral",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "07:30 a.m. - 05:30 p.m. Lunes, miercoles, sabados, domingos y feriados, otro dia coordinar con el párroco o el guardian",
+      "observaciones": "Lunes, miercoles, sabados, domingos y feriados, otro dia coordinar con el párroco o el guardian"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": "Previa coordinación con el parroco o con el guardian"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "En la ciudad de Ayaviri"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "No categorizados en Ayaviri"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "En la ciudad de Ayaviri"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "En la ciudad de Ayaviri y en el Circuito Turístico Comunitario- Ayaviri Turístico"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "En la ciudad de Ayaviri y en el Circuito Turístico Comunitario- Ayaviri Turístico"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "En la ciudad de Ayaviri"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "En la ciudad de Ayaviri"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "En la ciudad de Ayaviri"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "En la ciudad de Ayaviri"
+    }
+  ],
+  "descripcion": "Situada frente a la plaza de armas de la ciudad de Ayaviri, el Templo de San Francisco de Asís, fue construida a finales del siglo XVII y tiene más que 300 años. Declarado Patrimonio Cultural de la Nación, su arquitectura presenta el estilo barroco-andino en su ornamentación y tiene una portada de las más importantes en el altiplano, compuesta por tres columnas que se superponen. En su interior lienzos de gran tamaño pertenecientes al artista indígena Isodoro Francisco de Moncada del siglo XVIII retratan escenas de la Pasión de Cristo y de la vida de la Virgen María empapados de un estilo arcaico para la época.es de arquitectura colonial y magnífica factura, la construcción en su primera etapa se inició a fines del siglo XVI de cal y canto, sobre las bases de lo que fue un templo del Sol inca, de enormes piedras de granito muy bien labradas, sirvieron para el cimiento del nuevo templo, inicialmente fue de 67 varas de largo x 11 3/4 de ancho, hornacinas en el cuerpo, crucero en cruz con arcos que sostienen la cúpula de media naranja, en las testeras del crucero arcos se resaltaría de 5 golpes, 1 capilla mayor y 2 torres a proporción, coro con un órgano, 3 retablos. La portada es la pieza más perfecta, de equilibrada composición, del barroco peruano de fines del siglo XVI, flanqueada por 2 torres, un primer cuerpo sólido y sin resaltes de estilo cuzqueño, un segundo cuerpo y los capiteles son de similar factura que en Azángaro. Una característica es el uso de unos piñones que se yerguen frente a cada columna saliente del primer cuerpo del frontispicio.\nFue refaccionada a mediados del siglo XVIII y adornada con alhajas de plata labrada y otros adornos que le dio hermosura y riqueza, data de esta época la colocación de 2 cofradías y altares nuevos, su portada como excelente muestra del barroco peruano de ese tiempo, tejas vidriadas de colores (verdes y amarillos) característica de la arquitectura dieciochesca de la región, ambos lados de la nave principal adornada con una serie completa de grandes lienzos de 1768 pintados por Isidoro Francisco Moncada.\nPosteriormente, se reedifica el bautisterio, la entrada del coro y la sacristía, luego se hicieron nuevas y sucesivas refacciones, en 1820 fue enlosada.\nEl altar mayor conserva un gran retablo y un frontal de plata repujada que data aproximadamente de 1780. La imagen de San Francisco de Asís, tallada en madera, se encuentra colocada en una de las hornacinas del altar mayor, otra de yeso y de menor calidad artística es la que sale en las procesiones y se guarda en el retablo del lado izquierdo. La efigie de la Virgen de la Alta Gracia, patrona de Ayaviri, se encuentra en un altar especial al lado derecho.\nEl templo fue restaurado y puesto en valor, en mayo del año 2017. Su restauración fue integral: estructura, obras de arte, marquetería, retablos, paredes, techo, fachada, jardines, reja exterior.\nEn la actualidad el templo se impone con su majestuosa presencia, adornando la plaza principal. Una de las festividades más importantes en la ciudad de Ayaviri es celebrada cada 8 de setiembre, esto en honor a la Virgen de Alta Gracia patrona de Ayaviri, con exhibición de danzas con trajes de luces, rey moreno, diablada, waca waca, tuntuna, entre otras danzas, corrida de toros, ferias y demás acontecimientos culturales y religiosos.",
+  "particularidades": "",
+  "estado_actual": "Bueno, reconstruido recientemente y en constante mantenimiento por la parroquia.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Situada frente a la plaza de armas de la ciudad de Ayaviri, el Templo de San Francisco de Asís, fue construida a finales del siglo XVII y tiene más que 300 años. Declarado Patrimonio Cultural de la Nación, su arquitectura presenta el estilo barroco-andino en su ornamentación y tiene una portada de las más importantes en el altiplano, compuesta por tres columnas que se superponen. En su interior lienzos de gran tamaño pertenecientes al artista indígena Isodoro Francisco de Moncada del siglo XVIII retratan escenas de la Pasión de Cristo y de la vida de la Virgen María empapados de un estilo arcaico para la época.es de arquitectura colonial y magnífica factura, la construcción en su primera etapa se inició a fines del siglo XVI de cal y canto, sobre las bases de lo que fue un templo del Sol inca, de enormes piedras de granito muy bien labradas, sirvieron para el cimiento del nuevo templo, inicialmente fue de 67 varas de largo x 11 3/4 de ancho, hornacinas en el cuerpo, crucero en cruz con arcos que sostienen la cúpula de media naranja, en las testeras del crucero arcos se resaltaría de 5 golpes, 1 capilla mayor y 2 torres a proporción, coro con un órgano, 3 retablos. La portada es la pieza más perfecta, de equilibrada composición, del barroco peruano de fines del siglo XVI, flanqueada por 2 torres, un primer cuerpo sólido y sin resaltes de estilo cuzqueño, un segundo cuerpo y los capiteles son de similar factura que en Azángaro. Una característica es el uso de unos piñones que se yerguen frente a cada columna saliente del primer cuerpo del frontispicio.\nFue refaccionada a mediados del siglo XVIII y adornada con alhajas de plata labrada y otros adornos que le dio hermosura y riqueza, data de esta época la colocación de 2 cofradías y altares nuevos, su portada como excelente muestra del barroco peruano de ese tiempo, tejas vidriadas de colores (verdes y amarillos) característica de la arquitectura dieciochesca de la región, ambos lados de la nave principal adornada con una serie completa de grandes lienzos de 1768 pintados por Isidoro Francisco Moncada.\nPosteriormente, se reedifica el bautisterio, la entrada del coro y la sacristía, luego se hicieron nuevas y sucesivas refacciones, en 1820 fue enlosada.\nEl altar mayor conserva un gran retablo y un frontal de plata repujada que data aproximadamente de 1780. La imagen de San Francisco de Asís, tallada en madera, se encuentra colocada en una de las hornacinas del altar mayor, otra de yeso y de menor calidad artística es la que sale en las procesiones y se guarda en el retablo del lado izquierdo. La efigie de la Virgen de la Alta Gracia, patrona de Ayaviri, se encuentra en un altar especial al lado derecho.\nEl templo fue restaurado y puesto en valor, en mayo del año 2017. Su restauración fue integral: estructura, obras de arte, marquetería, retablos, paredes, techo, fachada, jardines, reja exterior.\nEn la actualidad el templo se impone con su majestuosa presencia, adornando la plaza principal. Una de las festividades más importantes en la ciudad de Ayaviri es celebrada cada 8 de setiembre, esto en honor a la Virgen de Alta Gracia patrona de Ayaviri, con exhibición de danzas con trajes de luces, rey moreno, diablada, waca waca, tuntuna, entre otras danzas, corrida de toros, ferias y demás acontecimientos culturales y religiosos."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "Declarado Patrimonio Cultural de la Nación mediante Ley Nº9400 el 08 de marzo del 1991."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, reconstruido recientemente y en constante mantenimiento por la parroquia."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nVisitantes Locales(Excursionistas)\n5400\nFicha de conteo muestral\n2023\nEjecutado en el mes de noviembre"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nPuno/Puno/Puno\n-\nPuno/San Román/Juliaca\nParadero de combis Virgen de Fatima Express de Puno - Terminal las Mercedes de Juliaca\nTerrestre\nCombi\nAsfaltado\n45 km. 1 hora\n1\nPuno/San Román/Juliaca\n-\nPuno/Melgar/Ayaviri\nTerminal las Mercedes de Juliaca - Terminal Terrestre de Ayaviri\nTerrestre\nCombi\nAsfaltado\n96.1 km., 1 hora 20 minutos\n1\nPuno/Melgar/Ayaviri\n-\nPuno/Melgar/Ayaviri\nTerminal Terrestre de Ayaviri - Templo San Francisco de Asis\nTerrestre\nMototaxi\nAsfaltado\n1 km., 5 minutos"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre\nPrevia coordinación con el parroco o con el guardian"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n07:30 a.m.\n-\n05:30 p.m.\nLunes, miercoles, sabados, domingos y feriados, otro dia coordinar con el párroco o el guardian"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nCultura y Folclore\nActividades Religiosas o Patronales\n--\nCultura y Folclore\nApreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nEn la ciudad de Ayaviri\nAlimentación\nRestaurantes\nNo categorizados en Ayaviri\nAlimentación\nKioskos de comida y bebidas\nEn la ciudad de Ayaviri\nOtros Servicios Turísticos\nVenta de artesanía\nEn la ciudad de Ayaviri y en el Circuito Turístico Comunitario- Ayaviri Turístico\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\nEn la ciudad de Ayaviri y en el Circuito Turístico Comunitario- Ayaviri Turístico\nServicios Públicos\nEstacionamiento de vehículos\nEn la ciudad de Ayaviri\nLugares de Recreación\nDiscotecas\nEn la ciudad de Ayaviri\nLugares de Recreación\nJuegos Infantiles\nEn la ciudad de Ayaviri\nLugares de Recreación\nBares\nEn la ciudad de Ayaviri"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nEn la ciudad de Ayaviri\nBancos\nBanco de la Nación\nCajero automático\nEn la ciudad de Ayaviri\nEstación de servicios, grifos, gasolineras y gasocentros\nEn la ciudad de Ayaviri\nServicio de estacionamiento\nEn la ciudad de Ayaviri\nCentro de salud - tópico\nEn la ciudad de Ayaviri\nVenta de materiales para fotografías\nEn la ciudad de Ayaviri\nSeguridad / POLTUR / Comisaría\nEn la ciudad de Ayaviri\nBodegas o minimarkets\nEn la ciudad de Ayaviri\nOtros(especificar)\nBomberos en la ciudad de Ayaviri\nAlquiler y compra de equipos deportivos\nEn la ciudad de Ayaviri\nLibrerías\nEn la ciudad de Ayaviri"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\n--\nDesagüe\n--\nLuz (Suministro Eléctrico)\n--\nAlcantarillado sanitario\n--\nAlcantarillado pluvial\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nEn la ciudad de Ayaviri\nAlcantarillado sanitario\nEn la ciudad de Ayaviri\nLuz (Suministro Eléctrico)\nEn la ciudad de Ayaviri\nSistemas de tratamiento alternativo de residuos (Biodigestor, pozo séptico, otros)\nEn la ciudad de Ayaviri\nAlcantarillado pluvial\nEn la ciudad de Ayaviri"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nPrelatura de Ayaviri\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nCarta apostólica Ex illis Diocesibus\nAdministrador por\nNombre\nPrelatura de Ayaviri\nTiempo de administración\nDesde el año 1958"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección de Comercio Exterior y Turismo Puno- DIRCETUR Puno / Municipalidad Provincial de Melgar Ayaviri\nNombre (Persona(s) responsable(s) del inventario turístico):\nArq. Vadim Masciotti Cabala / Lic. Maribel Jacqueline Choque Copa\nCargo:\nEsp. en Turismo/ Sub Gerente de Desarrollo Comercial Pymes y Turismo\nCorreo:\nvamasciotti@gmail.com/chcmaribel@gmail.com\nTeléfono:\n961116237 / 982242248\nFuentes Bibliográfica:\n- Emilio Harth-Terré 2018 \" la portada la más perfecta y equilibrada composición del barroco peruano de fin del siglo XVII\".\n- Carlos Zegarra Moretti y Rodrigo Rodrich, el libro \"La Catedral de Ayaviri en el tiempo\" es una pieza que recoge dos años y medio de investigación sobre la iglesia barroca. El libro fue publicado por el Fondo Editorial de la Universidad Católica San Pablo.\n- Cheney, David 7 de abril de 2021. Territorial Prelature of Ayaviri.\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n5/07/2024 11:27:48"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -14.881644492152418,
+    "longitud": -70.58996915817261
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-14.881644492152418,-70.58996915817261"
+}

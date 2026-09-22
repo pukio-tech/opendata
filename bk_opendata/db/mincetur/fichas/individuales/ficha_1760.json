@@ -1,0 +1,281 @@
+{
+  "cod_ficha": 1760,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=1760",
+  "nombre": "Cascada De Shima",
+  "departamento": "San Martín",
+  "provincia": "Huallaga",
+  "distrito": "SAPOSOA",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "j. Caídas de agua",
+  "subtipo": "Cataratas",
+  "jerarquia": "1",
+  "altitud": "521",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=620397",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=620397",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=620398",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=620399",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=620301",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=623848",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=623756",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=623759"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Otros(Especificar)",
+    "Deportes acuáticos - Natación",
+    "Naturaleza - Observación de paisaje",
+    "Deportes / Aventura - Caminata/Trekking"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Otros(Especificar)",
+      "observacion": "Baño en las pozas de agua que forma la cascada.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/otros02.png"
+    },
+    {
+      "actividad": "Deportes acuáticos",
+      "tipo": "Natación",
+      "observacion": "Para el ingreso a la cascada, se realiza un de pago de 5.00 soles por persona en el puesto de control.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/natacion02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "Para el ingreso a la cascada, se realiza un de pago de 5.00 soles por persona en el puesto de control.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "San Martín/Huallaga/Saposoa - San Martín/Huallaga/Saposoa",
+      "detalle": "Plaza de Armas de Saposoa – Centro poblado de Shima",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "6.04 km / 15 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "San Martín/Huallaga/Saposoa - San Martín/Huallaga/Saposoa",
+      "detalle": "Centro poblado de Shima – Puesto de control Cascadas Shima",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "2.36 km / 15 Minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "San Martín/Huallaga/Saposoa - San Martín/Huallaga/Saposoa",
+      "detalle": "Puesto de control Cascadas Shima - Primera piscina Cascadas Shima (Tambo de descanso)",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Sendero",
+      "distancia_tiempo": "1.50 km / 30 Minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "San Martín/Huallaga/Saposoa - San Martín/Huallaga/Saposoa",
+      "detalle": "Primera piscina Cascadas Shima (Tambo de descanso) - Cascada Shima",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Sendero",
+      "distancia_tiempo": "2 km / 1 hora"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "San Martín/Huallaga/Saposoa - San Martín/Huallaga/Saposoa",
+      "detalle": "Primera piscina Cascadas Shima (Tambo de descanso) - Cascada Shima",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Sendero",
+      "distancia_tiempo": "2 km / 1 hora"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "1260",
+      "horario": "Conteo muestral de visitas elaborado por la Municipalidad Provincial de Huallaga",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "2790",
+      "horario": "Conteo muestral de visitas elaborado por la Municipalidad Provincial de Huallaga",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "18540",
+      "horario": "Conteo muestral de visitas elaborado por la Municipalidad Provincial de Huallaga",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Esporádicamente - Algunos meses",
+      "especificacion": "--",
+      "horario": "06:00 a.m. - 03:00 p.m. Llevar repelente, bloqueador y ropa de cambio.",
+      "observaciones": "Llevar repelente, bloqueador y ropa de cambio."
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": "Se recomienda en los horarios de 6:00 am a 3:00 pm"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "En la ciudad de Saposoa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Restaurantes (sin clase ni catergoria).En la ciudad de Saposoa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "En la ciudad de Saposoa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "En la ciudad de Saposoa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "En la ciudad de Saposoa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "En la ciudad de Saposoa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "En la ciudad de Saposoa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "En la ciudad de Saposoa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "En la ciudad de Saposoa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "En la ciudad de Saposoa"
+    }
+  ],
+  "descripcion": "La Cascada de Shima es un recurso turístico ubicado en el centro poblado de Shima, perteneciente al distrito de Saposoa, en la provincia de Huallaga, región San Martín. Este recurso se encuentra a una altitud de 521 m.s.n.m., en una zona de selva alta caracterizada por su exuberante vegetación y clima tropical. El entorno presenta temperaturas promedio que oscilan entre los 22° y 28° C, siendo la temporada de verano entre los meses de junio y noviembre la época más propicia para su visita, ya que durante estos meses el caudal del agua es cristalino y el acceso es más seguro y cómodo para los visitantes.\nLa cascada tiene una altura total de 30 metros, distribuida en tres saltos de agua ligeramente inclinados con una caída natural, la primera caída es de 4 metros, donde el agua impacta con fuerza contra la roca, generando una espuma blanca que se eleva en forma de neblina refrescante; la segunda caída es de 9 metros, que se destaca por su singularidad ya que el torrente atraviesa una pequeña gruta esculpida por la erosión, lo que le confiere un atractivo para la toma de fotografía y la última caída es de 17 metros, que muestra un chorro de agua de aproximadamente 2 metros de ancho que cae directamente en una poza natural de 5 metros de profundidad, ideal para el baño y la recreación en contacto con la naturaleza. Estos desniveles configuran un espectáculo visual y relajante para el visitante, por estas mismas características propias del recurso y su entorno biodiverso, la convierten en un espacio de uso y de interés turístico ideal para la práctica de actividades como caminatas, observación de paisaje, toma de fotografías y la natación. La temperatura del agua se mantiene constante a los 17° C durante todo el año, brindando una experiencia revitalizante para quienes se animan a sumergirse. El color del agua varía según la estación, en la temporada de verano, en los meses de junio a noviembre es completamente cristalina, permitiendo observar con claridad el fondo de las pozas y las formaciones rocosas; mientras que, en la temporada de invierno, en los meses de enero y mayo esta adopta una coloración barrosa debido al aumento del arrastre de sedimentos. El entorno de la cascada está cubierto por una frondosa vegetación natural típica de la selva. La cascada Shima es uno de los recursos turísticos principales de la provincia y no solo constituye un espacio natural de gran valor turístico, sino que también representa una oportunidad estratégica para el desarrollo turístico del distrito de Saposoa y la provincia de Huallaga. La cascada se encuentra en buen estado de conservación y mantenimiento, ya que es el Comité de Turismo “CASCADA DE SHIMA”, quienes se encargan de su administración del año 2022.",
+  "particularidades": "",
+  "estado_actual": "Buen estado de conservación, se encuentra bajo la administración del Comité de Turismo “CASCADA DE SHIMA”. mediante Resolución de Alcaldía N° 065-2022-MPH-S.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "La Cascada de Shima es un recurso turístico ubicado en el centro poblado de Shima, perteneciente al distrito de Saposoa, en la provincia de Huallaga, región San Martín. Este recurso se encuentra a una altitud de 521 m.s.n.m., en una zona de selva alta caracterizada por su exuberante vegetación y clima tropical. El entorno presenta temperaturas promedio que oscilan entre los 22° y 28° C, siendo la temporada de verano entre los meses de junio y noviembre la época más propicia para su visita, ya que durante estos meses el caudal del agua es cristalino y el acceso es más seguro y cómodo para los visitantes.\nLa cascada tiene una altura total de 30 metros, distribuida en tres saltos de agua ligeramente inclinados con una caída natural, la primera caída es de 4 metros, donde el agua impacta con fuerza contra la roca, generando una espuma blanca que se eleva en forma de neblina refrescante; la segunda caída es de 9 metros, que se destaca por su singularidad ya que el torrente atraviesa una pequeña gruta esculpida por la erosión, lo que le confiere un atractivo para la toma de fotografía y la última caída es de 17 metros, que muestra un chorro de agua de aproximadamente 2 metros de ancho que cae directamente en una poza natural de 5 metros de profundidad, ideal para el baño y la recreación en contacto con la naturaleza. Estos desniveles configuran un espectáculo visual y relajante para el visitante, por estas mismas características propias del recurso y su entorno biodiverso, la convierten en un espacio de uso y de interés turístico ideal para la práctica de actividades como caminatas, observación de paisaje, toma de fotografías y la natación. La temperatura del agua se mantiene constante a los 17° C durante todo el año, brindando una experiencia revitalizante para quienes se animan a sumergirse. El color del agua varía según la estación, en la temporada de verano, en los meses de junio a noviembre es completamente cristalina, permitiendo observar con claridad el fondo de las pozas y las formaciones rocosas; mientras que, en la temporada de invierno, en los meses de enero y mayo esta adopta una coloración barrosa debido al aumento del arrastre de sedimentos. El entorno de la cascada está cubierto por una frondosa vegetación natural típica de la selva. La cascada Shima es uno de los recursos turísticos principales de la provincia y no solo constituye un espacio natural de gran valor turístico, sino que también representa una oportunidad estratégica para el desarrollo turístico del distrito de Saposoa y la provincia de Huallaga. La cascada se encuentra en buen estado de conservación y mantenimiento, ya que es el Comité de Turismo “CASCADA DE SHIMA”, quienes se encargan de su administración del año 2022."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "La Municipalidad Provincial de Huallaga reconoce como lugar turístico a la Cascada Shima con RESOLUCION DE ALCALDIA N° 263-2012-MPH de fecha 07 de diciembre de 2012."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Buen estado de conservación, se encuentra bajo la administración del Comité de Turismo “CASCADA DE SHIMA”. mediante Resolución de Alcaldía N° 065-2022-MPH-S."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n1260\nConteo muestral de visitas elaborado por la Municipalidad Provincial de Huallaga\n2025\nInformación recibida y registrada por la DSRCETUR-HC\nTuristas Nacionales\n2790\nConteo muestral de visitas elaborado por la Municipalidad Provincial de Huallaga\n2025\nInformación recibida y registrada por la DSRCETUR-HC\nVisitantes Locales(Excursionistas)\n18540\nConteo muestral de visitas elaborado por la Municipalidad Provincial de Huallaga\n2025\nInformación recibida y registrada por la DSRCETUR-HC"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nSan Martín/Huallaga/Saposoa\n-\nSan Martín/Huallaga/Saposoa\nPlaza de Armas de Saposoa – Centro poblado de Shima\nTerrestre\nAutomóvil particular\nAfirmado\n6.04 km / 15 minutos\n1\nSan Martín/Huallaga/Saposoa\n-\nSan Martín/Huallaga/Saposoa\nCentro poblado de Shima – Puesto de control Cascadas Shima\nTerrestre\nAutomóvil particular\nTrocha carrozable\n2.36 km / 15 Minutos\n1\nSan Martín/Huallaga/Saposoa\n-\nSan Martín/Huallaga/Saposoa\nPuesto de control Cascadas Shima - Primera piscina Cascadas Shima (Tambo de descanso)\nTerrestre\nA pie\nSendero\n1.50 km / 30 Minutos\n1\nSan Martín/Huallaga/Saposoa\n-\nSan Martín/Huallaga/Saposoa\nPrimera piscina Cascadas Shima (Tambo de descanso) - Cascada Shima\nTerrestre\nA pie\nSendero\n2 km / 1 hora\n1\nSan Martín/Huallaga/Saposoa\n-\nSan Martín/Huallaga/Saposoa\nPrimera piscina Cascadas Shima (Tambo de descanso) - Cascada Shima\nTerrestre\nA pie\nSendero\n2 km / 1 hora"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre\nSe recomienda en los horarios de 6:00 am a 3:00 pm"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nEsporádicamente - Algunos meses\n--\n06:00 a.m.\n-\n03:00 p.m.\nLlevar repelente, bloqueador y ropa de cambio."
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nOtros(Especificar)\nBaño en las pozas de agua que forma la cascada.\nDeportes acuáticos\nNatación\nPara el ingreso a la cascada, se realiza un de pago de 5.00 soles por persona en el puesto de control.\nNaturaleza\nObservación de paisaje\n--\nDeportes / Aventura\nCaminata/Trekking\nPara el ingreso a la cascada, se realiza un de pago de 5.00 soles por persona en el puesto de control."
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nEn la ciudad de Saposoa\nAlimentación\nRestaurantes\nRestaurantes (sin clase ni catergoria).En la ciudad de Saposoa\nAlimentación\nBares\nEn la ciudad de Saposoa\nAlimentación\nFuentes de soda\nEn la ciudad de Saposoa\nAlimentación\nKioskos de comida y bebidas\nEn la ciudad de Saposoa\nAlimentación\nVenta de comida Rápida\nEn la ciudad de Saposoa\nLugares de Recreación\nDiscotecas\nEn la ciudad de Saposoa\nLugares de Recreación\nJuegos Infantiles\nEn la ciudad de Saposoa\nLugares de Recreación\nCentros Deportivos\nEn la ciudad de Saposoa\nLugares de Recreación\nKaraoke\nEn la ciudad de Saposoa"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nEn la ciudad de Saposoa\nBancos\nEn la ciudad de Saposoa\nCajero automático\nEn la ciudad de Saposoa\nEstación de servicios, grifos, gasolineras y gasocentros\nEn la ciudad de Saposoa\nServicio de correos\nEn la ciudad de Saposoa\nServicios de taxis\nEn la ciudad de Saposoa\nCentro de salud - tópico\nEn la ciudad de Saposoa\nSeguridad / POLTUR / Comisaría\nEn la ciudad de Saposoa\nLibrerías\nEn la ciudad de Saposoa\nBodegas o minimarkets\nEn la ciudad de Saposoa"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nEn la ciudad de Saposoa\nLuz (Suministro Eléctrico)\nEn la ciudad de Saposoa\nTeléfono\nEn la ciudad de Saposoa"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nMunicipalidad Provincial de Huallaga\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nCedido para su administración al Comité de Turismo “CASCADA DE SHIMA”, mediante Resolución de Alcaldía N° 065-2022-MPH-S.\nAdministrador por\nNombre\nComité de Turismo “CASCADA DE SHIMA”\nTiempo de administración\nDesde el año 2022"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo de San Martín\nNombre (Persona(s) responsable(s) del inventario turístico):\nEdison Rodríguez Chupe\nCargo:\nAnalista en Turismo\nCorreo:\nedison.rodriguezchupe@gmail.com\nTeléfono:\n976 980 815\nFuentes Bibliográfica:\nNota de presa “Cascada de Shima da el primer paso hacia su formalización “. Autor: Gobierno Regional de San Martín. Año: 2025. Enlace: https://www.gob.pe/institucion/regionsanmartin-dircetur/noticias/1170921-cascada-de-shima-da-el-primer-paso-hacia-su-formalizacion\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n2/09/2025 17:02:30"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -6.90265,
+    "longitud": -76.8356
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-6.90265,-76.8356"
+}

@@ -1,0 +1,374 @@
+{
+  "cod_ficha": 5621,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=5621",
+  "nombre": "Bodega Biondi",
+  "departamento": "Moquegua",
+  "provincia": "Mariscal Nieto",
+  "distrito": "SAN ANTONIO",
+  "categoria": "4. REALIZACIONES TÉCNICAS, CIENTÍFICAS Y ARTÍSTICAS CONTEMPORÁNEAS",
+  "tipo": "Explotaciones Industriales",
+  "subtipo": "Bodegas de pisco, vinos y/u otros licores",
+  "jerarquia": "2",
+  "altitud": "1189",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=559311",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=559311",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=562753",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=562757",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=562795",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=562798",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=562800",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=562765",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=562766",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=562801",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=562767",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=562802",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=562803",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=568384"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Estudios e Investigación",
+    "Naturaleza - Observación de paisaje"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "Para cultivo de vid y elaboración de bebidas derivadas de la vid",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Moquegua/Mariscal Nieto/Moquegua - Moquegua/Mariscal Nieto/San Antonio",
+      "detalle": "Plaza de Armas de Moquegua – Desvío Callejón Omo km. 1149 (Carretera Panamericana Sur)",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "8.5 km/10 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Moquegua/Mariscal Nieto/San Antonio - Moquegua/Mariscal Nieto/San Antonio",
+      "detalle": "Desvío Callejón Omo Km.1149 (Carretera Panamericana Sur ) - Bodega Biondi (Ingreso carretera MO 603)",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "600 m. /2 min."
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Moquegua/Mariscal Nieto/San Antonio - Moquegua/Mariscal Nieto/San Antonio",
+      "detalle": "Plaza Cívica del Distrito de San Antonio (Carretera Binacional) - Desvío Callejón Omo km. 1149 (Carretera Panamericana Sur)",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "6km/7min"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Moquegua/Mariscal Nieto/San Antonio - Moquegua/Mariscal Nieto/San Antonio",
+      "detalle": "Desvío Callejón Omo km.1149 (Carretera Panamericana Sur) - Bodega Biondi ( Ingreso Carretera MO 603)",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "600 m./2 min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "275",
+      "horario": "Oficio Nº 0001-2024 / ANTONIO BIONDI E HIJOS S.A.C.",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "206",
+      "horario": "Oficio Nº 0001-2024 / ANTONIO BIONDI E HIJOS S.A.C.",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "3266",
+      "horario": "Oficio Nº 0001-2024 / ANTONIO BIONDI E HIJOS S.A.C.",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "08:00 a.m. - 04:00 p.m. Lunes a viernes",
+      "observaciones": "Lunes a viernes"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Semi-restringido(previo permiso)",
+      "observaciones": "Coordinación: Sr. Giovanni Valdivia Cornejo Cel. 958760581"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Moquegua"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Ciudad de Moquegua"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Ciudad de Moquegua"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Ciudad de Moquegua"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "Ciudad de Moquegua"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Moquegua"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Moquegua"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de Moquegua"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Moquegua"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Moquegua"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Moquegua"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Ciudad de Moquegua"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "Ciudad de Moquegua (1,2,3,4 estrellas)"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Apart-hoteles (especificar categorías)",
+      "observacion": "Ciudad de Moquegua ( 2 estrellas)"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "Ciudad de Moquegua (1,2,3 estrellas)"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Moquegua"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Moquegua"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "Ciudad de Moquegua"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Ciudad de Moquegua"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "Ciudad de Moquegua"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Ciudad de Moquegua"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Museo de Sitio Turísticos",
+      "observacion": "Ciudad de Moquegua"
+    }
+  ],
+  "descripcion": "Ubicado en el fundo Omo km.1150 por la carretera Panamericana Sur, ingreso al callejón Omo, esta bodega tuvo como fundador a Don Manuel Antonio Biondi Bernales, quien en la década de 1950 adquiere la antigua bodega Omo, modernizándola con los últimos adelantos de la época en la elaboración de pisco y posteriormente obtiene también los terrenos del fundo Los Espejos, los mismos que forman parte de este valle vitivinícola. En 1972, se constituye la firma Antonio Biondi e Hijo, con su hijo Óscar Biondi Cosío, iniciando el negocio primero como un pasatiempo y que finalmente el año 1999 se transforma en Antonio Biondi e Hijos Sociedad Anónima Cerrada, forma en la que opera a la fecha. Actualmente, cuenta con 35 hectáreas de vid, de las cuales casi un 60 % son de la variedad Italia, y el resto son de las variedades Negra Criolla, Quebranta, Torontel, Moscatel y Albilla, siendo las dos primeras variedades no aromáticas y las tres últimas variedades aromáticas. Su principal producto es el pisco, teniendo las siguientes presentaciones: Pisco Puro, de todas las variedades antes mencionadas; Pisco Acholado, que es una mezcla de variedades, y el Pisco Mosto Verde, de las variedades Italia y Negra Criolla. Sus productos han llegado más allá de nuestras fronteras, llevando el Pisco Moqueguano a los principales mercados del Perú y el mundo, donde cada botella cuenta una historia especial desde la perspectiva familiar que mantienen de generación en generación. Es una de las bodegas que forma parte de la ruta del pisco y el vino, de gran innovación tecnológica, ofreciendo a sus visitantes poder realizar un recorrido por su bodega, y conocer el proceso de elaboración del pisco en la misma planta, así como poder ver la variedad de productos que salen al mercado y la degustación de los mismos. Sus exteriores permiten apreciar el entorno paisajístico propio del valle, sus tinajas coloniales y desde su glorieta los cultivos de vid.",
+  "particularidades": "",
+  "estado_actual": "Bueno, porque recibe mantenimiento por parte de sus propietarios.",
+  "observaciones": "- Certificación Internacional sello Safe Travels, Moquegua Capital del dulce y el pisco 2021.\n-Medalla de Oro. Concurso Internacional de vinos y bebidas espirituosas de origen Vínico. / Argentina-Instituto Nacional de Vitivinicultura (INV), y el Consejo Federal de Inversiones (CFI) l VINANDINO 2011.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Ubicado en el fundo Omo km.1150 por la carretera Panamericana Sur, ingreso al callejón Omo, esta bodega tuvo como fundador a Don Manuel Antonio Biondi Bernales, quien en la década de 1950 adquiere la antigua bodega Omo, modernizándola con los últimos adelantos de la época en la elaboración de pisco y posteriormente obtiene también los terrenos del fundo Los Espejos, los mismos que forman parte de este valle vitivinícola. En 1972, se constituye la firma Antonio Biondi e Hijo, con su hijo Óscar Biondi Cosío, iniciando el negocio primero como un pasatiempo y que finalmente el año 1999 se transforma en Antonio Biondi e Hijos Sociedad Anónima Cerrada, forma en la que opera a la fecha. Actualmente, cuenta con 35 hectáreas de vid, de las cuales casi un 60 % son de la variedad Italia, y el resto son de las variedades Negra Criolla, Quebranta, Torontel, Moscatel y Albilla, siendo las dos primeras variedades no aromáticas y las tres últimas variedades aromáticas. Su principal producto es el pisco, teniendo las siguientes presentaciones: Pisco Puro, de todas las variedades antes mencionadas; Pisco Acholado, que es una mezcla de variedades, y el Pisco Mosto Verde, de las variedades Italia y Negra Criolla. Sus productos han llegado más allá de nuestras fronteras, llevando el Pisco Moqueguano a los principales mercados del Perú y el mundo, donde cada botella cuenta una historia especial desde la perspectiva familiar que mantienen de generación en generación. Es una de las bodegas que forma parte de la ruta del pisco y el vino, de gran innovación tecnológica, ofreciendo a sus visitantes poder realizar un recorrido por su bodega, y conocer el proceso de elaboración del pisco en la misma planta, así como poder ver la variedad de productos que salen al mercado y la degustación de los mismos. Sus exteriores permiten apreciar el entorno paisajístico propio del valle, sus tinajas coloniales y desde su glorieta los cultivos de vid."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, porque recibe mantenimiento por parte de sus propietarios."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "- Certificación Internacional sello Safe Travels, Moquegua Capital del dulce y el pisco 2021.\n-Medalla de Oro. Concurso Internacional de vinos y bebidas espirituosas de origen Vínico. / Argentina-Instituto Nacional de Vitivinicultura (INV), y el Consejo Federal de Inversiones (CFI) l VINANDINO 2011."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n275\nOficio Nº 0001-2024 / ANTONIO BIONDI E HIJOS S.A.C.\n2023\nValidado por la Municipalidad Distrital de San Antonio.\nTuristas Nacionales\n206\nOficio Nº 0001-2024 / ANTONIO BIONDI E HIJOS S.A.C.\n2023\nvalidado por la Municipalidad Distrital de San Antonio.\nVisitantes Locales(Excursionistas)\n3266\nOficio Nº 0001-2024 / ANTONIO BIONDI E HIJOS S.A.C.\n2023\nValidado por la Municipalidad Distrital de San Antonio."
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nMoquegua/Mariscal Nieto/Moquegua\n-\nMoquegua/Mariscal Nieto/San Antonio\nPlaza de Armas de Moquegua – Desvío Callejón Omo km. 1149 (Carretera Panamericana Sur)\nTerrestre\nAutomóvil particular\nAsfaltado\n8.5 km/10 min.\n1\nMoquegua/Mariscal Nieto/San Antonio\n-\nMoquegua/Mariscal Nieto/San Antonio\nDesvío Callejón Omo Km.1149 (Carretera Panamericana Sur ) - Bodega Biondi (Ingreso carretera MO 603)\nTerrestre\nAutomóvil particular\nAfirmado\n600 m. /2 min.\n2\nMoquegua/Mariscal Nieto/San Antonio\n-\nMoquegua/Mariscal Nieto/San Antonio\nPlaza Cívica del Distrito de San Antonio (Carretera Binacional) - Desvío Callejón Omo km. 1149 (Carretera Panamericana Sur)\nTerrestre\nAutomóvil particular\nAsfaltado\n6km/7min\n2\nMoquegua/Mariscal Nieto/San Antonio\n-\nMoquegua/Mariscal Nieto/San Antonio\nDesvío Callejón Omo km.1149 (Carretera Panamericana Sur) - Bodega Biondi ( Ingreso Carretera MO 603)\nTerrestre\nAutomóvil particular\nAfirmado\n600 m./2 min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nSemi-restringido(previo permiso)\nCoordinación: Sr. Giovanni Valdivia Cornejo\nCel. 958760581"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n08:00 a.m.\n-\n04:00 p.m.\nLunes a viernes"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nEstudios e Investigación\nPara cultivo de vid y elaboración de bebidas derivadas de la vid\nNaturaleza\nObservación de paisaje\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Públicas\nServicios Públicos\nEstacionamiento de vehículos\n--\nInstalaciones Públicas\nServicios Públicos\nSeñales turísticas de orientación\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nLugares de Recreación\nDiscotecas\nCiudad de Moquegua\nLugares de Recreación\nJuegos Infantiles\nCiudad de Moquegua\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nCiudad de Moquegua\nLugares de Recreación\nCentros Deportivos\nCiudad de Moquegua\nLugares de Recreación\nKaraoke\nCiudad de Moquegua\nLugares de Recreación\nBares\nCiudad de Moquegua\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Moquegua\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de Moquegua\nAlimentación\nRestaurantes\nCiudad de Moquegua\nAlimentación\nBares\nCiudad de Moquegua\nAlimentación\nKioskos de comida y bebidas\nCiudad de Moquegua\nAlimentación\nVenta de comida Rápida\nCiudad de Moquegua\nAlojamiento\nHoteles (especificar categorías)\nCiudad de Moquegua (1,2,3,4 estrellas)\nAlojamiento\nApart-hoteles (especificar categorías)\nCiudad de Moquegua\n( 2 estrellas)\nAlojamiento\nHostales (especificar categorías)\nCiudad de Moquegua (1,2,3 estrellas)\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Moquegua\nAlimentación\nCafeterías\nCiudad de Moquegua\nServicios Públicos\nMiradores turísticos\nCiudad de Moquegua\nServicios Públicos\nEstacionamiento de vehículos\nCiudad de Moquegua\nServicios Públicos\nSeñales turísticas de orientación\nCiudad de Moquegua\nServicios Públicos\nOficina de Información turística\nCiudad de Moquegua\nServicios Públicos\nMuseo de Sitio Turísticos\nCiudad de Moquegua"
+    },
+    {
+      "titulo": "Servicios Complementarios dentro del recurso",
+      "contenido": "Servicio Complementario\nObservación\nServicios de internet\n--\nServicio de estacionamiento\n--"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Moquegua (Claro, Movistar, Bitel, Entel, Wow)\nBancos\nCiudad de Moquegua (Bco. de la Nación, BCP, Scotiabank, Interbank)\nCajero automático\nCiudad de Moquegua (Bco. de la Nación, BCP, Interbank, Scotiabank)\nCasa de cambio\nCiudad de Moquegua\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Moquegua\nServicio de correos\nCiudad de Moquegua\nServicio de estacionamiento\nCiudad de Moquegua\nServicios de taxis\nCiudad de Moquegua\nCentro de salud - tópico\nCiudad de Moquegua\nVenta de materiales para fotografías\nCiudad de Moquegua\nSeguridad / POLTUR / Comisaría\nCiudad de Moquegua (Seguridad, Comisaría PNP)\nAlquiler y compra de equipos deportivos\nCiudad de Moquegua\nLibrerías\nCiudad de Moquegua\nBodegas o minimarkets\nCiudad de Moquegua"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\n--\nAlcantarillado sanitario\n--\nLuz (Suministro Eléctrico)\n--\nTeléfono\n--\nSeñalización turística\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Moquegua\nLuz (Suministro Eléctrico)\nCiudad de Moquegua\nTeléfono\nCiudad de Moquegua\nSeñalización turística\nCiudad de Moquegua\nAlcantarillado pluvial\nCiudad de Moquegua\nEnergía Alternativa\nCiudad de Moquegua\nAlcantarillado sanitario\nCiudad de Moquegua"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\n--\nPrivado:\nAntonio Biondi e hijos S.A.C.\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n2119\nNúmero de Partida:\n05000276\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nCésar Jesús Biondi Cosío\nTiempo de administración\nDesde el año 1992"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo - Moquegua\nNombre (Persona(s) responsable(s) del inventario turístico):\nEco. Fernando Mamani Meza.\nCargo:\nSub Director de Turismo.\nCorreo:\nfemeza555@yahoo.com\nTeléfono:\n953549922\nFuentes Bibliográfica:\nEntre vinos y piscos. Ibárcena Balbuena, José Fernando. Ed. UNAM 2017.\nLa Industria Vitivinícola Colonial de Moquegua. Prudence M; Rice. Perú 2010.\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n11/11/2024 12:38:50"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -17.240893810156706,
+    "longitud": -70.9855933482587
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-17.240893810156706,-70.9855933482587"
+}

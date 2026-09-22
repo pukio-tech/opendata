@@ -1,0 +1,338 @@
+{
+  "cod_ficha": 4244,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=4244",
+  "nombre": "Laguna De Tranca Grande",
+  "departamento": "Junín",
+  "provincia": "Jauja",
+  "distrito": "APATA",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "g. Cuerpo de Agua",
+  "subtipo": "Lagunas",
+  "jerarquia": "1",
+  "altitud": "4345",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=543471",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=543471",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=543450",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=543472",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=543473",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=543451",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=543452",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=543474",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=543453",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=543475",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=543476",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=543454",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=543455"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Estudios e Investigación",
+    "Deportes acuáticos - Pesca deportiva",
+    "Naturaleza - Observación de fauna",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de paisaje",
+    "Otros - Compra de productos regionales"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Deportes acuáticos",
+      "tipo": "Pesca deportiva",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/pesca_deportiva02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de fauna",
+      "observacion": "Fauna domestica: Alpacas, llamas y truchas. Avifauna: Patos silvestres, huashuas, liclish, gaviotas y otras aves migratorias estacionales.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fauna02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "Flora: Ichu, champas, yaretas y diminutas flores silvestres propias del región Puna.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Compra de productos regionales",
+      "observacion": "Se puede comprar trucha al por mayor y menor.",
+      "icono_url": null
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Junín/Jauja/Jauja - Junín/Jauja/Jauja",
+      "detalle": "Plaza de Armas de Jauja- Paradero principal en la entrada de Apata (Carretera Central, margen izquierda)",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "17 Km. / 25 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Junín/Jauja/Apata - Junín/Jauja/Apata",
+      "detalle": "Paradero principal en la entrada de Apata (Carretera Central, margen izquierda) - Anexo Nueva Esperanza",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "5.46 Km. / 20 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Junín/Jauja/Apata - Junín/Jauja/Apata",
+      "detalle": "Anexo Nueva Esperanza - Plaza principal del Centro Poblado de Chicche Auquicancha -- Laguna Pomacocha",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "17.7 Km. / 1 h 05 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Junín/Jauja/Apata - Junín/Jauja/Apata",
+      "detalle": "Laguna Pomacocha - Laguna Tipicocha - Laguna Tranca Grande",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "11.23 Km. / 35 min."
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "6480",
+      "horario": "Visitantes al recurso",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Esporádicamente - Algunos meses",
+      "especificacion": "--",
+      "horario": "09:00 a.m. - 03:00 p.m. Recomendable de abril a octubre, porque corresponden a los periodos de baja precipitación pluvial en la zona andina.",
+      "observaciones": "Recomendable de abril a octubre, porque corresponden a los periodos de baja precipitación pluvial en la zona andina."
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "2 estrellas en Jauja"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "1 estrella en Jauja"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Jauja"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Jauja"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Jauja"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Jauja"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Jauja"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Jauja - Apata"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Jauja - Apata"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Jauja"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Jauja"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de bicicleta",
+      "observacion": "BiciXauxa 969012431"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Jauja"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Peñas",
+      "observacion": "Jauja"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Jauja"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "Jauja"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Jauja"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Jauja"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Jauja"
+    }
+  ],
+  "descripcion": "La laguna de Tranca Grande como muchas lagunas de alta montaña, tiene un origen relacionado principalmente con los eventos heredados de la última glaciación (110,000 a.C. – 10,000 a.C.) y secundariamente con hechos tecto-volcánicos. Se encuentra en el piso ecológico altitudinal de Puna (según Pulgar Vidal), tiene forma irregular, desde una vista aérea se asemeja a la letra “L”, sus aguas tienen una temperatura promedio de 8 °C; tiene una extensión máxima de 4.23 km de largo, un ancho máximo de 0.45 km, un perímetro de 9.83 km, un área total es de 1.79 km² y una profundidad máxima de 30 metros. Se encuentra en una depresión geográfica, flanqueada por cerros, donde coinciden una cantidad significativa de riachuelos (afluentes) nutriendo a ésta, por lo que la laguna da la impresión de estar “trancando” las aguas que provienen de los cerros contiguos, situación que podría ser uno de los probables orígenes de su nombre. A nivel de su fauna ictiológica se pueden observar truchas de la variedad Arco Iris, sembradas por las numerosas empresas dedicadas a la piscicultura que se encuentran en la laguna y que han colocado jaulas flotantes y pequeños muelles desde donde despegan botes para llegar hasta las jaulas y administrar la producción piscícola.\nSus riberas son pedregosas, con la presencia masiva de diminutas piedras, arenisca y algunas formaciones rocosas medianas. En los alrededores se pueden observar plantas de ichu, champas, yaretas y flores silvestres propias del clima de puna y entre la fauna silvestre se pueden observar patos silvestres, huashuas, liclish, gaviotas y otras aves migratorias estacionales. En sus alrededores se observan durante todo el año alpacas y llamas, constituyéndose como zona de pastoreo de los comuneros del lugar, convirtiendo a la laguna en una zona ideal de observación y registro fotográfico de camélidos sudamericanos.\nDesde la laguna se puede observar a lo lejos al “Apu Marairazo” (pico perteneciente al sector norte de la cordillera que incluye a los nevados T´illu, Mudarayoc, Jallacate y Huaytapallana); “Marairazo” es un cerro que en épocas pasadas fue considerado como un dios protector de la zona y actualmente un pico a ser visitado por los amantes del trekking y el turismo de aventura, quienes toman a la laguna de Tranca Grande como punto de partida de su trayecto hacia el mencionado pico.\nLa laguna de Tranca Grande se encuentra adyacente a la laguna de Tipicocha (a solo 312.93 m al sur); asimismo caminando hacia el oeste se llega a las lagunas de Huascacocha, Azulcocha y Morococha, si se emprende caminatas hacia el norte se puede llegar a las lagunas de Corazóncocha, Torococha, Vacacocha y Surococha y en la ruta hacia el este se puede llegar a las lagunas de Quiullacocha, Luquina, Iscacocha, Tranca Chico, Pariona y León Cocha. El lugar es ideal para el desarrollo del turismo de aventura y vivencial, así como para la compra de trucha fresca, la pesca deportiva que se puede coordinar con cualquiera de las piscigranjas de la zona o con el Centro Poblado de Chicche Auquicancha, configurando una zona poco explorada en la cordillera de los Andes Centrales.",
+  "particularidades": "",
+  "estado_actual": "Se encuentra en buen estado de conservación, si bien no presenta grandes cantidades de residuos sólidos, es notoria la presencia de desechos cerca de los cobertizos pertenecientes a las empresas que administran las piscigranjas.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "La laguna de Tranca Grande como muchas lagunas de alta montaña, tiene un origen relacionado principalmente con los eventos heredados de la última glaciación (110,000 a.C. – 10,000 a.C.) y secundariamente con hechos tecto-volcánicos. Se encuentra en el piso ecológico altitudinal de Puna (según Pulgar Vidal), tiene forma irregular, desde una vista aérea se asemeja a la letra “L”, sus aguas tienen una temperatura promedio de 8 °C; tiene una extensión máxima de 4.23 km de largo, un ancho máximo de 0.45 km, un perímetro de 9.83 km, un área total es de 1.79 km² y una profundidad máxima de 30 metros. Se encuentra en una depresión geográfica, flanqueada por cerros, donde coinciden una cantidad significativa de riachuelos (afluentes) nutriendo a ésta, por lo que la laguna da la impresión de estar “trancando” las aguas que provienen de los cerros contiguos, situación que podría ser uno de los probables orígenes de su nombre. A nivel de su fauna ictiológica se pueden observar truchas de la variedad Arco Iris, sembradas por las numerosas empresas dedicadas a la piscicultura que se encuentran en la laguna y que han colocado jaulas flotantes y pequeños muelles desde donde despegan botes para llegar hasta las jaulas y administrar la producción piscícola.\nSus riberas son pedregosas, con la presencia masiva de diminutas piedras, arenisca y algunas formaciones rocosas medianas. En los alrededores se pueden observar plantas de ichu, champas, yaretas y flores silvestres propias del clima de puna y entre la fauna silvestre se pueden observar patos silvestres, huashuas, liclish, gaviotas y otras aves migratorias estacionales. En sus alrededores se observan durante todo el año alpacas y llamas, constituyéndose como zona de pastoreo de los comuneros del lugar, convirtiendo a la laguna en una zona ideal de observación y registro fotográfico de camélidos sudamericanos.\nDesde la laguna se puede observar a lo lejos al “Apu Marairazo” (pico perteneciente al sector norte de la cordillera que incluye a los nevados T´illu, Mudarayoc, Jallacate y Huaytapallana); “Marairazo” es un cerro que en épocas pasadas fue considerado como un dios protector de la zona y actualmente un pico a ser visitado por los amantes del trekking y el turismo de aventura, quienes toman a la laguna de Tranca Grande como punto de partida de su trayecto hacia el mencionado pico.\nLa laguna de Tranca Grande se encuentra adyacente a la laguna de Tipicocha (a solo 312.93 m al sur); asimismo caminando hacia el oeste se llega a las lagunas de Huascacocha, Azulcocha y Morococha, si se emprende caminatas hacia el norte se puede llegar a las lagunas de Corazóncocha, Torococha, Vacacocha y Surococha y en la ruta hacia el este se puede llegar a las lagunas de Quiullacocha, Luquina, Iscacocha, Tranca Chico, Pariona y León Cocha. El lugar es ideal para el desarrollo del turismo de aventura y vivencial, así como para la compra de trucha fresca, la pesca deportiva que se puede coordinar con cualquiera de las piscigranjas de la zona o con el Centro Poblado de Chicche Auquicancha, configurando una zona poco explorada en la cordillera de los Andes Centrales."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Se encuentra en buen estado de conservación, si bien no presenta grandes cantidades de residuos sólidos, es notoria la presencia de desechos cerca de los cobertizos pertenecientes a las empresas que administran las piscigranjas."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nVisitantes Locales(Excursionistas)\n6480\nVisitantes al recurso\n2024\nEfectuado los días domingos: 07, 14, 21 y 28 de enero de 2024."
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nJunín/Jauja/Jauja\n-\nJunín/Jauja/Jauja\nPlaza de Armas de Jauja- Paradero principal en la entrada de Apata (Carretera Central, margen izquierda)\nTerrestre\nAutomóvil particular\nAsfaltado\n17 Km. / 25 min.\n1\nJunín/Jauja/Apata\n-\nJunín/Jauja/Apata\nParadero principal en la entrada de Apata (Carretera Central, margen izquierda) - Anexo Nueva Esperanza\nTerrestre\nAutomóvil particular\nAsfaltado\n5.46 Km. / 20 min.\n1\nJunín/Jauja/Apata\n-\nJunín/Jauja/Apata\nAnexo Nueva Esperanza - Plaza principal del Centro Poblado de Chicche Auquicancha -- Laguna Pomacocha\nTerrestre\nAutomóvil particular\nAfirmado\n17.7 Km. / 1 h 05 min.\n1\nJunín/Jauja/Apata\n-\nJunín/Jauja/Apata\nLaguna Pomacocha - Laguna Tipicocha - Laguna Tranca Grande\nTerrestre\nAutomóvil particular\nTrocha carrozable\n11.23 Km. / 35 min."
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nEsporádicamente - Algunos meses\n--\n09:00 a.m.\n-\n03:00 p.m.\nRecomendable de abril a octubre, porque corresponden a los periodos de baja precipitación pluvial en la zona andina."
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nEstudios e Investigación\n--\nDeportes acuáticos\nPesca deportiva\n--\nNaturaleza\nObservación de fauna\nFauna domestica: Alpacas, llamas y truchas. Avifauna: Patos silvestres, huashuas, liclish, gaviotas y otras aves migratorias estacionales.\nNaturaleza\nObservación de flora\nFlora: Ichu, champas, yaretas y diminutas flores silvestres propias del región Puna.\nNaturaleza\nObservación de paisaje\n--\nOtros\nCompra de productos regionales\nSe puede comprar trucha al por mayor y menor."
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\n2 estrellas en Jauja\nAlojamiento\nHostales (especificar categorías)\n1 estrella en Jauja\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nJauja\nAlimentación\nRestaurantes\nJauja\nAlimentación\nBares\nJauja\nAlimentación\nCafeterías\nJauja\nAlimentación\nFuentes de soda\nJauja\nAlimentación\nVenta de comida Rápida\nJauja - Apata\nAlimentación\nKioskos de comida y bebidas\nJauja - Apata\nOtros Servicios Turísticos\nAgencia de Viajes\nJauja\nOtros Servicios Turísticos\nVenta de artesanía\nJauja\nOtros Servicios Turísticos\nAlquiler de bicicleta\nBiciXauxa 969012431\nLugares de Recreación\nDiscotecas\nJauja\nLugares de Recreación\nPeñas\nJauja\nLugares de Recreación\nJuegos Infantiles\nJauja\nLugares de Recreación\nKaraoke\nJauja\nLugares de Recreación\nBares\nJauja\nLugares de Recreación\nCentros Deportivos\nJauja\nServicios Públicos\nEstacionamiento de vehículos\nJauja"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nJauja\nBancos\nJauja\nCajero automático\nJauja\nEstación de servicios, grifos, gasolineras y gasocentros\nJauja\nServicio de correos\nJauja\nServicio de estacionamiento\nJauja\nServicios de taxis\nJauja\nVenta de materiales para fotografías\nJauja\nLibrerías\nJauja\nBodegas o minimarkets\nJauja\nCentro de salud - tópico\nJauja - Apata\nSeguridad / POLTUR / Comisaría\nJauja - Apata"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nApata\nAlcantarillado sanitario\nApata\nLuz (Suministro Eléctrico)\nApata\nTeléfono\nApata"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\n--\nPrivado:\nComunidad Campesina de Chicche Auquicancha\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nNúmero de Partida:\n02027914\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nCentro Poblado de Chicche Auquicancha\nTiempo de administración\nDesde el año 2000"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo Junín\nNombre (Persona(s) responsable(s) del inventario turístico):\nLic. Gregoria Flores Loaiza\nCargo:\nEspecialista en Turismo\nCorreo:\nfloresloaiza@yahoo.es\nTeléfono:\n948992261\nFuentes Bibliográfica:\nInventario de lagunas de origen glaciar – 2020, Instituto Nacional de Investigación de Glaciares y Montañas.\nGeología del Cuadrángulo de Jauja – 1994, Jorge Paredes en Boletín N° 48, Serie A Carta Geológica Nacional.\nMapa Geológico del Cuadrángulo de Jauja – 1994, INGEMMET.\nEvaluación de lagunas altoandinas sometidas a truchicultura intensiva en jaulas, recuperación y manejo sustentable - UNMSM, 2015.\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n20/11/2025 14:33:15"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -11.736033097872024,
+    "longitud": -75.22429028570559
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-11.736033097872024,-75.22429028570559"
+}

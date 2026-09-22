@@ -1,0 +1,351 @@
+{
+  "cod_ficha": 10003,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=10003",
+  "nombre": "Paseo De Los Incas",
+  "departamento": "Lima",
+  "provincia": "Lima",
+  "distrito": "PACHACAMAC",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Arquitectura y Espacios Urbanos",
+  "subtipo": "Paseos peatonales",
+  "jerarquia": "1",
+  "altitud": "73",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=587158",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=587158",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=587211",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=587159",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=587160",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=587161"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Lima/Lima/Lima - Lima/Lima/Pachacamac",
+      "detalle": "Paseo Colón - Paseo de los Incas",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "44.8 Km. / 1 hora 58 Min."
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "11790",
+      "horario": "Municipalidad Distrital de Pachacámac - Gerencia de Turismo, Cultura y Asuntos Internacionales",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "810",
+      "horario": "Municipalidad Distrital de Pachacámac - Gerencia de Turismo, Cultura y Asuntos Internacionales",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "90",
+      "horario": "Municipalidad Distrital de Pachacámac- Gerencia de Turismo, Cultura y Asuntos Internacionales",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "08:00 a.m. - 08:00 p.m. --",
+      "observaciones": "--"
+    },
+    {
+      "epoca": "Personas con discapacidad física",
+      "especificacion": "Rampas",
+      "horario": "--",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Distrito de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Cines o Teatros",
+      "observacion": "Distrito de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Distrito de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Distrito de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "Distrito de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Distrito de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Distrito de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Distrito de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de Caballos",
+      "observacion": "Distrito de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de bicicleta",
+      "observacion": "Distrito de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Inglés, portugués e italiano. Distrito de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Distrito de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Distrito de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Distrito de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Distrito de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Distrito de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Distrito de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Distrito de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "Distrito de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Distrito de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "Distrito de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de interpretación",
+      "observacion": "Distrito de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Boletería",
+      "observacion": "Distrito de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Centros de interpretación",
+      "observacion": "Distrito de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "Distrito de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos de herradura (caballo)",
+      "observacion": "Distrito de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Puesto de auxilio rápido",
+      "observacion": "Distrito de Pachacámac"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Otros (especificar)",
+      "observacion": "Caseta de información turística en la Plaza de Armas. Distrito de Pachacámac"
+    }
+  ],
+  "descripcion": "Inaugurado el 07 de octubre de 2017, es un paseo peatonal de aproximadamente 100 metros de longitud, en el que se puede apreciar catorce esculturas de los incas, cada una mide aproximadamente 1.80 m, entre las que se cuentan Atahualpa, Huáscar, Pachacútec, Manco Cápac, etc; todos ataviados con vestimenta inca como la mascaipacha, cetro, casco, escudo, túnica, franja, copa, sandalias, disco símbolo de la estirpe de los hijos del sol, y los distinguidos tocapus. Al pie de cada escultura se observa una breve descripción de cada inca. También se puede apreciar una escultura en honor al Dios Inti y otra del Dios Tótem Pachacámac (Dios creador de la tierra), con una altura de 1.83 m. Todas las obras fueron hechas por el artista y escultor Cléver Justo Gómez. La réplica exacta del Dios Tótem Pachacámac –cuyo original se encuentra exhibido en el Museo de Sitio del Santuario Arqueológico de Pachacámac- tomó un año en ser elaborado. La obra que representa al Dios Inti fue elaborada en bronce y pesa 1.3 toneladas. A lo largo del pasaje se pueden observar también en las paredes hermosos murales que muestran la riqueza inca como tejidos y/o telares de llamativos colores, predominando los colores cálidos como el amarillo, rojo, marrón, así mismo el verde; se puede apreciar incluso en uno de ellos una técnica tradicional de tejido llamada \" Telar de cintura\" muy usada en la zona andina del Perú, de la misma manera, se refleja también la riqueza de las tierras de Pachacámac con murales de las lomas y la lúcuma, fruta muy característica de la zona. El paseo se encuentra en buen estado de conservación, dispone de 6 bancas de madera y hierro, alrededor de los cuales se hallan una variedad de restaurantes para comodidad y disfrute de los visitantes, durante todo el año y en fechas festivas como las festividades patronales de las Virgen del Rosario y El Santísimo Salvador de Pachacámac.",
+  "particularidades": "",
+  "estado_actual": "Bueno, mantenimiento y conservación a cargo de la Municipalidad Distrital de Pachacámac",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Inaugurado el 07 de octubre de 2017, es un paseo peatonal de aproximadamente 100 metros de longitud, en el que se puede apreciar catorce esculturas de los incas, cada una mide aproximadamente 1.80 m, entre las que se cuentan Atahualpa, Huáscar, Pachacútec, Manco Cápac, etc; todos ataviados con vestimenta inca como la mascaipacha, cetro, casco, escudo, túnica, franja, copa, sandalias, disco símbolo de la estirpe de los hijos del sol, y los distinguidos tocapus. Al pie de cada escultura se observa una breve descripción de cada inca. También se puede apreciar una escultura en honor al Dios Inti y otra del Dios Tótem Pachacámac (Dios creador de la tierra), con una altura de 1.83 m. Todas las obras fueron hechas por el artista y escultor Cléver Justo Gómez. La réplica exacta del Dios Tótem Pachacámac –cuyo original se encuentra exhibido en el Museo de Sitio del Santuario Arqueológico de Pachacámac- tomó un año en ser elaborado. La obra que representa al Dios Inti fue elaborada en bronce y pesa 1.3 toneladas. A lo largo del pasaje se pueden observar también en las paredes hermosos murales que muestran la riqueza inca como tejidos y/o telares de llamativos colores, predominando los colores cálidos como el amarillo, rojo, marrón, así mismo el verde; se puede apreciar incluso en uno de ellos una técnica tradicional de tejido llamada \" Telar de cintura\" muy usada en la zona andina del Perú, de la misma manera, se refleja también la riqueza de las tierras de Pachacámac con murales de las lomas y la lúcuma, fruta muy característica de la zona. El paseo se encuentra en buen estado de conservación, dispone de 6 bancas de madera y hierro, alrededor de los cuales se hallan una variedad de restaurantes para comodidad y disfrute de los visitantes, durante todo el año y en fechas festivas como las festividades patronales de las Virgen del Rosario y El Santísimo Salvador de Pachacámac."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, mantenimiento y conservación a cargo de la Municipalidad Distrital de Pachacámac"
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nVisitantes Locales(Excursionistas)\n11790\nMunicipalidad Distrital de Pachacámac - Gerencia de Turismo, Cultura y Asuntos Internacionales\n2024\nProyección basada en el conteo muestral realizado en setiembre y octubre 2024\nTuristas Nacionales\n810\nMunicipalidad Distrital de Pachacámac - Gerencia de Turismo, Cultura y Asuntos Internacionales\n2024\nProyección basada en el conteo muestral realizado en setiembre y octubre 2024\nTuristas Extranjeros\n90\nMunicipalidad Distrital de Pachacámac- Gerencia de Turismo, Cultura y Asuntos Internacionales\n2024\nProyección basada en conteo muestral realizado en setiembre y octubre 2024"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nLima/Lima/Lima\n-\nLima/Lima/Pachacamac\nPaseo Colón - Paseo de los Incas\nTerrestre\nAutomóvil particular\nAsfaltado\n44.8 Km. / 1 hora 58 Min."
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n08:00 a.m.\n-\n08:00 p.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nLugares de Recreación\nDiscotecas\nDistrito de Pachacámac\nLugares de Recreación\nCines o Teatros\nDistrito de Pachacámac\nLugares de Recreación\nJuegos Infantiles\nDistrito de Pachacámac\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nDistrito de Pachacámac\nLugares de Recreación\nKaraoke\nDistrito de Pachacámac\nLugares de Recreación\nBares\nDistrito de Pachacámac\nOtros Servicios Turísticos\nVenta de artesanía\nDistrito de Pachacámac\nOtros Servicios Turísticos\nAgencia de Viajes\nDistrito de Pachacámac\nOtros Servicios Turísticos\nAlquiler de Caballos\nDistrito de Pachacámac\nOtros Servicios Turísticos\nAlquiler de bicicleta\nDistrito de Pachacámac\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nInglés, portugués e italiano. Distrito de Pachacámac\nAlimentación\nRestaurantes\nDistrito de Pachacámac\nAlimentación\nBares\nDistrito de Pachacámac\nAlimentación\nCafeterías\nDistrito de Pachacámac\nAlimentación\nFuentes de soda\nDistrito de Pachacámac\nAlimentación\nKioskos de comida y bebidas\nDistrito de Pachacámac\nAlimentación\nVenta de comida Rápida\nDistrito de Pachacámac\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nDistrito de Pachacámac\nServicios Públicos\nMiradores turísticos\nDistrito de Pachacámac\nServicios Públicos\nEstacionamiento de vehículos\nDistrito de Pachacámac\nServicios Públicos\nSeñales turísticas de orientación\nDistrito de Pachacámac\nServicios Públicos\nSeñales turísticas de interpretación\nDistrito de Pachacámac\nServicios Públicos\nBoletería\nDistrito de Pachacámac\nServicios Públicos\nCentros de interpretación\nDistrito de Pachacámac\nServicios Públicos\nCaminos peatonales\nDistrito de Pachacámac\nServicios Públicos\nCaminos de herradura (caballo)\nDistrito de Pachacámac\nServicios Públicos\nPuesto de auxilio rápido\nDistrito de Pachacámac\nServicios Públicos\nOtros (especificar)\nCaseta de información turística en la Plaza de Armas. Distrito de Pachacámac"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nDistrito de Pachacámac\nBancos\nDistrito de Pachacámac\nCajero automático\nDistrito de Pachacámac\nCasa de cambio\nDistrito de Pachacámac\nEstación de servicios, grifos, gasolineras y gasocentros\nDistrito de Pachacámac\nServicio de correos\nDistrito de Pachacámac\nServicio de estacionamiento\nDistrito de Pachacámac\nServicios de taxis\nDistrito de Pachacámac\nVenta de materiales para fotografías\nDistrito de Pachacámac\nSeguridad / POLTUR / Comisaría\nDistrito de Pachacámac\nAlquiler y compra de equipos deportivos\nDistrito de Pachacámac\nLibrerías\nDistrito de Pachacámac\nBodegas o minimarkets\nDistrito de Pachacámac"
+    },
+    {
+      "titulo": "Condiciones de Accesibilidad al Visitante",
+      "contenido": "Visitante\nInstalación\nActividades y/o programas\nEquipamiento\nObservación\nPersonas con discapacidad física\nRampas\n--\n--\n--"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nLuz (Suministro Eléctrico)\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nDistrito de Pachacámac\nAlcantarillado sanitario\nDistrito de Pachacámac\nLuz (Suministro Eléctrico)\nDistrito de Pachacámac\nTeléfono\nDistrito de Pachacámac\nSeñalización turística\nDistrito de Pachacámac"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nMunicipalidad Distrital de Pachacámac\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nPartida Registral\nNúmero de Partida:\n03234277\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nMunicipalidad Distrital de Pachacámac\nTiempo de administración\nDesde 2017"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nMunicipalidad Metropolitana de Lima - Municipalidad Distrital de Pachacámac\nNombre (Persona(s) responsable(s) del inventario turístico):\nAlex Reaño Torres - Guadalupe del Carmen Vásquez Meza\nCargo:\nEspecialista en Turismo - Gerente de Turismo, Cultura y Asuntos Internacionales\nCorreo:\nalexreanotorres@gmail.com - gvasquezm@munipachacamac.gob.pe\nTeléfono:\n(01) 632-1801 / 957955889\nFuentes Bibliográfica:\n• Municipalidad Distrital de Pachacámac. (2022). Plan de Desarrollo Turístico Local de Pachacámac 2022-2026.\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n18/03/2025 11:58:48"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -12.229040025461229,
+    "longitud": -76.85889780521393
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-12.229040025461229,-76.85889780521393"
+}

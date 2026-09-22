@@ -1,0 +1,285 @@
+{
+  "cod_ficha": 568,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=568",
+  "nombre": "Nevado Huascarán",
+  "departamento": "Áncash",
+  "provincia": "Yungay",
+  "distrito": "YUNGAY",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "a. Montañas",
+  "subtipo": "Nevado",
+  "jerarquia": "3",
+  "altitud": "6768",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=472165",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=472165",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=472166",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=472120",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=472122",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=474276",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=474327"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Deportes / Aventura - Escalada en Hielo",
+    "Deportes / Aventura - Caminata/Trekking",
+    "Deportes / Aventura - Camping"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Escalada en Hielo",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/escalada_hielo02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Camping",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/camping02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Áncash/Huaraz/Huaraz - Áncash/Yungay/Mancos",
+      "detalle": "Parque San Martín - Plaza de Mancos",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus turístico",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "48.8 km/ 1 hora y 8 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Áncash/Yungay/Mancos - Áncash/Yungay/Mancos",
+      "detalle": "Plaza de Mancos - plaza del C.P. de Musho",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus turístico",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "7 km/ 20 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Áncash/Yungay/Mancos - Áncash/Yungay/Mancos",
+      "detalle": "C.P. de Musho - Campo base Huascarán",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Camino de Herradura",
+      "distancia_tiempo": "9 Km. / 5 horas"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Áncash/Yungay/Mancos - Áncash/Yungay/Mancos",
+      "detalle": "Campo base Huascarán - Campamento 1",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Otros",
+      "distancia_tiempo": "8 km /6 horas"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Áncash/Yungay/Mancos - Áncash/Yungay/Mancos",
+      "detalle": "Campamento 1 - Campamento 2",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Otros",
+      "distancia_tiempo": "6 km /6 horas"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Áncash/Yungay/Mancos - Áncash/Yungay/Mancos",
+      "detalle": "Campo 2 - Cumbre pico Sur (6768 m.s.n.m)",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Otros",
+      "distancia_tiempo": "10 km/9 horas"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "1103",
+      "horario": "Cuadro de consolidado de arribos",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "131",
+      "horario": "Cuadro de consolidado de arribos",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Esporádicamente - Algunos meses",
+      "especificacion": "--",
+      "horario": "07:00 a.m. - 02:00 p.m. Abril a setiembre",
+      "observaciones": "Abril a setiembre"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Semi-restringido(previo permiso)",
+      "observaciones": "Previo pago de ingreso al PNH S/.65.00 para 21 días de ingresos o permanencia al PNH"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Refugio Don Bosco - campo base Huascarán"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Refugio Don Bosco - campo base Huascarán"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Mancos"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Mancos"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Mancos"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Ciudad de Mancos"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Mancos"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "1 a 3* , Ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "1 a 3* , Ciudad de Huaraz"
+    }
+  ],
+  "descripcion": "Nevado llamado también \"el techo del Perú\" es un macizo grano diorítico levantado durante la orogénesis alpina de la era terciaria, tiene dos cumbres, es la montaña tropical más alta de la Cordillera de los Andes, el Sur tiene el pico más alto del Perú alcanzando los 6768 msnm y el Norte 6655 msnm, siendo el pico más frecuentemente visitando por los turistas que practican los deportes de alta montaña, desde la cumbre se observan paisajes de la Cordillera Blanca y Negra, además de quebradas, lagunas, pueblos y ríos. Y viceversa, el nevado es apreciada desde los diferentes puntos de la región, tanto del Callejón de Huaylas, la zona de los conchucos y vertientes, debido a su gran dimensión.\nsu nombre proviene de los vocablos quechuas: waska (cadena) y ran (piedras o montañas rocosas); así pues, Huascarán significa \"cadena de montañas\"; está ubicado al Este de la Provincia de Yungay, en la Zona Núcleo y dentro del Sector Llanganuco del Parque Nacional que lleva el mismo nombre.\nPresenta un ecosistema de clima nival con un promedio de precipitación total anual variable alrededor de 500 mm a 1000 mm y posee una bio temperatura media anual por debajo de los 1.5 °C., propio de la región janca o cordillera; con topografía abrupta y rocosa en la base del glaciar.\nEl nevado está calificado con nivel difícil para escalar, debido a su gran altura, por tanto, es necesario una buena preparación técnica y física como la programación de 07 días para internarse en la aventura,\nlos alpinistas arriban hasta este lugar para poder disfrutar de su ascenso a la cumbre, el pico Norte del Huascarán cuenta con 9 rutas por sus diferentes paredes, la primera ascensión de esta fue el año de 1908, cabe mencionar que fue una de las primeras expediciones a las Montañas de la Cordillera Blanca. Mientras que el pico Sur tiene 14 rutas de acceso con un nivel técnico muy fuerte. Actualmente, las expediciones ascienden por la vertiente Oeste que fue escalada el año de 1932, montando la garganta (Col) y escalando por la pared noroeste con una dificultad (AD).\nEn el trayecto hacia el Nevado se observa toda la extensión del Distrito de Mancos, así como también, una gran diversidad de especies de flora y fauna, tales son el quenual, el quishuar, quima senga, huamanripa, waguru, macha-macha, la vizcacha, entre otras.",
+  "particularidades": "Es el nevado más alto del Perú; además de ser la cadena tropical más alta y extensa del mundo, indicó el ingeniero geólogo, de la Unidad de Glaciología del Instituto Nacional de Recursos Naturales.",
+  "estado_actual": "Bueno, porque es visitado en grupos pequeños solamente en temporada alta.",
+  "observaciones": "Se encuentra junto al nevado Huandoy, dan origen a la laguna Chinancocha y Orcococha en la Quebrada Llanganuco.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Nevado llamado también \"el techo del Perú\" es un macizo grano diorítico levantado durante la orogénesis alpina de la era terciaria, tiene dos cumbres, es la montaña tropical más alta de la Cordillera de los Andes, el Sur tiene el pico más alto del Perú alcanzando los 6768 msnm y el Norte 6655 msnm, siendo el pico más frecuentemente visitando por los turistas que practican los deportes de alta montaña, desde la cumbre se observan paisajes de la Cordillera Blanca y Negra, además de quebradas, lagunas, pueblos y ríos. Y viceversa, el nevado es apreciada desde los diferentes puntos de la región, tanto del Callejón de Huaylas, la zona de los conchucos y vertientes, debido a su gran dimensión.\nsu nombre proviene de los vocablos quechuas: waska (cadena) y ran (piedras o montañas rocosas); así pues, Huascarán significa \"cadena de montañas\"; está ubicado al Este de la Provincia de Yungay, en la Zona Núcleo y dentro del Sector Llanganuco del Parque Nacional que lleva el mismo nombre.\nPresenta un ecosistema de clima nival con un promedio de precipitación total anual variable alrededor de 500 mm a 1000 mm y posee una bio temperatura media anual por debajo de los 1.5 °C., propio de la región janca o cordillera; con topografía abrupta y rocosa en la base del glaciar.\nEl nevado está calificado con nivel difícil para escalar, debido a su gran altura, por tanto, es necesario una buena preparación técnica y física como la programación de 07 días para internarse en la aventura,\nlos alpinistas arriban hasta este lugar para poder disfrutar de su ascenso a la cumbre, el pico Norte del Huascarán cuenta con 9 rutas por sus diferentes paredes, la primera ascensión de esta fue el año de 1908, cabe mencionar que fue una de las primeras expediciones a las Montañas de la Cordillera Blanca. Mientras que el pico Sur tiene 14 rutas de acceso con un nivel técnico muy fuerte. Actualmente, las expediciones ascienden por la vertiente Oeste que fue escalada el año de 1932, montando la garganta (Col) y escalando por la pared noroeste con una dificultad (AD).\nEn el trayecto hacia el Nevado se observa toda la extensión del Distrito de Mancos, así como también, una gran diversidad de especies de flora y fauna, tales son el quenual, el quishuar, quima senga, huamanripa, waguru, macha-macha, la vizcacha, entre otras."
+    },
+    {
+      "titulo": "Particularidades",
+      "contenido": "Es el nevado más alto del Perú; además de ser la cadena tropical más alta y extensa del mundo, indicó el ingeniero geólogo, de la Unidad de Glaciología del Instituto Nacional de Recursos Naturales."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "Se encuentra dentro del Parque Nacional Huascarán, el cual fue declarado por la UNESCO Reserva de Biosfera en 1977 y Patrimonio Natural de la Humanidad en 1985."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, porque es visitado en grupos pequeños solamente en temporada alta."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "Se encuentra junto al nevado Huandoy, dan origen a la laguna Chinancocha y Orcococha en la Quebrada Llanganuco."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n1103\nCuadro de consolidado de arribos\n2021\nCantidad total de ingreso al PNH, puesto que el control es por zonas más no por recurso o atractivo\nTuristas Nacionales\n131\nCuadro de consolidado de arribos\n2021\nCantidad total de ingreso al PNH, puesto que el control es por zonas más no por recurso o atractivo"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nÁncash/Huaraz/Huaraz\n-\nÁncash/Yungay/Mancos\nParque San Martín - Plaza de Mancos\nTerrestre\nBus turístico\nAsfaltado\n48.8 km/ 1 hora y 8 min\n1\nÁncash/Yungay/Mancos\n-\nÁncash/Yungay/Mancos\nPlaza de Mancos - plaza del C.P. de Musho\nTerrestre\nBus turístico\nAfirmado\n7 km/ 20 min\n1\nÁncash/Yungay/Mancos\n-\nÁncash/Yungay/Mancos\nC.P. de Musho - Campo base Huascarán\nTerrestre\nA pie\nCamino de Herradura\n9 Km. / 5 horas\n1\nÁncash/Yungay/Mancos\n-\nÁncash/Yungay/Mancos\nCampo base Huascarán - Campamento 1\nTerrestre\nA pie\nOtros\n8 km /6 horas\n1\nÁncash/Yungay/Mancos\n-\nÁncash/Yungay/Mancos\nCampamento 1 - Campamento 2\nTerrestre\nA pie\nOtros\n6 km /6 horas\n1\nÁncash/Yungay/Mancos\n-\nÁncash/Yungay/Mancos\nCampo 2 - Cumbre pico Sur (6768 m.s.n.m)\nTerrestre\nA pie\nOtros\n10 km/9 horas"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nSemi-restringido(previo permiso)\nPrevio pago de ingreso al PNH S/.65.00 para 21 días de ingresos o permanencia al PNH"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nEsporádicamente - Algunos meses\n--\n07:00 a.m.\n-\n02:00 p.m.\nAbril a setiembre"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nDeportes / Aventura\nEscalada en Hielo\n--\nDeportes / Aventura\nCaminata/Trekking\n--\nDeportes / Aventura\nCamping\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nAlojamiento\nOtros (Especificar)\nRefugio Don Bosco - campo base Huascarán\nInstalaciones Privadas\nAlimentación\nOtros (Especificar)\nRefugio Don Bosco - campo base Huascarán"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlimentación\nRestaurantes\nCiudad de Mancos\nAlimentación\nBares\nCiudad de Mancos\nAlimentación\nKioskos de comida y bebidas\nCiudad de Mancos\nAlimentación\nVenta de comida Rápida\nCiudad de Mancos\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Mancos\nAlojamiento\nHoteles (especificar categorías)\n1 a 3* , Ciudad de Huaraz\nAlojamiento\nHostales (especificar categorías)\n1 a 3* , Ciudad de Huaraz"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nBancos\nCiudad de Yungay\nCajero automático\nCiudad de Yungay\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Yungay\nServicios de taxis\nCiudad de Yungay\nLibrerías\nCiudad de Yungay\nServicios de internet\nCiudad de Yungay\nSeguridad / POLTUR / Comisaría\nCiudad de Yungay\nBodegas o minimarkets\nCiudad de Yungay"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nSeñalización turística\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCentro Poblado de Musho\nAlcantarillado sanitario\nCentro Poblado de Musho\nDesagüe\nCentro Poblado de Musho\nLuz (Suministro Eléctrico)\nCentro Poblado de Musho\nTeléfono\nCentro Poblado de Musho\nSeñalización turística\nCentro Poblado de Musho"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nParque Nacional Huascarán - SERNANP\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nNúmero de Partida:\n11300446\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nSERNANP\nTiempo de administración\nDesde el año 1975"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección de Comercio Exterior y Turismo de Áncash\nNombre (Persona(s) responsable(s) del inventario turístico):\nPatricia Camones Trejo\nCargo:\nDirectora de Turismo\nCorreo:\nPatriciaturism@gmail.com\nTeléfono:\n937082574\nFuentes Bibliográfica:\nAUTORIDAD NACIONAL DEL AGUA (2014). INVENTARIO DE LAGUNAS DE LA CORDILLERA BLANCA. PERÚ: ANA BRAD, J. (2009) CLASSIC CLIMBS OF THE CORDILLERA BLANCA - PERÚ. CHINA: REVISED EDITION.\nMaterial Audiovisual actual del Recurso:\nFOTO, VIDEOS\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n7/12/2022"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -9.11277850528584,
+    "longitud": -77.61781383068848
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-9.11277850528584,-77.61781383068848"
+}

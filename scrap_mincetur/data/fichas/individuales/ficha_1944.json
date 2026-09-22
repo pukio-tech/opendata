@@ -1,0 +1,213 @@
+{
+  "cod_ficha": 1944,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=1944",
+  "nombre": "Parque Nacional Cutervo",
+  "departamento": "Cajamarca",
+  "provincia": "Cutervo",
+  "distrito": "SAN ANDRÉS DE CUTERVO",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "n. Áreas Protegidas",
+  "subtipo": "Parques Nacionales",
+  "jerarquia": "2",
+  "altitud": "3800",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=428892",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=428892",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=428893",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=429568",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=429569",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=429520"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Estudios e Investigación",
+    "Naturaleza - Observación de fauna",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de paisaje",
+    "Naturaleza - Observación de aves",
+    "Deportes / Aventura - Caminata/Trekking"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de fauna",
+      "observacion": "Oso de anteojos, Tapir de altura, Tigrillo, el gato silvestre",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fauna02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "Orquideas",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de aves",
+      "observacion": "guacharos, el pilco o quetzal",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/aves02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Cajamarca/Cutervo/Cutervo - Cajamarca/Cutervo/Cutervo",
+      "detalle": "Desde Cajamarca hacia la provincia de Cutervo, en combi",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Combi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "210 km /5 horas"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Cajamarca/Cutervo/San Andrés De Cutervo - Cajamarca/Cutervo/San Andrés De Cutervo",
+      "detalle": "Desde la provincia de Cutervo hacia el distrito de San Andrés de Cutervo",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Combi",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "51 km/ 2 horas"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Cajamarca/Cutervo/San Andrés De Cutervo - Cajamarca/Cutervo/San Andrés De Cutervo",
+      "detalle": "Desde el distrito San Andrés de Cutervo hacia la Curva la Gallera, donde inicia el recorrido del Parque Nacional de Cutervo.",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Combi",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "3 km/10 min."
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "9",
+      "horario": "SERNANP - San Andrés",
+      "observaciones": "2019"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "499",
+      "horario": "SENANP - San Andrés",
+      "observaciones": "2019"
+    },
+    {
+      "epoca": "Esporádicamente - Algunos meses",
+      "especificacion": "--",
+      "horario": "08:00 a.m. - 05:00 p.m. Meses de Abril a Junio",
+      "observaciones": "Meses de Abril a Junio"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Semi-restringido(previo permiso)",
+      "observaciones": "Permiso con 15 dias de anticipación pncutervo@sernanp.gob.pe, Liz Gamonal Sánchez, Cel 942053456"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "Distrito de San Andrés"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Distrito de San Andrés"
+    }
+  ],
+  "descripcion": "El Parque Nacional de Cutervo - PNC, se ubica en las regiones biogeográficas YUnga y Quechua, las cuales dan lugar a cinco zonas de vida comprendidas en pisos altitudinales entre los 1800 y 3500 msnm.es considerado como zona prioritaria para la conservación de la diversidad biológica del Perú al ubicarse al extremo sur de los páramos tropicales; en su interior alberga especies amenazadas de extinción de flora y fauna silvestre, como: el jaguar, el tigrillo, el de anteojos, la nutria, el gato silvestre, el tapir de altura, el pilco o quetzal de cabeza dorada y el gallito de las rocas. El PNC tiene una extensión de 8,214.23 hectáreas y se encuentra ubicado en la provincia de Cutervo, circunscrito sobre los distritos de San Andrés de Cutervo, Santo Tomás, Pimpingos, Santa Cruz de Cutervo, Callayuc y Santo Domingo de la Capilla, colinda con los distritos de cutervo y Sócota, en el Departamento de Cajamarca.\nSus objetivos de creación son: conservar las Grutas de San Andrés y su colonia de Guacharos; Proteger la flora y la fauna del lugar en especial la colonia de guacharos (Steotornis caripensis); Conservar la belleza escénica de la cordillera de los Tarros.\nSu singular topografía se caracteriza por planicies y pendientes diferenciadas en 03 ecosistemas: Bosque Seco, Bosque Húmedo y Páramos y Jalcas; en la Zona de Amortiguamiento se observan relictos que armonizan la belleza paisajística conjuntamente con lagunas, cataratas y caídas de agua.\nSu Zona de Uso Turístico comprende 02 Rutas: Circuito de Grutas (Blanca, Negra y Guacharos) y Bosque de Palmeras; y el Mirador y Catarata de Santa Rosa.\nEn la Zona de Amortiguamiento se ha logrado identificar circuitos turísticos potenciales, los cuales comprenden Cataratas y caída de agua, lagunas, bosque de piedras, grutas y cavernas, pinturas rupestres, restos arqueológicos como las Chullpas; enlazándose durante el recorrido con avistamiento de aves, circuitos en parches de bosques donde es posible ver y diferencias especies de orquídeas.",
+  "particularidades": "",
+  "estado_actual": "En regular estado de conservación, falta mejoramiento de caminos y senderos en las rutas dentro del parque.",
+  "observaciones": "Es posible realizar ecoturismo y turismo especializado de observación de aves, orquídeas, forestal, entre otras. Previas coordinaciones para la determinación del acceso y el tiempo.\nLa Jefatura del PN Cutervo no brinda servicios turísticos, sin embargo se tiene una lista de orientadores turísticos quienes pueden facilitar el servicio de guiado.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "El Parque Nacional de Cutervo - PNC, se ubica en las regiones biogeográficas YUnga y Quechua, las cuales dan lugar a cinco zonas de vida comprendidas en pisos altitudinales entre los 1800 y 3500 msnm.es considerado como zona prioritaria para la conservación de la diversidad biológica del Perú al ubicarse al extremo sur de los páramos tropicales; en su interior alberga especies amenazadas de extinción de flora y fauna silvestre, como: el jaguar, el tigrillo, el de anteojos, la nutria, el gato silvestre, el tapir de altura, el pilco o quetzal de cabeza dorada y el gallito de las rocas. El PNC tiene una extensión de 8,214.23 hectáreas y se encuentra ubicado en la provincia de Cutervo, circunscrito sobre los distritos de San Andrés de Cutervo, Santo Tomás, Pimpingos, Santa Cruz de Cutervo, Callayuc y Santo Domingo de la Capilla, colinda con los distritos de cutervo y Sócota, en el Departamento de Cajamarca.\nSus objetivos de creación son: conservar las Grutas de San Andrés y su colonia de Guacharos; Proteger la flora y la fauna del lugar en especial la colonia de guacharos (Steotornis caripensis); Conservar la belleza escénica de la cordillera de los Tarros.\nSu singular topografía se caracteriza por planicies y pendientes diferenciadas en 03 ecosistemas: Bosque Seco, Bosque Húmedo y Páramos y Jalcas; en la Zona de Amortiguamiento se observan relictos que armonizan la belleza paisajística conjuntamente con lagunas, cataratas y caídas de agua.\nSu Zona de Uso Turístico comprende 02 Rutas: Circuito de Grutas (Blanca, Negra y Guacharos) y Bosque de Palmeras; y el Mirador y Catarata de Santa Rosa.\nEn la Zona de Amortiguamiento se ha logrado identificar circuitos turísticos potenciales, los cuales comprenden Cataratas y caída de agua, lagunas, bosque de piedras, grutas y cavernas, pinturas rupestres, restos arqueológicos como las Chullpas; enlazándose durante el recorrido con avistamiento de aves, circuitos en parches de bosques donde es posible ver y diferencias especies de orquídeas."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "El Parque Nacional de Cutervo, es la Primera Área Natural Protegida del País, creada por Ley Nº13694 del 20 de setiembre de 1961 y ampliada con Ley Nº 28860 del 05 de Agosto del 2006."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "En regular estado de conservación, falta mejoramiento de caminos y senderos en las rutas dentro del parque."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "Es posible realizar ecoturismo y turismo especializado de observación de aves, orquídeas, forestal, entre otras. Previas coordinaciones para la determinación del acceso y el tiempo.\nLa Jefatura del PN Cutervo no brinda servicios turísticos, sin embargo se tiene una lista de orientadores turísticos quienes pueden facilitar el servicio de guiado."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n9\nSERNANP - San Andrés\n2019\nSe registro Puesto de Control SERNANP - San Andrés.\nTuristas Nacionales\n499\nSENANP - San Andrés\n2019\nDatos obtenidos del Registro del Puesto de Control SERNANP - San Amdrés"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nCajamarca/Cutervo/Cutervo\n-\nCajamarca/Cutervo/Cutervo\nDesde Cajamarca hacia la provincia de Cutervo, en combi\nTerrestre\nCombi\nAsfaltado\n210 km /5 horas\n1\nCajamarca/Cutervo/San Andrés De Cutervo\n-\nCajamarca/Cutervo/San Andrés De Cutervo\nDesde la provincia de Cutervo hacia el distrito de San Andrés de Cutervo\nTerrestre\nCombi\nAfirmado\n51 km/ 2 horas\n1\nCajamarca/Cutervo/San Andrés De Cutervo\n-\nCajamarca/Cutervo/San Andrés De Cutervo\nDesde el distrito San Andrés de Cutervo hacia la Curva la Gallera, donde inicia el recorrido del Parque Nacional de Cutervo.\nTerrestre\nCombi\nTrocha carrozable\n3 km/10 min."
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nSemi-restringido(previo permiso)\nPermiso con 15 dias de anticipación pncutervo@sernanp.gob.pe, Liz Gamonal Sánchez, Cel 942053456"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nEsporádicamente - Algunos meses\n--\n08:00 a.m.\n-\n05:00 p.m.\nMeses de Abril a Junio"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nEstudios e Investigación\n--\nNaturaleza\nObservación de fauna\nOso de anteojos, Tapir de altura, Tigrillo, el gato silvestre\nNaturaleza\nObservación de flora\nOrquideas\nNaturaleza\nObservación de paisaje\n--\nNaturaleza\nObservación de aves\nguacharos, el pilco o quetzal\nDeportes / Aventura\nCaminata/Trekking\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHostales (especificar categorías)\nDistrito de San Andrés\nAlimentación\nRestaurantes\nDistrito de San Andrés"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nOtra\n--\nOtros (Especificar)\nSeñal Movistar"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nDistrito de San Andres\nDesagüe\nDistrito de San Andrés\nLuz (Suministro Eléctrico)\nDistrito de San Andrés"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDIRCETUR CAJAMARCA\nNombre (Persona(s) responsable(s) del inventario turístico):\nESPERANZA ESCOBAR PORTAL\nCargo:\nTECNICO EN TURISMO\nCorreo:\nmescobar@regioncajamarca.gob.pe\nTeléfono:\n962690326\nFuentes Bibliográfica:\nINVENTARIO DE ATRACTIVOS TURISTICOS CAJAMARCA 2006\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n6/06/2022"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -6.138974,
+    "longitud": -78.72496999999998
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-6.138974,-78.72496999999998"
+}

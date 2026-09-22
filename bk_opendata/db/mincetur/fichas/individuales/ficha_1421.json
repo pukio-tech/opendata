@@ -1,0 +1,231 @@
+{
+  "cod_ficha": 1421,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=1421",
+  "nombre": "Aguas Termales De Putina",
+  "departamento": "Moquegua",
+  "provincia": "Mariscal Nieto",
+  "distrito": "SAN CRISTÓBAL",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "k. Agua termo-mineral",
+  "subtipo": "Otros",
+  "jerarquia": "1",
+  "altitud": "2929",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=470085",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=470085",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=470086",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=470087",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=470043"
+  ],
+  "actividades_permitidas": [
+    "Naturaleza - Observación de fauna",
+    "Naturaleza - Observación de flora",
+    "Deportes / Aventura - Caminata/Trekking"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de fauna",
+      "observacion": "Ovejas, Vacas, Burros, Chivos",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fauna02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "Eucalipto, Cactus, Pino",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Moquegua/Mariscal Nieto/Moquegua - Moquegua/Mariscal Nieto/Carumas",
+      "detalle": "Plaza Principal de Moquegua - Desvío Chilligua (Carretera Interoceánico Sur km 89)",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "81.7 km / 1h 45min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Moquegua/Mariscal Nieto/Carumas - Moquegua/Mariscal Nieto/San Cristóbal",
+      "detalle": "Desvío Chilligua ( Carretera Interoceánica Sur km 89) - Plaza de Calacoa",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "52km / 1h.15min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Moquegua/Mariscal Nieto/San Cristóbal - Moquegua/Mariscal Nieto/San Cristóbal",
+      "detalle": "Plaza de Calacoa - Puente Carrozable Putina",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "4.5 km / 15 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Moquegua/Mariscal Nieto/San Cristóbal - Moquegua/Mariscal Nieto/San Cristóbal",
+      "detalle": "Puente Carrozable Putina - Aguas Termales de Putina",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Sendero",
+      "distancia_tiempo": "350m / 8 min."
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "1247",
+      "horario": "Informe Técnico/visado",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "723",
+      "horario": "Informe Técnico/visado",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "144",
+      "horario": "Informe Técnico/visado",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "07:00 a.m. - 03:00 p.m. --",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Pueblo de San Cristóbal"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Pueblo de San Cristóbal"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "Pueblo de San Cristóbal"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Pueblo de San Cristóbal"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos de herradura (caballo)",
+      "observacion": "Pueblo de San Cristóbal"
+    }
+  ],
+  "descripcion": "Se ubica en el distrito de San Cristóbal, Provincia de Mariscal Nieto, región Moquegua. Es una de la más extraordinaria fuente termal del departamento, tiene afloramientos de rocas sedimentarias, volcánicas e intrusivas, se caracteriza por sus grietas y surtidores tipo Géiser que alcanzan hasta los 3 m de altura. Sus aguas contienen propiedades curativas a males orgánicos, epidérmicos y reumáticos. Tiene la particularidad de aflorar a lo largo de varios kilómetros del río. Hay sectores en los cuales el agua caliente sale a presión de las rocas, formando chorros de agua y vapor que alcanzan más de tres metros de altura y temperatura de 86.1ºC; en otros lados, aflora el manantial bullente, lo que es aprovechado por los lugareños para cocer papas, huevos, etc. Por la gran cantidad de sales disueltas en agua, hay partes en las cuales brota a temperaturas superiores a los 90ºC. El sabio Antonio Raimondi las visitó y analizó, encontró distintos porcentajes de carbonato de cal y de magnesio, sulfato de cal y sodio, cloruro de magnesio y de sodio, sílice, alúmina y óxidos de hierro. Los visitantes se bañan en el mismo lecho del río en contacto íntimo con la naturaleza.",
+  "particularidades": "- Es la de mayor temperatura de la Cuenca del Río Tambo. (Hidrología de la Cuenca del río Tambo 1318) regiones Arequipa, Moquegua y Puno)",
+  "estado_actual": "Bueno, porque se encuentra en estado natural y no presenta contaminación.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Se ubica en el distrito de San Cristóbal, Provincia de Mariscal Nieto, región Moquegua. Es una de la más extraordinaria fuente termal del departamento, tiene afloramientos de rocas sedimentarias, volcánicas e intrusivas, se caracteriza por sus grietas y surtidores tipo Géiser que alcanzan hasta los 3 m de altura. Sus aguas contienen propiedades curativas a males orgánicos, epidérmicos y reumáticos. Tiene la particularidad de aflorar a lo largo de varios kilómetros del río. Hay sectores en los cuales el agua caliente sale a presión de las rocas, formando chorros de agua y vapor que alcanzan más de tres metros de altura y temperatura de 86.1ºC; en otros lados, aflora el manantial bullente, lo que es aprovechado por los lugareños para cocer papas, huevos, etc. Por la gran cantidad de sales disueltas en agua, hay partes en las cuales brota a temperaturas superiores a los 90ºC. El sabio Antonio Raimondi las visitó y analizó, encontró distintos porcentajes de carbonato de cal y de magnesio, sulfato de cal y sodio, cloruro de magnesio y de sodio, sílice, alúmina y óxidos de hierro. Los visitantes se bañan en el mismo lecho del río en contacto íntimo con la naturaleza."
+    },
+    {
+      "titulo": "Particularidades",
+      "contenido": "- Es la de mayor temperatura de la Cuenca del Río Tambo. (Hidrología de la Cuenca del río Tambo 1318) regiones Arequipa, Moquegua y Puno)"
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, porque se encuentra en estado natural y no presenta contaminación."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nVisitantes Locales(Excursionistas)\n1247\nInforme Técnico/visado\n2021\nTuristas Nacionales\n723\nInforme Técnico/visado\n2021\nTuristas Extranjeros\n144\nInforme Técnico/visado\n2021"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nMoquegua/Mariscal Nieto/Moquegua\n-\nMoquegua/Mariscal Nieto/Carumas\nPlaza Principal de Moquegua - Desvío Chilligua (Carretera Interoceánico Sur km 89)\nTerrestre\nAutomóvil particular\nAsfaltado\n81.7 km / 1h 45min.\n1\nMoquegua/Mariscal Nieto/Carumas\n-\nMoquegua/Mariscal Nieto/San Cristóbal\nDesvío Chilligua ( Carretera Interoceánica Sur km 89) - Plaza de Calacoa\nTerrestre\nAutomóvil particular\nAsfaltado\n52km / 1h.15min.\n1\nMoquegua/Mariscal Nieto/San Cristóbal\n-\nMoquegua/Mariscal Nieto/San Cristóbal\nPlaza de Calacoa - Puente Carrozable Putina\nTerrestre\nAutomóvil particular\nAfirmado\n4.5 km / 15 min.\n1\nMoquegua/Mariscal Nieto/San Cristóbal\n-\nMoquegua/Mariscal Nieto/San Cristóbal\nPuente Carrozable Putina - Aguas Termales de Putina\nTerrestre\nA pie\nSendero\n350m / 8 min."
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n07:00 a.m.\n-\n03:00 p.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nNaturaleza\nObservación de fauna\nOvejas, Vacas, Burros, Chivos\nNaturaleza\nObservación de flora\nEucalipto, Cactus, Pino\nDeportes / Aventura\nCaminata/Trekking\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Públicas\nServicios Públicos\nMiradores turísticos\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nPueblo de San Cristóbal\nAlimentación\nRestaurantes\nPueblo de San Cristóbal\nServicios Públicos\nMiradores turísticos\nPueblo de San Cristóbal\nServicios Públicos\nEstacionamiento de vehículos\nPueblo de San Cristóbal\nServicios Públicos\nCaminos de herradura (caballo)\nPueblo de San Cristóbal"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nPueblo de San Cristóbal (Claro)\nBancos\nPueblo de San Cristóbal (Bco. de la Nación)\nCentro de salud - tópico\nPueblo de San Cristóbal\nSeguridad / POLTUR / Comisaría\nPueblo de San Cristóbal (Puesto Policial)\nBodegas o minimarkets\nPueblo de San Cristóbal"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nPueblo de San Cristóbal\nLuz (Suministro Eléctrico)\nPueblo de San Cristóbal\nTeléfono\nPueblo de San Cristóbal\nAlcantarillado sanitario\nPueblo de San Cristóbal"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nEstado Peruano-INGEMMET\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nLey N° 29338. Ley de los Recursos Hídricos / D.S.N°001-2010-AG. 14/01/2010.\nAdministrador por\nNombre\nMunicipalidad Distrital de San Cristóbal\nTiempo de administración\nDesde el año 1944"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo- Moquegua\nNombre (Persona(s) responsable(s) del inventario turístico):\nEco. Fernando Mamani Meza.\nCargo:\nSub Director de Turismo.\nCorreo:\nfemeza555@yahoo.com\nTeléfono:\n953549922\nFuentes Bibliográfica:\n- Hidrología de la cuenca del río Tambo (1318) regiones Arequipa, Moquegua y Puno. p. 203.\n-101 Razones para sentirse orgulloso de Moquegua.2011.\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n17/12/2022"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -16.7284,
+    "longitud": -70.6651
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-16.7284,-70.6651"
+}

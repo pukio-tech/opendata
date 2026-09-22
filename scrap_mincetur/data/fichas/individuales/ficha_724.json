@@ -1,0 +1,271 @@
+{
+  "cod_ficha": 724,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=724",
+  "nombre": "Lago Tres Chimbadas",
+  "departamento": "Madre De Dios",
+  "provincia": "Tambopata",
+  "distrito": "TAMBOPATA",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "g. Cuerpo de Agua",
+  "subtipo": "Lagos",
+  "jerarquia": "2",
+  "altitud": "210",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=292222",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=292222",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=454404",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=454405"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Deportes acuáticos - Pesca deportiva",
+    "Naturaleza - Observación de fauna",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de aves",
+    "Paseos - Paseos en pedalones"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Deportes acuáticos",
+      "tipo": "Pesca deportiva",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/pesca_deportiva02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de fauna",
+      "observacion": "Lobo de río, agouti, mono ardilla, mono huasita",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fauna02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "Shihuahuaco",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de aves",
+      "observacion": "hoatzin, tuqui tuqui, garzas, loros",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/aves02.png"
+    },
+    {
+      "actividad": "Paseos",
+      "tipo": "Paseos en pedalones",
+      "observacion": "paseos en catamaran",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/pedalones02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Madre De Dios/Tambopata/Tambopata - Madre De Dios/Tambopata/Tambopata",
+      "detalle": "Puerto Maldonado - Comunidad Nativa de Infierno",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus turístico",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "19 km /45 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Madre De Dios/Tambopata/Tambopata - Madre De Dios/Tambopata/Tambopata",
+      "detalle": "Comunidad Nativa Infierno - Orilla de entrada Lago Tres Chimbadas",
+      "tipo_acceso": "Lacustre / Fluvial",
+      "medio_transporte": "Bote",
+      "tipo_via": "",
+      "distancia_tiempo": "10km/40 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Madre De Dios/Tambopata/Tambopata - Madre De Dios/Tambopata/Tambopata",
+      "detalle": "Orilla río Tambopata - Lago Tres Chimbada",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Sendero",
+      "distancia_tiempo": "2 km/30 minutos"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "1039",
+      "horario": "Albergue Posada Amazonas",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "119",
+      "horario": "Albergue Posada Amazonas",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "06:00 a.m. - 05:00 p.m. --",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "Pago S/. 8.00 en la caseta de Ingreso Comunidad Tres Chimbadas"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Embarcaderos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "Ciudad de Puerto Maldonado (hasta 3 estrellas)"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Albergues",
+      "observacion": "Riveras del Río Tambopata"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Casa de Hospedaje",
+      "observacion": "Riveras del Río Tambopata"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Establecimientos de hospedaje (ciudad de Puerto Maldonado)"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Puerto Maldonado"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Puerto Maldonado"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Comunidades y Puerto Maldonado"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de Puerto Maldonado"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de botes",
+      "observacion": "Ciudad de Puerto Maldonado"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Ciudad de Puerto Maldonado"
+    }
+  ],
+  "descripcion": "Se encuentra ubicado en la margen izquierda del río Tambopata, a 15 minutos surcando río arriba, desde la comunidad nativa Infierno, dentro de la zona de amortiguamiento de la Reserva Nacional Tambopata. Tiene 2 km de longitud, 800 metros de ancho y 3,5 metros de profundidad. Sus aguas son de color verde oscuro. Es un lago de herradura más pequeño si se compara con otros lagos de la Reserva Nacional de Tambopata, como el lago Sandoval o el lago Valencia.\nAlrededor del lago, en uno de sus lados, los visitantes pueden apreciar varios tipos de árboles tropicales como la Hymenaea (o «Huayo de azúcar») que puede crecer hasta 50 metros de altura, plantas de cordonillo que son conocidas por sus propiedades anestésicas y son utilizadas por algunos lugareños de la comunidad nativa Infierno para el dolor de muelas; además de árboles frutales y madereros. También existen palmeras que crecen en algunos sectores del lago.\nEn la orilla se presenta abundante vegetación sumergida en donde se pueden observar garzas y al ave tuqui tuqui en busca de comida; en las orillas del lago se observan a los shanshos y existe una zona donde casi siempre se encuentran murciélagos durmiendo en los troncos de los árboles.\nPor lo cerrado de su configuración y la falta de contacto con el río Tambopata, en el lago habitan peces de especies variadas como el boquichico, corvina y pirañas; y mamíferos como los monos ardillas o huasitas, sajinos, tapires entre otros en la selva. La principal motivación de visita es la oportunidad de avistamiento de una familia residente de nutrias gigantes que a menudo surcan el lago pescando o jugando en las primeras horas del día.",
+  "particularidades": "",
+  "estado_actual": "Muy Bueno, La comunidad Nativa de infierno realiza mantenimiento y limpieza periódicamente",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Se encuentra ubicado en la margen izquierda del río Tambopata, a 15 minutos surcando río arriba, desde la comunidad nativa Infierno, dentro de la zona de amortiguamiento de la Reserva Nacional Tambopata. Tiene 2 km de longitud, 800 metros de ancho y 3,5 metros de profundidad. Sus aguas son de color verde oscuro. Es un lago de herradura más pequeño si se compara con otros lagos de la Reserva Nacional de Tambopata, como el lago Sandoval o el lago Valencia.\nAlrededor del lago, en uno de sus lados, los visitantes pueden apreciar varios tipos de árboles tropicales como la Hymenaea (o «Huayo de azúcar») que puede crecer hasta 50 metros de altura, plantas de cordonillo que son conocidas por sus propiedades anestésicas y son utilizadas por algunos lugareños de la comunidad nativa Infierno para el dolor de muelas; además de árboles frutales y madereros. También existen palmeras que crecen en algunos sectores del lago.\nEn la orilla se presenta abundante vegetación sumergida en donde se pueden observar garzas y al ave tuqui tuqui en busca de comida; en las orillas del lago se observan a los shanshos y existe una zona donde casi siempre se encuentran murciélagos durmiendo en los troncos de los árboles.\nPor lo cerrado de su configuración y la falta de contacto con el río Tambopata, en el lago habitan peces de especies variadas como el boquichico, corvina y pirañas; y mamíferos como los monos ardillas o huasitas, sajinos, tapires entre otros en la selva. La principal motivación de visita es la oportunidad de avistamiento de una familia residente de nutrias gigantes que a menudo surcan el lago pescando o jugando en las primeras horas del día."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Muy Bueno, La comunidad Nativa de infierno realiza mantenimiento y limpieza periódicamente"
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n1039\nAlbergue Posada Amazonas\n2022\nReporte del albergue turístico Posada Amazonas que pertenece a la Comunidad Nativa de Infierno, que incluye el Lago Tres Chimbadas en todos sus programas.\nTuristas Nacionales\n119\nAlbergue Posada Amazonas\n2022\nReporte del albergue turístico Posada Amazonas que pertenece a la Comunidad Nativa de Infierno, que incluye el Lago Tres Chimbadas en todos sus programas."
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nMadre De Dios/Tambopata/Tambopata\n-\nMadre De Dios/Tambopata/Tambopata\nPuerto Maldonado - Comunidad Nativa de Infierno\nTerrestre\nBus turístico\nAfirmado\n19 km /45 minutos\n1\nMadre De Dios/Tambopata/Tambopata\n-\nMadre De Dios/Tambopata/Tambopata\nComunidad Nativa Infierno - Orilla de entrada Lago Tres Chimbadas\nLacustre / Fluvial\nBote\n10km/40 minutos\n1\nMadre De Dios/Tambopata/Tambopata\n-\nMadre De Dios/Tambopata/Tambopata\nOrilla río Tambopata - Lago Tres Chimbada\nTerrestre\nA pie\nSendero\n2 km/30 minutos"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nPago S/. 8.00 en la caseta de Ingreso Comunidad Tres Chimbadas"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n06:00 a.m.\n-\n05:00 p.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nDeportes acuáticos\nPesca deportiva\n--\nNaturaleza\nObservación de fauna\nLobo de río, agouti, mono ardilla, mono huasita\nNaturaleza\nObservación de flora\nShihuahuaco\nNaturaleza\nObservación de aves\nhoatzin, tuqui tuqui, garzas, loros\nPaseos\nPaseos en pedalones\npaseos en catamaran"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Públicas\nServicios Públicos\nEmbarcaderos\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\nCiudad de Puerto Maldonado (hasta 3 estrellas)\nAlojamiento\nAlbergues\nRiveras del Río Tambopata\nAlojamiento\nCasa de Hospedaje\nRiveras del Río Tambopata\nAlojamiento\nOtros (Especificar)\nEstablecimientos de hospedaje (ciudad de Puerto Maldonado)\nAlimentación\nRestaurantes\nCiudad de Puerto Maldonado\nAlimentación\nBares\nCiudad de Puerto Maldonado\nOtros Servicios Turísticos\nVenta de artesanía\nComunidades y Puerto Maldonado\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de Puerto Maldonado\nOtros Servicios Turísticos\nAlquiler de botes\nCiudad de Puerto Maldonado\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nCiudad de Puerto Maldonado"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Puerto Maldonado\nBancos\nCiudad de Puerto Maldonado\nCasa de cambio\nCiudad de Puerto Maldonado\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Puerto Maldonado\nServicios de taxis\nCiudad de Puerto Maldonado\nCentro de salud - tópico\nCiudad de Puerto Maldonado\nSeguridad / POLTUR / Comisaría\nCiudad de Puerto Maldonado\nLibrerías\nCiudad de Puerto Maldonado"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nSeñalización turística\nmapa señalando principales características"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Puerto Maldonado\nDesagüe\nCiudad de Puerto Maldonado\nLuz (Suministro Eléctrico)\nCiudad de Puerto Maldonado\nTeléfono\nCiudad de Puerto Maldonado\nOtros (Especificar)\nCiudad de Puerto Maldonado"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nComunidad Nativa de Infierno\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nComunidad Nativa Infierno\nNúmero de Partida:\n11002278\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nComunidad Nativa de Infierno\nTiempo de administración\nDesde el año 2012"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo\nNombre (Persona(s) responsable(s) del inventario turístico):\nRosa Milagros Delgado Huaytalla\nCargo:\nTécnico en Proyecto\nCorreo:\nrmilagrosd@gmail.com\nTeléfono:\n953458376\nFuentes Bibliográfica:\nSOCIEDAD ZOOLÓGICA DE FRANCFORT-MANEJO VOLUNTARIO DE LA ACT. TTCA. EN COCHAS TRES CHIMBADAS\nMaterial Audiovisual actual del Recurso:\nFOTO, VIDEOS\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n12/10/2022"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -12.790374719124847,
+    "longitud": -69.34578172460942
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-12.790374719124847,-69.34578172460942"
+}

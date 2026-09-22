@@ -1,0 +1,435 @@
+{
+  "cod_ficha": 980,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=980",
+  "nombre": "Iglesia San Agustín",
+  "departamento": "Arequipa",
+  "provincia": "Arequipa",
+  "distrito": "AREQUIPA",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Arquitectura y Espacios Urbanos",
+  "subtipo": "Iglesias",
+  "jerarquia": "POR JERARQUIZAR",
+  "altitud": "2,335 m.s.n.m.",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=292025",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=292025",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=730544",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=731542",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=730545",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=731543",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=731544",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=730546"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Cultura y Folclore - Actividades Religiosas o Patronales",
+    "Otros - Estudios e Investigación"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "No se permite fotografías con flash",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Actividades Religiosas o Patronales",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/act_religiosas02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Arequipa/Arequipa/Arequipa - Arequipa/Arequipa/Arequipa",
+      "detalle": "Plaza de Armas de Arequipa - Iglesia San Agustín",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "50 m/ 5min"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Arequipa/Arequipa/Arequipa - Arequipa/Arequipa/Jacobo Hunter",
+      "detalle": "Terminal Terrestre de Arequipa - Paradero público Calle San Agustín",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "3.9 km/ 25min"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Arequipa/Arequipa/Arequipa - Arequipa/Arequipa/Arequipa",
+      "detalle": "Paradero Público Calle San Agustín - Iglesia San Agustín",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "20m /2 min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "720",
+      "horario": "Conteo Muestral a cargo de la Municipalidad Provincial de Arequipa",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "540",
+      "horario": "Conteo Muestral a cargo de la Municipalidad Provincial de Arequipa",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "1890",
+      "horario": "Conteo Muestral a cargo de la Municipalidad Provincial de Arequipa",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "09:00 a.m. - 07:00 p.m. a Iglesia se apertura: de lunes a viernes de 9am a 12:30pm y de 4pm a 7pm; los domingos de 9am a 2pm.",
+      "observaciones": "a Iglesia se apertura: de lunes a viernes de 9am a 12:30pm y de 4pm a 7pm; los domingos de 9am a 2pm."
+    },
+    {
+      "epoca": "Personas con discapacidad física",
+      "especificacion": "Rampas de acceso",
+      "horario": "--",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": "En el caso de visitantes se solicita el debido respeto durante las celebraciones litúrgicas."
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de bicicleta",
+      "observacion": "Ciudad de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "Ciudad de Arequipa - de 1 a 5 estrellas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Albergues",
+      "observacion": "Ciudad de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Apart-hoteles (especificar categorías)",
+      "observacion": "Ciudad de Arequipa - de 4 estrellas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Ciudad de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "Ciudad de Arequipa - de 1 a 3 estrellas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "Ciudad de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Cines o Teatros",
+      "observacion": "Ciudad de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Puesto de auxilio rápido",
+      "observacion": "Ciudad de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Museo de Sitio Turísticos",
+      "observacion": "Ciudad de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Ciudad de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Peñas",
+      "observacion": "Ciudad de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Ingles, Frances, otros en la Ciudad de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de camionetas 4 x 4",
+      "observacion": "Ciudad de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de interpretación",
+      "observacion": "Ciudad de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "Ciudad de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Ciudad de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Centros de interpretación",
+      "observacion": "Ciudad de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Paradores turísticos",
+      "observacion": "Ciudad de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Ciudad de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "Ciudad de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Ciudad de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Ciudad de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Hipódromos",
+      "observacion": "Ciudad de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "Ciudad de Arequipa"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Ciudad de Arequipa"
+    }
+  ],
+  "descripcion": "El Templo de San Agustín es una de las joyas más excelsas del barroco mestizo en el Centro Histórico de Arequipa. Su fundación se remonta al año 1575, bajo la advocación de San Nicolás de Tolentino, dando inicio a un complejo arquitectónico cuya fisonomía es el resultado de un largo proceso constructivo. Mientras que la iglesia alcanzó su esplendor ornamental en la primera mitad del siglo XVIII, los imponentes claustros adyacentes demandaron aproximadamente un siglo de continuo trabajo para ser culminados, consolidando un conjunto de sillar que hoy acumula más de 450 años de historia. A lo largo del tiempo, la edificación ha desafiado a la naturaleza, siendo su intervención y transformación más drástica aquella que devino tras el devastador terremoto de 1868, el cual destruyó gran parte del Templo, pero respetó de forma providencial su emblemática fachada principal y la estructura de su sacristía.\nArquitectónicamente, el edificio se define por el uso predominante del sillar blanco, cuya plasticidad permitió a los alarifes virreinales plasmar la perfecta fusión entre las corrientes europeas y la cosmovisión andina. Su fachada principal, concebida como una gran portada-retablo, destaca por sus equilibradas proporciones barrocas y una sólida volumetría diseñada para contrarrestar la actividad sísmica de la región. Estéticamente, el frontispicio ofrece una magnífica composición bicromática en tonos blancos y grises, profusamente ornada con antiguos bajo-relieves de filiación plateresca y mestiza que capturan la luz solar arequipeña de manera única. Aunque el texto histórico original no detalla las medidas métricas exactas en metros de sus alturas, la escala de la fachada mantiene una rigurosa correspondencia visual con el entorno urbano, erigiéndose como uno de los perfiles más celebrados de su época.\nEn el interior del templo, la planta abre paso a una notable expresión de arte sacro donde conviven la ornamentación mestiza y la sobriedad posterior de sus altares neoclásicos. El elemento formal más destacado de la nave es el Altar Mayor, el cual concita las miradas gracias a un minucioso trabajo de tallado en madera cubierto con delicadas aplicaciones en pan de oro, complementado artísticamente por la valiosa imagen del Señor de los Milagros, del cual esta iglesia también es su Santuario. Por su parte, la Sacristía —superviviente del sismo de 1868— se erige como el ejemplo arquitectónico más remarcable de su tipología en la región, caracterizada por una singular planta octogonal que se eleva hacia una bella y armónica cúpula de sillar perfectamente encajada.\nUnido a la iglesia se despliega el Claustro Mayor de los agustinos, un espacio monumental que destaca por la simetría y ritmo de su arquería, compuesta por 38 pilastras cuyos tableros poseen el mismo ancho y rematan en cornisas que simulan artísticos capiteles. Más allá de su innegable valor estético, este claustro posee un profundo interés histórico e intelectual, pues durante el siglo XIX cobijó a la célebre Academia Lauretana, institución que se convirtió en el núcleo fundacional de la Universidad Nacional de San Agustín y del Colegio de Abogados de Arequipa.\nEn la actualidad, el Templo y los Claustros de San Agustín gozan de un óptimo estado de conservación que permite la puesta en valor de todos sus componentes artísticos. Mientras que el templo mantiene viva su trascendencia cultural y turística a través de festividades de gran arraigo local —como la devoción al Señor de los Milagros, cuyas procesiones y vigilias dinamizan el centro de la ciudad durante todo el mes de octubre, principalmente los días 1, 18, 19, 20, 21 y 28 de octubre—, los antiguos claustros se encuentran bajo la administración de la Universidad Nacional de San Agustín, garantizando así la preservación, el uso académico y el mantenimiento continuo de este invaluable legado virreinal.",
+  "particularidades": "El Templo de San Agustín destaca por albergar una sacristía espacialmente única. Se trata de un ambiente de planta octogonal perfecta, el cual se eleva de manera simétrica y exenta para rematar en una espléndida cúpula.\n• Gutiérrez, Ramón (1992). Evolución histórica urbana de Arequipa (1540-1990). Destaca explícitamente cómo la geometría de la sacristía de San Agustín —con su cúpula sobre planta octogonal— representó una anomalía brillante de la ingeniería colonial que desafió con éxito los movimientos telúricos que destruyeron el resto del centro urbano en 1868.\n• Benavides Rodríguez, Alfredo (1990). La Arquitectura en el Virreinato del Perú y en la Capitanía General de Chile. Benavides realiza un estudio morfológico comparativo de las plantas e interiores de los templos de las órdenes religiosas en Arequipa. En su análisis, exalta la sacristía agustiniana como el ejemplar más refinado y original de su tipo en la región, contrastando su compleja volumetría de ocho lados con las soluciones planas y tradicionales de los templos franciscanos y dominicos de la misma ciudad.",
+  "estado_actual": "Bueno, la edificación mantiene su estabilidad estructural, funcionalidad y legibilidad arquitectónica gracias a una serie de intervenciones institucionales continuas. se mantiene limpia en sus interiores y cumple su rol social de manera óptima, controlando los inevitables agentes de deterioro del entorno urbano.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "El Templo de San Agustín es una de las joyas más excelsas del barroco mestizo en el Centro Histórico de Arequipa. Su fundación se remonta al año 1575, bajo la advocación de San Nicolás de Tolentino, dando inicio a un complejo arquitectónico cuya fisonomía es el resultado de un largo proceso constructivo. Mientras que la iglesia alcanzó su esplendor ornamental en la primera mitad del siglo XVIII, los imponentes claustros adyacentes demandaron aproximadamente un siglo de continuo trabajo para ser culminados, consolidando un conjunto de sillar que hoy acumula más de 450 años de historia. A lo largo del tiempo, la edificación ha desafiado a la naturaleza, siendo su intervención y transformación más drástica aquella que devino tras el devastador terremoto de 1868, el cual destruyó gran parte del Templo, pero respetó de forma providencial su emblemática fachada principal y la estructura de su sacristía.\nArquitectónicamente, el edificio se define por el uso predominante del sillar blanco, cuya plasticidad permitió a los alarifes virreinales plasmar la perfecta fusión entre las corrientes europeas y la cosmovisión andina. Su fachada principal, concebida como una gran portada-retablo, destaca por sus equilibradas proporciones barrocas y una sólida volumetría diseñada para contrarrestar la actividad sísmica de la región. Estéticamente, el frontispicio ofrece una magnífica composición bicromática en tonos blancos y grises, profusamente ornada con antiguos bajo-relieves de filiación plateresca y mestiza que capturan la luz solar arequipeña de manera única. Aunque el texto histórico original no detalla las medidas métricas exactas en metros de sus alturas, la escala de la fachada mantiene una rigurosa correspondencia visual con el entorno urbano, erigiéndose como uno de los perfiles más celebrados de su época.\nEn el interior del templo, la planta abre paso a una notable expresión de arte sacro donde conviven la ornamentación mestiza y la sobriedad posterior de sus altares neoclásicos. El elemento formal más destacado de la nave es el Altar Mayor, el cual concita las miradas gracias a un minucioso trabajo de tallado en madera cubierto con delicadas aplicaciones en pan de oro, complementado artísticamente por la valiosa imagen del Señor de los Milagros, del cual esta iglesia también es su Santuario. Por su parte, la Sacristía —superviviente del sismo de 1868— se erige como el ejemplo arquitectónico más remarcable de su tipología en la región, caracterizada por una singular planta octogonal que se eleva hacia una bella y armónica cúpula de sillar perfectamente encajada.\nUnido a la iglesia se despliega el Claustro Mayor de los agustinos, un espacio monumental que destaca por la simetría y ritmo de su arquería, compuesta por 38 pilastras cuyos tableros poseen el mismo ancho y rematan en cornisas que simulan artísticos capiteles. Más allá de su innegable valor estético, este claustro posee un profundo interés histórico e intelectual, pues durante el siglo XIX cobijó a la célebre Academia Lauretana, institución que se convirtió en el núcleo fundacional de la Universidad Nacional de San Agustín y del Colegio de Abogados de Arequipa.\nEn la actualidad, el Templo y los Claustros de San Agustín gozan de un óptimo estado de conservación que permite la puesta en valor de todos sus componentes artísticos. Mientras que el templo mantiene viva su trascendencia cultural y turística a través de festividades de gran arraigo local —como la devoción al Señor de los Milagros, cuyas procesiones y vigilias dinamizan el centro de la ciudad durante todo el mes de octubre, principalmente los días 1, 18, 19, 20, 21 y 28 de octubre—, los antiguos claustros se encuentran bajo la administración de la Universidad Nacional de San Agustín, garantizando así la preservación, el uso académico y el mantenimiento continuo de este invaluable legado virreinal."
+    },
+    {
+      "titulo": "Particularidades",
+      "contenido": "El Templo de San Agustín destaca por albergar una sacristía espacialmente única. Se trata de un ambiente de planta octogonal perfecta, el cual se eleva de manera simétrica y exenta para rematar en una espléndida cúpula.\n• Gutiérrez, Ramón (1992). Evolución histórica urbana de Arequipa (1540-1990). Destaca explícitamente cómo la geometría de la sacristía de San Agustín —con su cúpula sobre planta octogonal— representó una anomalía brillante de la ingeniería colonial que desafió con éxito los movimientos telúricos que destruyeron el resto del centro urbano en 1868.\n• Benavides Rodríguez, Alfredo (1990). La Arquitectura en el Virreinato del Perú y en la Capitanía General de Chile. Benavides realiza un estudio morfológico comparativo de las plantas e interiores de los templos de las órdenes religiosas en Arequipa. En su análisis, exalta la sacristía agustiniana como el ejemplar más refinado y original de su tipo en la región, contrastando su compleja volumetría de ocho lados con las soluciones planas y tradicionales de los templos franciscanos y dominicos de la misma ciudad."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "Declarado como Monumento Histórico., según Resolución Suprema Nº 132 del 16 de marzo de 1958, Instituto de Cultura.\nIncorporación de la señalética de protección internacional del Escudo Azul de la Convención de La Haya (1954).\nImplementado por la Municipalidad Provincial de Arequipa, el Comité Peruano del Escudo Azul y el Ministerio de Cultura."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, la edificación mantiene su estabilidad estructural, funcionalidad y legibilidad arquitectónica gracias a una serie de intervenciones institucionales continuas. se mantiene limpia en sus interiores y cumple su rol social de manera óptima, controlando los inevitables agentes de deterioro del entorno urbano."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n720\nConteo Muestral a cargo de la Municipalidad Provincial de Arequipa\n2025\nundefined\nTuristas Nacionales\n540\nConteo Muestral a cargo de la Municipalidad Provincial de Arequipa\n2025\nundefined\nVisitantes Locales(Excursionistas)\n1890\nConteo Muestral a cargo de la Municipalidad Provincial de Arequipa\n2025\nundefined"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nArequipa/Arequipa/Arequipa\n-\nArequipa/Arequipa/Arequipa\nPlaza de Armas de Arequipa - Iglesia San Agustín\nTerrestre\nA pie\nAsfaltado\n50 m/ 5min\n2\nArequipa/Arequipa/Arequipa\n-\nArequipa/Arequipa/Jacobo Hunter\nTerminal Terrestre de Arequipa - Paradero público Calle San Agustín\nTerrestre\nBus público\nAsfaltado\n3.9 km/ 25min\n2\nArequipa/Arequipa/Arequipa\n-\nArequipa/Arequipa/Arequipa\nParadero Público Calle San Agustín - Iglesia San Agustín\nTerrestre\nA pie\nAsfaltado\n20m /2 min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre\nEn el caso de visitantes se solicita el debido respeto durante las celebraciones litúrgicas."
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n09:00 a.m.\n-\n07:00 p.m.\na Iglesia se apertura: de lunes a viernes de 9am a 12:30pm y de 4pm a 7pm; los domingos de 9am a 2pm."
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\nNo se permite fotografías con flash\nCultura y Folclore\nActividades Religiosas o Patronales\n--\nOtros\nEstudios e Investigación\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nOtros Servicios Turísticos\nAlquiler de bicicleta\nCiudad de Arequipa\nAlojamiento\nHoteles (especificar categorías)\nCiudad de Arequipa - de 1 a 5 estrellas\nAlojamiento\nAlbergues\nCiudad de Arequipa\nAlojamiento\nApart-hoteles (especificar categorías)\nCiudad de Arequipa - de 4 estrellas\nAlimentación\nVenta de comida Rápida\nCiudad de Arequipa\nAlojamiento\nHostales (especificar categorías)\nCiudad de Arequipa - de 1 a 3 estrellas\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Arequipa\nServicios Públicos\nSeñales turísticas de orientación\nCiudad de Arequipa\nLugares de Recreación\nCines o Teatros\nCiudad de Arequipa\nLugares de Recreación\nDiscotecas\nCiudad de Arequipa\nServicios Públicos\nPuesto de auxilio rápido\nCiudad de Arequipa\nServicios Públicos\nMuseo de Sitio Turísticos\nCiudad de Arequipa\nAlimentación\nRestaurantes\nCiudad de Arequipa\nAlimentación\nKioskos de comida y bebidas\nCiudad de Arequipa\nAlimentación\nFuentes de soda\nCiudad de Arequipa\nAlimentación\nCafeterías\nCiudad de Arequipa\nLugares de Recreación\nPeñas\nCiudad de Arequipa\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de Arequipa\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nIngles, Frances, otros en la Ciudad de Arequipa\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Arequipa\nOtros Servicios Turísticos\nAlquiler de camionetas 4 x 4\nCiudad de Arequipa\nServicios Públicos\nSeñales turísticas de interpretación\nCiudad de Arequipa\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\nCiudad de Arequipa\nServicios Públicos\nOficina de Información turística\nCiudad de Arequipa\nServicios Públicos\nCentros de interpretación\nCiudad de Arequipa\nServicios Públicos\nParadores turísticos\nCiudad de Arequipa\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nCiudad de Arequipa\nLugares de Recreación\nKaraoke\nCiudad de Arequipa\nLugares de Recreación\nBares\nCiudad de Arequipa\nLugares de Recreación\nJuegos Infantiles\nCiudad de Arequipa\nLugares de Recreación\nCentros Deportivos\nCiudad de Arequipa\nLugares de Recreación\nHipódromos\nCiudad de Arequipa\nServicios Públicos\nMiradores turísticos\nCiudad de Arequipa\nServicios Públicos\nEstacionamiento de vehículos\nCiudad de Arequipa"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nCasa de cambio\nCiudad de Arequipa\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Arequipa\nServicio de correos\nCiudad de Arequipa\nServicio de estacionamiento\nCiudad de Arequipa\nServicios de taxis\nCiudad de Arequipa\nCentro de salud - tópico\nCiudad de Arequipa\nVenta de materiales para fotografías\nCiudad de Arequipa\nSeguridad / POLTUR / Comisaría\nCiudad de Arequipa\nAlquiler y compra de equipos deportivos\nCiudad de Arequipa\nLibrerías\nCiudad de Arequipa\nBodegas o minimarkets\nCiudad de Arequipa\nServicios de internet\nCiudad de Arequipa\nBancos\nCiudad de Arequipa\nCajero automático\nCiudad de Arequipa"
+    },
+    {
+      "titulo": "Condiciones de Accesibilidad al Visitante",
+      "contenido": "Visitante\nInstalación\nActividades y/o programas\nEquipamiento\nObservación\nPersonas con discapacidad física\nRampas de acceso\n--\n--\nAcceso desde la calle en silla de ruedas es por la calle Sucre"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\n--\nLuz (Suministro Eléctrico)\n--\nTeléfono\n--\nAlcantarillado sanitario\n--\nSeñalización turística\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Arequipa\nLuz (Suministro Eléctrico)\nCiudad de Arequipa\nEnergía Alternativa\nCiudad de Arequipa\nTeléfono\nCiudad de Arequipa\nAlcantarillado sanitario\nCiudad de Arequipa\nAlcantarillado pluvial\nCiudad de Arequipa\nSeñalización turística\nCiudad de Arequipa"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\n--\nPrivado:\nArzobispado de Arequipa.\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nNúmero de Partida:\n11022235\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nArzobispado de Arequipa\nTiempo de administración\nDesde el año 1609"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nGerencia Regional de Comercio Exterior y Turismo de Arequipa\nNombre (Persona(s) responsable(s) del inventario turístico):\nLic. Claudia Barrios Cacya\nCargo:\nEspecialista en Turismo\nCorreo:\ngercetur@regionarequipa.gob.pe\nTeléfono:\n(054) 382860\nFuentes Bibliográfica:\n• Benavides Rodríguez, Alfredo (1990). La Arquitectura en el Virreinato del Perú y en la Capitanía General de Chile. (Obra clásica que analiza exhaustivamente el barroco mestizo y las portadas-retablo de sillar en Arequipa).\n• Málaga Medina, Alejandro (1989). Historia de la Iglesia en Arequipa: Política, sociedad y mentalidades. (Fuente clave para la datación de las órdenes religiosas, confirmando la instalación y fundación agustina hacia 1575).\n• Gutiérrez, Ramón (1992). Evolución histórica urbana de Arequipa (1540-1990). (Analiza el impacto del terremoto de 1868, detallando qué estructuras colapsaron y cuáles, como la sacristía octogonal y la fachada de San Agustín, lograron sobrevivir).\n• Neira Avendaño, Máximo et al. (1990). Historia General de Arequipa. (Documenta detalladamente el rol del Claustro Mayor como sede de la Academia Lauretana de Ciencias y Artes en el siglo XIX, y su posterior vinculación como origen de la Universidad Nacional de San Agustín).\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n27/08/2026 11:32:33"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -16.397813936275657,
+    "longitud": -71.53820246458054
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-16.397813936275657,-71.53820246458054"
+}

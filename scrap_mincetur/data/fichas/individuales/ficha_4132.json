@@ -1,0 +1,432 @@
+{
+  "cod_ficha": 4132,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=4132",
+  "nombre": "Pinacoteca Municipal Ignacio Merino - Hospicio Bartolomé Manrique",
+  "departamento": "Lima",
+  "provincia": "Lima",
+  "distrito": "LIMA",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Museos y otros",
+  "subtipo": "Pinacotecas(Pinturas)",
+  "jerarquia": "2",
+  "altitud": "140",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=454113",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=454113",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=454069",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=454070",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=454071",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=454114",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=454115"
+  ],
+  "actividades_permitidas": [
+    "Otros - Estudios e Investigación",
+    "Otros - Realización de eventos",
+    "Cultura y Folclore - Apreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Realización de eventos",
+      "observacion": "Eventos artísticos y culturales",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/eventos02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Apreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)",
+      "observacion": "--",
+      "icono_url": null
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Lima/Lima/Lima - Lima/Lima/Lima",
+      "detalle": "Plaza Mayor de Lima - Jr. de la Unión - Plaza San Martín - Plaza Francia - Pinacoteca Municipal Ignacio Merino",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "1.6 km / 20 min."
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Lima/Lima/Lima - Lima/Lima/Lima",
+      "detalle": "Plaza Mayor de Lima - Jr. Conde de Superunda - Jr. Camaná - Plaza Francia - Pinacoteca Ignacio Municipal Ignacio Merino",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "1.5 Km. / 8 Min."
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "4821",
+      "horario": "Pinacoteca Municipal Ignacio Merino - MML",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "414",
+      "horario": "Pinacoteca Municipal Ignacio Merino - MML",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "172",
+      "horario": "Pinacoteca Municipal Ignacio Merino - MML",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "10:00 a.m. - 06:00 p.m. Martes a domingo de 10 am a 1 pm y de 2 pm a 6 pm, recorridos guiados cada hora",
+      "observaciones": "Martes a domingo de 10 am a 1 pm y de 2 pm a 6 pm, recorridos guiados cada hora"
+    },
+    {
+      "epoca": "Personas con discapacidad física",
+      "especificacion": "rampas, ascensor y servicios higiénicos",
+      "horario": "--",
+      "observaciones": "--"
+    },
+    {
+      "epoca": "Personas con discapacidad intelectual",
+      "especificacion": "--",
+      "horario": "Visitas mediadas sensoriales",
+      "observaciones": "--"
+    },
+    {
+      "epoca": "Niños",
+      "especificacion": "--",
+      "horario": "Talleres artísticos y cuentacuentos lúdicos",
+      "observaciones": "--"
+    },
+    {
+      "epoca": "Jóvenes",
+      "especificacion": "--",
+      "horario": "Talleres artísticos y visitas temáticas especiales",
+      "observaciones": "--"
+    },
+    {
+      "epoca": "Adulto mayor",
+      "especificacion": "--",
+      "horario": "Visitas temáticas especiales",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Semi-restringido(previo permiso)",
+      "observaciones": "Previa inscripción al teléfono (01) 632-1539 o al correo electrónico pinacoteca@munlima.gob.pe"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Servicio gratuito de Mediadores Culturales en español e inglés"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Estacionamiento para vehículos de transporte turístico. Distrito de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "Distrito de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de interpretación",
+      "observacion": "Distrito de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "Distrito de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Centros de interpretación",
+      "observacion": "Centro de Interpretación del Centro Histórico de Lima. Distrito de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Distrito de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Puesto de auxilio rápido",
+      "observacion": "Distrito de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Museo de Sitio Turísticos",
+      "observacion": "Distrito de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "Hoteles de 1, 2, 3 y 5 estrellas. Distrito de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "Hostales de 1, 2 y 3 estrellas. Distrito de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Distrito de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Distrito de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Distrito de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Distrito de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Distrito de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Distrito de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Distrito de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Plazuelas Gastronómicas en Plaza Italia, Plazuela Las Limeñitas y Alameda Chabuca Granda. Distrito de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Distrito de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Distrito de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de carruajes",
+      "observacion": "Distrito de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Idiomas español, inglés, francés, portugués e italiano. Distrito de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Distrito de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Peñas",
+      "observacion": "Distrito de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Cines o Teatros",
+      "observacion": "Distrito de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Distrito de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Distrito de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Distrito de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "Distrito de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Distrito de Lima"
+    }
+  ],
+  "descripcion": "Compuesta por una colección total de 566 pinturas, de las cuales 105 se encuentran en exposición, la Pinacoteca Municipal Ignacio Merino fue fundada el 29 de mayo de 1925 y lleva el nombre del más destacado pintor academicista peruano y primer pintor peruano reconocido internacionalmente en la Exposición de Bellas Artes de París de 1863, por su obra “Colón ante los sabios de Salamanca”. También es considerado el primer gran maestro de la pintura peruana, ya que por muchos años se desempeñó como profesor y director de la antigua Academia de Dibujo y Pintura, influyendo en otros reconocidos pintores nacionales. En su testamento, Merino dispuso que legaba sus pinturas a la ciudad de Lima, originando la colección de la pinacoteca. La actual exhibición está distribuida en 18 salas con las siguientes temáticas: Introducción; Lima y la Pinacoteca; Costumbrismo; Pancho Fierro; Ignacio Merino; Academicismo; Indigenismo; y, Los independientes hasta la abstracción. Este importante acervo pictórico municipal cuenta con piezas de valor histórico y artístico, cuya mayoría corresponden al período republicano, destacando cuadros de pintura académica, con autores como Francisco Laso, Luis Montero, Daniel Hernández, Teófilo Castillo y, por supuesto, Ignacio Merino, constituyendo la más importante colección de pintura académica en el Perú. Pintores de la etapa indigenista, como Julia Codesido, José Sabogal, Mario Urteaga y Enrique Brent; y pintores como Tilsa Tsuchiya y Fernando de Szyszlo. Parte de la colección, la conforman dos cuadros de origen virreinal: “La Virgen de Cocharcas”, y “Procesión”, pinturas que datan del siglo XVIII y que por el momento no se encuentran en exhibición. Mención aparte merece la colección “Pancho” Fierro, con 239 acuarelas, constituyendo la colección más grande del reconocido artista costumbrista peruano.\nLa pinacoteca forma parte de la Red de Museos del Centro Histórico de Lima y sus piezas son bienes materiales muebles en buen estado de conservación. Cabe destacar el inmueble que acoge a la exposición, el Hospicio Bartolomé Manrique, antigua propiedad de la Orden Dominica, vendida al filántropo chileno Bartolomé Manrique, quien promovió y construyó un hospicio para niñas huérfanas y mujeres necesitadas. El Hospicio es una edificación neoclásica, inaugurada en 1876 y diseñada por el arquitecto italiano Miguel Trefogli. Tras la muerte de Manrique, el hospicio fue cedido a la Beneficencia de Lima. Luego de serias afectaciones al inmueble durante el siglo XX, pasa a ser restaurado y reinaugurado por la Municipalidad de Lima, el 16 de abril de 2021.",
+  "particularidades": "-Según Kusunoki, R. (2018), es la primera pinacoteca pública del Perú, fundada el 29 de mayo de 1925 por el entonces Alcalde de Lima, Pedro Rada, durante el gobierno de Augusto Leguía;\n-De acuerdo con Arias, T. y Contreras, D. (2019), cuenta con la colección de pintura republicana más importante del Perú, pues en ella se conservan el mayor número de obras de Ignacio Merino, primer pintor peruano reconocido internacionalmente, y la más grande colección de obras del pintor peruano Francisco \"Pancho\" Fierro (1809-1879), famoso por sus acuarelas costumbristas de la Lima virreinal y republicana.",
+  "estado_actual": "El estado de conservación de la pinacoteca es bueno, y el mantenimiento y cuidados se encuentran a cargo de la Subgerencia de Patrimonio Cultural, Artes Visuales, Museos y Biblioteca de la Gerencia de Cultura de la Municipalidad de Lima",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Compuesta por una colección total de 566 pinturas, de las cuales 105 se encuentran en exposición, la Pinacoteca Municipal Ignacio Merino fue fundada el 29 de mayo de 1925 y lleva el nombre del más destacado pintor academicista peruano y primer pintor peruano reconocido internacionalmente en la Exposición de Bellas Artes de París de 1863, por su obra “Colón ante los sabios de Salamanca”. También es considerado el primer gran maestro de la pintura peruana, ya que por muchos años se desempeñó como profesor y director de la antigua Academia de Dibujo y Pintura, influyendo en otros reconocidos pintores nacionales. En su testamento, Merino dispuso que legaba sus pinturas a la ciudad de Lima, originando la colección de la pinacoteca. La actual exhibición está distribuida en 18 salas con las siguientes temáticas: Introducción; Lima y la Pinacoteca; Costumbrismo; Pancho Fierro; Ignacio Merino; Academicismo; Indigenismo; y, Los independientes hasta la abstracción. Este importante acervo pictórico municipal cuenta con piezas de valor histórico y artístico, cuya mayoría corresponden al período republicano, destacando cuadros de pintura académica, con autores como Francisco Laso, Luis Montero, Daniel Hernández, Teófilo Castillo y, por supuesto, Ignacio Merino, constituyendo la más importante colección de pintura académica en el Perú. Pintores de la etapa indigenista, como Julia Codesido, José Sabogal, Mario Urteaga y Enrique Brent; y pintores como Tilsa Tsuchiya y Fernando de Szyszlo. Parte de la colección, la conforman dos cuadros de origen virreinal: “La Virgen de Cocharcas”, y “Procesión”, pinturas que datan del siglo XVIII y que por el momento no se encuentran en exhibición. Mención aparte merece la colección “Pancho” Fierro, con 239 acuarelas, constituyendo la colección más grande del reconocido artista costumbrista peruano.\nLa pinacoteca forma parte de la Red de Museos del Centro Histórico de Lima y sus piezas son bienes materiales muebles en buen estado de conservación. Cabe destacar el inmueble que acoge a la exposición, el Hospicio Bartolomé Manrique, antigua propiedad de la Orden Dominica, vendida al filántropo chileno Bartolomé Manrique, quien promovió y construyó un hospicio para niñas huérfanas y mujeres necesitadas. El Hospicio es una edificación neoclásica, inaugurada en 1876 y diseñada por el arquitecto italiano Miguel Trefogli. Tras la muerte de Manrique, el hospicio fue cedido a la Beneficencia de Lima. Luego de serias afectaciones al inmueble durante el siglo XX, pasa a ser restaurado y reinaugurado por la Municipalidad de Lima, el 16 de abril de 2021."
+    },
+    {
+      "titulo": "Particularidades",
+      "contenido": "-Según Kusunoki, R. (2018), es la primera pinacoteca pública del Perú, fundada el 29 de mayo de 1925 por el entonces Alcalde de Lima, Pedro Rada, durante el gobierno de Augusto Leguía;\n-De acuerdo con Arias, T. y Contreras, D. (2019), cuenta con la colección de pintura republicana más importante del Perú, pues en ella se conservan el mayor número de obras de Ignacio Merino, primer pintor peruano reconocido internacionalmente, y la más grande colección de obras del pintor peruano Francisco \"Pancho\" Fierro (1809-1879), famoso por sus acuarelas costumbristas de la Lima virreinal y republicana."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "El estado de conservación de la pinacoteca es bueno, y el mantenimiento y cuidados se encuentran a cargo de la Subgerencia de Patrimonio Cultural, Artes Visuales, Museos y Biblioteca de la Gerencia de Cultura de la Municipalidad de Lima"
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nVisitantes Locales(Excursionistas)\n4821\nPinacoteca Municipal Ignacio Merino - MML\n2022\nPeríodo jun 2021 - jul 2022\nTuristas Nacionales\n414\nPinacoteca Municipal Ignacio Merino - MML\n2022\nPeríodo Jun 2021 - Jul 2022\nTuristas Extranjeros\n172\nPinacoteca Municipal Ignacio Merino - MML\n2022\nPeríodo Jun 2021 - Jul 2022"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nLima/Lima/Lima\n-\nLima/Lima/Lima\nPlaza Mayor de Lima - Jr. de la Unión - Plaza San Martín - Plaza Francia - Pinacoteca Municipal Ignacio Merino\nTerrestre\nA pie\nAsfaltado\n1.6 km / 20 min.\n2\nLima/Lima/Lima\n-\nLima/Lima/Lima\nPlaza Mayor de Lima - Jr. Conde de Superunda - Jr. Camaná - Plaza Francia - Pinacoteca Ignacio Municipal Ignacio Merino\nTerrestre\nAutomóvil particular\nAsfaltado\n1.5 Km. / 8 Min."
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nSemi-restringido(previo permiso)\nPrevia inscripción al teléfono (01) 632-1539 o al correo electrónico pinacoteca@munlima.gob.pe"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n10:00 a.m.\n-\n06:00 p.m.\nMartes a domingo de 10 am a 1 pm y de 2 pm a 6 pm, recorridos guiados cada hora"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nEstudios e Investigación\n--\nOtros\nRealización de eventos\nEventos artísticos y culturales\nCultura y Folclore\nApreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nOtros Servicios Turísticos\nOtros (Especificar)\nServicio gratuito de Mediadores Culturales en español e inglés"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nServicios Públicos\nEstacionamiento de vehículos\nEstacionamiento para vehículos de transporte turístico. Distrito de Lima\nServicios Públicos\nSeñales turísticas de orientación\nDistrito de Lima\nServicios Públicos\nSeñales turísticas de interpretación\nDistrito de Lima\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\nDistrito de Lima\nServicios Públicos\nCentros de interpretación\nCentro de Interpretación del Centro Histórico de Lima. Distrito de Lima\nServicios Públicos\nOficina de Información turística\nDistrito de Lima\nServicios Públicos\nPuesto de auxilio rápido\nDistrito de Lima\nServicios Públicos\nMuseo de Sitio Turísticos\nDistrito de Lima\nAlojamiento\nHoteles (especificar categorías)\nHoteles de 1, 2, 3 y 5 estrellas. Distrito de Lima\nAlojamiento\nHostales (especificar categorías)\nHostales de 1, 2 y 3 estrellas. Distrito de Lima\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nDistrito de Lima\nAlimentación\nRestaurantes\nDistrito de Lima\nAlimentación\nBares\nDistrito de Lima\nAlimentación\nCafeterías\nDistrito de Lima\nAlimentación\nFuentes de soda\nDistrito de Lima\nAlimentación\nKioskos de comida y bebidas\nDistrito de Lima\nAlimentación\nVenta de comida Rápida\nDistrito de Lima\nAlimentación\nOtros (Especificar)\nPlazuelas Gastronómicas en Plaza Italia, Plazuela Las Limeñitas y Alameda Chabuca Granda. Distrito de Lima\nOtros Servicios Turísticos\nVenta de artesanía\nDistrito de Lima\nOtros Servicios Turísticos\nAgencia de Viajes\nDistrito de Lima\nOtros Servicios Turísticos\nAlquiler de carruajes\nDistrito de Lima\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nIdiomas español, inglés, francés, portugués e italiano. Distrito de Lima\nLugares de Recreación\nDiscotecas\nDistrito de Lima\nLugares de Recreación\nPeñas\nDistrito de Lima\nLugares de Recreación\nCines o Teatros\nDistrito de Lima\nLugares de Recreación\nJuegos Infantiles\nDistrito de Lima\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nDistrito de Lima\nLugares de Recreación\nCentros Deportivos\nDistrito de Lima\nLugares de Recreación\nKaraoke\nDistrito de Lima\nLugares de Recreación\nBares\nDistrito de Lima"
+    },
+    {
+      "titulo": "Servicios Complementarios dentro del recurso",
+      "contenido": "Servicio Complementario\nObservación\nServicios de internet\n--\nCentro de salud - tópico\n--\nSeguridad / POLTUR / Comisaría\n--"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nDistrito de Lima\nBancos\nDistrito de Lima\nCajero automático\nDistrito de Lima\nCasa de cambio\nDistrito de Lima\nEstación de servicios, grifos, gasolineras y gasocentros\nDistrito de Lima\nServicio de correos\nDistrito de Lima\nServicio de estacionamiento\nDistrito de Lima\nServicios de taxis\nDistrito de Lima\nCentro de salud - tópico\nDistrito de Lima\nVenta de materiales para fotografías\nDistrito de Lima\nSeguridad / POLTUR / Comisaría\nDistrito de Lima\nAlquiler y compra de equipos deportivos\nDistrito de Lima\nLibrerías\nDistrito de Lima\nBodegas o minimarkets\nDistrito de Lima"
+    },
+    {
+      "titulo": "Condiciones de Accesibilidad al Visitante",
+      "contenido": "Visitante\nInstalación\nActividades y/o programas\nEquipamiento\nObservación\nPersonas con discapacidad física\nrampas, ascensor y servicios higiénicos\n--\n--\n--\nPersonas con discapacidad intelectual\n--\nVisitas mediadas sensoriales\n--\n--\nNiños\n--\nTalleres artísticos y cuentacuentos lúdicos\n--\n--\nJóvenes\n--\nTalleres artísticos y visitas temáticas especiales\n--\n--\nAdulto mayor\n--\nVisitas temáticas especiales\n--\n--"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\n--\nLuz (Suministro Eléctrico)\n--\nAlcantarillado sanitario\n--\nTeléfono\n--\nSeñalización turística\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nDistrito de Lima\nAlcantarillado sanitario\nDistrito de Lima\nLuz (Suministro Eléctrico)\nDistrito de Lima\nTeléfono\nDistrito de Lima"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nMunicipalidad Metropolitana de Lima\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nPartida Registral\nNúmero de Partida:\n11014466\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nMML-Gerencia de Cultura-Subgerencia de Patrimonio Cultural, Artes Visuales, Museos y Biblioteca\nTiempo de administración\nDesde el año 2021"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nMunicipalidad Metropolitana de Lima - Subgerencia de Turismo\nNombre (Persona(s) responsable(s) del inventario turístico):\nAlex Reaño Torres\nCargo:\nEspecialista en Turismo\nCorreo:\nalexreanotorres@gmail.com\nTeléfono:\n01-6321806\nFuentes Bibliográfica:\n• Arias, T. y Contreras, D. (2019). Solo para curiosos: origen de los museos en el Perú. Munilibro 19. Lima: Municipalidad Metropolitana de Lima.\n• Buntinx, G. y Wuffarden, L. (2005). Pinacoteca Municipal Ignacio Merino. LXXX Aniversario / 1925-2005. Lima: Edilibros.\n• Kusunoki, R. (2018). Ignacio Merino. Pintor de historia. 200 años. Munilibro 9. Lima: Municipalidad Metropolitana de Lima\n• Stastny, F. (2007). Acuarelas de Pancho Fierro y seguidores: colección Ricardo Palma. Lima: Edilibros.\nMaterial Audiovisual actual del Recurso:\nFOTO, VIDEOS\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\nReinaugurado por la Municipalidad de Lima el 16 de abril de 2021, dentro del restaurado inmueble monumental Hospicio Bartolomé Manrique.\nFecha:\n4/08/2024 19:46:29"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -12.045231753689528,
+    "longitud": -77.03116482209015
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-12.045231753689528,-77.03116482209015"
+}

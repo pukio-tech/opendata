@@ -1,0 +1,400 @@
+{
+  "cod_ficha": 4606,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=4606",
+  "nombre": "Pueblo Tradicional San José",
+  "departamento": "Arequipa",
+  "provincia": "Camana",
+  "distrito": "MARISCAL CÁCERES",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Pueblos",
+  "subtipo": "Tradicionales",
+  "jerarquia": "1",
+  "altitud": "15 m.s.n.m",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=291175",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=291175",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=600218",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=600219",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=600220",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=600265"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Cultura y Folclore - Actividades Religiosas o Patronales",
+    "Otros - Actividades Culturales",
+    "Otros - Estudios e Investigación",
+    "Otros - Realización de eventos",
+    "Naturaleza - Observación de paisaje",
+    "Cultura y Folclore - Degustación y preparación de platos, productos o bebidas típicas",
+    "Cultura y Folclore - Ferias",
+    "Otros - Compra de productos regionales"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Actividades Religiosas o Patronales",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/act_religiosas02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Actividades Culturales",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/act_culturales02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Realización de eventos",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/eventos02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Degustación y preparación de platos, productos o bebidas típicas",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/platos_tipicos02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Ferias",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/feria02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Compra de productos regionales",
+      "observacion": "--",
+      "icono_url": null
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Arequipa/Arequipa/Jacobo Hunter - Arequipa/Camaná/Camaná",
+      "detalle": "Terminal terrestre de Arequipa - Terminal buses, minivan Camaná (Av. Lima)",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "175km/ 3 hrs."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Arequipa/Camaná/Camaná - Arequipa/Camaná/Camaná",
+      "detalle": "Terminal buses, minivan Camaná (Av. Lima) – Paradero de Taxis (Jr. San Martín)",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Combi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "0.2 km. / 5 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Arequipa/Camaná/Camaná - Arequipa/Camaná/Mariscal Cáceres",
+      "detalle": "Paradero de Taxis (Jr. San Martín) - Paradero de Taxis (Plaza principal del pueblo tradicional San José)",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Combi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "3 Km./ 8 min."
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "540",
+      "horario": "Oficio Nro 128-2025- GDE- MPC",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "5580",
+      "horario": "Oficio Nro 128-2025- GDE- MPC",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "06:00 a.m. - 06:00 p.m. --",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "3 estrellas en la ciudad Camaná"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "1 y 2 estrellas en la ciudad de Camaná"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "En la ciudad de Camaná"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "En la ciudad de Camaná"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "En la ciudad de Camaná"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "En la ciudad de Camaná"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "En la ciudad de Camaná"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "En la ciudad de Camaná"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "En la ciudad de Camaná"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "En la ciudad de Camaná"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "En la ciudad de Camaná"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "En la ciudad de Camaná"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "En la ciudad de Camaná"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "En la ciudad de Camaná"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "En la ciudad de Camaná"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "En la ciudad de Camaná"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "En la ciudad de Camaná"
+    }
+  ],
+  "descripcion": "Lleva el nombre de su patrón San José esposo de la Virgen María, siendo su festividad el 19 de marzo de cada año; actualmente es la capital del Distrito Mariscal Cáceres, que fue creado políticamente el 03 de noviembre de 1944, mediante la Ley 9999, impulsado por el diputado por Camaná, Don Gustavo Gorriti y es uno de los primeros pueblos tradicionales de la Provincia de Camaná inmediatos a la costa y su anterior denominación fue Pueblo de Boca de Río. Es un pueblo que mantiene las tradiciones y costumbres de la provincia de Camaná, por sus: Casonas a base de caña brava y barro con techo mojinete de dos aguas que han permanecido durante 100 años, cuenta con una iglesia que en su interior está revestida con pan de oro, siendo el lugar de concentración de todos los actos litúrgicos. La producción agrícola del pueblo tradicional en su mayoría es el arroz y frejol canario.\nEn el Pueblo Tradicional San José se conservan tradiciones y costumbres muy arraigadas de los hombres camanejos de antaño, ello nos hace recordar aquellos pobladores camanejos por su, forma de hablar con el acento al latín; también se tiene una gran tradición en temporada de carnavales, como es la festividad tradicional costumbrista de los Huachanacos, reconocida a nivel nacional por los pobladores que radican en el interior del país y otros que se encuentran en el extranjero, son décimas improvisadas que se recitan de bando a bando en un duelo de careo, con el baile de las viudas y lecturas de testamento entre el Pueblo Tradicional San José y Pueblo Tradicional Chule, en honor al Ño Carnavalon y en esta celebración se sirven platos y dulces típicos del distrito como: alfajores, oquendos, bizcochos, amasijos, siendo el más representativo el pato arrocotado, entre otros; evento que se realiza todos los miércoles de ceniza según el calendario, puede ser en el mes de febrero o marzo cada año. Como todo pueblo lleno de tradiciones religiosas, el 15 de agosto se viste de gala, por celebrar la festividad de la Virgen de la Asunta y todos los actos conmemorativos se realizan en el Pueblo Tradicional San José, lo más resaltante es que se anuncia la festividad con la tradicional entrada de capos con la participación de pobladores que en crían caballos y reventazón de troya; también, se realizan misas, bautizos, procesiones, presentación de números artísticos, se venden platos típicos a base de camarón, frejol, arroz, entre otros; se organizan peleas de gallos de pico y navaja; lo recaudado de las actividades es para las mejoras de la iglesia.\nDesde el mes de octubre se realizan actividades relacionadas al aniversario del distrito Mariscal Cáceres y como el Pueblo Tradicional San José es la capital, se convierte en el punto principal y de concentración de todas las actividades programadas, teniendo una que es muy resaltante, es el Multideportes Escorpión, que consiste en una serie de competencias como son: carrera de 100 kilos, carrera de mujeres, carrera de bicicletas montañera, carrera de bicicletas de carrera, carrera de motos, competencia de natación que consiste en cruzar el río, carrera de fondistas, entregando a los participantes premios y trofeos en cada edición.\nEs la capital de los carnavales en la provincia de Camaná, por la organización de la Fiesta Tradicional Costumbrista de los Huachanacos, que ha sido declarada mediante Acuerdo Regional Nº 030-2025-GRA/CR-AREQUIPA como evento de interés turístico regional por el Consejo Regional de Arequipa",
+  "particularidades": "",
+  "estado_actual": "El estado actual del Pueblo Tradicional San José, es bueno, aún conservan el material de las casonas tradicionales, debido al mantenimiento permanente que le brindan sus habitantes lo que hace la diferencia entre otras poblaciones con similares características. El mantenimiento está a cargo de la Municipalidad Distrital de Mariscal Cáceres.",
+  "observaciones": "Se encuentra en la Provincia de Camaná, y es la Capital del Distrito Mariscal Cáceres. Sus casonas y gastronomía se encuentran en el marco de Declaratorio como Patrimonio Cultural de la Provincia de Camaná",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Lleva el nombre de su patrón San José esposo de la Virgen María, siendo su festividad el 19 de marzo de cada año; actualmente es la capital del Distrito Mariscal Cáceres, que fue creado políticamente el 03 de noviembre de 1944, mediante la Ley 9999, impulsado por el diputado por Camaná, Don Gustavo Gorriti y es uno de los primeros pueblos tradicionales de la Provincia de Camaná inmediatos a la costa y su anterior denominación fue Pueblo de Boca de Río. Es un pueblo que mantiene las tradiciones y costumbres de la provincia de Camaná, por sus: Casonas a base de caña brava y barro con techo mojinete de dos aguas que han permanecido durante 100 años, cuenta con una iglesia que en su interior está revestida con pan de oro, siendo el lugar de concentración de todos los actos litúrgicos. La producción agrícola del pueblo tradicional en su mayoría es el arroz y frejol canario.\nEn el Pueblo Tradicional San José se conservan tradiciones y costumbres muy arraigadas de los hombres camanejos de antaño, ello nos hace recordar aquellos pobladores camanejos por su, forma de hablar con el acento al latín; también se tiene una gran tradición en temporada de carnavales, como es la festividad tradicional costumbrista de los Huachanacos, reconocida a nivel nacional por los pobladores que radican en el interior del país y otros que se encuentran en el extranjero, son décimas improvisadas que se recitan de bando a bando en un duelo de careo, con el baile de las viudas y lecturas de testamento entre el Pueblo Tradicional San José y Pueblo Tradicional Chule, en honor al Ño Carnavalon y en esta celebración se sirven platos y dulces típicos del distrito como: alfajores, oquendos, bizcochos, amasijos, siendo el más representativo el pato arrocotado, entre otros; evento que se realiza todos los miércoles de ceniza según el calendario, puede ser en el mes de febrero o marzo cada año. Como todo pueblo lleno de tradiciones religiosas, el 15 de agosto se viste de gala, por celebrar la festividad de la Virgen de la Asunta y todos los actos conmemorativos se realizan en el Pueblo Tradicional San José, lo más resaltante es que se anuncia la festividad con la tradicional entrada de capos con la participación de pobladores que en crían caballos y reventazón de troya; también, se realizan misas, bautizos, procesiones, presentación de números artísticos, se venden platos típicos a base de camarón, frejol, arroz, entre otros; se organizan peleas de gallos de pico y navaja; lo recaudado de las actividades es para las mejoras de la iglesia.\nDesde el mes de octubre se realizan actividades relacionadas al aniversario del distrito Mariscal Cáceres y como el Pueblo Tradicional San José es la capital, se convierte en el punto principal y de concentración de todas las actividades programadas, teniendo una que es muy resaltante, es el Multideportes Escorpión, que consiste en una serie de competencias como son: carrera de 100 kilos, carrera de mujeres, carrera de bicicletas montañera, carrera de bicicletas de carrera, carrera de motos, competencia de natación que consiste en cruzar el río, carrera de fondistas, entregando a los participantes premios y trofeos en cada edición.\nEs la capital de los carnavales en la provincia de Camaná, por la organización de la Fiesta Tradicional Costumbrista de los Huachanacos, que ha sido declarada mediante Acuerdo Regional Nº 030-2025-GRA/CR-AREQUIPA como evento de interés turístico regional por el Consejo Regional de Arequipa"
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "El estado actual del Pueblo Tradicional San José, es bueno, aún conservan el material de las casonas tradicionales, debido al mantenimiento permanente que le brindan sus habitantes lo que hace la diferencia entre otras poblaciones con similares características. El mantenimiento está a cargo de la Municipalidad Distrital de Mariscal Cáceres."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "Se encuentra en la Provincia de Camaná, y es la Capital del Distrito Mariscal Cáceres. Sus casonas y gastronomía se encuentran en el marco de Declaratorio como Patrimonio Cultural de la Provincia de Camaná"
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Nacionales\n540\nOficio Nro 128-2025- GDE- MPC\n2025\nProyección Anual en base al conteo muestral\nVisitantes Locales(Excursionistas)\n5580\nOficio Nro 128-2025- GDE- MPC\n2025\nProyección en base al conteo muestral"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nArequipa/Arequipa/Jacobo Hunter\n-\nArequipa/Camaná/Camaná\nTerminal terrestre de Arequipa - Terminal buses, minivan Camaná (Av. Lima)\nTerrestre\nBus público\nAsfaltado\n175km/ 3 hrs.\n1\nArequipa/Camaná/Camaná\n-\nArequipa/Camaná/Camaná\nTerminal buses, minivan Camaná (Av. Lima) – Paradero de Taxis (Jr. San Martín)\nTerrestre\nCombi\nAsfaltado\n0.2 km. / 5 min.\n1\nArequipa/Camaná/Camaná\n-\nArequipa/Camaná/Mariscal Cáceres\nParadero de Taxis (Jr. San Martín) - Paradero de Taxis (Plaza principal del pueblo tradicional San José)\nTerrestre\nCombi\nAsfaltado\n3 Km./ 8 min."
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n06:00 a.m.\n-\n06:00 p.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nCultura y Folclore\nActividades Religiosas o Patronales\n--\nOtros\nActividades Culturales\n--\nOtros\nEstudios e Investigación\n--\nOtros\nRealización de eventos\n--\nNaturaleza\nObservación de paisaje\n--\nCultura y Folclore\nDegustación y preparación de platos, productos o bebidas típicas\n--\nCultura y Folclore\nFerias\n--\nOtros\nCompra de productos regionales\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nAlimentación\nKioskos de comida y bebidas\n--\nInstalaciones Privadas\nAlimentación\nRestaurantes\n--\nInstalaciones Privadas\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\n--\nInstalaciones Privadas\nLugares de Recreación\nKaraoke\n--\nInstalaciones Privadas\nLugares de Recreación\nJuegos Infantiles\n--\nInstalaciones Privadas\nLugares de Recreación\nCentros Deportivos\n--\nInstalaciones Públicas\nServicios Públicos\nEstacionamiento de vehículos\n--\nInstalaciones Públicas\nServicios Públicos\nSeñales turísticas de orientación\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\n3 estrellas en la ciudad Camaná\nAlojamiento\nHostales (especificar categorías)\n1 y 2 estrellas en la ciudad de Camaná\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nEn la ciudad de Camaná\nAlimentación\nRestaurantes\nEn la ciudad de Camaná\nAlimentación\nKioskos de comida y bebidas\nEn la ciudad de Camaná\nAlimentación\nKioskos de comida y bebidas\nEn la ciudad de Camaná\nAlimentación\nVenta de comida Rápida\nEn la ciudad de Camaná\nLugares de Recreación\nDiscotecas\nEn la ciudad de Camaná\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nEn la ciudad de Camaná\nLugares de Recreación\nJuegos Infantiles\nEn la ciudad de Camaná\nOtros Servicios Turísticos\nAgencia de Viajes\nEn la ciudad de Camaná\nOtros Servicios Turísticos\nVenta de artesanía\nEn la ciudad de Camaná\nLugares de Recreación\nDiscotecas\nEn la ciudad de Camaná\nLugares de Recreación\nKaraoke\nEn la ciudad de Camaná\nAlimentación\nCafeterías\nEn la ciudad de Camaná\nServicios Públicos\nEstacionamiento de vehículos\nEn la ciudad de Camaná\nServicios Públicos\nOficina de Información turística\nEn la ciudad de Camaná"
+    },
+    {
+      "titulo": "Servicios Complementarios dentro del recurso",
+      "contenido": "Servicio Complementario\nObservación\nServicios de internet\n--\nServicio de estacionamiento\n--\nServicios de taxis\n--\nCentro de salud - tópico\n--\nSeguridad / POLTUR / Comisaría\n--\nLibrerías\n--\nBodegas o minimarkets\n--"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nEn la ciudad de Camaná\nBancos\nEn la ciudad de Camaná\nCasa de cambio\nEn la ciudad de Camaná\nCajero automático\nEn la ciudad de Camaná\nEstación de servicios, grifos, gasolineras y gasocentros\nEn la ciudad de Camaná\nServicio de correos\nEn la ciudad de Camaná\nServicio de estacionamiento\nEn la ciudad de Camaná\nServicios de taxis\nEn la ciudad de Camaná\nCentro de salud - tópico\nEn la ciudad de Camaná\nVenta de materiales para fotografías\nEn la ciudad de Camaná\nSeguridad / POLTUR / Comisaría\nEn la ciudad de Camaná\nAlquiler y compra de equipos deportivos\nEn la ciudad de Camaná\nLibrerías\nEn la ciudad de Camaná\nBodegas o minimarkets\nEn la ciudad de Camaná"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\n--\nAlcantarillado sanitario\n--\nLuz (Suministro Eléctrico)\n--\nTeléfono\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nEn la ciudad de Camaná\nLuz (Suministro Eléctrico)\nEn la ciudad de Camaná\nTeléfono\nEn la ciudad de Camaná\nSeñalización turística\nEn la ciudad de Camaná\nAlcantarillado sanitario\nEn la ciudad de Camaná"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nEstado Peruano\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nLey Nº 9999 del 03 de noviembre de 1944 – Ley de creación de los Distritos de la Provincia de Camaná (Distrito Mariscal Cáceres).\nAdministrador por\nNombre\nMunicipalidad Distrital de Mariscal Cáceres\nTiempo de administración\nDesde el año 1944"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nGerencia Regional de Comercio Exterior y Turismo de Arequipa\nNombre (Persona(s) responsable(s) del inventario turístico):\nLic. Claudia Barrios Cacya\nCargo:\nSubgerente de Turismo\nCorreo:\ncbarrios@correo.regionarequipa.gob.pe\nTeléfono:\n988099750\nFuentes Bibliográfica:\nMONOGRAFÍA DE LA PROVINCIA DE CAMANÁ, José María Morante, Arequipa. 1965.\nEL MUNDO HISPANOPERUANO 1532-1560 - James Lockhart, Perú. 1982.\nHISTORIA GENERAL DE AREQUIPA - Máximo Neira, Guillermo Galdós, Alejandro Málaga, Eusebio Quiróz, Juan Carpio, Arequipa. 1990.\nPLAN DE DESARROLLO ESTRATEGICO CONCERTADO DEL DISTRITO DE MARISCAL CACERES 2009– 2020, Municipalidad Distrital de Mariscal Cáceres. 2009.\nMaterial Audiovisual actual del Recurso:\n--\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n14/05/2025 08:28:39"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -16.61964299999997,
+    "longitud": -72.73597853372956
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-16.61964299999997,-72.73597853372956"
+}

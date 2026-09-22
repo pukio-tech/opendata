@@ -1,0 +1,273 @@
+{
+  "cod_ficha": 810,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=810",
+  "nombre": "Playa Zorritos",
+  "departamento": "Tumbes",
+  "provincia": "Contralmirante Villar",
+  "distrito": "ZORRITOS",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "l. Costas",
+  "subtipo": "Playas",
+  "jerarquia": "3",
+  "altitud": "4.00",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=431137",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=431137",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=431138",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=433715",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=460169",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=631339",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=631393",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=631340"
+  ],
+  "actividades_permitidas": [
+    "Deportes acuáticos - Natación",
+    "Naturaleza - Observación de fauna",
+    "Naturaleza - Observación de paisaje",
+    "Deportes / Aventura - Camping",
+    "Paseos - Paseos en bote"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Deportes acuáticos",
+      "tipo": "Natación",
+      "observacion": "Ciudad de Zorritos.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/natacion02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de fauna",
+      "observacion": "Avistamiento de ballena jorobada en el mes de julio.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fauna02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "Observación del Sunset.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Camping",
+      "observacion": "Ciudad de Zorritos, llevar sus implementos para realizar la actividad.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/camping02.png"
+    },
+    {
+      "actividad": "Paseos",
+      "tipo": "Paseos en bote",
+      "observacion": "Ciudad de Zorritos.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paseo_bote02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Tumbes/Tumbes/Tumbes - Tumbes/Contralmirante Villar/Zorritos",
+      "detalle": "Plaza Mayor de la Ciudad de Tumbes - Playa Zorritos.",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Taxi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "27 Km / 35 Minutos"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "1675",
+      "horario": "Reporte de Asociación de Agencia de Viajes y Turismo - ADAVIT.",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "5437",
+      "horario": "Reporte de Asociación de Agencia de Viajes y Turismo - ADAVIT.",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "4321",
+      "horario": "Reporte de Asociación de Agencia de Viajes y Turismo - ADAVIT.",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "07:00 a.m. - 06:30 p.m. --",
+      "observaciones": "--"
+    },
+    {
+      "epoca": "Personas con discapacidad física",
+      "especificacion": "--",
+      "horario": "--",
+      "observaciones": "Sillas anfibias"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Zorritos."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "Hostal de 3 estrellas en la Ciudad de Zorritos."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "Hoteles de 3 y 4 estrellas en la Ciudad de Zorritos."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Zorritos."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Zorritos."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Zorritos."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Zorritos."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Ciudad de Zorritos."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Zorritos."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Zorritos."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de Zorritos."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de botes",
+      "observacion": "Ciudad de Zorritos."
+    }
+  ],
+  "descripcion": "Playa Zorritos se encuentra en el distrito de Zorritos, provincia de Contralmirante Villar, departamento de Tumbes. Está situada a 27 km al sur de la ciudad de Tumbes, a lo largo de la carretera Panamericana Norte, con una altitud promedio de 4 m s. n. m. Pertenece a la ecorregión Chala o Costa, caracterizada por un relieve plano con ligeras ondulaciones y la presencia de pequeñas quebradas temporales (entre 8 y 9).\nEl clima de la zona es subtropical, con temperatura promedio anual de 25° C y la temperatura del agua promedia a 19°C. La flora que circunda al recurso son especies típicas de bosque seco semidesértico, como el charán, hualtaco, algarrobo y herbazales efímeros que se activan a consecuencia de las lluvias de temporada. Lo que destaca en la fauna es el zorro norteño, huanchaco, puma; y aves como la zoña, negro.\nLa orilla presenta arena fina y aguas tranquilas libres de contaminación que permiten disfrutar del lugar durante todo el año. Asimismo, es una playa muy rica en especies ictiológicas (Robalo, lenguado, corvina, peje blanco).\nZorritos es uno de los balnearios más emblemáticos del norte peruano por su ambiente tranquilo y paisajístico, lo que lo convierte en un lugar ideal para el descanso y la contemplación. Los visitantes pueden realizar paseos a pie por la orilla, baños recreativos, observación de atardeceres, y disfrutar de la gastronomía marina local en los establecimientos cercanos.\nEl entorno ofrece una experiencia de relajación y contacto directo con la naturaleza, destacando los espectaculares atardeceres que tiñen el cielo de tonos dorados y anaranjados, generando un atractivo visual apreciado por turistas nacionales y extranjeros.",
+  "particularidades": "Posee la particularidad de poseer dentro del recurso el primer pozo petrolero en Sudamérica y el segundo en el mundo, según la ORDENANZA REGIONAL Nº011-2009.",
+  "estado_actual": "Se encuentra en buen estado, debido al mantenimiento realizado por la Municipalidad Provincial de Contralmirante Villar y los prestadores de servicios turísticos.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Playa Zorritos se encuentra en el distrito de Zorritos, provincia de Contralmirante Villar, departamento de Tumbes. Está situada a 27 km al sur de la ciudad de Tumbes, a lo largo de la carretera Panamericana Norte, con una altitud promedio de 4 m s. n. m. Pertenece a la ecorregión Chala o Costa, caracterizada por un relieve plano con ligeras ondulaciones y la presencia de pequeñas quebradas temporales (entre 8 y 9).\nEl clima de la zona es subtropical, con temperatura promedio anual de 25° C y la temperatura del agua promedia a 19°C. La flora que circunda al recurso son especies típicas de bosque seco semidesértico, como el charán, hualtaco, algarrobo y herbazales efímeros que se activan a consecuencia de las lluvias de temporada. Lo que destaca en la fauna es el zorro norteño, huanchaco, puma; y aves como la zoña, negro.\nLa orilla presenta arena fina y aguas tranquilas libres de contaminación que permiten disfrutar del lugar durante todo el año. Asimismo, es una playa muy rica en especies ictiológicas (Robalo, lenguado, corvina, peje blanco).\nZorritos es uno de los balnearios más emblemáticos del norte peruano por su ambiente tranquilo y paisajístico, lo que lo convierte en un lugar ideal para el descanso y la contemplación. Los visitantes pueden realizar paseos a pie por la orilla, baños recreativos, observación de atardeceres, y disfrutar de la gastronomía marina local en los establecimientos cercanos.\nEl entorno ofrece una experiencia de relajación y contacto directo con la naturaleza, destacando los espectaculares atardeceres que tiñen el cielo de tonos dorados y anaranjados, generando un atractivo visual apreciado por turistas nacionales y extranjeros."
+    },
+    {
+      "titulo": "Particularidades",
+      "contenido": "Posee la particularidad de poseer dentro del recurso el primer pozo petrolero en Sudamérica y el segundo en el mundo, según la ORDENANZA REGIONAL Nº011-2009."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "1. Mediante ORDENANZA REGIONAL Nº 012-2022/GOB.REG.TUMBES-CR-CD, declara a “Playa Zorritos” dentro de las Zonas de Desarrollo Turístico Prioritario Tumbes: Playas, Bosques y Manglares en el Departamento de Tumbes en el Marco del Proceso de Zonificación Ecológica Económica y Ordenamiento Territorial.\n2. La Dirección Regional de Comercio Exterior y Turismo, a través de la RESOLUCIÓN DIRECTORAL REGIONAL N°019-2025-GOB.REG.TUMBES-DIRCETUR-DR, declara de interés regional y Reconoce a “Playa Zorritos”"
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Se encuentra en buen estado, debido al mantenimiento realizado por la Municipalidad Provincial de Contralmirante Villar y los prestadores de servicios turísticos."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n1675\nReporte de Asociación de Agencia de Viajes y Turismo - ADAVIT.\n2024\nDocumento validado por Dircetur Tumbes y la Municipalidad Provincial de Contralmirante Villar.\nTuristas Nacionales\n5437\nReporte de Asociación de Agencia de Viajes y Turismo - ADAVIT.\n2024\nDocumento validado por Dircetur Tumbes y la Municipalidad Provincial de Contralmirante Villar.\nVisitantes Locales(Excursionistas)\n4321\nReporte de Asociación de Agencia de Viajes y Turismo - ADAVIT.\n2024\nDocumento validado por Dircetur Tumbes y la Municipalidad Provincial de Contralmirante Villar."
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nTumbes/Tumbes/Tumbes\n-\nTumbes/Contralmirante Villar/Zorritos\nPlaza Mayor de la Ciudad de Tumbes - Playa Zorritos.\nTerrestre\nTaxi\nAsfaltado\n27 Km / 35 Minutos"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n07:00 a.m.\n-\n06:30 p.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nDeportes acuáticos\nNatación\nCiudad de Zorritos.\nNaturaleza\nObservación de fauna\nAvistamiento de ballena jorobada en el mes de julio.\nNaturaleza\nObservación de paisaje\nObservación del Sunset.\nDeportes / Aventura\nCamping\nCiudad de Zorritos, llevar sus implementos para realizar la actividad.\nPaseos\nPaseos en bote\nCiudad de Zorritos."
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Zorritos.\nAlojamiento\nHostales (especificar categorías)\nHostal de 3 estrellas en la Ciudad de Zorritos.\nAlojamiento\nHoteles (especificar categorías)\nHoteles de 3 y 4 estrellas en la Ciudad de Zorritos.\nAlimentación\nRestaurantes\nCiudad de Zorritos.\nAlimentación\nBares\nCiudad de Zorritos.\nAlimentación\nCafeterías\nCiudad de Zorritos.\nAlimentación\nKioskos de comida y bebidas\nCiudad de Zorritos.\nAlimentación\nFuentes de soda\nCiudad de Zorritos.\nLugares de Recreación\nDiscotecas\nCiudad de Zorritos.\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Zorritos.\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de Zorritos.\nOtros Servicios Turísticos\nAlquiler de botes\nCiudad de Zorritos."
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de salvavidas\nCiudad de Zorritos - Solo en la estación de verano\nBancos\nCiudad de Zorritos - Banco de la Nación, Caja Piura y Caja Sullana.\nServicios de internet\nCiudad de Zorritos.\nCajero automático\nCiudad de Zorritos.\nCasa de cambio\nCiudad de Zorritos.\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Zorritos.\nServicios de taxis\nCiudad de Zorritos.\nCentro de salud - tópico\nCiudad de Zorritos.\nSeguridad / POLTUR / Comisaría\nCiudad de Zorritos.\nBodegas o minimarkets\nCiudad de Zorritos.\nLibrerías\nCiudad de Zorritos.\nAlquiler y compra de equipos deportivos\nCiudad de Zorritos."
+    },
+    {
+      "titulo": "Condiciones de Accesibilidad al Visitante",
+      "contenido": "Visitante\nInstalación\nActividades y/o programas\nEquipamiento\nObservación\nPersonas con discapacidad física\n--\n--\nSillas anfibias\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Zorritos.\nLuz (Suministro Eléctrico)\nCiudad de Zorritos.\nSeñalización turística\nCiudad de Zorritos.\nTeléfono\nCiudad de Zorritos.\nAlcantarillado sanitario\nCiudad de Zorritos."
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nEstado Peruano\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nLey de Playas N° 26856 D.S. N° 050-2006-EF\nAdministrador por\nNombre\nMunicipalidad Provincial Contralmirante Villar-Zorritos\nTiempo de administración\nDesde el año 1942."
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo de Tumbes.\nNombre (Persona(s) responsable(s) del inventario turístico):\nWilmer Rigoberto Seminario Gonzalez\nCargo:\nDirector de Turismo (e)\nCorreo:\nwilmerseminariog@gmail.com\nTeléfono:\n996274586\nFuentes Bibliográfica:\n1. “Balneario de Zorritos: un paraíso en Tumbes que te brinda una experiencia de bienestar total” (2024) / Recuperado de: https://www.ytuqueplanes.com/blog-viajero/tumbes/balneario-de-zorritos-un-paraiso-en-tumbes-que-te-brinda-una-experiencia-de-bienestar-total\n2.“Reseña Histórica” / Recuperado de: https://municvz.gob.pe/ciudad/resena-historica.html\n3. “Reseña Histórica de la Exploración por Petróleo en las Cuencas Costeras del Perú” / Boletín de la Sociedad Geológica del Perú, v. 112, p. 001-013 (2017) / Recuperado de: https://app.ingemmet.gob.pe/biblioteca/pdf/BSGP-112-1.pdf\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n30/10/2025 08:28:53"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -3.6781081347622644,
+    "longitud": -80.67593206745909
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-3.6781081347622644,-80.67593206745909"
+}

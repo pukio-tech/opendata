@@ -1,0 +1,277 @@
+{
+  "cod_ficha": 718,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=718",
+  "nombre": "Collpa Colorado",
+  "departamento": "Madre De Dios",
+  "provincia": "Tambopata",
+  "distrito": "TAMBOPATA",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "o. Otros",
+  "subtipo": "Collpas",
+  "jerarquia": "2",
+  "altitud": "260",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=291985",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=291985",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=291986",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=291987",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=504493",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=504532"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Estudios e Investigación",
+    "Naturaleza - Observación de fauna",
+    "Naturaleza - Observación de aves"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de fauna",
+      "observacion": "Sachavacas, Ronsocos, Ardillas, Coto Mono, Capuchino y Maquisapas",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fauna02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de aves",
+      "observacion": "Pericos de cabeza oscura, loros de cabeza azul, loros de mejillas naranjas, Guacamayos azul y amarillo, Guacamayo Escarlata, Guacamayo rojo y verde, Guacamayo de cabeza azul y Guacamayo de cabeza",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/aves02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Madre De Dios/Tambopata/Tambopata - Madre De Dios/Tambopata/Tambopata",
+      "detalle": "Plaza de Armas de Puerto Maldonado - Centro Poblado La Joya",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mini bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "4.7 km / 12 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Madre De Dios/Tambopata/Tambopata - Madre De Dios/Tambopata/Tambopata",
+      "detalle": "Centro Poblado La Joya - Comunidad Nativa Infierno",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mini bus turístico",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "17.2 km / 30 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Madre De Dios/Tambopata/Tambopata - Madre De Dios/Tambopata/Tambopata",
+      "detalle": "Comunidad Nativa de Infierno (embarcadero) - Collpa Colorado",
+      "tipo_acceso": "Lacustre / Fluvial",
+      "medio_transporte": "Bote",
+      "tipo_via": "",
+      "distancia_tiempo": "113 km / 8 horas"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "5134",
+      "horario": "Reserva Nacional Tambopata",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "1283",
+      "horario": "Reserva Nacional Tambopata",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "04:00 a.m. - 10:00 a.m. Control en los Puestos de Vigilancia de la Reserva",
+      "observaciones": "Control en los Puestos de Vigilancia de la Reserva"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "Tarifario SERNANP-RNTAMB Extranjeros: S/30.00 por día Nacionales: S/.15.00 por día Locales: S/. 8.00 por día"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Albergues",
+      "observacion": "Ciudad de Puerto Maldonado"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "1 a 3 estrellas - Ciudad de Puerto Maldonado"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Puerto Maldonado"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Puerto Maldonado"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Puerto Maldonado"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Puerto Maldonado"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Ciudad de Puerto Maldonado"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Puerto Maldonado"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "1 a 3 estrellas - Ciudad de Puerto Maldonado"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Iperú - Ciudad de Puerto Maldonado"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Ciudad de Puerto Maldonado"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de Puerto Maldonado"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Inglés, español - Ciudad de Puerto Maldonado"
+    }
+  ],
+  "descripcion": "La Collpa Colorado está ubicada en el sector Alto Tambopata, en la margen izquierda del río Tambopata, en el distrito y provincia de Tambopata, dentro de la Reserva Nacional Tambopata, a 260 m.s.n.m., en la región natural Selva Baja u Omagua. Tiene una extensión de 50 m de alto y 500 m de largo. Es considerada una de las collpas más importante por ser la más grande de la Amazonía peruana.\nLa collpa es muy conocida por la grandiosidad de su belleza. Luego de que los primeros rayos de sol golpean el acantilado cientos de loros y guacamayos de 10 o más especies llegan a posarse en los árboles cercanos. Estos arriban en pares o en bandadas, dependiendo de las especies. Luego con un aleteo y un chillido comienzan a aterrizar en el acantilado para consumir pequeñas porciones de arcilla. Generalmente las especies más pequeñas de loros (pericos de cabeza oscura, loros de cabeza azul, loros de mejillas naranjas) descienden primero, seguido por los guacamayos grandes (Guacamayos azul y amarillo, guacamayo escarlata, guacamayo rojo y verde, guacamayo de cabeza azul y el guacamayo de cabeza roja). En cualquier momento puede haber más de 500 pericos y guacamayos en la colpa.\nLuego de permanecer allí entre 25 y 30 minutos se alejan para regresar al día siguiente. Ocasionalmente, acuden también sachavacas, ronsocos y ardillas. En las copas de los árboles pueden observarse también diversas especies de monos como el coto mono, el capuchino, el tití, y en algunas oportunidades hasta maquisapas.\nUna vez que haya visitado la Collpa de Colorado al amanecer, nunca olvidará la experiencia. Dentro de las decenas de especies - entre ellas los cerdos de la selva (pecaríes) - que visitan los acantilados, las estrellas innegables son los guacamayos. Estas aves grandes y carismáticas incluyen el guacamayo rojo y verde, el guacamayo escarlata y el guacamayo azul y amarilla.",
+  "particularidades": "",
+  "estado_actual": "Bueno, porque conserva su estado natural y el SERNANP se encarga de su protección.",
+  "observaciones": "Se encuentra en la Reserva Nacional Tambopata y está ubicada en la margen izquierda del río Tambopata.\nLa llegada de las aves en bandadas hacia la colpa se puede apreciar claramente todos los días a partir de las 5:00 am.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "La Collpa Colorado está ubicada en el sector Alto Tambopata, en la margen izquierda del río Tambopata, en el distrito y provincia de Tambopata, dentro de la Reserva Nacional Tambopata, a 260 m.s.n.m., en la región natural Selva Baja u Omagua. Tiene una extensión de 50 m de alto y 500 m de largo. Es considerada una de las collpas más importante por ser la más grande de la Amazonía peruana.\nLa collpa es muy conocida por la grandiosidad de su belleza. Luego de que los primeros rayos de sol golpean el acantilado cientos de loros y guacamayos de 10 o más especies llegan a posarse en los árboles cercanos. Estos arriban en pares o en bandadas, dependiendo de las especies. Luego con un aleteo y un chillido comienzan a aterrizar en el acantilado para consumir pequeñas porciones de arcilla. Generalmente las especies más pequeñas de loros (pericos de cabeza oscura, loros de cabeza azul, loros de mejillas naranjas) descienden primero, seguido por los guacamayos grandes (Guacamayos azul y amarillo, guacamayo escarlata, guacamayo rojo y verde, guacamayo de cabeza azul y el guacamayo de cabeza roja). En cualquier momento puede haber más de 500 pericos y guacamayos en la colpa.\nLuego de permanecer allí entre 25 y 30 minutos se alejan para regresar al día siguiente. Ocasionalmente, acuden también sachavacas, ronsocos y ardillas. En las copas de los árboles pueden observarse también diversas especies de monos como el coto mono, el capuchino, el tití, y en algunas oportunidades hasta maquisapas.\nUna vez que haya visitado la Collpa de Colorado al amanecer, nunca olvidará la experiencia. Dentro de las decenas de especies - entre ellas los cerdos de la selva (pecaríes) - que visitan los acantilados, las estrellas innegables son los guacamayos. Estas aves grandes y carismáticas incluyen el guacamayo rojo y verde, el guacamayo escarlata y el guacamayo azul y amarilla."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "Recurso ubicado dentro de la Reserva Nacional Tambopata, reconocida mediante el Decreto Supremo 048-2000-AG, de fecha 05/09/2000 por el Ministerio de Agricultura"
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, porque conserva su estado natural y el SERNANP se encarga de su protección."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "Se encuentra en la Reserva Nacional Tambopata y está ubicada en la margen izquierda del río Tambopata.\nLa llegada de las aves en bandadas hacia la colpa se puede apreciar claramente todos los días a partir de las 5:00 am."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n5134\nReserva Nacional Tambopata\n2023\nFlujo de Visitantes desde enero del 2022 hasta octubre del 2023\nTuristas Nacionales\n1283\nReserva Nacional Tambopata\n2023\nFlujo de Visitantes desde enero del 2022 hasta octubre del 2023"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nMadre De Dios/Tambopata/Tambopata\n-\nMadre De Dios/Tambopata/Tambopata\nPlaza de Armas de Puerto Maldonado - Centro Poblado La Joya\nTerrestre\nMini bus público\nAsfaltado\n4.7 km / 12 min\n1\nMadre De Dios/Tambopata/Tambopata\n-\nMadre De Dios/Tambopata/Tambopata\nCentro Poblado La Joya - Comunidad Nativa Infierno\nTerrestre\nMini bus turístico\nAfirmado\n17.2 km / 30 min\n1\nMadre De Dios/Tambopata/Tambopata\n-\nMadre De Dios/Tambopata/Tambopata\nComunidad Nativa de Infierno (embarcadero) - Collpa Colorado\nLacustre / Fluvial\nBote\n113 km / 8 horas"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nTarifario SERNANP-RNTAMB Extranjeros: S/30.00 por día Nacionales: S/.15.00 por día Locales: S/. 8.00 por día"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n04:00 a.m.\n-\n10:00 a.m.\nControl en los Puestos de Vigilancia de la Reserva"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nEstudios e Investigación\n--\nNaturaleza\nObservación de fauna\nSachavacas, Ronsocos, Ardillas, Coto Mono, Capuchino y Maquisapas\nNaturaleza\nObservación de aves\nPericos de cabeza oscura, loros de cabeza azul, loros de mejillas naranjas, Guacamayos azul y amarillo, Guacamayo Escarlata, Guacamayo rojo y verde, Guacamayo de cabeza azul y Guacamayo de cabeza"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nAlbergues\nCiudad de Puerto Maldonado\nAlojamiento\nHoteles (especificar categorías)\n1 a 3 estrellas - Ciudad de Puerto Maldonado\nAlimentación\nRestaurantes\nCiudad de Puerto Maldonado\nAlimentación\nBares\nCiudad de Puerto Maldonado\nAlimentación\nKioskos de comida y bebidas\nCiudad de Puerto Maldonado\nLugares de Recreación\nDiscotecas\nCiudad de Puerto Maldonado\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nCiudad de Puerto Maldonado\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Puerto Maldonado\nAlojamiento\nHostales (especificar categorías)\n1 a 3 estrellas - Ciudad de Puerto Maldonado\nServicios Públicos\nOficina de Información turística\nIperú - Ciudad de Puerto Maldonado\nAlimentación\nFuentes de soda\nCiudad de Puerto Maldonado\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de Puerto Maldonado\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nInglés, español - Ciudad de Puerto Maldonado"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Puerto Maldonado\nBancos\nCiudad de Puerto Maldonado\nCajero automático\nCiudad de Puerto Maldonado\nCasa de cambio\nCiudad de Puerto Maldonado\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Puerto Maldonado\nServicio de correos\nCiudad de Puerto Maldonado\nServicio de estacionamiento\nCiudad de Puerto Maldonado\nServicios de taxis\nCiudad de Puerto Maldonado\nCentro de salud - tópico\nCiudad de Puerto Maldonado\nVenta de materiales para fotografías\nCiudad de Puerto Maldonado\nSeguridad / POLTUR / Comisaría\nCiudad de Puerto Maldonado\nAlquiler y compra de equipos deportivos\nCiudad de Puerto Maldonado\nLibrerías\nCiudad de Puerto Maldonado\nBodegas o minimarkets\nCiudad de Puerto Maldonado"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nSeñalización turística\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Puerto Maldonado\nLuz (Suministro Eléctrico)\nCiudad de Puerto Maldonado\nTeléfono\nCiudad de Puerto Maldonado\nAlcantarillado sanitario\nCiudad de Puerto Maldonado\nSeñalización turística\nCiudad de Puerto Maldonado\nAlcantarillado pluvial\nCiudad de Puerto Maldonado"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nEstado peruano - SERNANP\nPrivado:\n--\nOtra Situación:\nRecurso que se encuentra en la Reserva Nacional Tambopata\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nPartida\nNúmero de Partida:\n11143392\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nReserva Nacional de Tambopata\nTiempo de administración\nDesde el año 2000"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo de Madre de Dios\nNombre (Persona(s) responsable(s) del inventario turístico):\nAndy Jhunior Achín Agüero\nCargo:\nTécnico en Producto Turístico\nCorreo:\nachinaj13@gmail.com\nTeléfono:\n943730548\nFuentes Bibliográfica:\nhttps://www.ytuqueplanes.com/destinos/madre-de-dios/reserva-nacional-de-tambopata/collpa-de-guacamayos-colorado\nhttps://rainforestexpeditions.com/es/experiencias/collpa-de-guacamayos-colorado/\nhttps://candamotours.com/collpa-chuncho-collpa-colorado-y-lago-sandoval-5-dias-y-4-noches/\nhttps://www.cayman-lodge-amazonie.com/espanol/lodge-perou-colpa-colorado-chuncho.html\nhttps://www.incatrailtomachupicchu.pe/collpa-de-guacamayos-tambopata\n3) Plan Maestro Reserva Nacional Tambopata 2019-2023 por el Servicio Nacional de Áreas Naturales Protegidas - SERNANP Tambopata, 2019\nMaterial Audiovisual actual del Recurso:\n--\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n20/11/2023 14:38:52"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -12.993946484198942,
+    "longitud": -69.50920240661617
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-12.993946484198942,-69.50920240661617"
+}

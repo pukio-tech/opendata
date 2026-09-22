@@ -1,0 +1,349 @@
+{
+  "cod_ficha": 3382,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=3382",
+  "nombre": "Reserva Nacional De Lachay",
+  "departamento": "Lima",
+  "provincia": "Huaura",
+  "distrito": "HUACHO",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "n. Áreas Protegidas",
+  "subtipo": "Reservas Nacionales",
+  "jerarquia": "3",
+  "altitud": "350",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=294557",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=294557",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=294558",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=294559",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=464840",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=464915",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=464841",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=464916"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Paseos - Excursiones",
+    "Otros - Estudios e Investigación",
+    "Naturaleza - Observación de fauna",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de aves",
+    "Deportes / Aventura - Caminata/Trekking",
+    "Deportes / Aventura - Camping"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "Lomas de Lachay / Sin fines de lucro",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Paseos",
+      "tipo": "Excursiones",
+      "observacion": "Lomas de Lachay",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/excursiones02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "Lomas de Lachay / Con permiso del INRENA",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de fauna",
+      "observacion": "el ratón orejón, zorro costeño, zorrino, vizcachas, reptiles como el jergón de la costa, culebras, lagartijas de las lomas y gekos.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fauna02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "palillo, el mito o papaya silvestre, tabaco silvestre, papa de las lomas, salvia, begonia de lomas, ortiga, amancaes y la tara milenario árbol de ramas retorcidas y aspecto lúgubre.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de aves",
+      "observacion": "La lechuza de los arenales, halcón peregrino, aguiluchos comunes y cernícalos, el turtupilín, huanchaco, gorriones, los picaflores cora, fany, , cola horquillada y el amazilia",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/aves02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "Lomas de Lachay / En senderos peatonales",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Camping",
+      "observacion": "Lomas de Lachay / Zonas destinadas para campamento",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/camping02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Lima/Lima/Independencia - Lima/Huaral/Chancay",
+      "detalle": "TERMINAL TERRESTRE PLAZA NORTE - ÓVALO DE CHANCAY",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "67.8 km / 1hora 24 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Lima/Huaral/Chancay - Lima/Huaura/Huacho",
+      "detalle": "ÓVALO DE CHANCAY - DESVÍO LACHAY",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "24.4 km / 22 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Lima/Huaura/Huacho - Lima/Huaura/Huacho",
+      "detalle": "DESVIÓ LACHAY - LOMAS DE LACHAY",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "3.8 km / 10 minutos"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "73344",
+      "horario": "INFORME N°113-2022-SGDT/MPHH",
+      "observaciones": "2019"
+    },
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "218",
+      "horario": "INFORME N°113-2022-SGDT/MPHH",
+      "observaciones": "2019"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "08:30 a.m. - 04:00 p.m. De preferencia de junio a octubre por temporadas de lomas (estación de verdor).",
+      "observaciones": "De preferencia de junio a octubre por temporadas de lomas (estación de verdor)."
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "Para visita S/. 5 adultos y S/. 1.50 niños. Para acampar: S/. 10 adultos y S/. 5 x día. Grupos mayores de 25 personas previa autorización."
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Albergues",
+      "observacion": "Albergue con Capacidad para 26 persona"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Cafeteria con Capacidad para 40 personas."
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Centro de Interpretación",
+      "observacion": "Lomas de Lachay"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicios Higiénicos",
+      "observacion": "Lomas de Lachay / En zonas de estacionamiento y campamento"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Estacionamiento",
+      "observacion": "Lomas de Lachay / Zonas destinadas para parqueo de vehículos"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Internet",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Guardaparques Oficiales, Voluntarios, Carga de baterias de celulares y fotografias."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "1,2 y 3 estrellas - Pueblo de Chancay"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Pueblo de Chancay"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Pueblo de Chancay"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Pueblo de Chancay"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Castillo de Chancay"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Bancos - Cajeros",
+      "observacion": "Pueblo de Chancay"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Oficina de Información",
+      "observacion": "Pueblo de Chancay"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicios Higiénicos",
+      "observacion": "Pueblo de Chancay"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Estacionamiento",
+      "observacion": "Pueblo de Chancay"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Internet",
+      "observacion": "Pueblo de Chancay"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Estaciones de Grifos."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "2, 3 y 4 estrellas - Pueblo de Chancay"
+    }
+  ],
+  "descripcion": "Las lomas son ecosistemas característicos del desierto costero peruano, donde su flora y fauna se desarrollan gracias a la presencia estacional de densas neblinas que le dan un aspecto mágico en las horas crepusculares y que, al disiparse, el paisaje se abre inmenso y paradisíaco. La Reserva Nacional de Lachay fue creada como Área Natural Protegida por el Estado el 21 de junio de 1977. Con una extensión de 5070 hectáreas, políticamente áreas de las provincias de Huaura y Huaral. Pertenece a la región natural costa o chala (0-500 m.s.n.m.). Presentan dos estaciones bien diferenciadas: una húmeda, entre junio y octubre, caracterizada por alta humedad ambiental de 100%, en la que las lomas muestran todo su esplendor; y otra seca o árida, con fuerte brillo solar y ausencia de neblinas, en la que el verdor desaparece por completo, quedando como únicos testigos los troncos silenciosos de algunos árboles. La diversidad biológica de Lachay está representada principalmente por una exuberante flora, compuesta por más de 200 especies: musgos, helechos, árboles, arbustos, hierbas y cactáceas. Las especies que más destacan son palillo, el mito o papaya silvestre, tabaco silvestre, papa de las lomas, salvia, begonia de lomas, ortiga, amancaes y la tara milenario árbol de ramas retorcidas y aspecto lúgubre, con grandes propiedades medicinales. La fauna del lugar la conforman mamíferos como el ratón orejón, zorro costeño, zorrino, vizcachas, reptiles como el jergón de la costa, culebras, lagartijas de las lomas y gekos, entre las aves destacan las rapaces como la lechuza de los arenales, halcón peregrino, aguiluchos comunes y cernícalos, las de canto melódicos como el turtupilín, huanchaco, gorriones entre otras y los picaflores cora, fany, cola horquillada y el amazilia, entre las especies endémicas destacan el canastero de los cactus, minero peruano y de pico, grueso de fácil observación por los pajareros o birdwatch, sumando en total 100 especies de aves y más de 225 especies de insectos.\nEn el Área Hay tres zonas para hacer parrilladas y levantar campamentos, implementados con mesas de madera, parrillas y baños o letrinas, así como áreas de estacionamiento en cada zona, cuenta con 03 circuitos turísticos: circuito del zorro, la tara y la perdiz. Hay una sala de exhibición fotográfica, centro de interpretación, cafetería, un albergue, un centro de capacitación ambiental, centro control y vigilancia, sede administrativa, equipo de Guardaparques, capacitados en atención al turista, guiado, educación e interpretación ambiental, primeros auxilios, auxilio mecánico entre otras actividades, todo para que la visita del turista sea agradable.",
+  "particularidades": "",
+  "estado_actual": "Se encuentra en buen estado de conservación, El Servicio Nacional de Áreas Naturales Protegidas por el Estado - SERNANP se encarga de su mantenimiento.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Las lomas son ecosistemas característicos del desierto costero peruano, donde su flora y fauna se desarrollan gracias a la presencia estacional de densas neblinas que le dan un aspecto mágico en las horas crepusculares y que, al disiparse, el paisaje se abre inmenso y paradisíaco. La Reserva Nacional de Lachay fue creada como Área Natural Protegida por el Estado el 21 de junio de 1977. Con una extensión de 5070 hectáreas, políticamente áreas de las provincias de Huaura y Huaral. Pertenece a la región natural costa o chala (0-500 m.s.n.m.). Presentan dos estaciones bien diferenciadas: una húmeda, entre junio y octubre, caracterizada por alta humedad ambiental de 100%, en la que las lomas muestran todo su esplendor; y otra seca o árida, con fuerte brillo solar y ausencia de neblinas, en la que el verdor desaparece por completo, quedando como únicos testigos los troncos silenciosos de algunos árboles. La diversidad biológica de Lachay está representada principalmente por una exuberante flora, compuesta por más de 200 especies: musgos, helechos, árboles, arbustos, hierbas y cactáceas. Las especies que más destacan son palillo, el mito o papaya silvestre, tabaco silvestre, papa de las lomas, salvia, begonia de lomas, ortiga, amancaes y la tara milenario árbol de ramas retorcidas y aspecto lúgubre, con grandes propiedades medicinales. La fauna del lugar la conforman mamíferos como el ratón orejón, zorro costeño, zorrino, vizcachas, reptiles como el jergón de la costa, culebras, lagartijas de las lomas y gekos, entre las aves destacan las rapaces como la lechuza de los arenales, halcón peregrino, aguiluchos comunes y cernícalos, las de canto melódicos como el turtupilín, huanchaco, gorriones entre otras y los picaflores cora, fany, cola horquillada y el amazilia, entre las especies endémicas destacan el canastero de los cactus, minero peruano y de pico, grueso de fácil observación por los pajareros o birdwatch, sumando en total 100 especies de aves y más de 225 especies de insectos.\nEn el Área Hay tres zonas para hacer parrilladas y levantar campamentos, implementados con mesas de madera, parrillas y baños o letrinas, así como áreas de estacionamiento en cada zona, cuenta con 03 circuitos turísticos: circuito del zorro, la tara y la perdiz. Hay una sala de exhibición fotográfica, centro de interpretación, cafetería, un albergue, un centro de capacitación ambiental, centro control y vigilancia, sede administrativa, equipo de Guardaparques, capacitados en atención al turista, guiado, educación e interpretación ambiental, primeros auxilios, auxilio mecánico entre otras actividades, todo para que la visita del turista sea agradable."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "La Reserva Nacional de Lachay forma parte del Sistema Nacional de Áreas Naturales Protegidas por el Estado (SINANPE) según D.S. Nº 310-77-AG. cuenta con Plan Maestro de la Reserva Nacional de Lachay 2013 - 2018."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Se encuentra en buen estado de conservación, El Servicio Nacional de Áreas Naturales Protegidas por el Estado - SERNANP se encarga de su mantenimiento."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Nacionales\n73344\nINFORME N°113-2022-SGDT/MPHH\n2019\nDocumento admitido por DIRCETUR LIMA\nTuristas Extranjeros\n218\nINFORME N°113-2022-SGDT/MPHH\n2019\nDocumento admitido por DIRCETUR LIMA"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nLima/Lima/Independencia\n-\nLima/Huaral/Chancay\nTERMINAL TERRESTRE PLAZA NORTE - ÓVALO DE CHANCAY\nTerrestre\nAutomóvil particular\nAsfaltado\n67.8 km / 1hora 24 minutos\n1\nLima/Huaral/Chancay\n-\nLima/Huaura/Huacho\nÓVALO DE CHANCAY - DESVÍO LACHAY\nTerrestre\nAutomóvil particular\nAsfaltado\n24.4 km / 22 minutos\n1\nLima/Huaura/Huacho\n-\nLima/Huaura/Huacho\nDESVIÓ LACHAY - LOMAS DE LACHAY\nTerrestre\nAutomóvil particular\nAfirmado\n3.8 km / 10 minutos"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nPara visita S/. 5 adultos y S/. 1.50 niños. Para acampar: S/. 10 adultos y S/. 5 x día. Grupos mayores de 25 personas previa autorización."
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n08:30 a.m.\n-\n04:00 p.m.\nDe preferencia de junio a octubre por temporadas de lomas (estación de verdor)."
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\nLomas de Lachay / Sin fines de lucro\nPaseos\nExcursiones\nLomas de Lachay\nOtros\nEstudios e Investigación\nLomas de Lachay / Con permiso del INRENA\nNaturaleza\nObservación de fauna\nel ratón orejón, zorro costeño, zorrino, vizcachas, reptiles como el jergón de la costa, culebras, lagartijas de las lomas y gekos.\nNaturaleza\nObservación de flora\npalillo, el mito o papaya silvestre, tabaco silvestre, papa de las lomas, salvia, begonia de lomas, ortiga, amancaes y la tara milenario árbol de ramas retorcidas y aspecto lúgubre.\nNaturaleza\nObservación de aves\nLa lechuza de los arenales, halcón peregrino, aguiluchos comunes y cernícalos, el turtupilín, huanchaco, gorriones, los picaflores cora, fany, , cola horquillada y el amazilia\nDeportes / Aventura\nCaminata/Trekking\nLomas de Lachay / En senderos peatonales\nDeportes / Aventura\nCamping\nLomas de Lachay / Zonas destinadas para campamento"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nAlojamiento\nAlbergues\nAlbergue con Capacidad para 26 persona\nInstalaciones Privadas\nAlimentación\nOtros (Especificar)\nCafeteria con Capacidad para 40 personas.\nInstalaciones Privadas\nOtros Servicios Turísticos\nCentro de Interpretación\nLomas de Lachay\nInstalaciones Privadas\nOtros Servicios Turísticos\nServicios Higiénicos\nLomas de Lachay / En zonas de estacionamiento y campamento\nInstalaciones Privadas\nOtros Servicios Turísticos\nServicio de Estacionamiento\nLomas de Lachay / Zonas destinadas para parqueo de vehículos\nInstalaciones Privadas\nOtros Servicios Turísticos\nServicio de Internet\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nOtros (Especificar)\nGuardaparques Oficiales, Voluntarios, Carga de baterias de celulares y fotografias."
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHostales (especificar categorías)\n1,2 y 3 estrellas - Pueblo de Chancay\nAlimentación\nRestaurantes\nPueblo de Chancay\nAlimentación\nKioskos de comida y bebidas\nPueblo de Chancay\nLugares de Recreación\nDiscotecas\nPueblo de Chancay\nOtros Servicios Turísticos\nVenta de artesanía\nCastillo de Chancay\nOtros Servicios Turísticos\nBancos - Cajeros\nPueblo de Chancay\nOtros Servicios Turísticos\nOficina de Información\nPueblo de Chancay\nOtros Servicios Turísticos\nServicios Higiénicos\nPueblo de Chancay\nOtros Servicios Turísticos\nServicio de Estacionamiento\nPueblo de Chancay\nOtros Servicios Turísticos\nServicio de Internet\nPueblo de Chancay\nOtros Servicios Turísticos\nOtros (Especificar)\nEstaciones de Grifos.\nAlojamiento\nHoteles (especificar categorías)\n2, 3 y 4 estrellas - Pueblo de Chancay"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nPueblo de Chancay\nBancos\nPueblo de Chancay\nCajero automático\nPueblo de Chancay\nCasa de cambio\nPueblo de Chancay\nEstación de servicios, grifos, gasolineras y gasocentros\nPueblo de Chancay\nServicio de estacionamiento\nPueblo de Chancay\nBodegas o minimarkets\nPueblo de Chancay\nSeguridad / POLTUR / Comisaría\nPueblo de Chancay\nCentro de salud - tópico\nPueblo de Chancay"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nSeñalización turística\nLomas Lachay / Senderos y Centro de Interpretación"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nPueblo de Chancay\nDesagüe\nPueblo de Chancay\nLuz (Suministro Eléctrico)\nPueblo de Chancay\nTeléfono\nPueblo de Chancay\nSeñalización turística\nPueblo de Chancay"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nServicio Nacional de Áreas Naturales Protegidas por el Estado - SERNANP\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nRESOLUCION PRESIDENCIAL N°155-2018 SERNANP\nAdministrador por\nNombre\nBlgo. David Manuel Orosco Garro - Jefe de la Reserva Nacional de Lachay - SERNANP\nTiempo de administración\nDesde el 2018 hasta la actualidad."
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo\nNombre (Persona(s) responsable(s) del inventario turístico):\nJorge Luis Torres Chirito\nCargo:\nAsistente Administrativo\nCorreo:\njchiritoxx@gmail.com\nTeléfono:\n956454928\nFuentes Bibliográfica:\n- Reserva nacional de lachay, sernanp, minam, lima, Perú. Plan maestro de la reserva nacional de lachay 2013 - 2018.\n- • Blgo. Miguel Ángel Antonio Astocaza. (2022). Entrevista personal con el especialista de la reserva nacional de Lachay.\n- Lic. María Estefany Oyola Goicochea. Trabajo in situ por la Subgerencia de Desarrollo del turismo de la Municipalidad Provincial de Huaura.\nMaterial Audiovisual actual del Recurso:\nFOTO, VIDEOS\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n28/11/2022"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -11.405462,
+    "longitud": -77.38732299999998
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-11.405462,-77.38732299999998"
+}

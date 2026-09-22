@@ -1,0 +1,280 @@
+{
+  "cod_ficha": 224,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=224",
+  "nombre": "Museo Regional De Casma Max Uhle",
+  "departamento": "Áncash",
+  "provincia": "Casma",
+  "distrito": "CASMA",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Museos y otros",
+  "subtipo": "Museos",
+  "jerarquia": "2",
+  "altitud": "104",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=291883",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=291883",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=472977",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=472949",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=655024",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=654982",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=654983",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=654984",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=655025"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Estudios e Investigación",
+    "Otros - Otros(Especificar)"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Otros(Especificar)",
+      "observacion": "Exposición de maquetas y restos prehispanicos",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/otros02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Áncash/Casma/Casma - Áncash/Casma/Casma",
+      "detalle": "Plaza de Casma - Cruce a carretera a Huaraz en la carretera Panamericana norte",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "4 km / 8 min"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Áncash/Casma/Casma - Áncash/Casma/Casma",
+      "detalle": "Cruce a carretera a Huaraz en la carretera Panamericana norte - Cruce a Sechín",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "1.5 km / 4 min"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Áncash/Casma/Casma - Áncash/Casma/Casma",
+      "detalle": "Cruce a Sechín - Monumento arqueológico Sechín",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "500 m / 2 min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "17250",
+      "horario": "Dirección Desconcentrada de Cultura de Áncash",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "483",
+      "horario": "Dirección Desconcentrada de Cultura de Áncash",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "09:00 a.m. - 04:30 p.m. Atención de martes a domingo",
+      "observaciones": "Atención de martes a domingo"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "Adultos S/. 7.00; universitarios y docentes S/. 5.00 y escolares S/. 2.00"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Boletería",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Paradores turísticos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "En la ciudad de Casma"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "En la ciudad de Casma"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "En la ciudad de Casma"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de bicicleta",
+      "observacion": "En la ciudad de Casma"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "En la ciudad de Casma"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "En la ciudad de Casma"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "En la ciudad de Casma, de 1 a 3 estrellas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "En la ciudad de Casma, de 1 a 3 estrellas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "En la ciudad de Casma"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "En la ciudad de Casma"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "En la ciudad de Casma"
+    }
+  ],
+  "descripcion": "El Museo Regional de Casma Max Uhle se ubica junto al Monumento Arqueológico de Sechín. Fue construido por el Proyecto Sechín de la Universidad Católica del Perú, con el apoyo de la Fundación Volkswagen, y se inauguró oficialmente el 25 de agosto de 1984.\nActualmente, el museo cuenta con una amplia sala de exposición que presenta, de manera secuencial y organizada, una muestra de las principales culturas prehispánicas que habitaron la costa de Áncash. Además, exhibe información relevante y diversos bienes culturales recuperados en investigaciones arqueológicas realizadas en sitios como Cerro Sechín, Sechín Bajo, Sechín Alto, Chanquillo, Las Aldas, Pampa Colorada y Moxeque. Estas investigaciones se complementan con maquetas, reproducciones a escala, dibujos, fotografías aéreas y murales. Entre los elementos más destacados se encuentra la maqueta a escala natural del interior de Cerro Sechín y las réplicas de las máscaras de barro halladas por Julio C. Tello en Moxeque.\nLa visita al museo forma parte del recorrido turístico del Monumento Arqueológico de Sechín, ya que ambos pueden ser apreciados con una sola entrada.",
+  "particularidades": "El Museo Regional de Casma \"Max Uhle\", se encuentra aledaño al monumento arqueológico Sechín",
+  "estado_actual": "Se encuentra en buen estado de conservación, es gestionado por la Dirección Desconcetrada de Cultura de Áncash.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "El Museo Regional de Casma Max Uhle se ubica junto al Monumento Arqueológico de Sechín. Fue construido por el Proyecto Sechín de la Universidad Católica del Perú, con el apoyo de la Fundación Volkswagen, y se inauguró oficialmente el 25 de agosto de 1984.\nActualmente, el museo cuenta con una amplia sala de exposición que presenta, de manera secuencial y organizada, una muestra de las principales culturas prehispánicas que habitaron la costa de Áncash. Además, exhibe información relevante y diversos bienes culturales recuperados en investigaciones arqueológicas realizadas en sitios como Cerro Sechín, Sechín Bajo, Sechín Alto, Chanquillo, Las Aldas, Pampa Colorada y Moxeque. Estas investigaciones se complementan con maquetas, reproducciones a escala, dibujos, fotografías aéreas y murales. Entre los elementos más destacados se encuentra la maqueta a escala natural del interior de Cerro Sechín y las réplicas de las máscaras de barro halladas por Julio C. Tello en Moxeque.\nLa visita al museo forma parte del recorrido turístico del Monumento Arqueológico de Sechín, ya que ambos pueden ser apreciados con una sola entrada."
+    },
+    {
+      "titulo": "Particularidades",
+      "contenido": "El Museo Regional de Casma \"Max Uhle\", se encuentra aledaño al monumento arqueológico Sechín"
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Se encuentra en buen estado de conservación, es gestionado por la Dirección Desconcetrada de Cultura de Áncash."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n17250\nDirección Desconcentrada de Cultura de Áncash\n2025\nundefined\nTuristas Nacionales\n483\nDirección Desconcentrada de Cultura de Áncash\n2025"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nÁncash/Casma/Casma\n-\nÁncash/Casma/Casma\nPlaza de Casma - Cruce a carretera a Huaraz en la carretera Panamericana norte\nTerrestre\nAutomóvil particular\nAsfaltado\n4 km / 8 min\n2\nÁncash/Casma/Casma\n-\nÁncash/Casma/Casma\nCruce a carretera a Huaraz en la carretera Panamericana norte - Cruce a Sechín\nTerrestre\nAutomóvil particular\nAsfaltado\n1.5 km / 4 min\n2\nÁncash/Casma/Casma\n-\nÁncash/Casma/Casma\nCruce a Sechín - Monumento arqueológico Sechín\nTerrestre\nAutomóvil particular\nAfirmado\n500 m / 2 min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nAdultos S/. 7.00; universitarios y docentes S/. 5.00 y escolares S/. 2.00"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n09:00 a.m.\n-\n04:30 p.m.\nAtención de martes a domingo"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nEstudios e Investigación\n--\nOtros\nOtros(Especificar)\nExposición de maquetas y restos prehispanicos"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Públicas\nServicios Públicos\nEstacionamiento de vehículos\n--\nInstalaciones Públicas\nServicios Públicos\nBoletería\n--\nInstalaciones Públicas\nServicios Públicos\nParadores turísticos\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nLugares de Recreación\nDiscotecas\nEn la ciudad de Casma\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nEn la ciudad de Casma\nOtros Servicios Turísticos\nAgencia de Viajes\nEn la ciudad de Casma\nOtros Servicios Turísticos\nAlquiler de bicicleta\nEn la ciudad de Casma\nAlimentación\nRestaurantes\nEn la ciudad de Casma\nAlimentación\nCafeterías\nEn la ciudad de Casma\nAlojamiento\nHoteles (especificar categorías)\nEn la ciudad de Casma, de 1 a 3 estrellas\nAlojamiento\nHostales (especificar categorías)\nEn la ciudad de Casma, de 1 a 3 estrellas\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nEn la ciudad de Casma\nServicios Públicos\nEstacionamiento de vehículos\nEn la ciudad de Casma\nServicios Públicos\nOficina de Información turística\nEn la ciudad de Casma"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nEn la ciudad de Casma\nBancos\nEn la ciudad de Casma\nCajero automático\nEn la ciudad de Casma\nServicios de taxis\nEn la ciudad de Casma\nCentro de salud - tópico\nEn la ciudad de Casma\nSeguridad / POLTUR / Comisaría\nEn la ciudad de Casma\nBodegas o minimarkets\nEn la ciudad de Casma"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nSeñalización turística\n--\nLuz (Suministro Eléctrico)\n--\nAlternativo de Residuos (Biodigestor, pozo séptico, otros)\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nEn la ciudad de Casma\nAlcantarillado sanitario\nEn la ciudad de Casma\nLuz (Suministro Eléctrico)\nEn la ciudad de Casma\nTeléfono\nEn la ciudad de Casma\nSeñalización turística\nEn la ciudad de Casma"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nMinisterio de Cultura\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nNúmero de Partida:\n11038055\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nMinisterio de Cultura - DDC Ancash\nTiempo de administración\n25 de agosto de 1984"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo de Ancash\nNombre (Persona(s) responsable(s) del inventario turístico):\nFrank Cristian Olivera Blas\nCargo:\nEspecialista en Turismo\nCorreo:\ndirceturancashdt@gmail.com\nTeléfono:\n974771911\nFuentes Bibliográfica:\n- PERTUR ANCASH\n- https://museos.cultura.pe/museos/museo-regional-de-casma-max-uhle\n- http://www.minedu.gob.pe/politicas/docencia/pdf/brochure-museos-y-monumentos.pdf\n- Plan de desarrollo turístico de la provincia de Casma, región Áncash, Perú (2019 – 2022)\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n26/03/2026 16:56:03"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -9.479244,
+    "longitud": -78.25786299999999
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-9.479244,-78.25786299999999"
+}

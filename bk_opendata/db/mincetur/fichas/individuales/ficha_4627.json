@@ -1,0 +1,380 @@
+{
+  "cod_ficha": 4627,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=4627",
+  "nombre": "Pasaje Santa Rosa",
+  "departamento": "Lima",
+  "provincia": "Lima",
+  "distrito": "LIMA",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Arquitectura y Espacios Urbanos",
+  "subtipo": "Paseos peatonales",
+  "jerarquia": "2",
+  "altitud": "163",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=600004",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=600004",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=599981",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=599983",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=599984",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=599985",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=600036",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=600007",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=600011"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Actividades Culturales",
+    "Cultura y Folclore - Ferias",
+    "Cultura y Folclore - Apreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Actividades Culturales",
+      "observacion": "Rituales y ofrendas a la madre tierra y al cacique Taulichusco",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/act_culturales02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Ferias",
+      "observacion": "Ferias artesanales y gastronómicas",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/feria02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Apreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)",
+      "observacion": "Elaboración de retratos artísticos , pasacalles, conciertos.",
+      "icono_url": null
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Lima/Lima/Lima - Lima/Lima/Lima",
+      "detalle": "Plaza Mayor de Lima - Pasaje Santa Rosa",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "0.15 km/2 min"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Lima/Lima/Lima - Lima/Lima/Lima",
+      "detalle": "Plaza San Martín - Pasaje Santa Rosa",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "0.73 km. / 15 min."
+    },
+    {
+      "recorrido": "3",
+      "tramo": "Lima/Lima/Lima - Lima/Lima/Lima",
+      "detalle": "Alameda Chabuca Granda - Plaza Mayor de Lima",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "0.2 km. / 7 min."
+    },
+    {
+      "recorrido": "4",
+      "tramo": "Lima/Lima/Miraflores - Lima/Lima/Lima",
+      "detalle": "Parque Kennedy - Pasaje Santa Rosa",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "9.15 km/30 min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "31410",
+      "horario": "Conteo muestral - Municipalidad Metropolitana de Lima",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "164970",
+      "horario": "Conteo muestral - Municipalidad Metropolitana de Lima",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "08:00 a.m. - 10:00 p.m. --",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Otros (especificar)",
+      "observacion": "Galeria de arte Pancho Fierro"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "1, 2, 3 y 5 estrellas. Cercado de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "1, 2 y 3 estrellas. Cercado de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Cercado de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Cercado de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Cercado de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Cercado de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Cercado de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Cercado de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Cercado de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Cines o Teatros",
+      "observacion": "Cercado de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Cercado de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Cercado de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Cercado de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Cercado de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de carruajes",
+      "observacion": "Cercado de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "Cercado de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de interpretación",
+      "observacion": "Cercado de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Cercado de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Museo de Sitio Turísticos",
+      "observacion": "Cercado de Lima"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Otros (especificar)",
+      "observacion": "Servicios higiénicos. Cercado de Lima"
+    }
+  ],
+  "descripcion": "El Pasaje Santa Rosa es un pintoresco paseo peatonal ubicado en el centro histórico de Lima, entre el Jirón Camaná y el Jirón de la Unión, a pocos pasos de la Plaza Mayor. Este espacio urbano destaca por su arquitectura colonial, con fachadas de color amarillo y portales que invitan a pasear y explorar.\nEste pasaje se abre en los años 40, con la finalidad de construir la gran avenida Santa Rosa que conectaría la Plaza de Armas con la primera cuadra de la avenida Tacna, donde se tenía proyectado construir la Basílica Santa Rosa. Sin embargo, al realizarse estudios técnicos para la construcción de la avenida, se descubrió que, entre los jirones Camaná y Caylloma, se encontraba la Casa del Héroe de Arica, Francisco Bolognesi, declarada monumento histórico nacional. Debido a esta revelación, la obra fue paralizada. Los arquitectos consideraron que continuar con la apertura de la avenida habría desvirtuado el espacio urbano de la Plaza de Armas, originalmente concebida como un espacio cerrado. En lugar de la avenida, se optó por crear un área abierta, que fue bautizada como Pasaje Santa Rosa y destinada inicialmente al parqueo municipal, aunque hoy en día sirve como un importante espacio urbano.\nEn 1985, se erigió en el pasaje un monumento en honor a Taulichusco \"El Viejo\", el último curaca limeño. Se trata de una enorme roca de Wanka Granodiorita, una piedra basal andina, que sirve como recordatorio para los limeños del legado histórico y cultural de los pueblos originarios. En este mismo lugar, recientemente se trasladó la estatua de Francisco Pizarro, buscando reunir ambos símbolos que representan dos etapas históricas claves en la historia del Perú: la llegada de los conquistadores y la resistencia de los pueblos indígenas. Además, el pasaje alberga la Galería Pancho Fierro, que ofrece exposiciones gratuitas de arte, incluyendo obras de artistas nacionales e internacionales.\nCon frecuencia, la Municipalidad Metropolitana de Lima organiza exposiciones fotográficas y culturales en el pasaje. Durante fechas especiales, como el Día del Artesano, el pasaje se convierte en un espacio para ferias donde artesanos peruanos exhiben y venden sus obras, además de ofrecer talleres gratuitos para el público.\nEl Pasaje Santa Rosa ha experimentado una notable mejora en su conservación en los últimos años, gracias a los esfuerzos de la Municipalidad Metropolitana de Lima, que ha implementado diversas iniciativas para revitalizar este emblemático corredor peatonal.",
+  "particularidades": "",
+  "estado_actual": "Bueno, gracias a los trabajos de mantenimiento y puesta en valor realizados constantemente por la Municipalidad Metropolitana de Lima",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "El Pasaje Santa Rosa es un pintoresco paseo peatonal ubicado en el centro histórico de Lima, entre el Jirón Camaná y el Jirón de la Unión, a pocos pasos de la Plaza Mayor. Este espacio urbano destaca por su arquitectura colonial, con fachadas de color amarillo y portales que invitan a pasear y explorar.\nEste pasaje se abre en los años 40, con la finalidad de construir la gran avenida Santa Rosa que conectaría la Plaza de Armas con la primera cuadra de la avenida Tacna, donde se tenía proyectado construir la Basílica Santa Rosa. Sin embargo, al realizarse estudios técnicos para la construcción de la avenida, se descubrió que, entre los jirones Camaná y Caylloma, se encontraba la Casa del Héroe de Arica, Francisco Bolognesi, declarada monumento histórico nacional. Debido a esta revelación, la obra fue paralizada. Los arquitectos consideraron que continuar con la apertura de la avenida habría desvirtuado el espacio urbano de la Plaza de Armas, originalmente concebida como un espacio cerrado. En lugar de la avenida, se optó por crear un área abierta, que fue bautizada como Pasaje Santa Rosa y destinada inicialmente al parqueo municipal, aunque hoy en día sirve como un importante espacio urbano.\nEn 1985, se erigió en el pasaje un monumento en honor a Taulichusco \"El Viejo\", el último curaca limeño. Se trata de una enorme roca de Wanka Granodiorita, una piedra basal andina, que sirve como recordatorio para los limeños del legado histórico y cultural de los pueblos originarios. En este mismo lugar, recientemente se trasladó la estatua de Francisco Pizarro, buscando reunir ambos símbolos que representan dos etapas históricas claves en la historia del Perú: la llegada de los conquistadores y la resistencia de los pueblos indígenas. Además, el pasaje alberga la Galería Pancho Fierro, que ofrece exposiciones gratuitas de arte, incluyendo obras de artistas nacionales e internacionales.\nCon frecuencia, la Municipalidad Metropolitana de Lima organiza exposiciones fotográficas y culturales en el pasaje. Durante fechas especiales, como el Día del Artesano, el pasaje se convierte en un espacio para ferias donde artesanos peruanos exhiben y venden sus obras, además de ofrecer talleres gratuitos para el público.\nEl Pasaje Santa Rosa ha experimentado una notable mejora en su conservación en los últimos años, gracias a los esfuerzos de la Municipalidad Metropolitana de Lima, que ha implementado diversas iniciativas para revitalizar este emblemático corredor peatonal."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, gracias a los trabajos de mantenimiento y puesta en valor realizados constantemente por la Municipalidad Metropolitana de Lima"
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n31410\nConteo muestral - Municipalidad Metropolitana de Lima\n2025\nTuristas Nacionales\n164970\nConteo muestral - Municipalidad Metropolitana de Lima\n2025"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nLima/Lima/Lima\n-\nLima/Lima/Lima\nPlaza Mayor de Lima - Pasaje Santa Rosa\nTerrestre\nA pie\nAsfaltado\n0.15 km/2 min\n2\nLima/Lima/Lima\n-\nLima/Lima/Lima\nPlaza San Martín - Pasaje Santa Rosa\nTerrestre\nA pie\nAsfaltado\n0.73 km. / 15 min.\n3\nLima/Lima/Lima\n-\nLima/Lima/Lima\nAlameda Chabuca Granda - Plaza Mayor de Lima\nTerrestre\nA pie\nAsfaltado\n0.2 km. / 7 min.\n4\nLima/Lima/Miraflores\n-\nLima/Lima/Lima\nParque Kennedy - Pasaje Santa Rosa\nTerrestre\nAutomóvil particular\nAsfaltado\n9.15 km/30 min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n08:00 a.m.\n-\n10:00 p.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nActividades Culturales\nRituales y ofrendas a la madre tierra y al cacique Taulichusco\nCultura y Folclore\nFerias\nFerias artesanales y gastronómicas\nCultura y Folclore\nApreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)\nElaboración de retratos artísticos , pasacalles, conciertos."
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nAlimentación\nRestaurantes\n--\nInstalaciones Privadas\nLugares de Recreación\nBares\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nVenta de artesanía\n--\nInstalaciones Privadas\nAlimentación\nCafeterías\n--\nInstalaciones Privadas\nAlimentación\nFuentes de soda\n--\nInstalaciones Públicas\nServicios Públicos\nOtros (especificar)\nGaleria de arte Pancho Fierro"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\n1, 2, 3 y 5 estrellas. Cercado de Lima\nAlojamiento\nHostales (especificar categorías)\n1, 2 y 3 estrellas. Cercado de Lima\nAlimentación\nRestaurantes\nCercado de Lima\nAlimentación\nBares\nCercado de Lima\nAlimentación\nCafeterías\nCercado de Lima\nAlimentación\nFuentes de soda\nCercado de Lima\nAlimentación\nKioskos de comida y bebidas\nCercado de Lima\nAlimentación\nVenta de comida Rápida\nCercado de Lima\nLugares de Recreación\nDiscotecas\nCercado de Lima\nLugares de Recreación\nCines o Teatros\nCercado de Lima\nLugares de Recreación\nJuegos Infantiles\nCercado de Lima\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nCercado de Lima\nOtros Servicios Turísticos\nVenta de artesanía\nCercado de Lima\nOtros Servicios Turísticos\nAgencia de Viajes\nCercado de Lima\nOtros Servicios Turísticos\nAlquiler de carruajes\nCercado de Lima\nServicios Públicos\nSeñales turísticas de orientación\nCercado de Lima\nServicios Públicos\nSeñales turísticas de interpretación\nCercado de Lima\nServicios Públicos\nOficina de Información turística\nCercado de Lima\nServicios Públicos\nMuseo de Sitio Turísticos\nCercado de Lima\nServicios Públicos\nOtros (especificar)\nServicios higiénicos. Cercado de Lima"
+    },
+    {
+      "titulo": "Servicios Complementarios dentro del recurso",
+      "contenido": "Servicio Complementario\nObservación\nSeguridad / POLTUR / Comisaría\nSerenazgo de la Municipalidad Metropolitana de Lima"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCercado de Lima\nBancos\nCercado de Lima\nCajero automático\nCercado de Lima\nCasa de cambio\nCercado de Lima\nEstación de servicios, grifos, gasolineras y gasocentros\nCercado de Lima\nServicio de correos\nCercado de Lima\nServicio de estacionamiento\nCercado de Lima\nServicios de taxis\nCercado de Lima\nCentro de salud - tópico\nCercado de Lima\nVenta de materiales para fotografías\nCercado de Lima\nSeguridad / POLTUR / Comisaría\nCercado de Lima\nAlquiler y compra de equipos deportivos\nCercado de Lima\nLibrerías\nCercado de Lima\nBodegas o minimarkets\nCercado de Lima"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nLuz (Suministro Eléctrico)\n--\nAgua potable\n--\nAlcantarillado sanitario\n--\nSeñalización turística\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCercado de Lima\nLuz (Suministro Eléctrico)\nCercado de Lima\nTeléfono\nCercado de Lima\nSeñalización turística\nCercado de Lima\nAlcantarillado sanitario\nCercado de Lima"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nEstado Peruano - Municipalidad Metropolitana de Lima\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nLey N° 27972 - Ley orgánica de municipalidades y Ley Nº 31199 – Ley de gestión y protección de los espacios públicos\nAdministrador por\nNombre\nMunicipalidad Metropolitana de Lima\nTiempo de administración\nIndeterminado"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nMunicipalidad Metropolitana de Lima\nNombre (Persona(s) responsable(s) del inventario turístico):\nAlex Reaño Torres/Guiliana Prada Caceres\nCargo:\nEspecialista en turismo/Técnico en elaboración de inventarios.\nCorreo:\nalexreanotorres@gmail.com/patricia.prada@munlima.gob.pe\nTeléfono:\n01-6321801\nFuentes Bibliográfica:\n1) Capristán, Marco Antonio (2023). La historia de Lima. Pinceladas limeñas. Primera edición. Lima.\n2) https://elcomercio.pe/lima/sucesos/francisco-pizarro-asi-se-traslado-el-monumento-del-parque-de-la-muralla-al-pasaje-santa-rosa-municipalidad-de-lima-prolima-ultimas-noticia/ Consultado el 09 de mayo de 2025.\nMaterial Audiovisual actual del Recurso:\nFOTO, VIDEOS\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n27/05/2025 17:53:38"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -12.04541,
+    "longitud": -77.03150199999999
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-12.04541,-77.03150199999999"
+}

@@ -1,0 +1,551 @@
+{
+  "cod_ficha": 7069,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=7069",
+  "nombre": "Bodega Hotel El Carmelo",
+  "departamento": "Ica",
+  "provincia": "Ica",
+  "distrito": "ICA",
+  "categoria": "4. REALIZACIONES TÉCNICAS, CIENTÍFICAS Y ARTÍSTICAS CONTEMPORÁNEAS",
+  "tipo": "Explotaciones Industriales",
+  "subtipo": "Bodegas de pisco, vinos y/u otros licores",
+  "jerarquia": "2",
+  "altitud": "451",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=294154",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=294154",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=294155",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=294156",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=294157",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=463803",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=463841",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=463844",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=463848"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Actividades Culturales",
+    "Otros - Realización de eventos",
+    "Cultura y Folclore - Degustación y preparación de platos, productos o bebidas típicas",
+    "Cultura y Folclore - Apreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)",
+    "Cultura y Folclore - Participación y/u observación del proceso de elaboración de productos locales"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Actividades Culturales",
+      "observacion": "Presentación de danzas, libros, entre otros.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/act_culturales02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Realización de eventos",
+      "observacion": "La administración alquila sus instalaciones para realizar eventos, matrimonios, etc.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/eventos02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Degustación y preparación de platos, productos o bebidas típicas",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/platos_tipicos02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Apreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)",
+      "observacion": "--",
+      "icono_url": null
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Participación y/u observación del proceso de elaboración de productos locales",
+      "observacion": "--",
+      "icono_url": null
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Ica/Ica/Ica - Ica/Ica/Ica",
+      "detalle": "Plaza de Armas de Ica – Bodega Hotel El Carmelo (km 301.2 )",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "3 Km/ 10 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Ica/Ica/Ica - Ica/Ica/Ica",
+      "detalle": "Plaza de Armas de Ica – Bodega Hotel El Carmelo (km 301.2 )",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "3 Km/ 45 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Ica/Ica/Ica - Ica/Ica/Ica",
+      "detalle": "Plaza de Armas de Ica – Bodega Hotel El Carmelo (km 301.2 )",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Taxi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "3 Km/ 10 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Ica/Ica/Ica - Ica/Ica/Ica",
+      "detalle": "Plaza de Armas de Ica – Bodega Hotel El Carmelo (km 301.2 )",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mototaxi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "3 Km/ 18 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Ica/Ica/Ica - Ica/Ica/Ica",
+      "detalle": "Plaza de Armas de Ica-Bodega El carmelo",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mini bus turístico",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "3 Km/ 15 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Ica/Ica/Ica - Ica/Ica/Ica",
+      "detalle": "Plaza de Armas de Ica – Bodega Hotel El Carmelo (km 301.2 )",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Camioneta doble tracción",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "3 Km/ 08 min."
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "733",
+      "horario": "Base de datos propio de la empresa.",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "3712",
+      "horario": "Base de datos propio de la empresa.",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "1042",
+      "horario": "Base de datos propio de la empresa.",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "09:00 a.m. - 04:00 p.m. Lunes a domingo.",
+      "observaciones": "Lunes a domingo."
+    },
+    {
+      "epoca": "Personas con discapacidad física",
+      "especificacion": "Rampas",
+      "horario": "--",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Semi-restringido(previo permiso)",
+      "observaciones": "La bodega brinda sus servicios previa reservación, para ello, se deberá enviar un mail a: enoturistica.22@gmail.com También podrá comunicarse a los siguientes números de celular: 981 001478 / 9982991"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "Hotel de 3 estrellas."
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Otros (Especifique tipo)",
+      "observacion": "Piscina"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicios Higiénicos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Estacionamiento",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Salvavidas",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Venta de productos vitivinícolas"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Idioma Ingles."
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Centros de interpretación",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "Hoteles de 1 a 5 estrellas - Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "Hostales de 1 a 3 estrellas - Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Venta de dulces típicos (tejas y chocotejas) - Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Ica"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Casinos de Juego",
+      "observacion": "Ciudad de Ica"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Peñas",
+      "observacion": "Ciudad de Ica"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Night Clubs",
+      "observacion": "Ciudad de Ica"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Ciudad de Ica"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Ica"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de Ica"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de Caballos",
+      "observacion": "Ciudad de Ica"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de pedalones",
+      "observacion": "Ciudad de Ica"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de bicicleta",
+      "observacion": "Ciudad de Ica"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Bancos - Cajeros",
+      "observacion": "Ciudad de Ica"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Casa de Cambio",
+      "observacion": "Ciudad de Ica"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Museos de Sitio",
+      "observacion": "Ciudad de Ica"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Oficina de Información",
+      "observacion": "Ciudad de Ica"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Cines o Teatros",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Otros(especificar)",
+      "observacion": "Estadio Picasso Peralta - Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de botes",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de camionetas 4 x 4",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Ica."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Ciudad de Ica."
+    }
+  ],
+  "descripcion": "Fundada en 1980 en el antiguo fundo San Juan de Dios. Su creación fue inspirada al padre de Don Manuel Bernales, primer propietario de la bodega.\nLa Bodega Hotel El Carmelo tiene una infraestructura colonial, cuenta con piscina, bellos jardines, salones para eventos corporativos y sociales, un patio de comida, un centro de interpretación con piezas antiguas que utilizaban para la elaboración y traslado del pisco, un lagar con una prensa de huarango de 285 años de antigüedad el cual mantiene hasta la actualidad el proceso de elaboración del pisco de manera artesanal y un amplio estacionamiento.\nEn los últimos años, debido a la alta demanda, los propietarios incorporaron el servicio de alojamiento, el cual la denominaron El Carmelo Hotel y hacienda. Asimismo, implementaron un circuito turístico donde se da a conocer las diferentes áreas de la bodega que se complementa con la exhibición, cata, pisa de uvas y escenificación de comparsas, estas dos últimas promovidas principalmente durante el mes de marzo por la festividad tradicional de la Vendimia.\nActualmente, es administrado por Sr. Manuel E. Bernales Baumgartner, hijo del fundador.",
+  "particularidades": "",
+  "estado_actual": "Bueno; porque los propietarios realizan el mantenimiento permanente de sus instalaciones.",
+  "observaciones": "Esta empresa ha reiniciado sus actividades desde fines del año 2021.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Fundada en 1980 en el antiguo fundo San Juan de Dios. Su creación fue inspirada al padre de Don Manuel Bernales, primer propietario de la bodega.\nLa Bodega Hotel El Carmelo tiene una infraestructura colonial, cuenta con piscina, bellos jardines, salones para eventos corporativos y sociales, un patio de comida, un centro de interpretación con piezas antiguas que utilizaban para la elaboración y traslado del pisco, un lagar con una prensa de huarango de 285 años de antigüedad el cual mantiene hasta la actualidad el proceso de elaboración del pisco de manera artesanal y un amplio estacionamiento.\nEn los últimos años, debido a la alta demanda, los propietarios incorporaron el servicio de alojamiento, el cual la denominaron El Carmelo Hotel y hacienda. Asimismo, implementaron un circuito turístico donde se da a conocer las diferentes áreas de la bodega que se complementa con la exhibición, cata, pisa de uvas y escenificación de comparsas, estas dos últimas promovidas principalmente durante el mes de marzo por la festividad tradicional de la Vendimia.\nActualmente, es administrado por Sr. Manuel E. Bernales Baumgartner, hijo del fundador."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno; porque los propietarios realizan el mantenimiento permanente de sus instalaciones."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "Esta empresa ha reiniciado sus actividades desde fines del año 2021."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n733\nBase de datos propio de la empresa.\n2022\nEl total de visitantes corresponde a los meses de enero hasta octubre.\nTuristas Nacionales\n3712\nBase de datos propio de la empresa.\n2022\nEl total de visitantes corresponde a los meses de enero hasta octubre.\nVisitantes Locales(Excursionistas)\n1042\nBase de datos propio de la empresa.\n2022\nEl total de visitantes corresponde a los meses de enero hasta octubre."
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nIca/Ica/Ica\n-\nIca/Ica/Ica\nPlaza de Armas de Ica – Bodega Hotel El Carmelo (km 301.2 )\nTerrestre\nAutomóvil particular\nAsfaltado\n3 Km/ 10 min.\n1\nIca/Ica/Ica\n-\nIca/Ica/Ica\nPlaza de Armas de Ica – Bodega Hotel El Carmelo (km 301.2 )\nTerrestre\nA pie\nAsfaltado\n3 Km/ 45 min.\n1\nIca/Ica/Ica\n-\nIca/Ica/Ica\nPlaza de Armas de Ica – Bodega Hotel El Carmelo (km 301.2 )\nTerrestre\nTaxi\nAsfaltado\n3 Km/ 10 min.\n1\nIca/Ica/Ica\n-\nIca/Ica/Ica\nPlaza de Armas de Ica – Bodega Hotel El Carmelo (km 301.2 )\nTerrestre\nMototaxi\nAsfaltado\n3 Km/ 18 min.\n1\nIca/Ica/Ica\n-\nIca/Ica/Ica\nPlaza de Armas de Ica-Bodega El carmelo\nTerrestre\nMini bus turístico\nAsfaltado\n3 Km/ 15 min.\n1\nIca/Ica/Ica\n-\nIca/Ica/Ica\nPlaza de Armas de Ica – Bodega Hotel El Carmelo (km 301.2 )\nTerrestre\nCamioneta doble tracción\nAsfaltado\n3 Km/ 08 min."
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nSemi-restringido(previo permiso)\nLa bodega brinda sus servicios previa reservación, para ello, se deberá enviar un mail a:\nenoturistica.22@gmail.com\nTambién podrá comunicarse a los siguientes números de celular:\n981 001478 / 9982991"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n09:00 a.m.\n-\n04:00 p.m.\nLunes a domingo."
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nActividades Culturales\nPresentación de danzas, libros, entre otros.\nOtros\nRealización de eventos\nLa administración alquila sus instalaciones para realizar eventos, matrimonios, etc.\nCultura y Folclore\nDegustación y preparación de platos, productos o bebidas típicas\n--\nCultura y Folclore\nApreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)\n--\nCultura y Folclore\nParticipación y/u observación del proceso de elaboración de productos locales\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nAlojamiento\nHoteles (especificar categorías)\nHotel de 3 estrellas.\nInstalaciones Privadas\nAlimentación\nRestaurantes\n--\nInstalaciones Privadas\nLugares de Recreación\nOtros (Especifique tipo)\nPiscina\nInstalaciones Privadas\nOtros Servicios Turísticos\nServicios Higiénicos\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nServicio de Estacionamiento\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nServicio de Salvavidas\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nOtros (Especificar)\nVenta de productos vitivinícolas\nInstalaciones Privadas\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nIdioma Ingles.\nInstalaciones Públicas\nServicios Públicos\nSeñales turísticas de orientación\n--\nInstalaciones Públicas\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\n--\nInstalaciones Públicas\nServicios Públicos\nCentros de interpretación\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\nHoteles de 1 a 5 estrellas - Ciudad de Ica.\nAlojamiento\nHostales (especificar categorías)\nHostales de 1 a 3 estrellas - Ciudad de Ica.\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Ica.\nAlimentación\nRestaurantes\nCiudad de Ica.\nAlimentación\nCafeterías\nCiudad de Ica.\nAlimentación\nKioskos de comida y bebidas\nCiudad de Ica.\nAlimentación\nVenta de comida Rápida\nCiudad de Ica.\nAlimentación\nOtros (Especificar)\nVenta de dulces típicos (tejas y chocotejas) - Ciudad de Ica.\nLugares de Recreación\nDiscotecas\nCiudad de Ica\nLugares de Recreación\nCasinos de Juego\nCiudad de Ica\nLugares de Recreación\nPeñas\nCiudad de Ica\nLugares de Recreación\nNight Clubs\nCiudad de Ica\nLugares de Recreación\nJuegos Infantiles\nCiudad de Ica\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Ica\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de Ica\nOtros Servicios Turísticos\nAlquiler de Caballos\nCiudad de Ica\nOtros Servicios Turísticos\nAlquiler de pedalones\nCiudad de Ica\nOtros Servicios Turísticos\nAlquiler de bicicleta\nCiudad de Ica\nOtros Servicios Turísticos\nBancos - Cajeros\nCiudad de Ica\nOtros Servicios Turísticos\nCasa de Cambio\nCiudad de Ica\nOtros Servicios Turísticos\nMuseos de Sitio\nCiudad de Ica\nOtros Servicios Turísticos\nOficina de Información\nCiudad de Ica\nLugares de Recreación\nCines o Teatros\nCiudad de Ica.\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nCiudad de Ica.\nLugares de Recreación\nCentros Deportivos\nCiudad de Ica.\nLugares de Recreación\nKaraoke\nCiudad de Ica.\nLugares de Recreación\nBares\nCiudad de Ica.\nLugares de Recreación\nOtros(especificar)\nEstadio Picasso Peralta - Ciudad de Ica.\nOtros Servicios Turísticos\nAlquiler de botes\nCiudad de Ica.\nOtros Servicios Turísticos\nAlquiler de camionetas 4 x 4\nCiudad de Ica.\nAlimentación\nBares\nCiudad de Ica.\nAlimentación\nFuentes de soda\nCiudad de Ica."
+    },
+    {
+      "titulo": "Servicios Complementarios dentro del recurso",
+      "contenido": "Servicio Complementario\nObservación\nServicios de internet\n--"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Ica.\nBancos\nBanco de la Naciòn, Banco de credito (BCP) Banco Scotiabank, Banco Continental y Banco Interbank - Ciudad de Ica.\nCajero automático\nCiudad de Ica.\nCasa de cambio\nPerú Money - Western Union y Moneygram - Ciudad de Ica.\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Ica.\nServicio de correos\nCiudad de Ica.\nServicio de estacionamiento\nCiudad de Ica.\nServicios de taxis\nCiudad de Ica.\nServicios de salvavidas\nCiudad de Ica.\nVenta de materiales para fotografías\nCiudad de Ica.\nCentro de salud - tópico\nCiudad de Ica.\nSeguridad / POLTUR / Comisaría\nCiudad de Ica.\nAlquiler y compra de equipos deportivos\nCiudad de Ica.\nLibrerías\nCiudad de Ica.\nBodegas o minimarkets\nCiudad de Ica\nOtros(especificar)\nCentros comerciales y supermercados - Ciudad de Ica."
+    },
+    {
+      "titulo": "Condiciones de Accesibilidad al Visitante",
+      "contenido": "Visitante\nInstalación\nActividades y/o programas\nEquipamiento\nObservación\nPersonas con discapacidad física\nRampas\n--\n--\nPara adultos mayore, jóvenes y niños."
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\n--\nAlcantarillado sanitario\n--\nLuz (Suministro Eléctrico)\n--\nTeléfono\n--\nOtros (Especificar)\nInternet"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Ica\nAlcantarillado sanitario\nCiudad de Ica\nLuz (Suministro Eléctrico)\nCiudaqd de Ica\nTeléfono\nCiudad de Ica\nOtros (Especificar)\nInternet - Ciudad de Ica."
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\n--\nPrivado:\nManuel E. Bernales Baumgartner.\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nZona Registral XI - Oficina Registral Ica\nNúmero de Partida:\n11170722\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nManuel E. Bernales Baumgartner.\nTiempo de administración\nDesde noviembre de 2021."
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo de Ica\nNombre (Persona(s) responsable(s) del inventario turístico):\nLic. Leslie Pilar Jorge Guerra\nCargo:\nEspecialista en Turismo\nCorreo:\nservicioturismo@dirceturica.gob.pe\nTeléfono:\n992243714\nFuentes Bibliográfica:\nHTTP://WWW.TURISMOINKAIKO.NET/PERU-TURISMO/PERU-DESTINOS-ESPECIALES/RUTA-PISCO-ICA.HTMLHTTP://WWW.PACARAMA.COM/ES/HOTELES-DISTRITO-ICA-ICA/EL-CARMELO-HOTEL-HACIENDA/\nhttps://www.elcarmelohotelhacienda.com/RutaPisco.html\nMinisterio de Comercio Exterior y Turismo (2013). Guía de Bodegas – Región Ica La Ruta del Pisco. Ana C. Representaciones SAC. URL: https://docplayer.es/71436820-Guia-de-bodegas-region-ica.html\nMaterial Audiovisual actual del Recurso:\nFOTO, VIDEOS\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n26/11/2022"
+    }
+  ],
+  "coordenadas": {
+    "latitud": null,
+    "longitud": null
+  },
+  "google_maps_url": null
+}

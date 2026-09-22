@@ -1,0 +1,316 @@
+{
+  "cod_ficha": 7820,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=7820",
+  "nombre": "Laguna De La Estrella",
+  "departamento": "Piura",
+  "provincia": "Huancabamba",
+  "distrito": "EL CARMEN DE LA FRONTERA",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "g. Cuerpo de Agua",
+  "subtipo": "Lagunas",
+  "jerarquia": "2",
+  "altitud": "3677",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=470410",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=470410",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=470411",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=470396",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=470817"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Estudios e Investigación",
+    "Naturaleza - Observación de fauna",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de paisaje",
+    "Naturaleza - Observación de aves",
+    "Cultura y Folclore - Rituales místicos o tradicionales",
+    "Deportes / Aventura - Caminata/Trekking",
+    "Paseos - Paseos a caballo"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de fauna",
+      "observacion": "(Tremarctos ornatus, Tapirus pinchaque, Odocoileus virginianus etc)",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fauna02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "(Puya aff, Gualtheria foliosa)",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "Alrededores de la Laguna",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de aves",
+      "observacion": "(Colaptes rupícola y Zonotrichia capensis)",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/aves02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Rituales místicos o tradicionales",
+      "observacion": "Orillas de la Laguna",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/rituales_misticos02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "Alrededores de la Laguna",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    },
+    {
+      "actividad": "Paseos",
+      "tipo": "Paseos a caballo",
+      "observacion": "Ruta hacia la Laguna",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paseo_caballo02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Piura/Piura/Castilla - Piura/Huancabamba/Huancabamba",
+      "detalle": "Terminal Terrestre de Castilla - Terminal Terrestre Huancabamba",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus público",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "214 km / 6 horas"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Piura/Huancabamba/Huancabamba - Piura/Huancabamba/El Carmen De La Frontera",
+      "detalle": "Terminal Terrestre de Huancabamba - Centro Poblado Selva Andina",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Combi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "11km/1h.30min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Piura/Huancabamba/El Carmen De La Frontera - Piura/Huancabamba/El Carmen De La Frontera",
+      "detalle": "Centro Poblado Selva Andina - Laguna de la Estrella",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A caballo",
+      "tipo_via": "Camino de Herradura",
+      "distancia_tiempo": "5 Km/ 2h. aprox."
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "173",
+      "horario": "Libro de Registro de Visitantes",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "147",
+      "horario": "Libro de Registro de Visitantes",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "2",
+      "horario": "Libro de Registro de Visitantes",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "07:00 a.m. - 04:30 p.m. Se recomienda realizar la visita en los meses de junio, julio y agosto por la escaza presencia de lluvias.",
+      "observaciones": "Se recomienda realizar la visita en los meses de junio, julio y agosto por la escaza presencia de lluvias."
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": "Se recomienda llevar agua,bloqueador solar, gorra,calzado comodo y ropa impermeable"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Localidad de Huancabamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Localidad de Huancabamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Localidad de Huancabamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "Localidad de Huancabamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Localidad de Huancabamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "Localidad de Huancabamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Puesto de auxilio rápido",
+      "observacion": "Localidad de Huancabamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Localidad de Huancabamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Peñas",
+      "observacion": "Localidad de Huancabamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Localidad de Huancabamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "Localidad de Huancabamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Localidad de Huancabamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de Caballos",
+      "observacion": "Cas. Selva Andina"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Localidad de Huancabamba"
+    }
+  ],
+  "descripcion": "La Laguna de la Estrella, se ubica a 3,677 msnm. En la región natural Suni, en la Cordillera de Huamaní distrito de El Carmen de la Frontera, provincia de Huancabamba, es parte del predio rural conocido como Punta de Río, cerca de los centros poblados de El Porvenir y Selva Andina. Esta laguna se encuentra dentro de la ruta Camino Inca. La temperatura de sus aguas oscila entre 5 a 7 °C, posee una profundidad máxima de 2 metros aproximadamente, aunque en sus orillas la profundidad no excede 1.50 m., permitiendo bañarse con comodidad. La precipitación es relativamente alta de aproximadamente 900-2,500 mm/ año, el ambiente es nuboso y muy húmedo, forma parte de un complejo de más de 30 lagunas conocidas como “Huaringas” o “Huarinjas”; además, se encuentra dentro del Ecosistema Páramo Andino, el cual forma un corredor biológico que viene desde el norte, uniéndose con los páramos del Ecuador (Parque Nacional Yacuri), y se continúa hacia el sur por encima de los 2,900 msnm, hasta el Santuario Natural Tabaconas - Namballe. El entorno de esta laguna posee una cubierta vegetal principalmente herbácea, conocida localmente como “pajonal”. El 60% de la flora del páramo es endémica (exclusiva de los páramos), y entre estas se encuentra gran cantidad de hierbas medicinales con alto poder curativo; así mismo, la fauna de los páramos, tiene alta capacidad para adaptarse a las condiciones ambientales adversas, siendo las aves el grupo más diverso y heterogéneo, seguida por otros grupos como los mamíferos, anfibios y reptiles, entre ellos el Oso de Anteojos, Venado Cola Gris y el Tapir Andino, especies que se encuentran en peligro de extinción. La Laguna de la Estrella, se le atribuyen poderes para atraer la suerte, especialmente en el amor, por ello los “chamanes” la prefieren para realizar los “amarres” amorosos, un ritual para unir parejas; también es considerada por su poder especial para despejar la mente de los maestros curanderos y recuperar las energías para continuar con sus labores de sanación. Es una laguna poco visitada, pues el camino no está definido. Es necesaria la contratación de un guía local o ir acompañado de los maestros curanderos.",
+  "particularidades": "",
+  "estado_actual": "Se encuentra en buen estado de conservación. Son los pobladores de El Porvenir y Selva Andina quienes realizan la limpieza, ya que se desempeñan como orientadores locales.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "La Laguna de la Estrella, se ubica a 3,677 msnm. En la región natural Suni, en la Cordillera de Huamaní distrito de El Carmen de la Frontera, provincia de Huancabamba, es parte del predio rural conocido como Punta de Río, cerca de los centros poblados de El Porvenir y Selva Andina. Esta laguna se encuentra dentro de la ruta Camino Inca. La temperatura de sus aguas oscila entre 5 a 7 °C, posee una profundidad máxima de 2 metros aproximadamente, aunque en sus orillas la profundidad no excede 1.50 m., permitiendo bañarse con comodidad. La precipitación es relativamente alta de aproximadamente 900-2,500 mm/ año, el ambiente es nuboso y muy húmedo, forma parte de un complejo de más de 30 lagunas conocidas como “Huaringas” o “Huarinjas”; además, se encuentra dentro del Ecosistema Páramo Andino, el cual forma un corredor biológico que viene desde el norte, uniéndose con los páramos del Ecuador (Parque Nacional Yacuri), y se continúa hacia el sur por encima de los 2,900 msnm, hasta el Santuario Natural Tabaconas - Namballe. El entorno de esta laguna posee una cubierta vegetal principalmente herbácea, conocida localmente como “pajonal”. El 60% de la flora del páramo es endémica (exclusiva de los páramos), y entre estas se encuentra gran cantidad de hierbas medicinales con alto poder curativo; así mismo, la fauna de los páramos, tiene alta capacidad para adaptarse a las condiciones ambientales adversas, siendo las aves el grupo más diverso y heterogéneo, seguida por otros grupos como los mamíferos, anfibios y reptiles, entre ellos el Oso de Anteojos, Venado Cola Gris y el Tapir Andino, especies que se encuentran en peligro de extinción. La Laguna de la Estrella, se le atribuyen poderes para atraer la suerte, especialmente en el amor, por ello los “chamanes” la prefieren para realizar los “amarres” amorosos, un ritual para unir parejas; también es considerada por su poder especial para despejar la mente de los maestros curanderos y recuperar las energías para continuar con sus labores de sanación. Es una laguna poco visitada, pues el camino no está definido. Es necesaria la contratación de un guía local o ir acompañado de los maestros curanderos."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Se encuentra en buen estado de conservación. Son los pobladores de El Porvenir y Selva Andina quienes realizan la limpieza, ya que se desempeñan como orientadores locales."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nVisitantes Locales(Excursionistas)\n173\nLibro de Registro de Visitantes\n2023\nRegistro realizado de Enero a Diciembre del año 2023.\nTuristas Nacionales\n147\nLibro de Registro de Visitantes\n2023\nRegistro realizado de Enero a Diciembre del año 2023.\nTuristas Extranjeros\n2\nLibro de Registro de Visitantes\n2023\nRegistro realizado de Enero a Diciembre del año 2023."
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nPiura/Piura/Castilla\n-\nPiura/Huancabamba/Huancabamba\nTerminal Terrestre de Castilla - Terminal Terrestre Huancabamba\nTerrestre\nBus público\nAfirmado\n214 km / 6 horas\n1\nPiura/Huancabamba/Huancabamba\n-\nPiura/Huancabamba/El Carmen De La Frontera\nTerminal Terrestre de Huancabamba - Centro Poblado Selva Andina\nTerrestre\nCombi\nAsfaltado\n11km/1h.30min\n1\nPiura/Huancabamba/El Carmen De La Frontera\n-\nPiura/Huancabamba/El Carmen De La Frontera\nCentro Poblado Selva Andina - Laguna de la Estrella\nTerrestre\nA caballo\nCamino de Herradura\n5 Km/ 2h. aprox."
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre\nSe recomienda llevar agua,bloqueador solar, gorra,calzado comodo y ropa impermeable"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n07:00 a.m.\n-\n04:30 p.m.\nSe recomienda realizar la visita en los meses de junio, julio y agosto por la escaza presencia de lluvias."
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nEstudios e Investigación\n--\nNaturaleza\nObservación de fauna\n(Tremarctos ornatus, Tapirus pinchaque, Odocoileus virginianus etc)\nNaturaleza\nObservación de flora\n(Puya aff, Gualtheria foliosa)\nNaturaleza\nObservación de paisaje\nAlrededores de la Laguna\nNaturaleza\nObservación de aves\n(Colaptes rupícola y Zonotrichia capensis)\nCultura y Folclore\nRituales místicos o tradicionales\nOrillas de la Laguna\nDeportes / Aventura\nCaminata/Trekking\nAlrededores de la Laguna\nPaseos\nPaseos a caballo\nRuta hacia la Laguna"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nLocalidad de Huancabamba\nAlimentación\nRestaurantes\nLocalidad de Huancabamba\nAlimentación\nKioskos de comida y bebidas\nLocalidad de Huancabamba\nServicios Públicos\nCaminos peatonales\nLocalidad de Huancabamba\nServicios Públicos\nOficina de Información turística\nLocalidad de Huancabamba\nServicios Públicos\nSeñales turísticas de orientación\nLocalidad de Huancabamba\nServicios Públicos\nPuesto de auxilio rápido\nLocalidad de Huancabamba\nLugares de Recreación\nDiscotecas\nLocalidad de Huancabamba\nLugares de Recreación\nPeñas\nLocalidad de Huancabamba\nLugares de Recreación\nCentros Deportivos\nLocalidad de Huancabamba\nLugares de Recreación\nKaraoke\nLocalidad de Huancabamba\nLugares de Recreación\nBares\nLocalidad de Huancabamba\nOtros Servicios Turísticos\nAlquiler de Caballos\nCas. Selva Andina\nAlimentación\nBares\nLocalidad de Huancabamba"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nLocalidad de Huancabamba\nEstación de servicios, grifos, gasolineras y gasocentros\nLocalidad de Huancabamba\nCentro de salud - tópico\nLocalidad de Huancabamba\nSeguridad / POLTUR / Comisaría\nLocalidad de Huancabamba\nBancos\nLocalidad de Huancabamba\nCajero automático\nLocalidad de Huancabamba\nLibrerías\nLocalidad de Huancabamba"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nSeñalización turística\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nLocalidad de Huancabamba\nLuz (Suministro Eléctrico)\nLocalidad de Huancabamba\nTeléfono\nLocalidad de Huancabamba\nSeñalización turística\nLocalidad de Huancabamba\nAlcantarillado sanitario\nLocalidad de Huancabamba"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nMunicipalidad Provincial de Huancabamba\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nEn proceso. Se esta trabajando para el Saneamiento Físico Legal.\nAdministrador por\nNombre\nMunicipalidad Provincial de Huancabamba\nTiempo de administración\nDesde 1987"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDIRECCIÓN REGIONAL DE COMERCIO EXTERIOR Y TURISMO DE PIURA\nNombre (Persona(s) responsable(s) del inventario turístico):\nRichard Neira Colmenares\nCargo:\nDirector Regional.\nCorreo:\nrneira@regionpiura.gob.pe\nTeléfono:\n984448829\nFuentes Bibliográfica:\n1.-MUNICIPALIDAD PROVINCIAL DE HUANCABAMBA.PLAN DE DESARROLLO TURÍSTICO DE LA PROVINCIA DE HUANCABAMBA.2002.PP.116 2.-MUNICIPALIDAD PROVINCIAL DE HUANCABAMBA.PLAN DE DESARROLLO TURÍSTICO SOSTENIBLE PARA LA PROVINCIA DE HUANCABAMBA 2013 AL 2021.PP.80 3.-DELAPORTE.MARINE.RESULTADOS DE LA INVESTIGACIÓN REALIZADA CON EL COMITÉ DE GESTIÓN TURÍSTICO ESOTÉRICO LAS HUARINGAS - SALALÁ SOBRE EL AMBIENTE Y LA CULTURA LOCAL PARA LA IMPLEMENTACIÓN DEL CENTRO DE INFORMACIÓN DEL CURANDERISMO.2011.PP.44 4.-NOVOA COVA.JORGE-CRESPO MORE. SEGUNDO - VILLEGAS OGOÑA.PAOLO. HUANCABAMBA.PÁRAMOS.BOSQUES Y BIODIVERSIDAD.THE MOUNTAIN INSTITUTE.2011.PP.55 5.-VILLEGAS OGOÑA.H.PAOLO.PLANTAS ÚTILES EN LA MEDICINA TRADICIONAL DE HUANCABAMBA.THE MOUNTAIN INSTITUTE.2011.PP.147 6.- VV.AA.FAUNA ANDINA DE HUANCABAMBA.THE MOUNTAIN INSTITUTE.2011.PP.125 7.-BERECHE ALBIRENA.ROSA MARIELLA - RONDÁN RAMIREZ.VIDAL.HUANCABAMBA, VALORES Y OPORTUNIDADES PARA LA CONSERVACIÓN Y EL DESARROLLO SOSTENIBLE.THE MOUNTAIN INSTITUTE.PP.29\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n1/07/2024 12:18:13"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -5.0006582230324925,
+    "longitud": -79.36660766601562
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-5.0006582230324925,-79.36660766601562"
+}

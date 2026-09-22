@@ -1,0 +1,409 @@
+{
+  "cod_ficha": 1869,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=1869",
+  "nombre": "Baños Termales La Calera",
+  "departamento": "Pasco",
+  "provincia": "Pasco",
+  "distrito": "HUAYLLAY",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "k. Agua termo-mineral",
+  "subtipo": "Otros",
+  "jerarquia": "2",
+  "altitud": "4243 m.s.n.m",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=502757",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=502757",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=502719",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=502758",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=502759",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=502720",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=502722",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=502760",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=502723",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=502761"
+  ],
+  "actividades_permitidas": [
+    "Otros - Compras de artesanía/souvenir",
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Estudios e Investigación",
+    "Deportes acuáticos - Natación",
+    "Naturaleza - Observación de paisaje",
+    "Cultura y Folclore - Visita y participación en actividades de vida cotidiana de la comunidad"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Compras de artesanía/souvenir",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/artesania02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Deportes acuáticos",
+      "tipo": "Natación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/natacion02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Visita y participación en actividades de vida cotidiana de la comunidad",
+      "observacion": "--",
+      "icono_url": null
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Pasco/Pasco/Chaupimarca - Pasco/Pasco/Huayllay",
+      "detalle": "Paradero Huayllay-Baños Termales la Calera",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Combi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "44 km/ 40 minutos"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Lima/Lima/Independencia - Pasco/Pasco/Chaupimarca",
+      "detalle": "Plaza Norte-Terminal Terrestre de Pasco",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "246 km/ 8 hora"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Pasco/Pasco/Chaupimarca - Pasco/Pasco/Chaupimarca",
+      "detalle": "Terminal Terrestre de Pasco- Paradero Huayllay",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "500 metros/3 minutos"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Pasco/Pasco/Chaupimarca - Pasco/Pasco/Huayllay",
+      "detalle": "Paradero Huayllay-Baños Termales la Calera",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Combi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "44 km/ 40 minutos"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "16",
+      "horario": "Registro de Visitantes de los Baños Termales de la Calera",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "1330",
+      "horario": "Registro de Visitantes de los Baños Termales de la Calera",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "1109",
+      "horario": "Registro de Visitantes de los Baños Termales de la Calera",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "09:00 a.m. - 05:00 p.m. --",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "Tarifas: De 5 a 10 años: s/. 4.00 De 11 años a más: s/. 5.00"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Estacionamiento",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "1 a 3 estrellas - Ciudad de Chaupimarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Chaupimarca/Localidad de Huayllay"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Chaupimarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Ciudad de Chaupimarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "Ciudad de Chaupimarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Chaupimarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Chaupimarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Chaupimarca/Localidad de Huayllay"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Chaupimarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Ciudad de Chaupimarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Ciudad de Chaupimarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "1 a 3 estrellas - Ciudad de Chaupimarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Apart-hoteles (especificar categorías)",
+      "observacion": "3 estrellas - Ciudad de Chaupimarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Chaupimarca/Localidad de Huayllay"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "Ciudad de Chaupimarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "Ciudad de Chaupimarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "Ciudad de Chaupimarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Oficina de la Dircetur Pasco - Ciudad de Yanacancha"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "Ciudad de Chaupimarca/Localidad de Huayllay"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Otros (especificar)",
+      "observacion": "Casa Museo - Ciudad de Chaupimarca"
+    }
+  ],
+  "descripcion": "Se encuentra a 40 minutos en vehículo motorizado de la localidad de Huayllay, al noreste de la ciudad de Pasco; a una altitud de 4 243 m.s.n.m.\nProviene de un río subterráneo que pasa por el centro de un volcán inactivo. De acuerdo al análisis realizado en el laboratorio de la Universidad Nacional Agraria, las aguas contienen una composición química en potasio, sodio, sulfatos, calcio, magnesio, cloruro y otras sustancias, que le atribuyen beneficios para el sistema neuromuscular y nervioso, y\nalcanzan una temperatura de 60 °C.\nEl recurso está rodeado por una geografía propia de la meseta de Bombón que, están cubiertas por un manto de ichu.\nHoy en día, estas aguas termo medicinales funcionan como centro recreativo, la cual es administrado por la Comunidad Campesina de Huayllay. Comprende cuatro instalaciones: La primera posee ocho pozas individuales y una piscina bajo techo con paredes de vidrio, restaurante y servicios higiénicos. La segunda es conocida como sauna y es de forma circular, cuenta con 6 pozas privadas, servicios higiénicos y restaurante con cocina. La tercera posee una piscina semicircular con una cueva que desde sus profundidades brota el agua termal, una piscina semiolímpica moderna, tres duchas, vestuarios y servicios higiénicos. La cuarta instalación tiene una piscina, vestuarios con paredes de piedra y cemento y servicios higiénicos. A su vez, laa Calera posee un establecimiento de hospedaje de 4 pisos, playa de estacionamiento y juego para niños.\nSe observa en las afueras del recurso, una plazoleta con una réplica de la figura pétrea de La Alpaca, además de stands que ofrecen comidas típicas, dulces, bebidas y ropas de baño.\nCuenta con certificado de INGEMMET.",
+  "particularidades": "",
+  "estado_actual": "Bueno, porque la comunidad campesina de Huayllay realiza el mantenimiento constante.",
+  "observaciones": "Se mantuvo cerrada en toda la temporada de la pandemia y fue aperturada en el mes de marzo del 2023.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Se encuentra a 40 minutos en vehículo motorizado de la localidad de Huayllay, al noreste de la ciudad de Pasco; a una altitud de 4 243 m.s.n.m.\nProviene de un río subterráneo que pasa por el centro de un volcán inactivo. De acuerdo al análisis realizado en el laboratorio de la Universidad Nacional Agraria, las aguas contienen una composición química en potasio, sodio, sulfatos, calcio, magnesio, cloruro y otras sustancias, que le atribuyen beneficios para el sistema neuromuscular y nervioso, y\nalcanzan una temperatura de 60 °C.\nEl recurso está rodeado por una geografía propia de la meseta de Bombón que, están cubiertas por un manto de ichu.\nHoy en día, estas aguas termo medicinales funcionan como centro recreativo, la cual es administrado por la Comunidad Campesina de Huayllay. Comprende cuatro instalaciones: La primera posee ocho pozas individuales y una piscina bajo techo con paredes de vidrio, restaurante y servicios higiénicos. La segunda es conocida como sauna y es de forma circular, cuenta con 6 pozas privadas, servicios higiénicos y restaurante con cocina. La tercera posee una piscina semicircular con una cueva que desde sus profundidades brota el agua termal, una piscina semiolímpica moderna, tres duchas, vestuarios y servicios higiénicos. La cuarta instalación tiene una piscina, vestuarios con paredes de piedra y cemento y servicios higiénicos. A su vez, laa Calera posee un establecimiento de hospedaje de 4 pisos, playa de estacionamiento y juego para niños.\nSe observa en las afueras del recurso, una plazoleta con una réplica de la figura pétrea de La Alpaca, además de stands que ofrecen comidas típicas, dulces, bebidas y ropas de baño.\nCuenta con certificado de INGEMMET."
+    },
+    {
+      "titulo": "Particularidades",
+      "contenido": ""
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, porque la comunidad campesina de Huayllay realiza el mantenimiento constante."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "Se mantuvo cerrada en toda la temporada de la pandemia y fue aperturada en el mes de marzo del 2023."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n16\nRegistro de Visitantes de los Baños Termales de la Calera\n2023\nEl ingreso consta desde el mes de marzo hasta septiembre del 2023. Ya que en los años anteriores por pandemia estuvo cerrado. Información validada por la Dircetur Pasco.\nTuristas Nacionales\n1330\nRegistro de Visitantes de los Baños Termales de la Calera\n2023\nEl ingreso consta desde el mes de marzo hasta septiembre del 2023. Ya que en los años anteriores por pandemia estuvo cerrado. Información validada por la Dircetur Pasco.\nVisitantes Locales(Excursionistas)\n1109\nRegistro de Visitantes de los Baños Termales de la Calera\n2023\nEl ingreso consta desde el mes de marzo hasta septiembre del 2023. Ya que en los años anteriores por pandemia estuvo cerrado. Información validada por la Dircetur Pasco."
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nPasco/Pasco/Chaupimarca\n-\nPasco/Pasco/Huayllay\nParadero Huayllay-Baños Termales la Calera\nTerrestre\nCombi\nAsfaltado\n44 km/ 40 minutos\n2\nLima/Lima/Independencia\n-\nPasco/Pasco/Chaupimarca\nPlaza Norte-Terminal Terrestre de Pasco\nTerrestre\nBus público\nAsfaltado\n246 km/ 8 hora\n2\nPasco/Pasco/Chaupimarca\n-\nPasco/Pasco/Chaupimarca\nTerminal Terrestre de Pasco- Paradero Huayllay\nTerrestre\nA pie\nAsfaltado\n500 metros/3 minutos\n2\nPasco/Pasco/Chaupimarca\n-\nPasco/Pasco/Huayllay\nParadero Huayllay-Baños Termales la Calera\nTerrestre\nCombi\nAsfaltado\n44 km/ 40 minutos"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nTarifas:\nDe 5 a 10 años: s/. 4.00\nDe 11 años a más: s/. 5.00"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n09:00 a.m.\n-\n05:00 p.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nCompras de artesanía/souvenir\n--\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nEstudios e Investigación\n--\nDeportes acuáticos\nNatación\n--\nNaturaleza\nObservación de paisaje\n--\nCultura y Folclore\nVisita y participación en actividades de vida cotidiana de la comunidad\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\n--\nInstalaciones Privadas\nAlimentación\nRestaurantes\n--\nInstalaciones Privadas\nAlimentación\nKioskos de comida y bebidas\n--\nInstalaciones Privadas\nLugares de Recreación\nJuegos Infantiles\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nVenta de artesanía\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nServicio de Estacionamiento\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHostales (especificar categorías)\n1 a 3 estrellas - Ciudad de Chaupimarca\nAlimentación\nRestaurantes\nCiudad de Chaupimarca/Localidad de Huayllay\nLugares de Recreación\nDiscotecas\nCiudad de Chaupimarca\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nCiudad de Chaupimarca\nLugares de Recreación\nKaraoke\nCiudad de Chaupimarca\nLugares de Recreación\nBares\nCiudad de Chaupimarca\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Chaupimarca\nAlimentación\nBares\nCiudad de Chaupimarca/Localidad de Huayllay\nAlimentación\nCafeterías\nCiudad de Chaupimarca\nAlimentación\nFuentes de soda\nCiudad de Chaupimarca\nAlimentación\nVenta de comida Rápida\nCiudad de Chaupimarca\nAlojamiento\nHoteles (especificar categorías)\n1 a 3 estrellas - Ciudad de Chaupimarca\nAlojamiento\nApart-hoteles (especificar categorías)\n3 estrellas - Ciudad de Chaupimarca\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Chaupimarca/Localidad de Huayllay\nServicios Públicos\nMiradores turísticos\nCiudad de Chaupimarca\nServicios Públicos\nSeñales turísticas de orientación\nCiudad de Chaupimarca\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\nCiudad de Chaupimarca\nServicios Públicos\nOficina de Información turística\nOficina de la Dircetur Pasco - Ciudad de Yanacancha\nServicios Públicos\nCaminos peatonales\nCiudad de Chaupimarca/Localidad de Huayllay\nServicios Públicos\nOtros (especificar)\nCasa Museo - Ciudad de Chaupimarca"
+    },
+    {
+      "titulo": "Servicios Complementarios dentro del recurso",
+      "contenido": "Servicio Complementario\nObservación\nServicio de estacionamiento\n--\nBodegas o minimarkets\n--"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Chaupimarca/Localidad de Huayllay\nBancos\nCiudad de Chaupimarca\nCajero automático\nCiudad de Chaupimarca\nCasa de cambio\nCiudad de Chaupimarca\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Chaupimarca\nServicio de estacionamiento\nCiudad de Chaupimarca\nServicios de taxis\nCiudad de Chaupimarca\nCentro de salud - tópico\nCiudad de Chaupimarca / Localidad de Huayllay\nVenta de materiales para fotografías\nCiudad de Chaupimarca\nSeguridad / POLTUR / Comisaría\nCiudad de Chaupimarca / Localidad de Huayllay\nAlquiler y compra de equipos deportivos\nCiudad de Chaupimarca\nLibrerías\nCiudad de Chaupimarca\nBodegas o minimarkets\nCiudad de Chaupimarca"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\n--\nLuz (Suministro Eléctrico)\n--\nTeléfono\nBitel, Claro, Movistar, Entel\nSeñalización turística\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Chaupimarca /Localidad de Huayllay\nAlcantarillado sanitario\nCiudad de Chaupimarca\nLuz (Suministro Eléctrico)\nCiudad de Chaupimarca / Localidad de Huayllay\nTeléfono\nCiudad de Chaupimarca / Localidad de Huayllay\nSeñalización turística\nCiudad de Chaupimarca"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\n--\nPrivado:\nComunidad Campesina de Huayllay\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nPartida\nNúmero de Partida:\n11003584\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nComunidad Campesina de Huayllay\nTiempo de administración\nDesde el año 1999."
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo de Pasco\nNombre (Persona(s) responsable(s) del inventario turístico):\nLic. Ana María Mamani Olivas\nCargo:\nDirectora de Turismo\nCorreo:\nmaryanaamo@gmail.com\nTeléfono:\n962071730\nFuentes Bibliográfica:\n1) Libro “Inventario de Recursos Turísticos del Distrito de Vicco”. Dircetur Pasco. Pasco, 2007.\n2) Libro “Maravilla Geológica Del Perú y Del Mundo” por INGEMMET. Lima, 2016.\n3) Baños Termales La Calera de Pasco con propiedades curativas. Autor: PV Peru en Videos (Portal Web): https://www.peruenvideos.com/banos-termales-la-calera-propiedades-curativas-pasco/\n4) Baños termales La Calera – Pasco. Autor: Y tú que planes? Página oficial de Promperu (Portal Web) - https://www.ytuqueplanes.com/destinos/pasco/provincia-de-pasco/banos-termales-la-calera-pasco\n5) Turismo en Baños Termales de Calera. Autor: Turismoi.pe (Portal Web) - https://turismoi.pe/naturaleza/banos-termales/banos-termales-de-calera.htm\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n6/10/2023 22:22:18"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -10.985104001279977,
+    "longitud": -76.34405851364136
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-10.985104001279977,-76.34405851364136"
+}

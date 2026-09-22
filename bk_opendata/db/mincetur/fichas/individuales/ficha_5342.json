@@ -1,0 +1,266 @@
+{
+  "cod_ficha": 5342,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=5342",
+  "nombre": "Bosque Ojos De Agua",
+  "departamento": "San Martín",
+  "provincia": "Picota",
+  "distrito": "PUCACACA",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "n. Áreas Protegidas",
+  "subtipo": "Bosques de protección",
+  "jerarquia": "2",
+  "altitud": "447",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=493033",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=493033",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=493076",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=493077",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=493078",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=493034"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Paseos - Excursiones",
+    "Otros - Estudios e Investigación",
+    "Naturaleza - Observación de fauna",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de paisaje",
+    "Cultura y Folclore - Rituales místicos o tradicionales",
+    "Deportes / Aventura - Caminata/Trekking",
+    "Deportes / Aventura - Camping"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Paseos",
+      "tipo": "Excursiones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/excursiones02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de fauna",
+      "observacion": "Añuje, majas, iguana, serpientes, anfibios, aves (tangaras, colibríes)",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fauna02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "Quinilla (Manilkara bidentata), Helecho Corona de los Ángeles (Platycerium andinum), Manchinga (Brosimum alicastrum), comunidades de Shapaja (Attalea morei) Poloponta (Phytelephas macrocarpa).",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Rituales místicos o tradicionales",
+      "observacion": "Toma de Ayahuasca",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/rituales_misticos02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Camping",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/camping02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "San Martín/San Martín/Tarapoto - San Martín/Picota/Pucacaca",
+      "detalle": "Plaza Mayor de Tarapoto - Plaza del distrito de Pucacaca",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "70 km / 1 h 5 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "San Martín/Picota/Pucacaca - San Martín/Picota/Pucacaca",
+      "detalle": "Plaza del distrito de Pucacaca - Sector Valle Oeste",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Camioneta doble tracción",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "6.5 km/ 20 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "San Martín/Picota/Pucacaca - San Martín/Picota/Pucacaca",
+      "detalle": "Sector Valle Oeste - Bosque Ojos de Agua",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Camioneta doble tracción",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "8.1 km /40 min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "8",
+      "horario": "Administración Bosque Ojos de agua",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "109",
+      "horario": "Administración Bosque Ojos de agua",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "08:00 a.m. - 05:00 p.m. Lunes a domingo. Se recomienda llevar repelente, bloqueador solar, agua en tomatodo, zapatillas para caminata y ropa de manga larga y pantalones largos.",
+      "observaciones": "Lunes a domingo. Se recomienda llevar repelente, bloqueador solar, agua en tomatodo, zapatillas para caminata y ropa de manga larga y pantalones largos."
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Semi-restringido(previo permiso)",
+      "observaciones": "Precio de entrada: Adultos S/ 15.00 - Niños S/8.00. Previa coordinación con la asociación ABOFOA al teléfono 980999354"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicios Higiénicos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Localidad de Picota"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Localidad de Picota"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Localidad de Picota"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Localidad de Picota"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Localidad de Picota"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Localidad de Picota"
+    }
+  ],
+  "descripcion": "Se ubica en la margen izquierda del río Huallaga en los distritos de Pucacaca, Caspizapa y Picota, provincia de Picota, departamento San Martín; además forma parte de un importante corredor Biológico constituida por dos concesiones para conservación: CC “Ampinakuna sacha” y la CC “Los Bosques de Pailayco”.\nEl rango altitudinal de la CC fluctúa entre los 266 a 629 m.s.n.m. ubicándola en la región natural Selva Baja, según el Doctor Javier Pulgar y Vidal. Presenta un clima tropical seco, la temperatura máxima promedio anual es de 35¿°C, incrementándose en los meses de agosto a diciembre y una mínima de 21.5¿°C, especialmente entre julio a octubre.\nPosee una superficie de 2 413.13 ha y un perímetro de 54 291.87 metros lineales. En flora se han registrado 78 comunidades vegetales, distribuidos en 21 órdenes y 35 familias, de las cuales hay 3 especies en estado de amenaza: Schinopsis peruviana ha sido categorizada como especie En Peligro (EN), mientras que las 2 especies restantes se encuentran en la categoría de Vulnerables (VU), se trata de: Triplaris setosa var Woytkowskii e Inga tenuicalyx; en especies endémicas: Steriphoma peruvianum, Triplaris setosa var. Woytkowskii, Senna loretensis, Inga tenuicalyx y Schinopsis peruviana, además habitan especies como el Helecho, Corona de los Ángeles, quinilla, manchinga, palmeras de shapaja, poloponta, pijuayo, pona, entre otras.\nSobre la fauna silvestre, se cuenta con 127 registros distribuidos entre mamíferos, aves, reptiles y anfibios, de las cuales hay especies en estado de amenaza, como el Plecturocebus oenanthe se encuentra categorizada como especie en Peligro Crítico (CR), mientras que, Tayassu pecari ha sido clasificada como especie en estado Vulnerable (VU) y se han identificado 2 especies endémicas, ambas pertenecientes al orden primates, se trata de Plecturocebus oenanthe y Leontocebus leucogenys; además en el bosque se encuentran el venado colorado, huangana, sajino, tigrillo, murciélago frugívoro grande, carachupa o armadillo, oso hormiguero marrón, cotomono, mono tocón de San Martín, entre otras especies silvestres.\nGeológicamente, existen zanjas que aparecen como quebradas con pozas y cascadas, salvo en época de lluvias que se mantienen secas. En las partes media y alta de las colinas, estas zanjas forman los ojos de agua; orificios redondos o alargadas de unos 10 a 30 cm de profundidad y con diferentes diámetros, ubicados en la plancha de roca base.\nPara llegar al recurso, se inicia el recorrido en la localidad de Picota, por la vía vecinal afirmada (SM – 594) denominada Valle Oeste (Pucacaca – Valle Oeste) hasta el km 6.55, en un tiempo de 20 minutos, en este punto hay un desvío de trocha carrozable al lado izquierdo, por el cual se puede acceder al Bosque Ojos de Agua, por medio de motos lineales, furgonetas, combis (cuando el camino se encuentra en buen estado) o caminando durante 2 horas.\nEl Bosque Ojos de Agua es el lugar indicado para realizar actividades de observación de fauna silvestre, paisaje, flora, paseos educativos y orientativos, entre otras, ideal para el visitante que disfruta de la naturaleza con un enfoque de sostenibilidad.",
+  "particularidades": "",
+  "estado_actual": "Bueno, se encuentra en su estado natural y el administrador del recurso se encarga de su mantenimiento y conservación.",
+  "observaciones": "La Concesión para Conservación Ojos de Agua (CCOA), fue otorgado por el Gobierno Regional de San Martin (GORESAM) por cuarenta años a favor de la Asociación el Bosque del Futuro Ojos de Agua (ABOFOA), mediante Resolución Directoral 001-2010/DRASAM/DRNYAAA, de fecha 4 de mayo de 2010",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Se ubica en la margen izquierda del río Huallaga en los distritos de Pucacaca, Caspizapa y Picota, provincia de Picota, departamento San Martín; además forma parte de un importante corredor Biológico constituida por dos concesiones para conservación: CC “Ampinakuna sacha” y la CC “Los Bosques de Pailayco”.\nEl rango altitudinal de la CC fluctúa entre los 266 a 629 m.s.n.m. ubicándola en la región natural Selva Baja, según el Doctor Javier Pulgar y Vidal. Presenta un clima tropical seco, la temperatura máxima promedio anual es de 35¿°C, incrementándose en los meses de agosto a diciembre y una mínima de 21.5¿°C, especialmente entre julio a octubre.\nPosee una superficie de 2 413.13 ha y un perímetro de 54 291.87 metros lineales. En flora se han registrado 78 comunidades vegetales, distribuidos en 21 órdenes y 35 familias, de las cuales hay 3 especies en estado de amenaza: Schinopsis peruviana ha sido categorizada como especie En Peligro (EN), mientras que las 2 especies restantes se encuentran en la categoría de Vulnerables (VU), se trata de: Triplaris setosa var Woytkowskii e Inga tenuicalyx; en especies endémicas: Steriphoma peruvianum, Triplaris setosa var. Woytkowskii, Senna loretensis, Inga tenuicalyx y Schinopsis peruviana, además habitan especies como el Helecho, Corona de los Ángeles, quinilla, manchinga, palmeras de shapaja, poloponta, pijuayo, pona, entre otras.\nSobre la fauna silvestre, se cuenta con 127 registros distribuidos entre mamíferos, aves, reptiles y anfibios, de las cuales hay especies en estado de amenaza, como el Plecturocebus oenanthe se encuentra categorizada como especie en Peligro Crítico (CR), mientras que, Tayassu pecari ha sido clasificada como especie en estado Vulnerable (VU) y se han identificado 2 especies endémicas, ambas pertenecientes al orden primates, se trata de Plecturocebus oenanthe y Leontocebus leucogenys; además en el bosque se encuentran el venado colorado, huangana, sajino, tigrillo, murciélago frugívoro grande, carachupa o armadillo, oso hormiguero marrón, cotomono, mono tocón de San Martín, entre otras especies silvestres.\nGeológicamente, existen zanjas que aparecen como quebradas con pozas y cascadas, salvo en época de lluvias que se mantienen secas. En las partes media y alta de las colinas, estas zanjas forman los ojos de agua; orificios redondos o alargadas de unos 10 a 30 cm de profundidad y con diferentes diámetros, ubicados en la plancha de roca base.\nPara llegar al recurso, se inicia el recorrido en la localidad de Picota, por la vía vecinal afirmada (SM – 594) denominada Valle Oeste (Pucacaca – Valle Oeste) hasta el km 6.55, en un tiempo de 20 minutos, en este punto hay un desvío de trocha carrozable al lado izquierdo, por el cual se puede acceder al Bosque Ojos de Agua, por medio de motos lineales, furgonetas, combis (cuando el camino se encuentra en buen estado) o caminando durante 2 horas.\nEl Bosque Ojos de Agua es el lugar indicado para realizar actividades de observación de fauna silvestre, paisaje, flora, paseos educativos y orientativos, entre otras, ideal para el visitante que disfruta de la naturaleza con un enfoque de sostenibilidad."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, se encuentra en su estado natural y el administrador del recurso se encarga de su mantenimiento y conservación."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "La Concesión para Conservación Ojos de Agua (CCOA), fue otorgado por el Gobierno Regional de San Martin (GORESAM) por cuarenta años a favor de la Asociación el Bosque del Futuro Ojos de Agua (ABOFOA), mediante Resolución Directoral 001-2010/DRASAM/DRNYAAA, de fecha 4 de mayo de 2010"
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Nacionales\n8\nAdministración Bosque Ojos de agua\n2023\nEl registro de flujo de visitantes es de enero a junio 2023\nVisitantes Locales(Excursionistas)\n109\nAdministración Bosque Ojos de agua\n2023\nEl registro de flujo de visitantes es de enero a junio 2023"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nSan Martín/San Martín/Tarapoto\n-\nSan Martín/Picota/Pucacaca\nPlaza Mayor de Tarapoto - Plaza del distrito de Pucacaca\nTerrestre\nAutomóvil particular\nAsfaltado\n70 km / 1 h 5 min\n1\nSan Martín/Picota/Pucacaca\n-\nSan Martín/Picota/Pucacaca\nPlaza del distrito de Pucacaca - Sector Valle Oeste\nTerrestre\nCamioneta doble tracción\nAfirmado\n6.5 km/ 20 min\n1\nSan Martín/Picota/Pucacaca\n-\nSan Martín/Picota/Pucacaca\nSector Valle Oeste - Bosque Ojos de Agua\nTerrestre\nCamioneta doble tracción\nTrocha carrozable\n8.1 km /40 min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nSemi-restringido(previo permiso)\nPrecio de entrada: Adultos S/ 15.00 - Niños S/8.00. Previa coordinación con la asociación ABOFOA al teléfono 980999354"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n08:00 a.m.\n-\n05:00 p.m.\nLunes a domingo. Se recomienda llevar repelente, bloqueador solar, agua en tomatodo, zapatillas para caminata y ropa de manga larga y pantalones largos."
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nPaseos\nExcursiones\n--\nOtros\nEstudios e Investigación\n--\nNaturaleza\nObservación de fauna\nAñuje, majas, iguana, serpientes, anfibios, aves (tangaras, colibríes)\nNaturaleza\nObservación de flora\nQuinilla (Manilkara bidentata), Helecho Corona de los Ángeles (Platycerium andinum), Manchinga (Brosimum alicastrum), comunidades de Shapaja (Attalea morei) Poloponta (Phytelephas macrocarpa).\nNaturaleza\nObservación de paisaje\n--\nCultura y Folclore\nRituales místicos o tradicionales\nToma de Ayahuasca\nDeportes / Aventura\nCaminata/Trekking\n--\nDeportes / Aventura\nCamping\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nOtros Servicios Turísticos\nServicios Higiénicos\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nLocalidad de Picota\nAlimentación\nRestaurantes\nLocalidad de Picota\nAlimentación\nBares\nLocalidad de Picota\nAlimentación\nKioskos de comida y bebidas\nLocalidad de Picota\nAlimentación\nVenta de comida Rápida\nLocalidad de Picota\nLugares de Recreación\nDiscotecas\nLocalidad de Picota"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nBancos\nLocalidad de Picota\nServicios de internet\nLocalidad de Picota\nCajero automático\nLocalidad de Picota\nEstación de servicios, grifos, gasolineras y gasocentros\nLocalidad de Picota\nServicio de estacionamiento\nLocalidad de Picota\nServicios de taxis\nLocalidad de Picota\nCentro de salud - tópico\nLocalidad de Picota\nSeguridad / POLTUR / Comisaría\nLocalidad de Picota\nBodegas o minimarkets\nLocalidad de Picota"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nLocalidad de Picota\nLuz (Suministro Eléctrico)\nLocalidad de Picota\nTeléfono\nLocalidad de Picota\nSeñalización turística\nLocalidad de Picota\nAlcantarillado sanitario\nLocalidad de Picota"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nGobierno Regional de San Martín\nPrivado:\n--\nOtra Situación:\nConcesión para Conservación Ojos de Agua\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nContrato de concesión 22-SAM/C-CON-RD-001-10 entre la asociación ABOFOA y DRASAM - Gobierno Regional de San Martín\nAdministrador por\nNombre\nAsociación el Bosque del Futuro Ojos de Agua (ABOFOA)\nTiempo de administración\nDesde el año 2010"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo de San Martín - Bajo Mayo\nNombre (Persona(s) responsable(s) del inventario turístico):\nMiguel Isaias Torres Panduro\nCargo:\nEspecialista en Turismo\nCorreo:\ntorrespanduromiguel@gmail.com\nTeléfono:\n914964676\nFuentes Bibliográfica:\n1) Declaración de Manejo Concesión para Conservación Ojos de Agua. Autor: Asociación El Bosque del Futuro Ojos de Agua, 2021.\n2) Asociación Bosques del Futuro Ojos de Agua. Autor: Conservamos por Naturaleza (Página web), 2023 – Enlace: https://www.conservamospornaturaleza.org/area/asociacion-bosques-del-futuro-ojos-de-agua/\n3) Concesión para conservación Ojos de Agua valida su segunda Declaración de Manejo. Autor: AMPA Perú, 2021 - https://ampaperu.info/concesion-para-conservacion-ojos-de-agua-valida-su-segunda-declaracion-de-manejo/\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n24/07/2023 18:18:39"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -6.849409,
+    "longitud": -76.34115400000002
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-6.849409,-76.34115400000002"
+}

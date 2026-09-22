@@ -1,0 +1,328 @@
+{
+  "cod_ficha": 7270,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=7270",
+  "nombre": "Finca La Torre",
+  "departamento": "Pasco",
+  "provincia": "Oxapampa",
+  "distrito": "VILLA RICA",
+  "categoria": "4. REALIZACIONES TÉCNICAS, CIENTÍFICAS Y ARTÍSTICAS CONTEMPORÁNEAS",
+  "tipo": "Explotaciones Agropecuarias y Pesqueras",
+  "subtipo": "Agricultura",
+  "jerarquia": "2",
+  "altitud": "1508",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=503605",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=503605",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=503606",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=514726",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=514630",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=514634",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=514635",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=514636",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=514771",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=514772"
+  ],
+  "actividades_permitidas": [
+    "Otros - Compras de artesanía/souvenir",
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Estudios e Investigación",
+    "Otros - Otros(Especificar)",
+    "Naturaleza - Observación de paisaje"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Compras de artesanía/souvenir",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/artesania02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Otros(Especificar)",
+      "observacion": "Compra del producto café y derivados",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/otros02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Pasco/Oxapampa/Villa Rica - Pasco/Oxapampa/Villa Rica",
+      "detalle": "Plaza Principal de Villa Rica - Semáforo de Leopoldo Krausse con Belaunde Terry",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "0.85 km/ 3 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Pasco/Oxapampa/Villa Rica - Pasco/Oxapampa/Villa Rica",
+      "detalle": "Semáforo de Av. Leopoldo Krausse con Av. Fernando Belaunde Terry - Finca La Torre",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "0.95 km / 4 minutos"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "2972",
+      "horario": "Libro de registro de visitantes de Finca La Torre",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "6",
+      "horario": "Libro de registro de visitantes de la Finca La Torre",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "09:00 a.m. - 06:00 p.m. Lunes a domingo",
+      "observaciones": "Lunes a domingo"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "S/. 5.00 con el servicio de guiado, catación de café y degustación"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Villa Rica"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "Ciudad de Villa Rica"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Villa Rica"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Villa Rica"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "2 tenedores - Ciudad de Villa Rica"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Villa Rica"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Villa Rica"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Ciudad de Villa Rica"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Villa Rica"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Ciudad de Villa Rica"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "De 3,2 y 1 estrella - Ciudad de Villa Rica"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "De 2 y 1 estrella - Ciudad de Villa Rica"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Albergues",
+      "observacion": "Ciudad de Villa Rica"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Villa Rica"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Ciudad de Villa Rica"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "Ciudad de Villa Rica"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Centros de interpretación",
+      "observacion": "Ciudad de Villa Rica"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Ciudad de Villa Rica"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Muelles turísticos",
+      "observacion": "Puerto El Oconal - Ciudad de Villa Rica"
+    }
+  ],
+  "descripcion": "Finca La Torre cuenta con una extensión de 30 hectáreas, con terrenos altamente productivos. Desde 1925, dedicados a la producción y promoción de cultivos agrícolas y forestales. Principalmente a la producción de cafés de especialidad y sostenibles\nDesde los años 90´s trabajando en el intercambio de experiencias productivas; mediante pasantías y capacitación técnica a productores y técnicos de distintas regiones del país. Ya en el año 2018, amplía sus actividades productivas y turísticas a un público masivo; familiares, amigos y productores, en la promoción y fomento del consumo de cafés de especialidad. Destacando la historia, tradición y cultura cafetalera del distrito de Villa Rica, en el Tour “La Ruta del Café”\nEl recorrido inicia por las plantaciones de cafés, asociados con árboles nativos y exóticos; producidos en armonía con la conservación. Donde conocerás desde la semilla, el manejo de plantaciones y cosechas. Disfrutando de la belleza paisajística y productiva de la finca.",
+  "particularidades": "",
+  "estado_actual": "Muy bueno, los propietarios se encargan de mantener las instalaciones en buen estado.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Finca La Torre cuenta con una extensión de 30 hectáreas, con terrenos altamente productivos. Desde 1925, dedicados a la producción y promoción de cultivos agrícolas y forestales. Principalmente a la producción de cafés de especialidad y sostenibles\nDesde los años 90´s trabajando en el intercambio de experiencias productivas; mediante pasantías y capacitación técnica a productores y técnicos de distintas regiones del país. Ya en el año 2018, amplía sus actividades productivas y turísticas a un público masivo; familiares, amigos y productores, en la promoción y fomento del consumo de cafés de especialidad. Destacando la historia, tradición y cultura cafetalera del distrito de Villa Rica, en el Tour “La Ruta del Café”\nEl recorrido inicia por las plantaciones de cafés, asociados con árboles nativos y exóticos; producidos en armonía con la conservación. Donde conocerás desde la semilla, el manejo de plantaciones y cosechas. Disfrutando de la belleza paisajística y productiva de la finca."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Muy bueno, los propietarios se encargan de mantener las instalaciones en buen estado."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Nacionales\n2972\nLibro de registro de visitantes de Finca La Torre\n2023\nFlujo turístico de junio a diciembre 2023. Reinició actividades en junio 2023.\nTuristas Extranjeros\n6\nLibro de registro de visitantes de la Finca La Torre\n2023\nFlujo turístico de junio a diciembre 2023. Reinició actividades en junio 2023."
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nPasco/Oxapampa/Villa Rica\n-\nPasco/Oxapampa/Villa Rica\nPlaza Principal de Villa Rica - Semáforo de Leopoldo Krausse con Belaunde Terry\nTerrestre\nAutomóvil particular\nAsfaltado\n0.85 km/ 3 minutos\n1\nPasco/Oxapampa/Villa Rica\n-\nPasco/Oxapampa/Villa Rica\nSemáforo de Av. Leopoldo Krausse con Av. Fernando Belaunde Terry - Finca La Torre\nTerrestre\nAutomóvil particular\nAfirmado\n0.95 km / 4 minutos"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nS/. 5.00 con el servicio de guiado, catación de café y degustación"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n09:00 a.m.\n-\n06:00 p.m.\nLunes a domingo"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nCompras de artesanía/souvenir\n--\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nEstudios e Investigación\n--\nOtros\nOtros(Especificar)\nCompra del producto café y derivados\nNaturaleza\nObservación de paisaje\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nOtros Servicios Turísticos\nVenta de artesanía\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nLugares de Recreación\nDiscotecas\nCiudad de Villa Rica\nLugares de Recreación\nKaraoke\nCiudad de Villa Rica\nLugares de Recreación\nBares\nCiudad de Villa Rica\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Villa Rica\nAlimentación\nRestaurantes\n2 tenedores - Ciudad de Villa Rica\nAlimentación\nBares\nCiudad de Villa Rica\nAlimentación\nCafeterías\nCiudad de Villa Rica\nAlimentación\nFuentes de soda\nCiudad de Villa Rica\nAlimentación\nKioskos de comida y bebidas\nCiudad de Villa Rica\nAlimentación\nVenta de comida Rápida\nCiudad de Villa Rica\nAlojamiento\nHoteles (especificar categorías)\nDe 3,2 y 1 estrella - Ciudad de Villa Rica\nAlojamiento\nHostales (especificar categorías)\nDe 2 y 1 estrella - Ciudad de Villa Rica\nAlojamiento\nAlbergues\nCiudad de Villa Rica\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Villa Rica\nServicios Públicos\nEstacionamiento de vehículos\nCiudad de Villa Rica\nServicios Públicos\nSeñales turísticas de orientación\nCiudad de Villa Rica\nServicios Públicos\nCentros de interpretación\nCiudad de Villa Rica\nServicios Públicos\nOficina de Información turística\nCiudad de Villa Rica\nServicios Públicos\nMuelles turísticos\nPuerto El Oconal - Ciudad de Villa Rica"
+    },
+    {
+      "titulo": "Servicios Complementarios dentro del recurso",
+      "contenido": "Servicio Complementario\nObservación\nServicios de internet\n--\nServicio de estacionamiento\n--"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Villa Rica\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Villa Rica\nServicio de estacionamiento\nCiudad de Villa Rica\nServicios de taxis\nMototaxi - Ciudad de Villa Rica\nCentro de salud - tópico\nCiudad de Villa Rica\nSeguridad / POLTUR / Comisaría\nCiudad de Villa Rica\nAlquiler y compra de equipos deportivos\nCiudad de Villa Rica\nLibrerías\nCiudad de Villa Rica\nBodegas o minimarkets\nCiudad de Villa Rica\nBancos\nBanco de la Nación - Ciudad de Villa Rica\nCajero automático\nBanco de la Nación - Ciudad de Villa Rica"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\n--\nLuz (Suministro Eléctrico)\n--\nTeléfono\n--\nAlcantarillado sanitario\n--\nSeñalización turística\n--\nEnergía Alternativa\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCuidad de Villa Rica\nAlcantarillado sanitario\nCiudad de Villa Rica\nLuz (Suministro Eléctrico)\nCiudad de Villa Rica\nTeléfono\nCiudad de Villa Rica\nSeñalización turística\nCiudad de Villa Rica"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\n--\nPrivado:\nFrancisco T. La Torre Carbajal\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nMinuta\nAdministrador por\nNombre\nEdgar Luis La Torre Moscoso.\nTiempo de administración\nDesde el año 2018"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo Pasco Zonal Oxapampa\nNombre (Persona(s) responsable(s) del inventario turístico):\nTessy Loren Huamán De La Matta / Heidy Cristina Jimenez Bottger\nCargo:\nTécnico en turismo de la Dirección Zonal Oxapampa/ Sub gerente Desarrollo de Gestión empresarial y turismo de la Municipalidad Distrital de Villa Rica\nCorreo:\ncomercioexterioroxapampa@regionpasco.gob.pe/ sgturismo@munivillarica.gob.pe\nTeléfono:\n915989848 / 993053587\nFuentes Bibliográfica:\n1. El Comercio: Villa Rica: un recorrido imperdible por este paraíso cafetalero (portal web), 2019 - Enlace: https://elcomercio.pe/vamos/peru/villa-rica-un-recorrido-imperdible-por-este-paraiso-cafetalero-oxapampa-pasco-fotos-noticia/\n2. Turismo peruano: Finca La Torre (portal web), 2023 - Enlace: https://www.turismoperuano.com/finca-la-torre-pasco\n3. Viaja Libre: Villa Rica. Un gran destino a 9 horas de Lima (portal web), 2019 - Enlace: https://www.viajalibre.pe/villa-rica/\nMaterial Audiovisual actual del Recurso:\n--\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\nImplementación de entretenimiento casa típica para selfis en el año 2023\nFecha:\n11/01/2024 11:37:57"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -10.745114157463599,
+    "longitud": -75.27179718017578
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-10.745114157463599,-75.27179718017578"
+}

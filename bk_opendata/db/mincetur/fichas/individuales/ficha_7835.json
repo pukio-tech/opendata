@@ -1,0 +1,316 @@
+{
+  "cod_ficha": 7835,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=7835",
+  "nombre": "Laguna Del Toro",
+  "departamento": "Piura",
+  "provincia": "Huancabamba",
+  "distrito": "EL CARMEN DE LA FRONTERA",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "g. Cuerpo de Agua",
+  "subtipo": "Lagunas",
+  "jerarquia": "2",
+  "altitud": "3.561",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=468927",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=468927",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=470369",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=470370",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=470404"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Naturaleza - Observación de fauna",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de paisaje",
+    "Naturaleza - Observación de aves",
+    "Cultura y Folclore - Rituales místicos o tradicionales",
+    "Deportes / Aventura - Caminata/Trekking",
+    "Paseos - Paseos a caballo"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "En la ruta hacia la Laguna y alrededores",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de fauna",
+      "observacion": "(Tremarctos ornatus, Tapirus pinchaque, Odocoileus virginianus etc)",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fauna02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "(Puya aff, Gualtheria foliosa)",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "Alrededores y Cercanías de la Laguna",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de aves",
+      "observacion": "(Colaptes rupícola y Zonotrichia capensis)",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/aves02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Rituales místicos o tradicionales",
+      "observacion": "En la Laguna y alrededores",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/rituales_misticos02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "Ruta hacia la Laguna y alrededores",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    },
+    {
+      "actividad": "Paseos",
+      "tipo": "Paseos a caballo",
+      "observacion": "Ruta hacia la Laguna",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paseo_caballo02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Piura/Piura/Castilla - Piura/Huancabamba/Huancabamba",
+      "detalle": "Terminal Terrestre de Castilla Piura - Terminal Terrestre Huancabamba",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "214 km / 6 horas"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Piura/Huancabamba/Huancabamba - Piura/Huancabamba/El Carmen De La Frontera",
+      "detalle": "Terminal Terrestre Huancabamba - Poblado de Huar Huar",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Combi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "32 Km/ 2h"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Piura/Huancabamba/El Carmen De La Frontera - Piura/Huancabamba/El Carmen De La Frontera",
+      "detalle": "Poblado Huar Huar - Laguna del Toro",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Acémila",
+      "tipo_via": "Camino de Herradura",
+      "distancia_tiempo": "13 Km/ 2h."
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "155",
+      "horario": "Libro de Registro de Visitantes",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "392",
+      "horario": "Libro de Registro de Visitantes",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "10",
+      "horario": "Libro de Registro de Visitantes",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "07:00 a.m. - 04:00 p.m. Se recomienda realizar la visita en los meses de junio, julio y agosto ya que no hay muchas lluvias.",
+      "observaciones": "Se recomienda realizar la visita en los meses de junio, julio y agosto ya que no hay muchas lluvias."
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": "Se recomienda llevar agua,bloqueador solar, gorra,calzado comodo y ropa impermeable"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos de herradura (caballo)",
+      "observacion": "En el recurso"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Localidad de Huancabamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Localidad de Huancabamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Localidad de Huancabamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de Caballos",
+      "observacion": "Poblado Huar Huar"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Localidad de Huancabamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos de herradura (caballo)",
+      "observacion": "Poblado Huar Huar"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "Localidad de Huancabamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Puesto de auxilio rápido",
+      "observacion": "Localidad de Huancabamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Localidad de Huancabamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Peñas",
+      "observacion": "Localidad de Huancabamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Localidad de Huancabamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "Localidad de Huancabamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Localidad de Huancabamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Localidad de Huancabamba"
+    }
+  ],
+  "descripcion": "La laguna del Toro está ubicada a una altitud de 3,561 msnm. En la región natural Suni, en el caserío de Huar Huar, centro del poblado Salalá, distrito de El Carmen de la Frontera, en la provincia de Huancabamba. La temperatura de las aguas en esta laguna oscila entre 3 y 9°C. La precipitación es relativamente alta, de aproximadamente 900-2,500 mm al año. El ambiente es nuboso y muy húmedo; la temperatura ambiente en este espacio puede llegar a los 4°C como mínimo. Esta laguna tiene 8 metros de diámetro y tiene una profundidad de 2 metros aproximadamente y está ubicada dentro de un ecosistema frágil y se encuentra dentro de la Ruta del Camino Inca. Esta laguna recibe su nombre debido a una formación rocosa que se encuentra cerca de la laguna y que tiene la forma de un toro; también forma parte de un complejo de más de 30 lagunas conocidas como “Huaringas” o “Huarinjas”; además, se encuentra dentro del Ecosistema Páramo Andino. El entorno de esta laguna posee una cubierta vegetal principalmente herbácea, conocida localmente como “pajonal”. El 60 % de la flora y fauna del páramo es endémica (exclusiva de los páramos), y entre estas se encuentra gran cantidad de hierbas medicinales con alto poder curativo; así mismo, animales como el Oso de Anteojos, Venado Cola Gris y el Tapir Andino, especies que se encuentran en peligro de extinción. Entorno natural con plantas endémicas y/o medicinales, donde se realiza la práctica ancestral de la medicina tradicional. Curanderismo, herbolarios y caipadores (curación con cuyes).",
+  "particularidades": "",
+  "estado_actual": "Se encuentra en buen estado de conservación. Son los pobladores de Huar Huar quienes se encargan de su mantenimiento, ya que son ellos los que se benefician con las visitas a esta laguna.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "La laguna del Toro está ubicada a una altitud de 3,561 msnm. En la región natural Suni, en el caserío de Huar Huar, centro del poblado Salalá, distrito de El Carmen de la Frontera, en la provincia de Huancabamba. La temperatura de las aguas en esta laguna oscila entre 3 y 9°C. La precipitación es relativamente alta, de aproximadamente 900-2,500 mm al año. El ambiente es nuboso y muy húmedo; la temperatura ambiente en este espacio puede llegar a los 4°C como mínimo. Esta laguna tiene 8 metros de diámetro y tiene una profundidad de 2 metros aproximadamente y está ubicada dentro de un ecosistema frágil y se encuentra dentro de la Ruta del Camino Inca. Esta laguna recibe su nombre debido a una formación rocosa que se encuentra cerca de la laguna y que tiene la forma de un toro; también forma parte de un complejo de más de 30 lagunas conocidas como “Huaringas” o “Huarinjas”; además, se encuentra dentro del Ecosistema Páramo Andino. El entorno de esta laguna posee una cubierta vegetal principalmente herbácea, conocida localmente como “pajonal”. El 60 % de la flora y fauna del páramo es endémica (exclusiva de los páramos), y entre estas se encuentra gran cantidad de hierbas medicinales con alto poder curativo; así mismo, animales como el Oso de Anteojos, Venado Cola Gris y el Tapir Andino, especies que se encuentran en peligro de extinción. Entorno natural con plantas endémicas y/o medicinales, donde se realiza la práctica ancestral de la medicina tradicional. Curanderismo, herbolarios y caipadores (curación con cuyes)."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Se encuentra en buen estado de conservación. Son los pobladores de Huar Huar quienes se encargan de su mantenimiento, ya que son ellos los que se benefician con las visitas a esta laguna."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nVisitantes Locales(Excursionistas)\n155\nLibro de Registro de Visitantes\n2023\nRegistro realizado desde Enero a Diciembre del año 2023.\nTuristas Nacionales\n392\nLibro de Registro de Visitantes\n2023\nRegistro realizado desde Enero a Diciembre del año 2023.\nTuristas Extranjeros\n10\nLibro de Registro de Visitantes\n2023\nRegistro realizado desde Enero a Diciembre del año 2023."
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nPiura/Piura/Castilla\n-\nPiura/Huancabamba/Huancabamba\nTerminal Terrestre de Castilla Piura - Terminal Terrestre Huancabamba\nTerrestre\nBus público\nAsfaltado\n214 km / 6 horas\n1\nPiura/Huancabamba/Huancabamba\n-\nPiura/Huancabamba/El Carmen De La Frontera\nTerminal Terrestre Huancabamba - Poblado de Huar Huar\nTerrestre\nCombi\nAsfaltado\n32 Km/ 2h\n1\nPiura/Huancabamba/El Carmen De La Frontera\n-\nPiura/Huancabamba/El Carmen De La Frontera\nPoblado Huar Huar - Laguna del Toro\nTerrestre\nAcémila\nCamino de Herradura\n13 Km/ 2h."
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre\nSe recomienda llevar agua,bloqueador solar, gorra,calzado comodo y ropa impermeable"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n07:00 a.m.\n-\n04:00 p.m.\nSe recomienda realizar la visita en los meses de junio, julio y agosto ya que no hay muchas lluvias."
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\nEn la ruta hacia la Laguna y alrededores\nNaturaleza\nObservación de fauna\n(Tremarctos ornatus, Tapirus pinchaque, Odocoileus virginianus etc)\nNaturaleza\nObservación de flora\n(Puya aff, Gualtheria foliosa)\nNaturaleza\nObservación de paisaje\nAlrededores y Cercanías de la Laguna\nNaturaleza\nObservación de aves\n(Colaptes rupícola y Zonotrichia capensis)\nCultura y Folclore\nRituales místicos o tradicionales\nEn la Laguna y alrededores\nDeportes / Aventura\nCaminata/Trekking\nRuta hacia la Laguna y alrededores\nPaseos\nPaseos a caballo\nRuta hacia la Laguna"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Públicas\nServicios Públicos\nCaminos de herradura (caballo)\nEn el recurso"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nLocalidad de Huancabamba\nAlimentación\nRestaurantes\nLocalidad de Huancabamba\nAlimentación\nKioskos de comida y bebidas\nLocalidad de Huancabamba\nOtros Servicios Turísticos\nAlquiler de Caballos\nPoblado Huar Huar\nServicios Públicos\nOficina de Información turística\nLocalidad de Huancabamba\nServicios Públicos\nCaminos de herradura (caballo)\nPoblado Huar Huar\nServicios Públicos\nSeñales turísticas de orientación\nLocalidad de Huancabamba\nServicios Públicos\nPuesto de auxilio rápido\nLocalidad de Huancabamba\nLugares de Recreación\nDiscotecas\nLocalidad de Huancabamba\nLugares de Recreación\nPeñas\nLocalidad de Huancabamba\nLugares de Recreación\nCentros Deportivos\nLocalidad de Huancabamba\nLugares de Recreación\nKaraoke\nLocalidad de Huancabamba\nLugares de Recreación\nBares\nLocalidad de Huancabamba\nAlimentación\nBares\nLocalidad de Huancabamba"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nLocalidad de Huancabamba\nBancos\nLocalidad de Huancabamba\nEstación de servicios, grifos, gasolineras y gasocentros\nLocalidad de Huancabamba\nCentro de salud - tópico\nLocalidad de Huancabamba\nBodegas o minimarkets\nLocalidad de Huancabamba\nSeguridad / POLTUR / Comisaría\nLocalidad de Huancabamba\nCajero automático\nLocalidad de Huancabamba\nLibrerías\nLocalidad de Huancabamba"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nLocalidad de Huancabamba\nLuz (Suministro Eléctrico)\nLocalidad de Huancabamba\nSeñalización turística\nLocalidad de Huancabamba\nAlcantarillado sanitario\nLocalidad de Huancabamba\nTeléfono\nLocalidad de Huancabamba"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nMunicipalidad provincial de Huancabamba\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nEn proceso.Se esta trabajando en el Saneamiento Físico Legal\nAdministrador por\nNombre\nMunicipalidad provincial de Huancabamba\nTiempo de administración"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDIRECCIÓN REGIONAL DE COMERCIO EXTERIOR Y TURISMO - PIURA\nNombre (Persona(s) responsable(s) del inventario turístico):\nRichard Hercelles Neira Colmenares\nCargo:\nDirector Regional de la Dirección de Turismo\nCorreo:\nrneira@regionpiura.gob.pe\nTeléfono:\n984448829\nFuentes Bibliográfica:\n1.- MUNICIPALIDAD PROVINCIAL DE HUANCABAMBA.PLAN DE DESARROLLO TURÍSTICO DE LA PROVINCIA DE HUANCABAMBA.2002.PP.116. 2.-MUNICIPALIDAD PROVINCIAL DE HUANCABAMBA.PLAN DE DESARROLLO TURÍSTICO SOSTENIBLE PARA LA PROVINCIA DE HUANCABAMBA 2013 AL 2021.2013.PP.80. 3.-DELAPORTE.MARINE.RESULTADOS DE LA DE INVESTIGACIÓN REALIZADA CON EL COMITÉ DE GESTIÓN TURÍSTICO ESOTÉRICO LA HUARINGA-SALALÁ SOBRE EL AMBIENTE Y LA CULTURA LOCAL PARA LA IMPLEMENTACIÓN DEL CENTRO DE INFORMACIÓN DEL CURANDERISMO.2011.PP.44. 4.-NOVOA COVA.JORGE-CRESPO MORE.SEGUNDO-VILLEGAS OGOÑA.PAOLO.HUANCABAMBA.PÁRAMOS.BOSQUES Y BIODIVERSIDAD.THE MOUNTAIN INSTITUTE.2011.PP.55 5.-VILLEGAS OGOÑA.H.PAOLO.PLANTAS ÚTILES EN LA MEDICINA TRADICIONAL DE HUANCABAMBA.THE MOUNTAIN INSTITUTE.2011.PP.147 6.-VV.AA. FAUNA ANDINA DE HUANCABAMBA. THE MOUNTAIN INSTITUTE.2011.PP.125\nMaterial Audiovisual actual del Recurso:\nFOTO, VIDEOS\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n28/06/2024 16:56:42"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -5.012970681861887,
+    "longitud": -79.37896728515625
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-5.012970681861887,-79.37896728515625"
+}

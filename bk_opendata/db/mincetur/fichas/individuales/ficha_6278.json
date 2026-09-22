@@ -1,0 +1,349 @@
+{
+  "cod_ficha": 6278,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=6278",
+  "nombre": "Laguna Faical",
+  "departamento": "Cajamarca",
+  "provincia": "San Ignacio",
+  "distrito": "SAN IGNACIO",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "g. Cuerpo de Agua",
+  "subtipo": "Lagunas",
+  "jerarquia": "POR JERARQUIZAR",
+  "altitud": "950 m.s.n.m",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=294210",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=294210",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=536176",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=536224",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=536177",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=536178",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=537487",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=537586"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Naturaleza - Observación de paisaje",
+    "Paseos - Paseos en bote",
+    "Paseos - Paseos en bicicleta"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Paseos",
+      "tipo": "Paseos en bote",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paseo_bote02.png"
+    },
+    {
+      "actividad": "Paseos",
+      "tipo": "Paseos en bicicleta",
+      "observacion": "--",
+      "icono_url": null
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Cajamarca/San Ignacio/San Ignacio - Cajamarca/San Ignacio/San Ignacio",
+      "detalle": "desde la Plaza de Armas de San Ignacio hasta el Cruce Mandinga",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "3km/ 10 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Cajamarca/San Ignacio/San Ignacio - Cajamarca/San Ignacio/San Ignacio",
+      "detalle": "Desde el Cruce Mandinga-Laguna de Faical",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "7 km./35 minutos"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "90",
+      "horario": "Cálculo de visitas anual al recurso turístico",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "1800",
+      "horario": "Calculo de visitas anual al recurso turístico",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "1980",
+      "horario": "Calculo de visitas anual al recurso turístico",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "09:00 a.m. - 05:00 p.m. La mejor temporada es de Mayo - Diciembre.",
+      "observaciones": "La mejor temporada es de Mayo - Diciembre."
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "Se encuentran hostales de 1 a 3 estrellas en la ciudad de san ignacio."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "SAN IGNACIO"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "SAN IGNACIO"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "SAN IGNACIO"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Bancos - Cajeros",
+      "observacion": "SAN IGNACIO"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Oficina de Información",
+      "observacion": "SAN IGNACIO"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Seguridad / POLTUR",
+      "observacion": "SAN IGNACIO"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicios Higiénicos",
+      "observacion": "SAN IGNACIO"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Correos",
+      "observacion": "SAN IGNACIO"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Internet",
+      "observacion": "SAN IGNACIO"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de Material para Fotografía",
+      "observacion": "SAN IGNACIO"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "Se encuentran hoteles de 1 a 3 estrellas en la ciudad de San Ignacio."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de San Ignacio."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Ciudad de San Ignacio."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de San Ignacio."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Ciudad de San Ignacio."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de San Ignacio."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de camionetas 4 x 4",
+      "observacion": "Ciudad de San Ignacio."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de bicicleta",
+      "observacion": "Ciudad de San Ignacio."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "mirador turístico cerro campana - Ciudad de San Ignacio."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Ciudad de San Ignacio"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "Ciudad de San Ignacio"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Ciudad de San Ignacio"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "Ciudad de San Ignacio"
+    }
+  ],
+  "descripcion": "Este atractivo se encuentra al nor este de la ciudad de San Ignacio ubicada en el mismo caserío de Faical punto previo a las pinturas rupestres, en la región natural Yunga Fluvial; la laguna se forma por la filtración de las aguas que discurren de la parte alta del Cerro Copete y Faical que llegan a desembocar a la quebrada Faical; registra una extensión de 1 hectárea, la profundidad de la laguna es aproximadamente de 105 metros, en ella se crían tilapias , Paiches y otras variedades de peces, en sus pajonales se desarrollan orquídeas propias de este piso ecológico, también se aprecian algunas aves como gallaretas y patos silvestres . La Laguna es propicia para la práctica de la pesca, la navegación en bote a pedal, natación, por el visitante.\nEn sus alrededores de la laguna cuenta con unas áreas verdes para jugar Futbito, vóley, Tejas, realizar Camping, otros ; podemos encontrar también un local de usos múltiples de la comunidad, donde las familias y Turistas que visitan pueden acampar este bello atractivo puedan disfrutar de sus diferentes platos típicos y bebidas de la Zona.",
+  "particularidades": "",
+  "estado_actual": "Bueno, por el continuo mantenimiento de la comunidad",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Este atractivo se encuentra al nor este de la ciudad de San Ignacio ubicada en el mismo caserío de Faical punto previo a las pinturas rupestres, en la región natural Yunga Fluvial; la laguna se forma por la filtración de las aguas que discurren de la parte alta del Cerro Copete y Faical que llegan a desembocar a la quebrada Faical; registra una extensión de 1 hectárea, la profundidad de la laguna es aproximadamente de 105 metros, en ella se crían tilapias , Paiches y otras variedades de peces, en sus pajonales se desarrollan orquídeas propias de este piso ecológico, también se aprecian algunas aves como gallaretas y patos silvestres . La Laguna es propicia para la práctica de la pesca, la navegación en bote a pedal, natación, por el visitante.\nEn sus alrededores de la laguna cuenta con unas áreas verdes para jugar Futbito, vóley, Tejas, realizar Camping, otros ; podemos encontrar también un local de usos múltiples de la comunidad, donde las familias y Turistas que visitan pueden acampar este bello atractivo puedan disfrutar de sus diferentes platos típicos y bebidas de la Zona."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, por el continuo mantenimiento de la comunidad"
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n90\nCálculo de visitas anual al recurso turístico\n2023\nundefined\nTuristas Nacionales\n1800\nCalculo de visitas anual al recurso turístico\n2023\nundefined\nVisitantes Locales(Excursionistas)\n1980\nCalculo de visitas anual al recurso turístico\n2023\nundefined"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nCajamarca/San Ignacio/San Ignacio\n-\nCajamarca/San Ignacio/San Ignacio\ndesde la Plaza de Armas de San Ignacio hasta el Cruce Mandinga\nTerrestre\nAutomóvil particular\nAsfaltado\n3km/ 10 min.\n1\nCajamarca/San Ignacio/San Ignacio\n-\nCajamarca/San Ignacio/San Ignacio\nDesde el Cruce Mandinga-Laguna de Faical\nTerrestre\nAutomóvil particular\nAfirmado\n7 km./35 minutos"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n09:00 a.m.\n-\n05:00 p.m.\nLa mejor temporada es de Mayo - Diciembre."
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nNaturaleza\nObservación de paisaje\n--\nPaseos\nPaseos en bote\n--\nPaseos\nPaseos en bicicleta\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHostales (especificar categorías)\nSe encuentran hostales de 1 a 3 estrellas en la ciudad de san ignacio.\nAlimentación\nRestaurantes\nSAN IGNACIO\nAlimentación\nCafeterías\nSAN IGNACIO\nOtros Servicios Turísticos\nVenta de artesanía\nSAN IGNACIO\nOtros Servicios Turísticos\nBancos - Cajeros\nSAN IGNACIO\nOtros Servicios Turísticos\nOficina de Información\nSAN IGNACIO\nOtros Servicios Turísticos\nSeguridad / POLTUR\nSAN IGNACIO\nOtros Servicios Turísticos\nServicios Higiénicos\nSAN IGNACIO\nOtros Servicios Turísticos\nServicio de Correos\nSAN IGNACIO\nOtros Servicios Turísticos\nServicio de Internet\nSAN IGNACIO\nOtros Servicios Turísticos\nVenta de Material para Fotografía\nSAN IGNACIO\nAlojamiento\nHoteles (especificar categorías)\nSe encuentran hoteles de 1 a 3 estrellas en la ciudad de San Ignacio.\nAlimentación\nBares\nCiudad de San Ignacio.\nAlimentación\nFuentes de soda\nCiudad de San Ignacio.\nAlimentación\nKioskos de comida y bebidas\nCiudad de San Ignacio.\nAlimentación\nVenta de comida Rápida\nCiudad de San Ignacio.\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de San Ignacio.\nOtros Servicios Turísticos\nAlquiler de camionetas 4 x 4\nCiudad de San Ignacio.\nOtros Servicios Turísticos\nAlquiler de bicicleta\nCiudad de San Ignacio.\nServicios Públicos\nMiradores turísticos\nmirador turístico cerro campana - Ciudad de San Ignacio.\nServicios Públicos\nEstacionamiento de vehículos\nCiudad de San Ignacio\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\nCiudad de San Ignacio\nServicios Públicos\nOficina de Información turística\nCiudad de San Ignacio\nServicios Públicos\nCaminos peatonales\nCiudad de San Ignacio"
+    },
+    {
+      "titulo": "Servicios Complementarios dentro del recurso",
+      "contenido": "Servicio Complementario\nObservación\nServicios de internet\n--\nBodegas o minimarkets\n--"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de San Ignacio.\nBancos\nCiudad de San Ignacio.\nCajero automático\nCiudad de San Ignacio.\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de San Ignacio.\nServicio de estacionamiento\nCiudad de San Ignacio.\nCentro de salud - tópico\nCiudad de San Ignacio.\nSeguridad / POLTUR / Comisaría\nCiudad de San Ignacio.\nLibrerías\nCiudad de San Ignacio.\nBodegas o minimarkets\nCiudad de San Ignacio."
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nOtra\n--\nAgua potable\n--\nLuz (Suministro Eléctrico)\n--\nTeléfono\n--\nSeñalización turística\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nSAN IGNACIO\nAlcantarillado sanitario\nSAN IGNACIO\nDesagüe\nSAN IGNACIO\nLuz (Suministro Eléctrico)\nSAN IGNACIO\nTeléfono\nSAN IGNACIO\nOtros (Especificar)\nPosta médica y Puesto Policial\nSeñalización turística\nCiudad de San Ignacio."
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nESTADO PERUANO\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nDOnación por parte del señor Misael Córdova al Comité de Turismo del Caserío Faical\nAdministrador por\nNombre\nDarwuin Santur Córdova\nTiempo de administración\nDesde el año 2012 - 12 años"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDIRCETUR CAJAMARCA\nNombre (Persona(s) responsable(s) del inventario turístico):\nESPERANZA ESCOBAR PORTAL\nCargo:\nTECNICO EN TURISMO I\nCorreo:\nmescobar@regioncajamarca.gob.pe\nTeléfono:\n962690326\nFuentes Bibliográfica:\nINVENTARIO DE RECURSOS TURÍSTICOS DE LA PROVINCIA DE SAN IGNACIO 2014 - DIRECCIÓN ZONAL DE COMERCIO EXTERIOR Y TURISMO JAEN - SAN IGNACIO.\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n24/05/2024 14:44:29"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -5.1465764,
+    "longitud": -79.002342
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-5.1465764,-79.002342"
+}

@@ -1,0 +1,342 @@
+{
+  "cod_ficha": 5727,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=5727",
+  "nombre": "Pueblo San Pedro De Carabayllo",
+  "departamento": "Lima",
+  "provincia": "Lima",
+  "distrito": "CARABAYLLO",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Pueblos",
+  "subtipo": "Históricos",
+  "jerarquia": "POR JERARQUIZAR",
+  "altitud": "238 m",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=291797",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=291797",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=294055",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=294056",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=294057",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=495760",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=498891",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=499065"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Cultura y Folclore - Actividades Religiosas o Patronales",
+    "Otros - Estudios e Investigación",
+    "Otros - Realización de eventos",
+    "Deportes / Aventura - Caminata/Trekking",
+    "Cultura y Folclore - Ferias"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Actividades Religiosas o Patronales",
+      "observacion": "Semana Santa, Fiesta de Cruces, Fiesta San Pedro",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/act_religiosas02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Realización de eventos",
+      "observacion": "Aniversario de Carabayllo, Desfiles Escolares",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/eventos02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Ferias",
+      "observacion": "Ferias Artesanal y Ferias Gastronómicas",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/feria02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Lima/Lima/Lima - Lima/Lima/Puente Piedra",
+      "detalle": "Plaza de Armas de Lima - Óvalo de Puente Piedra",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "30 Km. / 55 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Lima/Lima/Puente Piedra - Lima/Lima/Carabayllo",
+      "detalle": "Óvalo de Puente Piedra - Pueblo San Pedro de Carabayllo",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "5 Km. / 10 minutos"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Lima/Lima/Independencia - Lima/Lima/Los Olivos",
+      "detalle": "Plaza Norte de Lima - Paradero Chaperito",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "9.1 Km. / 20 minutos"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Lima/Lima/Los Olivos - Lima/Lima/Carabayllo",
+      "detalle": "Paradero Chaperito - Pueblo San Pedro de Carabayllo",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mini bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "14.6 Km. / 25 minutos"
+    },
+    {
+      "recorrido": "3",
+      "tramo": "Lima/Lima/Los Olivos - Lima/Lima/Carabayllo",
+      "detalle": "Estación Naranjal - Paradero Tupac Amaru",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "13.8 Km. / 30 minutos"
+    },
+    {
+      "recorrido": "3",
+      "tramo": "Lima/Lima/Carabayllo - Lima/Lima/Carabayllo",
+      "detalle": "Paradero Tupac Amaru - Centro Poblado San Pedro de Carabayllo",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mini bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "5.1 Km. / 15 minutos"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "4050",
+      "horario": "Iglesia de San Pedro",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "09:00 a.m. - 04:00 p.m. --",
+      "observaciones": "--"
+    },
+    {
+      "epoca": "Personas con discapacidad física",
+      "especificacion": "Accesibilidad para las personas con discapacidad",
+      "horario": "Traslado por el Pueblo de San Pedro de Carabayllo",
+      "observaciones": "Rampas"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Distrito de Carabayllo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Distrito de Carabayllo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Distrito de Carabayllo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Distrito de Carabayllo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Distrito de Carabayllo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Distrito de Carabayllo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Distrito de Carabayllo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Museo de Sitio Turísticos",
+      "observacion": "Centro Poblado de Punchauca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "Distrito de Carabayllo / Hostal de 2 estrellas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "Distrito de Carabayllo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Cines o Teatros",
+      "observacion": "Distrito de Carabayllo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Distrito de Carabayllo"
+    }
+  ],
+  "descripcion": "El pueblo de Carabayllo se originó tras la fundación de Lima, cuando se dividieron las tierras entre los españoles que participaron en la conquista, y se le concedió el pueblo como encomienda al primer encomendero de Carabayllo, Domingo de la Presa. El responsable de su fundación fue el funcionario español Juan Martínez Rengifo, siendo el pueblo producto de las reducciones indígenas de Sevillay, Sutca, Guancayo, Collique, Guaraví, Chuquitanta, Macas, Zapan y Quiví; pueblos que antiguamente conformaban el antiguo señorío Colli. De acuerdo con la Ordenanza municipal N° 321-A/MDC, aprobada el 26 de diciembre de 2014, se reconoce y precisa la fecha de fundación histórica del distrito de Carabayllo, el 29 de junio de 1571.\nDurante el Virreinato, y parte de la república, durante más de trescientos años, el pueblo de San Pedro fue el eje de la administración política, religiosa y económica del valle de Carabayllo, y desde entonces, se ha consolidado como capital del distrito. El pueblo aún conserva construcciones representativas, siendo la más emblemática, la iglesia de San Pedro, cuya edificación comenzó a finales del siglo XVI y culminó a principios del siglo XVII. Es una de las construcciones más antiguas de Lima y donde el arzobispo de Lima, Toribio de Mogrovejo, ofició misa en 1593. Actualmente, la iglesia de San Pedro de Carabayllo ha sido declarada Patrimonio Monumental de la Nación, según Resolución Ministerial N° 0928-80-ED, del 23 de junio de 1980, por lo que, cuenta con refacciones e intervenciones para su debido mantenimiento. Otras construcciones históricas, se observan en la Plaza Principal del pueblo, tales como el busto de Ramón Castilla, obsequiado por el Ministerio de Guerra en conmemoración al 97 aniversario del distrito, el cine municipal, el cementerio y viviendas que aún están construidas con adobe y quincha.",
+  "particularidades": "Es el único pueblo de Lima Norte producto de la Reducción-Ancón, Santa Rosa, Carabayllo, Comas, Puente Piedra, San Martín de Porres, Independencia y Los Olivos- que conserva en su parte central, el diseño arquitectónico colonial, trazado en el año de 1571. Quispe, E y Tácunan, S. (2011)",
+  "estado_actual": "Regular, el mantenimiento y cuidados del Pueblo en general es realizado por la Agencia de San Pedro de Carabayllo de la Municipalidad Distrital de Carabayllo junto a los vecinos del distrito. En cuanto al cuidado y administración de la Iglesia está a cargo del Sacerdote presidido por la Diócesis de Carabayllo.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "El pueblo de Carabayllo se originó tras la fundación de Lima, cuando se dividieron las tierras entre los españoles que participaron en la conquista, y se le concedió el pueblo como encomienda al primer encomendero de Carabayllo, Domingo de la Presa. El responsable de su fundación fue el funcionario español Juan Martínez Rengifo, siendo el pueblo producto de las reducciones indígenas de Sevillay, Sutca, Guancayo, Collique, Guaraví, Chuquitanta, Macas, Zapan y Quiví; pueblos que antiguamente conformaban el antiguo señorío Colli. De acuerdo con la Ordenanza municipal N° 321-A/MDC, aprobada el 26 de diciembre de 2014, se reconoce y precisa la fecha de fundación histórica del distrito de Carabayllo, el 29 de junio de 1571.\nDurante el Virreinato, y parte de la república, durante más de trescientos años, el pueblo de San Pedro fue el eje de la administración política, religiosa y económica del valle de Carabayllo, y desde entonces, se ha consolidado como capital del distrito. El pueblo aún conserva construcciones representativas, siendo la más emblemática, la iglesia de San Pedro, cuya edificación comenzó a finales del siglo XVI y culminó a principios del siglo XVII. Es una de las construcciones más antiguas de Lima y donde el arzobispo de Lima, Toribio de Mogrovejo, ofició misa en 1593. Actualmente, la iglesia de San Pedro de Carabayllo ha sido declarada Patrimonio Monumental de la Nación, según Resolución Ministerial N° 0928-80-ED, del 23 de junio de 1980, por lo que, cuenta con refacciones e intervenciones para su debido mantenimiento. Otras construcciones históricas, se observan en la Plaza Principal del pueblo, tales como el busto de Ramón Castilla, obsequiado por el Ministerio de Guerra en conmemoración al 97 aniversario del distrito, el cine municipal, el cementerio y viviendas que aún están construidas con adobe y quincha."
+    },
+    {
+      "titulo": "Particularidades",
+      "contenido": "Es el único pueblo de Lima Norte producto de la Reducción-Ancón, Santa Rosa, Carabayllo, Comas, Puente Piedra, San Martín de Porres, Independencia y Los Olivos- que conserva en su parte central, el diseño arquitectónico colonial, trazado en el año de 1571. Quispe, E y Tácunan, S. (2011)"
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Regular, el mantenimiento y cuidados del Pueblo en general es realizado por la Agencia de San Pedro de Carabayllo de la Municipalidad Distrital de Carabayllo junto a los vecinos del distrito. En cuanto al cuidado y administración de la Iglesia está a cargo del Sacerdote presidido por la Diócesis de Carabayllo."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nVisitantes Locales(Excursionistas)\n4050\nIglesia de San Pedro\n2023\nAún funciona la Iglesia de San Pedro de Carabayllo, por lo que se genera una gran concurrencia todos los fines de semana. Resaltando también que el Pueblo aún mantiene su arquitectura antigua entre sus calles."
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nLima/Lima/Lima\n-\nLima/Lima/Puente Piedra\nPlaza de Armas de Lima - Óvalo de Puente Piedra\nTerrestre\nAutomóvil particular\nAsfaltado\n30 Km. / 55 minutos\n1\nLima/Lima/Puente Piedra\n-\nLima/Lima/Carabayllo\nÓvalo de Puente Piedra - Pueblo San Pedro de Carabayllo\nTerrestre\nAutomóvil particular\nAsfaltado\n5 Km. / 10 minutos\n2\nLima/Lima/Independencia\n-\nLima/Lima/Los Olivos\nPlaza Norte de Lima - Paradero Chaperito\nTerrestre\nBus público\nAsfaltado\n9.1 Km. / 20 minutos\n2\nLima/Lima/Los Olivos\n-\nLima/Lima/Carabayllo\nParadero Chaperito - Pueblo San Pedro de Carabayllo\nTerrestre\nMini bus público\nAsfaltado\n14.6 Km. / 25 minutos\n3\nLima/Lima/Los Olivos\n-\nLima/Lima/Carabayllo\nEstación Naranjal - Paradero Tupac Amaru\nTerrestre\nBus público\nAsfaltado\n13.8 Km. / 30 minutos\n3\nLima/Lima/Carabayllo\n-\nLima/Lima/Carabayllo\nParadero Tupac Amaru - Centro Poblado San Pedro de Carabayllo\nTerrestre\nMini bus público\nAsfaltado\n5.1 Km. / 15 minutos"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n09:00 a.m.\n-\n04:00 p.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nCultura y Folclore\nActividades Religiosas o Patronales\nSemana Santa, Fiesta de Cruces, Fiesta San Pedro\nOtros\nEstudios e Investigación\n--\nOtros\nRealización de eventos\nAniversario de Carabayllo, Desfiles Escolares\nDeportes / Aventura\nCaminata/Trekking\n--\nCultura y Folclore\nFerias\nFerias Artesanal y Ferias Gastronómicas"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nAlimentación\nRestaurantes\n--\nInstalaciones Privadas\nAlimentación\nKioskos de comida y bebidas\n--\nInstalaciones Privadas\nAlimentación\nVenta de comida Rápida\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlimentación\nRestaurantes\nDistrito de Carabayllo\nAlimentación\nBares\nDistrito de Carabayllo\nAlimentación\nCafeterías\nDistrito de Carabayllo\nAlimentación\nFuentes de soda\nDistrito de Carabayllo\nAlimentación\nKioskos de comida y bebidas\nDistrito de Carabayllo\nAlimentación\nVenta de comida Rápida\nDistrito de Carabayllo\nOtros Servicios Turísticos\nAgencia de Viajes\nDistrito de Carabayllo\nServicios Públicos\nMuseo de Sitio Turísticos\nCentro Poblado de Punchauca\nAlojamiento\nHostales (especificar categorías)\nDistrito de Carabayllo / Hostal de 2 estrellas\nServicios Públicos\nSeñales turísticas de orientación\nDistrito de Carabayllo\nLugares de Recreación\nCines o Teatros\nDistrito de Carabayllo\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nDistrito de Carabayllo"
+    },
+    {
+      "titulo": "Servicios Complementarios dentro del recurso",
+      "contenido": "Servicio Complementario\nObservación\nSeguridad / POLTUR / Comisaría\n--\nCentro de salud - tópico\n--\nBodegas o minimarkets\n--\nLibrerías\n--"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nDistrito de Carabayllo\nBancos\nDistrito de Carabayllo\nCasa de cambio\nDistrito de Carabayllo\nEstación de servicios, grifos, gasolineras y gasocentros\nDistrito de Carabayllo\nSeguridad / POLTUR / Comisaría\nDistrito de Carabayllo\nLibrerías\nDistrito de Carabayllo\nBodegas o minimarkets\nDistrito de Carabayllo\nServicios de taxis\nDistrito de Carabayllo\nCajero automático\nDistrito de Carabayllo\nCentro de salud - tópico\nDistrito de Carabayllo\nServicio de correos\nDistrito de Carabayllo\nVenta de materiales para fotografías\nDistrito de Carabayllo"
+    },
+    {
+      "titulo": "Condiciones de Accesibilidad al Visitante",
+      "contenido": "Visitante\nInstalación\nActividades y/o programas\nEquipamiento\nObservación\nPersonas con discapacidad física\nAccesibilidad para las personas con discapacidad\nTraslado por el Pueblo de San Pedro de Carabayllo\nRampas\n--"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\n--\nAlcantarillado sanitario\n--\nLuz (Suministro Eléctrico)\n--\nTeléfono\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nDistrito de Carabayllo\nAlcantarillado sanitario\nDistrito de Carabayllo\nLuz (Suministro Eléctrico)\nDistrito de Carabayllo\nTeléfono\nDistrito de Carabayllo\nSeñalización turística\nDistrito de Carabayllo"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\n--\nPrivado:\n--\nOtra Situación:\nMIXTA: PREDIO PRIVADOS Y PREDIOS PÚBLICOS\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nMIXTA: PREDIO PRIVADOS Y PREDIOS PÚBLICOS\nAdministrador por\nNombre\nMUNICIPALIDAD DISTRITAL DE CARABAYLLO\nTiempo de administración\nDesde el año 1571"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nMUNICIPALIDAD METROPOLITANA DE LIMA / MUNICIPALIDAD DISTRITAL DE CARABAYLLO\nNombre (Persona(s) responsable(s) del inventario turístico):\nAlex Reaño Torres/ Jaime Antonio Pereyra Sahuairo\nCargo:\nEspecialista de Turismo / Coordinador de Turismo de la MDC\nCorreo:\nalexreanotorres@gmail.com/ jaime.pereyra@unmsm.edu.pe\nTeléfono:\n01-6321806/ 940286973\nFuentes Bibliográfica:\n1. Quispe, E (2017) Guía Educativa, Cultural con información Geográfica, Histórica, Social, Económica y Turística del Distrito. Municipalidad de Carabayllo (1) 17-23\n2. Quispe, E y Tácunan, S. (2011) Carabayllo: Génesis de Lima Norte. La Reinvindicación de un distrito histórico. Municipalidad de Carabayllo (1)\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n29/09/2023 11:29:04"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -11.853704,
+    "longitud": -77.03704299999998
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-11.853704,-77.03704299999998"
+}

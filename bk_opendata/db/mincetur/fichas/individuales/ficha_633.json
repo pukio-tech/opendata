@@ -1,0 +1,564 @@
+{
+  "cod_ficha": 633,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=633",
+  "nombre": "Santuario Nacional Lagunas De Mejía",
+  "departamento": "Arequipa",
+  "provincia": "Islay",
+  "distrito": "DEAN VALDIVIA",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "n. Áreas Protegidas",
+  "subtipo": "Santuarios Nacionales",
+  "jerarquia": "3",
+  "altitud": "3.5",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=502482",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=502482",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=502483",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=502554",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=502484",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=502486",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=502556",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=502487",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=502488",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=502557"
+  ],
+  "actividades_permitidas": [
+    "Otros - Compras de artesanía/souvenir",
+    "Otros - Toma de fotografías y filmaciones",
+    "Paseos - Excursiones",
+    "Otros - Estudios e Investigación",
+    "Otros - Realización de eventos",
+    "Naturaleza - Observación de fauna",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de paisaje",
+    "Naturaleza - Observación de aves",
+    "Deportes / Aventura - Caminata/Trekking",
+    "Deportes / Aventura - Ciclismo",
+    "Otros - Compra de productos regionales"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Compras de artesanía/souvenir",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/artesania02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Paseos",
+      "tipo": "Excursiones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/excursiones02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Realización de eventos",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/eventos02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de fauna",
+      "observacion": "(lagartijas, hurón de campo)",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fauna02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "(mataral, juncal, salicornial)",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de aves",
+      "observacion": "Migratorias (gaviota de franklin, parihuanas, playero blanco, yanavico), Residentes (patos, zambullidores, garzas, chocas, rapaces, ostreros, cormoranes) Ocasionales (espátula rosada, pato de la puna)",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/aves02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Ciclismo",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/ciclismo02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Compra de productos regionales",
+      "observacion": "--",
+      "icono_url": null
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Arequipa/Arequipa/Jacobo Hunter - Arequipa/Islay/Mollendo",
+      "detalle": "Arequipa, Terminal terrestre/Mollendo, Obelisco Mariscal Castilla",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "133 km/2h10 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Arequipa/Islay/Mollendo - Arequipa/Islay/Dean Valdivia",
+      "detalle": "Mollendo, Obelisco Mariscal Castilla/ Km 32.4 - Centro de Interpretación del SNLME",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "11 Km/ 20 minutos"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Arequipa/Arequipa/Jacobo Hunter - Arequipa/Islay/Cocachacra",
+      "detalle": "Arequipa, Terminal terrestre / Cocachara, Mercado principal",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "132 km/2 horas 5 min"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Arequipa/Islay/Cocachacra - Arequipa/Islay/Cocachacra",
+      "detalle": "Cocachacra, Mercado principal/ Km 32.4, Centro de Interpretación del SNLME",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "15 km/35 minutos"
+    },
+    {
+      "recorrido": "3",
+      "tramo": "Lima/Lima/Lima - Arequipa/Islay/Mollendo",
+      "detalle": "Centro Histórico - Terminal terrestre de Mollendo",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "946km/15horas"
+    },
+    {
+      "recorrido": "3",
+      "tramo": "Arequipa/Islay/Mollendo - Arequipa/Islay/Dean Valdivia",
+      "detalle": "Obelisco Mariscal Castilla- Km 32.4, Centro de Interpretación del SNLME",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "11 Km/ 20 minutos"
+    },
+    {
+      "recorrido": "4",
+      "tramo": "Tacna/Tacna/Tacna - Arequipa/Islay/Dean Valdivia",
+      "detalle": "Terminal Terrestre- La Curva - monumento a Dean Valdivia",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "256km/3horas 30 min"
+    },
+    {
+      "recorrido": "4",
+      "tramo": "Arequipa/Islay/Dean Valdivia - Arequipa/Islay/Dean Valdivia",
+      "detalle": "La Curva - monumento a Dean Valdivia - Km32.4, Centro de Interpretación del SNLME",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "7 km/ 8 minutos"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "2022",
+      "horario": "Oficio N°075-2023-SERNANP-SNLME",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "119",
+      "horario": "Oficio N°075-2023-SERNANP-SNLME",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "1187",
+      "horario": "Oficio N°075-2023-SERNANP-SNLME",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "08:30 a.m. - 04:00 p.m. Se recomienda repelente, bloqueador solar, ropa cómoda y de colores opacos",
+      "observaciones": "Se recomienda repelente, bloqueador solar, ropa cómoda y de colores opacos"
+    },
+    {
+      "epoca": "Personas con discapacidad física",
+      "especificacion": "Rampas de acceso",
+      "horario": "--",
+      "observaciones": "--"
+    },
+    {
+      "epoca": "Niños",
+      "especificacion": "--",
+      "horario": "Educación ambiental",
+      "observaciones": "--"
+    },
+    {
+      "epoca": "Jóvenes",
+      "especificacion": "--",
+      "horario": "Educación ambiental",
+      "observaciones": "--"
+    },
+    {
+      "epoca": "Otros",
+      "especificacion": "--",
+      "horario": "Guiado e interpretación ambiental",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "Extranjeros S/ 30.00, nacionales S/15.00, locales - S/8.00. Tarifa Prom Región Arequipa S/.11.00 (<17 años S/.5.00, < 17 años Prov de Islay. S/.3.00) Exonerados <05 años y > de 65 años de edad."
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de interpretación",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Boletería",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Centros de interpretación",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Instalación para la exposición de flora o fauna silvestre",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Puesto de auxilio rápido",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "Hotel 2** Distrito de Deán Valdivia - Poblado de La Curva"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Distrito de Deán Valdivia - Poblado de La Curva"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Distrito de Deán Valdivia - Poblado de La Curva"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Distrito de Deán Valdivia - Poblado de La Curva"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Puesto de auxilio rápido",
+      "observacion": "Distrito de Deán Valdivia - Poblado de La Curva"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Servicio de taxi Distrito de Deán Valdivia - Poblado de La Curva"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Distritos de Mollendo, Mejía, Deán Valdivia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Distritos de Mollendo, Mejía, Deán Valdivia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Distritos de Mollendo, Mejía, Deán Valdivia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Distrito de Mollendo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Distritos de Mollendo, Mejía, Deán Valdivia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Distritos de Mollendo, Mejía, Deán Valdivia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Peñas",
+      "observacion": "Distritos de Mollendo, Mejía, Deán Valdivia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Distrito de Mollendo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "Distrito de Mollendo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Distritos de Mollendo, Mejía, Deán Valdivia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Distritos de Mollendo, Mejía, Deán Valdivia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Lugares de picnic",
+      "observacion": "Distritos de Mollendo, Mejía, Deán Valdivia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "Distrito de Mollendo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Embarcaderos",
+      "observacion": "Distrito de Mollendo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Muelles turísticos",
+      "observacion": "Distrito de Mollendo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de Campamento(camping)",
+      "observacion": "Distritos de Mollendo, Mejía, Deán Valdivia, Punta de Bombón"
+    }
+  ],
+  "descripcion": "El Santuario Nacional Lagunas de Mejía conserva muestras representativas de humedales costeros, protege fauna ornitológica residente y migratoria. Es el único Humedal Costero, del extremo sur de Perú, con una modalidad de conservación y distinciones internacionales como RAMSAR (Convención sobre humedales) e IBA (Important Bird and Biodiversity Area). Se ubica en la Provincia de Islay, en el km 32.4 de la carretera panamericana, a escasos metros de la línea de marea, entre los distritos de Mejía, Deán Valdivia y Punta de Bombón. El clima es templado todo el año, con una temperatura promedio mensual de 20 °C, la humedad relativa promedio es de 76% y una precipitación que fluctúa entre 10 y 25 mm. El santuario tiene una extensión de 690 ha, actualmente se han registrado 211 especies de aves. Presenta un recorrido que dura de 40 minutos en vehículo o dos horas a pie, consta de 8 miradores desde donde se observa los cuerpos lagunares que albergan gran diversidad de aves que dependen de este ecosistema, como las coloridas parihuanas y abundantes yanavicos, quienes durante el invierno migran hacia este espacio natural en busca de alimento. El resto del año siempre están presentes patos silvestres y las muy asustadizas gallaretas, así mismo, se puede observar a los zambullidores, que buscan peces buceando en las lagunas, o las garzas que con mucha paciencia esperan la oportunidad de capturar su alimento. Además, las aves nos deleitarán con sus cantos como el del Perrito, llamado así por su canto similar al de un perro pequeño. Así mismo, entre las muchas rapaces que podremos encontrar, el águila pescadora nos deleitará con su técnica de pesca muy particular. En esta área natural protegida también se incluyen otros ecosistemas, la playa y desembocadura del río Tambo, donde gaviotas, gaviotines, pelícanos y muchas aves migratorias se reúnen por la búsqueda de alimento. También encontraremos el monte ribereño, donde encontraremos aves de menor tamaño, muy escurridizas, de variados colores y cantos como: el fringilo apizarrado, el turtupilin, y los muy coloridos jilgueros.",
+  "particularidades": "Es el único humedal costero en la zona sur del Perú con una modalidad de conservación, protegiendo zonas de refugio y alimentación. Aquí se albergan 85 especies de aves residentes (79 especies anidan en el santuario y sus inmediaciones, y 6 en el mar frente al santuario), 80 aves migratorias (48 provenientes de Norteamérica o el Ártico, 18 del sur de Sudamérica, 3 de la costa norte del Perú o Sudamérica, 10 de la zona andina y una de la Amazonía) y 46 aves ocasionales; además de diversas especies de mamíferos, reptiles y flora característica de humedales costeros. Todo ello lo constituye como un gran atractivo paisajístico y de interés científico.\n-SERNANP. 2020. Plan Maestro del Santuario Nacional Lagunas de Mejía 2020-2024.\n-ProNaturaleza (2010). Documento base para la elaboración de una estrategia de conservación de los humedales de la costa peruana. ProNaturaleza, Lima",
+  "estado_actual": "Muy bueno, El Santuario Nacional Lagunas de Mejía presenta un estado de conservación del 77% ( https://estadoconservacion.sernanp.gob.pe/geoserver/principal.php)\nEl circuito turístico está en constante mantenimiento, y limpieza por contar con apoyo de guardaparques, guardaparques voluntarios y la asociación de artesanos del SNLM.\nEl centro de interpretación cuenta con servicios higiénicos para el turista, protocolos de bioseguridad, rampas de acceso a los ambientes, contenedores para residuos sólidos.\nNo presenta registros de depredación, se realizan monitoreos biológicos mensualmente con el que se puede detectar y evaluar alguna alteración en la diversidad biológica.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "El Santuario Nacional Lagunas de Mejía conserva muestras representativas de humedales costeros, protege fauna ornitológica residente y migratoria. Es el único Humedal Costero, del extremo sur de Perú, con una modalidad de conservación y distinciones internacionales como RAMSAR (Convención sobre humedales) e IBA (Important Bird and Biodiversity Area). Se ubica en la Provincia de Islay, en el km 32.4 de la carretera panamericana, a escasos metros de la línea de marea, entre los distritos de Mejía, Deán Valdivia y Punta de Bombón. El clima es templado todo el año, con una temperatura promedio mensual de 20 °C, la humedad relativa promedio es de 76% y una precipitación que fluctúa entre 10 y 25 mm. El santuario tiene una extensión de 690 ha, actualmente se han registrado 211 especies de aves. Presenta un recorrido que dura de 40 minutos en vehículo o dos horas a pie, consta de 8 miradores desde donde se observa los cuerpos lagunares que albergan gran diversidad de aves que dependen de este ecosistema, como las coloridas parihuanas y abundantes yanavicos, quienes durante el invierno migran hacia este espacio natural en busca de alimento. El resto del año siempre están presentes patos silvestres y las muy asustadizas gallaretas, así mismo, se puede observar a los zambullidores, que buscan peces buceando en las lagunas, o las garzas que con mucha paciencia esperan la oportunidad de capturar su alimento. Además, las aves nos deleitarán con sus cantos como el del Perrito, llamado así por su canto similar al de un perro pequeño. Así mismo, entre las muchas rapaces que podremos encontrar, el águila pescadora nos deleitará con su técnica de pesca muy particular. En esta área natural protegida también se incluyen otros ecosistemas, la playa y desembocadura del río Tambo, donde gaviotas, gaviotines, pelícanos y muchas aves migratorias se reúnen por la búsqueda de alimento. También encontraremos el monte ribereño, donde encontraremos aves de menor tamaño, muy escurridizas, de variados colores y cantos como: el fringilo apizarrado, el turtupilin, y los muy coloridos jilgueros."
+    },
+    {
+      "titulo": "Particularidades",
+      "contenido": "Es el único humedal costero en la zona sur del Perú con una modalidad de conservación, protegiendo zonas de refugio y alimentación. Aquí se albergan 85 especies de aves residentes (79 especies anidan en el santuario y sus inmediaciones, y 6 en el mar frente al santuario), 80 aves migratorias (48 provenientes de Norteamérica o el Ártico, 18 del sur de Sudamérica, 3 de la costa norte del Perú o Sudamérica, 10 de la zona andina y una de la Amazonía) y 46 aves ocasionales; además de diversas especies de mamíferos, reptiles y flora característica de humedales costeros. Todo ello lo constituye como un gran atractivo paisajístico y de interés científico.\n-SERNANP. 2020. Plan Maestro del Santuario Nacional Lagunas de Mejía 2020-2024.\n-ProNaturaleza (2010). Documento base para la elaboración de una estrategia de conservación de los humedales de la costa peruana. ProNaturaleza, Lima"
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "Según D.S. N.º 015-84-AG es considerado Santuario Nacional desde el 24 de febrero de 1984 y en 1991 es reconocido como sitio RAMSAR\nSiendo globalmente importante para la conservación de las poblaciones de aves, La Bird Life International la ha identificado como IBA (Important Bird and Biodiversity Area) con código de IBA - PE046\nEn febrero de 2022 recibe el sello internacional de bioseguridad e higiene del mundo ¨Safe Travel¨, que lo certifica como un espacio turístico seguro."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Muy bueno, El Santuario Nacional Lagunas de Mejía presenta un estado de conservación del 77% ( https://estadoconservacion.sernanp.gob.pe/geoserver/principal.php)\nEl circuito turístico está en constante mantenimiento, y limpieza por contar con apoyo de guardaparques, guardaparques voluntarios y la asociación de artesanos del SNLM.\nEl centro de interpretación cuenta con servicios higiénicos para el turista, protocolos de bioseguridad, rampas de acceso a los ambientes, contenedores para residuos sólidos.\nNo presenta registros de depredación, se realizan monitoreos biológicos mensualmente con el que se puede detectar y evaluar alguna alteración en la diversidad biológica."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Nacionales\n2022\nOficio N°075-2023-SERNANP-SNLME\n2022\nFlujo de visitantes al Santuario Nacional de Lagunas de Mejía año 2022\nTuristas Extranjeros\n119\nOficio N°075-2023-SERNANP-SNLME\n2022\nFlujo de visitantes al Santuario Nacional de Lagunas de Mejía año 2022\nVisitantes Locales(Excursionistas)\n1187\nOficio N°075-2023-SERNANP-SNLME\n2022\nFlujo de visitantes al Santuario Nacional de Lagunas de Mejía año 2022"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nArequipa/Arequipa/Jacobo Hunter\n-\nArequipa/Islay/Mollendo\nArequipa, Terminal terrestre/Mollendo, Obelisco Mariscal Castilla\nTerrestre\nBus público\nAsfaltado\n133 km/2h10 min\n1\nArequipa/Islay/Mollendo\n-\nArequipa/Islay/Dean Valdivia\nMollendo, Obelisco Mariscal Castilla/ Km 32.4 - Centro de Interpretación del SNLME\nTerrestre\nBus público\nAsfaltado\n11 Km/ 20 minutos\n2\nArequipa/Arequipa/Jacobo Hunter\n-\nArequipa/Islay/Cocachacra\nArequipa, Terminal terrestre / Cocachara, Mercado principal\nTerrestre\nBus público\nAsfaltado\n132 km/2 horas 5 min\n2\nArequipa/Islay/Cocachacra\n-\nArequipa/Islay/Cocachacra\nCocachacra, Mercado principal/ Km 32.4, Centro de Interpretación del SNLME\nTerrestre\nBus público\nAsfaltado\n15 km/35 minutos\n3\nLima/Lima/Lima\n-\nArequipa/Islay/Mollendo\nCentro Histórico - Terminal terrestre de Mollendo\nTerrestre\nBus público\nAsfaltado\n946km/15horas\n3\nArequipa/Islay/Mollendo\n-\nArequipa/Islay/Dean Valdivia\nObelisco Mariscal Castilla- Km 32.4, Centro de Interpretación del SNLME\nTerrestre\nBus público\nAsfaltado\n11 Km/ 20 minutos\n4\nTacna/Tacna/Tacna\n-\nArequipa/Islay/Dean Valdivia\nTerminal Terrestre- La Curva - monumento a Dean Valdivia\nTerrestre\nBus público\nAsfaltado\n256km/3horas 30 min\n4\nArequipa/Islay/Dean Valdivia\n-\nArequipa/Islay/Dean Valdivia\nLa Curva - monumento a Dean Valdivia - Km32.4, Centro de Interpretación del SNLME\nTerrestre\nBus público\nAsfaltado\n7 km/ 8 minutos"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nExtranjeros S/ 30.00, nacionales S/15.00, locales - S/8.00. Tarifa Prom Región Arequipa S/.11.00 (<17 años S/.5.00, < 17 años Prov de Islay. S/.3.00) Exonerados <05 años y > de 65 años de edad."
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n08:30 a.m.\n-\n04:00 p.m.\nSe recomienda repelente, bloqueador solar, ropa cómoda y de colores opacos"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nCompras de artesanía/souvenir\n--\nOtros\nToma de fotografías y filmaciones\n--\nPaseos\nExcursiones\n--\nOtros\nEstudios e Investigación\n--\nOtros\nRealización de eventos\n--\nNaturaleza\nObservación de fauna\n(lagartijas, hurón de campo)\nNaturaleza\nObservación de flora\n(mataral, juncal, salicornial)\nNaturaleza\nObservación de paisaje\n--\nNaturaleza\nObservación de aves\nMigratorias (gaviota de franklin, parihuanas, playero blanco, yanavico), Residentes (patos, zambullidores, garzas, chocas, rapaces, ostreros, cormoranes) Ocasionales (espátula rosada, pato de la puna)\nDeportes / Aventura\nCaminata/Trekking\n--\nDeportes / Aventura\nCiclismo\n--\nOtros\nCompra de productos regionales\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Públicas\nServicios Públicos\nOficina de Información turística\n--\nInstalaciones Públicas\nServicios Públicos\nMiradores turísticos\n--\nInstalaciones Públicas\nServicios Públicos\nEstacionamiento de vehículos\n--\nInstalaciones Públicas\nServicios Públicos\nSeñales turísticas de orientación\n--\nInstalaciones Públicas\nServicios Públicos\nSeñales turísticas de interpretación\n--\nInstalaciones Públicas\nServicios Públicos\nBoletería\n--\nInstalaciones Públicas\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\n--\nInstalaciones Públicas\nServicios Públicos\nCentros de interpretación\n--\nInstalaciones Públicas\nServicios Públicos\nInstalación para la exposición de flora o fauna silvestre\n--\nInstalaciones Públicas\nServicios Públicos\nCaminos peatonales\n--\nInstalaciones Públicas\nServicios Públicos\nPuesto de auxilio rápido\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\nHotel 2** Distrito de Deán Valdivia - Poblado de La Curva\nAlimentación\nRestaurantes\nDistrito de Deán Valdivia - Poblado de La Curva\nAlimentación\nKioskos de comida y bebidas\nDistrito de Deán Valdivia - Poblado de La Curva\nLugares de Recreación\nBares\nDistrito de Deán Valdivia - Poblado de La Curva\nServicios Públicos\nPuesto de auxilio rápido\nDistrito de Deán Valdivia - Poblado de La Curva\nOtros Servicios Turísticos\nOtros (Especificar)\nServicio de taxi Distrito de Deán Valdivia - Poblado de La Curva\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nDistritos de Mollendo, Mejía, Deán Valdivia\nAlimentación\nCafeterías\nDistritos de Mollendo, Mejía, Deán Valdivia\nAlimentación\nVenta de comida Rápida\nDistritos de Mollendo, Mejía, Deán Valdivia\nOtros Servicios Turísticos\nAgencia de Viajes\nDistrito de Mollendo\nOtros Servicios Turísticos\nVenta de artesanía\nDistritos de Mollendo, Mejía, Deán Valdivia\nLugares de Recreación\nDiscotecas\nDistritos de Mollendo, Mejía, Deán Valdivia\nLugares de Recreación\nPeñas\nDistritos de Mollendo, Mejía, Deán Valdivia\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nDistrito de Mollendo\nLugares de Recreación\nKaraoke\nDistrito de Mollendo\nLugares de Recreación\nJuegos Infantiles\nDistritos de Mollendo, Mejía, Deán Valdivia\nLugares de Recreación\nCentros Deportivos\nDistritos de Mollendo, Mejía, Deán Valdivia\nLugares de Recreación\nLugares de picnic\nDistritos de Mollendo, Mejía, Deán Valdivia\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\nDistrito de Mollendo\nServicios Públicos\nEmbarcaderos\nDistrito de Mollendo\nServicios Públicos\nMuelles turísticos\nDistrito de Mollendo\nServicios Públicos\nZonas de Campamento(camping)\nDistritos de Mollendo, Mejía, Deán Valdivia, Punta de Bombón"
+    },
+    {
+      "titulo": "Servicios Complementarios dentro del recurso",
+      "contenido": "Servicio Complementario\nObservación\nServicios de internet\n--\nBodegas o minimarkets\nTerminal punto de venta(POS)"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nEstación de servicios, grifos, gasolineras y gasocentros\nDistritos de Mollendo, Mejía, Deán Valdivia y Punta de Bombón\nServicios de internet\nDistritos de Mollendo, Mejía, Deán Valdivia y Punta de Bombón\nBancos\nDistrito de Mollendo\nCajero automático\nDistrito de Mollendo\nCasa de cambio\nDistrito de Mollendo\nServicio de correos\nDistrito de Mollendo\nServicio de estacionamiento\nDistritos de Mollendo, Mejía, Deán Valdivia y Punta de Bombón\nServicios de taxis\nDistritos de Mollendo, Mejía, Deán Valdivia y Punta de Bombón\nServicios de salvavidas\nDistritos de Mollendo, Mejía, Deán Valdivia y Punta de Bombón\nCentro de salud - tópico\nDistritos de Mollendo, Mejía, Deán Valdivia y Punta de Bombón\nVenta de materiales para fotografías\nDistrito de Mollendo\nSeguridad / POLTUR / Comisaría\nDistritos de Mollendo, Mejía, Deán Valdivia y Punta de Bombón\nAlquiler y compra de equipos deportivos\nDistritos de Mollendo, Mejía, Deán Valdivia y Punta de Bombón\nLibrerías\nDistrito de Mollendo\nBodegas o minimarkets\nDistritos de Mollendo, Mejía, Deán Valdivia y Punta de Bombón"
+    },
+    {
+      "titulo": "Condiciones de Accesibilidad al Visitante",
+      "contenido": "Visitante\nInstalación\nActividades y/o programas\nEquipamiento\nObservación\nPersonas con discapacidad física\nRampas de acceso\n--\n--\n--\nNiños\n--\nEducación ambiental\n--\n--\nJóvenes\n--\nEducación ambiental\n--\n--\nOtros\n--\nGuiado e interpretación ambiental\n--\n--"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\n--\nLuz (Suministro Eléctrico)\n--\nEnergía Alternativa\n--\nTeléfono\n--\nSistemas de tratamiento alternativo de residuos (Biodigestor, pozo séptico, otros)\n--\nSeñalización turística\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nDistritos de Mollendo, Deán Valdivia y Punta de Bombón\nLuz (Suministro Eléctrico)\nDistritos de Mollendo, Deán Valdivia y Punta de Bombón\nEnergía Alternativa\nDistritos de Mollendo, Deán Valdivia y Punta de Bombón\nTeléfono\nDistritos de Mollendo, Deán Valdivia y Punta de Bombón\nAlcantarillado sanitario\nDistritos de Mollendo, Deán Valdivia y Punta de Bombón\nSistemas de tratamiento alternativo de residuos (Biodigestor, pozo séptico, otros)\nDistritos de Mollendo, Deán Valdivia y Punta de Bombón\nSeñalización turística\nDistritos de Mollendo, Deán Valdivia y Punta de Bombón"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nEstado peruano\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nNúmero de Partida:\n12014324\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nDecreto Supremo Nº 015-84-AG\nAdministrador por\nNombre\nServicio Nacional De Áreas Naturales Protegidas - SERNANP\nTiempo de administración\nDesde1984"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nGerencia Regional de Comercio Exterior y Turismo de Arequipa\nNombre (Persona(s) responsable(s) del inventario turístico):\nLic. Claudia Isabel Barrios Cacya\nCargo:\nEspecialista en turismo\nCorreo:\ncbarrios@correo.regionarequipa.gob.pe\nTeléfono:\n988099750\nFuentes Bibliográfica:\n-Angulo P. F. 2009. Perú. Pág. 307 – 316 en C. Devenish, D. F. Díaz Fernández, R. P. Clay, I. Davidson & I. Yépez Zabala Eds. Important Bird Areas Americas - Priority sites for biodiversity conservation. Quito, Ecuador: BirdLife International (BirdLife Conservation Series No. 16).\n-ProNaturaleza (2010). Documento base para la elaboración de una estrategia de conservación de los humedales de la costa peruana. ProNaturaleza, Lima.\n-Ramsar. 2021. La Lista de Humedales de Importancia Internacional (La Lista de Ramsar). Convencion Ramsar, Gland. Published 2 February 2021. 54 pp.\n-Ramsar. 2001. Ficha Informativa de los Humedales de Ramsar. Link https://rsis.ramsar.org/RISapp/files/RISrep/PE547RIS.pdf\n-SERNANP. 2020. Plan Maestro del Santuario Nacional Lagunas de Mejía 2020-2024.\nMaterial Audiovisual actual del Recurso:\nFOTO, OTROS\nEspecificación:\nMAPA\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n2/10/2023 10:04:45"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -17.146992930072663,
+    "longitud": -71.86154007911676
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-17.146992930072663,-71.86154007911676"
+}

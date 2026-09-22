@@ -1,0 +1,458 @@
+{
+  "cod_ficha": 1002,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=1002",
+  "nombre": "Reserva Nacional Pacaya - Samiria (Loreto - Requena - Alto Amazonas)",
+  "departamento": "Loreto",
+  "provincia": "Loreto",
+  "distrito": "NAUTA",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "n. Áreas Protegidas",
+  "subtipo": "Reservas Nacionales",
+  "jerarquia": "3",
+  "altitud": "90",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=538000",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=538000",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=537950",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=537951",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=537952",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=538590",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=538674",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=548994",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=548995",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=548996",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=549038",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=548997",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=549039",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=548998",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=548999",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=549040",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=549000",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=549041",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=549001",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=549042",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=549002",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=549043",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=549044"
+  ],
+  "actividades_permitidas": [
+    "Otros - Estudios e Investigación",
+    "Otros - Otros(Especificar)",
+    "Deportes acuáticos - Sea Kayac",
+    "Deportes acuáticos - Natación",
+    "Deportes acuáticos - Pesca deportiva",
+    "Naturaleza - Observación de fauna",
+    "Naturaleza - Observación de aves",
+    "Deportes / Aventura - Caminata/Trekking",
+    "Deportes / Aventura - Camping",
+    "Paseos - Paseos en embarcaciones",
+    "Cultura y Folclore - Apreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "Manejo sostenible del aguaje para fines comerciales, estudio de animales y plantas medicinales",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Otros(Especificar)",
+      "observacion": "Liberación de crías de taricayas y charapas",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/otros02.png"
+    },
+    {
+      "actividad": "Deportes acuáticos",
+      "tipo": "Sea Kayac",
+      "observacion": "En cuerpos de aguas identificados en el Plan Maestro 2024-2028",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/kayac02.png"
+    },
+    {
+      "actividad": "Deportes acuáticos",
+      "tipo": "Natación",
+      "observacion": "En ríos y cochas, en cuerpos de agua identificados en el Plan de sitio",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/natacion02.png"
+    },
+    {
+      "actividad": "Deportes acuáticos",
+      "tipo": "Pesca deportiva",
+      "observacion": "En cuerpos de aguas identificados en el Plan Maestro 2024-2028",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/pesca_deportiva02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de fauna",
+      "observacion": "vaca marina,bufeo colorado,bufeo negro, maquisapa frente amarilla, lobo de río",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fauna02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de aves",
+      "observacion": "“Garza blanca”(Egretta alba), “Garza Ceniza”(Ardea cocoi), “Puma Garza”(Tigrisoma lineatum), “Cushuri”(Phalacrocorax brasilianum), “Sharara”(Anhinga anhinga), “Tuyuyo”(Jabiru mycteria), entre otros.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/aves02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "Identificadas en el Plan de Sitio",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Camping",
+      "observacion": "En zonas autorizadas por la Jefatura",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/camping02.png"
+    },
+    {
+      "actividad": "Paseos",
+      "tipo": "Paseos en embarcaciones",
+      "observacion": "En cuerpos de aguas identificados en el Plan Maestro 2024-2028",
+      "icono_url": null
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Apreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)",
+      "observacion": "Exhibición de artesanías",
+      "icono_url": null
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Loreto/Loreto/Nauta - Loreto/Loreto/Nauta",
+      "detalle": "Desde la Plaza de Armas de Nauta hasta el puerto",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mototaxi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "238m / 5 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Loreto/Loreto/Nauta - Loreto/Loreto/Nauta",
+      "detalle": "Desde el Puerto de Nauta hasta el recurso",
+      "tipo_acceso": "Lacustre / Fluvial",
+      "medio_transporte": "Deslizador",
+      "tipo_via": "",
+      "distancia_tiempo": "28.51 km / 40 minutos"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Loreto/Alto Amazonas/Yurimaguas - Loreto/Alto Amazonas/Yurimaguas",
+      "detalle": "Desde la Plaza de Armas de Yurimaguas hasta el puerto",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mototaxi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "415 m / 10 min"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Loreto/Alto Amazonas/Yurimaguas - Loreto/Alto Amazonas/Lagunas",
+      "detalle": "Desde el puerto de Yurimaguas hasta el puerto de Lagunas",
+      "tipo_acceso": "Lacustre / Fluvial",
+      "medio_transporte": "Deslizador",
+      "tipo_via": "",
+      "distancia_tiempo": "170 km / 5 horas"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Loreto/Alto Amazonas/Lagunas - Loreto/Alto Amazonas/Lagunas",
+      "detalle": "Desde el Puerto de Lagunas hasta el puesto de vigilancia",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mototaxi",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "15 km / 1hora"
+    },
+    {
+      "recorrido": "3",
+      "tramo": "Loreto/Loreto/Nauta - Loreto/Requena/Puinahua",
+      "detalle": "Desde el Puerto de Nauta hasta el Puesto de Vigilancia #12 Pacaya",
+      "tipo_acceso": "Lacustre / Fluvial",
+      "medio_transporte": "Deslizador",
+      "tipo_via": "",
+      "distancia_tiempo": "500 km/ 12 horas"
+    },
+    {
+      "recorrido": "4",
+      "tramo": "Loreto/Loreto/Nauta - Loreto/Loreto/Parinari",
+      "detalle": "Desde el Puerto de Nauta hasta el Puesto de Vigilancia #4 Samiria",
+      "tipo_acceso": "Lacustre / Fluvial",
+      "medio_transporte": "Deslizador",
+      "tipo_via": "",
+      "distancia_tiempo": "150 km / 4horas"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "9033",
+      "horario": "Administración de la Reserva Nacional Pacaya Samiria",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "1686",
+      "horario": "Administración de la Reserva Nacional Pacaya Samiria",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "08:00 a.m. - 05:00 p.m. De acuerdo a las autorizaciones y previa compra de boletos",
+      "observaciones": "De acuerdo a las autorizaciones y previa compra de boletos"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "-Extranjeros: S/30.00 -Nacionales: Adultos:S/15.00, Niños: S/8.00 -Locales: Adultos: S/8.00, Niños: S/8.00 *Menores de 5 años: Ingreso libre"
+    },
+    {
+      "tipo": "Otros (especificar)",
+      "observaciones": "Exoneración de pagos de derecho de ingreso a guías oficiales de turismo y a personas con discapacidad que presenten la acreditación respectiva"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Albergues",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Brindado por los operadores turísticos a sus pasajeros"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Idioma: Inglés"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de Campamento(camping)",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Centros de interpretación",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Refugios (para recorridos largos)",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Albergues",
+      "observacion": "En la ciudad de Nauta"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Apart-hoteles (especificar categorías)",
+      "observacion": "De 2 y 3 estrellas, en la ciudad de Nauta"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "1 tenedor, en la ciudad de Nauta"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "en la ciudad de Nauta"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "en la ciudad de Nauta"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "en la ciudad de Nauta"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "en la ciudad de Nauta"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "En la ciudad de Nauta"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "En la ciudad de Nauta"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "En la ciudad de Nauta"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "En la ciudad de Nauta"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de botes",
+      "observacion": "En la ciudad de Nauta"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "En la ciudad de Nauta"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "En la ciudad de Nauta"
+    }
+  ],
+  "descripcion": "La Reserva Nacional Pacaya Samiria, se estableció originalmente como Zona Reservada, su extensión territorial comprende parte de las provincias de Loreto, Requena, Alto Amazonas y Ucayali, con sus respectivos distritos, a la vez es un área natural protegida por el Estado peruano, que conserva los ecosistemas de bosques húmedos tropicales de la Amazonía peruana. Esta Reserva se encuentra ubicada en la depresión Ucamara, donde se da la confluencia de los grandes ríos Ucayali y Marañon, los cuales forman sus límites naturales. La parte suroccidental está delimitada por una franja de colinas bajas que forma la divisoria de aguas con el río Huallaga.\nLa Reserva alberga una alta diversidad biológica y una importante población humana que aprovecha de sus recursos naturales. Comprende en su interior las cuencas de los ríos Pacaya, Samiria y Yanayacu-Pucate. Aunque mayormente se trata de una planicie de selva baja aluvial e inundable, presenta algunas colinas bajas en las nacientes del Pacaya.\nActualmente, Pacaya Samiria es la segunda área natural protegida terrestre más grande del Perú, con 2 millones 80 mil hectáreas que albergan una alta diversidad biológica y una importante población humana que hace uso de sus recursos (Fuente: Plan Maestro – Reserva Nacional Pacaya Samiria 2024– 2028), a su vez es considerada como uno de los principales sitios para conocer la naturaleza de la selva peruana, con una gran afluencia de visitantes durante el año. A su vez, la Reserva alberga importantes especies de flora, fauna y plantas silvestre consideradas partes de la belleza silvestres por toda la reserva.\nLa Reserva Nacional Pacaya Samiria es uno de los atractivos turísticos más importantes de la región Loreto, por formar parte del destino Río Amazonas – Pacaya Samiria, que tiene un abanico de experiencias que van desde la navegación en cruceros (por 7 días), albergues que ofrecen todas las comodidades del servicio de alojamiento, servicios especializados de acuerdo al interés del viajero, tales como: observación de aves, mariposas, mamíferos, pesca deportiva, entre otros. Es muy importante mencionar que la actividad turística dentro de la Reserva se puede desarrollar dentro de las zonas de recuperación, aprovechamiento directo, uso especial con las limitaciones para cada zona. Cabe resaltar que la actividad turística se restringe en las zonas sensibles para la reproducción de quelonios acuáticos durante los meses de julio a setiembre. El escenario geográfico del sector turístico de la Reserva Nacional Pacaya Samiria permite desarrollar el turismo de naturaleza, turismo de crucero, de navegación, natación, kayak, observación de fauna, flora y paisajes, entre otros, asimismo cuenta con oportunidades de recreación como caminatas por trochas, paseos en embarcaciones y pesca recreativa. Además, es utilizado como un espacio para estudios e investigaciones de las diversas especies en flora y fauna que existen dentro de la reserva, lo cual es importante porque promueve la visita turística, cultural, natural y científica.",
+  "particularidades": "La Reserva Nacional Pacaya Samiria tiene la particularidad de tener bosque húmedo de llanura meándrica, bosque húmedo de terraza baja inundable por agua blanca, bosque húmedo de terraza baja inundable por agua negra, bosque húmedo de varillal. Fuente: “Evaluación de los Humedales y su relación con las zonas de pesca en la Cuenca Pacaya en la Reserva Nacional Pacaya Samiria”. Julio José Acosta Matos (Consultor en Ecología del Paisaje) y Gabriella Leonor Vives Rivero (Especialista Ecología del Paisaje y SIG). WCS Informe Final. https://peru.wcs.org/Portals/94/PDF/Informe%20Final%20Humedales%20Pacaya.pdf?ver=2019-02-28-222443-550",
+  "estado_actual": "Muy bueno, porque el estado de conservación de la Reserva representa el 93.6657% (https://cdn.www.gob.pe/uploads/document/file/5611638/4977145-anexo.pdf?v=1703783942)",
+  "observaciones": "Actualmente la Reserva Nacional Pacaya Samiria, es un destino priorizado por el Plan Estratégico Nacional de Turismo del Perú, es una de las 06 Áreas Naturales Protegidas con mayor afluencia de visitantes, recaudación y se encuentra actualmente priorizada por las instituciones públicas para su acondicionamiento, como es el caso de COPESCO y MINCETUR. Fuente: Plan de Uso turístico y Recreativo de la Reserva Nacional Pacaya Samiria 2011 – 1016 – Resolución Presidencial N° 301 – 2011 - SERNANP",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "La Reserva Nacional Pacaya Samiria, se estableció originalmente como Zona Reservada, su extensión territorial comprende parte de las provincias de Loreto, Requena, Alto Amazonas y Ucayali, con sus respectivos distritos, a la vez es un área natural protegida por el Estado peruano, que conserva los ecosistemas de bosques húmedos tropicales de la Amazonía peruana. Esta Reserva se encuentra ubicada en la depresión Ucamara, donde se da la confluencia de los grandes ríos Ucayali y Marañon, los cuales forman sus límites naturales. La parte suroccidental está delimitada por una franja de colinas bajas que forma la divisoria de aguas con el río Huallaga.\nLa Reserva alberga una alta diversidad biológica y una importante población humana que aprovecha de sus recursos naturales. Comprende en su interior las cuencas de los ríos Pacaya, Samiria y Yanayacu-Pucate. Aunque mayormente se trata de una planicie de selva baja aluvial e inundable, presenta algunas colinas bajas en las nacientes del Pacaya.\nActualmente, Pacaya Samiria es la segunda área natural protegida terrestre más grande del Perú, con 2 millones 80 mil hectáreas que albergan una alta diversidad biológica y una importante población humana que hace uso de sus recursos (Fuente: Plan Maestro – Reserva Nacional Pacaya Samiria 2024– 2028), a su vez es considerada como uno de los principales sitios para conocer la naturaleza de la selva peruana, con una gran afluencia de visitantes durante el año. A su vez, la Reserva alberga importantes especies de flora, fauna y plantas silvestre consideradas partes de la belleza silvestres por toda la reserva.\nLa Reserva Nacional Pacaya Samiria es uno de los atractivos turísticos más importantes de la región Loreto, por formar parte del destino Río Amazonas – Pacaya Samiria, que tiene un abanico de experiencias que van desde la navegación en cruceros (por 7 días), albergues que ofrecen todas las comodidades del servicio de alojamiento, servicios especializados de acuerdo al interés del viajero, tales como: observación de aves, mariposas, mamíferos, pesca deportiva, entre otros. Es muy importante mencionar que la actividad turística dentro de la Reserva se puede desarrollar dentro de las zonas de recuperación, aprovechamiento directo, uso especial con las limitaciones para cada zona. Cabe resaltar que la actividad turística se restringe en las zonas sensibles para la reproducción de quelonios acuáticos durante los meses de julio a setiembre. El escenario geográfico del sector turístico de la Reserva Nacional Pacaya Samiria permite desarrollar el turismo de naturaleza, turismo de crucero, de navegación, natación, kayak, observación de fauna, flora y paisajes, entre otros, asimismo cuenta con oportunidades de recreación como caminatas por trochas, paseos en embarcaciones y pesca recreativa. Además, es utilizado como un espacio para estudios e investigaciones de las diversas especies en flora y fauna que existen dentro de la reserva, lo cual es importante porque promueve la visita turística, cultural, natural y científica."
+    },
+    {
+      "titulo": "Particularidades",
+      "contenido": "La Reserva Nacional Pacaya Samiria tiene la particularidad de tener bosque húmedo de llanura meándrica, bosque húmedo de terraza baja inundable por agua blanca, bosque húmedo de terraza baja inundable por agua negra, bosque húmedo de varillal. Fuente: “Evaluación de los Humedales y su relación con las zonas de pesca en la Cuenca Pacaya en la Reserva Nacional Pacaya Samiria”. Julio José Acosta Matos (Consultor en Ecología del Paisaje) y Gabriella Leonor Vives Rivero (Especialista Ecología del Paisaje y SIG). WCS Informe Final. https://peru.wcs.org/Portals/94/PDF/Informe%20Final%20Humedales%20Pacaya.pdf?ver=2019-02-28-222443-550"
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "El 27 de setiembre de 2022, La Reserva Nacional Pacaya Samiria es reconocida junto a 8 destinos turísticos del Perú, por sus historias de buenas prácticas de sostenibilidad, sus esfuerzos y avances por un turismo sostenible, siendo incluida dentro de la 2022 Top 100 Sustainability Stories y dándose a conocer internacionalmente por Green Destinations en una ceremonia oficial en Atenas, Grecia. Asimismo, es reconocido como sitio RAMSAR, por la conservación y el uso sostenible de los humedales."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Muy bueno, porque el estado de conservación de la Reserva representa el 93.6657% (https://cdn.www.gob.pe/uploads/document/file/5611638/4977145-anexo.pdf?v=1703783942)"
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "Actualmente la Reserva Nacional Pacaya Samiria, es un destino priorizado por el Plan Estratégico Nacional de Turismo del Perú, es una de las 06 Áreas Naturales Protegidas con mayor afluencia de visitantes, recaudación y se encuentra actualmente priorizada por las instituciones públicas para su acondicionamiento, como es el caso de COPESCO y MINCETUR. Fuente: Plan de Uso turístico y Recreativo de la Reserva Nacional Pacaya Samiria 2011 – 1016 – Resolución Presidencial N° 301 – 2011 - SERNANP"
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n9033\nAdministración de la Reserva Nacional Pacaya Samiria\n2023\nDe Enero a Diciembre\nTuristas Nacionales\n1686\nAdministración de la Reserva Nacional Pacaya Samiria\n2023\nDe Enero a Diciembre"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nLoreto/Loreto/Nauta\n-\nLoreto/Loreto/Nauta\nDesde la Plaza de Armas de Nauta hasta el puerto\nTerrestre\nMototaxi\nAsfaltado\n238m / 5 min.\n1\nLoreto/Loreto/Nauta\n-\nLoreto/Loreto/Nauta\nDesde el Puerto de Nauta hasta el recurso\nLacustre / Fluvial\nDeslizador\n28.51 km / 40 minutos\n2\nLoreto/Alto Amazonas/Yurimaguas\n-\nLoreto/Alto Amazonas/Yurimaguas\nDesde la Plaza de Armas de Yurimaguas hasta el puerto\nTerrestre\nMototaxi\nAsfaltado\n415 m / 10 min\n2\nLoreto/Alto Amazonas/Yurimaguas\n-\nLoreto/Alto Amazonas/Lagunas\nDesde el puerto de Yurimaguas hasta el puerto de Lagunas\nLacustre / Fluvial\nDeslizador\n170 km / 5 horas\n2\nLoreto/Alto Amazonas/Lagunas\n-\nLoreto/Alto Amazonas/Lagunas\nDesde el Puerto de Lagunas hasta el puesto de vigilancia\nTerrestre\nMototaxi\nTrocha carrozable\n15 km / 1hora\n3\nLoreto/Loreto/Nauta\n-\nLoreto/Requena/Puinahua\nDesde el Puerto de Nauta hasta el Puesto de Vigilancia #12 Pacaya\nLacustre / Fluvial\nDeslizador\n500 km/ 12 horas\n4\nLoreto/Loreto/Nauta\n-\nLoreto/Loreto/Parinari\nDesde el Puerto de Nauta hasta el Puesto de Vigilancia #4 Samiria\nLacustre / Fluvial\nDeslizador\n150 km / 4horas"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\n-Extranjeros: S/30.00\n-Nacionales: Adultos:S/15.00, Niños: S/8.00\n-Locales: Adultos: S/8.00, Niños: S/8.00\n*Menores de 5 años: Ingreso libre\nOtros (especificar)\nExoneración de pagos de derecho de ingreso a guías oficiales de turismo y a personas con discapacidad que presenten la acreditación respectiva"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n08:00 a.m.\n-\n05:00 p.m.\nDe acuerdo a las autorizaciones y previa compra de boletos"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nEstudios e Investigación\nManejo sostenible del aguaje para fines comerciales, estudio de animales y plantas medicinales\nOtros\nOtros(Especificar)\nLiberación de crías de taricayas y charapas\nDeportes acuáticos\nSea Kayac\nEn cuerpos de aguas identificados en el Plan Maestro 2024-2028\nDeportes acuáticos\nNatación\nEn ríos y cochas, en cuerpos de agua identificados en el Plan de sitio\nDeportes acuáticos\nPesca deportiva\nEn cuerpos de aguas identificados en el Plan Maestro 2024-2028\nNaturaleza\nObservación de fauna\nvaca marina,bufeo colorado,bufeo\nnegro, maquisapa frente\namarilla, lobo de río\nNaturaleza\nObservación de aves\n“Garza blanca”(Egretta alba), “Garza Ceniza”(Ardea cocoi), “Puma Garza”(Tigrisoma lineatum),\n“Cushuri”(Phalacrocorax brasilianum), “Sharara”(Anhinga anhinga), “Tuyuyo”(Jabiru mycteria), entre otros.\nDeportes / Aventura\nCaminata/Trekking\nIdentificadas en el Plan de Sitio\nDeportes / Aventura\nCamping\nEn zonas autorizadas por la Jefatura\nPaseos\nPaseos en embarcaciones\nEn cuerpos de aguas identificados en el Plan Maestro 2024-2028\nCultura y Folclore\nApreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)\nExhibición de artesanías"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nAlojamiento\nAlbergues\n--\nInstalaciones Privadas\nAlimentación\nOtros (Especificar)\nBrindado por los operadores turísticos a sus pasajeros\nInstalaciones Privadas\nOtros Servicios Turísticos\nVenta de artesanía\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nIdioma: Inglés\nInstalaciones Públicas\nServicios Públicos\nOficina de Información turística\n--\nInstalaciones Públicas\nServicios Públicos\nZonas de Campamento(camping)\n--\nInstalaciones Públicas\nServicios Públicos\nCentros de interpretación\n--\nInstalaciones Públicas\nServicios Públicos\nRefugios (para recorridos largos)\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nAlbergues\nEn la ciudad de Nauta\nAlojamiento\nApart-hoteles (especificar categorías)\nDe 2 y 3 estrellas, en la ciudad de Nauta\nAlimentación\nRestaurantes\n1 tenedor, en la ciudad de Nauta\nLugares de Recreación\nDiscotecas\nen la ciudad de Nauta\nOtros Servicios Turísticos\nVenta de artesanía\nen la ciudad de Nauta\nOtros Servicios Turísticos\nAgencia de Viajes\nen la ciudad de Nauta\nLugares de Recreación\nBares\nen la ciudad de Nauta\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nEn la ciudad de Nauta\nServicios Públicos\nEstacionamiento de vehículos\nEn la ciudad de Nauta\nLugares de Recreación\nCentros Deportivos\nEn la ciudad de Nauta\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\nEn la ciudad de Nauta\nOtros Servicios Turísticos\nAlquiler de botes\nEn la ciudad de Nauta\nAlimentación\nVenta de comida Rápida\nEn la ciudad de Nauta\nAlimentación\nKioskos de comida y bebidas\nEn la ciudad de Nauta"
+    },
+    {
+      "titulo": "Servicios Complementarios dentro del recurso",
+      "contenido": "Servicio Complementario\nObservación\nSeguridad / POLTUR / Comisaría\n--\nBodegas o minimarkets\nDentro de las comunidades rurales"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nCentro de salud - tópico\nCiudad de Nauta/ Ciudad de Lagunas/ Ciudad Bretaña\nSeguridad / POLTUR / Comisaría\nCiudad de Nauta/ Ciudad de Lagunas/ Ciudad Bretaña\nBodegas o minimarkets\nCiudad de Nauta/ Ciudad de Lagunas/ Ciudad Bretaña\nAlquiler y compra de equipos deportivos\nCiudad de Nauta/ Ciudad de Lagunas/ Ciudad Bretaña\nBancos\nCiudad de Nauta/ Ciudad de Lagunas/ Ciudad Bretaña\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Nauta/ Ciudad de Lagunas/ Ciudad Bretaña\nServicios de internet\nCiudad de Nauta/ Ciudad de Lagunas"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nSeñalización turística\n--\nSistemas de tratamiento alternativo de residuos (Biodigestor, pozo séptico, otros)\n--\nEnergía Alternativa\nPaneles Solares"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Nauta/ Ciudad de Lagunas/ Ciudad Bretaña\nLuz (Suministro Eléctrico)\nCiudad de Nauta/ Ciudad de Lagunas/ Ciudad Bretaña\nTeléfono\nCiudad de Nauta/ Ciudad de Lagunas/ Ciudad Bretaña\nAlcantarillado sanitario\nCiudad de Nauta/ Ciudad de Lagunas/ Ciudad Bretaña\nEnergía Alternativa\nCiudad de Nauta/ Ciudad de Lagunas/ Ciudad Bretaña\nSistemas de tratamiento alternativo de residuos (Biodigestor, pozo séptico, otros)\nCiudad de Nauta/ Ciudad de Lagunas/ Ciudad Bretaña"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nMinisterio del Ambiente\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nDecreto Legislativo N°1013, Decreto Supremo N° 038 - 2001- AG, Decreto Supremo N°06-72-PE\nAdministrador por\nNombre\nServicio Nacional de Áreas Naturales Protegidas por el Estado - SERNANP\nTiempo de administración\nDesde el 13 de mayo de 2008"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nGerencia Regional de Comercio Exterior y Turismo - Loreto / Servicio Nacional de Áreas Naturales Protegidas por el Estado\nNombre (Persona(s) responsable(s) del inventario turístico):\nMaribel Aspajo Morales / Susan Huaccanqui Flores\nCargo:\nEncargado de Recursos Turísticos / Especialista en Turismo\nCorreo:\nturismodircetura@gmail.com / shuaccanqui@sernanp.gob.pe\nTeléfono:\n971950312/ 971970569\nFuentes Bibliográfica:\n- Evaluación de la Fauna Silvestre y su Aprovechamiento de la Reserva Nacional Pacaya-Samiria Peru, IIAP, P. Soini, L. Sicchar, G. Gil, A. Fachin, R. Pezo Y M. Chumbe, Documento Técnico N°24- Agosto 1996\n- Servicio de Información sobre Sitios Ramsar, 30-03-1992\n--“Plan de Sitio del Sector Turístico Pacaya en la Reserva Nacional Pacaya Samiria” , Resolución Jefatural de la Reserva Nacional Pacaya Samiria, N° 033 -2022-SERNANP-JEF, 30/09/2023. “La Reserva Nacional Pacaya Samiria (RNPS), es la segunda área natural protegida más grande del Perú, con 2’080,000 hectáreas de extensión. Es considerada como uno de los principales sitios para conocer la naturaleza de la selva peruana, con una afluencia de 13, 456 visitantes durante el año 2019 lo que le hace una de las principales recaudadoras de ingresos del SINANPE. Para el buen manejo de la actividad turística, el ANP cuenta con el Plan Maestro y el Plan de Uso Turístico y Recreativo, que son documentos de gestión a nivel general y específico\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n10/07/2024 16:36:35"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -5.203099951850092,
+    "longitud": -74.59304809570312
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-5.203099951850092,-74.59304809570312"
+}

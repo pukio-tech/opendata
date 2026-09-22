@@ -1,0 +1,353 @@
+{
+  "cod_ficha": 4326,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=4326",
+  "nombre": "Mirador Turistico Cerro Campana",
+  "departamento": "Cajamarca",
+  "provincia": "San Ignacio",
+  "distrito": "SAN IGNACIO",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "ñ. Zonas paisajísticas",
+  "subtipo": "Miradores naturales",
+  "jerarquia": "POR JERARQUIZAR",
+  "altitud": "1878 m.s.n.m",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=294212",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=294212",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=294213",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=536193",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=536233",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=536234"
+  ],
+  "actividades_permitidas": [
+    "Naturaleza - Observación de paisaje",
+    "Deportes / Aventura - Caminata/Trekking",
+    "Deportes / Aventura - Camping",
+    "Paseos - Paseos en bicicleta",
+    "Paseos - Paseos en cuatrimotos",
+    "Paseos - Paseos en motocicleta",
+    "Deportes / Aventura - Zip-Line/Canopy"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Camping",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/camping02.png"
+    },
+    {
+      "actividad": "Paseos",
+      "tipo": "Paseos en bicicleta",
+      "observacion": "--",
+      "icono_url": null
+    },
+    {
+      "actividad": "Paseos",
+      "tipo": "Paseos en cuatrimotos",
+      "observacion": "--",
+      "icono_url": null
+    },
+    {
+      "actividad": "Paseos",
+      "tipo": "Paseos en motocicleta",
+      "observacion": "--",
+      "icono_url": null
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Zip-Line/Canopy",
+      "observacion": "--",
+      "icono_url": null
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Cajamarca/San Ignacio/San Ignacio - Cajamarca/San Ignacio/Namballe",
+      "detalle": "Carretera San Ignacio – Namballe- Caserío Marizagua",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "8 km./20 minutos"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "270",
+      "horario": "Cálculo de visitas anual al recurso turístico",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "2790",
+      "horario": "Cálculo de visitas anual al recurso turístico",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "6570",
+      "horario": "Cálculo de visitas anual al recurso turístico",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "09:00 a.m. - 05:00 p.m. --",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "Encontramos hostales de 1 a 3 estrellas en la ciudad de San Ignacio."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "En la ciudad de San Ignacio"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "En la ciudad de San ignacio"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "En la ciudad de San ignacio"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "En la ciudad de San Ignacio"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Bancos - Cajeros",
+      "observacion": "En la ciudad de San Ignacio"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Correos",
+      "observacion": "En la ciudad de San ignacio"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Internet",
+      "observacion": "En la ciudad de San Ignacio"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de Material para Fotografía",
+      "observacion": "En la ciudad de San Ignacio"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "Encontramos hoteles de 1 a 3 estrellas en la ciudad de San Ignacio."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de San Ignacio."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Peñas",
+      "observacion": "Ciudad de San Ignacio."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de bicicleta",
+      "observacion": "Ciudad de San Ignacio."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de camionetas 4 x 4",
+      "observacion": "Ciudad de San Ignacio."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Ciudad de San Ignacio."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "Ciudad de San Ignacio."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Ciudad de San Ignacio."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Puesto de auxilio rápido",
+      "observacion": "Ciudad de San Ignacio."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Museo de Sitio Turísticos",
+      "observacion": "Ciudad de San Ignacio."
+    }
+  ],
+  "descripcion": "Se encuentra ubicado en la cúspide del cerro Campana, en el caserío del mismo nombre, con una altitud de 1878 m.s.n.m, tiene una extensión de área de terreno: 2,998.72 m2 o 0.2998 has, es una explanada de donde se tiene dominio en 360º de todos los distritos que circundan a la ciudad de San Ignacio.\nSe puede apreciar el valle del Chinchipe con sus múltiples matices de verdes, así como el serpentear del río Chinchipe, también podemos apreciar la acogedora ciudad de San Ignacio y el Noreste visualizamos diferentes parroquias (caseríos) del Ecuador.\nEl cerro actualmente se implementado un sendero para caminatas por un frondoso bosque de pinos, dentro del cual se encuentran petroglifos, hermosas orquídeas naturales que embellecen el paisaje, adecuado con juegos de aventura, búngalos, ventas de artesanía y comidas típicas de la Zona.",
+  "particularidades": "",
+  "estado_actual": "Se encuentra en buenas condiciones de conservación por parte de los emprendimientos del lugar",
+  "observaciones": "Se ubica a 10 km. de la ciudad de San Ignacio, en movilidad 25 minutos.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Se encuentra ubicado en la cúspide del cerro Campana, en el caserío del mismo nombre, con una altitud de 1878 m.s.n.m, tiene una extensión de área de terreno: 2,998.72 m2 o 0.2998 has, es una explanada de donde se tiene dominio en 360º de todos los distritos que circundan a la ciudad de San Ignacio.\nSe puede apreciar el valle del Chinchipe con sus múltiples matices de verdes, así como el serpentear del río Chinchipe, también podemos apreciar la acogedora ciudad de San Ignacio y el Noreste visualizamos diferentes parroquias (caseríos) del Ecuador.\nEl cerro actualmente se implementado un sendero para caminatas por un frondoso bosque de pinos, dentro del cual se encuentran petroglifos, hermosas orquídeas naturales que embellecen el paisaje, adecuado con juegos de aventura, búngalos, ventas de artesanía y comidas típicas de la Zona."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Se encuentra en buenas condiciones de conservación por parte de los emprendimientos del lugar"
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "Se ubica a 10 km. de la ciudad de San Ignacio, en movilidad 25 minutos."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n270\nCálculo de visitas anual al recurso turístico\n2023\nTuristas Nacionales\n2790\nCálculo de visitas anual al recurso turístico\n2023\nVisitantes Locales(Excursionistas)\n6570\nCálculo de visitas anual al recurso turístico\n2023"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nCajamarca/San Ignacio/San Ignacio\n-\nCajamarca/San Ignacio/Namballe\nCarretera San Ignacio – Namballe- Caserío Marizagua\nTerrestre\nAutomóvil particular\nTrocha carrozable\n8 km./20 minutos"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n09:00 a.m.\n-\n05:00 p.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nNaturaleza\nObservación de paisaje\n--\nDeportes / Aventura\nCaminata/Trekking\n--\nDeportes / Aventura\nCamping\n--\nPaseos\nPaseos en bicicleta\n--\nPaseos\nPaseos en cuatrimotos\n--\nPaseos\nPaseos en motocicleta\n--\nDeportes / Aventura\nZip-Line/Canopy\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nAlimentación\nRestaurantes\n--\nInstalaciones Privadas\nAlimentación\nKioskos de comida y bebidas\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHostales (especificar categorías)\nEncontramos hostales de 1 a 3 estrellas en la ciudad de San Ignacio.\nAlimentación\nRestaurantes\nEn la ciudad de San Ignacio\nAlimentación\nCafeterías\nEn la ciudad de San ignacio\nLugares de Recreación\nDiscotecas\nEn la ciudad de San ignacio\nOtros Servicios Turísticos\nVenta de artesanía\nEn la ciudad de San Ignacio\nOtros Servicios Turísticos\nBancos - Cajeros\nEn la ciudad de San Ignacio\nOtros Servicios Turísticos\nServicio de Correos\nEn la ciudad de San ignacio\nOtros Servicios Turísticos\nServicio de Internet\nEn la ciudad de San Ignacio\nOtros Servicios Turísticos\nVenta de Material para Fotografía\nEn la ciudad de San Ignacio\nAlojamiento\nHoteles (especificar categorías)\nEncontramos hoteles de 1 a 3 estrellas en la ciudad de San Ignacio.\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\n--\nAlimentación\nBares\nCiudad de San Ignacio.\nLugares de Recreación\nPeñas\nCiudad de San Ignacio.\nOtros Servicios Turísticos\nAlquiler de bicicleta\nCiudad de San Ignacio.\nOtros Servicios Turísticos\nAlquiler de camionetas 4 x 4\nCiudad de San Ignacio.\nServicios Públicos\nEstacionamiento de vehículos\nCiudad de San Ignacio.\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\nCiudad de San Ignacio.\nServicios Públicos\nOficina de Información turística\nCiudad de San Ignacio.\nServicios Públicos\nPuesto de auxilio rápido\nCiudad de San Ignacio.\nServicios Públicos\nMuseo de Sitio Turísticos\nCiudad de San Ignacio."
+    },
+    {
+      "titulo": "Servicios Complementarios dentro del recurso",
+      "contenido": "Servicio Complementario\nObservación\nServicios de internet\n--"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de San Ignacio.\nBancos\nCiudad de San Ignacio.\nCajero automático\nCiudad de San Ignacio.\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de San Ignacio.\nServicio de estacionamiento\nCiudad de San Ignacio.\nCentro de salud - tópico\nCiudad de San Ignacio.\nSeguridad / POLTUR / Comisaría\nCiudad de San Ignacio.\nLibrerías\nCiudad de San Ignacio.\nBodegas o minimarkets\nCiudad de San Ignacio."
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nLuz (Suministro Eléctrico)\nQue ilumina el mirador\nAgua potable\n--\nTeléfono\n--\nSeñalización turística\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nEn la ciudad de San ignacio\nLuz (Suministro Eléctrico)\nEn la ciudad de San ignacio\nTeléfono\nEn la ciudad de San ignacio\nOtros (Especificar)\nPuesto Policial, Posta Médica, Bancos\nAlcantarillado sanitario\nCiudad de San Ignacio."
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\n--\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nNúmero de Partida:\n1107987\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nMunicipalidad Provincial de San ignacio\nTiempo de administración\n12 años"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDIRCETUR CAJAMARCA\nNombre (Persona(s) responsable(s) del inventario turístico):\nESPERANZA ESCOBAR PORTAL\nCargo:\nTECNICO EN TURISMO I\nCorreo:\nmescobar@regioncajamarca.gob.pe\nTeléfono:\n962690326\nFuentes Bibliográfica:\nINVENTARIO DE RECURSOS TURÍSTICOS DE LA PROVINCIA DE SAN IGNACIO 2014 - DIRECCIÓN ZONAL DE COMERCIO EXTERIOR Y TURISMO JAEN - SAN IGNACIO.\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n31/05/2024 14:24:24"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -5.708984,
+    "longitud": -78.807929
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-5.708984,-78.807929"
+}

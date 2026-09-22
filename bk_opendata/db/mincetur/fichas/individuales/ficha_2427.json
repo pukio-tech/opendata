@@ -1,0 +1,328 @@
+{
+  "cod_ficha": 2427,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=2427",
+  "nombre": "Iglesia Y Convento La Recoleta",
+  "departamento": "Cajamarca",
+  "provincia": "Cajamarca",
+  "distrito": "CAJAMARCA",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Arquitectura y Espacios Urbanos",
+  "subtipo": "Iglesias",
+  "jerarquia": "2",
+  "altitud": "2718",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=293799",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=293799",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=293800",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=293801",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=539308",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=539377",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=539309",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=539310",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=539311"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Otros(Especificar)"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Otros(Especificar)",
+      "observacion": "Actividades religiosas",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/otros02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Cajamarca/Cajamarca/Cajamarca - Cajamarca/Cajamarca/Cajamarca",
+      "detalle": "Desde la Plaza de Armas hacia la Iglesia La Recoleta, a través del Jr. Amalia Puga",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "400 metros/ 5 minutos"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "200",
+      "horario": "Oficina Administración",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "2500",
+      "horario": "Oficina Administración",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "3500",
+      "horario": "Oficina Administración",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "08:00 a.m. - 12:30 p.m. --",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": "Permanece abierto a partir de las 7.00 am a 12 m."
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Actividades Religiosas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "DE 1 a 4 Estrellas, Ciudad de Cajamarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "De 1 a 3 Estrellas, Ciudad de Cajamarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Cajamarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Cajamarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Cajamarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Ciudad de Cajamarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Cajamarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Cajamarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Otros(especificar)",
+      "observacion": "Ciudad de Cajamarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Ciudad de Cajamarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Cajamarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de Cajamarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Bancos - Cajeros",
+      "observacion": "Ciudad de Cajamarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Ciudad de Cajamarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Ciudad de Cajamarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Ciudad de Cajamarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Ciudad de Cajamarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Ciudad de Cajamarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Internet",
+      "observacion": "Ciudad de Cajamarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de taxi",
+      "observacion": "Ciudad de Cajamarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Ciudad de Cajamarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Ciudad de Cajamarca"
+    }
+  ],
+  "descripcion": "La edificación de ésta importante Iglesia y Convento La Recoleta fue el 14 de julio de 1668 y se terminó en 1678 – en el Siglo XVIII. El obispo de Trujillo fray Jaime de Mimbela la consagró en 1736, se ubica en las intersecciones de la Av. Los Héroes con la Av. El Maestro.\nSu fachada de la iglesia es sobria, tallada en piedra, luce espadañas en triple arco en lugar de torres y elegantes roleos en el campanario. En el frontis está la imagen de la Virgen de las Nieves, así como un ex Convento franciscano con amplias arquerías interiores construidas de piedra y ladrillo de arcilla.\nLuce elegantes espadañas en vez de torres. Tiene un escudo que hace un tiempo perteneció al Conde de Lemos. El interior de la iglesia es de una sola nave techada con bóveda de cañón, se puede apreciar valiosas obras de arte en el interior de la iglesia como imágenes impresionantes como Jesús de Nazaret y la del patrón San Sebastián, el pueblo venera con devoción, en su fiesta patronal de San Sebastián el 20 de enero de cada año. Es el único conjunto monumental (iglesia y convento) de construcción concluida, de acuerdo al estudio de investigación realizada por el Arq. Mario Tejada (2007)\nSe cuenta que, durante la invasión chilena a la ciudad, cuando los soldados trataron de ingresar a ésta iglesia para saquearla, ocurrió un terremoto que los puso en franca huida, salvándose las reliquias religiosas allí existentes, hasta ahora.\nSuprimido el convento, por decreto de 1826, su local fue destinado por Ley del 11 de noviembre de 1929 para el establecimiento de un Colegio de Ciencias. A partir de 1831 y hasta 1954 funcionó allí el Colegio San Ramón y, posteriormente la Escuela Normal de Mujeres Santa Teresita y el Colegio Dos de Mayo.\nActualmente en las instalaciones del ex convento funciona el Colegió San Ramón y I.E. Belén.",
+  "particularidades": "Es la primera Iglesia de Toba Volcánica que se construyó en el año 1668, y con la se inicia la representación del barroco inicial. Libro Apogeo de Cajamarca año 2004 - Evelio Gaitán Pajares.",
+  "estado_actual": "Se encuentra en buen estado de conservación, se da mantenimiento continuo, personal de la iglesia.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "La edificación de ésta importante Iglesia y Convento La Recoleta fue el 14 de julio de 1668 y se terminó en 1678 – en el Siglo XVIII. El obispo de Trujillo fray Jaime de Mimbela la consagró en 1736, se ubica en las intersecciones de la Av. Los Héroes con la Av. El Maestro.\nSu fachada de la iglesia es sobria, tallada en piedra, luce espadañas en triple arco en lugar de torres y elegantes roleos en el campanario. En el frontis está la imagen de la Virgen de las Nieves, así como un ex Convento franciscano con amplias arquerías interiores construidas de piedra y ladrillo de arcilla.\nLuce elegantes espadañas en vez de torres. Tiene un escudo que hace un tiempo perteneció al Conde de Lemos. El interior de la iglesia es de una sola nave techada con bóveda de cañón, se puede apreciar valiosas obras de arte en el interior de la iglesia como imágenes impresionantes como Jesús de Nazaret y la del patrón San Sebastián, el pueblo venera con devoción, en su fiesta patronal de San Sebastián el 20 de enero de cada año. Es el único conjunto monumental (iglesia y convento) de construcción concluida, de acuerdo al estudio de investigación realizada por el Arq. Mario Tejada (2007)\nSe cuenta que, durante la invasión chilena a la ciudad, cuando los soldados trataron de ingresar a ésta iglesia para saquearla, ocurrió un terremoto que los puso en franca huida, salvándose las reliquias religiosas allí existentes, hasta ahora.\nSuprimido el convento, por decreto de 1826, su local fue destinado por Ley del 11 de noviembre de 1929 para el establecimiento de un Colegio de Ciencias. A partir de 1831 y hasta 1954 funcionó allí el Colegio San Ramón y, posteriormente la Escuela Normal de Mujeres Santa Teresita y el Colegio Dos de Mayo.\nActualmente en las instalaciones del ex convento funciona el Colegió San Ramón y I.E. Belén."
+    },
+    {
+      "titulo": "Particularidades",
+      "contenido": "Es la primera Iglesia de Toba Volcánica que se construyó en el año 1668, y con la se inicia la representación del barroco inicial. Libro Apogeo de Cajamarca año 2004 - Evelio Gaitán Pajares."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "Reconocido como Patrimonio Cultural de la Nación con Resolución Suprema Nº 2900 -72-ED, y Ley 9441, 1941"
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Se encuentra en buen estado de conservación, se da mantenimiento continuo, personal de la iglesia."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n200\nOficina Administración\n2023\nDatos proporcionados por la oficina de administración de la Iglesia La Recoleta\nTuristas Nacionales\n2500\nOficina Administración\n2023\nDatos proporcionados por la oficina de administración de la Iglesia La Recoleta\nVisitantes Locales(Excursionistas)\n3500\nOficina Administración\n2023\nDatos proporcionados por la oficina de administración de la Iglesia La Recoleta"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nCajamarca/Cajamarca/Cajamarca\n-\nCajamarca/Cajamarca/Cajamarca\nDesde la Plaza de Armas hacia la Iglesia La Recoleta, a través del Jr. Amalia Puga\nTerrestre\nA pie\nAsfaltado\n400 metros/ 5 minutos"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre\nPermanece abierto a partir de las 7.00 am a 12 m."
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n08:00 a.m.\n-\n12:30 p.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nOtros(Especificar)\nActividades religiosas"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nOtros Servicios Turísticos\nOtros (Especificar)\nActividades Religiosas"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\nDE 1 a 4 Estrellas, Ciudad de Cajamarca\nAlojamiento\nHostales (especificar categorías)\nDe 1 a 3 Estrellas, Ciudad de Cajamarca\nAlimentación\nRestaurantes\nCiudad de Cajamarca\nAlimentación\nCafeterías\nCiudad de Cajamarca\nAlimentación\nKioskos de comida y bebidas\nCiudad de Cajamarca\nAlimentación\nFuentes de soda\nCiudad de Cajamarca\nLugares de Recreación\nDiscotecas\nCiudad de Cajamarca\nLugares de Recreación\nBares\nCiudad de Cajamarca\nLugares de Recreación\nOtros(especificar)\nCiudad de Cajamarca\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nCiudad de Cajamarca\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Cajamarca\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de Cajamarca\nOtros Servicios Turísticos\nBancos - Cajeros\nCiudad de Cajamarca\nOtros Servicios Turísticos\nOtros (Especificar)\nCiudad de Cajamarca\nOtros Servicios Turísticos\nOtros (Especificar)\nCiudad de Cajamarca\nOtros Servicios Turísticos\nOtros (Especificar)\nCiudad de Cajamarca\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nCiudad de Cajamarca\nOtros Servicios Turísticos\nOtros (Especificar)\nCiudad de Cajamarca\nOtros Servicios Turísticos\nServicio de Internet\nCiudad de Cajamarca\nOtros Servicios Turísticos\nServicio de taxi\nCiudad de Cajamarca\nOtros Servicios Turísticos\nOtros (Especificar)\nCiudad de Cajamarca\nOtros Servicios Turísticos\nOtros (Especificar)\nCiudad de Cajamarca"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Cajamarca\nBancos\nCiudad de Cajamarca\nCajero automático\nCiudad de Cajamarca\nCasa de cambio\nCiudad de Cajamarca\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Cajamarca\nServicio de correos\nCiudad de Cajamarca\nServicio de estacionamiento\nCiudad de Cajamarca\nServicios de taxis\nCiudad de Cajamarca\nCentro de salud - tópico\nCiudad de Cajamarca\nVenta de materiales para fotografías\nCiudad de Cajamarca\nAlquiler y compra de equipos deportivos\nCiudad de Cajamarca\nLibrerías\nCiudad de Cajamarca\nBodegas o minimarkets\nCiudad de Cajamarca"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nLuz (Suministro Eléctrico)\nSE encuentra iluminada la Iglesia"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Cajamarca\nLuz (Suministro Eléctrico)\nCiudad de Cajamarca\nTeléfono\nCiudad de Cajamarca\nOtros (Especificar)\nBancos, Discotecas, Peñas, Puesto PolicialCiudad de Cajamarca\nAlcantarillado sanitario\nCiudad de Cajamarca"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\n--\nPrivado:\nDIÓCESIS DE CAJAMARCA\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nDonación del terreno por el Cacique JUan Bautista Astopilco. Por posesión del inmueble.\nAdministrador por\nNombre\nDIÓCESIS DE CAJAMARCA\nTiempo de administración\nDesde 1678 - 346 años"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDIRCETUR CAJAMARCA\nNombre (Persona(s) responsable(s) del inventario turístico):\nESPERANZA ESCOBAR PORTAL\nCargo:\nTECNICO EN TURISMO I\nCorreo:\nmescobar@regioncajamarca.gob.pe\nTeléfono:\n962690326\nFuentes Bibliográfica:\n* LA RECOLETA DE CAJAMARCA, UN EJEMPLO DE ARQUITECTURA CONVENTUAL, MARIO TEJADA - 2007, CAJAMARCA ARQ. RELIGIOSA Y CIVIL-INC 1983, INVENTARIO DE RECURSOS TURÍSTICOS CAJAMARCA 2006, IGLESIAS DE CAJAMARCA - WETHEY\n• Gridilla, Alberto. (1939). Cajamarca y sus Monumentos.\n• Chávez Aliaga, Nazario (Lima, 28 de julio de 1958). Cajamarca Tomo IV.\n• Cajamarca, Arquitectura religiosa y civil, editado por el Instituto Nacional de Cultura (Lima 1983), de la serie Inventario del Patrimonio Histórico – artístico.\n• Antonio San Cristóbal, Lima, 2004. Originalidad Barroca de la Arquitectura de Cajamarca.\n• Julio Sarmiento Gutiérrez - Tristán Ravines Sánchez (2004). Cajamarca Historia y Cultura.\n• Calles y Cruces de Cajamarca, Tristán Ravines Sánchez, septiembre 2006.\n• Gaitán Pajares, Evelio (2010, noviembre. El Apogeo de Cajamarca, La Escuela Barroca Cajamarquina y sus Grandes Artistas.\nMaterial Audiovisual actual del Recurso:\nFOTO, VIDEOS\nEspecificación:\nVIDEO TURÍSTICO DE CAJAMARCA\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n30/06/2025 17:55:40"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -7.1610433788740115,
+    "longitud": -78.51274996312515
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-7.1610433788740115,-78.51274996312515"
+}

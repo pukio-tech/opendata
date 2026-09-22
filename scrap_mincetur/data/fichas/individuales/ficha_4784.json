@@ -1,0 +1,202 @@
+{
+  "cod_ficha": 4784,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=4784",
+  "nombre": "Sitio Arqueológico De Inka Machay",
+  "departamento": "Huancavelica",
+  "provincia": "Tayacaja",
+  "distrito": "ÑAHUIMPUQUIO",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Sitios Arqueológicos",
+  "subtipo": "Templos",
+  "jerarquia": "POR JERARQUIZAR",
+  "altitud": "3676",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=471619",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=471619",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=471620",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=471621",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=471623"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Estudios e Investigación",
+    "Naturaleza - Observación de paisaje"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Huancavelica/Huancavelica/Huancavelica - Huancavelica/Tayacaja/Ñahuimpuquio",
+      "detalle": "Paradero de Ticlla de Huancavelica-Plaza de Ñahuimpuquio",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "120 km/2 horas 50 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Huancavelica/Tayacaja/Ñahuimpuquio - Huancavelica/Tayacaja/Ñahuimpuquio",
+      "detalle": "Plaza de Ñahuimpuquio-Sitio Arqueológico de Inka Machay",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Sendero",
+      "distancia_tiempo": "800 metros/20 minutos."
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Junín/Huancayo/Huancayo - Huancavelica/Tayacaja/Ñahuimpuquio",
+      "detalle": "Paradero Ticlla de Huancayo-Plaza de Ñahuimpuquio",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "38.2 km/1 hora"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Huancavelica/Tayacaja/Ñahuimpuquio - Huancavelica/Tayacaja/Ñahuimpuquio",
+      "detalle": "Plaza de Ñahuimpuquio-Sitio Arqueológico de Inka Machay",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Sendero",
+      "distancia_tiempo": "800 metros/ 2o minutos."
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "2",
+      "horario": "Informe Técnico N° 001-2022-RT/YMSA-SGPEyT-GDE-MPT",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "1205",
+      "horario": "Informe Técnico N° 001-2022-RT/YMSA-SGPEyT-GDE-MPT",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "1357",
+      "horario": "Informe Técnico N° 001-2022-RT/YMSA-SGPEyT-GDE-MPT",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Esporádicamente - Algunos meses",
+      "especificacion": "--",
+      "horario": "08:00 a.m. - 03:00 p.m. De abril a setiembre",
+      "observaciones": "De abril a setiembre"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Bodegas en Pueblo de Ñahuinpuquio"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Pueblo de Ñahuimpuquio"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Pueblo de Ñahuinpuquio"
+    }
+  ],
+  "descripcion": "El Centro Arqueológico tiene una extensión de 08 hectáreas, se encuentra ubicado en el lugar denominado “La Virgen”, a 800 mts. a lado norte de la plaza de Ñahuinpuquio. Su patrón de población es aglutinado en el lado Oeste y está conformado por una serie de canchones de forma rectangular y cuadrada, mientras que el lado Este se encuentra ubicado los abrigos rocosos y al pie de ellos existe construcciones Inca, cuyos muros son construidos a base de piedras almohadilladas (clásico inca). En el sector de las Canchas las construcciones miden un promedio de 8 x 10 metros, construidos a base de piedras canteadas irregularmente; según las evidencias arquitectónicas y material cerámico en superficie corresponde a la época Inca. No está declarado Patrimonio de la Nación.",
+  "particularidades": "",
+  "estado_actual": "Regular, falta de mantenimiento y conservacion.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "El Centro Arqueológico tiene una extensión de 08 hectáreas, se encuentra ubicado en el lugar denominado “La Virgen”, a 800 mts. a lado norte de la plaza de Ñahuinpuquio. Su patrón de población es aglutinado en el lado Oeste y está conformado por una serie de canchones de forma rectangular y cuadrada, mientras que el lado Este se encuentra ubicado los abrigos rocosos y al pie de ellos existe construcciones Inca, cuyos muros son construidos a base de piedras almohadilladas (clásico inca). En el sector de las Canchas las construcciones miden un promedio de 8 x 10 metros, construidos a base de piedras canteadas irregularmente; según las evidencias arquitectónicas y material cerámico en superficie corresponde a la época Inca. No está declarado Patrimonio de la Nación."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Regular, falta de mantenimiento y conservacion."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n2\nInforme Técnico N° 001-2022-RT/YMSA-SGPEyT-GDE-MPT\n2021\nTuristas Nacionales\n1205\nInforme Técnico N° 001-2022-RT/YMSA-SGPEyT-GDE-MPT\n2021\nVisitantes Locales(Excursionistas)\n1357\nInforme Técnico N° 001-2022-RT/YMSA-SGPEyT-GDE-MPT\n2021"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nHuancavelica/Huancavelica/Huancavelica\n-\nHuancavelica/Tayacaja/Ñahuimpuquio\nParadero de Ticlla de Huancavelica-Plaza de Ñahuimpuquio\nTerrestre\nAutomóvil particular\nAsfaltado\n120 km/2 horas 50 minutos\n1\nHuancavelica/Tayacaja/Ñahuimpuquio\n-\nHuancavelica/Tayacaja/Ñahuimpuquio\nPlaza de Ñahuimpuquio-Sitio Arqueológico de Inka Machay\nTerrestre\nA pie\nSendero\n800 metros/20 minutos.\n2\nJunín/Huancayo/Huancayo\n-\nHuancavelica/Tayacaja/Ñahuimpuquio\nParadero Ticlla de Huancayo-Plaza de Ñahuimpuquio\nTerrestre\nAutomóvil particular\nAsfaltado\n38.2 km/1 hora\n2\nHuancavelica/Tayacaja/Ñahuimpuquio\n-\nHuancavelica/Tayacaja/Ñahuimpuquio\nPlaza de Ñahuimpuquio-Sitio Arqueológico de Inka Machay\nTerrestre\nA pie\nSendero\n800 metros/ 2o minutos."
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nEsporádicamente - Algunos meses\n--\n08:00 a.m.\n-\n03:00 p.m.\nDe abril a setiembre"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nEstudios e Investigación\n--\nNaturaleza\nObservación de paisaje\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlimentación\nOtros (Especificar)\nBodegas en Pueblo de Ñahuinpuquio\nAlimentación\nKioskos de comida y bebidas\nPueblo de Ñahuimpuquio\nServicios Públicos\nEstacionamiento de vehículos\nPueblo de Ñahuinpuquio"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicio de estacionamiento\nPueblo de Ñahuinpuquio\nCentro de salud - tópico\nPueblo de Ñahuinpuquio\nBodegas o minimarkets\nPueblo de Ñahuinpuquio\nSeguridad / POLTUR / Comisaría\nPueblo de Ñahuinpuquio"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nLuz (Suministro Eléctrico)\nPueblo de Ñahuinpuquio\nTeléfono\nPueblo de Ñahuinpuquio\nAgua potable\nPueblo de Ñahuinpuquio"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nMinisterio de Cultura\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nLey General del Patrimonio Cultural de la Nación 28296\nAdministrador por\nNombre\nMunicipalidad Distrital de ÑahuimPuquio\nTiempo de administración\nDesde el año 1990."
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional De Comercio Exterior, Turismo y Artesanía – Huancavelica\nNombre (Persona(s) responsable(s) del inventario turístico):\nYovana Cuicapusa Ccanto\nCargo:\nEspecialista en Turismo\nCorreo:\nyoalinas@yahoo.es\nTeléfono:\n067-452938\nFuentes Bibliográfica:\nhttps://miniviaje.com/destinos-peru/sitio-arqueologico-inka-machay-turismo-travel-tour-full-day/\nhttps://www.turismoperuano.com/sitio-arqueologico-inka-machay-huancavelica\nhttps://deviajesyturismo.com/destinos/sitio-arqueologico-inka-machay-turismo-tour-full-day/\nInventario Turístico De Tayacaja, 2015\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n19/12/2022"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -12.32347906041797,
+    "longitud": -75.07558142761934
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-12.32347906041797,-75.07558142761934"
+}

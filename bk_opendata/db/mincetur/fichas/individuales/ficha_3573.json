@@ -1,0 +1,343 @@
+{
+  "cod_ficha": 3573,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=3573",
+  "nombre": "Museo Departamental San Martín",
+  "departamento": "San Martín",
+  "provincia": "Moyobamba",
+  "distrito": "MOYOBAMBA",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Museos y otros",
+  "subtipo": "Museos",
+  "jerarquia": "1",
+  "altitud": "860",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=481162",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=481162",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=483072",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=484201",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=484202",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=484241",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=484242",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=484243",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=484244"
+  ],
+  "actividades_permitidas": [
+    "Otros - Compras de artesanía/souvenir",
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Actividades Culturales",
+    "Otros - Estudios e Investigación",
+    "Cultura y Folclore - Apreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Compras de artesanía/souvenir",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/artesania02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Actividades Culturales",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/act_culturales02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Apreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)",
+      "observacion": "--",
+      "icono_url": null
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "San Martín/Moyobamba/Moyobamba - San Martín/Moyobamba/Moyobamba",
+      "detalle": "Plaza de Armas de la ciudad de Moyobamba - Museo Departamental San Martín",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "572 m. / 15 minutos"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "20",
+      "horario": "Dirección Desconcentrada de Cultura de San Martín",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "1304",
+      "horario": "Dirección Desconcentrada de Cultura de San Martín",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "08:00 a.m. - 05:00 p.m. Abierto de lunes a viernes y el primer domingo de cada mes.",
+      "observaciones": "Abierto de lunes a viernes y el primer domingo de cada mes."
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "Adulto S/ 5.00 - Niños y estudiantes S/ 3.00, el primer domingo de cada mes el ingreso es libre."
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de interpretación",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "De 2 y 3 estrellas en la ciudad de Moyobamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "De 2 estrellas en la ciudad de Moyobamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Moyobamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "De 1 y 2 tenedores en la ciudad de Moyobamba."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Moyobamba."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Moyobamba."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Ciudad de Moyobamba."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Moyobamba."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Ciudad de Moyobamba."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Moyobamba."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Moyobamba."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "Ciudad de Moyobamba."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Ciudad de Moyobamba."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Moyobamba."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de Moyobamba."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de Material Informativo(libro,revistas,postales,videos,etc)",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Cines o Teatros",
+      "observacion": "Ciudad de Moyobamba."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de bicicleta",
+      "observacion": "Ciudad de Moyobamba."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "En idioma inglés en la Ciudad de Moyobamba."
+    }
+  ],
+  "descripcion": "Museo ubicado a pocas cuadras de la plaza de armas de la ciudad de Moyobamba, inaugurado el 27 de julio de 1997, siendo uno de los primeros de la Amazonía peruana y que actualmente forma parte de la Red de Museos del Ministerio de Cultura\nCuenta con 09 salas de exhibición de muestras arqueológicas, etnográficas e históricas representativas de los primeros testimonios de los hombres y mujeres que poblaron la Amazonía, principalmente la región San Martín.\nLa primera sala expone la cosmovisión ancestral y la vida cotidiana Awajún, mediante paneles, esculturas y piezas de artesanía. La segunda sala es un homenaje a las vivencias y mitos de la etnia Kichwa que se ha asentado al noreste de la región, con carteles y evidencias materiales del colorido de sus tradiciones y costumbres. La tercera sala está compuesta por gráficos y piezas que representan a la etnia Shawi, complementando así la representatividad de estos grupos humanos y la relevancia en la historia regional.\nLa cuarta sala muestra la importancia del Parque Nacional del Río Abiseo, declarado como Patrimonio de la Humanidad por la UNESCO, donde se exhibe la exuberante flora y fauna endémica, así como las réplicas de los vestigios arqueológicos que aparecieron en la zona desde hace 6,000 años a.C y culmina con la nación Chachapoya. Esta sala guarda estrecha relación con la quinta y sexta, porque permite conocer a detalle el legado cultural de algunos de los 36 sitios arqueológicos del parque, entre los que destacan “Los Pinchudos” y “El Gran Pajatén”, con construcciones que poseen una decoración arquitectónica singular, además, objetos de guerra, báculos, textilería y fardos funerarios.\nLa séptima sala relata el “Encuentro de culturas”, en referencia a la presencia de los primeros españoles en el territorio indígena, cuya historia se cuenta en la octava sala donde se aprende sobre el arte y la ritualidad del pueblo de Chazuta, cuyo legado de alfarería y tejido se muestra vigente a través de esculturas de mujeres artesanas y las urnas funerarias.\nLa novena y última sala es un ambiente para conmemorar la historia y el arte contemporáneo, en referencia a las costumbres que hoy persisten y que se celebran de forma cotidiana y organizada, así mismo, reliquias cinematográficas, religiosas y galería de fotos de acontecimientos de la ciudad de Moyobamba en el contexto del siglo XX.\nEl conjunto arquitectónico y cada una de las piezas se encuentran en buen estado de conservación, pues hace algunos años se realizó la curaduría a cargo del restaurador Donald Gutiérrez Espinola. De forma complementaria, los visitantes acceden a zona amplia de descanso y apreciación de murales amazónicos de la autoría de artistas contemporáneos de la ciudad de Moyobamba y otras regiones, así como la biblioteca departamental con cuantiosa literatura amazónica y folclórica.\nEl museo es un espacio que motiva a los ciudadanos y a los visitantes a conocer los recursos arqueológicos y folclóricos de las comunidades indígenas y las evidencias prehispánicas de la región San Martín, potenciando el turismo cultural y la identidad local.",
+  "particularidades": "",
+  "estado_actual": "Bueno, de encuentra conservado y administrado por la Dirección Desconcentrada de Cultura de San Martín.",
+  "observaciones": "Sus objetos arqueológicos se encuentran registrados en el Registro Nacional de Bienes Muebles del Ministerio de Cultura.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Museo ubicado a pocas cuadras de la plaza de armas de la ciudad de Moyobamba, inaugurado el 27 de julio de 1997, siendo uno de los primeros de la Amazonía peruana y que actualmente forma parte de la Red de Museos del Ministerio de Cultura\nCuenta con 09 salas de exhibición de muestras arqueológicas, etnográficas e históricas representativas de los primeros testimonios de los hombres y mujeres que poblaron la Amazonía, principalmente la región San Martín.\nLa primera sala expone la cosmovisión ancestral y la vida cotidiana Awajún, mediante paneles, esculturas y piezas de artesanía. La segunda sala es un homenaje a las vivencias y mitos de la etnia Kichwa que se ha asentado al noreste de la región, con carteles y evidencias materiales del colorido de sus tradiciones y costumbres. La tercera sala está compuesta por gráficos y piezas que representan a la etnia Shawi, complementando así la representatividad de estos grupos humanos y la relevancia en la historia regional.\nLa cuarta sala muestra la importancia del Parque Nacional del Río Abiseo, declarado como Patrimonio de la Humanidad por la UNESCO, donde se exhibe la exuberante flora y fauna endémica, así como las réplicas de los vestigios arqueológicos que aparecieron en la zona desde hace 6,000 años a.C y culmina con la nación Chachapoya. Esta sala guarda estrecha relación con la quinta y sexta, porque permite conocer a detalle el legado cultural de algunos de los 36 sitios arqueológicos del parque, entre los que destacan “Los Pinchudos” y “El Gran Pajatén”, con construcciones que poseen una decoración arquitectónica singular, además, objetos de guerra, báculos, textilería y fardos funerarios.\nLa séptima sala relata el “Encuentro de culturas”, en referencia a la presencia de los primeros españoles en el territorio indígena, cuya historia se cuenta en la octava sala donde se aprende sobre el arte y la ritualidad del pueblo de Chazuta, cuyo legado de alfarería y tejido se muestra vigente a través de esculturas de mujeres artesanas y las urnas funerarias.\nLa novena y última sala es un ambiente para conmemorar la historia y el arte contemporáneo, en referencia a las costumbres que hoy persisten y que se celebran de forma cotidiana y organizada, así mismo, reliquias cinematográficas, religiosas y galería de fotos de acontecimientos de la ciudad de Moyobamba en el contexto del siglo XX.\nEl conjunto arquitectónico y cada una de las piezas se encuentran en buen estado de conservación, pues hace algunos años se realizó la curaduría a cargo del restaurador Donald Gutiérrez Espinola. De forma complementaria, los visitantes acceden a zona amplia de descanso y apreciación de murales amazónicos de la autoría de artistas contemporáneos de la ciudad de Moyobamba y otras regiones, así como la biblioteca departamental con cuantiosa literatura amazónica y folclórica.\nEl museo es un espacio que motiva a los ciudadanos y a los visitantes a conocer los recursos arqueológicos y folclóricos de las comunidades indígenas y las evidencias prehispánicas de la región San Martín, potenciando el turismo cultural y la identidad local."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "Reconocido con el Sello Internacional Safe Travels en el año 2021."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, de encuentra conservado y administrado por la Dirección Desconcentrada de Cultura de San Martín."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "Sus objetos arqueológicos se encuentran registrados en el Registro Nacional de Bienes Muebles del Ministerio de Cultura."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n20\nDirección Desconcentrada de Cultura de San Martín\n2022\nValidado por la Municipalidad Provincial de Moyobamba\nTuristas Nacionales\n1304\nDirección Desconcentrada de Cultura de San Martín\n2022\nValidado por la Municipalidad Provincial de Moyobamba"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nSan Martín/Moyobamba/Moyobamba\n-\nSan Martín/Moyobamba/Moyobamba\nPlaza de Armas de la ciudad de Moyobamba - Museo Departamental San Martín\nTerrestre\nA pie\nAsfaltado\n572 m. / 15 minutos"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nAdulto S/ 5.00 - Niños y estudiantes S/ 3.00, el primer domingo de cada mes el ingreso es libre."
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n08:00 a.m.\n-\n05:00 p.m.\nAbierto de lunes a viernes y el primer domingo de cada mes."
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nCompras de artesanía/souvenir\n--\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nActividades Culturales\n--\nOtros\nEstudios e Investigación\n--\nCultura y Folclore\nApreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nOtros Servicios Turísticos\nVenta de artesanía\n--\nInstalaciones Públicas\nServicios Públicos\nSeñales turísticas de orientación\n--\nInstalaciones Públicas\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\n--\nInstalaciones Públicas\nServicios Públicos\nSeñales turísticas de interpretación\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\nDe 2 y 3 estrellas en la ciudad de Moyobamba\nAlojamiento\nHostales (especificar categorías)\nDe 2 estrellas en la ciudad de Moyobamba\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Moyobamba\nAlimentación\nRestaurantes\nDe 1 y 2 tenedores en la ciudad de Moyobamba.\nAlimentación\nBares\nCiudad de Moyobamba.\nAlimentación\nCafeterías\nCiudad de Moyobamba.\nAlimentación\nFuentes de soda\nCiudad de Moyobamba.\nAlimentación\nKioskos de comida y bebidas\nCiudad de Moyobamba.\nAlimentación\nVenta de comida Rápida\nCiudad de Moyobamba.\nLugares de Recreación\nDiscotecas\nCiudad de Moyobamba.\nLugares de Recreación\nDiscotecas\nCiudad de Moyobamba.\nLugares de Recreación\nKaraoke\nCiudad de Moyobamba.\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nCiudad de Moyobamba.\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Moyobamba.\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de Moyobamba.\nOtros Servicios Turísticos\nVenta de Material Informativo(libro,revistas,postales,videos,etc)\n--\nLugares de Recreación\nCines o Teatros\nCiudad de Moyobamba.\nOtros Servicios Turísticos\nAlquiler de bicicleta\nCiudad de Moyobamba.\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nEn idioma inglés en la Ciudad de Moyobamba."
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Moyobamba.\nBancos\nCiudad de Moyobamba.\nCajero automático\nCiudad de Moyobamba.\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Moyobamba.\nServicio de correos\nCiudad de Moyobamba.\nServicio de estacionamiento\nCiudad de Moyobamba.\nCentro de salud - tópico\nCiudad de Moyobamba.\nSeguridad / POLTUR / Comisaría\nCiudad de Moyobamba.\nVenta de materiales para fotografías\nCiudad de Moyobamba.\nAlquiler y compra de equipos deportivos\nCiudad de Moyobamba.\nLibrerías\nCiudad de Moyobamba.\nBodegas o minimarkets\nCiudad de Moyobamba."
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\n--\nAlcantarillado sanitario\n--\nDesagüe\n--\nLuz (Suministro Eléctrico)\n--\nTeléfono\n--\nSeñalización turística\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Moyobamba\nAlcantarillado sanitario\nCiudad de Moyobamba\nDesagüe\nCiudad de Moyobamba\nLuz (Suministro Eléctrico)\nCiudad de Moyobamba\nTeléfono\nCiudad de Moyobamba\nSeñalización turística\nCiudad de Moyobamba"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nMinisterio de Cultura\nPrivado:\n--\nOtra Situación:\nDirección Desconcentrada de Cultura de San Martín\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nNúmero de Partida:\n44006636\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nDirección Desconcentrada de Cultura de San Martín\nTiempo de administración\nDesde el año 2013"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo de San Martín\nNombre (Persona(s) responsable(s) del inventario turístico):\nEdison Rodríguez Chupe\nCargo:\nEspecialista en Turismo\nCorreo:\nedison.rodriguezchupe@gmail.com\nTeléfono:\n976 980 815\nFuentes Bibliográfica:\n- Guía de información turística Región San Martín, Autor: Gobierno Regional de San Martín; Año: 2014. Página 87.\n- Guía de museos del Perú, Ministerio de Cultura; Segunda edición, Junio 2013.\n- Fuentes bibliográfica: Nota escrita \"Museo Departamental San Martín\" de Turismoi.pe, https://turismoi.pe/museos/museo-departamental-de-moyobamba-ministerio-de-cultura.htm\nMaterial Audiovisual actual del Recurso:\nFOTO, VIDEOS\nEspecificación:\nRecorrido virtual al Museo Departamental San Martín: https://visitavirtual.cultura.pe/recorridos/MDSM/museo-departamental-san-martin/index.html\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n29/03/2023"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -6.03283,
+    "longitud": -76.97129999999999
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-6.03283,-76.97129999999999"
+}

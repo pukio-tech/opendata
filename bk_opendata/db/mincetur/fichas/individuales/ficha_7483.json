@@ -1,0 +1,354 @@
+{
+  "cod_ficha": 7483,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=7483",
+  "nombre": "Mirador De Kutu Ulo De Chongos Alto",
+  "departamento": "Junín",
+  "provincia": "Huancayo",
+  "distrito": "CHONGOS ALTO",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Arquitectura y Espacios Urbanos",
+  "subtipo": "Miradores",
+  "jerarquia": "1",
+  "altitud": "3550",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=532881",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=532881",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=532882",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=532928",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=532883",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=532884",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=532929",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=532930",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=532931",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=532932",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=532885",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=532886",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=532887",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=532933",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=532934",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=532888",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=532935",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=532936",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=532937"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Estudios e Investigación",
+    "Naturaleza - Observación de paisaje",
+    "Cultura y Folclore - Apreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Apreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)",
+      "observacion": "Este espacio es utilizado por la población para presenciar los concursos de danzas y otras actividades festivas en la plaza de toros aledaña.",
+      "icono_url": null
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Junín/Huancayo/Huancayo - Junín/Huancayo/Chupuro",
+      "detalle": "Plaza Constitución de Huancayo - Chupuro",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "13 Km / 20 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Junín/Huancayo/Chupuro - Junín/Huancayo/Chicche",
+      "detalle": "Chupuro - Vista Alegre (Desvío a Chongos Alto)",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "35 Km / 45 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Junín/Huancayo/Chicche - Junín/Huancayo/Chongos Alto",
+      "detalle": "Vista Alegre (Desvío a Chongos Alto) - Plaza principal de Chongos Alto",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "9 Km / 15 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Junín/Huancayo/Chongos Alto - Junín/Huancayo/Chongos Alto",
+      "detalle": "Plaza principal de Chongos Alto - Mirador de Chongos Alto",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "500 m / 2 minutos"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "180",
+      "horario": "Conteo Muestral de Visitas al Recurso",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "1260",
+      "horario": "Conteo Muestral de Visitas al Recurso",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "09:00 a.m. - 05:00 p.m. --",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": "Se invita a los visistantes a registrarse en el cuaderno de registros del Municipio de Chongos Alto ubicado en la plaza principal."
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "4 estrellas en Huancayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "3 estrellas en Huancayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Chongos Alto y Huancayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Huancayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Chongos Alto y Huancayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Huancayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Huancayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Huancayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Huancayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Huancayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Huancayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Huancayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Peñas",
+      "observacion": "Huancayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Cines o Teatros",
+      "observacion": "Huancayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Huancayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "Huancayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Huancayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Huancayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Chongos Alto y Huancayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Huancayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Huancayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de bicicleta",
+      "observacion": "Huancayo. Comunicarse con 40Bikes (Leydi Rosales) al numero 926719972."
+    }
+  ],
+  "descripcion": "El mirador está asentado en un promontorio rocoso natural a 3 cuadras de la plaza principal del actual pueblo de Chongos Alto, ubicado junto a su plaza de toros, sobre espacios que antiguamente formaron parte de un asentamiento prehispánico denominado Kutu Ulo como lo demuestran los restos a nivel de superficie que se pueden hallar en parajes cercanos y principalmente en la colina ubicada a 150 m al NE del mirador. Esta elevación en particular también lo denominan “Pirish Ulu”. En sus bases y laderas se observan restos fosilizados de árboles prehistóricos que, con el plegamiento continental, ocurrido hace millones de años y que dio forma a la cordillera de los Andes, ha permitido aflorar estos antiguos vestigios en su ubicación actual.\nEn la parte alta del mirador destaca una estructura de concreto y piedras de 16 m de largo por 6 m de ancho al cual se accede por un sendero empedrado con barandas de madera, asimismo se encuentra una cruz metálica de color blanco que mide 7 m de altura acompañado de una pequeña gruta de piedra, alrededor de la cual están instaladas bancas de madera. Todo el espacio está cubierto por un techo que protege a los lugareños y visitantes que vienen a este lugar a contemplar el excelente paisaje y colocar flores en honor a su fe y devoción a la cruz. Este lugar habría tenido funcionalidad desde tiempos inmemoriales pues son conocidos como “untachikus” (espacios elevados) utilizados por las autoridades comunales para alertar a la población sobre las inclemencias atmosféricas como las heladas o granizadas para que puedan producir humo o estallar cohetes, igualmente en este lugar se realiza el cambio de autoridades comunales como la designación de los agentes, lugar de donde se hace reconocer los linderos de los terrenos comunales que debe considerar en su gestión.\nCercano al mirador se puede apreciar el sitio arqueológico Kutu Ulo que ocupa un total aprox. de 96 has. de terreno, que exhibe evidencias arqueológicas en la que destaca 20 has. ocupadas por estructuras residenciales que abarca diversos sectores conocidos localmente como Huachin Ulu, Shullca, Murayllo, Panti y Pirish Ulu; el sitio está constituido por una concentración importante de terrazas artificiales de aspecto irregular alargado que se extienden por las laderas y cimas del cerro, las mismas que están constituidas por muros de contención de piedra unida con mortero de barro de dimensiones variables, sobre estos elementos habilitados para conformar espacios llanos, se levantaron edificios de planta circular con 3m a 5m de diámetro, con muros de doble hilera de piedra unida con mortero de barro de espesor variable, la mayoría de los cuales ha sido derruida para ampliar campos de cultivo en tiempos recientes. Destaca la presencia de una gran cantidad de artefactos como fragmentos de cerámica y líticos, presentes en la superficie del terreno, incluyendo fragmentos de alfarería inca. El sitio debió estar vinculado al grupo étnico chunku, cuyo núcleo territorial estuvo constituido por el valle del Canipaco. En cuanto a su función, se trata de un asentamiento de gran extensión que pudo ser la cabeza o sede principal de una entidad sociopolítica chunku, cuyo liderazgo debió estar en manos de personajes de elite a los que en las fuentes coloniales tempranas se denomina “sinchi”. La presencia de cerámica inca sugiere que los habitantes del sitio participaron de actividades coordinadas por el gobierno del Tahuantinsuyu, por lo que el asentamiento pudo haber tenido un carácter político, administrativo y ceremonial.\nTanto el mirador natural, los restos paleontológicos y el sitio arqueológico se encuentran en el mismo paraje por lo que todos se integran para ofrecer al visitante una experiencia de naturaleza y cultura en un mismo espacio.",
+  "particularidades": "",
+  "estado_actual": "Bueno, la Municipalidad Distrital de Chongos Alto, realizó intervenciones con el proyecto Lurawi en el año 2022",
+  "observaciones": "El sitio arqueológico fue declarado como Patrimonio Cultural de la Nación mediante Resolución Directoral Nacional N° 1309 del 09 de noviembre de 2011, con el nombre de “Coto Ulo”. No cuenta con delimitación ni poligonal que sea visible en el Sistema de Información Geográfica (SIGDA) del Ministerio de Cultura.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "El mirador está asentado en un promontorio rocoso natural a 3 cuadras de la plaza principal del actual pueblo de Chongos Alto, ubicado junto a su plaza de toros, sobre espacios que antiguamente formaron parte de un asentamiento prehispánico denominado Kutu Ulo como lo demuestran los restos a nivel de superficie que se pueden hallar en parajes cercanos y principalmente en la colina ubicada a 150 m al NE del mirador. Esta elevación en particular también lo denominan “Pirish Ulu”. En sus bases y laderas se observan restos fosilizados de árboles prehistóricos que, con el plegamiento continental, ocurrido hace millones de años y que dio forma a la cordillera de los Andes, ha permitido aflorar estos antiguos vestigios en su ubicación actual.\nEn la parte alta del mirador destaca una estructura de concreto y piedras de 16 m de largo por 6 m de ancho al cual se accede por un sendero empedrado con barandas de madera, asimismo se encuentra una cruz metálica de color blanco que mide 7 m de altura acompañado de una pequeña gruta de piedra, alrededor de la cual están instaladas bancas de madera. Todo el espacio está cubierto por un techo que protege a los lugareños y visitantes que vienen a este lugar a contemplar el excelente paisaje y colocar flores en honor a su fe y devoción a la cruz. Este lugar habría tenido funcionalidad desde tiempos inmemoriales pues son conocidos como “untachikus” (espacios elevados) utilizados por las autoridades comunales para alertar a la población sobre las inclemencias atmosféricas como las heladas o granizadas para que puedan producir humo o estallar cohetes, igualmente en este lugar se realiza el cambio de autoridades comunales como la designación de los agentes, lugar de donde se hace reconocer los linderos de los terrenos comunales que debe considerar en su gestión.\nCercano al mirador se puede apreciar el sitio arqueológico Kutu Ulo que ocupa un total aprox. de 96 has. de terreno, que exhibe evidencias arqueológicas en la que destaca 20 has. ocupadas por estructuras residenciales que abarca diversos sectores conocidos localmente como Huachin Ulu, Shullca, Murayllo, Panti y Pirish Ulu; el sitio está constituido por una concentración importante de terrazas artificiales de aspecto irregular alargado que se extienden por las laderas y cimas del cerro, las mismas que están constituidas por muros de contención de piedra unida con mortero de barro de dimensiones variables, sobre estos elementos habilitados para conformar espacios llanos, se levantaron edificios de planta circular con 3m a 5m de diámetro, con muros de doble hilera de piedra unida con mortero de barro de espesor variable, la mayoría de los cuales ha sido derruida para ampliar campos de cultivo en tiempos recientes. Destaca la presencia de una gran cantidad de artefactos como fragmentos de cerámica y líticos, presentes en la superficie del terreno, incluyendo fragmentos de alfarería inca. El sitio debió estar vinculado al grupo étnico chunku, cuyo núcleo territorial estuvo constituido por el valle del Canipaco. En cuanto a su función, se trata de un asentamiento de gran extensión que pudo ser la cabeza o sede principal de una entidad sociopolítica chunku, cuyo liderazgo debió estar en manos de personajes de elite a los que en las fuentes coloniales tempranas se denomina “sinchi”. La presencia de cerámica inca sugiere que los habitantes del sitio participaron de actividades coordinadas por el gobierno del Tahuantinsuyu, por lo que el asentamiento pudo haber tenido un carácter político, administrativo y ceremonial.\nTanto el mirador natural, los restos paleontológicos y el sitio arqueológico se encuentran en el mismo paraje por lo que todos se integran para ofrecer al visitante una experiencia de naturaleza y cultura en un mismo espacio."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, la Municipalidad Distrital de Chongos Alto, realizó intervenciones con el proyecto Lurawi en el año 2022"
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "El sitio arqueológico fue declarado como Patrimonio Cultural de la Nación mediante Resolución Directoral Nacional N° 1309 del 09 de noviembre de 2011, con el nombre de “Coto Ulo”. No cuenta con delimitación ni poligonal que sea visible en el Sistema de Información Geográfica (SIGDA) del Ministerio de Cultura."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Nacionales\n180\nConteo Muestral de Visitas al Recurso\n2024\nElaborado en base al registro de los días 25 de febrero; 3, 10 y 17 de Marzo.\nVisitantes Locales(Excursionistas)\n1260\nConteo Muestral de Visitas al Recurso\n2024\nElaborado en base al registro de los días 25 de febrero; 3, 10 y 17 de Marzo."
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nJunín/Huancayo/Huancayo\n-\nJunín/Huancayo/Chupuro\nPlaza Constitución de Huancayo - Chupuro\nTerrestre\nAutomóvil particular\nAsfaltado\n13 Km / 20 minutos\n1\nJunín/Huancayo/Chupuro\n-\nJunín/Huancayo/Chicche\nChupuro - Vista Alegre (Desvío a Chongos Alto)\nTerrestre\nAutomóvil particular\nAsfaltado\n35 Km / 45 minutos\n1\nJunín/Huancayo/Chicche\n-\nJunín/Huancayo/Chongos Alto\nVista Alegre (Desvío a Chongos Alto) - Plaza principal de Chongos Alto\nTerrestre\nAutomóvil particular\nAsfaltado\n9 Km / 15 minutos\n1\nJunín/Huancayo/Chongos Alto\n-\nJunín/Huancayo/Chongos Alto\nPlaza principal de Chongos Alto - Mirador de Chongos Alto\nTerrestre\nAutomóvil particular\nAsfaltado\n500 m / 2 minutos"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre\nSe invita a los visistantes a registrarse en el cuaderno de registros del Municipio de Chongos Alto ubicado en la plaza principal."
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n09:00 a.m.\n-\n05:00 p.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nEstudios e Investigación\n--\nNaturaleza\nObservación de paisaje\n--\nCultura y Folclore\nApreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)\nEste espacio es utilizado por la población para presenciar los concursos de danzas y otras actividades festivas en la plaza de toros aledaña."
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\n4 estrellas en Huancayo\nAlojamiento\nHostales (especificar categorías)\n3 estrellas en Huancayo\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nChongos Alto y Huancayo\nAlimentación\nRestaurantes\nHuancayo\nAlimentación\nKioskos de comida y bebidas\nChongos Alto y Huancayo\nAlimentación\nBares\nHuancayo\nAlimentación\nFuentes de soda\nHuancayo\nAlimentación\nCafeterías\nHuancayo\nAlimentación\nVenta de comida Rápida\nHuancayo\nOtros Servicios Turísticos\nAgencia de Viajes\nHuancayo\nOtros Servicios Turísticos\nVenta de artesanía\nHuancayo\nLugares de Recreación\nDiscotecas\nHuancayo\nLugares de Recreación\nPeñas\nHuancayo\nLugares de Recreación\nCines o Teatros\nHuancayo\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nHuancayo\nLugares de Recreación\nKaraoke\nHuancayo\nLugares de Recreación\nBares\nHuancayo\nLugares de Recreación\nJuegos Infantiles\nHuancayo\nServicios Públicos\nEstacionamiento de vehículos\nChongos Alto y Huancayo\nServicios Públicos\nOficina de Información turística\nHuancayo\nLugares de Recreación\nCentros Deportivos\nHuancayo\nOtros Servicios Turísticos\nAlquiler de bicicleta\nHuancayo. Comunicarse con 40Bikes (Leydi Rosales) al numero 926719972."
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nChongos Alto y Huancayo\nBancos\nChongos Alto y Huancayo\nCajero automático\nHuancayo\nCasa de cambio\nHuancayo\nEstación de servicios, grifos, gasolineras y gasocentros\nHuancayo\nServicio de correos\nHuancayo\nServicio de estacionamiento\nHuancayo\nServicios de taxis\nHuancayo\nVenta de materiales para fotografías\nHuancayo\nAlquiler y compra de equipos deportivos\nHuancayo\nLibrerías\nHuancayo\nBodegas o minimarkets\nChongos Alto y Huancayo\nSeguridad / POLTUR / Comisaría\nChongos Alto y Huancayo\nCentro de salud - tópico\nChongos Alto y Huancayo"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nChongos Alto, Huancayo\nLuz (Suministro Eléctrico)\nChongos Alto, Huancayo\nTeléfono\nChongos Alto, Huancayo\nAlcantarillado sanitario\nChongos Alto, Huancayo"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\n--\nPrivado:\n--\nOtra Situación:\nComunidad Campesina de Chongos Alto.\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n15887\nNúmero de Partida:\n02008574\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nMunicipalidad Distrital de Chongos Alto.\nTiempo de administración\nDesde el 2022."
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo Junín\nNombre (Persona(s) responsable(s) del inventario turístico):\nLic. Tmo. Gregoria Flores Loaiza\nCargo:\nEspecialista en Turismo\nCorreo:\nfloresloaiza@yahoo.es\nTeléfono:\n948992261\nFuentes Bibliográfica:\nAsto: Curacazgo Prehispánico de los Andes Centrales. Danièle Lavallée y Michèle Julien. Primera edición. Año 1983.\nColca. Heroica historia y desarrollo. José Carlos Vilcapoma. Primera Edición. Año 2012.\nAsentamientos prehispánicos tardíos en la puna de Chongos Bajo (Chupaca, Junín). Manuel Perales Munguía y Agustín Rodríguez Castro, 2003.\nProyecto ecoturístico en la sub cuenca del rio de la Virgen del distrito de Chongos Alto, Huancayo. Luis Verano. Universidad Nacional del Centro del Perú. Facultad de Ciencias Forestales y del Ambiente. Año 2009.\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\nSe intervino en el año 2022 con el proyecto Lurawi habilitando accesos y bancas de descanso.\nFecha:\n22/05/2025 15:05:27"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -11.313607,
+    "longitud": -74.47713799999997
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-11.313607,-74.47713799999997"
+}

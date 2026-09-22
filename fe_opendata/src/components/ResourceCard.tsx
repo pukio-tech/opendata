@@ -18,23 +18,25 @@ interface ResourceCardProps {
 export const ResourceCard: React.FC<ResourceCardProps> = ({ resource }) => {
   const { language, t } = useLanguage();
 
-  const getResourceImage = (res: ResourceItem) => {
+  const getResourceImage = (res: ResourceItem): string | null => {
     if (res.imagen) {
       if (res.imagen.startsWith('http')) return res.imagen;
       const base = API_BASE_URL.replace(/\/api$/, '');
       return `${base}${res.imagen}`;
     }
-    return getPhotoUrl(res.codigo);
+    return null;
   };
 
-  const [imgSrc, setImgSrc] = useState<string>(() => getResourceImage(resource));
-  const [imgLoading, setImgLoading] = useState<boolean>(true);
-  const [hasError, setHasError] = useState<boolean>(false);
+  const initialImg = getResourceImage(resource);
+  const [imgSrc, setImgSrc] = useState<string | null>(initialImg);
+  const [imgLoading, setImgLoading] = useState<boolean>(Boolean(initialImg));
+  const [hasError, setHasError] = useState<boolean>(!initialImg);
 
   useEffect(() => {
-    setImgSrc(getResourceImage(resource));
-    setImgLoading(true);
-    setHasError(false);
+    const img = getResourceImage(resource);
+    setImgSrc(img);
+    setImgLoading(Boolean(img));
+    setHasError(!img);
   }, [resource.codigo, resource.imagen]);
 
   const slug = createResourceSlug(resource.nombre, resource.codigo);
@@ -110,7 +112,7 @@ export const ResourceCard: React.FC<ResourceCardProps> = ({ resource }) => {
             </div>
           )}
 
-          {!hasError ? (
+          {!hasError && imgSrc ? (
             <img
               src={imgSrc}
               alt={resource.nombre}

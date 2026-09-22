@@ -56,6 +56,50 @@ export class MinceturController {
     });
   }
 
+  @Get('map/resources')
+  async getMapResources(
+    @Query('department') department?: string,
+    @Query('category') category?: string,
+    @Query('search') search?: string,
+    @Query('limit') limit?: number,
+  ) {
+    return this.minceturService.getMapResources({ department, category, search, limit });
+  }
+
+  @Get('map/geojson')
+  async getMapGeoJson(
+    @Query('department') department?: string,
+    @Query('category') category?: string,
+  ) {
+    return this.minceturService.getMapGeoJson({ department, category });
+  }
+
+  @Get('resources/all')
+  async getAllResources() {
+    return this.minceturService.getAllResources();
+  }
+
+  @Get('departments/:iddpto/resources')
+  async getResourcesByDepartment(@Param('iddpto') iddpto: string) {
+    return this.minceturService.getResourcesByDepartment(iddpto);
+  }
+
+  @Get('featured')
+  async getFeatured(
+    @Query('limit') limit?: number,
+    @Query('category') category?: string,
+  ) {
+    return this.minceturService.getFeaturedResources({ limit, category });
+  }
+
+  @Get('resources/featured')
+  async getResourcesFeatured(
+    @Query('limit') limit?: number,
+    @Query('category') category?: string,
+  ) {
+    return this.minceturService.getFeaturedResources({ limit, category });
+  }
+
   @Get('resources/:codFicha')
   @Header('Cache-Control', 'public, max-age=3600, s-maxage=86400, stale-while-revalidate=86400')
   async getResourceDetail(@Param('codFicha', ParseIntPipe) codFicha: number) {
@@ -63,10 +107,8 @@ export class MinceturController {
   }
 
   @Get('photos/:cod')
-  async getPhoto(@Param('cod') cod: string, @Res() res: Response) {
-    const { stream, contentType } = await this.minceturService.getPhotoStream(cod);
-    res.setHeader('Content-Type', contentType);
-    res.setHeader('Cache-Control', 'public, max-age=604800, s-maxage=2592000'); // 7 días cache browser, 30 días CDN
-    stream.pipe(res);
+  getPhoto(@Param('cod') cod: string, @Res() res: Response) {
+    const url = this.minceturService.getPhotoUrl(cod);
+    res.redirect(301, url);
   }
 }

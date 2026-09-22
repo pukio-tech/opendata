@@ -1,0 +1,332 @@
+{
+  "cod_ficha": 9993,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=9993",
+  "nombre": "Catarata Mortero",
+  "departamento": "Lima",
+  "provincia": "Huarochiri",
+  "distrito": "SURCO",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "j. Caídas de agua",
+  "subtipo": "Cataratas",
+  "jerarquia": "2",
+  "altitud": "2740",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=495136",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=495136",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=495137",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=495155",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=495138",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=495156",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=495157"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de paisaje",
+    "Naturaleza - Observación de aves",
+    "Deportes / Aventura - Caminata/Trekking"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "Arboles frutales de palta, melocotón, tuna, manzana, arboles de eucalipto, quenuales, plantas medicinales y aromáticas como muña, paico, cedrón y llantén.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de aves",
+      "observacion": "Zorzal chiguanco, jilguero, colibríes.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/aves02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Lima/Lima/Lima - Lima/Lima/Lurigancho",
+      "detalle": "Lima Paseo Colón - Parque Echenique de Chosica",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "42.9 km / 1 hora 35 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Lima/Lima/Lurigancho - Lima/Huarochirí/Surco",
+      "detalle": "Parque Echenique de Chosica - Plaza de Armas de Surco",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "32.5 km - 1 hora 10 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Lima/Huarochirí/Surco - Lima/Huarochirí/Surco",
+      "detalle": "Plaza de Armas de Surco - Anexo de Ayas",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Taxi",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "7.9 km /20 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Lima/Huarochirí/Surco - Lima/Huarochirí/Surco",
+      "detalle": "Anexo de Ayas - Catarata Mortero",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Camino de Herradura",
+      "distancia_tiempo": "6.4 km - 1 hora 50 minutos"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Lima/Lima/Santa Anita - Lima/Lima/Lurigancho",
+      "detalle": "Ovalo de Santa Anita - Parque Echenique de Chosica",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "34 km - 1 hora 10 minutos"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Lima/Lima/Lurigancho - Lima/Huarochirí/Surco",
+      "detalle": "Parque Echenique de Chosica - Plaza de Armas de Surco",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "32.5 km - 1 hora"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Lima/Huarochirí/Surco - Lima/Huarochirí/Surco",
+      "detalle": "Plaza de Armas de Surco - Anexo de Ayas",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Taxi",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "7.9 km - 20 minutos"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Lima/Huarochirí/Surco - Lima/Huarochirí/Surco",
+      "detalle": "Anexo de Ayas - Catarata Mortero",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Camino de Herradura",
+      "distancia_tiempo": "6.4 km - 1 hora 50 minutos"
+    },
+    {
+      "recorrido": "3",
+      "tramo": "Lima/Huarochirí/Matucana - Lima/Huarochirí/Surco",
+      "detalle": "Paradero Entrada (Ciudad de Matucana) - Anexo de Ayas",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "10 km - 15 minutos"
+    },
+    {
+      "recorrido": "3",
+      "tramo": "Lima/Huarochirí/Surco - Lima/Huarochirí/Surco",
+      "detalle": "Anexo de Ayas - Catarata Mortero",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Camino de Herradura",
+      "distancia_tiempo": "6.4 km - 1 hora 50 minutos"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "26600",
+      "horario": "Municipalidad Distrital de Surco",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "1040",
+      "horario": "Municipalidad Distrital de Surco",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "46",
+      "horario": "Municipalidad Distrital de Surco",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "08:00 a.m. - 05:00 p.m. --",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "Adultos S/ 5.00 - Niños S/ 2.50. Para visitas guiadas previa coordinación con encargado de turismo Sr. Carlos Orosco, celular 995565340"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "3 Estrellas / Ciudad de Matucana"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Matucana"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Ciudad de Matucana"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Matucana"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Matucana"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "Ciudad de Matucana"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "Ciudad de Matucana"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Ciudad de Matucana"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de interpretación",
+      "observacion": "Ciudad de Matucana"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Ciudad de Matucana"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Puesto de auxilio rápido",
+      "observacion": "Ciudad de Matucana"
+    }
+  ],
+  "descripcion": "Se encuentra ubicada en el distrito de Surco, provincia de Huarochirí, en la región natural Quechua, a una altitud de 2740 m.s.n.m. El clima en la zona es cálido, con una temperatura media anual de 14° C, pudiendo llegar hasta los 16° C y descender hasta los 10° C aproximadamente, las lluvias se inician a mediados del mes de diciembre y se acentúan en enero, luego bajan de intensidad y regularidad hasta desaparecer a inicios de abril, luego el calor se intensifica a lo largo del día hasta el mes de noviembre. Las aguas de la microcuenca de Yanajune son nutridas desde las alturas de la quebrada Yanajune y discurren aguas abajo formándose dos caídas de 7 metros y 40 metros y forman una poza mediana. Cerca de la catarata se encuentra un peculiar puente colgante de 40 metros de longitud donde se puede divisar hermosos paisajes, la catarata tiene un ancho variable según la estación, en verano es de 1 metro aproximadamente y en invierno el ancho aumenta a 1.5 metros. Las aguas también se utilizan para el riego de cultivos. Para llegar a la catarata, se realiza una caminata de cerca de 2 horas por un camino de herradura desde el anexo de Ayas de la localidad de Surco. El recurso ofrece al visitante actividades de observación de paisaje y aves, toma de fotografías, caminata rodeada de vegetación y disfrutar de un refrescante baño en aguas cristalinas, ideal para los amantes de la naturaleza.",
+  "particularidades": "",
+  "estado_actual": "Se encuentra en buen estado de conservación, la Municipalidad en conjunto con la población realizan trabajos de limpieza y cuidado del recurso.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Se encuentra ubicada en el distrito de Surco, provincia de Huarochirí, en la región natural Quechua, a una altitud de 2740 m.s.n.m. El clima en la zona es cálido, con una temperatura media anual de 14° C, pudiendo llegar hasta los 16° C y descender hasta los 10° C aproximadamente, las lluvias se inician a mediados del mes de diciembre y se acentúan en enero, luego bajan de intensidad y regularidad hasta desaparecer a inicios de abril, luego el calor se intensifica a lo largo del día hasta el mes de noviembre. Las aguas de la microcuenca de Yanajune son nutridas desde las alturas de la quebrada Yanajune y discurren aguas abajo formándose dos caídas de 7 metros y 40 metros y forman una poza mediana. Cerca de la catarata se encuentra un peculiar puente colgante de 40 metros de longitud donde se puede divisar hermosos paisajes, la catarata tiene un ancho variable según la estación, en verano es de 1 metro aproximadamente y en invierno el ancho aumenta a 1.5 metros. Las aguas también se utilizan para el riego de cultivos. Para llegar a la catarata, se realiza una caminata de cerca de 2 horas por un camino de herradura desde el anexo de Ayas de la localidad de Surco. El recurso ofrece al visitante actividades de observación de paisaje y aves, toma de fotografías, caminata rodeada de vegetación y disfrutar de un refrescante baño en aguas cristalinas, ideal para los amantes de la naturaleza."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Se encuentra en buen estado de conservación, la Municipalidad en conjunto con la población realizan trabajos de limpieza y cuidado del recurso."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nVisitantes Locales(Excursionistas)\n26600\nMunicipalidad Distrital de Surco\n2022\nInforme Técnico admitido por la DIRCETUR Lima.\nTuristas Nacionales\n1040\nMunicipalidad Distrital de Surco\n2022\nInforme Técnico admitido por la DIRCETUR Lima.\nTuristas Extranjeros\n46\nMunicipalidad Distrital de Surco\n2022\nInforme Técnico admitido por la DIRCETUR Lima."
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nLima/Lima/Lima\n-\nLima/Lima/Lurigancho\nLima Paseo Colón - Parque Echenique de Chosica\nTerrestre\nBus público\nAsfaltado\n42.9 km / 1 hora 35 minutos\n1\nLima/Lima/Lurigancho\n-\nLima/Huarochirí/Surco\nParque Echenique de Chosica - Plaza de Armas de Surco\nTerrestre\nBus público\nAsfaltado\n32.5 km - 1 hora 10 minutos\n1\nLima/Huarochirí/Surco\n-\nLima/Huarochirí/Surco\nPlaza de Armas de Surco - Anexo de Ayas\nTerrestre\nTaxi\nTrocha carrozable\n7.9 km /20 minutos\n1\nLima/Huarochirí/Surco\n-\nLima/Huarochirí/Surco\nAnexo de Ayas - Catarata Mortero\nTerrestre\nA pie\nCamino de Herradura\n6.4 km - 1 hora 50 minutos\n2\nLima/Lima/Santa Anita\n-\nLima/Lima/Lurigancho\nOvalo de Santa Anita - Parque Echenique de Chosica\nTerrestre\nAutomóvil particular\nAsfaltado\n34 km - 1 hora 10 minutos\n2\nLima/Lima/Lurigancho\n-\nLima/Huarochirí/Surco\nParque Echenique de Chosica - Plaza de Armas de Surco\nTerrestre\nAutomóvil particular\nAsfaltado\n32.5 km - 1 hora\n2\nLima/Huarochirí/Surco\n-\nLima/Huarochirí/Surco\nPlaza de Armas de Surco - Anexo de Ayas\nTerrestre\nTaxi\nTrocha carrozable\n7.9 km - 20 minutos\n2\nLima/Huarochirí/Surco\n-\nLima/Huarochirí/Surco\nAnexo de Ayas - Catarata Mortero\nTerrestre\nA pie\nCamino de Herradura\n6.4 km - 1 hora 50 minutos\n3\nLima/Huarochirí/Matucana\n-\nLima/Huarochirí/Surco\nParadero Entrada (Ciudad de Matucana) - Anexo de Ayas\nTerrestre\nAutomóvil particular\nAsfaltado\n10 km - 15 minutos\n3\nLima/Huarochirí/Surco\n-\nLima/Huarochirí/Surco\nAnexo de Ayas - Catarata Mortero\nTerrestre\nA pie\nCamino de Herradura\n6.4 km - 1 hora 50 minutos"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nAdultos S/ 5.00 - Niños S/ 2.50. Para visitas guiadas previa coordinación con encargado de turismo Sr. Carlos Orosco, celular 995565340"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n08:00 a.m.\n-\n05:00 p.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nNaturaleza\nObservación de flora\nArboles frutales de palta, melocotón, tuna, manzana, arboles de eucalipto, quenuales, plantas medicinales y aromáticas como muña, paico, cedrón y llantén.\nNaturaleza\nObservación de paisaje\n--\nNaturaleza\nObservación de aves\nZorzal chiguanco, jilguero, colibríes.\nDeportes / Aventura\nCaminata/Trekking\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHostales (especificar categorías)\n3 Estrellas / Ciudad de Matucana\nAlimentación\nRestaurantes\nCiudad de Matucana\nAlimentación\nFuentes de soda\nCiudad de Matucana\nAlimentación\nKioskos de comida y bebidas\nCiudad de Matucana\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Matucana\nServicios Públicos\nMiradores turísticos\nCiudad de Matucana\nServicios Públicos\nSeñales turísticas de orientación\nCiudad de Matucana\nLugares de Recreación\nCentros Deportivos\nCiudad de Matucana\nServicios Públicos\nSeñales turísticas de interpretación\nCiudad de Matucana\nServicios Públicos\nOficina de Información turística\nCiudad de Matucana\nServicios Públicos\nPuesto de auxilio rápido\nCiudad de Matucana"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Matucana\nServicio de estacionamiento\nCiudad de Matucana\nServicios de taxis\nCiudad de Matucana\nCentro de salud - tópico\nCiudad de Matucana\nSeguridad / POLTUR / Comisaría\nCiudad de Matucana\nBodegas o minimarkets\nCiudad de Matucana\nCajero automático\nCiudad de Matucana\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Matucana\nLibrerías\nCiudad de Matucana"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nSeñalización turística\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Matucana\nLuz (Suministro Eléctrico)\nCiudad de Matucana\nTeléfono\nCiudad de Matucana\nAlcantarillado sanitario\nCiudad de Matucana\nSeñalización turística\nCiudad de Matucana"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nEstado Peruano\nPrivado:\n--\nOtra Situación:\nLa Catarata se encuentra dentro de los terrenos administrados por la Comunidad Campesina de Surco.\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\npartida\nNúmero de Partida:\n17024042\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nMunicipalidad distrital de Surco\nTiempo de administración\nDesde el año 2014"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo - Gobierno Regional de Lima\nNombre (Persona(s) responsable(s) del inventario turístico):\nJorge Luis Torres Chirito\nCargo:\nAsistente Administrativo\nCorreo:\njchiritoxx@gmail.com\nTeléfono:\n956454928\nFuentes Bibliográfica:\n1) Rutas Cortas desde Lima. Autor: Promperú. Lima, 2022.Pág. 41 al 44. 2) Conociendo Huarochirí Turismo. Autor: Jorge H. Contreras. Lima, 2018. Pág. 135 al 137. 3) Conoce el paraíso de cataratas a tan solo tres horas de lima. Autor: el Comercio, Vamos Enlace: https://elcomercio.pe/vamos/peru/san-jeronimo-de-surco-san-jeronimo-de-surco-conoce-el-paraiso-de-cataratas-a-tan-solo-tres-horas-de-lima-cataratas-surco-huarochiri-lima-noticia/ 4) Desarrollo Rural Sostenible en la cuenca del Rio Rimac Experiencias y perspectivas de la comunidad de Surco. Autor: ISAT. Lima, 1998. Pág. 16.\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n26/07/2023 12:39:28"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -11.846623,
+    "longitud": -76.43624699999998
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-11.846623,-76.43624699999998"
+}

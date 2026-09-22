@@ -1,0 +1,459 @@
+{
+  "cod_ficha": 907,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=907",
+  "nombre": "Sitio Arqueológico De Pukapukara",
+  "departamento": "Cusco",
+  "provincia": "Cusco",
+  "distrito": "CUSCO",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Sitios Arqueológicos",
+  "subtipo": "Templos",
+  "jerarquia": "POR JERARQUIZAR",
+  "altitud": "3764",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=290989",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=290989",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=291179",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=292782",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=292783",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=374657",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=374658"
+  ],
+  "actividades_permitidas": [
+    "Otros - Compras de artesanía/souvenir",
+    "Otros - Toma de fotografías y filmaciones",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de paisaje",
+    "Cultura y Folclore - Rituales místicos o tradicionales",
+    "Deportes / Aventura - Caminata/Trekking"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Compras de artesanía/souvenir",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/artesania02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Rituales místicos o tradicionales",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/rituales_misticos02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Cusco/Cusco/Cusco - Cusco/Cusco/Cusco",
+      "detalle": "Desde el Cusco hasta Pucapucara",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus turístico",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "7.2 km/20minutos"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "185542",
+      "horario": "Comité de Servicios Integrados Turístico Culturales del Cusco",
+      "observaciones": "2018"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "130427",
+      "horario": "Comité de Servicios Integrados Turístico Culturales del Cusco",
+      "observaciones": "2018"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "6733",
+      "horario": "Comité de Servicios Integrados Turístico Culturales del Cusco",
+      "observaciones": "2018"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "06:30 a.m. - 04:00 p.m. --",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": "Cusqueños y residentes previa presentación de DNI"
+    },
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "Boleto Integral Turista extranjero “BTCI” S/130.00, Estudiante “BEE” S/70.00 Boleto Parcial I Turista extranjero “BTCPI” S/70.00 Boleto Integral Turista Nacional “BIN” S/70.00, Estudiante “BEN” S/40"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicios Higiénicos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de Material Informativo(libro,revistas,postales,videos,etc)",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "Ciudad de Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "Ciudad de Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Casa de Hospedaje",
+      "observacion": "Ciudad de Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Snacks",
+      "observacion": "Ciudad de Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Ciudad de Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Pubs",
+      "observacion": "Ciudad de Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Peñas",
+      "observacion": "Ciudad de Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Night Clubs",
+      "observacion": "Ciudad de Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Cines o Teatros",
+      "observacion": "Ciudad de Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Ciudad de Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de equipo para turismo aventura",
+      "observacion": "Ciudad de Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de bicicleta",
+      "observacion": "Ciudad de Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Bancos - Cajeros",
+      "observacion": "Ciudad de Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Casa de Cambio",
+      "observacion": "Ciudad de Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Oficina de Información",
+      "observacion": "Ciudad de Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Seguridad / POLTUR",
+      "observacion": "Ciudad de Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicios Higiénicos",
+      "observacion": "Ciudad de Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Ciudad de Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Correos",
+      "observacion": "Ciudad de Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Estacionamiento",
+      "observacion": "Ciudad de Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Fax",
+      "observacion": "Ciudad de Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Internet",
+      "observacion": "Ciudad de Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de taxi",
+      "observacion": "Ciudad de Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Tópico",
+      "observacion": "Ciudad de Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de Material Informativo(libro,revistas,postales,videos,etc)",
+      "observacion": "Ciudad de Cusco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de Material para Fotografía",
+      "observacion": "Ciudad de Cusco"
+    }
+  ],
+  "descripcion": "Puka pukara que significa \"fortaleza roja\" porque sus piedras calcáreas han adquirido la coloración rojiza del terreno muy abundante en hierro. Es una construcción que se halla en una saliente o contrafuerte de una montaña, se creen que tuvo la función de resguardar Tambomach´ay, Un importante palacio inka, sus características de acuerdo a la arquitectura inca, corresponde al de una pukara, que son pequeños centros fortificados ubicados estratégicamente que tuvieron la función de sitios de control administrativo más que militar. Este grupo arqueológico está compuesto de una plazoleta, habitaciones y dos muros que sostienen una terraza superior. En la parte frontal, de esta construcción, se observan fuentes que debieron contener agua y la puerta de acceso de doble jamba. Por el lugar donde se encuentra emplazado, posee dominio visual de la zona, por lo que debió será, además de centro de control y vigilancia, puerta de ingreso al Cusco desde el Antisuyo.",
+  "particularidades": "",
+  "estado_actual": "El estado de conservación del sitio arqueológico es bueno, el mantenimiento esta a cargo de la Dirección Desconcentrada de Cultura Cusco.",
+  "observaciones": "Está ubicado a 7 Km. de Cusco., exactamente a 5 min., a 3764 m.s.n.m. en el piso ecológico quechua Saqsaywaman (PAS), cuenta con 96 sitios arqueológicos, entre los cuales destacan Q’enqo, Tambomachay, Pukapukara, Kallachaca, Patallaqta, Amaro – Markawasi y el área monumental conformado por los Baluartes, Muyuqmarca, Rodadero y Chinkana.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Puka pukara que significa \"fortaleza roja\" porque sus piedras calcáreas han adquirido la coloración rojiza del terreno muy abundante en hierro. Es una construcción que se halla en una saliente o contrafuerte de una montaña, se creen que tuvo la función de resguardar Tambomach´ay, Un importante palacio inka, sus características de acuerdo a la arquitectura inca, corresponde al de una pukara, que son pequeños centros fortificados ubicados estratégicamente que tuvieron la función de sitios de control administrativo más que militar. Este grupo arqueológico está compuesto de una plazoleta, habitaciones y dos muros que sostienen una terraza superior. En la parte frontal, de esta construcción, se observan fuentes que debieron contener agua y la puerta de acceso de doble jamba. Por el lugar donde se encuentra emplazado, posee dominio visual de la zona, por lo que debió será, además de centro de control y vigilancia, puerta de ingreso al Cusco desde el Antisuyo."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "Se encuentra dentro del Parque Arqueológico Saqsaywaman, que fue declarado por el Instituto Nacional de Cultura como principal Parque Arqueológico con R.M. Nº 517-2002. Fue declarado Patrimonio Cultural de la Nación 11 de julio de 1982, por Ley N°23765, mediante Resolución Directoral Nacional N° 829-2006."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "El estado de conservación del sitio arqueológico es bueno, el mantenimiento esta a cargo de la Dirección Desconcentrada de Cultura Cusco."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "Está ubicado a 7 Km. de Cusco., exactamente a 5 min., a 3764 m.s.n.m. en el piso ecológico quechua Saqsaywaman (PAS), cuenta con 96 sitios arqueológicos, entre los cuales destacan Q’enqo, Tambomachay, Pukapukara, Kallachaca, Patallaqta, Amaro – Markawasi y el área monumental conformado por los Baluartes, Muyuqmarca, Rodadero y Chinkana."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n185542\nComité de Servicios Integrados Turístico Culturales del Cusco\n2018\nCOSITUC\nTuristas Nacionales\n130427\nComité de Servicios Integrados Turístico Culturales del Cusco\n2018\nCOSITUC\nVisitantes Locales(Excursionistas)\n6733\nComité de Servicios Integrados Turístico Culturales del Cusco\n2018\nCOSITUC"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nCusco/Cusco/Cusco\n-\nCusco/Cusco/Cusco\nDesde el Cusco hasta Pucapucara\nTerrestre\nBus turístico\nAsfaltado\n7.2 km/20minutos"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre\nCusqueños y residentes previa presentación de DNI\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nBoleto Integral Turista extranjero “BTCI” S/130.00, Estudiante “BEE” S/70.00 Boleto Parcial I Turista extranjero “BTCPI” S/70.00 Boleto Integral Turista Nacional “BIN” S/70.00, Estudiante “BEN” S/40"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n06:30 a.m.\n-\n04:00 p.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nCompras de artesanía/souvenir\n--\nOtros\nToma de fotografías y filmaciones\n--\nNaturaleza\nObservación de flora\n--\nNaturaleza\nObservación de paisaje\n--\nCultura y Folclore\nRituales místicos o tradicionales\n--\nDeportes / Aventura\nCaminata/Trekking\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nAlimentación\nKioskos de comida y bebidas\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nVenta de artesanía\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nServicios Higiénicos\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nVenta de Material Informativo(libro,revistas,postales,videos,etc)\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\nCiudad de Cusco\nAlojamiento\nHostales (especificar categorías)\nCiudad de Cusco\nAlojamiento\nCasa de Hospedaje\nCiudad de Cusco\nAlimentación\nRestaurantes\nCiudad de Cusco\nAlimentación\nBares\nCiudad de Cusco\nAlimentación\nCafeterías\nCiudad de Cusco\nAlimentación\nSnacks\nCiudad de Cusco\nAlimentación\nKioskos de comida y bebidas\nCiudad de Cusco\nAlimentación\nVenta de comida Rápida\nCiudad de Cusco\nLugares de Recreación\nDiscotecas\nCiudad de Cusco\nLugares de Recreación\nPubs\nCiudad de Cusco\nLugares de Recreación\nPeñas\nCiudad de Cusco\nLugares de Recreación\nNight Clubs\nCiudad de Cusco\nLugares de Recreación\nCines o Teatros\nCiudad de Cusco\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nCiudad de Cusco\nOtros Servicios Turísticos\nAlquiler de equipo para turismo aventura\nCiudad de Cusco\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Cusco\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de Cusco\nOtros Servicios Turísticos\nAlquiler de bicicleta\nCiudad de Cusco\nOtros Servicios Turísticos\nBancos - Cajeros\nCiudad de Cusco\nOtros Servicios Turísticos\nCasa de Cambio\nCiudad de Cusco\nOtros Servicios Turísticos\nOficina de Información\nCiudad de Cusco\nOtros Servicios Turísticos\nSeguridad / POLTUR\nCiudad de Cusco\nOtros Servicios Turísticos\nServicios Higiénicos\nCiudad de Cusco\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nCiudad de Cusco\nOtros Servicios Turísticos\nServicio de Correos\nCiudad de Cusco\nOtros Servicios Turísticos\nServicio de Estacionamiento\nCiudad de Cusco\nOtros Servicios Turísticos\nServicio de Fax\nCiudad de Cusco\nOtros Servicios Turísticos\nServicio de Internet\nCiudad de Cusco\nOtros Servicios Turísticos\nServicio de taxi\nCiudad de Cusco\nOtros Servicios Turísticos\nTópico\nCiudad de Cusco\nOtros Servicios Turísticos\nVenta de Material Informativo(libro,revistas,postales,videos,etc)\nCiudad de Cusco\nOtros Servicios Turísticos\nVenta de Material para Fotografía\nCiudad de Cusco"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nSeñalización turística\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Cusco\nLuz (Suministro Eléctrico)\nCiudad de Cusco\nTeléfono\nCiudad de Cusco\nSeñalización turística\nCiudad de Cusco"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nEstado Peruano\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nRESOLUCIÓN DIRECTORAL NACIONAL Nº 391/INC. Art. Nº 03 \"Disponer la inscripción en registros públicos...\"\nAdministrador por\nNombre\nMinisterio de Cultura a través de la Dirección Desconcentrada de Cultura - Cusco\nTiempo de administración\nDesde el año 1976"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo DIRCETUR CUSCO\nNombre (Persona(s) responsable(s) del inventario turístico):\nLic. Roció Estrada Palomino\nCargo:\nResponsable del inventario Turístico\nCorreo:\nrociespadu@hotmail.com\nTeléfono:\n967760331\nFuentes Bibliográfica:\nESCOBAR MEDRANO, JORGE. 1996. CONOCIENDO EL CUSCO.Inka Garcilaso de la vega crónica: “Los Comentarios Reales”.\nSarmiento de Gamboa crónica: “Historia de os Incas”.\nDr. Jorge E. Escobar Medrano, Lic. Alfredo Candía Gómez, ice. Francisco Medina Martínez: “CUSCO ARQUEOOGIA E HISTORIA”.\nFidel Ramos Condori: Fascículo “Saqsaywaman Santuario Andino”.\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n10/07/2024 16:05:54"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -13.483530929929563,
+    "longitud": -71.96236389947512
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-13.483530929929563,-71.96236389947512"
+}

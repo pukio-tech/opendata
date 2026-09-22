@@ -1,0 +1,282 @@
+{
+  "cod_ficha": 4915,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=4915",
+  "nombre": "Cueva De Las Catorce Ventanas",
+  "departamento": "Huánuco",
+  "provincia": "Lauricocha",
+  "distrito": "SAN MIGUEL DE CAURI",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "m. Cavidades naturales",
+  "subtipo": "Cuevas",
+  "jerarquia": "2",
+  "altitud": "4000",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=296883",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=296883",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=297014",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=595144",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=597886"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Estudios e Investigación",
+    "Naturaleza - Observación de paisaje"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Huánuco/Lauricocha/Jesús - Huánuco/Lauricocha/San Miguel De Cauri",
+      "detalle": "Plaza de Jesus - Caserio de Lauricocha",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "26 km / 1 hr 30 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Huánuco/Lauricocha/San Miguel De Cauri - Huánuco/Lauricocha/San Miguel De Cauri",
+      "detalle": "Caserío de Lauricocha - Cueva de Lauricocha",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "1 km / 21 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Huánuco/Lauricocha/San Miguel De Cauri - Huánuco/Lauricocha/San Miguel De Cauri",
+      "detalle": "Caserío de Lauricocha - Cueva de Lauricocha",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A caballo",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "1 km / 10 min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "90",
+      "horario": "ficha de registro de visitantes",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "4320",
+      "horario": "ficha de registro de visitantes",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "4590",
+      "horario": "ficha de registro de visitantes",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "06:00 a.m. - 06:00 p.m. --",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "Entrada general al recurso: S/ 5 soles/ Comunidad de Lauricocha"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Jesús"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Jesús"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Ciudad de Jesús"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Otros (especificar)",
+      "observacion": "Ciudad de Jesús/ Tambo en el Caserío de Lauricocha"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Jesús"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Jesús"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Jesús"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Ciudad de Jesús"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de Jesús"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Jesús"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "Ciudad de Jesús"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Ciudad de Jesús"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Puesto de auxilio rápido",
+      "observacion": "Ciudad de Jesús"
+    }
+  ],
+  "descripcion": "La Cueva de las Catorce Ventanas se localiza en el caserío de Lauricocha, al pie del cerro Huagratacanán, en el distrito de San Miguel de Cauri, provincia de Lauricocha, región Huánuco, a una altitud aproximada de 4.000 m s. n. m. Ubicándose así en la región natural Suni.\nEste espacio forma parte del Período Lítico o Precerámico, también denominado Paleolítico Andino. En 1958, el geógrafo Augusto Cardich realizó importantes hallazgos en esta zona, entre ellos restos humanos fechados alrededor del 10,000 a. C., los cuales aportan información relevante para el conocimiento de los primeros asentamientos humanos en los Andes peruanos.\nEl último estudio de espeleología registrado se realizó en octubre de 1980, cuando el Centro de Estudios Espeleológicos (CESPE) de Lima exploró y mapeó la cueva. Durante esta investigación se llevó a cabo una topografía detallada de su estructura laberíntica.\nActualmente, el sitio está registrado como Patrimonio Cultural de la Nación mediante la Resolución Directoral N.º 1652/INC del 5 de diciembre de 2005.\nLa cueva cuenta con una entrada principal de aproximadamente 3 metros de alto por 7 metros de ancho y una profundidad estimada de 150 metros. Desde el exterior se distinguen catorce aberturas naturales en la formación rocosa, motivo por el cual se le denomina \"Cueva de las Catorce Ventanas\". En su interior se identifican túneles interconectados, formaciones geológicas como estalactitas y estalagmitas, depósitos minerales y presencia de agua. Estos elementos permiten observar la dinámica geológica del entorno.\nLa caverna presenta diversos niveles y pasajes que varían en tamaño a medida que se avanza hacia su interior. En dirección a las ventanas, las cavidades se amplían, mientras que los túneles se reducen en espacio conforme se profundiza. Desde algunos puntos de la cueva se puede observar la laguna de Lauricocha, ubicada al lado derecho del conjunto de cuevas. Entre las aberturas, la sexta ventana destaca por su mayor amplitud.\nEn los alrededores de la cueva es posible encontrar especies de flora como el ichu, la centella y el zapatito de Venus. En cuanto a la fauna, destacan la vizcacha, el conejo andino, el murciélago, el ibis de la puna y otras aves propias de la región altoandina.\nEste sitio arqueológico y natural es de interés para quienes deseen conocer evidencias del poblamiento temprano en los Andes, así como para quienes buscan explorar espacios geográficos con potencial turístico en la región.",
+  "particularidades": "• Según el geógrafo Augusto Cardich, alberga a los restos del Hombre de Lauricocha (10000 a.C) habiendo sido uno de los primeros habitantes de los Andes de América.",
+  "estado_actual": "Bueno, porque la cueva conserva su estructura natural, accesos y formaciones geológicas en condiciones estables.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "La Cueva de las Catorce Ventanas se localiza en el caserío de Lauricocha, al pie del cerro Huagratacanán, en el distrito de San Miguel de Cauri, provincia de Lauricocha, región Huánuco, a una altitud aproximada de 4.000 m s. n. m. Ubicándose así en la región natural Suni.\nEste espacio forma parte del Período Lítico o Precerámico, también denominado Paleolítico Andino. En 1958, el geógrafo Augusto Cardich realizó importantes hallazgos en esta zona, entre ellos restos humanos fechados alrededor del 10,000 a. C., los cuales aportan información relevante para el conocimiento de los primeros asentamientos humanos en los Andes peruanos.\nEl último estudio de espeleología registrado se realizó en octubre de 1980, cuando el Centro de Estudios Espeleológicos (CESPE) de Lima exploró y mapeó la cueva. Durante esta investigación se llevó a cabo una topografía detallada de su estructura laberíntica.\nActualmente, el sitio está registrado como Patrimonio Cultural de la Nación mediante la Resolución Directoral N.º 1652/INC del 5 de diciembre de 2005.\nLa cueva cuenta con una entrada principal de aproximadamente 3 metros de alto por 7 metros de ancho y una profundidad estimada de 150 metros. Desde el exterior se distinguen catorce aberturas naturales en la formación rocosa, motivo por el cual se le denomina \"Cueva de las Catorce Ventanas\". En su interior se identifican túneles interconectados, formaciones geológicas como estalactitas y estalagmitas, depósitos minerales y presencia de agua. Estos elementos permiten observar la dinámica geológica del entorno.\nLa caverna presenta diversos niveles y pasajes que varían en tamaño a medida que se avanza hacia su interior. En dirección a las ventanas, las cavidades se amplían, mientras que los túneles se reducen en espacio conforme se profundiza. Desde algunos puntos de la cueva se puede observar la laguna de Lauricocha, ubicada al lado derecho del conjunto de cuevas. Entre las aberturas, la sexta ventana destaca por su mayor amplitud.\nEn los alrededores de la cueva es posible encontrar especies de flora como el ichu, la centella y el zapatito de Venus. En cuanto a la fauna, destacan la vizcacha, el conejo andino, el murciélago, el ibis de la puna y otras aves propias de la región altoandina.\nEste sitio arqueológico y natural es de interés para quienes deseen conocer evidencias del poblamiento temprano en los Andes, así como para quienes buscan explorar espacios geográficos con potencial turístico en la región."
+    },
+    {
+      "titulo": "Particularidades",
+      "contenido": "• Según el geógrafo Augusto Cardich, alberga a los restos del Hombre de Lauricocha (10000 a.C) habiendo sido uno de los primeros habitantes de los Andes de América."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "•Declarado como Patrimonio Cultural de la Nación con la Resolución Directoral N°1652/INC del 05/12/05"
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, porque la cueva conserva su estructura natural, accesos y formaciones geológicas en condiciones estables."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n90\nficha de registro de visitantes\n2024\nFuente de datos Municipalidad Provincial de Lauricocha\nTuristas Nacionales\n4320\nficha de registro de visitantes\n2024\nFuente de datos Municipalidad Provincial de Lauricocha\nVisitantes Locales(Excursionistas)\n4590\nficha de registro de visitantes\n2024\nFuente de datos Municipalidad Provincial de Lauricocha"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nHuánuco/Lauricocha/Jesús\n-\nHuánuco/Lauricocha/San Miguel De Cauri\nPlaza de Jesus - Caserio de Lauricocha\nTerrestre\nAutomóvil particular\nAfirmado\n26 km / 1 hr 30 min\n1\nHuánuco/Lauricocha/San Miguel De Cauri\n-\nHuánuco/Lauricocha/San Miguel De Cauri\nCaserío de Lauricocha - Cueva de Lauricocha\nTerrestre\nA pie\nAfirmado\n1 km / 21 min\n1\nHuánuco/Lauricocha/San Miguel De Cauri\n-\nHuánuco/Lauricocha/San Miguel De Cauri\nCaserío de Lauricocha - Cueva de Lauricocha\nTerrestre\nA caballo\nAfirmado\n1 km / 10 min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nEntrada general al recurso: S/ 5 soles/ Comunidad de Lauricocha"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n06:00 a.m.\n-\n06:00 p.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nEstudios e Investigación\n--\nNaturaleza\nObservación de paisaje\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Públicas\nServicios Públicos\nSeñales turísticas de orientación\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Jesús\nAlimentación\nRestaurantes\nCiudad de Jesús\nLugares de Recreación\nCentros Deportivos\nCiudad de Jesús\nServicios Públicos\nOtros (especificar)\nCiudad de Jesús/ Tambo en el Caserío de Lauricocha\nAlimentación\nKioskos de comida y bebidas\nCiudad de Jesús\nAlimentación\nBares\nCiudad de Jesús\nAlimentación\nCafeterías\nCiudad de Jesús\nAlimentación\nVenta de comida Rápida\nCiudad de Jesús\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de Jesús\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Jesús\nServicios Públicos\nMiradores turísticos\nCiudad de Jesús\nServicios Públicos\nOficina de Información turística\nCiudad de Jesús\nServicios Públicos\nPuesto de auxilio rápido\nCiudad de Jesús"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Jesús\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Jesús\nCentro de salud - tópico\nCiudad de Jesús\nSeguridad / POLTUR / Comisaría\nCiudad de Jesús\nLibrerías\nCiudad de Jesús\nBodegas o minimarkets\nCiudad de Jesús\nBancos\nCiudad de Jesús"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Jesús\nLuz (Suministro Eléctrico)\nCiudad de Jesús\nAlcantarillado sanitario\nCiudad de Jesús"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nDirección Desconcentrada de Cultura Huánuco\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nResolución Directoral N°1652/INC del 05/12/05. Declara Patrimonio Cultural de la Nación al sitio arqueológico: Catorce Ventanas, ubicado en el distrito San Miguel de Cauri, provincia de Lauricocha.\nAdministrador por\nNombre\nComunidad de Lauricocha\nTiempo de administración\nDesde el año 2005"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDIRECCION REGIONAL DE COMERCIO EXTERIOR Y TURISMO HUANUCO\nNombre (Persona(s) responsable(s) del inventario turístico):\nYesenia Lizbeth Mayorca Quispe\nCargo:\nEspecialista en Turismo\nCorreo:\nyessmayorca@gmail.com\nTeléfono:\n953 949 341\nFuentes Bibliográfica:\n• Inventario Turístico del Distrito de San Miguel De Cauri – 2008\n• Congreso de la República del Perú. (2025). Ley que declara de Interés Nacional la investigación, conservación, puesta En valor y promoción de Los Sitios Arqueológicos Las Cuevas De Lauricocha, Corral León Y Pueblo Viejo, en el distrito de San Miguel De Cauri, Provincia Lauricocha, Departamento De. Obtenido de chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://wb2server.congreso.gob.pe/spley-portal-service/archivo/MjcwMDcw/pdf\n• Municipalidad distrital de San Miguel de Cauri. (2008). Inventario turístico del distrito de San Miguel de Cauri.\n• Municipalidad provincial de Lauricocha. (2024). Plan de desarrollo turístico de la provincia de Lauricocha.\n• https://cuevasdelperu.org/publicaciones/peru/2000_BSVE_34_Morales.pdf\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\nEn el año 2021 con el programa Trabaja Perú se pudo añadir una señal turística de bienvenida, además de mejorar el camino hacia la cueva de 14 ventanas.\nFecha:\n13/05/2025 09:25:27"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -10.313979850127092,
+    "longitud": -76.65033996105194
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-10.313979850127092,-76.65033996105194"
+}

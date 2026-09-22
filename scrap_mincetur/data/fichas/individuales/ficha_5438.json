@@ -1,0 +1,377 @@
+{
+  "cod_ficha": 5438,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=5438",
+  "nombre": "Museo De Arte Contemporáneo De Lima - Mac Lima",
+  "departamento": "Lima",
+  "provincia": "Lima",
+  "distrito": "BARRANCO",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Museos y otros",
+  "subtipo": "Museos",
+  "jerarquia": "2",
+  "altitud": "75",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=292878",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=292878",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=541447",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=541392",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=541393",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=541448",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=541395",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=541449",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=543711",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=543668",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=543720",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=543716",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=543717"
+  ],
+  "actividades_permitidas": [
+    "Otros - Compras de artesanía/souvenir",
+    "Otros - Realización de eventos",
+    "Otros - Otros(Especificar)"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Compras de artesanía/souvenir",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/artesania02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Realización de eventos",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/eventos02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Otros(Especificar)",
+      "observacion": "Cursos y actividades culturales para diversos públicos",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/otros02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Lima/Lima/Lima - Lima/Lima/Barranco",
+      "detalle": "Estación Central del Metropolitano - Museo de Arte contemporáneo. MAC",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "13.6 Km./ 40 min."
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Lima/Lima/Lima - Lima/Lima/Barranco",
+      "detalle": "Estación Central del Metropolitano - Estación Las Flores",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "10.5 km./ 30min."
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Lima/Lima/Barranco - Lima/Lima/Barranco",
+      "detalle": "Estación Las Flores del Metropolitano - Museo de Arte Contemporáneo MAC",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "2.5 Km. / 20 min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "119003",
+      "horario": "MAC Lima - Dirección",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "311",
+      "horario": "MAC Lima - Dirección",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "16235",
+      "horario": "MAC Lima - Dirección",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "10:00 a.m. - 07:00 p.m. De martes a domingo",
+      "observaciones": "De martes a domingo"
+    },
+    {
+      "epoca": "Personas con discapacidad física",
+      "especificacion": "Rampas y servicios higiénicos.",
+      "horario": "--",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "General: S/.8; Estudiantes: S/. 4; Niños: S/. 4;Adultos Mayores. S/. 4. No residentes General: S/. 14; Estudiantes: S/. 8; Niños: S/. 8; Adultos Mayores: S/. 8"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Facilidades para discapacitados",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicios Higiénicos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Mediadores Culturales. Español"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "Distrito de Barranco. Hoteles de 2 y 3 estrellas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Apart-hoteles (especificar categorías)",
+      "observacion": "Distrito de Barranco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "Distrito de Barranco. Hostales de 1, 2 y 3 estrellas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Albergues",
+      "observacion": "Distrito de Barranco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Distrito de Barranco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Distrito de Barranco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Distrito de Barranco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Distrito de Barranco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Distrito de Barranco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Distrito de Barranco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Distrito de Barranco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Distrito de Barranco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "Distrito de Barranco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Peñas",
+      "observacion": "Distrito de Barranco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Distrito de Barranco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Distrito de Barranco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Distrito de Barranco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Distrito de Barranco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Distrito de Barranco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Servicio Postal. Distrito de Barranco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Distrito de Barranco. Galerías de Arte y Tiendas de Objetos de Diseño y Modas"
+    }
+  ],
+  "descripcion": "Inaugurado en enero de 2013, el MAC Lima es la única entidad abocada exclusivamente a la investigación, difusión y promoción de las artes contemporáneas en el Perú, situado en una propiedad concesionada por la Municipalidad de Barranco. El edificio modernista donde se instala fue diseñado por el arquitecto peruano Frederic Cooper Llosa, distribuido en tres plantas para sus tres salas: una de 100 m2 para proyecciones y conversatorios; otra de 1000 m2, donde se presentan las exposiciones temporales de arte nacional e internacional, vitrina para artistas reconocidos y nuevos; y una tercera sala donde se exhibe la colección permanente del IAC (Instituto de Arte Contemporáneo). Además cuenta con un Centro de Documentación, un Departamento de Colecciones, cuatro aulas, oficinas administrativas y cafetería; así como el parque de 12.437 m2, donde también se realizan actividades artísticas y culturales de ingreso libre para el público en general. Estos ambientes de producción y promoción artística, y sus programas educativos y culturales, hacen del MAC Lima no solo un espacio de exhibición, sino también un laboratorio artístico, donde se fusionan arte con ciencia y tecnología, generando proyectos artísticos de distinto tipo. La colección del IAC concentra obras de artistas peruanos e internacionales creadas desde 1940, en expresiones como pintura, escultura, fotografía, video. Los orígenes de esta colección se remontan a 1955, con la fundación del Instituto de Arte Contemporáneo (IAC), conformado por empresarios e intelectuales interesados en promover el arte y la cultura. Con el tiempo, la colección se fue nutriendo con los aportes y donaciones de reconocidos artistas nacionales y latinoamericanos, hasta la actualidad. Las piezas artísticas de la colección permanente del IAC se exhiben distribuidas por temáticas sobre la historia y evolución artística en el Perú: imaginario precolombino y sus elementos visuales; indigenismo y modernidad; integración del arte latinoamericano; vanguardia latinoamericana y sus vínculos con Europa; violencia y crisis en América Latina. Las piezas de la colección del IAC son obras de arte moderno y contemporáneo que comprenden arte conceptual, constructivismo, abstractismo, surrealismo, pop, entre otras corrientes; con las firmas de artistas como Fernando de Szyszlo, Armando Villegas, Alberto Quintanilla, Rafael Hastings, Ramiro Llona, Ricardo Grau, Judith Westphalen, Marianna Schmidt, Venancio Shinki, Beatriz González, Alfredo Márquez, Elliot Túpac, por citar a algunos. Todas las piezas se encuentran en buen estado de conservación y constituyen bienes culturales muebles. El MAC Lima no pertenece a la Red de Museos del Perú.\nAsimismo, el MAC Lima cuenta con el área de Acción Educativa y Mediación, la cual trabaja la innovación uniendo la pedagogía y el arte contemporáneo brindando a nuestros visitantes experiencias integrales que los acercan a las prácticas artísticas de la actualidad, mediante los diversos programas educativos buscan fomentar en los públicos un pensamiento crítico que permita comprender la cultura contemporánea.\nAdemás, el MAC Lima ha acondicionado sus espacios para ofrecer nuevas experiencias, ideales para realizar eventos corporativos, celebraciones, presentaciones de libros, conversatorios, entrevistas, programas de TV, transmisiones en vivo, conciertos, entre otros. Finalmente, el MAC Lima cuenta con una tienda de souvenirs para los que deseen llevar un recuerdo de su visita.",
+  "particularidades": "",
+  "estado_actual": "Muy bueno, se puede distinguir totalmente sus caracteres y no presenta problemas de conservación, se encuentra en constante mantenimiento, a cargo de la administración del museo.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Inaugurado en enero de 2013, el MAC Lima es la única entidad abocada exclusivamente a la investigación, difusión y promoción de las artes contemporáneas en el Perú, situado en una propiedad concesionada por la Municipalidad de Barranco. El edificio modernista donde se instala fue diseñado por el arquitecto peruano Frederic Cooper Llosa, distribuido en tres plantas para sus tres salas: una de 100 m2 para proyecciones y conversatorios; otra de 1000 m2, donde se presentan las exposiciones temporales de arte nacional e internacional, vitrina para artistas reconocidos y nuevos; y una tercera sala donde se exhibe la colección permanente del IAC (Instituto de Arte Contemporáneo). Además cuenta con un Centro de Documentación, un Departamento de Colecciones, cuatro aulas, oficinas administrativas y cafetería; así como el parque de 12.437 m2, donde también se realizan actividades artísticas y culturales de ingreso libre para el público en general. Estos ambientes de producción y promoción artística, y sus programas educativos y culturales, hacen del MAC Lima no solo un espacio de exhibición, sino también un laboratorio artístico, donde se fusionan arte con ciencia y tecnología, generando proyectos artísticos de distinto tipo. La colección del IAC concentra obras de artistas peruanos e internacionales creadas desde 1940, en expresiones como pintura, escultura, fotografía, video. Los orígenes de esta colección se remontan a 1955, con la fundación del Instituto de Arte Contemporáneo (IAC), conformado por empresarios e intelectuales interesados en promover el arte y la cultura. Con el tiempo, la colección se fue nutriendo con los aportes y donaciones de reconocidos artistas nacionales y latinoamericanos, hasta la actualidad. Las piezas artísticas de la colección permanente del IAC se exhiben distribuidas por temáticas sobre la historia y evolución artística en el Perú: imaginario precolombino y sus elementos visuales; indigenismo y modernidad; integración del arte latinoamericano; vanguardia latinoamericana y sus vínculos con Europa; violencia y crisis en América Latina. Las piezas de la colección del IAC son obras de arte moderno y contemporáneo que comprenden arte conceptual, constructivismo, abstractismo, surrealismo, pop, entre otras corrientes; con las firmas de artistas como Fernando de Szyszlo, Armando Villegas, Alberto Quintanilla, Rafael Hastings, Ramiro Llona, Ricardo Grau, Judith Westphalen, Marianna Schmidt, Venancio Shinki, Beatriz González, Alfredo Márquez, Elliot Túpac, por citar a algunos. Todas las piezas se encuentran en buen estado de conservación y constituyen bienes culturales muebles. El MAC Lima no pertenece a la Red de Museos del Perú.\nAsimismo, el MAC Lima cuenta con el área de Acción Educativa y Mediación, la cual trabaja la innovación uniendo la pedagogía y el arte contemporáneo brindando a nuestros visitantes experiencias integrales que los acercan a las prácticas artísticas de la actualidad, mediante los diversos programas educativos buscan fomentar en los públicos un pensamiento crítico que permita comprender la cultura contemporánea.\nAdemás, el MAC Lima ha acondicionado sus espacios para ofrecer nuevas experiencias, ideales para realizar eventos corporativos, celebraciones, presentaciones de libros, conversatorios, entrevistas, programas de TV, transmisiones en vivo, conciertos, entre otros. Finalmente, el MAC Lima cuenta con una tienda de souvenirs para los que deseen llevar un recuerdo de su visita."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Muy bueno, se puede distinguir totalmente sus caracteres y no presenta problemas de conservación, se encuentra en constante mantenimiento, a cargo de la administración del museo."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nVisitantes Locales(Excursionistas)\n119003\nMAC Lima - Dirección\n2023\nTuristas Nacionales\n311\nMAC Lima - Dirección\n2023\nTuristas Extranjeros\n16235\nMAC Lima - Dirección\n2023"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nLima/Lima/Lima\n-\nLima/Lima/Barranco\nEstación Central del Metropolitano - Museo de Arte contemporáneo. MAC\nTerrestre\nAutomóvil particular\nAsfaltado\n13.6 Km./ 40 min.\n2\nLima/Lima/Lima\n-\nLima/Lima/Barranco\nEstación Central del Metropolitano - Estación Las Flores\nTerrestre\nBus público\nAsfaltado\n10.5 km./ 30min.\n2\nLima/Lima/Barranco\n-\nLima/Lima/Barranco\nEstación Las Flores del Metropolitano - Museo de Arte Contemporáneo MAC\nTerrestre\nA pie\nAsfaltado\n2.5 Km. / 20 min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nGeneral: S/.8; Estudiantes: S/. 4; Niños: S/. 4;Adultos Mayores. S/. 4. No residentes General: S/. 14; Estudiantes: S/. 8; Niños: S/. 8; Adultos Mayores: S/. 8"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n10:00 a.m.\n-\n07:00 p.m.\nDe martes a domingo"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nCompras de artesanía/souvenir\n--\nOtros\nRealización de eventos\n--\nOtros\nOtros(Especificar)\nCursos y actividades culturales para diversos públicos"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nAlimentación\nCafeterías\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nFacilidades para discapacitados\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nServicios Higiénicos\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nMediadores Culturales. Español"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\nDistrito de Barranco. Hoteles de 2 y 3 estrellas\nAlojamiento\nApart-hoteles (especificar categorías)\nDistrito de Barranco\nAlojamiento\nHostales (especificar categorías)\nDistrito de Barranco. Hostales de 1, 2 y 3 estrellas\nAlojamiento\nAlbergues\nDistrito de Barranco\nAlimentación\nRestaurantes\nDistrito de Barranco\nAlimentación\nBares\nDistrito de Barranco\nAlimentación\nCafeterías\nDistrito de Barranco\nAlimentación\nFuentes de soda\nDistrito de Barranco\nAlimentación\nKioskos de comida y bebidas\nDistrito de Barranco\nAlimentación\nVenta de comida Rápida\nDistrito de Barranco\nLugares de Recreación\nDiscotecas\nDistrito de Barranco\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nDistrito de Barranco\nLugares de Recreación\nKaraoke\nDistrito de Barranco\nLugares de Recreación\nPeñas\nDistrito de Barranco\nLugares de Recreación\nJuegos Infantiles\nDistrito de Barranco\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nDistrito de Barranco\nOtros Servicios Turísticos\nVenta de artesanía\nDistrito de Barranco\nOtros Servicios Turísticos\nAgencia de Viajes\nDistrito de Barranco\nServicios Públicos\nOficina de Información turística\nDistrito de Barranco\nOtros Servicios Turísticos\nOtros (Especificar)\nServicio Postal. Distrito de Barranco\nOtros Servicios Turísticos\nOtros (Especificar)\nDistrito de Barranco. Galerías de Arte y Tiendas de Objetos de Diseño y Modas"
+    },
+    {
+      "titulo": "Servicios Complementarios dentro del recurso",
+      "contenido": "Servicio Complementario\nObservación\nServicios de internet\n--"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nDistrito de Barranco\nBancos\nDistrito de Barranco\nCajero automático\nDistrito de Barranco\nCasa de cambio\nDistrito de Barranco\nEstación de servicios, grifos, gasolineras y gasocentros\nDistrito de Barranco\nServicio de correos\nDistrito de Barranco\nServicio de estacionamiento\nDistrito de Barranco\nServicios de taxis\nDistrito de Barranco\nCentro de salud - tópico\nDistrito de Barranco\nVenta de materiales para fotografías\nDistrito de Barranco\nSeguridad / POLTUR / Comisaría\nDistrito de Barranco\nAlquiler y compra de equipos deportivos\nDistrito de Barranco\nLibrerías\nDistrito de Barranco\nBodegas o minimarkets\nDistrito de Barranco"
+    },
+    {
+      "titulo": "Condiciones de Accesibilidad al Visitante",
+      "contenido": "Visitante\nInstalación\nActividades y/o programas\nEquipamiento\nObservación\nPersonas con discapacidad física\nRampas y servicios higiénicos.\n--\n--\n--"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\n--\nAlcantarillado sanitario\n--\nLuz (Suministro Eléctrico)\n--\nSeñalización turística\n--\nTeléfono\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nLuz (Suministro Eléctrico)\nDistrito de Barranco\nTeléfono\nDistrito de Barranco\nSeñalización turística\nDistrito de Barranco\nAgua potable\nDistrito de Barranco\nAlcantarillado sanitario\nDistrito de Barranco"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\n--\nPrivado:\n--\nOtra Situación:\nContrato de Concesión, suscrito el 05/04/2022 con la Municipalidad Distrital de Barranco\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nPartida Registral\nNúmero de Partida:\n11460041\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nInstituto de Arte Contemporáneo\nTiempo de administración\nDesde 2012"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nMunicipalidad Metropolitana de Lima / Municipalidad Distrital de Barranco\nNombre (Persona(s) responsable(s) del inventario turístico):\nAlex Reaño Torres / Genifer Candelaria Vera Torres\nCargo:\nEspecialista en Turismo / Gestor en Turismo\nCorreo:\nalexreanotorres@gmail.com / genifer.vera@munibarranco.gob.pe\nTeléfono:\n(01) 632-1801 / (01) 2036730 anexo 204\nFuentes Bibliográfica:\n-https://maclima.pe\n-https://artsandculture.google.com/partner/mac-lima?hl=es\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n30/07/2024 17:18:26"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -12.13675631033497,
+    "longitud": -77.0231595423279
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-12.13675631033497,-77.0231595423279"
+}

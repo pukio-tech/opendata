@@ -1,0 +1,320 @@
+{
+  "cod_ficha": 136,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=136",
+  "nombre": "Playa Puémape",
+  "departamento": "La Libertad",
+  "provincia": "Pacasmayo",
+  "distrito": "SAN PEDRO DE LLOC",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "l. Costas",
+  "subtipo": "Playas",
+  "jerarquia": "2",
+  "altitud": "0",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=416400",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=416400",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=416401",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=416381",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=628915",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=629097",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=628916",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=628917",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=629098"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Realización de eventos",
+    "Deportes acuáticos - Tabla hawaiana (Surfing) o bodyboard",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de paisaje",
+    "Naturaleza - Observación de aves"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Realización de eventos",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/eventos02.png"
+    },
+    {
+      "actividad": "Deportes acuáticos",
+      "tipo": "Tabla hawaiana (Surfing) o bodyboard",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/surfing02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "algas marinas",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de aves",
+      "observacion": "garzas, gaviotas, pelícanos",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/aves02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "La Libertad/Pacasmayo/San Pedro De Lloc - La Libertad/Pacasmayo/San Pedro De Lloc",
+      "detalle": "Plaza de Armas de San Pedro de Lloc – Playa Puémape",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "12 km / 10 min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "1260",
+      "horario": "INRT Conteo Muestral",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "1080",
+      "horario": "INRT Conteo Muestral",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Esporádicamente - Algunos meses",
+      "especificacion": "--",
+      "horario": "07:00 a.m. - 05:00 p.m. --",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "Hostales de 3 estrellas en San Pedro de Lloc – Casco Urbano"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "San Pedro de Lloc – Casco Urbano"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "San Pedro de Lloc – Casco Urbano"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "San Pedro de Lloc – Casco Urbano"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "San Pedro de Lloc – Casco Urbano"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "San Pedro de Lloc – Casco Urbano"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "San Pedro de Lloc – Casco Urbano"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "San Pedro de Lloc – Casco Urbano"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "San Pedro de Lloc – Casco Urbano"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "San Pedro de Lloc – Casco Urbano"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "San Pedro de Lloc – Casco Urbano"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "San Pedro de Lloc – Casco Urbano"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "San Pedro de Lloc - Casco Urbano"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "San Pedro de Lloc - Casco Urbano"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "San Pedro de Lloc - Casco Urbano"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Lugares de picnic",
+      "observacion": "Centro Poblado de Puémape"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "San Pedro de Lloc - Casco Urbano"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Boletería",
+      "observacion": "San Pedro de Lloc - Casco Urbano"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "Centro Poblado de Puémape"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Orquideario",
+      "observacion": "San Pedro de Lloc - Casco Urbano"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Puesto de auxilio rápido",
+      "observacion": "San Pedro de Lloc - Casco Urbano"
+    }
+  ],
+  "descripcion": "Puémape es un hermoso balneario situado en la costa (Chala) norte del Perú, en el departamento de La Libertad, al suroeste de San Pedro de Lloc, aproximadamente en el kilómetro 656 de la carretera Panamericana Norte. Este espacio costero forma una pequeña bahía, ubicada junto al centro poblado Puémape, que pertenece al distrito de San Pedro de Lloc. Esta área natural configura una ligera ensenada rodeada de pequeños cerros, con tres tipos de orillas: una zona de arena fina y ligera pendiente, una segunda con orilla de canto rodado, y finalmente una tercera con orilla rocosa. Cuenta con vistosas peñas que circundan la ribera del mar, lo que le da un aspecto atractivo y característico.\nTiene un clima agradable todo el año, aunque varía según la estación. Su temperatura promedio anual oscila entre 15 °C y 28 °C; la época de calor es de noviembre a marzo, y la época de frío, de abril a octubre. El agua es generalmente fría debido a la influencia de la corriente de Humboldt. Sus aguas son de color azul verdoso, que varía hacia tonos plomizos debido al fenómeno conocido como aguaje, que provoca la muerte del plancton. La salinidad promedio de sus aguas es de 34 a 35 gramos de sal por litro.\nLa caleta cuenta con una extensión aproximada de 2 km de playa, y el tipo de ola es una izquierda larga y formada que alcanza hasta tres metros de altura. El clima es agradable durante todo el año.\nExisten diversas especies de vida marina que habitan el lugar. Son destacables aves guaneras como el guanay, pelícanos, piqueros, gaviotas, entre otros. En las aguas de esta playa habitan especies hidrobiológicas de consumo humano, lo que determina actividades pesqueras por parte de los lugareños, siendo esta la principal actividad económica. En esta caleta se pesca: chita, róbalo, tramboyo, pintadilla, pejesapo, lisa, tollo, corvina, chirlos, entre otras especies.\nEl Balneario de Puémape es calificado como un balneario “fantasma” debido a su escasa población y al paulatino deterioro de su infraestructura. Algunas quebradas secas que atraviesan el lugar, como la Quebrada de Jahuey, se activan durante fuertes chubascos ocasionados por el Fenómeno de El Niño. Los atributos de este sitio natural se complementan con el centro poblado de Puémape, ubicado a orillas de la playa, el cual permite al visitante acceder a algunos servicios básicos.\nEntre las actividades turísticas que se realizan destacan los deportes acuáticos, como el Campeonato Nacional de Surf, natación, pesca artesanal, tabla hawaiana, camping, caminatas, paseos a caballo, entre otros.\nEl balneario de Puémape posee un alto valor turístico gracias a su entorno natural poco intervenido, su riqueza paisajística y marina, y la tranquilidad que ofrece al visitante. Su playa, reconocida por sus olas constantes, atrae a surfistas y amantes de los deportes acuáticos, mientras que su biodiversidad, la pesca artesanal y el ambiente rural permiten una experiencia auténtica y cercana a la vida costera tradicional del norte peruano. Además, su cercanía al centro poblado de Puémape facilita el acceso a servicios básicos, complementando su potencial para el desarrollo del ecoturismo, el turismo vivencial y cultural. Todo ello convierte a Puémape en un destino con características únicas para quienes buscan contacto con la naturaleza, aventura o descanso lejos del turismo masivo.",
+  "particularidades": "",
+  "estado_actual": "Es bueno, pues solo presenta impactos leves de contaminación.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Puémape es un hermoso balneario situado en la costa (Chala) norte del Perú, en el departamento de La Libertad, al suroeste de San Pedro de Lloc, aproximadamente en el kilómetro 656 de la carretera Panamericana Norte. Este espacio costero forma una pequeña bahía, ubicada junto al centro poblado Puémape, que pertenece al distrito de San Pedro de Lloc. Esta área natural configura una ligera ensenada rodeada de pequeños cerros, con tres tipos de orillas: una zona de arena fina y ligera pendiente, una segunda con orilla de canto rodado, y finalmente una tercera con orilla rocosa. Cuenta con vistosas peñas que circundan la ribera del mar, lo que le da un aspecto atractivo y característico.\nTiene un clima agradable todo el año, aunque varía según la estación. Su temperatura promedio anual oscila entre 15 °C y 28 °C; la época de calor es de noviembre a marzo, y la época de frío, de abril a octubre. El agua es generalmente fría debido a la influencia de la corriente de Humboldt. Sus aguas son de color azul verdoso, que varía hacia tonos plomizos debido al fenómeno conocido como aguaje, que provoca la muerte del plancton. La salinidad promedio de sus aguas es de 34 a 35 gramos de sal por litro.\nLa caleta cuenta con una extensión aproximada de 2 km de playa, y el tipo de ola es una izquierda larga y formada que alcanza hasta tres metros de altura. El clima es agradable durante todo el año.\nExisten diversas especies de vida marina que habitan el lugar. Son destacables aves guaneras como el guanay, pelícanos, piqueros, gaviotas, entre otros. En las aguas de esta playa habitan especies hidrobiológicas de consumo humano, lo que determina actividades pesqueras por parte de los lugareños, siendo esta la principal actividad económica. En esta caleta se pesca: chita, róbalo, tramboyo, pintadilla, pejesapo, lisa, tollo, corvina, chirlos, entre otras especies.\nEl Balneario de Puémape es calificado como un balneario “fantasma” debido a su escasa población y al paulatino deterioro de su infraestructura. Algunas quebradas secas que atraviesan el lugar, como la Quebrada de Jahuey, se activan durante fuertes chubascos ocasionados por el Fenómeno de El Niño. Los atributos de este sitio natural se complementan con el centro poblado de Puémape, ubicado a orillas de la playa, el cual permite al visitante acceder a algunos servicios básicos.\nEntre las actividades turísticas que se realizan destacan los deportes acuáticos, como el Campeonato Nacional de Surf, natación, pesca artesanal, tabla hawaiana, camping, caminatas, paseos a caballo, entre otros.\nEl balneario de Puémape posee un alto valor turístico gracias a su entorno natural poco intervenido, su riqueza paisajística y marina, y la tranquilidad que ofrece al visitante. Su playa, reconocida por sus olas constantes, atrae a surfistas y amantes de los deportes acuáticos, mientras que su biodiversidad, la pesca artesanal y el ambiente rural permiten una experiencia auténtica y cercana a la vida costera tradicional del norte peruano. Además, su cercanía al centro poblado de Puémape facilita el acceso a servicios básicos, complementando su potencial para el desarrollo del ecoturismo, el turismo vivencial y cultural. Todo ello convierte a Puémape en un destino con características únicas para quienes buscan contacto con la naturaleza, aventura o descanso lejos del turismo masivo."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Es bueno, pues solo presenta impactos leves de contaminación."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Nacionales\n1260\nINRT Conteo Muestral\n2025\nRealizado por la Municipalidad Provincial de Pacasmayo\nVisitantes Locales(Excursionistas)\n1080\nINRT Conteo Muestral\n2025\nRealizado por la Municipalidad Provincial de Pacasmayo"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nLa Libertad/Pacasmayo/San Pedro De Lloc\n-\nLa Libertad/Pacasmayo/San Pedro De Lloc\nPlaza de Armas de San Pedro de Lloc – Playa Puémape\nTerrestre\nAutomóvil particular\nAsfaltado\n12 km / 10 min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nEsporádicamente - Algunos meses\n--\n07:00 a.m.\n-\n05:00 p.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nRealización de eventos\n--\nDeportes acuáticos\nTabla hawaiana (Surfing) o bodyboard\n--\nNaturaleza\nObservación de flora\nalgas marinas\nNaturaleza\nObservación de paisaje\n--\nNaturaleza\nObservación de aves\ngarzas, gaviotas, pelícanos"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHostales (especificar categorías)\nHostales de 3 estrellas en San Pedro de Lloc – Casco Urbano\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nSan Pedro de Lloc – Casco Urbano\nAlimentación\nRestaurantes\nSan Pedro de Lloc – Casco Urbano\nAlimentación\nKioskos de comida y bebidas\nSan Pedro de Lloc – Casco Urbano\nAlimentación\nBares\nSan Pedro de Lloc – Casco Urbano\nAlimentación\nCafeterías\nSan Pedro de Lloc – Casco Urbano\nLugares de Recreación\nDiscotecas\nSan Pedro de Lloc – Casco Urbano\nLugares de Recreación\nBares\nSan Pedro de Lloc – Casco Urbano\nLugares de Recreación\nJuegos Infantiles\nSan Pedro de Lloc – Casco Urbano\nLugares de Recreación\nCentros Deportivos\nSan Pedro de Lloc – Casco Urbano\nServicios Públicos\nEstacionamiento de vehículos\nSan Pedro de Lloc – Casco Urbano\nServicios Públicos\nOficina de Información turística\nSan Pedro de Lloc – Casco Urbano\nAlimentación\nVenta de comida Rápida\nSan Pedro de Lloc - Casco Urbano\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nSan Pedro de Lloc - Casco Urbano\nLugares de Recreación\nKaraoke\nSan Pedro de Lloc - Casco Urbano\nLugares de Recreación\nLugares de picnic\nCentro Poblado de Puémape\nServicios Públicos\nSeñales turísticas de orientación\nSan Pedro de Lloc - Casco Urbano\nServicios Públicos\nBoletería\nSan Pedro de Lloc - Casco Urbano\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\nCentro Poblado de Puémape\nServicios Públicos\nOrquideario\nSan Pedro de Lloc - Casco Urbano\nServicios Públicos\nPuesto de auxilio rápido\nSan Pedro de Lloc - Casco Urbano"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nSan Pedro de Lloc – Casco Urbano\nBancos\nSan Pedro de Lloc – Casco Urbano\nCajero automático\nSan Pedro de Lloc – Casco Urbano\nEstación de servicios, grifos, gasolineras y gasocentros\nSan Pedro de Lloc – Casco Urbano\nServicio de estacionamiento\nSan Pedro de Lloc – Casco Urbano\nCentro de salud - tópico\nSan Pedro de Lloc – Casco Urbano\nSeguridad / POLTUR / Comisaría\nSan Pedro de Lloc – Casco Urbano\nLibrerías\nSan Pedro de Lloc – Casco Urbano\nBodegas o minimarkets\nSan Pedro de Lloc – Casco Urbano\nServicios de taxis\nSan Pedro de Lloc - Casco Urbano"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCentro Poblado de Puémape\nLuz (Suministro Eléctrico)\nCentro Poblado de Puémape\nTeléfono\nCentro Poblado de Puémape\nAlcantarillado sanitario\nCentro Poblado de Puémape"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nEstado peruano\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nEn tenencia de la Municipalidad Provincial de Pacasmayo\nAdministrador por\nNombre\nMunicipalidad Provincial de Pacasmayo\nTiempo de administración\nDesde 1864"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nGerencia Regional de Comercio Exterior, Turismo y Artesanía de La Libertad\nNombre (Persona(s) responsable(s) del inventario turístico):\nYuleysi Paredes Ruiz\nCargo:\nSubgerente de Turismo\nCorreo:\nzparedesr@regionlalibertad.gob.pe\nTeléfono:\n953414088\nFuentes Bibliográfica:\nDePerú.com – Playa Puémape\nTurismo Peruano-Playa Puémape\nhttps://www.turismoperuano.com/playa-puemape-la-libertad\nIvars Grados Mostacero (2021)- Entre Cañanes y Algarrobos 2da Edición\nEl Comercio-La Libertad: Puémape, la playa escondida que solo se activa el verano.\nhttps://elcomercio.pe/somos/historias/libertad-puemape-playa-escondida-norte-pais-noticia-484591-noticia/\nMaterial Audiovisual actual del Recurso:\nFOTO, VIDEOS\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n17/10/2025 10:04:39"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -7.518391085098223,
+    "longitud": -79.53926781349185
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-7.518391085098223,-79.53926781349185"
+}

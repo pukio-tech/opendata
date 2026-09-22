@@ -1,0 +1,228 @@
+{
+  "cod_ficha": 8068,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=8068",
+  "nombre": "Puente Capelo",
+  "departamento": "Apurímac",
+  "provincia": "Abancay",
+  "distrito": "TAMBURCO",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Arquitectura y Espacios Urbanos",
+  "subtipo": "Puentes",
+  "jerarquia": "1",
+  "altitud": "2750",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=294178",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=294178",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=549421",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=549422",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=549423",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=549475"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Naturaleza - Observación de paisaje"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Apurímac/Abancay/Abancay - Apurímac/Abancay/Tamburco",
+      "detalle": "Plaza de Armas de Abancay - Puente Capelo",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Combi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "7 km / 20 minutos"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Apurímac/Abancay/Tamburco - Apurímac/Abancay/Tamburco",
+      "detalle": "Plaza de Armas de Tamburco - Puente Capelo",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Taxi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "3 km / 10 minutos"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "1080",
+      "horario": "Municipalidad Distrital de Tamburco",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "270",
+      "horario": "Municipalidad Distrital de Tamburco",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "08:00 a.m. - 05:00 p.m. --",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Abancay"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Abancay"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Abancay"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de Abancay"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Abancay / 3 tenedores"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Abancay"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Ciudad de Abancay"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "Ciudad de Abancay / 1 a 3 estrellas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Apart-hoteles (especificar categorías)",
+      "observacion": "Ciudad de Abancay / 3 estrellas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "Ciudad de Abancay / 1 a 3 estrellas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Abancay"
+    }
+  ],
+  "descripcion": "El Puente Capelo, ubicado en el sector de San Antonio del distrito de Tamburco, es considerado una joya arquitectónica. Su edificación data del periodo republicano, exactamente del año de 1918, período en que estuvo como prefecto del departamento Apurímac el Sr. Franco Echandia y la obra ha sido ejecutado por el Arquitecto Alberto Sacha de nacionalidad italiana. Este recurso tiene una luz de 8 metros de largo por 4 metros de ancho, constituido con un arco parabólico de medio punto a base de piedra, cal y canto. Su longitud es de 30 metros, con un ancho de 5.10 y con pilares de 21 metros, es similar al puente Colonial de Pachachaca.\nEn la construcción del puente trabajaron 60 picapedreros y docenas de obreros, y las piedras empleadas en la obra en mención fueron traídas desde la ciudad del Cusco al mando de los capataces Don José Quiroga y Don José Hidalgo, por otro lado, se utilizaron también piedras de la misma quebrada de Kolkaqui, mientras que para construir el arco trajeron piedras de Saywite. El Carpintero Bonifacio Torreblanca, fue el que construyo el armazón del arco.\nEl puente se construyó para uso y conectividad con la ciudad imperial del Cusco y actualmente a un lado lateral del puente se ha edificado otro con material concreto de 20 metros de longitud, que pertenece a la Vía Nacional asfaltada de acceso de Lima -Abancay - Cusco.\nAdemás de apreciar la arquitectura de la construcción del puente, el visitante podrá apreciar paisajes conformados por el río Kolkaqqui, árboles de pisonay, eucaliptos y carrizales. Donde podrá combinar la historia, arquitectura, naturaleza y cultura.",
+  "particularidades": "",
+  "estado_actual": "Regular, requiere trabajos de mantenimiento y señalización.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "El Puente Capelo, ubicado en el sector de San Antonio del distrito de Tamburco, es considerado una joya arquitectónica. Su edificación data del periodo republicano, exactamente del año de 1918, período en que estuvo como prefecto del departamento Apurímac el Sr. Franco Echandia y la obra ha sido ejecutado por el Arquitecto Alberto Sacha de nacionalidad italiana. Este recurso tiene una luz de 8 metros de largo por 4 metros de ancho, constituido con un arco parabólico de medio punto a base de piedra, cal y canto. Su longitud es de 30 metros, con un ancho de 5.10 y con pilares de 21 metros, es similar al puente Colonial de Pachachaca.\nEn la construcción del puente trabajaron 60 picapedreros y docenas de obreros, y las piedras empleadas en la obra en mención fueron traídas desde la ciudad del Cusco al mando de los capataces Don José Quiroga y Don José Hidalgo, por otro lado, se utilizaron también piedras de la misma quebrada de Kolkaqui, mientras que para construir el arco trajeron piedras de Saywite. El Carpintero Bonifacio Torreblanca, fue el que construyo el armazón del arco.\nEl puente se construyó para uso y conectividad con la ciudad imperial del Cusco y actualmente a un lado lateral del puente se ha edificado otro con material concreto de 20 metros de longitud, que pertenece a la Vía Nacional asfaltada de acceso de Lima -Abancay - Cusco.\nAdemás de apreciar la arquitectura de la construcción del puente, el visitante podrá apreciar paisajes conformados por el río Kolkaqqui, árboles de pisonay, eucaliptos y carrizales. Donde podrá combinar la historia, arquitectura, naturaleza y cultura."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Regular, requiere trabajos de mantenimiento y señalización."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nVisitantes Locales(Excursionistas)\n1080\nMunicipalidad Distrital de Tamburco\n2024\nCalculo de visita anual del recurso\nTuristas Nacionales\n270\nMunicipalidad Distrital de Tamburco\n2024\nCalculo de visita anual del recurso"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nApurímac/Abancay/Abancay\n-\nApurímac/Abancay/Tamburco\nPlaza de Armas de Abancay - Puente Capelo\nTerrestre\nCombi\nAsfaltado\n7 km / 20 minutos\n2\nApurímac/Abancay/Tamburco\n-\nApurímac/Abancay/Tamburco\nPlaza de Armas de Tamburco - Puente Capelo\nTerrestre\nTaxi\nAsfaltado\n3 km / 10 minutos"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n08:00 a.m.\n-\n05:00 p.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nNaturaleza\nObservación de paisaje\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nLugares de Recreación\nDiscotecas\nCiudad de Abancay\nLugares de Recreación\nBares\nCiudad de Abancay\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Abancay\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de Abancay\nAlimentación\nRestaurantes\nCiudad de Abancay / 3 tenedores\nAlimentación\nCafeterías\nCiudad de Abancay\nAlimentación\nVenta de comida Rápida\nCiudad de Abancay\nAlojamiento\nHoteles (especificar categorías)\nCiudad de Abancay / 1 a 3 estrellas\nAlojamiento\nApart-hoteles (especificar categorías)\nCiudad de Abancay / 3 estrellas\nAlojamiento\nHostales (especificar categorías)\nCiudad de Abancay / 1 a 3 estrellas\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Abancay"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Abancay\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Abancay\nServicios de taxis\nCiudad de Abancay\nServicio de estacionamiento\nCiudad de Abancay\nCentro de salud - tópico\nCiudad de Abancay\nSeguridad / POLTUR / Comisaría\nCiudad de Abancay\nBodegas o minimarkets\nCiudad de Abancay"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Abancay\nAlcantarillado sanitario\nCiudad de Abancay\nLuz (Suministro Eléctrico)\nCiudad de Abancay\nTeléfono\nCiudad de Abancay\nSeñalización turística\nCiudad de Abancay"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nEstado Peruano\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nLey N° 28296, Ley General del Patrimonio Cultural de la Nación. Decreto Legislativo 635-ED.\nAdministrador por\nNombre\nDirección Desconcentrada de Cultura de Apurímac\nTiempo de administración\nDesde el año 1960"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo de Apurímac\nNombre (Persona(s) responsable(s) del inventario turístico):\nLic. Brenda Carpio Félix\nCargo:\nEspecialista en Turismo\nCorreo:\nbrendacarpiofelix@gmail.com\nTeléfono:\n931857967\nFuentes Bibliográfica:\n- Plan de Desarrollo Turístico Local de Tamburco 2023 – 2030, por la Municipalidad distrital de Tamburco - 2023.\n- Abancay Provincia Andina, Por José Miranda Valenzuela - 2002.\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n11/12/2024 18:07:27"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -13.606469037983127,
+    "longitud": -72.85742282867432
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-13.606469037983127,-72.85742282867432"
+}

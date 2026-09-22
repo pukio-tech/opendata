@@ -1,0 +1,375 @@
+{
+  "cod_ficha": 6262,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=6262",
+  "nombre": "Pueblo De Vitis",
+  "departamento": "Lima",
+  "provincia": "Yauyos",
+  "distrito": "VITIS",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Pueblos",
+  "subtipo": "Tradicionales",
+  "jerarquia": "2",
+  "altitud": "3626",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=389249",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=389249",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=389175",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=389252",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=494750",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=498275",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=498276"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Cultura y Folclore - Actividades Religiosas o Patronales",
+    "Otros - Actividades Culturales",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de paisaje",
+    "Deportes / Aventura - Caminata/Trekking",
+    "Cultura y Folclore - Degustación y preparación de platos, productos o bebidas típicas",
+    "Cultura y Folclore - Ferias",
+    "Otros - Compra de productos regionales"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Actividades Religiosas o Patronales",
+      "observacion": "Fiesta al Apostol Santiago - 28 de julio",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/act_religiosas02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Actividades Culturales",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/act_culturales02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "Quinual, Karkac, Quishuar, Titanca",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Degustación y preparación de platos, productos o bebidas típicas",
+      "observacion": "Caldillo, oca chupe, caldo de quinua con charqui, mazamorra de calabaza, trucha, refresco de Mashua.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/platos_tipicos02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Ferias",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/feria02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Compra de productos regionales",
+      "observacion": "--",
+      "icono_url": null
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Lima/Cañete/San Vicente De Cañete - Lima/Yauyos/Vitis",
+      "detalle": "Plaza de Armas de San Vicente DE Cañete – Pueblo de Vitis",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "174 km/ 4 horas 41 minutos"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "8448",
+      "horario": "Reserva Paisajística Nor Yauyos Cochas SERNANP",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "7392",
+      "horario": "Reserva Paisajística Nor Yauyos Cochas SERNANP",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "5280",
+      "horario": "Reserva Paisajística Nor Yauyos Cochas SERNANP",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "06:00 a.m. - 06:00 p.m. Lunes a domingo",
+      "observaciones": "Lunes a domingo"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Casa de Hospedaje"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Puesto de auxilio rápido",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "Ciudad San Vicente de Cañete / Hotel 4 Estrellas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "Ciudad San Vicente de Cañete / Hostal 2 Estrellas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad San Vicente de Cañete"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad San Vicente de Cañete"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Ciudad San Vicente de Cañete"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad San Vicente de Cañete"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Ciudad San Vicente de Cañete"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "Ciudad San Vicente de Cañete"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Ciudad San Vicente de Cañete"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "Ciudad San Vicente de Cañete"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de interpretación",
+      "observacion": "Ciudad San Vicente de Cañete"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Ciudad San Vicente de Cañete"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Puesto de auxilio rápido",
+      "observacion": "Ciudad San Vicente de Cañete"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de Campamento(camping)",
+      "observacion": "Ciudad San Vicente de Cañete"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad San Vicente de Cañete / Restaurante 2 Tenedores -"
+    }
+  ],
+  "descripcion": "El pueblo de Vitis fue creado el 03 de mayo de 1955, está ubicado al norte de la provincia de Yauyos en el departamento de Lima. A una altitud de 3626 msnm, en la cuenca del río Cañete y en la región Suni. Fue fundado en una cima y meseta rodeada por los lugares de Cacamaja (peña), Pariamanatan, Alta Cruz y Anchan. Las viviendas son de adobe, con techos a dos aguas y las calles empedradas. Vitis, deviene del quechua “Witi”, = “los de afuera” o “Witis”, siendo personas de otros lugares.\nEn la época Preinca, formaron el Hanan Yauyos con los asentamientos de Huaylligina y Cochashuasi.\nEn la época inca, construyeron caminos, acequias, andenes y fueron parte de la alianza entre Incas y Yauyos. En la Colonia integraron la Parroquia y Encomienda de Laraos. Los habitantes de Huayllugina y Cochashuasi fueron trasladados a Vitis.\nLa República, Vitis inicio siendo parte de Laraos, en 1901 fue anexado a Carania y en 1915 conformó Huancaya. El 31 de mayo de 1929 reconocieron la comunidad campesina de Vitis con los ayllus mencionados.\nDespués como distrito fue creado el 7 de febrero de 1944 y desde el 01 de mayo del 2022 es parte de la RPNYC.\nLos lugares turísticos más conocidos de Vitis son la laguna de Piquecocha y posee una flora diversa como quinual, el karkac, el quishuar, la titanca entre otras. Sus comidas típicas de Vitis son la Pachamanca, Truchas a la Parrilla, Cebiche de Trucha, Cuy Colorado, El Picante de Cuy y Mondongo.\nEn fauna posee una gran variedad de aves, auquénidos como la vicuña y ganado vacuno, ovino. Entre sus fiestas costumbristas tenemos la Limpia Acequia y patronales como la que se realiza Apóstol Santiago.\nEntre sus fiestas costumbristas tenemos la limpia acequia y patronales como la que se realiza a Apóstol Santiago en el mes de agosto.",
+  "particularidades": "",
+  "estado_actual": "Bueno,porque los pobladores de Vitis en coordinación con las instituciones públicas del gobierno, trabajan en la conservación, mantenimiento, planificación, ordenamiento y adecuación turística del Pueblo de Vitis.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "El pueblo de Vitis fue creado el 03 de mayo de 1955, está ubicado al norte de la provincia de Yauyos en el departamento de Lima. A una altitud de 3626 msnm, en la cuenca del río Cañete y en la región Suni. Fue fundado en una cima y meseta rodeada por los lugares de Cacamaja (peña), Pariamanatan, Alta Cruz y Anchan. Las viviendas son de adobe, con techos a dos aguas y las calles empedradas. Vitis, deviene del quechua “Witi”, = “los de afuera” o “Witis”, siendo personas de otros lugares.\nEn la época Preinca, formaron el Hanan Yauyos con los asentamientos de Huaylligina y Cochashuasi.\nEn la época inca, construyeron caminos, acequias, andenes y fueron parte de la alianza entre Incas y Yauyos. En la Colonia integraron la Parroquia y Encomienda de Laraos. Los habitantes de Huayllugina y Cochashuasi fueron trasladados a Vitis.\nLa República, Vitis inicio siendo parte de Laraos, en 1901 fue anexado a Carania y en 1915 conformó Huancaya. El 31 de mayo de 1929 reconocieron la comunidad campesina de Vitis con los ayllus mencionados.\nDespués como distrito fue creado el 7 de febrero de 1944 y desde el 01 de mayo del 2022 es parte de la RPNYC.\nLos lugares turísticos más conocidos de Vitis son la laguna de Piquecocha y posee una flora diversa como quinual, el karkac, el quishuar, la titanca entre otras. Sus comidas típicas de Vitis son la Pachamanca, Truchas a la Parrilla, Cebiche de Trucha, Cuy Colorado, El Picante de Cuy y Mondongo.\nEn fauna posee una gran variedad de aves, auquénidos como la vicuña y ganado vacuno, ovino. Entre sus fiestas costumbristas tenemos la Limpia Acequia y patronales como la que se realiza Apóstol Santiago.\nEntre sus fiestas costumbristas tenemos la limpia acequia y patronales como la que se realiza a Apóstol Santiago en el mes de agosto."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "Forma parte de la Reserva Paisajista Nor Yauyos Cochas, cuenta con reconocimiento como Zona Reservada Alto Cañete y Cochas-Pachacayo, mediante Decreto Supremo Nº 001-99-AG, artículo 1º, del 7 de enero de 1999, por Instituto Nacional de Recursos Naturales INRENA"
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno,porque los pobladores de Vitis en coordinación con las instituciones públicas del gobierno, trabajan en la conservación, mantenimiento, planificación, ordenamiento y adecuación turística del Pueblo de Vitis."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n8448\nReserva Paisajística Nor Yauyos Cochas SERNANP\n2022\nRegistro de Visitantes admitido por la DIRCETUR Lima.\nTuristas Nacionales\n7392\nReserva Paisajística Nor Yauyos Cochas SERNANP\n2022\nRegistro de Visitantes admitido por la DIRCETUR Lima.\nVisitantes Locales(Excursionistas)\n5280\nReserva Paisajística Nor Yauyos Cochas SERNANP\n2022\nRegistro de Visitantes admitido por la DIRCETUR Lima."
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nLima/Cañete/San Vicente De Cañete\n-\nLima/Yauyos/Vitis\nPlaza de Armas de San Vicente DE Cañete – Pueblo de Vitis\nTerrestre\nAutomóvil particular\nAsfaltado\n174 km/ 4 horas 41 minutos"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n06:00 a.m.\n-\n06:00 p.m.\nLunes a domingo"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nCultura y Folclore\nActividades Religiosas o Patronales\nFiesta al Apostol Santiago - 28 de julio\nOtros\nActividades Culturales\n--\nNaturaleza\nObservación de flora\nQuinual, Karkac, Quishuar, Titanca\nNaturaleza\nObservación de paisaje\n--\nDeportes / Aventura\nCaminata/Trekking\n--\nCultura y Folclore\nDegustación y preparación de platos, productos o bebidas típicas\nCaldillo, oca chupe, caldo de quinua con charqui, mazamorra de calabaza, trucha, refresco de Mashua.\nCultura y Folclore\nFerias\n--\nOtros\nCompra de productos regionales\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nAlojamiento\nOtros (Especificar)\nCasa de Hospedaje\nInstalaciones Privadas\nAlimentación\nRestaurantes\n--\nInstalaciones Privadas\nAlimentación\nKioskos de comida y bebidas\n--\nInstalaciones Privadas\nLugares de Recreación\nCentros Deportivos\n--\nInstalaciones Públicas\nServicios Públicos\nEstacionamiento de vehículos\n--\nInstalaciones Públicas\nServicios Públicos\nCaminos peatonales\n--\nInstalaciones Públicas\nServicios Públicos\nPuesto de auxilio rápido\n--\nInstalaciones Privadas\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\nCiudad San Vicente de Cañete / Hotel 4 Estrellas\nAlojamiento\nHostales (especificar categorías)\nCiudad San Vicente de Cañete / Hostal 2 Estrellas\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad San Vicente de Cañete\nLugares de Recreación\nDiscotecas\nCiudad San Vicente de Cañete\nLugares de Recreación\nJuegos Infantiles\nCiudad San Vicente de Cañete\nLugares de Recreación\nBares\nCiudad San Vicente de Cañete\nLugares de Recreación\nCentros Deportivos\nCiudad San Vicente de Cañete\nServicios Públicos\nMiradores turísticos\nCiudad San Vicente de Cañete\nServicios Públicos\nEstacionamiento de vehículos\nCiudad San Vicente de Cañete\nServicios Públicos\nSeñales turísticas de orientación\nCiudad San Vicente de Cañete\nServicios Públicos\nSeñales turísticas de interpretación\nCiudad San Vicente de Cañete\nServicios Públicos\nOficina de Información turística\nCiudad San Vicente de Cañete\nServicios Públicos\nPuesto de auxilio rápido\nCiudad San Vicente de Cañete\nServicios Públicos\nZonas de Campamento(camping)\nCiudad San Vicente de Cañete\nAlimentación\nRestaurantes\nCiudad San Vicente de Cañete / Restaurante 2 Tenedores -"
+    },
+    {
+      "titulo": "Servicios Complementarios dentro del recurso",
+      "contenido": "Servicio Complementario\nObservación\nServicios de internet\n--\nServicio de estacionamiento\n--\nCentro de salud - tópico\n--\nSeguridad / POLTUR / Comisaría\n--\nLibrerías\n--\nBodegas o minimarkets\n--"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nBancos\nCiudad San Vicente de Cañete\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad San Vicente de Cañete\nServicio de estacionamiento\nCiudad San Vicente de Cañete\nSeguridad / POLTUR / Comisaría\nCiudad San Vicente de Cañete\nLibrerías\nCiudad San Vicente de Cañete\nBodegas o minimarkets\nCiudad San Vicente de Cañete\nCajero automático\nCiudad San Vicente de Cañete"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\n--\nLuz (Suministro Eléctrico)\n--\nEnergía Alternativa\n--\nTeléfono\n--\nAlcantarillado pluvial\n--\nSeñalización turística\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad San Vicente de Cañete\nAlcantarillado sanitario\nCiudad San Vicente de Cañete\nTeléfono\nCiudad San Vicente de Cañete\nLuz (Suministro Eléctrico)\nCiudad San Vicente de Cañete\nSeñalización turística\nCiudad San Vicente de Cañete"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nEstado Peruano\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nLey de Creación N° 9949 del 7 de febrero de 1944\nAdministrador por\nNombre\nMunicipalidad Distrital de Vitis\nTiempo de administración\nDesde el año 1944"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo - Gobierno Regional de Lima\nNombre (Persona(s) responsable(s) del inventario turístico):\nJorge Luis Torres Chirito\nCargo:\nAsistente Administrativo\nCorreo:\njchiritoxx@gmail.com\nTeléfono:\n956454928\nFuentes Bibliográfica:\n1) Plan Maestro de la Reserva Paisajística Nor Yauyos Cochas 2006-2011. Autor: SERNANP. Yauyos, 2006.\n2) Vitis \"Una paraíso en la Reserva Paisajística Nor Yauyos\". Autor: Adrian W. Flores. Yauyos, 2020.\n3) Rutas del Centro, Reserva Paisajística Nor Yauyos Cochas. Autor: Y tú que planes. 2020\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n4/09/2023 10:50:07"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -12.223983,
+    "longitud": -75.80794500000002
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-12.223983,-75.80794500000002"
+}

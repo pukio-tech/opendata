@@ -1,0 +1,250 @@
+{
+  "cod_ficha": 2146,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=2146",
+  "nombre": "Aguas Termales De Chancaybaños",
+  "departamento": "Cajamarca",
+  "provincia": "Santa Cruz",
+  "distrito": "CHANCAYBAÑOS",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "k. Agua termo-mineral",
+  "subtipo": "Otros",
+  "jerarquia": "1",
+  "altitud": "2100",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=620452",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=620452",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=620456",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=624778",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=624735",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=625611",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=625614",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=625650",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=625651"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Paseos - Excursiones"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Paseos",
+      "tipo": "Excursiones",
+      "observacion": "En los alrededores del atractivo",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/excursiones02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Cajamarca/Santa Cruz/Santa Cruz - Cajamarca/Santa Cruz/Chancaybaños",
+      "detalle": "Desde la provincia de Santa Cruz hacia el Cruce a los Baños termales de Chancaybaños.",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Combi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "15 km/ 30 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Cajamarca/Santa Cruz/Chancaybaños - Cajamarca/Santa Cruz/Chancaybaños",
+      "detalle": "Desde el Cruce a Baños Termales Chancaybaños hacia Los Baños Termales.",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mototaxi",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "7 km/15 minutos."
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "614",
+      "horario": "Cuaderno de registro",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "187",
+      "horario": "Cuaderno de registro",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "06:00 a.m. - 09:00 p.m. --",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "Nacional s/.5.00; Extranjero s/.10.00; Local es libre. Contacto:Sr. Jhon Kenedy Milian Nuñez Celular 929744901"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Estacionamiento",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "Ciudad de Santa Cruz, Hostales de 1 a 3 Estrellas."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Santa Cruz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Santa Cruz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Bancos - Cajeros",
+      "observacion": "Ciudad de Santa Cruz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Seguridad / POLTUR",
+      "observacion": "Ciudad de Santa Cruz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Correos",
+      "observacion": "Ciudadad de Santa Cruz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Internet",
+      "observacion": "Ciudad de Santa Cruz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Tópico",
+      "observacion": "Ciudad de Santa Cruz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de Material para Fotografía",
+      "observacion": "Ciudad de Santa Cruz"
+    }
+  ],
+  "descripcion": "Es un recurso termo medicinal ubicado en el distrito de Chancay Baños, provincia de Santa Cruz, región Cajamarca. Sus aguas termo medicinales son conocidas por sus propiedades curativas y están enriquecidas con minerales como el azufre, que puede alcanzar hasta un 60% de su composición, por lo que, el agua tiene un color característico verdoso cristalino y un sabor salino. La temperatura del agua varía entre 35 a 40°C y su caudal es de 8 litros por segundo. Estas aguas son famosas por sus propiedades curativas utilizadas para tratamientos termales, aumentando la temperatura corporal y mejorando la circulación sanguínea, entre otros. El recurso aún no cuenta con un certificado del Instituto Geológico Minero y Metalúrgico - INGEMMET.\nEste recurso turístico cuenta con una infraestructura antigua y otra moderna que tiene como objetivo facilitar el acceso y disfrute de las aguas termales y su entorno, entre ellas tenemos:\nEn la infraestructura antigua:\nCuenta con 11 pozas, servicios higiénicos diferenciados, servicios de alimentación y alojamiento, este último con 18 habitaciones. Detrás de esta infraestructura se encuentran 02 reservorios, uno con capacidad de 80 metros cúbicos de agua para abastecimiento de los módulos de hidroterapia y piscinas, y otro con capacidad de 30 metros cúbicos de agua para abastecimiento de los módulos antiguos.\nEn la infraestructura moderna:\nCuenta con 24 pozas, servicios higiénicos diferenciados, 02 piscinas una para adultos y otra para niños, 12 vestidores frente a las piscinas, área de administración, boletería, área de artesanía, alojamiento con 6 habitaciones, parque principal con playa de estacionamiento, mirador turístico, áreas verdes, senderos establecidos para desplazamiento y campo deportivo. La cual fue inaugurada en el año 2019.\nLos baños termales se encuentran en la zona reservada Chancaybaños (ZRC) que también destaca por su rica flora y fauna, incluyendo especies como el puma y el cóndor andino, así como una diversidad de flora como cactus, tunas, palo santo, entre otros.\nA 24 minutos de los baños termales, se encuentra el pueblo de Chancay Baños, pueblo tradicional y conocido por sus actividades agrícolas y productivas, como el sembrío de caña y producción de aguardiente de calidad muy apreciada por los visitantes, haciendo de esta manera un lugar complementario a los baños termales y obligatorio para visitar.",
+  "particularidades": "",
+  "estado_actual": "Bueno, por el mantenimiento a cargo de la Municipalidad Distrital de Chancaybaños.",
+  "observaciones": "Se ubica a 12km. del distrito de Chancaybaños, provincia de Santa Cruz.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Es un recurso termo medicinal ubicado en el distrito de Chancay Baños, provincia de Santa Cruz, región Cajamarca. Sus aguas termo medicinales son conocidas por sus propiedades curativas y están enriquecidas con minerales como el azufre, que puede alcanzar hasta un 60% de su composición, por lo que, el agua tiene un color característico verdoso cristalino y un sabor salino. La temperatura del agua varía entre 35 a 40°C y su caudal es de 8 litros por segundo. Estas aguas son famosas por sus propiedades curativas utilizadas para tratamientos termales, aumentando la temperatura corporal y mejorando la circulación sanguínea, entre otros. El recurso aún no cuenta con un certificado del Instituto Geológico Minero y Metalúrgico - INGEMMET.\nEste recurso turístico cuenta con una infraestructura antigua y otra moderna que tiene como objetivo facilitar el acceso y disfrute de las aguas termales y su entorno, entre ellas tenemos:\nEn la infraestructura antigua:\nCuenta con 11 pozas, servicios higiénicos diferenciados, servicios de alimentación y alojamiento, este último con 18 habitaciones. Detrás de esta infraestructura se encuentran 02 reservorios, uno con capacidad de 80 metros cúbicos de agua para abastecimiento de los módulos de hidroterapia y piscinas, y otro con capacidad de 30 metros cúbicos de agua para abastecimiento de los módulos antiguos.\nEn la infraestructura moderna:\nCuenta con 24 pozas, servicios higiénicos diferenciados, 02 piscinas una para adultos y otra para niños, 12 vestidores frente a las piscinas, área de administración, boletería, área de artesanía, alojamiento con 6 habitaciones, parque principal con playa de estacionamiento, mirador turístico, áreas verdes, senderos establecidos para desplazamiento y campo deportivo. La cual fue inaugurada en el año 2019.\nLos baños termales se encuentran en la zona reservada Chancaybaños (ZRC) que también destaca por su rica flora y fauna, incluyendo especies como el puma y el cóndor andino, así como una diversidad de flora como cactus, tunas, palo santo, entre otros.\nA 24 minutos de los baños termales, se encuentra el pueblo de Chancay Baños, pueblo tradicional y conocido por sus actividades agrícolas y productivas, como el sembrío de caña y producción de aguardiente de calidad muy apreciada por los visitantes, haciendo de esta manera un lugar complementario a los baños termales y obligatorio para visitar."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, por el mantenimiento a cargo de la Municipalidad Distrital de Chancaybaños."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "Se ubica a 12km. del distrito de Chancaybaños, provincia de Santa Cruz."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Nacionales\n614\nCuaderno de registro\n2024\nDatos obtenidos del Cuaderno de Registro del Recurso Turístico - Chancaybaños.\nVisitantes Locales(Excursionistas)\n187\nCuaderno de registro\n2024\nDatos obtenidos del Cuaderno de Registro del Recurso Turístico Chancaybaños"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nCajamarca/Santa Cruz/Santa Cruz\n-\nCajamarca/Santa Cruz/Chancaybaños\nDesde la provincia de Santa Cruz hacia el Cruce a los Baños termales de Chancaybaños.\nTerrestre\nCombi\nAsfaltado\n15 km/ 30 minutos\n1\nCajamarca/Santa Cruz/Chancaybaños\n-\nCajamarca/Santa Cruz/Chancaybaños\nDesde el Cruce a Baños Termales Chancaybaños hacia Los Baños Termales.\nTerrestre\nMototaxi\nTrocha carrozable\n7 km/15 minutos."
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nNacional s/.5.00; Extranjero s/.10.00; Local es libre.\nContacto:Sr. Jhon Kenedy Milian Nuñez Celular 929744901"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n06:00 a.m.\n-\n09:00 p.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nPaseos\nExcursiones\nEn los alrededores del atractivo"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\n--\nInstalaciones Privadas\nAlimentación\nRestaurantes\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nServicio de Estacionamiento\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHostales (especificar categorías)\nCiudad de Santa Cruz, Hostales de 1 a 3 Estrellas.\nAlimentación\nRestaurantes\nCiudad de Santa Cruz\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Santa Cruz\nOtros Servicios Turísticos\nBancos - Cajeros\nCiudad de Santa Cruz\nOtros Servicios Turísticos\nSeguridad / POLTUR\nCiudad de Santa Cruz\nOtros Servicios Turísticos\nServicio de Correos\nCiudadad de Santa Cruz\nOtros Servicios Turísticos\nServicio de Internet\nCiudad de Santa Cruz\nOtros Servicios Turísticos\nTópico\nCiudad de Santa Cruz\nOtros Servicios Turísticos\nVenta de Material para Fotografía\nCiudad de Santa Cruz"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Santa Cruz.\nBodegas o minimarkets\nCiudad de Santa Cruz.\nVenta de materiales para fotografías\nCiudad de Santa Cruz."
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\n--\nLuz (Suministro Eléctrico)\n--\nTeléfono\n--\nAlcantarillado pluvial\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Santa Cruz\nLuz (Suministro Eléctrico)\nCiudad de Santa Cruz\nTeléfono\nCiudad de Santa Cruz"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nESTADO PERUANO\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n001-2025 - Municipalidad Distrital de Chancaybaños\nOtra situación:\n--\nAdministrador por\nNombre\nMunicipalidad Distrital de Chancaybaños\nTiempo de administración\n18 años desde el año 2007"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo Cajamarca\nNombre (Persona(s) responsable(s) del inventario turístico):\nEsperanza Escobar Portal\nCargo:\nTécnico en Turismo I\nCorreo:\nmescobar@regioncajamarca.gob.pe\nTeléfono:\n962690326\nFuentes Bibliográfica:\n- Inventario de Atractivos turísticos Cajamarca 2006 - Dirección Regional de Comercio Exterior y Turismo Cajamarca.\nMaterial Audiovisual actual del Recurso:\n--\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n22/09/2025 17:03:42"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -6.617712117357322,
+    "longitud": -78.95291984081268
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-6.617712117357322,-78.95291984081268"
+}

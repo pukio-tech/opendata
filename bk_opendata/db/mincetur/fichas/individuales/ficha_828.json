@@ -1,0 +1,369 @@
+{
+  "cod_ficha": 828,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=828",
+  "nombre": "Sitio Arqueológico De Tunan Marca",
+  "departamento": "Junín",
+  "provincia": "Jauja",
+  "distrito": "TUNAN MARCA",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Sitios Arqueológicos",
+  "subtipo": "Zonas arqueológicas",
+  "jerarquia": "2",
+  "altitud": "3889",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=518644",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=518644",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=518601",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=518602",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=518645",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=518646",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=518603",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=518647",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=518648",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=518649",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=518604",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=518605",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=518607",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=518650",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=518608",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=518609"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Estudios e Investigación",
+    "Naturaleza - Observación de paisaje",
+    "Deportes / Aventura - Caminata/Trekking",
+    "Paseos - Paseos en bicicleta"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    },
+    {
+      "actividad": "Paseos",
+      "tipo": "Paseos en bicicleta",
+      "observacion": "Se alquilan en la ciudad de Jauja",
+      "icono_url": null
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Junín/Jauja/Jauja - Junín/Jauja/Acolla",
+      "detalle": "Plaza de Armas de Jauja - Centro Poblado de Pachascucho (Distrito de Acolla)",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "5.73 Km / 15 Min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Junín/Jauja/Acolla - Junín/Jauja/Tunan Marca",
+      "detalle": "Centro Poblado de Pachascucho - Plaza Principal del Pueblo de Concho (Capital del Distrito de Tunan Marca)",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "4.77 Km / 15 Min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Junín/Jauja/Tunan Marca - Junín/Jauja/Tunan Marca",
+      "detalle": "Plaza Principal del Pueblo de Concho - Zona Arqueológica de Tunan Marca",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "6 Km / 25 Min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "1478",
+      "horario": "Informe de venta de boletos - Subgerencia de Tesorería - Municipalidad Distrital de Tunan Marca",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "08:00 a.m. - 05:00 p.m. --",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "Tarifa: Adultos - 2 soles y Niños -1 sol El pago se realiza en la oficina de Tesorería de la Municipalidad Distrital de Tunan Marca"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "Una estrellas en Jauja"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Concho y Jauja"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Jauja"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Concho y Jauja"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Jauja"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Jauja"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Jauja"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Jauja"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Jauja"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Jauja"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de bicicleta",
+      "observacion": "Jauja"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Jauja"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Jauja"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Jauja"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Jauja"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Jauja"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "Concho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Boletería",
+      "observacion": "Concho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "Jauja"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Centros de interpretación",
+      "observacion": "Concho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Concho, Jauja"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "Tunan Marca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Jauja"
+    }
+  ],
+  "descripcion": "Tunan Marca es una zona arqueológica situada en la sierra central del Perú, que data de la época prehispánica y están localizados a 11.5 Km al noroeste de la ciudad de Jauja y a 3.5 Km del pueblo de Concho, capital distrital de Tunan Marca; hacia el oeste de los restos arqueológicos y de norte a sur se desplaza el río Yanamayo, afluente del río Mantaro a la altura del pueblo de Acaya.\nEste recurso arqueológico, consta de tres murallas, un sistema de patios y una plaza principal, así como innumerables construcciones de planta circular y rectangular (almacenes y viviendas), además de un complejo sistema hidráulico. Tiene una extensión de 2,280 m de largo por aproximadamente 400 m de ancho (223.8269 ha). A nivel estructural podemos observar el uso de piedra canteada pircada, unida con argamasa de arcilla y piedras más pequeñas. Sus edificaciones se encontraban inicialmente techadas, este techo se hacía con ichu, una especie de paja característica de los andes, en este lugar se han contabilizado hasta 3,000 viviendas, la mayoría de ellas de base circular, con 3 m de diámetro y 2 m de alto en promedio, que significarían unos 12 a 15 mil habitantes. No fue un lugar de residencia permanente. Presenta cuatro tipos de viviendas: del pueblo, religioso, militar y de la nobleza. Cuenta con avenidas que ingresan por el Este y Oeste a la plaza principal que se encuentra flanqueada por muros. Los pasadizos que permiten las conexiones entre viviendas, también son significativos, ya que presentan estructura laberíntica, de tal manera que algunos o se pierden o dan a pasajes sin salida. Un dato agregado acerca de las viviendas nos permite saber que estas tenían un carácter multifuncional ya que no solo funcionarían como sitios de descanso y vivienda, sino también como depósitos y hasta cocinas, rasgo final advertido a partir de la presencia de fogones.\nEntre los años 600 - 1000 d.C. se produce la invasión Wari y el año 1100 la invasión Yaru. Debido a esto los Wanka Xauxas se organizan militarmente y construyen viviendas en las cumbres de los cerros. Entre 1000 y 1500 d.C. sufren la invasión Inca siendo sitiados y sometidos. Los antiguos pobladores de este lugar fueron un grupo étnico organizado en jefaturas que consolidó su desarrollo socio-económico, durante el periodo Wanca II (Periodo Intermedio Tardío 1350-1450 d.C.) en la sub cuenca de Yanamarca, perteneciente al Valle del Mantaro, provincia de Jauja. Sus vecinos fueron por el norte, los Taramas; por el sur, el Señorío de Sawqa; por el este, con la región Anti y por el oeste, con el Señorío Hatun Malca. Estando en ese entonces en Sawqa (Xauxa, antiguo señorío localizado en el valle del Mantaro, que surgió y se desarrolló en aquella época en el actual distrito de Sausa Tambo) Topa Inca Yupanqui, quién dirigió la segunda expedición hacia el Chinchaysuyo, es informado que los sinchis o cinchecona - valerosos líderes en la guerra y hábiles para defender los intereses de la comunidad del valle de Yanamarca - se resistían a someterse pacíficamente; por lo que dispone que el ejército cuzqueño avance a la conquista de los señoríos de Siquillapucara, Hatun Malca y otros ayllus supeditados a los primeros. Por lo que los sinchis principales Canchaya, Ñaupari y otros sinchis colaboradores, estando de acuerdo en poner resistencia al enemigo, se enfrentan a las huestes de Topa Inca Yupanqui en una guerra prolongada, que duró meses, tiempo en el que el ejército conquistador les cortó toda ayuda de ayllus vecinos, el suministro de agua y quemó las cementeras; al final los defensores de la sub cuenca de Yanamarca perdieron la guerra. Concluido el conflicto, Topa Inca Yupanqui ordenó destruir la fortaleza de Siquillapucara y sus habitantes fueron deportados como mitimaes a otros lugares del Tahuantinsuyo.",
+  "particularidades": "Único recurso arqueológico del Departamento de Junín que figura en la colección de monedas numismáticas del Perú.",
+  "estado_actual": "Las edificaciones se encuentran en REGULAR estado de conservación debido al descuido en el que años atrás se encontraba el recurso, actualmente la percepción ha cambiado y la población vela por el cuidado del mismo; también existen vigilantes que resguardan el complejo durante todo el día.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Tunan Marca es una zona arqueológica situada en la sierra central del Perú, que data de la época prehispánica y están localizados a 11.5 Km al noroeste de la ciudad de Jauja y a 3.5 Km del pueblo de Concho, capital distrital de Tunan Marca; hacia el oeste de los restos arqueológicos y de norte a sur se desplaza el río Yanamayo, afluente del río Mantaro a la altura del pueblo de Acaya.\nEste recurso arqueológico, consta de tres murallas, un sistema de patios y una plaza principal, así como innumerables construcciones de planta circular y rectangular (almacenes y viviendas), además de un complejo sistema hidráulico. Tiene una extensión de 2,280 m de largo por aproximadamente 400 m de ancho (223.8269 ha). A nivel estructural podemos observar el uso de piedra canteada pircada, unida con argamasa de arcilla y piedras más pequeñas. Sus edificaciones se encontraban inicialmente techadas, este techo se hacía con ichu, una especie de paja característica de los andes, en este lugar se han contabilizado hasta 3,000 viviendas, la mayoría de ellas de base circular, con 3 m de diámetro y 2 m de alto en promedio, que significarían unos 12 a 15 mil habitantes. No fue un lugar de residencia permanente. Presenta cuatro tipos de viviendas: del pueblo, religioso, militar y de la nobleza. Cuenta con avenidas que ingresan por el Este y Oeste a la plaza principal que se encuentra flanqueada por muros. Los pasadizos que permiten las conexiones entre viviendas, también son significativos, ya que presentan estructura laberíntica, de tal manera que algunos o se pierden o dan a pasajes sin salida. Un dato agregado acerca de las viviendas nos permite saber que estas tenían un carácter multifuncional ya que no solo funcionarían como sitios de descanso y vivienda, sino también como depósitos y hasta cocinas, rasgo final advertido a partir de la presencia de fogones.\nEntre los años 600 - 1000 d.C. se produce la invasión Wari y el año 1100 la invasión Yaru. Debido a esto los Wanka Xauxas se organizan militarmente y construyen viviendas en las cumbres de los cerros. Entre 1000 y 1500 d.C. sufren la invasión Inca siendo sitiados y sometidos. Los antiguos pobladores de este lugar fueron un grupo étnico organizado en jefaturas que consolidó su desarrollo socio-económico, durante el periodo Wanca II (Periodo Intermedio Tardío 1350-1450 d.C.) en la sub cuenca de Yanamarca, perteneciente al Valle del Mantaro, provincia de Jauja. Sus vecinos fueron por el norte, los Taramas; por el sur, el Señorío de Sawqa; por el este, con la región Anti y por el oeste, con el Señorío Hatun Malca. Estando en ese entonces en Sawqa (Xauxa, antiguo señorío localizado en el valle del Mantaro, que surgió y se desarrolló en aquella época en el actual distrito de Sausa Tambo) Topa Inca Yupanqui, quién dirigió la segunda expedición hacia el Chinchaysuyo, es informado que los sinchis o cinchecona - valerosos líderes en la guerra y hábiles para defender los intereses de la comunidad del valle de Yanamarca - se resistían a someterse pacíficamente; por lo que dispone que el ejército cuzqueño avance a la conquista de los señoríos de Siquillapucara, Hatun Malca y otros ayllus supeditados a los primeros. Por lo que los sinchis principales Canchaya, Ñaupari y otros sinchis colaboradores, estando de acuerdo en poner resistencia al enemigo, se enfrentan a las huestes de Topa Inca Yupanqui en una guerra prolongada, que duró meses, tiempo en el que el ejército conquistador les cortó toda ayuda de ayllus vecinos, el suministro de agua y quemó las cementeras; al final los defensores de la sub cuenca de Yanamarca perdieron la guerra. Concluido el conflicto, Topa Inca Yupanqui ordenó destruir la fortaleza de Siquillapucara y sus habitantes fueron deportados como mitimaes a otros lugares del Tahuantinsuyo."
+    },
+    {
+      "titulo": "Particularidades",
+      "contenido": "Único recurso arqueológico del Departamento de Junín que figura en la colección de monedas numismáticas del Perú."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "Declarado Patrimonio Cultural de la Nación mediante Resolución Directoral Nacional Nº 1359/INC de fecha 09 de noviembre del 2000."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Las edificaciones se encuentran en REGULAR estado de conservación debido al descuido en el que años atrás se encontraba el recurso, actualmente la percepción ha cambiado y la población vela por el cuidado del mismo; también existen vigilantes que resguardan el complejo durante todo el día."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Nacionales\n1478\nInforme de venta de boletos - Subgerencia de Tesorería - Municipalidad Distrital de Tunan Marca\n2023\nEn tanto que el año 2022, durante los meses de Set. a Dic. recibieron 607 visitantes"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nJunín/Jauja/Jauja\n-\nJunín/Jauja/Acolla\nPlaza de Armas de Jauja - Centro Poblado de Pachascucho (Distrito de Acolla)\nTerrestre\nAutomóvil particular\nAsfaltado\n5.73 Km / 15 Min\n1\nJunín/Jauja/Acolla\n-\nJunín/Jauja/Tunan Marca\nCentro Poblado de Pachascucho - Plaza Principal del Pueblo de Concho (Capital del Distrito de Tunan Marca)\nTerrestre\nAutomóvil particular\nAfirmado\n4.77 Km / 15 Min\n1\nJunín/Jauja/Tunan Marca\n-\nJunín/Jauja/Tunan Marca\nPlaza Principal del Pueblo de Concho - Zona Arqueológica de Tunan Marca\nTerrestre\nAutomóvil particular\nAfirmado\n6 Km / 25 Min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nTarifa: Adultos - 2 soles y Niños -1 sol\nEl pago se realiza en la oficina de Tesorería de la Municipalidad Distrital de Tunan Marca"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n08:00 a.m.\n-\n05:00 p.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nEstudios e Investigación\n--\nNaturaleza\nObservación de paisaje\n--\nDeportes / Aventura\nCaminata/Trekking\n--\nPaseos\nPaseos en bicicleta\nSe alquilan en la ciudad de Jauja"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Públicas\nServicios Públicos\nEstacionamiento de vehículos\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHostales (especificar categorías)\nUna estrellas en Jauja\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nConcho y Jauja\nAlimentación\nRestaurantes\nJauja\nAlimentación\nKioskos de comida y bebidas\nConcho y Jauja\nOtros Servicios Turísticos\nAgencia de Viajes\nJauja\nOtros Servicios Turísticos\nVenta de artesanía\nJauja\nAlimentación\nBares\nJauja\nAlimentación\nFuentes de soda\nJauja\nAlimentación\nCafeterías\nJauja\nAlimentación\nVenta de comida Rápida\nJauja\nOtros Servicios Turísticos\nAlquiler de bicicleta\nJauja\nLugares de Recreación\nDiscotecas\nJauja\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nJauja\nLugares de Recreación\nBares\nJauja\nLugares de Recreación\nJuegos Infantiles\nJauja\nLugares de Recreación\nCentros Deportivos\nJauja\nServicios Públicos\nMiradores turísticos\nConcho\nServicios Públicos\nBoletería\nConcho\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\nJauja\nServicios Públicos\nCentros de interpretación\nConcho\nServicios Públicos\nOficina de Información turística\nConcho, Jauja\nServicios Públicos\nCaminos peatonales\nTunan Marca\nServicios Públicos\nEstacionamiento de vehículos\nJauja"
+    },
+    {
+      "titulo": "Servicios Complementarios dentro del recurso",
+      "contenido": "Servicio Complementario\nObservación\nServicio de estacionamiento\n--"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nJauja\nBancos\nJauja\nCajero automático\nJauja\nEstación de servicios, grifos, gasolineras y gasocentros\nAcolla, Jauja\nServicio de estacionamiento\nJauja\nCentro de salud - tópico\nConcho, Jauja\nVenta de materiales para fotografías\nJauja\nSeguridad / POLTUR / Comisaría\nAcolla, Jauja\nLibrerías\nJauja\nBodegas o minimarkets\nConcho, Jauja"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nConcho, Jauja\nLuz (Suministro Eléctrico)\nConcho, Jauja\nTeléfono\nJauja\nAlcantarillado sanitario\nJauja\nSistemas de tratamiento alternativo de residuos (Biodigestor, pozo séptico, otros)\nConcho"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nMINISTERIO DE CULTURA\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nR. V. N° 316-2011-VMPCIC-MC aprueba Expediente Técnico (Plano delimitación, memoria descriptiva, ficha técnica) para inscripción en Registros Públicos y el SINABIP\nAdministrador por\nNombre\nMUNICIPALIDAD DISTRITAL DE TUNAN MARCA\nTiempo de administración\nDesde el año 2018"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDIRCETUR JUNIN\nNombre (Persona(s) responsable(s) del inventario turístico):\nGREGORIA FLORES LOAIZA\nCargo:\nESPECIALISTA EN TURISMO\nCorreo:\nfloresloaiza@yahoo.es\nTeléfono:\n948992261\nFuentes Bibliográfica:\nThe Tunanmarca Polity of Highland Peru and its Settlement System. Earle T. (AD 1350-1450).\nNew evidences of infraestructure associated with hydraulic system of the archaeological complex of Tunanmarca, Jauja. Perales M & Loayza H. Universidad Continental - 2011.\nComplejo Arqueológico de Tunanmarca: Cima de piedra - Hugo Grández, Portal El Peruano - 2020: https://elperuano.pe/noticia/90957-complejo-arqueologico-de-tunanmarca-cima-de-piedra\nRaíces históricas de los pueblos prehispánicos del valle de Mantaro. Periodos: Intermedio Tardío y Horizonte Tardío. Topalaya D & Topalaya C. Universidad Nacional del Centro - 2022.\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\nLurawi Perú: \"Limpieza, Mantenimiento y Acondicionamiento del Camino de Herradura de Acceso al Paraje Pucutu Huacta del 2do Cuartel – Centro Poblado Tunan Marca, Prov. de Jauja, Dep. de Junín\", 2023.\nFecha:\n31/03/2025 15:38:53"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -11.721657211777217,
+    "longitud": -75.59801794973754
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-11.721657211777217,-75.59801794973754"
+}

@@ -1,0 +1,260 @@
+{
+  "cod_ficha": 1890,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=1890",
+  "nombre": "Parque Húsares De Junín De Barranco",
+  "departamento": "Lima",
+  "provincia": "Lima",
+  "distrito": "BARRANCO",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Arquitectura y Espacios Urbanos",
+  "subtipo": "Parques",
+  "jerarquia": "1",
+  "altitud": "20",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=443905",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=443905",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=444810",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=444904",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=444815",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=444816"
+  ],
+  "actividades_permitidas": [
+    "Naturaleza - Observación de paisaje",
+    "Deportes / Aventura - Otros(Especificar)"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Otros(Especificar)",
+      "observacion": "Deportes aeróbicos",
+      "icono_url": null
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Lima/Lima/Lima - Lima/Lima/Barranco",
+      "detalle": "Lima: Av. Emancipación - Barranco: Parque Húsares de Junín",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "16.5 km/ 40 min."
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Lima/Lima/Miraflores - Lima/Lima/Barranco",
+      "detalle": "Miraflores: Parque Kennedy - Barranco: Parque Húsares de Junín",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "3 km/ 10 min."
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "8158",
+      "horario": "ANALISIS DE CARGA TURÍSTICA - BARRANCO 2022 y PERFIL DEL VISITANTE DE BARRANCO 2022",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "5099",
+      "horario": "ANÁLISIS DE CARGA TURÍSTICA - BARRANCO 2022 y PERFIL DEL VISITANTE DE BARRANCO 2022",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "7138",
+      "horario": "ANÁLISIS DE CARGA TURÍSTICA - BARRANCO 2022 y PERFIL DEL VISITANTE DE BARRANCO 2022",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "10:00 a.m. - 06:30 p.m. Lunes a domingo de 05:00 a.m. – 11:00 p.m.",
+      "observaciones": "Lunes a domingo de 05:00 a.m. – 11:00 p.m."
+    },
+    {
+      "epoca": "Personas con discapacidad física",
+      "especificacion": "Senderos accesibles a pie, andador y silla de ruedas",
+      "horario": "--",
+      "observaciones": "--"
+    },
+    {
+      "epoca": "Personas con discapacidad mental",
+      "especificacion": "Senderos accesibles a pie, andador y silla de ruedas",
+      "horario": "--",
+      "observaciones": "--"
+    },
+    {
+      "epoca": "Personas con discapacidad intelectual",
+      "especificacion": "Senderos accesibles a pie, andador y silla de ruedas",
+      "horario": "--",
+      "observaciones": "--"
+    },
+    {
+      "epoca": "Personas con discapacidad sensorial",
+      "especificacion": "Senderos accesibles a pie, andador y silla de ruedas",
+      "horario": "--",
+      "observaciones": "--"
+    },
+    {
+      "epoca": "Niños",
+      "especificacion": "Senderos accesibles",
+      "horario": "--",
+      "observaciones": "--"
+    },
+    {
+      "epoca": "Jóvenes",
+      "especificacion": "Senderos accesibles",
+      "horario": "--",
+      "observaciones": "--"
+    },
+    {
+      "epoca": "Adulto mayor",
+      "especificacion": "Senderos accesibles a pie, andador y silla de ruedas",
+      "horario": "--",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": "Zona pública disponible todos los días las 24 horas"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Barranco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Apart-hoteles (especificar categorías)",
+      "observacion": "Tres Estrellas - Miraflores"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "Tres Estrellas - Miraflores"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Barranco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Barranco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Barranco"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Peñas",
+      "observacion": "Barranco"
+    }
+  ],
+  "descripcion": "Ubicado en el Malecón Paul Harris, entre la segunda y tercera cuadra y frente al jirón Las Magnolias, se encuentra el parque en cuyo centro hay un pedestal con una placa en memoria a los Húsares de Junín, por la cercanía al jirón Batallón Junín y la gesta histórica libertadora en la Pampa de la Quinua (Junín) el 6 de agosto de 1824 contra los ejércitos realistas de España a la que alude, lo que dan relevancia al conjunto. Por otro lado, la ubicación del parque Húsares de Junín de Barranco es estratégica, pues sirve como mirador natural al Océano Pacífico, donde propios y extraños acuden para disfrutar la puesta del sol y el pasar de los buques de la Marina Peruana de Guerra del Perú que llegan y salen tanto del puerto Callao, así como de los yates y veleros de los clubes navieros que se encuentran apostados en la ruta de la Costa Verde de Lima Metropolitana. Al finalizar el parque está el acantilado, bordeando el conjunto de la Costa Verde. Es un espacio de actividad deportiva aeróbica frecuente a disposición del entorno residencial, y particularmente de turistas instalados en el distrito de Barranco, Miraflores y San Isidro.",
+  "particularidades": "",
+  "estado_actual": "Bueno.",
+  "observaciones": "Ubicación: Malecón Paul Harris de Barranco",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Ubicado en el Malecón Paul Harris, entre la segunda y tercera cuadra y frente al jirón Las Magnolias, se encuentra el parque en cuyo centro hay un pedestal con una placa en memoria a los Húsares de Junín, por la cercanía al jirón Batallón Junín y la gesta histórica libertadora en la Pampa de la Quinua (Junín) el 6 de agosto de 1824 contra los ejércitos realistas de España a la que alude, lo que dan relevancia al conjunto. Por otro lado, la ubicación del parque Húsares de Junín de Barranco es estratégica, pues sirve como mirador natural al Océano Pacífico, donde propios y extraños acuden para disfrutar la puesta del sol y el pasar de los buques de la Marina Peruana de Guerra del Perú que llegan y salen tanto del puerto Callao, así como de los yates y veleros de los clubes navieros que se encuentran apostados en la ruta de la Costa Verde de Lima Metropolitana. Al finalizar el parque está el acantilado, bordeando el conjunto de la Costa Verde. Es un espacio de actividad deportiva aeróbica frecuente a disposición del entorno residencial, y particularmente de turistas instalados en el distrito de Barranco, Miraflores y San Isidro."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "Ubicación: Malecón Paul Harris de Barranco"
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n8158\nANALISIS DE CARGA TURÍSTICA - BARRANCO 2022 y PERFIL DEL VISITANTE DE BARRANCO 2022\n2022\nRealizado por Consultoría e Inversiones de Desarrollo Económico Holística (consultor César Rodríguez Vergaray, Jefe de Proyectos) para la Municipalidad de Barranco en Mayo - Junio 2022.\nTuristas Nacionales\n5099\nANÁLISIS DE CARGA TURÍSTICA - BARRANCO 2022 y PERFIL DEL VISITANTE DE BARRANCO 2022\n2022\nRealizado por Consultoría e Inversiones de Desarrollo Económico Holística (consultor César Rodríguez Vergaray, Jefe de Proyectos) para la Municipalidad de Barranco en Mayo - Junio 2022.\nVisitantes Locales(Excursionistas)\n7138\nANÁLISIS DE CARGA TURÍSTICA - BARRANCO 2022 y PERFIL DEL VISITANTE DE BARRANCO 2022\n2022\nRealizado por Consultoría e Inversiones de Desarrollo Económico Holística (consultor César Rodríguez Vergaray, Jefe de Proyectos) para la Municipalidad de Barranco en Mayo - Junio 2022."
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nLima/Lima/Lima\n-\nLima/Lima/Barranco\nLima: Av. Emancipación - Barranco: Parque Húsares de Junín\nTerrestre\nAutomóvil particular\nAsfaltado\n16.5 km/ 40 min.\n2\nLima/Lima/Miraflores\n-\nLima/Lima/Barranco\nMiraflores: Parque Kennedy - Barranco: Parque Húsares de Junín\nTerrestre\nAutomóvil particular\nAsfaltado\n3 km/ 10 min."
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre\nZona pública disponible todos los días las 24 horas"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n10:00 a.m.\n-\n06:30 p.m.\nLunes a domingo de 05:00 a.m. – 11:00 p.m."
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nNaturaleza\nObservación de paisaje\n--\nDeportes / Aventura\nOtros(Especificar)\nDeportes aeróbicos"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nBarranco\nAlojamiento\nApart-hoteles (especificar categorías)\nTres Estrellas - Miraflores\nAlojamiento\nHostales (especificar categorías)\nTres Estrellas - Miraflores\nAlimentación\nRestaurantes\nBarranco\nAlimentación\nCafeterías\nBarranco\nLugares de Recreación\nDiscotecas\nBarranco\nLugares de Recreación\nPeñas\nBarranco"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nBarranco\nBancos\nBarranco\nCajero automático\nBarranco\nCasa de cambio\nBarranco\nEstación de servicios, grifos, gasolineras y gasocentros\nBarranco\nServicio de estacionamiento\nBarranco\nServicios de taxis\nBarranco\nCentro de salud - tópico\nBarranco\nVenta de materiales para fotografías\nBarranco\nSeguridad / POLTUR / Comisaría\nBarranco\nAlquiler y compra de equipos deportivos\nBarranco\nLibrerías\nBarranco\nBodegas o minimarkets\nBarranco"
+    },
+    {
+      "titulo": "Condiciones de Accesibilidad al Visitante",
+      "contenido": "Visitante\nInstalación\nActividades y/o programas\nEquipamiento\nObservación\nPersonas con discapacidad física\nSenderos accesibles a pie, andador y silla de ruedas\n--\n--\nNinguna\nPersonas con discapacidad mental\nSenderos accesibles a pie, andador y silla de ruedas\n--\n--\nNinguna\nPersonas con discapacidad intelectual\nSenderos accesibles a pie, andador y silla de ruedas\n--\n--\nNinguna\nPersonas con discapacidad sensorial\nSenderos accesibles a pie, andador y silla de ruedas\n--\n--\nNinguna\nNiños\nSenderos accesibles\n--\n--\nAcompañados de sus padres y/o personas mayores\nJóvenes\nSenderos accesibles\n--\n--\nNinguna\nAdulto mayor\nSenderos accesibles a pie, andador y silla de ruedas\n--\n--\nNinguna"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\n--\nAlcantarillado sanitario\n--\nDesagüe\n--\nLuz (Suministro Eléctrico)\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nBarranco\nAlcantarillado sanitario\nBarranco\nLuz (Suministro Eléctrico)\nBarranco\nTeléfono\nBarranco\nSeñalización turística\nBarranco"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nMunicipalidad de Barranco\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nCód predial N°2241. SIGA –Patrimonio, cta 1501.030601-plazuelas, parques y jardines costo. Inventario Municipalidad Barranco 31DIC2020. Anexo N°02 ficha inventario físico bienes Inmuebles 2020\nAdministrador por\nNombre\nMunicipalidad de Barranco\nTiempo de administración\nDesde finales de la década de los 90's a la fecha. No se tiene registro específico del año de su construcción."
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nMunicipalidad de Barranco\nNombre (Persona(s) responsable(s) del inventario turístico):\nDanilo Fernando Gutiérrez Baella\nCargo:\nGestor en Turismo de la Gerencia de Cultura y Turismo\nCorreo:\nturismoenbarranco@gmail.com\nTeléfono:\n987269642\nFuentes Bibliográfica:\nHistoria de las calles de Barranco - Lituma Siverio, Félix Humberto - Pakarina Ediciones, 2014.\nBatalla de Junín 06 de agosto de 1824 - Publicación de la Escuela Superior Conjunta de las Fuerzas Armadas: https://www.esffaa.edu.pe/batalla-de-junin/ Autor: Mayor EP Yiselda Cabrera León en el 197 aniversario de la Batalla de Junín\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\nArchivo particular actualizado Agosto 2022 - Gestión en Turismo de la Gerencia de Cultura y Turismo de la Municipalidad de Barranco\nReferencia de las últimas intervenciones en el Recurso Turístico:\nMejoramiento de los parques y jardines por parte de la Gerencia de Servicios a la Ciudad y Gestión Ambiental de la Municipalidad de Barranco 2019-2022\nFecha:\n15/08/2022"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -12.154079941384166,
+    "longitud": -77.0230569791679
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-12.154079941384166,-77.0230569791679"
+}

@@ -1,0 +1,375 @@
+{
+  "cod_ficha": 2176,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=2176",
+  "nombre": "Isla Blanca",
+  "departamento": "Áncash",
+  "provincia": "Santa",
+  "distrito": "CHIMBOTE",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "l. Costas",
+  "subtipo": "Islas",
+  "jerarquia": "1",
+  "altitud": "1",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=294900",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=294900",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=406956",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=406957",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=406958",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=406873"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Paseos - Paseos en lancha o canoa",
+    "Deportes acuáticos - Sea Kayac",
+    "Deportes acuáticos - Natación",
+    "Deportes acuáticos - Remo",
+    "Naturaleza - Observación de fauna",
+    "Naturaleza - Observación de paisaje",
+    "Naturaleza - Observación de aves",
+    "Deportes / Aventura - Caminata/Trekking",
+    "Paseos - Paseos en bote"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Paseos",
+      "tipo": "Paseos en lancha o canoa",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paseo_canoa02.png"
+    },
+    {
+      "actividad": "Deportes acuáticos",
+      "tipo": "Sea Kayac",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/kayac02.png"
+    },
+    {
+      "actividad": "Deportes acuáticos",
+      "tipo": "Natación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/natacion02.png"
+    },
+    {
+      "actividad": "Deportes acuáticos",
+      "tipo": "Remo",
+      "observacion": "Caminatas, investigaciones.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/remo02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de fauna",
+      "observacion": "lobos marinos, cangrejos.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fauna02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de aves",
+      "observacion": "pelícanos, gaviotas, guayanes.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/aves02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "Recorrido por el Faro de Chimbote",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    },
+    {
+      "actividad": "Paseos",
+      "tipo": "Paseos en bote",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paseo_bote02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Áncash/Santa/Chimbote - Áncash/Santa/Chimbote",
+      "detalle": "Muelle artesanal de Chimbote-Isla Blanca",
+      "tipo_acceso": "Marítimo",
+      "medio_transporte": "Bote",
+      "tipo_via": "",
+      "distancia_tiempo": "4km/20 minutos"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "39081",
+      "horario": "Municipalidad Provincial del Santa",
+      "observaciones": "2019"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "08:00 a.m. - 02:00 p.m. --",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Semi-restringido(previo permiso)",
+      "observaciones": "De 8 a.m.-2 p.m. Las Agencias de viajes y Turismo realizan las coordinaciones con embarcaciones."
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de botes",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Chimbote"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Chimbote"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Chimbote"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Chimbote"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Chimbote"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Chimbote"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Chimbote"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Chimbote"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Chimbote"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Peñas",
+      "observacion": "Chimbote"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Cines o Teatros",
+      "observacion": "Chimbote"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Chimbote"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Chimbote"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Chimbote"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "Chimbote"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Chimbote"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de camionetas 4 x 4",
+      "observacion": "Chimbote"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "Chimbote"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Chimbote"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "Chimbote"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "Chimbote"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Embarcaderos",
+      "observacion": "Chimbote"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "Chimbote"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Puesto de auxilio rápido",
+      "observacion": "Chimbote"
+    }
+  ],
+  "descripcion": "Isla Blanca es una pequeña isla ubicada en el Océano Pacífico, al oeste de la ciudad de Chimbote, aproximadamente a 4 km de distancia de la costa, en la Bahía de Chimbote, en la región Costa o Chala según Javier Pulgar Vidal y en la ecorregión Mar Frío según Antonio Brack Egg. El clima promedio de este lugar varía entre 15°C a 30°C durante el día, en invierno y verano, respectivamente; sin embargo, durante las noches la temperatura puede descender bruscamente.\nLa isla se caracteriza por sus tranquilas aguas azules que contrastan con sus blancas montañas rocosas carentes de vegetación creando un paisaje de ensueño. Cabe mencionar que esta singular isla debe su característico color blanco a la acumulación de guano de la diversidad de aves que viven y usan de refugio el lugar como: pelícanos, gaviotas, guanayes, zarcillos, piqueros y más. En los alrededores y acantilados se evidencia lobos marinos, y en sus playas se observan conchas, almejas, choros, maruchas, cangrejos, y caracoles. Además, por toda la isla se pueden apreciar a las lagartijas que fueron insertadas en la isla para combatir los parásitos (pulgas y garrapatas) de las aves que poblaban la isla.\nLa isla está separada cerca de 600 m del continente por la Bocana Chica, entrada norte a la bahía donde se eleva el Cerro Chimbote o Cerro de la Juventud. Entre la isla y el cerro se ubica también la más pequeña isla Farallón. Hacia el sur, 2,6 km la separan de la isla Ferrol Primera, lo que constituye la abertura más ancha de la bahía (Bocana Grande). Su geografía se caracteriza por contar con un relieve rocoso y empinado de color blanco debido al guano de las aves guaneras. Tiene una longitud aproximada de poco más de 3 kilómetros de largo, 1 kilómetro de ancho en su territorio más extendido, mientras que la parte más alta tiene una elevación aproximada de 204 m.s.n.m., desde donde se puede apreciar Isla Farallón al norte, las Islas Ferrol al Sur y el este a la ciudad de Chimbote. La isla presenta un contorno irregular con presencia de 13 pequeñas ensenadas que forman pequeñas playas y abundantes riscos y acantilados.\nAntaño, durante la época de la Era del Guano del Perú, en 1845 se comenzó a extraer guano de las aves que habitaban en Isla Blanca para su exportación, lo cual generó una gran disminución de aves en el lugar. En la actualidad, si bien se observan gran cantidad de aves, las cifras reportadas son ínfimas en comparación con la cantidad de aves de la época del guano, debido a que la actividad pesquera del ser humano, es una competencia directa con los alimentos de estas aves, lo cual genera que cada vez más, las aves deben viajar largas distancias en búsqueda de alimentos.\nIsla Blanca es un recurso turístico obligatorio de visita en Chimbote, en el que se podrá conocer algunas de las historias que existen sobre este lugar. Muchas de estas están relacionadas con las piedras que tienen formas de animales como delfines, tortugas, y más. Una de las más populares tiene que ver con una roca que se asemeja a la figura de unos leones marinos. Se dice que esta piedra está relacionada con la leyenda de un amor prohibido. Esta narra la historia de dos jóvenes enamorados que se escondieron en este sitio para no ser encontrados. Pero, fueron convertidos en leones de mar y, posteriormente, petrificados, todas las parejas que visiten esta roca mantendrán su amor para siempre.\nIsla Blanca ofrece una gran experiencia al visitante en el que se puede realizar caminatas por su camino del guano, observar las aves guaneras, observar la bahía de Chimbote, tomar un baño en sus playas, practicar kayak en sus aguas tranquilas, entre fin, una variedad de actividad turísticas. Para visitarla es necesario ir al Muelle Artesanal de Chimbote, para luego navegar en lanchas o botes que te llevan durante 20 minutos de trayecto.\nForma parte de un circuito cultural religioso del Santo Patrón San Pedrito, cuyo día central es el 29 de junio de todos los años.",
+  "particularidades": "La principal particularidad de Isla Blanca es su característico color blanco y ser una de las pocas y únicas islas en los cuales se puede descender y realizar actividades turísticas; así como, ser una isla accesible y cercana a una ciudad.",
+  "estado_actual": "La Isla blanca como recurso ecológico turístico está bien conservada, actividad realizada por la Capitanía de Puerto, Municipalidad Provincial del Santa.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Isla Blanca es una pequeña isla ubicada en el Océano Pacífico, al oeste de la ciudad de Chimbote, aproximadamente a 4 km de distancia de la costa, en la Bahía de Chimbote, en la región Costa o Chala según Javier Pulgar Vidal y en la ecorregión Mar Frío según Antonio Brack Egg. El clima promedio de este lugar varía entre 15°C a 30°C durante el día, en invierno y verano, respectivamente; sin embargo, durante las noches la temperatura puede descender bruscamente.\nLa isla se caracteriza por sus tranquilas aguas azules que contrastan con sus blancas montañas rocosas carentes de vegetación creando un paisaje de ensueño. Cabe mencionar que esta singular isla debe su característico color blanco a la acumulación de guano de la diversidad de aves que viven y usan de refugio el lugar como: pelícanos, gaviotas, guanayes, zarcillos, piqueros y más. En los alrededores y acantilados se evidencia lobos marinos, y en sus playas se observan conchas, almejas, choros, maruchas, cangrejos, y caracoles. Además, por toda la isla se pueden apreciar a las lagartijas que fueron insertadas en la isla para combatir los parásitos (pulgas y garrapatas) de las aves que poblaban la isla.\nLa isla está separada cerca de 600 m del continente por la Bocana Chica, entrada norte a la bahía donde se eleva el Cerro Chimbote o Cerro de la Juventud. Entre la isla y el cerro se ubica también la más pequeña isla Farallón. Hacia el sur, 2,6 km la separan de la isla Ferrol Primera, lo que constituye la abertura más ancha de la bahía (Bocana Grande). Su geografía se caracteriza por contar con un relieve rocoso y empinado de color blanco debido al guano de las aves guaneras. Tiene una longitud aproximada de poco más de 3 kilómetros de largo, 1 kilómetro de ancho en su territorio más extendido, mientras que la parte más alta tiene una elevación aproximada de 204 m.s.n.m., desde donde se puede apreciar Isla Farallón al norte, las Islas Ferrol al Sur y el este a la ciudad de Chimbote. La isla presenta un contorno irregular con presencia de 13 pequeñas ensenadas que forman pequeñas playas y abundantes riscos y acantilados.\nAntaño, durante la época de la Era del Guano del Perú, en 1845 se comenzó a extraer guano de las aves que habitaban en Isla Blanca para su exportación, lo cual generó una gran disminución de aves en el lugar. En la actualidad, si bien se observan gran cantidad de aves, las cifras reportadas son ínfimas en comparación con la cantidad de aves de la época del guano, debido a que la actividad pesquera del ser humano, es una competencia directa con los alimentos de estas aves, lo cual genera que cada vez más, las aves deben viajar largas distancias en búsqueda de alimentos.\nIsla Blanca es un recurso turístico obligatorio de visita en Chimbote, en el que se podrá conocer algunas de las historias que existen sobre este lugar. Muchas de estas están relacionadas con las piedras que tienen formas de animales como delfines, tortugas, y más. Una de las más populares tiene que ver con una roca que se asemeja a la figura de unos leones marinos. Se dice que esta piedra está relacionada con la leyenda de un amor prohibido. Esta narra la historia de dos jóvenes enamorados que se escondieron en este sitio para no ser encontrados. Pero, fueron convertidos en leones de mar y, posteriormente, petrificados, todas las parejas que visiten esta roca mantendrán su amor para siempre.\nIsla Blanca ofrece una gran experiencia al visitante en el que se puede realizar caminatas por su camino del guano, observar las aves guaneras, observar la bahía de Chimbote, tomar un baño en sus playas, practicar kayak en sus aguas tranquilas, entre fin, una variedad de actividad turísticas. Para visitarla es necesario ir al Muelle Artesanal de Chimbote, para luego navegar en lanchas o botes que te llevan durante 20 minutos de trayecto.\nForma parte de un circuito cultural religioso del Santo Patrón San Pedrito, cuyo día central es el 29 de junio de todos los años."
+    },
+    {
+      "titulo": "Particularidades",
+      "contenido": "La principal particularidad de Isla Blanca es su característico color blanco y ser una de las pocas y únicas islas en los cuales se puede descender y realizar actividades turísticas; así como, ser una isla accesible y cercana a una ciudad."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "La Isla blanca como recurso ecológico turístico está bien conservada, actividad realizada por la Capitanía de Puerto, Municipalidad Provincial del Santa."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nVisitantes Locales(Excursionistas)\n39081\nMunicipalidad Provincial del Santa\n2019"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nÁncash/Santa/Chimbote\n-\nÁncash/Santa/Chimbote\nMuelle artesanal de Chimbote-Isla Blanca\nMarítimo\nBote\n4km/20 minutos"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nSemi-restringido(previo permiso)\nDe 8 a.m.-2 p.m. Las Agencias de viajes y Turismo realizan las coordinaciones con embarcaciones."
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n08:00 a.m.\n-\n02:00 p.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nPaseos\nPaseos en lancha o canoa\n--\nDeportes acuáticos\nSea Kayac\n--\nDeportes acuáticos\nNatación\n--\nDeportes acuáticos\nRemo\nCaminatas, investigaciones.\nNaturaleza\nObservación de fauna\nlobos marinos, cangrejos.\nNaturaleza\nObservación de paisaje\n--\nNaturaleza\nObservación de aves\npelícanos, gaviotas, guayanes.\nDeportes / Aventura\nCaminata/Trekking\nRecorrido por el Faro de Chimbote\nPaseos\nPaseos en bote\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nOtros Servicios Turísticos\nAlquiler de botes\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nChimbote\nAlimentación\nRestaurantes\nChimbote\nAlimentación\nBares\nChimbote\nAlimentación\nCafeterías\nChimbote\nAlimentación\nFuentes de soda\nChimbote\nAlimentación\nKioskos de comida y bebidas\nChimbote\nAlimentación\nVenta de comida Rápida\nChimbote\nLugares de Recreación\nDiscotecas\nChimbote\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nChimbote\nLugares de Recreación\nPeñas\nChimbote\nLugares de Recreación\nCines o Teatros\nChimbote\nLugares de Recreación\nJuegos Infantiles\nChimbote\nOtros Servicios Turísticos\nVenta de artesanía\nChimbote\nOtros Servicios Turísticos\nAgencia de Viajes\nChimbote\nAlojamiento\nHostales (especificar categorías)\nChimbote\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nChimbote\nOtros Servicios Turísticos\nAlquiler de camionetas 4 x 4\nChimbote\nServicios Públicos\nMiradores turísticos\nChimbote\nServicios Públicos\nEstacionamiento de vehículos\nChimbote\nServicios Públicos\nSeñales turísticas de orientación\nChimbote\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\nChimbote\nServicios Públicos\nEmbarcaderos\nChimbote\nServicios Públicos\nCaminos peatonales\nChimbote\nServicios Públicos\nPuesto de auxilio rápido\nChimbote"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nChimbote\nBancos\nChimbote\nCajero automático\nChimbote\nCasa de cambio\nChimbote\nEstación de servicios, grifos, gasolineras y gasocentros\nChimbote\nServicio de correos\nChimbote\nServicio de estacionamiento\nChimbote\nServicios de taxis\nChimbote\nServicios de salvavidas\nChimbote\nCentro de salud - tópico\nChimbote\nVenta de materiales para fotografías\nChimbote\nSeguridad / POLTUR / Comisaría\nChimbote\nAlquiler y compra de equipos deportivos\nChimbote\nLibrerías\nChimbote\nBodegas o minimarkets\nChimbote"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nChimbote\nAlcantarillado sanitario\nChimbote\nDesagüe\nChimbote\nLuz (Suministro Eléctrico)\nChimbote\nTeléfono\nChimbote\nSistemas de tratamiento alternativo de residuos (Biodigestor, pozo séptico, otros)\nChimbote"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nEstado Peruano\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nSin ficha registral\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nCapitanía de Puerto de Chimbote\nTiempo de administración\nIndeterminado"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Sub Regional de Comercio Exterior y Turismo- Chimbote\nNombre (Persona(s) responsable(s) del inventario turístico):\nMaría Luz Zevallos Echeverría\nCargo:\nEspecialista Turismo\nCorreo:\nzevallosecheve@yahoo.es\nTeléfono:\n944949524\nFuentes Bibliográfica:\nMunicipalidad Provincial del Santa2021 Inventario de Recursos Turísticos del Santa\nPlan de Desarrollo Turístico de la Provincia de Santa 2018 - 2021\nTesis: Caracterización de la identidad chimbotana y propuesta de un programa de turismo escolar para el fortalecimiento de la identidad de los estudiantes del 5to grado “a” de educación secundaria, de la institución educativa república peruana de chimbote, en el año 2012.\nRÓMULO LOAYZA- LA BAHÍA DEL FERROLL CONAM - LA BAHÍA DEL FERROL.EXTRAÍDO: HTTP://TOURSADVENTUREISLABLANCA.BLOGSPOT.COM/ONERN1972 INVENTARIO, EVALUACIÓN Y USO RACIONAL DE LOS RECURSOS NATURALES DE LA COSTA: CUENCAS DE LOS RÍOS SANTA, LACRAMARCA Y NEPEÑA. LIMA, PERÚ. OFICINA NACIONAL DE EVALUACIÓN DE RECURSOS NATURALES.\nMunicipalidad Provincial del Santa 2015.INVENTARIO DE RECURSOS TURISTICOS DE LA PROVINCIA DEL SANTA- 2015.\nMaterial Audiovisual actual del Recurso:\nFOTO, VIDEOS\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n20/10/2021"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -9.099893,
+    "longitud": -78.62142599999999
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-9.099893,-78.62142599999999"
+}

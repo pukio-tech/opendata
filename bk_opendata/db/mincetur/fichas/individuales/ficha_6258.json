@@ -1,0 +1,284 @@
+{
+  "cod_ficha": 6258,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=6258",
+  "nombre": "Laguna Luncho De Huantán",
+  "departamento": "Lima",
+  "provincia": "Yauyos",
+  "distrito": "HUANTAN",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "g. Cuerpo de Agua",
+  "subtipo": "Lagunas",
+  "jerarquia": "1",
+  "altitud": "4275",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=291810",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=291810",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=494571",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=494574",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=494577"
+  ],
+  "actividades_permitidas": [
+    "Naturaleza - Observación de fauna",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de paisaje",
+    "Naturaleza - Observación de aves",
+    "Deportes / Aventura - Caminata/Trekking"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de fauna",
+      "observacion": "Añas o zorrillo, vizcacha, cóndor, puma",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fauna02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "Algas",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de aves",
+      "observacion": "Yanavico, bandurria o jujan, gaviotas, zambullidor blanquillo.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/aves02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Lima/Cañete/San Vicente De Cañete - Lima/Yauyos/Yauyos",
+      "detalle": "Plaza de Armas de San Vicente Cañete – Plaza de Armas de Yauyos",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "136 km/ 3 horas 35 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Lima/Yauyos/Yauyos - Lima/Yauyos/Huantan",
+      "detalle": "Plaza de Armas de Yauyos - Plaza de Armas de Huantán",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "30 km / 45 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Lima/Yauyos/Huantan - Lima/Yauyos/Huantan",
+      "detalle": "Plaza de Armas de Huantán – Laguna Luncho de Huantán",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Camino de Herradura",
+      "distancia_tiempo": "25 km / 5 horas"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "90",
+      "horario": "Municipalidad Distrital de Huantán",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "50",
+      "horario": "Municipalidad Distrital de Huantán",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "300",
+      "horario": "Municipalidad Distrital de Huantán",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "08:00 a.m. - 06:00 p.m. Lunes a domingo",
+      "observaciones": "Lunes a domingo"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "Ciudad San Vicente de Cañete / Hotel 4 Estrellas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "Ciudad San Vicente de Cañete / Hostal 2 Estrellas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad San Vicente de Cañete"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Hospedaje Municipal - Ciudad de Yauyos"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad San Vicente de Cañete"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad San Vicente de Cañete"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad San Vicente de Cañete"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Ciudad San Vicente de Cañete"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad San Vicente de Cañete"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad San Vicente de Cañete"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de Caballos",
+      "observacion": "Ciudad San Vicente de Cañete"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad San Vicente de Cañete"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Ciudad San Vicente de Cañete"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Ciudad San Vicente de Cañete"
+    }
+  ],
+  "descripcion": "Se encuentra en la región Puna (4,000 - 4,800 m.s.n.m.) está comprendida por dos lagunas: Laguna Luncho Grande con una extensión de 2.50 kilómetros aproximadamente; esta tiene forma de un ave y Luncho Chico con una extensión de 150 metros con una forma de corazón, ambas con una profundidad aproximada de 8 a 12 metros, presentan un color verdoso por la presencia de algas. Alrededor de estas lagunas existen bosques de árboles de queñuales y de Quishuar.\nPara llegar a la laguna Luncho Grande se debe caminar y comenzar el ascenso de 750 metros desde la Laguna Chico, en el trayecto una caída de agua que proviene de Luncho Grande la cual desemboca en Luncho chico alimentando así la pequeña.\nCuentan con una variada fauna: zambullidor blanquillo, ujujuy o jujuy, yanavico o yanivcu de la puna, bandurria o jujan, añas o zorrillo, vizcacha, cóndor, puma. El Centro Poblado más cercano a las lagunas es el Pueblo de Huantán.\nEste Sitio Natural cuenta con espacios para realizar camping y pesca deportiva donde el turista podrá disfrutar de un bello paisaje y realizar sus actividades favoritas.",
+  "particularidades": "",
+  "estado_actual": "Bueno,porque la comunidad de Vilca y el Sernanp protegen, cuidan y conservan el espacio natural.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Se encuentra en la región Puna (4,000 - 4,800 m.s.n.m.) está comprendida por dos lagunas: Laguna Luncho Grande con una extensión de 2.50 kilómetros aproximadamente; esta tiene forma de un ave y Luncho Chico con una extensión de 150 metros con una forma de corazón, ambas con una profundidad aproximada de 8 a 12 metros, presentan un color verdoso por la presencia de algas. Alrededor de estas lagunas existen bosques de árboles de queñuales y de Quishuar.\nPara llegar a la laguna Luncho Grande se debe caminar y comenzar el ascenso de 750 metros desde la Laguna Chico, en el trayecto una caída de agua que proviene de Luncho Grande la cual desemboca en Luncho chico alimentando así la pequeña.\nCuentan con una variada fauna: zambullidor blanquillo, ujujuy o jujuy, yanavico o yanivcu de la puna, bandurria o jujan, añas o zorrillo, vizcacha, cóndor, puma. El Centro Poblado más cercano a las lagunas es el Pueblo de Huantán.\nEste Sitio Natural cuenta con espacios para realizar camping y pesca deportiva donde el turista podrá disfrutar de un bello paisaje y realizar sus actividades favoritas."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno,porque la comunidad de Vilca y el Sernanp protegen, cuidan y conservan el espacio natural."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n90\nMunicipalidad Distrital de Huantán\n2022\nRegistro de visitantes admitido por la DIRCETUR Lima\nTuristas Nacionales\n50\nMunicipalidad Distrital de Huantán\n2022\nRegistro de visitantes admitido por la DIRCETUR Lima\nVisitantes Locales(Excursionistas)\n300\nMunicipalidad Distrital de Huantán\n2022\nRegistro de visitantes admitido por la DIRCETUR Lima"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nLima/Cañete/San Vicente De Cañete\n-\nLima/Yauyos/Yauyos\nPlaza de Armas de San Vicente Cañete – Plaza de Armas de Yauyos\nTerrestre\nAutomóvil particular\nAsfaltado\n136 km/ 3 horas 35 minutos\n1\nLima/Yauyos/Yauyos\n-\nLima/Yauyos/Huantan\nPlaza de Armas de Yauyos - Plaza de Armas de Huantán\nTerrestre\nAutomóvil particular\nAsfaltado\n30 km / 45 minutos\n1\nLima/Yauyos/Huantan\n-\nLima/Yauyos/Huantan\nPlaza de Armas de Huantán – Laguna Luncho de Huantán\nTerrestre\nA pie\nCamino de Herradura\n25 km / 5 horas"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n08:00 a.m.\n-\n06:00 p.m.\nLunes a domingo"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nNaturaleza\nObservación de fauna\nAñas o zorrillo, vizcacha, cóndor, puma\nNaturaleza\nObservación de flora\nAlgas\nNaturaleza\nObservación de paisaje\n--\nNaturaleza\nObservación de aves\nYanavico, bandurria o jujan, gaviotas, zambullidor blanquillo.\nDeportes / Aventura\nCaminata/Trekking\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\nCiudad San Vicente de Cañete / Hotel 4 Estrellas\nAlojamiento\nHostales (especificar categorías)\nCiudad San Vicente de Cañete / Hostal 2 Estrellas\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad San Vicente de Cañete\nAlojamiento\nOtros (Especificar)\nHospedaje Municipal - Ciudad de Yauyos\nAlimentación\nRestaurantes\nCiudad San Vicente de Cañete\nAlimentación\nKioskos de comida y bebidas\nCiudad San Vicente de Cañete\nAlimentación\nBares\nCiudad San Vicente de Cañete\nAlimentación\nVenta de comida Rápida\nCiudad San Vicente de Cañete\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad San Vicente de Cañete\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad San Vicente de Cañete\nOtros Servicios Turísticos\nAlquiler de Caballos\nCiudad San Vicente de Cañete\nLugares de Recreación\nBares\nCiudad San Vicente de Cañete\nLugares de Recreación\nJuegos Infantiles\nCiudad San Vicente de Cañete\nLugares de Recreación\nCentros Deportivos\nCiudad San Vicente de Cañete"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad San Vicente de Cañete\nBancos\nCiudad San Vicente de Cañete\nCajero automático\nCiudad San Vicente de Cañete\nServicio de estacionamiento\nCiudad San Vicente de Cañete\nCentro de salud - tópico\nCiudad San Vicente de Cañete\nLibrerías\nCiudad San Vicente de Cañete\nBodegas o minimarkets\nCiudad San Vicente de Cañete"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad San Vicente de Cañete\nLuz (Suministro Eléctrico)\nCiudad San Vicente de Cañete\nEnergía Alternativa\nCiudad San Vicente de Cañete\nTeléfono\nCiudad San Vicente de Cañete\nAlcantarillado sanitario\nCiudad San Vicente de Cañete\nSeñalización turística\nCiudad San Vicente de Cañete"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nEstado Peruano\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nSuperintendencia Nacional de Bienes Estatales - Número de solicitud N°14524 - 2023\nAdministrador por\nNombre\nMunicipalidad Distrital de Huantán\nTiempo de administración\nDesde el año 1992"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo - Gobierno Regional de Lima\nNombre (Persona(s) responsable(s) del inventario turístico):\nJorge Luis Torres Chirito\nCargo:\nAsistente Administrativo\nCorreo:\njchiritoxx@gmail.com\nTeléfono:\n956454928\nFuentes Bibliográfica:\n1) Plan Maestro de Reserva Paisajística Nor Yauyos Cochas - SERNANP. Autor: Municipalidad Distrital de Huantán. Yauyos, 2006\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n29/08/2023 16:46:31"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -12.426777,
+    "longitud": -75.781634
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-12.426777,-75.781634"
+}

@@ -1,0 +1,220 @@
+{
+  "cod_ficha": 8451,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=8451",
+  "nombre": "Cara Del Inca.",
+  "departamento": "Ica",
+  "provincia": "Palpa",
+  "distrito": "RÍO GRANDE",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "a. Montañas",
+  "subtipo": "Cerros",
+  "jerarquia": "2",
+  "altitud": "479",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=465377",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=465377",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=465347",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=465348",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=467809"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Naturaleza - Observación de paisaje",
+    "Deportes / Aventura - Caminata/Trekking"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Ica/Palpa/Palpa - Ica/Palpa/Río Grande",
+      "detalle": "Plaza de Armas de la ciudad de Palpa - Cerro Cara del Inca (en el Km 391 de la carretera Panamericana Sur en Dirección Norte).",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "9 km/15 min."
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Ica/Ica/Ica - Ica/Palpa/Río Grande",
+      "detalle": "Plaza de Armas de la ciudad de Ica- Cerro La Cara del Inca (Km. 391 de la carretera Panamericana Sur en Dirección Sur).",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "91 km/1hr. y 30 min."
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "15000",
+      "horario": "Informe Técnico N°001-2022",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "5000",
+      "horario": "Informe Técnico N°001-2022",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "06:00 a.m. - 05:30 p.m. --",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Palpa."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Palpa."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Localidad de Rio Grande."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Palpa."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Palpa."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Palpa."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Palpa."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Ciudad de Palpa."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Localidad de Rio Grande."
+    }
+  ],
+  "descripcion": "Se encuentra ubicada al lado norte de la ciudad de Palpa, a la altura del km. 391 de la carretera Panamericana Sur. La Cara o perfil del Inca es llamado también el Centinela del Cerro Pinchango, que es el Apu tutelar de Palpa, porque está direccionada directamente hacia esta imponente montaña, que ha albergado a las diferentes culturas asentadas en este valle como: Paracas, Nasca, Huarí, Ica – Chincha y los Incas. Este rostro es una formación rocosa situada en la cima de un acantilado de aproximadamente 90 metros de altura, que está al lado de la vía de la Panamericana Sur, y es el resultado de formación de la cadena montañosa y de la erosión eólica de los fuertes vientos de la zona. Dependiendo de los ángulos de observación se puede visualizar o contrastar con el rostro de un niño, joven o adulto. Esta figura fue encontrada o identificada en 1994, en la construcción de la variante de esta importante carretera del país.",
+  "particularidades": "",
+  "estado_actual": "Bueno, no presenta contaminación y conserva su estado natural.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Se encuentra ubicada al lado norte de la ciudad de Palpa, a la altura del km. 391 de la carretera Panamericana Sur. La Cara o perfil del Inca es llamado también el Centinela del Cerro Pinchango, que es el Apu tutelar de Palpa, porque está direccionada directamente hacia esta imponente montaña, que ha albergado a las diferentes culturas asentadas en este valle como: Paracas, Nasca, Huarí, Ica – Chincha y los Incas. Este rostro es una formación rocosa situada en la cima de un acantilado de aproximadamente 90 metros de altura, que está al lado de la vía de la Panamericana Sur, y es el resultado de formación de la cadena montañosa y de la erosión eólica de los fuertes vientos de la zona. Dependiendo de los ángulos de observación se puede visualizar o contrastar con el rostro de un niño, joven o adulto. Esta figura fue encontrada o identificada en 1994, en la construcción de la variante de esta importante carretera del país."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, no presenta contaminación y conserva su estado natural."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Nacionales\n15000\nInforme Técnico N°001-2022\n2022\nMunicipalidad Provincial de Palpa\nTuristas Extranjeros\n5000\nInforme Técnico N°001-2022\n2022\nMunicipalidad Provincial de Palpa"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nIca/Palpa/Palpa\n-\nIca/Palpa/Río Grande\nPlaza de Armas de la ciudad de Palpa - Cerro Cara del Inca (en el Km 391 de la carretera Panamericana Sur en Dirección Norte).\nTerrestre\nAutomóvil particular\nAsfaltado\n9 km/15 min.\n2\nIca/Ica/Ica\n-\nIca/Palpa/Río Grande\nPlaza de Armas de la ciudad de Ica- Cerro La Cara del Inca (Km. 391 de la carretera Panamericana Sur en Dirección Sur).\nTerrestre\nAutomóvil particular\nAsfaltado\n91 km/1hr. y 30 min."
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n06:00 a.m.\n-\n05:30 p.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nNaturaleza\nObservación de paisaje\n--\nDeportes / Aventura\nCaminata/Trekking\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Palpa.\nAlimentación\nRestaurantes\nCiudad de Palpa.\nAlimentación\nKioskos de comida y bebidas\nLocalidad de Rio Grande.\nAlimentación\nBares\nCiudad de Palpa.\nLugares de Recreación\nDiscotecas\nCiudad de Palpa.\nLugares de Recreación\nBares\nCiudad de Palpa.\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Palpa.\nServicios Públicos\nOficina de Información turística\nCiudad de Palpa.\nServicios Públicos\nEstacionamiento de vehículos\nLocalidad de Rio Grande."
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Palpa.\nBancos\nCiudad de Palpa.\nCajero automático\nCiudad de Palpa.\nCasa de cambio\nCiudad de Palpa.\nEstación de servicios, grifos, gasolineras y gasocentros\nLocalidad de Rio Grande.\nServicio de correos\nCiudad de Palpa.\nCentro de salud - tópico\nCiudad de Palpa.\nSeguridad / POLTUR / Comisaría\nCiudad de Palpa.\nBodegas o minimarkets\nCiudad de Palpa."
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Palpa.\nLuz (Suministro Eléctrico)\nCiudad de Palpa.\nTeléfono\nCiudad de Palpa.\nSeñalización turística\nCiudad de Palpa.\nAlcantarillado sanitario\nCiudad de Palpa."
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nMunicipalidad Distrital de Rio Grande.\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nLey 11969. Creación de los distritos de Tibillo, Santa Cruz, Río Grande y Llipata en la provincia de Ica.\nAdministrador por\nNombre\nMunicipalidad Distrital de Rio Grande.\nTiempo de administración\nDesde 1953."
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo de Ica\nNombre (Persona(s) responsable(s) del inventario turístico):\nLeslie Jorge Guerra.\nCargo:\nProfesional en Turismo\nCorreo:\nservicioturismo@dirceturica.gob.pe\nTeléfono:\n992243714\nFuentes Bibliográfica:\n• Nuestra Identidad Cultural “Palpa, 5500 Años en el Desierto” – Municipalidad Provincial de Palpa\n• Guía Turística del Departamento de Ica – Colección Los Cuatro Suyos\n• Guía turística de Ica – Mitinci 2000\n• Perú Maravilloso – Antono Brack Egg y Heinz Plenge.\n• Santuarios Naturales del Perú – Walter H. Wust\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n27/11/2022"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -14.487658,
+    "longitud": -75.21740199999999
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-14.487658,-75.21740199999999"
+}

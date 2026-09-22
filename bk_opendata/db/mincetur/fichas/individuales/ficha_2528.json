@@ -1,0 +1,443 @@
+{
+  "cod_ficha": 2528,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=2528",
+  "nombre": "Museo De Arte Moderno Gerardo Chávez",
+  "departamento": "La Libertad",
+  "provincia": "Trujillo",
+  "distrito": "TRUJILLO",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Museos y otros",
+  "subtipo": "Museos",
+  "jerarquia": "POR JERARQUIZAR",
+  "altitud": "95",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=765599",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=765599",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=765600",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=761051",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=765601",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=766554",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=761087",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=766555",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=766556",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=766557",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=766614"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Estudios e Investigación",
+    "Otros - Realización de eventos",
+    "Cultura y Folclore - Ferias",
+    "Cultura y Folclore - Apreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "Toma de fotografiás sin flash",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Realización de eventos",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/eventos02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Ferias",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/feria02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Apreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)",
+      "observacion": "--",
+      "icono_url": null
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "La Libertad/Trujillo/Trujillo - La Libertad/Trujillo/Laredo",
+      "detalle": "Plaza Mayor de Trujillo hasta el Museo de Arte Moderno",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "4.8 km/30 min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "6",
+      "horario": "Museo de Arte Moderno",
+      "observaciones": "2026"
+    },
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "44",
+      "horario": "Museo de Arte Moderno",
+      "observaciones": "2026"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "11:00 a.m. - 07:00 p.m. De martes a domingo.",
+      "observaciones": "De martes a domingo."
+    },
+    {
+      "epoca": "Personas con discapacidad física",
+      "especificacion": "Rampas de acceso y circulación accesible",
+      "horario": "Talleres de pintura en cerámica, presentaciones artísticas",
+      "observaciones": "--"
+    },
+    {
+      "epoca": "Niños",
+      "especificacion": "Acceso a todas las salas",
+      "horario": "Visitas escolares",
+      "observaciones": "--"
+    },
+    {
+      "epoca": "Jóvenes",
+      "especificacion": "Acceso general",
+      "horario": "Investigación y visita guiada",
+      "observaciones": "--"
+    },
+    {
+      "epoca": "Adulto mayor",
+      "especificacion": "Rampas y áreas de descanso",
+      "horario": "Recorrido libre y visitas guiadas",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "Tarifas: -Extranjeros: S/. 30 -Nacionales y Comunidad andina: S/. 20 -Estudiantes y público infantil (>5): S/. 15 -Adultos mayores (<65)"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Alquiler de locales para eventos sociales"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Centros de interpretación",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Boletería",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Centro Histórico de Trujillo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Centro Histórico de Trujillo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Orquideario",
+      "observacion": "Centro Histórico de Trujillo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "Centro Historico de Trujillo 3 y 4 estrellas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "Centro Histórico de Trujillo 2 y 3"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Centro Histórico de Trujillo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Centro Histórico de Trujillo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Centro Histórico de Trujillo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Centro Histórico de Trujillo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Centro Histórico de Trujillo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Centro Histórico de Trujillo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Centro Histórico de Trujillo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Alquiler del local para eventos sociales. Centro Histórico de Trujillo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Centro Histórico de Trujillo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Cines o Teatros",
+      "observacion": "Centro Histórico de Trujillo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Centro Histórico de Trujillo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "Centro Histórico de Trujillo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Centro Histórico de Trujillo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Centro Histórico de Trujillo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Centro Histórico de Trujillo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Centro Histórico de Trujillo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "Centro Histórico de Trujillo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "Centro Histórico de Trujillo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Centro Histórico de Trujillo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Museo de Sitio Turísticos",
+      "observacion": "Centro Histórico de Trujillo"
+    }
+  ],
+  "descripcion": "El Museo de Arte Moderno de Trujillo (MAM) es uno de los espacios culturales más importantes del norte del Perú. Fue fundado en 2006 por el reconocido artista trujillano Gerardo Chávez con el propósito de descentralizar la cultura, promover el arte contemporáneo y acercar las artes visuales a la comunidad. Ubicado en la vía a Laredo, el museo alberga una valiosa colección de pinturas, esculturas y dibujos de artistas peruanos e internacionales, además de una sala permanente dedicada a la obra de su fundador.\nTras permanecer cerrado desde 2017 debido a los daños ocasionados por el fenómeno de El Niño Costero y, posteriormente, por la pandemia, el museo reabrió sus puertas con una infraestructura renovada y una propuesta museográfica moderna. Bajo la dirección de Gerardo Amador Chávez-Maza, el MAM busca consolidarse como un \"museo vivo\", ofreciendo exposiciones temporales, actividades educativas, talleres y programas culturales dirigidos a niños, jóvenes y adultos.\nActualmente, el Museo de Arte Moderno de Trujillo representa un importante referente para la difusión del arte y el fortalecimiento de la identidad cultural de la región La Libertad. Su reapertura ha impulsado la participación de la comunidad y el turismo cultural, convirtiéndose en un espacio de encuentro, aprendizaje y reflexión que contribuye a posicionar a Trujillo como un centro de desarrollo artístico y cultural en el país.\nEl museo cuenta con una sala de exposición permanente dedicada al artista Gerardo Chávez, diseñada para exhibir parte de su producción artística en un ambiente que permite apreciar su trayectoria, estilo y aportes al arte peruano. En esta sala se encuentra la emblemática obra \"La procesión de la papa\", declarada Patrimonio Cultural de la Nación, considerada una de las piezas más representativas del artista y uno de los principales atractivos del museo.\nEl museo de arte moderno cuenta con programas educativos y actividades culturales, que incitan a la población y estudiantes a valorar y preservar la historia del distrito de Laredo y centro poblado de Barraza",
+  "particularidades": "",
+  "estado_actual": "Bueno, porque conserva una importante colección artística y una infraestructura diseñada para exposiciones culturales y educativas. Las piezas en exhibición se encuentran en buen estado.",
+  "observaciones": "Es el primer museo de arte moderno del norte del Perú y uno de los principales espacios dedicados al arte contemporáneo en el país.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "El Museo de Arte Moderno de Trujillo (MAM) es uno de los espacios culturales más importantes del norte del Perú. Fue fundado en 2006 por el reconocido artista trujillano Gerardo Chávez con el propósito de descentralizar la cultura, promover el arte contemporáneo y acercar las artes visuales a la comunidad. Ubicado en la vía a Laredo, el museo alberga una valiosa colección de pinturas, esculturas y dibujos de artistas peruanos e internacionales, además de una sala permanente dedicada a la obra de su fundador.\nTras permanecer cerrado desde 2017 debido a los daños ocasionados por el fenómeno de El Niño Costero y, posteriormente, por la pandemia, el museo reabrió sus puertas con una infraestructura renovada y una propuesta museográfica moderna. Bajo la dirección de Gerardo Amador Chávez-Maza, el MAM busca consolidarse como un \"museo vivo\", ofreciendo exposiciones temporales, actividades educativas, talleres y programas culturales dirigidos a niños, jóvenes y adultos.\nActualmente, el Museo de Arte Moderno de Trujillo representa un importante referente para la difusión del arte y el fortalecimiento de la identidad cultural de la región La Libertad. Su reapertura ha impulsado la participación de la comunidad y el turismo cultural, convirtiéndose en un espacio de encuentro, aprendizaje y reflexión que contribuye a posicionar a Trujillo como un centro de desarrollo artístico y cultural en el país.\nEl museo cuenta con una sala de exposición permanente dedicada al artista Gerardo Chávez, diseñada para exhibir parte de su producción artística en un ambiente que permite apreciar su trayectoria, estilo y aportes al arte peruano. En esta sala se encuentra la emblemática obra \"La procesión de la papa\", declarada Patrimonio Cultural de la Nación, considerada una de las piezas más representativas del artista y uno de los principales atractivos del museo.\nEl museo de arte moderno cuenta con programas educativos y actividades culturales, que incitan a la población y estudiantes a valorar y preservar la historia del distrito de Laredo y centro poblado de Barraza"
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, porque conserva una importante colección artística y una infraestructura diseñada para exposiciones culturales y educativas. Las piezas en exhibición se encuentran en buen estado."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "Es el primer museo de arte moderno del norte del Perú y uno de los principales espacios dedicados al arte contemporáneo en el país."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Nacionales\n6\nMuseo de Arte Moderno\n2026\nDatos obtenidos del Museo de Arte Moderno\nTuristas Extranjeros\n44\nMuseo de Arte Moderno\n2026\nDatos obtenidos del Museo de Arte Moderno"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nLa Libertad/Trujillo/Trujillo\n-\nLa Libertad/Trujillo/Laredo\nPlaza Mayor de Trujillo hasta el Museo de Arte Moderno\nTerrestre\nAutomóvil particular\nAsfaltado\n4.8 km/30 min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nTarifas:\n-Extranjeros: S/. 30\n-Nacionales y Comunidad andina: S/. 20\n-Estudiantes y público infantil (>5): S/. 15\n-Adultos mayores (<65)"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n11:00 a.m.\n-\n07:00 p.m.\nDe martes a domingo."
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\nToma de fotografiás sin flash\nOtros\nEstudios e Investigación\n--\nOtros\nRealización de eventos\n--\nCultura y Folclore\nFerias\n--\nCultura y Folclore\nApreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nAlimentación\nCafeterías\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nOtros (Especificar)\nAlquiler de locales para eventos sociales\nInstalaciones Privadas\nAlimentación\nBares\n--\nInstalaciones Públicas\nServicios Públicos\nCaminos peatonales\n--\nInstalaciones Públicas\nServicios Públicos\nOficina de Información turística\n--\nInstalaciones Públicas\nServicios Públicos\nCentros de interpretación\n--\nInstalaciones Públicas\nServicios Públicos\nBoletería\n--\nInstalaciones Públicas\nServicios Públicos\nEstacionamiento de vehículos\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlimentación\nRestaurantes\nCentro Histórico de Trujillo\nAlimentación\nKioskos de comida y bebidas\nCentro Histórico de Trujillo\nServicios Públicos\nOrquideario\nCentro Histórico de Trujillo\nAlojamiento\nHoteles (especificar categorías)\nCentro Historico de Trujillo 3 y 4 estrellas\nAlojamiento\nHostales (especificar categorías)\nCentro Histórico de Trujillo 2 y 3\nAlimentación\nBares\nCentro Histórico de Trujillo\nAlimentación\nFuentes de soda\nCentro Histórico de Trujillo\nAlimentación\nCafeterías\nCentro Histórico de Trujillo\nAlimentación\nVenta de comida Rápida\nCentro Histórico de Trujillo\nOtros Servicios Turísticos\nAgencia de Viajes\nCentro Histórico de Trujillo\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nCentro Histórico de Trujillo\nOtros Servicios Turísticos\nVenta de artesanía\nCentro Histórico de Trujillo\nOtros Servicios Turísticos\nOtros (Especificar)\nAlquiler del local para eventos sociales. Centro Histórico de Trujillo\nLugares de Recreación\nDiscotecas\nCentro Histórico de Trujillo\nLugares de Recreación\nCines o Teatros\nCentro Histórico de Trujillo\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nCentro Histórico de Trujillo\nLugares de Recreación\nKaraoke\nCentro Histórico de Trujillo\nLugares de Recreación\nBares\nCentro Histórico de Trujillo\nLugares de Recreación\nJuegos Infantiles\nCentro Histórico de Trujillo\nLugares de Recreación\nCentros Deportivos\nCentro Histórico de Trujillo\nServicios Públicos\nEstacionamiento de vehículos\nCentro Histórico de Trujillo\nServicios Públicos\nSeñales turísticas de orientación\nCentro Histórico de Trujillo\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\nCentro Histórico de Trujillo\nServicios Públicos\nOficina de Información turística\nCentro Histórico de Trujillo\nServicios Públicos\nMuseo de Sitio Turísticos\nCentro Histórico de Trujillo"
+    },
+    {
+      "titulo": "Servicios Complementarios dentro del recurso",
+      "contenido": "Servicio Complementario\nObservación\nServicios de internet\n--"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nBancos\nCentro Histórico de Trujillo\nEstación de servicios, grifos, gasolineras y gasocentros\nCentro Histórico de Trujillo\nBodegas o minimarkets\nCentro Histórico de Trujillo\nServicios de internet\nCentro Histórico de Trujillo\nCajero automático\nCentro Histórico de Trujillo\nCasa de cambio\nCentro Histórico de Trujillo\nServicio de correos\nCentro Histórico de Trujillo\nServicio de estacionamiento\nCentro Histórico de Trujillo\nCentro de salud - tópico\nCentro Histórico de Trujillo\nVenta de materiales para fotografías\nCentro Histórico de Trujillo\nSeguridad / POLTUR / Comisaría\nCentro Histórico de Trujillo\nLibrerías\nCentro Histórico de Trujillo\nAlquiler y compra de equipos deportivos\nCentro Histórico de Trujillo\nServicios de taxis\nCentro Histórico de Trujillo"
+    },
+    {
+      "titulo": "Condiciones de Accesibilidad al Visitante",
+      "contenido": "Visitante\nInstalación\nActividades y/o programas\nEquipamiento\nObservación\nPersonas con discapacidad física\nRampas de acceso y circulación accesible\nTalleres de pintura en cerámica, presentaciones artísticas\n--\n--\nNiños\nAcceso a todas las salas\nVisitas escolares\n--\n--\nJóvenes\nAcceso general\nInvestigación y visita guiada\n--\n--\nAdulto mayor\nRampas y áreas de descanso\nRecorrido libre y visitas guiadas\n--\n--"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\n--\nAlcantarillado sanitario\n--\nLuz (Suministro Eléctrico)\n--\nSistemas de tratamiento alternativo de residuos (Biodigestor, pozo séptico, otros)\n--\nSeñalización turística\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nEnergía Alternativa\nCentro Histórico de Trujillo\nAlcantarillado sanitario\nCentro Histórico de Trujillo\nLuz (Suministro Eléctrico)\nCentro Histórico de Trujillo\nAgua potable\nCentro Histórico de Trujillo\nTeléfono\nCentro Histórico de Trujillo\nSeñalización turística\nCentro Histórico de Trujillo"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\n--\nPrivado:\nFundación Gerardo Chávez\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nEn tenencia de la Fundación Gerardo Chávez\nAdministrador por\nNombre\nTelmo Rojas Maza\nTiempo de administración\nDesde el 16 de noviembre de 2025 hasta la actualidad."
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nGerencia Regional de Comercio Exterior, Turismo y Artesanía - La Libertad\nNombre (Persona(s) responsable(s) del inventario turístico):\nZoila Yuleysi Paredes Ruiz\nCargo:\nSubgerente de Turismo\nCorreo:\nzparedesr@regionlalibertad.gob.pe\nTeléfono:\n953414088\nFuentes Bibliográfica:\nClavijo Arraiza, C. (2025, 19 de noviembre). Museo de Arte Moderno de Trujillo: “Hemos recibido a 2 mil personas. Esto nos llena de amor, orgullo y ganas”. Buena Pepa. https://buenapepa.pe/museo-de-arte-moderno-trujillo-2-mil-visitas/\nRedacción Conexión Norte. (2025, 14 de noviembre). Gerardo Chávez vive: Museo de Arte Moderno reabre sus puertas para Trujillo, el Perú y el mundo. Conexión Norte.\nhttps://conexionnorte.com/gerardo-chavez-vive-museo-de-arte-moderno-reabre-sus-puertas-para-trujillo-el-peru-y-el-mundo/\nDirección Desconcentrada de Cultura La Libertad. (s. f.). Visite el Museo de Arte Moderno en el marco del Día Internacional de los Museos.\nhttps://ddclalibertad.gob.pe/visite-el-museo-de-arte-moderno-en-el-marco-del-dia-internacional-de-los-museos/\nRedacción COSAS. (2025, 16 de noviembre). El Museo de Arte Moderno de Trujillo vuelve a abrir sus puertas con el legado de Gerardo Chávez. COSAS.\nhttps://cosas.pe/actualidad/el-museo-de-arte-moderno-de-trujillo-vuelve-abrir-sus-\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\nEl museo ha permanecido cerrado desde el sábado 18 de julio hasta el día miércoles 22 de julio por cambio de pinturas en una de sus salas.\nFecha:\n5/08/2026 08:36:07"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -8.10961230145882,
+    "longitud": -78.99499937571102
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-8.10961230145882,-78.99499937571102"
+}

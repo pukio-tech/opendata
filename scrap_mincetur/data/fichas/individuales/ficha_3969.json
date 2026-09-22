@@ -1,0 +1,362 @@
+{
+  "cod_ficha": 3969,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=3969",
+  "nombre": "Catarata Velo De Plata",
+  "departamento": "San Martín",
+  "provincia": "Tocache",
+  "distrito": "UCHIZA",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "j. Caídas de agua",
+  "subtipo": "Cataratas",
+  "jerarquia": "1",
+  "altitud": "1261",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=385247",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=385247",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=385210",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=498096",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=498097",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=498098",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=498101"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Estudios e Investigación",
+    "Naturaleza - Observación de fauna",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de paisaje",
+    "Deportes / Aventura - Caminata/Trekking",
+    "Deportes / Aventura - Camping"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de fauna",
+      "observacion": "Mono choro de cola amarilla, mono tocón, mono leoncillo",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fauna02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "Tornillo, cedro, capirona, shimbillo, helechos, épico, pan de árbol.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Camping",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/camping02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "San Martín/Tocache/Tocache - San Martín/Tocache/Uchiza",
+      "detalle": "Plaza de Armas de la ciudad de Tocache - Plaza de Armas del poblado de Uchiza (Por la carretera regional 111 - 12A)",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "44.1 Km. / 1 hora"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "San Martín/Tocache/Uchiza - San Martín/Tocache/Uchiza",
+      "detalle": "Plaza de Armas del poblado de Uchiza - Puente Criznejas",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "13 km. / 30 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "San Martín/Tocache/Uchiza - San Martín/Tocache/Uchiza",
+      "detalle": "Puente Criznejas - Desvío al caserío Tingo de Uchiza",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "8.1 km. / 20 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "San Martín/Tocache/Uchiza - San Martín/Tocache/Uchiza",
+      "detalle": "Desvío al caserío Tingo de Uchiza - Local del Refugio Velo de Plata",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "2.8 km. / 10 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "San Martín/Tocache/Uchiza - San Martín/Tocache/Uchiza",
+      "detalle": "Local del Refugio Velo de Plata - Catarata Velo de Plata",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Sendero",
+      "distancia_tiempo": "1.8 km. / 45 minutos"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "54",
+      "horario": "Libro de registro de visitas de la Asociación de Agricultores Montes del Sinaí",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "301",
+      "horario": "Libro de registro de visitas de la Asociación de Agricultores Montes del Sinaí",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "1728",
+      "horario": "Libro de registro de visitas de la Asociación de Agricultores Montes del Sinaí",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "08:00 a.m. - 04:00 p.m. Se recomienda contactarse con el promotor de turismo de la Asociación, Reyner Mosqueda, al teléfono: 937 384 295. Llevar repelente, bloqueador, zapatillas, gorro, capota, cámara fotográfica.",
+      "observaciones": "Se recomienda contactarse con el promotor de turismo de la Asociación, Reyner Mosqueda, al teléfono: 937 384 295. Llevar repelente, bloqueador, zapatillas, gorro, capota, cámara fotográfica."
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "Entrada General: S/ 5.00 - Menores de 5 años no pagan."
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Previo aviso a la Asociación, al 937 384 295"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de Campamento(camping)",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "5 tenedores en la ciudad de Tocache"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Tocache"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Tocache"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Ciudad de Tocache"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Tocache"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Tocache y poblado de Uchiza"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Ciudad de Tocache"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Tocache"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "Ciudad de Tocache"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Tocache"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Ciudad de Tocache"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "Ciudad de Tocache"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Ciudad de Tocache"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Puesto de auxilio rápido",
+      "observacion": "Ciudad de Tocache y poblado de Uchiza"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "3 estrellas (***) en la ciudad de Tocache"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Tocache"
+    }
+  ],
+  "descripcion": "Catarata ubicada en el caserío Criznejas, perteneciente al distrito de Uchiza, en un ecosistema de Selva Alta dentro de la Concesión para Conservación “Bosques de Sinaí”.\nLa catarata se origina por la depresión del río Criznejas, a una impresionante altura de 407 metros, la que se divide en dos caídas; la primera caída cuenta con 68 metros y la segunda con 339 metros. Esta última caída es accesible para los visitantes y visible desde varios kilómetros, y por contar con pozas naturales en la parte baja permite el disfrute de sus aguas frescas. En todo momento se deja sentir la brisa con rocío que proporciona un ambiente particular. Los habitantes de la zona le atribuyen como la catarata más alta de la región, ya que no se ha identificado otra similar que esté aperturada al turismo.\nEl recinto de la catarata y el paisaje, son ideales para la toma de fotografías, además, por presentar una composición florística muy heterogénea entre especies de tornillo, cedro, capirona, shimbillo, helechos, épico, pan de árbol, entre otros. En el bosque hay diversidad de fauna, sin embargo, destaca la presencia del Mono choro de cola amarilla, el cual se encuentra en peligro de extinción. El trayecto antes de penetrar en el bosque, permite divisar zonas de ganadería y cultivos agrícolas, principalmente café.\nEste impresionante lugar es el sitio predilecto para los visitantes que se apasionan por las caminatas en áreas boscosas, la recreación y la toma de fotografías de las formaciones de agua.",
+  "particularidades": "",
+  "estado_actual": "Bueno, se encuentra bajo el cuidado de la Asociación de Agricultores Montes del Sinaí",
+  "observaciones": "La Concesión para Conservación “Bosques de Sinaí” posee una extensión de 7, 554.96 hectáreas.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Catarata ubicada en el caserío Criznejas, perteneciente al distrito de Uchiza, en un ecosistema de Selva Alta dentro de la Concesión para Conservación “Bosques de Sinaí”.\nLa catarata se origina por la depresión del río Criznejas, a una impresionante altura de 407 metros, la que se divide en dos caídas; la primera caída cuenta con 68 metros y la segunda con 339 metros. Esta última caída es accesible para los visitantes y visible desde varios kilómetros, y por contar con pozas naturales en la parte baja permite el disfrute de sus aguas frescas. En todo momento se deja sentir la brisa con rocío que proporciona un ambiente particular. Los habitantes de la zona le atribuyen como la catarata más alta de la región, ya que no se ha identificado otra similar que esté aperturada al turismo.\nEl recinto de la catarata y el paisaje, son ideales para la toma de fotografías, además, por presentar una composición florística muy heterogénea entre especies de tornillo, cedro, capirona, shimbillo, helechos, épico, pan de árbol, entre otros. En el bosque hay diversidad de fauna, sin embargo, destaca la presencia del Mono choro de cola amarilla, el cual se encuentra en peligro de extinción. El trayecto antes de penetrar en el bosque, permite divisar zonas de ganadería y cultivos agrícolas, principalmente café.\nEste impresionante lugar es el sitio predilecto para los visitantes que se apasionan por las caminatas en áreas boscosas, la recreación y la toma de fotografías de las formaciones de agua."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "Reconocimiento por la Municipalidad Distrital de Uchiza como lugar turístico según Resolución de Alcaldía N° 221-MDU-2012/A"
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, se encuentra bajo el cuidado de la Asociación de Agricultores Montes del Sinaí"
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "La Concesión para Conservación “Bosques de Sinaí” posee una extensión de 7, 554.96 hectáreas."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n54\nLibro de registro de visitas de la Asociación de Agricultores Montes del Sinaí\n2022\nValidado por la Municipalidad Distrital de Uchiza y la Dirección Sub Regional de Comercio Exterior y Turismo de San Martín.\nTuristas Nacionales\n301\nLibro de registro de visitas de la Asociación de Agricultores Montes del Sinaí\n2022\nValidado por la Municipalidad Distrital de Uchiza y la Dirección Sub Regional de Comercio Exterior y Turismo de San Martín.\nVisitantes Locales(Excursionistas)\n1728\nLibro de registro de visitas de la Asociación de Agricultores Montes del Sinaí\n2022\nValidado por la Municipalidad Distrital de Uchiza y la Dirección Sub Regional de Comercio Exterior y Turismo de San Martín."
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nSan Martín/Tocache/Tocache\n-\nSan Martín/Tocache/Uchiza\nPlaza de Armas de la ciudad de Tocache - Plaza de Armas del poblado de Uchiza (Por la carretera regional 111 - 12A)\nTerrestre\nAutomóvil particular\nAsfaltado\n44.1 Km. / 1 hora\n1\nSan Martín/Tocache/Uchiza\n-\nSan Martín/Tocache/Uchiza\nPlaza de Armas del poblado de Uchiza - Puente Criznejas\nTerrestre\nAutomóvil particular\nAfirmado\n13 km. / 30 minutos\n1\nSan Martín/Tocache/Uchiza\n-\nSan Martín/Tocache/Uchiza\nPuente Criznejas - Desvío al caserío Tingo de Uchiza\nTerrestre\nAutomóvil particular\nAfirmado\n8.1 km. / 20 minutos\n1\nSan Martín/Tocache/Uchiza\n-\nSan Martín/Tocache/Uchiza\nDesvío al caserío Tingo de Uchiza - Local del Refugio Velo de Plata\nTerrestre\nAutomóvil particular\nAfirmado\n2.8 km. / 10 minutos\n1\nSan Martín/Tocache/Uchiza\n-\nSan Martín/Tocache/Uchiza\nLocal del Refugio Velo de Plata - Catarata Velo de Plata\nTerrestre\nA pie\nSendero\n1.8 km. / 45 minutos"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nEntrada General: S/ 5.00 - Menores de 5 años no pagan."
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n08:00 a.m.\n-\n04:00 p.m.\nSe recomienda contactarse con el promotor de turismo de la Asociación, Reyner Mosqueda, al teléfono: 937 384 295. Llevar repelente, bloqueador, zapatillas, gorro, capota, cámara fotográfica."
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nEstudios e Investigación\n--\nNaturaleza\nObservación de fauna\nMono choro de cola amarilla, mono tocón, mono leoncillo\nNaturaleza\nObservación de flora\nTornillo, cedro, capirona, shimbillo, helechos, épico, pan de árbol.\nNaturaleza\nObservación de paisaje\n--\nDeportes / Aventura\nCaminata/Trekking\n--\nDeportes / Aventura\nCamping\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nAlimentación\nOtros (Especificar)\nPrevio aviso a la Asociación, al 937 384 295\nInstalaciones Públicas\nServicios Públicos\nZonas de Campamento(camping)\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlimentación\nRestaurantes\n5 tenedores en la ciudad de Tocache\nAlimentación\nBares\nCiudad de Tocache\nAlimentación\nKioskos de comida y bebidas\nCiudad de Tocache\nAlimentación\nVenta de comida Rápida\nCiudad de Tocache\nLugares de Recreación\nDiscotecas\nCiudad de Tocache\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Tocache y poblado de Uchiza\nAlimentación\nFuentes de soda\nCiudad de Tocache\nAlimentación\nCafeterías\nCiudad de Tocache\nLugares de Recreación\nKaraoke\nCiudad de Tocache\nLugares de Recreación\nBares\nCiudad de Tocache\nLugares de Recreación\nJuegos Infantiles\nCiudad de Tocache\nServicios Públicos\nSeñales turísticas de orientación\nCiudad de Tocache\nServicios Públicos\nOficina de Información turística\nCiudad de Tocache\nServicios Públicos\nPuesto de auxilio rápido\nCiudad de Tocache y poblado de Uchiza\nAlojamiento\nHoteles (especificar categorías)\n3 estrellas (***) en la ciudad de Tocache\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Tocache"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Tocache\nBancos\nCiudad de Tocache\nCajero automático\nCiudad de Tocache\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Tocache\nCentro de salud - tópico\nCiudad de Tocache y poblado de Uchiza\nVenta de materiales para fotografías\nCiudad de Tocache\nSeguridad / POLTUR / Comisaría\nCiudad de Tocache y poblado de Uchiza\nAlquiler y compra de equipos deportivos\nCiudad de Tocache\nLibrerías\nCiudad de Tocache\nBodegas o minimarkets\nCiudad de Tocache\nOtros(especificar)\nServicio de mototaxis - Ciudad de Tocache y poblado de Uchiza\nCasa de cambio\nCiudad de Tocache\nServicio de correos\nCiudad de Tocache"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nSeñalización turística\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Tocache\nLuz (Suministro Eléctrico)\nCiudad de Tocache\nTeléfono\nCiudad de Tocache\nSistemas de tratamiento alternativo de residuos (Biodigestor, pozo séptico, otros)\nCiudad de Tocache\nSeñalización turística\nCiudad de Tocache\nAlcantarillado sanitario\nCiudad de Tocache\nAlcantarillado pluvial\nCiudad de Tocache"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nGobierno Regional San Martín\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nOtorgado en Concesión para conservación mediante Resolución Directoral Ejecutiva N° 002- 2015/GRSM/ARA/DEACRN\nAdministrador por\nNombre\nAsociación de Agricultores Montes de Sinaí - ASOAMSI\nTiempo de administración\nDesde febrero del 2015"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo de San Martín\nNombre (Persona(s) responsable(s) del inventario turístico):\nEdison Rodríguez Chupe\nCargo:\nEspecialista en Turismo\nCorreo:\nedison.rodriguezchupe@gmail.com\nTeléfono:\n976 980 815\nFuentes Bibliográfica:\n• Estudio \"Estado de conservación de Lagothrix flavicauda y otros primates en bosques montanos\" Autor: Universidad Nacional Mayor de San Marcos, Año: 2017. Enlace: https://revistasinvestigacion.unmsm.edu.pe/index.php/rpb/article/view/13101\n- \"Guía de Información Turística de la Región San Martín\", Autor: Gobierno Regional de San Martín; Año: 2014. Página 262.\n- Nota escrita \"Catarata Velo de Plata de Tocache reabre sus puertas al Turismo\": https://www.gob.pe/institucion/regionsanmartin-dircetur/noticias/546164-catarata-velo-de-plata-de-tocache-reabre-sus-puertas-al-turismo\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\nReportaje Canal Nacional Latina Televisión: \"Conozca la impresionante Catarata Velo de Plata\": https://web.facebook.com/watch/?v=272800504252836\nReferencia de las últimas intervenciones en el Recurso Turístico:\nMejoramiento del acceso al recurso por el Gobierno Regional San Martín (2.8 kilómetros)\nFecha:\n1/09/2023 12:56:21"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -8.52018,
+    "longitud": -76.4948
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-8.52018,-76.4948"
+}

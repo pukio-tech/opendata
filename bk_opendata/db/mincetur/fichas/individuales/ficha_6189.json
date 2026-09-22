@@ -1,0 +1,295 @@
+{
+  "cod_ficha": 6189,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=6189",
+  "nombre": "Laguna De Quelluacocha",
+  "departamento": "Cajamarca",
+  "provincia": "Cajamarca",
+  "distrito": "NAMORA",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "g. Cuerpo de Agua",
+  "subtipo": "Lagunas",
+  "jerarquia": "POR JERARQUIZAR",
+  "altitud": "3 397m.s.n.m",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=538019",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=538019",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=538074",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=538120",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=538121",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=538075",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=538076"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Paseos - Excursiones",
+    "Deportes / Aventura - Caminata/Trekking",
+    "Paseos - Paseos en bote"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Paseos",
+      "tipo": "Excursiones",
+      "observacion": "Alrededor de la Laguna",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/excursiones02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "alrededor de la Laguna",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    },
+    {
+      "actividad": "Paseos",
+      "tipo": "Paseos en bote",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paseo_bote02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Cajamarca/Cajamarca/Cajamarca - Cajamarca/Cajamarca/Namora",
+      "detalle": "Plaza de Cajamarca hasta plaza de Namora",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "24 Km/40 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Cajamarca/Cajamarca/Namora - Cajamarca/Cajamarca/Namora",
+      "detalle": "Plaza de Namora hasta Quelluacocha",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "15 Km/30 min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "300",
+      "horario": "Registro de visitas",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "100",
+      "horario": "Registro de visitas al lugar",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "3",
+      "horario": "libro de registros",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "08:00 a.m. - 05:00 p.m. --",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "En Cajamarca a 30 minutos de Namora Hoteles de 4,3,2,y 1 estrella"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "En Cajamarca a 30 minutos de Namora"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "En Namora solo hasta el 1/2 día"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "En Cajamarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Peñas",
+      "observacion": "En Cajamarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Night Clubs",
+      "observacion": "En Cajamarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "En Cajamarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "En Cajamarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Bancos - Cajeros",
+      "observacion": "En Cajamarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Casa de Cambio",
+      "observacion": "En Cajamarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Oficina de Información",
+      "observacion": "En Cajamarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Seguridad / POLTUR",
+      "observacion": "en Cajamarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "En Cajamarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Internet",
+      "observacion": "En Cajamarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Tópico",
+      "observacion": "En Cajamarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de Material para Fotografía",
+      "observacion": "En Cajamarca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "En Cajamarca"
+    }
+  ],
+  "descripcion": "Ubicada en el Caserío de Quelluacocha al Noreste y a 8 kms. del distrito de Namora, a una altura de 3,500 m.s.n.m. con una profundidad de 13.5 metros y área de 228,100 m2 y 2,433.20 ml., el color de sus aguas es de verde gris claro. La Laguna cuenta con una vegetación propia, en sus aguas habitan los famosos Quelluas (patos silvestres en peligro de extinción) de donde viene el nombre de esta laguna, en la parte central de la laguna está cubierta por totora, la misma que es utilizada por los pobladores para alimento de su ganado en tiempo de estiaje.",
+  "particularidades": "",
+  "estado_actual": "Bueno, continuo mantenimiento a cargo de la comunidad.",
+  "observaciones": "Ubicada a 8 km. de namora ( 1 km. de Carretera Asfaltada Namora-Matara y 7 km. de Trocha desde el desvio a Quelluacocha.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Ubicada en el Caserío de Quelluacocha al Noreste y a 8 kms. del distrito de Namora, a una altura de 3,500 m.s.n.m. con una profundidad de 13.5 metros y área de 228,100 m2 y 2,433.20 ml., el color de sus aguas es de verde gris claro. La Laguna cuenta con una vegetación propia, en sus aguas habitan los famosos Quelluas (patos silvestres en peligro de extinción) de donde viene el nombre de esta laguna, en la parte central de la laguna está cubierta por totora, la misma que es utilizada por los pobladores para alimento de su ganado en tiempo de estiaje."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, continuo mantenimiento a cargo de la comunidad."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "Ubicada a 8 km. de namora ( 1 km. de Carretera Asfaltada Namora-Matara y 7 km. de Trocha desde el desvio a Quelluacocha."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nVisitantes Locales(Excursionistas)\n300\nRegistro de visitas\n2023\nDatos obtenidos por un poblador aledaño a la laguna, el señor Ángeles Gutiérrez Pérez\nTuristas Nacionales\n100\nRegistro de visitas al lugar\n2023\nDatos obtenidos por un poblador aledaño a la laguna, el señor Ángeles Gutiérrez Pérez\nTuristas Extranjeros\n3\nlibro de registros\n2023\nDatos obtenidos por un poblador aledaño a la laguna, el señor Ángeles Gutiérrez Pérez"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nCajamarca/Cajamarca/Cajamarca\n-\nCajamarca/Cajamarca/Namora\nPlaza de Cajamarca hasta plaza de Namora\nTerrestre\nAutomóvil particular\nAsfaltado\n24 Km/40 min\n1\nCajamarca/Cajamarca/Namora\n-\nCajamarca/Cajamarca/Namora\nPlaza de Namora hasta Quelluacocha\nTerrestre\nAutomóvil particular\nTrocha carrozable\n15 Km/30 min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n08:00 a.m.\n-\n05:00 p.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nPaseos\nExcursiones\nAlrededor de la Laguna\nDeportes / Aventura\nCaminata/Trekking\nalrededor de la Laguna\nPaseos\nPaseos en bote\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\nEn Cajamarca a 30 minutos de Namora Hoteles de 4,3,2,y 1 estrella\nAlimentación\nRestaurantes\nEn Cajamarca a 30 minutos de Namora\nAlimentación\nKioskos de comida y bebidas\nEn Namora solo hasta el 1/2 día\nLugares de Recreación\nDiscotecas\nEn Cajamarca\nLugares de Recreación\nPeñas\nEn Cajamarca\nLugares de Recreación\nNight Clubs\nEn Cajamarca\nOtros Servicios Turísticos\nVenta de artesanía\nEn Cajamarca\nOtros Servicios Turísticos\nAgencia de Viajes\nEn Cajamarca\nOtros Servicios Turísticos\nBancos - Cajeros\nEn Cajamarca\nOtros Servicios Turísticos\nCasa de Cambio\nEn Cajamarca\nOtros Servicios Turísticos\nOficina de Información\nEn Cajamarca\nOtros Servicios Turísticos\nSeguridad / POLTUR\nen Cajamarca\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nEn Cajamarca\nOtros Servicios Turísticos\nServicio de Internet\nEn Cajamarca\nOtros Servicios Turísticos\nTópico\nEn Cajamarca\nOtros Servicios Turísticos\nVenta de Material para Fotografía\nEn Cajamarca\nLugares de Recreación\nCentros Deportivos\nEn Cajamarca"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Cajamarca\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Cajamarca\nServicio de estacionamiento\nCiudad de Cajamarca\nServicios de taxis\nCiudad de Cajamarca\nCentro de salud - tópico\nCiudad de Cajamarca\nSeguridad / POLTUR / Comisaría\nCiudad de Cajamarca\nBodegas o minimarkets\nCiudad de Cajamarca"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Cajamarca\nLuz (Suministro Eléctrico)\nCiudad de Cajamarca\nTeléfono\nCiudad de Cajamarca\nSeñalización turística\nCiudad de Cajamarca\nAlcantarillado sanitario\nCiudad de Cajamarca"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nEstado Peruano\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nEstado Peruano\nAdministrador por\nNombre\nAlcalde Centro poblado Quelluacocha\nTiempo de administración\n2012 - 12 años"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDIRECCIÓN REGIONAL DE COMERCIO EXTERIOR Y TURISMO CAJAMARCA\nNombre (Persona(s) responsable(s) del inventario turístico):\nESPERANZA ESCOBAR PORTAL\nCargo:\nTECNICO EN TURISMO I\nCorreo:\nmescobar@regioncajamarca.gob.pe\nTeléfono:\n962690326\nFuentes Bibliográfica:\nGUIA TURISTICA DE NAMORA 2010 - DIRECCIÓN REGIONAL DE COMERCIO EXTERIOR Y TURISMO CAJAMARCA\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n31/05/2024 21:31:24"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -7.1741350529585395,
+    "longitud": -78.2779312133789
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-7.1741350529585395,-78.2779312133789"
+}

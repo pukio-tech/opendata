@@ -1,0 +1,273 @@
+{
+  "cod_ficha": 466,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=466",
+  "nombre": "Sitio Arqueológico De Paru Paru",
+  "departamento": "Puno",
+  "provincia": "Moho",
+  "distrito": "MOHO",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Sitios Arqueológicos",
+  "subtipo": "Zonas arqueológicas",
+  "jerarquia": "1",
+  "altitud": "3865 m.s.n.m.",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=507219",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=507219",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=507220",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=507187",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=507221",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=507188",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=507189",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=508938",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=508939",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=508988"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Estudios e Investigación",
+    "Naturaleza - Observación de paisaje",
+    "Cultura y Folclore - Rituales místicos o tradicionales"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "Paisaje rural de Vilquechico y el Lago Titicaca",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Rituales místicos o tradicionales",
+      "observacion": "Previa coordinación con la Comunidad.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/rituales_misticos02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Puno/Puno/Puno - Puno/San Román/Juliaca",
+      "detalle": "Terminal Terrestre Interprovincial de Puno - Terminal Interprovincial San Francisco de Juliaca",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mini bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "45 km / 1 hora"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Puno/San Román/Juliaca - Puno/Huancané/Huancane",
+      "detalle": "Terminal Interprovincial San Francisco de Juliaca - Paradero a Moho en Huancane",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Combi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "51 kms / 1 hora"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Puno/Huancané/Huancane - Puno/Moho/Moho",
+      "detalle": "Paradero a Moho en Huancané - Terminal Interprovincial de Moho",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Combi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "46 kms / 1 hora"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Puno/Moho/Moho - Puno/Moho/Moho",
+      "detalle": "Terminal Terrestre Interprovincial de Moho - Desvio hacia el Sitio Arqueológico de Paru Paru",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Camioneta doble tracción",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "12 kms / 25 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Puno/Moho/Moho - Puno/Moho/Moho",
+      "detalle": "Desvío hacia el Sitio Arqueológico de Paru Paru - Sitio Arqueológico de Paru Paru",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Camino de Herradura",
+      "distancia_tiempo": "2.5 kms / 30 min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "18",
+      "horario": "Municipalidad Provincial de Moho",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "291",
+      "horario": "Municipalidad Provincial de Moho",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "346",
+      "horario": "Municipalidad Provincial de Moho",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "08:00 a.m. - 04:00 p.m. Por la mañana",
+      "observaciones": "Por la mañana"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": "En coordinación con la comunidad por motivos de seguridad"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Moho."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Moho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Ciudad de Moho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Moho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Ciudad de Moho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Ciudad de Moho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Ciudad de Moho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Ciudad de Moho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "Ciudad de Moho"
+    }
+  ],
+  "descripcion": "Se ubica al oeste de la ciudad de Moho, en el cerro Paru Paru en una planicie con terraplenes, presenta chullpas construidas en la época pre-inca, es decir en el periodo prehispánico entre los 1,500 a.a.C. a 1,200 a.d.C., construidas de piedra, con tallados zoomorfos, representaciones de reptiles del altiplano en alto relieve. Hay diversidad de restos como grupos de chullpas y grupos habitacionales, así como murallas defensivas construidas con grandes piedras unidas con mortero de arcilla, servía para defenderse de ataques. En el lado este del sitio quedan ruinas de una chullpa de piedra tallada, pulida y unida con argamasa de arcilla. En una de las piedras se representa el tallado de una figura de felino, al costado de estas, en una piedra larga tallada, se observa la representación de dos serpientes en alto relieve, al lado oeste de esta chullpa, lado izquierdo del camino peatonal hacia la parcialidad de Jakantaya, existen restos de edificaciones funerarias subterráneas y torreones de vigilancia. Al borde del sitio arqueológico, en el sector norte, hay dos chullpas, una de forma circular cónica invertida con una especie de techo con lajas sobresalientes a manera de resalte, sobre las lajas con mortero de barro en forma de bóveda, la otra chullpa de forma rectangular de similar tamaño, de piedra tallada y alisada, de mayor dimensión en la parte superior. En la parte central del sitio se aprecia un conjunto de terraplenes superpuestos, en la parte de arriba de uno de ellos, una especie de monolito tallado y pulido de piedra andesita, de 1.30 mt de alto con una base de 50 cm de lado. Existen otras chullpas en diverso estado de conservación, de planta circular y rectangular, y gran cantidad de tumbas subterráneas o cistas.\nLas actividades que desarrollan los turistas al visitar el Sitio Arqueológico de Paru Paru son de estudio e investigación, toma de fotografías y filmaciones, rituales místicos o tradicionales, observación del paisaje y de la flora y fauna del lugar.",
+  "particularidades": "",
+  "estado_actual": "Regular, debido al riguroso clima y la falta de labores de mantenimiento y conservación presenta destrucción en algunos lugares, ademas del poco cuidado de la población al momento de realizar sus actividades agrícolas y ganaderas en los alrededores del Recurso.",
+  "observaciones": "Fue el centro religioso y místico de la zona norte del lago Titicaca en la época pre Inca.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Se ubica al oeste de la ciudad de Moho, en el cerro Paru Paru en una planicie con terraplenes, presenta chullpas construidas en la época pre-inca, es decir en el periodo prehispánico entre los 1,500 a.a.C. a 1,200 a.d.C., construidas de piedra, con tallados zoomorfos, representaciones de reptiles del altiplano en alto relieve. Hay diversidad de restos como grupos de chullpas y grupos habitacionales, así como murallas defensivas construidas con grandes piedras unidas con mortero de arcilla, servía para defenderse de ataques. En el lado este del sitio quedan ruinas de una chullpa de piedra tallada, pulida y unida con argamasa de arcilla. En una de las piedras se representa el tallado de una figura de felino, al costado de estas, en una piedra larga tallada, se observa la representación de dos serpientes en alto relieve, al lado oeste de esta chullpa, lado izquierdo del camino peatonal hacia la parcialidad de Jakantaya, existen restos de edificaciones funerarias subterráneas y torreones de vigilancia. Al borde del sitio arqueológico, en el sector norte, hay dos chullpas, una de forma circular cónica invertida con una especie de techo con lajas sobresalientes a manera de resalte, sobre las lajas con mortero de barro en forma de bóveda, la otra chullpa de forma rectangular de similar tamaño, de piedra tallada y alisada, de mayor dimensión en la parte superior. En la parte central del sitio se aprecia un conjunto de terraplenes superpuestos, en la parte de arriba de uno de ellos, una especie de monolito tallado y pulido de piedra andesita, de 1.30 mt de alto con una base de 50 cm de lado. Existen otras chullpas en diverso estado de conservación, de planta circular y rectangular, y gran cantidad de tumbas subterráneas o cistas.\nLas actividades que desarrollan los turistas al visitar el Sitio Arqueológico de Paru Paru son de estudio e investigación, toma de fotografías y filmaciones, rituales místicos o tradicionales, observación del paisaje y de la flora y fauna del lugar."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "Declarado Patrimonio Cultural de la Nación por el Instituto Nacional de Cultura mediante R.D.N. la Nº 296/INC del 16 de mayo del 2003, y mediante la R.D.N. Nº 663/INC del 17 de julio del 2001."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Regular, debido al riguroso clima y la falta de labores de mantenimiento y conservación presenta destrucción en algunos lugares, ademas del poco cuidado de la población al momento de realizar sus actividades agrícolas y ganaderas en los alrededores del Recurso."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "Fue el centro religioso y místico de la zona norte del lago Titicaca en la época pre Inca."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n18\nMunicipalidad Provincial de Moho\n2022\nTuristas Nacionales\n291\nMunicipalidad Provincial de Moho\n2022\nVisitantes Locales(Excursionistas)\n346\nMunicipalidad Provincial de Moho\n2022"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nPuno/Puno/Puno\n-\nPuno/San Román/Juliaca\nTerminal Terrestre Interprovincial de Puno - Terminal Interprovincial San Francisco de Juliaca\nTerrestre\nMini bus público\nAsfaltado\n45 km / 1 hora\n1\nPuno/San Román/Juliaca\n-\nPuno/Huancané/Huancane\nTerminal Interprovincial San Francisco de Juliaca - Paradero a Moho en Huancane\nTerrestre\nCombi\nAsfaltado\n51 kms / 1 hora\n1\nPuno/Huancané/Huancane\n-\nPuno/Moho/Moho\nParadero a Moho en Huancané - Terminal Interprovincial de Moho\nTerrestre\nCombi\nAsfaltado\n46 kms / 1 hora\n1\nPuno/Moho/Moho\n-\nPuno/Moho/Moho\nTerminal Terrestre Interprovincial de Moho - Desvio hacia el Sitio Arqueológico de Paru Paru\nTerrestre\nCamioneta doble tracción\nAfirmado\n12 kms / 25 min\n1\nPuno/Moho/Moho\n-\nPuno/Moho/Moho\nDesvío hacia el Sitio Arqueológico de Paru Paru - Sitio Arqueológico de Paru Paru\nTerrestre\nA pie\nCamino de Herradura\n2.5 kms / 30 min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre\nEn coordinación con la comunidad por motivos de seguridad"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n08:00 a.m.\n-\n04:00 p.m.\nPor la mañana"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nEstudios e Investigación\n--\nNaturaleza\nObservación de paisaje\nPaisaje rural de Vilquechico y el Lago Titicaca\nCultura y Folclore\nRituales místicos o tradicionales\nPrevia coordinación con la Comunidad."
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlimentación\nKioskos de comida y bebidas\nCiudad de Moho.\nAlimentación\nRestaurantes\nCiudad de Moho\nAlimentación\nVenta de comida Rápida\nCiudad de Moho\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Moho\nLugares de Recreación\nJuegos Infantiles\nCiudad de Moho\nLugares de Recreación\nCentros Deportivos\nCiudad de Moho\nServicios Públicos\nEstacionamiento de vehículos\nCiudad de Moho\nServicios Públicos\nOficina de Información turística\nCiudad de Moho\nServicios Públicos\nCaminos peatonales\nCiudad de Moho"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Moho\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Moho\nServicio de estacionamiento\nCiudad de Moho\nCentro de salud - tópico\nPuesto de Salud en la ciudad de Moho\nSeguridad / POLTUR / Comisaría\nComisaria Rural PNP en la ciudad de Moho\nVenta de materiales para fotografías\nCiudad de Moho\nAlquiler y compra de equipos deportivos\nCiudad de Moho\nLibrerías\nCiudad de Moho\nBodegas o minimarkets\nCiudad de Moho\nBancos\nBanco de la Nación en la ciudad de Moho\nOtros(especificar)\nAgentes bancarios del Banco de la Nación y Viveros Ornamentales en la ciudad de Moho."
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Moho\nLuz (Suministro Eléctrico)\nCiudad de Moho\nSistemas de tratamiento alternativo de residuos (Biodigestor, pozo séptico, otros)\nCiudad de Moho\nAlternativo de Residuos (Biodigestor, pozo séptico, otros)\nCiudad de Moho"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nMinisterio de Cutura\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nLa D.D.C. de Puno está en proceso de inscripción en Registros Públicos y en el Sistema de Información Nacional de Bienes de Propiedad Estatal SINABIP.\nAdministrador por\nNombre\nAl cuidado y vigilancia de la comunidad Campesina de Jacha Paru\nTiempo de administración\nDesde el 17 de julio del 2001, de Declaración como Patrimonio Cultural de la Nación"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección de Turismo - DIRCETUR Puno / Municipalidad Provincial de Moho\nNombre (Persona(s) responsable(s) del inventario turístico):\nArq. Vadim Masciotti Cabala / Lic. Mirian Stefany Atahuachi Mamani\nCargo:\nArq. / Responsable del Inventario de Recursos Turisticos de la Provincia de Moho\nCorreo:\nvamasciotti@gmail.com / mirian.atahuachi.mamani@gmail.com\nTeléfono:\n051-351261 / 930523398 - 952036860\nFuentes Bibliográfica:\nChambi Gálvez, J. J., Calderón Mercado, J.. Una Flor y su Historia (2.ª ed., pp. 142 -). Lima, 2016.\nQuiroz Quispe, R. R.. Historia de Moho (2.ª ed.). Lima, Perú: Adrus DL Editores S.A.C. Lima. 2015.\nArkush Elizabeth. Pukaras de los Collas: Guerra y poder regional en la cuenca norte del Titicaca durante el Periodo Intermedio Tardío. Revista Los Andes, (07), 463. 2017. Recuperadohttp://www.pitt.edu/~arkush/Elizabeth_Arkush/Publications_files/Arkush_ANDES7.pdf\nTantalean Henry. Arqueología de la formación del Estado “El caso de la cuenca norte del Titicaca”. Fondo Editorial del Pedagógico San Marcos. Lima. 2008.\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n21/11/2023 10:41:26"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -15.360846,
+    "longitud": -69.49996199999998
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-15.360846,-69.49996199999998"
+}

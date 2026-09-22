@@ -1,0 +1,378 @@
+{
+  "cod_ficha": 6687,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=6687",
+  "nombre": "Cerro Hualón",
+  "departamento": "Áncash",
+  "provincia": "Huaraz",
+  "distrito": "INDEPENDENCIA",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "ñ. Zonas paisajísticas",
+  "subtipo": "Miradores naturales",
+  "jerarquia": "1",
+  "altitud": "3770",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=296240",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=296240",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=447547",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=447590",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=447605"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de paisaje",
+    "Naturaleza - Observación de aves",
+    "Deportes / Aventura - Caminata/Trekking"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "Curi qasha, gontzi casa e ichu",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de aves",
+      "observacion": "Perdiz",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/aves02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Áncash/Huaraz/Huaraz - Áncash/Huaraz/Independencia",
+      "detalle": "Ciudad de Huaraz -Cruce de Urpay",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mini bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "5km/10 minutos \""
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Áncash/Huaraz/Independencia - Áncash/Huaraz/Independencia",
+      "detalle": "Cruce Urpay - Cerro Hualon",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Camino de Herradura",
+      "distancia_tiempo": "3km/ 1 hora"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Áncash/Huaraz/Independencia - Áncash/Huaraz/Independencia",
+      "detalle": "Boulevard Pastorita Huaracina - Cerro Hualón",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "18km/25 minutos \""
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "172",
+      "horario": "Informe Técnico",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "66",
+      "horario": "Informe Técnico",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "27",
+      "horario": "Informe Técnico",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "08:00 a.m. - 04:00 p.m. Preferiblemente visitar en las mañanas",
+      "observaciones": "Preferiblemente visitar en las mañanas"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Paradores turísticos",
+      "observacion": "Ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de Campamento(camping)",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Puesto de auxilio rápido",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Museo de Sitio Turísticos",
+      "observacion": "Ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Lugares de picnic",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de bicicleta",
+      "observacion": "Ciudad de Huaraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de camionetas 4 x 4",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "1 a 3 estrellas en la Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "1 a 3 estrellas en la Ciudad de Independencia"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Independencia"
+    }
+  ],
+  "descripcion": "Se encuentra ubicado a 18 km al Suroeste de la urbe del distrito de Independencia, en el Centro Poblado Santa Rosa de Canshán, a una altura de 3770 m.s.n.m, en la región natural Suni con un clima templado frío con una temperatura anual de 12°C, seco durante los meses de mayo a octubre y con precipitaciones desde octubre a abril, con heladas entre junio, julio y agosto. Formación rocosa en esta parte de gran tamaño que se presta como mirador natural, lugar propicio para picnic y actividades de recreación, desde este punto se contempla en toda su extensión la ciudad de Huaraz con sus poblados del lado noreste, además se puede apreciar la cadena de montañas de la Cordillera Blanca como los nevados de Jatunmontepunku (5202 m.s.n.m.), Palcaraju (5289 m.s.n.m.), Tullparaju (5155 m.s.n.m.), Churup (5000 m.s.n.m.), Ucro (5209 m.s.n.m.), Ranrapalca (5517 m.s.n.m.), Pucaranra (5298 m.s.n.m.), Huamanripa (5209 m.s.n.m.) y Vallunaraju (5686 m.s.n.m.). Está ubicada a 1 km. del pueblo de Canshán área donde se puede realizar tomas fotografías, es una enorme roca y punto estratégico para obtener la visión panorámica de la ciudad de Huaraz y sus hermosos nevados. Se puede llegar por la vía que une Huaraz - Casma, a la vez apreciar las comunidades de Tuyu Grande, Huaullahuillca, Chincay, parte de Punta Callán, así como cierto tramo del Camino Inca, en la que se observa la flora representativa tales como curi qasha, gontzi casa e ichu. Entre sus interesantes sitios que guarda el cerro se encuentra vestigios arqueológicos en la ladera norte del cerro, cuyo origen aún no ha sido estudiada. Otro punto de interés es la roca en la ladera Noroeste, ideal para los amantes de la escalada en roca; ya que sus paredes cuentan con rutas de diferentes grados de dificultad que aún no han sido implementadas.",
+  "particularidades": "",
+  "estado_actual": "Bueno, porque el Centro Poblado de Canshán realiza el mantenimiento del lugar",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Se encuentra ubicado a 18 km al Suroeste de la urbe del distrito de Independencia, en el Centro Poblado Santa Rosa de Canshán, a una altura de 3770 m.s.n.m, en la región natural Suni con un clima templado frío con una temperatura anual de 12°C, seco durante los meses de mayo a octubre y con precipitaciones desde octubre a abril, con heladas entre junio, julio y agosto. Formación rocosa en esta parte de gran tamaño que se presta como mirador natural, lugar propicio para picnic y actividades de recreación, desde este punto se contempla en toda su extensión la ciudad de Huaraz con sus poblados del lado noreste, además se puede apreciar la cadena de montañas de la Cordillera Blanca como los nevados de Jatunmontepunku (5202 m.s.n.m.), Palcaraju (5289 m.s.n.m.), Tullparaju (5155 m.s.n.m.), Churup (5000 m.s.n.m.), Ucro (5209 m.s.n.m.), Ranrapalca (5517 m.s.n.m.), Pucaranra (5298 m.s.n.m.), Huamanripa (5209 m.s.n.m.) y Vallunaraju (5686 m.s.n.m.). Está ubicada a 1 km. del pueblo de Canshán área donde se puede realizar tomas fotografías, es una enorme roca y punto estratégico para obtener la visión panorámica de la ciudad de Huaraz y sus hermosos nevados. Se puede llegar por la vía que une Huaraz - Casma, a la vez apreciar las comunidades de Tuyu Grande, Huaullahuillca, Chincay, parte de Punta Callán, así como cierto tramo del Camino Inca, en la que se observa la flora representativa tales como curi qasha, gontzi casa e ichu. Entre sus interesantes sitios que guarda el cerro se encuentra vestigios arqueológicos en la ladera norte del cerro, cuyo origen aún no ha sido estudiada. Otro punto de interés es la roca en la ladera Noroeste, ideal para los amantes de la escalada en roca; ya que sus paredes cuentan con rutas de diferentes grados de dificultad que aún no han sido implementadas."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, porque el Centro Poblado de Canshán realiza el mantenimiento del lugar"
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nVisitantes Locales(Excursionistas)\n172\nInforme Técnico\n2021\nTuristas Nacionales\n66\nInforme Técnico\n2021\nTuristas Extranjeros\n27\nInforme Técnico\n2021"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nÁncash/Huaraz/Huaraz\n-\nÁncash/Huaraz/Independencia\nCiudad de Huaraz -Cruce de Urpay\nTerrestre\nMini bus público\nAsfaltado\n5km/10 minutos \"\n1\nÁncash/Huaraz/Independencia\n-\nÁncash/Huaraz/Independencia\nCruce Urpay - Cerro Hualon\nTerrestre\nA pie\nCamino de Herradura\n3km/ 1 hora\n2\nÁncash/Huaraz/Independencia\n-\nÁncash/Huaraz/Independencia\nBoulevard Pastorita Huaracina - Cerro Hualón\nTerrestre\nAutomóvil particular\nAsfaltado\n18km/25 minutos \""
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n08:00 a.m.\n-\n04:00 p.m.\nPreferiblemente visitar en las mañanas"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nNaturaleza\nObservación de flora\nCuri qasha, gontzi casa e ichu\nNaturaleza\nObservación de paisaje\n--\nNaturaleza\nObservación de aves\nPerdiz\nDeportes / Aventura\nCaminata/Trekking\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nServicios Públicos\nMiradores turísticos\nCiudad de Independencia\nServicios Públicos\nEstacionamiento de vehículos\nCiudad de Independencia\nServicios Públicos\nParadores turísticos\nCiudad de Huaraz\nServicios Públicos\nOficina de Información turística\nCiudad de Independencia\nServicios Públicos\nZonas de Campamento(camping)\nCiudad de Independencia\nServicios Públicos\nCaminos peatonales\nCiudad de Independencia\nServicios Públicos\nPuesto de auxilio rápido\nCiudad de Independencia\nServicios Públicos\nMuseo de Sitio Turísticos\nCiudad de Huaraz\nLugares de Recreación\nDiscotecas\nCiudad de Independencia\nLugares de Recreación\nJuegos Infantiles\nCiudad de Huaraz\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nCiudad de Huaraz\nLugares de Recreación\nCentros Deportivos\nCiudad de Independencia\nLugares de Recreación\nLugares de picnic\nCiudad de Independencia\nLugares de Recreación\nKaraoke\nCiudad de Independencia\nLugares de Recreación\nBares\nCiudad de Independencia\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Huaraz\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de Independencia\nOtros Servicios Turísticos\nAlquiler de bicicleta\nCiudad de Huaraz\nOtros Servicios Turísticos\nAlquiler de camionetas 4 x 4\nCiudad de Independencia\nAlimentación\nRestaurantes\nCiudad de Independencia\nAlimentación\nBares\nCiudad de Independencia\nAlimentación\nCafeterías\nCiudad de Independencia\nAlimentación\nFuentes de soda\nCiudad de Independencia\nAlimentación\nKioskos de comida y bebidas\nCiudad de Independencia\nAlimentación\nVenta de comida Rápida\nCiudad de Independencia\nAlojamiento\nHoteles (especificar categorías)\n1 a 3 estrellas en la Ciudad de Independencia\nAlojamiento\nHostales (especificar categorías)\n1 a 3 estrellas en la Ciudad de Independencia\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Independencia"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Independencia\nBancos\nCiudad de Huaraz\nCajero automático\nCiudad de Huaraz\nCasa de cambio\nCiudad de Huaraz\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Independencia\nServicio de correos\nCiudad de Huaraz\nServicio de estacionamiento\nCiudad de Independencia\nServicios de taxis\nCiudad de Independencia\nCentro de salud - tópico\nCiudad de Independencia\nVenta de materiales para fotografías\nCiudad de Huaraz\nSeguridad / POLTUR / Comisaría\nCiudad de Independencia\nAlquiler y compra de equipos deportivos\nCiudad de Huaraz\nLibrerías\nCiudad de Independencia\nBodegas o minimarkets\nCiudad de Independencia"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Independencia\nAlcantarillado sanitario\nCiudad de Independencia\nLuz (Suministro Eléctrico)\nCiudad de Independencia\nTeléfono\nCiudad de Independencia\nSistemas de tratamiento alternativo de residuos (Biodigestor, pozo séptico, otros)\nCiudad de Independencia"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDIRCETUR - ANCASH /Municipalidad Distrital de Independencia\nNombre (Persona(s) responsable(s) del inventario turístico):\nPatricia Camones Trejo / Fidel Morales Tarazona\nCargo:\nDirectora de Turismo / Gerente de Desarrollo Económico\nCorreo:\nPatriciaturism@gmail.com / fmoralest@hotmail.com\nTeléfono:\n937082574 / 943465347\nFuentes Bibliográfica:\nDePeru.comhttps://www.deperu.com › cerro-hualon-601\nNUEVA VISIÓN INTEGRAL (53 RUTAS DE CAMINATA) FRANCISCO GONZALES. EDICIONES SAFORI - HUARAZ - PERÚ 1992.\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n24/10/2022"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -9.530848974615347,
+    "longitud": -77.55429267883301
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-9.530848974615347,-77.55429267883301"
+}

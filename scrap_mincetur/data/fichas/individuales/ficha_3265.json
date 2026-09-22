@@ -1,0 +1,399 @@
+{
+  "cod_ficha": 3265,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=3265",
+  "nombre": "Villa San Miguel De Tangarara",
+  "departamento": "Piura",
+  "provincia": "Sullana",
+  "distrito": "MARCAVELICA",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Pueblos",
+  "subtipo": "Históricos",
+  "jerarquia": "2",
+  "altitud": "40",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=298070",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=298070",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=298072",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=541556",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=541512",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=541513",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=541514"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Cultura y Folclore - Actividades Religiosas o Patronales",
+    "Naturaleza - Observación de paisaje",
+    "Deportes / Aventura - Caminata/Trekking",
+    "Otros - Compra de productos regionales"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Actividades Religiosas o Patronales",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/act_religiosas02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Compra de productos regionales",
+      "observacion": "--",
+      "icono_url": null
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Piura/Piura/Veintiseis De Octubre - Piura/Sullana/Sullana",
+      "detalle": "Terminal Terrestre de Piura (Gechisa) - Terminal Terrestre de Sullana",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "35.7 km / 35 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Piura/Sullana/Marcavelica - Piura/Sullana/Marcavelica",
+      "detalle": "Terminal Terrestre de Sullana(Gechisa) - Villa San Miguel",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Taxi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "27 km / 45 min."
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "360",
+      "horario": "Libro de Registro de visitas",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "360",
+      "horario": "Libro de Registro de visitas",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "5400",
+      "horario": "Libro de Registro de visitas",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "07:00 a.m. - 05:00 p.m. Poca seguridad en horas de la noche",
+      "observaciones": "Poca seguridad en horas de la noche"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": "Se recomienda llevar lentes de sol, bloqueador solar, agua y gorra."
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Museo de Sitio Turísticos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Peñas",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "Localidad de Sullana ( 1y 2 estrellas)"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Localidad de Sullana"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Localidad de Sullana"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Localidad de Sullana"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Localidad de Sullana"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "Localidad de Sullana"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "Localidad de Sullana"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Localidad de Sullana"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Puesto de auxilio rápido",
+      "observacion": "Localidad de Sullana"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Localidad de Sullana"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Localidad de Sullana"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Localidad de Sullana"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Localidad de Sullana"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Peñas",
+      "observacion": "Localidad de Sullana"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Cines o Teatros",
+      "observacion": "Localidad de Sullana"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Localidad de Sullana"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Localidad de Sullana"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "Localidad de Sullana"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Lugares de picnic",
+      "observacion": "Localidad de Sullana"
+    }
+  ],
+  "descripcion": "San Miguel de Tangarara se encuentra ubicado en el distrito de Marcavelica a 27.3 km. (46 minutos) de la ciudad de Sullana. El nombre Tangarará, tiene su origen en el Curaca Tangar Arac (que quiere decir, \"pantano pluvial con peces\"), quien gobernaba el pueblo durante la llegada de los conquistadores españoles. Fundada el 15 de julio de 1532 solo con el nombre de San Miguel por el entonces gobernador Don Francisco Pizarro Gonzales y la comitiva que lo acompañaba en la conquista del Perú, este lugar se constituye en la primera ciudad fundada por los españoles en el pacífico sur. Los acontecimientos ocurridos en esta Villa la convierten en un sitio de gran relevancia, pues marca un hito en la historia del Perú, siendo el lugar donde se da la transculturización, el mestizaje de la cultura aborigen con la española, lo que incluye a la religión católica, oficializándose la primera misa católica. En la plaza de armas se encuentra en la parte central un pequeño obelisco construido en 1932 por orden del presidente piurano de aquel entonces Luis M. Sánchez Cerro, en conmemoración por los 400 años de la fundación. Frente a la plaza está ubicado el templo del pueblo, probablemente construido en el mismo lugar donde el cura Valverde oficializara la primera misa. El 12 de octubre del año 2011, se colocó una cruz denominada (Cruz de las Almas) sobre lo que ha sido considerado la fortaleza del cacique Tangar Arac. La Villa cuenta con un Museo de Historia donde se puede apreciar parte del pasado de su herencia prehispánica. En este lugar se guardan huacos tallanes con clara influencia vicús, mochica e incluso inca, y también dos momias que fueron enterradas en 1480 d.C. con sus respectivas ofrendas como era la costumbre en estas culturas. También se puede observar El Escudo de Armas que le fue conferido al pueblo por el rey Carlos V el 7 de diciembre de 1537. Es un museo pequeño, pero bien interesante para visitar y conocer de cerca el pasado del pueblo. Las construcciones que existen en esta zona son de material noble, quincha y adobe y en algunas zonas se puede apreciar que aún se conserva la costumbre de casas con corrales. Mediante Resolución Directoral Nº 213-INC del 24 de febrero del año 2005, el Instituto Nacional de Cultura lo declara Patrimonio Cultural de la Nación.",
+  "particularidades": "Es la primera ciudad fundada en la costa norte de nuestro país, por Francisco Pizarro y sus huestes. Primera ciudad fundada por los españoles en el pacífico sur en 1532 La Villa fue declarado distrito histórico de la región Piura el 3 de junio de 1982 mediante el R. M. N° 475-82 ED, En el año 2005, la Dirección Nacional del Instituto Nacional de Cultura, actualmente Ministerio de Cultura, emite la Resolución N°213-INC donde declara a Tangarará como Patrimonio Cultural de la Nación, y ese mismo año en el mes de abril el Gobierno Regional de Piura emite la Resolución Ejecutiva Regional N°248-2005 donde se complementa su categoría de villa.",
+  "estado_actual": "Su estado de conservación es bueno. Ya que, cuenta con servicios básicos para la ciudad y sus visitantes.",
+  "observaciones": "Es la primera ciudad fundada en la costa norte de nuestro país, por Francisco Pizarro y sus huestes. Primera ciudad fundada por los españoles en el pacífico sur en 1532.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "San Miguel de Tangarara se encuentra ubicado en el distrito de Marcavelica a 27.3 km. (46 minutos) de la ciudad de Sullana. El nombre Tangarará, tiene su origen en el Curaca Tangar Arac (que quiere decir, \"pantano pluvial con peces\"), quien gobernaba el pueblo durante la llegada de los conquistadores españoles. Fundada el 15 de julio de 1532 solo con el nombre de San Miguel por el entonces gobernador Don Francisco Pizarro Gonzales y la comitiva que lo acompañaba en la conquista del Perú, este lugar se constituye en la primera ciudad fundada por los españoles en el pacífico sur. Los acontecimientos ocurridos en esta Villa la convierten en un sitio de gran relevancia, pues marca un hito en la historia del Perú, siendo el lugar donde se da la transculturización, el mestizaje de la cultura aborigen con la española, lo que incluye a la religión católica, oficializándose la primera misa católica. En la plaza de armas se encuentra en la parte central un pequeño obelisco construido en 1932 por orden del presidente piurano de aquel entonces Luis M. Sánchez Cerro, en conmemoración por los 400 años de la fundación. Frente a la plaza está ubicado el templo del pueblo, probablemente construido en el mismo lugar donde el cura Valverde oficializara la primera misa. El 12 de octubre del año 2011, se colocó una cruz denominada (Cruz de las Almas) sobre lo que ha sido considerado la fortaleza del cacique Tangar Arac. La Villa cuenta con un Museo de Historia donde se puede apreciar parte del pasado de su herencia prehispánica. En este lugar se guardan huacos tallanes con clara influencia vicús, mochica e incluso inca, y también dos momias que fueron enterradas en 1480 d.C. con sus respectivas ofrendas como era la costumbre en estas culturas. También se puede observar El Escudo de Armas que le fue conferido al pueblo por el rey Carlos V el 7 de diciembre de 1537. Es un museo pequeño, pero bien interesante para visitar y conocer de cerca el pasado del pueblo. Las construcciones que existen en esta zona son de material noble, quincha y adobe y en algunas zonas se puede apreciar que aún se conserva la costumbre de casas con corrales. Mediante Resolución Directoral Nº 213-INC del 24 de febrero del año 2005, el Instituto Nacional de Cultura lo declara Patrimonio Cultural de la Nación."
+    },
+    {
+      "titulo": "Particularidades",
+      "contenido": "Es la primera ciudad fundada en la costa norte de nuestro país, por Francisco Pizarro y sus huestes. Primera ciudad fundada por los españoles en el pacífico sur en 1532 La Villa fue declarado distrito histórico de la región Piura el 3 de junio de 1982 mediante el R. M. N° 475-82 ED, En el año 2005, la Dirección Nacional del Instituto Nacional de Cultura, actualmente Ministerio de Cultura, emite la Resolución N°213-INC donde declara a Tangarará como Patrimonio Cultural de la Nación, y ese mismo año en el mes de abril el Gobierno Regional de Piura emite la Resolución Ejecutiva Regional N°248-2005 donde se complementa su categoría de villa."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "El 7 de diciembre de 1537 el rey Carlos V le otorga el Escudo de Armas, además por Resolución Ministerial N.º 475-82-ED del 3 de junio de 1982, es declarado como “Ambiente Urbano Monumental”. Posteriormente, mediante Resolución Directoral N.º 213-INC del 24 de febrero del año 2005, el Instituto Nacional de Cultura lo declara Patrimonio Cultural de la Nación.Con relación a nuestra región, es conveniente resaltar la Resolución Ejecutiva Regional N.º 248-2005-Gob. Reg. Piura-PR de fecha 29/04/2005."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Su estado de conservación es bueno. Ya que, cuenta con servicios básicos para la ciudad y sus visitantes."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "Es la primera ciudad fundada en la costa norte de nuestro país, por Francisco Pizarro y sus huestes. Primera ciudad fundada por los españoles en el pacífico sur en 1532."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n360\nLibro de Registro de visitas\n2024\nLibro de Visitantes\nTuristas Nacionales\n360\nLibro de Registro de visitas\n2023\nLibro de visitantes\nVisitantes Locales(Excursionistas)\n5400\nLibro de Registro de visitas\n2024\nLibro de visitantes"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nPiura/Piura/Veintiseis De Octubre\n-\nPiura/Sullana/Sullana\nTerminal Terrestre de Piura (Gechisa) - Terminal Terrestre de Sullana\nTerrestre\nBus público\nAsfaltado\n35.7 km / 35 min\n1\nPiura/Sullana/Marcavelica\n-\nPiura/Sullana/Marcavelica\nTerminal Terrestre de Sullana(Gechisa) - Villa San Miguel\nTerrestre\nTaxi\nAsfaltado\n27 km / 45 min."
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre\nSe recomienda llevar lentes de sol, bloqueador solar, agua y gorra."
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n07:00 a.m.\n-\n05:00 p.m.\nPoca seguridad en horas de la noche"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nCultura y Folclore\nActividades Religiosas o Patronales\n--\nNaturaleza\nObservación de paisaje\n--\nDeportes / Aventura\nCaminata/Trekking\n--\nOtros\nCompra de productos regionales\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nAlimentación\nRestaurantes\n--\nInstalaciones Públicas\nServicios Públicos\nMiradores turísticos\n--\nInstalaciones Públicas\nServicios Públicos\nEstacionamiento de vehículos\n--\nInstalaciones Públicas\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\n--\nInstalaciones Públicas\nServicios Públicos\nCaminos peatonales\n--\nInstalaciones Públicas\nServicios Públicos\nMuseo de Sitio Turísticos\n--\nInstalaciones Privadas\nLugares de Recreación\nPeñas\n--\nInstalaciones Privadas\nAlimentación\nKioskos de comida y bebidas\n--\nInstalaciones Privadas\nAlimentación\nBares\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHostales (especificar categorías)\nLocalidad de Sullana ( 1y 2 estrellas)\nAlimentación\nRestaurantes\nLocalidad de Sullana\nAlimentación\nCafeterías\nLocalidad de Sullana\nAlimentación\nKioskos de comida y bebidas\nLocalidad de Sullana\nServicios Públicos\nEstacionamiento de vehículos\nLocalidad de Sullana\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\nLocalidad de Sullana\nServicios Públicos\nCaminos peatonales\nLocalidad de Sullana\nServicios Públicos\nOficina de Información turística\nLocalidad de Sullana\nServicios Públicos\nPuesto de auxilio rápido\nLocalidad de Sullana\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nLocalidad de Sullana\nAlimentación\nBares\nLocalidad de Sullana\nOtros Servicios Turísticos\nVenta de artesanía\nLocalidad de Sullana\nLugares de Recreación\nDiscotecas\nLocalidad de Sullana\nLugares de Recreación\nPeñas\nLocalidad de Sullana\nLugares de Recreación\nCines o Teatros\nLocalidad de Sullana\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nLocalidad de Sullana\nLugares de Recreación\nCentros Deportivos\nLocalidad de Sullana\nLugares de Recreación\nKaraoke\nLocalidad de Sullana\nLugares de Recreación\nLugares de picnic\nLocalidad de Sullana"
+    },
+    {
+      "titulo": "Servicios Complementarios dentro del recurso",
+      "contenido": "Servicio Complementario\nObservación\nCentro de salud - tópico\n--\nBodegas o minimarkets\n--\nEstación de servicios, grifos, gasolineras y gasocentros\n--\nSeguridad / POLTUR / Comisaría\n--"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nLocalidad de Sullana\nBancos\nLocalidad de Sullana\nCajero automático\nLocalidad de Sullana\nCasa de cambio\nLocalidad de Sullana\nEstación de servicios, grifos, gasolineras y gasocentros\nLocalidad de Sullana\nServicio de estacionamiento\nLocalidad de Sullana\nCentro de salud - tópico\nLocalidad de Sullana\nSeguridad / POLTUR / Comisaría\nLocalidad de Sullana\nBodegas o minimarkets\nLocalidad de Sullana"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\n--\nLuz (Suministro Eléctrico)\n--\nTeléfono\n--\nSeñalización turística\n--\nAlcantarillado sanitario\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nLocalidad de Sullana\nLuz (Suministro Eléctrico)\nLocalidad de Sullana\nTeléfono\nLocalidad de Sullana\nSeñalización turística\nLocalidad de Sullana\nAlcantarillado sanitario\nLocalidad de Sullana\nSistemas de tratamiento alternativo de residuos (Biodigestor, pozo séptico, otros)\nLocalidad de Sullana"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nMunicipalidad Provincial de Sullana\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nEn proceso. Se esta trabajando en el saneamineto Fisico Legal.\nAdministrador por\nNombre\nMunicipalidad Provincial de Sullana\nTiempo de administración"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDIRECCION REGIONAL DE COMERCIO EXTERIOR Y TURISMO - PIURA\nNombre (Persona(s) responsable(s) del inventario turístico):\nRichard Hercelles Neira Colmenares\nCargo:\nDirector Regional de la Dirección de Turismo.\nCorreo:\nrneira@regionpiura.gob.pe\nTeléfono:\n984448829\nFuentes Bibliográfica:\nLIBRO: RENCUENTRO HISTORICO CULTURAL DEL DEPARTAMENTO DE PIURA . AUTOR: JOSÉ ALBÁN RAMOS.- LIBRO: LA RUTA DE PIZARRO POR LOS ANDES; AUTOR: ALEJANDRO MIRÓ-QUESADA Y GARLAND; EDICIÓN: ILUSTRADA; EDITOR: INSTITUCIÓN CULTURAL \"PEDRO DE VALENCIA\", 1982; PROCEDENCIA DEL ORIGINAL: LA UNIVERSIDAD DE VIRGINIA; DIGITALIZADO 9 MAY 2008; N.º DE PÁGINAS 130 PÁGINA. 39, 40.\n-Hidalgo, Vicente, M. (2019). Reurbanización del balneario y diseño de\nResort Turístico en Mancora (Tesis para licenciatura, Universidad San Ignacio de Loyola, Lima, Perú). Recuperado de https://repositorio.usil.edu.pe/server/api/core/bitstreams/85e99de1-c672-4334-b60e-37fa9f90af00/content\n-Pintado, Samaniego, Vittoria, M. (2020). Influencia del contenido en\nRedes Sociales y el Internet en la Decisión de Compra del Visitante que arriba a Máncora – 2019 (Tesis para bachillerato, Universidad César Vallejo, Piura, Perú). Recuperado de https://repositorio.ucv.edu.pe/bitstream/handle/20.500.12692/33794/B_Pintado_BYM-Samaniego_CKD\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n18/06/2024 09:48:54"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -4.8853382,
+    "longitud": -80.82490100000001
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-4.8853382,-80.82490100000001"
+}

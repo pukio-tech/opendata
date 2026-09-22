@@ -1,0 +1,233 @@
+{
+  "cod_ficha": 3088,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=3088",
+  "nombre": "Volcán Jechapita",
+  "departamento": "Arequipa",
+  "provincia": "Castilla",
+  "distrito": "ANDAGUA",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "a. Montañas",
+  "subtipo": "Volcanes",
+  "jerarquia": "POR JERARQUIZAR",
+  "altitud": "3291",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=292241",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=292241",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=488693",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=488738",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=497766",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=497767"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Paseos - Excursiones",
+    "Deportes / Aventura - Caminata/Trekking"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Paseos",
+      "tipo": "Excursiones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/excursiones02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Arequipa/Arequipa/Arequipa - Arequipa/Castilla/Andagua",
+      "detalle": "Del terminal terrestre de Arequipa a la plaza de Andagua",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "312 km/8 hrs"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Arequipa/Castilla/Andagua - Arequipa/Castilla/Andagua",
+      "detalle": "De la plaza de Andagua a la base Volcán Jechapita",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "11 km/15 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Arequipa/Castilla/Andagua - Arequipa/Castilla/Andagua",
+      "detalle": "De la base del volcán Jechapita a la cima del mismo.",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Sendero",
+      "distancia_tiempo": "1.5 km 30 min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "360",
+      "horario": "Conteo muestral realizado el mes de abril 2023 y su proyección.",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "120",
+      "horario": "Conteo muestral realizado el mes de abril 2023 y su proyección.",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "3480",
+      "horario": "Conteo muestral realizado el mes de abril 2023 y su proyección.",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "09:00 a.m. - 04:30 p.m. De preferencia por las mañanas",
+      "observaciones": "De preferencia por las mañanas"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Localidad de Andagua"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Localidad de Andagua"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Localidad de Andagua"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de Caballos",
+      "observacion": "Localidad de Andagua"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de camionetas 4 x 4",
+      "observacion": "Localidad de Andagua"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Localidad de Andagua"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Centros de interpretación",
+      "observacion": "Localidad de Andagua"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Localidad de Andagua"
+    }
+  ],
+  "descripcion": "Uno de los conos más perfectos y con mayor pendiente de Andagua, volcán escalable, es decir, se puede ascender, el recorrido dura aproximadamente 30 minutos, es un volcán monogenetico durmiente.\nUbicado en el departamento de Arequipa, provincia de Castilla en el distrito de Andagua a una altitud de 3291 y 3411 m.s.n.m., y en la zona de vida estepa Montano Bajo Subtropical; el volcán Jechapita forma parte del conocido Valle de los volcanes de Andagua; de suelo con cenizas volcánicas, arenoso-gravoso y muy suelto, en su composición vegetal el estrato arbustivo tiene dominio compartido entre tres especies: Spergularia stuebeli, Diplostephium tacorense y Muehlembeckia hastulata, y la presencia en menor densidad de otras 8 especies; la mayoría de hierbas comparten el mismo espacio y los nutrientes: Tagetes multiflora, Muelembeckia hastulata, Crassula connota, Eragrostis peruviana y Muhlembergia peruviana, Drymaria paposana, Opuntia corotillo, Sonchus oleraceus, Echinopsis pampana, Corryocactuas aureus, etc.; no hay dominio de alguna en especial, pero sí diversidad de especies herbáceas.\nEsta zona se caracteriza por ser una de las zonas más interesantes para los estudiosos en geología, además de ser empinado y abrupto para poder escalarlo.",
+  "particularidades": "",
+  "estado_actual": "Se encuentra en buen estado de conservación, sin contaminación",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Uno de los conos más perfectos y con mayor pendiente de Andagua, volcán escalable, es decir, se puede ascender, el recorrido dura aproximadamente 30 minutos, es un volcán monogenetico durmiente.\nUbicado en el departamento de Arequipa, provincia de Castilla en el distrito de Andagua a una altitud de 3291 y 3411 m.s.n.m., y en la zona de vida estepa Montano Bajo Subtropical; el volcán Jechapita forma parte del conocido Valle de los volcanes de Andagua; de suelo con cenizas volcánicas, arenoso-gravoso y muy suelto, en su composición vegetal el estrato arbustivo tiene dominio compartido entre tres especies: Spergularia stuebeli, Diplostephium tacorense y Muehlembeckia hastulata, y la presencia en menor densidad de otras 8 especies; la mayoría de hierbas comparten el mismo espacio y los nutrientes: Tagetes multiflora, Muelembeckia hastulata, Crassula connota, Eragrostis peruviana y Muhlembergia peruviana, Drymaria paposana, Opuntia corotillo, Sonchus oleraceus, Echinopsis pampana, Corryocactuas aureus, etc.; no hay dominio de alguna en especial, pero sí diversidad de especies herbáceas.\nEsta zona se caracteriza por ser una de las zonas más interesantes para los estudiosos en geología, además de ser empinado y abrupto para poder escalarlo."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "El 16 diciembre del 2021 se Certifica por la junta Ejecutiva de la Red Mundial de Geoparques ha aprobado a: \"Colca y Volcanes de Andagua - Perú\" como Red mundial de Geoparques Miembro institucional de Geoparque mundial de la UNESCO. Cuando se asigna la categoría de Geoparque mundial, se reconocen los tres patrimonios de los geoparques: Geopatrimonio, Patrimonio natural o biológico y patrimonio cultural"
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Se encuentra en buen estado de conservación, sin contaminación"
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n360\nConteo muestral realizado el mes de abril 2023 y su proyección.\n2023\nMuestreo de 3 días\nTuristas Nacionales\n120\nConteo muestral realizado el mes de abril 2023 y su proyección.\n2023\nMuestreo de 3 días\nVisitantes Locales(Excursionistas)\n3480\nConteo muestral realizado el mes de abril 2023 y su proyección.\n2023\nMuestreo de 3 días"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nArequipa/Arequipa/Arequipa\n-\nArequipa/Castilla/Andagua\nDel terminal terrestre de Arequipa a la plaza de Andagua\nTerrestre\nBus público\nAsfaltado\n312 km/8 hrs\n1\nArequipa/Castilla/Andagua\n-\nArequipa/Castilla/Andagua\nDe la plaza de Andagua a la base Volcán Jechapita\nTerrestre\nAutomóvil particular\nAsfaltado\n11 km/15 min.\n1\nArequipa/Castilla/Andagua\n-\nArequipa/Castilla/Andagua\nDe la base del volcán Jechapita a la cima del mismo.\nTerrestre\nA pie\nSendero\n1.5 km 30 min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n09:00 a.m.\n-\n04:30 p.m.\nDe preferencia por las mañanas"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nPaseos\nExcursiones\n--\nDeportes / Aventura\nCaminata/Trekking\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlimentación\nRestaurantes\nLocalidad de Andagua\nAlimentación\nKioskos de comida y bebidas\nLocalidad de Andagua\nOtros Servicios Turísticos\nVenta de artesanía\nLocalidad de Andagua\nOtros Servicios Turísticos\nAlquiler de Caballos\nLocalidad de Andagua\nOtros Servicios Turísticos\nAlquiler de camionetas 4 x 4\nLocalidad de Andagua\nAlimentación\nCafeterías\nLocalidad de Andagua\nServicios Públicos\nCentros de interpretación\nLocalidad de Andagua\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nLocalidad de Andagua"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nCentro de salud - tópico\nLocalidad de Andagua\nLibrerías\nLocalidad de Andagua\nBodegas o minimarkets\nLocalidad de Andagua"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nLocalidad de Andagua\nDesagüe\nLocalidad de Andagua\nLuz (Suministro Eléctrico)\nLocalidad de Andagua\nTeléfono\nLocalidad de Andagua"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\n--\nPrivado:\nComunidad Campesina de Andagua\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n00959465\nOtra situación:\n--\nAdministrador por\nNombre\nMunicipalidad distrital de Andagua en coordinación con la Comunidad Campesina de Andagua.\nTiempo de administración\n2000"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nGerencia Regional de Comercio Exterior y Turismo Arequipa/ Municipalidad distrital de Andagua\nNombre (Persona(s) responsable(s) del inventario turístico):\nLic. Claudia Isabel Barrios Cacya/ Lic. María Cecilia Ccahuana Condori\nCargo:\nEspecialista en Turismo/ Encargada del área de Turismo.\nCorreo:\ncbarrios@correo.regionarequipa.gob.pe/ maria92cecil@gmail.com\nTeléfono:\n988099750 / 994359079\nFuentes Bibliográfica:\nInventario de recursos turísticos del plan maestro para el desarrollo y gestión sostenible del turismo- Autocolca, 2006./ El Valle de los Volcanes, Compañía de minas Buenaventura, 2008/ //http://carlostrujillove.blogspot.com/2009/El-Valle-De-Los-Volcanes-Monogeneticos_22.html\nISSN 2415-0193 INGEMMET, Boletín Serie I: Patrimonio y Geoturismo N°6\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n14/09/2023 10:32:10"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -15.535396053374937,
+    "longitud": -72.31398554486083
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-15.535396053374937,-72.31398554486083"
+}

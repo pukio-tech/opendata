@@ -1,0 +1,372 @@
+{
+  "cod_ficha": 5926,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=5926",
+  "nombre": "Centro Cultural Santo Domingo",
+  "departamento": "Moquegua",
+  "provincia": "Mariscal Nieto",
+  "distrito": "MOQUEGUA",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Arquitectura y Espacios Urbanos",
+  "subtipo": "Casa de Valor Arquitectónico",
+  "jerarquia": "2",
+  "altitud": "1435",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=485056",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=485056",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=485057",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=485059",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=485061",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=485062",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=485065",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=485011",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=485012",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=485066",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=485013"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Realización de eventos",
+    "Otros - Otros(Especificar)",
+    "Cultura y Folclore - Apreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Realización de eventos",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/eventos02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Otros(Especificar)",
+      "observacion": "Actividades Culturales (Presentaciones Literarias, poéticas)",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/otros02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Apreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)",
+      "observacion": "--",
+      "icono_url": null
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Moquegua/Mariscal Nieto/Moquegua - Moquegua/Mariscal Nieto/Moquegua",
+      "detalle": "Plaza Principal de Moquegua - Centro Cultural Santo Domingo",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "110 m / 2 min."
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "1620",
+      "horario": "Registro de visitantes",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "4320",
+      "horario": "Registro de visitantes",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "270",
+      "horario": "Registro de visitantes",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "08:00 a.m. - 05:00 p.m. Lunes a Viernes",
+      "observaciones": "Lunes a Viernes"
+    },
+    {
+      "epoca": "Personas con discapacidad física",
+      "especificacion": "rampas de acceso",
+      "horario": "--",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "Ciudad de Moquegua (1,2,3,4 estrellas)"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Apart-hoteles (especificar categorías)",
+      "observacion": "Ciudad de Moquegua (2 estrellas)"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "Ciudad de Moquegua (1,2,3 estrellas)"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Moquegua"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Moquegua"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Moquegua"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Moquegua"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Ciudad de Moquegua"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Moquegua"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Ciudad de Moquegua"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Moquegua"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de Moquegua"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Moquegua"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Ciudad de Moquegua"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Ciudad de Moquegua"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Ciudad de Moquegua"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "Ciudad de Moquegua"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Moquegua"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "Ciudad de Moquegua"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Ciudad de Moquegua"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "Ciudad de Moquegua"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Paradores turísticos",
+      "observacion": "Ciudad de Moquegua"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "Ciudad de Moquegua"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Museo de Sitio Turísticos",
+      "observacion": "Ciudad de Moquegua"
+    }
+  ],
+  "descripcion": "Según documentos del año 1700, al inicio este ambiente fue una huerta de la congregación dominica, para luego construir el horno de cal, hecho especialmente para la edificación de la iglesia; este horno fue demolido en 1940. Inaugurado oficialmente el templo en 1825, en este lugar funcionaba el mercado de abastos de la población con el nombre de la “Recova”. Hasta este punto de la ciudad llegaban los agricultores cargando en acémilas y otras bestias de carga, la fruta y otros artículos. En 1905 se inauguró el moderno local, gracias a doña Águeda Vizcarra viuda De Angulo, quien asumió los gastos de la obra. Fue refaccionada en 1948 y diez años después se construye el comedor en la parte posterior. Fue el principal centro de articulación social hasta su traslado al nuevo edificio a la Avenida Balta en el año 1968.\nLa “Recova” sucumbió ante el último terremoto, quedando explícito a su reconstrucción. En el año 2006, se inicia la reconstrucción del centro cultural Santo Domingo, restaurando la fachada principal que da hacia la calle Ayacucho y los ambientes nuevos tienen la característica de la arquitectura formal de la ciudad de Moquegua. Está implementado con un auditorio, salas y galerías de exposición, café conciertos, organizados por una plazoleta y un pasaje peatonal que comunica la calle Ayacucho y Junín.\nEn el centro cultural encontramos su museo de trajes típicos de Moquegua que consta de 2 salas: La 1ra sala, se exhibe trajes típicos alto andino de Moquegua (San Cristóbal, Cuchumbaya, Torata, Moquegua, entre otros), mientras que en la 2da sala, se expone los trajes inca, pre-inca y la evolución de los trajes de época del siglo XV, XVI, XVII, XVIII. Además, muestra al público a través de sus nichos: vinos y piscos, licores y macerados, gastronomía, panadería y artesanía de la región Moquegua.",
+  "particularidades": "",
+  "estado_actual": "Bueno, porque recibe mantenimiento de la Municipalidad Provincial Mariscal Nieto.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Según documentos del año 1700, al inicio este ambiente fue una huerta de la congregación dominica, para luego construir el horno de cal, hecho especialmente para la edificación de la iglesia; este horno fue demolido en 1940. Inaugurado oficialmente el templo en 1825, en este lugar funcionaba el mercado de abastos de la población con el nombre de la “Recova”. Hasta este punto de la ciudad llegaban los agricultores cargando en acémilas y otras bestias de carga, la fruta y otros artículos. En 1905 se inauguró el moderno local, gracias a doña Águeda Vizcarra viuda De Angulo, quien asumió los gastos de la obra. Fue refaccionada en 1948 y diez años después se construye el comedor en la parte posterior. Fue el principal centro de articulación social hasta su traslado al nuevo edificio a la Avenida Balta en el año 1968.\nLa “Recova” sucumbió ante el último terremoto, quedando explícito a su reconstrucción. En el año 2006, se inicia la reconstrucción del centro cultural Santo Domingo, restaurando la fachada principal que da hacia la calle Ayacucho y los ambientes nuevos tienen la característica de la arquitectura formal de la ciudad de Moquegua. Está implementado con un auditorio, salas y galerías de exposición, café conciertos, organizados por una plazoleta y un pasaje peatonal que comunica la calle Ayacucho y Junín.\nEn el centro cultural encontramos su museo de trajes típicos de Moquegua que consta de 2 salas: La 1ra sala, se exhibe trajes típicos alto andino de Moquegua (San Cristóbal, Cuchumbaya, Torata, Moquegua, entre otros), mientras que en la 2da sala, se expone los trajes inca, pre-inca y la evolución de los trajes de época del siglo XV, XVI, XVII, XVIII. Además, muestra al público a través de sus nichos: vinos y piscos, licores y macerados, gastronomía, panadería y artesanía de la región Moquegua."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "-Certicado Internacional del sello Safe Travels, Destino Seguro: \"Moquegua: Capital de Dulces y Piscos\". 2021"
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, porque recibe mantenimiento de la Municipalidad Provincial Mariscal Nieto."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": ""
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nVisitantes Locales(Excursionistas)\n1620\nRegistro de visitantes\n2022\nConteo muestral de visitas a recurso turístico\nTuristas Nacionales\n4320\nRegistro de visitantes\n2022\nConteo muestral de visitas a recurso turístico\nTuristas Extranjeros\n270\nRegistro de visitantes\n2022\nConteo muestral de visitas a recurso turístico"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nMoquegua/Mariscal Nieto/Moquegua\n-\nMoquegua/Mariscal Nieto/Moquegua\nPlaza Principal de Moquegua - Centro Cultural Santo Domingo\nTerrestre\nA pie\nAsfaltado\n110 m / 2 min."
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n08:00 a.m.\n-\n05:00 p.m.\nLunes a Viernes"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nRealización de eventos\n--\nOtros\nOtros(Especificar)\nActividades Culturales (Presentaciones Literarias, poéticas)\nCultura y Folclore\nApreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Públicas\nServicios Públicos\nOficina de Información turística\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\nCiudad de Moquegua (1,2,3,4 estrellas)\nAlojamiento\nApart-hoteles (especificar categorías)\nCiudad de Moquegua (2 estrellas)\nAlojamiento\nHostales (especificar categorías)\nCiudad de Moquegua (1,2,3 estrellas)\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Moquegua\nAlimentación\nRestaurantes\nCiudad de Moquegua\nAlimentación\nBares\nCiudad de Moquegua\nAlimentación\nCafeterías\nCiudad de Moquegua\nAlimentación\nFuentes de soda\nCiudad de Moquegua\nAlimentación\nKioskos de comida y bebidas\nCiudad de Moquegua\nAlimentación\nVenta de comida Rápida\nCiudad de Moquegua\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Moquegua\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de Moquegua\nLugares de Recreación\nDiscotecas\nCiudad de Moquegua\nLugares de Recreación\nJuegos Infantiles\nCiudad de Moquegua\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nCiudad de Moquegua\nLugares de Recreación\nCentros Deportivos\nCiudad de Moquegua\nLugares de Recreación\nKaraoke\nCiudad de Moquegua\nLugares de Recreación\nBares\nCiudad de Moquegua\nServicios Públicos\nMiradores turísticos\nCiudad de Moquegua\nServicios Públicos\nEstacionamiento de vehículos\nCiudad de Moquegua\nServicios Públicos\nSeñales turísticas de orientación\nCiudad de Moquegua\nServicios Públicos\nParadores turísticos\nCiudad de Moquegua\nServicios Públicos\nCaminos peatonales\nCiudad de Moquegua\nServicios Públicos\nMuseo de Sitio Turísticos\nCiudad de Moquegua"
+    },
+    {
+      "titulo": "Servicios Complementarios dentro del recurso",
+      "contenido": "Servicio Complementario\nObservación\nOtros(especificar)\nSalas de exposición"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Moquegua (Claro, Bitel, Entel, Movistar, Wow)\nBancos\nCiudad de Moquegua (Bco. de la Nación, Interbank, BCP, Scotiabank, BBVA)\nCajero automático\nCiudad de Moquegua (Bco. de la Nación, Scotiabank, BCP, Interbank)\nCasa de cambio\nCiudad de Moquegua\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Moquegua\nServicio de correos\nCiudad de Moquegua\nServicio de estacionamiento\nCiudad de Moquegua\nServicios de taxis\nCiudad de Moquegua\nCentro de salud - tópico\nCiudad de Moquegua\nVenta de materiales para fotografías\nCiudad de Moquegua\nSeguridad / POLTUR / Comisaría\nCiudad de Moquegua ( seguridad, Comisaría PNP)\nAlquiler y compra de equipos deportivos\nCiudad de Moquegua\nLibrerías\nCiudad de Moquegua\nBodegas o minimarkets\nCiudad de Moquegua"
+    },
+    {
+      "titulo": "Condiciones de Accesibilidad al Visitante",
+      "contenido": "Visitante\nInstalación\nActividades y/o programas\nEquipamiento\nObservación\nPersonas con discapacidad física\nrampas de acceso\n--\n--\n--"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\n--\nLuz (Suministro Eléctrico)\n--\nTeléfono\n--\nSeñalización turística\n--\nAlcantarillado sanitario\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Moquegua\nLuz (Suministro Eléctrico)\nCiudad de Moquegua\nTeléfono\nCiudad de Moquegua\nSeñalización turística\nCiudad de Moquegua\nAlcantarillado pluvial\nCiudad de Moquegua"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nMunicipalidad Provincial de Mariscal Nieto\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nNúmero de Partida:\nN° 10054\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nMunicipalidad Provincial de Mariscal Nieto\nTiempo de administración\nDesde el año 2018"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo - Moquegua.\nNombre (Persona(s) responsable(s) del inventario turístico):\nEco. Fernando Mamani Meza.\nCargo:\nSub Director de Turismo.\nCorreo:\nfemeza555@yahoo.com\nTeléfono:\n953549922\nFuentes Bibliográfica:\n-Retazos de la Historia de Moquegua. Kuon, Cabello Luis. Ed. UNAM 2019.\n-Revista Institucional de la Cultura de Moquegua. Editor Lic. Oquiche Hernani Antonio. Edit. \"Identidad\".2019\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n30/05/2023 18:26:03"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -17.193757071545082,
+    "longitud": -70.93367587536227
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-17.193757071545082,-70.93367587536227"
+}

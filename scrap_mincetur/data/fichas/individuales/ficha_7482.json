@@ -1,0 +1,385 @@
+{
+  "cod_ficha": 7482,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=7482",
+  "nombre": "Laguna Mikukuqucha O Micococha",
+  "departamento": "Junín",
+  "provincia": "Huancayo",
+  "distrito": "CHONGOS ALTO",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "g. Cuerpo de Agua",
+  "subtipo": "Lagunas",
+  "jerarquia": "1",
+  "altitud": "3832",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=532736",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=532736",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=532770",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=532771",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=532737",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=532772",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=532773",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=532774",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=532738",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=532739",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=532775",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=532740",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=532776",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=532777",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=532778",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=532779"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Estudios e Investigación",
+    "Naturaleza - Observación de fauna",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de paisaje",
+    "Deportes / Aventura - Caminata/Trekking",
+    "Deportes / Aventura - Camping",
+    "Paseos - Paseos a caballo"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de fauna",
+      "observacion": "Pato andino, el pato común, huachua, gallareta andina, polla de aguacomún, gaviota andina, yanavico o ibis de puna y otras aves migratorias.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fauna02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "Quinual, huamanpinta, cardo, ichu, totorales y otros.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Camping",
+      "observacion": "Previa coordinación con la comunidad de Palaco, comunicarse con el señor Javier Bello al celular 964393614.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/camping02.png"
+    },
+    {
+      "actividad": "Paseos",
+      "tipo": "Paseos a caballo",
+      "observacion": "Comunicarse con el señor Raúl Lázaro Llacua al celular 993405104",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paseo_caballo02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Junín/Huancayo/Huancayo - Junín/Huancayo/Chupuro",
+      "detalle": "Plaza Constitución de Huancayo - Chupuro",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "13 Km / 20 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Junín/Huancayo/Chupuro - Junín/Huancayo/Chicche",
+      "detalle": "Chupuro - Vista Alegre (Desvío a Chongos Alto)",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "35 Km / 45 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Junín/Huancayo/Chicche - Junín/Huancayo/Chongos Alto",
+      "detalle": "Vista Alegre (Desvío a Chongos Alto) - Chongos Alto",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "9 Km / 15 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Junín/Huancayo/Chongos Alto - Junín/Huancayo/Chongos Alto",
+      "detalle": "Chongos Alto - Poblado de Palaco - Laguna Mukukuqucha",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "9 Km / 25 minutos"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "90",
+      "horario": "Conteo Muestral de Visitas al Recurso",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "900",
+      "horario": "Conteo Muestral de Visitas al Recurso",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "1530",
+      "horario": "Conteo Muestral de Visitas al Recurso",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Esporádicamente - Algunos meses",
+      "especificacion": "--",
+      "horario": "09:00 a.m. - 03:00 p.m. Recomendable entre abril y noviembre, meses que corresponden a periodos de baja precipitación pluvial en la sierra central.",
+      "observaciones": "Recomendable entre abril y noviembre, meses que corresponden a periodos de baja precipitación pluvial en la sierra central."
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": "La Comunidad Campesina de Palaco invita a efectuar su registro en el cuaderno de visitantes que lo lleva el señor Javier Bello comunicándose al Cel. 964393614."
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "4 estrellas en Huancayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "3 estrellas en Huancayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Chongos Alto y Huancayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Huancayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Chongos Alto y Huancayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Huancayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Huancayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Huancayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Huancayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Huancayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Huancayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de bicicleta",
+      "observacion": "Comunicarse con 40Bikes (Leydi Rosales) al numero 926719972."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Huancayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Peñas",
+      "observacion": "Huancayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Cines o Teatros",
+      "observacion": "Huancayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Huancayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "Huancayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Huancayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Huancayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Huancayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Chongos Alto y Huancayo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Huancayo"
+    }
+  ],
+  "descripcion": "Esta laguna se ubica en la región natural Suni según la clasificación de Javier Pulgar Vidal y representa uno de los mejores lugares para realizar la práctica del avistamiento de aves, ya que no se hace necesario utilizar largavistas o binoculares para presenciar en primer plano el anidamiento de diversas especies de aves que habitan este espacio, al bordear por los senderos que los lugareños utilizan se pasa por totorales y bofedales que rodean la laguna, logrando divisar la belleza de esta en todo su esplendor; al mismo tiempo es el refugio de aves de hábitat alto andino más importante de la sub cuenca del Canipaco y de la microcuenca del rio La Virgen, ocupando un área total de 60,450 metros cuadrados (60 hectáreas) con una profundidad aproximada de 15 metros en la parte central y menor profundidad en sus riberas pantanosas y cubiertas de totorales. El origen de sus aguas es de dos tipos, de origen subterráneo debido a la presencia de bofedales y manantiales de donde emergen aguas cristalinas que desembocan en la laguna por su lado Noreste y Suroeste, también es de origen pluvial gracias a los riachuelos que alimentan la laguna principalmente entre los meses de diciembre a marzo de cada año. También cuenta con islas de totora (Scirpus sp.) en su lado oeste y en su parte central donde anidan especies representativas como el pato andino (Oxyura ferruginea), pato común (Anas flavirostris), huachua (Chloephaga melanoptera), gallareta andina (Fulica ardesiaca), polla de agua común (Gallinula chloropus), gaviota andina (Chroicocephalus serranus), yanavico o ibis de puna (Plegadis ridgway) y otras aves migratorias que llegan temporalmente a esta laguna. La flora que rodea la laguna es propia de la zona altina con presencia de diferentes especies de ichu o paja, agrupamientos de huamanpinta, cardo y áreas reforestadas recientemente con quinual. A 200 metros al este de la laguna se eleva un promontorio rocoso de 180 metros de altitud, configurando en el paisaje una especie de morro que embellece la vista de la laguna, respecto al panorama circundante. Al sur oeste de la laguna se hallan restos de lo que fue la antigua hacienda “Rio La Virgen” la misma que sufrió atentado por un grupo terrorista por el año 1992 destruyendo todas sus instalaciones, hoy en día solamente se observan las bases destruidas del antiguo colegio, paredes dañadas de las habitaciones y una antigua plaza de toros en su parte central.\nEsta laguna no es una zona de caza ni pesca ya que es conservado y protegido por la comunidad local por los beneficios ecosistémicos que brinda a las especies silvestres y al medio ambiente circundante ya que según algunos estudios se indica que las especies de pastos naturales que crecen en esta zona son un importante almacenamiento de captura de carbono alcanzando un promedio de 3,13 T/ha de carbono acumulado equivalente a 11,49 T/ha de CO2. Asimismo, representa una fuente importante para el abastecimiento de agua para la ganadería de la comunidad de Palaco.\nLa laguna de Mikukuqucha o Micococha, es conocida también como Shullcacocha (Laguna Menor) y laguna de Río de la Virgen; por sus características, es uno de los principales recursos turísticos de la zona ya que se complementa con el Cerro Gorila que se encuentra en el mismo recorrido conformando una experiencia de naturaleza y cultura en un mismo paraje.",
+  "particularidades": "",
+  "estado_actual": "El estado actual es muy bueno ya que la comunidad campesina de Palaco ha sabido respetar este recurso hídrico, asimismo en sus alrededores ha realizado labores de reforestación con árboles nativos como el queñoal y el quishuar.",
+  "observaciones": "Destaca por ser hábitat y zona de anidamiento de innumerables especies de aves andinas por lo que todo el año el visitante puede observarlos de muy cerca.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Esta laguna se ubica en la región natural Suni según la clasificación de Javier Pulgar Vidal y representa uno de los mejores lugares para realizar la práctica del avistamiento de aves, ya que no se hace necesario utilizar largavistas o binoculares para presenciar en primer plano el anidamiento de diversas especies de aves que habitan este espacio, al bordear por los senderos que los lugareños utilizan se pasa por totorales y bofedales que rodean la laguna, logrando divisar la belleza de esta en todo su esplendor; al mismo tiempo es el refugio de aves de hábitat alto andino más importante de la sub cuenca del Canipaco y de la microcuenca del rio La Virgen, ocupando un área total de 60,450 metros cuadrados (60 hectáreas) con una profundidad aproximada de 15 metros en la parte central y menor profundidad en sus riberas pantanosas y cubiertas de totorales. El origen de sus aguas es de dos tipos, de origen subterráneo debido a la presencia de bofedales y manantiales de donde emergen aguas cristalinas que desembocan en la laguna por su lado Noreste y Suroeste, también es de origen pluvial gracias a los riachuelos que alimentan la laguna principalmente entre los meses de diciembre a marzo de cada año. También cuenta con islas de totora (Scirpus sp.) en su lado oeste y en su parte central donde anidan especies representativas como el pato andino (Oxyura ferruginea), pato común (Anas flavirostris), huachua (Chloephaga melanoptera), gallareta andina (Fulica ardesiaca), polla de agua común (Gallinula chloropus), gaviota andina (Chroicocephalus serranus), yanavico o ibis de puna (Plegadis ridgway) y otras aves migratorias que llegan temporalmente a esta laguna. La flora que rodea la laguna es propia de la zona altina con presencia de diferentes especies de ichu o paja, agrupamientos de huamanpinta, cardo y áreas reforestadas recientemente con quinual. A 200 metros al este de la laguna se eleva un promontorio rocoso de 180 metros de altitud, configurando en el paisaje una especie de morro que embellece la vista de la laguna, respecto al panorama circundante. Al sur oeste de la laguna se hallan restos de lo que fue la antigua hacienda “Rio La Virgen” la misma que sufrió atentado por un grupo terrorista por el año 1992 destruyendo todas sus instalaciones, hoy en día solamente se observan las bases destruidas del antiguo colegio, paredes dañadas de las habitaciones y una antigua plaza de toros en su parte central.\nEsta laguna no es una zona de caza ni pesca ya que es conservado y protegido por la comunidad local por los beneficios ecosistémicos que brinda a las especies silvestres y al medio ambiente circundante ya que según algunos estudios se indica que las especies de pastos naturales que crecen en esta zona son un importante almacenamiento de captura de carbono alcanzando un promedio de 3,13 T/ha de carbono acumulado equivalente a 11,49 T/ha de CO2. Asimismo, representa una fuente importante para el abastecimiento de agua para la ganadería de la comunidad de Palaco.\nLa laguna de Mikukuqucha o Micococha, es conocida también como Shullcacocha (Laguna Menor) y laguna de Río de la Virgen; por sus características, es uno de los principales recursos turísticos de la zona ya que se complementa con el Cerro Gorila que se encuentra en el mismo recorrido conformando una experiencia de naturaleza y cultura en un mismo paraje."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "El estado actual es muy bueno ya que la comunidad campesina de Palaco ha sabido respetar este recurso hídrico, asimismo en sus alrededores ha realizado labores de reforestación con árboles nativos como el queñoal y el quishuar."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "Destaca por ser hábitat y zona de anidamiento de innumerables especies de aves andinas por lo que todo el año el visitante puede observarlos de muy cerca."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n90\nConteo Muestral de Visitas al Recurso\n2024\nElaborado en base al registro de los días 21 y 28 de enero y 04 y 11 de febrero -2024.\nTuristas Nacionales\n900\nConteo Muestral de Visitas al Recurso\n2024\nElaborado en base al registro de los días 21 y 28 de enero y 04 y 11 de febrero -2024.\nVisitantes Locales(Excursionistas)\n1530\nConteo Muestral de Visitas al Recurso\n2024\nElaborado en base al registro de los días 21 y 28 de enero y 04 y 11 de febrero -2024."
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nJunín/Huancayo/Huancayo\n-\nJunín/Huancayo/Chupuro\nPlaza Constitución de Huancayo - Chupuro\nTerrestre\nAutomóvil particular\nAsfaltado\n13 Km / 20 minutos\n1\nJunín/Huancayo/Chupuro\n-\nJunín/Huancayo/Chicche\nChupuro - Vista Alegre (Desvío a Chongos Alto)\nTerrestre\nAutomóvil particular\nAsfaltado\n35 Km / 45 minutos\n1\nJunín/Huancayo/Chicche\n-\nJunín/Huancayo/Chongos Alto\nVista Alegre (Desvío a Chongos Alto) - Chongos Alto\nTerrestre\nAutomóvil particular\nAsfaltado\n9 Km / 15 minutos\n1\nJunín/Huancayo/Chongos Alto\n-\nJunín/Huancayo/Chongos Alto\nChongos Alto - Poblado de Palaco - Laguna Mukukuqucha\nTerrestre\nAutomóvil particular\nAfirmado\n9 Km / 25 minutos"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre\nLa Comunidad Campesina de Palaco invita a efectuar su registro en el cuaderno de visitantes que lo lleva el señor Javier Bello comunicándose al Cel. 964393614."
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nEsporádicamente - Algunos meses\n--\n09:00 a.m.\n-\n03:00 p.m.\nRecomendable entre abril y noviembre, meses que corresponden a periodos de baja precipitación pluvial en la sierra central."
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nEstudios e Investigación\n--\nNaturaleza\nObservación de fauna\nPato andino, el pato común, huachua, gallareta andina, polla de aguacomún, gaviota andina, yanavico o ibis de puna y otras aves migratorias.\nNaturaleza\nObservación de flora\nQuinual, huamanpinta, cardo, ichu, totorales y otros.\nNaturaleza\nObservación de paisaje\n--\nDeportes / Aventura\nCaminata/Trekking\n--\nDeportes / Aventura\nCamping\nPrevia coordinación con la comunidad de Palaco, comunicarse con el señor Javier Bello al celular 964393614.\nPaseos\nPaseos a caballo\nComunicarse con el señor Raúl Lázaro Llacua al celular 993405104"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\n4 estrellas en Huancayo\nAlojamiento\nHostales (especificar categorías)\n3 estrellas en Huancayo\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nChongos Alto y Huancayo\nAlimentación\nRestaurantes\nHuancayo\nAlimentación\nKioskos de comida y bebidas\nChongos Alto y Huancayo\nAlimentación\nBares\nHuancayo\nAlimentación\nFuentes de soda\nHuancayo\nAlimentación\nCafeterías\nHuancayo\nAlimentación\nVenta de comida Rápida\nHuancayo\nOtros Servicios Turísticos\nAgencia de Viajes\nHuancayo\nOtros Servicios Turísticos\nVenta de artesanía\nHuancayo\nOtros Servicios Turísticos\nAlquiler de bicicleta\nComunicarse con 40Bikes (Leydi Rosales) al numero 926719972.\nLugares de Recreación\nDiscotecas\nHuancayo\nLugares de Recreación\nPeñas\nHuancayo\nLugares de Recreación\nCines o Teatros\nHuancayo\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nHuancayo\nLugares de Recreación\nKaraoke\nHuancayo\nLugares de Recreación\nBares\nHuancayo\nLugares de Recreación\nJuegos Infantiles\nHuancayo\nLugares de Recreación\nCentros Deportivos\nHuancayo\nServicios Públicos\nEstacionamiento de vehículos\nChongos Alto y Huancayo\nServicios Públicos\nOficina de Información turística\nHuancayo"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nChongos Alto, Huancayo\nBancos\nChongos Alto, Huancayo\nCajero automático\nHuancayo\nCasa de cambio\nHuancayo\nEstación de servicios, grifos, gasolineras y gasocentros\nHuancayo\nServicio de correos\nHuancayo\nServicio de estacionamiento\nHuancayo\nServicios de taxis\nHuancayo\nCentro de salud - tópico\nHuancayo\nVenta de materiales para fotografías\nHuancayo\nSeguridad / POLTUR / Comisaría\nChongos Alto y Huancayo\nBodegas o minimarkets\nChongos Alto, Huancayo"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nChongos Alto, Huancayo\nLuz (Suministro Eléctrico)\nChongos Alto, Huancayo\nTeléfono\nChongos Alto, Huancayo\nAlcantarillado sanitario\nChongos Alto, Huancayo"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\n--\nPrivado:\n--\nOtra Situación:\nComunidad Campesina de Palaco.\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n12443\nNúmero de Partida:\n55009301\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nComunidad Campesina de Palaco.\nTiempo de administración\nDesde el año 2016."
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo Junín\nNombre (Persona(s) responsable(s) del inventario turístico):\nLic. Tmo. Gregoria Flores Loaiza\nCargo:\nEspecialista en Turismo\nCorreo:\nfloresloaiza@yahoo.es\nTeléfono:\n948992261\nFuentes Bibliográfica:\nProyecto ecoturístico en la sub cuenca del rio de la Virgen del distrito de Chongos Alto, Huancayo. Luis Verano. Universidad Nacional del Centro del Perú. Facultad de Ciencias Forestales y del Ambiente. Año 2009.\nAlmacenamiento de carbono en pastos naturales de la subcuenca del Canipaco, Huancayo. Christian Max Quispe Navarro, Fernando Quispe Contreras y Raúl Marino Yaranga Cano. Revista Apuntes de Ciencia & Sociedad Vol. 5 Núm. 2. Universidad Continental. Año 2015.\nDeclaración de Impacto Ambiental (DIA) del Proyecto: “Instalación y mejoramiento de redes MT y BT de los alimentadores A4301 S.E. Huayucachi y A4332 S.E. Chongos Alto – Huasicancha - U.N. Huancayo”. Electrocentro. Año 2018.\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\nLa comunidad campesina ha realizado labores reforestación en los últimos años.\nFecha:\n6/05/2024 12:35:04"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -11.312301,
+    "longitud": -74.474804
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-11.312301,-74.474804"
+}

@@ -1,0 +1,380 @@
+{
+  "cod_ficha": 3482,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=3482",
+  "nombre": "Museo Comunitario De Végueta José Mateo García De Los Santos",
+  "departamento": "Lima",
+  "provincia": "Huaura",
+  "distrito": "VEGUETA",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Museos y otros",
+  "subtipo": "Museos",
+  "jerarquia": "2",
+  "altitud": "13 m.s.n.m",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=293960",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=293960",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=293961",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=298730",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=298731",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=337455",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=337456",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=337457",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=337458",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=337503",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=337459",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=448177",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=448178"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Actividades Culturales",
+    "Otros - Realización de eventos",
+    "Cultura y Folclore - Apreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Actividades Culturales",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/act_culturales02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Realización de eventos",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/eventos02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Apreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)",
+      "observacion": "estatuillas, fibras vegetal, instrumentos musicales.",
+      "icono_url": null
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Lima/Huaura/Huacho - Lima/Huaura/Vegueta",
+      "detalle": "Óvalo de Huacho - Plaza de Armas de Végueta",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "14,4 km / 29 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Lima/Huaura/Vegueta - Lima/Huaura/Vegueta",
+      "detalle": "Plaza de Armas de Végueta - Museo Comunitario de Végueta",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "50 metros / 03 minutos"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "4000",
+      "horario": "INFORME 0161-2022-LEBP/SGDPEYT/MDV",
+      "observaciones": "2019"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "2258",
+      "horario": "INFORME 0161-2022-LEBP/SGDPEYT/MDV",
+      "observaciones": "2019"
+    },
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "600",
+      "horario": "INFORME 0161-2022-LEBP/SGDPEYT/MDV",
+      "observaciones": "2019"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "09:00 a.m. - 05:00 p.m. Lunes a domingo",
+      "observaciones": "Lunes a domingo"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "adultos 5.00 soles y estudiantes 1.00 sol"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Idioma español"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "Paneles de información"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "Hoteles de 02 a 04 estrellas - Ciudad de Huacho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "Hostales de 01 a 03 estrellas - Ciudad de Huacho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "establecimiento de hospedajes registrados DIRCETUR, Localidad de Vegueta."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Huacho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Huacho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "establecimientos de alimentación, registrados en la DIRCETUR, Ciudad de Huacho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Ciudad de Huacho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Huacho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Localidad de Vegueta"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Bancos - Cajeros",
+      "observacion": "Ciudad de Huacho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Oficina de Información",
+      "observacion": "Localidad de Vegueta y Ciudad de Huacho."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicios Higiénicos",
+      "observacion": "Localidad de Vegueta"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Estacionamiento",
+      "observacion": "Localidad de Vegueta."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Internet",
+      "observacion": "Localidad de Vegueta."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de taxi",
+      "observacion": "Localidad de Vegueta y ciudad de Huacho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de Material Informativo(libro,revistas,postales,videos,etc)",
+      "observacion": "Ciudad de Huacho."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de Material para Fotografía",
+      "observacion": "Ciudad de Huacho."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Tópico",
+      "observacion": "Ciudad de Huacho."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Huacho."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Casinos de Juego",
+      "observacion": "Ciudad de Huacho."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Peñas",
+      "observacion": "Ciudad de Huacho."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Cines o Teatros",
+      "observacion": "Ciudad de Huacho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Localidad de Vegueta."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Ciudad de Huacho."
+    }
+  ],
+  "descripcion": "Con la inauguración del Museo Comunitario de Vegueta el 23 de febrero del 2008, la Zona Arqueológica Caral dio inicio a la implementación de una “Red de Museo Comunitarios” en el área de influencia de la civilización de los Andes del Perú. Esto se llevó a cabo a través de una alianza estratégica con la Municipalidad Distrital de Vegueta. En este espacio se puede conocer la historia social de Vichama y difundir la Historia y expresiones culturales del distrito.\nLas colecciones del museo están compuestas por piezas de arcilla, tejidos con fibra vegetal, orgánicos, instrumentos musicales, entre otros. Cuenta con cuatro salas de exposición, en ellas se encuentra 15 vitrinas, las cuales exhiben una colección de 277 objetos, acompañados de novedosos recursos museográficos, como la recreación del Salón Ceremonial del Sapo Humanizado (este batracio podría ser la más temprana representación del culto andino a los sapos como portador de lluvias y fertilidad, también podría ser una representación de la Pachamama, del “qullqi o dinero”) y un papel infográfico retro iluminado de las constelaciones, que se encuentran en la parte superior de la réplica del sapo; y otra de los relieves del Edificio y salón ceremonial de los Relieves de Vichama, que ilustran los diversos aspectos de la sociedad de Vichama y su vinculación con la Civilización Caral, que se encuentran en el primer ambiente.\nEn el segundo ambiente se exhiben en las vitrinas las megashicras o Shicras de gran formato, contenedores tejidos con fibra vegetal, con una capacidad de hasta dos toneladas, usadas como recursos sismo resistente en los rellenos de las plataformas arquitectónicas de los monumentos, estas fueron encontradas en el edificio de las ofrendas en Vichama.\nEn el tercer ambiente se exhibe la importancia del algodón de la Civilización Caral, 21 estatuillas Vichama de arcilla de 3 a 10 cm aproximadamente, en los que destacan el rol que tuvo la mujer, representada en la estatuilla de una sacerdotisa que fue hallada en el asentamiento arqueológico de Miraya (Valle de Supe), este hallazgo evidencia también la participación de la población de Vichama en el sistema social de la civilización, así mismo la representación en una estatuilla de un personaje masculino con el rostro y el cuerpo tatuado, ambos personajes evidencian la compleja estructura de la sociedad en la etapa de la formación de la civilización. También se puede observar un quipu de algodón que fue encontrado en la Zona Arqueológica de Caral, una vitrina donde se exhiben la tecnología constructiva de Vichama (Fragmentos de arcilla mezclada con gramas, plomada de piedra con los hilos de algodón, pulidores de piedra) recipientes de mate, batan de cuchillo de piedra, aguja de hueso de animales, etc.\nEn el cuarto ambiente se exhiben en las vitrinas fragmentos de cuarzo, inhaladores de hueso de animales, flauta de huesos de pelícano, ofrendas de pluma de guacamayo, asimismo cerámicos de la cultura Huari y del periodo Regional Tardío, de igual forma se puede observar dos réplicas a base de arcilla, una donde se expone la ceremonia religiosa representada por un sapo con manos humanizadas y la otra donde se muestra una máscara con rostro pintado de rojo que expresa la muerte o la persona dormida.",
+  "particularidades": "Primer Museo del Proyecto de Red de Museos Comunitarios, que alberga los principales descubrimientos de las Zonas Arqueológicas de Vichama, Áspero y Caral. Gualberto Valderrama. (2005).",
+  "estado_actual": "Bueno, la Municipalidad Distrital viene desarrollando trabajos de limpieza y mantenimiento constantes.",
+  "observaciones": "En el 2009 la ZAC realizó gestiones ante el Gobierno Regional de Lima, en alianza con la Municipalidad distrital de Végueta, para obtener financiamiento que mejorara la sala de exposición museográfica, el acceso y la infraestructura de los servicios higiénicos del Museo Comunitario. En el último trimestre del año 2010 se aprobó el proyecto de inversión pública: “Mejoramiento y Adecuación del Museo Comunitario de Végueta-Huaura-Lima “El Museo fue reaperturado con la nueva exposición permanente, titulada:” Vichama, la ciudad agro pesquera de la Civilización Caral:4200 años de ciencia y tecnología agro pesquera\".",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Con la inauguración del Museo Comunitario de Vegueta el 23 de febrero del 2008, la Zona Arqueológica Caral dio inicio a la implementación de una “Red de Museo Comunitarios” en el área de influencia de la civilización de los Andes del Perú. Esto se llevó a cabo a través de una alianza estratégica con la Municipalidad Distrital de Vegueta. En este espacio se puede conocer la historia social de Vichama y difundir la Historia y expresiones culturales del distrito.\nLas colecciones del museo están compuestas por piezas de arcilla, tejidos con fibra vegetal, orgánicos, instrumentos musicales, entre otros. Cuenta con cuatro salas de exposición, en ellas se encuentra 15 vitrinas, las cuales exhiben una colección de 277 objetos, acompañados de novedosos recursos museográficos, como la recreación del Salón Ceremonial del Sapo Humanizado (este batracio podría ser la más temprana representación del culto andino a los sapos como portador de lluvias y fertilidad, también podría ser una representación de la Pachamama, del “qullqi o dinero”) y un papel infográfico retro iluminado de las constelaciones, que se encuentran en la parte superior de la réplica del sapo; y otra de los relieves del Edificio y salón ceremonial de los Relieves de Vichama, que ilustran los diversos aspectos de la sociedad de Vichama y su vinculación con la Civilización Caral, que se encuentran en el primer ambiente.\nEn el segundo ambiente se exhiben en las vitrinas las megashicras o Shicras de gran formato, contenedores tejidos con fibra vegetal, con una capacidad de hasta dos toneladas, usadas como recursos sismo resistente en los rellenos de las plataformas arquitectónicas de los monumentos, estas fueron encontradas en el edificio de las ofrendas en Vichama.\nEn el tercer ambiente se exhibe la importancia del algodón de la Civilización Caral, 21 estatuillas Vichama de arcilla de 3 a 10 cm aproximadamente, en los que destacan el rol que tuvo la mujer, representada en la estatuilla de una sacerdotisa que fue hallada en el asentamiento arqueológico de Miraya (Valle de Supe), este hallazgo evidencia también la participación de la población de Vichama en el sistema social de la civilización, así mismo la representación en una estatuilla de un personaje masculino con el rostro y el cuerpo tatuado, ambos personajes evidencian la compleja estructura de la sociedad en la etapa de la formación de la civilización. También se puede observar un quipu de algodón que fue encontrado en la Zona Arqueológica de Caral, una vitrina donde se exhiben la tecnología constructiva de Vichama (Fragmentos de arcilla mezclada con gramas, plomada de piedra con los hilos de algodón, pulidores de piedra) recipientes de mate, batan de cuchillo de piedra, aguja de hueso de animales, etc.\nEn el cuarto ambiente se exhiben en las vitrinas fragmentos de cuarzo, inhaladores de hueso de animales, flauta de huesos de pelícano, ofrendas de pluma de guacamayo, asimismo cerámicos de la cultura Huari y del periodo Regional Tardío, de igual forma se puede observar dos réplicas a base de arcilla, una donde se expone la ceremonia religiosa representada por un sapo con manos humanizadas y la otra donde se muestra una máscara con rostro pintado de rojo que expresa la muerte o la persona dormida."
+    },
+    {
+      "titulo": "Particularidades",
+      "contenido": "Primer Museo del Proyecto de Red de Museos Comunitarios, que alberga los principales descubrimientos de las Zonas Arqueológicas de Vichama, Áspero y Caral. Gualberto Valderrama. (2005)."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "Cuenta con Sello Internacional Safe Travel"
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, la Municipalidad Distrital viene desarrollando trabajos de limpieza y mantenimiento constantes."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "En el 2009 la ZAC realizó gestiones ante el Gobierno Regional de Lima, en alianza con la Municipalidad distrital de Végueta, para obtener financiamiento que mejorara la sala de exposición museográfica, el acceso y la infraestructura de los servicios higiénicos del Museo Comunitario. En el último trimestre del año 2010 se aprobó el proyecto de inversión pública: “Mejoramiento y Adecuación del Museo Comunitario de Végueta-Huaura-Lima “El Museo fue reaperturado con la nueva exposición permanente, titulada:” Vichama, la ciudad agro pesquera de la Civilización Caral:4200 años de ciencia y tecnología agro pesquera\"."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nVisitantes Locales(Excursionistas)\n4000\nINFORME 0161-2022-LEBP/SGDPEYT/MDV\n2019\nDOCUMENTO ADMITIDO POR DIRCETUR LIMA\nTuristas Nacionales\n2258\nINFORME 0161-2022-LEBP/SGDPEYT/MDV\n2019\nDOCUMENTO ADMITIDO POR DIRCETUR LIMA\nTuristas Extranjeros\n600\nINFORME 0161-2022-LEBP/SGDPEYT/MDV\n2019\nDOCUMENTO ADMITIDO POR DIRCETUR LIMA"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nLima/Huaura/Huacho\n-\nLima/Huaura/Vegueta\nÓvalo de Huacho - Plaza de Armas de Végueta\nTerrestre\nAutomóvil particular\nAsfaltado\n14,4 km / 29 minutos\n1\nLima/Huaura/Vegueta\n-\nLima/Huaura/Vegueta\nPlaza de Armas de Végueta - Museo Comunitario de Végueta\nTerrestre\nA pie\nAsfaltado\n50 metros / 03 minutos"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nadultos 5.00 soles y estudiantes 1.00 sol"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n09:00 a.m.\n-\n05:00 p.m.\nLunes a domingo"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nActividades Culturales\n--\nOtros\nRealización de eventos\n--\nCultura y Folclore\nApreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)\nestatuillas, fibras vegetal, instrumentos musicales."
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nIdioma español\nInstalaciones Públicas\nServicios Públicos\nSeñales turísticas de orientación\nPaneles de información"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\nHoteles de 02 a 04 estrellas - Ciudad de Huacho\nAlojamiento\nHostales (especificar categorías)\nHostales de 01 a 03 estrellas - Ciudad de Huacho\nAlojamiento\nOtros (Especificar)\nestablecimiento de hospedajes registrados DIRCETUR, Localidad de Vegueta.\nAlimentación\nRestaurantes\nCiudad de Huacho\nAlimentación\nKioskos de comida y bebidas\nCiudad de Huacho\nAlimentación\nOtros (Especificar)\nestablecimientos de alimentación, registrados en la DIRCETUR, Ciudad de Huacho\nAlimentación\nFuentes de soda\nCiudad de Huacho\nAlimentación\nCafeterías\nCiudad de Huacho\nOtros Servicios Turísticos\nVenta de artesanía\nLocalidad de Vegueta\nOtros Servicios Turísticos\nBancos - Cajeros\nCiudad de Huacho\nOtros Servicios Turísticos\nOficina de Información\nLocalidad de Vegueta y Ciudad de Huacho.\nOtros Servicios Turísticos\nServicios Higiénicos\nLocalidad de Vegueta\nOtros Servicios Turísticos\nServicio de Estacionamiento\nLocalidad de Vegueta.\nOtros Servicios Turísticos\nServicio de Internet\nLocalidad de Vegueta.\nOtros Servicios Turísticos\nServicio de taxi\nLocalidad de Vegueta y ciudad de Huacho\nOtros Servicios Turísticos\nVenta de Material Informativo(libro,revistas,postales,videos,etc)\nCiudad de Huacho.\nOtros Servicios Turísticos\nVenta de Material para Fotografía\nCiudad de Huacho.\nOtros Servicios Turísticos\nTópico\nCiudad de Huacho.\nLugares de Recreación\nDiscotecas\nCiudad de Huacho.\nLugares de Recreación\nCasinos de Juego\nCiudad de Huacho.\nLugares de Recreación\nPeñas\nCiudad de Huacho.\nLugares de Recreación\nCines o Teatros\nCiudad de Huacho\nLugares de Recreación\nJuegos Infantiles\nLocalidad de Vegueta.\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nCiudad de Huacho."
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nDistrito de Végueta\nBancos\nDistrito de Végueta\nCajero automático\nDistrito de Végueta\nCasa de cambio\nPlaza mayor del distrito de Végueta\nBodegas o minimarkets\nDistrito de Végueta"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nLuz (Suministro Eléctrico)\n--\nAlcantarillado sanitario\n--\nAgua potable\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\ndistrito de Vegueta\nAlcantarillado sanitario\ndistrito de Vegueta\nDesagüe\ndistrito de Vegueta\nLuz (Suministro Eléctrico)\ndistrito de Vegueta\nTeléfono\ndistrito de Vegueta"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nMunicipalidad Distrital de Vegueta\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nDocumento en trámite Solicitud de Publicidad Registral 2022-163-14607\nAdministrador por\nNombre\nTiempo de administración\nDesde el año 2008."
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDIRECCIÓN REGIONAL DE COMERCIO EXTERIOR Y TURISMO / MUNICIPALIDAD DISTRITAL DE VEGUETA.\nNombre (Persona(s) responsable(s) del inventario turístico):\nJorge Luis Torres Chirito\nCargo:\nAsistente Administrativo\nCorreo:\njchiritoxx@gmail.com\nTeléfono:\n956454928\nFuentes Bibliográfica:\n- Municipalidad Distrital de Vegueta. (2019). GUIA TURISTICA 2019\n- Ruth Shady, Aldemar Crispin. (2008). Libro \" Vichama de Vegueta Comparte con Caral 5000 Años de Identidad Cultural”. Programa General Del 7° Aniversario de Vichama.\n- Revista Cientifica Guara Edición N°16 (2013). Fuente Oral: Arq. Jose Bazan y Lic. Liz Mercado, Encargado de Monitoreo de Piezas de la Zona Arqueológica y Piezas de la Zona Arqueológica de Vichama.\n- Ruth Shady, Edna Quispe, Pedro Novoa Y Marco Machaguay, 1era Edición. (2014). Vichama Civilización Agropesquera de Vegueta- Huaura: La Ideología de Nuestros Ancestros 3800 Años de Arte Mural.\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n5/10/2022"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -11.023042,
+    "longitud": -77.64383299999997
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-11.023042,-77.64383299999997"
+}

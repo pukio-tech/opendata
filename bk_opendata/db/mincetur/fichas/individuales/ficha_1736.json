@@ -1,0 +1,407 @@
+{
+  "cod_ficha": 1736,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=1736",
+  "nombre": "Cascada De Paccha",
+  "departamento": "San Martín",
+  "provincia": "Moyobamba",
+  "distrito": "JEPELACIO",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "j. Caídas de agua",
+  "subtipo": "Cascadas",
+  "jerarquia": "1",
+  "altitud": "1150",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=295033",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=295033",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=502660",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=502662",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=502744",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=502792"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Paseos - Excursiones",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de paisaje",
+    "Deportes / Aventura - Caminata/Trekking"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Paseos",
+      "tipo": "Excursiones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/excursiones02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "Orquídeas, bromelias, helechos",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "San Martín/Moyobamba/Moyobamba - San Martín/Moyobamba/Jepelacio",
+      "detalle": "Paradero de autos Valle del Gera (Ciudad de Moyobamba) - Plaza de Armas de Jepelacio",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "14.9 Km / 30 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "San Martín/Moyobamba/Jepelacio - San Martín/Moyobamba/Jepelacio",
+      "detalle": "Plaza de Armas de Jepelacio - Centro Poblado Pacaypite",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "13 Km / 38 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "San Martín/Moyobamba/Jepelacio - San Martín/Moyobamba/Jepelacio",
+      "detalle": "Centro Poblado Nuevo San Miguel - Cascada de Paccha",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "1.2 Km / 2 minutos"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "176",
+      "horario": "Libro de registro de visitas del Centro Poblado San Miguel",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "2884",
+      "horario": "Libro de registro de visitas del Centro Poblado Nuevo San Miguel",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "08:00 a.m. - 05:30 p.m. Se recomienda visitan en época de verano (meses de abril a noviembre), además, portar agua, gorro, bloqueador solar, repelente, traje para baño, cámara fotográfica.",
+      "observaciones": "Se recomienda visitan en época de verano (meses de abril a noviembre), además, portar agua, gorro, bloqueador solar, repelente, traje para baño, cámara fotográfica."
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "Costo de boleto: Adultos S/ 3.00 - Niños S/ 1.00"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicios Higiénicos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Estacionamiento",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Orquideario",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Boletería",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Moyobamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Cines o Teatros",
+      "observacion": "Ciudad de Moyobamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Poblado de Jepelacio y ciudad de Moyobamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Ciudad de Moyobamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Ciudad de Moyobamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "Ciudad de Moyobamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Moyobamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Moyobamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de Moyobamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "En idioma inglés en la ciudad de Moyobamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "1 y 2 tenedores en la ciudad de Moyobamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Moyobamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Moyobamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Ciudad de Moyobamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Ciudad de Moyobamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "1 a 3 estrellas en la ciudad de Moyobamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "1 a 3 estrellas en la ciudad de Moyobamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Moyobamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "Ciudad de Moyobamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Ciudad de Moyobamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Embarcaderos",
+      "observacion": "Ciudad de Moyobamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Ciudad de Moyobamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Orquideario",
+      "observacion": "Ciudad de Moyobamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Puesto de auxilio rápido",
+      "observacion": "Poblado de Jepelacio y ciudad de Moyobamba"
+    }
+  ],
+  "descripcion": "Se encuentra en el Centro Poblado Nuevo San Miguel a una altura de 1 150 m.s.n.m. en un ecosistema de Selva Alta. Sus aguas provienen de la quebrada Paccha, de apariencia cristalina y temperatura fresca, que discurre sobre lechos pedregosos y empinados, los mismos que forman un puente natural para cruzar la base de la cascada. Cuenta con cuatro caídas, siendo las más accesibles las tres primeras: Paccha, El Salto del Alcalde y Los Helechos, acondicionadas para el visitante, con piscinas naturales y altitud aproximada de 10 metros, a las que se accede mediante senderos y pontones.\nEl lugar se encuentra rodeado de una frondosa y alta vegetación que constituye el hábitat natural de orquídeas, bromelias y especies de flora propias de la zona; en el camino hacia las cascadas, se puede apreciar todo tipo de insectos y mariposas que abundan en la zona.\nEl lugar cuenta con instalaciones para la recepción del visitante, entre tambos de descanso, vestidores, servicios higiénicos diferenciados por género, boletería y juegos recreativos para niños. El lugar es propicio para la caminata, la toma de fotografías, la observación del paisaje y la recreación en el agua.",
+  "particularidades": "",
+  "estado_actual": "Regular, falta mantenimiento de las instalaciones.",
+  "observaciones": "Administrado por la Municipalidad del Centro Poblado Nuevo San Miguel",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Se encuentra en el Centro Poblado Nuevo San Miguel a una altura de 1 150 m.s.n.m. en un ecosistema de Selva Alta. Sus aguas provienen de la quebrada Paccha, de apariencia cristalina y temperatura fresca, que discurre sobre lechos pedregosos y empinados, los mismos que forman un puente natural para cruzar la base de la cascada. Cuenta con cuatro caídas, siendo las más accesibles las tres primeras: Paccha, El Salto del Alcalde y Los Helechos, acondicionadas para el visitante, con piscinas naturales y altitud aproximada de 10 metros, a las que se accede mediante senderos y pontones.\nEl lugar se encuentra rodeado de una frondosa y alta vegetación que constituye el hábitat natural de orquídeas, bromelias y especies de flora propias de la zona; en el camino hacia las cascadas, se puede apreciar todo tipo de insectos y mariposas que abundan en la zona.\nEl lugar cuenta con instalaciones para la recepción del visitante, entre tambos de descanso, vestidores, servicios higiénicos diferenciados por género, boletería y juegos recreativos para niños. El lugar es propicio para la caminata, la toma de fotografías, la observación del paisaje y la recreación en el agua."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "La Municipalidad Provincial de Moyobamba reconoció al recurso con Decreto de Alcaldía Nº 002-2017-MPM/A, de fecha 31 de marzo del 2017."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Regular, falta mantenimiento de las instalaciones."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "Administrado por la Municipalidad del Centro Poblado Nuevo San Miguel"
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n176\nLibro de registro de visitas del Centro Poblado San Miguel\n2022\nValidado por la Municipalidad Distrital de Jepelacio y la DIRCETUR San Martín\nTuristas Nacionales\n2884\nLibro de registro de visitas del Centro Poblado Nuevo San Miguel\n2022\nValidado por la Municipalidad Distrital de Jepelacio y la DIRCETUR San Martín"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nSan Martín/Moyobamba/Moyobamba\n-\nSan Martín/Moyobamba/Jepelacio\nParadero de autos Valle del Gera (Ciudad de Moyobamba) - Plaza de Armas de Jepelacio\nTerrestre\nAutomóvil particular\nAsfaltado\n14.9 Km / 30 minutos\n1\nSan Martín/Moyobamba/Jepelacio\n-\nSan Martín/Moyobamba/Jepelacio\nPlaza de Armas de Jepelacio - Centro Poblado Pacaypite\nTerrestre\nAutomóvil particular\nAfirmado\n13 Km / 38 minutos\n1\nSan Martín/Moyobamba/Jepelacio\n-\nSan Martín/Moyobamba/Jepelacio\nCentro Poblado Nuevo San Miguel - Cascada de Paccha\nTerrestre\nAutomóvil particular\nAfirmado\n1.2 Km / 2 minutos"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nCosto de boleto: Adultos S/ 3.00 - Niños S/ 1.00"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n08:00 a.m.\n-\n05:30 p.m.\nSe recomienda visitan en época de verano (meses de abril a noviembre), además, portar agua, gorro, bloqueador solar, repelente, traje para baño, cámara fotográfica."
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nPaseos\nExcursiones\n--\nNaturaleza\nObservación de flora\nOrquídeas, bromelias, helechos\nNaturaleza\nObservación de paisaje\n--\nDeportes / Aventura\nCaminata/Trekking\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nLugares de Recreación\nJuegos Infantiles\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nServicios Higiénicos\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nServicio de Estacionamiento\n--\nInstalaciones Públicas\nServicios Públicos\nOrquideario\n--\nInstalaciones Privadas\nAlimentación\nKioskos de comida y bebidas\n--\nInstalaciones Públicas\nServicios Públicos\nBoletería\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nLugares de Recreación\nDiscotecas\nCiudad de Moyobamba\nLugares de Recreación\nCines o Teatros\nCiudad de Moyobamba\nLugares de Recreación\nJuegos Infantiles\nPoblado de Jepelacio y ciudad de Moyobamba\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nCiudad de Moyobamba\nLugares de Recreación\nCentros Deportivos\nCiudad de Moyobamba\nLugares de Recreación\nKaraoke\nCiudad de Moyobamba\nLugares de Recreación\nBares\nCiudad de Moyobamba\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Moyobamba\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de Moyobamba\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nEn idioma inglés en la ciudad de Moyobamba\nAlimentación\nRestaurantes\n1 y 2 tenedores en la ciudad de Moyobamba\nAlimentación\nBares\nCiudad de Moyobamba\nAlimentación\nCafeterías\nCiudad de Moyobamba\nAlimentación\nFuentes de soda\nCiudad de Moyobamba\nAlimentación\nVenta de comida Rápida\nCiudad de Moyobamba\nAlojamiento\nHoteles (especificar categorías)\n1 a 3 estrellas en la ciudad de Moyobamba\nAlojamiento\nHostales (especificar categorías)\n1 a 3 estrellas en la ciudad de Moyobamba\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Moyobamba\nServicios Públicos\nMiradores turísticos\nCiudad de Moyobamba\nServicios Públicos\nEstacionamiento de vehículos\nCiudad de Moyobamba\nServicios Públicos\nEmbarcaderos\nCiudad de Moyobamba\nServicios Públicos\nOficina de Información turística\nCiudad de Moyobamba\nServicios Públicos\nOrquideario\nCiudad de Moyobamba\nServicios Públicos\nPuesto de auxilio rápido\nPoblado de Jepelacio y ciudad de Moyobamba"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nPoblado de Jepelacio y ciudad de Moyobamba\nBancos\nPoblado de Jepelacio y ciudad de Moyobamba\nCajero automático\nCiudad de Moyobamba\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Moyobamba\nServicio de correos\nCiudad de Moyobamba\nServicio de estacionamiento\nCiudad de Moyobamba\nCentro de salud - tópico\nPoblado de Jepelacio y ciudad de Moyobamba\nVenta de materiales para fotografías\nCiudad de Moyobamba\nSeguridad / POLTUR / Comisaría\nPoblado de Jepelacio y ciudad de Moyobamba\nLibrerías\nPoblado de Jepelacio y ciudad de Moyobamba\nBodegas o minimarkets\nPoblado de Jepelacio y ciudad de Moyobamba"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\n--\nDesagüe\n--\nSeñalización turística\n--\nLuz (Suministro Eléctrico)\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nPoblado de Jepelacio y ciudad de Moyobamba\nLuz (Suministro Eléctrico)\nPoblado de Jepelacio y ciudad de Moyobamba\nTeléfono\nPoblado de Jepelacio y ciudad de Moyobamba\nSeñalización turística\nPoblado de Jepelacio y ciudad de Moyobamba\nAlcantarillado sanitario\nCiudad de Moyobamba\nAlcantarillado pluvial\nCiudad de Moyobamba"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nGobierno Regional San Martín\nPrivado:\n--\nOtra Situación:\nZona de Conservación y Recuperación de Ecosistemas –ZoCRE Gera, Sisa y Organero\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n2011-00013995\nNúmero de Partida:\n11038131\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nMunicipalidad del Centro Poblado Nuevo San Miguel\nTiempo de administración\nDesde el año 2021"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo de San Martín\nNombre (Persona(s) responsable(s) del inventario turístico):\nEdison Rodríguez Chupe\nCargo:\nEspecialista en Turismo\nCorreo:\nedison.rodriguezchupe@gmail.com\nTeléfono:\n976 980 815\nFuentes Bibliográfica:\n- Guía de viajes \"San Martín, destinos y rutas\", Autor: Gobierno Regional de San Martín; Año: 2019. Páginas 38 y 39.\n- Fuentes bibliográfica: Nota escrita \"Turismo en Cascada de Paccha” de Turismoi: https://turismoi.pe/naturaleza/cataratas/cataratas-de-paccha.htm\n- Plataforma de promoción \"Visita San Martín\" del Gobierno Regional San Martín. Enlace: https://www.visitasanmartin.pe/destino/alto-mayo/atractivos/cascada-de-paccha\nMaterial Audiovisual actual del Recurso:\nFOTO, VIDEOS\nEspecificación:\nVídeo: https://www.youtube.com/watch?v=K-1684Ch4jQ\nReferencia de las últimas intervenciones en el Recurso Turístico:\nProyecto “Puesta en valor eco turístico de las Cataratas de Paccha y Lejiayacu del distrito de Jepelacio - Provincia de Moyobamba\", ejecutado por la Municipalidad Provincial de Moyobamba, 2017\nFecha:\n3/10/2023 17:30:41"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -6.2217861290552925,
+    "longitud": -76.91935902450268
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-6.2217861290552925,-76.91935902450268"
+}

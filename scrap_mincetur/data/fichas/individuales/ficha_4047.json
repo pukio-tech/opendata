@@ -1,0 +1,225 @@
+{
+  "cod_ficha": 4047,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=4047",
+  "nombre": "Sitio Arqueológico De Inampu",
+  "departamento": "Puno",
+  "provincia": "Azangaro",
+  "distrito": "ASILLO",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Sitios Arqueológicos",
+  "subtipo": "Recintos ceremoniales",
+  "jerarquia": "1",
+  "altitud": "4482",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=291387",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=291387",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=298624",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=530927",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=530882",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=530883",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=530928",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=547484",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=547531"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Actividades Culturales",
+    "Otros - Estudios e Investigación",
+    "Naturaleza - Observación de paisaje",
+    "Deportes / Aventura - Caminata/Trekking"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Actividades Culturales",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/act_culturales02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "Hacia el sitio arqueológico",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Puno/Azángaro/Azángaro - Puno/Azángaro/Asillo",
+      "detalle": "Terminal Terrestre de Azángaro - desvío hacia el Sitio Arqueológico de Inampu",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "43 kms. 1 hora."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Puno/Azángaro/Asillo - Puno/Azángaro/Asillo",
+      "detalle": "Desvío al Sitio A. de Inampu - Sitio A. de Inampu",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Sendero",
+      "distancia_tiempo": "2 kms / 3 horas"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "90",
+      "horario": "Conteo muestra - Municipalidad Provincial de Azángaro",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "540",
+      "horario": "Conteo muestra - Municipalidad Provincial de Azángaro",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "06:00 a.m. - 03:00 p.m. De preferencia en la mañana.",
+      "observaciones": "De preferencia en la mañana."
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": "Previa coordinación e información a la comunidad"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "En la localidad de Asillo."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "En la localidad de Asillo."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "En la localidad de Asillo."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "En la localidad de Asillo."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "En la localidad de Asillo."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "En la ciudad de Azángaro"
+    }
+  ],
+  "descripcion": "El sitio arqueológico de Inampu está ubicado en el margen izquierdo del km. 45 de la carretera interoceánica de Azángaro a Macusani, en la comunidad de Jila Retiro, en la cima y las faldas de un elevado cerro ubicado aproximadamente a un kilómetro de la carretera, inicialmente frente a la carretera se puede apreciar una sola chullpa de planta circular en buen estado, de menor diámetro en la base respecto a la parte alta, rematando con un alero de una hilada y encima un cúmulo de piedras pircadas en círculo, de 6 hiladas que cubren la parte alta de la chullpa.\nLas demás chullpas se encuentran desperdigadas en las faldas y cima de un elevado cerro, unas de planta cuadrada, rectangular y otras de planta circular, de 2.00 a 3.00 mts de alto, construidas de piedra y laja superpuestas, al parecer sin argamasa, aparejo regular que mantienen la verticalidad y la forma de los muros, todas con aleros de hasta 0.30 cm.\nEn el conjunto hay aproximadamente 28 chullpas, dispersas en buen estado, otras tantas solo con bases o con 4 o 5 hiladas, gran cantidad de cistas de diferentes diámetros. Como en todo el altiplano, las chullpas tienen pequeñas puertas orientadas al Este o a la salida del sol. En los alrededores principalmente hacia el lado este se notan restos de murallas que siguen la forma del cerro, y dentro de ellas terrazas, con gran cantidad de restos de construcciones a manera de habitaciones y canchas, desperdigados por todo el conjunto, en la cima hay restos de lo que posiblemente ha podido ser un templo ceremonial.\nEn la parte sur, restos de una cantera de donde quizás extrajeron el material para sus construcciones, hay gran cantidad de piedras y lajas, desperdigadas desde la cima hasta la base, producto de los permanentes deslizamientos.\nSon chullpas de construcción y manufactura diferentes a las de Sillustani, Cutimbo y otras, además cuenta con una espectacular vista del paisaje andino circundante, que motivan la visita turística.",
+  "particularidades": "",
+  "estado_actual": "Regular, por efectos del clima y acciones de depredación.",
+  "observaciones": "Sitio arqueológico situado a 165 kms. Al norte de la ciudad de Puno, a 18 kms. de Asillo y a 45 kms. Al norte de Azangaro capital de la Provincia. Entre las comunidades de Jila y Retiro.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "El sitio arqueológico de Inampu está ubicado en el margen izquierdo del km. 45 de la carretera interoceánica de Azángaro a Macusani, en la comunidad de Jila Retiro, en la cima y las faldas de un elevado cerro ubicado aproximadamente a un kilómetro de la carretera, inicialmente frente a la carretera se puede apreciar una sola chullpa de planta circular en buen estado, de menor diámetro en la base respecto a la parte alta, rematando con un alero de una hilada y encima un cúmulo de piedras pircadas en círculo, de 6 hiladas que cubren la parte alta de la chullpa.\nLas demás chullpas se encuentran desperdigadas en las faldas y cima de un elevado cerro, unas de planta cuadrada, rectangular y otras de planta circular, de 2.00 a 3.00 mts de alto, construidas de piedra y laja superpuestas, al parecer sin argamasa, aparejo regular que mantienen la verticalidad y la forma de los muros, todas con aleros de hasta 0.30 cm.\nEn el conjunto hay aproximadamente 28 chullpas, dispersas en buen estado, otras tantas solo con bases o con 4 o 5 hiladas, gran cantidad de cistas de diferentes diámetros. Como en todo el altiplano, las chullpas tienen pequeñas puertas orientadas al Este o a la salida del sol. En los alrededores principalmente hacia el lado este se notan restos de murallas que siguen la forma del cerro, y dentro de ellas terrazas, con gran cantidad de restos de construcciones a manera de habitaciones y canchas, desperdigados por todo el conjunto, en la cima hay restos de lo que posiblemente ha podido ser un templo ceremonial.\nEn la parte sur, restos de una cantera de donde quizás extrajeron el material para sus construcciones, hay gran cantidad de piedras y lajas, desperdigadas desde la cima hasta la base, producto de los permanentes deslizamientos.\nSon chullpas de construcción y manufactura diferentes a las de Sillustani, Cutimbo y otras, además cuenta con una espectacular vista del paisaje andino circundante, que motivan la visita turística."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "Fue declarado Patrimonio Cultural de la Nación por el Instituto Nacional de Cultura mediante R.D.N. Nº 296/INC-2003."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Regular, por efectos del clima y acciones de depredación."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "Sitio arqueológico situado a 165 kms. Al norte de la ciudad de Puno, a 18 kms. de Asillo y a 45 kms. Al norte de Azangaro capital de la Provincia. Entre las comunidades de Jila y Retiro."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Nacionales\n90\nConteo muestra - Municipalidad Provincial de Azángaro\n2023\nundefined\nVisitantes Locales(Excursionistas)\n540\nConteo muestra - Municipalidad Provincial de Azángaro\n2023"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nPuno/Azángaro/Azángaro\n-\nPuno/Azángaro/Asillo\nTerminal Terrestre de Azángaro - desvío hacia el Sitio Arqueológico de Inampu\nTerrestre\nAutomóvil particular\nAsfaltado\n43 kms. 1 hora.\n1\nPuno/Azángaro/Asillo\n-\nPuno/Azángaro/Asillo\nDesvío al Sitio A. de Inampu - Sitio A. de Inampu\nTerrestre\nA pie\nSendero\n2 kms / 3 horas"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre\nPrevia coordinación e información a la comunidad"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n06:00 a.m.\n-\n03:00 p.m.\nDe preferencia en la mañana."
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nActividades Culturales\n--\nOtros\nEstudios e Investigación\n--\nNaturaleza\nObservación de paisaje\n--\nDeportes / Aventura\nCaminata/Trekking\nHacia el sitio arqueológico"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlimentación\nRestaurantes\nEn la localidad de Asillo.\nAlimentación\nKioskos de comida y bebidas\nEn la localidad de Asillo.\nOtros Servicios Turísticos\nVenta de artesanía\nEn la localidad de Asillo.\nServicios Públicos\nEstacionamiento de vehículos\nEn la localidad de Asillo.\nLugares de Recreación\nCentros Deportivos\nEn la localidad de Asillo.\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nEn la ciudad de Azángaro"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nEn la localidad de Asillo.\nEstación de servicios, grifos, gasolineras y gasocentros\nEn la localidad de Asillo.\nServicio de estacionamiento\nEn la localidad de Asillo.\nServicios de taxis\nEn la localidad de Asillo.\nCentro de salud - tópico\nCentro de Salud en la localidad de Asillo.\nVenta de materiales para fotografías\nEn la localidad de Asillo.\nSeguridad / POLTUR / Comisaría\nComisaria Rural PNP en la localidad de Asillo.\nLibrerías\nEn la localidad de Asillo.\nBodegas o minimarkets\nEn la localidad de Asillo."
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nEn la localidad de Asillo.\nLuz (Suministro Eléctrico)\nEn la localidad de Asillo.\nTeléfono\nEn la localidad de Asillo.\nAlcantarillado sanitario\nEn la localidad de Asillo."
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nMinisterio de Cultura - Dirección Desconcentrad de Puno.\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nExpediente de Declaración de Patrimonio Cultural de la Nación.\nAdministrador por\nNombre\nComunidad de Jila Retiro\nTiempo de administración\nDesde el año 2004"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección de Turismo de la DIRCETUR PUNO /\nNombre (Persona(s) responsable(s) del inventario turístico):\nArq. Vadim Masciotti Cabala /\nCargo:\nArq. /\nCorreo:\nvamasciotti@gmail.com /\nTeléfono:\n051 351261 /\nFuentes Bibliográfica:\nE. Romero P., Monografía del Departamento de Puno, Lima, 1926.\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n28/06/2024 11:10:42"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -14.61077171096365,
+    "longitud": -70.36801896313477
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-14.61077171096365,-70.36801896313477"
+}

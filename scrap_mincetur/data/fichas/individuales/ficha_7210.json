@@ -1,0 +1,447 @@
+{
+  "cod_ficha": 7210,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=7210",
+  "nombre": "Mirador Condor Senqa",
+  "departamento": "Cusco",
+  "provincia": "La Convencion",
+  "distrito": "ECHARATE",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "ñ. Zonas paisajísticas",
+  "subtipo": "Miradores naturales",
+  "jerarquia": "1",
+  "altitud": "1736 msnm",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=390449",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=390449",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=390450",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=390451",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=390415",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=648510",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=648560",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=648511",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=648512"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de paisaje",
+    "Naturaleza - Observación de aves",
+    "Deportes / Aventura - Caminata/Trekking"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "Coca (Erythroxylum Coca), helechos (Tracheophyta), café (Coffea), achiote (Bixa Orellana), caña (Saccharum Officinarum) y árboles de pino (Pinus).",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de aves",
+      "observacion": "Paloma Peruana (Patagioenas Oenops), Aguilucho Común (Geranoaetus Polyosoma), Pusti (Cacicus Cela), Golondrina Común (Hirundo Rustica) y Gallinazos (Coragyps Atratus).",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/aves02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Cusco/La Convención/Santa Ana - Cusco/La Convención/Echarate",
+      "detalle": "Desde la Plaza principal de la ciudad de Quillabamba - Centro poblado de Echarati",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mini bus turístico",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "25 km/30 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Cusco/La Convención/Echarate - Cusco/La Convención/Echarate",
+      "detalle": "Desde el Centro poblado de Echarate hasta el desvió delicias",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mini bus turístico",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "11km/30 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Cusco/La Convención/Echarate - Cusco/La Convención/Echarate",
+      "detalle": "Desde el Desvió Delicias - Desvió Limonpampa",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mini bus turístico",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "0.6 km/ 8 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Cusco/La Convención/Echarate - Cusco/La Convención/Echarate",
+      "detalle": "Desde el Desvió Limonpampa hasta el desvío principal",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mini bus turístico",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "0.4km/5 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Cusco/La Convención/Echarate - Cusco/La Convención/Echarate",
+      "detalle": "Desde el desvío principal hasta el punto de inicio de caminata al mirador",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mini bus turístico",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "0.4km/5 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Cusco/La Convención/Echarate - Cusco/La Convención/Echarate",
+      "detalle": "Del punto de inicio de caminata hasta el Mirador condorsencca",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Sendero",
+      "distancia_tiempo": "0.3km/10 min"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Cusco/La Convención/Santa Ana - Cusco/La Convención/Santa Ana",
+      "detalle": "Desde la Plaza principal de la ciudad de Quillabamba hasta Centro poblado de Pavayoq",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mini bus turístico",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "0.6 km/5 min"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Cusco/La Convención/Santa Ana - Cusco/La Convención/Santa Ana",
+      "detalle": "Desde el Centro poblado de Pavayoq hasta el puesto policial del sector de Huayanay",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mini bus turístico",
+      "tipo_via": "Otros",
+      "distancia_tiempo": "13.4 km/25 min"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Cusco/La Convención/Echarate - Cusco/La Convención/Echarate",
+      "detalle": "Desde el puesto policial del sector de Huayanay hasta el Centro de Interpretación del Café",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mini bus turístico",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "23 km/40 min"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Cusco/La Convención/Echarate - Cusco/La Convención/Echarate",
+      "detalle": "Desde el Centro de interpretación del café hasta el desvío principal",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mini bus turístico",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "0.4km/5 min"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Cusco/La Convención/Echarate - Cusco/La Convención/Echarate",
+      "detalle": "Desde el desvío principal hasta el punto de inicio de caminata al mirador",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mini bus turístico",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "0.4km/5 min"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Cusco/La Convención/Echarate - Cusco/La Convención/Echarate",
+      "detalle": "Del punto de inicio de caminata hasta el Mirador condorsencca",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Sendero",
+      "distancia_tiempo": "0.3km/10 min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "10",
+      "horario": "Constancia del registro de visitantes",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "264",
+      "horario": "Constancia del registro de visitantes",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "1415",
+      "horario": "Constancia del registro de visitantes",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "05:00 a.m. - 04:00 p.m. Se recomienda visitar el recurso turístico con ropa ligera y llevar bloqueador FPS-50+, repelente, gorras o sombreros y lentes de sol.",
+      "observaciones": "Se recomienda visitar el recurso turístico con ropa ligera y llevar bloqueador FPS-50+, repelente, gorras o sombreros y lentes de sol."
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "Hostal de 3 y 2 estrellas/Ciudad de Quillabamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Quillabamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Quillabamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Quillabamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Quillabamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Quillabamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de Quillabamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Quillabamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de bicicleta",
+      "observacion": "Ciudad de Quillabamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Alquiler de Motocicletas/Ciudad de Quillabamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Ciudad de Quillabamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Quillabamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Ciudad de Quillabamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "Ciudad de Quillabamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Ciudad de Quillabamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Ciudad de Quillabamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "Ciudad de Quillabamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Ciudad de Quillabamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "Ciudad de Quillabamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de interpretación",
+      "observacion": "Ciudad de Quillabamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "Ciudad de Quillabamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Ciudad de Quillabamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "Ciudad de Quillabamba"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Quillabamba"
+    }
+  ],
+  "descripcion": "El Mirador Cóndor Sencca se ubica en la zonal de Echarati, sector Chaco Rosario, a unos 25 km de la ciudad de Quillabamba, aproximadamente a una hora de distancia. Situado a 1,736 m s. n. m., este mirador ofrece una espectacular belleza paisajística, rodeado de balcones metálicos que permiten disfrutar de vistas panorámicas únicas.\nSu estructura es una obra de alta ingeniería: un balcón de alrededor de 450 a 500 metros lineales, construido con fierro y concreto sobre una pendiente rocosa de 90°. La dificultad de su elaboración lo ha convertido en una de las obras más importantes de la provincia de La Convención. Las formaciones rocosas que lo rodean presentan curiosas siluetas que asemejan rostros humanos, añadiendo un toque místico al paisaje.\nEl mirador se encuentra dentro de la región natural Rupa-Rupa o Selva Alta, caracterizada por un clima subtropical húmedo, con una temperatura media anual de 26 °C y una precipitación promedio de 3,300 mm. En el trayecto hacia el mirador, los visitantes son recibidos por jardines naturales y una exuberante vegetación que incluye helechos, orquídeas, líquenes y plantas medicinales. Durante el recorrido también se aprecian representaciones artísticas de aves, rodeadas de jardines de tamaño considerable.\nDesde este punto privilegiado se pueden observar las cuencas de los ríos Delicias, Torontoy y Terebinto, así como impresionantes formaciones geológicas. Entre las atracciones más destacadas se encuentra la vista de la “Bella Durmiente”, un cerro que se asemeja a una mujer recostada, además de la majestuosidad de la montaña de bosque de nubes Apu Urusayhua y el imponente cerro Huacayoc, que aportan un aire mágico al entorno.\nLa fauna también es protagonista: es posible avistar el majestuoso Águila Real, el emblemático Gallito de las Rocas —ave nacional del Perú—, así como aguiluchos (Circus cyaneus) y gallinazos (Coragyps atratus).\nInicialmente, la construcción del mirador estuvo destinada al transporte de agua para el canal de riego de los cultivos agrícolas de los sectores de Chaco y Balcompata, entre otros. Sin embargo, debido a las impresionantes vistas hacia las montañas Urusayhua, Aputinya y los sectores de Buena Vista, Torontoypata y Huaynapata, fue acondicionado para actividades turísticas.\nHoy, el Mirador Cóndor Sencca se conserva en excelente estado gracias al mantenimiento y cuidado de la población del sector de Chaco. Los centros poblados más cercanos son Huayanay, Chaco y Echarati, lo que lo convierte en un destino imperdible para quienes buscan disfrutar de paisajes únicos, biodiversidad y cultura en plena selva alta cusqueña.",
+  "particularidades": "",
+  "estado_actual": "Se encuentra en buen estado gracias a que la Comisión de Usuarios del Subsector Hidráulico Río Torontoy, junto con los usuarios de riego, realiza de manera constante faenas de limpieza y mantenimiento en el sector.",
+  "observaciones": "Esta construcción de alta ingeniería fue ejecutada por el PER PLAN MERISS del Gobierno Regional del Cusco. El Mirador de Condor Senqa forma parte del circuito turístico de la Ruta del Café del sector de Chaco-Cuenca Huacayoc.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "El Mirador Cóndor Sencca se ubica en la zonal de Echarati, sector Chaco Rosario, a unos 25 km de la ciudad de Quillabamba, aproximadamente a una hora de distancia. Situado a 1,736 m s. n. m., este mirador ofrece una espectacular belleza paisajística, rodeado de balcones metálicos que permiten disfrutar de vistas panorámicas únicas.\nSu estructura es una obra de alta ingeniería: un balcón de alrededor de 450 a 500 metros lineales, construido con fierro y concreto sobre una pendiente rocosa de 90°. La dificultad de su elaboración lo ha convertido en una de las obras más importantes de la provincia de La Convención. Las formaciones rocosas que lo rodean presentan curiosas siluetas que asemejan rostros humanos, añadiendo un toque místico al paisaje.\nEl mirador se encuentra dentro de la región natural Rupa-Rupa o Selva Alta, caracterizada por un clima subtropical húmedo, con una temperatura media anual de 26 °C y una precipitación promedio de 3,300 mm. En el trayecto hacia el mirador, los visitantes son recibidos por jardines naturales y una exuberante vegetación que incluye helechos, orquídeas, líquenes y plantas medicinales. Durante el recorrido también se aprecian representaciones artísticas de aves, rodeadas de jardines de tamaño considerable.\nDesde este punto privilegiado se pueden observar las cuencas de los ríos Delicias, Torontoy y Terebinto, así como impresionantes formaciones geológicas. Entre las atracciones más destacadas se encuentra la vista de la “Bella Durmiente”, un cerro que se asemeja a una mujer recostada, además de la majestuosidad de la montaña de bosque de nubes Apu Urusayhua y el imponente cerro Huacayoc, que aportan un aire mágico al entorno.\nLa fauna también es protagonista: es posible avistar el majestuoso Águila Real, el emblemático Gallito de las Rocas —ave nacional del Perú—, así como aguiluchos (Circus cyaneus) y gallinazos (Coragyps atratus).\nInicialmente, la construcción del mirador estuvo destinada al transporte de agua para el canal de riego de los cultivos agrícolas de los sectores de Chaco y Balcompata, entre otros. Sin embargo, debido a las impresionantes vistas hacia las montañas Urusayhua, Aputinya y los sectores de Buena Vista, Torontoypata y Huaynapata, fue acondicionado para actividades turísticas.\nHoy, el Mirador Cóndor Sencca se conserva en excelente estado gracias al mantenimiento y cuidado de la población del sector de Chaco. Los centros poblados más cercanos son Huayanay, Chaco y Echarati, lo que lo convierte en un destino imperdible para quienes buscan disfrutar de paisajes únicos, biodiversidad y cultura en plena selva alta cusqueña."
+    },
+    {
+      "titulo": "Particularidades",
+      "contenido": ""
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Se encuentra en buen estado gracias a que la Comisión de Usuarios del Subsector Hidráulico Río Torontoy, junto con los usuarios de riego, realiza de manera constante faenas de limpieza y mantenimiento en el sector."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "Esta construcción de alta ingeniería fue ejecutada por el PER PLAN MERISS del Gobierno Regional del Cusco. El Mirador de Condor Senqa forma parte del circuito turístico de la Ruta del Café del sector de Chaco-Cuenca Huacayoc."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n10\nConstancia del registro de visitantes\n2025\nTuristas Nacionales\n264\nConstancia del registro de visitantes\n2025\nVisitantes Locales(Excursionistas)\n1415\nConstancia del registro de visitantes\n2025"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nCusco/La Convención/Santa Ana\n-\nCusco/La Convención/Echarate\nDesde la Plaza principal de la ciudad de Quillabamba - Centro poblado de Echarati\nTerrestre\nMini bus turístico\nAsfaltado\n25 km/30 min\n1\nCusco/La Convención/Echarate\n-\nCusco/La Convención/Echarate\nDesde el Centro poblado de Echarate hasta el desvió delicias\nTerrestre\nMini bus turístico\nTrocha carrozable\n11km/30 min\n1\nCusco/La Convención/Echarate\n-\nCusco/La Convención/Echarate\nDesde el Desvió Delicias - Desvió Limonpampa\nTerrestre\nMini bus turístico\nTrocha carrozable\n0.6 km/ 8 min\n1\nCusco/La Convención/Echarate\n-\nCusco/La Convención/Echarate\nDesde el Desvió Limonpampa hasta el desvío principal\nTerrestre\nMini bus turístico\nTrocha carrozable\n0.4km/5 min\n1\nCusco/La Convención/Echarate\n-\nCusco/La Convención/Echarate\nDesde el desvío principal hasta el punto de inicio de caminata al mirador\nTerrestre\nMini bus turístico\nTrocha carrozable\n0.4km/5 min\n1\nCusco/La Convención/Echarate\n-\nCusco/La Convención/Echarate\nDel punto de inicio de caminata hasta el Mirador condorsencca\nTerrestre\nA pie\nSendero\n0.3km/10 min\n2\nCusco/La Convención/Santa Ana\n-\nCusco/La Convención/Santa Ana\nDesde la Plaza principal de la ciudad de Quillabamba hasta Centro poblado de Pavayoq\nTerrestre\nMini bus turístico\nAsfaltado\n0.6 km/5 min\n2\nCusco/La Convención/Santa Ana\n-\nCusco/La Convención/Santa Ana\nDesde el Centro poblado de Pavayoq hasta el puesto policial del sector de Huayanay\nTerrestre\nMini bus turístico\nOtros\n13.4 km/25 min\n2\nCusco/La Convención/Echarate\n-\nCusco/La Convención/Echarate\nDesde el puesto policial del sector de Huayanay hasta el Centro de Interpretación del Café\nTerrestre\nMini bus turístico\nTrocha carrozable\n23 km/40 min\n2\nCusco/La Convención/Echarate\n-\nCusco/La Convención/Echarate\nDesde el Centro de interpretación del café hasta el desvío principal\nTerrestre\nMini bus turístico\nTrocha carrozable\n0.4km/5 min\n2\nCusco/La Convención/Echarate\n-\nCusco/La Convención/Echarate\nDesde el desvío principal hasta el punto de inicio de caminata al mirador\nTerrestre\nMini bus turístico\nTrocha carrozable\n0.4km/5 min\n2\nCusco/La Convención/Echarate\n-\nCusco/La Convención/Echarate\nDel punto de inicio de caminata hasta el Mirador condorsencca\nTerrestre\nA pie\nSendero\n0.3km/10 min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n05:00 a.m.\n-\n04:00 p.m.\nSe recomienda visitar el recurso turístico con ropa ligera y llevar bloqueador FPS-50+, repelente, gorras o sombreros y lentes de sol."
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nNaturaleza\nObservación de flora\nCoca (Erythroxylum Coca), helechos (Tracheophyta), café (Coffea), achiote (Bixa Orellana), caña (Saccharum Officinarum) y árboles de pino (Pinus).\nNaturaleza\nObservación de paisaje\n--\nNaturaleza\nObservación de aves\nPaloma Peruana (Patagioenas Oenops), Aguilucho Común (Geranoaetus Polyosoma), Pusti (Cacicus Cela), Golondrina Común (Hirundo Rustica) y Gallinazos (Coragyps Atratus).\nDeportes / Aventura\nCaminata/Trekking\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\nHostal de 3 y 2 estrellas/Ciudad de Quillabamba\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Quillabamba\nAlimentación\nRestaurantes\nCiudad de Quillabamba\nAlimentación\nBares\nCiudad de Quillabamba\nAlimentación\nCafeterías\nCiudad de Quillabamba\nLugares de Recreación\nDiscotecas\nCiudad de Quillabamba\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de Quillabamba\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Quillabamba\nOtros Servicios Turísticos\nAlquiler de bicicleta\nCiudad de Quillabamba\nOtros Servicios Turísticos\nOtros (Especificar)\nAlquiler de Motocicletas/Ciudad de Quillabamba\nAlimentación\nVenta de comida Rápida\nCiudad de Quillabamba\nAlimentación\nKioskos de comida y bebidas\nCiudad de Quillabamba\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nCiudad de Quillabamba\nLugares de Recreación\nKaraoke\nCiudad de Quillabamba\nLugares de Recreación\nJuegos Infantiles\nCiudad de Quillabamba\nLugares de Recreación\nCentros Deportivos\nCiudad de Quillabamba\nServicios Públicos\nMiradores turísticos\nCiudad de Quillabamba\nServicios Públicos\nEstacionamiento de vehículos\nCiudad de Quillabamba\nServicios Públicos\nSeñales turísticas de orientación\nCiudad de Quillabamba\nServicios Públicos\nSeñales turísticas de interpretación\nCiudad de Quillabamba\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\nCiudad de Quillabamba\nServicios Públicos\nOficina de Información turística\nCiudad de Quillabamba\nServicios Públicos\nCaminos peatonales\nCiudad de Quillabamba\nLugares de Recreación\nBares\nCiudad de Quillabamba"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Quillabamba\nBancos\nCiudad de Quillabamba\nCajero automático\nCiudad de Quillabamba\nCasa de cambio\nCiudad de Quillabamba\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Quillabamba\nServicio de correos\nCiudad de Quillabamba\nServicio de estacionamiento\nCiudad de Quillabamba\nServicios de taxis\nCiudad de Quillabamba\nCentro de salud - tópico\nCiudad de Quillabamba i\nVenta de materiales para fotografías\nCiudad de Quillabamba\nSeguridad / POLTUR / Comisaría\nCiudad de Quillabamba\nAlquiler y compra de equipos deportivos\nCiudad de Quillabamba\nLibrerías\nCiudad de Quillabamba\nBodegas o minimarkets\nCiudad de Quillabamba\nOtros(especificar)\nServicios de Mototaxis/Ciudad de Quillabamba"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Quillabamba\nAlcantarillado sanitario\nCiudad de Quillabamba\nLuz (Suministro Eléctrico)\nCiudad de Quillabamba\nTeléfono\nCiudad de Quillabamba\nSeñalización turística\nCiudad de Quillabamba\nEnergía Alternativa\nCiudad de Quillabamba"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\n--\nPrivado:\nComisión de Usuarios del Subsector Hidráulico Río Torontoy\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nConstancia emitido por el juez de paz titular del juzgado de paz Villa Chaco, distrito de Echarate - 16 de febrero del 2026\nAdministrador por\nNombre\nPresidente de la Comisión de Usuarios del Subsector Hidráulico Río Torontoy - Octavio Alvarado Roman - D.N.I. N° 24943168.\nTiempo de administración\nDesde el año 2026"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nGerencia Regional de Comercio Exterior, Turismo y Artesanía - Región Cusco\nNombre (Persona(s) responsable(s) del inventario turístico):\nEcon. Marco Luna Galindo\nCargo:\nResponsable del Inventario de Recursos Turísticos\nCorreo:\nsgdp.gercetur@gmail.com\nTeléfono:\n926629209\nFuentes Bibliográfica:\n• Revista de publicación: Proyecto de bienestar social “Creciendo con el turismo en la Comunidad Chaco Rosario del Distrito de Echarati, Provincia de la Convención, Departamento de Cusco – 2018. Universidad Líder Peruana.\n• Proyecto SNIP N° 250161: Instalación de los servicios turísticos de disfrute del paisaje, interpretación, accesibilidad y observación en los sectores de Chaco Rosario, Limonpampa, Huaynapata y Siete Vueltas, Distrito de Echarate - La Convención – Cusco.\nMaterial Audiovisual actual del Recurso:\nFOTO, VIDEOS\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\nSe realizo el acondicionamiento del Mirador Condor Senqa para las actividades turísticas a través del proyecto: Instalación de los servicios turísticos de disfrute del paisaje e interpretación.\nFecha:\n20/02/2026 16:49:28"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -12.823716,
+    "longitud": -72.61301300000002
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-12.823716,-72.61301300000002"
+}

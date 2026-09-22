@@ -1,0 +1,228 @@
+{
+  "cod_ficha": 2880,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=2880",
+  "nombre": "Complejo Arqueológico Cerro Shamana",
+  "departamento": "La Libertad",
+  "provincia": "Otuzco",
+  "distrito": "SALPO",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "a. Montañas",
+  "subtipo": "Cerros",
+  "jerarquia": "POR JERARQUIZAR",
+  "altitud": "3740",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=612153",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=612153",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=612154",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=612008",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=612009",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=612155",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=612156",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=612010",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=612011",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=612012",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=612157",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=612158",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=612013",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=612159"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Paseos - Excursiones",
+    "Deportes / Aventura - Caminata/Trekking",
+    "Cultura y Folclore - Degustación y preparación de platos, productos o bebidas típicas",
+    "Paseos - Paseos a caballo"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Paseos",
+      "tipo": "Excursiones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/excursiones02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Degustación y preparación de platos, productos o bebidas típicas",
+      "observacion": "Preparado por lal familias de la comunidad",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/platos_tipicos02.png"
+    },
+    {
+      "actividad": "Paseos",
+      "tipo": "Paseos a caballo",
+      "observacion": "Costo S/ 5.00",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paseo_caballo02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "La Libertad/Otuzco/Salpo - La Libertad/Otuzco/Salpo",
+      "detalle": "Plaza de Salpo a Complejo arqueológico de Shamana",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mini bus turístico",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "30km/40m"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "90",
+      "horario": "Conteo Muestra",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "1170",
+      "horario": "Conteo Muestra",
+      "observaciones": "2025"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "08:00 a.m. - 04:00 p.m. --",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "Tarifa única S/ 2.00"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de Caballos",
+      "observacion": "Costo S/5.00"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Localidad de Salpo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Localidad de Salpo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Localidad de Salpo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Localidad de Salpo"
+    }
+  ],
+  "descripcion": "Ubicado al Norte del área geográfica de la meseta de Carabamba, a un kilómetro al suroeste jurisdicción del caserío Shulgón, distrito Salpo, provincia Otuzco, región La Libertad, Perú sobre los 3740 msnm, está conformado por diversos restos de construcciones prehispánicas sobre formación rocosa natural, en un área aproximada de tres hectáreas, se encuentra un conjunto de estructuras de piedra, que han sido edificadas aprovechando las condiciones topográficas del terreno. Lugares de vivienda, espacios a manera de plazas asociadas, diversos ambientes de variadas formas, terrazas, muros de control de acceso y protección o “defensa”. Los ambientes tienen áreas de 14 x 9 metros aproximadamente. Una especie de corredor comunica los diferentes ambientes. Los muros han sido construidos con piedra canteada destaca el uso del mortero de barro con piedras pequeñas o pachillas, vanos de acceso bien definidos; la utilización de piedras grandes o la roca madre, como parte de la base de los muros construidos con piedras más pequeñas asentadas con mortero de barro y pachillas y presentan doble cara. La cerámica asociada a las estructuras de piedra corresponde al estilo del periodo intermedio temprano y del periodo intermedio tardío. Hacia el suroeste del sector Shamana, se encuentra otro sector arqueológico, caracterizado por un montículo aterrazado, asociado a varias estructuras de piedra y comprendiendo un área de más de dos hectáreas.\nEl complejo Arqueológico Shamana se levanta sobre cinco elevaciones o cerros, que sobresalen al norte de la meseta de Carabamba, donde se encuentran también cinco sectores arqueológicos, dentro de una extensión de 3,4 kilómetros aproximadamente. De los cinco sectores arqueológicos, en el marco del convenio interinstitucional entre el Ministerio de Educación, el Ministerio de Agricultura, el Instituto Nacional de Cultura y el Proyecto Especial de Titulación de Tierras-PETT, en el año 2004, se elaboraron los planos perimétricos de los sitios arqueológicos Shamana y Shamana I. Los mismos que en el 2006 mediante las Resoluciones directorales nacionales N.º 138/INC (27.01.2006); N.º 278/INC (28.02.2006); N.º 734/INC (15.05.2006), fueron declarados como patrimonio cultural de la nación con la aprobación de los planos de delimitación el año 2006.\nPor la parte sur del complejo Arqueológico Shamana, se forman dos pequeñas quebradas que van a dar nacimiento al río Chepén, que tiene un recorrido de más de 21,7 kilómetros hasta llegar al río Moche (margen izquierda), a 1,5 kilómetros al noroeste del pueblo de Poroto. El río Chepén se constituye en uno de los corredores naturales más directos entre la meseta de Carabamba y la parte media del valle de Moche.\nAl Este y a aproximadamente 300 metros de distancia de la parte sur del Complejo Arqueológico de Shamana sobresale un conjunto de aforamientos rocosos denominados Los Frailones o Frailes, (Bosque de piedra de Shamana) donde se puede observar diversas formas pétreas.\nExisten diversas investigaciones arqueológicas que resumen la importancia de esta riqueza arqueológica, entre ellas se encuentran las de Topic & Topic (1978) quienes lo catalogaron como uno de los grandes sitios en la desembocadura del río Carabamba y sus vínculos e interrelaciones con el valle Moche sobre todo por su ubicación geográfica y su comunicación natural; Estos mismos autores, resaltaron que en la meseta de Carabamba, lugar de ubicación de Shamana, fue el lugar ideal desde donde se habría distribuido el estilo de cerámica blanco-naranja sobre rojo, Luego, Haley (1979), lo define como uno de los centros políticos más importantes de esta zona.",
+  "particularidades": "",
+  "estado_actual": "bueno, con intervención del programa Trabaja Perú se hicieron mejoras en el acceso",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Ubicado al Norte del área geográfica de la meseta de Carabamba, a un kilómetro al suroeste jurisdicción del caserío Shulgón, distrito Salpo, provincia Otuzco, región La Libertad, Perú sobre los 3740 msnm, está conformado por diversos restos de construcciones prehispánicas sobre formación rocosa natural, en un área aproximada de tres hectáreas, se encuentra un conjunto de estructuras de piedra, que han sido edificadas aprovechando las condiciones topográficas del terreno. Lugares de vivienda, espacios a manera de plazas asociadas, diversos ambientes de variadas formas, terrazas, muros de control de acceso y protección o “defensa”. Los ambientes tienen áreas de 14 x 9 metros aproximadamente. Una especie de corredor comunica los diferentes ambientes. Los muros han sido construidos con piedra canteada destaca el uso del mortero de barro con piedras pequeñas o pachillas, vanos de acceso bien definidos; la utilización de piedras grandes o la roca madre, como parte de la base de los muros construidos con piedras más pequeñas asentadas con mortero de barro y pachillas y presentan doble cara. La cerámica asociada a las estructuras de piedra corresponde al estilo del periodo intermedio temprano y del periodo intermedio tardío. Hacia el suroeste del sector Shamana, se encuentra otro sector arqueológico, caracterizado por un montículo aterrazado, asociado a varias estructuras de piedra y comprendiendo un área de más de dos hectáreas.\nEl complejo Arqueológico Shamana se levanta sobre cinco elevaciones o cerros, que sobresalen al norte de la meseta de Carabamba, donde se encuentran también cinco sectores arqueológicos, dentro de una extensión de 3,4 kilómetros aproximadamente. De los cinco sectores arqueológicos, en el marco del convenio interinstitucional entre el Ministerio de Educación, el Ministerio de Agricultura, el Instituto Nacional de Cultura y el Proyecto Especial de Titulación de Tierras-PETT, en el año 2004, se elaboraron los planos perimétricos de los sitios arqueológicos Shamana y Shamana I. Los mismos que en el 2006 mediante las Resoluciones directorales nacionales N.º 138/INC (27.01.2006); N.º 278/INC (28.02.2006); N.º 734/INC (15.05.2006), fueron declarados como patrimonio cultural de la nación con la aprobación de los planos de delimitación el año 2006.\nPor la parte sur del complejo Arqueológico Shamana, se forman dos pequeñas quebradas que van a dar nacimiento al río Chepén, que tiene un recorrido de más de 21,7 kilómetros hasta llegar al río Moche (margen izquierda), a 1,5 kilómetros al noroeste del pueblo de Poroto. El río Chepén se constituye en uno de los corredores naturales más directos entre la meseta de Carabamba y la parte media del valle de Moche.\nAl Este y a aproximadamente 300 metros de distancia de la parte sur del Complejo Arqueológico de Shamana sobresale un conjunto de aforamientos rocosos denominados Los Frailones o Frailes, (Bosque de piedra de Shamana) donde se puede observar diversas formas pétreas.\nExisten diversas investigaciones arqueológicas que resumen la importancia de esta riqueza arqueológica, entre ellas se encuentran las de Topic & Topic (1978) quienes lo catalogaron como uno de los grandes sitios en la desembocadura del río Carabamba y sus vínculos e interrelaciones con el valle Moche sobre todo por su ubicación geográfica y su comunicación natural; Estos mismos autores, resaltaron que en la meseta de Carabamba, lugar de ubicación de Shamana, fue el lugar ideal desde donde se habría distribuido el estilo de cerámica blanco-naranja sobre rojo, Luego, Haley (1979), lo define como uno de los centros políticos más importantes de esta zona."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "Declarado Patrimonio Cultural de la Nación; R.D. Nº 138 del 27/01/2006."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "bueno, con intervención del programa Trabaja Perú se hicieron mejoras en el acceso"
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Nacionales\n90\nConteo Muestra\n2025\nVisitantes Locales(Excursionistas)\n1170\nConteo Muestra\n2025"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nLa Libertad/Otuzco/Salpo\n-\nLa Libertad/Otuzco/Salpo\nPlaza de Salpo a Complejo arqueológico de Shamana\nTerrestre\nMini bus turístico\nAfirmado\n30km/40m"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nTarifa única S/ 2.00"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n08:00 a.m.\n-\n04:00 p.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nPaseos\nExcursiones\n--\nDeportes / Aventura\nCaminata/Trekking\n--\nCultura y Folclore\nDegustación y preparación de platos, productos o bebidas típicas\nPreparado por lal familias de la comunidad\nPaseos\nPaseos a caballo\nCosto S/ 5.00"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nOtros Servicios Turísticos\nAlquiler de Caballos\nCosto S/5.00\nInstalaciones Privadas\nAlimentación\nKioskos de comida y bebidas\n--\nInstalaciones Públicas\nServicios Públicos\nCaminos peatonales\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nLocalidad de Salpo\nAlimentación\nRestaurantes\nLocalidad de Salpo\nAlimentación\nKioskos de comida y bebidas\nLocalidad de Salpo\nLugares de Recreación\nCentros Deportivos\nLocalidad de Salpo"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nLocalidad de Salpo\nServicios de taxis\nLocalidad de Salpo\nCentro de salud - tópico\nLocalidad de Salpo\nSeguridad / POLTUR / Comisaría\nLocalidad de Salpo\nBodegas o minimarkets\nLocalidad de Salpo"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nLuz (Suministro Eléctrico)\nLocalidad de Salpo\nTeléfono\nLocalidad de Salpo\nAgua potable\nLocalidad de Salpo\nAlcantarillado sanitario\nLocalidad de Salpo"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nMinisterio de Cultura\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nBajo la protección del Ministerio de cultura mediante R.D. Nº 138 del 27/01/2006. Declaración como Patrimonio Cultural de la Nación;\nAdministrador por\nNombre\nPobladores de la comunidad de Shulgón\nTiempo de administración\nDesde el año 2020"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nGerencia Regional de Comercio Exterior, Turismo y Artesanía de La Libertad\nNombre (Persona(s) responsable(s) del inventario turístico):\nParedes Ruiz, Zoila Yuleysi\nCargo:\nSubgerente de Turismo\nCorreo:\nyuley1790@gmail.com zparedesr@regionlalibertad.gob.pe\nTeléfono:\n953414088\nFuentes Bibliográfica:\n1) Revista Verde de Agroecologia e Desenvolvimento Sustentável: Diversidad natural y cultural del complejo arqueológico shamana, salpo, otuzco, la libertad, Perú (Segundo Leiva González, Eric F. Rodríguez Rodríguez, Luis E. Pollack Velásquez, Guillermo Gayoso Bazán, Luis Chang Chávez, Jesús Briceño Rosario pp. 703 – 756 Volumen: 25 Número: 2 Parte: 0 (2018) https://xjournals.com/collections/articles/Article?qt=ddXKp8T7jxlLr5v7YGBP/Xb0xi6fThi4DMJd8gNitq0=\n2) Diversidad natural y cultural del complejo arqueológico Shamana, Salpo, Otuzco, La Libertad, Perú https://www.academia.edu/71990110/Diversidad_natural_y_cultural_del_complejo_arqueol%C3%B3gico_Shamana_Salpo_Otuzco_La_Libertad_Per%C3%BA\n3) Salpo y la Observación Astronómica y el proyecto OAS – Encuentro Científico Internacional https://eciperu.net/2024/05/26/salpo-y-la-observacion-astronomica/\nMaterial Audiovisual actual del Recurso:\nFOTO, VIDEOS\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n25/07/2025 19:10:16"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -7.999896533999477,
+    "longitud": -78.61665129661566
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-7.999896533999477,-78.61665129661566"
+}

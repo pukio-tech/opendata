@@ -1,0 +1,254 @@
+{
+  "cod_ficha": 419,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=419",
+  "nombre": "Sitio Arqueológico De Molloco",
+  "departamento": "Puno",
+  "provincia": "Puno",
+  "distrito": "ACORA",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Sitios Arqueológicos",
+  "subtipo": "Templos",
+  "jerarquia": "2",
+  "altitud": "3851",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=298427",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=298427",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=298428",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=298559",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=470497"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Naturaleza - Observación de paisaje",
+    "Deportes / Aventura - Caminata/Trekking"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "Recorrido sitio arqueológico de Molloko",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Puno/Puno/Puno - Puno/Puno/Acora",
+      "detalle": "Terminal Banchero Rosi - Paradero de Acora",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mini bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "33 kms / 40 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Puno/Puno/Acora - Puno/Puno/Acora",
+      "detalle": "Paradero de Acora / Desvio Molloco",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Taxi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "4.5 kms / 10 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Puno/Puno/Acora - Puno/Puno/Acora",
+      "detalle": "Desvio Molloco - Sitio arqueológico de Molloco",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Taxi",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "1.2 kms / 5 minutos"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "5700",
+      "horario": "Carta N° 0001-2022/STTE",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "32300",
+      "horario": "Carta N° 0001-2022/STTE",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "5000",
+      "horario": "Carta N° 0001-2022/STTE",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "09:00 a.m. - 04:00 p.m. --",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "Adultos S/. 5.00 Niños S/. 3.00"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Boletería",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Acora"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Acora"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Acora"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "3,4 y 5 * en la ciudad de Puno"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "1, 2 y 3 * en la ciudad de Puno."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de Puno"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Ciudad de Puno"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Puno"
+    }
+  ],
+  "descripcion": "Es un centro funerario correspondiente al intermedio tardío Lupaka (época Pre Inka) y al periodo tardío (época Inka), donde se evidencia el contacto y fusión de las culturas Inca y Lupaka.\nFue mencionado en el documento Some Notes on the Archaeology of the Departament of Puno - Perú por Marion H. Tschopik, donde lo denomina como Kacha Kacha y describe el lugar como chullpas de plantas cuadrangulares y circulares que por sus características se asocia a la Cultura Inca.\nEstá compuesto por 5 chullpas por las cuales se aprecia su valor como centro ceremonial que se encuentran emplazadas sobre la cima y laderas del Cerro Molloco, el cual tiene la forma de un espolón de regular altura, ubicado en la Comunidad de Molloco sector Thunco Central.\nLas chullpas están construidas de piedra trabajada con bloques cuadrangulares que presentan una perfecta unión con argamasa entre ellas, con una pequeña puerta de entrada orientada hacia el este o a la salida del sol. Tres de las chullpas son de planta cuadrangular y dos de planta circular, las tres chullpas de planta cuadrangular se ubican hacia el lado oeste, mientras que las dos chullpas de planta circular hacia el lado este.\nEs un espacio donde se puede apreciar los vestigios arquitectónicos de las culturas Lupaka e Inka ideal para visitar con amigos y en grupo.",
+  "particularidades": "",
+  "estado_actual": "Bueno, cuenta con mantenimiento por la comunidad de Molloco.",
+  "observaciones": "En junio el pueblo aymara celebra el Pacha Kuti o Año Nuevo Andino, en conmemoración al regreso del sol, con gran ceremonia.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Es un centro funerario correspondiente al intermedio tardío Lupaka (época Pre Inka) y al periodo tardío (época Inka), donde se evidencia el contacto y fusión de las culturas Inca y Lupaka.\nFue mencionado en el documento Some Notes on the Archaeology of the Departament of Puno - Perú por Marion H. Tschopik, donde lo denomina como Kacha Kacha y describe el lugar como chullpas de plantas cuadrangulares y circulares que por sus características se asocia a la Cultura Inca.\nEstá compuesto por 5 chullpas por las cuales se aprecia su valor como centro ceremonial que se encuentran emplazadas sobre la cima y laderas del Cerro Molloco, el cual tiene la forma de un espolón de regular altura, ubicado en la Comunidad de Molloco sector Thunco Central.\nLas chullpas están construidas de piedra trabajada con bloques cuadrangulares que presentan una perfecta unión con argamasa entre ellas, con una pequeña puerta de entrada orientada hacia el este o a la salida del sol. Tres de las chullpas son de planta cuadrangular y dos de planta circular, las tres chullpas de planta cuadrangular se ubican hacia el lado oeste, mientras que las dos chullpas de planta circular hacia el lado este.\nEs un espacio donde se puede apreciar los vestigios arquitectónicos de las culturas Lupaka e Inka ideal para visitar con amigos y en grupo."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "Declarado Patrimonio Cultural de la Nación mediante R.D.N. Nº 991-INC, del 04 de octubre del 2001. Declarado Patrimonio Cultural de la Nación mediante R.D.N. Nº 296-INC, del 16 de mayo del 2003."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, cuenta con mantenimiento por la comunidad de Molloco."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "En junio el pueblo aymara celebra el Pacha Kuti o Año Nuevo Andino, en conmemoración al regreso del sol, con gran ceremonia."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n5700\nCarta N° 0001-2022/STTE\n2022\nTuristas Nacionales\n32300\nCarta N° 0001-2022/STTE\n2022\nVisitantes Locales(Excursionistas)\n5000\nCarta N° 0001-2022/STTE\n2022"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nPuno/Puno/Puno\n-\nPuno/Puno/Acora\nTerminal Banchero Rosi - Paradero de Acora\nTerrestre\nMini bus público\nAsfaltado\n33 kms / 40 minutos\n1\nPuno/Puno/Acora\n-\nPuno/Puno/Acora\nParadero de Acora / Desvio Molloco\nTerrestre\nTaxi\nAsfaltado\n4.5 kms / 10 minutos\n1\nPuno/Puno/Acora\n-\nPuno/Puno/Acora\nDesvio Molloco - Sitio arqueológico de Molloco\nTerrestre\nTaxi\nAfirmado\n1.2 kms / 5 minutos"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nAdultos S/. 5.00\nNiños S/. 3.00"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n09:00 a.m.\n-\n04:00 p.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nNaturaleza\nObservación de paisaje\n--\nDeportes / Aventura\nCaminata/Trekking\nRecorrido sitio arqueológico de Molloko"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Públicas\nServicios Públicos\nEstacionamiento de vehículos\n--\nInstalaciones Públicas\nServicios Públicos\nBoletería\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlimentación\nKioskos de comida y bebidas\nCiudad de Acora\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Acora\nAlimentación\nRestaurantes\nCiudad de Acora\nAlojamiento\nHoteles (especificar categorías)\n3,4 y 5 * en la ciudad de Puno\nAlojamiento\nHostales (especificar categorías)\n1, 2 y 3 * en la ciudad de Puno.\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de Puno\nServicios Públicos\nOficina de Información turística\nCiudad de Puno\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Puno"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Acora\nBancos\nCiudad de Puno\nCajero automático\nCiudad de Puno\nServicio de estacionamiento\nCiudad de Acora\nServicios de taxis\nCiudad de Acora\nCentro de salud - tópico\nCiudad de Acora\nSeguridad / POLTUR / Comisaría\nPuesto PNP de Acora.\nBodegas o minimarkets\nCiudad de Acora\nCasa de cambio\nCiudad de Puno"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Acora\nDesagüe\nCiudad de Acora\nLuz (Suministro Eléctrico)\nCiudad de Acora\nTeléfono\nCiudad de Acora"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nDirección Desconcentrada de Cultura de Puno - Ministerio de Cultura\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nResolución Directoral Nacional Nº296-INC del 16 de Mayo de 2003\nAdministrador por\nNombre\nComunidad Campesina de Molloco\nTiempo de administración\nDesde el año 1968"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección de Turismo - DIRCETUR Puno / Municipalidad Distrital de Acora\nNombre (Persona(s) responsable(s) del inventario turístico):\nArq. Vadim Masciotti Cabala / Lic. Anggie Aranibar Aguilar\nCargo:\nArq. / Especialista en Turismo\nCorreo:\nvmasciotti@dgmail.com / anggiearanibar@gmail.com\nTeléfono:\n051-351261 / 956768898\nFuentes Bibliográfica:\nBustinza, N. R. Lineamientos de política para la gestión del patrimonio cultural. Tesis de la Universidad Nacional de Trujillo. 2022.\nMolloco, la necrópolis preinca de Puno que te sorprenderá. El Comercio. 2019.\nVásquez, E. Ruinas Arqueológicas de Puno. Revista del Museo Nacional, 117-123. 1939.\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\nRestaurado por el Ministerio de Cultura en el año 2011.\nFecha:\n3/08/2023 12:35:33"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -16.007446999999978,
+    "longitud": -69.77060113226321
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-16.007446999999978,-69.77060113226321"
+}

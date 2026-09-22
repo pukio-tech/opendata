@@ -1,0 +1,299 @@
+{
+  "cod_ficha": 2368,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=2368",
+  "nombre": "Jatun Ushco",
+  "departamento": "Huánuco",
+  "provincia": "Ambo",
+  "distrito": "AMBO",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "m. Cavidades naturales",
+  "subtipo": "Cuevas",
+  "jerarquia": "2",
+  "altitud": "2130",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=290918",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=290918",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=296354",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=296355",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=296356",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=296656",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=592650",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=592651",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=592703",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=592652",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=592710",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=592711",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=592712"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Otros(Especificar)",
+    "Naturaleza - Observación de fauna",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de aves",
+    "Deportes / Aventura - Caminata/Trekking"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Otros(Especificar)",
+      "observacion": "observación de formaciones líticas",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/otros02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de fauna",
+      "observacion": "Murciélagos, Zorrillo.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fauna02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "Cabuya, Molle, Eucalipto, Sábila.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de aves",
+      "observacion": "Gavilanes, Gorrión, Picaflor, Colibrí, Guarda Caballo.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/aves02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "Parte del recorrido",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Huánuco/Huánuco/Huanuco - Huánuco/Ambo/Ambo",
+      "detalle": "Plaza de armas Jr. Libertad / Jr. Buenos Aires",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "0.765 km / 17 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Huánuco/Ambo/Ambo - Huánuco/Ambo/Ambo",
+      "detalle": "Plaza de Ambo Jr. Progreso / Jr. Buenos Aires",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "0.980 km/20 min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "1365",
+      "horario": "cuaderno de visitas",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "1470",
+      "horario": "cuaderno de visitas",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "08:00 a.m. - 05:30 p.m. se recomienda ir en época de verano de abril a octubre",
+      "observaciones": "se recomienda ir en época de verano de abril a octubre"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Ambo."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Ambo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Ciudad de Ambo."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Ambo."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Ambo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Ambo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Ambo."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Ciudad de Ambo."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Ciudad de Ambo."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Ciudad de Ambo."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Ciudad de Ambo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Museo de Sitio Turísticos",
+      "observacion": "Ciudad de Ambo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Ciudad de Ambo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "Hotel de 3 estrellas / Ciudad de Ambo"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "Hostal de 1 estrella / Ciudad de Ambo"
+    }
+  ],
+  "descripcion": "Jatun Ushco se encuentra a 15 minutos de la ciudad de Ambo, en la región Huánuco, a 2,130 m.s.n.m., en la vertiente oriental de los Andes. Es una formación geológica de interés arqueológico y cultural. La caverna cuenta con dos accesos: una entrada superior de mayor dimensión y una entrada inferior de menor tamaño y acceso limitado. En su interior, se observan plazas, pasadizos y cámaras con paredes cubiertas de formaciones rocosas y estalactitas.\nEl nombre Jatun Ushco proviene del runashimi y significa “Hueco Grande”. Es un sitio con presencia de restos fósiles que aún no ha sido explorado en su totalidad debido a su profundidad y condiciones que dificultan su estudio.\nEn 2005 y 2006, investigadores y espeleólogos realizaron estudios en la caverna. En las primeras tres cámaras se encontraron restos paleontológicos de felinos (Felidae), cánidos (Canidae), murciélagos (Quirópteros), perezosos (Megalonychidae) y otros mamíferos. La Cámara 1 mide aproximadamente 20 metros por 15 metros. Los huesos se hallaron dispersos entre las rocas y cerca de las paredes. La Cámara 2 es un túnel que conecta las cámaras 1 y 3, donde se identificaron restos óseos desarticulados. La Cámara 3 es un pozo de 4 metros cuadrados y 20 metros de profundidad, donde se halló la mayor concentración de restos óseos sin alteraciones visibles por acción humana.\nEstudios arqueológicos indican que Jatun Ushco fue utilizado como refugio por el hombre primitivo de Pergaypata alrededor del 14,000 a.C. En el lugar se descubrió un cráneo fosilizado con ojos intactos y de tamaño reducido por petrificación, una mandíbula con dos incisivos y otros molares petrificados, además de herramientas de piedra como puntas de proyectil, raspadores y cuchillos. Estos objetos fueron analizados por Rógger Ravines en 1964 y actualmente se encuentran en exhibición en el Centro Cultural de Ambo.\nJatun Ushco es un destino para visitantes interesados en espeleoturismo, arqueología y naturaleza. Para acceder a la caverna, se recomienda la asistencia de guías locales.",
+  "particularidades": "",
+  "estado_actual": "Bueno, la municipalidad distrital de Ambo realiza su mantenimiento.",
+  "observaciones": "Está ubicada en la ladera del cerro Chanchao Pergaypata, cerca de la capilla del Señor de la Exaltación.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Jatun Ushco se encuentra a 15 minutos de la ciudad de Ambo, en la región Huánuco, a 2,130 m.s.n.m., en la vertiente oriental de los Andes. Es una formación geológica de interés arqueológico y cultural. La caverna cuenta con dos accesos: una entrada superior de mayor dimensión y una entrada inferior de menor tamaño y acceso limitado. En su interior, se observan plazas, pasadizos y cámaras con paredes cubiertas de formaciones rocosas y estalactitas.\nEl nombre Jatun Ushco proviene del runashimi y significa “Hueco Grande”. Es un sitio con presencia de restos fósiles que aún no ha sido explorado en su totalidad debido a su profundidad y condiciones que dificultan su estudio.\nEn 2005 y 2006, investigadores y espeleólogos realizaron estudios en la caverna. En las primeras tres cámaras se encontraron restos paleontológicos de felinos (Felidae), cánidos (Canidae), murciélagos (Quirópteros), perezosos (Megalonychidae) y otros mamíferos. La Cámara 1 mide aproximadamente 20 metros por 15 metros. Los huesos se hallaron dispersos entre las rocas y cerca de las paredes. La Cámara 2 es un túnel que conecta las cámaras 1 y 3, donde se identificaron restos óseos desarticulados. La Cámara 3 es un pozo de 4 metros cuadrados y 20 metros de profundidad, donde se halló la mayor concentración de restos óseos sin alteraciones visibles por acción humana.\nEstudios arqueológicos indican que Jatun Ushco fue utilizado como refugio por el hombre primitivo de Pergaypata alrededor del 14,000 a.C. En el lugar se descubrió un cráneo fosilizado con ojos intactos y de tamaño reducido por petrificación, una mandíbula con dos incisivos y otros molares petrificados, además de herramientas de piedra como puntas de proyectil, raspadores y cuchillos. Estos objetos fueron analizados por Rógger Ravines en 1964 y actualmente se encuentran en exhibición en el Centro Cultural de Ambo.\nJatun Ushco es un destino para visitantes interesados en espeleoturismo, arqueología y naturaleza. Para acceder a la caverna, se recomienda la asistencia de guías locales."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "Declarado Patrimonio Cultural de la Nación con Resolución Directoral Nacional N 1106/INC del 19/11/02"
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, la municipalidad distrital de Ambo realiza su mantenimiento."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "Está ubicada en la ladera del cerro Chanchao Pergaypata, cerca de la capilla del Señor de la Exaltación."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nVisitantes Locales(Excursionistas)\n1365\ncuaderno de visitas\n2024\nFuente de datos Municipalidad Provincial de Ambo\nTuristas Nacionales\n1470\ncuaderno de visitas\n2024\nFuente de datos Municipalidad Provincial de Ambo"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nHuánuco/Huánuco/Huanuco\n-\nHuánuco/Ambo/Ambo\nPlaza de armas Jr. Libertad / Jr. Buenos Aires\nTerrestre\nA pie\nAsfaltado\n0.765 km / 17 min.\n1\nHuánuco/Ambo/Ambo\n-\nHuánuco/Ambo/Ambo\nPlaza de Ambo Jr. Progreso / Jr. Buenos Aires\nTerrestre\nA pie\nAsfaltado\n0.980 km/20 min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n08:00 a.m.\n-\n05:30 p.m.\nse recomienda ir en época de verano de abril a octubre"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nOtros(Especificar)\nobservación de formaciones líticas\nNaturaleza\nObservación de fauna\nMurciélagos, Zorrillo.\nNaturaleza\nObservación de flora\nCabuya, Molle, Eucalipto, Sábila.\nNaturaleza\nObservación de aves\nGavilanes, Gorrión, Picaflor, Colibrí, Guarda Caballo.\nDeportes / Aventura\nCaminata/Trekking\nParte del recorrido"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlimentación\nRestaurantes\nCiudad de Ambo.\nAlimentación\nBares\nCiudad de Ambo\nAlimentación\nFuentes de soda\nCiudad de Ambo.\nAlimentación\nKioskos de comida y bebidas\nCiudad de Ambo.\nLugares de Recreación\nDiscotecas\nCiudad de Ambo\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Ambo\nLugares de Recreación\nBares\nCiudad de Ambo.\nLugares de Recreación\nJuegos Infantiles\nCiudad de Ambo.\nLugares de Recreación\nCentros Deportivos\nCiudad de Ambo.\nServicios Públicos\nEstacionamiento de vehículos\nCiudad de Ambo.\nServicios Públicos\nOficina de Información turística\nCiudad de Ambo\nServicios Públicos\nMuseo de Sitio Turísticos\nCiudad de Ambo\nAlimentación\nVenta de comida Rápida\nCiudad de Ambo\nAlojamiento\nHoteles (especificar categorías)\nHotel de 3 estrellas / Ciudad de Ambo\nAlojamiento\nHostales (especificar categorías)\nHostal de 1 estrella / Ciudad de Ambo"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Ambo.\nBancos\nCiudad de Ambo.\nCajero automático\nCiudad de Ambo.\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Ambo.\nServicio de estacionamiento\nCiudad de Ambo.\nServicios de taxis\nCiudad de Ambo.\nCentro de salud - tópico\nCiudad de Ambo.\nVenta de materiales para fotografías\nCiudad de Ambo.\nSeguridad / POLTUR / Comisaría\nCiudad de Ambo.\nAlquiler y compra de equipos deportivos\nCiudad de Ambo.\nBodegas o minimarkets\nCiudad de Ambo.\nLibrerías\nCiudad de Ambo."
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Ambo\nLuz (Suministro Eléctrico)\nCiudad de Ambo\nTeléfono\nCiudad de Ambo\nSeñalización turística\nCiudad de Ambo\nAlcantarillado sanitario\nCiudad de Ambo"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nMunicipalidad Provincial de Ambo.\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nFicha Registral\nNúmero de Partida:\n11208725\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nMunicipalidad Provincial de Ambo.\nTiempo de administración\nDesde el año 2014"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo Huánuco\nNombre (Persona(s) responsable(s) del inventario turístico):\nLic. Yesenia Lisbeth Mayorca Quispe\nCargo:\nEspecialista en Turismo\nCorreo:\nyessmayorca@gmail.com\nTeléfono:\n953 949 341\nFuentes Bibliográfica:\n1. Crespo, E. T. (2024). Jatun Ushco. Visión Integral de la Enigmática y Milenaria Cueva Ambo. Lima: Amarilis Indiana Editores.\n2. https://cuevasdelperu.org/huanuco-ambo/cueva-jatun-uchco/\n3. Shockey B.R., Salas-Gismondi R., Baby P., Guyot J.L., Baltazar M.C., Huamán L., Clack A., Stucchi M., Pujos F., Emerson J.M., Flynn J.J. (2009). New Pleistocene Cave Faunas Of The Andes Of Central Perú: Radiocarbon Ages And The Survival Of Low Latitude, Pleistocene Dna. Paleontológica Electrónica, 12(3): 15a.\n4. Shockey B.J., Salas Gismondi R., Pujos F., Guyot J.L., Baby P. (2007). Pleistocene Cave Faunas From The Andes Of Central Perú: A Glimps Of Andean Life Of The Great American Biotic Interchange. Journal Of Vertebrate Paleontology, 27(3): 145a-146a.\n5. Baby P. (2008). Grotte De Jatun Ushco, Réseau Inférieur = Gruta De Jatun Ushco, Red Inferior. Expedición.\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\nPlan COPESCO 2014: Expediente - Ejecución\nFecha:\n28/05/2025 18:40:18"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -10.132596635158274,
+    "longitud": -76.20201871758275
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-10.132596635158274,-76.20201871758275"
+}

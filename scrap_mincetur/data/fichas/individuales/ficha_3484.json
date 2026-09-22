@@ -1,0 +1,298 @@
+{
+  "cod_ficha": 3484,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=3484",
+  "nombre": "Zona Arqueológica Monumental Los Huacos",
+  "departamento": "Lima",
+  "provincia": "Huaura",
+  "distrito": "HUALMAY",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Sitios Arqueológicos",
+  "subtipo": "Templos",
+  "jerarquia": "POR JERARQUIZAR",
+  "altitud": "32",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=298582",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=298582",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=298583",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=298584",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=298585",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=517319",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=517442"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Estudios e Investigación",
+    "Cultura y Folclore - Rituales místicos o tradicionales"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Rituales místicos o tradicionales",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/rituales_misticos02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Lima/Lima/Independencia - Lima/Huaura/Huacho",
+      "detalle": "Plaza Norte - Óvalo de Huacho",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "150 km /02 horas 49 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Lima/Huaura/Huacho - Lima/Huaura/Hualmay",
+      "detalle": "Óvalo de Huacho - Plaza de Armas de Hualmay",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mototaxi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "2.23 km / 07 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Lima/Huaura/Hualmay - Lima/Huaura/Hualmay",
+      "detalle": "Plaza de Armas de Hualmay - Zona Arqueológica Monumental Los Huacos",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "100 m / 03 minutos"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "692",
+      "horario": "Municipalidad Distrital de Hualmay",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "34",
+      "horario": "Municipalidad Distrital de Hualmay",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "1020",
+      "horario": "Municipalidad Distrital de Mala",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "09:00 a.m. - 04:00 p.m. Horario de atención: Lunes a domingo de 09:00 am - 04:00 pm",
+      "observaciones": "Horario de atención: Lunes a domingo de 09:00 am - 04:00 pm"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Semi-restringido(previo permiso)",
+      "observaciones": "Ingreso libre previa coordinación con el Sr. Juan Carlos La Rosa López – Oficina de Educación, Cultura, Deporte, Recreación y Juventudes, Celular : 995870663"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "Cuidad De Huacho / Hoteles 4 estrellas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "Cuidad De Huacho / Hostales 3 estrellas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Cuidad De Huacho / Restaurante 5 Tenedores"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Cuidad De Huacho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Cuidad De Huacho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Cuidad De Huacho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Cuidad De Huacho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Oficina de Información",
+      "observacion": "Ciudad De Huacho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicios Higiénicos",
+      "observacion": "Cuidad De Huacho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de taxi",
+      "observacion": "Cuidad De Huacho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "Ciudad de Huacho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "Ciudad de Huacho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de interpretación",
+      "observacion": "Ciudad de Huacho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Ciudad de Huacho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Puesto de auxilio rápido",
+      "observacion": "Ciudad de Huacho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Ciudad de Huacho"
+    }
+  ],
+  "descripcion": "La Zona Arqueológica Monumental Los Huacos se ubica en el distrito de Hualmay, Provincia de Huaura, departamento de Lima. Los primeros descubrimientos arrojan datos importantes sobre uno de los monumentos piramidales, la zona posee 36 montículos que debido al gran tamaño del terreno (65.49 has) existentes en el distrito. La zona arqueológica presenta una ocupación continua, se puede inferir una larga ocupación cronológica según los análisis arquitectónicos y del material cerámico que va desde el Horizonte Medio (Teatino o Chancay Temprano), Intermedio Tardío (Cultura Chancay). Hasta el momento de anexión de este último al Tahuantinsuyo – Horizonte Tardío, e incluso una ocupación colonial temprana. De acuerdo a los trabajos de excavación, la zona habría sido de mayor extensión, sin embargo, esto se ha reducido por la actividad agrícola y por la expansión urbana. Los montículos de la zona arqueológica presentan dos tipos de arquitectura: adobe y tapia elaborados con argamasa de barro con inclusiones de gravilla, moluscos, vegetales. En la superficie se observa gran dispersión de material cultural: fragmentos de cerámica de diferente manufactura, desde muy finas, hasta las más toscas y sin decoración, pertenecientes a los estilos Huaura, Tricolor, Chancay, Tahuantinsuyo (Inka local). El sitio de Los Huacos abarca una extensión de 65 has. Aprox., divido en cuatro sectores: A, B, C Y D, cada sector conformado por diferentes montículos de diversos tamaños. En el sitio en general se encuentra en regulares condiciones de conservación. Entre sus principales hallazgos destaca; cerámicas, fragmentos de madera y Spondylus, vertebras de pescados. Destaca el hallazgo de una momia encontrada con cesto de tejido, el cual se ha dominado “La tejedora de Hualmay”.",
+  "particularidades": "",
+  "estado_actual": "Regular, porque el Ministerio de Cultura viene desarrollando trabajos de mantenimiento, limpieza en la periferia y protección del inmueble .",
+  "observaciones": "El montículo 25, presenta pintura en los muros y actualmente se encuentran protegidos para su conservación.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "La Zona Arqueológica Monumental Los Huacos se ubica en el distrito de Hualmay, Provincia de Huaura, departamento de Lima. Los primeros descubrimientos arrojan datos importantes sobre uno de los monumentos piramidales, la zona posee 36 montículos que debido al gran tamaño del terreno (65.49 has) existentes en el distrito. La zona arqueológica presenta una ocupación continua, se puede inferir una larga ocupación cronológica según los análisis arquitectónicos y del material cerámico que va desde el Horizonte Medio (Teatino o Chancay Temprano), Intermedio Tardío (Cultura Chancay). Hasta el momento de anexión de este último al Tahuantinsuyo – Horizonte Tardío, e incluso una ocupación colonial temprana. De acuerdo a los trabajos de excavación, la zona habría sido de mayor extensión, sin embargo, esto se ha reducido por la actividad agrícola y por la expansión urbana. Los montículos de la zona arqueológica presentan dos tipos de arquitectura: adobe y tapia elaborados con argamasa de barro con inclusiones de gravilla, moluscos, vegetales. En la superficie se observa gran dispersión de material cultural: fragmentos de cerámica de diferente manufactura, desde muy finas, hasta las más toscas y sin decoración, pertenecientes a los estilos Huaura, Tricolor, Chancay, Tahuantinsuyo (Inka local). El sitio de Los Huacos abarca una extensión de 65 has. Aprox., divido en cuatro sectores: A, B, C Y D, cada sector conformado por diferentes montículos de diversos tamaños. En el sitio en general se encuentra en regulares condiciones de conservación. Entre sus principales hallazgos destaca; cerámicas, fragmentos de madera y Spondylus, vertebras de pescados. Destaca el hallazgo de una momia encontrada con cesto de tejido, el cual se ha dominado “La tejedora de Hualmay”."
+    },
+    {
+      "titulo": "Particularidades",
+      "contenido": ""
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "- Resolución Directoral Nacional Nº1659 por el Instituto Nacional de Cultura, fecha 05-12-05, es declarado Patrimonio Cultural de la Nación al sitio Arqueológico Los Huacos.\n- Resolución Directoral Nacional Nª1651 por el Instituto Nacional de Cultura, fecha 07-11-2008; se modifica a la categoría de sitio por la de Zona Arqueológica Monumental Los Huacos- Distrito de Hualmay – Provincia de Huaura - Lima."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Regular, porque el Ministerio de Cultura viene desarrollando trabajos de mantenimiento, limpieza en la periferia y protección del inmueble ."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "El montículo 25, presenta pintura en los muros y actualmente se encuentran protegidos para su conservación."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Nacionales\n692\nMunicipalidad Distrital de Hualmay\n2022\nInforme Técnico admitido por la DIRCETUR Lima.\nTuristas Extranjeros\n34\nMunicipalidad Distrital de Hualmay\n2022\nInforme Técnico admitido por la DIRCETUR Lima.\nVisitantes Locales(Excursionistas)\n1020\nMunicipalidad Distrital de Mala\n2022\nInforme Técnico admitido por la DIRCETUR Lima."
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nLima/Lima/Independencia\n-\nLima/Huaura/Huacho\nPlaza Norte - Óvalo de Huacho\nTerrestre\nBus público\nAsfaltado\n150 km /02 horas 49 minutos\n1\nLima/Huaura/Huacho\n-\nLima/Huaura/Hualmay\nÓvalo de Huacho - Plaza de Armas de Hualmay\nTerrestre\nMototaxi\nAsfaltado\n2.23 km / 07 minutos\n1\nLima/Huaura/Hualmay\n-\nLima/Huaura/Hualmay\nPlaza de Armas de Hualmay - Zona Arqueológica Monumental Los Huacos\nTerrestre\nA pie\nAfirmado\n100 m / 03 minutos"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nSemi-restringido(previo permiso)\nIngreso libre previa coordinación con el Sr. Juan Carlos La Rosa López – Oficina de Educación, Cultura, Deporte, Recreación y Juventudes, Celular : 995870663"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n09:00 a.m.\n-\n04:00 p.m.\nHorario de atención: Lunes a domingo de 09:00 am - 04:00 pm"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nEstudios e Investigación\n--\nCultura y Folclore\nRituales místicos o tradicionales\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\nCuidad De Huacho / Hoteles 4 estrellas\nAlojamiento\nHostales (especificar categorías)\nCuidad De Huacho / Hostales 3 estrellas\nAlimentación\nRestaurantes\nCuidad De Huacho / Restaurante 5 Tenedores\nAlimentación\nBares\nCuidad De Huacho\nAlimentación\nKioskos de comida y bebidas\nCuidad De Huacho\nAlimentación\nVenta de comida Rápida\nCuidad De Huacho\nLugares de Recreación\nDiscotecas\nCuidad De Huacho\nOtros Servicios Turísticos\nOficina de Información\nCiudad De Huacho\nOtros Servicios Turísticos\nServicios Higiénicos\nCuidad De Huacho\nOtros Servicios Turísticos\nServicio de taxi\nCuidad De Huacho\nServicios Públicos\nMiradores turísticos\nCiudad de Huacho\nServicios Públicos\nSeñales turísticas de orientación\nCiudad de Huacho\nServicios Públicos\nSeñales turísticas de interpretación\nCiudad de Huacho\nServicios Públicos\nOficina de Información turística\nCiudad de Huacho\nServicios Públicos\nPuesto de auxilio rápido\nCiudad de Huacho\nServicios Públicos\nEstacionamiento de vehículos\nCiudad de Huacho"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nBodegas o minimarkets\nCiudad de Hualmay\nServicios de internet\nCiudad de Hualmay\nServicios de taxis\nCiudad de Hualmay\nServicio de estacionamiento\nCiudad de Hualmay\nCasa de cambio\nCiudad de Huacho\nCentro de salud - tópico\nCiudad de Hualmay\nBancos\nCiudad de Huacho\nCajero automático\nCiudad de Huacho\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Huacho\nSeguridad / POLTUR / Comisaría\nCiudad de Huacho"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Hualmay\nAlcantarillado sanitario\nCiudad de Hualmay\nLuz (Suministro Eléctrico)\nCiudad de Hualmay\nTeléfono\nCiudad de Hualmay\nSeñalización turística\nCiudad de Hualmay"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nMunicipalidad Distrital de Hualmay\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nOrdenanza Municipal Nº 339-2021-MDH\nAdministrador por\nNombre\nMunicipalidad Distrital de Hualmay\nTiempo de administración\nDesde el año 2005"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo - Gobierno Regional de Lima\nNombre (Persona(s) responsable(s) del inventario turístico):\nJorge Luis Torres Chirito\nCargo:\nAsistente Administrativo\nCorreo:\njchiritoxx@gmail.com\nTeléfono:\n956454928\nFuentes Bibliográfica:\n1) Introducción al estudio Arqueológico de Hualmay, Valle de Huaura. Autor: Pieter Van Dalen Luna.2012.\n2) Complejo Arqueológico Los Huacos de Hualmay. En Boletín N.º 112 del Patronato de defensa del Patrimonio Cultural del Valle de Huaura y Ámbar. Autor: Estudiantes de Arquitectura, Universidad Nacional Federico Villareal. Agosto de 2023.\n3) Revista de Investigación Científica y Cultural. Autor: Rulfer Vicente Huamani. Edición 13,2013.\n4)Boletín informativo “Proyecto de Investigación Arqueológica Los Huacos”. Autor: Rulfer Vicente Huamani.2012.\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n29/12/2023 16:46:08"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -11.097853,
+    "longitud": -77.619933
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-11.097853,-77.619933"
+}

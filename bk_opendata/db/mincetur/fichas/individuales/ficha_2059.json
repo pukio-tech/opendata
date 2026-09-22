@@ -1,0 +1,382 @@
+{
+  "cod_ficha": 2059,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=2059",
+  "nombre": "Playa El Paraíso",
+  "departamento": "Lima",
+  "provincia": "Huaura",
+  "distrito": "HUACHO",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "l. Costas",
+  "subtipo": "Playas",
+  "jerarquia": "1",
+  "altitud": "3",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=296017",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=296017",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=298566",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=298567",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=298568",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=421142",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=421143",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=421144",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=421146",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=464578"
+  ],
+  "actividades_permitidas": [
+    "Paseos - Excursiones",
+    "Otros - Estudios e Investigación",
+    "Naturaleza - Observación de aves",
+    "Deportes / Aventura - Caminata/Trekking",
+    "Deportes / Aventura - Camping",
+    "Deportes acuáticos - Vela (Windsurf)"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Paseos",
+      "tipo": "Excursiones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/excursiones02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de aves",
+      "observacion": "gaviota peruana, gaviota de Franklin, gaviota gris, pelícano peruano, arañas de mar, cangrejos.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/aves02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Camping",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/camping02.png"
+    },
+    {
+      "actividad": "Deportes acuáticos",
+      "tipo": "Vela (Windsurf)",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/vela02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Lima/Lima/Independencia - Lima/Huaura/Huacho",
+      "detalle": "TERMINAL TERRESTRE PLAZA NORTE - ÓVALO DE HUACHO",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "150 km/ 2 horas 49 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Lima/Huaura/Huacho - Lima/Huaura/Huacho",
+      "detalle": "ÓVALO DE HUACHO - PLAYA EL PARAÍSO",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "22km / 30 min"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Lima/Huaral/Huaral - Lima/Huaura/Huacho",
+      "detalle": "TERMINAL TERRESTRE DE HUARAL - ÓVALO DE HUACHO",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "78.2 km/ 1 hora 21 min"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Lima/Huaura/Huacho - Lima/Huaura/Huacho",
+      "detalle": "ÓVALO DE HUACHO - PLAYA EL PARAÍSO",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "22km / 30 min"
+    },
+    {
+      "recorrido": "3",
+      "tramo": "Lima/Huaral/Chancay - Lima/Huaura/Huacho",
+      "detalle": "ÓVALO DE CHANCAY - ÓVALO DE HUACHO",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "87 km/ 1h 38 min"
+    },
+    {
+      "recorrido": "3",
+      "tramo": "Lima/Huaura/Huacho - Lima/Huaura/Huacho",
+      "detalle": "ÓVALO DE HUACHO - PLAYA EL PARAÍSO",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "22km / 30 min"
+    },
+    {
+      "recorrido": "4",
+      "tramo": "Lima/Barranca/Barranca - Lima/Huaura/Huacho",
+      "detalle": "TERMINAL TERRESTRE DE BARRANCA - ÓVALO DE HUACHO",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "48.5 km/ 54 min"
+    },
+    {
+      "recorrido": "4",
+      "tramo": "Lima/Huaura/Huacho - Lima/Huaura/Huacho",
+      "detalle": "ÓVALO DE HUACHO - PLAYA EL PARAÍSO",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "22km / 30 min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "2864",
+      "horario": "INFORME N°113-2022-SGDT/MPHH",
+      "observaciones": "2019"
+    },
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "20",
+      "horario": "INFORME N°113-2022-SGDT/MPHH",
+      "observaciones": "2019"
+    },
+    {
+      "epoca": "Esporádicamente - Algunos meses",
+      "especificacion": "--",
+      "horario": "09:00 a.m. - 06:00 p.m. En los meses de diciembre, enero, febrero, marzo.",
+      "observaciones": "En los meses de diciembre, enero, febrero, marzo."
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "2, 3 Y 4 estrellas - Localidad de Huacho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "1, 2 y 3 estrellas - Localidad de Huacho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Localidad de Huacho, 3 tenedores."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Localidad de Huacho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Localidad de Huacho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Localidad de Huacho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Localidad de Huacho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Pubs",
+      "observacion": "Localidad de Huacho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Localidad de Huacho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Bancos - Cajeros",
+      "observacion": "Localidad de Huacho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Museos de Sitio",
+      "observacion": "Localidad de Huacho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Oficina de Información",
+      "observacion": "Localidad de Huacho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicios Higiénicos",
+      "observacion": "Localidad de Huacho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Estacionamiento",
+      "observacion": "Localidad de Huacho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Fax",
+      "observacion": "Localidad de Huacho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Internet",
+      "observacion": "Localidad de Huacho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de taxi",
+      "observacion": "Localidad de Huacho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de Material Informativo(libro,revistas,postales,videos,etc)",
+      "observacion": "Localidad de Huacho"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de Material para Fotografía",
+      "observacion": "Localidad de Huacho"
+    }
+  ],
+  "descripcion": "La playa El Paraíso debe su nombre por la tranquilidad de sus olas que se caracterizan por ser frías. Está ubicada a la altura del kilómetro 135 desde donde se puede encontrar el acceso hacia la playa.\nPertenece a la región natural chala o costa (0 - 500 m.s.n.m.), con una extensión aproximada de 3 km. y su temperatura fluctúa entre 17 °C y 19 °C. Presenta una profundidad aproximada de 9 metros. Y morfológicamente presenta pocas formaciones rocosas (peñas).\nPosee cerca un humedal de aproximadamente 8 kilómetros de longitud, que lleva el mismo nombre. En él existe una gran variedad de aves migratorias y residentes, destacan entre ellas: los flamencos. Destaca la fauna siguiente: gaviota peruana, gaviota de Franklin, gaviota gris, pelícano peruano, arañas de mar, cangrejos, ente otros. En el litoral la flora representativa son las algas y en el arenal hay raros espacios de grama.\nMuy cerca se encuentra también Punta Salinas (que forma parte de la Reserva Nacional de islas, islotes y puntas guaneras), con una franja de arena entre el mar y el agua quieta detrás que desemboca por un pequeño canal justo donde empiezan las peñas y el cerro.\nEl centro poblado más cercano es “Paraíso”, cuyo acceso se encuentra a la altura del peaje, cuya actividad económica es el pastoreo de ganado vacuno y ovino para comercio menor de pequeñas familias, así como extracción del junco del humedal. La ciudad de Huacho, es la ciudad soporte más cercana, cuya actividad económica es el comercio.\nEste balneario es privilegiado por tener un excelente clima templado, ideal para hacer diversas actividades turísticas como la pesca. Asimismo, encontrarás fabulosos restaurantes donde podrás degustar los más exquisitos platos huachanos. Son cientos las personas, no solo de la provincia, quienes llegan a esta playa en los meses de verano; turistas y visitantes hacen uso de buses y camionetas para trasladarse y disfrutar de las cálidas aguas que conforman este corredor turístico que ya es apreciado a nivel nacional por su imponente belleza natural.",
+  "particularidades": "",
+  "estado_actual": "Estado bueno, ya que viene siendo monitoreada periódicamente en limpieza por la Municipalidad Provincial de Huaura.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "La playa El Paraíso debe su nombre por la tranquilidad de sus olas que se caracterizan por ser frías. Está ubicada a la altura del kilómetro 135 desde donde se puede encontrar el acceso hacia la playa.\nPertenece a la región natural chala o costa (0 - 500 m.s.n.m.), con una extensión aproximada de 3 km. y su temperatura fluctúa entre 17 °C y 19 °C. Presenta una profundidad aproximada de 9 metros. Y morfológicamente presenta pocas formaciones rocosas (peñas).\nPosee cerca un humedal de aproximadamente 8 kilómetros de longitud, que lleva el mismo nombre. En él existe una gran variedad de aves migratorias y residentes, destacan entre ellas: los flamencos. Destaca la fauna siguiente: gaviota peruana, gaviota de Franklin, gaviota gris, pelícano peruano, arañas de mar, cangrejos, ente otros. En el litoral la flora representativa son las algas y en el arenal hay raros espacios de grama.\nMuy cerca se encuentra también Punta Salinas (que forma parte de la Reserva Nacional de islas, islotes y puntas guaneras), con una franja de arena entre el mar y el agua quieta detrás que desemboca por un pequeño canal justo donde empiezan las peñas y el cerro.\nEl centro poblado más cercano es “Paraíso”, cuyo acceso se encuentra a la altura del peaje, cuya actividad económica es el pastoreo de ganado vacuno y ovino para comercio menor de pequeñas familias, así como extracción del junco del humedal. La ciudad de Huacho, es la ciudad soporte más cercana, cuya actividad económica es el comercio.\nEste balneario es privilegiado por tener un excelente clima templado, ideal para hacer diversas actividades turísticas como la pesca. Asimismo, encontrarás fabulosos restaurantes donde podrás degustar los más exquisitos platos huachanos. Son cientos las personas, no solo de la provincia, quienes llegan a esta playa en los meses de verano; turistas y visitantes hacen uso de buses y camionetas para trasladarse y disfrutar de las cálidas aguas que conforman este corredor turístico que ya es apreciado a nivel nacional por su imponente belleza natural."
+    },
+    {
+      "titulo": "Particularidades",
+      "contenido": ""
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Estado bueno, ya que viene siendo monitoreada periódicamente en limpieza por la Municipalidad Provincial de Huaura."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Nacionales\n2864\nINFORME N°113-2022-SGDT/MPHH\n2019\nDocumento admitido por DIRCETUR LIMA\nTuristas Extranjeros\n20\nINFORME N°113-2022-SGDT/MPHH\n2019\nDocumento admitido por DIRCETUR LIMA"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nLima/Lima/Independencia\n-\nLima/Huaura/Huacho\nTERMINAL TERRESTRE PLAZA NORTE - ÓVALO DE HUACHO\nTerrestre\nAutomóvil particular\nAsfaltado\n150 km/ 2 horas 49 minutos\n1\nLima/Huaura/Huacho\n-\nLima/Huaura/Huacho\nÓVALO DE HUACHO - PLAYA EL PARAÍSO\nTerrestre\nAutomóvil particular\nTrocha carrozable\n22km / 30 min\n2\nLima/Huaral/Huaral\n-\nLima/Huaura/Huacho\nTERMINAL TERRESTRE DE HUARAL - ÓVALO DE HUACHO\nTerrestre\nAutomóvil particular\nAsfaltado\n78.2 km/ 1 hora 21 min\n2\nLima/Huaura/Huacho\n-\nLima/Huaura/Huacho\nÓVALO DE HUACHO - PLAYA EL PARAÍSO\nTerrestre\nAutomóvil particular\nTrocha carrozable\n22km / 30 min\n3\nLima/Huaral/Chancay\n-\nLima/Huaura/Huacho\nÓVALO DE CHANCAY - ÓVALO DE HUACHO\nTerrestre\nAutomóvil particular\nAsfaltado\n87 km/ 1h 38 min\n3\nLima/Huaura/Huacho\n-\nLima/Huaura/Huacho\nÓVALO DE HUACHO - PLAYA EL PARAÍSO\nTerrestre\nAutomóvil particular\nTrocha carrozable\n22km / 30 min\n4\nLima/Barranca/Barranca\n-\nLima/Huaura/Huacho\nTERMINAL TERRESTRE DE BARRANCA - ÓVALO DE HUACHO\nTerrestre\nAutomóvil particular\nAsfaltado\n48.5 km/ 54 min\n4\nLima/Huaura/Huacho\n-\nLima/Huaura/Huacho\nÓVALO DE HUACHO - PLAYA EL PARAÍSO\nTerrestre\nAutomóvil particular\nTrocha carrozable\n22km / 30 min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nEsporádicamente - Algunos meses\n--\n09:00 a.m.\n-\n06:00 p.m.\nEn los meses de diciembre, enero, febrero, marzo."
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nPaseos\nExcursiones\n--\nOtros\nEstudios e Investigación\n--\nNaturaleza\nObservación de aves\ngaviota peruana, gaviota de Franklin, gaviota gris, pelícano peruano, arañas de mar, cangrejos.\nDeportes / Aventura\nCaminata/Trekking\n--\nDeportes / Aventura\nCamping\n--\nDeportes acuáticos\nVela (Windsurf)\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\n2, 3 Y 4 estrellas - Localidad de Huacho\nAlojamiento\nHostales (especificar categorías)\n1, 2 y 3 estrellas - Localidad de Huacho\nAlimentación\nRestaurantes\nLocalidad de Huacho, 3 tenedores.\nAlimentación\nBares\nLocalidad de Huacho\nAlimentación\nCafeterías\nLocalidad de Huacho\nAlimentación\nKioskos de comida y bebidas\nLocalidad de Huacho\nLugares de Recreación\nDiscotecas\nLocalidad de Huacho\nLugares de Recreación\nPubs\nLocalidad de Huacho\nOtros Servicios Turísticos\nVenta de artesanía\nLocalidad de Huacho\nOtros Servicios Turísticos\nBancos - Cajeros\nLocalidad de Huacho\nOtros Servicios Turísticos\nMuseos de Sitio\nLocalidad de Huacho\nOtros Servicios Turísticos\nOficina de Información\nLocalidad de Huacho\nOtros Servicios Turísticos\nServicios Higiénicos\nLocalidad de Huacho\nOtros Servicios Turísticos\nServicio de Estacionamiento\nLocalidad de Huacho\nOtros Servicios Turísticos\nServicio de Fax\nLocalidad de Huacho\nOtros Servicios Turísticos\nServicio de Internet\nLocalidad de Huacho\nOtros Servicios Turísticos\nServicio de taxi\nLocalidad de Huacho\nOtros Servicios Turísticos\nVenta de Material Informativo(libro,revistas,postales,videos,etc)\nLocalidad de Huacho\nOtros Servicios Turísticos\nVenta de Material para Fotografía\nLocalidad de Huacho"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Huacho\nBancos\nCiudad de Huacho\nCajero automático\nCiudad de Huacho\nCasa de cambio\nCiudad de Huacho\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Huacho\nServicios de taxis\nCiudad de Huacho\nCentro de salud - tópico\nCiudad de Huacho\nSeguridad / POLTUR / Comisaría\nCiudad de Huacho\nLibrerías\nCiudad de Huacho\nBodegas o minimarkets\nCiudad de Huacho"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nSeñalización turística\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nLocalidad de Huacho\nDesagüe\nLocalidad de Huacho\nLuz (Suministro Eléctrico)\nLocalidad de Huacho\nTeléfono\nLocalidad de Huacho"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nDirección General de Capitanías y Guarda Costas de Perú.\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nLey N° 26856-Declara que las playas del litoral son bienes de uso público, inalienables e imprescriptibles y establece zona de dominio restringido\nAdministrador por\nNombre\nMunicipalidad Provincial de Huaura -Huacho\nTiempo de administración\nDesde 1867 hasta la actualidad."
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo\nNombre (Persona(s) responsable(s) del inventario turístico):\nJorge Luis Torres Chirito\nCargo:\nAsistente Administrativo\nCorreo:\njchiritoxx@gmail.com\nTeléfono:\n956454928\nFuentes Bibliográfica:\n- Derrotero de la Costa del Perú Golfo de Guayaquil a Callao, Hidronav-34. 3ra Edición. Instituto de Mar del Perú, Laboratorio Costero de Huacho. (2021).\n- Alejandro Tello, Luis Castillo Polo.(2010). Humedales de la Región Lima. Guía de su fauna y flora silvestres.\n- Christian Mier y Terán. (1993). Revista Los Especiales de Huacho Nª 43. Una Laguna en el Paraíso.\n- Lic. ELLAN'D ALMIR KARLA SAMANAMUD QUISPE. Trabajo in situ por la Subgerencia de Desarrollo del turismo de la Municipalidad Provincial de Huaura.\nMaterial Audiovisual actual del Recurso:\nFOTO, VIDEOS, OTROS\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n24/11/2022"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -11.214370428049575,
+    "longitud": -77.6064633938484
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-11.214370428049575,-77.6064633938484"
+}

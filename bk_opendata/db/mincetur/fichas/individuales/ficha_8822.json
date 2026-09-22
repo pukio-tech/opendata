@@ -1,0 +1,274 @@
+{
+  "cod_ficha": 8822,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=8822",
+  "nombre": "Mirador El Checo",
+  "departamento": "Piura",
+  "provincia": "Huancabamba",
+  "distrito": "CANCHAQUE",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Arquitectura y Espacios Urbanos",
+  "subtipo": "Miradores",
+  "jerarquia": "1",
+  "altitud": "1500",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=294366",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=294366",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=294367",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=470480",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=470426"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de paisaje",
+    "Naturaleza - Observación de aves",
+    "Deportes / Aventura - Caminata/Trekking"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "Sapindus Saponaria (Árbol de Checo), Quercus Robur (roble), bougainvillea spectabillis (papelillo)",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de aves",
+      "observacion": "Coeligena iris (Colibrí Inca Arcoíris), Pyrocephalus rubinus (Putilla), Pygochelidon cyanoleuca (golondrina azul y blanco), Mimus longicaudatus (Soña)",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/aves02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Piura/Piura/Castilla - Piura/Huancabamba/Canchaque",
+      "detalle": "Terminal Terrestre de Castilla/Piura - Canchaque",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "142 Kms / 3 h."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Piura/Huancabamba/Canchaque - Piura/Huancabamba/Canchaque",
+      "detalle": "Canchaque - Plaza de Armas de Palambla",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "3 Kms. / 5 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Piura/Huancabamba/Canchaque - Piura/Huancabamba/Canchaque",
+      "detalle": "Plaza de Armas de Palambla - Mirador El Checo",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "200 m. / 5 min."
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "500",
+      "horario": "INFORME TECNICO",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "5200",
+      "horario": "INFORME TECNICO",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "20",
+      "horario": "INFORME TECNICO",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Esporádicamente - Algunos meses",
+      "especificacion": "--",
+      "horario": "06:00 a.m. - 10:00 p.m. se recomienda realizar la visita en los meses de abril a noviembre para evitar la época de lluvias",
+      "observaciones": "se recomienda realizar la visita en los meses de abril a noviembre para evitar la época de lluvias"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Distrito de Canchaque / Villa de Palambla"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Distrito de Canchaque / Villa de Palambla"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Distrito de Canchaque"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Distrito de Canchaque"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Bancos - Cajeros",
+      "observacion": "Distrito de Canchaque"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Internet",
+      "observacion": "Distrito de Canchaque"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de Material para Fotografía",
+      "observacion": "Distrito de Canchaque"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Distrito de Canchaque"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Distrito de Canchaque"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Guiado en Español /Distrito de Canchaque"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Distrito de Canchaque"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Distrito de Canchaque"
+    }
+  ],
+  "descripcion": "El Mirador el Checo, se encuentra ubicado en la parte alta de la Villa de Palambla a 1500 m.s.n.m. aprox. A 3 kilómetros de la ciudad de Canchaque, a 10 minutos aproximados de la Plaza de Armas de la Villa de Palambla camino a Huancabamba.\nLleva el nombre en honor a que en este lugar existió un árbol llamado el Checo que llego a tener una edad de 120 años aprox.\nFue construido por un grupo de moradores en el barrio El Checo en coordinación con la Municipalidad Distrital de Canchaque, en el año de 1998 y desde el año 2011 con la conformación de un comité de gestión y desarrollo social se viene mejorando su infraestructura. Cuenta con escalinatas y barandillas de metal que rodea todo el circuito hasta el descenso a la villa Palambla, todo el descenso es de concreto, en el mirador existen una forma de balcones con barandas que nos permite una mejor apreciación del paisaje , desde donde podemos observar Villa de Palambla, los Cerros de Huayanay, Campanas y el caserío de Agua Azul, la extensión de este mirador es de 14 metros aprox. Se encuentra en pleno tránsito de la carretera rumbo a Huancabamba.\nEl lugar es apto para hacer paradas, descansar y tomar fotografías. El Mirador cuenta con bancas tanto de madera como de cemento. Cuenta con iluminación nocturna, en la parte central hay una imagen de San José Obrero patrón de El Barrio El Checo.",
+  "particularidades": "",
+  "estado_actual": "Se encuentra en buen estado de conservación, ya que la Municipalidad Distrital de Canchaque se encarga de su mantenimiento.",
+  "observaciones": "El Mirador el Checo, se encuentra ubicado en la parte alta de la Villa de Palambla a 3 kilómetros de la ciudad de Canchaque.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "El Mirador el Checo, se encuentra ubicado en la parte alta de la Villa de Palambla a 1500 m.s.n.m. aprox. A 3 kilómetros de la ciudad de Canchaque, a 10 minutos aproximados de la Plaza de Armas de la Villa de Palambla camino a Huancabamba.\nLleva el nombre en honor a que en este lugar existió un árbol llamado el Checo que llego a tener una edad de 120 años aprox.\nFue construido por un grupo de moradores en el barrio El Checo en coordinación con la Municipalidad Distrital de Canchaque, en el año de 1998 y desde el año 2011 con la conformación de un comité de gestión y desarrollo social se viene mejorando su infraestructura. Cuenta con escalinatas y barandillas de metal que rodea todo el circuito hasta el descenso a la villa Palambla, todo el descenso es de concreto, en el mirador existen una forma de balcones con barandas que nos permite una mejor apreciación del paisaje , desde donde podemos observar Villa de Palambla, los Cerros de Huayanay, Campanas y el caserío de Agua Azul, la extensión de este mirador es de 14 metros aprox. Se encuentra en pleno tránsito de la carretera rumbo a Huancabamba.\nEl lugar es apto para hacer paradas, descansar y tomar fotografías. El Mirador cuenta con bancas tanto de madera como de cemento. Cuenta con iluminación nocturna, en la parte central hay una imagen de San José Obrero patrón de El Barrio El Checo."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Se encuentra en buen estado de conservación, ya que la Municipalidad Distrital de Canchaque se encarga de su mantenimiento."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "El Mirador el Checo, se encuentra ubicado en la parte alta de la Villa de Palambla a 3 kilómetros de la ciudad de Canchaque."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nVisitantes Locales(Excursionistas)\n500\nINFORME TECNICO\n2021\nInforme elaborado por la Municipalidad Distrital de Canchaque y los prestadores de Servicios Turísticos.\nTuristas Nacionales\n5200\nINFORME TECNICO\n2021\nInforme elaborado por la Municipalidad Distrital de Canchaque y los prestadores de Servicios Turísticos.\nTuristas Extranjeros\n20\nINFORME TECNICO\n2021\nInforme elaborado por la Municipalidad Distrital de Canchaque y los prestadores de Servicios Turísticos."
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nPiura/Piura/Castilla\n-\nPiura/Huancabamba/Canchaque\nTerminal Terrestre de Castilla/Piura - Canchaque\nTerrestre\nBus público\nAsfaltado\n142 Kms / 3 h.\n1\nPiura/Huancabamba/Canchaque\n-\nPiura/Huancabamba/Canchaque\nCanchaque - Plaza de Armas de Palambla\nTerrestre\nBus público\nAsfaltado\n3 Kms. / 5 min.\n1\nPiura/Huancabamba/Canchaque\n-\nPiura/Huancabamba/Canchaque\nPlaza de Armas de Palambla - Mirador El Checo\nTerrestre\nA pie\nAfirmado\n200 m. / 5 min."
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nEsporádicamente - Algunos meses\n--\n06:00 a.m.\n-\n10:00 p.m.\nse recomienda realizar la visita en los meses de abril a noviembre para evitar la época de lluvias"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nNaturaleza\nObservación de flora\nSapindus Saponaria (Árbol de Checo), Quercus Robur (roble), bougainvillea spectabillis (papelillo)\nNaturaleza\nObservación de paisaje\n--\nNaturaleza\nObservación de aves\nCoeligena iris (Colibrí Inca Arcoíris), Pyrocephalus rubinus (Putilla), Pygochelidon cyanoleuca (golondrina azul y blanco), Mimus longicaudatus (Soña)\nDeportes / Aventura\nCaminata/Trekking\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nDistrito de Canchaque / Villa de Palambla\nAlimentación\nRestaurantes\nDistrito de Canchaque / Villa de Palambla\nAlimentación\nCafeterías\nDistrito de Canchaque\nOtros Servicios Turísticos\nVenta de artesanía\nDistrito de Canchaque\nOtros Servicios Turísticos\nBancos - Cajeros\nDistrito de Canchaque\nOtros Servicios Turísticos\nServicio de Internet\nDistrito de Canchaque\nOtros Servicios Turísticos\nVenta de Material para Fotografía\nDistrito de Canchaque\nLugares de Recreación\nDiscotecas\nDistrito de Canchaque\nOtros Servicios Turísticos\nAgencia de Viajes\nDistrito de Canchaque\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nGuiado en Español /Distrito de Canchaque\nAlimentación\nKioskos de comida y bebidas\nDistrito de Canchaque\nServicios Públicos\nOficina de Información turística\nDistrito de Canchaque"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nDistrito de Canchaque\nBancos\nDistrito de Canchaque\nEstación de servicios, grifos, gasolineras y gasocentros\nDistrito de Canchaque\nServicios de taxis\nDistrito de Canchaque\nCentro de salud - tópico\nDistrito de Canchaque\nVenta de materiales para fotografías\nDistrito de Canchaque\nSeguridad / POLTUR / Comisaría\nDistrito de Canchaque\nBodegas o minimarkets\nDistrito de Canchaque"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nVilla de Palambla\nDesagüe\nVilla de Palambla\nLuz (Suministro Eléctrico)\nVilla de Palambla\nTeléfono\nVilla de Palambla"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nEstado Peruano\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nNo cuenta con saneamiento físico legal\nAdministrador por\nNombre\nMunicipalidad Distrital de Canchaque\nTiempo de administración\nLo administra desde el año 2004"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDIRECCIÓN REGIONAL DE COMERCIO EXTERIOR Y TURISMO DE PIURA\nNombre (Persona(s) responsable(s) del inventario turístico):\nLIC. KAREN PALMA MAZA\nCargo:\nENCARGADA DEL INVENTARIO - DIRCETUR PIURA\nCorreo:\nkpalmamaza@gmail.com\nTeléfono:\n936019387\nFuentes Bibliográfica:\nREVISTA VISITE CANCHAQUE (DISFRUTE DEL TURISMO ECOLÓGICO Y DE AVENTURA).\nHUANCABAMBA 2011 - RICARDO LA TORRE ALVARADO\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n15/12/2022"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -5.371296005656267,
+    "longitud": -79.61036682128906
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-5.371296005656267,-79.61036682128906"
+}

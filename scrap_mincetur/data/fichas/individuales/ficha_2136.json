@@ -1,0 +1,367 @@
+{
+  "cod_ficha": 2136,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=2136",
+  "nombre": "Baños Termales De Huaranchal",
+  "departamento": "La Libertad",
+  "provincia": "Otuzco",
+  "distrito": "HUARANCHAL",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "k. Agua termo-mineral",
+  "subtipo": "Otros",
+  "jerarquia": "1",
+  "altitud": "1998 m.s.n.m.",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=537774",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=537774",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=537775",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=537776",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=537777",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=537731",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=537778",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=537779",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=539265",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=539266"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Paseos - Excursiones",
+    "Otros - Realización de eventos",
+    "Otros - Otros(Especificar)",
+    "Naturaleza - Observación de fauna",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de paisaje",
+    "Deportes / Aventura - Caminata/Trekking"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Paseos",
+      "tipo": "Excursiones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/excursiones02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Realización de eventos",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/eventos02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Otros(Especificar)",
+      "observacion": "Baños terapeúticos",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/otros02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de fauna",
+      "observacion": "Golondrinas, cuculíes, mariposas, truchas, tortugas, culebras.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fauna02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "Higuerón, eucalipto, lima, palta, naranja, granadilla, café caracolillo.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "en los alrededores",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "La Libertad/Trujillo/Trujillo - La Libertad/Otuzco/Otuzco",
+      "detalle": "Trujillo (Paradero en prolongaciòn uniòn) - Otuzco (paradero calle independencia)",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Combi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "77.6 km / 2h"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "La Libertad/Otuzco/Otuzco - La Libertad/Otuzco/Huaranchal",
+      "detalle": "Otuzco (Paradero calle independencia) - Huaranchal (Plaza de armas Huaranchal)",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Combi",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "75.2 km / 1 h 30 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "La Libertad/Otuzco/Huaranchal - La Libertad/Otuzco/Huaranchal",
+      "detalle": "Huaranchal (Plaza de Armas de Huaranchal) - Baños termales de huaranchal",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Combi",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "2.7 km / 10 min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "135",
+      "horario": "FLUJO DE VISITANTES POR MESES AÑO 2023",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "2623",
+      "horario": "FLUJO DE VISITANTES POR MESES AÑO 2023",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "20416",
+      "horario": "FLUJO DE VISITANTES POR MESES AÑO 2023",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "07:00 a.m. - 08:00 p.m. En época de invierno la atención varía entre las 8 am a las 6pm",
+      "observaciones": "En época de invierno la atención varía entre las 8 am a las 6pm"
+    },
+    {
+      "epoca": "Personas con discapacidad física",
+      "especificacion": "Baños con barandas",
+      "horario": "--",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "Actualmente el costo del ticket es de 3 soles por posa y el tiempo de uso es de 30 min."
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicios Higiénicos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de interpretación",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Boletería",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Albergues",
+      "observacion": "Distrito de Huaranchal"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Distrito de Huaranchal"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Distrito de Huaranchal"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Transporte, autoservicio - Distrito de Huaranchal"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Distrito de Huaranchal"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Distrito de Huaranchal"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Distrito de Huaranchal"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de camionetas 4 x 4",
+      "observacion": "Distrito de Huaranchal"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Distrito de Huaranchal"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "Distrito de Huaranchal"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Distrito de Huaranchal"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "Distrito de Huaranchal"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Distrito de Huaranchal"
+    }
+  ],
+  "descripcion": "Se encuentra en la región de la Libertad, provincia de Otuzco, distrito de Huaranchal, ubicado a 1988 msnm. Es un ojo de agua caliente termo medicinal que sale desde el interior de una peña, con un alto contenido ferruginoso, los minerales que las componen como el fierro, azufre poseen propiedades terapéuticas para el tratamiento de afecciones a los huesos y al sistema nervioso. Actualmente no se cuenta con certificado de INGEMMET, pero por otro lado si se han realizado estudios de los beneficios y calidad del agua, su temperatura alcanza los 60 y 70 grados centígrados, su color es transparente, pero por su temperatura la vertiente forma un color de óxido amarillo. Esta localizado en una depresión conformada por una formación de macizo rocoso, el volumen de agua que discurre en esta naciente es aproximadamente de 10 litros por segundo. Las instalaciones son construcciones de piedra, también cuenta con áreas verdes, 1 ambiente para servicios higiénicos, además cuenta con una catarata artificial, un criadero chico de truchas, y para el disfrute de los turistas se han diseñado 7 pozas privadas en las que el agua caliente se mezcla con agua fría para la preferencia del usuario, además cuenta con un restaurante en el que se expende platos típicos de la zona y la región. Estos baños termales son utilizados primariamente por los habitantes de Huaranchal y es un atractivo que cada vez atrae a más turistas, llegando a más de 3000 en época de sus Fiestas Patronales que se celebra el 24 de junio, en época de vacaciones de medio año es muy concurrido por estudiantes de Lima y Trujillo, como por familiares que van a disfrutar de su excelente clima.",
+  "particularidades": "",
+  "estado_actual": "Buen estado de conservación. Esto debido a que recibe un constante mantenimiento y cuidado por personal calificado, que dispone la municipalidad distrital de Huaranchal, quien se encarga de administrarlo.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Se encuentra en la región de la Libertad, provincia de Otuzco, distrito de Huaranchal, ubicado a 1988 msnm. Es un ojo de agua caliente termo medicinal que sale desde el interior de una peña, con un alto contenido ferruginoso, los minerales que las componen como el fierro, azufre poseen propiedades terapéuticas para el tratamiento de afecciones a los huesos y al sistema nervioso. Actualmente no se cuenta con certificado de INGEMMET, pero por otro lado si se han realizado estudios de los beneficios y calidad del agua, su temperatura alcanza los 60 y 70 grados centígrados, su color es transparente, pero por su temperatura la vertiente forma un color de óxido amarillo. Esta localizado en una depresión conformada por una formación de macizo rocoso, el volumen de agua que discurre en esta naciente es aproximadamente de 10 litros por segundo. Las instalaciones son construcciones de piedra, también cuenta con áreas verdes, 1 ambiente para servicios higiénicos, además cuenta con una catarata artificial, un criadero chico de truchas, y para el disfrute de los turistas se han diseñado 7 pozas privadas en las que el agua caliente se mezcla con agua fría para la preferencia del usuario, además cuenta con un restaurante en el que se expende platos típicos de la zona y la región. Estos baños termales son utilizados primariamente por los habitantes de Huaranchal y es un atractivo que cada vez atrae a más turistas, llegando a más de 3000 en época de sus Fiestas Patronales que se celebra el 24 de junio, en época de vacaciones de medio año es muy concurrido por estudiantes de Lima y Trujillo, como por familiares que van a disfrutar de su excelente clima."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Buen estado de conservación. Esto debido a que recibe un constante mantenimiento y cuidado por personal calificado, que dispone la municipalidad distrital de Huaranchal, quien se encarga de administrarlo."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n135\nFLUJO DE VISITANTES POR MESES AÑO 2023\n2023\nFLUJO DE VISITANTES POR MESES AÑO 2023 DE LOS BAÑOS TERMALES DE HUARANCHAL\nTuristas Nacionales\n2623\nFLUJO DE VISITANTES POR MESES AÑO 2023\n2023\nFLUJO DE VISITANTES POR MESES AÑO 2023 DE LOS BAÑOS TERMALES DE HUARANCHAL\nVisitantes Locales(Excursionistas)\n20416\nFLUJO DE VISITANTES POR MESES AÑO 2023\n2023\nFLUJO DE VISITANTES POR MESES AÑO 2023 DE LOS BAÑOS TERMALES DE HUARANCHAL"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nLa Libertad/Trujillo/Trujillo\n-\nLa Libertad/Otuzco/Otuzco\nTrujillo (Paradero en prolongaciòn uniòn) - Otuzco (paradero calle independencia)\nTerrestre\nCombi\nAsfaltado\n77.6 km / 2h\n1\nLa Libertad/Otuzco/Otuzco\n-\nLa Libertad/Otuzco/Huaranchal\nOtuzco (Paradero calle independencia) - Huaranchal (Plaza de armas Huaranchal)\nTerrestre\nCombi\nTrocha carrozable\n75.2 km / 1 h 30 min\n1\nLa Libertad/Otuzco/Huaranchal\n-\nLa Libertad/Otuzco/Huaranchal\nHuaranchal (Plaza de Armas de Huaranchal) - Baños termales de huaranchal\nTerrestre\nCombi\nTrocha carrozable\n2.7 km / 10 min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nActualmente el costo del ticket es de 3 soles\npor posa y el tiempo de uso es de 30 min."
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n07:00 a.m.\n-\n08:00 p.m.\nEn época de invierno la atención varía entre las 8 am a las 6pm"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nPaseos\nExcursiones\n--\nOtros\nRealización de eventos\n--\nOtros\nOtros(Especificar)\nBaños terapeúticos\nNaturaleza\nObservación de fauna\nGolondrinas, cuculíes, mariposas, truchas,\ntortugas, culebras.\nNaturaleza\nObservación de flora\nHiguerón, eucalipto, lima, palta, naranja,\ngranadilla, café caracolillo.\nNaturaleza\nObservación de paisaje\n--\nDeportes / Aventura\nCaminata/Trekking\nen los alrededores"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nOtros Servicios Turísticos\nServicios Higiénicos\n--\nInstalaciones Públicas\nServicios Públicos\nMiradores turísticos\n--\nInstalaciones Públicas\nServicios Públicos\nSeñales turísticas de orientación\n--\nInstalaciones Públicas\nServicios Públicos\nSeñales turísticas de interpretación\n--\nInstalaciones Públicas\nServicios Públicos\nBoletería\n--\nInstalaciones Públicas\nServicios Públicos\nCaminos peatonales\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nAlbergues\nDistrito de Huaranchal\nAlimentación\nRestaurantes\nDistrito de Huaranchal\nOtros Servicios Turísticos\nVenta de artesanía\nDistrito de Huaranchal\nOtros Servicios Turísticos\nOtros (Especificar)\nTransporte, autoservicio - Distrito de Huaranchal\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nDistrito de Huaranchal\nAlimentación\nKioskos de comida y bebidas\nDistrito de Huaranchal\nAlimentación\nBares\nDistrito de Huaranchal\nOtros Servicios Turísticos\nAlquiler de camionetas 4 x 4\nDistrito de Huaranchal\nLugares de Recreación\nBares\nDistrito de Huaranchal\nServicios Públicos\nMiradores turísticos\nDistrito de Huaranchal\nServicios Públicos\nEstacionamiento de vehículos\nDistrito de Huaranchal\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\nDistrito de Huaranchal\nServicios Públicos\nOficina de Información turística\nDistrito de Huaranchal"
+    },
+    {
+      "titulo": "Servicios Complementarios dentro del recurso",
+      "contenido": "Servicio Complementario\nObservación\nServicio de estacionamiento\n--"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nDistrito de Huaranchal\nEstación de servicios, grifos, gasolineras y gasocentros\nDistrito de Huaranchal\nServicio de estacionamiento\nDistrito de Huaranchal\nCentro de salud - tópico\nDistrito de Huaranchal\nSeguridad / POLTUR / Comisaría\nDistrito de Huaranchal\nLibrerías\nDistrito de Huaranchal\nBodegas o minimarkets\nDistrito de Huaranchal"
+    },
+    {
+      "titulo": "Condiciones de Accesibilidad al Visitante",
+      "contenido": "Visitante\nInstalación\nActividades y/o programas\nEquipamiento\nObservación\nPersonas con discapacidad física\nBaños con barandas\n--\n--\n--"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\n--\nDesagüe\n--\nLuz (Suministro Eléctrico)\n--\nSeñalización turística\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nEn el distrito de Huaranchal\nDesagüe\nEn el distrito de Huaranchal\nLuz (Suministro Eléctrico)\nEn el distrito de Huaranchal\nOtros (Especificar)\nPosta Médica, Mercado de Abastos, Puesto policíaco\nTeléfono\nDistrito de Huaranchal\nAlcantarillado sanitario\nDistrito de Huaranchal\nSeñalización turística\nDistrito de Huaranchal"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nMunicipalidad Distrital de Huaranchal\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\nNº 0159 - 2023\nOtra situación:\n--\nAdministrador por\nNombre\nMunicipalidad Distrital de Huaranchal\nTiempo de administración\nDesde 2022"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nGERENCIA REGIONAL DE COMERCIO EXTERIOR, TURISMO Y ARTESANIA (GERCETUR LA LIBERTAD)\nNombre (Persona(s) responsable(s) del inventario turístico):\nEsther Natali Morales Rojas\nCargo:\nEspecialista en Turismo\nCorreo:\nemoralesr@regionlalibertad.gob.pe\nTeléfono:\n965051027\nFuentes Bibliográfica:\nIbañez (2018) PLANEAMIENTO ESTRATÉGICO PARA LA PROVINCIA DE OTUZCO. (Pag 96. - 107) https://repositorio.pucp.edu.pe/index/handle/123456789/165914\nMaterial Audiovisual actual del Recurso:\n--\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n31/05/2024 11:24:34"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -7.704367979550228,
+    "longitud": -78.44546735286707
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-7.704367979550228,-78.44546735286707"
+}

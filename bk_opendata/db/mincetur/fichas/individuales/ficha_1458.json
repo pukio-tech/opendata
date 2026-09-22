@@ -1,0 +1,275 @@
+{
+  "cod_ficha": 1458,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=1458",
+  "nombre": "Museo Etnológico",
+  "departamento": "Piura",
+  "provincia": "Sechura",
+  "distrito": "SECHURA",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Museos y otros",
+  "subtipo": "Museos",
+  "jerarquia": "POR JERARQUIZAR",
+  "altitud": "51",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=472193",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=472193",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=472227",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=472228",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=472229",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=472230",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=472194"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Estudios e Investigación",
+    "Cultura y Folclore - Apreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Apreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)",
+      "observacion": "--",
+      "icono_url": null
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Piura/Piura/Veintiseis De Octubre - Piura/Sechura/Sechura",
+      "detalle": "Terminal Terrestre Satélite Bajo Piura de la ciudad de Piura – Terminal Terrestre de la ciudad de Sechura.",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "50 km / 1h 20 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Piura/Sechura/Sechura - Piura/Sechura/Sechura",
+      "detalle": "Terminal Terrestre de la ciudad de Sechura - Museo Etnológico",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mototaxi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "1.5 km/ 7Min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "9",
+      "horario": "Reporte de Visitantes",
+      "observaciones": "2019"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "73",
+      "horario": "Reporte del Libro de Registro de visitas",
+      "observaciones": "2019"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "149",
+      "horario": "Reporte del Libro de Registro de visitas",
+      "observaciones": "2019"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "10:00 a.m. - 05:00 p.m. Lunes a domingo de 10:00am a 12:00m y de 4:00pm a 5:30pm",
+      "observaciones": "Lunes a domingo de 10:00am a 12:00m y de 4:00pm a 5:30pm"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Semi-restringido(previo permiso)",
+      "observaciones": "El ingreso está supeditado a la disponibilidad de las madres Benedictinas. Los visitantes se deberán anunciarse en la portería para la autorización de la madre superior o al teléfono (073) 377271."
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "Ciudad de Sechura. Categorizados de 2 y 3 estrellas."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "Ciudad de Sechura"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Sechura"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Sechura"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Snacks",
+      "observacion": "Ciudad de Sechura"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Sechura"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Sechura"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Ciudad de Sechura"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Peñas",
+      "observacion": "Ciudad de Sechura"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Ciudad de Sechura"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "Ciudad de Sechura"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Sechura"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Ciudad de Sechura"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Sechura"
+    }
+  ],
+  "descripcion": "Es el primero en su género que se ubica en la costa norte peruana. Dado que Sechura es un centro Etnohistórico en el cual hace más de siete mil años existe presencia cultural, como lo demuestran los asentamientos de Chusís e Illescas, el museo presenta maquetas, dioramas del contexto marino (riqueza ictiológica), paisaje ecológico, patrones funerarios de los antiguos pobladores Chusís así como diversos utensilios utilizados en la pesca, como una balsa, réplica de las antiguas embarcaciones de los pescadores Sechura. Forma parte de la muestra, una colección de joyas y ornamentos de las cofradías de la parroquia de Sechura, una colección fotográfica sobre Sechura de Don. Enrique Brünning y reproducciones de las acuarelas del Obispo de Trujillo Baltazar Jaime Martínez Compañón y Bujanda. En el Museo en su parte estructural se encuentra en buen estado, no se aprecia rasgos de deterioro en su infraestructura, pero hay deficiencias en la técnica para armar una exposición, también es posible apreciar piezas de arte religioso y arte popular. Su principal objetivo es el de apoyar la difusión del quehacer cultural, constituyéndose en un centro de irradiación de conocimiento con fines educativos y de motivación a la investigación cultural. Su principal objetivo es el de apoyar la difusión del quehacer cultural, constituyéndose en un centro de irradiación de conocimiento con fines educativos y de motivación a la investigación cultural.\nEl museo cuenta con tres salas de exposición; una principal donde existen vestigios Chusis; una segunda donde se puede apreciar herramientas utilitarias de Illescas; y un tercer ambiente en el cuál se exhiben las vestimentas clásicas de la época colonial de Sechura, además de fotos de diferentes estampas costumbristas de la zona. Así mismo es pertinente señalar que a pesar de sus características, no pertenece a la red de museos del Perú y la curaduría encargada vendría a ser el de las madres religiosas Benedictinas.",
+  "particularidades": "",
+  "estado_actual": "Su estado de conservación es regular. Los ambientes y/o la infraestructura muestran deterioro por factores climáticos y abandono. A causa de la pandemia Covid 2019, el museo cerró dos años aproximadamente y por consecuencia su mantenimiento se vió afectado por ser auto sostenible económicamente.",
+  "observaciones": "Se encuentra ubicado en la capita provincial de Sechura, dentro del Monasterio Sagrado Corazón de Jesús de las Madres Benedictinas en la Plazuela Juan Pablo II fue creado el 18 de Mayo de 1996, coincidentemente en la fecha que se conmemora el Día Internacional de los Museos.",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Es el primero en su género que se ubica en la costa norte peruana. Dado que Sechura es un centro Etnohistórico en el cual hace más de siete mil años existe presencia cultural, como lo demuestran los asentamientos de Chusís e Illescas, el museo presenta maquetas, dioramas del contexto marino (riqueza ictiológica), paisaje ecológico, patrones funerarios de los antiguos pobladores Chusís así como diversos utensilios utilizados en la pesca, como una balsa, réplica de las antiguas embarcaciones de los pescadores Sechura. Forma parte de la muestra, una colección de joyas y ornamentos de las cofradías de la parroquia de Sechura, una colección fotográfica sobre Sechura de Don. Enrique Brünning y reproducciones de las acuarelas del Obispo de Trujillo Baltazar Jaime Martínez Compañón y Bujanda. En el Museo en su parte estructural se encuentra en buen estado, no se aprecia rasgos de deterioro en su infraestructura, pero hay deficiencias en la técnica para armar una exposición, también es posible apreciar piezas de arte religioso y arte popular. Su principal objetivo es el de apoyar la difusión del quehacer cultural, constituyéndose en un centro de irradiación de conocimiento con fines educativos y de motivación a la investigación cultural. Su principal objetivo es el de apoyar la difusión del quehacer cultural, constituyéndose en un centro de irradiación de conocimiento con fines educativos y de motivación a la investigación cultural.\nEl museo cuenta con tres salas de exposición; una principal donde existen vestigios Chusis; una segunda donde se puede apreciar herramientas utilitarias de Illescas; y un tercer ambiente en el cuál se exhiben las vestimentas clásicas de la época colonial de Sechura, además de fotos de diferentes estampas costumbristas de la zona. Así mismo es pertinente señalar que a pesar de sus características, no pertenece a la red de museos del Perú y la curaduría encargada vendría a ser el de las madres religiosas Benedictinas."
+    },
+    {
+      "titulo": "Particularidades",
+      "contenido": ""
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Su estado de conservación es regular. Los ambientes y/o la infraestructura muestran deterioro por factores climáticos y abandono. A causa de la pandemia Covid 2019, el museo cerró dos años aproximadamente y por consecuencia su mantenimiento se vió afectado por ser auto sostenible económicamente."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": "Se encuentra ubicado en la capita provincial de Sechura, dentro del Monasterio Sagrado Corazón de Jesús de las Madres Benedictinas en la Plazuela Juan Pablo II fue creado el 18 de Mayo de 1996, coincidentemente en la fecha que se conmemora el Día Internacional de los Museos."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n9\nReporte de Visitantes\n2019\nRegistro Manual de visitas al Museo Etnológico\nTuristas Nacionales\n73\nReporte del Libro de Registro de visitas\n2019\nRegistro Manual de visitas al Museo Etnológico\nVisitantes Locales(Excursionistas)\n149\nReporte del Libro de Registro de visitas\n2019\nRegistro Manual de visitas al Museo Etnológico"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nPiura/Piura/Veintiseis De Octubre\n-\nPiura/Sechura/Sechura\nTerminal Terrestre Satélite Bajo Piura de la ciudad de Piura – Terminal Terrestre de la ciudad de Sechura.\nTerrestre\nBus público\nAsfaltado\n50 km / 1h 20 min\n1\nPiura/Sechura/Sechura\n-\nPiura/Sechura/Sechura\nTerminal Terrestre de la ciudad de Sechura - Museo Etnológico\nTerrestre\nMototaxi\nAsfaltado\n1.5 km/ 7Min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nSemi-restringido(previo permiso)\nEl ingreso está supeditado a la disponibilidad de las madres Benedictinas. Los visitantes se deberán anunciarse en la portería para la autorización de la madre superior o al teléfono (073) 377271."
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n10:00 a.m.\n-\n05:00 p.m.\nLunes a domingo de 10:00am a 12:00m y de 4:00pm a 5:30pm"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nEstudios e Investigación\n--\nCultura y Folclore\nApreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\nCiudad de Sechura. Categorizados de 2 y 3 estrellas.\nAlojamiento\nHostales (especificar categorías)\nCiudad de Sechura\nAlimentación\nRestaurantes\nCiudad de Sechura\nAlimentación\nBares\nCiudad de Sechura\nAlimentación\nSnacks\nCiudad de Sechura\nAlimentación\nKioskos de comida y bebidas\nCiudad de Sechura\nLugares de Recreación\nDiscotecas\nCiudad de Sechura\nServicios Públicos\nOficina de Información turística\nCiudad de Sechura\nLugares de Recreación\nPeñas\nCiudad de Sechura\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nCiudad de Sechura\nLugares de Recreación\nKaraoke\nCiudad de Sechura\nAlimentación\nCafeterías\nCiudad de Sechura\nAlimentación\nVenta de comida Rápida\nCiudad de Sechura\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Sechura"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Sechura\nBancos\nCiudad de Sechura\nCajero automático\nCiudad de Sechura\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Sechura\nServicios de taxis\nCiudad de Sechura\nCentro de salud - tópico\nCiudad de Sechura\nSeguridad / POLTUR / Comisaría\nCiudad de Sechura\nVenta de materiales para fotografías\nCiudad de Sechura\nLibrerías\nCiudad de Sechura\nBodegas o minimarkets\nCiudad de Sechura"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\n--\nLuz (Suministro Eléctrico)\n--\nSeñalización turística\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudadde Sechura\nDesagüe\nCiudad de Sechura\nLuz (Suministro Eléctrico)\nCiudad de Sechura\nTeléfono\nCiudad de Sechura\nSeñalización turística\nCiudad de Sechura"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\n--\nPrivado:\n--\nOtra Situación:\nNo cuenta con saneamiento físico legal\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nNo cuenta con saneamiento físico legal -\nAdministrador por\nNombre\nCongregación de Madres Benedictinas de Sechura\nTiempo de administración\nIndeterminado"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo de Piura\nNombre (Persona(s) responsable(s) del inventario turístico):\nKaren Palma Maza\nCargo:\nCoordinadora de Inventario\nCorreo:\ndir.turismo.dircetur@regionpiura.gob.pe\nTeléfono:\n073 - 340133\nFuentes Bibliográfica:\nWWW.PERUTOPTOURS.COM\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n5/12/2022"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -5.558242,
+    "longitud": -80.82448299999999
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-5.558242,-80.82448299999999"
+}

@@ -1,0 +1,554 @@
+{
+  "cod_ficha": 1237,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=1237",
+  "nombre": "Ciudad Sagrada De Caral",
+  "departamento": "Lima",
+  "provincia": "Barranca",
+  "distrito": "SUPE",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Sitios Arqueológicos",
+  "subtipo": "Zonas arqueológicas",
+  "jerarquia": "4",
+  "altitud": "350",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=295664",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=295664",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=295665",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=295666",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=295667",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=493608",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=493609",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=493610",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=497846",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=497918",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=497920"
+  ],
+  "actividades_permitidas": [
+    "Otros - Compras de artesanía/souvenir",
+    "Otros - Toma de fotografías y filmaciones",
+    "Paseos - Excursiones",
+    "Otros - Estudios e Investigación",
+    "Otros - Realización de eventos",
+    "Naturaleza - Observación de paisaje",
+    "Cultura y Folclore - Rituales místicos o tradicionales",
+    "Deportes / Aventura - Caminata/Trekking",
+    "Deportes / Aventura - Camping",
+    "Cultura y Folclore - Degustación y preparación de platos, productos o bebidas típicas",
+    "Cultura y Folclore - Ferias",
+    "Deportes / Aventura - Cabalgatas",
+    "Cultura y Folclore - Apreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)",
+    "Otros - Compra de productos regionales"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Compras de artesanía/souvenir",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/artesania02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "Previa autorización del administrador de la Ciudad Sagrada de Caral",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Paseos",
+      "tipo": "Excursiones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/excursiones02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Realización de eventos",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/eventos02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Rituales místicos o tradicionales",
+      "observacion": "Por aniversario",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/rituales_misticos02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Camping",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/camping02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Degustación y preparación de platos, productos o bebidas típicas",
+      "observacion": "Fines de semana/aniversario",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/platos_tipicos02.png"
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Ferias",
+      "observacion": "Por aniversario",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/feria02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Cabalgatas",
+      "observacion": "--",
+      "icono_url": null
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Apreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)",
+      "observacion": "--",
+      "icono_url": null
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Compra de productos regionales",
+      "observacion": "--",
+      "icono_url": null
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Callao/Prov. Const. Del Callao/Callao - Lima/Barranca/Barranca",
+      "detalle": "Aeropuerto Internacional Jorge Chavez - Plaza de Armas de Barranca",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mini bus turístico",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "186 km / 3 h 55 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Lima/Barranca/Barranca - Lima/Barranca/Supe",
+      "detalle": "Plaza de Armas de Barranca - Km 184 carretera Panamericana Norte",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mini bus turístico",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "20 km / 25 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Lima/Barranca/Supe - Lima/Barranca/Supe",
+      "detalle": "Km 184 carretera Panamericana Norte - Ciudad Sagrada de Caral",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mini bus turístico",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "16.4 km / 35 min"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Lima/Lima/Independencia - Lima/Barranca/Barranca",
+      "detalle": "Terminal Terrestre Plaza Norte - Plaza de Armas de Barranca",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "160 Km / 3.5 h"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Lima/Barranca/Barranca - Lima/Barranca/Supe",
+      "detalle": "Calle Lima cdra. 13 (A 2 cdra. Plaza de Barranca) - Km 184 carretera Panamericana Norte",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Combi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "20.4 Km / 26 min"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Lima/Barranca/Supe - Lima/Barranca/Supe",
+      "detalle": "Km 184 carretera Panamericana Nortel - Ciudad Sagrada de Caral",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Combi",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "16 Km / 34 min"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "41463",
+      "horario": "Ministerio de Cultura / Zona Arqueológica de Caral",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "1650",
+      "horario": "Ministerio de Cultura / Zona Arqueologica de Caral",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "10:00 a.m. - 04:00 p.m. De lunes a domingo",
+      "observaciones": "De lunes a domingo"
+    },
+    {
+      "epoca": "Personas con discapacidad física",
+      "especificacion": "Sección del circuito afirmado para circulación de sillas de ruedas, andadores y coches infantiles. Área de descanso con cubiertas de sol",
+      "horario": "Circuito para personas con discapacidad motora",
+      "observaciones": "2 sillas de ruedas"
+    },
+    {
+      "epoca": "Niños",
+      "especificacion": "Sección del circuito afirmado para circulación de coches y carriolas.Área de descanso con cubiertas de sol.Sección lúdica",
+      "horario": "Circuito para familias con niños pequeños. Circuitos para escolares. Área de centro de interpretación y túnel de la ciencia.",
+      "observaciones": "Módulos"
+    },
+    {
+      "epoca": "Adulto mayor",
+      "especificacion": "Sección del circuito afirmado para circulación de sillas de ruedas. Área de descanso con cubiertas de sol",
+      "horario": "Circuito para adultos mayores",
+      "observaciones": "2 sillas de ruedas"
+    },
+    {
+      "epoca": "Jóvenes",
+      "especificacion": "--",
+      "horario": "Circuitos para universitarios. Circuitos especializados para estudiantes de CCSS, Humanidades y artes.",
+      "observaciones": "--"
+    },
+    {
+      "epoca": "Otros",
+      "especificacion": "Sección del circuito afirmado. Área de descanso con cubiertas de sol.",
+      "horario": "Circuito para familias con mascotas",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "Adulto: S/ 11.00 - Estudiantes de Educación Superior : S/ 4.00 - Niños / Escolares : S/ 1.00 - Entrada Especial S/ 5.50 - Personas con Discapacidad S/ 5.50 - Guía Grupo hasta 9 personas S/ 20.00"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Centros de interpretación",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Otros (especificar)",
+      "observacion": "Servicios higiénicos"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Inglés"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de interpretación",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Centros de interpretación",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Paradores turísticos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de Campamento(camping)",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "3 Estrellas / Ciudad de Barranca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "1 a 3 Estrellas / Ciudad de Barranca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "1,2 ,3 ,5 Tenedores / Ciudad de Barranca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Barranca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Barranca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Ciudad de Barranca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Barranca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Ciudad de Barranca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Barranca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Barranca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Ciudad de Barranca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Ciudad de Barranca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Ciudad de Barranca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "Ciudad de Barranca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Barranca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Cines o Teatros",
+      "observacion": "Ciudad de Barranca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Apart-hoteles (especificar categorías)",
+      "observacion": "4 Estrellas / Ciudad de Barranca"
+    }
+  ],
+  "descripcion": "La Ciudad Sagrada de Caral está a 184 km al norte de Lima y entre 23 km y 25 km desde el litoral, en la sección Media-Baja del valle de Supe y en la margen izquierda de este río, a 365 metros sobre el nivel del mar. Fue construida en la quebrada de Chupacigarro, sobre terrazas fluviales y aluviales, entre 20 m y 30 m por encima del valle. Por la disposición de los edificios se infiere un ordenamiento del espacio construido de acuerdo a un diseño planificado de la ciudad.La Ciudad Sagrada de Caral-Supe es un sitio arqueológico de 5.000 años de antigüedad. Está emplazado en una terraza aluvial desértica que se eleva sobre el valle del río Supe. Sus orígenes se remontan al periodo Arcaico Tardío de los Andes Centrales y hacen de ella el centro de civilización más antiguo del continente americano. La ciudad, excepcionalmente bien preservada, destaca por la concepción y complejidad de sus elementos arquitectónicos y espaciales, sobre todo por las plataformas monumentales de piedra y tierra y por las plazas circulares hundidas. La Ciudad Sagrada de Caral, uno entre otros dieciocho asentamientos urbanos pertenecientes al mismo periodo, desarrollados en la misma región, presenta una arquitectura, compleja y monumental a la vez, que incluye seis grandes estructuras piramidales. La traza urbana de la ciudad y algunos de sus componentes –en particular, las estructuras piramidales y el conjunto residencial de élite– muestran claramente la existencia de funciones ceremoniales, lo que revela la presencia de una fuerte y poderosa ideología religiosa.Caral es la mejor representación de la arquitectura y el urbanismo del Arcaico Tardío en la antigua civilización peruana. Los montículos de plataforma, las plazas circulares hundidas y la traza urbana, que se desarrollaron durante siglos, influyeron en los asentamientos cercanos y, posteriormente, en gran parte de la costa peruana.En la Ciudad Sagrada de Caral se encuentran evidencias sobre el intercambio de bienes, conocimientos e ideología con otras sociedades que poblaron el área Norcentral del Perú, en las regiones de costa, sierra y selva. Hubo una esfera de interacción interregional entre el valle del Santa por el norte y el valle del Chillón por el sur y entre el Océano Pacífico y la Cuenca del Amazonas, en un espacio de 400 por 300 km; durante el período Formativo Inicial (antes Arcaico Tardío, 3000-1800 a. C.). Sin embargo, la forma de organización social y política de estas poblaciones y el nivel de conocimiento alcanzados trascendieron ese espacio y el tiempo; su prestigio las convirtió en modelo. La civilización Caral sentó las bases de las estructuras organizativas, y muchos de los elementos culturales creados en ella serían asumidos y continuados por otras sociedades. Al margen de la diversidad de modos de vida, culturas, lenguas y entidades políticas que existieron en los Andes Centrales, Caral estuvo presente como sustrato durante los siguientes cuatro mil años. Caral-Supe puede ser considerada como cultura matriz o madre, que inició el proceso civilizatorio cultural originario andino, que continuó hasta el Imperio Inca. El registro de información, conocido como “quipu” fue iniciado en Caral y continuó su uso a través del tiempo hasta el Imperio Inca.Dentro del Valle de Supe, la manifestación más temprana conocida de la civilización en el continente americano, Caral es el ejemplo más altamente desarrollado y complejo de asentamiento urbano dentro del período formativo de la civilización (el período Arcaico Tardío). La Ciudad Sagrada de Caral es un testimonio excepcional de la civilización Caral, la más antigua de América, desarrollada hace cinco mil años, casi simultáneamente con las de Mesopotamia, Egipto e India. Es un laboratorio único en América por su gran antigüedad,para la investigación sobre la formación del Estado; la forma de vida urbana; la diferenciación y jerarquías sociales, los roles del comercio y la importancia de la religión en la organización social.",
+  "particularidades": "Es la primera civilización de América, formada hace 5000 años. El atributo mencionado se sustenta en el libro de investigación titulado “Caral, La Civilización más Antigua de América”, escrito por la Dra. Ruth Shady Solis, en idioma español, impreso en Lima, Perú, año 2012, y cuyos derechos reservados de la publicación corresponden a la Jefatura de la Zona Arqueológica Caral - Ministerio de Cultura, en el enlace: https://www.zonacaral.gob.pe/apoyacaral/libro_caral_civilizacion_mas_antigua_america.html",
+  "estado_actual": "Muy bueno, sustentado en el Informe de estado de conservación de la Ciudad Sagrada de Caral, emitido por la Subdirección de Investigación y Conservación de Sitios Arqueológicos del Ministerio de Cultura, de fecha 23 de agosto del 2023.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "La Ciudad Sagrada de Caral está a 184 km al norte de Lima y entre 23 km y 25 km desde el litoral, en la sección Media-Baja del valle de Supe y en la margen izquierda de este río, a 365 metros sobre el nivel del mar. Fue construida en la quebrada de Chupacigarro, sobre terrazas fluviales y aluviales, entre 20 m y 30 m por encima del valle. Por la disposición de los edificios se infiere un ordenamiento del espacio construido de acuerdo a un diseño planificado de la ciudad.La Ciudad Sagrada de Caral-Supe es un sitio arqueológico de 5.000 años de antigüedad. Está emplazado en una terraza aluvial desértica que se eleva sobre el valle del río Supe. Sus orígenes se remontan al periodo Arcaico Tardío de los Andes Centrales y hacen de ella el centro de civilización más antiguo del continente americano. La ciudad, excepcionalmente bien preservada, destaca por la concepción y complejidad de sus elementos arquitectónicos y espaciales, sobre todo por las plataformas monumentales de piedra y tierra y por las plazas circulares hundidas. La Ciudad Sagrada de Caral, uno entre otros dieciocho asentamientos urbanos pertenecientes al mismo periodo, desarrollados en la misma región, presenta una arquitectura, compleja y monumental a la vez, que incluye seis grandes estructuras piramidales. La traza urbana de la ciudad y algunos de sus componentes –en particular, las estructuras piramidales y el conjunto residencial de élite– muestran claramente la existencia de funciones ceremoniales, lo que revela la presencia de una fuerte y poderosa ideología religiosa.Caral es la mejor representación de la arquitectura y el urbanismo del Arcaico Tardío en la antigua civilización peruana. Los montículos de plataforma, las plazas circulares hundidas y la traza urbana, que se desarrollaron durante siglos, influyeron en los asentamientos cercanos y, posteriormente, en gran parte de la costa peruana.En la Ciudad Sagrada de Caral se encuentran evidencias sobre el intercambio de bienes, conocimientos e ideología con otras sociedades que poblaron el área Norcentral del Perú, en las regiones de costa, sierra y selva. Hubo una esfera de interacción interregional entre el valle del Santa por el norte y el valle del Chillón por el sur y entre el Océano Pacífico y la Cuenca del Amazonas, en un espacio de 400 por 300 km; durante el período Formativo Inicial (antes Arcaico Tardío, 3000-1800 a. C.). Sin embargo, la forma de organización social y política de estas poblaciones y el nivel de conocimiento alcanzados trascendieron ese espacio y el tiempo; su prestigio las convirtió en modelo. La civilización Caral sentó las bases de las estructuras organizativas, y muchos de los elementos culturales creados en ella serían asumidos y continuados por otras sociedades. Al margen de la diversidad de modos de vida, culturas, lenguas y entidades políticas que existieron en los Andes Centrales, Caral estuvo presente como sustrato durante los siguientes cuatro mil años. Caral-Supe puede ser considerada como cultura matriz o madre, que inició el proceso civilizatorio cultural originario andino, que continuó hasta el Imperio Inca. El registro de información, conocido como “quipu” fue iniciado en Caral y continuó su uso a través del tiempo hasta el Imperio Inca.Dentro del Valle de Supe, la manifestación más temprana conocida de la civilización en el continente americano, Caral es el ejemplo más altamente desarrollado y complejo de asentamiento urbano dentro del período formativo de la civilización (el período Arcaico Tardío). La Ciudad Sagrada de Caral es un testimonio excepcional de la civilización Caral, la más antigua de América, desarrollada hace cinco mil años, casi simultáneamente con las de Mesopotamia, Egipto e India. Es un laboratorio único en América por su gran antigüedad,para la investigación sobre la formación del Estado; la forma de vida urbana; la diferenciación y jerarquías sociales, los roles del comercio y la importancia de la religión en la organización social."
+    },
+    {
+      "titulo": "Particularidades",
+      "contenido": "Es la primera civilización de América, formada hace 5000 años. El atributo mencionado se sustenta en el libro de investigación titulado “Caral, La Civilización más Antigua de América”, escrito por la Dra. Ruth Shady Solis, en idioma español, impreso en Lima, Perú, año 2012, y cuyos derechos reservados de la publicación corresponden a la Jefatura de la Zona Arqueológica Caral - Ministerio de Cultura, en el enlace: https://www.zonacaral.gob.pe/apoyacaral/libro_caral_civilizacion_mas_antigua_america.html"
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "Declarada como Patrimonio Cultural de la Humanidad, por la Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura – UNESCO y se encuentra inscrita en la Lista de Patrimonio Mundial desde el 30 de junio de 2009, lo cual se puede verificar en la página web de la UNESCO: https://whc.unesco.org/en/list/1269"
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Muy bueno, sustentado en el Informe de estado de conservación de la Ciudad Sagrada de Caral, emitido por la Subdirección de Investigación y Conservación de Sitios Arqueológicos del Ministerio de Cultura, de fecha 23 de agosto del 2023."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Nacionales\n41463\nMinisterio de Cultura / Zona Arqueológica de Caral\n2022\nElaboración: MINCETUR/VMT/DGIETA-DIAIT\nTuristas Extranjeros\n1650\nMinisterio de Cultura / Zona Arqueologica de Caral\n2022\nElaboración: MINCETUR/VMT/DGIETA-DIAIT"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nCallao/Prov. Const. Del Callao/Callao\n-\nLima/Barranca/Barranca\nAeropuerto Internacional Jorge Chavez - Plaza de Armas de Barranca\nTerrestre\nMini bus turístico\nAsfaltado\n186 km / 3 h 55 min\n1\nLima/Barranca/Barranca\n-\nLima/Barranca/Supe\nPlaza de Armas de Barranca - Km 184 carretera Panamericana Norte\nTerrestre\nMini bus turístico\nAsfaltado\n20 km / 25 min\n1\nLima/Barranca/Supe\n-\nLima/Barranca/Supe\nKm 184 carretera Panamericana Norte - Ciudad Sagrada de Caral\nTerrestre\nMini bus turístico\nAfirmado\n16.4 km / 35 min\n2\nLima/Lima/Independencia\n-\nLima/Barranca/Barranca\nTerminal Terrestre Plaza Norte - Plaza de Armas de Barranca\nTerrestre\nBus público\nAsfaltado\n160 Km / 3.5 h\n2\nLima/Barranca/Barranca\n-\nLima/Barranca/Supe\nCalle Lima cdra. 13 (A 2 cdra. Plaza de Barranca) - Km 184 carretera Panamericana Norte\nTerrestre\nCombi\nAsfaltado\n20.4 Km / 26 min\n2\nLima/Barranca/Supe\n-\nLima/Barranca/Supe\nKm 184 carretera Panamericana Nortel - Ciudad Sagrada de Caral\nTerrestre\nCombi\nAfirmado\n16 Km / 34 min"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nAdulto: S/ 11.00 - Estudiantes de Educación Superior : S/ 4.00 - Niños / Escolares : S/ 1.00 - Entrada Especial S/ 5.50 - Personas con Discapacidad S/ 5.50 - Guía Grupo hasta 9 personas S/ 20.00"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n10:00 a.m.\n-\n04:00 p.m.\nDe lunes a domingo"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nCompras de artesanía/souvenir\n--\nOtros\nToma de fotografías y filmaciones\nPrevia autorización del administrador de la Ciudad Sagrada de Caral\nPaseos\nExcursiones\n--\nOtros\nEstudios e Investigación\n--\nOtros\nRealización de eventos\n--\nNaturaleza\nObservación de paisaje\n--\nCultura y Folclore\nRituales místicos o tradicionales\nPor aniversario\nDeportes / Aventura\nCaminata/Trekking\n--\nDeportes / Aventura\nCamping\n--\nCultura y Folclore\nDegustación y preparación de platos, productos o bebidas típicas\nFines de semana/aniversario\nCultura y Folclore\nFerias\nPor aniversario\nDeportes / Aventura\nCabalgatas\n--\nCultura y Folclore\nApreciación de muestras o actividades artísticas(danza, teatro,canto, pintura, escultura, etc.)\n--\nOtros\nCompra de productos regionales\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nAlimentación\nKioskos de comida y bebidas\n--\nInstalaciones Privadas\nOtros Servicios Turísticos\nVenta de artesanía\n--\nInstalaciones Públicas\nServicios Públicos\nCentros de interpretación\n--\nInstalaciones Públicas\nServicios Públicos\nOficina de Información turística\n--\nInstalaciones Públicas\nServicios Públicos\nOtros (especificar)\nServicios higiénicos\nInstalaciones Privadas\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nInglés\nInstalaciones Públicas\nServicios Públicos\nMiradores turísticos\n--\nInstalaciones Públicas\nServicios Públicos\nEstacionamiento de vehículos\n--\nInstalaciones Públicas\nServicios Públicos\nSeñales turísticas de orientación\n--\nInstalaciones Públicas\nServicios Públicos\nSeñales turísticas de interpretación\n--\nInstalaciones Públicas\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\n--\nInstalaciones Públicas\nServicios Públicos\nCentros de interpretación\n--\nInstalaciones Públicas\nServicios Públicos\nParadores turísticos\n--\nInstalaciones Públicas\nServicios Públicos\nZonas de Campamento(camping)\n--\nInstalaciones Públicas\nServicios Públicos\nCaminos peatonales\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\n3 Estrellas / Ciudad de Barranca\nAlojamiento\nHostales (especificar categorías)\n1 a 3 Estrellas / Ciudad de Barranca\nAlimentación\nRestaurantes\n1,2 ,3 ,5 Tenedores / Ciudad de Barranca\nAlimentación\nBares\nCiudad de Barranca\nAlimentación\nCafeterías\nCiudad de Barranca\nAlimentación\nFuentes de soda\nCiudad de Barranca\nAlimentación\nKioskos de comida y bebidas\nCiudad de Barranca\nAlimentación\nVenta de comida Rápida\nCiudad de Barranca\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Barranca\nLugares de Recreación\nDiscotecas\nCiudad de Barranca\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nCiudad de Barranca\nLugares de Recreación\nJuegos Infantiles\nCiudad de Barranca\nLugares de Recreación\nCentros Deportivos\nCiudad de Barranca\nLugares de Recreación\nKaraoke\nCiudad de Barranca\nLugares de Recreación\nBares\nCiudad de Barranca\nLugares de Recreación\nCines o Teatros\nCiudad de Barranca\nAlojamiento\nApart-hoteles (especificar categorías)\n4 Estrellas / Ciudad de Barranca"
+    },
+    {
+      "titulo": "Servicios Complementarios dentro del recurso",
+      "contenido": "Servicio Complementario\nObservación\nServicios de internet\n--\nServicio de estacionamiento\n--"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Barranca\nBancos\nCiudad de Barranca\nCajero automático\nCiudad de Barranca\nCasa de cambio\nCiudad de Barranca\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Barranca\nServicio de estacionamiento\nCiudad de Barranca\nServicios de taxis\nCiudad de Barranca\nCentro de salud - tópico\nCiudad de Barranca\nSeguridad / POLTUR / Comisaría\nCiudad de Barranca\nLibrerías\nCiudad de Barranca\nBodegas o minimarkets\nCiudad de Barranca\nVenta de materiales para fotografías\nCiudad de Barranca"
+    },
+    {
+      "titulo": "Condiciones de Accesibilidad al Visitante",
+      "contenido": "Visitante\nInstalación\nActividades y/o programas\nEquipamiento\nObservación\nPersonas con discapacidad física\nSección del circuito afirmado para circulación de sillas de ruedas, andadores y coches infantiles. Área de descanso con cubiertas de sol\nCircuito para personas con discapacidad motora\n2 sillas de ruedas\n--\nNiños\nSección del circuito afirmado para circulación de coches y carriolas.Área de descanso con cubiertas de sol.Sección lúdica\nCircuito para familias con niños pequeños. Circuitos para escolares. Área de centro de interpretación y túnel de la ciencia.\nMódulos\n--\nAdulto mayor\nSección del circuito afirmado para circulación de sillas de ruedas. Área de descanso con cubiertas de sol\nCircuito para adultos mayores\n2 sillas de ruedas\n--\nJóvenes\n--\nCircuitos para universitarios. Circuitos especializados para estudiantes de CCSS, Humanidades y artes.\n--\n--\nOtros\nSección del circuito afirmado. Área de descanso con cubiertas de sol.\nCircuito para familias con mascotas\n--\nPet Friendly"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\n--\nSeñalización turística\n--\nLuz (Suministro Eléctrico)\n--\nTeléfono\n--\nSistemas de tratamiento alternativo de residuos (Biodigestor, pozo séptico, otros)\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Barranca\nTeléfono\nCiudad de Barranca\nLuz (Suministro Eléctrico)\nCiudad de Barranca\nAlcantarillado sanitario\nCiudad de Barranca\nSeñalización turística\nCiudad de Barranca"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nMinisterio de Cultura\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nPartida\nNúmero de Partida:\n80027096\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nZona Arqueológica Caral - Unidad ejecutora 003 del Ministerio de Cultura\nTiempo de administración\nDesde el año 2003"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo - Gobierno Regional de Lima\nNombre (Persona(s) responsable(s) del inventario turístico):\nJorge Luis Torres Chirito\nCargo:\nAsistente Administrativo\nCorreo:\njchiritoxx@gmail.com\nTeléfono:\n956454928\nFuentes Bibliográfica:\n1) The Lost City of Caral – Supe: A Children's Adventure into Ancient Perú (civilizations) by Ethan Braxton. Edición: Kindle, Amazon. Agosto 2023. Inglés.\n2) Urban centers of Caral Civilization: 21 years recovering history on the Social System by Ruth Shady, Marco Machacuay, Pedro Novoa, Edna Quispe, Carlos Leyva, 2017. Inglés -https://www.zonacaral.gob.pe/downloads/publicaciones/urban-centers-of-caral-civilitation-21-years-recovering-history-on-the-social-system.pdf\n3) O Mistério de Caral por Marco Rixecker y Luis Deza León. Edición: kindle, 2017. Portugués\n4) Caral: The First Civilization in the Americas: La primera civilización de América por Ruth Shady y Christopher Kleihege. Editorial USMP, abril 2010. Inglés y español\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\nPrograma de Investigación Arqueológica, conservación y puesta en valor “La Civilización Caral en los Valles de Supe y Huaura durante el Periodo formativo Inicial y Formativo Temprano”, temporada 2020.\nFecha:\n6/09/2023 13:02:57"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -10.892818284237999,
+    "longitud": -77.52322759259033
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-10.892818284237999,-77.52322759259033"
+}

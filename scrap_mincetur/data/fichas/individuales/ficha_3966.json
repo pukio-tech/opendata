@@ -1,0 +1,438 @@
+{
+  "cod_ficha": 3966,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=3966",
+  "nombre": "Cascada Santa Cruz",
+  "departamento": "San Martín",
+  "provincia": "Tocache",
+  "distrito": "NUEVO PROGRESO",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "j. Caídas de agua",
+  "subtipo": "Cascadas",
+  "jerarquia": "1",
+  "altitud": "588",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=589992",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=589992",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=589993",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=589994",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=589995"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de paisaje",
+    "Deportes / Aventura - Caminata/Trekking",
+    "Deportes / Aventura - Camping"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "Helechos, arboles maderables como el cedro, capirona, así como sangre de grado, tangarana, topa, etc",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "La cascada esta rodeada de abundante naturaleza",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Camping",
+      "observacion": "Se cuenta con espacio para acampar cerca al ingreso de la cascada",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/camping02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "San Martín/Tocache/Tocache - San Martín/Tocache/Nuevo Progreso",
+      "detalle": "Plaza de Armas Tocache - Plaza de Armas Nuevo Progreso",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Camioneta doble tracción",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "45.9 Km/ 55 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "San Martín/Tocache/Nuevo Progreso - San Martín/Tocache/Nuevo Progreso",
+      "detalle": "Plaza de Armas Nuevo Progreso - Centro poblado Santa Cruz",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Camioneta doble tracción",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "13 Km/ 15 minutos."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "San Martín/Tocache/Nuevo Progreso - San Martín/Tocache/Nuevo Progreso",
+      "detalle": "Centro poblado Santa Cruz - Centro de interpretación Cascada Santa Cruz",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Camioneta doble tracción",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "200 m / 2 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "San Martín/Tocache/Nuevo Progreso - San Martín/Tocache/Nuevo Progreso",
+      "detalle": "Centro de interpretación Cascada Santa Cruz - Cascada Santa Cruz",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Sendero",
+      "distancia_tiempo": "536 m / 15 minutos"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "9",
+      "horario": "Ficha de flujo de Visitantes del Atractivo Turístico",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "1285",
+      "horario": "Ficha de flujo de visitantes al atractivo turístico",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "1762",
+      "horario": "Ficha de flujo de visitantes del atractivo turístico",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "08:00 a.m. - 05:00 p.m. Se recomienda portar protección solar, repelente, ropa de baño y agua.",
+      "observaciones": "Se recomienda portar protección solar, repelente, ropa de baño y agua."
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "Costo de ingreso a la cascada Adultos: S/. 5.00 Niños: S/. 2.00 Estudiantes: S/. 3.00"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Lugares de picnic",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de interpretación",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Boletería",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Centros de interpretación",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de Campamento(camping)",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "3 estrellas (***) en la ciudad de Tocache"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Tocache y poblado Nuevo Progreso"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "5 tenedores en la ciudad de Tocache"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Tocache y poblado Nuevo Progreso"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Tocache y poblado Nuevo Progreso"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Ciudad de Tocache"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Ciudad de Tocache y poblado Nuevo Progreso"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de Tocache"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Tocache"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de camionetas 4 x 4",
+      "observacion": "Ciudad de Tocache"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Tocache y poblado Nuevo Progreso"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Ciudad de Tocache"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "Ciudad de Tocache y poblado Nuevo Progreso"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Tocache y poblado Nuevo Progreso"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Ciudad de Tocache"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Ciudad de Tocache y poblado Nuevo Progreso"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Lugares de picnic",
+      "observacion": "Ciudad de Tocache y centro poblado Santa Cruz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "Ciudad de Tocache y poblado Nuevo Progreso"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Ciudad de Tocache y poblado Nuevo Progreso"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "Ciudad de Tocache y poblado Nuevo Progreso"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de interpretación",
+      "observacion": "Ciudad de Tocache y poblado Nuevo Progreso"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "Ciudad de Tocache y poblado Nuevo Progreso"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Embarcaderos",
+      "observacion": "Ciudad de Tocache"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Puesto de auxilio rápido",
+      "observacion": "Ciudad de Tocache y poblado Nuevo Progreso"
+    }
+  ],
+  "descripcion": "La Cascada Santa Cruz, es un recurso natural que se localiza en el distrito de Nuevo Progreso, a 58 kilómetros al sur de la provincia de Tocache, en la región de San Martín. Esta hermosa caída de agua se encuentra en el Centro Poblado de Santa Cruz, de donde obtiene el nombre.\nAl recurso se accede mediante un sendero, desde donde se puede observar diversidad de flora, desde helechos, arboles maderables en donde se encuentran cedro, capirona, así como sangre de grado, tangarana, topa, etc.\nEn fauna podremos apreciar en ocasiones al armadillo, sajino, ronsoco, mono cola amarilla, mono choro, oso perezoso, así como una amplia variedad de mariposas, insectos y aves como loros.\nEl recurso cuenta con cuatro (04) caídas de agua, cuya mayor altura se registra en los 15 metros. La fuerte corriente precipita el agua por muros de piedra, en los que rebota formando nuevas capas de agua al descender hasta una poza de aguas turquesas de aproximadamente 2 metros de profundidad, que te invitan a sumergirte y disfrutar de sus cristalinas aguas que oscilan entre una temperatura de 20°C, las cuales brindar a los visitantes una experiencia revitalizante perfecta para alivianar el calor y conectar con la pureza de la naturaleza. La cascada se encuentra rodeada de abundante naturaleza.\nLa causa de interés turístico es la experiencia de recreación y de contemplación para renovar energías; además, desarrollar actividades de natación, toma de fotografías, apreciar el paisaje y observar la diversidad de insectos que habitan este entorno.",
+  "particularidades": "",
+  "estado_actual": "Bueno, ya que se encuentra cuidado por los pobladores del Centro Poblado Santa Cruz.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "La Cascada Santa Cruz, es un recurso natural que se localiza en el distrito de Nuevo Progreso, a 58 kilómetros al sur de la provincia de Tocache, en la región de San Martín. Esta hermosa caída de agua se encuentra en el Centro Poblado de Santa Cruz, de donde obtiene el nombre.\nAl recurso se accede mediante un sendero, desde donde se puede observar diversidad de flora, desde helechos, arboles maderables en donde se encuentran cedro, capirona, así como sangre de grado, tangarana, topa, etc.\nEn fauna podremos apreciar en ocasiones al armadillo, sajino, ronsoco, mono cola amarilla, mono choro, oso perezoso, así como una amplia variedad de mariposas, insectos y aves como loros.\nEl recurso cuenta con cuatro (04) caídas de agua, cuya mayor altura se registra en los 15 metros. La fuerte corriente precipita el agua por muros de piedra, en los que rebota formando nuevas capas de agua al descender hasta una poza de aguas turquesas de aproximadamente 2 metros de profundidad, que te invitan a sumergirte y disfrutar de sus cristalinas aguas que oscilan entre una temperatura de 20°C, las cuales brindar a los visitantes una experiencia revitalizante perfecta para alivianar el calor y conectar con la pureza de la naturaleza. La cascada se encuentra rodeada de abundante naturaleza.\nLa causa de interés turístico es la experiencia de recreación y de contemplación para renovar energías; además, desarrollar actividades de natación, toma de fotografías, apreciar el paisaje y observar la diversidad de insectos que habitan este entorno."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, ya que se encuentra cuidado por los pobladores del Centro Poblado Santa Cruz."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n9\nFicha de flujo de Visitantes del Atractivo Turístico\n2023\nFicha de flujo de visitantes de 6 meses del año 2023\nTuristas Nacionales\n1285\nFicha de flujo de visitantes al atractivo turístico\n2023\nFicha de flujo de visitantes de 6 meses del año 2023\nVisitantes Locales(Excursionistas)\n1762\nFicha de flujo de visitantes del atractivo turístico\n2023\nFicha de flujo de visitantes de 6 meses del año 2023"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nSan Martín/Tocache/Tocache\n-\nSan Martín/Tocache/Nuevo Progreso\nPlaza de Armas Tocache - Plaza de Armas Nuevo Progreso\nTerrestre\nCamioneta doble tracción\nAsfaltado\n45.9 Km/ 55 minutos\n1\nSan Martín/Tocache/Nuevo Progreso\n-\nSan Martín/Tocache/Nuevo Progreso\nPlaza de Armas Nuevo Progreso - Centro poblado Santa Cruz\nTerrestre\nCamioneta doble tracción\nAsfaltado\n13 Km/ 15 minutos.\n1\nSan Martín/Tocache/Nuevo Progreso\n-\nSan Martín/Tocache/Nuevo Progreso\nCentro poblado Santa Cruz - Centro de interpretación Cascada Santa Cruz\nTerrestre\nCamioneta doble tracción\nAfirmado\n200 m / 2 minutos\n1\nSan Martín/Tocache/Nuevo Progreso\n-\nSan Martín/Tocache/Nuevo Progreso\nCentro de interpretación Cascada Santa Cruz - Cascada Santa Cruz\nTerrestre\nA pie\nSendero\n536 m / 15 minutos"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nCosto de ingreso a la cascada\nAdultos: S/. 5.00\nNiños: S/. 2.00\nEstudiantes: S/. 3.00"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n08:00 a.m.\n-\n05:00 p.m.\nSe recomienda portar protección solar, repelente, ropa de baño y agua."
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nNaturaleza\nObservación de flora\nHelechos, arboles maderables como el cedro, capirona, así como sangre de grado, tangarana, topa, etc\nNaturaleza\nObservación de paisaje\nLa cascada esta rodeada de abundante naturaleza\nDeportes / Aventura\nCaminata/Trekking\n--\nDeportes / Aventura\nCamping\nSe cuenta con espacio para acampar cerca al ingreso de la cascada"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nAlimentación\nKioskos de comida y bebidas\n--\nInstalaciones Privadas\nLugares de Recreación\nLugares de picnic\n--\nInstalaciones Públicas\nServicios Públicos\nEstacionamiento de vehículos\n--\nInstalaciones Públicas\nServicios Públicos\nSeñales turísticas de orientación\n--\nInstalaciones Públicas\nServicios Públicos\nSeñales turísticas de interpretación\n--\nInstalaciones Públicas\nServicios Públicos\nBoletería\n--\nInstalaciones Públicas\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\n--\nInstalaciones Públicas\nServicios Públicos\nCentros de interpretación\n--\nInstalaciones Públicas\nServicios Públicos\nZonas de Campamento(camping)\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\n3 estrellas (***) en la ciudad de Tocache\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Tocache y poblado Nuevo Progreso\nAlimentación\nRestaurantes\n5 tenedores en la ciudad de Tocache\nAlimentación\nKioskos de comida y bebidas\nCiudad de Tocache y poblado Nuevo Progreso\nAlimentación\nBares\nCiudad de Tocache y poblado Nuevo Progreso\nAlimentación\nFuentes de soda\nCiudad de Tocache\nAlimentación\nVenta de comida Rápida\nCiudad de Tocache y poblado Nuevo Progreso\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de Tocache\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Tocache\nOtros Servicios Turísticos\nAlquiler de camionetas 4 x 4\nCiudad de Tocache\nLugares de Recreación\nDiscotecas\nCiudad de Tocache y poblado Nuevo Progreso\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nCiudad de Tocache\nLugares de Recreación\nKaraoke\nCiudad de Tocache y poblado Nuevo Progreso\nLugares de Recreación\nBares\nCiudad de Tocache y poblado Nuevo Progreso\nLugares de Recreación\nJuegos Infantiles\nCiudad de Tocache\nLugares de Recreación\nCentros Deportivos\nCiudad de Tocache y poblado Nuevo Progreso\nLugares de Recreación\nLugares de picnic\nCiudad de Tocache y centro poblado Santa Cruz\nServicios Públicos\nMiradores turísticos\nCiudad de Tocache y poblado Nuevo Progreso\nServicios Públicos\nEstacionamiento de vehículos\nCiudad de Tocache y poblado Nuevo Progreso\nServicios Públicos\nSeñales turísticas de orientación\nCiudad de Tocache y poblado Nuevo Progreso\nServicios Públicos\nSeñales turísticas de interpretación\nCiudad de Tocache y poblado Nuevo Progreso\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\nCiudad de Tocache y poblado Nuevo Progreso\nServicios Públicos\nEmbarcaderos\nCiudad de Tocache\nServicios Públicos\nPuesto de auxilio rápido\nCiudad de Tocache y poblado Nuevo Progreso"
+    },
+    {
+      "titulo": "Servicios Complementarios dentro del recurso",
+      "contenido": "Servicio Complementario\nObservación\nSeguridad / POLTUR / Comisaría\nCentro poblado Santa Cruz\nBodegas o minimarkets\nCentro Poblado Santa Cruz"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Tocache y poblado Nuevo Progreso\nBancos\nCiudad de Tocache y poblado Nuevo Progreso\nCajero automático\nCiudad de Tocache y poblado Nuevo Progreso\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Tocache y poblado Nuevo Progreso\nServicio de correos\nCiudad de Tocache y poblado Nuevo Progreso\nCasa de cambio\nCiudad de Tocache y poblado Nuevo Progreso\nServicio de estacionamiento\nCiudad de Tocache y poblado Nuevo Progreso\nServicios de taxis\nCiudad de Tocache y poblado Nuevo Progreso\nCentro de salud - tópico\nCiudad de Tocache y poblado Nuevo Progreso\nVenta de materiales para fotografías\nCiudad de Tocache y poblado Nuevo Progreso\nSeguridad / POLTUR / Comisaría\nCiudad de Tocache y poblado Nuevo Progreso\nAlquiler y compra de equipos deportivos\nCiudad de Tocache y poblado Nuevo Progreso\nLibrerías\nCiudad de Tocache\nBodegas o minimarkets\nCiudad de Tocache y poblado Nuevo Progreso"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nSeñalización turística\n--\nSistemas de tratamiento alternativo de residuos (Biodigestor, pozo séptico, otros)\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Tocache\nLuz (Suministro Eléctrico)\nCiudad de Tocache y poblado Nuevo Progreso\nTeléfono\nCiudad de Tocache y poblado Nuevo Progreso\nAlcantarillado pluvial\nCiudad de Tocache y poblado Nuevo Progreso\nSeñalización turística\nCiudad de Tocache y poblado Nuevo Progreso"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nAutoridad Regional Ambiental (ARA)\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nActualmente es una área de concesión para la conservación bajo la administración del ARA.\nAdministrador por\nNombre\nAutoridad Regional Ambiental\nTiempo de administración\n2014"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo de San Martín\nNombre (Persona(s) responsable(s) del inventario turístico):\nEdison Rodríguez Chupe\nCargo:\nAnalista en Turismo\nCorreo:\nedison.rodriguezchupe@gmail.com\nTeléfono:\n976 980 815\nFuentes Bibliográfica:\n- \"Inventario de recursos turísticos de la región San Martín\", Autor: DISRCETUR Tocache; Año 2006.\n- Guía de información turística \"Región San Martín\", Autor: Gobierno Regional de San Martín; Año: 2014. Página 269.\n-Zonificación Ecológica Económica de Tocache; IIAP & PRODATU; año 2006; pág: 44 - 45\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n8/04/2025 12:50:30"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -8.43868,
+    "longitud": -76.30709999999999
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-8.43868,-76.30709999999999"
+}

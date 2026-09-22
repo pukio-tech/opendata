@@ -1,0 +1,233 @@
+{
+  "cod_ficha": 8006,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=8006",
+  "nombre": "Sitio Arqueológico De Usno Moqo",
+  "departamento": "Apurímac",
+  "provincia": "Abancay",
+  "distrito": "TAMBURCO",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Sitios Arqueológicos",
+  "subtipo": "Zonas arqueológicas",
+  "jerarquia": "1",
+  "altitud": "2610",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=548884",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=548884",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=548929",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=548890",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=548891",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=548930",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=549426"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Estudios e Investigación"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Apurímac/Abancay/Abancay - Apurímac/Abancay/Tamburco",
+      "detalle": "Plaza de Armas de Abancay - Plaza de Armas de Tamburco",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Combi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "3 KM / 15 MINUTOS"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Apurímac/Abancay/Tamburco - Apurímac/Abancay/Tamburco",
+      "detalle": "Plaza de Armas de Tamburco - Sitio Arqueológico de Usno Moqo",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "50 metros / 5 minutos"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "270",
+      "horario": "Municipalidad Distrital de Tamburco",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "90",
+      "horario": "Municipalidad Distrital de Tamburco",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "09:00 a.m. - 05:00 p.m. --",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Semi-restringido(previo permiso)",
+      "observaciones": "Previa autorización de la Dirección Desconcentrada de Cultura de Apurímac"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Abancay"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Abancay"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Abancay"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de camionetas 4 x 4",
+      "observacion": "Ciudad de Abancay"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Abancay"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Ciudad de Abancay"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Abancay"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Abancay"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "Ciudad de Abancay / 1 a 3 estrellas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Apart-hoteles (especificar categorías)",
+      "observacion": "Ciudad de Abancay / 3 estrellas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "Ciudad de Abancay / 1 a 3 estrellas"
+    }
+  ],
+  "descripcion": "El Sitio Arqueológico de Usno Moqo perteneciente al periodo prehispánico, se encuentra localizado en el distrito de Tamburco, siendo parte del camino Inca, que viene desde Cusco a Vilcashuamán (Ayacucho), atravesando este recinto donde quedan los vestigios de la construcción incaica, ubicado a 50 metros de la plaza de armas del distrito en mención.\nEl recinto está conformado por tres plataformas superpuestas, que consta de una solo construcción en un terreno semi-inclinado, es un edificio piramidal, los materiales para la edificación son básicamente piedra y barro cuyas dimensiones alcanzan los 35 metros de largo, 22 metros de ancho y 8 metros de alto, y ocupa una superficie aproximadamente de 450 metros cuadrados, incluida la escalinata de ingreso. La primera plataforma o mampostería que da al Oeste, tiene un muro de contrafuerte, su construcción es de piedra canteada y algunas labradas; están unidas con mortero y barro y rellenado con piedras pequeñas.\nEn la época del Incanato cumplió una función muy importante, el de observatorio; donde necesariamente los viajeros al desplazarse lo utilizaban, como camino de tránsito obligatorio, además de ser usado para realizar ceremonias y rituales importantes en el Tahuantinsuyo.\nPor su ubicación estratégica fue utilizado por el precursor de la independencia americana, Túpac Amaru II, para detectar las incursiones de las huestes españolas a tiempo, permitiéndole organizar su ejército y enfrentarlo. Durante la colonia fue importante lugar de tránsito de mercancías entre las ciudades costeras y la sierra sureste.\nEn la actualidad, este recurso se encuentra en mal estado de conservación y no tiene definido el espacio de uso turístico, motivo por el cual, la principal causa de vista es para realizar trabajos de investigación, previa autorización de la Dirección Desconcentrada de Cultura de Apurímac.",
+  "particularidades": "",
+  "estado_actual": "Malo, requiere trabajos de restauración, delimitación del recurso turístico y puesta en valor.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "El Sitio Arqueológico de Usno Moqo perteneciente al periodo prehispánico, se encuentra localizado en el distrito de Tamburco, siendo parte del camino Inca, que viene desde Cusco a Vilcashuamán (Ayacucho), atravesando este recinto donde quedan los vestigios de la construcción incaica, ubicado a 50 metros de la plaza de armas del distrito en mención.\nEl recinto está conformado por tres plataformas superpuestas, que consta de una solo construcción en un terreno semi-inclinado, es un edificio piramidal, los materiales para la edificación son básicamente piedra y barro cuyas dimensiones alcanzan los 35 metros de largo, 22 metros de ancho y 8 metros de alto, y ocupa una superficie aproximadamente de 450 metros cuadrados, incluida la escalinata de ingreso. La primera plataforma o mampostería que da al Oeste, tiene un muro de contrafuerte, su construcción es de piedra canteada y algunas labradas; están unidas con mortero y barro y rellenado con piedras pequeñas.\nEn la época del Incanato cumplió una función muy importante, el de observatorio; donde necesariamente los viajeros al desplazarse lo utilizaban, como camino de tránsito obligatorio, además de ser usado para realizar ceremonias y rituales importantes en el Tahuantinsuyo.\nPor su ubicación estratégica fue utilizado por el precursor de la independencia americana, Túpac Amaru II, para detectar las incursiones de las huestes españolas a tiempo, permitiéndole organizar su ejército y enfrentarlo. Durante la colonia fue importante lugar de tránsito de mercancías entre las ciudades costeras y la sierra sureste.\nEn la actualidad, este recurso se encuentra en mal estado de conservación y no tiene definido el espacio de uso turístico, motivo por el cual, la principal causa de vista es para realizar trabajos de investigación, previa autorización de la Dirección Desconcentrada de Cultura de Apurímac."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "Declarada como Patrimonio Cultural de la Nación según Resolución Directoral Nacional N° 289/INC-2004"
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Malo, requiere trabajos de restauración, delimitación del recurso turístico y puesta en valor."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nVisitantes Locales(Excursionistas)\n270\nMunicipalidad Distrital de Tamburco\n2024\nCalculo de visita anual del recurso\nTuristas Nacionales\n90\nMunicipalidad Distrital de Tamburco\n2024\nCalculo de visita anual del recurso"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nApurímac/Abancay/Abancay\n-\nApurímac/Abancay/Tamburco\nPlaza de Armas de Abancay - Plaza de Armas de Tamburco\nTerrestre\nCombi\nAsfaltado\n3 KM / 15 MINUTOS\n1\nApurímac/Abancay/Tamburco\n-\nApurímac/Abancay/Tamburco\nPlaza de Armas de Tamburco - Sitio Arqueológico de Usno Moqo\nTerrestre\nA pie\nAsfaltado\n50 metros / 5 minutos"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nSemi-restringido(previo permiso)\nPrevia autorización de la Dirección Desconcentrada de Cultura de Apurímac"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n09:00 a.m.\n-\n05:00 p.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nEstudios e Investigación\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nLugares de Recreación\nDiscotecas\nCiudad de Abancay\nLugares de Recreación\nBares\nCiudad de Abancay\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Abancay\nOtros Servicios Turísticos\nAlquiler de camionetas 4 x 4\nCiudad de Abancay\nAlimentación\nRestaurantes\nCiudad de Abancay\nAlimentación\nVenta de comida Rápida\nCiudad de Abancay\nAlimentación\nCafeterías\nCiudad de Abancay\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Abancay\nAlojamiento\nHoteles (especificar categorías)\nCiudad de Abancay / 1 a 3 estrellas\nAlojamiento\nApart-hoteles (especificar categorías)\nCiudad de Abancay / 3 estrellas\nAlojamiento\nHostales (especificar categorías)\nCiudad de Abancay / 1 a 3 estrellas"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Abancay\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Abancay\nServicio de estacionamiento\nCiudad de Abancay\nServicios de taxis\nCiudad de Abancay\nCentro de salud - tópico\nCiudad de Abancay\nSeguridad / POLTUR / Comisaría\nCiudad de Abancay\nBodegas o minimarkets\nCiudad de Abancay"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Abancay\nAlcantarillado sanitario\nCiudad de Abancay\nLuz (Suministro Eléctrico)\nCiudad de Abancay\nTeléfono\nCiudad de Abancay\nSeñalización turística\nCiudad de Abancay"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nEstado Peruano\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nDeclarada como Patrimonio Cultural de la Nación según Resolución Directoral Nacional N° 289/INC-2004\nAdministrador por\nNombre\nDDC Apurímac\nTiempo de administración\nDesde el año 1960"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo de Apurímac\nNombre (Persona(s) responsable(s) del inventario turístico):\nLic. Brenda Carpio Félix\nCargo:\nEspecialista en Turismo\nCorreo:\nbrendacarpiofelix@gmail.com\nTeléfono:\n931857967\nFuentes Bibliográfica:\n- Revista Haucaypata, el Usno de Tamburco: Vínculos de una Plataforma Ceremonial Inca con el Paisaje Local en la Ruta del Chinchaysuyu. Apurímac, por José Luis Pino Matos y Wendy Moreano Montalván - 2013.\n- La Plataforma de Usno Moq´O de Abancay. Monografía inédita. Por Víctor Jesús Mansilla Aranibar. 2001.\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n11/12/2024 18:05:44"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -13.620890142659263,
+    "longitud": -72.87245392799377
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-13.620890142659263,-72.87245392799377"
+}

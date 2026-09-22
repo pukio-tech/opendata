@@ -1,0 +1,229 @@
+{
+  "cod_ficha": 5240,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=5240",
+  "nombre": "Collpa De Río Sneet Mesere",
+  "departamento": "Madre De Dios",
+  "provincia": "Tambopata",
+  "distrito": "INAMBARI",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "o. Otros",
+  "subtipo": "Collpas",
+  "jerarquia": "1",
+  "altitud": "356",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=470274",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=470274",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=470238",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=470239"
+  ],
+  "actividades_permitidas": [
+    "Otros - Estudios e Investigación",
+    "Naturaleza - Observación de fauna",
+    "Naturaleza - Observación de paisaje",
+    "Naturaleza - Observación de aves"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de fauna",
+      "observacion": "Mono aullador o cotomono, huasitas, capuchinos.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fauna02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de aves",
+      "observacion": "Loro de cabeza sucia, maracanás, tucán de garganta blanca.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/aves02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Madre De Dios/Tambopata/Tambopata - Madre De Dios/Tambopata/Inambari",
+      "detalle": "Plaza de Armas de la ciudad de Puerto Maldonado - Comunidad Nativa Arasaeri",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Taxi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "163 Km / 3 Hrs."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Madre De Dios/Tambopata/Inambari - Madre De Dios/Tambopata/Inambari",
+      "detalle": "Cominidad Nativa Arasaeri - Puerto de la Cominidad Nativa Arasaeri",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Sendero",
+      "distancia_tiempo": "800 Mts/ 15 Mins."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Madre De Dios/Tambopata/Inambari - Madre De Dios/Tambopata/Inambari",
+      "detalle": "Puerto de la Cominidad Nativa Arasaeri - Collpa de Río Sneet Mesere",
+      "tipo_acceso": "Lacustre / Fluvial",
+      "medio_transporte": "Canoa",
+      "tipo_via": "",
+      "distancia_tiempo": "400 metros/15 minutos"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "80",
+      "horario": "Informe Dircetur Madre de Dios",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "05:00 a.m. - 05:00 p.m. Especialmente temprano en las mañanas y por la tarde cerca al anochecer",
+      "observaciones": "Especialmente temprano en las mañanas y por la tarde cerca al anochecer"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Semi-restringido(previo permiso)",
+      "observaciones": "Previa coordinacion con la Comunidad Nativa de Arasaeri."
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Localidad de Mazuko"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Snacks",
+      "observacion": "Localidad de Mazuko"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Localidad de Mazuko"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de botes",
+      "observacion": "Localidad de Mazuko"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de Material para Fotografía",
+      "observacion": "Localidad de Mazuko"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Localidad de Mazuko"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de camionetas 4 x 4",
+      "observacion": "Localidad de Mazuko"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Localidad de Mazuko"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Albergues",
+      "observacion": "Localidad de Mazuko"
+    }
+  ],
+  "descripcion": "Se encuentra al pié de una montaña (barranco) a una altura de 50 metros, a la orilla de la margen derecha surcando el río Inambari, en la región natural de Selva Baja u Omagua. Posee una extensión aproximada de 30 metros de alto por 15 metros de ancho.\nEsta collpa tiene una inclinación de 80°, convirtiéndose muy accidentada e inaccesible para mamíferos terrestres pesados, por ello se puede observar diversas especies de aves como el loro de cabeza sucia (Aratinga wedelli), maracanás (Ara severa, Propyrrhura couloni) y el tucán de garganta blanca (Ramphastos tucanus); primates como el mono araña o maquisapas (Ateles paniscus) y el mono aullador o cotomono (Alouatta seniculus), así como otras especies de monos como los Huasitas (Saimiri sciureus), los capuchinos (Cebus apella), que gracias a sus extremidades y a las lianas circundantes pueden llegar hasta la pared de arcilla, y extraer las sales minerales para complementar su dieta. Asimismo, se puede observar flora entre la que destacan los árboles maderables como el aguano, shiringa, shimbillo, copaiba; palmeras como la ponilla, wasai, pijuayo, sinami, palmiche, además de observar diferentes epifitas como bromelías y orquídeas.\nDe acuerdo con su ubicación, el recurso es propicio para el desarrollo de actividades como la observación de paisaje, toma de fotografías e investigaciones.",
+  "particularidades": "",
+  "estado_actual": "Bueno, conserva sus características naturales.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Se encuentra al pié de una montaña (barranco) a una altura de 50 metros, a la orilla de la margen derecha surcando el río Inambari, en la región natural de Selva Baja u Omagua. Posee una extensión aproximada de 30 metros de alto por 15 metros de ancho.\nEsta collpa tiene una inclinación de 80°, convirtiéndose muy accidentada e inaccesible para mamíferos terrestres pesados, por ello se puede observar diversas especies de aves como el loro de cabeza sucia (Aratinga wedelli), maracanás (Ara severa, Propyrrhura couloni) y el tucán de garganta blanca (Ramphastos tucanus); primates como el mono araña o maquisapas (Ateles paniscus) y el mono aullador o cotomono (Alouatta seniculus), así como otras especies de monos como los Huasitas (Saimiri sciureus), los capuchinos (Cebus apella), que gracias a sus extremidades y a las lianas circundantes pueden llegar hasta la pared de arcilla, y extraer las sales minerales para complementar su dieta. Asimismo, se puede observar flora entre la que destacan los árboles maderables como el aguano, shiringa, shimbillo, copaiba; palmeras como la ponilla, wasai, pijuayo, sinami, palmiche, además de observar diferentes epifitas como bromelías y orquídeas.\nDe acuerdo con su ubicación, el recurso es propicio para el desarrollo de actividades como la observación de paisaje, toma de fotografías e investigaciones."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, conserva sus características naturales."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nVisitantes Locales(Excursionistas)\n80\nInforme Dircetur Madre de Dios\n2021\nEstimación de flujo de visitantes año 2021."
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nMadre De Dios/Tambopata/Tambopata\n-\nMadre De Dios/Tambopata/Inambari\nPlaza de Armas de la ciudad de Puerto Maldonado - Comunidad Nativa Arasaeri\nTerrestre\nTaxi\nAsfaltado\n163 Km / 3 Hrs.\n1\nMadre De Dios/Tambopata/Inambari\n-\nMadre De Dios/Tambopata/Inambari\nCominidad Nativa Arasaeri - Puerto de la Cominidad Nativa Arasaeri\nTerrestre\nA pie\nSendero\n800 Mts/ 15 Mins.\n1\nMadre De Dios/Tambopata/Inambari\n-\nMadre De Dios/Tambopata/Inambari\nPuerto de la Cominidad Nativa Arasaeri - Collpa de Río Sneet Mesere\nLacustre / Fluvial\nCanoa\n400 metros/15 minutos"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nSemi-restringido(previo permiso)\nPrevia coordinacion con la Comunidad Nativa de Arasaeri."
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n05:00 a.m.\n-\n05:00 p.m.\nEspecialmente temprano en las mañanas y por la tarde cerca al anochecer"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nEstudios e Investigación\n--\nNaturaleza\nObservación de fauna\nMono aullador o cotomono, huasitas, capuchinos.\nNaturaleza\nObservación de paisaje\n--\nNaturaleza\nObservación de aves\nLoro de cabeza sucia, maracanás, tucán de garganta blanca."
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlimentación\nRestaurantes\nLocalidad de Mazuko\nAlimentación\nSnacks\nLocalidad de Mazuko\nAlimentación\nKioskos de comida y bebidas\nLocalidad de Mazuko\nOtros Servicios Turísticos\nAlquiler de botes\nLocalidad de Mazuko\nOtros Servicios Turísticos\nVenta de Material para Fotografía\nLocalidad de Mazuko\nOtros Servicios Turísticos\nVenta de artesanía\nLocalidad de Mazuko\nOtros Servicios Turísticos\nAlquiler de camionetas 4 x 4\nLocalidad de Mazuko\nAlimentación\nBares\nLocalidad de Mazuko\nAlojamiento\nAlbergues\nLocalidad de Mazuko"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nLocalidad de Mazuko\nBancos\nLocalidad de Mazuko\nCajero automático\nLocalidad de Mazuko\nEstación de servicios, grifos, gasolineras y gasocentros\nLocalidad de Mazuko\nServicios de taxis\nLocalidad de Mazuko\nCentro de salud - tópico\nLocalidad de Mazuko\nSeguridad / POLTUR / Comisaría\nLocalidad de Mazuko\nBodegas o minimarkets\nLocalidad de Mazuko"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nLocalidad de Mazuko\nDesagüe\nLocalidad de Mazuko\nLuz (Suministro Eléctrico)\nLocalidad de Mazuko\nTeléfono\nLocalidad de Mazuko\nSeñalización turística\nLocalidad de Mazuko\nAlcantarillado sanitario\nLocalidad de Mazuko\nAlternativo de Residuos (Biodigestor, pozo séptico, otros)\nLocalidad de Mazuko"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\n--\nPrivado:\nComunidad Nativa de Arasaeri.\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nLey de Comunidades Nativas y de Desarrollo Agrario de las Regiones de Selva y Ceja de Selva Decreto Ley Nº 22175.\nAdministrador por\nNombre\nComunidad Nativa de Arasaeri.\nTiempo de administración\nDesde el año 1992."
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo - Madre de Dios.\nNombre (Persona(s) responsable(s) del inventario turístico):\nRosa Milagros Delgado Huaytalla.\nCargo:\nTécnico en Producto Turístico.\nCorreo:\nrmilagrosd@gmail.com\nTeléfono:\n953458376\nFuentes Bibliográfica:\n\"Desarrollo Del Ecoturismo Rural En Las Comunidades Del Bajo Madre De Dios\" DIRCETUR - Gobierno Regional de Madre de Dios. Año 2010.\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n14/12/2022"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -13.025861398692706,
+    "longitud": -70.35457849502563
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-13.025861398692706,-70.35457849502563"
+}

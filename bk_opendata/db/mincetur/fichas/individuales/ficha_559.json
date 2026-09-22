@@ -1,0 +1,348 @@
+{
+  "cod_ficha": 559,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=559",
+  "nombre": "Quebrada Los Cedros",
+  "departamento": "Áncash",
+  "provincia": "Huaylas",
+  "distrito": "SANTA CRUZ",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "d. Quebradas",
+  "subtipo": "Quebradas",
+  "jerarquia": "2",
+  "altitud": "4650",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=468708",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=468708",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=472743",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=472744",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=472745",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=472746",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=472747"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Naturaleza - Observación de fauna",
+    "Naturaleza - Observación de paisaje",
+    "Naturaleza - Observación de aves",
+    "Deportes / Aventura - Caminata/Trekking",
+    "Deportes / Aventura - Camping"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de fauna",
+      "observacion": "Venados, vizcachas y zorros.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fauna02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de aves",
+      "observacion": "Cóndor y pato silvestres",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/aves02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Camping",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/camping02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Áncash/Huaylas/Caraz - Áncash/Huaylas/Huallanca",
+      "detalle": "Plaza de armas de Caraz - Cruce Colcas Carretera Caraz - Huallanca",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "10km/20min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Áncash/Huaylas/Santa Cruz - Áncash/Huaylas/Santa Cruz",
+      "detalle": "Cruce Colcas Carretera Caraz - Huallanca - Caserio Hualcayán",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "18 km/1Hora"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Áncash/Huaylas/Santa Cruz - Áncash/Huaylas/Santa Cruz",
+      "detalle": "Caserío de Hualcayán - Ingreso a la Quebrada los Cedros",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Sendero",
+      "distancia_tiempo": "2 Km. / 30 min."
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "5223",
+      "horario": "Parque Nacional Huascarán",
+      "observaciones": "2019"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "1815",
+      "horario": "Parque Nacional Huascarán",
+      "observaciones": "2019"
+    },
+    {
+      "epoca": "Esporádicamente - Algunos meses",
+      "especificacion": "--",
+      "horario": "05:00 a.m. - 04:00 p.m. Es recomendable visitar en la temporada de estiaje, entre los meses de mayo a septiembre.",
+      "observaciones": "Es recomendable visitar en la temporada de estiaje, entre los meses de mayo a septiembre."
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "S/ 65.00 extranjeros y S/ 30.00 nacionales."
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de interpretación",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos de herradura (caballo)",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de Caballos",
+      "observacion": "Caserío de Hualcayán"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Lugares de picnic",
+      "observacion": "Caserío de Hualcayán"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Caraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de Caraz y Caserío de Hualcayán"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Caserío de Hualcayán"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Caserío de Hualcayán"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Caserío de Hualcayán"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "1 y 2 estrellas - Ciudad de Caraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "1, 2 y 3 estrellas - Ciudad de Caraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Albergues",
+      "observacion": "Ciudad de Caraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Caraz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Caserío de Hualcayán"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "Caserío de Hualcayán"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de interpretación",
+      "observacion": "Caserío de Hualcayán"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Boletería",
+      "observacion": "Caserío de Hualcayán"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de Campamento(camping)",
+      "observacion": "Caserío de Hualcayán"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Puesto de auxilio rápido",
+      "observacion": "Ciudad de Caraz"
+    }
+  ],
+  "descripcion": "Ubicado al Noreste de la ciudad de Caraz, distrito de Santa Cruz, centro poblado de Hualcayán, dentro del Parque Nacional Huascarán, en la región natural Puna. La quebrada representa la línea divisoria entre los distritos de Santa Cruz y Yuracmarca, ambos pertenecientes a la provincia de Huaylas; tiene una longitud de 13 km aproximadamente y su acceso es por la parte alta de la quebrada, por la forma de su superficie es óptimo para desarrollar actividades turísticas como: caminata, camping, observación de paisajes y tomas fotográficas, cuyo recorrido dura 6 horas aproximadamente, en el cual el visitante puede apreciar gran parte de la Cordillera Negra y la cadena Milluaraju que cierra la Cordillera Blanca; además en la quebrada se puede apreciar gran variedad de flora y fauna alta andina que le da una coloración verde oscuro, con paredes rocosas empinadas que son paraje del majestuoso cóndor andino, venados, vizcachas y zorros.\nLa quebrada es un recurso turístico complementario, ya que a lo largo de su extensión alberga recursos turísticos principales tales como la impresionante laguna Cullicocha, las faldas del gigantesco nevado Santa Cruz (6 59 msnm.), Yanacocha, Azulcocha y Alto Alpamayo; además de varios niveles de andenes que son aprovechadas por los agricultores locales y una amplia área donde se aprecia chullpas en formas cilíndricas y rectangulares sobre los andenes. El recurso turístico es el acceso más frecuente para los montañistas que ascienden el Nevado Alpamayo y hacen el circuito turístico de trekking Los Cedros – Alpamayo – Santa Cruz.",
+  "particularidades": "",
+  "estado_actual": "Bueno, porque no supera su capacidad de carga y es administrado por el Parque Nacional Huascarán.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Ubicado al Noreste de la ciudad de Caraz, distrito de Santa Cruz, centro poblado de Hualcayán, dentro del Parque Nacional Huascarán, en la región natural Puna. La quebrada representa la línea divisoria entre los distritos de Santa Cruz y Yuracmarca, ambos pertenecientes a la provincia de Huaylas; tiene una longitud de 13 km aproximadamente y su acceso es por la parte alta de la quebrada, por la forma de su superficie es óptimo para desarrollar actividades turísticas como: caminata, camping, observación de paisajes y tomas fotográficas, cuyo recorrido dura 6 horas aproximadamente, en el cual el visitante puede apreciar gran parte de la Cordillera Negra y la cadena Milluaraju que cierra la Cordillera Blanca; además en la quebrada se puede apreciar gran variedad de flora y fauna alta andina que le da una coloración verde oscuro, con paredes rocosas empinadas que son paraje del majestuoso cóndor andino, venados, vizcachas y zorros.\nLa quebrada es un recurso turístico complementario, ya que a lo largo de su extensión alberga recursos turísticos principales tales como la impresionante laguna Cullicocha, las faldas del gigantesco nevado Santa Cruz (6 59 msnm.), Yanacocha, Azulcocha y Alto Alpamayo; además de varios niveles de andenes que son aprovechadas por los agricultores locales y una amplia área donde se aprecia chullpas en formas cilíndricas y rectangulares sobre los andenes. El recurso turístico es el acceso más frecuente para los montañistas que ascienden el Nevado Alpamayo y hacen el circuito turístico de trekking Los Cedros – Alpamayo – Santa Cruz."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "Se encuentra dentro del Parque Nacional Huascarán, el cual fue declarado por la UNESCO como Reserva de Biosfera en 1977 y patrimonio Natural de la Humanidad en 1985"
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, porque no supera su capacidad de carga y es administrado por el Parque Nacional Huascarán."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n5223\nParque Nacional Huascarán\n2019\nTuristas Nacionales\n1815\nParque Nacional Huascarán\n2019"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nÁncash/Huaylas/Caraz\n-\nÁncash/Huaylas/Huallanca\nPlaza de armas de Caraz - Cruce Colcas Carretera Caraz - Huallanca\nTerrestre\nAutomóvil particular\nAsfaltado\n10km/20min\n1\nÁncash/Huaylas/Santa Cruz\n-\nÁncash/Huaylas/Santa Cruz\nCruce Colcas Carretera Caraz - Huallanca - Caserio Hualcayán\nTerrestre\nAutomóvil particular\nAfirmado\n18 km/1Hora\n1\nÁncash/Huaylas/Santa Cruz\n-\nÁncash/Huaylas/Santa Cruz\nCaserío de Hualcayán - Ingreso a la Quebrada los Cedros\nTerrestre\nA pie\nSendero\n2 Km. / 30 min."
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nS/ 65.00 extranjeros y S/ 30.00 nacionales."
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nEsporádicamente - Algunos meses\n--\n05:00 a.m.\n-\n04:00 p.m.\nEs recomendable visitar en la temporada de estiaje, entre los meses de mayo a septiembre."
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nNaturaleza\nObservación de fauna\nVenados, vizcachas y zorros.\nNaturaleza\nObservación de paisaje\n--\nNaturaleza\nObservación de aves\nCóndor y pato silvestres\nDeportes / Aventura\nCaminata/Trekking\n--\nDeportes / Aventura\nCamping\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Públicas\nServicios Públicos\nMiradores turísticos\n--\nInstalaciones Públicas\nServicios Públicos\nSeñales turísticas de orientación\n--\nInstalaciones Públicas\nServicios Públicos\nSeñales turísticas de interpretación\n--\nInstalaciones Públicas\nServicios Públicos\nCaminos de herradura (caballo)\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nOtros Servicios Turísticos\nAlquiler de Caballos\nCaserío de Hualcayán\nLugares de Recreación\nLugares de picnic\nCaserío de Hualcayán\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Caraz\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de Caraz y Caserío de Hualcayán\nAlimentación\nRestaurantes\nCaserío de Hualcayán\nAlimentación\nFuentes de soda\nCaserío de Hualcayán\nAlimentación\nKioskos de comida y bebidas\nCaserío de Hualcayán\nAlojamiento\nHoteles (especificar categorías)\n1 y 2 estrellas - Ciudad de Caraz\nAlojamiento\nHostales (especificar categorías)\n1, 2 y 3 estrellas - Ciudad de Caraz\nAlojamiento\nAlbergues\nCiudad de Caraz\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Caraz\nServicios Públicos\nEstacionamiento de vehículos\nCaserío de Hualcayán\nServicios Públicos\nSeñales turísticas de orientación\nCaserío de Hualcayán\nServicios Públicos\nSeñales turísticas de interpretación\nCaserío de Hualcayán\nServicios Públicos\nBoletería\nCaserío de Hualcayán\nServicios Públicos\nZonas de Campamento(camping)\nCaserío de Hualcayán\nServicios Públicos\nPuesto de auxilio rápido\nCiudad de Caraz"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCaserío de Hualcayán, cobertura de telefonía móvil.\nCajero automático\nCiudad de Caraz\nBancos\nCiudad de Caraz\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Caraz\nServicio de estacionamiento\nCaserío de Hualcayán\nServicios de taxis\nCiudad de Caraz\nSeguridad / POLTUR / Comisaría\nCiudad de Caraz\nServicios de salvavidas\nCiudad de Caraz\nAlquiler y compra de equipos deportivos\nCiudad de Caraz\nLibrerías\nCiudad de Caraz"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nSeñalización turística\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCaserío de Hualcayán\nLuz (Suministro Eléctrico)\nEn el caserío de Hualcayán\nTeléfono\nCaserío de Hualcayán, cobertura de telefonía móvil.\nSeñalización turística\nCaserío de Hualcayán"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nParque Nacional Huascarán\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nCertificado Literal de Predio\nNúmero de Partida:\n11300446\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nParque Nacional Huascarán\nTiempo de administración\nDesde el 01 de julio 1975"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo - Áncash\nNombre (Persona(s) responsable(s) del inventario turístico):\nLic. Yessenia Patricia Camones Trejo\nCargo:\nAuxiliar administrativo\nCorreo:\nPatriciaturism@gmail.com\nTeléfono:\n937082574\nFuentes Bibliográfica:\nINAIGEM, avaluación de las cuencas, Cordillera Blanca-2019\nhttps://highsummitperu.com/es/caminata-cedros-alpamayo/\nhttps://www.turismoperuano.com/quebrada-los-cedros-ancash\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n17/12/2022"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -8.828055555555556,
+    "longitud": -77.72805555555556
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-8.828055555555556,-77.72805555555556"
+}

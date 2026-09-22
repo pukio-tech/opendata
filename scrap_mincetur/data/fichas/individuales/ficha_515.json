@@ -1,0 +1,382 @@
+{
+  "cod_ficha": 515,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=515",
+  "nombre": "Playa Ite-Inglesa",
+  "departamento": "Tacna",
+  "provincia": "Jorge Basadre",
+  "distrito": "ITE",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "l. Costas",
+  "subtipo": "Playas",
+  "jerarquia": "1",
+  "altitud": "6",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=483395",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=483395",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=483396",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=483335",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=483458"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Paseos - Excursiones",
+    "Otros - Estudios e Investigación",
+    "Naturaleza - Observación de fauna",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de paisaje",
+    "Naturaleza - Observación de aves",
+    "Deportes / Aventura - Caminata/Trekking",
+    "Deportes / Aventura - Camping"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Paseos",
+      "tipo": "Excursiones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/excursiones02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de fauna",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fauna02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "Alga Roja",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de aves",
+      "observacion": "Garzas blancas, las golondrinas, los patos colorados, la garza bueyera, los aguiluchos de pecho negro, el flamenco chileno, entre otras",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/aves02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Camping",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/camping02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Tacna/Tacna/Tacna - Tacna/Jorge Basadre/Ite",
+      "detalle": "Paseo Cívico de Tacna - Centro Recreacional de Ite",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "101 km. / 1 h. 30 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Tacna/Jorge Basadre/Ite - Tacna/Jorge Basadre/Ite",
+      "detalle": "Centro Recreacional de Ite - Playa Ite Inglesa",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "3 km / 40 min."
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "50",
+      "horario": "Municipalidad Disrital de Ite",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "07:00 a.m. - 05:00 p.m. --",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Casa de Hospedaje",
+      "observacion": "Pueblo de Ite"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Pueblo de Ite"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Pueblo de Ite"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicios Higiénicos",
+      "observacion": "Pueblo de Ite"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Tópico",
+      "observacion": "Pueblo de Ite"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Tacna"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Peñas",
+      "observacion": "Ciudad de Tacna"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos de casino y/o tragamonedas",
+      "observacion": "Ciudad de Tacna"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Pueblo de Ite"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Karaoke",
+      "observacion": "Ciudad de Tacna"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Pueblo de Ite"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Tacna"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Agencia de Viajes",
+      "observacion": "Ciudad de Tacna"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Servicio de Guiado. Idioma",
+      "observacion": "Ciudad de Tacna"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de camionetas 4 x 4",
+      "observacion": "Ciudad de Tacna"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "Pueblo de Ite"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Pueblo de Ite"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "Ciudad de Tacna"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de muestras artesanales, souvenirs, otros",
+      "observacion": "Ciudad de Tacna"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Ciudad de Tacna"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos peatonales",
+      "observacion": "Pueblo de Ite"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Caminos de herradura (caballo)",
+      "observacion": "Pueblo de Ite"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Puesto de auxilio rápido",
+      "observacion": "Pueblo de Ite"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Museo de Sitio Turísticos",
+      "observacion": "Ciudad de Tacna"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "1,2,3,4****Ciudad de Tacna"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "1,2,3***Ciudad de Tacna"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "CPM Boca del Río"
+    }
+  ],
+  "descripcion": "Se encuentra en la región natural Costa o Chala, a 3 km. del Centro Recreacional de Ite y 90 km de la ciudad de Tacna por la ruta costanera Tacna - Ite - Ilo. También es conocido como Playa Inglesa, ya que se convirtió en el único punto de desembarque de naves inglesas en los años de 1750 a 1850. Se trata de una amplia playa de arena clara y fina, de aguas tranquilas y de profundidad media, con una excelente vista que se extiende a lo largo de 6 km. Se compone de tres entradas con extremos rocosos que a su vez configuran tres secciones de playa: La primera y más grande, Playa Inglesa, va desde la Quebrada Dispensilla hasta la desembocadura del Río Locumba. El área media se extiende desde la desembocadura del Río Locumba hasta una saliente rocosa conocida con el nombre de Punta Brava. La tercera se encuentra entre Punta Brava y Punta Meca Grande. La temperatura del mar oscila entre 14 °C y 18 ° C, y su clima es templado. En toda la zona se puede ver lagunillas y cuerpos de agua rodeados de totorales, además de aves como garzas blancas, parihuanas o flamencos, playeros y chorlos.\nEl mar de estas playas es tranquilo, pero entre las estaciones de otoño e invierno se muestra muy agitado, con olas que se estrellan contra el roquedal. En la actualidad, en la zona de Ite se pueden apreciar lagunillas y cuerpos de agua rodeados de totorales, los cuales sirven como hábitat para garzas, parihuanas y otras especies.",
+  "particularidades": "",
+  "estado_actual": "Regular, debido a que la administración responsable no brinda un adecuado mantenimiento.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Se encuentra en la región natural Costa o Chala, a 3 km. del Centro Recreacional de Ite y 90 km de la ciudad de Tacna por la ruta costanera Tacna - Ite - Ilo. También es conocido como Playa Inglesa, ya que se convirtió en el único punto de desembarque de naves inglesas en los años de 1750 a 1850. Se trata de una amplia playa de arena clara y fina, de aguas tranquilas y de profundidad media, con una excelente vista que se extiende a lo largo de 6 km. Se compone de tres entradas con extremos rocosos que a su vez configuran tres secciones de playa: La primera y más grande, Playa Inglesa, va desde la Quebrada Dispensilla hasta la desembocadura del Río Locumba. El área media se extiende desde la desembocadura del Río Locumba hasta una saliente rocosa conocida con el nombre de Punta Brava. La tercera se encuentra entre Punta Brava y Punta Meca Grande. La temperatura del mar oscila entre 14 °C y 18 ° C, y su clima es templado. En toda la zona se puede ver lagunillas y cuerpos de agua rodeados de totorales, además de aves como garzas blancas, parihuanas o flamencos, playeros y chorlos.\nEl mar de estas playas es tranquilo, pero entre las estaciones de otoño e invierno se muestra muy agitado, con olas que se estrellan contra el roquedal. En la actualidad, en la zona de Ite se pueden apreciar lagunillas y cuerpos de agua rodeados de totorales, los cuales sirven como hábitat para garzas, parihuanas y otras especies."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Regular, debido a que la administración responsable no brinda un adecuado mantenimiento."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nVisitantes Locales(Excursionistas)\n50\nMunicipalidad Disrital de Ite\n2022\nValidado por la DIRCETUR TACNA"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nTacna/Tacna/Tacna\n-\nTacna/Jorge Basadre/Ite\nPaseo Cívico de Tacna - Centro Recreacional de Ite\nTerrestre\nAutomóvil particular\nAsfaltado\n101 km. / 1 h. 30 min.\n1\nTacna/Jorge Basadre/Ite\n-\nTacna/Jorge Basadre/Ite\nCentro Recreacional de Ite - Playa Ite Inglesa\nTerrestre\nAutomóvil particular\nAfirmado\n3 km / 40 min."
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n07:00 a.m.\n-\n05:00 p.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nPaseos\nExcursiones\n--\nOtros\nEstudios e Investigación\n--\nNaturaleza\nObservación de fauna\n--\nNaturaleza\nObservación de flora\nAlga Roja\nNaturaleza\nObservación de paisaje\n--\nNaturaleza\nObservación de aves\nGarzas blancas, las golondrinas, los patos colorados, la garza bueyera, los aguiluchos de pecho negro, el flamenco chileno, entre otras\nDeportes / Aventura\nCaminata/Trekking\n--\nDeportes / Aventura\nCamping\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nCasa de Hospedaje\nPueblo de Ite\nAlimentación\nRestaurantes\nPueblo de Ite\nAlimentación\nKioskos de comida y bebidas\nPueblo de Ite\nOtros Servicios Turísticos\nServicios Higiénicos\nPueblo de Ite\nOtros Servicios Turísticos\nTópico\nPueblo de Ite\nLugares de Recreación\nDiscotecas\nCiudad de Tacna\nLugares de Recreación\nPeñas\nCiudad de Tacna\nLugares de Recreación\nJuegos de casino y/o tragamonedas\nCiudad de Tacna\nLugares de Recreación\nCentros Deportivos\nPueblo de Ite\nLugares de Recreación\nKaraoke\nCiudad de Tacna\nLugares de Recreación\nBares\nPueblo de Ite\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Tacna\nOtros Servicios Turísticos\nAgencia de Viajes\nCiudad de Tacna\nOtros Servicios Turísticos\nServicio de Guiado. Idioma\nCiudad de Tacna\nOtros Servicios Turísticos\nAlquiler de camionetas 4 x 4\nCiudad de Tacna\nServicios Públicos\nMiradores turísticos\nPueblo de Ite\nServicios Públicos\nEstacionamiento de vehículos\nPueblo de Ite\nServicios Públicos\nSeñales turísticas de orientación\nCiudad de Tacna\nServicios Públicos\nZonas de muestras artesanales, souvenirs, otros\nCiudad de Tacna\nServicios Públicos\nOficina de Información turística\nCiudad de Tacna\nServicios Públicos\nCaminos peatonales\nPueblo de Ite\nServicios Públicos\nCaminos de herradura (caballo)\nPueblo de Ite\nServicios Públicos\nPuesto de auxilio rápido\nPueblo de Ite\nServicios Públicos\nMuseo de Sitio Turísticos\nCiudad de Tacna\nAlojamiento\nHoteles (especificar categorías)\n1,2,3,4****Ciudad de Tacna\nAlojamiento\nHostales (especificar categorías)\n1,2,3***Ciudad de Tacna\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCPM Boca del Río"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nPueblo de Ite\nBancos\nCiudad de Tacna\nCajero automático\nCiudad de Tacna\nCasa de cambio\nCiudad de Tacna\nEstación de servicios, grifos, gasolineras y gasocentros\nPueblo de Ite\nServicio de correos\nCiudad de Tacna\nCentro de salud - tópico\nPueblo de Ite\nSeguridad / POLTUR / Comisaría\nPueblo de Ite\nVenta de materiales para fotografías\nCiudad de Tacna\nAlquiler y compra de equipos deportivos\nCiudd de Tacna\nLibrerías\nCiudad de Tacna\nBodegas o minimarkets\nPueblo de Ite"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nPueblo de Ite\nTeléfono\nPueblo de Ite\nSeñalización turística\nPueblo de Ite"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nSuperintendencia de Bienes Nacionales\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nLey N° 26856 D.S. N° 050-2006-EF - Línea de Alta Marea no Determinada\nAdministrador por\nNombre\nSouthern Perú Copper Corporation\nTiempo de administración\nDesde el año 1952"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo de Tacna\nNombre (Persona(s) responsable(s) del inventario turístico):\nMarlene Ordoñez Palacios\nCargo:\nTécnico en Turismo\nCorreo:\nmarleneordonez754@gmail.com machi_14febrero@hotmil.com\nTeléfono:\n952994757\nFuentes Bibliográfica:\nLa Región del Colesuyo - María Rostrorowsky Fichas Inventario Patrimonio Turístico Tacna-1997.\nJhonson K. Vizcarra, Nataly Hidalgo y Elisban Chino. Adiciones a la avifauna de los Humedales\nde Ite, costa sur de Perú. Rev. peru. biol. 16(2): 221 - 225 (diciembre 2009), Facultad de Ciencias\nBiológicas UNMSM.\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n15/05/2023 11:22:50"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -17.89880519149986,
+    "longitud": -70.9948078306885
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-17.89880519149986,-70.9948078306885"
+}

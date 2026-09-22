@@ -1,0 +1,302 @@
+{
+  "cod_ficha": 8035,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=8035",
+  "nombre": "Laguna Auquiscocha",
+  "departamento": "Áncash",
+  "provincia": "Carhuaz",
+  "distrito": "SHILLA",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "g. Cuerpo de Agua",
+  "subtipo": "Lagunas",
+  "jerarquia": "2",
+  "altitud": "4311",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=297471",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=297471",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=470825",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=470867",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=474359",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=474299",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=474360",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=474300",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=474361",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=474301",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=474362"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Naturaleza - Observación de flora",
+    "Deportes / Aventura - Caminata/Trekking",
+    "Deportes / Aventura - Camping"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "Quisuar, bosque de pinos, queñueles en sus 4 variedades",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "Ascenso a la Laguna",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Camping",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/camping02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Áncash/Carhuaz/Carhuaz - Áncash/Carhuaz/Shilla",
+      "detalle": "Plaza de armas de la ciudad de Carhuaz - Km 19 Carretera Carhuaz Chacas.",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "19 Km. /40 min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Áncash/Carhuaz/Shilla - Áncash/Carhuaz/Shilla",
+      "detalle": "Km 19 Carretera Carhuaz Chacas - Pampas de Tiendayoc",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "2km/ 10 min."
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Áncash/Carhuaz/Shilla - Áncash/Carhuaz/Shilla",
+      "detalle": "Pampas de Tiendayoc - Laguna Auquiscocha",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Sendero",
+      "distancia_tiempo": "4.6 km/ 3 h."
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "1034",
+      "horario": "Cuadro de consolidado de arribos",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "1052",
+      "horario": "Cuadro de consolidado de arribos",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "104",
+      "horario": "Cuadro de consolidado de arribos",
+      "observaciones": "2021"
+    },
+    {
+      "epoca": "Esporádicamente - Algunos meses",
+      "especificacion": "--",
+      "horario": "07:00 a.m. - 04:30 p.m. Época seca, ausencia de lluvias, abril - setiembre",
+      "observaciones": "Época seca, ausencia de lluvias, abril - setiembre"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "Durante el ascenso y en la Laguna"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "1* estrellas en la ciudad de Carhuaz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "2* estrellas en la ciudad de Carhuaz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Casa Hospedaje en la ciudad de Carhuaz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Carhuaz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Carhuaz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Cafeterías",
+      "observacion": "Ciudad de Carhuaz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Ciudad de Carhuaz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Carhuaz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Carhuaz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Carhuaz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Agencia de Viajes, en la ciudad de Carhuaz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Otros (Especificar)",
+      "observacion": "Venta de material informativo, en la ciudad de Carhuaz"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "En el ascenso y la Laguna."
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Ciudad de Carhuaz"
+    }
+  ],
+  "descripcion": "Ubicada en dirección noreste de la ciudad de Carhuaz, en la región natural Puna, formada por aguas provenientes de la laguna Chequiacocha y el deshielo de los nevados que lo circundan. La superficie aproximada del espejo de agua es de 787 328 m², con un largo máximo de, 1443.92 metros y ancho máximo de 657.60 metros de color verde oscuro debido a la presencia de microorganismos que cambian de tonalidad de acuerdo a la influencia de los rayos solares durante el día; la temperatura de sus aguas es inferior a los 8¿°C.\nEl agua que desborda la laguna a través de un dique, ha calado la roca maciza formando toboganes y zigzagueantes corridos de agua y metros abajo se precipita en un despeñadero de 35 mt de alto formando una cascada impresionante, haciéndole único paraje natural con características excepcionales.\nEstá rodeada de flora alto andina como quenuales, ichu y flores silvestres; y fauna como patos silvestres, y vizcachas. Desde el lugar se alcanza observar hacia el Este al nevado Chequiaraju 5286 msnm, al Sur Este el nevado Hualcán 6122 msnm y hacia el Oeste la Cordillera Negra.\nLugar ideal para los amantes de la naturaleza, la excursión dura un día, sin embargo, puede seguir el recorrido por la quebrada y salir a la laguna 513 y retornar por la quebrada de shongilpampa.",
+  "particularidades": "",
+  "estado_actual": "La Laguna se encuentra en buen estado de conservación y mantiene su belleza paisajística.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Ubicada en dirección noreste de la ciudad de Carhuaz, en la región natural Puna, formada por aguas provenientes de la laguna Chequiacocha y el deshielo de los nevados que lo circundan. La superficie aproximada del espejo de agua es de 787 328 m², con un largo máximo de, 1443.92 metros y ancho máximo de 657.60 metros de color verde oscuro debido a la presencia de microorganismos que cambian de tonalidad de acuerdo a la influencia de los rayos solares durante el día; la temperatura de sus aguas es inferior a los 8¿°C.\nEl agua que desborda la laguna a través de un dique, ha calado la roca maciza formando toboganes y zigzagueantes corridos de agua y metros abajo se precipita en un despeñadero de 35 mt de alto formando una cascada impresionante, haciéndole único paraje natural con características excepcionales.\nEstá rodeada de flora alto andina como quenuales, ichu y flores silvestres; y fauna como patos silvestres, y vizcachas. Desde el lugar se alcanza observar hacia el Este al nevado Chequiaraju 5286 msnm, al Sur Este el nevado Hualcán 6122 msnm y hacia el Oeste la Cordillera Negra.\nLugar ideal para los amantes de la naturaleza, la excursión dura un día, sin embargo, puede seguir el recorrido por la quebrada y salir a la laguna 513 y retornar por la quebrada de shongilpampa."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "Se encuentra dentro del Parque Nacional Huascarán, el cual fue declarado por la UNESCO Reserva de Biosfera en 1977 y Patrimonio Natural de la Humanidad en 1985."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "La Laguna se encuentra en buen estado de conservación y mantiene su belleza paisajística."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Extranjeros\n1034\nCuadro de consolidado de arribos\n2021\nCantidad total de ingreso al PNH, puesto que el control es por zonas más no por recurso o atractivo\nTuristas Nacionales\n1052\nCuadro de consolidado de arribos\n2021\nCantidad total de ingreso al PNH, puesto que el control es por zonas más no por recurso o atractivo\nVisitantes Locales(Excursionistas)\n104\nCuadro de consolidado de arribos\n2021\nCantidad total de ingreso al PNH, puesto que el control es por zonas más no por recurso o atractivo"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nÁncash/Carhuaz/Carhuaz\n-\nÁncash/Carhuaz/Shilla\nPlaza de armas de la ciudad de Carhuaz - Km 19 Carretera Carhuaz Chacas.\nTerrestre\nAutomóvil particular\nAsfaltado\n19 Km. /40 min\n1\nÁncash/Carhuaz/Shilla\n-\nÁncash/Carhuaz/Shilla\nKm 19 Carretera Carhuaz Chacas - Pampas de Tiendayoc\nTerrestre\nAutomóvil particular\nTrocha carrozable\n2km/ 10 min.\n1\nÁncash/Carhuaz/Shilla\n-\nÁncash/Carhuaz/Shilla\nPampas de Tiendayoc - Laguna Auquiscocha\nTerrestre\nA pie\nSendero\n4.6 km/ 3 h."
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nEsporádicamente - Algunos meses\n--\n07:00 a.m.\n-\n04:30 p.m.\nÉpoca seca, ausencia de lluvias, abril - setiembre"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nNaturaleza\nObservación de flora\nQuisuar, bosque de pinos, queñueles en sus 4 variedades\nDeportes / Aventura\nCaminata/Trekking\nAscenso a la Laguna\nDeportes / Aventura\nCamping\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Públicas\nServicios Públicos\nSeñales turísticas de orientación\nDurante el ascenso y en la Laguna"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\n1* estrellas en la ciudad de Carhuaz\nAlojamiento\nHostales (especificar categorías)\n2* estrellas en la ciudad de Carhuaz\nAlojamiento\nOtros (Especificar)\nCasa Hospedaje en la ciudad de Carhuaz\nAlimentación\nRestaurantes\nCiudad de Carhuaz\nAlimentación\nBares\nCiudad de Carhuaz\nAlimentación\nCafeterías\nCiudad de Carhuaz\nAlimentación\nFuentes de soda\nCiudad de Carhuaz\nAlimentación\nKioskos de comida y bebidas\nCiudad de Carhuaz\nLugares de Recreación\nDiscotecas\nCiudad de Carhuaz\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Carhuaz\nOtros Servicios Turísticos\nOtros (Especificar)\nAgencia de Viajes, en la ciudad de Carhuaz\nOtros Servicios Turísticos\nOtros (Especificar)\nVenta de material informativo, en la ciudad de Carhuaz\nServicios Públicos\nSeñales turísticas de orientación\nEn el ascenso y la Laguna.\nServicios Públicos\nOficina de Información turística\nCiudad de Carhuaz"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Carhuaz\nBancos\nCiudad de Carhuaz\nCajero automático\nCiudad de Carhuaz\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Carhuaz\nServicio de estacionamiento\nCiudad de Carhuaz\nServicios de taxis\nCiudad de Carhuaz\nCentro de salud - tópico\nCiudad de Carhuaz\nSeguridad / POLTUR / Comisaría\nCiudad de Carhuaz\nLibrerías\nCiudad de Carhuaz\nBodegas o minimarkets\nCiudad de Carhuaz"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nSeñalización turística\nEn el ascenso y la laguna"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Carhuaz\nDesagüe\nCiudad de Carhuaz\nLuz (Suministro Eléctrico)\nCiudad de Carhuaz\nTeléfono\ncobertura celular (Movistar y Claro) en la ciudad de Carhuaz\nAlternativo de Residuos (Biodigestor, pozo séptico, otros)\nTachos para residuos y basura en la ciudad de Carhuaz"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nParque Nacional Huascarán - SERNANP\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nRegistrado con\nNúmero de Partida:\n11300446\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nSERNANP\nTiempo de administración\nDesde el año 1975"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección de Comercio Exterior y Turismo de Áncash\nNombre (Persona(s) responsable(s) del inventario turístico):\nPatricia Camones Trejo\nCargo:\nDirectora de Turismo\nCorreo:\npatriciaturism@gmail.com\nTeléfono:\n937082574\nFuentes Bibliográfica:\nSERNAMP. PLAN MAESTRO DEL PARQUE NACIONAL HUASCARÁN 2010 - 2015-PLAN DE DESARROLLO CONCERTADO 2011 - 2021 DE LA MUNICIPALIDAD PROVINCIAL DE CARHUAZ.-GLACIARES DE LA CORDILLERA BLANCA CON BATIMETRÍA: PERIODO 2001 - 2009, UNIDAD DE GLACIOLOGÍA Y RECURSOS HÍDRICOS, AUTORIDAD NACIONAL DEL AGUA, HUARAZ-INRENA. PLAN MAESTRO DEL PARQUE NACIONAL HUASCARÁN 2003-2007.-INRENA. PLAN DE USO TURÍSTICO Y RECREATIVO DEL PARQUE NACIONAL HUASCARÁN 2004 ? 2008.-DAVID. M. SHARMAN ? CLIMBS OF THE CORDILLERA BLANCA OF PERÚ\nINFORMACIÓN DE LA LAGUNA AUQUISCOCHA https://www.gob.pe/municarhuaz\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n16/12/2022"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -9.193055555555556,
+    "longitud": -77.55666666666667
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-9.193055555555556,-77.55666666666667"
+}

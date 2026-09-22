@@ -1,0 +1,222 @@
+{
+  "cod_ficha": 36,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=36",
+  "nombre": "Baños Termales De Pincahuacho",
+  "departamento": "Apurímac",
+  "provincia": "Aymaraes",
+  "distrito": "CHALHUANCA",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "k. Agua termo-mineral",
+  "subtipo": "Otros",
+  "jerarquia": "1",
+  "altitud": "3 160",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=545925",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=545925",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=545895",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=545896",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=545897",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=545898",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=545899",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=545900",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=545901"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Naturaleza - Observación de paisaje"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Apurímac/Aymaraes/Chalhuanca - Apurímac/Aymaraes/Chalhuanca",
+      "detalle": "Paradero de Autos para Pincahuacho - Baños termales de Pincahuacho",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Taxi",
+      "tipo_via": "Trocha carrozable",
+      "distancia_tiempo": "7 km / 25 minutos"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "15297",
+      "horario": "Comunidad de Pincachuacho",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "19656",
+      "horario": "Comunidad de Pincahuacho",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "253",
+      "horario": "Comunidad de Pincahuacho",
+      "observaciones": "2023"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "12:00 a.m. - 12:00 p.m. --",
+      "observaciones": "--"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "Locales: S/. 5.00 Nacionales y extranjeros: S/. 10.00"
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Privadas",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Chalhuanca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Chalhuanca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Alquiler de camionetas 4 x 4",
+      "observacion": "Ciudad de Chalhuanca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Chalhuanca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Ciudad de Chalhuanca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "De 3 estrellas en la Ciudad de Chalhuanca"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de Chalhuanca"
+    }
+  ],
+  "descripcion": "Los baños termales de Pincahuacho, pertenece a la comunidad con el mismo nombre y está ubicado a una altitud de 3 160 m.s.n.m. en la región natural Quechua, presenta un clima templado frío, con notables diferencia de temperatura entre el día y la noche, el sol y la sombra. Los días son calurosos al sol y templados a la sombra; pero las noches son frescas. La temperatura media anual fluctúa entre los 11 y 16 °C.\nSus aguas brotan del subsuelo y estas discurren a través de canales a las instalaciones de los baños. El afloramiento presenta aguas mineromedicinales cuya temperatura es de 73¿°C y se les atribuyen propiedades para el tratamiento de males como el reumatismo y la bronquitis. Sus Aguas cristalinas, de temperatura moderada y aptas para el consumo con fines medicinales, poseen características químicas, por la que la clasifican como aguas termales con PH prácticamente neutras, con tendencia ligeramente alcalina porque contiene bicarbonatos y sulfatos de calcio.\nLas instalaciones del recurso cuentan con una infraestructura turística básica, constituida por el estacionamiento, boletería, área de servicio de alimentos y bebidas, área de los baños, instalados en un pabellón de 2 niveles; en el primer nivel se habilitaron 09 habitaciones acondicionadas con pozos de diferentes dimensiones (individuales y familiares) equipados con mobiliarios como colgadores. En el segundo nivel se halla el hospedaje con habitaciones simples, dobles y matrimoniales. Así mismo cuenta con servicios higiénicos, vestuarios y duchas de uso común para el público en general. También cuenta con una piscina general en un área diferente, acondicionada con duchas y vestuarios. Cabe resaltar que este recurso tiene el certificado de INGEMET.\nEn las inmediaciones de los Baños Termales, se puede apreciar al río de Chalhuanca y el paisaje propio de la sierra andina.",
+  "particularidades": "",
+  "estado_actual": "Bueno, porque cuenta con el cuidado y mantenimiento por parte de la comunidad de Pincahuacho.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Los baños termales de Pincahuacho, pertenece a la comunidad con el mismo nombre y está ubicado a una altitud de 3 160 m.s.n.m. en la región natural Quechua, presenta un clima templado frío, con notables diferencia de temperatura entre el día y la noche, el sol y la sombra. Los días son calurosos al sol y templados a la sombra; pero las noches son frescas. La temperatura media anual fluctúa entre los 11 y 16 °C.\nSus aguas brotan del subsuelo y estas discurren a través de canales a las instalaciones de los baños. El afloramiento presenta aguas mineromedicinales cuya temperatura es de 73¿°C y se les atribuyen propiedades para el tratamiento de males como el reumatismo y la bronquitis. Sus Aguas cristalinas, de temperatura moderada y aptas para el consumo con fines medicinales, poseen características químicas, por la que la clasifican como aguas termales con PH prácticamente neutras, con tendencia ligeramente alcalina porque contiene bicarbonatos y sulfatos de calcio.\nLas instalaciones del recurso cuentan con una infraestructura turística básica, constituida por el estacionamiento, boletería, área de servicio de alimentos y bebidas, área de los baños, instalados en un pabellón de 2 niveles; en el primer nivel se habilitaron 09 habitaciones acondicionadas con pozos de diferentes dimensiones (individuales y familiares) equipados con mobiliarios como colgadores. En el segundo nivel se halla el hospedaje con habitaciones simples, dobles y matrimoniales. Así mismo cuenta con servicios higiénicos, vestuarios y duchas de uso común para el público en general. También cuenta con una piscina general en un área diferente, acondicionada con duchas y vestuarios. Cabe resaltar que este recurso tiene el certificado de INGEMET.\nEn las inmediaciones de los Baños Termales, se puede apreciar al río de Chalhuanca y el paisaje propio de la sierra andina."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, porque cuenta con el cuidado y mantenimiento por parte de la comunidad de Pincahuacho."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nVisitantes Locales(Excursionistas)\n15297\nComunidad de Pincachuacho\n2023\nReporte del Registro de Visitantes por año\nTuristas Nacionales\n19656\nComunidad de Pincahuacho\n2023\nReporte del Registro de Visitantes por año\nTuristas Extranjeros\n253\nComunidad de Pincahuacho\n2023\nReporte del Registro de Visitantes por año"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nApurímac/Aymaraes/Chalhuanca\n-\nApurímac/Aymaraes/Chalhuanca\nParadero de Autos para Pincahuacho - Baños termales de Pincahuacho\nTerrestre\nTaxi\nTrocha carrozable\n7 km / 25 minutos"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nLocales: S/. 5.00 Nacionales y extranjeros: S/. 10.00"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n12:00 a.m.\n-\n12:00 p.m.\n--"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nNaturaleza\nObservación de paisaje\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Privadas\nAlimentación\nKioskos de comida y bebidas\n--\nInstalaciones Privadas\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nLugares de Recreación\nBares\nCiudad de Chalhuanca\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Chalhuanca\nOtros Servicios Turísticos\nAlquiler de camionetas 4 x 4\nCiudad de Chalhuanca\nAlimentación\nRestaurantes\nCiudad de Chalhuanca\nAlimentación\nVenta de comida Rápida\nCiudad de Chalhuanca\nAlojamiento\nHoteles (especificar categorías)\nDe 3 estrellas en la Ciudad de Chalhuanca\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de Chalhuanca"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Chalhuanca\nBancos\nCiudad de Chalhuanca / Banco de la Nación\nCajero automático\nCiudad de Chalhuanca\nCasa de cambio\nCiudad de Chalhuanca\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Chalhuanca\nServicios de taxis\nCiudad de Chalhuanca\nCentro de salud - tópico\nCiudad de Chalhuanca\nSeguridad / POLTUR / Comisaría\nCiudad de Chalhuanca\nBodegas o minimarkets\nCiudad de Chalhuanca"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\n--\nLuz (Suministro Eléctrico)\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nComunidad de Pincahuacho\nLuz (Suministro Eléctrico)\nComunidad de Pincahuacho\nTeléfono\nComunidad de Pincahuacho"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\n--\nPrivado:\nComunidad Campesina de Pincahuacho\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\nPartida Electrónica\nNúmero de Partida:\n5004828\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\n--\nAdministrador por\nNombre\nComunidad Campesina de Pincahuacho\nTiempo de administración\nDesde el año 1987"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo de Apurímac\nNombre (Persona(s) responsable(s) del inventario turístico):\nLic. Brenda Carpio Félix\nCargo:\nEspecialista en Turismo\nCorreo:\nbrendacarpiofelix@gmail.com\nTeléfono:\n931857967\nFuentes Bibliográfica:\n1. Plan Estratégico de Desarrollo Turístico de la provincia de Aymaraes, por la Municipalidad de Aymaraes, 2020 - 2027.\n2. Y tú que planes: https://www.ytuqueplanes.com/destinos/apurimac/provincia-de-aymaraes/banos-termales-de-pincahuacho\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n27/06/2024 15:35:11"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -14.283773,
+    "longitud": -73.276745
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-14.283773,-73.276745"
+}

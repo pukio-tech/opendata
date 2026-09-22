@@ -1,0 +1,389 @@
+{
+  "cod_ficha": 3836,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=3836",
+  "nombre": "Pueblo De Catapalla",
+  "departamento": "Lima",
+  "provincia": "Cañete",
+  "distrito": "LUNAHUANA",
+  "categoria": "2. MANIFESTACIONES CULTURALES",
+  "tipo": "Pueblos",
+  "subtipo": "Tradicionales",
+  "jerarquia": "2",
+  "altitud": "590",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=493380",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=493380",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=493330",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=493332",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=493381"
+  ],
+  "actividades_permitidas": [
+    "Otros - Compras de artesanía/souvenir",
+    "Otros - Toma de fotografías y filmaciones",
+    "Naturaleza - Observación de paisaje",
+    "Naturaleza - Observación de aves",
+    "Deportes / Aventura - Caminata/Trekking",
+    "Deportes / Aventura - Ciclismo",
+    "Paseos - Paseos a caballo",
+    "Paseos - Paseos en cuatrimotos",
+    "Cultura y Folclore - Participación y/u observación del proceso de elaboración de productos locales",
+    "Otros - Compra de productos regionales"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Compras de artesanía/souvenir",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/artesania02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de aves",
+      "observacion": "Chivillo,Churinche, Torcasa Ala blanca, Pajaro Carpintero.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/aves02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Ciclismo",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/ciclismo02.png"
+    },
+    {
+      "actividad": "Paseos",
+      "tipo": "Paseos a caballo",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paseo_caballo02.png"
+    },
+    {
+      "actividad": "Paseos",
+      "tipo": "Paseos en cuatrimotos",
+      "observacion": "--",
+      "icono_url": null
+    },
+    {
+      "actividad": "Cultura y Folclore",
+      "tipo": "Participación y/u observación del proceso de elaboración de productos locales",
+      "observacion": "--",
+      "icono_url": null
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Compra de productos regionales",
+      "observacion": "--",
+      "icono_url": null
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Lima/Lima/San Juan De Miraflores - Lima/Cañete/San Vicente De Cañete",
+      "detalle": "Terminal Terrestre de Atocongo -Terminal Terrestre de San Vicente de Cañete",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Bus público",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "132 km / 2 horas"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Lima/Cañete/San Vicente De Cañete - Lima/Cañete/Imperial",
+      "detalle": "Terminal terrestre de San Vicente de Cañete - Paradero Lunahuaná Av. 2 de Mayo",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Combi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "4.6 km / 10 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Lima/Cañete/Imperial - Lima/Cañete/Lunahuana",
+      "detalle": "Paradero Lunahuaná Av. 2 de Mayo - Plaza de Armas de Lunahuaná",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Combi",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "35 km / 40 minutos"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Lima/Cañete/Lunahuana - Lima/Cañete/Lunahuana",
+      "detalle": "Plaza de Armas de Lunahuaná - Valle de Catapalla",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "7.9 km / 13 minutos"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Lima/Lima/San Juan De Miraflores - Lima/Cañete/Lunahuana",
+      "detalle": "Terminal Terrestre de Atocongo - Plaza de Armas de Lunahuaná",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "173 km / 2horas 45 min"
+    },
+    {
+      "recorrido": "2",
+      "tramo": "Lima/Cañete/Lunahuana - Lima/Cañete/Lunahuana",
+      "detalle": "Terminal Terrestre de Atocongo - Valle de Catapalla",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Asfaltado",
+      "distancia_tiempo": "173 km / 2horas 45 minutos"
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Visitantes Locales(Excursionistas)",
+      "especificacion": "1980",
+      "horario": "Municipalidad Distrital de Lunahuaná",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "6175",
+      "horario": "Municipalidad Distrital de Lunahuaná",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "2150",
+      "horario": "Municipalidad Distrital de Lunahuaná",
+      "observaciones": "2022"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "09:00 a.m. - 06:00 p.m. Lunes a domingo.",
+      "observaciones": "Lunes a domingo."
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Libre",
+      "observaciones": ""
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "Ciudad de Lunahuaná / Hotel 2,3,4 y 5 Estrellas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "Ciudad de Lunahuaná / Hostal 2 y 3 Estrellas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de Lunahuaná / Restaurante 2 y 3 Tenedores"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Lunahuaná"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Ciudad de Lunahuaná"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de Lunahuaná"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Ciudad de Lunahuaná"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de Lunahuaná"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Discotecas",
+      "observacion": "Ciudad de Lunahuaná"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Ciudad de Lunahuaná"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Ciudad de Lunahuaná"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de Lunahuaná"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Miradores turísticos",
+      "observacion": "Ciudad de Lunahuaná"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Ciudad de Lunahuaná"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de orientación",
+      "observacion": "Ciudad de Lunahuaná"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Señales turísticas de interpretación",
+      "observacion": "Ciudad de Lunahuaná"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Oficina de Información turística",
+      "observacion": "Ciudad de Lunahuaná"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de Campamento(camping)",
+      "observacion": "Ciudad de Lunahuaná"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Puesto de auxilio rápido",
+      "observacion": "Ciudad de Lunahuaná"
+    }
+  ],
+  "descripcion": "Catapalla es un anexo importante, tanto por el fértil valle que posee, como también por la cálida población que lo habita. Este anexo de Lunahuaná, destaca además por ser el único poblado que se encuentra frente al Río Cañete, mismo al que solamente se puede llegar tras cruzar un puente.El nombre que presenta este distrito se origina por la unión de dos voces quechuas qué traducidas se entienden como “Mujer Bella”. Este anexo fue fundado el 30 de Juilo de 1935 por Gumersindo Gonzáles del Valle, quien ejerciera el cargo de Alcalde de Lunahuaná por tres diferentes periodos.  Se dice que el mencionado burgomaestre, decidió la creación de este poblado, con la intención de que la zona que se encontrara frente a su bodega, se encontrara habitada.Entre los atractivos turísticos que se podrá encontrar en el anexo de Catapalla son: La Capilla de Catapalla este escenario religioso del pueblo, es una antigua construcción que, lamentablemente, se vio notablemente dañada durante el terremoto que azotó al Perú en el 2007. Debido a dicho fenómeno natural, se ha visto la necesidad de reconstruir una nueva capilla con el apoyo de los mismos pobladores.Puente de Catapalla, una estructura antigua que permite conectar Catapalla con el resto de los pobladores. El Puente de Catapalla fue reconstruido en el año 2019 por parte del Gobierno Regional de Lima, es además un estupendo mirador desde el cual es posible observar el curso del Río Cañete.Otro atractivo que es bien representado es la visita a las bodegas vitivinícolas, Se encuentra una de las bodegas más antigua del distrito de Lunahuaná, la BODEGA VITIVINÍCOLA \"LA REYNA DE LUNAHUANÁ\", 1863, primera productora de vinos y piscos artesanales del Valle; por otro lado, tenemos la bodega la Rinconada, además de por sus bodegas de vino, en el anexo de Catapalla también son importantes los centros apícolas, en donde como su nombre indica, se dedican tanto a la crianza, como al cuidado de abejas, así como a la producción de miel, entre otros productos afines.En Catapalla, también se podrá encontrar sitios arqueológicos como : Sitio Arqueológico Quebrada de Cantagallo,Sitio Arqueológico Cerro Suero,Sitio Arqueológico Mayorazgo,Sitio Arqueológico La Rinconada.El valle de catapalla es muy visitado por los visitantes locales, naciones y extranjeros, ya que es un punto considerado dentro de los City tours que brindas las agencias tour operadoras en el distrito.",
+  "particularidades": "",
+  "estado_actual": "Bueno, porque la población desarrolla trabajos constantes de limpieza y mantenimiento.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "Catapalla es un anexo importante, tanto por el fértil valle que posee, como también por la cálida población que lo habita. Este anexo de Lunahuaná, destaca además por ser el único poblado que se encuentra frente al Río Cañete, mismo al que solamente se puede llegar tras cruzar un puente.El nombre que presenta este distrito se origina por la unión de dos voces quechuas qué traducidas se entienden como “Mujer Bella”. Este anexo fue fundado el 30 de Juilo de 1935 por Gumersindo Gonzáles del Valle, quien ejerciera el cargo de Alcalde de Lunahuaná por tres diferentes periodos.  Se dice que el mencionado burgomaestre, decidió la creación de este poblado, con la intención de que la zona que se encontrara frente a su bodega, se encontrara habitada.Entre los atractivos turísticos que se podrá encontrar en el anexo de Catapalla son: La Capilla de Catapalla este escenario religioso del pueblo, es una antigua construcción que, lamentablemente, se vio notablemente dañada durante el terremoto que azotó al Perú en el 2007. Debido a dicho fenómeno natural, se ha visto la necesidad de reconstruir una nueva capilla con el apoyo de los mismos pobladores.Puente de Catapalla, una estructura antigua que permite conectar Catapalla con el resto de los pobladores. El Puente de Catapalla fue reconstruido en el año 2019 por parte del Gobierno Regional de Lima, es además un estupendo mirador desde el cual es posible observar el curso del Río Cañete.Otro atractivo que es bien representado es la visita a las bodegas vitivinícolas, Se encuentra una de las bodegas más antigua del distrito de Lunahuaná, la BODEGA VITIVINÍCOLA \"LA REYNA DE LUNAHUANÁ\", 1863, primera productora de vinos y piscos artesanales del Valle; por otro lado, tenemos la bodega la Rinconada, además de por sus bodegas de vino, en el anexo de Catapalla también son importantes los centros apícolas, en donde como su nombre indica, se dedican tanto a la crianza, como al cuidado de abejas, así como a la producción de miel, entre otros productos afines.En Catapalla, también se podrá encontrar sitios arqueológicos como : Sitio Arqueológico Quebrada de Cantagallo,Sitio Arqueológico Cerro Suero,Sitio Arqueológico Mayorazgo,Sitio Arqueológico La Rinconada.El valle de catapalla es muy visitado por los visitantes locales, naciones y extranjeros, ya que es un punto considerado dentro de los City tours que brindas las agencias tour operadoras en el distrito."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, porque la población desarrolla trabajos constantes de limpieza y mantenimiento."
+    },
+    {
+      "titulo": "Observaciones",
+      "contenido": ""
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nVisitantes Locales(Excursionistas)\n1980\nMunicipalidad Distrital de Lunahuaná\n2022\nInforme Técnico admitido por la DIRCETUR Lima.\nTuristas Nacionales\n6175\nMunicipalidad Distrital de Lunahuaná\n2022\nInforme Técnico admitido por la DIRCETUR Lima.\nTuristas Extranjeros\n2150\nMunicipalidad Distrital de Lunahuaná\n2022\nInforme Técnico admitido por la DIRCETUR Lima."
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nLima/Lima/San Juan De Miraflores\n-\nLima/Cañete/San Vicente De Cañete\nTerminal Terrestre de Atocongo -Terminal Terrestre de San Vicente de Cañete\nTerrestre\nBus público\nAsfaltado\n132 km / 2 horas\n1\nLima/Cañete/San Vicente De Cañete\n-\nLima/Cañete/Imperial\nTerminal terrestre de San Vicente de Cañete - Paradero Lunahuaná Av. 2 de Mayo\nTerrestre\nCombi\nAsfaltado\n4.6 km / 10 minutos\n1\nLima/Cañete/Imperial\n-\nLima/Cañete/Lunahuana\nParadero Lunahuaná Av. 2 de Mayo - Plaza de Armas de Lunahuaná\nTerrestre\nCombi\nAsfaltado\n35 km / 40 minutos\n1\nLima/Cañete/Lunahuana\n-\nLima/Cañete/Lunahuana\nPlaza de Armas de Lunahuaná - Valle de Catapalla\nTerrestre\nAutomóvil particular\nAsfaltado\n7.9 km / 13 minutos\n2\nLima/Lima/San Juan De Miraflores\n-\nLima/Cañete/Lunahuana\nTerminal Terrestre de Atocongo - Plaza de Armas de Lunahuaná\nTerrestre\nAutomóvil particular\nAsfaltado\n173 km / 2horas 45 min\n2\nLima/Cañete/Lunahuana\n-\nLima/Cañete/Lunahuana\nTerminal Terrestre de Atocongo - Valle de Catapalla\nTerrestre\nAutomóvil particular\nAsfaltado\n173 km / 2horas 45 minutos"
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nLibre"
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n09:00 a.m.\n-\n06:00 p.m.\nLunes a domingo."
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nCompras de artesanía/souvenir\n--\nOtros\nToma de fotografías y filmaciones\n--\nNaturaleza\nObservación de paisaje\n--\nNaturaleza\nObservación de aves\nChivillo,Churinche, Torcasa Ala blanca, Pajaro Carpintero.\nDeportes / Aventura\nCaminata/Trekking\n--\nDeportes / Aventura\nCiclismo\n--\nPaseos\nPaseos a caballo\n--\nPaseos\nPaseos en cuatrimotos\n--\nCultura y Folclore\nParticipación y/u observación del proceso de elaboración de productos locales\n--\nOtros\nCompra de productos regionales\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\nCiudad de Lunahuaná / Hotel 2,3,4 y 5 Estrellas\nAlojamiento\nHostales (especificar categorías)\nCiudad de Lunahuaná / Hostal 2 y 3 Estrellas\nAlimentación\nRestaurantes\nCiudad de Lunahuaná / Restaurante 2 y 3 Tenedores\nAlimentación\nBares\nCiudad de Lunahuaná\nAlimentación\nFuentes de soda\nCiudad de Lunahuaná\nAlimentación\nKioskos de comida y bebidas\nCiudad de Lunahuaná\nAlimentación\nVenta de comida Rápida\nCiudad de Lunahuaná\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de Lunahuaná\nLugares de Recreación\nDiscotecas\nCiudad de Lunahuaná\nLugares de Recreación\nJuegos Infantiles\nCiudad de Lunahuaná\nLugares de Recreación\nCentros Deportivos\nCiudad de Lunahuaná\nLugares de Recreación\nBares\nCiudad de Lunahuaná\nServicios Públicos\nMiradores turísticos\nCiudad de Lunahuaná\nServicios Públicos\nEstacionamiento de vehículos\nCiudad de Lunahuaná\nServicios Públicos\nSeñales turísticas de orientación\nCiudad de Lunahuaná\nServicios Públicos\nSeñales turísticas de interpretación\nCiudad de Lunahuaná\nServicios Públicos\nOficina de Información turística\nCiudad de Lunahuaná\nServicios Públicos\nZonas de Campamento(camping)\nCiudad de Lunahuaná\nServicios Públicos\nPuesto de auxilio rápido\nCiudad de Lunahuaná"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de Lunahuaná\nBancos\nCiudad de Lunahuaná\nCajero automático\nCiudad de Lunahuaná\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de Lunahuaná\nServicio de estacionamiento\nCiudad de Lunahuaná\nServicios de taxis\nCiudad de Lunahuaná\nCentro de salud - tópico\nCiudad de Lunahuaná\nSeguridad / POLTUR / Comisaría\nCiudad de Lunahuaná\nLibrerías\nCiudad de Lunahuaná\nBodegas o minimarkets\nCiudad de Lunahuaná"
+    },
+    {
+      "titulo": "Infraestructura básica dentro del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\n--\nAlcantarillado sanitario\n--\nLuz (Suministro Eléctrico)\n--\nTeléfono\n--\nSeñalización turística\n--"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de Lunahuaná\nDesagüe\nCiudad de Lunahuaná\nLuz (Suministro Eléctrico)\nCiudad de Lunahuaná\nTeléfono\nCiudad de Lunahuaná\nSeñalización turística\nCiudad de Lunahuaná\nAlcantarillado sanitario\nCiudad de Lunahuaná\nSistemas de tratamiento alternativo de residuos (Biodigestor, pozo séptico, otros)\nCiudad de Lunahuaná"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\nMunicipalidad Distrital de Lunahuaná\nPrivado:\n--\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nLey de Creacion fundada por Gumercindo Gonzales del Valle del 30 de julio 1935\nAdministrador por\nNombre\nMunicipalidad Distrital de Lunahuaná\nTiempo de administración\nDesde el año 1935"
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo - Gobierno Regional de Lima\nNombre (Persona(s) responsable(s) del inventario turístico):\nJorge Luis Torres Chirito\nCargo:\nAsistente Administrativo\nCorreo:\njchiritoxx@gmail.com\nTeléfono:\n956454928\nFuentes Bibliográfica:\n1) Entre Pisco y Catapalla, ecoturismo en el valle del río Cañete. Autor: Portal Web El Comercio, 2013. Enlace: https://elcomercio.pe/vamos/peru/entre-pisco-catapalla-ecoturismo-valle-rio-canete-noticia-1654022/\n2) Lunahuaná: servicios básicos limitados en destino turístico. Autor: Portal Web El Comercio,2018. Enlace: https://elcomercio.pe/lima/sucesos/lunahuana-servicios-basicos-limitados-destino-turistico-noticia-487504-noticia/?foto=6\n3) Catapalla, primer productor de uvas de Lunahuaná. Autor: Portal Web PV Peru Videos. Enlace: https://www.peruenvideos.com/catapalla-primer-productor-uvas-lunahuana/\n4) Turismo en Catapalla. Autor: Portal Web Turismoi.pe. Enlace: https://turismoi.pe/ciudades/capital/catapalla.htm\nMaterial Audiovisual actual del Recurso:\nFOTO\nEspecificación:\n--\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n9/07/2024 11:22:47"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -12.917612,
+    "longitud": -76.10491100000002
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-12.917612,-76.10491100000002"
+}

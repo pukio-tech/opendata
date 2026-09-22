@@ -1,0 +1,327 @@
+{
+  "cod_ficha": 25,
+  "url_ficha": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=25",
+  "nombre": "Cordillera Huayhuash - Huánuco",
+  "departamento": "Huánuco",
+  "provincia": "Lauricocha",
+  "distrito": "QUEROPALCA",
+  "categoria": "1. SITIOS NATURALES",
+  "tipo": "a. Montañas",
+  "subtipo": "Cordillera",
+  "jerarquia": "3",
+  "altitud": "6635",
+  "foto_principal": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=296101",
+  "galeria_fotos": [
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=296101",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=296102",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=298560",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=298561",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=584036",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=583987",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=583988",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=584037",
+    "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=584038"
+  ],
+  "actividades_permitidas": [
+    "Otros - Toma de fotografías y filmaciones",
+    "Otros - Estudios e Investigación",
+    "Naturaleza - Observación de fauna",
+    "Naturaleza - Observación de flora",
+    "Naturaleza - Observación de paisaje",
+    "Deportes / Aventura - Caminata/Trekking",
+    "Deportes / Aventura - Camping"
+  ],
+  "actividades_detalle": [
+    {
+      "actividad": "Otros",
+      "tipo": "Toma de fotografías y filmaciones",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fotografia02.png"
+    },
+    {
+      "actividad": "Otros",
+      "tipo": "Estudios e Investigación",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/estudios02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de fauna",
+      "observacion": "Gato montés, el gato andino, la taruca, la vicuña, Cotinga de Zárate, el torito pecho cenizo, el mielerito gigante, el azulito altoandino, el pato de los torrentes y cóndor andino",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/fauna02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de flora",
+      "observacion": "Especies de queñual, tales como el queñual racimoso, el queñual gris y el queñual de Weberbauer, así como el aliso, que puede ser visto en forma silvestre.",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/flora02.png"
+    },
+    {
+      "actividad": "Naturaleza",
+      "tipo": "Observación de paisaje",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/paisaje02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Caminata/Trekking",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/caminata02.png"
+    },
+    {
+      "actividad": "Deportes / Aventura",
+      "tipo": "Camping",
+      "observacion": "--",
+      "icono_url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/resource/imagenes_acti/camping02.png"
+    }
+  ],
+  "rutas_acceso": [
+    {
+      "recorrido": "1",
+      "tramo": "Huánuco/Dos De Mayo/La Unión - Huánuco/Lauricocha/Baños",
+      "detalle": "Terminal terrestre Aguamiro - Plaza principal de Baños",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Mini bus público",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "51.8 Km / 1 h 50 Min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Huánuco/Lauricocha/Baños - Huánuco/Lauricocha/Queropalca",
+      "detalle": "Plaza principal de Baños - Plaza del pueblo de Queropalca",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "35.6 Km / 1 h 24 Min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Huánuco/Lauricocha/Queropalca - Huánuco/Lauricocha/Queropalca",
+      "detalle": "Plaza del pueblo de Queropalca - Estancia el Progreso",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "Automóvil particular",
+      "tipo_via": "Afirmado",
+      "distancia_tiempo": "1.20 Km / 40 Min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Huánuco/Lauricocha/Queropalca - Huánuco/Lauricocha/Queropalca",
+      "detalle": "Estancia el Progreso - Laguna Carhuacocha",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Camino de Herradura",
+      "distancia_tiempo": "1.20 Km / 40 Min"
+    },
+    {
+      "recorrido": "1",
+      "tramo": "Huánuco/Lauricocha/Queropalca - Huánuco/Lauricocha/Queropalca",
+      "detalle": "Laguna Carhuacocha - Entrada a la base Cordillera Huayhuash",
+      "tipo_acceso": "Terrestre",
+      "medio_transporte": "A pie",
+      "tipo_via": "Sendero",
+      "distancia_tiempo": "7 Km / 5 h."
+    }
+  ],
+  "epoca_propicia": [
+    {
+      "epoca": "Turistas Nacionales",
+      "especificacion": "780",
+      "horario": "ficha de registro de visitantes",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Turistas Extranjeros",
+      "especificacion": "5595",
+      "horario": "ficha de registro de visitantes",
+      "observaciones": "2024"
+    },
+    {
+      "epoca": "Todo el Año",
+      "especificacion": "--",
+      "horario": "05:00 a.m. - 05:00 p.m. Recomendable ir en temporada de verano (mayo a setiembre)",
+      "observaciones": "Recomendable ir en temporada de verano (mayo a setiembre)"
+    }
+  ],
+  "tipo_ingreso": [
+    {
+      "tipo": "Previa presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)",
+      "observaciones": "El ingreso al recurso se paga en Queropalca con tarifa única de S/40, mientras que el acceso al campamento cuesta S/25 para nacionales y S/30 para extranjeros, pago en la comunidad de Quishuarcancha."
+    }
+  ],
+  "servicios_turisticos": [
+    {
+      "ubicacion": "dentro",
+      "instalacion": "Instalaciones Públicas",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Zonas de Campamento(camping)",
+      "observacion": "--"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hoteles (especificar categorías)",
+      "observacion": "Ciudad de la Unión / Hoteles de 1 a 2 Estrellas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Hostales (especificar categorías)",
+      "observacion": "Ciudad de la Unión / Hostal de 1 a 2 Estrellas"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alojamiento",
+      "tipo_servicio": "Establecimientos de hospedaje (sin clase, ni categoría)",
+      "observacion": "Ciudad de la Unión"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Restaurantes",
+      "observacion": "Ciudad de la Unión"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de la Unión"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Kioskos de comida y bebidas",
+      "observacion": "Ciudad de la Unión"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Venta de comida Rápida",
+      "observacion": "Ciudad de la Unión"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Alimentación",
+      "tipo_servicio": "Fuentes de soda",
+      "observacion": "Ciudad de la Unión"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Otros Servicios Turísticos",
+      "tipo_servicio": "Venta de artesanía",
+      "observacion": "Ciudad de la Unión"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Juegos Infantiles",
+      "observacion": "Ciudad de la Unión"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Centros Deportivos",
+      "observacion": "Ciudad de la Unión"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Lugares de Recreación",
+      "tipo_servicio": "Bares",
+      "observacion": "Ciudad de la Unión"
+    },
+    {
+      "ubicacion": "fuera",
+      "instalacion": "",
+      "servicio": "Servicios Públicos",
+      "tipo_servicio": "Estacionamiento de vehículos",
+      "observacion": "Ciudad de la Unión"
+    }
+  ],
+  "descripcion": "La Cordillera Huayhuash, se extiende en dirección norte-sur y sirve como límite natural entre los departamentos de Huánuco, Áncash y Lima. Huayhuash como recurso turístico natural, presenta un circuito principal de aproximadamente 165 Km que recorre toda la cordillera. La altitud de la cordillera varía entre los 4 000 m.s.n.m. y los 6635 m.s.n.m., lo que genera un clima frío, con temperaturas que pueden descender por debajo de los 0°C, especialmente en las zonas más altas. En la vertiente oriental, las nevadas son frecuentes, formando un paisaje de montañas cubiertas por nieve.\nLa cara oriental se encuentra ubicada en la región Huánuco, tiene una longitud aproximada de 40 km. y alberga 6 picos que superan los 6000 m.s.n.m, siendo el Yerupajá (6635 m.s.n.m.) el segundo más alto del Perú, el Siula Grande (6345 m.s.n.m.), Siula Chico (6260 m.s.n.m), Sarapo (6127m.s.n.m), Yerupaja Chico (6121 m.s.n.m) y Jirishanca (6125 n.s.n.m)\nHuayhuash está constituida por rocas sedimentarias del Cretáceo, presenta piedra caliza y cuarcita a lo largo del área, interrumpidas por intrusiones ocasionales del Carbonífero y pizarras o esquistos de arcilla roja y está caracterizada por una estructura de falla simple que mantiene un rumbo de Nor-Noroeste a Sur-Sureste. Hay cinco zonas ecológicas en la cordillera, entre ellos tenemos: bosque de ribera (bosque ribereño), monte bajo (Matorral), matorrales y pastizales, Puna (Césped y pajonales de puna), bosque de montaña (Bosques de montaña), las turberas y lagos (Lagunas y bofedales). Esta área natural protegida posee un conglomerado de 21 nevados\nSus glaciares dan origen a importantes lagunas de color turquesa donde se pueden encontrar truchas, entre ellos las Lagunas; Mitucocha, Ninacocha, Alcaycocha, Carhuacocha, Cangrajanca, Siulacocha, Sarapacocha, Suerococha, entre otros.\nCuentan con una diversidad de avifauna, la más destacada se encuentra el cotinga de Zárate (Zaratornis stresemanni), el torito pecho cenizo (Anairetes alpinus), el mielerito gigante (Oreomanes fraseri), azulito altoandino (Xenodacnis parina), (Leptashenura yanarencis) y el pato de los torrentes (Merganetta armata). También se puede apreciar al cóndor andino (Vultur gryphus), al halcón peregrino (Falco peregrinus) y a la gallareta gigante (Fulica gigantea). Entre los mamíferos sobresale el gato montés (Leopardus jacobita), el gato andino (Leopardus colocolo), la taruca (Hippocamelus antisensis) y la vicuña (Vicugna vicugna).\nEn el área predominan las especies de queñual (Polylepis spp.), tales como (P. racemosa, P. incana y P. weberbaueri) y el aliso (Alnus acuminata), el cual puede ser visto en forma silvestre.\nLa ruta de trekking en la cordillera se considera una de las más desafiantes, ya que el tiempo que toma para recorrer la cordillera que dura aproximadamente 4 días, partiendo del distrito de Queropalca, llegando a la estancia Progreso, laguna de carhuacicha hasta llegar a la base de la cordillera Huayhuash. Atravesando valles, montañas, lagunas formadas por el deshielo de los nevados. Durante el recorrido, los visitantes pueden acampar y capturar fotografías del paisaje, así como explorar la biodiversidad de la región. El trekking en la Cordillera Huayhuash es exigente y requiere una preparación física adecuada.\nLa mejor temporada para visitar la cordillera es entre mayo y septiembre, cuando las condiciones climáticas son más estables y las temperaturas más favorables, lo que facilita el recorrido y la seguridad en la montaña. Es necesario estar bien equipado con ropa adecuada para el frío extremo.\nLa Cordillera Huayhuash es un destino imperdible para quienes buscan una experiencia extrema en un entorno natural.",
+  "particularidades": "La Cordillera Huayhuash posee la cumbre más alta de la cuenca amazónica, el nevado Yerupajá, según la publicación oficial del SERNANP Zona Reservada Cordillera Huayhuash.",
+  "estado_actual": "Bueno, por que es una zona reservada y protegida por el Estado peruano a través del SERNANP, y su mantenimiento y conservación están a cargo de las comunidades aledañas a la Cordillera Huayhuash.",
+  "observaciones": "",
+  "youtube_url": null,
+  "secciones": [
+    {
+      "titulo": "Galería de fotos",
+      "contenido": ""
+    },
+    {
+      "titulo": "Descripción",
+      "contenido": "La Cordillera Huayhuash, se extiende en dirección norte-sur y sirve como límite natural entre los departamentos de Huánuco, Áncash y Lima. Huayhuash como recurso turístico natural, presenta un circuito principal de aproximadamente 165 Km que recorre toda la cordillera. La altitud de la cordillera varía entre los 4 000 m.s.n.m. y los 6635 m.s.n.m., lo que genera un clima frío, con temperaturas que pueden descender por debajo de los 0°C, especialmente en las zonas más altas. En la vertiente oriental, las nevadas son frecuentes, formando un paisaje de montañas cubiertas por nieve.\nLa cara oriental se encuentra ubicada en la región Huánuco, tiene una longitud aproximada de 40 km. y alberga 6 picos que superan los 6000 m.s.n.m, siendo el Yerupajá (6635 m.s.n.m.) el segundo más alto del Perú, el Siula Grande (6345 m.s.n.m.), Siula Chico (6260 m.s.n.m), Sarapo (6127m.s.n.m), Yerupaja Chico (6121 m.s.n.m) y Jirishanca (6125 n.s.n.m)\nHuayhuash está constituida por rocas sedimentarias del Cretáceo, presenta piedra caliza y cuarcita a lo largo del área, interrumpidas por intrusiones ocasionales del Carbonífero y pizarras o esquistos de arcilla roja y está caracterizada por una estructura de falla simple que mantiene un rumbo de Nor-Noroeste a Sur-Sureste. Hay cinco zonas ecológicas en la cordillera, entre ellos tenemos: bosque de ribera (bosque ribereño), monte bajo (Matorral), matorrales y pastizales, Puna (Césped y pajonales de puna), bosque de montaña (Bosques de montaña), las turberas y lagos (Lagunas y bofedales). Esta área natural protegida posee un conglomerado de 21 nevados\nSus glaciares dan origen a importantes lagunas de color turquesa donde se pueden encontrar truchas, entre ellos las Lagunas; Mitucocha, Ninacocha, Alcaycocha, Carhuacocha, Cangrajanca, Siulacocha, Sarapacocha, Suerococha, entre otros.\nCuentan con una diversidad de avifauna, la más destacada se encuentra el cotinga de Zárate (Zaratornis stresemanni), el torito pecho cenizo (Anairetes alpinus), el mielerito gigante (Oreomanes fraseri), azulito altoandino (Xenodacnis parina), (Leptashenura yanarencis) y el pato de los torrentes (Merganetta armata). También se puede apreciar al cóndor andino (Vultur gryphus), al halcón peregrino (Falco peregrinus) y a la gallareta gigante (Fulica gigantea). Entre los mamíferos sobresale el gato montés (Leopardus jacobita), el gato andino (Leopardus colocolo), la taruca (Hippocamelus antisensis) y la vicuña (Vicugna vicugna).\nEn el área predominan las especies de queñual (Polylepis spp.), tales como (P. racemosa, P. incana y P. weberbaueri) y el aliso (Alnus acuminata), el cual puede ser visto en forma silvestre.\nLa ruta de trekking en la cordillera se considera una de las más desafiantes, ya que el tiempo que toma para recorrer la cordillera que dura aproximadamente 4 días, partiendo del distrito de Queropalca, llegando a la estancia Progreso, laguna de carhuacicha hasta llegar a la base de la cordillera Huayhuash. Atravesando valles, montañas, lagunas formadas por el deshielo de los nevados. Durante el recorrido, los visitantes pueden acampar y capturar fotografías del paisaje, así como explorar la biodiversidad de la región. El trekking en la Cordillera Huayhuash es exigente y requiere una preparación física adecuada.\nLa mejor temporada para visitar la cordillera es entre mayo y septiembre, cuando las condiciones climáticas son más estables y las temperaturas más favorables, lo que facilita el recorrido y la seguridad en la montaña. Es necesario estar bien equipado con ropa adecuada para el frío extremo.\nLa Cordillera Huayhuash es un destino imperdible para quienes buscan una experiencia extrema en un entorno natural."
+    },
+    {
+      "titulo": "Particularidades",
+      "contenido": "La Cordillera Huayhuash posee la cumbre más alta de la cuenca amazónica, el nevado Yerupajá, según la publicación oficial del SERNANP Zona Reservada Cordillera Huayhuash."
+    },
+    {
+      "titulo": "Reconocimientos",
+      "contenido": "Declarada Zona Reservada con Resolución Ministerial Nº 1173-2002-AG del 20 de diciembre del 2002 por el Servicio Nacional de Áreas Naturales Protegidas por el Estado - SERNANP."
+    },
+    {
+      "titulo": "Estado actual",
+      "contenido": "Bueno, por que es una zona reservada y protegida por el Estado peruano a través del SERNANP, y su mantenimiento y conservación están a cargo de las comunidades aledañas a la Cordillera Huayhuash."
+    },
+    {
+      "titulo": "Tipo de Visitante",
+      "contenido": "Tipo de Visitante\nCantidad\nFuente de datos\nAño\nObservación\nTuristas Nacionales\n780\nficha de registro de visitantes\n2024\nFuente de datos Municipalidad Distrital de Queropalca\nTuristas Extranjeros\n5595\nficha de registro de visitantes\n2024\nFuente de datos Municipalidad Distrital de Queropalca"
+    },
+    {
+      "titulo": "Ruta de acceso al recurso",
+      "contenido": "Recorrido\nTramo\nDetalle\nTipo de Acceso\nMedio de transporte\nTipo de Vía Terrestre\nDistancia en kms./tiempo\n1\nHuánuco/Dos De Mayo/La Unión\n-\nHuánuco/Lauricocha/Baños\nTerminal terrestre Aguamiro - Plaza principal de Baños\nTerrestre\nMini bus público\nAfirmado\n51.8 Km / 1 h 50 Min\n1\nHuánuco/Lauricocha/Baños\n-\nHuánuco/Lauricocha/Queropalca\nPlaza principal de Baños - Plaza del pueblo de Queropalca\nTerrestre\nAutomóvil particular\nAfirmado\n35.6 Km / 1 h 24 Min\n1\nHuánuco/Lauricocha/Queropalca\n-\nHuánuco/Lauricocha/Queropalca\nPlaza del pueblo de Queropalca - Estancia el Progreso\nTerrestre\nAutomóvil particular\nAfirmado\n1.20 Km / 40 Min\n1\nHuánuco/Lauricocha/Queropalca\n-\nHuánuco/Lauricocha/Queropalca\nEstancia el Progreso - Laguna Carhuacocha\nTerrestre\nA pie\nCamino de Herradura\n1.20 Km / 40 Min\n1\nHuánuco/Lauricocha/Queropalca\n-\nHuánuco/Lauricocha/Queropalca\nLaguna Carhuacocha - Entrada a la base Cordillera Huayhuash\nTerrestre\nA pie\nSendero\n7 Km / 5 h."
+    },
+    {
+      "titulo": "Tipo de ingreso",
+      "contenido": "Tipo de ingreso\nObservaciones\nPrevia presentación de boleto o ticket(especificar tarifa:niños, adultos, estudiantes, etc)\nEl ingreso al recurso se paga en Queropalca con tarifa única de S/40, mientras que el acceso al campamento cuesta S/25 para nacionales y S/30 para extranjeros, pago en la comunidad de Quishuarcancha."
+    },
+    {
+      "titulo": "Época propicia de visita al recurso",
+      "contenido": "Época propicia de visita al recurso\nEspecificación\nHora de visita especificación\nObservaciones\nTodo el Año\n--\n05:00 a.m.\n-\n05:00 p.m.\nRecomendable ir en\ntemporada de verano (mayo a\nsetiembre)"
+    },
+    {
+      "titulo": "Actividades desarrolladas dentro del recurso turístico",
+      "contenido": "Actividad\nTipo\nObservación\nOtros\nToma de fotografías y filmaciones\n--\nOtros\nEstudios e Investigación\n--\nNaturaleza\nObservación de fauna\nGato montés, el gato andino, la taruca, la vicuña, Cotinga de Zárate, el torito pecho cenizo, el mielerito gigante, el azulito altoandino, el pato de los torrentes y cóndor andino\nNaturaleza\nObservación de flora\nEspecies de queñual, tales como el queñual racimoso, el queñual gris y el queñual de Weberbauer, así como el aliso, que puede ser visto en forma silvestre.\nNaturaleza\nObservación de paisaje\n--\nDeportes / Aventura\nCaminata/Trekking\n--\nDeportes / Aventura\nCamping\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales dentro del recurso",
+      "contenido": "Instalación\nServicio\nTipo de Servicio\nObservación\nInstalaciones Públicas\nServicios Públicos\nZonas de Campamento(camping)\n--"
+    },
+    {
+      "titulo": "Servicios Turísticos actuales fuera del recurso",
+      "contenido": "Servicio\nTipo de Servicio\nObservación\nAlojamiento\nHoteles (especificar categorías)\nCiudad de la Unión / Hoteles de 1 a 2 Estrellas\nAlojamiento\nHostales (especificar categorías)\nCiudad de la Unión / Hostal de 1 a 2 Estrellas\nAlojamiento\nEstablecimientos de hospedaje (sin clase, ni categoría)\nCiudad de la Unión\nAlimentación\nRestaurantes\nCiudad de la Unión\nAlimentación\nBares\nCiudad de la Unión\nAlimentación\nKioskos de comida y bebidas\nCiudad de la Unión\nAlimentación\nVenta de comida Rápida\nCiudad de la Unión\nAlimentación\nFuentes de soda\nCiudad de la Unión\nOtros Servicios Turísticos\nVenta de artesanía\nCiudad de la Unión\nLugares de Recreación\nJuegos Infantiles\nCiudad de la Unión\nLugares de Recreación\nCentros Deportivos\nCiudad de la Unión\nLugares de Recreación\nBares\nCiudad de la Unión\nServicios Públicos\nEstacionamiento de vehículos\nCiudad de la Unión"
+    },
+    {
+      "titulo": "Servicios Complementarios fuera del recurso",
+      "contenido": "Servicio\nObservación\nServicios de internet\nCiudad de la Unión\nBancos\nCiudad de la Unión\nCajero automático\nCiudad de la Unión\nEstación de servicios, grifos, gasolineras y gasocentros\nCiudad de la Unión\nServicio de estacionamiento\nCiudad de la Unión\nServicios de taxis\nCiudad de la Unión\nCentro de salud - tópico\nCiudad de la Unión\nSeguridad / POLTUR / Comisaría\nCiudad de la Unión\nLibrerías\nCiudad de la Unión\nBodegas o minimarkets\nCiudad de la Unión"
+    },
+    {
+      "titulo": "Infraestructura básica fuera del recurso",
+      "contenido": "Infraestructura\nObservación\nAgua potable\nCiudad de la Unión\nAlcantarillado sanitario\nCiudad de la Unión\nLuz (Suministro Eléctrico)\nCiudad de la Unión\nAlcantarillado pluvial\nCiudad de la Unión"
+    },
+    {
+      "titulo": "Saneamiento Físico Legal",
+      "contenido": "Propiedad del Recurso Turístico\nPúblico:\n--\nPrivado:\nComunidad Campesina de Queropalca\nOtra Situación:\n--\nDocumentos de Saneamiento Físico Legal\nFicha Registral:\n--\nNúmero de Partida:\n--\nCertificado de Compra-Venta:\n--\nCertificado de Posesión Nro.:\n--\nOtra situación:\nResolución Ministerial N.º 1173-2002-AG, del 20 de diciembre de 2002, que declara Zona Reservada la Cordillera Huayhuash por el Servicio Nacional de Áreas Naturales Protegidas por el Estado-SERNANP.\nAdministrador por\nNombre\nComunidad Campesina de Queropalca, Municipalidad de Queropalca\nTiempo de administración\nDesde el año 2007."
+    },
+    {
+      "titulo": "Datos del Responsable",
+      "contenido": "Institución encargada del llenado de la ficha:\nDirección Regional de Comercio Exterior y Turismo Huánuco\nNombre (Persona(s) responsable(s) del inventario turístico):\nLic. Yesenia Lisbeth Mayorca Quispe\nCargo:\nEspecialista en Turismo\nCorreo:\nyessmayorca@gmail.com\nTeléfono:\n953 949 341\nFuentes Bibliográfica:\n1) SERNANP. Zona Reservada Cordillera Huayhuash. https://www.gob.pe/institucion/sernanp/informes-publicaciones/1945732-zona-reservada-cordillera-huayhuash\n2) Bodenlos, & Ericksen. (1955). Lead-zinc deposits of Cordillera Blanca and northern Cordillera Huayhuash, Peru. https://doi.org/10.3133/b1017\n3) Novoa & Others. (2006). New community-led conservation efforts in the Cordillera Huayhuash, Peru. https://doi.org/10.1659/0276 4741(2006)26[180:NCCEIT]2.0.CO;2\n4) Taurà Riera, D. (2010). Perú: 15 trekkings y 45 ascensiones. https://www.libreriadesnivel.com/libros/peru-15-trekkings-y-45-ascensiones/9788498291865/\n5) Österreichischer Alpenverein. (1954). Cordillera Huayhuash: Perú. Ein Bildwerk über ein tropisches Hochgebirge. Verlag Tiroler Graphik Ges. m. b. H\n6) Max y Didier, primera a la cara este del Siula Grande. https://www.desnivel.com/alpinismo/max-bonniot-y-didier-jourdain-primera-a-la-cara-este-del-siula-grande/\nMaterial Audiovisual actual del Recurso:\nFOTO, VIDEOS\nEspecificación:\nhttps://www.youtube.com/watch?v=lAO6bMlsH34\nReferencia de las últimas intervenciones en el Recurso Turístico:\n--\nFecha:\n4/12/2025 15:15:36"
+    }
+  ],
+  "coordenadas": {
+    "latitud": -10.275903959997002,
+    "longitud": -76.90607786178595
+  },
+  "google_maps_url": "https://www.google.com/maps?q=-10.275903959997002,-76.90607786178595"
+}
