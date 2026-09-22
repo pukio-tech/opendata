@@ -36,14 +36,6 @@ export default function HomePage() {
           <p className="text-base sm:text-lg text-slate-200 font-normal max-w-2xl mx-auto leading-relaxed drop-shadow mb-8">
             {t('hero.subtitle')}
           </p>
-
-          <Link
-            href="/turismo"
-            className="inline-flex items-center gap-2 px-8 py-4 rounded-2xl bg-gradient-to-r from-amber-500 to-orange-500 hover:from-amber-400 hover:to-orange-400 text-slate-950 font-black text-sm uppercase tracking-wider shadow-xl shadow-amber-500/25 transition-all hover:scale-105"
-          >
-            <Icons.Compass className="w-5 h-5" />
-            <span>{t('hero.btnExplore')}</span>
-          </Link>
         </div>
       </section>
 

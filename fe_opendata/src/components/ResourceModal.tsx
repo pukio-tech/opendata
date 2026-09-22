@@ -78,16 +78,6 @@ export const ResourceModal: React.FC<ResourceModalProps> = ({ resource, onClose 
         {/* Modal Header */}
         <div className="p-6 border-b border-slate-800 flex items-start justify-between bg-slate-950/70">
           <div>
-            <div className="flex items-center gap-2 mb-2">
-              <span className="text-xs font-bold px-3 py-1 rounded-full bg-amber-500/20 text-amber-400 border border-amber-500/30">
-                Ficha Oficial N° {resource.codigo}
-              </span>
-              {resource.desjerarquia && (
-                <span className="text-xs font-semibold px-3 py-1 rounded-full bg-slate-800 text-slate-300 border border-slate-700">
-                  Jerarquía {resource.desjerarquia}
-                </span>
-              )}
-            </div>
             <h2 className="text-2xl sm:text-3xl font-black text-white tracking-tight">{resource.nombre}</h2>
             <p className="text-xs text-slate-400 flex items-center gap-1.5 mt-1.5">
               <Icons.MapPin className="w-4 h-4 text-sky-400" />
@@ -95,6 +85,16 @@ export const ResourceModal: React.FC<ResourceModalProps> = ({ resource, onClose 
                 {resource.desdpto} &gt; {resource.desprov} &gt; {resource.desubigeo}
               </span>
             </p>
+            <div className="flex items-center gap-2 mt-2.5">
+              <span className="text-xs font-bold px-3 py-1 rounded-full bg-amber-500/20 text-amber-400 border border-amber-500/30">
+                Ficha N° {resource.codigo}
+              </span>
+              {resource.desjerarquia && (
+                <span className="text-xs font-semibold px-3 py-1 rounded-full bg-slate-800 text-slate-300 border border-slate-700">
+                  Jerarquía {resource.desjerarquia}
+                </span>
+              )}
+            </div>
           </div>
 
           <button
@@ -110,7 +110,7 @@ export const ResourceModal: React.FC<ResourceModalProps> = ({ resource, onClose 
           {loading ? (
             <div className="py-24 flex flex-col items-center justify-center gap-4">
               <div className="w-10 h-10 border-3 border-sky-500 border-t-transparent rounded-full animate-spin" />
-              <p className="text-xs font-semibold text-slate-400">Cargando información oficial...</p>
+              <p className="text-xs font-semibold text-slate-400">Cargando información del recurso...</p>
             </div>
           ) : (
             <>
@@ -119,7 +119,7 @@ export const ResourceModal: React.FC<ResourceModalProps> = ({ resource, onClose 
                 <div>
                   <h3 className="text-xs font-bold uppercase tracking-widest text-slate-400 mb-3 flex items-center gap-2">
                     <Icons.Camera className="w-4 h-4 text-sky-400" />
-                    <span>Galería de Imágenes Oficiales</span>
+                    <span>Galería de Imágenes</span>
                   </h3>
                   {selectedPhoto && (
                     <div className="w-full h-72 sm:h-96 rounded-2xl overflow-hidden bg-slate-950 mb-3 border border-slate-800 shadow-2xl relative">
@@ -127,14 +127,14 @@ export const ResourceModal: React.FC<ResourceModalProps> = ({ resource, onClose 
                     </div>
                   )}
                   {/* Thumbnails row */}
-                  <div className="flex gap-2.5 overflow-x-auto pb-2">
+                  <div className="flex items-center gap-3 overflow-x-auto py-3 px-1.5 scrollbar-thin mt-2">
                     {ficha.galeria_fotos.map((photo, index) => (
                       <button
                         key={index}
                         onClick={() => setSelectedPhoto(photo)}
-                        className={`relative w-24 h-16 rounded-xl overflow-hidden flex-shrink-0 border-2 transition-all ${
+                        className={`relative w-24 h-16 rounded-xl overflow-hidden flex-shrink-0 border-2 transition-all cursor-pointer ${
                           selectedPhoto === photo
-                            ? 'border-sky-400 ring-2 ring-sky-400/40 opacity-100 scale-105'
+                            ? 'border-sky-400 ring-2 ring-sky-400/50 opacity-100 scale-105 shadow-lg z-10'
                             : 'border-slate-800 opacity-60 hover:opacity-100'
                         }`}
                       >
@@ -165,7 +165,7 @@ export const ResourceModal: React.FC<ResourceModalProps> = ({ resource, onClose 
                 </div>
               </div>
 
-              {/* 1. Descripción Oficial */}
+              {/* 1. Descripción */}
               {ficha?.descripcion && (
                 <div className="bg-slate-950/50 p-5 rounded-2xl border border-slate-800">
                   <h3 className="text-xs font-bold uppercase tracking-widest text-slate-300 mb-2.5 flex items-center gap-2">
@@ -178,19 +178,18 @@ export const ResourceModal: React.FC<ResourceModalProps> = ({ resource, onClose 
                 </div>
               )}
 
-              {/* YouTube Video Iframe si está presente */}
               {youtubeEmbedUrl && (
                 <div className="bg-slate-950/60 p-5 rounded-2xl border border-sky-500/30 shadow-xl">
                   <div className="flex items-center gap-2 mb-3">
                     <span className="w-2.5 h-2.5 rounded-full bg-red-500 animate-pulse" />
                     <h3 className="text-xs font-bold uppercase tracking-widest text-white flex items-center gap-2">
-                      <span>Material Audiovisual Oficial (Video en Vivo)</span>
+                      <span>Material Audiovisual (Video en Vivo)</span>
                     </h3>
                   </div>
                   <div className="relative w-full aspect-video rounded-xl overflow-hidden border border-slate-700 bg-black shadow-inner">
                     <iframe
                       src={youtubeEmbedUrl}
-                      title={`Video oficial de ${resource.nombre}`}
+                      title={`Video de ${resource.nombre}`}
                       className="w-full h-full border-0"
                       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                       allowFullScreen

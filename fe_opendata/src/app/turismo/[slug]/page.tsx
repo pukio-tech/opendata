@@ -52,14 +52,14 @@ function SmallActivityIcon({ url, name }: { url?: string; name: string }) {
 
   if (hasError || !url) {
     return (
-      <div className="w-7 h-7 rounded-lg bg-slate-100 border border-slate-200 flex items-center justify-center p-1 flex-shrink-0">
+      <div className="w-6 h-6 flex items-center justify-center flex-shrink-0">
         {getActivityIcon(name)}
       </div>
     );
   }
 
   return (
-    <div className="w-7 h-7 rounded-lg bg-white border border-slate-200 p-0.5 flex items-center justify-center flex-shrink-0 shadow-sm">
+    <div className="w-6 h-6 flex items-center justify-center flex-shrink-0">
       <img
         src={url}
         alt={name}
@@ -239,7 +239,7 @@ export default function FichaTurismoPage() {
       })
       .catch((err: unknown) => {
         console.error('Error al cargar la ficha:', err);
-        setError('Esta ficha no existe o ha sido dada de baja del inventario oficial.');
+        setError('Esta ficha no existe o ha sido dada de baja del inventario.');
       })
       .finally(() => setLoading(false));
   }, [codFicha]);
@@ -362,7 +362,16 @@ export default function FichaTurismoPage() {
             <div className="relative rounded-3xl overflow-hidden bg-slate-50 border border-slate-200 p-6 sm:p-10 shadow-lg">
               <div className="flex flex-col lg:flex-row lg:items-center justify-between gap-6">
                 <div>
-                  <div className="flex flex-wrap items-center gap-2 mb-3">
+                  <h1 className="text-2xl sm:text-4xl lg:text-5xl font-black text-slate-900 tracking-tight leading-tight">
+                    {ficha.nombre}
+                  </h1>
+                  <p className="text-xs sm:text-sm text-slate-600 flex items-center gap-2 mt-2 sm:mt-3">
+                    <Icons.MapPin className="w-4 h-4 text-rose-600 flex-shrink-0" />
+                    <span>
+                      {ficha.departamento} &gt; {ficha.provincia} &gt; {ficha.distrito}
+                    </span>
+                  </p>
+                  <div className="flex flex-wrap items-center gap-2 mt-3 sm:mt-4">
                     <span className="text-xs font-mono font-bold px-3 py-1 rounded-full bg-amber-100 text-amber-800 border border-amber-200">
                       {t('card.recordNum')} #{ficha.cod_ficha}
                     </span>
@@ -372,15 +381,6 @@ export default function FichaTurismoPage() {
                       </span>
                     )}
                   </div>
-                  <h1 className="text-2xl sm:text-4xl lg:text-5xl font-black text-slate-900 tracking-tight leading-tight">
-                    {ficha.nombre}
-                  </h1>
-                  <p className="text-xs sm:text-sm text-slate-600 flex items-center gap-2 mt-3">
-                    <Icons.MapPin className="w-4 h-4 text-rose-600 flex-shrink-0" />
-                    <span>
-                      {ficha.departamento} &gt; {ficha.provincia} &gt; {ficha.distrito}
-                    </span>
-                  </p>
                 </div>
 
                 <div className="flex items-center gap-3">
@@ -427,11 +427,11 @@ export default function FichaTurismoPage() {
 
                   {/* Thumbnails Row */}
                   {ficha.galeria_fotos && ficha.galeria_fotos.length > 1 && (
-                    <div className="mt-4">
-                      <span className="text-[11px] font-bold text-slate-500 uppercase tracking-wider block mb-2">
+                    <div className="mt-6 pt-1">
+                      <span className="text-[11px] font-bold text-slate-500 uppercase tracking-wider block mb-2.5">
                         {t('ficha.officialGallery')} ({ficha.galeria_fotos.length} {t('ficha.photos')})
                       </span>
-                      <div className="flex gap-3 overflow-x-auto pb-2">
+                      <div className="flex items-center gap-3.5 overflow-x-auto py-3 px-1.5 scrollbar-thin">
                         {ficha.galeria_fotos.map((photo, index) => (
                           <button
                             key={index}
@@ -441,8 +441,8 @@ export default function FichaTurismoPage() {
                             }}
                             className={`relative w-28 h-20 rounded-xl overflow-hidden flex-shrink-0 border-2 transition-all cursor-pointer ${
                               selectedPhoto === photo
-                                ? 'border-amber-500 ring-2 ring-amber-400/40 opacity-100 scale-105'
-                                : 'border-slate-200 opacity-60 hover:opacity-100'
+                                ? 'border-amber-500 ring-2 ring-amber-400/50 opacity-100 scale-105 shadow-md z-10'
+                                : 'border-slate-200 opacity-60 hover:opacity-100 hover:border-slate-300'
                             }`}
                           >
                             <img src={formatPhotoUrl(photo)} alt="" className="w-full h-full object-cover" />
@@ -727,7 +727,7 @@ export default function FichaTurismoPage() {
                 <div className="w-full aspect-video rounded-2xl overflow-hidden border border-slate-200 bg-black shadow-xl">
                   <iframe
                     src={youtubeEmbedUrl}
-                    title={`Video oficial de ${ficha.nombre}`}
+                    title={`Video de ${ficha.nombre}`}
                     className="w-full h-full"
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                     allowFullScreen

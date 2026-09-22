@@ -194,11 +194,6 @@ function TurismoPageContent() {
         </div>
 
         <div className="max-w-6xl mx-auto relative z-10 text-center w-full">
-          <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-white/10 backdrop-blur-md border border-white/20 text-xs font-bold text-amber-300 mb-6 tracking-widest uppercase shadow-lg">
-            <Icons.Compass className="w-4 h-4 text-amber-400" />
-            <span>{t('turismo.badge')}</span>
-          </div>
-
           <h1 className="text-3xl sm:text-5xl lg:text-6xl font-black tracking-tight text-white uppercase leading-none mb-4">
             {t('turismo.title')}{' '}
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-amber-400 via-orange-300 to-sky-400">

@@ -5,7 +5,7 @@ import Link from 'next/link';
 import { useRouter, usePathname } from 'next/navigation';
 import { Icons } from './Icons';
 import { useLanguage, LANGUAGES } from '../context/LanguageContext';
-import { apiService, getPhotoUrl } from '../services/api';
+import { apiService } from '../services/api';
 import { ResourceItem } from '../types/mincetur';
 import { createResourceSlug } from '../utils/slug';
 
@@ -331,31 +331,19 @@ export const Navbar = () => {
                               setIsResultsMenuOpen(false);
                               setIsSearchExpanded(false);
                             }}
-                            className="flex items-center gap-3 p-2 rounded-xl hover:bg-slate-800/80 transition-colors group"
+                            className="flex items-center justify-between gap-3 px-3 py-2 rounded-xl hover:bg-slate-800/80 transition-colors group"
                           >
-                            {/* Mini Thumbnail */}
-                            <div className="w-10 h-10 rounded-lg overflow-hidden bg-slate-800 flex-shrink-0 border border-slate-700">
-                              <img
-                                src={item.imagen || getPhotoUrl(item.codigo)}
-                                alt=""
-                                className="w-full h-full object-cover"
-                                onError={(e) => {
-                                  (e.target as HTMLElement).style.display = 'none';
-                                }}
-                              />
-                            </div>
-
                             {/* Info */}
                             <div className="flex-1 min-w-0">
                               <h4 className="text-xs font-bold text-white group-hover:text-amber-400 transition-colors truncate">
                                 {item.nombre}
                               </h4>
-                              <p className="text-[10px] text-slate-400 truncate">
+                              <p className="text-[10px] text-slate-400 truncate mt-0.5">
                                 {item.desubigeo || item.desprov || item.desdpto || 'Perú'}
                               </p>
                             </div>
 
-                            <span className="text-[9px] font-bold px-2 py-0.5 rounded bg-slate-800 text-amber-300 border border-slate-700 shrink-0">
+                            <span className="text-[10px] font-mono font-bold px-2 py-0.5 rounded bg-slate-800 text-amber-300 border border-slate-700 shrink-0">
                               #{item.codigo}
                             </span>
                           </Link>

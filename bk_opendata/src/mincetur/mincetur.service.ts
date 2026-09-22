@@ -96,6 +96,15 @@ export interface FichaDetail {
   secciones?: FichaSection[];
 }
 
+export function normalizeText(text: string | null | undefined): string {
+  if (!text) return '';
+  return text
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .toLowerCase()
+    .trim();
+}
+
 @Injectable()
 export class MinceturService implements OnModuleInit {
   private readonly logger = new Logger(MinceturService.name);
@@ -644,98 +653,109 @@ export class MinceturService implements OnModuleInit {
       filtered = filtered.filter((r) => r.codigo === codNum);
     }
 
-    // 1. Filtro por término de búsqueda (soporta código numérico, nombre o ubicación)
+    // 1. Filtro por término de búsqueda (insensible a tildes, mayúsculas y código numérico)
     if (query.search && query.search.trim()) {
-      const q = query.search.trim().toUpperCase();
-      if (/^\d+$/.test(q)) {
-        const targetCod = Number(q);
-        filtered = filtered.filter((r) => r.codigo === targetCod || r.nombre.toUpperCase().includes(q));
+      const rawSearch = query.search.trim();
+      const normQuery = normalizeText(rawSearch);
+
+      if (/^\d+$/.test(rawSearch)) {
+        const targetCod = Number(rawSearch);
+        filtered = filtered.filter((r) => r.codigo === targetCod || normalizeText(r.nombre).includes(normQuery));
       } else {
+        const queryTokens = normQuery.split(/\s+/).filter(Boolean);
         filtered = filtered.filter((r) => {
-          const matchName = (r.nombre || '').toUpperCase().includes(q);
-          const matchDpto = (r.desdpto || '').toUpperCase().includes(q);
-          const matchProv = (r.desprov || '').toUpperCase().includes(q);
-          const matchDist = (r.desubigeo || '').toUpperCase().includes(q);
-          return matchName || matchDpto || matchProv || matchDist;
+          const normName = normalizeText(r.nombre);
+          const normDpto = normalizeText(r.desdpto);
+          const normProv = normalizeText(r.desprov);
+          const normDist = normalizeText(r.desubigeo);
+          const fullText = `${normName} ${normDpto} ${normProv} ${normDist}`;
+
+          const matchesFull = fullText.includes(normQuery);
+          const matchesAllTokens = queryTokens.length > 1 && queryTokens.every((token) => fullText.includes(token));
+
+          return matchesFull || matchesAllTokens;
         });
       }
     }
 
-    // 2. Filtro por departamento / región
+    // 2. Filtro por departamento / región (insensible a tildes)
     if (query.department && query.department.trim()) {
       const rawDept = query.department.trim();
-      const depName = (this.UBIGEO_DEP_MAP[rawDept] || rawDept).trim().toUpperCase();
+      const depName = this.UBIGEO_DEP_MAP[rawDept] || rawDept;
+      const normDep = normalizeText(depName);
       filtered = filtered.filter((r) => {
-        const d = (r.desdpto || '').toUpperCase();
-        if (depName === 'JUNIN' || depName === 'JUNÍN') return d.includes('JUN');
-        return d.includes(depName);
+        const d = normalizeText(r.desdpto);
+        if (normDep.includes('junin')) return d.includes('jun');
+        return d.includes(normDep);
       });
     }
 
-    // 3. Filtro por categoría
+    // 3. Filtro por categoría (insensible a tildes)
     if (query.category && query.category.trim()) {
-      const cat = query.category.trim().toUpperCase();
-      filtered = filtered.filter((r) => (r.categoria || '').toUpperCase().includes(cat));
+      const normCat = normalizeText(query.category);
+      filtered = filtered.filter((r) => normalizeText(r.categoria).includes(normCat));
     }
 
-    // 4. Filtro por tipo
+    // 4. Filtro por tipo (insensible a tildes)
     if (query.type && query.type.trim()) {
-      const tp = query.type.trim().toUpperCase();
-      filtered = filtered.filter((r) => (r.tipo_categoria || '').toUpperCase().includes(tp));
+      const normTp = normalizeText(query.type);
+      filtered = filtered.filter((r) => normalizeText(r.tipo_categoria).includes(normTp));
     }
 
-    // 5. Filtro por subtipo
+    // 5. Filtro por subtipo (insensible a tildes)
     if (query.subtype && query.subtype.trim()) {
-      const sub = query.subtype.trim().toUpperCase();
-      filtered = filtered.filter((r) => (r.subtipo_categoria || '').toUpperCase().includes(sub));
+      const normSub = normalizeText(query.subtype);
+      filtered = filtered.filter((r) => normalizeText(r.subtipo_categoria).includes(normSub));
     }
 
-    // 6. Filtro por actividad
+    // 6. Filtro por actividad (insensible a tildes)
     if (query.activity && query.activity.trim()) {
       const actId = query.activity.trim();
       if (actId === '1') {
-        filtered = filtered.filter(
-          (r) => (r.categoria || '').includes('NATURAL') || (r.categoria || '').includes('CULTURAL'),
-        );
+        filtered = filtered.filter((r) => {
+          const normCat = normalizeText(r.categoria);
+          return normCat.includes('natural') || normCat.includes('cultural');
+        });
       } else if (actId === '16') {
         filtered = filtered.filter((r) => {
-          const combined = `${r.tipo_categoria} ${r.subtipo_categoria} ${r.nombre}`.toUpperCase();
+          const combined = normalizeText(`${r.tipo_categoria} ${r.subtipo_categoria} ${r.nombre}`);
           return (
-            combined.includes('AGUA') ||
-            combined.includes('PLAYA') ||
-            combined.includes('RIO') ||
-            combined.includes('RÍO') ||
-            combined.includes('LAGUNA') ||
-            combined.includes('LAGO') ||
-            combined.includes('MAR')
+            combined.includes('agua') ||
+            combined.includes('playa') ||
+            combined.includes('rio') ||
+            combined.includes('laguna') ||
+            combined.includes('lago') ||
+            combined.includes('mar')
           );
         });
       } else if (actId === '30') {
-        filtered = filtered.filter((r) => (r.categoria || '').includes('NATURAL'));
+        filtered = filtered.filter((r) => normalizeText(r.categoria).includes('natural'));
       } else if (actId === '35') {
-        filtered = filtered.filter(
-          (r) => (r.categoria || '').includes('FOLK') || (r.categoria || '').includes('CULTURAL'),
-        );
+        filtered = filtered.filter((r) => {
+          const normCat = normalizeText(r.categoria);
+          return normCat.includes('folk') || normCat.includes('cultural');
+        });
       } else if (actId === '43') {
         filtered = filtered.filter((r) => {
-          const combined = `${r.subtipo_categoria} ${r.tipo_categoria} ${r.nombre}`.toUpperCase();
+          const combined = normalizeText(`${r.subtipo_categoria} ${r.tipo_categoria} ${r.nombre}`);
           return (
-            combined.includes('MONTAÑA') ||
-            combined.includes('NEVADO') ||
-            combined.includes('QUEBRADA') ||
-            combined.includes('CAÑON') ||
-            combined.includes('CAÑÓN') ||
-            combined.includes('BOSQUE') ||
-            combined.includes('GEOL')
+            combined.includes('montana') ||
+            combined.includes('nevado') ||
+            combined.includes('quebrada') ||
+            combined.includes('canon') ||
+            combined.includes('bosque') ||
+            combined.includes('geol')
           );
         });
       } else if (actId === '63') {
-        filtered = filtered.filter(
-          (r) =>
-            (r.categoria || '').includes('CONTEMPOR') ||
-            (r.categoria || '').includes('ARTÍSTICA') ||
-            (r.categoria || '').includes('EVENTO'),
-        );
+        filtered = filtered.filter((r) => {
+          const normCat = normalizeText(r.categoria);
+          return (
+            normCat.includes('contempor') ||
+            normCat.includes('artistica') ||
+            normCat.includes('evento')
+          );
+        });
       }
     }
 
