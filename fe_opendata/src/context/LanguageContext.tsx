@@ -99,7 +99,7 @@ export const translations = {
     'turismo.loading': 'Consultando base de datos abierta...',
     'turismo.noResults': 'No se encontraron atractivos turísticos',
     'turismo.noResultsDesc': 'Intenta ajustar los criterios de búsqueda, cambiar de departamento o borrar los filtros aplicados.',
-    'turismo.viewSheet': 'Ver Ficha',
+    'turismo.viewSheet': 'Ver ficha del recurso turístico',
     'turismo.inventory': 'Inventario',
 
     // Footer
@@ -163,7 +163,10 @@ export const translations = {
     'ficha.registeredSections': 'Tramos Registrados',
     'ficha.liveVideo': 'Material Audiovisual Oficial (Video en Vivo)',
     'ficha.additionalInfo': 'Información Adicional del Inventario Oficial',
-    'ficha.section': 'Tramo',
+    // Pagination
+    'pagination.showing': 'Mostrando {start} a {end} de {total} destinos turísticos',
+    'pagination.prev': 'Anterior',
+    'pagination.next': 'Siguiente',
   },
   EN: {
     // Navbar
@@ -247,7 +250,7 @@ export const translations = {
     'turismo.loading': 'Querying open database...',
     'turismo.noResults': 'No tourist attractions found',
     'turismo.noResultsDesc': 'Try adjusting your search criteria, switching region or clearing the applied filters.',
-    'turismo.viewSheet': 'View Details',
+    'turismo.viewSheet': 'View tourist resource sheet',
     'turismo.inventory': 'Inventory',
 
     // Footer
@@ -312,7 +315,10 @@ export const translations = {
     'ficha.registeredSections': 'Registered Sections',
     'ficha.liveVideo': 'Official Audiovisual Material (Live Video)',
     'ficha.additionalInfo': 'Additional Information from Official Inventory',
-    'ficha.section': 'Section',
+    // Pagination
+    'pagination.showing': 'Showing {start} to {end} of {total} tourist destinations',
+    'pagination.prev': 'Previous',
+    'pagination.next': 'Next',
   },
   QU: {
     // Navbar
@@ -396,7 +402,7 @@ export const translations = {
     'turismo.loading': 'Willakuykunata maskachkan...',
     'turismo.noResults': 'Manam kitiykuna tarisqachu',
     'turismo.noResultsDesc': 'Huk suyuta akllay utaq maskasqaykita allichay.',
-    'turismo.viewSheet': 'Fichata Qhaway',
+    'turismo.viewSheet': 'Sumaq kitipa fichanta qhaway',
     'turismo.inventory': 'Inventario',
 
     // Footer
@@ -462,6 +468,10 @@ export const translations = {
     'ficha.liveVideo': 'Chiqap Video',
     'ficha.additionalInfo': 'Inventariomanta Huk Willakuykuna',
     'ficha.section': 'Tramo',
+    // Pagination
+    'pagination.showing': '{start}-manta {end}-kama qhawachkan, llapanqa {total} sumaq kitiykunamanta',
+    'pagination.prev': 'Ñawpaq',
+    'pagination.next': 'Qatiqnin',
   },
 };
 

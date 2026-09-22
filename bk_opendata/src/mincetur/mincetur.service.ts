@@ -3,6 +3,8 @@ import axios, { AxiosInstance } from 'axios';
 import * as https from 'https';
 import * as cheerio from 'cheerio';
 
+import * as offlineCodesRaw from './offline_codes.json';
+
 export interface ActivityItem {
   id: number;
   codigo: string;
@@ -102,6 +104,13 @@ export class MinceturService implements OnModuleInit {
   private readonly BASE_URL = process.env.MINCETUR_BASE_URL || 'https://sigmincetur.mincetur.gob.pe/turismo';
   private readonly GEOSERVER_URL = process.env.GEOSERVER_URL || 'https://sigmincetur.mincetur.gob.pe/geoserver/ProduSig/ows';
   private readonly FICHA_BASE_URL = process.env.FICHA_BASE_URL || 'https://consultasenlinea.mincetur.gob.pe/fichaInventario';
+
+  // Conjunto de códigos de fichas históricas offline / dadas de baja en MINCETUR (302 redirect)
+  private readonly offlineCodesSet: Set<number> = new Set<number>(
+    Array.isArray(offlineCodesRaw)
+      ? (offlineCodesRaw as any)
+      : ((offlineCodesRaw as any).default || []),
+  );
 
   // 1. Memoria Caché de Alto Rendimiento con límite LRU (evita Memory Leaks)
   private readonly MAX_CACHE_ENTRIES = 5000;
@@ -542,7 +551,74 @@ export class MinceturService implements OnModuleInit {
     '63': "(id_categoria1 = 4 OR id_categoria1 = 5 OR des_categoria1 LIKE '%ARTÍSTICA%')",
   };
 
-  // 4. Buscar Recursos Turísticos con Paginación Ultra-Rápida en Servidor (GeoServer WFS / CQL)
+  // 3.1 Cargar lista completa de recursos verificados en vivo (excluye fichas despublicadas o con 302)
+  async getAllVerifiedResources(): Promise<ResourceItem[]> {
+    const cacheKey = 'all_verified_resources_v2';
+    const cached = this.getFromCache<ResourceItem[]>(cacheKey);
+    if (cached && cached.length > 0) return cached;
+
+    if (this.inFlightRequests.has(cacheKey)) {
+      return this.inFlightRequests.get(cacheKey);
+    }
+
+    const fetchPromise = (async () => {
+      try {
+        const response = await this.http.get(this.GEOSERVER_URL, {
+          params: {
+            service: 'WFS',
+            version: '1.0.0',
+            request: 'GetFeature',
+            typeName: 'ProduSig:SIG1GEOIRT',
+            outputFormat: 'application/json',
+          },
+          timeout: 20000,
+        });
+
+        const rawFeatures = response.data?.features || [];
+        const items: ResourceItem[] = [];
+
+        for (const feat of rawFeatures) {
+          const p = feat.properties || {};
+          const cod = Number(p.cod_reg) || 0;
+          if (!cod) continue;
+          if (this.offlineCodesSet.has(cod)) continue;
+          if (p.des_jerarquia === 'Por jerarquizar') continue;
+
+          const coords = feat.geometry?.coordinates || [];
+
+          items.push({
+            codigo: cod,
+            nombre: p.des_nombre || 'Recurso Turístico',
+            categoria: (p.des_categoria1 || '').replace(/^\d+\.\s*/, ''),
+            tipo_categoria: p.des_categoria2 || '',
+            subtipo_categoria: p.des_categoria3 || '',
+            desdpto: p.des_region || '',
+            desprov: p.des_provincia || '',
+            desubigeo: p.des_distrito || '',
+            x: coords[0] ?? null,
+            y: coords[1] ?? null,
+            url: p.des_web || `${this.FICHA_BASE_URL}/index.aspx?cod_Ficha=${cod}`,
+            desjerarquia: p.des_jerarquia || '',
+            imagen: `/api/photos/${cod}`,
+          });
+        }
+
+        this.logger.log(`Catálogo de datos abiertos indexado: ${items.length} recursos turísticos verificados`);
+        this.setInCache(cacheKey, items, 86400000); // 24h
+        return items;
+      } catch (error) {
+        this.logger.error('Error cargando recursos de GeoServer', error.message);
+        return this.FALLBACK_RESOURCES;
+      } finally {
+        this.inFlightRequests.delete(cacheKey);
+      }
+    })();
+
+    this.inFlightRequests.set(cacheKey, fetchPromise);
+    return fetchPromise;
+  }
+
+  // 4. Buscar Recursos Turísticos con Paginación Ultra-Rápida y Exacta
   async searchResources(query: {
     search?: string;
     codigo?: number | string;
@@ -559,238 +635,121 @@ export class MinceturService implements OnModuleInit {
     const limit = Math.max(1, Math.min(100, Number(query.limit) || 12));
     const startIndex = (page - 1) * limit;
 
-    const cacheKey = `search_v3_${JSON.stringify({ ...query, page, limit })}`;
-    const cached = this.getFromCache<{ data: ResourceItem[]; total: number; page: number; limit: number; totalPages: number }>(cacheKey);
-    if (cached) return cached;
+    const allResources = await this.getAllVerifiedResources();
+    let filtered = allResources;
 
-    if (this.inFlightRequests.has(cacheKey)) {
-      return this.inFlightRequests.get(cacheKey);
+    // 0. Filtro por código exacto de recurso
+    if (query.codigo) {
+      const codNum = Number(query.codigo);
+      filtered = filtered.filter((r) => r.codigo === codNum);
     }
 
-    const fetchPromise = (async () => {
-      // Motor de alta velocidad permanente (GeoServer WFS ProduSig:SIG1GEOIRT)
-      try {
-        const cqlFilters: string[] = [];
-
-        // 0. Filtro por código exacto de recurso
-        if (query.codigo) {
-          const codNum = Number(query.codigo);
-          if (!isNaN(codNum)) {
-            cqlFilters.push(`cod_reg = '${codNum}'`);
-          }
-        } else {
-          // Filtrar únicamente fichas publicadas y verificadas oficialmente (excluye borradores 'Por jerarquizar' que no tienen ficha pública)
-          cqlFilters.push("des_jerarquia <> 'Por jerarquizar' AND des_jerarquia IS NOT NULL");
-        }
-
-        // 1. Filtro por término de búsqueda (soporta nombre, ubicación o código numérico)
-        if (query.search && query.search.trim()) {
-          const rawSearch = query.search.trim();
-          const sanitized = rawSearch.replace(/['"\\]/g, '').toUpperCase();
-          if (/^\d+$/.test(rawSearch)) {
-            cqlFilters.push(
-              `(cod_reg = '${rawSearch}' OR des_nombre LIKE '%${sanitized}%' OR des_provincia LIKE '%${sanitized}%' OR des_distrito LIKE '%${sanitized}%' OR des_region LIKE '%${sanitized}%')`
-            );
-          } else {
-            cqlFilters.push(
-              `(des_nombre LIKE '%${sanitized}%' OR des_provincia LIKE '%${sanitized}%' OR des_distrito LIKE '%${sanitized}%' OR des_region LIKE '%${sanitized}%')`
-            );
-          }
-        }
-
-        // 2. Filtro por departamento / región
-        if (query.department && query.department.trim()) {
-          const rawDept = query.department.trim();
-          const depName = (this.UBIGEO_DEP_MAP[rawDept] || rawDept).replace(/['"\\]/g, '').trim().toUpperCase();
-          if (depName === 'JUNIN' || depName === 'JUNÍN') {
-            cqlFilters.push("des_region LIKE '%JUN%N%'");
-          } else {
-            cqlFilters.push(`des_region LIKE '%${depName}%'`);
-          }
-        }
-
-        // 3. Filtro por actividad (mapeo directo ultra-rápido)
-        if (query.activity && query.activity.trim()) {
-          const actId = query.activity.trim();
-          const actCql = this.ACTIVITY_CQL_MAP[actId];
-          if (actCql) {
-            cqlFilters.push(actCql);
-          }
-        }
-
-        // 4. Filtro por subactividad
-        if (query.subactivity && query.subactivity.trim()) {
-          const sanitizedSub = query.subactivity.replace(/['"\\]/g, '').trim().toUpperCase();
-          if (!/^\d+$/.test(sanitizedSub)) {
-            cqlFilters.push(`(des_nombre LIKE '%${sanitizedSub}%' OR des_categoria3 LIKE '%${sanitizedSub}%')`);
-          }
-        }
-
-        // 5. Filtro por categoría
-        if (query.category && query.category.trim()) {
-          const cat = query.category.trim();
-          if (/^\d+$/.test(cat)) {
-            cqlFilters.push(`id_categoria1 = ${cat}`);
-          } else {
-            const sanitized = cat.replace(/['"\\]/g, '').toUpperCase();
-            cqlFilters.push(`des_categoria1 LIKE '%${sanitized}%'`);
-          }
-        }
-
-        // 6. Filtro por tipo
-        if (query.type && query.type.trim()) {
-          const sanitized = query.type.replace(/['"\\]/g, '').trim().toUpperCase();
-          cqlFilters.push(`des_categoria2 LIKE '%${sanitized}%'`);
-        }
-
-        // 7. Filtro por subtipo
-        if (query.subtype && query.subtype.trim()) {
-          const sanitized = query.subtype.replace(/['"\\]/g, '').trim().toUpperCase();
-          cqlFilters.push(`des_categoria3 LIKE '%${sanitized}%'`);
-        }
-
-        const cqlString = cqlFilters.length > 0 ? cqlFilters.join(' AND ') : undefined;
-
-        // Ejecutar en paralelo: Consulta paginada + Conteo total exacto (resultType=hits)
-        const [dataRes, hitsRes] = await Promise.all([
-          this.http.get(this.GEOSERVER_URL, {
-            params: {
-              service: 'WFS',
-              version: '1.0.0',
-              request: 'GetFeature',
-              typeName: 'ProduSig:SIG1GEOIRT',
-              maxFeatures: limit,
-              startIndex: startIndex,
-              CQL_FILTER: cqlString,
-              outputFormat: 'application/json',
-            },
-            timeout: 5000,
-          }),
-          this.http.get(this.GEOSERVER_URL, {
-            params: {
-              service: 'WFS',
-              version: '1.1.0',
-              request: 'GetFeature',
-              typeName: 'ProduSig:SIG1GEOIRT',
-              CQL_FILTER: cqlString,
-              resultType: 'hits',
-            },
-            timeout: 5000,
-          }),
-        ]);
-
-        let total = 0;
-        if (typeof hitsRes.data === 'string') {
-          const match = hitsRes.data.match(/numberOfFeatures="(\d+)"/);
-          if (match) total = parseInt(match[1], 10);
-        }
-
-        const features = dataRes.data?.features || [];
-        if (!total && features.length > 0) {
-          total = features.length;
-        }
-
-        const items: ResourceItem[] = features.map((feat: any) => {
-          const p = feat.properties || {};
-          const cod = Number(p.cod_reg) || 0;
-          const coords = feat.geometry?.coordinates || [];
-
-          return {
-            codigo: cod,
-            nombre: p.des_nombre || 'Recurso Turístico',
-            categoria: (p.des_categoria1 || '').replace(/^\d+\.\s*/, ''),
-            tipo_categoria: p.des_categoria2 || '',
-            subtipo_categoria: p.des_categoria3 || '',
-            desdpto: p.des_region || '',
-            desprov: p.des_provincia || '',
-            desubigeo: p.des_distrito || '',
-            x: coords[0] ?? null,
-            y: coords[1] ?? null,
-            url: p.des_web || `${this.FICHA_BASE_URL}/index.aspx?cod_Ficha=${cod}`,
-            desjerarquia: p.des_jerarquia || '',
-            imagen: `/api/photos/${cod}`,
-          };
+    // 1. Filtro por término de búsqueda (soporta código numérico, nombre o ubicación)
+    if (query.search && query.search.trim()) {
+      const q = query.search.trim().toUpperCase();
+      if (/^\d+$/.test(q)) {
+        const targetCod = Number(q);
+        filtered = filtered.filter((r) => r.codigo === targetCod || r.nombre.toUpperCase().includes(q));
+      } else {
+        filtered = filtered.filter((r) => {
+          const matchName = (r.nombre || '').toUpperCase().includes(q);
+          const matchDpto = (r.desdpto || '').toUpperCase().includes(q);
+          const matchProv = (r.desprov || '').toUpperCase().includes(q);
+          const matchDist = (r.desubigeo || '').toUpperCase().includes(q);
+          return matchName || matchDpto || matchProv || matchDist;
         });
-
-        // Escaneo y validación concurrente en paralelo: solo incluir fichas activas online y resolver sus fotos
-        const verifiedItems: ResourceItem[] = [];
-        await Promise.allSettled(
-          items.map(async (item) => {
-            if (item.codigo) {
-              const [isOnline, photoId] = await Promise.all([
-                this.isFichaOnline(item.codigo),
-                this.resolveFichaPhotoId(item.codigo),
-              ]);
-              if (isOnline) {
-                if (photoId) {
-                  item.imagen = `/api/photos/${photoId}`;
-                }
-                verifiedItems.push(item);
-              }
-            }
-          })
-        );
-
-        // Si se encontraron elementos verificados en esta página, usar verifiedItems
-        let finalItems = verifiedItems.length > 0 ? verifiedItems : items;
-
-        // Si se buscó por código específico y no se encontró en GeoServer, intentar consultar la ficha oficial directamente
-        const targetCod = query.codigo || (query.search && /^\d+$/.test(query.search.trim()) ? query.search.trim() : null);
-        if (targetCod && finalItems.length === 0) {
-          try {
-            const codNum = Number(targetCod);
-            const ficha = await this.getFichaDetail(codNum);
-            if (ficha && ficha.nombre) {
-              finalItems = [
-                {
-                  codigo: ficha.cod_ficha,
-                  nombre: ficha.nombre,
-                  categoria: ficha.categoria,
-                  tipo_categoria: ficha.tipo,
-                  subtipo_categoria: ficha.subtipo,
-                  desdpto: ficha.departamento,
-                  desprov: ficha.provincia,
-                  desubigeo: ficha.distrito,
-                  desjerarquia: ficha.jerarquia,
-                  imagen: ficha.foto_principal,
-                  url: ficha.url_ficha,
-                },
-              ];
-              total = 1;
-            }
-          } catch {
-            // Ficha no encontrada
-          }
-        }
-
-        const totalPages = Math.ceil(total / limit) || 1;
-        const result = {
-          data: finalItems,
-          total: targetCod && finalItems.length > 0 ? finalItems.length : total,
-          page,
-          limit,
-          totalPages: targetCod && finalItems.length > 0 ? 1 : totalPages,
-        };
-
-        this.setInCache(cacheKey, result, 600000);
-        return result;
-      } catch (error) {
-        this.logger.error(`Error en consulta WFS MINCETUR: ${error.message}`);
-        const fallback = this.FALLBACK_RESOURCES.slice(startIndex, startIndex + limit);
-        return {
-          data: fallback,
-          total: this.FALLBACK_RESOURCES.length,
-          page,
-          limit,
-          totalPages: Math.ceil(this.FALLBACK_RESOURCES.length / limit) || 1,
-        };
-      } finally {
-        this.inFlightRequests.delete(cacheKey);
       }
-    })();
+    }
 
-    this.inFlightRequests.set(cacheKey, fetchPromise);
-    return fetchPromise;
+    // 2. Filtro por departamento / región
+    if (query.department && query.department.trim()) {
+      const rawDept = query.department.trim();
+      const depName = (this.UBIGEO_DEP_MAP[rawDept] || rawDept).trim().toUpperCase();
+      filtered = filtered.filter((r) => {
+        const d = (r.desdpto || '').toUpperCase();
+        if (depName === 'JUNIN' || depName === 'JUNÍN') return d.includes('JUN');
+        return d.includes(depName);
+      });
+    }
+
+    // 3. Filtro por categoría
+    if (query.category && query.category.trim()) {
+      const cat = query.category.trim().toUpperCase();
+      filtered = filtered.filter((r) => (r.categoria || '').toUpperCase().includes(cat));
+    }
+
+    // 4. Filtro por tipo
+    if (query.type && query.type.trim()) {
+      const tp = query.type.trim().toUpperCase();
+      filtered = filtered.filter((r) => (r.tipo_categoria || '').toUpperCase().includes(tp));
+    }
+
+    // 5. Filtro por subtipo
+    if (query.subtype && query.subtype.trim()) {
+      const sub = query.subtype.trim().toUpperCase();
+      filtered = filtered.filter((r) => (r.subtipo_categoria || '').toUpperCase().includes(sub));
+    }
+
+    // 6. Filtro por actividad
+    if (query.activity && query.activity.trim()) {
+      const actId = query.activity.trim();
+      if (actId === '1') {
+        filtered = filtered.filter(
+          (r) => (r.categoria || '').includes('NATURAL') || (r.categoria || '').includes('CULTURAL'),
+        );
+      } else if (actId === '16') {
+        filtered = filtered.filter((r) => {
+          const combined = `${r.tipo_categoria} ${r.subtipo_categoria} ${r.nombre}`.toUpperCase();
+          return (
+            combined.includes('AGUA') ||
+            combined.includes('PLAYA') ||
+            combined.includes('RIO') ||
+            combined.includes('RÍO') ||
+            combined.includes('LAGUNA') ||
+            combined.includes('LAGO') ||
+            combined.includes('MAR')
+          );
+        });
+      } else if (actId === '30') {
+        filtered = filtered.filter((r) => (r.categoria || '').includes('NATURAL'));
+      } else if (actId === '35') {
+        filtered = filtered.filter(
+          (r) => (r.categoria || '').includes('FOLK') || (r.categoria || '').includes('CULTURAL'),
+        );
+      } else if (actId === '43') {
+        filtered = filtered.filter((r) => {
+          const combined = `${r.subtipo_categoria} ${r.tipo_categoria} ${r.nombre}`.toUpperCase();
+          return (
+            combined.includes('MONTAÑA') ||
+            combined.includes('NEVADO') ||
+            combined.includes('QUEBRADA') ||
+            combined.includes('CAÑON') ||
+            combined.includes('CAÑÓN') ||
+            combined.includes('BOSQUE') ||
+            combined.includes('GEOL')
+          );
+        });
+      } else if (actId === '63') {
+        filtered = filtered.filter(
+          (r) =>
+            (r.categoria || '').includes('CONTEMPOR') ||
+            (r.categoria || '').includes('ARTÍSTICA') ||
+            (r.categoria || '').includes('EVENTO'),
+        );
+      }
+    }
+
+    const total = filtered.length;
+    const totalPages = Math.ceil(total / limit) || 1;
+    const paginatedItems = filtered.slice(startIndex, startIndex + limit);
+
+    return {
+      data: paginatedItems,
+      total,
+      page,
+      limit,
+      totalPages,
+    };
   }
 
   // 5. Extraer Ficha Oficial de Inventario Detallada con todas las Secciones
@@ -805,6 +764,13 @@ export class MinceturService implements OnModuleInit {
 
     const fetchPromise = (async () => {
       try {
+        if (this.offlineCodesSet.has(codFicha)) {
+          throw new HttpException(
+            `La ficha oficial N° ${codFicha} no existe o ha sido dada de baja del inventario oficial.`,
+            HttpStatus.NOT_FOUND,
+          );
+        }
+
         const url = `${this.FICHA_BASE_URL}/index.aspx?cod_Ficha=${codFicha}`;
         const response = await this.http.get<string>(url, {
           responseType: 'text',
@@ -1099,6 +1065,11 @@ export class MinceturService implements OnModuleInit {
 
   // 5.1 Validar si una ficha está publicada online en el inventario oficial
   async isFichaOnline(codFicha: number | string): Promise<boolean> {
+    const codNum = Number(codFicha);
+    if (!isNaN(codNum) && this.offlineCodesSet.has(codNum)) {
+      return false;
+    }
+
     const key = String(codFicha);
     if (this.onlineFichasCache.has(key)) {
       return this.onlineFichasCache.get(key) ?? false;
@@ -1130,6 +1101,11 @@ export class MinceturService implements OnModuleInit {
 
   // 6. Resolver ID de foto real a partir del HTML de la ficha
   async resolveFichaPhotoId(codFicha: number | string): Promise<string | null> {
+    const codNum = Number(codFicha);
+    if (!isNaN(codNum) && this.offlineCodesSet.has(codNum)) {
+      return null;
+    }
+
     const key = String(codFicha);
     if (this.fichaToPhotoMap.has(key)) {
       return this.fichaToPhotoMap.get(key) || null;

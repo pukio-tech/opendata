@@ -1,6 +1,7 @@
 'use client';
 
-import React, { useEffect, useState, useCallback } from 'react';
+import React, { useEffect, useState, useCallback, Suspense } from 'react';
+import { useSearchParams } from 'next/navigation';
 import { apiService } from '../../services/api';
 import {
   ActivityItem,
@@ -14,8 +15,9 @@ import { Icons } from '../../components/Icons';
 import { useLanguage } from '../../context/LanguageContext';
 import { translateMinceturText } from '../../utils/minceturTranslate';
 
-export default function TurismoPage() {
+function TurismoPageContent() {
   const { language, t } = useLanguage();
+  const searchParams = useSearchParams();
 
   // Datos base
   const [departments, setDepartments] = useState<DepartmentItem[]>([]);
@@ -38,6 +40,42 @@ export default function TurismoPage() {
     activity: '',
     code: '',
   });
+
+  // Sincronizar automáticamente con los parámetros de la URL (ej: /turismo?q=mach, /turismo?department=08, etc.)
+  useEffect(() => {
+    const qParam = searchParams.get('q') || searchParams.get('search') || '';
+    const deptParam = searchParams.get('iddpto') || searchParams.get('department') || searchParams.get('dept') || '';
+    const catParam = searchParams.get('categoria') || searchParams.get('category') || '';
+    const actParam = searchParams.get('actividad') || searchParams.get('activity') || '';
+    const codeParam = searchParams.get('codigo') || searchParams.get('code') || '';
+
+    if (qParam || deptParam || catParam || actParam || codeParam) {
+      setSearchTerm(qParam);
+      setSelectedDept(deptParam);
+      setSelectedCategory(catParam);
+      setSelectedActivity(actParam);
+      setSearchCode(codeParam);
+      if (codeParam) {
+        setIsAdvancedSearchOpen(true);
+      }
+      setAppliedFilters({
+        search: qParam,
+        dept: deptParam,
+        category: catParam,
+        activity: actParam,
+        code: codeParam,
+      });
+      setPage(1);
+
+      // Desplazamiento automático y suave hacia el listado de resultados
+      setTimeout(() => {
+        const el = document.getElementById('listado-atractivos');
+        if (el) {
+          el.scrollIntoView({ behavior: 'smooth' });
+        }
+      }, 150);
+    }
+  }, [searchParams]);
 
   // Estados de Recursos y Paginación
   const [resources, setResources] = useState<ResourceItem[]>([]);
@@ -429,3 +467,18 @@ export default function TurismoPage() {
     </main>
   );
 }
+
+export default function TurismoPage() {
+  return (
+    <Suspense
+      fallback={
+        <div className="min-h-screen flex items-center justify-center bg-white py-24">
+          <div className="w-12 h-12 border-3 border-amber-500 border-t-transparent rounded-full animate-spin" />
+        </div>
+      }
+    >
+      <TurismoPageContent />
+    </Suspense>
+  );
+}
+

@@ -2,6 +2,7 @@
 
 import React from 'react';
 import { Icons } from './Icons';
+import { useLanguage } from '../context/LanguageContext';
 
 interface PaginationProps {
   currentPage: number;
@@ -18,6 +19,8 @@ export const Pagination: React.FC<PaginationProps> = ({
   pageSize = 12,
   onPageChange,
 }) => {
+  const { t } = useLanguage();
+
   if (totalPages <= 1) return null;
 
   const startItem = (currentPage - 1) * pageSize + 1;
@@ -47,11 +50,16 @@ export const Pagination: React.FC<PaginationProps> = ({
     return pages;
   };
 
+  const showingText = t('pagination.showing')
+    .replace('{start}', startItem.toLocaleString())
+    .replace('{end}', endItem.toLocaleString())
+    .replace('{total}', totalItems.toLocaleString());
+
   return (
     <div className="flex flex-col sm:flex-row items-center justify-between gap-4 py-6 border-t border-slate-200 mt-8">
       {/* Information text */}
       <div className="text-xs text-slate-600 font-medium">
-        {`Mostrando ${startItem} a ${endItem} de ${totalItems} destinos turísticos`}
+        {showingText}
       </div>
 
       {/* Pagination Controls */}
@@ -63,7 +71,7 @@ export const Pagination: React.FC<PaginationProps> = ({
           className="px-3 py-2 rounded-xl text-xs font-semibold bg-white border border-slate-200 text-slate-700 hover:text-slate-900 hover:bg-slate-100 hover:border-slate-300 disabled:opacity-40 disabled:pointer-events-none transition-all flex items-center gap-1 cursor-pointer shadow-sm"
         >
           <Icons.ChevronLeft className="w-3.5 h-3.5" />
-          <span className="hidden sm:inline">Anterior</span>
+          <span className="hidden sm:inline">{t('pagination.prev')}</span>
         </button>
 
         {/* Number Buttons */}
@@ -100,7 +108,7 @@ export const Pagination: React.FC<PaginationProps> = ({
           disabled={currentPage >= totalPages}
           className="px-3 py-2 rounded-xl text-xs font-semibold bg-white border border-slate-200 text-slate-700 hover:text-slate-900 hover:bg-slate-100 hover:border-slate-300 disabled:opacity-40 disabled:pointer-events-none transition-all flex items-center gap-1 cursor-pointer shadow-sm"
         >
-          <span className="hidden sm:inline">Siguiente</span>
+          <span className="hidden sm:inline">{t('pagination.next')}</span>
           <Icons.ChevronRight className="w-3.5 h-3.5" />
         </button>
       </div>

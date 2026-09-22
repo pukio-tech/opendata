@@ -205,17 +205,19 @@ export const ResourceCard: React.FC<ResourceCardProps> = ({ resource }) => {
         </div>
       </div>
 
-      {/* Action Button & Code Footer: Alineados horizontalmente abajo */}
+      {/* Action Button & Code Footer: Número de ficha y enlace abajo en bloque completo */}
       <div className="p-5 sm:p-6 pt-0">
-        <div className="pt-3.5 border-t border-slate-100 flex items-center justify-between">
+        <div className="pt-3 border-t border-slate-100 flex flex-col gap-2">
           <div>
-            <span className="text-[10px] font-mono font-bold text-slate-400 uppercase block">
+            <span className="text-[10px] font-mono font-bold text-slate-400 uppercase block leading-none mb-1">
               {t('turismo.inventory')}
             </span>
-            <span className="text-xs font-black text-slate-900">{t('card.recordNum')} #{resource.codigo}</span>
+            <span className="text-xs font-black text-slate-900">
+              {t('card.recordNum')} #{resource.codigo}
+            </span>
           </div>
 
-          <div className="px-4 py-2 sm:px-5 sm:py-2.5 rounded-xl bg-gradient-to-r from-amber-500 to-orange-500 group-hover:from-amber-400 group-hover:to-orange-400 text-slate-950 font-black text-xs uppercase tracking-wider shadow-md transition-all">
+          <div className="inline-flex items-center font-medium text-amber-500 group-hover:text-amber-600 group-hover:underline text-xs">
             {t('turismo.viewSheet')}
           </div>
         </div>
