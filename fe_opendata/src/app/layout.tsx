@@ -1,6 +1,7 @@
 import type { Metadata } from 'next';
 import { Montserrat } from 'next/font/google';
 import { ViewTransitions } from 'next-view-transitions';
+import Script from 'next/script';
 import './globals.css';
 import { Navbar } from '../components/Navbar';
 import { Footer } from '../components/Footer';
@@ -99,6 +100,12 @@ export default function RootLayout({
       <html lang="es" suppressHydrationWarning className={`dark ${montserrat.variable}`}>
         <body className={`${montserrat.className} font-sans min-h-screen flex flex-col antialiased`} suppressHydrationWarning>
           <GoogleAnalytics gaId={GA_MEASUREMENT_ID} />
+          <Script
+            async
+            src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5824072777833469"
+            crossOrigin="anonymous"
+            strategy="afterInteractive"
+          />
           <script
             type="application/ld+json"
             dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
