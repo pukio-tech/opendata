@@ -49,15 +49,17 @@ function TurismoPageContent() {
   const [totalPages, setTotalPages] = useState<number>(1);
   const [loading, setLoading] = useState<boolean>(true);
 
-  // Sincronizar automáticamente con los parámetros de la URL
+  // Sincronizar automáticamente con los parámetros de la URL al cargar o navegar
   useEffect(() => {
     const qParam = searchParams.get('q') || searchParams.get('search') || '';
     const deptParam = searchParams.get('iddpto') || searchParams.get('department') || searchParams.get('dept') || '';
     const catParam = searchParams.get('categoria') || searchParams.get('category') || '';
     const actParam = searchParams.get('actividad') || searchParams.get('activity') || '';
     const codeParam = searchParams.get('codigo') || searchParams.get('code') || '';
+    const pageParam = searchParams.get('page');
+    const parsedPage = pageParam && !isNaN(Number(pageParam)) ? Math.max(1, Number(pageParam)) : 1;
 
-    if (qParam || deptParam || catParam || actParam || codeParam) {
+    if (qParam || deptParam || catParam || actParam || codeParam || parsedPage > 1) {
       setSearchTerm(qParam);
       setSelectedDept(deptParam);
       setSelectedCategory(catParam);
@@ -73,7 +75,7 @@ function TurismoPageContent() {
         activity: actParam,
         code: codeParam,
       });
-      setPage(1);
+      setPage(parsedPage);
 
       setTimeout(() => {
         const el = document.getElementById('listado-atractivos');
@@ -83,6 +85,46 @@ function TurismoPageContent() {
       }, 150);
     }
   }, [searchParams]);
+
+  // Reflejar automáticamente en la URL cualquier cambio en filtros aplicados o página
+  useEffect(() => {
+    if (typeof window === 'undefined') return;
+    const params = new URLSearchParams();
+    if (appliedFilters.search) params.set('search', appliedFilters.search);
+    if (appliedFilters.dept) params.set('department', appliedFilters.dept);
+    if (appliedFilters.category) params.set('category', appliedFilters.category);
+    if (appliedFilters.activity) params.set('activity', appliedFilters.activity);
+    if (appliedFilters.code) params.set('codigo', appliedFilters.code);
+    if (page > 1) params.set('page', String(page));
+
+    const qs = params.toString();
+    const targetUrl = qs ? `/turismo?${qs}` : '/turismo';
+    window.history.replaceState(null, '', targetUrl);
+  }, [appliedFilters, page]);
+
+  // Actualizar el título dinámico según filtros activos
+  useEffect(() => {
+    const parts: string[] = [];
+    if (appliedFilters.search) {
+      parts.push(`"${appliedFilters.search}"`);
+    }
+    if (appliedFilters.dept) {
+      const d = departments.find((item) => item.iddpto === appliedFilters.dept);
+      if (d) parts.push(cleanLabel(d.departamento));
+    }
+    if (appliedFilters.category) {
+      parts.push(translateMinceturText(appliedFilters.category, language));
+    }
+    if (appliedFilters.activity) {
+      parts.push(cleanLabel(appliedFilters.activity));
+    }
+
+    if (parts.length > 0) {
+      document.title = `${parts.join(' • ')} | Turismo Perú | OpenData`;
+    } else {
+      document.title = 'Explorador de Recursos y Atractivos Turísticos | OpenData Perú';
+    }
+  }, [appliedFilters, departments, language]);
 
   // Carga inicial de catálogos dinámicos
   useEffect(() => {
@@ -205,6 +247,24 @@ function TurismoPageContent() {
     setPage(1);
   };
 
+  const handleSelectDept = (val: string) => {
+    setSelectedDept(val);
+    setAppliedFilters((prev) => ({ ...prev, dept: val }));
+    setPage(1);
+  };
+
+  const handleSelectCategory = (val: string) => {
+    setSelectedCategory(val);
+    setAppliedFilters((prev) => ({ ...prev, category: val }));
+    setPage(1);
+  };
+
+  const handleSelectActivity = (val: string) => {
+    setSelectedActivity(val);
+    setAppliedFilters((prev) => ({ ...prev, activity: val }));
+    setPage(1);
+  };
+
   const removeFilter = (key: keyof typeof appliedFilters) => {
     const updated = { ...appliedFilters, [key]: '' };
     if (key === 'search') setSearchTerm('');
@@ -320,7 +380,7 @@ function TurismoPageContent() {
                     label={t('turismo.filterRegion')}
                     icon={<Icons.MapPin className="w-3.5 h-3.5 text-sky-500" />}
                     value={selectedDept}
-                    onChange={setSelectedDept}
+                    onChange={handleSelectDept}
                     options={departmentOptions}
                     placeholder={t('turismo.allRegions')}
                     searchable
@@ -334,7 +394,7 @@ function TurismoPageContent() {
                     label={t('turismo.filterCategory')}
                     icon={<Icons.Layers className="w-3.5 h-3.5 text-emerald-500" />}
                     value={selectedCategory}
-                    onChange={setSelectedCategory}
+                    onChange={handleSelectCategory}
                     options={categoryOptions}
                     placeholder={t('turismo.allCategories')}
                     searchable
@@ -348,7 +408,7 @@ function TurismoPageContent() {
                     label={t('turismo.filterActivity')}
                     icon={<Icons.Compass className="w-3.5 h-3.5 text-amber-500" />}
                     value={selectedActivity}
-                    onChange={setSelectedActivity}
+                    onChange={handleSelectActivity}
                     options={activityOptions}
                     placeholder={t('turismo.allActivities')}
                     searchable

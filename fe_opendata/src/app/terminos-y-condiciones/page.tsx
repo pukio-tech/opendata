@@ -1,10 +1,14 @@
 'use client';
 
-import React from 'react';
+import React, { useEffect } from 'react';
 import Link from 'next/link';
 import { Icons } from '../../components/Icons';
 
 export default function TerminosYCondicionesPage() {
+  useEffect(() => {
+    document.title = 'Términos y Condiciones | OpenData Perú';
+  }, []);
+
   return (
     <main className="flex-1 bg-slate-950 text-slate-100 min-h-screen pt-24 pb-20 px-4 sm:px-6 lg:px-8">
       <div className="max-w-4xl mx-auto space-y-10">

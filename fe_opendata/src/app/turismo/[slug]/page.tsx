@@ -251,10 +251,83 @@ function FichaTurismoContent({ params }: FichaTurismoPageProps) {
   const [loading, setLoading] = useState<boolean>(true);
   const [error, setError] = useState<string | null>(null);
 
-  const [selectedPhoto, setSelectedPhoto] = useState<string | null>(null);
+  const [activePhotoIndex, setActivePhotoIndex] = useState<number>(0);
+  const [isLightboxOpen, setIsLightboxOpen] = useState<boolean>(false);
   const [imgError, setImgError] = useState<boolean>(false);
   const [copiedLink, setCopiedLink] = useState<boolean>(false);
   const [copiedCoords, setCopiedCoords] = useState<boolean>(false);
+
+  const allPhotos = useMemo(() => {
+    const list: string[] = [];
+    if (ficha?.galeria_fotos && ficha.galeria_fotos.length > 0) {
+      list.push(...ficha.galeria_fotos);
+    } else if (ficha?.foto_principal) {
+      list.push(ficha.foto_principal);
+    } else if (codFicha) {
+      list.push(getPhotoUrl(codFicha));
+    }
+    return list;
+  }, [ficha, codFicha]);
+
+  const currentPhoto = allPhotos[activePhotoIndex] || allPhotos[0] || (codFicha ? getPhotoUrl(codFicha) : '');
+
+  const handlePrevPhoto = (e?: React.MouseEvent) => {
+    if (e) e.stopPropagation();
+    setActivePhotoIndex((prev) => (prev - 1 + allPhotos.length) % allPhotos.length);
+    setImgError(false);
+  };
+
+  const handleNextPhoto = (e?: React.MouseEvent) => {
+    if (e) e.stopPropagation();
+    setActivePhotoIndex((prev) => (prev + 1) % allPhotos.length);
+    setImgError(false);
+  };
+
+  const openLightbox = (index: number = activePhotoIndex) => {
+    setActivePhotoIndex(index);
+    setIsLightboxOpen(true);
+    if (typeof document !== 'undefined') {
+      document.body.style.overflow = 'hidden';
+    }
+  };
+
+  const closeLightbox = () => {
+    setIsLightboxOpen(false);
+    if (typeof document !== 'undefined') {
+      document.body.style.overflow = '';
+    }
+  };
+
+  // Atajos de teclado para el visor a pantalla completa
+  useEffect(() => {
+    if (!isLightboxOpen) return;
+    const handleKeyDown = (e: KeyboardEvent) => {
+      if (e.key === 'Escape') closeLightbox();
+      if (e.key === 'ArrowLeft') {
+        setActivePhotoIndex((prev) => (prev - 1 + allPhotos.length) % allPhotos.length);
+        setImgError(false);
+      }
+      if (e.key === 'ArrowRight') {
+        setActivePhotoIndex((prev) => (prev + 1) % allPhotos.length);
+        setImgError(false);
+      }
+    };
+    window.addEventListener('keydown', handleKeyDown);
+    return () => {
+      window.removeEventListener('keydown', handleKeyDown);
+      if (typeof document !== 'undefined') {
+        document.body.style.overflow = '';
+      }
+    };
+  }, [isLightboxOpen, allPhotos.length]);
+
+  // Actualizar el título de la página dinámicamente según la ficha oficial
+  useEffect(() => {
+    if (ficha?.nombre) {
+      const dpto = ficha.departamento ? ` (${cleanLabel(ficha.departamento)})` : '';
+      document.title = `${cleanLabel(ficha.nombre)}${dpto} | Ficha Oficial | OpenData Perú`;
+    }
+  }, [ficha]);
 
   useEffect(() => {
     if (!codFicha) {
@@ -270,13 +343,8 @@ function FichaTurismoContent({ params }: FichaTurismoPageProps) {
       .getFichaDetail(codFicha)
       .then((data: FichaDetail | null) => {
         setFicha(data);
-        if (data?.galeria_fotos?.length) {
-          setSelectedPhoto(data.galeria_fotos[0]);
-        } else if (data?.foto_principal) {
-          setSelectedPhoto(data.foto_principal);
-        } else {
-          setSelectedPhoto(getPhotoUrl(codFicha));
-        }
+        setActivePhotoIndex(0);
+        setImgError(false);
       })
       .catch((err: unknown) => {
         console.error('Error al cargar la ficha:', err);
@@ -492,15 +560,18 @@ function FichaTurismoContent({ params }: FichaTurismoPageProps) {
             </div>
 
             {/* ========================================================================= */}
-            {/* 3. SHOWCASE FOTOGRÁFICO DE GRAN FORMATO (CINEMATOGRÁFICO) */}
+            {/* 3. SHOWCASE FOTOGRÁFICO DE GRAN FORMATO CON SLIDER Y PANTALLA COMPLETA */}
             {/* ========================================================================= */}
             <div className="space-y-4">
-              <div className="relative w-full h-[340px] sm:h-[480px] lg:h-[540px] rounded-3xl overflow-hidden bg-slate-900 shadow-2xl border border-slate-200 dark:border-slate-800 flex items-center justify-center">
-                {selectedPhoto && !imgError ? (
+              <div
+                onClick={() => openLightbox(activePhotoIndex)}
+                className="relative w-full h-[340px] sm:h-[480px] lg:h-[540px] rounded-3xl overflow-hidden bg-slate-900 shadow-2xl border border-slate-200 dark:border-slate-800 flex items-center justify-center cursor-pointer group"
+              >
+                {currentPhoto && !imgError ? (
                   <img
-                    src={formatPhotoUrl(selectedPhoto, ficha.cod_ficha)}
+                    src={formatPhotoUrl(currentPhoto, ficha.cod_ficha)}
                     alt={ficha.nombre}
-                    className="w-full h-full object-cover transition-opacity duration-300"
+                    className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-[1.02]"
                     onError={() => setImgError(true)}
                   />
                 ) : (
@@ -509,32 +580,67 @@ function FichaTurismoContent({ params }: FichaTurismoPageProps) {
                     <span className="text-sm font-semibold text-slate-300">{t('card.noPhoto')}</span>
                   </div>
                 )}
-                <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent pointer-events-none" />
+                <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-black/20 pointer-events-none" />
+
+                {/* Botón Ver Pantalla Completa Superior Derecho */}
+                <button
+                  type="button"
+                  onClick={(e) => {
+                    e.stopPropagation();
+                    openLightbox(activePhotoIndex);
+                  }}
+                  className="absolute top-4 right-4 z-10 inline-flex items-center gap-2 px-3.5 py-2 rounded-xl bg-slate-950/75 hover:bg-slate-950 text-white text-xs font-bold backdrop-blur-md border border-white/20 hover:border-amber-400/60 shadow-xl transition-all hover:scale-105 cursor-pointer"
+                >
+                  <Icons.Maximize className="w-4 h-4 text-amber-400" />
+                  <span>Ver pantalla completa</span>
+                </button>
+
+                {/* Flechas de cambio de imagen directa tipo Slide */}
+                {allPhotos.length > 1 && (
+                  <>
+                    <button
+                      type="button"
+                      onClick={handlePrevPhoto}
+                      className="absolute left-3.5 top-1/2 -translate-y-1/2 z-10 p-2.5 sm:p-3 rounded-full bg-slate-950/70 hover:bg-slate-950 text-white backdrop-blur-md border border-white/15 hover:border-amber-400/60 transition-all hover:scale-110 shadow-xl cursor-pointer"
+                      aria-label="Foto anterior"
+                    >
+                      <Icons.ChevronLeft className="w-5 h-5 text-white" />
+                    </button>
+                    <button
+                      type="button"
+                      onClick={handleNextPhoto}
+                      className="absolute right-3.5 top-1/2 -translate-y-1/2 z-10 p-2.5 sm:p-3 rounded-full bg-slate-950/70 hover:bg-slate-950 text-white backdrop-blur-md border border-white/15 hover:border-amber-400/60 transition-all hover:scale-110 shadow-xl cursor-pointer"
+                      aria-label="Siguiente foto"
+                    >
+                      <Icons.ChevronRight className="w-5 h-5 text-white" />
+                    </button>
+                  </>
+                )}
 
                 {/* Subtítulo integrado en la foto */}
-                <div className="absolute bottom-4 left-6 right-6 flex items-center justify-between text-white text-xs">
-                  <div className="flex items-center gap-2 bg-slate-950/60 backdrop-blur-md px-3 py-1.5 rounded-xl border border-white/10">
+                <div className="absolute bottom-4 left-6 right-6 flex items-center justify-between text-white text-xs pointer-events-none">
+                  <div className="flex items-center gap-2 bg-slate-950/70 backdrop-blur-md px-3 py-1.5 rounded-xl border border-white/10">
                     <Icons.Camera className="w-3.5 h-3.5 text-amber-400" />
                     <span className="font-semibold">Fotografía Oficial MINCETUR</span>
                   </div>
-                  {ficha.galeria_fotos && ficha.galeria_fotos.length > 1 && (
-                    <span className="text-slate-300 bg-slate-950/60 backdrop-blur-md px-3 py-1.5 rounded-xl border border-white/10 font-mono text-[11px]">
-                      {ficha.galeria_fotos.length} fotos registradas
+                  {allPhotos.length > 1 && (
+                    <span className="text-slate-200 bg-slate-950/70 backdrop-blur-md px-3 py-1.5 rounded-xl border border-white/10 font-mono text-[11px] font-semibold">
+                      {activePhotoIndex + 1} / {allPhotos.length} fotos
                     </span>
                   )}
                 </div>
               </div>
 
               {/* Tira de Miniaturas */}
-              {ficha.galeria_fotos && ficha.galeria_fotos.length > 1 && (
+              {allPhotos.length > 1 && (
                 <div className="flex items-center gap-3 overflow-x-auto py-2 px-1 scrollbar-thin">
-                  {ficha.galeria_fotos.map((photo, index) => {
-                    const isCurrent = selectedPhoto === photo;
+                  {allPhotos.map((photo, index) => {
+                    const isCurrent = activePhotoIndex === index;
                     return (
                       <button
                         key={index}
                         onClick={() => {
-                          setSelectedPhoto(photo);
+                          setActivePhotoIndex(index);
                           setImgError(false);
                         }}
                         className={`relative w-24 sm:w-28 h-16 sm:h-20 rounded-2xl overflow-hidden flex-shrink-0 border-2 transition-all cursor-pointer ${
@@ -554,6 +660,105 @@ function FichaTurismoContent({ params }: FichaTurismoPageProps) {
                 </div>
               )}
             </div>
+
+            {/* Modal Lightbox a Pantalla Completa con Slider */}
+            {isLightboxOpen && (
+              <div
+                className="fixed inset-0 z-[9999] bg-slate-950/95 backdrop-blur-xl flex flex-col justify-between p-4 sm:p-6 animate-fadeIn select-none"
+                onClick={closeLightbox}
+              >
+                {/* Header Lightbox */}
+                <div
+                  className="flex items-center justify-between gap-4 pb-3 border-b border-white/10 text-white max-w-7xl mx-auto w-full"
+                  onClick={(e) => e.stopPropagation()}
+                >
+                  <div className="flex items-center gap-3 truncate">
+                    <span className="text-sm font-bold text-amber-400 truncate max-w-md">
+                      {ficha.nombre}
+                    </span>
+                    <span className="text-xs text-slate-400 hidden sm:inline">
+                      • {cleanLabel(ficha.departamento)}
+                    </span>
+                  </div>
+
+                  <div className="flex items-center gap-4 flex-shrink-0">
+                    <span className="text-xs font-mono font-medium px-3 py-1 rounded-full bg-white/10 border border-white/10 text-slate-200">
+                      Foto {activePhotoIndex + 1} de {allPhotos.length}
+                    </span>
+                    <button
+                      onClick={closeLightbox}
+                      className="p-2 rounded-xl bg-white/10 hover:bg-rose-500/20 hover:text-rose-400 text-white transition-colors cursor-pointer"
+                      title="Cerrar visor (Esc)"
+                    >
+                      <Icons.X className="w-5 h-5" />
+                    </button>
+                  </div>
+                </div>
+
+                {/* Área central con flechas de Slide */}
+                <div
+                  className="relative flex-1 flex items-center justify-center py-4 max-w-7xl mx-auto w-full overflow-hidden"
+                  onClick={(e) => e.stopPropagation()}
+                >
+                  {allPhotos.length > 1 && (
+                    <button
+                      onClick={handlePrevPhoto}
+                      className="absolute left-2 sm:left-4 z-20 p-3 sm:p-4 rounded-full bg-slate-900/80 hover:bg-slate-900 text-white border border-white/20 hover:border-amber-400/60 shadow-2xl transition-all hover:scale-110 cursor-pointer"
+                      title="Foto anterior (Flecha Izquierda)"
+                    >
+                      <Icons.ChevronLeft className="w-6 h-6 text-white" />
+                    </button>
+                  )}
+
+                  <div className="relative max-h-[75vh] max-w-[90vw] flex items-center justify-center">
+                    <img
+                      src={formatPhotoUrl(currentPhoto, ficha.cod_ficha)}
+                      alt={ficha.nombre}
+                      className="max-h-[75vh] max-w-[90vw] object-contain rounded-2xl shadow-2xl transition-all duration-300"
+                    />
+                  </div>
+
+                  {allPhotos.length > 1 && (
+                    <button
+                      onClick={handleNextPhoto}
+                      className="absolute right-2 sm:right-4 z-20 p-3 sm:p-4 rounded-full bg-slate-900/80 hover:bg-slate-900 text-white border border-white/20 hover:border-amber-400/60 shadow-2xl transition-all hover:scale-110 cursor-pointer"
+                      title="Siguiente foto (Flecha Derecha)"
+                    >
+                      <Icons.ChevronRight className="w-6 h-6 text-white" />
+                    </button>
+                  )}
+                </div>
+
+                {/* Tira inferior de miniaturas en pantalla completa */}
+                {allPhotos.length > 1 && (
+                  <div
+                    className="max-w-4xl mx-auto w-full pt-3 border-t border-white/10 flex items-center justify-center gap-2 sm:gap-3 overflow-x-auto py-2 scrollbar-thin"
+                    onClick={(e) => e.stopPropagation()}
+                  >
+                    {allPhotos.map((photo, idx) => (
+                      <button
+                        key={idx}
+                        onClick={() => {
+                          setActivePhotoIndex(idx);
+                          setImgError(false);
+                        }}
+                        className={`relative w-16 sm:w-20 h-11 sm:h-14 rounded-xl overflow-hidden flex-shrink-0 border-2 transition-all cursor-pointer ${
+                          activePhotoIndex === idx
+                            ? 'border-amber-500 ring-2 ring-amber-400/50 scale-105'
+                            : 'border-transparent opacity-50 hover:opacity-100'
+                        }`}
+                      >
+                        <img
+                          src={formatPhotoUrl(photo, ficha.cod_ficha)}
+                          alt=""
+                          className="w-full h-full object-cover"
+                        />
+                      </button>
+                    ))}
+                  </div>
+                )}
+              </div>
+            )}
 
             {/* ========================================================================= */}
             {/* 4. DISTRIBUCIÓN EDITORIAL EN 2 COLUMNAS (CONTENIDO NARRATIVO + PANEL TÉCNICO) */}
