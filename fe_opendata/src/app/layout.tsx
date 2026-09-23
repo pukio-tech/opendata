@@ -1,11 +1,11 @@
 import type { Metadata } from 'next';
 import { Montserrat } from 'next/font/google';
-import Script from 'next/script';
 import './globals.css';
 import { Navbar } from '../components/Navbar';
 import { Footer } from '../components/Footer';
 import { LanguageProvider } from '../context/LanguageContext';
 import { ThemeProvider } from '../context/ThemeContext';
+import { GoogleAnalytics } from '../components/GoogleAnalytics';
 
 const montserrat = Montserrat({
   subsets: ['latin'],
@@ -97,25 +97,7 @@ export default function RootLayout({
   return (
     <html lang="es" suppressHydrationWarning className={`dark ${montserrat.variable}`}>
       <body className={`${montserrat.className} font-sans min-h-screen flex flex-col antialiased`} suppressHydrationWarning>
-        {/* Google tag (gtag.js) */}
-        <Script
-          strategy="afterInteractive"
-          src={`https://www.googletagmanager.com/gtag/js?id=${GA_MEASUREMENT_ID}`}
-        />
-        <Script
-          id="google-analytics"
-          strategy="afterInteractive"
-          dangerouslySetInnerHTML={{
-            __html: `
-              window.dataLayer = window.dataLayer || [];
-              function gtag(){dataLayer.push(arguments);}
-              gtag('js', new Date());
-              gtag('config', '${GA_MEASUREMENT_ID}', {
-                page_path: window.location.pathname,
-              });
-            `,
-          }}
-        />
+        <GoogleAnalytics gaId={GA_MEASUREMENT_ID} />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}

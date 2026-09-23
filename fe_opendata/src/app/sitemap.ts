@@ -66,9 +66,8 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
         }
       }
     }
-  } catch (error) {
-    // Si la API no responde en tiempo de compilación o en ejecución, se conservan las rutas estáticas
-    console.warn('Sitemap: no se pudieron cargar recursos dinámicos desde la API', error);
+  } catch {
+    // Si la API no está activa durante el build estático, se conservan las rutas base
   }
 
   return [...staticRoutes, ...dynamicRoutes];
