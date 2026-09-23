@@ -180,7 +180,7 @@ export const AuthProfileModal: React.FC<AuthProfileModalProps> = ({ isOpen, onCl
           {activeTab === 'developer' && (
             <div className="space-y-4">
               <div className="p-3.5 rounded-2xl bg-emerald-500/10 border border-emerald-500/20 text-xs text-emerald-200">
-                Acceso público e irrestricto a los endpoints REST y GeoJSON de OpenData MINCETUR.
+                Acceso público e irrestricto a los endpoints REST y GeoJSON de OpenData Turismo.
               </div>
 
               <div>

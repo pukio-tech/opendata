@@ -74,7 +74,7 @@ export const ResourceModal: React.FC<ResourceModalProps> = ({ resource, onClose 
 
   return (
     <div className="fixed inset-0 z-50 overflow-y-auto bg-slate-950/85 backdrop-blur-md flex items-center justify-center p-3 sm:p-6 animate-fadeIn">
-      <div className="bg-slate-900 border border-slate-700/80 rounded-3xl max-w-4xl w-full max-h-[92vh] overflow-hidden shadow-2xl flex flex-col text-slate-100">
+      <div className="bg-slate-900 border border-slate-700/80 rounded-xl max-w-4xl w-full max-h-[92vh] overflow-hidden shadow-2xl flex flex-col text-slate-100">
         {/* Modal Header */}
         <div className="p-6 border-b border-slate-800 flex items-start justify-between bg-slate-950/70">
           <div>
@@ -213,7 +213,7 @@ export const ResourceModal: React.FC<ResourceModalProps> = ({ resource, onClose 
                     if (t.includes('responsable')) icon = <Icons.Award className="w-4 h-4 text-rose-400" />;
 
                     return (
-                      <div key={sec.id || idx} className="bg-slate-950/50 p-5 rounded-2xl border border-slate-800">
+                      <div key={sec.id || idx} className="bg-slate-950/50 p-5 rounded-xl border border-slate-800">
                         <h3 className="text-xs font-bold uppercase tracking-widest text-slate-200 mb-3 flex items-center gap-2">
                           {icon}
                           <span>{sec.titulo}</span>
@@ -222,7 +222,7 @@ export const ResourceModal: React.FC<ResourceModalProps> = ({ resource, onClose 
                         <div className="text-xs sm:text-sm text-slate-300 leading-relaxed overflow-x-auto">
                           {sec.contenido_html && sec.contenido_html.includes('<table') ? (
                             <div
-                              className="mincetur-table-wrapper prose prose-invert max-w-none text-xs"
+                              className="official-table-wrapper prose prose-invert max-w-none text-xs"
                               dangerouslySetInnerHTML={{ __html: sec.contenido_html }}
                             />
                           ) : (

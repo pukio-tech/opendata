@@ -1,8 +1,8 @@
 'use client';
 
 import React, { useState, useRef, useEffect } from 'react';
-import Link from 'next/link';
-import { useRouter, usePathname } from 'next/navigation';
+import { Link, useTransitionRouter } from 'next-view-transitions';
+import { usePathname } from 'next/navigation';
 import { Icons } from './Icons';
 import { useLanguage, LANGUAGES } from '../context/LanguageContext';
 import { useTheme } from '../context/ThemeContext';
@@ -34,17 +34,17 @@ function cleanLabel(text: string | null | undefined): string {
 
 export const Navbar = () => {
   const pathname = usePathname();
-  const router = useRouter();
+  const router = useTransitionRouter();
   const { language, setLanguage, t } = useLanguage();
-  const { theme, toggleTheme, isDark } = useTheme();
+  const { toggleTheme, isDark } = useTheme();
 
   // Estados de modales y menús
   const [isLangDropdownOpen, setIsLangDropdownOpen] = useState(false);
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
   const langDropdownRef = useRef<HTMLDivElement>(null);
 
-  // Estados de búsqueda en línea directa (sin modal)
-  const [isSearchExpanded, setIsSearchExpanded] = useState(false);
+  // Estados de búsqueda en tiempo real
+  const [isMobileSearchOpen, setIsMobileSearchOpen] = useState(false);
   const [searchQuery, setSearchQuery] = useState('');
   const [searchResults, setSearchResults] = useState<ResourceItem[]>([]);
   const [isSearching, setIsSearching] = useState(false);
@@ -54,6 +54,19 @@ export const Navbar = () => {
 
   const isHome = pathname === '/';
   const isTurismo = pathname === '/turismo';
+
+  // Soporte para atajo de teclado Ctrl+K o Cmd+K
+  useEffect(() => {
+    const handleKeyDown = (e: KeyboardEvent) => {
+      if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === 'k') {
+        e.preventDefault();
+        searchInputRef.current?.focus();
+        setIsResultsMenuOpen(true);
+      }
+    };
+    window.addEventListener('keydown', handleKeyDown);
+    return () => window.removeEventListener('keydown', handleKeyDown);
+  }, []);
 
   // Cerrar dropdowns al hacer clic afuera
   useEffect(() => {
@@ -69,20 +82,17 @@ export const Navbar = () => {
         !searchContainerRef.current.contains(event.target as Node)
       ) {
         setIsResultsMenuOpen(false);
-        if (!searchQuery.trim()) {
-          setIsSearchExpanded(false);
-        }
       }
     };
     document.addEventListener('mousedown', handleClickOutside);
     return () => document.removeEventListener('mousedown', handleClickOutside);
-  }, [searchQuery]);
+  }, []);
 
   // Cerrar menús al cambiar de ruta
   useEffect(() => {
     setIsMobileMenuOpen(false);
     setIsResultsMenuOpen(false);
-    setIsSearchExpanded(false);
+    setIsMobileSearchOpen(false);
     setSearchQuery('');
   }, [pathname]);
 
@@ -94,47 +104,49 @@ export const Navbar = () => {
       return;
     }
 
-    setIsSearching(true);
-    const timer = setTimeout(async () => {
-      try {
-        const trimmed = searchQuery.trim();
-        const codeFilter = !isNaN(Number(trimmed)) ? Number(trimmed) : undefined;
-        const res = await apiService.searchResources({
-          q: trimmed,
-          codigo: codeFilter,
+    const timer = setTimeout(() => {
+      setIsSearching(true);
+      apiService
+        .searchResources({
+          search: searchQuery.trim(),
           limit: 6,
+        })
+        .then((res) => {
+          setSearchResults(res.data || []);
+        })
+        .catch(() => {
+          setSearchResults([]);
+        })
+        .finally(() => {
+          setIsSearching(false);
         });
-        setSearchResults(res.data || []);
-      } catch (err) {
-        console.error('Error en búsqueda inline:', err);
-        setSearchResults([]);
-      } finally {
-        setIsSearching(false);
-      }
-    }, 200);
+    }, 280);
 
     return () => clearTimeout(timer);
   }, [searchQuery]);
 
-  // Manejar envío de búsqueda con Enter
   const handleSearchSubmit = (e?: React.FormEvent) => {
     if (e) e.preventDefault();
     if (!searchQuery.trim()) return;
     setIsResultsMenuOpen(false);
-    setIsSearchExpanded(false);
-    router.push(`/turismo?q=${encodeURIComponent(searchQuery.trim())}`);
+    setIsMobileSearchOpen(false);
+    router.push(`/turismo?search=${encodeURIComponent(searchQuery.trim())}`);
   };
 
   return (
-    <header className="sticky top-0 z-40 w-full bg-slate-950 border-b border-slate-800/80">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-20 flex items-center justify-between">
-        {/* Brand Logo & Mobile Toggle */}
-        <div className="flex items-center gap-3">
+    <header className="sticky top-0 z-[999] w-full bg-white dark:bg-slate-900 border-b border-slate-200 dark:border-slate-800 text-slate-800 dark:text-white transition-colors duration-200 select-none shadow-sm">
+      {/* ========================================================================= */}
+      {/* 2. BARRA DE NAVEGACIÓN PRINCIPAL (ESTRUCTURA INSTITUCIONAL) */}
+      {/* ========================================================================= */}
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between gap-4 sm:gap-6">
+        
+        {/* LOGO INSTITUCIONAL */}
+        <div className="flex items-center gap-3 shrink-0">
           <button
             type="button"
             onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
-            className="md:hidden p-2 text-slate-300 hover:text-white rounded-xl hover:bg-slate-800/60 transition-colors"
-            aria-label="Abrir menú"
+            className="md:hidden p-2 text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white rounded-lg hover:bg-slate-100 dark:hover:bg-slate-800 transition-colors"
+            aria-label="Abrir menú de navegación"
           >
             {isMobileMenuOpen ? (
               <Icons.X className="w-5 h-5" />
@@ -143,325 +155,319 @@ export const Navbar = () => {
             )}
           </button>
 
-          <Link href="/" className="flex items-center gap-2.5 sm:gap-3.5 group">
-            <div className="w-9 h-9 sm:w-10 sm:h-10 rounded-2xl bg-gradient-to-tr from-sky-500 to-blue-600 text-white flex items-center justify-center shadow-lg shadow-sky-500/30 group-hover:scale-105 transition-transform flex-shrink-0">
-              <Icons.Compass className="w-5 h-5" />
+          <Link href="/" className="flex items-center gap-3 group">
+            <div className="w-9 h-9 rounded-lg bg-sky-600 text-white flex items-center justify-center shadow-sm">
+              <Icons.Database className="w-5 h-5 text-white" />
             </div>
-            <div>
-              <span className="text-lg sm:text-xl font-black text-white tracking-tight flex items-center gap-1">
-                OPEN<span className="text-transparent bg-clip-text bg-gradient-to-r from-sky-400 via-amber-300 to-orange-400">DATA</span>
-              </span>
-              <p className="hidden xs:block text-[9px] sm:text-[10px] uppercase tracking-widest text-slate-400 font-semibold truncate max-w-[150px] sm:max-w-none">
-                {t('nav.portalNacional')}
+            <div className="flex flex-col">
+              <div className="flex items-center gap-2 leading-none">
+                <span className="text-lg font-bold text-slate-900 dark:text-white tracking-tight">
+                  OPEN<span className="text-sky-600 dark:text-sky-400">DATA</span>
+                </span>
+                <span className="text-[10px] font-mono font-bold px-1.5 py-0.5 rounded bg-slate-100 dark:bg-slate-800 text-slate-700 dark:text-slate-300 border border-slate-200 dark:border-slate-700/80">
+                  TURISMO
+                </span>
+              </div>
+              <p className="text-[10px] uppercase tracking-wider text-slate-500 dark:text-slate-400 font-medium mt-1 hidden xs:block">
+                Inventario Turístico Nacional
               </p>
             </div>
           </Link>
         </div>
 
-        {/* Desktop Navigation Links */}
-        <nav className="hidden md:flex items-center gap-6 text-sm font-medium">
-          <Link
-            href="/"
-            className={`relative py-1.5 transition-colors font-semibold ${
-              isHome
-                ? 'text-white'
-                : 'text-slate-300 hover:text-white'
-            }`}
-          >
-            <span>{t('nav.inicio')}</span>
-            {isHome && (
-              <span className="absolute bottom-0 left-0 right-0 h-0.5 bg-sky-400 rounded-full" />
-            )}
-          </Link>
+        {/* BARRA DE BÚSQUEDA TÉCNICA / DATOS (VISIBLE EN PANTALLAS GRANDES) */}
+        <div className="hidden lg:flex flex-1 max-w-md relative" ref={searchContainerRef}>
+          <form onSubmit={handleSearchSubmit} className="w-full relative">
+            <div className="relative flex items-center w-full">
+              <Icons.Search className="w-4 h-4 text-slate-400 absolute left-3 pointer-events-none" />
+              <input
+                ref={searchInputRef}
+                type="text"
+                value={searchQuery}
+                onChange={(e) => {
+                  setSearchQuery(e.target.value);
+                  setIsResultsMenuOpen(true);
+                }}
+                onFocus={() => setIsResultsMenuOpen(true)}
+                placeholder="Buscar por recurso, ubigeo o código..."
+                className="w-full bg-slate-50 dark:bg-slate-950 border border-slate-200 dark:border-slate-700 rounded-lg pl-9 pr-14 py-1.5 text-xs text-slate-900 dark:text-white placeholder-slate-400 focus:outline-none focus:border-sky-500 focus:ring-1 focus:ring-sky-500 transition-all font-sans"
+              />
+              {searchQuery ? (
+                <button
+                  type="button"
+                  onClick={() => {
+                    setSearchQuery('');
+                    searchInputRef.current?.focus();
+                  }}
+                  className="absolute right-2.5 p-0.5 text-slate-400 hover:text-slate-700 dark:hover:text-white rounded transition-colors"
+                >
+                  <Icons.X className="w-3.5 h-3.5" />
+                </button>
+              ) : (
+                <span className="absolute right-2.5 text-[10px] font-mono text-slate-400 border border-slate-200 dark:border-slate-800 bg-slate-100 dark:bg-slate-900 px-1 py-0.5 rounded pointer-events-none">
+                  Ctrl+K
+                </span>
+              )}
+            </div>
+          </form>
 
-          <Link
-            href="/turismo"
-            className={`relative py-1.5 transition-colors font-medium ${
-              isTurismo
-                ? 'text-white'
-                : 'text-slate-300 hover:text-white'
-            }`}
-          >
-            <span>{t('nav.turismo')}</span>
-            {isTurismo && (
-              <span className="absolute bottom-0 left-0 right-0 h-0.5 bg-sky-400 rounded-full" />
-            )}
-          </Link>
-        </nav>
+          {/* Menú desplegable de resultados tipo catálogo de datos */}
+          {isResultsMenuOpen && searchQuery.trim() && (
+            <div className="absolute top-full left-0 right-0 mt-2 bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-700 rounded-xl shadow-2xl p-2 z-50 overflow-hidden">
+              {isSearching && (
+                <div className="p-4 text-center flex items-center justify-center gap-2 text-xs text-slate-500 dark:text-slate-400">
+                  <div className="w-4 h-4 border-2 border-sky-500 border-t-transparent rounded-full animate-spin" />
+                  <span>Consultando inventario nacional...</span>
+                </div>
+              )}
 
-        {/* Right Action Controls */}
-        <div className="flex items-center gap-1 sm:gap-2">
-          {/* Theme Toggle Button */}
-          <button
-            type="button"
-            onClick={toggleTheme}
-            className="p-2 text-slate-300 hover:text-white rounded-xl hover:bg-slate-800/60 transition-all hover:scale-105"
-            title={isDark ? 'Cambiar a Modo Claro' : 'Cambiar a Modo Oscuro'}
-            aria-label="Alternar modo de color"
-          >
-            {isDark ? (
-              <Icons.Sun className="w-4 h-4 text-amber-400" />
-            ) : (
-              <Icons.Moon className="w-4 h-4 text-sky-400" />
-            )}
-          </button>
+              {!isSearching && searchResults.length > 0 && (
+                <div className="space-y-1">
+                  <div className="px-3 py-1.5 text-[10px] font-bold uppercase tracking-wider text-slate-500 dark:text-slate-400 border-b border-slate-100 dark:border-slate-800 flex justify-between items-center">
+                    <span>Resultados Oficiales</span>
+                    <span className="font-mono text-sky-600 dark:text-sky-400 font-semibold">{searchResults.length} registros</span>
+                  </div>
 
-          {/* Vertical Divider */}
-          <div className="h-4 w-px bg-slate-800 mx-0.5" />
-          {/* Language Selector (Sin contorno) */}
-          <div className="relative" ref={langDropdownRef}>
+                  <div className="max-h-72 overflow-y-auto space-y-1 py-1">
+                    {searchResults.map((item) => {
+                      const itemSlug = createResourceSlug(item.nombre, item.codigo);
+                      const photoUrl = item.imagen || item.foto_url || getPhotoUrl(item.codigo);
+                      return (
+                        <Link
+                          key={item.codigo}
+                          href={`/turismo/${itemSlug}`}
+                          onClick={() => {
+                            setIsResultsMenuOpen(false);
+                            setSearchQuery('');
+                          }}
+                          className="flex items-center gap-3 p-2 rounded-lg hover:bg-slate-50 dark:hover:bg-slate-800 transition-colors group border border-transparent hover:border-slate-200 dark:hover:border-slate-700"
+                        >
+                          <div className="w-10 h-10 rounded overflow-hidden shrink-0 bg-slate-100 dark:bg-slate-800 border border-slate-200 dark:border-slate-700">
+                            <img
+                              src={photoUrl}
+                              alt={item.nombre}
+                              className="w-full h-full object-cover"
+                              onError={(e) => {
+                                e.currentTarget.onerror = null;
+                                e.currentTarget.src = 'https://images.unsplash.com/photo-1526392060635-9d6019884377?w=120&auto=format&fit=crop&q=60';
+                              }}
+                            />
+                          </div>
+
+                          <div className="flex-1 min-w-0">
+                            <h4 className="text-xs font-bold text-slate-900 dark:text-white group-hover:text-sky-600 dark:group-hover:text-sky-400 transition-colors truncate">
+                              {item.nombre}
+                            </h4>
+                            <div className="flex items-center gap-1.5 text-[10px] text-slate-500 dark:text-slate-400 truncate mt-0.5">
+                              <span className="truncate">{cleanLabel(item.desubigeo || item.desprov || item.desdpto || 'Perú')}</span>
+                              {item.categoria && (
+                                <>
+                                  <span className="text-slate-300 dark:text-slate-600">•</span>
+                                  <span className="text-slate-700 dark:text-slate-300 truncate font-medium">{cleanLabel(item.categoria)}</span>
+                                </>
+                              )}
+                            </div>
+                          </div>
+
+                          <span className="text-[10px] font-mono font-bold px-1.5 py-0.5 rounded bg-slate-100 dark:bg-slate-800 text-sky-600 dark:text-sky-400 border border-slate-200 dark:border-slate-700 shrink-0">
+                            #{item.codigo}
+                          </span>
+                        </Link>
+                      );
+                    })}
+                  </div>
+
+                  <button
+                    type="button"
+                    onClick={() => handleSearchSubmit()}
+                    className="w-full mt-1 pt-2 pb-1 px-3 border-t border-slate-100 dark:border-slate-800 text-center text-xs font-bold text-sky-600 dark:text-sky-400 hover:text-sky-500 flex items-center justify-center gap-1 transition-colors cursor-pointer"
+                  >
+                    <span>Ver todos los resultados en el catálogo</span>
+                    <Icons.ArrowRight className="w-3.5 h-3.5" />
+                  </button>
+                </div>
+              )}
+
+              {!isSearching && searchResults.length === 0 && (
+                <div className="p-4 text-center space-y-1">
+                  <p className="text-xs font-bold text-slate-800 dark:text-slate-300">
+                    No se encontraron registros para &quot;{searchQuery}&quot;
+                  </p>
+                  <p className="text-[11px] text-slate-500 dark:text-slate-400">
+                    Presiona Enter para buscar coincidencias parciales en el catálogo.
+                  </p>
+                </div>
+              )}
+            </div>
+          )}
+        </div>
+
+        {/* ENLACES Y ACCIONES DERECHAS */}
+        <div className="flex items-center gap-4 sm:gap-6">
+          {/* Navegación institucional seria */}
+          <nav className="hidden md:flex items-center gap-5 text-xs font-semibold tracking-wide text-slate-600 dark:text-slate-300">
+            <Link
+              href="/"
+              className={`py-1 transition-colors ${
+                isHome
+                  ? 'text-sky-600 dark:text-white border-b-2 border-sky-500 font-bold'
+                  : 'hover:text-slate-900 dark:hover:text-white'
+              }`}
+            >
+              {t('nav.inicio')}
+            </Link>
+
+            <Link
+              href="/turismo"
+              className={`py-1 transition-colors ${
+                isTurismo
+                  ? 'text-sky-600 dark:text-white border-b-2 border-sky-500 font-bold'
+                  : 'hover:text-slate-900 dark:hover:text-white'
+              }`}
+            >
+              {t('nav.turismo')}
+            </Link>
+          </nav>
+
+          {/* Controles de Utilidad (Idioma, Búsqueda móvil y Tema) */}
+          <div className="flex items-center gap-2 border-l border-slate-200 dark:border-slate-800 pl-3 sm:pl-4">
+            {/* Botón de Búsqueda Móvil */}
             <button
               type="button"
-              onClick={() => setIsLangDropdownOpen(!isLangDropdownOpen)}
-              className="flex items-center gap-1 px-1.5 sm:px-2 py-1 bg-transparent text-slate-200 hover:text-white font-semibold text-xs sm:text-sm transition-colors cursor-pointer outline-none border-0"
-              aria-label={t('nav.selectLang')}
-              aria-expanded={isLangDropdownOpen}
+              onClick={() => setIsMobileSearchOpen(!isMobileSearchOpen)}
+              className="lg:hidden p-2 text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white rounded-lg hover:bg-slate-100 dark:hover:bg-slate-800 transition-colors"
+              title="Buscar en inventario"
             >
-              <span>{language}</span>
-              <Icons.ChevronDown className={`w-3.5 h-3.5 text-slate-300 transition-transform duration-200 ${isLangDropdownOpen ? 'rotate-180' : ''}`} />
+              <Icons.Search className="w-4 h-4" />
             </button>
 
-            {/* Language Dropdown Menu */}
-            {isLangDropdownOpen && (
-              <div className="absolute right-0 mt-2 w-44 bg-slate-900 border border-slate-700 rounded-2xl p-1.5 shadow-2xl shadow-black/80 z-50 animate-scaleUp">
-                <div className="px-2 py-1 text-[10px] uppercase font-bold tracking-wider text-slate-400">
-                  {t('nav.selectLang')}
-                </div>
-                {LANGUAGES.map((lang) => {
-                  const isSelected = language === lang.code;
-                  return (
+            {/* Selector de Idioma Formal */}
+            <div className="relative" ref={langDropdownRef}>
+              <button
+                type="button"
+                onClick={() => setIsLangDropdownOpen(!isLangDropdownOpen)}
+                className="flex items-center gap-1.5 px-2.5 py-1.5 rounded-lg border border-slate-200 dark:border-slate-700 bg-slate-50 dark:bg-slate-950 text-slate-700 dark:text-slate-300 hover:text-slate-900 dark:hover:text-white text-xs font-semibold hover:border-slate-300 dark:hover:border-slate-600 transition-colors cursor-pointer shadow-sm"
+                aria-label={t('nav.selectLang')}
+              >
+                <Icons.Globe className="w-3.5 h-3.5 text-slate-400" />
+                <span>{language}</span>
+                <Icons.ChevronDown className={`w-3 h-3 text-slate-400 transition-transform ${isLangDropdownOpen ? 'rotate-180' : ''}`} />
+              </button>
+
+              {isLangDropdownOpen && (
+                <div className="absolute right-0 mt-2 w-36 bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-700 rounded-lg p-1 shadow-xl z-50 text-xs">
+                  {LANGUAGES.map((lang) => (
                     <button
                       key={lang.code}
-                      type="button"
                       onClick={() => {
                         setLanguage(lang.code);
                         setIsLangDropdownOpen(false);
                       }}
-                      className={`w-full flex items-center justify-between px-3 py-2 rounded-xl text-xs font-semibold transition-all ${
-                        isSelected
-                          ? 'bg-sky-500/20 text-sky-300 border border-sky-500/30'
-                          : 'text-slate-300 hover:bg-slate-800 hover:text-white'
+                      className={`w-full flex items-center justify-between px-3 py-1.5 rounded text-left transition-colors cursor-pointer ${
+                        language === lang.code
+                          ? 'bg-sky-50 dark:bg-sky-600/20 text-sky-600 dark:text-sky-400 font-bold'
+                          : 'text-slate-700 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-800 hover:text-slate-900 dark:hover:text-white'
                       }`}
                     >
-                      <div className="flex items-center gap-2">
-                        <span className="font-bold">{lang.label}</span>
-                        <span className="text-[11px] opacity-80 font-normal">{lang.name}</span>
-                      </div>
-                      {isSelected && (
-                        <Icons.CheckCircle className="w-3.5 h-3.5 text-sky-400 shrink-0" />
-                      )}
+                      <span>{lang.name}</span>
+                      <span className="font-mono text-[10px] text-slate-400">{lang.code}</span>
                     </button>
-                  );
-                })}
-              </div>
-            )}
-          </div>
+                  ))}
+                </div>
+              )}
+            </div>
 
-          {/* Vertical Divider */}
-          <div className="h-4 w-px bg-slate-700/80 mx-0.5 sm:mx-1" />
-
-          {/* Buscador Inline Directo (Escribir ahí nomás y listar resultados como un menú) */}
-          <div className="relative" ref={searchContainerRef}>
-            {!isSearchExpanded ? (
-              <button
-                type="button"
-                onClick={() => {
-                  setIsSearchExpanded(true);
-                  setIsResultsMenuOpen(true);
-                  setTimeout(() => searchInputRef.current?.focus(), 50);
-                }}
-                className="p-2 text-slate-300 hover:text-white hover:bg-slate-800/60 rounded-xl transition-all hover:scale-105 active:scale-95"
-                title={t('nav.buscar')}
-                aria-label={t('nav.buscar')}
-              >
-                <Icons.Search className="w-5 h-5" />
-              </button>
-            ) : (
-              <form
-                onSubmit={handleSearchSubmit}
-                className="flex items-center gap-1.5 bg-slate-900 border border-slate-700/90 rounded-full px-3 py-1 shadow-inner animate-scaleUp"
-              >
-                <Icons.Search className="w-4 h-4 text-sky-400 shrink-0" />
-                <input
-                  ref={searchInputRef}
-                  type="text"
-                  value={searchQuery}
-                  onChange={(e) => {
-                    setSearchQuery(e.target.value);
-                    setIsResultsMenuOpen(true);
-                  }}
-                  onFocus={() => setIsResultsMenuOpen(true)}
-                  placeholder={t('search.placeholder')}
-                  className="bg-transparent text-white text-xs placeholder-slate-400 focus:outline-none w-36 sm:w-60 md:w-72"
-                />
-                {searchQuery ? (
-                  <button
-                    type="button"
-                    onClick={() => {
-                      setSearchQuery('');
-                      searchInputRef.current?.focus();
-                    }}
-                    className="p-0.5 text-slate-400 hover:text-white rounded-full transition-colors"
-                  >
-                    <Icons.X className="w-3.5 h-3.5" />
-                  </button>
-                ) : (
-                  <button
-                    type="button"
-                    onClick={() => {
-                      setIsSearchExpanded(false);
-                      setIsResultsMenuOpen(false);
-                    }}
-                    className="p-0.5 text-slate-400 hover:text-white rounded-full transition-colors"
-                  >
-                    <Icons.X className="w-3.5 h-3.5" />
-                  </button>
-                )}
-              </form>
-            )}
-
-            {/* Menú Flotante de Resultados de Búsqueda Directa */}
-            {isSearchExpanded && isResultsMenuOpen && searchQuery.trim() && (
-              <div className="absolute right-0 mt-2 w-80 sm:w-96 bg-slate-900/95 backdrop-blur-xl border border-slate-700/90 rounded-2xl shadow-2xl shadow-black/90 p-2 z-50 animate-scaleUp overflow-hidden">
-                {/* Cargando */}
-                {isSearching && (
-                  <div className="p-4 text-center flex items-center justify-center gap-2 text-xs text-slate-400">
-                    <div className="w-4 h-4 border-2 border-sky-400 border-t-transparent rounded-full animate-spin" />
-                    <span>{t('turismo.loading')}</span>
-                  </div>
-                )}
-
-                {/* Si hay resultados de búsqueda */}
-                {!isSearching && searchResults.length > 0 && (
-                  <div className="space-y-1">
-                    <div className="px-3 py-1.5 text-[10px] font-bold uppercase tracking-wider text-slate-400 border-b border-slate-800 flex justify-between items-center">
-                      <span>Destinos Encontrados</span>
-                      <span className="font-mono text-sky-400">{searchResults.length} resultados</span>
-                    </div>
-
-                    <div className="max-h-80 overflow-y-auto space-y-1.5 py-1">
-                      {searchResults.map((item) => {
-                        const itemSlug = createResourceSlug(item.nombre, item.codigo);
-                        const photoUrl = item.imagen || item.foto_url || getPhotoUrl(item.codigo);
-                        return (
-                          <Link
-                            key={item.codigo}
-                            href={`/turismo/${itemSlug}`}
-                            onClick={() => {
-                              setIsResultsMenuOpen(false);
-                              setIsSearchExpanded(false);
-                            }}
-                            className="flex items-center gap-3 p-2 rounded-xl hover:bg-slate-800/90 transition-all duration-200 group border border-transparent hover:border-slate-700/60"
-                          >
-                            {/* Miniatura Imagen */}
-                            <div className="w-11 h-11 rounded-lg overflow-hidden shrink-0 bg-slate-800 border border-slate-700/80 relative shadow-inner">
-                              <img
-                                src={photoUrl}
-                                alt={item.nombre}
-                                className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-300"
-                                onError={(e) => {
-                                  e.currentTarget.onerror = null;
-                                  e.currentTarget.src = 'https://images.unsplash.com/photo-1526392060635-9d6019884377?w=120&auto=format&fit=crop&q=60';
-                                }}
-                              />
-                            </div>
-
-                            {/* Info */}
-                            <div className="flex-1 min-w-0">
-                              <h4 className="text-xs font-bold text-white group-hover:text-amber-400 transition-colors truncate">
-                                {item.nombre}
-                              </h4>
-                              <div className="flex items-center gap-1.5 text-[10px] text-slate-400 truncate mt-0.5">
-                                <span className="truncate">{item.desubigeo || item.desprov || item.desdpto || 'Perú'}</span>
-                                {item.categoria && (
-                                  <>
-                                    <span className="text-slate-600">•</span>
-                                    <span className="text-sky-400/90 truncate font-medium">{item.categoria}</span>
-                                  </>
-                                )}
-                              </div>
-                            </div>
-
-                            <span className="text-[10px] font-mono font-bold px-2 py-0.5 rounded bg-slate-800/90 text-amber-300 border border-slate-700/80 shrink-0">
-                              #{item.codigo}
-                            </span>
-                          </Link>
-                        );
-                      })}
-                    </div>
-
-                    {/* Botón Ver todos */}
-                    <button
-                      type="button"
-                      onClick={() => handleSearchSubmit()}
-                      className="w-full mt-1 pt-2 pb-1.5 px-3 border-t border-slate-800 text-center text-xs font-bold text-sky-400 hover:text-sky-300 flex items-center justify-center gap-1 transition-colors"
-                    >
-                      <span>{t('search.exploreAll')}</span>
-                      <Icons.ArrowRight className="w-3.5 h-3.5" />
-                    </button>
-                  </div>
-                )}
-
-                {/* Si no se encontraron resultados */}
-                {!isSearching && searchResults.length === 0 && (
-                  <div className="p-4 text-center space-y-1">
-                    <p className="text-xs font-bold text-slate-300">
-                      No se encontraron recursos para &quot;{searchQuery}&quot;
-                    </p>
-                    <p className="text-[11px] text-slate-400">
-                      Intenta con otra palabra clave o presiona Enter para ver el catálogo general.
-                    </p>
-                  </div>
-                )}
-              </div>
-            )}
+            {/* Alternador de Tema Discreto */}
+            <button
+              type="button"
+              onClick={toggleTheme}
+              className="p-2 text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white rounded-lg hover:bg-slate-100 dark:hover:bg-slate-800 transition-colors cursor-pointer"
+              title={isDark ? 'Cambiar a modo claro' : 'Cambiar a modo oscuro'}
+              aria-label="Alternar tema"
+            >
+              {isDark ? (
+                <Icons.Sun className="w-4 h-4 text-amber-400" />
+              ) : (
+                <Icons.Moon className="w-4 h-4 text-sky-600" />
+              )}
+            </button>
           </div>
 
         </div>
       </div>
 
-      {/* Mobile Navigation Drawer */}
+      {/* ========================================================================= */}
+      {/* 3. BÚSQUEDA DESPLEGABLE EN MÓVIL */}
+      {/* ========================================================================= */}
+      {isMobileSearchOpen && (
+        <div className="lg:hidden border-t border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-950 px-4 py-3 animate-fadeIn">
+          <form onSubmit={handleSearchSubmit} className="relative">
+            <Icons.Search className="w-4 h-4 text-slate-400 absolute left-3 top-1/2 -translate-y-1/2" />
+            <input
+              type="text"
+              value={searchQuery}
+              onChange={(e) => setSearchQuery(e.target.value)}
+              placeholder="Buscar recurso, ubigeo o código..."
+              className="w-full bg-slate-50 dark:bg-slate-900 border border-slate-200 dark:border-slate-700 rounded-lg pl-9 pr-9 py-2 text-xs text-slate-900 dark:text-white placeholder-slate-400 focus:outline-none focus:border-sky-500"
+              autoFocus
+            />
+            {searchQuery && (
+              <button
+                type="button"
+                onClick={() => setSearchQuery('')}
+                className="absolute right-2.5 top-1/2 -translate-y-1/2 text-slate-400 hover:text-slate-700 dark:hover:text-white"
+              >
+                <Icons.X className="w-3.5 h-3.5" />
+              </button>
+            )}
+          </form>
+        </div>
+      )}
+
+      {/* ========================================================================= */}
+      {/* 4. MENÚ MÓVIL INSTITUCIONAL */}
+      {/* ========================================================================= */}
       {isMobileMenuOpen && (
-        <div className="md:hidden border-t border-slate-800 bg-slate-950 px-4 py-3 space-y-1 animate-fadeIn">
+        <div className="md:hidden border-t border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-950 px-4 py-3 space-y-1 animate-fadeIn">
           <Link
             href="/"
             onClick={() => setIsMobileMenuOpen(false)}
-            className={`block px-3 py-2 rounded-xl text-sm font-semibold transition-colors ${
-              isHome ? 'bg-sky-500/20 text-sky-400' : 'text-slate-300 hover:bg-slate-900 hover:text-white'
+            className={`block px-3 py-2 rounded-lg text-sm font-semibold transition-colors ${
+              isHome ? 'bg-sky-50 dark:bg-sky-600/20 text-sky-600 dark:text-sky-400 font-bold' : 'text-slate-700 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-900 hover:text-slate-900 dark:hover:text-white'
             }`}
           >
             {t('nav.inicio')}
           </Link>
+
           <Link
             href="/turismo"
             onClick={() => setIsMobileMenuOpen(false)}
-            className={`block px-3 py-2 rounded-xl text-sm font-semibold transition-colors ${
-              isTurismo ? 'bg-sky-500/20 text-sky-400' : 'text-slate-300 hover:bg-slate-900 hover:text-white'
+            className={`block px-3 py-2 rounded-lg text-sm font-semibold transition-colors ${
+              isTurismo ? 'bg-sky-50 dark:bg-sky-600/20 text-sky-600 dark:text-sky-400 font-bold' : 'text-slate-700 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-900 hover:text-slate-900 dark:hover:text-white'
             }`}
           >
             {t('nav.turismo')}
           </Link>
-          <Link
-            href="/#opendata-stats"
-            onClick={() => setIsMobileMenuOpen(false)}
-            className="block px-3 py-2 rounded-xl text-sm font-semibold text-slate-300 hover:bg-slate-900 hover:text-white transition-colors"
-          >
-            Open Data Portal
-          </Link>
+
           <Link
             href="/#mapa-preview"
             onClick={() => setIsMobileMenuOpen(false)}
-            className="block px-3 py-2 rounded-xl text-sm font-semibold text-slate-300 hover:bg-slate-900 hover:text-white transition-colors"
+            className="block px-3 py-2 rounded-lg text-sm font-semibold text-slate-700 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-900 hover:text-slate-900 dark:hover:text-white transition-colors"
           >
-            Mapa Interactivo
+            Geoportal Turístico Nacional
           </Link>
-          <div className="pt-2 border-t border-slate-800 flex items-center justify-between">
+
+          <div className="pt-3 mt-2 border-t border-slate-200 dark:border-slate-800 flex items-center justify-between text-xs text-slate-500 dark:text-slate-400">
+            <div className="flex items-center gap-1.5">
+              <span className="w-2 h-2 rounded-full bg-emerald-500 inline-block" />
+              <span>Inventario Nacional</span>
+            </div>
             <button
               type="button"
               onClick={toggleTheme}
-              className="flex items-center gap-2 px-3 py-2 rounded-xl text-xs font-semibold text-slate-300 hover:bg-slate-900 hover:text-white"
+              className="flex items-center gap-1.5 px-2.5 py-1 rounded bg-slate-100 dark:bg-slate-900 border border-slate-200 dark:border-slate-800 text-slate-700 dark:text-slate-300 font-semibold"
             >
-              {isDark ? <Icons.Sun className="w-4 h-4 text-amber-400" /> : <Icons.Moon className="w-4 h-4 text-sky-400" />}
+              {isDark ? <Icons.Sun className="w-3.5 h-3.5 text-amber-400" /> : <Icons.Moon className="w-3.5 h-3.5 text-sky-600" />}
               <span>{isDark ? 'Modo Claro' : 'Modo Oscuro'}</span>
             </button>
           </div>

@@ -1,5 +1,6 @@
 import type { Metadata } from 'next';
 import { Montserrat } from 'next/font/google';
+import { ViewTransitions } from 'next-view-transitions';
 import './globals.css';
 import { Navbar } from '../components/Navbar';
 import { Footer } from '../components/Footer';
@@ -24,11 +25,10 @@ export const metadata: Metadata = {
     template: '%s | OpenData Perú',
   },
   description:
-    'Explora y consulta de manera dinámica los recursos, atractivos y actividades turísticas de los 25 departamentos del Perú mediante la plataforma de datos abiertos OpenData MINCETUR.',
+    'Explora y consulta de manera dinámica los recursos, atractivos y actividades turísticas de los 25 departamentos del Perú mediante la plataforma nacional de datos abiertos.',
   applicationName: 'OpenData Perú',
   keywords: [
     'OpenData Perú',
-    'MINCETUR',
     'datos abiertos turismo',
     'turismo Perú',
     'inventario nacional de recursos turísticos',
@@ -59,13 +59,13 @@ export const metadata: Metadata = {
     siteName: 'OpenData Perú',
     title: 'OpenData Perú | Plataforma Nacional de Datos Abiertos de Turismo',
     description:
-      'Explora y consulta más de 5,000 recursos y atractivos turísticos oficiales del Perú con georreferenciación, fotos y fichas técnicas del MINCETUR.',
+      'Explora y consulta recursos y atractivos turísticos oficiales del Perú con georreferenciación, fotos y fichas técnicas oficiales.',
   },
   twitter: {
     card: 'summary_large_image',
     title: 'OpenData Perú | Plataforma Nacional de Datos Abiertos de Turismo',
     description:
-      'Explora y consulta más de 5,000 recursos y atractivos turísticos oficiales del Perú con georreferenciación, fotos y fichas técnicas del MINCETUR.',
+      'Explora y consulta recursos y atractivos turísticos oficiales del Perú con georreferenciación, fotos y fichas técnicas oficiales.',
   },
   alternates: {
     canonical: '/',
@@ -83,7 +83,7 @@ export default function RootLayout({
     name: 'OpenData Perú',
     url: SITE_URL,
     description:
-      'Plataforma Nacional de Datos Abiertos de Turismo del Perú con información del inventario oficial de MINCETUR.',
+      'Plataforma Nacional de Datos Abiertos de Turismo del Perú con información del inventario turístico oficial.',
     potentialAction: {
       '@type': 'SearchAction',
       target: {
@@ -95,25 +95,27 @@ export default function RootLayout({
   };
 
   return (
-    <html lang="es" suppressHydrationWarning className={`dark ${montserrat.variable}`}>
-      <body className={`${montserrat.className} font-sans min-h-screen flex flex-col antialiased`} suppressHydrationWarning>
-        <GoogleAnalytics gaId={GA_MEASUREMENT_ID} />
-        <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
-        />
+    <ViewTransitions>
+      <html lang="es" suppressHydrationWarning className={`dark ${montserrat.variable}`}>
+        <body className={`${montserrat.className} font-sans min-h-screen flex flex-col antialiased`} suppressHydrationWarning>
+          <GoogleAnalytics gaId={GA_MEASUREMENT_ID} />
+          <script
+            type="application/ld+json"
+            dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+          />
 
-        <ThemeProvider>
-          <LanguageProvider>
-            <Navbar />
-            <div className="flex-1 flex flex-col">
-              {children}
-            </div>
-            <Footer />
-          </LanguageProvider>
-        </ThemeProvider>
-      </body>
-    </html>
+          <ThemeProvider>
+            <LanguageProvider>
+              <Navbar />
+              <div className="flex-1 flex flex-col">
+                {children}
+              </div>
+              <Footer />
+            </LanguageProvider>
+          </ThemeProvider>
+        </body>
+      </html>
+    </ViewTransitions>
   );
 }
 

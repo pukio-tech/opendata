@@ -287,63 +287,63 @@ function TurismoPageContent() {
   const activeDeptName = departments.find((d) => d.iddpto === appliedFilters.dept)?.departamento;
 
   return (
-    <main className="flex-1 bg-slate-50 dark:bg-[#070b14] text-slate-900 dark:text-slate-100 transition-colors duration-300 min-h-screen pb-24">
+    <main className="flex-1 bg-slate-50 dark:bg-slate-950 text-slate-800 dark:text-slate-100 transition-colors duration-200 min-h-screen pb-24">
       {/* ========================================================================= */}
-      {/* 1. HERO HEADER DE TURISMO - ADAPTABLE DARK / LIGHT MODE CON GLASSMORPHISM */}
+      {/* 1. HERO HEADER DE TURISMO - ESTILO INSTITUCIONAL */}
       {/* ========================================================================= */}
-      <section className="relative pt-12 pb-16 px-4 sm:px-6 lg:px-8 border-b border-slate-200 dark:border-slate-800/80 bg-gradient-to-b from-slate-900 via-slate-950 to-slate-950 dark:from-slate-950 dark:via-[#070b14] dark:to-[#070b14] text-white">
+      <section className="relative pt-10 pb-16 px-4 sm:px-6 lg:px-8 border-b border-slate-200 dark:border-slate-800 bg-slate-950 text-white">
         {/* Fondo sutil con imagen del Perú */}
-        <div className="absolute inset-0 overflow-hidden z-0 pointer-events-none opacity-20">
+        <div className="absolute inset-0 overflow-hidden z-0 pointer-events-none opacity-25">
           <img
             src="https://images.unsplash.com/photo-1526392060635-9d6019884377?q=80&w=1920&auto=format&fit=crop"
             alt="Perú Turismo"
             className="w-full h-full object-cover"
           />
-          <div className="absolute inset-0 bg-gradient-to-t from-slate-950 via-slate-950/80 to-slate-950/40" />
+          <div className="absolute inset-0 bg-slate-950/80 backdrop-blur-[0.5px]" />
+          <div className="absolute inset-0 bg-gradient-to-t from-slate-950 via-slate-950/70 to-slate-950/50" />
         </div>
 
         <div className="max-w-6xl mx-auto relative z-10 text-center w-full">
           {/* Badge superior */}
-          <div className="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-amber-400/10 border border-amber-400/20 text-amber-400 text-xs font-bold uppercase tracking-wider mb-4">
-            <Icons.Compass className="w-3.5 h-3.5" />
-            <span>Portal Nacional Open Data</span>
+          <div className="inline-flex items-center gap-2 px-3 py-1.5 rounded-lg bg-slate-900/90 border border-slate-700/80 text-[11px] font-mono text-slate-300 backdrop-blur-md shadow-sm mb-4">
+            <span className="w-2 h-2 rounded-full bg-emerald-400 animate-pulse" />
+            <span className="font-semibold text-slate-100">CATÁLOGO NACIONAL</span>
+            <span className="text-slate-500">•</span>
+            <span className="text-sky-400 font-semibold">INVENTARIO TURÍSTICO</span>
           </div>
 
-          <h1 className="text-3xl sm:text-5xl lg:text-6xl font-black tracking-tight text-white uppercase leading-none mb-3">
-            {t('turismo.title')}{' '}
-            <span className="text-transparent bg-clip-text bg-gradient-to-r from-amber-400 via-orange-300 to-amber-200">
-              {t('turismo.titleHighlight')}
-            </span>
+          <h1 className="text-3xl sm:text-5xl font-extrabold tracking-tight text-white leading-tight">
+            Explorador del Patrimonio <span className="text-sky-400">Turístico del Perú</span>
           </h1>
 
-          <p className="text-xs sm:text-base text-slate-300 font-normal max-w-2xl mx-auto mb-8 leading-relaxed">
-            {t('turismo.subtitle')}
+          <p className="mt-3 text-xs sm:text-base text-slate-200 font-normal max-w-2xl mx-auto mb-6 leading-relaxed">
+            Consulte más de 2,290 recursos georreferenciados con metadatos oficiales, rutas de acceso y coordenadas espaciales.
           </p>
 
           {/* Caja de Búsqueda y Filtros con Soporte Dark/Light Mode */}
           <div
             id="busqueda-avanzada"
-            className="max-w-5xl mx-auto bg-white/95 dark:bg-slate-900/90 backdrop-blur-2xl p-5 sm:p-7 rounded-3xl shadow-2xl border border-slate-200/90 dark:border-slate-800 text-left space-y-4"
+            className="max-w-6xl mx-auto bg-white/95 dark:bg-slate-900/95 border border-slate-200 dark:border-slate-800 rounded-xl p-4 sm:p-5 shadow-2xl backdrop-blur-md text-left space-y-3 transition-colors"
           >
-            <form onSubmit={handleSearchSubmit} className="space-y-4">
+            <form onSubmit={handleSearchSubmit} className="space-y-3">
               {/* Fila 1: Buscador de texto + Botón Avanzado + Botón Buscar */}
               <div className="flex flex-col sm:flex-row items-center gap-3">
                 <div className="relative flex-1 w-full">
-                  <Icons.Search className="w-5 h-5 text-slate-400 absolute left-4 top-1/2 -translate-y-1/2" />
+                  <Icons.Search className="w-4 h-4 text-slate-400 absolute left-3 top-1/2 -translate-y-1/2 pointer-events-none" />
                   <input
                     type="text"
                     value={searchTerm}
                     onChange={(e) => setSearchTerm(e.target.value)}
                     placeholder={t('turismo.searchPlaceholder')}
-                    className="w-full bg-slate-50 dark:bg-slate-950/80 text-slate-900 dark:text-white placeholder-slate-400 dark:placeholder-slate-500 text-xs sm:text-sm pl-12 pr-10 py-3.5 rounded-2xl border border-slate-200 dark:border-slate-800 focus:outline-none focus:border-amber-500 focus:bg-white dark:focus:bg-slate-950 transition-colors"
+                    className="w-full bg-slate-50 dark:bg-slate-950 text-slate-900 dark:text-white placeholder-slate-400 text-xs sm:text-sm pl-9 pr-9 py-2 rounded-lg border border-slate-200 dark:border-slate-700 focus:outline-none focus:border-sky-500 focus:ring-1 focus:ring-sky-500 font-sans transition-colors"
                   />
                   {searchTerm && (
                     <button
                       type="button"
                       onClick={() => setSearchTerm('')}
-                      className="absolute right-3.5 top-1/2 -translate-y-1/2 text-slate-400 hover:text-slate-600 dark:hover:text-slate-200"
+                      className="absolute right-2.5 top-1/2 -translate-y-1/2 text-slate-400 hover:text-slate-600 dark:hover:text-slate-200"
                     >
-                      <Icons.X className="w-4 h-4" />
+                      <Icons.X className="w-3.5 h-3.5" />
                     </button>
                   )}
                 </div>
@@ -352,19 +352,19 @@ function TurismoPageContent() {
                   <button
                     type="button"
                     onClick={() => setIsAdvancedSearchOpen(!isAdvancedSearchOpen)}
-                    className={`py-3.5 px-4 rounded-2xl text-xs font-bold border transition-all flex items-center justify-center gap-2 flex-1 sm:flex-none cursor-pointer ${
+                    className={`py-2 px-3.5 rounded-lg text-xs font-semibold border transition-all flex items-center justify-center gap-2 flex-1 sm:flex-none cursor-pointer whitespace-nowrap ${
                       isAdvancedSearchOpen || searchCode
-                        ? 'bg-amber-50 dark:bg-amber-500/10 text-amber-700 dark:text-amber-400 border-amber-300 dark:border-amber-500/30 shadow-sm'
-                        : 'bg-slate-50 dark:bg-slate-800/60 text-slate-700 dark:text-slate-300 border-slate-200 dark:border-slate-700 hover:bg-slate-100 dark:hover:bg-slate-800'
+                        ? 'bg-sky-50 dark:bg-sky-500/10 text-sky-700 dark:text-sky-400 border-sky-300 dark:border-sky-500/40 shadow-sm'
+                        : 'bg-slate-50 dark:bg-slate-950 text-slate-700 dark:text-slate-300 border-slate-200 dark:border-slate-700 hover:border-slate-300 dark:hover:border-slate-600'
                     }`}
                   >
-                    <Icons.Sliders className="w-4 h-4 text-amber-500" />
+                    <Icons.Sliders className="w-3.5 h-3.5 text-sky-500" />
                     <span>{t('turismo.btnAdvanced')}</span>
                   </button>
 
                   <button
                     type="submit"
-                    className="py-3.5 px-7 rounded-2xl bg-gradient-to-r from-amber-500 via-orange-500 to-amber-500 hover:from-amber-400 hover:to-orange-400 text-slate-950 font-black text-xs uppercase tracking-wider shadow-lg shadow-amber-500/25 transition-all hover:scale-105 flex items-center justify-center gap-2 flex-1 sm:flex-none cursor-pointer"
+                    className="py-2 sm:py-2.5 px-6 rounded-lg bg-sky-600 hover:bg-sky-500 text-white font-semibold text-xs sm:text-sm transition-colors flex items-center justify-center gap-2 flex-1 sm:flex-none cursor-pointer shadow-sm whitespace-nowrap"
                   >
                     <Icons.Search className="w-4 h-4" />
                     <span>{t('turismo.btnSearch')}</span>
@@ -375,55 +375,58 @@ function TurismoPageContent() {
               {/* Fila 2: CustomSelects para Región, Categoría y Actividad */}
               <div className="grid grid-cols-1 sm:grid-cols-3 gap-3 pt-1">
                 {/* 1. Departamento / Región */}
-                <div>
+                <div className="min-w-0">
                   <CustomSelect
-                    label={t('turismo.filterRegion')}
-                    icon={<Icons.MapPin className="w-3.5 h-3.5 text-sky-500" />}
+                    label=""
+                    icon={<Icons.MapPin className="w-3.5 h-3.5 text-sky-500 dark:text-sky-400" />}
                     value={selectedDept}
                     onChange={handleSelectDept}
                     options={departmentOptions}
                     placeholder={t('turismo.allRegions')}
                     searchable
                     variant="default"
+                    buttonClassName="bg-slate-50 dark:bg-slate-950 border border-slate-200 dark:border-slate-700 px-3 py-2 rounded-lg text-slate-900 dark:text-white hover:border-sky-500/50 flex items-center justify-between text-xs sm:text-sm transition-colors"
                   />
                 </div>
 
                 {/* 2. Categoría */}
-                <div>
+                <div className="min-w-0">
                   <CustomSelect
-                    label={t('turismo.filterCategory')}
-                    icon={<Icons.Layers className="w-3.5 h-3.5 text-emerald-500" />}
+                    label=""
+                    icon={<Icons.Layers className="w-3.5 h-3.5 text-sky-500 dark:text-sky-400" />}
                     value={selectedCategory}
                     onChange={handleSelectCategory}
                     options={categoryOptions}
                     placeholder={t('turismo.allCategories')}
                     searchable
                     variant="default"
+                    buttonClassName="bg-slate-50 dark:bg-slate-950 border border-slate-200 dark:border-slate-700 px-3 py-2 rounded-lg text-slate-900 dark:text-white hover:border-sky-500/50 flex items-center justify-between text-xs sm:text-sm transition-colors"
                   />
                 </div>
 
                 {/* 3. Actividad */}
-                <div>
+                <div className="min-w-0">
                   <CustomSelect
-                    label={t('turismo.filterActivity')}
-                    icon={<Icons.Compass className="w-3.5 h-3.5 text-amber-500" />}
+                    label=""
+                    icon={<Icons.Compass className="w-3.5 h-3.5 text-sky-500 dark:text-sky-400" />}
                     value={selectedActivity}
                     onChange={handleSelectActivity}
                     options={activityOptions}
                     placeholder={t('turismo.allActivities')}
                     searchable
                     variant="default"
+                    buttonClassName="bg-slate-50 dark:bg-slate-950 border border-slate-200 dark:border-slate-700 px-3 py-2 rounded-lg text-slate-900 dark:text-white hover:border-sky-500/50 flex items-center justify-between text-xs sm:text-sm transition-colors"
                   />
                 </div>
               </div>
 
-              {/* Fila 3: Panel Avanzado (Código de Ficha MINCETUR) */}
+              {/* Fila 3: Panel Avanzado (Código de Ficha) */}
               {isAdvancedSearchOpen && (
-                <div className="pt-3 border-t border-slate-200 dark:border-slate-800 animate-fadeIn">
-                  <div className="bg-amber-50/80 dark:bg-amber-500/10 p-4 rounded-2xl border border-amber-200 dark:border-amber-500/30 shadow-sm flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4">
+                <div className="pt-2 border-t border-slate-200 dark:border-slate-800 animate-fadeIn">
+                  <div className="bg-slate-50 dark:bg-slate-950/80 p-3 rounded-lg border border-slate-200 dark:border-slate-800 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-3">
                     <div className="flex-1 w-full">
-                      <label className="text-[11px] font-bold text-amber-800 dark:text-amber-400 uppercase tracking-wider block mb-1.5 flex items-center gap-2">
-                        <Icons.Code className="w-4 h-4 text-amber-600 dark:text-amber-400" />
+                      <label className="text-[11px] font-bold text-slate-700 dark:text-slate-300 uppercase tracking-wider block mb-1 flex items-center gap-1.5">
+                        <Icons.Code className="w-3.5 h-3.5 text-sky-500" />
                         <span>{t('turismo.advancedTitle')}</span>
                       </label>
                       <input
@@ -431,9 +434,9 @@ function TurismoPageContent() {
                         value={searchCode}
                         onChange={(e) => setSearchCode(e.target.value)}
                         placeholder={t('turismo.advancedPlaceholder')}
-                        className="w-full bg-white dark:bg-slate-950 text-slate-900 dark:text-white text-xs font-semibold px-4 py-2.5 rounded-xl border border-amber-300 dark:border-amber-500/40 focus:outline-none focus:border-amber-500 placeholder-slate-400"
+                        className="w-full bg-white dark:bg-slate-900 text-slate-900 dark:text-white text-xs font-semibold px-3 py-1.5 rounded-lg border border-slate-300 dark:border-slate-700 focus:outline-none focus:border-sky-500 placeholder-slate-400"
                       />
-                      <p className="text-[10px] text-amber-700 dark:text-amber-300/80 mt-1">
+                      <p className="text-[10px] text-slate-500 dark:text-slate-400 mt-1">
                         {t('turismo.advancedDesc')}
                       </p>
                     </div>
@@ -442,7 +445,7 @@ function TurismoPageContent() {
                       <button
                         type="button"
                         onClick={() => setSearchCode('')}
-                        className="text-xs text-rose-600 dark:text-rose-400 hover:text-rose-700 font-semibold px-3 py-2 rounded-xl bg-rose-50 dark:bg-rose-500/10 border border-rose-200 dark:border-rose-500/30 transition-all flex items-center gap-1 self-end sm:self-center cursor-pointer"
+                        className="text-xs text-rose-600 dark:text-rose-400 hover:text-rose-700 font-semibold px-3 py-1.5 rounded-lg bg-rose-50 dark:bg-rose-500/10 border border-rose-200 dark:border-rose-500/30 transition-all flex items-center gap-1 self-end sm:self-center cursor-pointer"
                       >
                         <Icons.X className="w-3.5 h-3.5" />
                         <span>{t('turismo.removeCode')}</span>
@@ -532,13 +535,13 @@ function TurismoPageContent() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mt-10">
         <section id="listado-atractivos">
           {/* Header de resultados */}
-          <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 pb-6 border-b border-slate-200 dark:border-slate-800 mb-8">
+          <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 pb-5 border-b border-slate-200 dark:border-slate-800 mb-8">
             <div>
-              <span className="text-xs font-bold uppercase tracking-wider text-amber-600 dark:text-amber-400 flex items-center gap-1.5 mb-1">
+              <span className="text-xs font-mono font-semibold uppercase tracking-wider text-sky-600 dark:text-sky-400 flex items-center gap-1.5 mb-1">
                 <Icons.Compass className="w-4 h-4" />
-                {t('turismo.sectionBadge')}
+                <span>{t('turismo.sectionBadge')}</span>
               </span>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 dark:text-white tracking-tight">
+              <h2 className="text-2xl sm:text-3xl font-bold text-slate-900 dark:text-white tracking-tight">
                 {appliedFilters.dept
                   ? `${t('turismo.resourcesIn')} ${activeDeptName || 'Región'}`
                   : appliedFilters.code
@@ -550,13 +553,13 @@ function TurismoPageContent() {
             </div>
 
             <div className="flex items-center gap-3 self-start sm:self-auto">
-              <span className="text-xs font-semibold px-3.5 py-1.5 rounded-xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 text-slate-700 dark:text-slate-300 shadow-sm">
+              <span className="text-xs font-mono font-semibold px-3 py-1.5 rounded-lg bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 text-slate-700 dark:text-slate-300 shadow-sm">
                 {total.toLocaleString()} {t('turismo.foundCount')}
               </span>
               {hasActiveFilters && (
                 <button
                   onClick={handleClearFilters}
-                  className="text-xs font-semibold text-rose-600 dark:text-rose-400 hover:text-rose-700 bg-rose-50 dark:bg-rose-500/10 border border-rose-200 dark:border-rose-500/30 px-3 py-1.5 rounded-xl transition-colors flex items-center gap-1 cursor-pointer"
+                  className="text-xs font-semibold text-rose-600 dark:text-rose-400 hover:text-rose-700 bg-rose-50 dark:bg-rose-500/10 border border-rose-200 dark:border-rose-500/30 px-3 py-1.5 rounded-lg transition-colors flex items-center gap-1 cursor-pointer"
                 >
                   <Icons.X className="w-3.5 h-3.5" />
                   <span>{t('turismo.reset')}</span>
@@ -568,7 +571,7 @@ function TurismoPageContent() {
           {/* Grilla de Recursos */}
           {loading ? (
             <div className="py-24 flex flex-col items-center justify-center gap-4">
-              <div className="w-12 h-12 border-3 border-amber-500 border-t-transparent rounded-full animate-spin" />
+              <div className="w-12 h-12 border-3 border-sky-500 border-t-transparent rounded-full animate-spin" />
               <p className="text-xs font-semibold text-slate-500 dark:text-slate-400 tracking-wider">
                 {t('turismo.loading')}
               </p>
@@ -595,7 +598,7 @@ function TurismoPageContent() {
               />
             </>
           ) : (
-            <div className="text-center py-20 bg-white dark:bg-slate-900/60 rounded-3xl border border-slate-200 dark:border-slate-800 p-8 shadow-sm">
+            <div className="text-center py-20 bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-xl p-8 shadow-sm">
               <Icons.Compass className="w-12 h-12 text-slate-400 mx-auto mb-3" />
               <h3 className="text-lg font-bold text-slate-900 dark:text-white mb-1">
                 {t('turismo.noResults')}
@@ -605,7 +608,7 @@ function TurismoPageContent() {
               </p>
               <button
                 onClick={handleClearFilters}
-                className="inline-flex items-center gap-2 px-5 py-2.5 rounded-xl bg-amber-500 hover:bg-amber-400 text-slate-950 font-bold text-xs transition-colors cursor-pointer"
+                className="inline-flex items-center gap-2 px-5 py-2.5 rounded-lg bg-sky-600 hover:bg-sky-500 text-white font-semibold text-xs transition-colors cursor-pointer shadow-sm"
               >
                 <Icons.X className="w-4 h-4" />
                 <span>{t('turismo.reset')}</span>
@@ -622,8 +625,8 @@ export default function TurismoPage() {
   return (
     <Suspense
       fallback={
-        <div className="min-h-screen flex items-center justify-center bg-slate-50 dark:bg-[#070b14] py-24">
-          <div className="w-12 h-12 border-3 border-amber-500 border-t-transparent rounded-full animate-spin" />
+        <div className="min-h-screen flex items-center justify-center bg-slate-50 dark:bg-slate-950 py-24">
+          <div className="w-12 h-12 border-3 border-sky-500 border-t-transparent rounded-full animate-spin" />
         </div>
       }
     >

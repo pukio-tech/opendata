@@ -10,117 +10,98 @@ export default function PoliticasDePrivacidadPage() {
   }, []);
 
   return (
-    <main className="flex-1 bg-white text-slate-900 min-h-screen pt-12 pb-20 px-4 sm:px-6 lg:px-8">
+    <main className="flex-1 bg-slate-50 dark:bg-slate-950 text-slate-800 dark:text-slate-100 min-h-screen pt-20 pb-20 px-4 sm:px-6 lg:px-8 transition-colors">
       <div className="max-w-4xl mx-auto space-y-8">
         {/* Breadcrumb */}
-        <nav className="flex items-center gap-2 text-xs text-slate-500">
-          <Link href="/" className="hover:text-amber-600 transition-colors flex items-center gap-1.5">
+        <nav className="flex items-center gap-2 text-xs text-slate-500 dark:text-slate-400">
+          <Link href="/" className="hover:text-sky-600 dark:hover:text-sky-400 transition-colors flex items-center gap-1.5">
             <Icons.Compass className="w-4 h-4" />
             <span>Inicio</span>
           </Link>
-          <span className="text-slate-300">/</span>
-          <span className="text-slate-800 font-semibold">Políticas de Privacidad</span>
+          <span className="text-slate-400 dark:text-slate-600">/</span>
+          <span className="text-slate-800 dark:text-slate-200 font-semibold">Políticas de Privacidad</span>
         </nav>
 
         {/* Header Hero Card */}
-        <div className="relative rounded-3xl overflow-hidden bg-slate-50 border border-slate-200 p-8 sm:p-12 shadow-xl">
-          <div className="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-sky-50 border border-sky-200 text-sky-700 text-xs font-bold uppercase tracking-wider mb-4">
-            <Icons.Shield className="w-4 h-4 text-sky-600" />
-            <span>Privacidad y Transparencia Total</span>
+        <div className="relative rounded-2xl overflow-hidden bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 p-6 sm:p-10 shadow-sm dark:shadow-2xl">
+          <div className="inline-flex items-center gap-2 px-3 py-1 rounded-md bg-emerald-500/10 border border-emerald-500/20 text-emerald-600 dark:text-emerald-400 text-xs font-mono font-bold uppercase tracking-wider mb-4">
+            <Icons.Shield className="w-4 h-4" />
+            <span>Privacidad y Anonimato Garantizado</span>
           </div>
-          <h1 className="text-3xl sm:text-5xl font-black text-slate-900 tracking-tight leading-tight mb-4">
-            Políticas de <span className="text-transparent bg-clip-text bg-gradient-to-r from-sky-600 to-teal-600">Privacidad</span>
+          <h1 className="text-2xl sm:text-4xl font-extrabold text-slate-900 dark:text-white tracking-tight leading-tight mb-3">
+            Políticas de Privacidad
           </h1>
-          <p className="text-sm text-slate-600 leading-relaxed max-w-2xl">
-            En OpenData Perú garantizamos un entorno 100% libre, anónimo y seguro. Nuestro único propósito es facilitar la lectura y consulta visual de los datos oficiales públicos del MINCETUR.
+          <p className="text-xs sm:text-sm text-slate-600 dark:text-slate-300 leading-relaxed max-w-2xl">
+            En OpenData Perú garantizamos un entorno 100% libre, anónimo y seguro. Nuestro único propósito es facilitar la lectura y consulta visual de los datos oficiales públicos del inventario nacional.
           </p>
         </div>
 
         {/* Content Sections */}
         <div className="space-y-6">
           {/* Section 1 */}
-          <section className="bg-white rounded-3xl p-6 sm:p-8 border border-emerald-200 shadow-md space-y-4">
+          <section className="bg-white dark:bg-slate-900 rounded-2xl p-6 sm:p-8 border border-slate-200 dark:border-slate-800 shadow-sm space-y-4">
             <div className="flex items-center gap-3">
-              <div className="w-10 h-10 rounded-xl bg-emerald-50 border border-emerald-200 text-emerald-700 flex items-center justify-center font-black text-sm">
+              <div className="w-9 h-9 rounded-lg bg-emerald-500/10 border border-emerald-500/20 text-emerald-600 dark:text-emerald-400 flex items-center justify-center font-mono font-bold text-sm">
                 01
               </div>
-              <h2 className="text-lg sm:text-xl font-bold text-slate-900">No Recopilamos Datos Personales</h2>
+              <h2 className="text-base sm:text-lg font-bold text-slate-900 dark:text-white">No Recopilamos Datos Personales</h2>
             </div>
-            <div className="p-4 rounded-2xl bg-emerald-50 border border-emerald-200 text-xs sm:text-sm text-emerald-800 leading-relaxed font-medium">
+            <div className="p-4 rounded-xl bg-emerald-50 dark:bg-emerald-500/10 border border-emerald-200 dark:border-emerald-500/20 text-xs sm:text-sm text-emerald-800 dark:text-emerald-200 leading-relaxed font-medium">
               Esta plataforma <strong>NO solicita, NO almacena, NO procesa y NO recopila ningún tipo de información personal</strong> ni datos de contacto de los visitantes.
             </div>
-            <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
+            <p className="text-xs sm:text-sm text-slate-600 dark:text-slate-300 leading-relaxed">
               Puedes navegar libremente, filtrar por departamentos, buscar por categorías, actividades o códigos de ficha sin necesidad de registrarte, iniciar sesión o proporcionar nombres, correos electrónicos, teléfonos ni ubicaciones privadas.
             </p>
           </section>
 
           {/* Section 2 */}
-          <section className="bg-white rounded-3xl p-6 sm:p-8 border border-slate-200 shadow-md space-y-4">
+          <section className="bg-white dark:bg-slate-900 rounded-2xl p-6 sm:p-8 border border-slate-200 dark:border-slate-800 shadow-sm space-y-4">
             <div className="flex items-center gap-3">
-              <div className="w-10 h-10 rounded-xl bg-sky-50 border border-sky-200 text-sky-700 flex items-center justify-center font-black text-sm">
+              <div className="w-9 h-9 rounded-lg bg-sky-500/10 border border-sky-500/20 text-sky-600 dark:text-sky-400 flex items-center justify-center font-mono font-bold text-sm">
                 02
               </div>
-              <h2 className="text-lg sm:text-xl font-bold text-slate-900">Fuente Oficial y Sin Manipulación de Datos</h2>
+              <h2 className="text-base sm:text-lg font-bold text-slate-900 dark:text-white">Fuente Oficial y Sin Manipulación de Datos</h2>
             </div>
-            <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
-              Toda la información turística presentada proviene exclusivamente de la plataforma y servicios oficiales del <strong>Ministerio de Comercio Exterior y Turismo (MINCETUR)</strong>:
+            <p className="text-xs sm:text-sm text-slate-600 dark:text-slate-300 leading-relaxed">
+              Toda la información turística presentada proviene exclusivamente de servicios y catálogos de datos abiertos del Estado Peruano:
             </p>
-            <div className="p-4 rounded-2xl bg-slate-50 border border-slate-200 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4">
-              <div>
-                <span className="text-[10px] font-mono font-bold text-sky-700 uppercase tracking-widest block mb-1">
-                  Portal Fuente Oficial
-                </span>
-                <span className="text-xs sm:text-sm font-bold text-slate-900 break-all">
-                  https://sigmincetur.mincetur.gob.pe/turismo/
-                </span>
-              </div>
-              <a
-                href="https://sigmincetur.mincetur.gob.pe/turismo/"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="px-4 py-2 rounded-xl bg-sky-50 hover:bg-sky-100 border border-sky-200 text-sky-700 text-xs font-bold transition-all flex items-center gap-1.5 flex-shrink-0"
-              >
-                <span>Visitar SIGMINCETUR</span>
-                <Icons.ExternalLink className="w-3.5 h-3.5" />
-              </a>
-            </div>
-            <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
-              Los nombres, descripciones, categorías, departamentos, provincias, distritos, actividades registradas y fotografías se muestran de manera fiel y transparente según el registro original del Estado Peruano, sin alteraciones ni manipulación de su contenido técnico.
+            <p className="text-xs sm:text-sm text-slate-600 dark:text-slate-300 leading-relaxed">
+              Los nombres, descripciones, categorías, departamentos, provincias, distritos, actividades registradas y fotografías se muestran de manera fiel y transparente según el registro oficial, sin alteraciones ni manipulación de su contenido técnico.
             </p>
           </section>
 
           {/* Section 3 */}
-          <section className="bg-white rounded-3xl p-6 sm:p-8 border border-slate-200 shadow-md space-y-4">
+          <section className="bg-white dark:bg-slate-900 rounded-2xl p-6 sm:p-8 border border-slate-200 dark:border-slate-800 shadow-sm space-y-4">
             <div className="flex items-center gap-3">
-              <div className="w-10 h-10 rounded-xl bg-amber-50 border border-amber-200 text-amber-700 flex items-center justify-center font-black text-sm">
+              <div className="w-9 h-9 rounded-lg bg-amber-500/10 border border-amber-500/20 text-amber-600 dark:text-amber-400 flex items-center justify-center font-mono font-bold text-sm">
                 03
               </div>
-              <h2 className="text-lg sm:text-xl font-bold text-slate-900">Objetivo: Máxima Legibilidad y Accesibilidad</h2>
+              <h2 className="text-base sm:text-lg font-bold text-slate-900 dark:text-white">Objetivo: Máxima Legibilidad y Accesibilidad</h2>
             </div>
-            <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
+            <p className="text-xs sm:text-sm text-slate-600 dark:text-slate-300 leading-relaxed">
               El único fin de este portal es brindar una interfaz moderna, ágil, accesible y fácil de interpretar para que turistas, estudiantes, investigadores y ciudadanos puedan explorar el patrimonio turístico nacional de una manera mucho más visual, interactiva y comprensible.
             </p>
           </section>
 
           {/* Section 4 */}
-          <section className="bg-white rounded-3xl p-6 sm:p-8 border border-slate-200 shadow-md space-y-4">
+          <section className="bg-white dark:bg-slate-900 rounded-2xl p-6 sm:p-8 border border-slate-200 dark:border-slate-800 shadow-sm space-y-4">
             <div className="flex items-center gap-3">
-              <div className="w-10 h-10 rounded-xl bg-indigo-50 border border-indigo-200 text-indigo-700 flex items-center justify-center font-black text-sm">
+              <div className="w-9 h-9 rounded-lg bg-indigo-500/10 border border-indigo-500/20 text-indigo-600 dark:text-indigo-400 flex items-center justify-center font-mono font-bold text-sm">
                 04
               </div>
-              <h2 className="text-lg sm:text-xl font-bold text-slate-900">Sin Rastreo Comercial ni Publicidad</h2>
+              <h2 className="text-base sm:text-lg font-bold text-slate-900 dark:text-white">Sin Rastreo Comercial ni Publicidad</h2>
             </div>
-            <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
-              No utilizamos herramientas de rastreo publicitario, cookies invasivas de terceros ni comercializamos con el historial de navegación de los usuarios. La experiencia de consulta es limpia, abierta y orientada estrictamente al acceso a datos públicos.
+            <p className="text-xs sm:text-sm text-slate-600 dark:text-slate-300 leading-relaxed">
+              No utilizamos herramientas de rastreo publicitario invasivas ni comercializamos con el historial de navegación de los usuarios. La experiencia de consulta es limpia, abierta y orientada estrictamente al acceso a datos públicos.
             </p>
           </section>
         </div>
 
         {/* Action Button Back */}
-        <div className="text-center pt-4">
+        <div className="text-center pt-2">
           <Link
             href="/turismo"
-            className="inline-flex items-center gap-2 px-8 py-4 rounded-2xl bg-gradient-to-r from-amber-500 to-orange-500 hover:from-amber-400 hover:to-orange-400 text-slate-950 font-black text-xs uppercase tracking-wider shadow-lg shadow-amber-500/20 transition-all hover:scale-105"
+            className="inline-flex items-center gap-2 px-6 py-3 rounded-lg bg-sky-600 hover:bg-sky-500 text-white font-semibold text-xs uppercase tracking-wider transition-colors shadow-sm"
           >
             <Icons.Compass className="w-4 h-4" />
             <span>Volver al Catálogo de Turismo</span>

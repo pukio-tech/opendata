@@ -20,6 +20,7 @@ interface CustomSelectProps {
   placeholder?: string;
   searchable?: boolean;
   className?: string;
+  buttonClassName?: string;
   variant?: 'glass' | 'default';
   disabled?: boolean;
 }
@@ -33,6 +34,7 @@ export const CustomSelect: React.FC<CustomSelectProps> = ({
   placeholder = 'Seleccionar...',
   searchable = false,
   className = '',
+  buttonClassName = '',
   variant = 'glass',
   disabled = false,
 }) => {
@@ -114,9 +116,11 @@ export const CustomSelect: React.FC<CustomSelectProps> = ({
         disabled={disabled}
         onClick={() => !disabled && setIsOpen(!isOpen)}
         className={`w-full text-left transition-all duration-200 cursor-pointer outline-none ${
-          isGlass
+          buttonClassName
+            ? buttonClassName
+            : isGlass
             ? 'glass-search-field p-3 sm:p-3.5 rounded-2xl text-white'
-            : 'bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 p-3 rounded-2xl text-slate-900 dark:text-white shadow-sm hover:border-sky-500/50'
+            : 'bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 p-2.5 sm:p-3 rounded-xl text-slate-900 dark:text-white shadow-sm hover:border-sky-500/50'
         } ${isOpen ? 'ring-2 ring-sky-400/40 border-sky-400/80 shadow-glass-glow' : ''} ${
           disabled ? 'opacity-50 cursor-not-allowed' : ''
         }`}
@@ -128,8 +132,8 @@ export const CustomSelect: React.FC<CustomSelectProps> = ({
           </div>
         )}
 
-        <div className="flex items-center justify-between gap-2">
-          <div className="flex items-center gap-2 truncate">
+        <div className="flex items-center justify-between gap-2 min-w-0 w-full">
+          <div className="flex items-center gap-2 truncate min-w-0">
             {!label && icon && <span className="text-slate-400 shrink-0">{icon}</span>}
             <span
               className={`text-xs sm:text-sm font-semibold truncate ${

@@ -1,7 +1,7 @@
 'use client';
 
 import React, { useEffect, useRef, useState } from 'react';
-import Link from 'next/link';
+import { Link } from 'next-view-transitions';
 import { ResourceItem } from '../types/mincetur';
 import { createResourceSlug } from '../utils/slug';
 import { cleanLabel } from '../utils/minceturTranslate';
@@ -215,17 +215,17 @@ export const OpenStreetMap: React.FC<OpenStreetMapProps> = ({
   };
 
   return (
-    <div className={`relative w-full h-full rounded-3xl overflow-hidden border border-slate-800 shadow-2xl bg-slate-950 ${className}`}>
+    <div className={`relative w-full h-full rounded-xl overflow-hidden shadow-lg border border-slate-200 dark:border-slate-800 bg-slate-950 ${className}`}>
       {/* Contenedor del Mapa Leaflet */}
       <div ref={mapContainerRef} className="w-full h-full min-h-[460px] sm:min-h-[520px] z-0" />
 
       {/* Barra Superior con Badge de OpenStreetMap */}
       <div className="absolute top-4 left-4 z-[400] flex items-center gap-2 pointer-events-none">
-        <div className="flex items-center gap-2 px-3 py-1.5 rounded-xl bg-slate-950/85 backdrop-blur-md border border-slate-700/80 text-xs font-mono text-slate-200 shadow-lg">
+        <div className="flex items-center gap-2 px-3 py-1.5 rounded-lg bg-slate-950/85 backdrop-blur-md border border-slate-700/80 text-xs font-mono text-slate-200 shadow-lg">
           <span className="w-2 h-2 rounded-full bg-emerald-400 animate-ping" />
           <span className="font-bold">OpenStreetMap</span>
           <span className="text-slate-400">|</span>
-          <span className="text-amber-400 font-bold">{resources.length} Lugares</span>
+          <span className="text-sky-400 font-bold">{resources.length} Lugares</span>
         </div>
       </div>
 
@@ -234,10 +234,10 @@ export const OpenStreetMap: React.FC<OpenStreetMapProps> = ({
         <button
           type="button"
           onClick={handleResetPeruView}
-          className="px-3 py-1.5 rounded-xl bg-slate-950/85 hover:bg-slate-900 text-slate-200 hover:text-white border border-slate-700/80 text-xs font-semibold backdrop-blur-md transition-all shadow-lg flex items-center gap-1.5 cursor-pointer"
+          className="px-3 py-1.5 rounded-lg bg-slate-950/85 hover:bg-slate-900 text-slate-200 hover:text-white border border-slate-700/80 text-xs font-semibold backdrop-blur-md transition-all shadow-lg flex items-center gap-1.5 cursor-pointer"
           title="Centrar vista en todo el Perú"
         >
-          <svg className="w-3.5 h-3.5 text-amber-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+          <svg className="w-3.5 h-3.5 text-sky-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 8V4m0 0h4M4 4l5 5m11-1V4m0 0h-4m4 0l-5 5M4 16v4m0 0h4m-4 0l5-5m11 5l-5-5m5 5v-4m0 4h-4" />
           </svg>
           <span>Vista Perú</span>
