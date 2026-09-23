@@ -1,6 +1,12 @@
-import { Injectable, Logger, HttpException, HttpStatus, OnModuleInit } from '@nestjs/common';
-import * as fs from 'fs';
-import * as path from 'path';
+import {
+  Injectable,
+  Logger,
+  HttpException,
+  HttpStatus,
+  OnModuleInit,
+  OnModuleDestroy,
+} from '@nestjs/common';
+import { Pool, QueryResult } from 'pg';
 
 export interface ActivityItem {
   id?: number;
@@ -100,7 +106,13 @@ export interface FichaDetail {
   rutas_acceso?: FichaRutaAcceso[];
   epoca_propicia?: FichaEpocaPropicia[];
   tipo_ingreso?: Array<{ tipo: string; observaciones: string }>;
-  servicios_turisticos?: Array<{ ubicacion: string; instalacion?: string; servicio?: string; tipo_servicio?: string; observacion?: string }>;
+  servicios_turisticos?: Array<{
+    ubicacion: string;
+    instalacion?: string;
+    servicio?: string;
+    tipo_servicio?: string;
+    observacion?: string;
+  }>;
   descripcion: string;
   particularidades?: string;
   estado_actual?: string;
@@ -121,31 +133,11 @@ export function normalizeText(text: string | null | undefined): string {
 }
 
 @Injectable()
-export class MinceturService implements OnModuleInit {
+export class MinceturService implements OnModuleInit, OnModuleDestroy {
   private readonly logger = new Logger(MinceturService.name);
-
-  // Rutas base a la base de datos local JSON
-  private readonly DB_DIR = path.resolve(
-    process.env.MINCETUR_DATA_DIR || path.join(__dirname, '../../db/mincetur'),
-  );
-  private readonly CATALOGOS_DIR = path.join(this.DB_DIR, 'catalogos');
-  private readonly RECURSOS_DIR = path.join(this.DB_DIR, 'recursos');
-  private readonly FICHAS_DIR = path.join(this.DB_DIR, 'fichas');
-  private readonly FICHAS_INDIV_DIR = path.join(this.FICHAS_DIR, 'individuales');
-
-  // Cache en memoria para rendimiento instantáneo (< 1ms)
-  private categoriesCache: any[] | null = null;
-  private activitiesCache: ActivityItem[] | null = null;
-  private departmentsCache: any[] | null = null;
-  private resourcesCache: ResourceItem[] | null = null;
-  private offlineCodesSet: Set<number> = new Set<number>();
-  private fichaToPhotoMap: Map<number, string> = new Map<number, string>();
-
-  // Estadísticas para monitoreo
-  private stats = {
-    totalRequests: 0,
-    startTime: Date.now(),
-  };
+  private pool: Pool;
+  private readonly startTime = Date.now();
+  private totalRequests = 0;
 
   private readonly UBIGEO_DEP_MAP: Record<string, string> = {
     '01': 'AMAZONAS',
@@ -175,188 +167,176 @@ export class MinceturService implements OnModuleInit {
     '25': 'UCAYALI',
   };
 
-  constructor() {}
+  constructor() {
+    const connectionString =
+      process.env.DATABASE_URL ||
+      'postgresql://neondb_owner:npg_F3mJO2YWCcIX@ep-little-heart-b5n0hrdb-pooler.c-7.us-east-2.aws.neon.tech/opendata?sslmode=require';
 
-  onModuleInit() {
-    this.logger.log(`Iniciando repositorio de datos JSON desde: ${this.DB_DIR}`);
-    this.loadOfflineCodes();
-    this.loadCatalogsIntoMemory();
-    this.loadFichasPhotosMap();
-    this.loadResourcesIntoMemory();
+    this.pool = new Pool({
+      connectionString,
+      ssl: {
+        rejectUnauthorized: false,
+      },
+      max: 20,
+      idleTimeoutMillis: 30000,
+      connectionTimeoutMillis: 10000,
+    });
   }
 
-  private loadOfflineCodes() {
-    const offlinePath = path.join(this.FICHAS_DIR, 'offline_codes.json');
-    if (fs.existsSync(offlinePath)) {
-      try {
-        const raw = JSON.parse(fs.readFileSync(offlinePath, 'utf-8'));
-        if (Array.isArray(raw)) {
-          this.offlineCodesSet = new Set<number>(raw.map((c: any) => Number(c)));
-          this.logger.log(`Cargados ${this.offlineCodesSet.size} códigos de fichas offline/retiradas.`);
-        }
-      } catch (err) {
-        this.logger.warn(`No se pudo leer offline_codes.json: ${err.message}`);
-      }
-    }
-  }
-
-  private loadCatalogsIntoMemory() {
-    // 1. Categorías
-    const catFile = path.join(this.CATALOGOS_DIR, 'categorias_arbol.json');
-    if (fs.existsSync(catFile)) {
-      try {
-        this.categoriesCache = JSON.parse(fs.readFileSync(catFile, 'utf-8'));
-      } catch (e) {
-        this.logger.error(`Error cargando categorías: ${e.message}`);
-      }
-    }
-
-    // 2. Actividades
-    const actFile = path.join(this.CATALOGOS_DIR, 'actividades_arbol.json');
-    if (fs.existsSync(actFile)) {
-      try {
-        this.activitiesCache = JSON.parse(fs.readFileSync(actFile, 'utf-8'));
-      } catch (e) {
-        this.logger.error(`Error cargando actividades: ${e.message}`);
-      }
-    }
-
-    // 3. Departamentos
-    const depFile = path.join(this.CATALOGOS_DIR, 'departamentos.json');
-    if (fs.existsSync(depFile)) {
-      try {
-        this.departmentsCache = JSON.parse(fs.readFileSync(depFile, 'utf-8'));
-      } catch (e) {
-        this.logger.error(`Error cargando departamentos: ${e.message}`);
-      }
-    }
-  }
-
-  // Pre-indexa en memoria la URL web directa de la foto de cada ficha
-  private loadFichasPhotosMap() {
-    if (!fs.existsSync(this.FICHAS_INDIV_DIR)) return;
-
+  // Ejecutor centralizado de consultas SQL con registro de métricas y tiempo de respuesta
+  private async executeSql<T = any>(
+    sql: string,
+    params: any[] = [],
+    operationName: string = 'SQL Query',
+  ): Promise<QueryResult<T>> {
+    const t0 = Date.now();
     try {
-      const files = fs.readdirSync(this.FICHAS_INDIV_DIR);
-      for (const file of files) {
-        if (!file.startsWith('ficha_') || !file.endsWith('.json')) continue;
-        const codStr = file.replace('ficha_', '').replace('.json', '');
-        const codNum = Number(codStr);
-        if (!codNum) continue;
-
-        try {
-          const filePath = path.join(this.FICHAS_INDIV_DIR, file);
-          const raw = fs.readFileSync(filePath, 'utf-8');
-          const data = JSON.parse(raw);
-
-          const photoUrl = data.foto_principal || (data.galeria_fotos && data.galeria_fotos[0]);
-          if (photoUrl && photoUrl.startsWith('http')) {
-            this.fichaToPhotoMap.set(codNum, photoUrl);
-          }
-        } catch (e) {
-          // Ignorar
-        }
-      }
-
-      this.logger.log(`Mapeadas ${this.fichaToPhotoMap.size} URLs de fotos oficiales en memoria.`);
-    } catch (e) {
-      this.logger.warn(`No se pudo indexar mapa de fotos: ${e.message}`);
+      const res = await this.pool.query<T>(sql, params);
+      const duration = Date.now() - t0;
+      const count = res.rowCount ?? (Array.isArray(res.rows) ? res.rows.length : 0);
+      this.logger.log(
+        `[PostgreSQL] ${operationName} -> ${count} filas (${duration}ms) ${params.length > 0 ? '| Params: ' + JSON.stringify(params) : ''}`,
+      );
+      return res;
+    } catch (err) {
+      const duration = Date.now() - t0;
+      this.logger.error(
+        `[PostgreSQL] [ERROR] Error en ${operationName} (${duration}ms): ${err.message}`,
+        err.stack,
+      );
+      throw err;
     }
   }
 
-  private loadResourcesIntoMemory() {
-    const resFile = path.join(this.RECURSOS_DIR, 'recursos_resumen.json');
-    if (fs.existsSync(resFile)) {
-      try {
-        const raw: any[] = JSON.parse(fs.readFileSync(resFile, 'utf-8'));
-        this.resourcesCache = raw
-          .filter((r: any) => {
-            const cod = Number(r.codigo);
-            // Excluir fichas dadas de baja / redirecciones registradas en offline_codes.json
-            return cod && !this.offlineCodesSet.has(cod);
-          })
-          .map((r: any) => {
-            const lat = r.coordenadas?.latitud ?? r.y ?? null;
-            const lon = r.coordenadas?.longitud ?? r.x ?? null;
-            const cod = Number(r.codigo);
-
-            // Obtener URL web directa de la foto o dejar null
-            const directPhotoUrl = this.fichaToPhotoMap.get(cod) || null;
-
-            return {
-              codigo: cod,
-              nombre: r.nombre || `Recurso N° ${cod}`,
-              categoria: r.categoria || '',
-              tipo_categoria: r.tipo_categoria || '',
-              subtipo_categoria: r.subtipo_categoria || '',
-              desdpto: r.departamento || r.desdpto || '',
-              departamento: r.departamento || r.desdpto || '',
-              desprov: r.provincia || r.desprov || '',
-              provincia: r.provincia || r.desprov || '',
-              desubigeo: r.distrito || r.desubigeo || '',
-              distrito: r.distrito || r.desubigeo || '',
-              x: lon,
-              y: lat,
-              coordenadas: {
-                latitud: lat,
-                longitud: lon,
-              },
-              url: r.url_ficha || r.url || `https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=${cod}`,
-              url_ficha: r.url_ficha || `https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=${cod}`,
-              desjerarquia: r.jerarquia || r.desjerarquia || '',
-              jerarquia: r.jerarquia || r.desjerarquia || '',
-              imagen: directPhotoUrl,
-              foto_url: directPhotoUrl || r.foto_url,
-            };
-          });
-
-        this.logger.log(`Base de datos de recursos verificados: ${this.resourcesCache.length} recursos turísticos activos cargados en memoria.`);
-      } catch (e) {
-        this.logger.error(`Error indexando recursos: ${e.message}`);
-      }
+  async onModuleInit() {
+    try {
+      const res = await this.executeSql(
+        'SELECT count(*) AS total, count(*) FILTER (WHERE is_active = true) AS activos FROM turismo.recursos',
+        [],
+        'Verificación de Inicio (Recursos en BD)',
+      );
+      this.logger.log(
+        `Conexión lista a PostgreSQL (Neon DB). Recursos en BD: ${res.rows[0].total} (Activos: ${res.rows[0].activos})`,
+      );
+    } catch (err) {
+      this.logger.error(
+        `Error al conectar a PostgreSQL: ${err.message}`,
+        err.stack,
+      );
     }
   }
 
-  getHealth() {
-    return {
-      status: 'healthy',
-      storage: 'local_json_db',
-      dbPath: this.DB_DIR,
-      uptimeSeconds: Math.floor((Date.now() - this.stats.startTime) / 1000),
-      totalRequests: this.stats.totalRequests,
-      totalResourcesLoaded: this.resourcesCache?.length || 0,
-      totalCategoriesLoaded: this.categoriesCache?.length || 0,
-      totalFichasWithPhotos: this.fichaToPhotoMap.size,
-      totalOfflineCodes: this.offlineCodesSet.size,
-      memoryUsage: process.memoryUsage(),
-    };
+  async onModuleDestroy() {
+    try {
+      await this.pool.end();
+      this.logger.log('Conexiones a PostgreSQL cerradas correctamente.');
+    } catch (err) {
+      this.logger.error(`Error al cerrar pool de PostgreSQL: ${err.message}`);
+    }
+  }
+
+  // Health check
+  async getHealth() {
+    this.totalRequests++;
+    try {
+      const statsRes = await this.executeSql(
+        `
+        SELECT 
+          (SELECT count(*) FROM turismo.recursos) AS total_recursos,
+          (SELECT count(*) FROM turismo.recursos WHERE is_active = true) AS total_activos,
+          (SELECT count(*) FROM turismo.departamentos) AS total_departamentos,
+          (SELECT count(*) FROM turismo.categorias) AS total_categorias,
+          (SELECT count(*) FROM turismo.actividades) AS total_actividades
+        `,
+        [],
+        'Consulta de Salud / Diagnóstico',
+      );
+
+      return {
+        status: 'healthy',
+        storage: 'postgresql_neon',
+        database: 'connected',
+        uptimeSeconds: Math.floor((Date.now() - this.startTime) / 1000),
+        totalRequests: this.totalRequests,
+        totalResourcesInDb: Number(statsRes.rows[0].total_recursos || 0),
+        totalActiveResources: Number(statsRes.rows[0].total_activos || 0),
+        totalDepartments: Number(statsRes.rows[0].total_departamentos || 0),
+        totalCategories: Number(statsRes.rows[0].total_categorias || 0),
+        totalActivities: Number(statsRes.rows[0].total_actividades || 0),
+        pool: {
+          totalCount: this.pool.totalCount,
+          idleCount: this.pool.idleCount,
+          waitingCount: this.pool.waitingCount,
+        },
+        memoryUsage: process.memoryUsage(),
+      };
+    } catch (err) {
+      return {
+        status: 'degraded',
+        storage: 'postgresql_neon',
+        database: 'error',
+        error: err.message,
+        uptimeSeconds: Math.floor((Date.now() - this.startTime) / 1000),
+        totalRequests: this.totalRequests,
+      };
+    }
   }
 
   // 1. Obtener Árbol de Categorías
   async getCategoriesTree(): Promise<any[]> {
-    this.stats.totalRequests++;
-    if (this.categoriesCache) return this.categoriesCache;
-    this.loadCatalogsIntoMemory();
-    return this.categoriesCache || [];
+    this.totalRequests++;
+    try {
+      const res = await this.executeSql(
+        'SELECT arbol_json FROM turismo.vw_categorias_arbol;',
+        [],
+        'Obtener Árbol de Categorías (vw_categorias_arbol)',
+      );
+      return res.rows[0]?.arbol_json || [];
+    } catch (err) {
+      throw new HttpException(
+        'Error al obtener árbol de categorías',
+        HttpStatus.INTERNAL_SERVER_ERROR,
+      );
+    }
   }
 
   // 2. Obtener Árbol de Actividades
   async getActivitiesTree(): Promise<ActivityItem[]> {
-    this.stats.totalRequests++;
-    if (this.activitiesCache) return this.activitiesCache;
-    this.loadCatalogsIntoMemory();
-    return this.activitiesCache || [];
+    this.totalRequests++;
+    try {
+      const res = await this.executeSql(
+        'SELECT arbol_json FROM turismo.vw_actividades_arbol;',
+        [],
+        'Obtener Árbol de Actividades (vw_actividades_arbol)',
+      );
+      return res.rows[0]?.arbol_json || [];
+    } catch (err) {
+      throw new HttpException(
+        'Error al obtener árbol de actividades',
+        HttpStatus.INTERNAL_SERVER_ERROR,
+      );
+    }
   }
 
   // 3. Obtener Lista de Departamentos
   async getDepartments(): Promise<any[]> {
-    this.stats.totalRequests++;
-    if (this.departmentsCache) return this.departmentsCache;
-    this.loadCatalogsIntoMemory();
-    return this.departmentsCache || [];
+    this.totalRequests++;
+    try {
+      const res = await this.executeSql(
+        'SELECT id_departamento AS iddpto, nombre AS departamento, id_region FROM turismo.departamentos ORDER BY id_departamento;',
+        [],
+        'Obtener Departamentos (turismo.departamentos)',
+      );
+      return res.rows || [];
+    } catch (err) {
+      throw new HttpException(
+        'Error al obtener departamentos',
+        HttpStatus.INTERNAL_SERVER_ERROR,
+      );
+    }
   }
 
-  // 4. Buscar Recursos Turísticos con Filtros en Memoria
+  // 4. Buscar Recursos Turísticos con Filtros SQL
   async searchResources(query: {
     search?: string;
     codigo?: number | string;
@@ -368,142 +348,169 @@ export class MinceturService implements OnModuleInit {
     subtype?: string;
     page?: number;
     limit?: number;
-  }): Promise<{ data: ResourceItem[]; total: number; page: number; limit: number; totalPages: number }> {
-    this.stats.totalRequests++;
-
-    if (!this.resourcesCache) {
-      this.loadResourcesIntoMemory();
-    }
+  }): Promise<{
+    data: ResourceItem[];
+    total: number;
+    page: number;
+    limit: number;
+    totalPages: number;
+  }> {
+    this.totalRequests++;
 
     const page = Math.max(1, Number(query.page) || 1);
     const limit = Math.max(1, Math.min(100, Number(query.limit) || 12));
-    const startIndex = (page - 1) * limit;
+    const offset = (page - 1) * limit;
 
-    let filtered = this.resourcesCache || [];
+    const conditions: string[] = ['r.is_active = TRUE'];
+    const values: any[] = [];
+    let paramIndex = 1;
 
-    // 0. Filtro por código exacto
+    // Filtro por código exacto
     if (query.codigo) {
       const codNum = Number(query.codigo);
-      filtered = filtered.filter((r) => r.codigo === codNum);
-    }
-
-    // 1. Filtro por búsqueda de texto
-    if (query.search && query.search.trim()) {
-      const rawSearch = query.search.trim();
-      const normQuery = normalizeText(rawSearch);
-
-      if (/^\d+$/.test(rawSearch)) {
-        const targetCod = Number(rawSearch);
-        filtered = filtered.filter((r) => r.codigo === targetCod || normalizeText(r.nombre).includes(normQuery));
-      } else {
-        const queryTokens = normQuery.split(/\s+/).filter(Boolean);
-        filtered = filtered.filter((r) => {
-          const normName = normalizeText(r.nombre);
-          const normDpto = normalizeText(r.desdpto);
-          const normProv = normalizeText(r.desprov);
-          const normDist = normalizeText(r.desubigeo);
-          const fullText = `${normName} ${normDpto} ${normProv} ${normDist}`;
-
-          const matchesFull = fullText.includes(normQuery);
-          const matchesAllTokens = queryTokens.length > 1 && queryTokens.every((token) => fullText.includes(token));
-
-          return matchesFull || matchesAllTokens;
-        });
+      if (codNum) {
+        conditions.push(`r.codigo = $${paramIndex++}`);
+        values.push(codNum);
       }
     }
 
-    // 2. Filtro por departamento
+    // Filtro por búsqueda de texto
+    if (query.search && query.search.trim()) {
+      const rawSearch = query.search.trim();
+      if (/^\d+$/.test(rawSearch)) {
+        const codNum = Number(rawSearch);
+        conditions.push(
+          `(r.codigo = $${paramIndex} OR public.unaccent(lower(r.nombre)) ILIKE '%' || public.unaccent(lower($${paramIndex + 1})) || '%')`,
+        );
+        values.push(codNum, rawSearch);
+        paramIndex += 2;
+      } else {
+        conditions.push(
+          `(public.unaccent(lower(r.nombre)) ILIKE '%' || public.unaccent(lower($${paramIndex})) || '%' OR public.unaccent(lower(r.departamento || ' ' || r.provincia || ' ' || r.distrito)) ILIKE '%' || public.unaccent(lower($${paramIndex})) || '%')`,
+        );
+        values.push(rawSearch);
+        paramIndex++;
+      }
+    }
+
+    // Filtro por departamento
     if (query.department && query.department.trim()) {
       const rawDept = query.department.trim();
       const depName = this.UBIGEO_DEP_MAP[rawDept] || rawDept;
-      const normDep = normalizeText(depName);
-      filtered = filtered.filter((r) => {
-        const d = normalizeText(r.desdpto);
-        if (normDep.includes('junin')) return d.includes('jun');
-        return d.includes(normDep);
-      });
+      conditions.push(
+        `public.unaccent(lower(r.departamento)) ILIKE '%' || public.unaccent(lower($${paramIndex++})) || '%'`,
+      );
+      values.push(depName);
     }
 
-    // 3. Filtro por categoría
+    // Filtro por categoría
     if (query.category && query.category.trim()) {
-      const normCat = normalizeText(query.category);
-      filtered = filtered.filter((r) => normalizeText(r.categoria).includes(normCat));
+      conditions.push(
+        `public.unaccent(lower(r.categoria)) ILIKE '%' || public.unaccent(lower($${paramIndex++})) || '%'`,
+      );
+      values.push(query.category.trim());
     }
 
-    // 4. Filtro por tipo de categoría
+    // Filtro por tipo de categoría
     if (query.type && query.type.trim()) {
-      const normTp = normalizeText(query.type);
-      filtered = filtered.filter((r) => normalizeText(r.tipo_categoria).includes(normTp));
+      conditions.push(
+        `public.unaccent(lower(r.tipo_categoria)) ILIKE '%' || public.unaccent(lower($${paramIndex++})) || '%'`,
+      );
+      values.push(query.type.trim());
     }
 
-    // 5. Filtro por subtipo
+    // Filtro por subtipo
     if (query.subtype && query.subtype.trim()) {
-      const normSub = normalizeText(query.subtype);
-      filtered = filtered.filter((r) => normalizeText(r.subtipo_categoria).includes(normSub));
+      conditions.push(
+        `public.unaccent(lower(r.subtipo_categoria)) ILIKE '%' || public.unaccent(lower($${paramIndex++})) || '%'`,
+      );
+      values.push(query.subtype.trim());
     }
 
-    // 6. Filtro por actividad
+    // Filtro por actividad / subactividad
     if (query.activity && query.activity.trim()) {
-      const actId = query.activity.trim();
-      if (actId === '1') {
-        filtered = filtered.filter((r) => {
-          const normCat = normalizeText(r.categoria);
-          return normCat.includes('natural') || normCat.includes('cultural');
-        });
-      } else if (actId === '16') {
-        filtered = filtered.filter((r) => {
-          const combined = normalizeText(`${r.tipo_categoria} ${r.subtipo_categoria} ${r.nombre}`);
-          return (
-            combined.includes('agua') ||
-            combined.includes('playa') ||
-            combined.includes('rio') ||
-            combined.includes('laguna') ||
-            combined.includes('lago') ||
-            combined.includes('mar')
-          );
-        });
-      } else if (actId === '30') {
-        filtered = filtered.filter((r) => normalizeText(r.categoria).includes('natural'));
-      } else if (actId === '35') {
-        filtered = filtered.filter((r) => {
-          const normCat = normalizeText(r.categoria);
-          return normCat.includes('folk') || normCat.includes('cultural');
-        });
-      } else if (actId === '43') {
-        filtered = filtered.filter((r) => {
-          const combined = normalizeText(`${r.subtipo_categoria} ${r.tipo_categoria} ${r.nombre}`);
-          return (
-            combined.includes('montana') ||
-            combined.includes('nevado') ||
-            combined.includes('quebrada') ||
-            combined.includes('canon') ||
-            combined.includes('bosque') ||
-            combined.includes('geol')
-          );
-        });
-      } else if (actId === '63') {
-        filtered = filtered.filter((r) => {
-          const normCat = normalizeText(r.categoria);
-          return (
-            normCat.includes('contempor') ||
-            normCat.includes('artistica') ||
-            normCat.includes('evento')
-          );
-        });
+      const actParam = query.activity.trim();
+      if (/^\d+$/.test(actParam)) {
+        conditions.push(
+          `EXISTS (SELECT 1 FROM turismo.ficha_actividades fa WHERE fa.recurso_codigo = r.codigo AND fa.id_actividad = $${paramIndex++})`,
+        );
+        values.push(Number(actParam));
+      } else {
+        conditions.push(
+          `EXISTS (SELECT 1 FROM turismo.ficha_actividades fa WHERE fa.recurso_codigo = r.codigo AND public.unaccent(lower(fa.actividad)) ILIKE '%' || public.unaccent(lower($${paramIndex++})) || '%')`,
+        );
+        values.push(actParam);
       }
     }
 
-    const total = filtered.length;
-    const totalPages = Math.ceil(total / limit) || 1;
-    const paginatedItems = filtered.slice(startIndex, startIndex + limit);
+    if (query.subactivity && query.subactivity.trim()) {
+      const subParam = query.subactivity.trim();
+      if (/^\d+$/.test(subParam)) {
+        conditions.push(
+          `EXISTS (SELECT 1 FROM turismo.ficha_actividades fa WHERE fa.recurso_codigo = r.codigo AND fa.id_subactividad = $${paramIndex++})`,
+        );
+        values.push(Number(subParam));
+      } else {
+        conditions.push(
+          `EXISTS (SELECT 1 FROM turismo.ficha_actividades fa WHERE fa.recurso_codigo = r.codigo AND public.unaccent(lower(fa.tipo)) ILIKE '%' || public.unaccent(lower($${paramIndex++})) || '%')`,
+        );
+        values.push(subParam);
+      }
+    }
 
-    return {
-      data: paginatedItems,
-      total,
-      page,
-      limit,
-      totalPages,
-    };
+    const whereClause = conditions.join(' AND ');
+
+    const countSql = `SELECT count(*) AS total FROM turismo.vw_recursos_resumen r WHERE ${whereClause};`;
+    const dataSql = `
+      SELECT 
+        r.codigo,
+        r.nombre,
+        r.categoria,
+        r.tipo_categoria,
+        r.subtipo_categoria,
+        r.departamento,
+        r.provincia,
+        r.distrito,
+        r.desdpto,
+        r.desprov,
+        r.desubigeo,
+        r.x,
+        r.y,
+        r.coordenadas,
+        r.url_ficha,
+        r.url,
+        r.jerarquia,
+        r.desjerarquia,
+        r.imagen,
+        r.foto_url
+      FROM turismo.vw_recursos_resumen r
+      WHERE ${whereClause}
+      ORDER BY r.codigo ASC
+      LIMIT $${paramIndex++} OFFSET $${paramIndex++};
+    `;
+
+    try {
+      const [countResult, dataResult] = await Promise.all([
+        this.executeSql(countSql, values, 'Buscar Recursos (Count Total)'),
+        this.executeSql(dataSql, [...values, limit, offset], `Buscar Recursos (Pág. ${page}, Límite ${limit})`),
+      ]);
+
+      const total = Number(countResult.rows[0]?.total || 0);
+      const totalPages = Math.ceil(total / limit) || 1;
+
+      return {
+        data: dataResult.rows,
+        total,
+        page,
+        limit,
+        totalPages,
+      };
+    } catch (err) {
+      throw new HttpException(
+        'Error al realizar búsqueda de recursos',
+        HttpStatus.INTERNAL_SERVER_ERROR,
+      );
+    }
   }
 
   // 5. Obtener Recursos Georreferenciados para OpenStreetMap
@@ -513,232 +520,365 @@ export class MinceturService implements OnModuleInit {
     search?: string;
     limit?: number;
   }): Promise<ResourceItem[]> {
-    this.stats.totalRequests++;
+    this.totalRequests++;
 
-    if (!this.resourcesCache) {
-      this.loadResourcesIntoMemory();
-    }
+    const conditions: string[] = [
+      'r.is_active = TRUE',
+      'r.x IS NOT NULL',
+      'r.y IS NOT NULL',
+    ];
+    const values: any[] = [];
+    let paramIndex = 1;
 
-    let filtered = (this.resourcesCache || []).filter(
-      (r) => r.coordenadas?.latitud != null && r.coordenadas?.longitud != null,
-    );
-
-    // Filtro por departamento
     if (query.department && query.department.trim()) {
       const rawDept = query.department.trim();
       const depName = this.UBIGEO_DEP_MAP[rawDept] || rawDept;
-      const normDep = normalizeText(depName);
-      filtered = filtered.filter((r) => {
-        const d = normalizeText(r.desdpto);
-        if (normDep.includes('junin')) return d.includes('jun');
-        return d.includes(normDep);
-      });
+      conditions.push(
+        `public.unaccent(lower(r.departamento)) ILIKE '%' || public.unaccent(lower($${paramIndex++})) || '%'`,
+      );
+      values.push(depName);
     }
 
-    // Filtro por categoría
     if (query.category && query.category.trim()) {
-      const normCat = normalizeText(query.category);
-      filtered = filtered.filter((r) => normalizeText(r.categoria).includes(normCat));
+      conditions.push(
+        `public.unaccent(lower(r.categoria)) ILIKE '%' || public.unaccent(lower($${paramIndex++})) || '%'`,
+      );
+      values.push(query.category.trim());
     }
 
-    // Filtro por búsqueda
     if (query.search && query.search.trim()) {
-      const normQuery = normalizeText(query.search);
-      filtered = filtered.filter((r) => normalizeText(r.nombre).includes(normQuery));
+      conditions.push(
+        `public.unaccent(lower(r.nombre)) ILIKE '%' || public.unaccent(lower($${paramIndex++})) || '%'`,
+      );
+      values.push(query.search.trim());
     }
 
+    let limitClause = '';
     if (query.limit && Number(query.limit) > 0) {
-      return filtered.slice(0, Number(query.limit));
+      limitClause = `LIMIT $${paramIndex++}`;
+      values.push(Number(query.limit));
     }
 
-    return filtered;
+    const sql = `
+      SELECT 
+        r.codigo,
+        r.nombre,
+        r.categoria,
+        r.tipo_categoria,
+        r.subtipo_categoria,
+        r.departamento,
+        r.provincia,
+        r.distrito,
+        r.desdpto,
+        r.desprov,
+        r.desubigeo,
+        r.x,
+        r.y,
+        r.coordenadas,
+        r.url_ficha,
+        r.url,
+        r.jerarquia,
+        r.desjerarquia,
+        r.imagen,
+        r.foto_url
+      FROM turismo.vw_recursos_resumen r
+      WHERE ${conditions.join(' AND ')}
+      ORDER BY r.codigo ASC
+      ${limitClause};
+    `;
+
+    try {
+      const res = await this.executeSql(sql, values, 'Obtener Recursos para Mapa');
+      return res.rows;
+    } catch (err) {
+      throw new HttpException(
+        'Error al obtener recursos para mapa',
+        HttpStatus.INTERNAL_SERVER_ERROR,
+      );
+    }
   }
 
   // 6. Obtener GeoJSON estándar para Leaflet / OpenStreetMap
   async getMapGeoJson(query: { department?: string; category?: string }) {
-    const resources = await this.getMapResources(query);
+    this.totalRequests++;
+    try {
+      const dep = query.department?.trim()
+        ? this.UBIGEO_DEP_MAP[query.department.trim()] || query.department.trim()
+        : null;
+      const cat = query.category?.trim() || null;
 
-    return {
-      type: 'FeatureCollection',
-      features: resources.map((r) => ({
-        type: 'Feature',
-        geometry: {
-          type: 'Point',
-          coordinates: [r.coordenadas?.longitud, r.coordenadas?.latitud],
-        },
-        properties: {
-          codigo: r.codigo,
-          nombre: r.nombre,
-          categoria: r.categoria,
-          tipo_categoria: r.tipo_categoria,
-          subtipo_categoria: r.subtipo_categoria,
-          departamento: r.desdpto,
-          provincia: r.desprov,
-          distrito: r.desubigeo,
-          jerarquia: r.jerarquia,
-          imagen: r.imagen,
-          url_ficha: r.url_ficha,
-        },
-      })),
-    };
+      const res = await this.executeSql(
+        'SELECT turismo.fn_get_recursos_geojson($1, $2) AS geojson;',
+        [dep, cat],
+        'Obtener GeoJSON FeatureCollection (fn_get_recursos_geojson)',
+      );
+
+      return (
+        res.rows[0]?.geojson || {
+          type: 'FeatureCollection',
+          features: [],
+        }
+      );
+    } catch (err) {
+      throw new HttpException(
+        'Error al obtener mapa GeoJSON',
+        HttpStatus.INTERNAL_SERVER_ERROR,
+      );
+    }
   }
 
   // 7. Obtener Todos los Recursos Activos (Catálogo Completo)
   async getAllResources(): Promise<ResourceItem[]> {
-    this.stats.totalRequests++;
-    if (!this.resourcesCache) {
-      this.loadResourcesIntoMemory();
+    this.totalRequests++;
+    try {
+      const res = await this.executeSql(
+        `
+        SELECT 
+          r.codigo,
+          r.nombre,
+          r.categoria,
+          r.tipo_categoria,
+          r.subtipo_categoria,
+          r.departamento,
+          r.provincia,
+          r.distrito,
+          r.desdpto,
+          r.desprov,
+          r.desubigeo,
+          r.x,
+          r.y,
+          r.coordenadas,
+          r.url_ficha,
+          r.url,
+          r.jerarquia,
+          r.desjerarquia,
+          r.imagen,
+          r.foto_url
+        FROM turismo.vw_recursos_resumen r
+        WHERE r.is_active = TRUE
+        ORDER BY r.codigo ASC;
+        `,
+        [],
+        'Obtener Todos los Recursos Activos (Catálogo Completo)',
+      );
+      return res.rows;
+    } catch (err) {
+      throw new HttpException(
+        'Error al obtener lista de recursos',
+        HttpStatus.INTERNAL_SERVER_ERROR,
+      );
     }
-    return this.resourcesCache || [];
   }
 
   // 8. Obtener Recursos por Departamento
   async getResourcesByDepartment(dptoParam: string): Promise<ResourceItem[]> {
-    this.stats.totalRequests++;
-    if (!this.resourcesCache) {
-      this.loadResourcesIntoMemory();
+    this.totalRequests++;
+    try {
+      const depName = this.UBIGEO_DEP_MAP[dptoParam] || dptoParam;
+      const res = await this.executeSql(
+        `
+        SELECT 
+          r.codigo,
+          r.nombre,
+          r.categoria,
+          r.tipo_categoria,
+          r.subtipo_categoria,
+          r.departamento,
+          r.provincia,
+          r.distrito,
+          r.desdpto,
+          r.desprov,
+          r.desubigeo,
+          r.x,
+          r.y,
+          r.coordenadas,
+          r.url_ficha,
+          r.url,
+          r.jerarquia,
+          r.desjerarquia,
+          r.imagen,
+          r.foto_url
+        FROM turismo.vw_recursos_resumen r
+        WHERE r.is_active = TRUE
+          AND public.unaccent(lower(r.departamento)) ILIKE '%' || public.unaccent(lower($1)) || '%'
+        ORDER BY r.codigo ASC;
+        `,
+        [depName],
+        `Obtener Recursos por Departamento (${depName})`,
+      );
+      return res.rows;
+    } catch (err) {
+      throw new HttpException(
+        'Error al obtener recursos por departamento',
+        HttpStatus.INTERNAL_SERVER_ERROR,
+      );
     }
-
-    const depName = this.UBIGEO_DEP_MAP[dptoParam] || dptoParam;
-    const normDep = normalizeText(depName);
-
-    return (this.resourcesCache || []).filter((r) => {
-      const d = normalizeText(r.desdpto);
-      if (normDep.includes('junin')) return d.includes('jun');
-      return d.includes(normDep);
-    });
   }
 
-  // 9. Obtener Recursos Destacados Aleatorios (Random 6) con Fotos Verificadas
-  async getFeaturedResources(query: { limit?: number; category?: string }): Promise<ResourceItem[]> {
-    this.stats.totalRequests++;
-
-    if (!this.resourcesCache) {
-      this.loadResourcesIntoMemory();
-    }
+  // 9. Obtener Recursos Destacados Aleatorios con Fotos Verificadas
+  async getFeaturedResources(query: {
+    limit?: number;
+    category?: string;
+  }): Promise<ResourceItem[]> {
+    this.totalRequests++;
 
     const limit = Math.max(1, Math.min(24, Number(query.limit) || 6));
-    let pool = (this.resourcesCache || []).filter((r) => Boolean(r.imagen || this.fichaToPhotoMap.has(r.codigo)));
+    const conditions: string[] = [
+      'r.is_active = TRUE',
+      'r.imagen IS NOT NULL',
+      "r.imagen <> ''",
+    ];
+    const values: any[] = [];
+    let paramIndex = 1;
 
     if (query.category && query.category.trim()) {
-      const normCat = normalizeText(query.category);
-      pool = pool.filter((r) => normalizeText(r.categoria).includes(normCat));
+      conditions.push(
+        `public.unaccent(lower(r.categoria)) ILIKE '%' || public.unaccent(lower($${paramIndex++})) || '%'`,
+      );
+      values.push(query.category.trim());
     }
 
-    // Si por el filtro de categoría no hay con foto, usar pool general filtrado
-    if (pool.length === 0) {
-      pool = this.resourcesCache || [];
-      if (query.category && query.category.trim()) {
-        const normCat = normalizeText(query.category);
-        pool = pool.filter((r) => normalizeText(r.categoria).includes(normCat));
+    const sql = `
+      SELECT 
+        r.codigo,
+        r.nombre,
+        r.categoria,
+        r.tipo_categoria,
+        r.subtipo_categoria,
+        r.departamento,
+        r.provincia,
+        r.distrito,
+        r.desdpto,
+        r.desprov,
+        r.desubigeo,
+        r.x,
+        r.y,
+        r.coordenadas,
+        r.url_ficha,
+        r.url,
+        r.jerarquia,
+        r.desjerarquia,
+        r.imagen,
+        r.foto_url
+      FROM turismo.vw_recursos_resumen r
+      WHERE ${conditions.join(' AND ')}
+      ORDER BY RANDOM()
+      LIMIT $${paramIndex++};
+    `;
+
+    try {
+      const res = await this.executeSql(
+        sql,
+        [...values, limit],
+        `Obtener Recursos Destacados (Límite ${limit})`,
+      );
+
+      if (res.rows.length === 0 && query.category) {
+        const fallbackRes = await this.executeSql(
+          `
+          SELECT 
+            r.codigo,
+            r.nombre,
+            r.categoria,
+            r.tipo_categoria,
+            r.subtipo_categoria,
+            r.departamento,
+            r.provincia,
+            r.distrito,
+            r.desdpto,
+            r.desprov,
+            r.desubigeo,
+            r.x,
+            r.y,
+            r.coordenadas,
+            r.url_ficha,
+            r.url,
+            r.jerarquia,
+            r.desjerarquia,
+            r.imagen,
+            r.foto_url
+          FROM turismo.vw_recursos_resumen r
+          WHERE r.is_active = TRUE
+          ORDER BY RANDOM()
+          LIMIT $1;
+          `,
+          [limit],
+          'Obtener Destacados (Fallback)',
+        );
+        return fallbackRes.rows;
       }
+      return res.rows;
+    } catch (err) {
+      throw new HttpException(
+        'Error al obtener recursos destacados',
+        HttpStatus.INTERNAL_SERVER_ERROR,
+      );
     }
-
-    // Shuffle aleatorio (Fisher-Yates) para que cada consulta devuelva destinos distintos
-    const shuffled = [...pool];
-    for (let i = shuffled.length - 1; i > 0; i--) {
-      const j = Math.floor(Math.random() * (i + 1));
-      [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
-    }
-
-    return shuffled.slice(0, limit);
   }
 
-  // 6. Obtener Detalle de Ficha desde JSON Local
+  // 10. Obtener Detalle de Ficha desde PostgreSQL
   async getFichaDetail(codFicha: number): Promise<FichaDetail> {
-    this.stats.totalRequests++;
+    this.totalRequests++;
 
-    if (this.offlineCodesSet.has(codFicha)) {
+    if (!codFicha || isNaN(codFicha)) {
       throw new HttpException(
-        `La ficha oficial N° ${codFicha} no está disponible o ha sido dada de baja del inventario oficial.`,
-        HttpStatus.NOT_FOUND,
+        'El código de ficha proporcionado es inválido.',
+        HttpStatus.BAD_REQUEST,
       );
     }
 
-    const fichaPath = path.join(this.FICHAS_INDIV_DIR, `ficha_${codFicha}.json`);
+    try {
+      const res = await this.executeSql(
+        'SELECT turismo.fn_get_ficha_detalle($1) AS ficha;',
+        [codFicha],
+        `Obtener Detalle Ficha N° ${codFicha} (fn_get_ficha_detalle)`,
+      );
 
-    // 1. Si existe la ficha técnica completa en disco, devolverla
-    if (fs.existsSync(fichaPath)) {
-      try {
-        const raw = fs.readFileSync(fichaPath, 'utf-8');
-        const parsed: FichaDetail = JSON.parse(raw);
+      const ficha = res.rows[0]?.ficha;
 
-        // Normalizar secciones para el frontend
-        if (parsed.secciones && parsed.secciones.length > 0) {
-          parsed.secciones = parsed.secciones.map((sec: any, idx: number) => ({
-            id: sec.id || `sec_${idx}`,
-            titulo: sec.titulo || '',
-            contenido_texto: sec.contenido_texto || sec.contenido || '',
-            contenido_html: sec.contenido_html || `<p>${sec.contenido || sec.contenido_texto || ''}</p>`,
-          }));
-        }
-
-        // Asegurar coordenadas x/y
-        if (parsed.coordenadas) {
-          parsed.x = parsed.coordenadas.longitud ?? parsed.x;
-          parsed.y = parsed.coordenadas.latitud ?? parsed.y;
-        }
-
-        return parsed;
-      } catch (err) {
-        this.logger.error(`Error leyendo ficha ${codFicha}: ${err.message}`);
+      if (!ficha || !ficha.cod_ficha) {
+        throw new HttpException(
+          `La ficha oficial N° ${codFicha} no existe en la base de datos nacional.`,
+          HttpStatus.NOT_FOUND,
+        );
       }
+
+      // Normalizar secciones para el frontend
+      if (ficha.secciones && ficha.secciones.length > 0) {
+        ficha.secciones = ficha.secciones.map((sec: any, idx: number) => ({
+          id: sec.id || `sec_${idx}`,
+          titulo: sec.titulo || '',
+          contenido_texto: sec.contenido_texto || sec.contenido || '',
+          contenido_html:
+            sec.contenido_html ||
+            `<p>${sec.contenido || sec.contenido_texto || ''}</p>`,
+        }));
+      }
+
+      // Asegurar coordenadas x/y
+      if (ficha.coordenadas) {
+        ficha.x = ficha.coordenadas.longitud ?? ficha.x;
+        ficha.y = ficha.coordenadas.latitud ?? ficha.y;
+      }
+
+      return ficha as FichaDetail;
+    } catch (err) {
+      if (err instanceof HttpException) {
+        throw err;
+      }
+      this.logger.error(
+        `Error obteniendo ficha detalle ${codFicha}: ${err.message}`,
+        err.stack,
+      );
+      throw new HttpException(
+        'Error al consultar el detalle de la ficha turística',
+        HttpStatus.INTERNAL_SERVER_ERROR,
+      );
     }
-
-    // 2. Si no tiene ficha HTML descargada pero existe en el catálogo maestro
-    const matchedRec = this.resourcesCache?.find((r) => r.codigo === codFicha);
-    if (matchedRec) {
-      const photoUrl = this.fichaToPhotoMap.get(codFicha) || null;
-
-      const dpto = matchedRec.departamento || matchedRec.desdpto || 'Perú';
-      const prov = matchedRec.provincia || matchedRec.desprov || '';
-      const dist = matchedRec.distrito || matchedRec.desubigeo || '';
-
-      const lat = matchedRec.y ?? matchedRec.coordenadas?.latitud;
-      const lon = matchedRec.x ?? matchedRec.coordenadas?.longitud;
-
-      return {
-        cod_ficha: codFicha,
-        url_ficha: matchedRec.url_ficha || `https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=${codFicha}`,
-        nombre: matchedRec.nombre,
-        departamento: dpto,
-        provincia: prov,
-        distrito: dist,
-        categoria: matchedRec.categoria || 'Recurso Turístico',
-        tipo: matchedRec.tipo_categoria || '',
-        subtipo: matchedRec.subtipo_categoria || '',
-        jerarquia: matchedRec.jerarquia || matchedRec.desjerarquia || 'En evaluación',
-        altitud: '',
-        x: lon,
-        y: lat,
-        coordenadas: {
-          latitud: lat,
-          longitud: lon,
-        },
-        google_maps_url: lat && lon ? `https://www.google.com/maps?q=${lat},${lon}` : `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(`${matchedRec.nombre}, ${dpto} Peru`)}`,
-        foto_principal: photoUrl,
-        galeria_fotos: photoUrl ? [photoUrl] : [],
-        actividades_permitidas: [],
-        actividades_detalle: [],
-        rutas_acceso: [],
-        epoca_propicia: [],
-        descripcion: `Atractivo turístico registrado en el Inventario Nacional de Recursos Turísticos del Perú. Ubicado en el departamento de ${dpto}${prov ? `, provincia de ${prov}` : ''}${dist ? `, distrito de ${dist}` : ''}. Categoría: ${matchedRec.categoria || 'Turismo Nacional'}${matchedRec.tipo_categoria ? ` > ${matchedRec.tipo_categoria}` : ''}${matchedRec.subtipo_categoria ? ` > ${matchedRec.subtipo_categoria}` : ''}.`,
-        secciones: [],
-      };
-    }
-
-    throw new HttpException(
-      `La ficha oficial N° ${codFicha} no existe en la base de datos nacional.`,
-      HttpStatus.NOT_FOUND,
-    );
   }
 
-  // 7. Redirección directa a la URL oficial de fotos con resolución exacta de ID de foto
+  // 11. Redirección directa a la URL oficial de fotos
   getPhotoUrl(cod: string): string {
-    const codNum = Number(cod);
-    if (codNum && this.fichaToPhotoMap.has(codNum)) {
-      return this.fichaToPhotoMap.get(codNum)!;
-    }
     return `https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=${cod}`;
   }
 }

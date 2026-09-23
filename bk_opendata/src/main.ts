@@ -1,3 +1,4 @@
+import 'dotenv/config';
 import { NestFactory } from '@nestjs/core';
 import { AppModule } from './app.module';
 import { Logger } from '@nestjs/common';
@@ -26,6 +27,20 @@ async function bootstrap() {
     origin: '*',
     methods: 'GET,HEAD,OPTIONS',
     allowedHeaders: 'Content-Type, Accept, Authorization, X-Requested-With',
+  });
+
+  // 4. Logger Middleware de peticiones HTTP en vivo
+  app.use((req: any, res: any, next: any) => {
+    const start = Date.now();
+    const { method, originalUrl } = req;
+    res.on('finish', () => {
+      const duration = Date.now() - start;
+      const { statusCode } = res;
+      logger.log(
+        `[HTTP] ${method} ${originalUrl} -> ${statusCode} (${duration}ms)`,
+      );
+    });
+    next();
   });
 
   const port = process.env.PORT || 3001;

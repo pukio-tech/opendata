@@ -73,12 +73,8 @@ export default function HomePage() {
   const [culturalCount, setCulturalCount] = useState<number>(0);
   const [folkloreCount, setFolkloreCount] = useState<number>(0);
 
-  // Filtros interactivos del Hero
+  // Estado del selector de departamento en el mapa interactivo
   const [selectedDept, setSelectedDept] = useState<string>('');
-  const [selectedCategory, setSelectedCategory] = useState<string>('');
-  const [selectedActivity, setSelectedActivity] = useState<string>('');
-  const [searchKeyword, setSearchKeyword] = useState<string>('');
-  const [isMobileFiltersOpen, setIsMobileFiltersOpen] = useState<boolean>(false);
 
   // Slider de fondos del Hero
   const [currentSlideIndex, setCurrentSlideIndex] = useState<number>(0);
@@ -168,16 +164,7 @@ export default function HomePage() {
       });
   }, [selectedDept]);
 
-  // Rotación suave del slider del Hero cada 6 segundos
-  useEffect(() => {
-    if (isSliderPaused || featuredResources.length === 0) return;
-    const interval = setInterval(() => {
-      setCurrentSlideIndex((prev) => (prev + 1) % Math.min(featuredResources.length, 5));
-    }, 6000);
-    return () => clearInterval(interval);
-  }, [isSliderPaused, featuredResources]);
-
-  // Opciones de Departamentos formateadas dinámicamente
+  // Opciones de Departamentos para el Mapa interactivo
   const departmentOptions: SelectOption[] = useMemo(() => {
     return [
       { value: '', label: `Todas las regiones (${departments.length})`, badge: 'Perú' },
@@ -189,39 +176,14 @@ export default function HomePage() {
     ];
   }, [departments]);
 
-  // Opciones de Categorías formateadas dinámicamente
-  const categoryOptions: SelectOption[] = useMemo(() => {
-    return [
-      { value: '', label: `Todas las categorías (${categories.length})`, badge: 'Oficial' },
-      ...categories.map((c) => ({
-        value: String(c.atrac_categ),
-        label: cleanLabel(c.categoria),
-        sublabel: c.tipos?.length ? `${c.tipos.length} tipos registrados` : undefined,
-      })),
-    ];
-  }, [categories]);
-
-  // Opciones de Actividades formateadas dinámicamente
-  const activityOptions: SelectOption[] = useMemo(() => {
-    return [
-      { value: '', label: `Todas las actividades (${activities.length})` },
-      ...activities.map((a) => ({
-        value: String(a.atrac_acti),
-        label: cleanLabel(a.nombre),
-      })),
-    ];
-  }, [activities]);
-
-  // Manejar el submit de la barra de búsqueda hacia /turismo
-  const handleExecuteSearch = (e?: React.FormEvent) => {
-    if (e) e.preventDefault();
-    const params = new URLSearchParams();
-    if (searchKeyword.trim()) params.set('search', searchKeyword.trim());
-    if (selectedDept) params.set('department', selectedDept);
-    if (selectedCategory) params.set('category', selectedCategory);
-    if (selectedActivity) params.set('activity', selectedActivity);
-    router.push(`/turismo?${params.toString()}`);
-  };
+  // Rotación suave del slider del Hero cada 6 segundos
+  useEffect(() => {
+    if (isSliderPaused || featuredResources.length === 0) return;
+    const interval = setInterval(() => {
+      setCurrentSlideIndex((prev) => (prev + 1) % Math.min(featuredResources.length, 5));
+    }, 6000);
+    return () => clearInterval(interval);
+  }, [isSliderPaused, featuredResources]);
 
   // Recurso activo del Hero Slider
   const activeHeroItem = featuredResources[currentSlideIndex] || featuredResources[0];
@@ -289,110 +251,28 @@ export default function HomePage() {
           <p className="mt-6 text-sm sm:text-lg md:text-xl text-slate-200 font-normal max-w-3xl mx-auto leading-relaxed drop-shadow">
             Explora de manera abierta más de{' '}
             <span className="font-bold text-amber-300">
-              {totalResourcesCount > 0 ? totalResourcesCount.toLocaleString() : '1,200+'}
+              {totalResourcesCount > 0 ? totalResourcesCount.toLocaleString() : '2,291'}
             </span>{' '}
             atractivos georreferenciados, rutas y patrimonio oficial sincronizados en tiempo real con el portal nacional de MINCETUR.
           </p>
-        </div>
 
-        {/* Barra Flotante de Filtros Glassmorphism (Mobile-First) */}
-        <div className="relative z-20 max-w-6xl mx-auto w-full">
-          {/* Botón de Filtros para Móviles */}
-          <div className="lg:hidden mb-3">
-            <button
-              type="button"
-              onClick={() => setIsMobileFiltersOpen(!isMobileFiltersOpen)}
-              className="w-full flex items-center justify-between p-4 rounded-2xl glass-search-capsule text-white shadow-2xl font-bold text-xs uppercase tracking-wider"
+          {/* Botones de Acción y Exploración */}
+          <div className="mt-8 flex flex-wrap items-center justify-center gap-4">
+            <Link
+              href="/turismo"
+              className="inline-flex items-center gap-2 px-7 py-3.5 rounded-2xl bg-gradient-to-r from-amber-500 via-orange-500 to-amber-600 hover:from-amber-400 hover:to-orange-400 text-slate-950 font-black text-xs sm:text-sm uppercase tracking-wider shadow-2xl shadow-amber-500/25 hover:scale-[1.03] active:scale-95 transition-all duration-200"
             >
-              <div className="flex items-center gap-2">
-                <Icons.Filter className="w-4 h-4 text-amber-400" />
-                <span>
-                  {isMobileFiltersOpen ? 'Ocultar Filtros' : 'Mostrar Filtros Rápidos de Búsqueda'}
-                </span>
-              </div>
-              <Icons.ChevronDown
-                className={`w-4 h-4 transition-transform duration-200 ${
-                  isMobileFiltersOpen ? 'rotate-180' : ''
-                }`}
-              />
-            </button>
+              <Icons.Compass className="w-4 h-4 sm:w-5 sm:h-5 text-slate-950" />
+              <span>Explorar Catálogo Turístico</span>
+            </Link>
+            <Link
+              href="/#mapa-preview"
+              className="inline-flex items-center gap-2 px-7 py-3.5 rounded-2xl bg-slate-900/80 hover:bg-slate-900 text-white border border-slate-700/80 font-bold text-xs sm:text-sm hover:scale-[1.03] active:scale-95 transition-all duration-200 backdrop-blur-md shadow-xl"
+            >
+              <Icons.MapPin className="w-4 h-4 sm:w-5 sm:h-5 text-sky-400" />
+              <span>Ver Mapa Interactivo</span>
+            </Link>
           </div>
-
-          {/* Panel Flotante Glassmorphism */}
-          <form
-            onSubmit={handleExecuteSearch}
-            className={`glass-search-capsule p-3 sm:p-4 rounded-3xl transition-all duration-300 ${
-              isMobileFiltersOpen ? 'block animate-slideDown' : 'hidden lg:block'
-            }`}
-          >
-            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-12 gap-3 items-center">
-              {/* Campo 1: Destino / Región */}
-              <div className="lg:col-span-3">
-                <CustomSelect
-                  label="Región / Ubicación"
-                  icon={<Icons.MapPin className="w-3.5 h-3.5 text-amber-400" />}
-                  value={selectedDept}
-                  onChange={setSelectedDept}
-                  options={departmentOptions}
-                  placeholder="Todas las regiones..."
-                  searchable
-                  variant="glass"
-                />
-              </div>
-
-              {/* Campo 2: Categoría */}
-              <div className="lg:col-span-3">
-                <CustomSelect
-                  label="Categoría Oficial"
-                  icon={<Icons.Compass className="w-3.5 h-3.5 text-sky-400" />}
-                  value={selectedCategory}
-                  onChange={setSelectedCategory}
-                  options={categoryOptions}
-                  placeholder="Todas las categorías..."
-                  variant="glass"
-                />
-              </div>
-
-              {/* Campo 3: Actividad */}
-              <div className="lg:col-span-3">
-                <CustomSelect
-                  label="Actividad Turística"
-                  icon={<Icons.Layers className="w-3.5 h-3.5 text-emerald-400" />}
-                  value={selectedActivity}
-                  onChange={setSelectedActivity}
-                  options={activityOptions}
-                  placeholder="Todas las actividades..."
-                  searchable
-                  variant="glass"
-                />
-              </div>
-
-              {/* Campo 4: Palabra Clave + Botón de Búsqueda */}
-              <div className="lg:col-span-3 flex items-center gap-2">
-                <div className="flex-1 min-w-0 glass-search-field p-2.5 sm:p-3 rounded-2xl">
-                  <span className="block text-[10px] font-bold uppercase tracking-wider text-amber-400 mb-0.5">
-                    Palabra Clave
-                  </span>
-                  <input
-                    type="text"
-                    value={searchKeyword}
-                    onChange={(e) => setSearchKeyword(e.target.value)}
-                    placeholder="Ej: Machu Picchu, Colca..."
-                    className="w-full bg-transparent text-xs text-white placeholder-slate-400 font-medium focus:outline-none"
-                  />
-                </div>
-
-                <button
-                  type="submit"
-                  className="h-full min-h-[56px] px-5 sm:px-6 rounded-2xl bg-gradient-to-r from-emerald-500 via-teal-500 to-emerald-600 hover:from-emerald-400 hover:to-teal-400 text-slate-950 font-black text-xs uppercase tracking-wider shadow-emerald-glow transition-all duration-200 hover:scale-[1.03] active:scale-95 flex items-center justify-center gap-2 shrink-0 cursor-pointer"
-                  title="Consultar Catálogo Oficial"
-                >
-                  <Icons.Search className="w-4 h-4 text-slate-950" />
-                  <span className="hidden sm:inline">Buscar</span>
-                </button>
-              </div>
-            </div>
-          </form>
         </div>
       </section>
 

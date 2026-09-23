@@ -2,7 +2,8 @@ import { ActivityItem, CategoryItem, DepartmentItem, FichaDetail, PaginatedRespo
 
 export const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:3001/api';
 
-export const getPhotoUrl = (codigo: number | string) => `${API_BASE_URL}/photos/${codigo}`;
+export const getPhotoUrl = (codigo: number | string) =>
+  `https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=${codigo}`;
 
 // Cache en memoria en el cliente para navegación instantánea
 const clientCache = new Map<string, { data: any; expiry: number }>();

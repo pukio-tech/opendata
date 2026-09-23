@@ -6,7 +6,7 @@ import { useRouter, usePathname } from 'next/navigation';
 import { Icons } from './Icons';
 import { useLanguage, LANGUAGES } from '../context/LanguageContext';
 import { useTheme } from '../context/ThemeContext';
-import { apiService } from '../services/api';
+import { apiService, getPhotoUrl } from '../services/api';
 import { ResourceItem } from '../types/mincetur';
 import { createResourceSlug } from '../utils/slug';
 
@@ -339,9 +339,10 @@ export const Navbar = () => {
                       <span className="font-mono text-sky-400">{searchResults.length} resultados</span>
                     </div>
 
-                    <div className="max-h-72 overflow-y-auto space-y-1 py-1">
+                    <div className="max-h-80 overflow-y-auto space-y-1.5 py-1">
                       {searchResults.map((item) => {
                         const itemSlug = createResourceSlug(item.nombre, item.codigo);
+                        const photoUrl = item.imagen || item.foto_url || getPhotoUrl(item.codigo);
                         return (
                           <Link
                             key={item.codigo}
@@ -350,19 +351,38 @@ export const Navbar = () => {
                               setIsResultsMenuOpen(false);
                               setIsSearchExpanded(false);
                             }}
-                            className="flex items-center justify-between gap-3 px-3 py-2 rounded-xl hover:bg-slate-800/80 transition-colors group"
+                            className="flex items-center gap-3 p-2 rounded-xl hover:bg-slate-800/90 transition-all duration-200 group border border-transparent hover:border-slate-700/60"
                           >
+                            {/* Miniatura Imagen */}
+                            <div className="w-11 h-11 rounded-lg overflow-hidden shrink-0 bg-slate-800 border border-slate-700/80 relative shadow-inner">
+                              <img
+                                src={photoUrl}
+                                alt={item.nombre}
+                                className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-300"
+                                onError={(e) => {
+                                  e.currentTarget.onerror = null;
+                                  e.currentTarget.src = 'https://images.unsplash.com/photo-1526392060635-9d6019884377?w=120&auto=format&fit=crop&q=60';
+                                }}
+                              />
+                            </div>
+
                             {/* Info */}
                             <div className="flex-1 min-w-0">
                               <h4 className="text-xs font-bold text-white group-hover:text-amber-400 transition-colors truncate">
                                 {item.nombre}
                               </h4>
-                              <p className="text-[10px] text-slate-400 truncate mt-0.5">
-                                {item.desubigeo || item.desprov || item.desdpto || 'Perú'}
-                              </p>
+                              <div className="flex items-center gap-1.5 text-[10px] text-slate-400 truncate mt-0.5">
+                                <span className="truncate">{item.desubigeo || item.desprov || item.desdpto || 'Perú'}</span>
+                                {item.categoria && (
+                                  <>
+                                    <span className="text-slate-600">•</span>
+                                    <span className="text-sky-400/90 truncate font-medium">{item.categoria}</span>
+                                  </>
+                                )}
+                              </div>
                             </div>
 
-                            <span className="text-[10px] font-mono font-bold px-2 py-0.5 rounded bg-slate-800 text-amber-300 border border-slate-700 shrink-0">
+                            <span className="text-[10px] font-mono font-bold px-2 py-0.5 rounded bg-slate-800/90 text-amber-300 border border-slate-700/80 shrink-0">
                               #{item.codigo}
                             </span>
                           </Link>

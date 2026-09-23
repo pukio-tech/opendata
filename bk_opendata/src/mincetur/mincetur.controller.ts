@@ -108,6 +108,7 @@ export class MinceturController {
 
   @Get('photos/:cod')
   getPhoto(@Param('cod') cod: string, @Res() res: Response) {
+    res.setHeader('Cache-Control', 'public, max-age=86400, s-maxage=604800, immutable');
     const url = this.minceturService.getPhotoUrl(cod);
     res.redirect(301, url);
   }

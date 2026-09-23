@@ -1,6 +1,6 @@
 'use client';
 
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import Link from 'next/link';
 import { Icons } from './Icons';
 import { ResourceItem } from '../types/mincetur';
@@ -17,27 +17,37 @@ interface ResourceCardProps {
 
 export const ResourceCard: React.FC<ResourceCardProps> = ({ resource }) => {
   const { language, t } = useLanguage();
+  const imgRef = useRef<HTMLImageElement | null>(null);
 
   const getResourceImage = (res: ResourceItem): string | null => {
-    if (res.imagen) {
-      if (res.imagen.startsWith('http')) return res.imagen;
+    const raw = res.imagen || res.foto_url;
+    if (raw && typeof raw === 'string' && raw.trim()) {
+      if (raw.startsWith('http')) return raw.trim();
       const base = API_BASE_URL.replace(/\/api$/, '');
-      return `${base}${res.imagen}`;
+      return `${base}${raw.trim()}`;
     }
-    return null;
+    return getPhotoUrl(res.codigo);
   };
 
   const initialImg = getResourceImage(resource);
   const [imgSrc, setImgSrc] = useState<string | null>(initialImg);
-  const [imgLoading, setImgLoading] = useState<boolean>(Boolean(initialImg));
-  const [hasError, setHasError] = useState<boolean>(!initialImg);
+  const [isLoaded, setIsLoaded] = useState<boolean>(false);
+  const [hasError, setHasError] = useState<boolean>(false);
 
   useEffect(() => {
     const img = getResourceImage(resource);
     setImgSrc(img);
-    setImgLoading(Boolean(img));
-    setHasError(!img);
-  }, [resource.codigo, resource.imagen]);
+    setHasError(false);
+
+    // Verificar si la imagen ya está lista en el caché del navegador
+    if (imgRef.current && imgRef.current.complete) {
+      if (imgRef.current.naturalWidth > 0) {
+        setIsLoaded(true);
+      }
+    } else {
+      setIsLoaded(false);
+    }
+  }, [resource.codigo, resource.imagen, resource.foto_url]);
 
   const slug = createResourceSlug(resource.nombre, resource.codigo);
 
@@ -105,33 +115,37 @@ export const ResourceCard: React.FC<ResourceCardProps> = ({ resource }) => {
       <div>
         {/* Photo Container */}
         <div className="relative h-52 sm:h-56 w-full bg-slate-100 dark:bg-slate-800 overflow-hidden flex items-center justify-center">
-          {imgLoading && !hasError && (
-            <div className="absolute inset-0 bg-slate-100 dark:bg-slate-800 animate-pulse flex flex-col items-center justify-center gap-2 z-10">
-              <div className="w-8 h-8 border-2 border-amber-500 border-t-transparent rounded-full animate-spin" />
-              <span className="text-[11px] font-semibold text-slate-500 dark:text-slate-400">{t('card.loadingPhoto')}</span>
-            </div>
+          {/* Skeleton sutil de fondo (no bloqueante) */}
+          {!isLoaded && !hasError && (
+            <div className="absolute inset-0 bg-slate-200 dark:bg-slate-800 animate-pulse" />
           )}
 
           {!hasError && imgSrc ? (
             <img
+              ref={imgRef}
               src={imgSrc}
               alt={resource.nombre}
-              className={`w-full h-full object-cover group-hover:scale-105 transition-all duration-500 ease-out ${
-                imgLoading ? 'opacity-0' : 'opacity-100'
+              className={`w-full h-full object-cover group-hover:scale-105 transition-all duration-300 ease-out ${
+                isLoaded ? 'opacity-100' : 'opacity-0'
               }`}
-              onLoad={() => {
-                setImgLoading(false);
-                setHasError(false);
+              onLoad={(e) => {
+                if (e.currentTarget.naturalWidth > 0) {
+                  setIsLoaded(true);
+                  setHasError(false);
+                } else {
+                  setIsLoaded(false);
+                  setHasError(true);
+                }
               }}
               onError={() => {
-                setImgLoading(false);
+                setIsLoaded(false);
                 setHasError(true);
               }}
               loading="lazy"
             />
           ) : (
-            /* Portada Visual Temática Oficial cuando no tiene foto adjunta */
-            <div className={`w-full h-full bg-gradient-to-br ${theme.bg} dark:from-slate-900 dark:via-slate-800 dark:to-slate-900 p-5 flex flex-col justify-between relative overflow-hidden border-b ${theme.border} dark:border-slate-800`}>
+            /* Portada Visual Temática Oficial cuando no tiene foto o tarda en responder */
+            <div className={`w-full h-full bg-gradient-to-br ${theme.bg} dark:from-slate-900 dark:via-slate-800 dark:to-slate-900 p-5 flex flex-col justify-between relative overflow-hidden border-b ${theme.border} dark:border-slate-800 animate-fadeIn`}>
               <div className="flex items-center justify-between z-10">
                 <span className="text-[10px] font-mono font-bold tracking-widest text-slate-600 dark:text-slate-300 uppercase bg-white/90 dark:bg-slate-800/90 px-2 py-0.5 rounded-lg border border-slate-200 dark:border-slate-700">
                   {t('card.recordNum')} #{resource.codigo}
@@ -157,12 +171,12 @@ export const ResourceCard: React.FC<ResourceCardProps> = ({ resource }) => {
           )}
 
           {/* Gradient shadow overlay */}
-          {!hasError && !imgLoading && (
+          {!hasError && isLoaded && (
             <div className="absolute inset-0 bg-gradient-to-t from-slate-950/80 via-slate-950/20 to-transparent pointer-events-none" />
           )}
 
           {/* Location at bottom of the photo */}
-          {!hasError && !imgLoading && (
+          {(!hasError || isLoaded) && (
             <div className="absolute bottom-3 left-3.5 right-3.5 text-white text-xs font-bold flex items-center gap-1.5 drop-shadow z-20">
               <Icons.MapPin className="w-4 h-4 text-amber-400 flex-shrink-0" />
               <span className="truncate">
