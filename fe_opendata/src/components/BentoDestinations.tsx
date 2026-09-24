@@ -16,7 +16,7 @@ const DESTINATIONS = [
     subtitle: 'Arqueología, Trekking y Cultura Inca',
     badge: 'Imperdible',
     bgGradient: 'from-amber-900/80 via-slate-900/60 to-slate-950',
-    image: 'https://images.unsplash.com/photo-1526392060635-9d6019884377?q=80&w=800&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1526392060635-9d6019884377?auto=format&fit=crop&w=650&q=70',
     size: 'col-span-1 md:col-span-2 row-span-2',
     tags: ['Trekking', 'Historia', 'Cultura'],
   },
@@ -26,7 +26,7 @@ const DESTINATIONS = [
     subtitle: 'Manglares, Surf y Aguas Cálidas',
     badge: 'Costa & Sol',
     bgGradient: 'from-sky-900/80 via-slate-900/60 to-slate-950',
-    image: 'https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=600&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=480&q=70',
     size: 'col-span-1 md:col-span-1 row-span-1',
     tags: ['Manglares', 'Paseos en Bote'],
   },
@@ -36,7 +36,7 @@ const DESTINATIONS = [
     subtitle: 'Cañones, Volcanes y Vuelo de Cóndores',
     badge: 'Aventura',
     bgGradient: 'from-orange-950/80 via-slate-900/60 to-slate-950',
-    image: 'https://images.unsplash.com/photo-1589802829985-817e51171b92?q=80&w=600&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1589802829985-817e51171b92?auto=format&fit=crop&w=480&q=70',
     size: 'col-span-1 md:col-span-1 row-span-1',
     tags: ['Cañón del Colca', 'Paisaje'],
   },
@@ -46,7 +46,7 @@ const DESTINATIONS = [
     subtitle: 'Lagunas Turquesas y Montañismo',
     badge: 'Alta Montaña',
     bgGradient: 'from-cyan-950/80 via-slate-900/60 to-slate-950',
-    image: 'https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=600&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=480&q=70',
     size: 'col-span-1 md:col-span-1 row-span-1',
     tags: ['Huascarán', 'Laguna 69'],
   },
@@ -56,7 +56,7 @@ const DESTINATIONS = [
     subtitle: 'Biodiversidad y Selva Virgen',
     badge: 'Ecoturismo',
     bgGradient: 'from-emerald-950/80 via-slate-900/60 to-slate-950',
-    image: 'https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?q=80&w=600&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=650&q=70',
     size: 'col-span-1 md:col-span-2 row-span-1',
     tags: ['Río Amazonas', 'Fauna Silvestre'],
   },
@@ -102,6 +102,8 @@ export const BentoDestinations: React.FC<BentoDestinationsProps> = ({
               <img
                 src={dest.image}
                 alt={dest.name}
+                loading="lazy"
+                decoding="async"
                 className="absolute inset-0 w-full h-full object-cover group-hover:scale-105 transition-transform duration-700 ease-out"
               />
 

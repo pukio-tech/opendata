@@ -5,6 +5,7 @@ import { Link } from 'next-view-transitions';
 import { ResourceItem } from '../types/mincetur';
 import { createResourceSlug } from '../utils/slug';
 import { cleanLabel } from '../utils/minceturTranslate';
+import 'leaflet/dist/leaflet.css';
 
 interface OpenStreetMapProps {
   resources: ResourceItem[];
@@ -24,21 +25,7 @@ export const OpenStreetMap: React.FC<OpenStreetMapProps> = ({
   const markersLayerRef = useRef<any>(null);
   const [mapReady, setMapReady] = useState(false);
 
-  // 1. Cargar CSS de Leaflet de forma dinámica si no está presente
-  useEffect(() => {
-    if (typeof window === 'undefined') return;
-    const cssId = 'leaflet-css';
-    if (!document.getElementById(cssId)) {
-      const link = document.createElement('link');
-      link.id = cssId;
-      link.rel = 'stylesheet';
-      link.href = 'https://unpkg.com/leaflet@1.9.4/dist/leaflet.css';
-      link.crossOrigin = '';
-      document.head.appendChild(link);
-    }
-  }, []);
-
-  // 2. Inicializar Mapa con OpenStreetMap
+  // Inicializar Mapa con OpenStreetMap
   useEffect(() => {
     let isMounted = true;
 

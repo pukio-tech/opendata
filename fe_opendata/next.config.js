@@ -4,7 +4,8 @@ const nextConfig = {
   poweredByHeader: false,
   reactStrictMode: true,
   images: {
-    minimumCacheTTL: 604800, // 7 días para imágenes optimizadas
+    minimumCacheTTL: 31536000, // 1 año de caché para imágenes
+    formats: ['image/avif', 'image/webp'],
     remotePatterns: [
       {
         protocol: 'https',
@@ -15,10 +16,27 @@ const nextConfig = {
         hostname: 'consultasenlinea.mincetur.gob.pe',
       },
       {
+        protocol: 'https',
+        hostname: 'images.unsplash.com',
+      },
+      {
         protocol: 'http',
         hostname: 'localhost',
       },
     ],
+  },
+  async headers() {
+    return [
+      {
+        source: '/:all*(svg|jpg|jpeg|png|webp|avif|ico|woff|woff2)',
+        headers: [
+          {
+            key: 'Cache-Control',
+            value: 'public, max-age=31536000, immutable',
+          },
+        ],
+      },
+    ];
   },
 };
 

@@ -568,6 +568,8 @@ function FichaTurismoContent({ params }: FichaTurismoPageProps) {
                   <img
                     src={formatPhotoUrl(currentPhoto, ficha.cod_ficha)}
                     alt={ficha.nombre}
+                    fetchPriority="high"
+                    decoding="async"
                     className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-[1.01]"
                     onError={() => setImgError(true)}
                   />
@@ -649,6 +651,8 @@ function FichaTurismoContent({ params }: FichaTurismoPageProps) {
                         <img
                           src={formatPhotoUrl(photo, ficha.cod_ficha)}
                           alt=""
+                          loading="lazy"
+                          decoding="async"
                           className="w-full h-full object-cover"
                         />
                       </button>
@@ -748,6 +752,8 @@ function FichaTurismoContent({ params }: FichaTurismoPageProps) {
                         <img
                           src={formatPhotoUrl(photo, ficha.cod_ficha)}
                           alt=""
+                          loading="lazy"
+                          decoding="async"
                           className="w-full h-full object-cover"
                         />
                       </button>

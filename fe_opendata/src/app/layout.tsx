@@ -13,7 +13,6 @@ const montserrat = Montserrat({
   subsets: ['latin'],
   display: 'swap',
   variable: '--font-montserrat',
-  weight: ['300', '400', '500', '600', '700', '800', '900'],
 });
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://opendata-pe.vercel.app';
@@ -101,13 +100,19 @@ export default function RootLayout({
   return (
     <ViewTransitions>
       <html lang="es" suppressHydrationWarning className={`dark ${montserrat.variable}`}>
+        <head>
+          <link rel="preconnect" href="https://images.unsplash.com" />
+          <link rel="preconnect" href="https://consultasenlinea.mincetur.gob.pe" crossOrigin="" />
+          <link rel="dns-prefetch" href="https://images.unsplash.com" />
+          <link rel="dns-prefetch" href="https://consultasenlinea.mincetur.gob.pe" />
+        </head>
         <body className={`${montserrat.className} font-sans min-h-screen flex flex-col antialiased`} suppressHydrationWarning>
           <GoogleAnalytics gaId={GA_MEASUREMENT_ID} />
           <Script
             async
             src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5824072777833469"
             crossOrigin="anonymous"
-            strategy="afterInteractive"
+            strategy="lazyOnload"
           />
           <script
             type="application/ld+json"

@@ -295,8 +295,10 @@ function TurismoPageContent() {
         {/* Fondo sutil con imagen del Perú */}
         <div className="absolute inset-0 overflow-hidden z-0 pointer-events-none opacity-25">
           <img
-            src="https://images.unsplash.com/photo-1526392060635-9d6019884377?q=80&w=1920&auto=format&fit=crop"
+            src="https://images.unsplash.com/photo-1526392060635-9d6019884377?auto=format&fit=crop&w=1280&q=70"
             alt="Perú Turismo"
+            loading="lazy"
+            decoding="async"
             className="w-full h-full object-cover"
           />
           <div className="absolute inset-0 bg-slate-950/80 backdrop-blur-[0.5px]" />

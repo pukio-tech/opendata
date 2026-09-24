@@ -45,6 +45,11 @@ function cleanLabel(text: string | null | undefined): string {
     .join(' ');
 }
 
+const DEFAULT_HERO_BG =
+  'https://images.unsplash.com/photo-1526392060635-9d6019884377?auto=format&fit=crop&w=1280&q=70';
+const FALLBACK_CARD_BG =
+  'https://images.unsplash.com/photo-1526392060635-9d6019884377?auto=format&fit=crop&w=500&q=70';
+
 export default function HomePage() {
   const router = useTransitionRouter();
   const { t } = useLanguage();
@@ -144,7 +149,7 @@ export default function HomePage() {
     apiService
       .getMapResources({
         department: selectedDept || undefined,
-        limit: 200,
+        limit: 60,
       })
       .then((items) => {
         const withCoords = (items || []).filter(
@@ -217,30 +222,46 @@ export default function HomePage() {
       >
         {/* Fondo con Fotos Oficiales de la API y Overlay */}
         <div className="absolute inset-0 overflow-hidden z-0 pointer-events-none">
-          {featuredResources.slice(0, 5).map((resource, idx) => {
-            const isActive = idx === currentSlideIndex;
-            const photoUrl = resource.imagen || resource.foto_url || getPhotoUrl(resource.codigo);
-            return (
-              <div
-                key={resource.codigo}
-                className={`absolute inset-0 transition-opacity duration-1000 ease-in-out ${
-                  isActive ? 'opacity-100 scale-100' : 'opacity-0 scale-105 pointer-events-none'
-                }`}
-              >
-                <img
-                  src={photoUrl}
-                  alt={resource.nombre}
-                  onError={(e) => {
-                    e.currentTarget.src =
-                      'https://images.unsplash.com/photo-1526392060635-9d6019884377?q=80&w=1920&auto=format&fit=crop';
-                  }}
-                  className="w-full h-full object-cover"
-                />
-                <div className="absolute inset-0 bg-slate-950/80 backdrop-blur-[0.5px]" />
-                <div className="absolute inset-0 bg-gradient-to-t from-slate-950 via-slate-950/70 to-slate-950/50" />
-              </div>
-            );
-          })}
+          {featuredResources.length === 0 ? (
+            <div className="absolute inset-0 opacity-100 scale-100">
+              <img
+                src={DEFAULT_HERO_BG}
+                alt="Turismo Perú"
+                fetchPriority="high"
+                decoding="async"
+                className="w-full h-full object-cover"
+              />
+              <div className="absolute inset-0 bg-slate-950/80 backdrop-blur-[0.5px]" />
+              <div className="absolute inset-0 bg-gradient-to-t from-slate-950 via-slate-950/70 to-slate-950/50" />
+            </div>
+          ) : (
+            featuredResources.slice(0, 5).map((resource, idx) => {
+              const isActive = idx === currentSlideIndex;
+              const photoUrl = resource.imagen || resource.foto_url || getPhotoUrl(resource.codigo);
+              return (
+                <div
+                  key={resource.codigo}
+                  className={`absolute inset-0 transition-opacity duration-1000 ease-in-out ${
+                    isActive ? 'opacity-100 scale-100' : 'opacity-0 scale-105 pointer-events-none'
+                  }`}
+                >
+                  <img
+                    src={photoUrl}
+                    alt={resource.nombre}
+                    loading={idx === 0 ? 'eager' : 'lazy'}
+                    decoding="async"
+                    fetchPriority={idx === 0 ? 'high' : 'low'}
+                    onError={(e) => {
+                      e.currentTarget.src = DEFAULT_HERO_BG;
+                    }}
+                    className="w-full h-full object-cover"
+                  />
+                  <div className="absolute inset-0 bg-slate-950/80 backdrop-blur-[0.5px]" />
+                  <div className="absolute inset-0 bg-gradient-to-t from-slate-950 via-slate-950/70 to-slate-950/50" />
+                </div>
+              );
+            })
+          )}
         </div>
 
         {/* Barra superior de Estado y Metadatos de la Imagen */}
@@ -503,9 +524,10 @@ export default function HomePage() {
                     <img
                       src={photo}
                       alt={item.nombre}
+                      loading="lazy"
+                      decoding="async"
                       onError={(e) => {
-                        e.currentTarget.src =
-                          'https://images.unsplash.com/photo-1526392060635-9d6019884377?q=80&w=600&auto=format&fit=crop';
+                        e.currentTarget.src = FALLBACK_CARD_BG;
                       }}
                       className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
                     />
@@ -626,9 +648,10 @@ export default function HomePage() {
                     <img
                       src={selectedMapResource.imagen || selectedMapResource.foto_url || getPhotoUrl(selectedMapResource.codigo)}
                       alt={selectedMapResource.nombre}
+                      loading="lazy"
+                      decoding="async"
                       onError={(e) => {
-                        e.currentTarget.src =
-                          'https://images.unsplash.com/photo-1526392060635-9d6019884377?q=80&w=600&auto=format&fit=crop';
+                        e.currentTarget.src = FALLBACK_CARD_BG;
                       }}
                       className="w-full h-full object-cover"
                     />

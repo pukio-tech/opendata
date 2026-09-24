@@ -142,6 +142,7 @@ export const ResourceCard: React.FC<ResourceCardProps> = ({ resource }) => {
                 setHasError(true);
               }}
               loading="lazy"
+              decoding="async"
             />
           ) : (
             /* Portada Visual Temática Oficial cuando no tiene foto o tarda en responder */
