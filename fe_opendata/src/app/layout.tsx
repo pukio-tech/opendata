@@ -15,7 +15,7 @@ const montserrat = Montserrat({
   variable: '--font-montserrat',
 });
 
-const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://opendata-pe.vercel.app';
+const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://opendata.pukio.lat';
 const GA_MEASUREMENT_ID = process.env.NEXT_PUBLIC_GA_ID || 'G-PMQVEQGWG5';
 
 export const metadata: Metadata = {
@@ -27,6 +27,19 @@ export const metadata: Metadata = {
   description:
     'Explora y consulta de manera dinámica los recursos, atractivos y actividades turísticas de los 25 departamentos del Perú mediante la plataforma nacional de datos abiertos.',
   applicationName: 'OpenData Perú',
+  icons: {
+    icon: [
+      { url: '/favicon.ico', sizes: 'any' },
+      { url: '/logo.png', type: 'image/png' },
+      { url: '/logo.png', sizes: '32x32', type: 'image/png' },
+      { url: '/logo.png', sizes: '192x192', type: 'image/png' },
+      { url: '/logo.png', sizes: '512x512', type: 'image/png' },
+    ],
+    shortcut: ['/logo.png'],
+    apple: [
+      { url: '/logo.png', sizes: '180x180', type: 'image/png' },
+    ],
+  },
   keywords: [
     'OpenData Perú',
     'datos abiertos turismo',
@@ -60,15 +73,24 @@ export const metadata: Metadata = {
     title: 'OpenData Perú | Plataforma Nacional de Datos Abiertos de Turismo',
     description:
       'Explora y consulta recursos y atractivos turísticos oficiales del Perú con georreferenciación, fotos y fichas técnicas oficiales.',
+    images: [
+      {
+        url: `${SITE_URL}/logo.png`,
+        width: 800,
+        height: 600,
+        alt: 'OpenData Perú Logo',
+      },
+    ],
   },
   twitter: {
     card: 'summary_large_image',
     title: 'OpenData Perú | Plataforma Nacional de Datos Abiertos de Turismo',
     description:
       'Explora y consulta recursos y atractivos turísticos oficiales del Perú con georreferenciación, fotos y fichas técnicas oficiales.',
+    images: [`${SITE_URL}/logo.png`],
   },
   alternates: {
-    canonical: '/',
+    canonical: './',
   },
   verification: {
     google: 'p6mJLAtgJyRplQaeGVNm8Kc0TPdawAI3oP3KbWFgfss',
@@ -85,6 +107,8 @@ export default function RootLayout({
     '@type': 'WebSite',
     name: 'OpenData Perú',
     url: SITE_URL,
+    logo: `${SITE_URL}/logo.png`,
+    image: `${SITE_URL}/logo.png`,
     description:
       'Plataforma Nacional de Datos Abiertos de Turismo del Perú con información del inventario turístico oficial.',
     potentialAction: {
@@ -101,6 +125,9 @@ export default function RootLayout({
     <ViewTransitions>
       <html lang="es" suppressHydrationWarning className={`dark ${montserrat.variable}`}>
         <head>
+          <link rel="icon" href="/logo.png" type="image/png" sizes="any" />
+          <link rel="apple-touch-icon" href="/logo.png" />
+          <link rel="shortcut icon" href="/logo.png" />
           <link rel="preconnect" href="https://images.unsplash.com" />
           <link rel="preconnect" href="https://consultasenlinea.mincetur.gob.pe" crossOrigin="" />
           <link rel="dns-prefetch" href="https://images.unsplash.com" />
