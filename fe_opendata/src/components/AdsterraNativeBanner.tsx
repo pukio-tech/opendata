@@ -1,6 +1,6 @@
 'use client';
 
-import React, { useEffect, useRef } from 'react';
+import React, { useEffect, useRef, useState } from 'react';
 
 interface AdsterraNativeBannerProps {
   className?: string;
@@ -9,15 +9,16 @@ interface AdsterraNativeBannerProps {
 
 export const AdsterraNativeBanner: React.FC<AdsterraNativeBannerProps> = ({
   className = '',
-  label = 'Contenido Recomendado',
 }) => {
   const containerRef = useRef<HTMLDivElement>(null);
+  const [isLoaded, setIsLoaded] = useState(false);
+  const [isBlocked, setIsBlocked] = useState(false);
 
   useEffect(() => {
     const currentContainer = containerRef.current;
     if (!currentContainer) return;
 
-    // Limpiar cualquier nodo previo para evitar duplicados en re-renders o navegación SPA
+    // Limpiar cualquier nodo previo
     currentContainer.innerHTML = '';
 
     // Crear el div contenedor con el ID requerido por Adsterra
@@ -30,38 +31,55 @@ export const AdsterraNativeBanner: React.FC<AdsterraNativeBannerProps> = ({
     script.src = 'https://pl31508083.profitableratecpmnetwork.com/79d32db6a63a12e5f3aac99fe6ea4f56/invoke.js';
     script.async = true;
     script.setAttribute('data-cfasync', 'false');
+
+    // Detectar si el navegador o Brave bloquea el script
+    script.onerror = () => {
+      setIsBlocked(true);
+    };
+
+    script.onload = () => {
+      // Verificar si Adsterra inyectó contenido dentro del contenedor
+      setTimeout(() => {
+        const adDiv = currentContainer.querySelector('#container-79d32db6a63a12e5f3aac99fe6ea4f56');
+        if (adDiv && adDiv.children.length > 0) {
+          setIsLoaded(true);
+        } else {
+          setIsBlocked(true);
+        }
+      }, 400);
+    };
+
     currentContainer.appendChild(script);
 
+    // Timeout de seguridad: si en 2.5s no cargó contenido, ocultar por completo
+    const timer = setTimeout(() => {
+      setIsLoaded((prev) => {
+        if (!prev) setIsBlocked(true);
+        return prev;
+      });
+    }, 2500);
+
     return () => {
+      clearTimeout(timer);
       if (currentContainer) {
         currentContainer.innerHTML = '';
       }
     };
   }, []);
 
-  return (
-    <aside
-      aria-label="Publicidad y recomendaciones"
-      className={`w-full my-8 ${className}`}
-    >
-      <div className="w-full max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="w-full rounded-2xl bg-white/80 dark:bg-slate-900/80 border border-slate-200 dark:border-slate-800 p-4 sm:p-5 shadow-sm backdrop-blur-sm transition-all overflow-hidden">
-          <div className="flex items-center justify-between pb-3 mb-3 border-b border-slate-200/80 dark:border-slate-800/80 text-[11px] font-mono tracking-wider uppercase">
-            <span className="flex items-center gap-1.5 font-semibold text-slate-500 dark:text-slate-400">
-              <span className="w-1.5 h-1.5 rounded-full bg-sky-500 animate-pulse" />
-              {label}
-            </span>
-            <span className="text-[10px] px-2 py-0.5 rounded bg-slate-100 dark:bg-slate-800 text-slate-500 dark:text-slate-400 border border-slate-200 dark:border-slate-700/60 font-medium">
-              Publicidad
-            </span>
-          </div>
+  if (isBlocked) return null;
 
-          <div
-            ref={containerRef}
-            className="w-full min-h-[140px] flex items-center justify-center overflow-x-auto text-slate-400 text-xs"
-          />
-        </div>
-      </div>
-    </aside>
+  return (
+    <div
+      className={isLoaded ? `w-full my-6 flex justify-center items-center overflow-x-auto ${className}` : 'overflow-hidden'}
+      style={
+        isLoaded
+          ? undefined
+          : { position: 'absolute', width: 0, height: 0, opacity: 0, pointerEvents: 'none' }
+      }
+      aria-label="Publicidad"
+    >
+      <div ref={containerRef} className="w-full flex justify-center items-center" />
+    </div>
   );
 };

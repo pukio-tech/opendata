@@ -1,6 +1,6 @@
 'use client';
 
-import React from 'react';
+import React, { useState, useEffect } from 'react';
 
 export const ADSTERRA_BANNERS = {
   '728x90': {
@@ -40,18 +40,45 @@ export type BannerSize = keyof typeof ADSTERRA_BANNERS;
 interface AdsterraDisplayBannerProps {
   size: BannerSize;
   className?: string;
-  bordered?: boolean;
-  darkVariant?: boolean;
 }
 
 export const AdsterraDisplayBanner: React.FC<AdsterraDisplayBannerProps> = ({
   size,
   className = '',
-  bordered = true,
-  darkVariant = false,
 }) => {
   const config = ADSTERRA_BANNERS[size];
-  if (!config) return null;
+  const [isLoaded, setIsLoaded] = useState(false);
+  const [isBlocked, setIsBlocked] = useState(false);
+
+  useEffect(() => {
+    if (!config) return;
+
+    const handleMessage = (event: MessageEvent) => {
+      if (event.data?.type === 'adsterra-loaded' && event.data?.key === config.key) {
+        setIsLoaded(true);
+      }
+      if (event.data?.type === 'adsterra-error' && event.data?.key === config.key) {
+        setIsBlocked(true);
+      }
+    };
+
+    window.addEventListener('message', handleMessage);
+
+    // Si en 2.5s no ha cargado (ej. bloqueador silencioso o red caída), se oculta por completo
+    const timer = setTimeout(() => {
+      setIsLoaded((prev) => {
+        if (!prev) setIsBlocked(true);
+        return prev;
+      });
+    }, 2500);
+
+    return () => {
+      window.removeEventListener('message', handleMessage);
+      clearTimeout(timer);
+    };
+  }, [config]);
+
+  if (!config || isBlocked) return null;
 
   const htmlContent = `<!DOCTYPE html>
 <html>
@@ -69,6 +96,14 @@ export const AdsterraDisplayBanner: React.FC<AdsterraDisplayBannerProps> = ({
       align-items: center;
     }
   </style>
+  <script type="text/javascript">
+    function notifySuccess() {
+      try { window.parent.postMessage({ type: 'adsterra-loaded', key: '${config.key}' }, '*'); } catch(e) {}
+    }
+    function notifyError() {
+      try { window.parent.postMessage({ type: 'adsterra-error', key: '${config.key}' }, '*'); } catch(e) {}
+    }
+  </script>
 </head>
 <body>
   <script type="text/javascript">
@@ -80,76 +115,39 @@ export const AdsterraDisplayBanner: React.FC<AdsterraDisplayBannerProps> = ({
       'params' : {}
     };
   </script>
-  <script type="text/javascript" src="https://www.highrevenueformat.com/${config.key}/invoke.js"></script>
+  <script
+    type="text/javascript"
+    src="https://www.highrevenueformat.com/${config.key}/invoke.js"
+    onload="setTimeout(notifySuccess, 100)"
+    onerror="notifyError()"
+  ></script>
 </body>
 </html>`;
 
   return (
     <div
-      className={`flex flex-col items-center justify-center my-4 overflow-hidden ${className}`}
+      className={isLoaded ? `flex justify-center items-center my-4 overflow-hidden ${className}` : 'overflow-hidden'}
+      style={
+        isLoaded
+          ? undefined
+          : { position: 'absolute', width: 0, height: 0, opacity: 0, pointerEvents: 'none' }
+      }
       aria-label="Publicidad"
     >
-      {bordered ? (
-        <div
-          className={`rounded-xl p-2 sm:p-3 flex flex-col items-center max-w-full ${
-            darkVariant
-              ? 'bg-slate-900/90 border border-slate-700/80 backdrop-blur-md shadow-lg'
-              : 'bg-white/70 dark:bg-slate-900/70 border border-slate-200/80 dark:border-slate-800/80 shadow-xs'
-          }`}
-        >
-          <div
-            className={`w-full flex items-center justify-between pb-1.5 mb-1.5 border-b text-[10px] font-mono uppercase tracking-wider ${
-              darkVariant
-                ? 'border-slate-800 text-slate-400'
-                : 'border-slate-100 dark:border-slate-800 text-slate-400'
-            }`}
-          >
-            <span>Recomendado</span>
-            <span
-              className={`text-[9px] px-1.5 py-0.5 rounded font-medium ${
-                darkVariant
-                  ? 'bg-slate-800 text-slate-300 border border-slate-700'
-                  : 'bg-slate-100 dark:bg-slate-800 text-slate-500'
-              }`}
-            >
-              Anuncio
-            </span>
-          </div>
-          <div className="overflow-x-auto max-w-full flex justify-center">
-            <iframe
-              title={`Ad ${size}`}
-              width={config.width}
-              height={config.height}
-              srcDoc={htmlContent}
-              style={{
-                width: `${config.width}px`,
-                height: `${config.height}px`,
-                border: 0,
-                overflow: 'hidden',
-              }}
-              scrolling="no"
-              loading="lazy"
-            />
-          </div>
-        </div>
-      ) : (
-        <div className="overflow-x-auto max-w-full flex justify-center">
-          <iframe
-            title={`Ad ${size}`}
-            width={config.width}
-            height={config.height}
-            srcDoc={htmlContent}
-            style={{
-              width: `${config.width}px`,
-              height: `${config.height}px`,
-              border: 0,
-              overflow: 'hidden',
-            }}
-            scrolling="no"
-            loading="lazy"
-          />
-        </div>
-      )}
+      <iframe
+        title={`Ad ${size}`}
+        width={config.width}
+        height={config.height}
+        srcDoc={htmlContent}
+        style={{
+          width: `${config.width}px`,
+          height: `${config.height}px`,
+          border: 0,
+          overflow: 'hidden',
+        }}
+        scrolling="no"
+        loading="lazy"
+      />
     </div>
   );
 };
@@ -157,21 +155,20 @@ export const AdsterraDisplayBanner: React.FC<AdsterraDisplayBannerProps> = ({
 /**
  * Banner responsivo que muestra Leaderboard (728x90) en pantallas medianas/grandes
  * y Mobile Banner (320x50) en dispositivos móviles sin desbordar la pantalla.
+ * Si está bloqueado o no carga, no muestra ningún contenedor ni espacio en blanco.
  */
 export const ResponsiveLeaderboard: React.FC<{
   className?: string;
-  bordered?: boolean;
-  darkVariant?: boolean;
-}> = ({ className = '', bordered = true, darkVariant = false }) => {
+}> = ({ className = '' }) => {
   return (
     <div className={`w-full flex justify-center ${className}`}>
       {/* Móvil (< 768px): 320x50 */}
       <div className="block md:hidden">
-        <AdsterraDisplayBanner size="320x50" bordered={bordered} darkVariant={darkVariant} />
+        <AdsterraDisplayBanner size="320x50" />
       </div>
       {/* Tablet y Desktop (>= 768px): 728x90 */}
       <div className="hidden md:block">
-        <AdsterraDisplayBanner size="728x90" bordered={bordered} darkVariant={darkVariant} />
+        <AdsterraDisplayBanner size="728x90" />
       </div>
     </div>
   );

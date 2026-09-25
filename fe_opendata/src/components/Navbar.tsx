@@ -7,7 +7,9 @@ import { Icons } from './Icons';
 import { useLanguage, LANGUAGES } from '../context/LanguageContext';
 import { useTheme } from '../context/ThemeContext';
 import { apiService, getPhotoUrl } from '../services/api';
+import { empresasService } from '../services/empresasApi';
 import { ResourceItem } from '../types/mincetur';
+import { EmpresaSuggestion } from '../types/empresa';
 import { createResourceSlug } from '../utils/slug';
 
 function cleanLabel(text: string | null | undefined): string {
@@ -47,6 +49,7 @@ export const Navbar = () => {
   const [isMobileSearchOpen, setIsMobileSearchOpen] = useState(false);
   const [searchQuery, setSearchQuery] = useState('');
   const [searchResults, setSearchResults] = useState<ResourceItem[]>([]);
+  const [empresaResults, setEmpresaResults] = useState<EmpresaSuggestion[]>([]);
   const [isSearching, setIsSearching] = useState(false);
   const [isResultsMenuOpen, setIsResultsMenuOpen] = useState(false);
   const searchContainerRef = useRef<HTMLDivElement>(null);
@@ -56,6 +59,7 @@ export const Navbar = () => {
   const isHome = pathname === '/';
   const isTurismo = pathname === '/turismo';
   const isRutaPapa = pathname === '/ruta-del-papa';
+  const isEmpresas = pathname.startsWith('/empresas');
 
   // Foco automático en el buscador móvil al abrir
   useEffect(() => {
@@ -114,41 +118,60 @@ export const Navbar = () => {
     setSearchQuery('');
   }, [pathname]);
 
-  // Búsqueda en tiempo real con debounce
+  // Búsqueda en tiempo real con debounce combinando Turismo y Empresas
   useEffect(() => {
-    if (!searchQuery.trim()) {
+    const q = searchQuery.trim();
+    if (!q) {
       setSearchResults([]);
+      setEmpresaResults([]);
       setIsSearching(false);
       return;
     }
 
-    const timer = setTimeout(() => {
+    const timer = setTimeout(async () => {
       setIsSearching(true);
-      apiService
-        .searchResources({
-          search: searchQuery.trim(),
-          limit: 6,
-        })
-        .then((res) => {
-          setSearchResults(res.data || []);
-        })
-        .catch(() => {
-          setSearchResults([]);
-        })
-        .finally(() => {
-          setIsSearching(false);
-        });
-    }, 280);
+      try {
+        const [turismoRes, empRes] = await Promise.all([
+          apiService.searchResources({ search: q, limit: 4 }).catch(() => ({ data: [] })),
+          empresasService.suggest(q, 4).catch(() => []),
+        ]);
+        setSearchResults(turismoRes?.data || []);
+        setEmpresaResults(empRes || []);
+      } catch {
+        setSearchResults([]);
+        setEmpresaResults([]);
+      } finally {
+        setIsSearching(false);
+      }
+    }, 260);
 
     return () => clearTimeout(timer);
   }, [searchQuery]);
 
-  const handleSearchSubmit = (e?: React.FormEvent) => {
+  const handleSearchSubmit = (e?: React.FormEvent, targetSection?: 'turismo' | 'empresas') => {
     if (e) e.preventDefault();
-    if (!searchQuery.trim()) return;
+    const q = searchQuery.trim();
+    if (!q) return;
     setIsResultsMenuOpen(false);
     setIsMobileSearchOpen(false);
-    router.push(`/turismo?search=${encodeURIComponent(searchQuery.trim())}`);
+
+    if (targetSection === 'empresas') {
+      router.push(`/empresas?search=${encodeURIComponent(q)}`);
+      return;
+    }
+
+    if (targetSection === 'turismo') {
+      router.push(`/turismo?search=${encodeURIComponent(q)}`);
+      return;
+    }
+
+    // Auto-detección inteligente:
+    // Si es un número (RUC) o el usuario está en /empresas
+    if (/^\d{8,11}$/.test(q) || pathname.startsWith('/empresas') || (empresaResults.length > 0 && searchResults.length === 0)) {
+      router.push(`/empresas?search=${encodeURIComponent(q)}`);
+    } else {
+      router.push(`/turismo?search=${encodeURIComponent(q)}`);
+    }
   };
 
   return (
@@ -211,7 +234,7 @@ export const Navbar = () => {
                   setIsResultsMenuOpen(true);
                 }}
                 onFocus={() => setIsResultsMenuOpen(true)}
-                placeholder="Buscar por recurso, ubigeo o código..."
+                placeholder="Buscar por recurso, RUC o empresa..."
                 className="w-full bg-slate-50 dark:bg-slate-950 border border-slate-200 dark:border-slate-700 rounded-lg pl-9 pr-14 py-1.5 text-xs text-slate-900 dark:text-white placeholder-slate-400 focus:outline-none focus:border-sky-500 focus:ring-1 focus:ring-sky-500 transition-all font-sans"
               />
               {searchQuery ? (
@@ -235,88 +258,152 @@ export const Navbar = () => {
 
           {/* Menú desplegable de resultados tipo catálogo de datos */}
           {isResultsMenuOpen && searchQuery.trim() && (
-            <div className="absolute top-full left-0 right-0 mt-2 bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-700 rounded-xl shadow-2xl p-2 z-50 overflow-hidden">
+            <div className="absolute top-full left-0 right-0 mt-2 bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-700 rounded-xl shadow-2xl p-2.5 z-50 overflow-hidden">
               {isSearching && (
                 <div className="p-4 text-center flex items-center justify-center gap-2 text-xs text-slate-500 dark:text-slate-400">
                   <div className="w-4 h-4 border-2 border-sky-500 border-t-transparent rounded-full animate-spin" />
-                  <span>Consultando inventario nacional...</span>
+                  <span>Buscando en Turismo y Empresas...</span>
                 </div>
               )}
 
-              {!isSearching && searchResults.length > 0 && (
-                <div className="space-y-1">
-                  <div className="px-3 py-1.5 text-[10px] font-bold uppercase tracking-wider text-slate-500 dark:text-slate-400 border-b border-slate-100 dark:border-slate-800 flex justify-between items-center">
-                    <span>Resultados Oficiales</span>
-                    <span className="font-mono text-sky-600 dark:text-sky-400 font-semibold">{searchResults.length} registros</span>
-                  </div>
-
-                  <div className="max-h-72 overflow-y-auto space-y-1 py-1">
-                    {searchResults.map((item) => {
-                      const itemSlug = createResourceSlug(item.nombre, item.codigo);
-                      const photoUrl = item.imagen || item.foto_url || getPhotoUrl(item.codigo);
-                      return (
-                        <Link
-                          key={item.codigo}
-                          href={`/turismo/${itemSlug}`}
-                          onClick={() => {
-                            setIsResultsMenuOpen(false);
-                            setSearchQuery('');
-                          }}
-                          className="flex items-center gap-3 p-2 rounded-lg hover:bg-slate-50 dark:hover:bg-slate-800 transition-colors group border border-transparent hover:border-slate-200 dark:hover:border-slate-700"
-                        >
-                          <div className="w-10 h-10 rounded overflow-hidden shrink-0 bg-slate-100 dark:bg-slate-800 border border-slate-200 dark:border-slate-700">
-                            <img
-                              src={photoUrl}
-                              alt={item.nombre}
-                              className="w-full h-full object-cover"
-                              onError={(e) => {
-                                e.currentTarget.onerror = null;
-                                e.currentTarget.src = 'https://images.unsplash.com/photo-1526392060635-9d6019884377?w=120&auto=format&fit=crop&q=60';
-                              }}
-                            />
-                          </div>
-
-                          <div className="flex-1 min-w-0">
-                            <h4 className="text-xs font-bold text-slate-900 dark:text-white group-hover:text-sky-600 dark:group-hover:text-sky-400 transition-colors truncate">
-                              {item.nombre}
-                            </h4>
-                            <div className="flex items-center gap-1.5 text-[10px] text-slate-500 dark:text-slate-400 truncate mt-0.5">
-                              <span className="truncate">{cleanLabel(item.desubigeo || item.desprov || item.desdpto || 'Perú')}</span>
-                              {item.categoria && (
-                                <>
-                                  <span className="text-slate-300 dark:text-slate-600">•</span>
-                                  <span className="text-slate-700 dark:text-slate-300 truncate font-medium">{cleanLabel(item.categoria)}</span>
-                                </>
-                              )}
+              {!isSearching && (empresaResults.length > 0 || searchResults.length > 0) && (
+                <div className="space-y-2.5">
+                  {/* SECCIÓN EMPRESAS SUNAT */}
+                  {empresaResults.length > 0 && (
+                    <div>
+                      <div className="px-2.5 py-1 text-[10px] font-bold uppercase tracking-wider text-slate-500 dark:text-slate-400 border-b border-slate-100 dark:border-slate-800 flex justify-between items-center">
+                        <span className="flex items-center gap-1.5 text-sky-600 dark:text-sky-400">
+                          <Icons.Building className="w-3.5 h-3.5" />
+                          <span>Empresas (SUNAT)</span>
+                        </span>
+                        <span className="font-mono text-[10px]">{empresaResults.length}</span>
+                      </div>
+                      <div className="max-h-44 overflow-y-auto space-y-1 py-1">
+                        {empresaResults.map((emp) => (
+                          <Link
+                            key={emp.ruc}
+                            href={`/empresas/${emp.url_empresa || emp.ruc}`}
+                            onClick={() => {
+                              setIsResultsMenuOpen(false);
+                              setSearchQuery('');
+                            }}
+                            className="flex items-center gap-2.5 p-1.5 rounded-lg hover:bg-slate-50 dark:hover:bg-slate-800 transition-colors group border border-transparent hover:border-slate-200 dark:hover:border-slate-700"
+                          >
+                            <div className="w-8 h-8 rounded-lg bg-sky-50 dark:bg-sky-950/70 border border-sky-200 dark:border-sky-800/80 flex items-center justify-center text-sky-600 dark:text-sky-400 shrink-0">
+                              <Icons.Building className="w-4 h-4" />
                             </div>
-                          </div>
+                            <div className="flex-1 min-w-0">
+                              <h4 className="text-xs font-bold text-slate-900 dark:text-white group-hover:text-sky-600 dark:group-hover:text-sky-400 transition-colors truncate">
+                                {emp.razon_social}
+                              </h4>
+                              <div className="flex items-center gap-1.5 text-[10px] text-slate-500 dark:text-slate-400 truncate mt-0.5">
+                                <span>{emp.departamento || 'Perú'}</span>
+                                {emp.actividad_economica && (
+                                  <>
+                                    <span className="text-slate-300 dark:text-slate-600">•</span>
+                                    <span className="truncate">{emp.actividad_economica}</span>
+                                  </>
+                                )}
+                              </div>
+                            </div>
+                            <span className="text-[10px] font-mono font-bold px-1.5 py-0.5 rounded bg-sky-50 dark:bg-sky-950 text-sky-600 dark:text-sky-400 border border-sky-200 dark:border-sky-800 shrink-0">
+                              RUC {emp.ruc}
+                            </span>
+                          </Link>
+                        ))}
+                      </div>
+                    </div>
+                  )}
 
-                          <span className="text-[10px] font-mono font-bold px-1.5 py-0.5 rounded bg-slate-100 dark:bg-slate-800 text-sky-600 dark:text-sky-400 border border-slate-200 dark:border-slate-700 shrink-0">
-                            #{item.codigo}
-                          </span>
-                        </Link>
-                      );
-                    })}
+                  {/* SECCIÓN TURISMO */}
+                  {searchResults.length > 0 && (
+                    <div>
+                      <div className="px-2.5 py-1 text-[10px] font-bold uppercase tracking-wider text-slate-500 dark:text-slate-400 border-b border-slate-100 dark:border-slate-800 flex justify-between items-center">
+                        <span className="flex items-center gap-1.5 text-emerald-600 dark:text-emerald-400">
+                          <Icons.Compass className="w-3.5 h-3.5" />
+                          <span>Atractivos Turísticos (MINCETUR)</span>
+                        </span>
+                        <span className="font-mono text-[10px]">{searchResults.length}</span>
+                      </div>
+                      <div className="max-h-44 overflow-y-auto space-y-1 py-1">
+                        {searchResults.map((item) => {
+                          const itemSlug = createResourceSlug(item.nombre, item.codigo);
+                          const photoUrl = item.imagen || item.foto_url || getPhotoUrl(item.codigo);
+                          return (
+                            <Link
+                              key={item.codigo}
+                              href={`/turismo/${itemSlug}`}
+                              onClick={() => {
+                                setIsResultsMenuOpen(false);
+                                setSearchQuery('');
+                              }}
+                              className="flex items-center gap-2.5 p-1.5 rounded-lg hover:bg-slate-50 dark:hover:bg-slate-800 transition-colors group border border-transparent hover:border-slate-200 dark:hover:border-slate-700"
+                            >
+                              <div className="w-8 h-8 rounded-lg overflow-hidden shrink-0 bg-slate-100 dark:bg-slate-800 border border-slate-200 dark:border-slate-700">
+                                <img
+                                  src={photoUrl}
+                                  alt={item.nombre}
+                                  className="w-full h-full object-cover"
+                                  onError={(e) => {
+                                    e.currentTarget.onerror = null;
+                                    e.currentTarget.src = 'https://images.unsplash.com/photo-1526392060635-9d6019884377?w=120&auto=format&fit=crop&q=60';
+                                  }}
+                                />
+                              </div>
+                              <div className="flex-1 min-w-0">
+                                <h4 className="text-xs font-bold text-slate-900 dark:text-white group-hover:text-sky-600 dark:group-hover:text-sky-400 transition-colors truncate">
+                                  {item.nombre}
+                                </h4>
+                                <div className="flex items-center gap-1.5 text-[10px] text-slate-500 dark:text-slate-400 truncate mt-0.5">
+                                  <span className="truncate">{cleanLabel(item.desubigeo || item.desprov || item.desdpto || 'Perú')}</span>
+                                  {item.categoria && (
+                                    <>
+                                      <span className="text-slate-300 dark:text-slate-600">•</span>
+                                      <span className="truncate">{cleanLabel(item.categoria)}</span>
+                                    </>
+                                  )}
+                                </div>
+                              </div>
+                              <span className="text-[10px] font-mono font-bold px-1.5 py-0.5 rounded bg-slate-100 dark:bg-slate-800 text-sky-600 dark:text-sky-400 border border-slate-200 dark:border-slate-700 shrink-0">
+                                #{item.codigo}
+                              </span>
+                            </Link>
+                          );
+                        })}
+                      </div>
+                    </div>
+                  )}
+
+                  {/* Botones de redirección directa */}
+                  <div className="pt-2 border-t border-slate-100 dark:border-slate-800 flex items-center justify-between gap-2">
+                    <button
+                      type="button"
+                      onClick={() => handleSearchSubmit(undefined, 'empresas')}
+                      className="flex-1 py-1.5 px-2 rounded-lg bg-sky-50 dark:bg-sky-950/70 border border-sky-200 dark:border-sky-800 text-center text-[11px] font-bold text-sky-700 dark:text-sky-300 hover:bg-sky-100 transition-colors flex items-center justify-center gap-1 cursor-pointer"
+                    >
+                      <Icons.Building className="w-3.5 h-3.5" />
+                      <span>Ver en empresas</span>
+                    </button>
+
+                    <button
+                      type="button"
+                      onClick={() => handleSearchSubmit(undefined, 'turismo')}
+                      className="flex-1 py-1.5 px-2 rounded-lg bg-emerald-50 dark:bg-emerald-950/70 border border-emerald-200 dark:border-emerald-800 text-center text-[11px] font-bold text-emerald-700 dark:text-emerald-300 hover:bg-emerald-100 transition-colors flex items-center justify-center gap-1 cursor-pointer"
+                    >
+                      <Icons.Compass className="w-3.5 h-3.5" />
+                      <span>Ver en turismo</span>
+                    </button>
                   </div>
-
-                  <button
-                    type="button"
-                    onClick={() => handleSearchSubmit()}
-                    className="w-full mt-1 pt-2 pb-1 px-3 border-t border-slate-100 dark:border-slate-800 text-center text-xs font-bold text-sky-600 dark:text-sky-400 hover:text-sky-500 flex items-center justify-center gap-1 transition-colors cursor-pointer"
-                  >
-                    <span>Ver todos los resultados en el catálogo</span>
-                    <Icons.ArrowRight className="w-3.5 h-3.5" />
-                  </button>
                 </div>
               )}
 
-              {!isSearching && searchResults.length === 0 && (
+              {!isSearching && empresaResults.length === 0 && searchResults.length === 0 && (
                 <div className="p-4 text-center space-y-1">
                   <p className="text-xs font-bold text-slate-800 dark:text-slate-300">
                     No se encontraron registros para &quot;{searchQuery}&quot;
                   </p>
                   <p className="text-[11px] text-slate-500 dark:text-slate-400">
-                    Presiona Enter para buscar coincidencias parciales en el catálogo.
+                    Prueba buscando por razón social, RUC de 11 dígitos o nombre de atractivo turístico.
                   </p>
                 </div>
               )}
@@ -348,6 +435,17 @@ export const Navbar = () => {
               }`}
             >
               {t('nav.turismo')}
+            </Link>
+
+            <Link
+              href="/empresas"
+              className={`py-1 transition-colors ${
+                isEmpresas
+                  ? 'text-sky-600 dark:text-white border-b-2 border-sky-500 font-bold'
+                  : 'hover:text-slate-900 dark:hover:text-white'
+              }`}
+            >
+              Empresas
             </Link>
 
             <Link
@@ -452,7 +550,7 @@ export const Navbar = () => {
                 type="text"
                 value={searchQuery}
                 onChange={(e) => setSearchQuery(e.target.value)}
-                placeholder="Buscar por recurso, ubigeo o código..."
+                placeholder="Buscar por recurso, RUC o empresa..."
                 className="w-full bg-slate-50 dark:bg-slate-900 border border-slate-200 dark:border-slate-700 rounded-lg pl-9 pr-8 py-2 text-xs text-slate-900 dark:text-white placeholder-slate-400 focus:outline-none focus:border-sky-500 focus:ring-1 focus:ring-sky-500"
               />
               {searchQuery && (
@@ -474,78 +572,154 @@ export const Navbar = () => {
               {isSearching && (
                 <div className="p-3 text-center flex items-center justify-center gap-2 text-xs text-slate-500 dark:text-slate-400">
                   <div className="w-3.5 h-3.5 border-2 border-sky-500 border-t-transparent rounded-full animate-spin" />
-                  <span>Consultando inventario nacional...</span>
+                  <span>Buscando en Turismo y Empresas...</span>
                 </div>
               )}
 
-              {!isSearching && searchResults.length > 0 && (
-                <div className="space-y-1">
-                  <div className="px-1 py-1 text-[10px] font-bold uppercase tracking-wider text-slate-500 dark:text-slate-400 flex justify-between items-center">
-                    <span>Resultados Encontrados</span>
-                    <span className="font-mono text-sky-600 dark:text-sky-400 font-semibold">{searchResults.length}</span>
-                  </div>
+              {!isSearching && (empresaResults.length > 0 || searchResults.length > 0) && (
+                <div className="space-y-3">
+                  {/* SECCIÓN EMPRESAS SUNAT MÓVIL */}
+                  {empresaResults.length > 0 && (
+                    <div>
+                      <div className="px-1 py-1 text-[10px] font-bold uppercase tracking-wider text-slate-500 dark:text-slate-400 flex justify-between items-center border-b border-slate-100 dark:border-slate-800">
+                        <span className="flex items-center gap-1.5 text-sky-600 dark:text-sky-400">
+                          <Icons.Building className="w-3.5 h-3.5" />
+                          <span>Empresas (SUNAT)</span>
+                        </span>
+                        <span className="font-mono text-sky-600 dark:text-sky-400 font-semibold">{empresaResults.length}</span>
+                      </div>
 
-                  <div className="max-h-60 overflow-y-auto space-y-1 py-1 divide-y divide-slate-100 dark:divide-slate-800/50">
-                    {searchResults.map((item) => {
-                      const itemSlug = createResourceSlug(item.nombre, item.codigo);
-                      const photoUrl = item.imagen || item.foto_url || getPhotoUrl(item.codigo);
-                      return (
-                        <Link
-                          key={item.codigo}
-                          href={`/turismo/${itemSlug}`}
-                          onClick={() => {
-                            setIsMobileSearchOpen(false);
-                            setSearchQuery('');
-                          }}
-                          className="flex items-center gap-2.5 p-1.5 rounded-lg hover:bg-slate-50 dark:hover:bg-slate-900 transition-colors group"
-                        >
-                          <div className="w-9 h-9 rounded overflow-hidden shrink-0 bg-slate-100 dark:bg-slate-800 border border-slate-200 dark:border-slate-700">
-                            <img
-                              src={photoUrl}
-                              alt={item.nombre}
-                              className="w-full h-full object-cover"
-                              onError={(e) => {
-                                e.currentTarget.onerror = null;
-                                e.currentTarget.src = 'https://images.unsplash.com/photo-1526392060635-9d6019884377?w=120&auto=format&fit=crop&q=60';
-                              }}
-                            />
-                          </div>
-
-                          <div className="flex-1 min-w-0">
-                            <h4 className="text-xs font-bold text-slate-900 dark:text-white group-hover:text-sky-600 dark:group-hover:text-sky-400 transition-colors truncate">
-                              {item.nombre}
-                            </h4>
-                            <div className="flex items-center gap-1.5 text-[10px] text-slate-500 dark:text-slate-400 truncate">
-                              <span className="truncate">{cleanLabel(item.desubigeo || item.desprov || item.desdpto || 'Perú')}</span>
+                      <div className="max-h-52 overflow-y-auto space-y-1 py-1 divide-y divide-slate-100 dark:divide-slate-800/50">
+                        {empresaResults.map((emp) => (
+                          <Link
+                            key={emp.ruc}
+                            href={`/empresas/${emp.url_empresa || emp.ruc}`}
+                            onClick={() => {
+                              setIsMobileSearchOpen(false);
+                              setSearchQuery('');
+                            }}
+                            className="flex items-center gap-2.5 p-1.5 rounded-lg hover:bg-slate-50 dark:hover:bg-slate-900 transition-colors group"
+                          >
+                            <div className="w-8 h-8 rounded-lg bg-sky-50 dark:bg-sky-950/70 border border-sky-200 dark:border-sky-800/80 flex items-center justify-center text-sky-600 dark:text-sky-400 shrink-0">
+                              <Icons.Building className="w-4 h-4" />
                             </div>
-                          </div>
 
-                          <span className="text-[10px] font-mono font-bold px-1.5 py-0.5 rounded bg-slate-100 dark:bg-slate-800 text-sky-600 dark:text-sky-400 border border-slate-200 dark:border-slate-700 shrink-0">
-                            #{item.codigo}
-                          </span>
-                        </Link>
-                      );
-                    })}
+                            <div className="flex-1 min-w-0">
+                              <h4 className="text-xs font-bold text-slate-900 dark:text-white group-hover:text-sky-600 dark:group-hover:text-sky-400 transition-colors truncate">
+                                {emp.razon_social}
+                              </h4>
+                              <div className="flex items-center gap-1.5 text-[10px] text-slate-500 dark:text-slate-400 truncate mt-0.5">
+                                <span>{emp.departamento || 'Perú'}</span>
+                                {emp.actividad_economica && (
+                                  <>
+                                    <span className="text-slate-300 dark:text-slate-600">•</span>
+                                    <span className="truncate">{emp.actividad_economica}</span>
+                                  </>
+                                )}
+                              </div>
+                            </div>
+
+                            <span className="text-[10px] font-mono font-bold px-1.5 py-0.5 rounded bg-sky-50 dark:bg-sky-950 text-sky-600 dark:text-sky-400 border border-sky-200 dark:border-sky-800 shrink-0">
+                              {emp.ruc}
+                            </span>
+                          </Link>
+                        ))}
+                      </div>
+                    </div>
+                  )}
+
+                  {/* SECCIÓN TURISMO MÓVIL */}
+                  {searchResults.length > 0 && (
+                    <div>
+                      <div className="px-1 py-1 text-[10px] font-bold uppercase tracking-wider text-slate-500 dark:text-slate-400 flex justify-between items-center border-b border-slate-100 dark:border-slate-800">
+                        <span className="flex items-center gap-1.5 text-emerald-600 dark:text-emerald-400">
+                          <Icons.Compass className="w-3.5 h-3.5" />
+                          <span>Atractivos Turísticos (MINCETUR)</span>
+                        </span>
+                        <span className="font-mono text-emerald-600 dark:text-emerald-400 font-semibold">{searchResults.length}</span>
+                      </div>
+
+                      <div className="max-h-52 overflow-y-auto space-y-1 py-1 divide-y divide-slate-100 dark:divide-slate-800/50">
+                        {searchResults.map((item) => {
+                          const itemSlug = createResourceSlug(item.nombre, item.codigo);
+                          const photoUrl = item.imagen || item.foto_url || getPhotoUrl(item.codigo);
+                          return (
+                            <Link
+                              key={item.codigo}
+                              href={`/turismo/${itemSlug}`}
+                              onClick={() => {
+                                setIsMobileSearchOpen(false);
+                                setSearchQuery('');
+                              }}
+                              className="flex items-center gap-2.5 p-1.5 rounded-lg hover:bg-slate-50 dark:hover:bg-slate-900 transition-colors group"
+                            >
+                              <div className="w-8 h-8 rounded-lg overflow-hidden shrink-0 bg-slate-100 dark:bg-slate-800 border border-slate-200 dark:border-slate-700">
+                                <img
+                                  src={photoUrl}
+                                  alt={item.nombre}
+                                  className="w-full h-full object-cover"
+                                  onError={(e) => {
+                                    e.currentTarget.onerror = null;
+                                    e.currentTarget.src = 'https://images.unsplash.com/photo-1526392060635-9d6019884377?w=120&auto=format&fit=crop&q=60';
+                                  }}
+                                />
+                              </div>
+
+                              <div className="flex-1 min-w-0">
+                                <h4 className="text-xs font-bold text-slate-900 dark:text-white group-hover:text-sky-600 dark:group-hover:text-sky-400 transition-colors truncate">
+                                  {item.nombre}
+                                </h4>
+                                <div className="flex items-center gap-1.5 text-[10px] text-slate-500 dark:text-slate-400 truncate mt-0.5">
+                                  <span className="truncate">{cleanLabel(item.desubigeo || item.desprov || item.desdpto || 'Perú')}</span>
+                                  {item.categoria && (
+                                    <>
+                                      <span className="text-slate-300 dark:text-slate-600">•</span>
+                                      <span className="truncate">{cleanLabel(item.categoria)}</span>
+                                    </>
+                                  )}
+                                </div>
+                              </div>
+
+                              <span className="text-[10px] font-mono font-bold px-1.5 py-0.5 rounded bg-slate-100 dark:bg-slate-800 text-sky-600 dark:text-sky-400 border border-slate-200 dark:border-slate-700 shrink-0">
+                                #{item.codigo}
+                              </span>
+                            </Link>
+                          );
+                        })}
+                      </div>
+                    </div>
+                  )}
+
+                  {/* Acciones Rápidas */}
+                  <div className="pt-2 border-t border-slate-100 dark:border-slate-800 flex items-center justify-between gap-2">
+                    <button
+                      type="button"
+                      onClick={() => handleSearchSubmit(undefined, 'empresas')}
+                      className="flex-1 py-1.5 px-2 rounded-lg bg-sky-50 dark:bg-sky-950/70 border border-sky-200 dark:border-sky-800 text-center text-xs font-bold text-sky-700 dark:text-sky-300 hover:bg-sky-100 transition-colors flex items-center justify-center gap-1 cursor-pointer"
+                    >
+                      <Icons.Building className="w-3.5 h-3.5" />
+                      <span>Ver empresas</span>
+                    </button>
+
+                    <button
+                      type="button"
+                      onClick={() => handleSearchSubmit(undefined, 'turismo')}
+                      className="flex-1 py-1.5 px-2 rounded-lg bg-emerald-50 dark:bg-emerald-950/70 border border-emerald-200 dark:border-emerald-800 text-center text-xs font-bold text-emerald-700 dark:text-emerald-300 hover:bg-emerald-100 transition-colors flex items-center justify-center gap-1 cursor-pointer"
+                    >
+                      <Icons.Compass className="w-3.5 h-3.5" />
+                      <span>Ver turismo</span>
+                    </button>
                   </div>
-
-                  <button
-                    type="button"
-                    onClick={() => handleSearchSubmit()}
-                    className="w-full mt-1 pt-2 pb-1 text-center text-xs font-bold text-sky-600 dark:text-sky-400 hover:text-sky-500 flex items-center justify-center gap-1 transition-colors cursor-pointer border-t border-slate-100 dark:border-slate-800"
-                  >
-                    <span>Ver todos los resultados</span>
-                    <Icons.ArrowRight className="w-3.5 h-3.5" />
-                  </button>
                 </div>
               )}
 
-              {!isSearching && searchResults.length === 0 && (
-                <div className="p-3 text-center">
+              {!isSearching && empresaResults.length === 0 && searchResults.length === 0 && (
+                <div className="p-3 text-center space-y-1">
                   <p className="text-xs font-bold text-slate-800 dark:text-slate-300">
                     No se encontraron registros
                   </p>
-                  <p className="text-[11px] text-slate-500 dark:text-slate-400 mt-0.5">
-                    Presiona Buscar para ver coincidencias en el catálogo
+                  <p className="text-[11px] text-slate-500 dark:text-slate-400">
+                    Prueba buscando por razón social, RUC o atractivo turístico.
                   </p>
                 </div>
               )}
@@ -585,6 +759,19 @@ export const Navbar = () => {
             >
               <Icons.Compass className="w-4 h-4 shrink-0 text-sky-600 dark:text-sky-400" />
               <span>{t('nav.turismo')}</span>
+            </Link>
+
+            <Link
+              href="/empresas"
+              onClick={() => setIsMobileMenuOpen(false)}
+              className={`flex items-center gap-3 px-3 py-2.5 rounded-lg text-xs font-bold transition-colors ${
+                isEmpresas
+                  ? 'bg-sky-50 dark:bg-sky-600/20 text-sky-600 dark:text-sky-400'
+                  : 'text-slate-700 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-900 hover:text-slate-900 dark:hover:text-white'
+              }`}
+            >
+              <Icons.Building className="w-4 h-4 shrink-0 text-sky-600 dark:text-sky-400" />
+              <span>Directorio de Empresas</span>
             </Link>
 
             <Link

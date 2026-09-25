@@ -744,7 +744,7 @@ function RutaPapaPageContent() {
           )}
 
           {/* Anuncio Nativo Adsterra Estratégico */}
-          <AdsterraNativeBanner label="Recomendaciones y Enlaces de Interés" />
+          <AdsterraNativeBanner />
         </section>
       </div>
     </main>

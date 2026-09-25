@@ -26,47 +26,30 @@ export const Footer = () => {
               {t('footer.desc')}
             </p>
 
-            {/* Redes Sociales */}
-            <div className="pt-2">
-              <span className="text-xs font-bold text-slate-800 dark:text-slate-300 uppercase tracking-wider block mb-3">
+            {/* Contacto & Redes Oficiales */}
+            <div className="pt-2 space-y-3">
+              <span className="text-xs font-bold text-slate-800 dark:text-slate-300 uppercase tracking-wider block">
                 {t('footer.connect')}
               </span>
-              <div className="flex items-center gap-2.5">
+              <div className="flex flex-col sm:flex-row sm:items-center gap-2.5">
                 <a
-                  href="https://facebook.com"
+                  href="https://www.linkedin.com/company/pukio-tech"
                   target="_blank"
                   rel="noopener noreferrer"
-                  aria-label="Facebook"
-                  className="w-9 h-9 rounded-lg bg-slate-50 dark:bg-slate-900 border border-slate-200 dark:border-slate-800 hover:border-sky-500 hover:bg-sky-50 dark:hover:bg-sky-500/10 text-slate-500 dark:text-slate-400 hover:text-sky-600 dark:hover:text-sky-400 flex items-center justify-center transition-all"
+                  aria-label="LinkedIn de PUKIO Tech"
+                  className="inline-flex items-center gap-2 px-3 py-2 rounded-lg bg-slate-50 dark:bg-slate-900 border border-slate-200 dark:border-slate-800 hover:border-sky-500 hover:bg-sky-50 dark:hover:bg-sky-500/10 text-slate-600 dark:text-slate-300 hover:text-sky-600 dark:hover:text-sky-400 transition-all text-xs font-medium group"
                 >
-                  <Icons.Facebook className="w-4 h-4" />
+                  <Icons.LinkedIn className="w-4 h-4 text-[#0A66C2] group-hover:scale-110 transition-transform" />
+                  <span>PUKIO en LinkedIn</span>
                 </a>
+
                 <a
-                  href="https://instagram.com"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  aria-label="Instagram"
-                  className="w-9 h-9 rounded-lg bg-slate-50 dark:bg-slate-900 border border-slate-200 dark:border-slate-800 hover:border-pink-500 hover:bg-pink-50 dark:hover:bg-pink-500/10 text-slate-500 dark:text-slate-400 hover:text-pink-600 dark:hover:text-pink-400 flex items-center justify-center transition-all"
+                  href="mailto:contacto.pukio@gmail.com"
+                  aria-label="Correo de contacto de PUKIO"
+                  className="inline-flex items-center gap-2 px-3 py-2 rounded-lg bg-slate-50 dark:bg-slate-900 border border-slate-200 dark:border-slate-800 hover:border-sky-500 hover:bg-sky-50 dark:hover:bg-sky-500/10 text-slate-600 dark:text-slate-300 hover:text-sky-600 dark:hover:text-sky-400 transition-all text-xs font-medium group"
                 >
-                  <Icons.Instagram className="w-4 h-4" />
-                </a>
-                <a
-                  href="https://twitter.com"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  aria-label="Twitter / X"
-                  className="w-9 h-9 rounded-lg bg-slate-50 dark:bg-slate-900 border border-slate-200 dark:border-slate-800 hover:border-sky-400 hover:bg-sky-50 dark:hover:bg-sky-400/10 text-slate-500 dark:text-slate-400 hover:text-sky-600 dark:hover:text-sky-400 flex items-center justify-center transition-all"
-                >
-                  <Icons.Twitter className="w-4 h-4" />
-                </a>
-                <a
-                  href="https://github.com"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  aria-label="GitHub"
-                  className="w-9 h-9 rounded-lg bg-slate-50 dark:bg-slate-900 border border-slate-200 dark:border-slate-800 hover:border-slate-400 hover:bg-slate-100 dark:hover:bg-slate-800 text-slate-500 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white flex items-center justify-center transition-all"
-                >
-                  <Icons.GitHub className="w-4 h-4" />
+                  <Icons.Mail className="w-4 h-4 text-sky-500 group-hover:scale-110 transition-transform" />
+                  <span>contacto.pukio@gmail.com</span>
                 </a>
               </div>
             </div>
@@ -84,6 +67,11 @@ export const Footer = () => {
               <li>
                 <Link href="/turismo" className="hover:text-sky-600 dark:hover:text-sky-400 transition-colors">
                   {t('footer.navTurismo')}
+                </Link>
+              </li>
+              <li>
+                <Link href="/empresas" className="hover:text-sky-600 dark:hover:text-sky-400 transition-colors">
+                  Directorio de Empresas
                 </Link>
               </li>
               <li>
@@ -155,7 +143,15 @@ export const Footer = () => {
           <div className="flex items-center gap-2">
             <span className="w-2 h-2 rounded-full bg-emerald-500 animate-pulse" />
             <span className="text-slate-500 dark:text-slate-400">
-              OpenData © {new Date().getFullYear()} • {t('footer.rights')}
+              OpenData © {new Date().getFullYear()} • Desarrollado por{' '}
+              <a
+                href="https://www.linkedin.com/company/pukio-tech"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="font-semibold text-slate-700 dark:text-slate-300 hover:text-sky-600 dark:hover:text-sky-400 transition-colors"
+              >
+                PUKIO
+              </a>
             </span>
           </div>
 

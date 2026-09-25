@@ -466,4 +466,33 @@ export class EmpresasService implements OnModuleInit, OnModuleDestroy {
       condiciones: ['HABIDO', 'NO HABIDO', 'NO HALLADO', 'PENDIENTE'],
     };
   }
+
+  private sitemapCache: { data: Array<{ slug: string; ruc: string; fecha_actualizacion?: string }>; expiry: number } | null = null;
+
+  /**
+   * Obtiene lista ligera de slugs y RUCs para generación de Sitemap SEO de todas las empresas
+   */
+  async getSitemapSlugs(limit?: number): Promise<Array<{ slug: string; ruc: string; fecha_actualizacion?: string }>> {
+    if (this.sitemapCache && this.sitemapCache.expiry > Date.now()) {
+      return limit ? this.sitemapCache.data.slice(0, limit) : this.sitemapCache.data;
+    }
+
+    const query = `
+      SELECT 
+        COALESCE(url_empresa, numero_documento) AS slug, 
+        numero_documento AS ruc,
+        TO_CHAR(COALESCE(fecha_actualizacion, fecha_creacion), 'YYYY-MM-DD') AS fecha_actualizacion
+      FROM empresas.empresas 
+      WHERE is_active = TRUE 
+      ORDER BY id_contribuyente ASC;
+    `;
+    const res = await this.pool.query(query);
+    const data = res.rows;
+    this.sitemapCache = {
+      data,
+      expiry: Date.now() + 86400000, // 24 horas de caché
+    };
+
+    return limit ? data.slice(0, limit) : data;
+  }
 }

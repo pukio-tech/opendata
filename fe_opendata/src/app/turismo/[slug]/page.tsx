@@ -1072,7 +1072,7 @@ function FichaTurismoContent({ params }: FichaTurismoPageProps) {
               </div>
             </div>
             {/* Anuncio Nativo Adsterra Estratégico */}
-            <AdsterraNativeBanner label="Recomendaciones para tu Viaje" className="mt-8 mb-4 px-0" />
+            <AdsterraNativeBanner className="mt-8 mb-4" />
           </div>
         )}
       </div>

@@ -105,6 +105,16 @@ export class EmpresasController {
   }
 
   /**
+   * Endpoint optimizado para sitemap de Next.js
+   * GET /api/empresas/sitemap
+   */
+  @Get('sitemap')
+  @Header('Cache-Control', 'public, max-age=86400, s-maxage=86400')
+  async getSitemap(@Query('limit') limit?: number) {
+    return this.empresasService.getSitemapSlugs(limit ? Number(limit) : undefined);
+  }
+
+  /**
    * Consulta polimórfica (detecta si es RUC de 11 dígitos o slug)
    * GET /api/empresas/:idOrSlug
    */

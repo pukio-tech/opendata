@@ -2,209 +2,186 @@
 
 import React, { useEffect, useState, useCallback, useMemo, Suspense } from 'react';
 import { useSearchParams } from 'next/navigation';
-import { apiService } from '../../services/api';
+import { empresasService } from '../../services/empresasApi';
 import {
-  ActivityItem,
-  CategoryItem,
-  DepartmentItem,
-  ResourceItem,
-} from '../../types/mincetur';
-import { ResourceCard } from '../../components/ResourceCard';
+  CatalogsResponse,
+  EmpresaListItem,
+} from '../../types/empresa';
+import { EmpresaCard } from '../../components/EmpresaCard';
 import { Pagination } from '../../components/Pagination';
 import { Icons } from '../../components/Icons';
 import { CustomSelect, SelectOption } from '../../components/CustomSelect';
-import { useLanguage } from '../../context/LanguageContext';
-import { translateMinceturText, cleanLabel } from '../../utils/minceturTranslate';
+import { cleanLabel } from '../../utils/minceturTranslate';
 import { AdsterraNativeBanner } from '../../components/AdsterraNativeBanner';
 import { ResponsiveLeaderboard } from '../../components/AdsterraDisplayBanner';
 
-function TurismoPageContent() {
-  const { language, t } = useLanguage();
+function EmpresasPageContent() {
   const searchParams = useSearchParams();
 
-  // Datos base de la API
-  const [departments, setDepartments] = useState<DepartmentItem[]>([]);
-  const [categories, setCategories] = useState<CategoryItem[]>([]);
-  const [activities, setActivities] = useState<ActivityItem[]>([]);
+  // Catálogos dinámicos
+  const [catalogs, setCatalogs] = useState<CatalogsResponse | null>(null);
 
   // Estados de Filtros en Formulario
   const [searchTerm, setSearchTerm] = useState<string>('');
   const [selectedDept, setSelectedDept] = useState<string>('');
-  const [selectedCategory, setSelectedCategory] = useState<string>('');
-  const [selectedActivity, setSelectedActivity] = useState<string>('');
-  const [searchCode, setSearchCode] = useState<string>('');
+  const [selectedTipo, setSelectedTipo] = useState<string>('');
+  const [selectedCiiu, setSelectedCiiu] = useState<string>('');
+  const [searchRuc, setSearchRuc] = useState<string>('');
   const [isAdvancedSearchOpen, setIsAdvancedSearchOpen] = useState<boolean>(false);
 
   // Estados de Filtros Aplicados
   const [appliedFilters, setAppliedFilters] = useState({
     search: '',
     dept: '',
-    category: '',
-    activity: '',
-    code: '',
+    tipo: '',
+    ciiu: '',
+    ruc: '',
   });
 
-  // Estados de Recursos y Paginación
-  const [resources, setResources] = useState<ResourceItem[]>([]);
+  // Estados de Datos y Paginación
+  const [empresas, setEmpresas] = useState<EmpresaListItem[]>([]);
   const [total, setTotal] = useState<number>(0);
   const [page, setPage] = useState<number>(1);
   const [totalPages, setTotalPages] = useState<number>(1);
   const [loading, setLoading] = useState<boolean>(true);
 
-  // Sincronizar automáticamente con los parámetros de la URL al cargar o navegar
+  // Sincronizar automáticamente con los parámetros de la URL
   useEffect(() => {
     const qParam = searchParams.get('q') || searchParams.get('search') || '';
-    const deptParam = searchParams.get('iddpto') || searchParams.get('department') || searchParams.get('dept') || '';
-    const catParam = searchParams.get('categoria') || searchParams.get('category') || '';
-    const actParam = searchParams.get('actividad') || searchParams.get('activity') || '';
-    const codeParam = searchParams.get('codigo') || searchParams.get('code') || '';
+    const deptParam = searchParams.get('department') || searchParams.get('dept') || '';
+    const tipoParam = searchParams.get('tipo') || '';
+    const ciiuParam = searchParams.get('ciiu') || '';
+    const rucParam = searchParams.get('ruc') || '';
     const pageParam = searchParams.get('page');
     const parsedPage = pageParam && !isNaN(Number(pageParam)) ? Math.max(1, Number(pageParam)) : 1;
 
-    if (qParam || deptParam || catParam || actParam || codeParam || parsedPage > 1) {
+    if (qParam || deptParam || tipoParam || ciiuParam || rucParam || parsedPage > 1) {
       setSearchTerm(qParam);
       setSelectedDept(deptParam);
-      setSelectedCategory(catParam);
-      setSelectedActivity(actParam);
-      setSearchCode(codeParam);
-      if (codeParam) {
-        setIsAdvancedSearchOpen(true);
-      }
+      setSelectedTipo(tipoParam);
+      setSelectedCiiu(ciiuParam);
+      setSearchRuc(rucParam);
+      if (rucParam) setIsAdvancedSearchOpen(true);
+
       setAppliedFilters({
         search: qParam,
         dept: deptParam,
-        category: catParam,
-        activity: actParam,
-        code: codeParam,
+        tipo: tipoParam,
+        ciiu: ciiuParam,
+        ruc: rucParam,
       });
       setPage(parsedPage);
 
       setTimeout(() => {
-        const el = document.getElementById('listado-atractivos');
-        if (el) {
-          el.scrollIntoView({ behavior: 'smooth' });
-        }
+        const el = document.getElementById('listado-empresas');
+        if (el) el.scrollIntoView({ behavior: 'smooth' });
       }, 150);
     }
   }, [searchParams]);
 
-  // Reflejar automáticamente en la URL cualquier cambio en filtros aplicados o página
+  // Reflejar automáticamente en la URL los cambios de filtros o página
   useEffect(() => {
     if (typeof window === 'undefined') return;
     const params = new URLSearchParams();
     if (appliedFilters.search) params.set('search', appliedFilters.search);
     if (appliedFilters.dept) params.set('department', appliedFilters.dept);
-    if (appliedFilters.category) params.set('category', appliedFilters.category);
-    if (appliedFilters.activity) params.set('activity', appliedFilters.activity);
-    if (appliedFilters.code) params.set('codigo', appliedFilters.code);
+    if (appliedFilters.tipo) params.set('tipo', appliedFilters.tipo);
+    if (appliedFilters.ciiu) params.set('ciiu', appliedFilters.ciiu);
+    if (appliedFilters.ruc) params.set('ruc', appliedFilters.ruc);
     if (page > 1) params.set('page', String(page));
 
     const qs = params.toString();
-    const targetUrl = qs ? `/turismo?${qs}` : '/turismo';
+    const targetUrl = qs ? `/empresas?${qs}` : '/empresas';
     window.history.replaceState(null, '', targetUrl);
   }, [appliedFilters, page]);
 
-  // Actualizar el título dinámico según filtros activos
+  // Actualizar título dinámico de la pestaña
   useEffect(() => {
     const parts: string[] = [];
-    if (appliedFilters.search) {
-      parts.push(`"${appliedFilters.search}"`);
-    }
-    if (appliedFilters.dept) {
-      const d = departments.find((item) => item.iddpto === appliedFilters.dept);
-      if (d) parts.push(cleanLabel(d.departamento));
-    }
-    if (appliedFilters.category) {
-      parts.push(translateMinceturText(appliedFilters.category, language));
-    }
-    if (appliedFilters.activity) {
-      parts.push(cleanLabel(appliedFilters.activity));
-    }
+    if (appliedFilters.search) parts.push(`"${appliedFilters.search}"`);
+    if (appliedFilters.ruc) parts.push(`RUC ${appliedFilters.ruc}`);
+    if (appliedFilters.dept) parts.push(cleanLabel(appliedFilters.dept));
+    if (appliedFilters.tipo) parts.push(cleanLabel(appliedFilters.tipo));
 
     if (parts.length > 0) {
-      document.title = `${parts.join(' • ')} | Turismo Perú | OpenData`;
+      document.title = `${parts.join(' • ')} | Empresas del Perú | OpenData`;
     } else {
-      document.title = 'Explorador de Recursos y Atractivos Turísticos | OpenData Perú';
+      document.title = 'Directorio de Empresas del Perú • Registro SUNAT | OpenData';
     }
-  }, [appliedFilters, departments, language]);
+  }, [appliedFilters]);
 
-  // Carga inicial de catálogos dinámicos
+  // Carga inicial de catálogos
   useEffect(() => {
-    Promise.all([
-      apiService.getDepartments().catch(() => []),
-      apiService.getCategories().catch(() => []),
-      apiService.getActivities().catch(() => []),
-    ]).then(([deps, cats, acts]) => {
-      setDepartments(deps);
-      setCategories(cats);
-      setActivities(acts);
-    });
+    empresasService
+      .getCatalogs()
+      .then((data) => setCatalogs(data))
+      .catch((err) => console.error('Error al cargar catálogos de empresas:', err));
   }, []);
 
-  // Opciones formateadas para CustomSelect
+  // Opciones para CustomSelect
   const departmentOptions: SelectOption[] = useMemo(() => {
+    if (!catalogs?.departamentos) return [];
     return [
-      { value: '', label: `${t('turismo.allRegions')} (${departments.length})`, badge: 'Perú' },
-      ...departments.map((d) => ({
-        value: d.iddpto,
+      { value: '', label: `Todas las Regiones (${catalogs.departamentos.length})`, badge: 'Perú' },
+      ...catalogs.departamentos.map((d) => ({
+        value: d.departamento,
         label: cleanLabel(d.departamento),
-        sublabel: `Ubigeo ${d.iddpto}`,
+        sublabel: `${d.total.toLocaleString()} empresas`,
       })),
     ];
-  }, [departments, t]);
+  }, [catalogs]);
 
-  const categoryOptions: SelectOption[] = useMemo(() => {
+  const tipoOptions: SelectOption[] = useMemo(() => {
+    if (!catalogs?.tipos_contribuyente) return [];
     return [
-      { value: '', label: `${t('turismo.allCategories')} (${categories.length})`, badge: t('turismo.official') },
-      ...categories.map((c) => ({
-        value: c.categoria,
-        label: translateMinceturText(c.categoria, language),
-        sublabel: c.tipos?.length ? `${c.tipos.length} ${t('turismo.typesRegistered')}` : undefined,
+      { value: '', label: `Todos los Tipos (${catalogs.tipos_contribuyente.length})`, badge: 'Oficial' },
+      ...catalogs.tipos_contribuyente.map((t) => ({
+        value: t.tipo_contribuyente,
+        label: t.tipo_contribuyente,
+        sublabel: `${t.total.toLocaleString()} empresas`,
       })),
     ];
-  }, [categories, language, t]);
+  }, [catalogs]);
 
-  const activityOptions: SelectOption[] = useMemo(() => {
+  const ciiuOptions: SelectOption[] = useMemo(() => {
+    if (!catalogs?.actividades) return [];
     return [
-      { value: '', label: `${t('turismo.allActivities')} (${activities.length})` },
-      ...activities.map((a) => ({
-        value: a.nombre,
-        label: cleanLabel(a.nombre),
+      { value: '', label: `Todas las Actividades (${catalogs.actividades.length})` },
+      ...catalogs.actividades.map((a) => ({
+        value: a.codigo_ciiu,
+        label: `CIIU ${a.codigo_ciiu} - ${cleanLabel(a.actividad_economica)}`,
+        sublabel: `${a.total.toLocaleString()} registradas`,
       })),
     ];
-  }, [activities, t]);
+  }, [catalogs]);
 
-  // Función de consulta de recursos
-  const fetchResources = useCallback(
+  // Consulta de empresas por API
+  const fetchEmpresas = useCallback(
     async (currentPage: number) => {
       setLoading(true);
       try {
-        const rawCode = appliedFilters.code.trim();
-        const codeFilter = rawCode ? Number(rawCode) : undefined;
+        const rawRuc = appliedFilters.ruc.trim();
         const searchVal = appliedFilters.search.trim();
 
-        const effectiveCode = !isNaN(Number(codeFilter))
-          ? codeFilter
-          : /^\d+$/.test(searchVal)
-          ? Number(searchVal)
-          : undefined;
+        const effectiveRuc = rawRuc || (/^\d{11}$/.test(searchVal) ? searchVal : undefined);
 
-        const res = await apiService.getResources({
+        const res = await empresasService.search({
           page: currentPage,
           limit: 12,
-          q: searchVal || undefined,
-          codigo: effectiveCode,
-          iddpto: appliedFilters.dept || undefined,
-          categoria: appliedFilters.category || undefined,
-          actividad: appliedFilters.activity || undefined,
+          search: effectiveRuc ? undefined : searchVal || undefined,
+          ruc: effectiveRuc,
+          departamento: appliedFilters.dept || undefined,
+          tipo: appliedFilters.tipo || undefined,
+          ciiu: appliedFilters.ciiu || undefined,
+          sortBy: 'recent',
         });
 
-        setResources(res.data || []);
-        setTotal(res.total);
-        setTotalPages(res.totalPages || Math.max(1, Math.ceil(res.total / 12)));
+        setEmpresas(res.data || []);
+        setTotal(res.pagination.total);
+        setTotalPages(res.pagination.totalPages || Math.max(1, Math.ceil(res.pagination.total / 12)));
       } catch (error) {
-        console.error('Error al cargar recursos turísticos:', error);
-        setResources([]);
+        console.error('Error al cargar empresas:', error);
+        setEmpresas([]);
         setTotal(0);
       } finally {
         setLoading(false);
@@ -214,8 +191,8 @@ function TurismoPageContent() {
   );
 
   useEffect(() => {
-    fetchResources(page);
-  }, [fetchResources, page]);
+    fetchEmpresas(page);
+  }, [fetchEmpresas, page]);
 
   // Manejar búsqueda
   const handleSearchSubmit = (e?: React.FormEvent) => {
@@ -223,12 +200,12 @@ function TurismoPageContent() {
     setAppliedFilters({
       search: searchTerm,
       dept: selectedDept,
-      category: selectedCategory,
-      activity: selectedActivity,
-      code: searchCode,
+      tipo: selectedTipo,
+      ciiu: selectedCiiu,
+      ruc: searchRuc,
     });
     setPage(1);
-    const el = document.getElementById('listado-atractivos');
+    const el = document.getElementById('listado-empresas');
     if (el) el.scrollIntoView({ behavior: 'smooth' });
   };
 
@@ -236,15 +213,15 @@ function TurismoPageContent() {
   const handleClearFilters = () => {
     setSearchTerm('');
     setSelectedDept('');
-    setSelectedCategory('');
-    setSelectedActivity('');
-    setSearchCode('');
+    setSelectedTipo('');
+    setSelectedCiiu('');
+    setSearchRuc('');
     setAppliedFilters({
       search: '',
       dept: '',
-      category: '',
-      activity: '',
-      code: '',
+      tipo: '',
+      ciiu: '',
+      ruc: '',
     });
     setPage(1);
   };
@@ -255,15 +232,15 @@ function TurismoPageContent() {
     setPage(1);
   };
 
-  const handleSelectCategory = (val: string) => {
-    setSelectedCategory(val);
-    setAppliedFilters((prev) => ({ ...prev, category: val }));
+  const handleSelectTipo = (val: string) => {
+    setSelectedTipo(val);
+    setAppliedFilters((prev) => ({ ...prev, tipo: val }));
     setPage(1);
   };
 
-  const handleSelectActivity = (val: string) => {
-    setSelectedActivity(val);
-    setAppliedFilters((prev) => ({ ...prev, activity: val }));
+  const handleSelectCiiu = (val: string) => {
+    setSelectedCiiu(val);
+    setAppliedFilters((prev) => ({ ...prev, ciiu: val }));
     setPage(1);
   };
 
@@ -271,9 +248,9 @@ function TurismoPageContent() {
     const updated = { ...appliedFilters, [key]: '' };
     if (key === 'search') setSearchTerm('');
     if (key === 'dept') setSelectedDept('');
-    if (key === 'category') setSelectedCategory('');
-    if (key === 'activity') setSelectedActivity('');
-    if (key === 'code') setSearchCode('');
+    if (key === 'tipo') setSelectedTipo('');
+    if (key === 'ciiu') setSelectedCiiu('');
+    if (key === 'ruc') setSearchRuc('');
     setAppliedFilters(updated);
     setPage(1);
   };
@@ -281,24 +258,22 @@ function TurismoPageContent() {
   const hasActiveFilters = Boolean(
     appliedFilters.search ||
       appliedFilters.dept ||
-      appliedFilters.category ||
-      appliedFilters.activity ||
-      appliedFilters.code
+      appliedFilters.tipo ||
+      appliedFilters.ciiu ||
+      appliedFilters.ruc,
   );
-
-  const activeDeptName = departments.find((d) => d.iddpto === appliedFilters.dept)?.departamento;
 
   return (
     <main className="flex-1 bg-slate-50 dark:bg-slate-950 text-slate-800 dark:text-slate-100 transition-colors duration-200 min-h-screen pb-24">
       {/* ========================================================================= */}
-      {/* 1. HERO HEADER DE TURISMO - ESTILO INSTITUCIONAL */}
+      {/* 1. HERO HEADER DE EMPRESAS - ESTILO INSTITUCIONAL IDÉNTICO A TURISMO */}
       {/* ========================================================================= */}
       <section className="relative pt-10 pb-16 px-4 sm:px-6 lg:px-8 border-b border-slate-200 dark:border-slate-800 bg-slate-950 text-white">
-        {/* Fondo sutil con imagen del Perú */}
-        <div className="absolute inset-0 overflow-hidden z-0 pointer-events-none opacity-25">
+        {/* Fondo sutil con imagen institucional */}
+        <div className="absolute inset-0 overflow-hidden z-0 pointer-events-none opacity-20">
           <img
-            src="https://images.unsplash.com/photo-1526392060635-9d6019884377?auto=format&fit=crop&w=1280&q=70"
-            alt="Perú Turismo"
+            src="https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1280&q=70"
+            alt="Empresas del Perú"
             loading="lazy"
             decoding="async"
             className="w-full h-full object-cover"
@@ -310,14 +285,14 @@ function TurismoPageContent() {
         <div className="max-w-6xl mx-auto relative z-10 text-center w-full">
 
           <h1 className="text-3xl sm:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            {t('turismo.heroTitle')}{' '}
+            Directorio de{' '}
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-sky-400 via-sky-300 to-sky-500">
-              {t('turismo.heroHighlight')}
+              Empresas del Perú
             </span>
           </h1>
 
           <p className="mt-3 text-xs sm:text-base text-slate-200 font-normal max-w-2xl mx-auto mb-6 leading-relaxed">
-            {t('turismo.heroSubtitle')}
+            Consulta libre y estructurada de 32,100 empresas peruanas: RUCs oficiales, razones sociales, condición de domicilio, actividades CIIU y ubicación en los 25 departamentos.
           </p>
 
           {/* Caja de Búsqueda y Filtros con Soporte Dark/Light Mode */}
@@ -334,7 +309,7 @@ function TurismoPageContent() {
                     type="text"
                     value={searchTerm}
                     onChange={(e) => setSearchTerm(e.target.value)}
-                    placeholder={t('turismo.searchPlaceholder')}
+                    placeholder="Buscar por RUC (11 dígitos), razón social o nombre comercial..."
                     className="w-full bg-slate-50 dark:bg-slate-950 text-slate-900 dark:text-white placeholder-slate-400 text-xs sm:text-sm pl-9 pr-9 py-2 rounded-lg border border-slate-200 dark:border-slate-700 focus:outline-none focus:border-sky-500 focus:ring-1 focus:ring-sky-500 font-sans transition-colors"
                   />
                   {searchTerm && (
@@ -353,13 +328,13 @@ function TurismoPageContent() {
                     type="button"
                     onClick={() => setIsAdvancedSearchOpen(!isAdvancedSearchOpen)}
                     className={`py-2 px-3.5 rounded-lg text-xs font-semibold border transition-all flex items-center justify-center gap-2 flex-1 sm:flex-none cursor-pointer whitespace-nowrap ${
-                      isAdvancedSearchOpen || searchCode
+                      isAdvancedSearchOpen || searchRuc
                         ? 'bg-sky-50 dark:bg-sky-500/10 text-sky-700 dark:text-sky-400 border-sky-300 dark:border-sky-500/40 shadow-sm'
                         : 'bg-slate-50 dark:bg-slate-950 text-slate-700 dark:text-slate-300 border-slate-200 dark:border-slate-700 hover:border-slate-300 dark:hover:border-slate-600'
                     }`}
                   >
                     <Icons.Sliders className="w-3.5 h-3.5 text-sky-500" />
-                    <span>{t('turismo.btnAdvanced')}</span>
+                    <span>Filtro RUC</span>
                   </button>
 
                   <button
@@ -367,12 +342,12 @@ function TurismoPageContent() {
                     className="py-2 sm:py-2.5 px-6 rounded-lg bg-sky-600 hover:bg-sky-500 text-white font-semibold text-xs sm:text-sm transition-colors flex items-center justify-center gap-2 flex-1 sm:flex-none cursor-pointer shadow-sm whitespace-nowrap"
                   >
                     <Icons.Search className="w-4 h-4" />
-                    <span>{t('turismo.btnSearch')}</span>
+                    <span>Buscar</span>
                   </button>
                 </div>
               </div>
 
-              {/* Fila 2: CustomSelects para Región, Categoría y Actividad */}
+              {/* Fila 2: CustomSelects para Región, Tipo Societario y Actividad Económica */}
               <div className="grid grid-cols-1 sm:grid-cols-3 gap-3 pt-1">
                 {/* 1. Departamento / Región */}
                 <div className="min-w-0">
@@ -382,37 +357,37 @@ function TurismoPageContent() {
                     value={selectedDept}
                     onChange={handleSelectDept}
                     options={departmentOptions}
-                    placeholder={t('turismo.allRegions')}
+                    placeholder="Todas las Regiones"
                     searchable
                     variant="default"
                     buttonClassName="bg-slate-50 dark:bg-slate-950 border border-slate-200 dark:border-slate-700 px-3 py-2 rounded-lg text-slate-900 dark:text-white hover:border-sky-500/50 flex items-center justify-between text-xs sm:text-sm transition-colors"
                   />
                 </div>
 
-                {/* 2. Categoría */}
+                {/* 2. Tipo Societario */}
                 <div className="min-w-0">
                   <CustomSelect
                     label=""
-                    icon={<Icons.Layers className="w-3.5 h-3.5 text-sky-500 dark:text-sky-400" />}
-                    value={selectedCategory}
-                    onChange={handleSelectCategory}
-                    options={categoryOptions}
-                    placeholder={t('turismo.allCategories')}
+                    icon={<Icons.Building className="w-3.5 h-3.5 text-sky-500 dark:text-sky-400" />}
+                    value={selectedTipo}
+                    onChange={handleSelectTipo}
+                    options={tipoOptions}
+                    placeholder="Todos los Tipos Societarios"
                     searchable
                     variant="default"
                     buttonClassName="bg-slate-50 dark:bg-slate-950 border border-slate-200 dark:border-slate-700 px-3 py-2 rounded-lg text-slate-900 dark:text-white hover:border-sky-500/50 flex items-center justify-between text-xs sm:text-sm transition-colors"
                   />
                 </div>
 
-                {/* 3. Actividad */}
+                {/* 3. Actividad Económica CIIU */}
                 <div className="min-w-0">
                   <CustomSelect
                     label=""
-                    icon={<Icons.Compass className="w-3.5 h-3.5 text-sky-500 dark:text-sky-400" />}
-                    value={selectedActivity}
-                    onChange={handleSelectActivity}
-                    options={activityOptions}
-                    placeholder={t('turismo.allActivities')}
+                    icon={<Icons.Briefcase className="w-3.5 h-3.5 text-sky-500 dark:text-sky-400" />}
+                    value={selectedCiiu}
+                    onChange={handleSelectCiiu}
+                    options={ciiuOptions}
+                    placeholder="Todas las Actividades (CIIU)"
                     searchable
                     variant="default"
                     buttonClassName="bg-slate-50 dark:bg-slate-950 border border-slate-200 dark:border-slate-700 px-3 py-2 rounded-lg text-slate-900 dark:text-white hover:border-sky-500/50 flex items-center justify-between text-xs sm:text-sm transition-colors"
@@ -420,35 +395,36 @@ function TurismoPageContent() {
                 </div>
               </div>
 
-              {/* Fila 3: Panel Avanzado (Código de Ficha) */}
+              {/* Fila 3: Panel Avanzado (RUC Específico) */}
               {isAdvancedSearchOpen && (
                 <div className="pt-2 border-t border-slate-200 dark:border-slate-800 animate-fadeIn">
                   <div className="bg-slate-50 dark:bg-slate-950/80 p-3 rounded-lg border border-slate-200 dark:border-slate-800 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-3">
                     <div className="flex-1 w-full">
                       <label className="text-[11px] font-bold text-slate-700 dark:text-slate-300 uppercase tracking-wider block mb-1 flex items-center gap-1.5">
                         <Icons.Code className="w-3.5 h-3.5 text-sky-500" />
-                        <span>{t('turismo.advancedTitle')}</span>
+                        <span>Búsqueda directa por RUC</span>
                       </label>
                       <input
-                        type="number"
-                        value={searchCode}
-                        onChange={(e) => setSearchCode(e.target.value)}
-                        placeholder={t('turismo.advancedPlaceholder')}
-                        className="w-full bg-white dark:bg-slate-900 text-slate-900 dark:text-white text-xs font-semibold px-3 py-1.5 rounded-lg border border-slate-300 dark:border-slate-700 focus:outline-none focus:border-sky-500 placeholder-slate-400"
+                        type="text"
+                        maxLength={11}
+                        value={searchRuc}
+                        onChange={(e) => setSearchRuc(e.target.value.replace(/\D/g, ''))}
+                        placeholder="Ingresa el número de RUC de 11 dígitos (ej. 20605078789)..."
+                        className="w-full bg-white dark:bg-slate-900 text-slate-900 dark:text-white text-xs font-mono font-semibold px-3 py-1.5 rounded-lg border border-slate-300 dark:border-slate-700 focus:outline-none focus:border-sky-500 placeholder-slate-400"
                       />
                       <p className="text-[10px] text-slate-500 dark:text-slate-400 mt-1">
-                        {t('turismo.advancedDesc')}
+                        Permite localizar de forma inmediata cualquier contribuyente registrado.
                       </p>
                     </div>
 
-                    {searchCode && (
+                    {searchRuc && (
                       <button
                         type="button"
-                        onClick={() => setSearchCode('')}
+                        onClick={() => setSearchRuc('')}
                         className="text-xs text-rose-600 dark:text-rose-400 hover:text-rose-700 font-semibold px-3 py-1.5 rounded-lg bg-rose-50 dark:bg-rose-500/10 border border-rose-200 dark:border-rose-500/30 transition-all flex items-center gap-1 self-end sm:self-center cursor-pointer"
                       >
                         <Icons.X className="w-3.5 h-3.5" />
-                        <span>{t('turismo.removeCode')}</span>
+                        <span>Quitar RUC</span>
                       </button>
                     )}
                   </div>
@@ -460,7 +436,7 @@ function TurismoPageContent() {
                 <div className="flex flex-wrap items-center justify-between gap-2 pt-2 border-t border-slate-200 dark:border-slate-800">
                   <div className="flex flex-wrap items-center gap-2">
                     <span className="text-[11px] font-bold uppercase tracking-wider text-slate-400">
-                      {t('turismo.filtersActive')}
+                      Filtros activos:
                     </span>
                     {appliedFilters.search && (
                       <button
@@ -468,7 +444,17 @@ function TurismoPageContent() {
                         onClick={() => removeFilter('search')}
                         className="inline-flex items-center gap-1 text-xs px-2.5 py-1 rounded-lg bg-slate-100 dark:bg-slate-800 text-slate-700 dark:text-slate-300 hover:bg-rose-50 hover:text-rose-600 dark:hover:bg-rose-500/20 dark:hover:text-rose-300 transition-colors"
                       >
-                        <span>{t('turismo.textFilter')}: &quot;{appliedFilters.search}&quot;</span>
+                        <span>Texto: &quot;{appliedFilters.search}&quot;</span>
+                        <Icons.X className="w-3 h-3" />
+                      </button>
+                    )}
+                    {appliedFilters.ruc && (
+                      <button
+                        type="button"
+                        onClick={() => removeFilter('ruc')}
+                        className="inline-flex items-center gap-1 text-xs px-2.5 py-1 rounded-lg bg-purple-50 dark:bg-purple-500/10 text-purple-700 dark:text-purple-300 hover:bg-rose-50 hover:text-rose-600 dark:hover:bg-rose-500/20 dark:hover:text-rose-300 transition-colors"
+                      >
+                        <span>RUC: {appliedFilters.ruc}</span>
                         <Icons.X className="w-3 h-3" />
                       </button>
                     )}
@@ -478,37 +464,27 @@ function TurismoPageContent() {
                         onClick={() => removeFilter('dept')}
                         className="inline-flex items-center gap-1 text-xs px-2.5 py-1 rounded-lg bg-sky-50 dark:bg-sky-500/10 text-sky-700 dark:text-sky-300 hover:bg-rose-50 hover:text-rose-600 dark:hover:bg-rose-500/20 dark:hover:text-rose-300 transition-colors"
                       >
-                        <span>{t('turismo.deptFilter')}: {activeDeptName || appliedFilters.dept}</span>
+                        <span>Región: {appliedFilters.dept}</span>
                         <Icons.X className="w-3 h-3" />
                       </button>
                     )}
-                    {appliedFilters.category && (
+                    {appliedFilters.tipo && (
                       <button
                         type="button"
-                        onClick={() => removeFilter('category')}
+                        onClick={() => removeFilter('tipo')}
                         className="inline-flex items-center gap-1 text-xs px-2.5 py-1 rounded-lg bg-emerald-50 dark:bg-emerald-500/10 text-emerald-700 dark:text-emerald-300 hover:bg-rose-50 hover:text-rose-600 dark:hover:bg-rose-500/20 dark:hover:text-rose-300 transition-colors"
                       >
-                        <span>{t('turismo.categoryFilter')}: {cleanLabel(appliedFilters.category)}</span>
+                        <span>Tipo: {appliedFilters.tipo}</span>
                         <Icons.X className="w-3 h-3" />
                       </button>
                     )}
-                    {appliedFilters.activity && (
+                    {appliedFilters.ciiu && (
                       <button
                         type="button"
-                        onClick={() => removeFilter('activity')}
+                        onClick={() => removeFilter('ciiu')}
                         className="inline-flex items-center gap-1 text-xs px-2.5 py-1 rounded-lg bg-amber-50 dark:bg-amber-500/10 text-amber-700 dark:text-amber-300 hover:bg-rose-50 hover:text-rose-600 dark:hover:bg-rose-500/20 dark:hover:text-rose-300 transition-colors"
                       >
-                        <span>{t('turismo.activityFilter')}: {cleanLabel(appliedFilters.activity)}</span>
-                        <Icons.X className="w-3 h-3" />
-                      </button>
-                    )}
-                    {appliedFilters.code && (
-                      <button
-                        type="button"
-                        onClick={() => removeFilter('code')}
-                        className="inline-flex items-center gap-1 text-xs px-2.5 py-1 rounded-lg bg-purple-50 dark:bg-purple-500/10 text-purple-700 dark:text-purple-300 hover:bg-rose-50 hover:text-rose-600 dark:hover:bg-rose-500/20 dark:hover:text-rose-300 transition-colors"
-                      >
-                        <span>{t('turismo.codeFilter')}: #{appliedFilters.code}</span>
+                        <span>CIIU: {appliedFilters.ciiu}</span>
                         <Icons.X className="w-3 h-3" />
                       </button>
                     )}
@@ -520,7 +496,7 @@ function TurismoPageContent() {
                     className="text-xs text-rose-600 dark:text-rose-400 hover:text-rose-700 dark:hover:text-rose-300 flex items-center gap-1.5 font-bold transition-colors cursor-pointer"
                   >
                     <Icons.X className="w-3.5 h-3.5" />
-                    <span>{t('turismo.reset')}</span>
+                    <span>Restablecer</span>
                   </button>
                 </div>
               )}
@@ -530,64 +506,65 @@ function TurismoPageContent() {
       </section>
 
       {/* ========================================================================= */}
-      {/* 2. CATÁLOGO DE RECURSOS - ADAPTABLE DARK / LIGHT MODE */}
+      {/* 2. CATÁLOGO DE EMPRESAS - ADAPTABLE DARK / LIGHT MODE */}
       {/* ========================================================================= */}
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mt-10">
-        {/* Banner Display Responsivo (728x90 en desktop, 320x50 en móvil) */}
+        {/* Banner Display Responsivo */}
         <ResponsiveLeaderboard className="mb-8" />
 
-        <section id="listado-atractivos">
+        <section id="listado-empresas">
           {/* Header de resultados */}
           <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 pb-5 border-b border-slate-200 dark:border-slate-800 mb-8">
             <div>
               <span className="text-xs font-mono font-semibold uppercase tracking-wider text-sky-600 dark:text-sky-400 flex items-center gap-1.5 mb-1">
-                <Icons.Compass className="w-4 h-4" />
-                <span>{t('turismo.sectionBadge')}</span>
+                <Icons.Building className="w-4 h-4" />
+                <span>Registro Oficial de Contribuyentes</span>
               </span>
               <h2 className="text-2xl sm:text-3xl font-bold text-slate-900 dark:text-white tracking-tight">
                 {appliedFilters.dept
-                  ? `${t('turismo.resourcesIn')} ${activeDeptName || 'Región'}`
-                  : appliedFilters.code
-                  ? `${t('turismo.codeSearch')} #${appliedFilters.code}`
+                  ? `Empresas en ${appliedFilters.dept}`
+                  : appliedFilters.ruc
+                  ? `Búsqueda RUC #${appliedFilters.ruc}`
                   : appliedFilters.search
-                  ? `${t('turismo.resultsFor')} "${appliedFilters.search}"`
-                  : t('turismo.allResources')}
+                  ? `Resultados para "${appliedFilters.search}"`
+                  : 'Todas las Empresas'}
               </h2>
             </div>
 
             <div className="flex items-center gap-3 self-start sm:self-auto">
               <span className="text-xs font-mono font-semibold px-3 py-1.5 rounded-lg bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 text-slate-700 dark:text-slate-300 shadow-sm">
-                {total.toLocaleString()} {t('turismo.foundCount')}
+                {total.toLocaleString()} empresas encontradas
               </span>
               {hasActiveFilters && (
                 <button
+                  type="button"
                   onClick={handleClearFilters}
                   className="text-xs font-semibold text-rose-600 dark:text-rose-400 hover:text-rose-700 bg-rose-50 dark:bg-rose-500/10 border border-rose-200 dark:border-rose-500/30 px-3 py-1.5 rounded-lg transition-colors flex items-center gap-1 cursor-pointer"
                 >
                   <Icons.X className="w-3.5 h-3.5" />
-                  <span>{t('turismo.reset')}</span>
+                  <span>Restablecer</span>
                 </button>
               )}
             </div>
           </div>
 
-          {/* Grilla de Recursos */}
+          {/* Grilla de Empresas con EmpresaCard */}
           {loading ? (
             <div className="py-24 flex flex-col items-center justify-center gap-4">
               <div className="w-12 h-12 border-3 border-sky-500 border-t-transparent rounded-full animate-spin" />
               <p className="text-xs font-semibold text-slate-500 dark:text-slate-400 tracking-wider">
-                {t('turismo.loading')}
+                Cargando directorio de empresas...
               </p>
             </div>
-          ) : resources.length > 0 ? (
+          ) : empresas.length > 0 ? (
             <>
               <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
-                {resources.map((resource) => (
-                  <ResourceCard key={resource.codigo} resource={resource} />
+                {empresas.map((empresa) => (
+                  <EmpresaCard key={empresa.ruc} empresa={empresa} />
                 ))}
               </div>
 
-              {/* Paginación */}
+              {/* Paginación existente idéntica a turismo */}
               <Pagination
                 currentPage={page}
                 totalPages={totalPages}
@@ -595,29 +572,30 @@ function TurismoPageContent() {
                 pageSize={12}
                 onPageChange={(newPage) => {
                   setPage(newPage);
-                  const el = document.getElementById('listado-atractivos');
+                  const el = document.getElementById('listado-empresas');
                   if (el) el.scrollIntoView({ behavior: 'smooth' });
                 }}
               />
 
-              {/* Anuncio Nativo Adsterra no intrusivo (después de la paginación) */}
+              {/* Anuncio Nativo Adsterra después de la paginación */}
               <AdsterraNativeBanner className="mt-8" />
             </>
           ) : (
             <div className="text-center py-20 bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-xl p-8 shadow-sm">
-              <Icons.Compass className="w-12 h-12 text-slate-400 mx-auto mb-3" />
+              <Icons.Building className="w-12 h-12 text-slate-400 mx-auto mb-3" />
               <h3 className="text-lg font-bold text-slate-900 dark:text-white mb-1">
-                {t('turismo.noResults')}
+                No se encontraron empresas coincidentes
               </h3>
               <p className="text-xs text-slate-500 dark:text-slate-400 max-w-md mx-auto mb-6">
-                {t('turismo.noResultsDesc')}
+                Intenta ajustando el RUC, la razón social o quitando algunos de los filtros seleccionados.
               </p>
               <button
+                type="button"
                 onClick={handleClearFilters}
                 className="inline-flex items-center gap-2 px-5 py-2.5 rounded-lg bg-sky-600 hover:bg-sky-500 text-white font-semibold text-xs transition-colors cursor-pointer shadow-sm"
               >
                 <Icons.X className="w-4 h-4" />
-                <span>{t('turismo.reset')}</span>
+                <span>Restablecer filtros</span>
               </button>
             </div>
           )}
@@ -627,7 +605,7 @@ function TurismoPageContent() {
   );
 }
 
-export default function TurismoPage() {
+export default function EmpresasPage() {
   return (
     <Suspense
       fallback={
@@ -636,7 +614,7 @@ export default function TurismoPage() {
         </div>
       }
     >
-      <TurismoPageContent />
+      <EmpresasPageContent />
     </Suspense>
   );
 }

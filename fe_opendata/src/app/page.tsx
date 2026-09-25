@@ -469,7 +469,7 @@ export default function HomePage() {
 
           {/* Banner Leaderboard Responsivo dentro de la sección azul / Hero */}
           <div className="mt-6 flex justify-center w-full">
-            <ResponsiveLeaderboard darkVariant={true} />
+            <ResponsiveLeaderboard />
           </div>
         </div>
       </section>
@@ -527,7 +527,7 @@ export default function HomePage() {
       </section>
 
       {/* Banner Nativo de Publicidad Adsterra */}
-      <AdsterraNativeBanner label="Destinos y Servicios Patrocinados" />
+      <AdsterraNativeBanner />
 
       {/* ========================================================================= */}
       {/* 3. GEOPORTAL NACIONAL: OPENSTREETMAP + INSPECTOR TÉCNICO */}
