@@ -89,6 +89,16 @@ export default function HomePage() {
   // Recurso seleccionado para el mapa
   const [selectedMapResource, setSelectedMapResource] = useState<ResourceItem | null>(null);
 
+  // Estado para botón de copiar enlace al compartir
+  const [copiedShare, setCopiedShare] = useState<boolean>(false);
+  const handleCopyShare = () => {
+    if (typeof window !== 'undefined') {
+      navigator.clipboard.writeText(window.location.origin);
+      setCopiedShare(true);
+      setTimeout(() => setCopiedShare(false), 2000);
+    }
+  };
+
   // =========================================================================
   // 1. CARGA DINÁMICA DE METADATA (DEPARTAMENTOS, CATEGORÍAS, ACTIVIDADES)
   // =========================================================================
@@ -475,6 +485,84 @@ export default function HomePage() {
       </section>
 
       {/* ========================================================================= */}
+      {/* BARRA DE COMPARTIR Y DIFUSIÓN EN REDES SOCIALES */}
+      {/* ========================================================================= */}
+      <section className="border-b border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-900/60 py-3.5 px-4 sm:px-6 lg:px-8">
+        <div className="max-w-7xl mx-auto flex flex-wrap items-center justify-between gap-3 text-xs">
+          <div className="flex items-center gap-2 text-slate-600 dark:text-slate-400 font-medium">
+            <Icons.Share className="w-4 h-4 text-sky-600 dark:text-sky-400" />
+            <span className="font-semibold text-slate-900 dark:text-white">Compartir plataforma:</span>
+            <span className="hidden sm:inline text-slate-500">Difunde los datos abiertos oficiales del Perú</span>
+          </div>
+
+          <div className="flex items-center gap-2">
+            <a
+              href="https://api.whatsapp.com/send?text=Descubre%20los%20recursos%20tur%C3%ADsticos%20y%20empresas%20del%20Per%C3%BA%20en%20OpenData%20Per%C3%BA%3A%20https%3A%2F%2Fopendata.pukio.lat"
+              target="_blank"
+              rel="noopener noreferrer"
+              aria-label="Compartir en WhatsApp"
+              className="inline-flex items-center gap-1.5 px-2.5 py-1.5 rounded-lg bg-emerald-50 dark:bg-emerald-950/60 border border-emerald-200 dark:border-emerald-800 text-emerald-700 dark:text-emerald-300 hover:bg-emerald-100 transition-colors font-semibold"
+            >
+              <Icons.WhatsApp className="w-3.5 h-3.5 text-emerald-600" />
+              <span className="hidden md:inline">WhatsApp</span>
+            </a>
+
+            <a
+              href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fopendata.pukio.lat&text=Descubre%20los%20recursos%20tur%C3%ADsticos%20y%20empresas%20del%20Per%C3%BA%20en%20OpenData%20Per%C3%BA"
+              target="_blank"
+              rel="noopener noreferrer"
+              aria-label="Compartir en X (Twitter)"
+              className="inline-flex items-center gap-1.5 px-2.5 py-1.5 rounded-lg bg-slate-100 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 text-slate-700 dark:text-slate-300 hover:bg-slate-200 dark:hover:bg-slate-700 transition-colors font-semibold"
+            >
+              <Icons.Twitter className="w-3.5 h-3.5" />
+              <span className="hidden md:inline">X (Twitter)</span>
+            </a>
+
+            <a
+              href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fopendata.pukio.lat"
+              target="_blank"
+              rel="noopener noreferrer"
+              aria-label="Compartir en LinkedIn"
+              className="inline-flex items-center gap-1.5 px-2.5 py-1.5 rounded-lg bg-sky-50 dark:bg-sky-950/60 border border-sky-200 dark:border-sky-800 text-sky-700 dark:text-sky-300 hover:bg-sky-100 transition-colors font-semibold"
+            >
+              <Icons.LinkedIn className="w-3.5 h-3.5 text-[#0A66C2]" />
+              <span className="hidden md:inline">LinkedIn</span>
+            </a>
+
+            <a
+              href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fopendata.pukio.lat"
+              target="_blank"
+              rel="noopener noreferrer"
+              aria-label="Compartir en Facebook"
+              className="inline-flex items-center gap-1.5 px-2.5 py-1.5 rounded-lg bg-blue-50 dark:bg-blue-950/60 border border-blue-200 dark:border-blue-800 text-blue-700 dark:text-blue-300 hover:bg-blue-100 transition-colors font-semibold"
+            >
+              <Icons.Facebook className="w-3.5 h-3.5 text-blue-600" />
+              <span className="hidden md:inline">Facebook</span>
+            </a>
+
+            <button
+              type="button"
+              onClick={handleCopyShare}
+              aria-label="Copiar enlace de OpenData Perú"
+              className="inline-flex items-center gap-1.5 px-2.5 py-1.5 rounded-lg bg-slate-50 dark:bg-slate-900 border border-slate-200 dark:border-slate-800 text-slate-700 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-800 transition-colors font-semibold cursor-pointer"
+            >
+              {copiedShare ? (
+                <>
+                  <Icons.Check className="w-3.5 h-3.5 text-emerald-500" />
+                  <span className="text-emerald-600 dark:text-emerald-400">¡Copiado!</span>
+                </>
+              ) : (
+                <>
+                  <Icons.Copy className="w-3.5 h-3.5 text-slate-400" />
+                  <span className="hidden sm:inline">Copiar Enlace</span>
+                </>
+              )}
+            </button>
+          </div>
+        </div>
+      </section>
+
+      {/* ========================================================================= */}
       {/* 2. CATÁLOGO DE REGISTROS DESTACADOS */}
       {/* ========================================================================= */}
       <section className="py-16 px-4 sm:px-6 lg:px-8 max-w-7xl mx-auto">
@@ -717,6 +805,117 @@ export default function HomePage() {
               <Icons.Navigation className="w-4 h-4 text-sky-500" />
               <span>{t('home.viewGeoportal')}</span>
             </Link>
+          </div>
+        </div>
+      </section>
+
+      {/* ========================================================================= */}
+      {/* 5. INFORMACIÓN OFICIAL DE RECURSOS TURÍSTICOS Y EMPRESAS DEL PERÚ */}
+      {/* ========================================================================= */}
+      <section className="py-16 px-4 sm:px-6 lg:px-8 max-w-7xl mx-auto border-t border-slate-200 dark:border-slate-800">
+        <div className="max-w-3xl mb-12">
+          <div className="flex items-center gap-2 text-xs font-mono font-semibold text-sky-600 dark:text-sky-400 uppercase tracking-wider mb-2">
+            <Icons.ShieldCheck className="w-4 h-4" />
+            <span>Portal Oficial de Datos Abiertos</span>
+          </div>
+          <h2 className="text-2xl sm:text-3xl font-bold text-slate-900 dark:text-white tracking-tight">
+            Descubre los Recursos Turísticos y Empresas del Perú
+          </h2>
+          <p className="mt-3 text-xs sm:text-sm text-slate-600 dark:text-slate-400 leading-relaxed">
+            OpenData Perú es la plataforma libre de consulta ciudadana y análisis técnico que centraliza los datos abiertos del patrimonio turístico nacional y el ecosistema empresarial formal del Perú. Diseñado para investigadores, estudiantes, turistas, inversionistas y ciudadanos que requieren datos verificados sin barreras de acceso.
+          </p>
+        </div>
+
+        {/* 3 Bloques Temáticos de Contenido Enriquecido */}
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-12">
+          <div className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-2xl p-6 shadow-sm space-y-3">
+            <div className="w-10 h-10 rounded-xl bg-sky-50 dark:bg-sky-950/70 border border-sky-200 dark:border-sky-800 flex items-center justify-center text-sky-600 dark:text-sky-400">
+              <Icons.Compass className="w-5 h-5" />
+            </div>
+            <h3 className="text-base font-bold text-slate-900 dark:text-white">
+              Inventario Turístico Nacional
+            </h3>
+            <p className="text-xs text-slate-600 dark:text-slate-400 leading-relaxed">
+              Consulta más de 4,800 recursos turísticos del Perú registrados oficialmente ante el MINCETUR. Incluye sitios arqueológicos milenarios, reservas y santuarios naturales, festividades folclóricas, gastronomía tradicional y obras artísticas contemporáneas distribuidas en las 25 regiones del país, con descripciones técnicas, galerías fotográficas y rutas de acceso terrestre, aéreo y fluvial.
+            </p>
+          </div>
+
+          <div className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-2xl p-6 shadow-sm space-y-3">
+            <div className="w-10 h-10 rounded-xl bg-emerald-50 dark:bg-emerald-950/70 border border-emerald-200 dark:border-emerald-800 flex items-center justify-center text-emerald-600 dark:text-emerald-400">
+              <Icons.Building className="w-5 h-5" />
+            </div>
+            <h3 className="text-base font-bold text-slate-900 dark:text-white">
+              Directorio Empresarial SUNAT
+            </h3>
+            <p className="text-xs text-slate-600 dark:text-slate-400 leading-relaxed">
+              Accede al directorio público de más de 32,100 empresas peruanas formalmente inscritas ante la SUNAT. Verifica al instante la razón social, número de RUC de 11 dígitos, estado del contribuyente (activo o baja), condición de domicilio fiscal (habido o no habido), tipo societario y actividad económica según la Clasificación Industrial Internacional Uniforme (CIIU Rev. 4).
+            </p>
+          </div>
+
+          <div className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-2xl p-6 shadow-sm space-y-3">
+            <div className="w-10 h-10 rounded-xl bg-indigo-50 dark:bg-indigo-950/70 border border-indigo-200 dark:border-indigo-800 flex items-center justify-center text-indigo-600 dark:text-indigo-400">
+              <Icons.MapPin className="w-5 h-5" />
+            </div>
+            <h3 className="text-base font-bold text-slate-900 dark:text-white">
+              Geoportal Espacial Interactivo
+            </h3>
+            <p className="text-xs text-slate-600 dark:text-slate-400 leading-relaxed">
+              Explora la infraestructura de datos espaciales con coordenadas geodésicas de precisión en el sistema WGS-84 (EPSG:4326). Los datos están abiertos en formatos interoperables (JSON y GeoJSON) bajo licenciamiento Creative Commons para su reutilización responsable en proyectos académicos, aplicaciones móviles y análisis geoespacial del territorio peruano.
+            </p>
+          </div>
+        </div>
+
+        {/* Guía Rápida y Preguntas Frecuentes (FAQ) */}
+        <div className="bg-slate-100/70 dark:bg-slate-900/60 border border-slate-200 dark:border-slate-800 rounded-2xl p-6 sm:p-8 space-y-6">
+          <div className="border-b border-slate-200 dark:border-slate-800 pb-4">
+            <h3 className="text-lg font-bold text-slate-900 dark:text-white">
+              Preguntas Frecuentes sobre la Plataforma
+            </h3>
+            <p className="text-xs text-slate-500 dark:text-slate-400 mt-0.5">
+              Respuestas directas sobre la procedencia de los datos, actualización y modalidades de consulta.
+            </p>
+          </div>
+
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs leading-relaxed">
+            <div className="space-y-1.5">
+              <h4 className="font-bold text-slate-900 dark:text-slate-100 flex items-center gap-1.5">
+                <span className="w-1.5 h-1.5 rounded-full bg-sky-500" />
+                <span>¿De dónde provienen los datos publicados en OpenData Perú?</span>
+              </h4>
+              <p className="text-slate-600 dark:text-slate-400 pl-3">
+                Los datos turísticos provienen de las fichas oficiales del Inventario Nacional de Recursos Turísticos del MINCETUR, mientras que la información corporativa se alimenta de los registros públicos tributarios de la SUNAT y el Instituto Nacional de Estadística e Informática (INEI).
+              </p>
+            </div>
+
+            <div className="space-y-1.5">
+              <h4 className="font-bold text-slate-900 dark:text-slate-100 flex items-center gap-1.5">
+                <span className="w-1.5 h-1.5 rounded-full bg-sky-500" />
+                <span>¿Cómo puedo buscar información por región o código RUC?</span>
+              </h4>
+              <p className="text-slate-600 dark:text-slate-400 pl-3">
+                Puedes utilizar la barra de búsqueda universal en la cabecera para ingresar un código RUC de 11 dígitos, nombre de empresa o atractivo turístico. También puedes navegar por los 25 departamentos del Perú utilizando los selectores y mapas interactivos.
+              </p>
+            </div>
+
+            <div className="space-y-1.5">
+              <h4 className="font-bold text-slate-900 dark:text-slate-100 flex items-center gap-1.5">
+                <span className="w-1.5 h-1.5 rounded-full bg-sky-500" />
+                <span>¿Es necesario registrarse o pagar para consultar los datos?</span>
+              </h4>
+              <p className="text-slate-600 dark:text-slate-400 pl-3">
+                No. El acceso a OpenData Perú es 100% gratuito, anónimo y público. No se requiere crear cuenta, no recopilamos datos personales sensibles y fomentamos el uso de datos abiertos para el desarrollo nacional.
+              </p>
+            </div>
+
+            <div className="space-y-1.5">
+              <h4 className="font-bold text-slate-900 dark:text-slate-100 flex items-center gap-1.5">
+                <span className="w-1.5 h-1.5 rounded-full bg-sky-500" />
+                <span>¿Cómo citar o reutilizar los datos en investigaciones?</span>
+              </h4>
+              <p className="text-slate-600 dark:text-slate-400 pl-3">
+                La información se distribuye bajo el estándar de datos abiertos CC-BY. Se recomienda citar a OpenData Perú y las fuentes primarias institucionales (MINCETUR / SUNAT) en informes, publicaciones académicas o herramientas tecnológicas.
+              </p>
+            </div>
           </div>
         </div>
       </section>

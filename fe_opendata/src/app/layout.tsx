@@ -21,11 +21,11 @@ const GA_MEASUREMENT_ID = process.env.NEXT_PUBLIC_GA_ID || 'G-PMQVEQGWG5';
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
   title: {
-    default: 'OpenData Perú | Plataforma Nacional de Datos Abiertos de Turismo',
+    default: 'OpenData Perú | Datos Abiertos de Turismo y Empresas',
     template: '%s | OpenData Perú',
   },
   description:
-    'Explora y consulta de manera dinámica los recursos, atractivos y actividades turísticas de los 25 departamentos del Perú mediante la plataforma nacional de datos abiertos.',
+    'Consulta datos abiertos de recursos turísticos y empresas del Perú. Información oficial, mapas y fichas técnicas de los 25 departamentos.',
   applicationName: 'OpenData Perú',
   icons: {
     icon: [
@@ -44,11 +44,13 @@ export const metadata: Metadata = {
     'OpenData Perú',
     'datos abiertos turismo',
     'turismo Perú',
+    'recursos turísticos del Perú',
+    'empresas peruanas',
+    'consulta RUC SUNAT',
+    'directorio empresarial Perú',
     'inventario nacional de recursos turísticos',
     'atractivos turísticos',
-    'destinos Perú',
     'mapa turístico Perú',
-    'turismo vivencial',
     'patrimonio cultural',
   ],
   authors: [{ name: 'OpenData Perú' }],
@@ -70,9 +72,9 @@ export const metadata: Metadata = {
     locale: 'es_PE',
     url: SITE_URL,
     siteName: 'OpenData Perú',
-    title: 'OpenData Perú | Plataforma Nacional de Datos Abiertos de Turismo',
+    title: 'OpenData Perú | Datos Abiertos de Turismo y Empresas',
     description:
-      'Explora y consulta recursos y atractivos turísticos oficiales del Perú con georreferenciación, fotos y fichas técnicas oficiales.',
+      'Consulta datos abiertos de recursos turísticos y empresas del Perú con georreferenciación, mapas y fichas técnicas oficiales.',
     images: [
       {
         url: `${SITE_URL}/logo.png`,
@@ -84,9 +86,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'OpenData Perú | Plataforma Nacional de Datos Abiertos de Turismo',
+    title: 'OpenData Perú | Datos Abiertos de Turismo y Empresas',
     description:
-      'Explora y consulta recursos y atractivos turísticos oficiales del Perú con georreferenciación, fotos y fichas técnicas oficiales.',
+      'Consulta datos abiertos de recursos turísticos y empresas del Perú con georreferenciación, mapas y fichas técnicas oficiales.',
     images: [`${SITE_URL}/logo.png`],
   },
   alternates: {
