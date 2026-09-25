@@ -6,9 +6,12 @@ import dynamic from 'next/dynamic';
 import { Icons } from '../components/Icons';
 import { useLanguage } from '../context/LanguageContext';
 import { CustomSelect, SelectOption } from '../components/CustomSelect';
+import { ResourceCard } from '../components/ResourceCard';
 import { apiService, getPhotoUrl } from '../services/api';
 import { DepartmentItem, CategoryItem, ActivityItem, ResourceItem } from '../types/mincetur';
 import { createResourceSlug } from '../utils/slug';
+import { translateMinceturText, formatResourceCardDescription } from '../utils/minceturTranslate';
+import { DynamicText } from '../utils/dynamicTranslate';
 
 const OpenStreetMap = dynamic(
   () => import('../components/OpenStreetMap').then((mod) => mod.OpenStreetMap),
@@ -52,7 +55,7 @@ const FALLBACK_CARD_BG =
 
 export default function HomePage() {
   const router = useTransitionRouter();
-  const { t } = useLanguage();
+  const { language, t } = useLanguage();
 
   // Datos dinámicos cargados 100% desde la API
   const [departments, setDepartments] = useState<DepartmentItem[]>([]);
@@ -168,25 +171,25 @@ export default function HomePage() {
   // Opciones de Departamentos formateadas para Selects
   const departmentOptions: SelectOption[] = useMemo(() => {
     return [
-      { value: '', label: `Todas las regiones (${departments.length})`, badge: 'Perú' },
+      { value: '', label: `${t('turismo.allRegions')} (${departments.length})`, badge: 'Perú' },
       ...departments.map((d) => ({
         value: d.iddpto,
         label: cleanLabel(d.departamento),
         sublabel: `Ubigeo ${d.iddpto}`,
       })),
     ];
-  }, [departments]);
+  }, [departments, t]);
 
   // Opciones de Categorías formateadas para Selects
   const categoryOptions: SelectOption[] = useMemo(() => {
     return [
-      { value: '', label: `Todas las categorías (${categories.length})` },
+      { value: '', label: `${t('turismo.allCategories')} (${categories.length})` },
       ...categories.map((c) => ({
         value: String(c.atrac_categ),
-        label: cleanLabel(c.categoria),
+        label: translateMinceturText(c.categoria, language),
       })),
     ];
-  }, [categories]);
+  }, [categories, language, t]);
 
   // Rotación suave del slider del Hero cada 6 segundos
   useEffect(() => {
@@ -268,9 +271,9 @@ export default function HomePage() {
         <div className="relative z-10 max-w-7xl mx-auto w-full flex items-center justify-between gap-4">
           <div className="inline-flex items-center gap-2 px-3 py-1.5 rounded-lg bg-slate-900/90 border border-slate-700/80 text-[11px] font-mono text-slate-300 backdrop-blur-md shadow-sm">
             <span className="w-2 h-2 rounded-full bg-emerald-400 animate-pulse" />
-            <span className="font-semibold text-slate-100">PORTAL DE DATOS ABIERTOS</span>
+            <span className="font-semibold text-slate-100">{t('hero.portalOpenData')}</span>
             <span className="text-slate-500">•</span>
-            <span className="text-sky-400 font-semibold">REPÚBLICA DEL PERÚ</span>
+            <span className="text-sky-400 font-semibold">{t('hero.republicPeru')}</span>
           </div>
 
           {activeHeroItem && (
@@ -280,7 +283,7 @@ export default function HomePage() {
               <span className="text-slate-500">|</span>
               <span className="text-slate-400">{cleanLabel(activeHeroItem.desdpto)}</span>
               <span className="text-[10px] text-amber-400 font-bold px-1.5 py-0.5 rounded bg-slate-950 border border-slate-800">
-                Ficha #{activeHeroItem.codigo}
+                {t('card.recordNum')} #{activeHeroItem.codigo}
               </span>
             </div>
           )}
@@ -289,12 +292,14 @@ export default function HomePage() {
         {/* Titular Principal & Consola de Búsqueda de Datos */}
         <div className="relative z-10 max-w-6xl mx-auto text-center my-auto py-8 w-full">
           <h1 className="text-3xl sm:text-5xl md:text-6xl font-extrabold tracking-tight text-white leading-tight">
-            Catálogo Nacional de Recursos <br />
-            <span className="text-sky-400">Turísticos del Perú</span>
+            {t('hero.title1')}{' '}
+            <span className="text-transparent bg-clip-text bg-gradient-to-r from-sky-400 via-sky-300 to-sky-500">
+              {t('hero.titlePeru')}
+            </span>
           </h1>
 
           <p className="mt-4 text-sm sm:text-base md:text-lg text-slate-200 font-normal max-w-3xl mx-auto leading-relaxed">
-            Plataforma de consulta unificada, análisis geoespacial y descarga de registros oficiales del patrimonio y atractivos turísticos del país.
+            {t('hero.subtitle')}
           </p>
 
           {/* Consola Técnica de Búsqueda y Filtros de Entrada */}
@@ -308,7 +313,7 @@ export default function HomePage() {
                     type="text"
                     value={heroSearch}
                     onChange={(e) => setHeroSearch(e.target.value)}
-                    placeholder="Buscar por recurso, palabra clave, ubigeo..."
+                    placeholder={t('turismo.searchPlaceholder')}
                     className="w-full bg-slate-50 dark:bg-slate-950 border border-slate-200 dark:border-slate-700 rounded-lg pl-9 pr-3 py-2 text-xs sm:text-sm text-slate-900 dark:text-white placeholder-slate-400 focus:outline-none focus:border-sky-500 focus:ring-1 focus:ring-sky-500 font-sans transition-colors"
                   />
                 </div>
@@ -321,7 +326,7 @@ export default function HomePage() {
                     value={heroDept}
                     onChange={setHeroDept}
                     options={departmentOptions}
-                    placeholder="Todas las regiones"
+                    placeholder={t('turismo.allRegions')}
                     searchable
                     variant="default"
                     buttonClassName="bg-slate-50 dark:bg-slate-950 border border-slate-200 dark:border-slate-700 px-3 py-2 rounded-lg text-slate-900 dark:text-white hover:border-sky-500/50 flex items-center justify-between text-xs sm:text-sm transition-colors"
@@ -336,7 +341,7 @@ export default function HomePage() {
                     value={heroCategory}
                     onChange={setHeroCategory}
                     options={categoryOptions}
-                    placeholder="Todas las categorías"
+                    placeholder={t('turismo.allCategories')}
                     searchable
                     variant="default"
                     buttonClassName="bg-slate-50 dark:bg-slate-950 border border-slate-200 dark:border-slate-700 px-3 py-2 rounded-lg text-slate-900 dark:text-white hover:border-sky-500/50 flex items-center justify-between text-xs sm:text-sm transition-colors"
@@ -350,34 +355,34 @@ export default function HomePage() {
                     className="w-full py-2 sm:py-2.5 px-4 rounded-lg bg-sky-600 hover:bg-sky-500 text-white font-semibold text-xs sm:text-sm transition-colors flex items-center justify-center gap-2 cursor-pointer shadow-sm whitespace-nowrap"
                   >
                     <Icons.Search className="w-4 h-4" />
-                    <span>Consultar</span>
+                    <span>{t('turismo.btnSearch')}</span>
                   </button>
                 </div>
               </div>
 
               {/* Atajos de búsqueda rápida institucional */}
               <div className="flex flex-wrap items-center gap-2 pt-2 border-t border-slate-200 dark:border-slate-800/80 text-[11px] text-slate-500 dark:text-slate-400">
-                <span className="font-mono text-slate-500 uppercase">Consultas frecuentes:</span>
+                <span className="font-mono text-slate-500 uppercase">{t('search.popular')}</span>
                 <button
                   type="button"
                   onClick={() => router.push('/turismo?category=1')}
                   className="px-2 py-0.5 rounded bg-slate-100 dark:bg-slate-950 border border-slate-200 dark:border-slate-800 text-slate-700 dark:text-slate-300 hover:text-sky-600 dark:hover:text-sky-400 hover:border-sky-500/50 transition-colors"
                 >
-                  Sitios Naturales
+                  {t('hero.catNatural')}
                 </button>
                 <button
                   type="button"
                   onClick={() => router.push('/turismo?category=2')}
                   className="px-2 py-0.5 rounded bg-slate-100 dark:bg-slate-950 border border-slate-200 dark:border-slate-800 text-slate-700 dark:text-slate-300 hover:text-sky-600 dark:hover:text-sky-400 hover:border-sky-500/50 transition-colors"
                 >
-                  Manifestaciones Culturales
+                  {t('hero.catCultural')}
                 </button>
                 <button
                   type="button"
                   onClick={() => router.push('/turismo?category=3')}
                   className="px-2 py-0.5 rounded bg-slate-100 dark:bg-slate-950 border border-slate-200 dark:border-slate-800 text-slate-700 dark:text-slate-300 hover:text-sky-600 dark:hover:text-sky-400 hover:border-sky-500/50 transition-colors"
                 >
-                  Folclore
+                  {t('hero.catFolklore')}
                 </button>
                 <button
                   type="button"
@@ -408,7 +413,7 @@ export default function HomePage() {
           <div className="grid grid-cols-2 md:grid-cols-4 gap-3 sm:gap-4 max-w-6xl mx-auto mt-6 text-left">
             <div className="bg-white/95 dark:bg-slate-900/90 border border-slate-200 dark:border-slate-800 rounded-xl p-4 shadow-sm dark:shadow-none flex flex-col justify-between transition-colors">
               <div className="flex items-center justify-between text-slate-500 dark:text-slate-400 mb-1.5">
-                <span className="text-[10px] font-mono uppercase tracking-wider font-semibold">Total Recursos</span>
+                <span className="text-[10px] font-mono uppercase tracking-wider font-semibold">{t('home.totalResources')}</span>
                 <Icons.Database className="w-3.5 h-3.5 text-sky-600 dark:text-sky-400" />
               </div>
               <div className="text-2xl sm:text-3xl font-mono font-bold text-slate-900 dark:text-white tracking-tight">
@@ -416,46 +421,46 @@ export default function HomePage() {
               </div>
               <div className="text-[11px] text-slate-500 dark:text-slate-400 mt-1 flex items-center gap-1.5">
                 <span className="w-1.5 h-1.5 rounded-full bg-emerald-500" />
-                <span>Inventario Nacional</span>
+                <span>{t('home.inventoryNational')}</span>
               </div>
             </div>
 
             <div className="bg-white/95 dark:bg-slate-900/90 border border-slate-200 dark:border-slate-800 rounded-xl p-4 shadow-sm dark:shadow-none flex flex-col justify-between transition-colors">
               <div className="flex items-center justify-between text-slate-500 dark:text-slate-400 mb-1.5">
-                <span className="text-[10px] font-mono uppercase tracking-wider font-semibold">Sitios Naturales</span>
+                <span className="text-[10px] font-mono uppercase tracking-wider font-semibold">{t('home.naturalSites')}</span>
                 <Icons.Compass className="w-3.5 h-3.5 text-emerald-600 dark:text-emerald-400" />
               </div>
               <div className="text-2xl sm:text-3xl font-mono font-bold text-slate-900 dark:text-white tracking-tight">
                 {naturalCount > 0 ? naturalCount.toLocaleString() : '1,080'}
               </div>
               <div className="text-[11px] text-slate-500 dark:text-slate-400 mt-1">
-                <span>Categoría 1 (Natural)</span>
+                <span>{t('home.cat1Natural')}</span>
               </div>
             </div>
 
             <div className="bg-white/95 dark:bg-slate-900/90 border border-slate-200 dark:border-slate-800 rounded-xl p-4 shadow-sm dark:shadow-none flex flex-col justify-between transition-colors">
               <div className="flex items-center justify-between text-slate-500 dark:text-slate-400 mb-1.5">
-                <span className="text-[10px] font-mono uppercase tracking-wider font-semibold">Patrimonio Cultural</span>
+                <span className="text-[10px] font-mono uppercase tracking-wider font-semibold">{t('home.culturalHeritage')}</span>
                 <Icons.Layers className="w-3.5 h-3.5 text-amber-600 dark:text-amber-400" />
               </div>
               <div className="text-2xl sm:text-3xl font-mono font-bold text-slate-900 dark:text-white tracking-tight">
                 {culturalCount > 0 ? culturalCount.toLocaleString() : '840'}
               </div>
               <div className="text-[11px] text-slate-500 dark:text-slate-400 mt-1">
-                <span>Categoría 2 (Cultural)</span>
+                <span>{t('home.cat2Cultural')}</span>
               </div>
             </div>
 
             <div className="bg-white/95 dark:bg-slate-900/90 border border-slate-200 dark:border-slate-800 rounded-xl p-4 shadow-sm dark:shadow-none flex flex-col justify-between transition-colors">
               <div className="flex items-center justify-between text-slate-500 dark:text-slate-400 mb-1.5">
-                <span className="text-[10px] font-mono uppercase tracking-wider font-semibold">Folclore & Tradiciones</span>
+                <span className="text-[10px] font-mono uppercase tracking-wider font-semibold">{t('home.folkloreTraditions')}</span>
                 <Icons.Sliders className="w-3.5 h-3.5 text-blue-600 dark:text-blue-400" />
               </div>
               <div className="text-2xl sm:text-3xl font-mono font-bold text-slate-900 dark:text-white tracking-tight">
                 {folkloreCount > 0 ? folkloreCount.toLocaleString() : '240'}
               </div>
               <div className="text-[11px] text-slate-500 dark:text-slate-400 mt-1">
-                <span>Categoría 3 (Folclore)</span>
+                <span>{t('home.cat3Folklore')}</span>
               </div>
             </div>
           </div>
@@ -470,13 +475,13 @@ export default function HomePage() {
           <div>
             <div className="flex items-center gap-2 text-xs font-mono font-semibold text-sky-600 dark:text-sky-400 uppercase tracking-wider mb-1.5">
               <Icons.Compass className="w-4 h-4" />
-              <span>Inventario Nacional • Registros Seleccionados</span>
+              <span>{t('home.featuredBadge')}</span>
             </div>
             <h2 className="text-2xl sm:text-3xl font-bold text-slate-900 dark:text-white tracking-tight">
-              Recursos Turísticos Destacados
+              {t('home.featuredTitle')}
             </h2>
             <p className="text-xs sm:text-sm text-slate-500 dark:text-slate-400 mt-1">
-              Fichas técnicas oficiales georreferenciadas con metadatos descriptivos y de ubicación.
+              {t('home.featuredSubtitle')}
             </p>
           </div>
 
@@ -484,7 +489,7 @@ export default function HomePage() {
             href="/turismo"
             className="inline-flex items-center gap-2 px-4 py-2 rounded-lg bg-white dark:bg-slate-900 hover:bg-slate-100 dark:hover:bg-slate-800 border border-slate-200 dark:border-slate-700 text-xs font-semibold text-slate-700 dark:text-slate-200 hover:text-slate-900 dark:hover:text-white transition-colors self-start sm:self-auto shrink-0 shadow-sm"
           >
-            <span>Ver Catálogo Completo</span>
+            <span>{t('home.viewAllCatalog')}</span>
             <Icons.ArrowRight className="w-3.5 h-3.5 text-sky-500" />
           </Link>
         </div>
@@ -507,88 +512,9 @@ export default function HomePage() {
           </div>
         ) : (
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-            {featuredResources.map((item) => {
-              const photo = item.imagen || item.foto_url || getPhotoUrl(item.codigo);
-              const slug = createResourceSlug(item.nombre, item.codigo);
-
-              return (
-                <div
-                  key={item.codigo}
-                  className="rounded-xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 hover:border-sky-500/50 dark:hover:border-slate-700 overflow-hidden flex flex-col justify-between transition-all duration-200 shadow-sm dark:shadow-none group"
-                >
-                  {/* Foto Oficial con Link directo al detalle */}
-                  <Link
-                    href={`/turismo/${slug}`}
-                    className="relative h-52 w-full overflow-hidden bg-slate-950 block cursor-pointer"
-                  >
-                    <img
-                      src={photo}
-                      alt={item.nombre}
-                      loading="lazy"
-                      decoding="async"
-                      onError={(e) => {
-                        e.currentTarget.src = FALLBACK_CARD_BG;
-                      }}
-                      className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
-                    />
-                    <div className="absolute inset-0 bg-gradient-to-t from-slate-950 via-slate-950/20 to-transparent opacity-80" />
-
-                    <div className="absolute top-3 left-3 right-3 flex items-center justify-between text-white">
-                      <span className="px-2.5 py-1 rounded bg-slate-900/90 border border-slate-700/80 text-[10px] font-mono font-bold uppercase tracking-wider text-slate-200">
-                        {cleanLabel(item.desdpto || 'Perú')}
-                      </span>
-                      <span className="font-mono text-[10px] font-bold px-2 py-0.5 rounded bg-slate-900/90 text-amber-400 border border-slate-700/80">
-                        Ficha #{item.codigo}
-                      </span>
-                    </div>
-
-                    <div className="absolute bottom-3 left-3 right-3 flex items-center gap-2">
-                      <span className="px-2.5 py-0.5 rounded text-[10px] font-mono font-bold bg-slate-900/90 border border-slate-700/80 text-sky-300 truncate max-w-[220px]">
-                        {cleanLabel(item.categoria)}
-                      </span>
-                    </div>
-                  </Link>
-
-                  {/* Metadatos y Cuerpo de la Card */}
-                  <div className="p-5 flex-1 flex flex-col justify-between space-y-4">
-                    <div>
-                      <span className="text-[11px] font-mono text-slate-500 dark:text-slate-400 block mb-1">
-                        {cleanLabel(item.tipo_categoria || item.desprov || 'Ubicación Verificada')}
-                      </span>
-                      <Link href={`/turismo/${slug}`}>
-                        <h3 className="text-base font-bold text-slate-900 dark:text-white group-hover:text-sky-600 dark:group-hover:text-sky-400 transition-colors line-clamp-1 cursor-pointer">
-                          {cleanLabel(item.nombre)}
-                        </h3>
-                      </Link>
-                      <p className="text-xs text-slate-600 dark:text-slate-400 line-clamp-2 mt-2 leading-relaxed">
-                        {item.subtipo_categoria
-                          ? cleanLabel(item.subtipo_categoria)
-                          : `Recurso turístico oficial inventariado en la provincia de ${cleanLabel(item.desprov)} (${cleanLabel(item.desdpto)}).`}
-                      </p>
-                    </div>
-
-                    {/* Acciones y Enlace Técnico */}
-                    <div className="pt-3 border-t border-slate-100 dark:border-slate-800 flex items-center justify-between text-xs">
-                      <Link
-                        href={`/turismo/${slug}`}
-                        className="font-semibold text-sky-600 dark:text-sky-400 hover:text-sky-500 flex items-center gap-1.5 transition-colors cursor-pointer"
-                      >
-                        <span>Ver Ficha Técnica</span>
-                        <Icons.ArrowRight className="w-3.5 h-3.5" />
-                      </Link>
-
-                      <Link
-                        href={`/turismo/${slug}`}
-                        className="p-1.5 rounded-lg bg-slate-50 dark:bg-slate-950 border border-slate-200 dark:border-slate-800 text-slate-500 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white hover:border-slate-300 dark:hover:border-slate-700 transition-colors shadow-sm dark:shadow-none"
-                        title="Ver detalle completo"
-                      >
-                        <Icons.ExternalLink className="w-3.5 h-3.5" />
-                      </Link>
-                    </div>
-                  </div>
-                </div>
-              );
-            })}
+            {featuredResources.map((item) => (
+              <ResourceCard key={item.codigo} resource={item} />
+            ))}
           </div>
         )}
       </section>
@@ -601,13 +527,13 @@ export default function HomePage() {
           <div>
             <div className="flex items-center gap-2 text-xs font-mono font-semibold text-sky-600 dark:text-sky-400 uppercase tracking-wider mb-1.5">
               <Icons.Navigation className="w-4 h-4" />
-              <span>Infraestructura de Datos Espaciales (IDE)</span>
+              <span>{t('home.ideBadge')}</span>
             </div>
             <h2 className="text-2xl sm:text-3xl font-bold text-slate-900 dark:text-white tracking-tight">
-              Geoportal de Atractivos Turísticos
+              {t('home.geoportalTitle')}
             </h2>
             <p className="text-xs sm:text-sm text-slate-500 dark:text-slate-400 mt-1">
-              Visualización espacial de puntos georreferenciados en el sistema de coordenadas WGS-84 (EPSG:4326).
+              {t('home.geoportalSubtitle')}
             </p>
           </div>
 
@@ -619,7 +545,7 @@ export default function HomePage() {
               value={selectedDept}
               onChange={setSelectedDept}
               options={departmentOptions}
-              placeholder="Todas las regiones..."
+              placeholder={t('turismo.allRegions')}
               searchable
               variant="default"
               buttonClassName="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-700 px-3 py-2 rounded-lg text-slate-900 dark:text-white hover:border-sky-500/50 flex items-center justify-between text-xs sm:text-sm shadow-sm dark:shadow-none transition-colors"
@@ -661,7 +587,7 @@ export default function HomePage() {
                         {cleanLabel(selectedMapResource.desdpto)}
                       </span>
                       <span className="text-[10px] font-mono font-bold px-2 py-0.5 rounded bg-slate-900/90 text-amber-400 border border-slate-700">
-                        Ficha #{selectedMapResource.codigo}
+                        {t('card.recordNum')} #{selectedMapResource.codigo}
                       </span>
                     </div>
                   </div>
@@ -669,7 +595,7 @@ export default function HomePage() {
                   <div className="flex items-center gap-2 mb-1">
                     <span className="w-2 h-2 rounded-full bg-emerald-500" />
                     <span className="text-[10px] font-mono text-slate-500 dark:text-slate-400 uppercase tracking-wider">
-                      Registro Activo en Geoportal
+                      {t('home.activeInGeoportal')}
                     </span>
                   </div>
 
@@ -678,25 +604,23 @@ export default function HomePage() {
                   </h3>
 
                   <p className="text-xs text-slate-600 dark:text-slate-400 mb-5 leading-relaxed">
-                    {selectedMapResource.tipo_categoria
-                      ? `${cleanLabel(selectedMapResource.tipo_categoria)} registrado en la provincia de ${cleanLabel(selectedMapResource.desprov)}.`
-                      : `Atractivo inventariado oficialmente en la región de ${cleanLabel(selectedMapResource.desdpto)}.`}
+                    {formatResourceCardDescription(selectedMapResource, language)}
                   </p>
 
                   {/* Cuadrícula de Datos Técnicos */}
                   <div className="grid grid-cols-2 gap-2.5 mb-5 text-left font-mono">
                     <div className="p-2.5 rounded-lg bg-slate-50 dark:bg-slate-950 border border-slate-200 dark:border-slate-800">
                       <span className="text-[10px] uppercase font-semibold text-slate-500 dark:text-slate-400 block mb-0.5">
-                        Categoría
+                        {t('home.category')}
                       </span>
                       <span className="text-xs font-medium text-slate-800 dark:text-slate-200 truncate block">
-                        {cleanLabel(selectedMapResource.categoria)}
+                        <DynamicText text={translateMinceturText(selectedMapResource.categoria, language)} />
                       </span>
                     </div>
 
                     <div className="p-2.5 rounded-lg bg-slate-50 dark:bg-slate-950 border border-slate-200 dark:border-slate-800">
                       <span className="text-[10px] uppercase font-semibold text-slate-500 dark:text-slate-400 block mb-0.5">
-                        Provincia / Distrito
+                        {t('home.provinceDistrict')}
                       </span>
                       <span className="text-xs font-medium text-sky-600 dark:text-sky-400 truncate block">
                         {cleanLabel(selectedMapResource.desprov || selectedMapResource.desubigeo)}
@@ -705,7 +629,7 @@ export default function HomePage() {
 
                     <div className="p-2.5 rounded-lg bg-slate-50 dark:bg-slate-950 border border-slate-200 dark:border-slate-800">
                       <span className="text-[10px] uppercase font-semibold text-slate-500 dark:text-slate-400 block mb-0.5">
-                        Latitud (WGS-84)
+                        {t('home.latitude')}
                       </span>
                       <span className="text-xs font-semibold text-slate-700 dark:text-slate-300 block truncate">
                         {selectedMapResource.y ? Number(selectedMapResource.y).toFixed(5) : 'N/A'}
@@ -714,7 +638,7 @@ export default function HomePage() {
 
                     <div className="p-2.5 rounded-lg bg-slate-50 dark:bg-slate-950 border border-slate-200 dark:border-slate-800">
                       <span className="text-[10px] uppercase font-semibold text-slate-500 dark:text-slate-400 block mb-0.5">
-                        Longitud (WGS-84)
+                        {t('home.longitude')}
                       </span>
                       <span className="text-xs font-semibold text-slate-700 dark:text-slate-300 block truncate">
                         {selectedMapResource.x ? Number(selectedMapResource.x).toFixed(5) : 'N/A'}
@@ -724,7 +648,7 @@ export default function HomePage() {
                 </div>
               ) : (
                 <div className="p-8 text-center text-slate-500 dark:text-slate-400 my-auto font-mono text-xs">
-                  Selecciona un marcador en el mapa para inspeccionar sus coordenadas y metadatos.
+                  {t('home.selectMarkerMap')}
                 </div>
               )}
 
@@ -735,7 +659,7 @@ export default function HomePage() {
                     href={`/turismo/${createResourceSlug(selectedMapResource.nombre, selectedMapResource.codigo)}`}
                     className="w-full py-2.5 px-4 rounded-lg bg-sky-600 hover:bg-sky-500 text-white font-semibold text-xs uppercase tracking-wider text-center transition-colors flex items-center justify-center gap-2 cursor-pointer shadow-sm"
                   >
-                    <span>Ver Ficha Técnica Completa</span>
+                    <span>{t('home.viewFullTechSheet')}</span>
                     <Icons.ArrowRight className="w-3.5 h-3.5" />
                   </Link>
                 </div>
@@ -753,13 +677,13 @@ export default function HomePage() {
           <div className="space-y-2 text-left">
             <div className="flex items-center gap-2 text-xs font-mono text-sky-600 dark:text-sky-400">
               <Icons.Database className="w-4 h-4" />
-              <span className="uppercase tracking-wider font-semibold">Base de Datos Abierta</span>
+              <span className="uppercase tracking-wider font-semibold">{t('home.openDbBadge')}</span>
             </div>
             <h3 className="text-xl sm:text-2xl font-bold text-slate-900 dark:text-white">
-              Consulte el Catálogo Nacional de Turismo
+              {t('home.bannerTitle')}
             </h3>
             <p className="text-xs sm:text-sm text-slate-600 dark:text-slate-400 max-w-2xl leading-relaxed">
-              Filtre por departamentos, provincias, categorías y actividades turísticas con datos normalizados, coordenadas geodésicas y fichas técnicas oficiales.
+              {t('home.bannerDesc')}
             </p>
           </div>
 
@@ -769,14 +693,14 @@ export default function HomePage() {
               className="flex-1 sm:flex-none px-5 py-2.5 rounded-lg bg-sky-600 hover:bg-sky-500 text-white font-semibold text-xs sm:text-sm uppercase tracking-wider transition-colors flex items-center justify-center gap-2 text-center shadow-sm"
             >
               <Icons.Search className="w-4 h-4" />
-              <span>Explorar Catálogo</span>
+              <span>{t('home.exploreCatalog')}</span>
             </Link>
             <Link
               href="/#mapa-preview"
               className="flex-1 sm:flex-none px-4 py-2.5 rounded-lg bg-slate-50 dark:bg-slate-950 hover:bg-slate-100 dark:hover:bg-slate-800 border border-slate-200 dark:border-slate-700 text-slate-700 dark:text-slate-300 hover:text-slate-900 dark:hover:text-white font-semibold text-xs sm:text-sm transition-colors flex items-center justify-center gap-2 text-center shadow-sm dark:shadow-none"
             >
               <Icons.Navigation className="w-4 h-4 text-sky-500" />
-              <span>Ver Geoportal</span>
+              <span>{t('home.viewGeoportal')}</span>
             </Link>
           </div>
         </div>

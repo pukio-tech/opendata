@@ -142,35 +142,35 @@ function TurismoPageContent() {
   // Opciones formateadas para CustomSelect
   const departmentOptions: SelectOption[] = useMemo(() => {
     return [
-      { value: '', label: `Todas las regiones (${departments.length})`, badge: 'Perú' },
+      { value: '', label: `${t('turismo.allRegions')} (${departments.length})`, badge: 'Perú' },
       ...departments.map((d) => ({
         value: d.iddpto,
         label: cleanLabel(d.departamento),
         sublabel: `Ubigeo ${d.iddpto}`,
       })),
     ];
-  }, [departments]);
+  }, [departments, t]);
 
   const categoryOptions: SelectOption[] = useMemo(() => {
     return [
-      { value: '', label: `Todas las categorías (${categories.length})`, badge: 'Oficial' },
+      { value: '', label: `${t('turismo.allCategories')} (${categories.length})`, badge: t('turismo.official') },
       ...categories.map((c) => ({
         value: c.categoria,
         label: translateMinceturText(c.categoria, language),
-        sublabel: c.tipos?.length ? `${c.tipos.length} tipos registrados` : undefined,
+        sublabel: c.tipos?.length ? `${c.tipos.length} ${t('turismo.typesRegistered')}` : undefined,
       })),
     ];
-  }, [categories, language]);
+  }, [categories, language, t]);
 
   const activityOptions: SelectOption[] = useMemo(() => {
     return [
-      { value: '', label: `Todas las actividades (${activities.length})` },
+      { value: '', label: `${t('turismo.allActivities')} (${activities.length})` },
       ...activities.map((a) => ({
         value: a.nombre,
         label: cleanLabel(a.nombre),
       })),
     ];
-  }, [activities]);
+  }, [activities, t]);
 
   // Función de consulta de recursos
   const fetchResources = useCallback(
@@ -309,17 +309,18 @@ function TurismoPageContent() {
           {/* Badge superior */}
           <div className="inline-flex items-center gap-2 px-3 py-1.5 rounded-lg bg-slate-900/90 border border-slate-700/80 text-[11px] font-mono text-slate-300 backdrop-blur-md shadow-sm mb-4">
             <span className="w-2 h-2 rounded-full bg-emerald-400 animate-pulse" />
-            <span className="font-semibold text-slate-100">CATÁLOGO NACIONAL</span>
-            <span className="text-slate-500">•</span>
-            <span className="text-sky-400 font-semibold">INVENTARIO TURÍSTICO</span>
+            <span className="font-semibold text-slate-100">{t('turismo.badge')}</span>
           </div>
 
           <h1 className="text-3xl sm:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            Explorador del Patrimonio <span className="text-sky-400">Turístico del Perú</span>
+            {t('turismo.heroTitle')}{' '}
+            <span className="text-transparent bg-clip-text bg-gradient-to-r from-sky-400 via-sky-300 to-sky-500">
+              {t('turismo.heroHighlight')}
+            </span>
           </h1>
 
           <p className="mt-3 text-xs sm:text-base text-slate-200 font-normal max-w-2xl mx-auto mb-6 leading-relaxed">
-            Consulte más de 2,290 recursos georreferenciados con metadatos oficiales, rutas de acceso y coordenadas espaciales.
+            {t('turismo.heroSubtitle')}
           </p>
 
           {/* Caja de Búsqueda y Filtros con Soporte Dark/Light Mode */}
@@ -462,7 +463,7 @@ function TurismoPageContent() {
                 <div className="flex flex-wrap items-center justify-between gap-2 pt-2 border-t border-slate-200 dark:border-slate-800">
                   <div className="flex flex-wrap items-center gap-2">
                     <span className="text-[11px] font-bold uppercase tracking-wider text-slate-400">
-                      Filtros activos:
+                      {t('turismo.filtersActive')}
                     </span>
                     {appliedFilters.search && (
                       <button
@@ -470,7 +471,7 @@ function TurismoPageContent() {
                         onClick={() => removeFilter('search')}
                         className="inline-flex items-center gap-1 text-xs px-2.5 py-1 rounded-lg bg-slate-100 dark:bg-slate-800 text-slate-700 dark:text-slate-300 hover:bg-rose-50 hover:text-rose-600 dark:hover:bg-rose-500/20 dark:hover:text-rose-300 transition-colors"
                       >
-                        <span>Texto: &quot;{appliedFilters.search}&quot;</span>
+                        <span>{t('turismo.textFilter')}: &quot;{appliedFilters.search}&quot;</span>
                         <Icons.X className="w-3 h-3" />
                       </button>
                     )}
@@ -480,7 +481,7 @@ function TurismoPageContent() {
                         onClick={() => removeFilter('dept')}
                         className="inline-flex items-center gap-1 text-xs px-2.5 py-1 rounded-lg bg-sky-50 dark:bg-sky-500/10 text-sky-700 dark:text-sky-300 hover:bg-rose-50 hover:text-rose-600 dark:hover:bg-rose-500/20 dark:hover:text-rose-300 transition-colors"
                       >
-                        <span>Región: {activeDeptName || appliedFilters.dept}</span>
+                        <span>{t('turismo.deptFilter')}: {activeDeptName || appliedFilters.dept}</span>
                         <Icons.X className="w-3 h-3" />
                       </button>
                     )}
@@ -490,7 +491,7 @@ function TurismoPageContent() {
                         onClick={() => removeFilter('category')}
                         className="inline-flex items-center gap-1 text-xs px-2.5 py-1 rounded-lg bg-emerald-50 dark:bg-emerald-500/10 text-emerald-700 dark:text-emerald-300 hover:bg-rose-50 hover:text-rose-600 dark:hover:bg-rose-500/20 dark:hover:text-rose-300 transition-colors"
                       >
-                        <span>Categoría: {cleanLabel(appliedFilters.category)}</span>
+                        <span>{t('turismo.categoryFilter')}: {cleanLabel(appliedFilters.category)}</span>
                         <Icons.X className="w-3 h-3" />
                       </button>
                     )}
@@ -500,7 +501,7 @@ function TurismoPageContent() {
                         onClick={() => removeFilter('activity')}
                         className="inline-flex items-center gap-1 text-xs px-2.5 py-1 rounded-lg bg-amber-50 dark:bg-amber-500/10 text-amber-700 dark:text-amber-300 hover:bg-rose-50 hover:text-rose-600 dark:hover:bg-rose-500/20 dark:hover:text-rose-300 transition-colors"
                       >
-                        <span>Actividad: {cleanLabel(appliedFilters.activity)}</span>
+                        <span>{t('turismo.activityFilter')}: {cleanLabel(appliedFilters.activity)}</span>
                         <Icons.X className="w-3 h-3" />
                       </button>
                     )}
@@ -510,7 +511,7 @@ function TurismoPageContent() {
                         onClick={() => removeFilter('code')}
                         className="inline-flex items-center gap-1 text-xs px-2.5 py-1 rounded-lg bg-purple-50 dark:bg-purple-500/10 text-purple-700 dark:text-purple-300 hover:bg-rose-50 hover:text-rose-600 dark:hover:bg-rose-500/20 dark:hover:text-rose-300 transition-colors"
                       >
-                        <span>Ficha: #{appliedFilters.code}</span>
+                        <span>{t('turismo.codeFilter')}: #{appliedFilters.code}</span>
                         <Icons.X className="w-3 h-3" />
                       </button>
                     )}
@@ -522,7 +523,7 @@ function TurismoPageContent() {
                     className="text-xs text-rose-600 dark:text-rose-400 hover:text-rose-700 dark:hover:text-rose-300 flex items-center gap-1.5 font-bold transition-colors cursor-pointer"
                   >
                     <Icons.X className="w-3.5 h-3.5" />
-                    <span>{t('turismo.clearFilters')}</span>
+                    <span>{t('turismo.reset')}</span>
                   </button>
                 </div>
               )}

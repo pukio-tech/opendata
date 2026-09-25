@@ -39,12 +39,56 @@ export const translations = {
     'search.close': 'Cerrar',
     'search.exploreAll': 'Ver todos los resultados',
 
-    // Home Page - Hero
+    // Home Page - Top Badge & Hero
+    'hero.portalOpenData': 'PORTAL DE DATOS ABIERTOS',
+    'hero.republicPeru': 'REPÚBLICA DEL PERÚ',
     'hero.title1': 'Descubre los Recursos Turísticos del',
     'hero.titlePeru': 'Perú',
     'hero.subtitle': 'Explora las maravillas arqueológicas, sitios naturales, rutas oficiales y patrimonio de las 25 regiones con datos técnicos verificados en tiempo real.',
+    'hero.catNatural': 'Sitios Naturales',
+    'hero.catCultural': 'Manifestaciones Culturales',
+    'hero.catFolklore': 'Folclore',
 
-    // Home Page - Advantages
+    // Home Page - Metrics
+    'home.totalResources': 'Total Recursos',
+    'home.inventoryNational': 'Inventario Nacional',
+    'home.naturalSites': 'Sitios Naturales',
+    'home.cat1Natural': 'Categoría 1 (Natural)',
+    'home.culturalHeritage': 'Patrimonio Cultural',
+    'home.cat2Cultural': 'Categoría 2 (Cultural)',
+    'home.folkloreTraditions': 'Folclore & Tradiciones',
+    'home.cat3Folklore': 'Categoría 3 (Folclore)',
+    'home.metricAttractions': 'Atractivos',
+    'home.metricRegions': 'Regiones',
+    'home.metricOpen': 'Abierto',
+
+    // Home Page - Featured Catalog
+    'home.featuredBadge': 'Inventario Nacional • Registros Seleccionados',
+    'home.featuredTitle': 'Recursos Turísticos Destacados',
+    'home.featuredSubtitle': 'Fichas técnicas oficiales georreferenciadas con metadatos descriptivos y de ubicación.',
+    'home.viewAllCatalog': 'Ver Catálogo Completo',
+    'home.verifiedLocation': 'Ubicación Verificada',
+    'home.viewTechnicalSheet': 'Ver Ficha Técnica',
+    'home.viewFullDetail': 'Ver detalle completo',
+
+    // Home Page - Geoportal IDE
+    'home.ideBadge': 'Infraestructura de Datos Espaciales (IDE)',
+    'home.geoportalTitle': 'Geoportal de Atractivos Turísticos',
+    'home.geoportalSubtitle': 'Visualización espacial de puntos georreferenciados en el sistema de coordenadas WGS-84 (EPSG:4326).',
+    'home.activeInGeoportal': 'Registro Activo en Geoportal',
+    'home.category': 'Categoría',
+    'home.provinceDistrict': 'Provincia / Distrito',
+    'home.latitude': 'Latitud (WGS-84)',
+    'home.longitude': 'Longitud (WGS-84)',
+    'home.selectMarkerMap': 'Selecciona un marcador en el mapa para inspeccionar sus coordenadas y metadatos.',
+    'home.viewFullTechSheet': 'Ver Ficha Técnica Completa',
+
+    // Home Page - Banner CTA
+    'home.openDbBadge': 'Base de Datos Abierta',
+    'home.bannerTitle': 'Consulte el Catálogo Nacional de Turismo',
+    'home.bannerDesc': 'Filtre por departamentos, provincias, categorías y actividades turísticas con datos normalizados, coordenadas geodésicas y fichas técnicas oficiales.',
+    'home.exploreCatalog': 'Explorar Catálogo',
+    'home.viewGeoportal': 'Ver Geoportal',
     'home.advantagesBadge': 'Ventajas de la Plataforma',
     'home.whyChoose': '¿Por Qué Elegir',
     'home.whyChooseDesc': 'Somos el visualizador de datos abiertos y georreferenciación turística más intuitivo del país. Conectamos a ciudadanos, viajeros, estudiantes, investigadores y operadores con información 100% oficial de manera rápida, limpia y sin fricciones.',
@@ -56,18 +100,19 @@ export const translations = {
     'home.feat3Desc': 'Detalle paso a paso para llegar a cada destino con medios de transporte, tipos de vía y tiempos estimados.',
     'home.feat4Title': 'Búsqueda Inteligente',
     'home.feat4Desc': 'Filtros dinámicos por región, categoría, actividad o código único de ficha para encontrar tu destino al instante.',
-
-    // Home Page - Metrics
-    'home.metricAttractions': 'Atractivos',
-    'home.metricRegions': 'Regiones',
-    'home.metricOpen': 'Abierto',
-
-    // Home Page - CTA
     'home.ctaTitle': '¿Listo para Explorar el Perú?',
     'home.ctaDesc': 'Accede al catálogo completo de OpenData con más de 5,000 atractivos turísticos georreferenciados, fotos oficiales y videos en vivo.',
     'home.ctaBtn': 'Explorar el Catálogo Ahora',
 
+    // Map
+    'map.loading': 'Cargando Geoportal OpenStreetMap...',
+    'map.loadingPapa': 'Cargando Geoportal interactivo...',
+
     // Turismo Page
+    'turismo.badge': 'CATÁLOGO NACIONAL • INVENTARIO TURÍSTICO',
+    'turismo.heroTitle': 'Explorador del Patrimonio',
+    'turismo.heroHighlight': 'Turístico del Perú',
+    'turismo.heroSubtitle': 'Consulte más de 2,290 recursos georreferenciados con metadatos oficiales, rutas de acceso y coordenadas espaciales.',
     'turismo.title': 'Catálogo de',
     'turismo.titleHighlight': 'Recursos Turísticos',
     'turismo.subtitle': 'Consulta, filtra y localiza más de 5,000 atractivos georreferenciados en todo el territorio peruano.',
@@ -80,12 +125,20 @@ export const translations = {
     'turismo.allCategories': 'Todas las categorías',
     'turismo.filterActivity': 'Actividad',
     'turismo.allActivities': 'Todas las actividades',
+    'turismo.typesRegistered': 'tipos registrados',
+    'turismo.official': 'Oficial',
     'turismo.advancedTitle': 'Búsqueda Avanzada por Código de Ficha',
     'turismo.advancedPlaceholder': 'Ingresa el número de ficha (ej: 62, 154, 820, 7482...)',
     'turismo.advancedDesc': 'Búsqueda directa por el identificador numérico único registrado en el inventario.',
     'turismo.removeCode': 'Quitar código',
     'turismo.filtersApplied': 'Filtros aplicados en la búsqueda actual',
     'turismo.filtersReady': 'Filtros seleccionados listos para buscar',
+    'turismo.filtersActive': 'Filtros activos:',
+    'turismo.textFilter': 'Texto',
+    'turismo.deptFilter': 'Región',
+    'turismo.categoryFilter': 'Categoría',
+    'turismo.activityFilter': 'Actividad',
+    'turismo.codeFilter': 'Ficha',
     'turismo.clearFilters': 'Limpiar todos los filtros',
     'turismo.sectionBadge': 'Exploración Abierta',
     'turismo.allResources': 'Todos los Recursos Turísticos Registrados',
@@ -123,11 +176,15 @@ export const translations = {
     'papa.officialSource': 'Fuente Oficial IRTP / Presidencia',
     'papa.activitiesFound': 'actividades encontradas',
     'papa.viewOnMap': 'Centrar en mapa',
+    'papa.locatedOnMap': 'Ubicado en mapa',
     'papa.readOfficial': 'Leer comunicado oficial en Gob.pe',
     'papa.massTag': 'Santa Misa Masiva',
     'papa.youthTag': 'Jóvenes / Vigilia',
     'papa.pastoralTag': 'Encuentro Pastoral',
     'papa.travelTag': 'Vuelo / Traslado',
+    'papa.officialActivity': 'actividad oficial',
+    'papa.officialActivities': 'actividades oficiales',
+    'papa.november': 'de Noviembre, 2026',
 
     // Footer
     'footer.desc': 'Plataforma nacional de datos abiertos para la consulta, georreferenciación y exploración interactiva de los recursos y atractivos turísticos del Perú.',
@@ -145,6 +202,10 @@ export const translations = {
     'footer.claims': 'Libro de Reclamaciones',
     'footer.faq': 'Preguntas Frecuentes (FAQ)',
     'footer.rights': 'Repositorio Nacional de Datos de Turismo del Perú',
+    'footer.departments': '25 Departamentos',
+    'footer.resources': '2,290+ Recursos',
+    'footer.open': '100% Abierto',
+
     // Card
     'card.loadingPhoto': 'Cargando fotografía...',
     'card.noPhoto': 'Sin fotografía digitalizada en ficha',
@@ -190,10 +251,19 @@ export const translations = {
     'ficha.registeredSections': 'Tramos Registrados',
     'ficha.liveVideo': 'Material Audiovisual (Video en Vivo)',
     'ficha.additionalInfo': 'Información Adicional del Inventario',
+    'ficha.fullscreen': 'Ver pantalla completa',
+    'ficha.share': 'Compartir',
+    'ficha.copied': '¡Copiado!',
+
     // Pagination
     'pagination.showing': 'Mostrando {start} a {end} de {total} destinos turísticos',
     'pagination.prev': 'Anterior',
     'pagination.next': 'Siguiente',
+
+    // Not Found
+    'notFound.title': 'Recurso no encontrado',
+    'notFound.desc': 'La página o recurso turístico que está buscando no existe o ha sido reubicado.',
+    'notFound.btn': 'Explorar Recursos Turísticos',
   },
   EN: {
     // Navbar
@@ -217,12 +287,56 @@ export const translations = {
     'search.close': 'Close',
     'search.exploreAll': 'View all results',
 
-    // Home Page - Hero
+    // Home Page - Top Badge & Hero
+    'hero.portalOpenData': 'OPEN DATA PORTAL',
+    'hero.republicPeru': 'REPUBLIC OF PERU',
     'hero.title1': 'Discover the Tourist Destinations of',
     'hero.titlePeru': 'Peru',
     'hero.subtitle': 'Explore archaeological wonders, natural sites, official routes and heritage across 25 regions with real-time verified open data.',
+    'hero.catNatural': 'Natural Sites',
+    'hero.catCultural': 'Cultural Heritage',
+    'hero.catFolklore': 'Folklore',
 
-    // Home Page - Advantages
+    // Home Page - Metrics
+    'home.totalResources': 'Total Resources',
+    'home.inventoryNational': 'National Inventory',
+    'home.naturalSites': 'Natural Sites',
+    'home.cat1Natural': 'Category 1 (Natural)',
+    'home.culturalHeritage': 'Cultural Heritage',
+    'home.cat2Cultural': 'Category 2 (Cultural)',
+    'home.folkloreTraditions': 'Folklore & Traditions',
+    'home.cat3Folklore': 'Category 3 (Folklore)',
+    'home.metricAttractions': 'Destinations',
+    'home.metricRegions': 'Regions',
+    'home.metricOpen': 'Open Data',
+
+    // Home Page - Featured Catalog
+    'home.featuredBadge': 'National Inventory • Selected Records',
+    'home.featuredTitle': 'Featured Tourist Resources',
+    'home.featuredSubtitle': 'Official georeferenced technical sheets with descriptive metadata and spatial coordinates.',
+    'home.viewAllCatalog': 'View Full Catalog',
+    'home.verifiedLocation': 'Verified Location',
+    'home.viewTechnicalSheet': 'View Technical Sheet',
+    'home.viewFullDetail': 'View full detail',
+
+    // Home Page - Geoportal IDE
+    'home.ideBadge': 'Spatial Data Infrastructure (SDI)',
+    'home.geoportalTitle': 'Tourist Attractions Geoportal',
+    'home.geoportalSubtitle': 'Spatial visualization of georeferenced coordinates in WGS-84 (EPSG:4326) reference system.',
+    'home.activeInGeoportal': 'Active Record on Geoportal',
+    'home.category': 'Category',
+    'home.provinceDistrict': 'Province / District',
+    'home.latitude': 'Latitude (WGS-84)',
+    'home.longitude': 'Longitude (WGS-84)',
+    'home.selectMarkerMap': 'Select a marker on the map to inspect its coordinates and technical metadata.',
+    'home.viewFullTechSheet': 'View Complete Technical Sheet',
+
+    // Home Page - Banner CTA
+    'home.openDbBadge': 'Open Database',
+    'home.bannerTitle': 'Query the National Tourism Catalog',
+    'home.bannerDesc': 'Filter by departments, provinces, categories and tourist activities with normalized data, geodesic coordinates and official technical sheets.',
+    'home.exploreCatalog': 'Explore Catalog',
+    'home.viewGeoportal': 'View Geoportal',
     'home.advantagesBadge': 'Platform Advantages',
     'home.whyChoose': 'Why Choose',
     'home.whyChooseDesc': 'We are the most intuitive open data and tourism georeferencing viewer in the country. We connect citizens, travelers, students, researchers and tour operators with 100% official data quickly, cleanly and seamlessly.',
@@ -234,18 +348,19 @@ export const translations = {
     'home.feat3Desc': 'Step-by-step guidance to reach every destination with transport methods, road types and travel times.',
     'home.feat4Title': 'Smart Search',
     'home.feat4Desc': 'Dynamic filters by region, category, activity or unique technical code to find your destination instantly.',
-
-    // Home Page - Metrics
-    'home.metricAttractions': 'Destinations',
-    'home.metricRegions': 'Regions',
-    'home.metricOpen': 'Open Data',
-
-    // Home Page - CTA
     'home.ctaTitle': 'Ready to Explore Peru?',
     'home.ctaDesc': 'Access the complete OpenData catalog with over 5,000 georeferenced tourist attractions, official photos, and live video.',
     'home.ctaBtn': 'Explore the Catalog Now',
 
+    // Map
+    'map.loading': 'Loading OpenStreetMap Geoportal...',
+    'map.loadingPapa': 'Loading interactive Geoportal...',
+
     // Turismo Page
+    'turismo.badge': 'NATIONAL CATALOG • TOURISM INVENTORY',
+    'turismo.heroTitle': 'Explorer of the Cultural Heritage',
+    'turismo.heroHighlight': '& Tourism of Peru',
+    'turismo.heroSubtitle': 'Query over 2,290 georeferenced resources with official metadata, access routes, and spatial coordinates.',
     'turismo.title': 'Catalog of',
     'turismo.titleHighlight': 'Tourist Resources',
     'turismo.subtitle': 'Query, filter, and discover more than 5,000 georeferenced attractions throughout Peruvian territory.',
@@ -258,12 +373,20 @@ export const translations = {
     'turismo.allCategories': 'All categories',
     'turismo.filterActivity': 'Activity',
     'turismo.allActivities': 'All activities',
+    'turismo.typesRegistered': 'registered types',
+    'turismo.official': 'Official',
     'turismo.advancedTitle': 'Advanced Search by Record Code',
     'turismo.advancedPlaceholder': 'Enter record number (e.g., 62, 154, 820, 7482...)',
     'turismo.advancedDesc': 'Direct search using the unique numeric identifier registered in the inventory.',
     'turismo.removeCode': 'Remove code',
     'turismo.filtersApplied': 'Filters applied to current search',
     'turismo.filtersReady': 'Selected filters ready to search',
+    'turismo.filtersActive': 'Active filters:',
+    'turismo.textFilter': 'Text',
+    'turismo.deptFilter': 'Region',
+    'turismo.categoryFilter': 'Category',
+    'turismo.activityFilter': 'Activity',
+    'turismo.codeFilter': 'Record',
     'turismo.clearFilters': 'Clear all filters',
     'turismo.sectionBadge': 'Open Exploration',
     'turismo.allResources': 'All Registered Tourist Resources',
@@ -301,11 +424,15 @@ export const translations = {
     'papa.officialSource': 'Official Source IRTP / Presidency',
     'papa.activitiesFound': 'activities found',
     'papa.viewOnMap': 'Center on map',
+    'papa.locatedOnMap': 'Located on map',
     'papa.readOfficial': 'Read official press release on Gob.pe',
     'papa.massTag': 'Massive Mass',
     'papa.youthTag': 'Youth / Vigil',
     'papa.pastoralTag': 'Pastoral Encounter',
     'papa.travelTag': 'Flight / Transfer',
+    'papa.officialActivity': 'official activity',
+    'papa.officialActivities': 'official activities',
+    'papa.november': 'November, 2026',
 
     // Footer
     'footer.desc': 'National open data platform for interactive query, georeferencing, and exploration of Peru’s tourist resources and attractions.',
@@ -323,6 +450,9 @@ export const translations = {
     'footer.claims': 'Complaints Book',
     'footer.faq': 'Frequently Asked Questions (FAQ)',
     'footer.rights': 'National Tourism Open Data Repository of Peru',
+    'footer.departments': '25 Departments',
+    'footer.resources': '2,290+ Resources',
+    'footer.open': '100% Open',
 
     // Card
     'card.loadingPhoto': 'Loading photograph...',
@@ -369,10 +499,19 @@ export const translations = {
     'ficha.registeredSections': 'Registered Sections',
     'ficha.liveVideo': 'Audiovisual Material (Live Video)',
     'ficha.additionalInfo': 'Additional Information from Inventory',
+    'ficha.fullscreen': 'View fullscreen',
+    'ficha.share': 'Share',
+    'ficha.copied': 'Copied!',
+
     // Pagination
     'pagination.showing': 'Showing {start} to {end} of {total} tourist destinations',
     'pagination.prev': 'Previous',
     'pagination.next': 'Next',
+
+    // Not Found
+    'notFound.title': 'Resource Not Found',
+    'notFound.desc': 'The page or tourist resource you are looking for does not exist or has been relocated.',
+    'notFound.btn': 'Explore Tourist Resources',
   },
   QU: {
     // Navbar
@@ -396,12 +535,56 @@ export const translations = {
     'search.close': 'Wichqay',
     'search.exploreAll': 'Llapan tariykunata qhaway',
 
-    // Home Page - Hero
+    // Home Page - Top Badge & Hero
+    'hero.portalOpenData': 'KICHASQA WILLAKUY LLIKA',
+    'hero.republicPeru': 'PIRUW MAMALLAQTA',
     'hero.title1': 'Piruw Suyupa Sumaq',
     'hero.titlePeru': 'Kawsayninta Riqsiy',
     'hero.subtitle': 'Kawsay pacha, ñawpa llaqtakuna, ñankuna riqsiy chaninchasqa willakuykunawan.',
+    'hero.catNatural': 'Sallqa Kitiykuna',
+    'hero.catCultural': 'Kultura Kawsay',
+    'hero.catFolklore': 'Folclore',
 
-    // Home Page - Advantages
+    // Home Page - Metrics
+    'home.totalResources': 'Llapan Kitiykuna',
+    'home.inventoryNational': 'Mamallaqta Inventario',
+    'home.naturalSites': 'Sallqa Pacha Kitiykuna',
+    'home.cat1Natural': '1 Kaynin (Sallqa)',
+    'home.culturalHeritage': 'Kultura Kawsay',
+    'home.cat2Cultural': '2 Kaynin (Kultura)',
+    'home.folkloreTraditions': 'Folclore & Ñawpa Kawsay',
+    'home.cat3Folklore': '3 Kaynin (Folclore)',
+    'home.metricAttractions': 'Sumaq Kitiykuna',
+    'home.metricRegions': 'Suyukuna',
+    'home.metricOpen': 'Kichasqa',
+
+    // Home Page - Featured Catalog
+    'home.featuredBadge': 'Mamallaqta Inventario • Akllasqa Kitiykuna',
+    'home.featuredTitle': 'Aswan Riqsisqa Sumaq Kitiykuna',
+    'home.featuredSubtitle': 'Chiqap willakuykunawan saywitiypi qillqasqa sumaq kitiykuna.',
+    'home.viewAllCatalog': 'Llapan Catálogota Qhaway',
+    'home.verifiedLocation': 'Chiqap Kiti',
+    'home.viewTechnicalSheet': 'Técnica Fichata Qhaway',
+    'home.viewFullDetail': 'Llapan willakuyta qhaway',
+
+    // Home Page - Geoportal IDE
+    'home.ideBadge': 'Pacha Willakuy Llika (IDE)',
+    'home.geoportalTitle': 'Sumaq Kitiykunapa Geoportalnin',
+    'home.geoportalSubtitle': 'WGS-84 coordenadaspi georreferenciachasqa kitiykunata mapapi qhaway.',
+    'home.activeInGeoportal': 'Mapapi Kawsachkaq Registro',
+    'home.category': 'Kaynin',
+    'home.provinceDistrict': 'Provincia / Distrito',
+    'home.latitude': 'Latitud (WGS-84)',
+    'home.longitude': 'Longitud (WGS-84)',
+    'home.selectMarkerMap': 'Saywitiypi huk kitita akllay willakuyninta qhawanaykipaq.',
+    'home.viewFullTechSheet': 'Llapan Técnica Fichata Qhaway',
+
+    // Home Page - Banner CTA
+    'home.openDbBadge': 'Kichasqa Willakuy Base',
+    'home.bannerTitle': 'Mamallaqtapa Turismo Catálogonta Maskay',
+    'home.bannerDesc': 'Suyukuna, kitikuna, kayninkuna, ruraykunakama chaninchasqa chiqap willakuykunawan maskay.',
+    'home.exploreCatalog': 'Catálogota Maskay',
+    'home.viewGeoportal': 'Geoportalta Qhaway',
     'home.advantagesBadge': 'Llikapa Allin Kayninkuna',
     'home.whyChoose': 'Imaraykutaq',
     'home.whyChooseDesc': 'Piruw suyupi astawan allin, sumaq kichasqa willakuy qhawachiq kanchik. Riqsiqkunata, yachakuqkunata, puriqkunata mamallaqta willakuykunawan tinkuchinchik.',
@@ -413,18 +596,19 @@ export const translations = {
     'home.feat3Desc': 'Imaynata chayanaykipaq ñankuna, awtukuna, pachankunata willasunki.',
     'home.feat4Title': 'Yachaysapa Maskay',
     'home.feat4Desc': 'Suyukuna, kayninkuna, ruraykunakama utqaylla maskay.',
-
-    // Home Page - Metrics
-    'home.metricAttractions': 'Sumaq Kitiykuna',
-    'home.metricRegions': 'Suyukuna',
-    'home.metricOpen': 'Kichasqa',
-
-    // Home Page - CTA
     'home.ctaTitle': '¿Piruwta Riqsiyta Munankichu?',
     'home.ctaDesc': 'OpenData llikapi 5,000 masnin sumaq kitiykunata, chiqap fotokunata, videokunata qhaway.',
     'home.ctaBtn': 'Kunan Qhaway',
 
+    // Map
+    'map.loading': 'OpenStreetMap Geoportalta kichachkan...',
+    'map.loadingPapa': 'Geoportalta kichachkan...',
+
     // Turismo Page
+    'turismo.badge': 'SUYUNTINPA CATALOGO • TURISMO INVENTARIO',
+    'turismo.heroTitle': 'Piruw Suyupa',
+    'turismo.heroHighlight': 'Sumaq Kitiyninkunata Riqsiy',
+    'turismo.heroSubtitle': '2,290 masnin georreferenciachasqa sumaq kitiykunata, chiqap willakuykunata, ñankunata qhaway.',
     'turismo.title': 'Llapanchikpaq',
     'turismo.titleHighlight': 'Sumaq Kitiykuna',
     'turismo.subtitle': '5,000 masnin chaninchasqa kitiykunata llapa Piruw suyupi maskay.',
@@ -437,12 +621,20 @@ export const translations = {
     'turismo.allCategories': 'Llapan kayninkuna',
     'turismo.filterActivity': 'Ruray / Actividad',
     'turismo.allActivities': 'Llapan ruraykuna',
+    'turismo.typesRegistered': 'qillqasqa layakuna',
+    'turismo.official': 'Chiqap',
     'turismo.advancedTitle': 'Ficha Yupawan Maskay',
     'turismo.advancedPlaceholder': 'Ficha yupayta qillqay (kayhina: 62, 154, 820...)',
     'turismo.advancedDesc': 'Sapaq yupinwan chiqap kitiyta maskay.',
     'turismo.removeCode': 'Yupita pichay',
     'turismo.filtersApplied': 'Maskasqapi akllasqakuna',
     'turismo.filtersReady': 'Maskanapaq akllasqakuna',
+    'turismo.filtersActive': 'Akllasqa layakuna:',
+    'turismo.textFilter': 'Qillqa',
+    'turismo.deptFilter': 'Suyu',
+    'turismo.categoryFilter': 'Kaynin',
+    'turismo.activityFilter': 'Ruray',
+    'turismo.codeFilter': 'Ficha',
     'turismo.clearFilters': 'Llapanta pichay',
     'turismo.sectionBadge': 'Kichasqa Puriy',
     'turismo.allResources': 'Llapan Qillqasqa Sumaq Kitiykuna',
@@ -480,11 +672,15 @@ export const translations = {
     'papa.officialSource': 'Gob.pe / IRTP Willakuy',
     'papa.activitiesFound': 'ruwaykuna tarisqa',
     'papa.viewOnMap': 'Mapapi qhawachiy',
+    'papa.locatedOnMap': 'Mapapi kachkan',
     'papa.readOfficial': 'Gob.pe willakuyta ñawinchay',
     'papa.massTag': 'Hatun Santa Misa',
     'papa.youthTag': 'Waynakuna / Oración',
     'papa.pastoralTag': 'Pastoral Tinkiynin',
     'papa.travelTag': 'Phaway / Puriy',
+    'papa.officialActivity': 'oficial ruray',
+    'papa.officialActivities': 'oficial ruraykuna',
+    'papa.november': 'Noviembre killapi, 2026',
 
     // Footer
     'footer.desc': 'Piruw suyupa sumaq kitiyninkuna qhawanapaq, kawsayninta riqsinapaq kichasqa willakuy llika.',
@@ -502,6 +698,9 @@ export const translations = {
     'footer.claims': 'Reclamaciones Qillqa',
     'footer.faq': 'Tapukuykuna (FAQ)',
     'footer.rights': 'Piruw Suyupa Kichasqa Turismo Willakuynin',
+    'footer.departments': '25 Suyukuna',
+    'footer.resources': '2,290+ Kitiykuna',
+    'footer.open': '100% Kichasqa',
 
     // Card
     'card.loadingPhoto': 'Chiqap fotota apamuspa...',
@@ -549,10 +748,19 @@ export const translations = {
     'ficha.liveVideo': 'Chiqap Video',
     'ficha.additionalInfo': 'Inventariomanta Huk Willakuykuna',
     'ficha.section': 'Tramo',
+    'ficha.fullscreen': 'Llapan pantalla qhaway',
+    'ficha.share': 'Rikuchiy / Compartir',
+    'ficha.copied': '¡Qillqasqaña!',
+
     // Pagination
     'pagination.showing': '{start}-manta {end}-kama qhawachkan, llapanqa {total} sumaq kitiykunamanta',
     'pagination.prev': 'Ñawpaq',
     'pagination.next': 'Qatiqnin',
+
+    // Not Found
+    'notFound.title': 'Manam tariykunachu',
+    'notFound.desc': 'Maskasqayki p\'anqa utaq sumaq kiti manam kanchu utaq wakpi kachkan.',
+    'notFound.btn': 'Sumaq Kitiykunata Maskay',
   },
 };
 
@@ -571,19 +779,7 @@ const LanguageContext = createContext<LanguageContextType>({
 });
 
 export const LanguageProvider: React.FC<{ children: React.ReactNode }> = ({ children }) => {
-  const [language, setLanguageState] = useState<Language>(() => {
-    if (typeof window !== 'undefined') {
-      try {
-        const saved = localStorage.getItem('opendata_lang') as Language;
-        if (saved && ['ES', 'EN', 'QU'].includes(saved)) {
-          return saved;
-        }
-      } catch {
-        // ignore
-      }
-    }
-    return 'ES';
-  });
+  const [language, setLanguageState] = useState<Language>('ES');
 
   useEffect(() => {
     try {
@@ -600,9 +796,6 @@ export const LanguageProvider: React.FC<{ children: React.ReactNode }> = ({ chil
     setLanguageState(lang);
     try {
       localStorage.setItem('opendata_lang', lang);
-      if (typeof window !== 'undefined') {
-        window.location.reload();
-      }
     } catch {
       // ignore
     }

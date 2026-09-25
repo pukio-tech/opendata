@@ -160,11 +160,11 @@ export const Footer = () => {
           </div>
 
           <div className="flex items-center gap-4 text-slate-400 dark:text-slate-500">
-            <span>25 Departamentos</span>
+            <span>{t('footer.departments')}</span>
             <span>•</span>
-            <span>2,290+ Recursos</span>
+            <span>{t('footer.resources')}</span>
             <span>•</span>
-            <span>100% Abierto</span>
+            <span>{t('footer.open')}</span>
           </div>
         </div>
       </div>

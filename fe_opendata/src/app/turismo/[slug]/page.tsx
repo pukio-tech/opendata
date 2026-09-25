@@ -446,12 +446,12 @@ function FichaTurismoContent({ params }: FichaTurismoPageProps) {
               {copiedLink ? (
                 <>
                   <Icons.CheckCircle className="w-3.5 h-3.5 text-emerald-500" />
-                  <span>¡Copiado!</span>
+                  <span>{t('ficha.copied')}</span>
                 </>
               ) : (
                 <>
                   <Icons.Share className="w-3.5 h-3.5 text-slate-400" />
-                  <span>Compartir</span>
+                  <span>{t('ficha.share')}</span>
                 </>
               )}
             </button>
@@ -591,7 +591,7 @@ function FichaTurismoContent({ params }: FichaTurismoPageProps) {
                   className="absolute top-4 right-4 z-10 inline-flex items-center gap-2 px-3.5 py-2 rounded-lg bg-slate-950/80 hover:bg-slate-950 text-white text-xs font-semibold backdrop-blur-md border border-white/20 hover:border-sky-400/60 shadow-lg transition-all cursor-pointer"
                 >
                   <Icons.Maximize className="w-4 h-4 text-sky-400" />
-                  <span>Ver pantalla completa</span>
+                  <span>{t('ficha.fullscreen')}</span>
                 </button>
 
                 {/* Flechas de cambio de imagen directa tipo Slide */}
@@ -620,11 +620,11 @@ function FichaTurismoContent({ params }: FichaTurismoPageProps) {
                 <div className="absolute bottom-4 left-6 right-6 flex items-center justify-between text-white text-xs pointer-events-none">
                   <div className="flex items-center gap-2 bg-slate-950/80 backdrop-blur-md px-3 py-1.5 rounded-lg border border-white/10">
                     <Icons.Camera className="w-3.5 h-3.5 text-sky-400" />
-                    <span className="font-semibold">Fotografía Oficial</span>
+                    <span className="font-semibold">{t('ficha.officialPhoto')}</span>
                   </div>
                   {allPhotos.length > 1 && (
                     <span className="text-slate-200 bg-slate-950/80 backdrop-blur-md px-3 py-1.5 rounded-lg border border-white/10 font-mono text-[11px] font-semibold">
-                      {activePhotoIndex + 1} / {allPhotos.length} fotos
+                      {activePhotoIndex + 1} / {allPhotos.length} {t('ficha.photos')}
                     </span>
                   )}
                 </div>

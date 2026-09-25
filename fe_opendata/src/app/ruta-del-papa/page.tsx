@@ -317,7 +317,7 @@ function RutaPapaPageContent() {
                 <div className="flex flex-wrap items-center justify-between gap-2 pt-2 border-t border-slate-200 dark:border-slate-800">
                   <div className="flex flex-wrap items-center gap-2">
                     <span className="text-[11px] font-bold uppercase tracking-wider text-slate-400">
-                      Filtros activos:
+                      {t('turismo.filtersActive')}
                     </span>
                     {appliedFilters.search && (
                       <button
@@ -325,7 +325,7 @@ function RutaPapaPageContent() {
                         onClick={() => removeFilter('search')}
                         className="inline-flex items-center gap-1 text-xs px-2.5 py-1 rounded-lg bg-slate-100 dark:bg-slate-800 text-slate-700 dark:text-slate-300 hover:bg-rose-50 hover:text-rose-600 dark:hover:bg-rose-500/20 dark:hover:text-rose-300 transition-colors"
                       >
-                        <span>Texto: &quot;{appliedFilters.search}&quot;</span>
+                        <span>{t('turismo.textFilter')}: &quot;{appliedFilters.search}&quot;</span>
                         <Icons.X className="w-3 h-3" />
                       </button>
                     )}
@@ -335,7 +335,7 @@ function RutaPapaPageContent() {
                         onClick={() => removeFilter('dept')}
                         className="inline-flex items-center gap-1 text-xs px-2.5 py-1 rounded-lg bg-amber-50 dark:bg-amber-500/10 text-amber-700 dark:text-amber-300 hover:bg-rose-50 hover:text-rose-600 dark:hover:bg-rose-500/20 dark:hover:text-rose-300 transition-colors"
                       >
-                        <span>Región: {activeDeptName || appliedFilters.dept}</span>
+                        <span>{t('turismo.deptFilter')}: {activeDeptName || appliedFilters.dept}</span>
                         <Icons.X className="w-3 h-3" />
                       </button>
                     )}
@@ -608,13 +608,13 @@ function RutaPapaPageContent() {
                         </div>
                         <div>
                           <h3 className="text-lg sm:text-xl font-bold text-slate-900 dark:text-white">
-                            {group.dia_semana} {dayNum} de Noviembre, 2026
+                            {group.dia_semana} {dayNum} {t('papa.november')}
                           </h3>
                         </div>
                       </div>
 
                       <span className="text-xs font-mono font-semibold px-2.5 py-1 rounded-md bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-300 self-start sm:self-auto">
-                        {group.items.length} {group.items.length === 1 ? 'actividad oficial' : 'actividades oficiales'}
+                        {group.items.length} {group.items.length === 1 ? t('papa.officialActivity') : t('papa.officialActivities')}
                       </span>
                     </div>
 
@@ -701,7 +701,7 @@ function RutaPapaPageContent() {
                                 }`}
                               >
                                 <Icons.MapPin className="w-3.5 h-3.5" />
-                                <span>{isSelected ? 'Ubicado en mapa' : t('papa.viewOnMap')}</span>
+                                <span>{isSelected ? t('papa.locatedOnMap') : t('papa.viewOnMap')}</span>
                               </button>
                             </div>
                           </div>
