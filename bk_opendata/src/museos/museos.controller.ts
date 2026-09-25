@@ -34,6 +34,12 @@ export class MuseosController {
     return this.museosService.getStats();
   }
 
+  @Get('sitemap')
+  @Header('Cache-Control', 'public, max-age=86400, s-maxage=86400')
+  async getSitemap() {
+    return this.museosService.getSitemap();
+  }
+
   @Get('featured')
   @Header('Cache-Control', 'public, max-age=3600, s-maxage=86400')
   async getFeatured(@Query('limit') limit?: number) {

@@ -503,4 +503,16 @@ export class MuseosService implements OnModuleDestroy {
     const res = await this.executeSql(sql, [], 'getStats');
     return res.rows[0];
   }
+
+  // 9. Listado para Sitemap SEO
+  async getSitemap(): Promise<Array<{ slug: string; fecha_actualizacion?: string }>> {
+    const sql = `
+      SELECT slug, fecha_actualizacion
+      FROM museos.museos
+      WHERE is_active = TRUE
+      ORDER BY id_museo ASC;
+    `;
+    const res = await this.executeSql(sql, [], 'getSitemap');
+    return res.rows;
+  }
 }

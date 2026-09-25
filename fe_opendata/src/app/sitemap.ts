@@ -2,6 +2,7 @@ import { MetadataRoute } from 'next';
 import { createResourceSlug } from '../utils/slug';
 import fallbackResources from '../data/resources-sitemap.json';
 import fallbackEmpresas from '../data/empresas-sitemap.json';
+import fallbackMuseos from '../data/museos-sitemap.json';
 
 export const revalidate = 86400; // Revalidar diariamente
 
@@ -311,6 +312,74 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     });
   }
 
+  // 9. Hubs departamentales de Museos
+  const museosDepartmentRoutes: MetadataRoute.Sitemap = DEPARTMENTS.map((dept) => ({
+    url: `${baseUrl}/museos?department=${encodeURIComponent(dept)}`,
+    lastModified: now,
+    changeFrequency: 'weekly',
+    priority: 0.85,
+  }));
+
+  // 10. Catálogo dinámico completo de Museos del Perú
+  const museosMap = new Map<string, { slug: string; fecha_actualizacion?: string }>();
+
+  // Cargar catálogo de respaldo primero
+  if (Array.isArray(fallbackMuseos)) {
+    for (const m of fallbackMuseos as Array<{ slug?: string; fecha_actualizacion?: string }>) {
+      if (m.slug) {
+        museosMap.set(m.slug, {
+          slug: m.slug,
+          fecha_actualizacion: m.fecha_actualizacion,
+        });
+      }
+    }
+  }
+
+  // Intentar actualizar con datos vivos de la API si está disponible
+  try {
+    const controller = new AbortController();
+    const timeoutId = setTimeout(() => controller.abort(), 6000);
+
+    const res = await fetch(`${apiUrl}/museos/sitemap`, {
+      signal: controller.signal,
+      next: { revalidate: 86400 },
+    });
+
+    clearTimeout(timeoutId);
+
+    if (res.ok) {
+      const museosData: Array<{ slug?: string; fecha_actualizacion?: string }> = await res.json();
+      for (const m of museosData) {
+        if (m.slug) {
+          museosMap.set(m.slug, {
+            slug: m.slug,
+            fecha_actualizacion: m.fecha_actualizacion,
+          });
+        }
+      }
+    }
+  } catch {
+    // Si la API tarda, se utilizan los museos del catálogo de respaldo
+  }
+
+  const dynamicMuseosRoutes: MetadataRoute.Sitemap = [];
+  const seenMuseosUrls = new Set<string>();
+
+  for (const m of museosMap.values()) {
+    const url = `${baseUrl}/museos/${encodeURIComponent(m.slug)}`;
+    if (seenMuseosUrls.has(url)) continue;
+    seenMuseosUrls.add(url);
+
+    const lastMod = m.fecha_actualizacion ? new Date(m.fecha_actualizacion) : now;
+
+    dynamicMuseosRoutes.push({
+      url,
+      lastModified: lastMod,
+      changeFrequency: 'weekly',
+      priority: 0.85,
+    });
+  }
+
   return [
     ...staticRoutes,
     ...turismoDepartmentRoutes,
@@ -318,7 +387,9 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     ...empresasTipoRoutes,
     ...categoryRoutes,
     ...papaDepartmentRoutes,
+    ...museosDepartmentRoutes,
     ...dynamicTurismoRoutes,
     ...dynamicEmpresasRoutes,
+    ...dynamicMuseosRoutes,
   ];
 }
