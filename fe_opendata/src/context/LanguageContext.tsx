@@ -21,6 +21,7 @@ export const translations = {
     // Navbar
     'nav.inicio': 'Inicio',
     'nav.turismo': 'Turismo',
+    'nav.museos': 'Museos',
     'nav.busquedaAvanzada': 'Búsqueda Avanzada',
     'nav.buscar': 'Buscar',
     'nav.portalNacional': 'Portal Nacional de Turismo',
@@ -306,6 +307,7 @@ export const translations = {
     // Navbar
     'nav.inicio': 'Home',
     'nav.turismo': 'Tourism',
+    'nav.museos': 'Museums',
     'nav.busquedaAvanzada': 'Advanced Search',
     'nav.buscar': 'Search',
     'nav.portalNacional': 'National Tourism Open Data Portal',
@@ -591,6 +593,7 @@ export const translations = {
     // Navbar
     'nav.inicio': 'Qallariy',
     'nav.turismo': 'Puriy / Turismo',
+    'nav.museos': 'Yachaywasikuna / Museos',
     'nav.busquedaAvanzada': 'Tarpuy Maskay',
     'nav.buscar': 'Maskay',
     'nav.portalNacional': 'Piruw Suyupa Kichasqa Willakuy Llikan',

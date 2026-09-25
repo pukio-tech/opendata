@@ -58,6 +58,7 @@ export const Navbar = () => {
 
   const isHome = pathname === '/';
   const isTurismo = pathname === '/turismo';
+  const isMuseos = pathname.startsWith('/museos');
   const isRutaPapa = pathname === '/ruta-del-papa';
   const isEmpresas = pathname.startsWith('/empresas');
 
@@ -177,12 +178,12 @@ export const Navbar = () => {
   return (
     <header className="sticky top-0 z-[999] w-full max-w-full bg-white dark:bg-slate-900 border-b border-slate-200 dark:border-slate-800 text-slate-800 dark:text-white transition-colors duration-200 select-none shadow-sm overflow-x-clip">
       {/* ========================================================================= */}
-      {/* 2. BARRA DE NAVEGACIÓN PRINCIPAL (ESTRUCTURA INSTITUCIONAL) */}
+      {/* 2. BARRA DE NAVEGACIÓN PRINCIPAL (ESTRUCTURA DE ESQUINA A ESQUINA) */}
       {/* ========================================================================= */}
-      <div className="max-w-7xl mx-auto px-3 sm:px-6 lg:px-8 h-14 sm:h-16 flex items-center justify-between gap-2 sm:gap-6 w-full">
+      <div className="w-full px-4 sm:px-6 lg:px-8 xl:px-12 h-14 sm:h-16 flex items-center justify-between gap-3 sm:gap-6 lg:gap-8">
         
         {/* LOGO INSTITUCIONAL Y BOTÓN DE MENÚ */}
-        <div className="flex items-center gap-1.5 sm:gap-3 min-w-0">
+        <div className="flex items-center gap-1.5 sm:gap-3 shrink-0">
           <button
             type="button"
             onClick={() => {
@@ -200,7 +201,7 @@ export const Navbar = () => {
             )}
           </button>
 
-          <Link href="/" className="flex items-center gap-2 sm:gap-3 group min-w-0">
+          <Link href="/" className="flex items-center gap-2 sm:gap-3 group shrink-0">
             <div className="w-8 h-8 sm:w-9 sm:h-9 rounded-lg bg-sky-600 text-white flex items-center justify-center shadow-sm shrink-0">
               <Icons.Database className="w-4 h-4 sm:w-5 sm:h-5 text-white" />
             </div>
@@ -221,7 +222,7 @@ export const Navbar = () => {
         </div>
 
         {/* BARRA DE BÚSQUEDA TÉCNICA / DATOS (VISIBLE EN PANTALLAS GRANDES) */}
-        <div className="hidden lg:flex flex-1 max-w-md relative" ref={searchContainerRef}>
+        <div className="hidden lg:flex flex-1 max-w-sm xl:max-w-md 2xl:max-w-lg relative mx-2 xl:mx-4" ref={searchContainerRef}>
           <form onSubmit={handleSearchSubmit} className="w-full relative">
             <div className="relative flex items-center w-full">
               <Icons.Search className="w-4 h-4 text-slate-400 absolute left-3 pointer-events-none" />
@@ -412,9 +413,9 @@ export const Navbar = () => {
         </div>
 
         {/* ENLACES Y ACCIONES DERECHAS */}
-        <div className="flex items-center gap-1 sm:gap-6 shrink-0">
+        <div className="flex items-center gap-2 sm:gap-6 shrink-0">
           {/* Navegación institucional seria */}
-          <nav className="hidden md:flex items-center gap-5 text-xs font-semibold tracking-wide text-slate-600 dark:text-slate-300">
+          <nav className="hidden md:flex items-center gap-4 lg:gap-6 xl:gap-8 text-xs font-semibold tracking-wide text-slate-600 dark:text-slate-300">
             <Link
               href="/"
               className={`py-1 transition-colors ${
@@ -435,6 +436,17 @@ export const Navbar = () => {
               }`}
             >
               {t('nav.turismo')}
+            </Link>
+
+            <Link
+              href="/museos"
+              className={`py-1 transition-colors ${
+                isMuseos
+                  ? 'text-sky-600 dark:text-white border-b-2 border-sky-500 font-bold'
+                  : 'hover:text-slate-900 dark:hover:text-white'
+              }`}
+            >
+              Museos
             </Link>
 
             <Link
@@ -462,7 +474,7 @@ export const Navbar = () => {
           </nav>
 
           {/* Controles de Utilidad (Idioma, Búsqueda móvil y Tema) */}
-          <div className="flex items-center gap-1 sm:gap-2 sm:border-l sm:border-slate-200 sm:dark:border-slate-800 sm:pl-4">
+          <div className="flex items-center gap-1.5 sm:gap-2 sm:border-l sm:border-slate-200 sm:dark:border-slate-800 sm:pl-4 lg:pl-6">
             {/* Botón de Búsqueda Móvil */}
             <button
               type="button"
@@ -759,6 +771,19 @@ export const Navbar = () => {
             >
               <Icons.Compass className="w-4 h-4 shrink-0 text-sky-600 dark:text-sky-400" />
               <span>{t('nav.turismo')}</span>
+            </Link>
+
+            <Link
+              href="/museos"
+              onClick={() => setIsMobileMenuOpen(false)}
+              className={`flex items-center gap-3 px-3 py-2.5 rounded-lg text-xs font-bold transition-colors ${
+                isMuseos
+                  ? 'bg-sky-50 dark:bg-sky-600/20 text-sky-600 dark:text-sky-400'
+                  : 'text-slate-700 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-900 hover:text-slate-900 dark:hover:text-white'
+              }`}
+            >
+              <Icons.Building className="w-4 h-4 shrink-0 text-sky-600 dark:text-sky-400" />
+              <span>Museos del Perú</span>
             </Link>
 
             <Link

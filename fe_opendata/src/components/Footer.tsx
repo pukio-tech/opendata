@@ -9,9 +9,9 @@ export const Footer = () => {
   const { t } = useLanguage();
 
   return (
-    <footer className="bg-white dark:bg-slate-950 text-slate-600 dark:text-slate-400 border-t border-slate-200 dark:border-slate-800/80 pt-16 pb-12 mt-auto transition-colors">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-10 pb-12 border-b border-slate-200 dark:border-slate-800/80">
+    <footer className="bg-white dark:bg-slate-950 text-slate-600 dark:text-slate-400 border-t border-slate-200 dark:border-slate-800/80 pt-16 pb-12 mt-auto transition-colors w-full">
+      <div className="w-full px-4 sm:px-6 lg:px-8 xl:px-12">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-10 xl:gap-14 pb-12 border-b border-slate-200 dark:border-slate-800/80">
           {/* Column 1 & 2: Brand Info & Socials */}
           <div className="lg:col-span-2 space-y-4">
             <Link href="/" className="flex items-center gap-3.5 group">
@@ -88,6 +88,11 @@ export const Footer = () => {
               <li>
                 <Link href="/turismo" className="hover:text-sky-600 dark:hover:text-sky-400 transition-colors">
                   {t('footer.navTurismo')}
+                </Link>
+              </li>
+              <li>
+                <Link href="/museos" className="hover:text-sky-600 dark:hover:text-sky-400 transition-colors">
+                  Museos del Perú
                 </Link>
               </li>
               <li>
