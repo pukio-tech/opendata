@@ -52,6 +52,27 @@ export const Footer = () => {
                   <span>contacto.pukio@gmail.com</span>
                 </a>
               </div>
+
+              {/* Sello de Calidad y Auditoría SEO - Seobility Widget */}
+              <div className="pt-2">
+                <a
+                  href="https://www.seobility.net/en/seocheck/check?url=https%3A%2F%2Fopendata.pukio.lat%2F"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-block transition-transform hover:scale-105"
+                  title="Seobility Score for opendata.pukio.lat"
+                >
+                  {/* eslint-disable-next-line @next/next/no-img-element */}
+                  <img
+                    src="https://app.seobility.net/widget/widget.png?url=https%3A%2F%2Fopendata.pukio.lat%2F"
+                    alt="Seobility Score for opendata.pukio.lat"
+                    width={154}
+                    height={39}
+                    className="h-8 w-auto rounded border border-slate-200 dark:border-slate-800 shadow-xs"
+                    loading="lazy"
+                  />
+                </a>
+              </div>
             </div>
           </div>
 
@@ -111,6 +132,17 @@ export const Footer = () => {
               <li className="flex items-center gap-1.5">
                 <Icons.Shield className="w-3.5 h-3.5 text-sky-500 dark:text-sky-400" />
                 <span>Licencia Abierta CC-BY</span>
+              </li>
+              <li className="pt-1.5 border-t border-slate-100 dark:border-slate-800/80">
+                <a
+                  href="https://www.datosabiertos.gob.pe"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="hover:text-sky-600 dark:hover:text-sky-400 transition-colors inline-flex items-center gap-1.5 text-slate-500 dark:text-slate-400"
+                >
+                  <span>🇵🇪 DatosAbiertos.gob.pe</span>
+                  <Icons.ExternalLink className="w-3 h-3 opacity-60" />
+                </a>
               </li>
             </ul>
           </div>

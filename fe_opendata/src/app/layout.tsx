@@ -112,7 +112,10 @@ export default function RootLayout({
     logo: `${SITE_URL}/logo.png`,
     image: `${SITE_URL}/logo.png`,
     description:
-      'Plataforma Nacional de Datos Abiertos de Turismo del Perú con información del inventario turístico oficial.',
+      'Plataforma Nacional de Datos Abiertos de Turismo y Empresas del Perú con información del inventario turístico y empresarial oficial.',
+    sameAs: [
+      'https://www.linkedin.com/company/pukio-tech',
+    ],
     potentialAction: {
       '@type': 'SearchAction',
       target: {

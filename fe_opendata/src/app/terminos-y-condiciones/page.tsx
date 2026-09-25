@@ -42,7 +42,7 @@ export default function TerminosYCondicionesPage() {
         {/* Content Sections */}
         <div className="space-y-6">
           {/* Section 1 */}
-          <section className="bg-white dark:bg-slate-900 rounded-2xl p-6 sm:p-8 border border-slate-200 dark:border-slate-800 shadow-sm space-y-4">
+          <section className="bg-white dark:bg-slate-900 rounded-2xl p-6 sm:p-8 border border-slate-200 dark:border-slate-800 shadow-sm space-y-5">
             <div className="flex items-center gap-3">
               <div className="w-9 h-9 rounded-lg bg-sky-500/10 border border-sky-500/20 text-sky-600 dark:text-sky-400 flex items-center justify-center font-mono font-bold text-sm">
                 01
@@ -55,10 +55,100 @@ export default function TerminosYCondicionesPage() {
             <p className="text-xs sm:text-sm text-slate-600 dark:text-slate-300 leading-relaxed">
               {t('terms.s1Desc2')}
             </p>
+
+            {/* Tarjetas de Fuentes Oficiales de Datos */}
+            <div className="grid grid-cols-1 md:grid-cols-3 gap-4 pt-2">
+              {/* Fuente 1: Turismo MINCETUR */}
+              <div className="p-4 rounded-xl bg-slate-50 dark:bg-slate-950/60 border border-slate-200 dark:border-slate-800 flex flex-col justify-between space-y-3 hover:border-sky-500/40 transition-colors">
+                <div>
+                  <div className="flex items-center justify-between mb-2">
+                    <span className="inline-flex items-center px-2 py-0.5 rounded text-[10px] font-mono font-bold uppercase tracking-wider bg-sky-500/10 text-sky-600 dark:text-sky-400 border border-sky-500/20">
+                      MINCETUR
+                    </span>
+                    <Icons.Compass className="w-4 h-4 text-sky-500" />
+                  </div>
+                  <h3 className="text-xs font-bold text-slate-900 dark:text-white mb-1.5">
+                    Recursos Turísticos del Perú
+                  </h3>
+                  <p className="text-[11px] text-slate-500 dark:text-slate-400 leading-relaxed">
+                    Inventario Nacional de Recursos Turísticos con más de 4,500 atractivos, fichas técnicas, jerarquías y georreferenciación oficial.
+                  </p>
+                </div>
+                <div className="pt-2 border-t border-slate-200/60 dark:border-slate-800/60">
+                  <a
+                    href="https://consultasenlinea.mincetur.gob.pe"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="inline-flex items-center gap-1.5 text-[11px] font-semibold text-sky-600 dark:text-sky-400 hover:underline"
+                  >
+                    <span>consultasenlinea.mincetur.gob.pe</span>
+                    <Icons.ExternalLink className="w-3 h-3" />
+                  </a>
+                </div>
+              </div>
+
+              {/* Fuente 2: Directorio de Empresas Gob.pe */}
+              <div className="p-4 rounded-xl bg-slate-50 dark:bg-slate-950/60 border border-slate-200 dark:border-slate-800 flex flex-col justify-between space-y-3 hover:border-indigo-500/40 transition-colors">
+                <div>
+                  <div className="flex items-center justify-between mb-2">
+                    <span className="inline-flex items-center px-2 py-0.5 rounded text-[10px] font-mono font-bold uppercase tracking-wider bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 border border-indigo-500/20">
+                      PCM / SUNAT
+                    </span>
+                    <Icons.Building className="w-4 h-4 text-indigo-500" />
+                  </div>
+                  <h3 className="text-xs font-bold text-slate-900 dark:text-white mb-1.5">
+                    Directorio Oficial de Empresas
+                  </h3>
+                  <p className="text-[11px] text-slate-500 dark:text-slate-400 leading-relaxed">
+                    Plataforma Nacional de Datos Abiertos de la Presidencia del Consejo de Ministros (PCM) con más de 32,100 empresas, RUC y actividad económica CIIU.
+                  </p>
+                </div>
+                <div className="pt-2 border-t border-slate-200/60 dark:border-slate-800/60">
+                  <a
+                    href="https://www.gob.pe/datosabiertos"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="inline-flex items-center gap-1.5 text-[11px] font-semibold text-indigo-600 dark:text-indigo-400 hover:underline"
+                  >
+                    <span>gob.pe/datosabiertos</span>
+                    <Icons.ExternalLink className="w-3 h-3" />
+                  </a>
+                </div>
+              </div>
+
+              {/* Fuente 3: Ruta del Papa León XIV */}
+              <div className="p-4 rounded-xl bg-slate-50 dark:bg-slate-950/60 border border-slate-200 dark:border-slate-800 flex flex-col justify-between space-y-3 hover:border-amber-500/40 transition-colors">
+                <div>
+                  <div className="flex items-center justify-between mb-2">
+                    <span className="inline-flex items-center px-2 py-0.5 rounded text-[10px] font-mono font-bold uppercase tracking-wider bg-amber-500/10 text-amber-600 dark:text-amber-400 border border-amber-500/20">
+                      IRTP / Santa Sede
+                    </span>
+                    <Icons.Award className="w-4 h-4 text-amber-500" />
+                  </div>
+                  <h3 className="text-xs font-bold text-slate-900 dark:text-white mb-1.5">
+                    Ruta del Papa León XIV
+                  </h3>
+                  <p className="text-[11px] text-slate-500 dark:text-slate-400 leading-relaxed">
+                    Programa oficial de la visita apostólica del Santo Padre publicado por el Instituto Nacional de Radio y Televisión del Perú (IRTP) y la Presidencia de la República.
+                  </p>
+                </div>
+                <div className="pt-2 border-t border-slate-200/60 dark:border-slate-800/60">
+                  <a
+                    href="https://www.gob.pe/institucion/irtp/noticias/1446972-papa-leon-xiv-en-peru-conoce-el-programa-oficial-de-actividades-del-santo-padre-durante-su-visita-a-nuestro-pais"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="inline-flex items-center gap-1.5 text-[11px] font-semibold text-amber-600 dark:text-amber-400 hover:underline"
+                  >
+                    <span>Noticia Oficial IRTP (Gob.pe)</span>
+                    <Icons.ExternalLink className="w-3 h-3" />
+                  </a>
+                </div>
+              </div>
+            </div>
           </section>
 
           {/* Section 2 */}
-          <section className="bg-white dark:bg-slate-900 rounded-2xl p-6 sm:p-8 border border-slate-200 dark:border-slate-800 shadow-sm space-y-4">
+          <section id="licencia" className="bg-white dark:bg-slate-900 rounded-2xl p-6 sm:p-8 border border-slate-200 dark:border-slate-800 shadow-sm space-y-4">
             <div className="flex items-center gap-3">
               <div className="w-9 h-9 rounded-lg bg-emerald-500/10 border border-emerald-500/20 text-emerald-600 dark:text-emerald-400 flex items-center justify-center font-mono font-bold text-sm">
                 02
@@ -71,6 +161,12 @@ export default function TerminosYCondicionesPage() {
             <p className="text-xs sm:text-sm text-slate-600 dark:text-slate-300 leading-relaxed">
               {t('terms.s2Desc2')}
             </p>
+            <div className="p-3.5 rounded-xl bg-emerald-50/50 dark:bg-emerald-950/20 border border-emerald-200 dark:border-emerald-800/60 text-xs text-emerald-800 dark:text-emerald-300 flex items-center gap-2 font-medium">
+              <Icons.ShieldCheck className="w-4 h-4 shrink-0 text-emerald-600 dark:text-emerald-400" />
+              <span>
+                Datos abiertos bajo lineamientos de transparencia pública y licencia Creative Commons Atribución (CC-BY 4.0).
+              </span>
+            </div>
           </section>
 
           {/* Section 3 */}

@@ -822,46 +822,90 @@ export default function HomePage() {
             Descubre los Recursos Turísticos y Empresas del Perú
           </h2>
           <p className="mt-3 text-xs sm:text-sm text-slate-600 dark:text-slate-400 leading-relaxed">
-            OpenData Perú es la plataforma libre de consulta ciudadana y análisis técnico que centraliza los datos abiertos del patrimonio turístico nacional y el ecosistema empresarial formal del Perú. Diseñado para investigadores, estudiantes, turistas, inversionistas y ciudadanos que requieren datos verificados sin barreras de acceso.
+            OpenData Perú es la plataforma libre de consulta ciudadana y análisis técnico que centraliza los datos abiertos del patrimonio turístico nacional (MINCETUR), el directorio empresarial formal obtenido de la Plataforma Nacional de Datos Abiertos (gob.pe/datosabiertos) y el cronograma oficial de la Ruta del Papa León XIV (IRTP / Presidencia de la República).
           </p>
         </div>
 
-        {/* 3 Bloques Temáticos de Contenido Enriquecido */}
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-12">
-          <div className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-2xl p-6 shadow-sm space-y-3">
-            <div className="w-10 h-10 rounded-xl bg-sky-50 dark:bg-sky-950/70 border border-sky-200 dark:border-sky-800 flex items-center justify-center text-sky-600 dark:text-sky-400">
-              <Icons.Compass className="w-5 h-5" />
+        {/* 4 Bloques Temáticos de Contenido Enriquecido */}
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 mb-12">
+          {/* Bloque 1: Turismo MINCETUR */}
+          <div className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-2xl p-6 shadow-sm space-y-3 flex flex-col justify-between">
+            <div className="space-y-3">
+              <div className="w-10 h-10 rounded-xl bg-sky-50 dark:bg-sky-950/70 border border-sky-200 dark:border-sky-800 flex items-center justify-center text-sky-600 dark:text-sky-400">
+                <Icons.Compass className="w-5 h-5" />
+              </div>
+              <h3 className="text-base font-bold text-slate-900 dark:text-white">
+                Inventario Turístico Nacional
+              </h3>
+              <p className="text-xs text-slate-600 dark:text-slate-400 leading-relaxed">
+                Consulta más de 4,800 recursos turísticos del Perú registrados oficialmente ante el MINCETUR. Incluye sitios arqueológicos milenarios, reservas naturales, festividades folclóricas, gastronomía tradicional y patrimonio de las 25 regiones con fichas técnicas y coordenadas oficiales.
+              </p>
             </div>
-            <h3 className="text-base font-bold text-slate-900 dark:text-white">
-              Inventario Turístico Nacional
-            </h3>
-            <p className="text-xs text-slate-600 dark:text-slate-400 leading-relaxed">
-              Consulta más de 4,800 recursos turísticos del Perú registrados oficialmente ante el MINCETUR. Incluye sitios arqueológicos milenarios, reservas y santuarios naturales, festividades folclóricas, gastronomía tradicional y obras artísticas contemporáneas distribuidas en las 25 regiones del país, con descripciones técnicas, galerías fotográficas y rutas de acceso terrestre, aéreo y fluvial.
-            </p>
+            <div className="pt-3 border-t border-slate-100 dark:border-slate-800">
+              <span className="text-[11px] font-mono text-sky-600 dark:text-sky-400 font-semibold">
+                Fuente: MINCETUR
+              </span>
+            </div>
           </div>
 
-          <div className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-2xl p-6 shadow-sm space-y-3">
-            <div className="w-10 h-10 rounded-xl bg-emerald-50 dark:bg-emerald-950/70 border border-emerald-200 dark:border-emerald-800 flex items-center justify-center text-emerald-600 dark:text-emerald-400">
-              <Icons.Building className="w-5 h-5" />
+          {/* Bloque 2: Empresas gob.pe/datosabiertos */}
+          <div className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-2xl p-6 shadow-sm space-y-3 flex flex-col justify-between">
+            <div className="space-y-3">
+              <div className="w-10 h-10 rounded-xl bg-emerald-50 dark:bg-emerald-950/70 border border-emerald-200 dark:border-emerald-800 flex items-center justify-center text-emerald-600 dark:text-emerald-400">
+                <Icons.Building className="w-5 h-5" />
+              </div>
+              <h3 className="text-base font-bold text-slate-900 dark:text-white">
+                Directorio Oficial de Empresas
+              </h3>
+              <p className="text-xs text-slate-600 dark:text-slate-400 leading-relaxed">
+                Accede al directorio público de más de 32,100 empresas peruanas obtenido de la Plataforma Nacional de Datos Abiertos (gob.pe/datosabiertos) y la SUNAT. Verifica al instante la razón social, número de RUC de 11 dígitos, estado, condición fiscal y actividad económica CIIU Rev. 4.
+              </p>
             </div>
-            <h3 className="text-base font-bold text-slate-900 dark:text-white">
-              Directorio Empresarial SUNAT
-            </h3>
-            <p className="text-xs text-slate-600 dark:text-slate-400 leading-relaxed">
-              Accede al directorio público de más de 32,100 empresas peruanas formalmente inscritas ante la SUNAT. Verifica al instante la razón social, número de RUC de 11 dígitos, estado del contribuyente (activo o baja), condición de domicilio fiscal (habido o no habido), tipo societario y actividad económica según la Clasificación Industrial Internacional Uniforme (CIIU Rev. 4).
-            </p>
+            <div className="pt-3 border-t border-slate-100 dark:border-slate-800">
+              <span className="text-[11px] font-mono text-emerald-600 dark:text-emerald-400 font-semibold">
+                Fuente: gob.pe/datosabiertos
+              </span>
+            </div>
           </div>
 
-          <div className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-2xl p-6 shadow-sm space-y-3">
-            <div className="w-10 h-10 rounded-xl bg-indigo-50 dark:bg-indigo-950/70 border border-indigo-200 dark:border-indigo-800 flex items-center justify-center text-indigo-600 dark:text-indigo-400">
-              <Icons.MapPin className="w-5 h-5" />
+          {/* Bloque 3: Ruta del Papa León XIV */}
+          <div className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-2xl p-6 shadow-sm space-y-3 flex flex-col justify-between">
+            <div className="space-y-3">
+              <div className="w-10 h-10 rounded-xl bg-amber-50 dark:bg-amber-950/70 border border-amber-200 dark:border-amber-800 flex items-center justify-center text-amber-600 dark:text-amber-400">
+                <Icons.Award className="w-5 h-5" />
+              </div>
+              <h3 className="text-base font-bold text-slate-900 dark:text-white">
+                Ruta del Papa León XIV
+              </h3>
+              <p className="text-xs text-slate-600 dark:text-slate-400 leading-relaxed">
+                Sigue el itinerario oficial de la visita apostólica del Papa León XIV en el Perú, publicado por el Instituto Nacional de Radio y Televisión del Perú (IRTP) y la Presidencia de la República. Cronograma detallado, sedes litúrgicas y mapa interactivo en 6 departamentos.
+              </p>
             </div>
-            <h3 className="text-base font-bold text-slate-900 dark:text-white">
-              Geoportal Espacial Interactivo
-            </h3>
-            <p className="text-xs text-slate-600 dark:text-slate-400 leading-relaxed">
-              Explora la infraestructura de datos espaciales con coordenadas geodésicas de precisión en el sistema WGS-84 (EPSG:4326). Los datos están abiertos en formatos interoperables (JSON y GeoJSON) bajo licenciamiento Creative Commons para su reutilización responsable en proyectos académicos, aplicaciones móviles y análisis geoespacial del territorio peruano.
-            </p>
+            <div className="pt-3 border-t border-slate-100 dark:border-slate-800">
+              <span className="text-[11px] font-mono text-amber-600 dark:text-amber-400 font-semibold">
+                Fuente: IRTP / Gob.pe
+              </span>
+            </div>
+          </div>
+
+          {/* Bloque 4: Geoportal Espacial Interactivo */}
+          <div className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-2xl p-6 shadow-sm space-y-3 flex flex-col justify-between">
+            <div className="space-y-3">
+              <div className="w-10 h-10 rounded-xl bg-indigo-50 dark:bg-indigo-950/70 border border-indigo-200 dark:border-indigo-800 flex items-center justify-center text-indigo-600 dark:text-indigo-400">
+                <Icons.MapPin className="w-5 h-5" />
+              </div>
+              <h3 className="text-base font-bold text-slate-900 dark:text-white">
+                Geoportal Espacial Interactivo
+              </h3>
+              <p className="text-xs text-slate-600 dark:text-slate-400 leading-relaxed">
+                Explora la infraestructura de datos espaciales con coordenadas geodésicas de precisión en el sistema WGS-84 (EPSG:4326). Los datos están abiertos en formatos interoperables (JSON y GeoJSON) bajo licenciamiento Creative Commons para su reutilización responsable.
+              </p>
+            </div>
+            <div className="pt-3 border-t border-slate-100 dark:border-slate-800">
+              <span className="text-[11px] font-mono text-indigo-600 dark:text-indigo-400 font-semibold">
+                Estándar OGC & EPSG:4326
+              </span>
+            </div>
           </div>
         </div>
 
@@ -883,7 +927,7 @@ export default function HomePage() {
                 <span>¿De dónde provienen los datos publicados en OpenData Perú?</span>
               </h4>
               <p className="text-slate-600 dark:text-slate-400 pl-3">
-                Los datos turísticos provienen de las fichas oficiales del Inventario Nacional de Recursos Turísticos del MINCETUR, mientras que la información corporativa se alimenta de los registros públicos tributarios de la SUNAT y el Instituto Nacional de Estadística e Informática (INEI).
+                Los datos provienen de fuentes oficiales del Estado Peruano: el catálogo de recursos turísticos se obtiene del <strong>MINCETUR</strong> (<a href="https://consultasenlinea.mincetur.gob.pe" target="_blank" rel="noopener noreferrer" className="text-sky-600 dark:text-sky-400 hover:underline">consultasenlinea.mincetur.gob.pe</a>), el directorio de empresas procede de la <strong>Plataforma Nacional de Datos Abiertos</strong> (<a href="https://www.gob.pe/datosabiertos" target="_blank" rel="noopener noreferrer" className="text-sky-600 dark:text-sky-400 hover:underline">gob.pe/datosabiertos</a>) y la SUNAT, y la Ruta del Papa León XIV proviene del programa oficial publicado por el <strong>IRTP</strong> y la Presidencia de la República (<a href="https://www.gob.pe/institucion/irtp/noticias/1446972-papa-leon-xiv-en-peru-conoce-el-programa-oficial-de-actividades-del-santo-padre-durante-su-visita-a-nuestro-pais" target="_blank" rel="noopener noreferrer" className="text-sky-600 dark:text-sky-400 hover:underline">gob.pe/irtp</a>).
               </p>
             </div>
 
@@ -913,7 +957,7 @@ export default function HomePage() {
                 <span>¿Cómo citar o reutilizar los datos en investigaciones?</span>
               </h4>
               <p className="text-slate-600 dark:text-slate-400 pl-3">
-                La información se distribuye bajo el estándar de datos abiertos CC-BY. Se recomienda citar a OpenData Perú y las fuentes primarias institucionales (MINCETUR / SUNAT) en informes, publicaciones académicas o herramientas tecnológicas.
+                La información se distribuye bajo el estándar de datos abiertos CC-BY. Se recomienda citar a OpenData Perú y las fuentes primarias institucionales (MINCETUR, gob.pe/datosabiertos, SUNAT e IRTP) en informes, publicaciones académicas o herramientas tecnológicas.
               </p>
             </div>
           </div>
