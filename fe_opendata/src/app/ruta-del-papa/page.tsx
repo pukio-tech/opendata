@@ -8,7 +8,8 @@ import { PapaActivity, PapaCronogramaResponse, PapaDepartment } from '../../type
 import { Icons } from '../../components/Icons';
 import { CustomSelect, SelectOption } from '../../components/CustomSelect';
 import { useLanguage } from '../../context/LanguageContext';
-import { cleanLabel } from '../../utils/minceturTranslate';
+import { cleanLabel, translateDayOfWeek, translatePapaActivityType } from '../../utils/minceturTranslate';
+import { DynamicText } from '../../utils/dynamicTranslate';
 
 // Carga dinámica del mapa interactivo con Leaflet
 const PapaOpenStreetMap = dynamic(
@@ -474,7 +475,7 @@ function RutaPapaPageContent() {
                             </span>
                             <span className="text-[11px] font-semibold text-slate-700 dark:text-slate-300 flex items-center gap-1">
                               <Icons.Calendar className="w-3 h-3 text-amber-500" />
-                              <span>{act.dia_semana} {act.fecha.slice(8, 10)} Nov</span>
+                              <span>{translateDayOfWeek(act.dia_semana, language)} {act.fecha.slice(8, 10)} {t('papa.november')}</span>
                             </span>
                           </div>
 
@@ -489,26 +490,28 @@ function RutaPapaPageContent() {
                                 : 'bg-amber-100 dark:bg-amber-950/80 text-amber-800 dark:text-amber-300'
                             }`}
                           >
-                            {act.tipo}
+                            {translatePapaActivityType(act.tipo, language)}
                           </span>
                         </div>
 
                         {/* Título de la actividad */}
                         <h4 className="text-xs sm:text-sm font-bold text-slate-900 dark:text-white leading-snug mb-2">
-                          {act.titulo}
+                          <DynamicText text={act.titulo} />
                         </h4>
 
                         {/* Lugar y Ubicación */}
                         <div className="space-y-1">
                           <div className="flex items-center gap-1.5 text-xs text-slate-700 dark:text-slate-300">
                             <Icons.Building className="w-3.5 h-3.5 text-amber-500 shrink-0" />
-                            <span className="font-semibold truncate">{act.lugar}</span>
+                            <span className="font-semibold truncate">
+                              <DynamicText text={act.lugar} />
+                            </span>
                           </div>
 
                           <div className="flex items-center gap-1.5 text-[11px] text-slate-500 dark:text-slate-400">
                             <Icons.MapPin className="w-3 h-3 text-sky-500 shrink-0" />
                             <span>
-                              {act.distrito ? `${act.distrito}, ` : ''}{act.provincia} • <strong className="text-slate-800 dark:text-slate-200">{act.departamento}</strong>
+                              {act.distrito ? `${cleanLabel(act.distrito)}, ` : ''}{cleanLabel(act.provincia)} • <strong className="text-slate-800 dark:text-slate-200">{cleanLabel(act.departamento)}</strong>
                             </span>
                           </div>
                         </div>
@@ -608,7 +611,7 @@ function RutaPapaPageContent() {
                         </div>
                         <div>
                           <h3 className="text-lg sm:text-xl font-bold text-slate-900 dark:text-white">
-                            {group.dia_semana} {dayNum} {t('papa.november')}
+                            {translateDayOfWeek(group.dia_semana, language)} {dayNum} {t('papa.november')}
                           </h3>
                         </div>
                       </div>
@@ -661,32 +664,34 @@ function RutaPapaPageContent() {
                                     : 'bg-amber-100 dark:bg-amber-950/80 text-amber-800 dark:text-amber-300'
                                 }`}
                               >
-                                {activity.tipo}
+                                {translatePapaActivityType(activity.tipo, language)}
                               </span>
                             </div>
 
                             {/* Columna 2: Título, Lugar, Ubicación y Descripción */}
                             <div className="flex-1 min-w-0 space-y-1.5">
                               <h4 className="text-sm sm:text-base font-bold text-slate-900 dark:text-white leading-snug">
-                                {activity.titulo}
+                                <DynamicText text={activity.titulo} />
                               </h4>
 
                               <div className="flex flex-wrap items-center gap-x-4 gap-y-1 text-xs text-slate-600 dark:text-slate-400">
                                 <span className="flex items-center gap-1.5 font-semibold text-slate-700 dark:text-slate-300">
                                   <Icons.Building className="w-3.5 h-3.5 text-amber-500 shrink-0" />
-                                  <span>{activity.lugar}</span>
+                                  <span>
+                                    <DynamicText text={activity.lugar} />
+                                  </span>
                                 </span>
 
                                 <span className="flex items-center gap-1.5 text-slate-500 dark:text-slate-400">
                                   <Icons.MapPin className="w-3.5 h-3.5 text-sky-500 shrink-0" />
                                   <span>
-                                    {activity.distrito ? `${activity.distrito}, ` : ''}{activity.provincia} • <strong className="text-slate-800 dark:text-slate-200">{activity.departamento}</strong>
+                                    {activity.distrito ? `${cleanLabel(activity.distrito)}, ` : ''}{cleanLabel(activity.provincia)} • <strong className="text-slate-800 dark:text-slate-200">{cleanLabel(activity.departamento)}</strong>
                                   </span>
                                 </span>
                               </div>
 
                               <p className="text-xs text-slate-500 dark:text-slate-400 leading-relaxed pt-0.5">
-                                {activity.descripcion}
+                                <DynamicText text={activity.descripcion} />
                               </p>
                             </div>
 

@@ -180,7 +180,7 @@ export const ResourceCard: React.FC<ResourceCardProps> = ({ resource }) => {
               {cleanLabel(resource.desdpto || 'Perú')}
             </span>
             <span className="font-mono text-[10px] font-bold px-2 py-0.5 rounded bg-slate-900/90 text-amber-400 border border-slate-700">
-              Ficha #{resource.codigo}
+              {t('card.recordNum')} #{resource.codigo}
             </span>
           </div>
 
@@ -188,7 +188,7 @@ export const ResourceCard: React.FC<ResourceCardProps> = ({ resource }) => {
           {categoryTag && (
             <div className="absolute bottom-2.5 left-2.5 right-2.5 z-20">
               <span className="px-2 py-0.5 rounded text-[10px] font-mono font-bold bg-slate-900/90 border border-slate-700 text-sky-300 truncate max-w-[220px] inline-block">
-                <DynamicText text={categoryTag} />
+                {categoryTag}
               </span>
             </div>
           )}
@@ -197,7 +197,7 @@ export const ResourceCard: React.FC<ResourceCardProps> = ({ resource }) => {
         {/* Card Body */}
         <div className="p-4 sm:p-5 space-y-2.5">
           <span className="text-[11px] font-mono text-slate-500 dark:text-slate-400 block mb-0.5">
-            {cleanLabel(resource.desprov || resource.desubigeo || 'Ubicación Registrada')}
+            {cleanLabel(resource.desprov || resource.desubigeo || t('home.verifiedLocation'))}
           </span>
 
           <h3 className="text-sm sm:text-base font-bold text-slate-900 dark:text-white group-hover:text-sky-600 dark:group-hover:text-sky-400 transition-colors line-clamp-2 leading-snug">
