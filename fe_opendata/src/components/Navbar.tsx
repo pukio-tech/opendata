@@ -54,6 +54,7 @@ export const Navbar = () => {
 
   const isHome = pathname === '/';
   const isTurismo = pathname === '/turismo';
+  const isRutaPapa = pathname === '/ruta-del-papa';
 
   // Soporte para atajo de teclado Ctrl+K o Cmd+K
   useEffect(() => {
@@ -327,6 +328,18 @@ export const Navbar = () => {
             >
               {t('nav.turismo')}
             </Link>
+
+            <Link
+              href="/ruta-del-papa"
+              className={`py-1 transition-colors flex items-center gap-1.5 ${
+                isRutaPapa
+                  ? 'text-amber-600 dark:text-amber-400 border-b-2 border-amber-500 font-bold'
+                  : 'hover:text-amber-600 dark:hover:text-amber-400'
+              }`}
+            >
+              <span className="w-1.5 h-1.5 rounded-full bg-amber-500 animate-pulse" />
+              <span>Ruta del Papa</span>
+            </Link>
           </nav>
 
           {/* Controles de Utilidad (Idioma, Búsqueda móvil y Tema) */}
@@ -447,6 +460,16 @@ export const Navbar = () => {
             }`}
           >
             {t('nav.turismo')}
+          </Link>
+
+          <Link
+            href="/ruta-del-papa"
+            onClick={() => setIsMobileMenuOpen(false)}
+            className={`block px-3 py-2 rounded-lg text-sm font-semibold transition-colors ${
+              isRutaPapa ? 'bg-amber-50 dark:bg-amber-500/20 text-amber-600 dark:text-amber-400 font-bold' : 'text-slate-700 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-900 hover:text-slate-900 dark:hover:text-white'
+            }`}
+          >
+            🇻🇦 Ruta del Papa León XIV
           </Link>
 
           <Link

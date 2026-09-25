@@ -70,6 +70,12 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       priority: 0.95,
     },
     {
+      url: `${baseUrl}/ruta-del-papa`,
+      lastModified: now,
+      changeFrequency: 'daily',
+      priority: 0.95,
+    },
+    {
       url: `${baseUrl}/politicas-de-privacidad`,
       lastModified: now,
       changeFrequency: 'monthly',
@@ -97,6 +103,15 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     lastModified: now,
     changeFrequency: 'weekly',
     priority: 0.8,
+  }));
+
+  // 4. Hubs departamentales de la Visita Papal
+  const PAPA_DEPARTMENTS = ['lima', 'callao', 'lambayeque', 'cajamarca', 'cusco', 'ucayali'];
+  const papaDepartmentRoutes: MetadataRoute.Sitemap = PAPA_DEPARTMENTS.map((dept) => ({
+    url: `${baseUrl}/ruta-del-papa?department=${encodeURIComponent(dept)}`,
+    lastModified: now,
+    changeFrequency: 'daily',
+    priority: 0.9,
   }));
 
   // 4. Catálogo completo de recursos turísticos dinámicos
@@ -197,6 +212,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     ...staticRoutes,
     ...departmentRoutes,
     ...categoryRoutes,
+    ...papaDepartmentRoutes,
     ...dynamicRoutes,
   ];
 }

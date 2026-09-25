@@ -87,6 +87,11 @@ export const Footer = () => {
                 </Link>
               </li>
               <li>
+                <Link href="/ruta-del-papa" className="hover:text-amber-600 dark:hover:text-amber-400 font-medium text-amber-600 dark:text-amber-400 flex items-center gap-1 transition-colors">
+                  <span>🇻🇦 Ruta del Papa León XIV</span>
+                </Link>
+              </li>
+              <li>
                 <Link href="/turismo#mapa" className="hover:text-sky-600 dark:hover:text-sky-400 transition-colors">
                   {t('footer.navMap')}
                 </Link>

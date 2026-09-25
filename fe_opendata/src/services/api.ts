@@ -1,4 +1,6 @@
 import { ActivityItem, CategoryItem, DepartmentItem, FichaDetail, PaginatedResponse, ResourceItem } from '../types/mincetur';
+import { PapaCronogramaResponse } from '../types/papa';
+import localPapaData from '../data/cronograma_papa_leonxiv.json';
 
 export const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:3001/api';
 
@@ -272,5 +274,46 @@ export const apiService = {
 
     inFlightClientRequests.set(cacheKey, promise);
     return promise;
+  },
+
+  // 7. Obtener cronograma oficial de la visita del Papa León XIV
+  async getPapaCronograma(department?: string): Promise<PapaCronogramaResponse> {
+    const query = department ? `?department=${encodeURIComponent(department)}` : '';
+    const cacheKey = `papa_cronograma_${department || 'all'}`;
+    const cached = getCached<PapaCronogramaResponse>(cacheKey);
+    if (cached) return cached;
+
+    try {
+      const res = await fetch(`${API_BASE_URL}/papa-leon-xiv${query}`, {
+        cache: 'no-store',
+      });
+      if (res.ok) {
+        const data = await res.json();
+        setCached(cacheKey, data, 3600000);
+        return data;
+      }
+    } catch (e) {
+      console.warn('API backend no disponible para cronograma papal, usando fallback local.', e);
+    }
+
+    // Fallback a datos locales estructurados
+    const data = localPapaData as unknown as PapaCronogramaResponse;
+    if (department && department.trim()) {
+      const deptNormalized = department.trim().toLowerCase();
+      const filtered = data.por_departamento.filter(
+        (d) =>
+          d.departamento.toLowerCase() === deptNormalized ||
+          d.slug.toLowerCase() === deptNormalized,
+      );
+      const filteredData: PapaCronogramaResponse = {
+        ...data,
+        por_departamento: filtered,
+      };
+      setCached(cacheKey, filteredData, 3600000);
+      return filteredData;
+    }
+
+    setCached(cacheKey, data, 3600000);
+    return data;
   },
 };

@@ -1,0 +1,700 @@
+{
+  "visita_apostolica": {
+    "pontifice": "Papa León XIV",
+    "titulo": "Ruta del Papa León XIV en el Perú",
+    "pais": "Perú",
+    "lema_evento": "Visita Apostólica Oficial de Su Santidad León XIV",
+    "fecha_inicio": "2026-11-11",
+    "fecha_fin": "2026-11-16",
+    "total_departamentos": 6,
+    "total_actividades": 26,
+    "enlace_oficial": "https://www.gob.pe/institucion/irtp/noticias/1446972-papa-leon-xiv-en-peru-conoce-el-programa-oficial-de-actividades-del-santo-padre-durante-su-visita-a-nuestro-pais",
+    "fuente": "IRTP - Presidencia de la República del Perú / Santa Sede"
+  },
+  "por_departamento": [
+    {
+      "departamento": "Lima",
+      "slug": "lima",
+      "total_actividades": 10,
+      "centro_mapa": {
+        "latitud": -12.046374,
+        "longitud": -77.042793,
+        "zoom": 12
+      },
+      "cronograma": [
+        {
+          "id": "LIM-01",
+          "fecha": "2026-11-11",
+          "dia_semana": "Miércoles",
+          "hora": "18:15",
+          "departamento": "Lima",
+          "provincia": "Lima",
+          "distrito": "Lima",
+          "lugar": "Palacio de Gobierno",
+          "titulo": "Ceremonia de bienvenida",
+          "descripcion": "Ceremonia oficial de bienvenida del Papa León XIV en el Palacio de Gobierno del Perú.",
+          "tipo": "Protocolar",
+          "coordenadas": {
+            "latitud": -12.045056,
+            "longitud": -77.029833
+          }
+        },
+        {
+          "id": "LIM-02",
+          "fecha": "2026-11-11",
+          "dia_semana": "Miércoles",
+          "hora": "18:45",
+          "departamento": "Lima",
+          "provincia": "Lima",
+          "distrito": "Lima",
+          "lugar": "Palacio de Gobierno",
+          "titulo": "Visita a la Presidente de la República",
+          "descripcion": "Audiencia y saludo protocolar con la presidente de la república y autoridades del Poder Ejecutivo.",
+          "tipo": "Oficial",
+          "coordenadas": {
+            "latitud": -12.045056,
+            "longitud": -77.029833
+          }
+        },
+        {
+          "id": "LIM-03",
+          "fecha": "2026-11-11",
+          "dia_semana": "Miércoles",
+          "hora": "19:45",
+          "departamento": "Lima",
+          "provincia": "Lima",
+          "distrito": "San Borja",
+          "lugar": "Gran Teatro Nacional",
+          "titulo": "Encuentro con autoridades, sociedad civil y cuerpo diplomático",
+          "descripcion": "Encuentro magno con los representantes de los poderes del Estado, la sociedad civil organizada y el cuerpo diplomático acreditado.",
+          "tipo": "Institucional / Diplomático",
+          "coordenadas": {
+            "latitud": -12.086389,
+            "longitud": -77.000556
+          }
+        },
+        {
+          "id": "LIM-04",
+          "fecha": "2026-11-12",
+          "dia_semana": "Jueves",
+          "hora": "09:30",
+          "departamento": "Lima",
+          "provincia": "Lima",
+          "distrito": "Lima",
+          "lugar": "Capilla del Palacio Arzobispal de Lima",
+          "titulo": "Encuentro con los obispos del Perú",
+          "descripcion": "Encuentro pastoral y colegial con el episcopado peruano en la histórica capilla del Palacio Arzobispal.",
+          "tipo": "Pastoral / Eclesial",
+          "coordenadas": {
+            "latitud": -12.046389,
+            "longitud": -77.029444
+          }
+        },
+        {
+          "id": "LIM-05",
+          "fecha": "2026-11-12",
+          "dia_semana": "Jueves",
+          "hora": "10:20",
+          "departamento": "Lima",
+          "provincia": "Lima",
+          "distrito": "Lima",
+          "lugar": "Basílica Catedral de San Juan Apóstol y Evangelista",
+          "titulo": "Celebración de la Hora Media",
+          "descripcion": "Celebración litúrgica de la Hora Media con obispos, sacerdotes, religiosos, religiosas, seminaristas, equipos sinodales y consejos pastorales.",
+          "tipo": "Litúrgico",
+          "coordenadas": {
+            "latitud": -12.046667,
+            "longitud": -77.029722
+          }
+        },
+        {
+          "id": "LIM-06",
+          "fecha": "2026-11-12",
+          "dia_semana": "Jueves",
+          "hora": "11:30",
+          "departamento": "Lima",
+          "provincia": "Lima",
+          "distrito": "Lima",
+          "lugar": "Plaza Mayor / Atrio de la Catedral",
+          "titulo": "Encuentro sobre desafíos y esperanzas del pueblo peruano",
+          "descripcion": "Mensaje y encuentro abierto sobre los desafíos sociales y las esperanzas para el porvenir del pueblo peruano.",
+          "tipo": "Público / Mensaje",
+          "coordenadas": {
+            "latitud": -12.046111,
+            "longitud": -77.030556
+          }
+        },
+        {
+          "id": "LIM-07",
+          "fecha": "2026-11-12",
+          "dia_semana": "Jueves",
+          "hora": "18:00",
+          "departamento": "Lima",
+          "provincia": "Lima",
+          "distrito": "Ate",
+          "lugar": "Estadio Monumental de Lima",
+          "titulo": "Vigilia de oración con jóvenes y universitarios",
+          "descripcion": "Multitudinaria vigilia nacional de oración y diálogo de fe con los jóvenes, escolares y delegaciones universitarias.",
+          "tipo": "Juvenil / Oración",
+          "coordenadas": {
+            "latitud": -12.055556,
+            "longitud": -76.936111
+          }
+        },
+        {
+          "id": "LIM-08",
+          "fecha": "2026-11-12",
+          "dia_semana": "Jueves",
+          "hora": "20:00",
+          "departamento": "Lima",
+          "provincia": "Lima",
+          "distrito": "Jesús María",
+          "lugar": "Nunciatura Apostólica",
+          "titulo": "Cena con los obispos",
+          "descripcion": "Cena fraterna y diálogo privado con los obispos en la sede de la Nunciatura Apostólica en el Perú.",
+          "tipo": "Comunitario / Privado",
+          "coordenadas": {
+            "latitud": -12.074444,
+            "longitud": -77.046667
+          }
+        },
+        {
+          "id": "LIM-09",
+          "fecha": "2026-11-16",
+          "dia_semana": "Lunes",
+          "hora": "08:30",
+          "departamento": "Lima",
+          "provincia": "Lima",
+          "distrito": "Lima",
+          "lugar": "Casa de Acogida de las Hermanitas de los Ancianos Desamparados",
+          "titulo": "Visita a la Casa de Acogida de los Ancianos Desamparados",
+          "descripcion": "Cálida visita pastoral a los adultos mayores asistidos y al personal de cuidado de la Casa de Acogida.",
+          "tipo": "Social / Caritativo",
+          "coordenadas": {
+            "latitud": -12.054722,
+            "longitud": -77.042778
+          }
+        },
+        {
+          "id": "LIM-10",
+          "fecha": "2026-11-16",
+          "dia_semana": "Lunes",
+          "hora": "10:30",
+          "departamento": "Lima",
+          "provincia": "Lima",
+          "distrito": "Santiago de Surco",
+          "lugar": "Base Aérea Las Palmas",
+          "titulo": "Santa Misa de clausura en Las Palmas",
+          "descripcion": "Magna Santa Misa de despedida y bendición apostólica con homilía del Papa León XIV ante millones de fieles congregados.",
+          "tipo": "Eucarístico / Masivo",
+          "coordenadas": {
+            "latitud": -12.158333,
+            "longitud": -77.005556
+          }
+        }
+      ]
+    },
+    {
+      "departamento": "Callao",
+      "slug": "callao",
+      "total_actividades": 4,
+      "centro_mapa": {
+        "latitud": -12.022222,
+        "longitud": -77.108333,
+        "zoom": 13
+      },
+      "cronograma": [
+        {
+          "id": "CAL-01",
+          "fecha": "2026-11-13",
+          "dia_semana": "Viernes",
+          "hora": "07:40",
+          "departamento": "Callao",
+          "provincia": "Callao",
+          "distrito": "Callao",
+          "lugar": "Base Aérea del Callao (Grupo Aéreo N° 8)",
+          "titulo": "Salida aérea hacia Chiclayo",
+          "descripcion": "Embarque y salida del vuelo papal en avión desde la Base Aérea del Callao hacia la ciudad de Chiclayo.",
+          "tipo": "Traslado",
+          "coordenadas": {
+            "latitud": -12.022222,
+            "longitud": -77.108333
+          }
+        },
+        {
+          "id": "CAL-02",
+          "fecha": "2026-11-15",
+          "dia_semana": "Domingo",
+          "hora": "20:20",
+          "departamento": "Callao",
+          "provincia": "Callao",
+          "distrito": "Callao",
+          "lugar": "Base Aérea del Callao (Grupo Aéreo N° 8)",
+          "titulo": "Llegada al Callao desde Pucallpa",
+          "descripcion": "Aterrizaje y recepción del vuelo papal procedente del Aeropuerto Internacional de Pucallpa.",
+          "tipo": "Traslado",
+          "coordenadas": {
+            "latitud": -12.022222,
+            "longitud": -77.108333
+          }
+        },
+        {
+          "id": "CAL-03",
+          "fecha": "2026-11-16",
+          "dia_semana": "Lunes",
+          "hora": "13:15",
+          "departamento": "Callao",
+          "provincia": "Callao",
+          "distrito": "Callao",
+          "lugar": "Base Aérea del Callao (Grupo Aéreo N° 8)",
+          "titulo": "Ceremonia oficial de despedida",
+          "descripcion": "Ceremonia solemne de despedida de Estado de Su Santidad León XIV con honores presidenciales y militares.",
+          "tipo": "Protocolar",
+          "coordenadas": {
+            "latitud": -12.022222,
+            "longitud": -77.108333
+          }
+        },
+        {
+          "id": "CAL-04",
+          "fecha": "2026-11-16",
+          "dia_semana": "Lunes",
+          "hora": "13:45",
+          "departamento": "Callao",
+          "provincia": "Callao",
+          "distrito": "Callao",
+          "lugar": "Base Aérea del Callao (Grupo Aéreo N° 8)",
+          "titulo": "Partida del vuelo papal hacia Roma",
+          "descripcion": "Despegue del avión papal desde la Base Aérea del Callao con destino al Aeropuerto de Roma-Fiumicino.",
+          "tipo": "Traslado",
+          "coordenadas": {
+            "latitud": -12.022222,
+            "longitud": -77.108333
+          }
+        }
+      ]
+    },
+    {
+      "departamento": "Lambayeque",
+      "slug": "lambayeque",
+      "total_actividades": 11,
+      "centro_mapa": {
+        "latitud": -6.771389,
+        "longitud": -79.838889,
+        "zoom": 11
+      },
+      "cronograma": [
+        {
+          "id": "LAM-01",
+          "fecha": "2026-11-13",
+          "dia_semana": "Viernes",
+          "hora": "09:10",
+          "departamento": "Lambayeque",
+          "provincia": "Chiclayo",
+          "distrito": "Chiclayo",
+          "lugar": "Base Aérea de Chiclayo Teniente Coronel Pedro Ruiz Gallo",
+          "titulo": "Llegada oficial a Chiclayo",
+          "descripcion": "Aterrizaje y bienvenida al Sumo Pontífice en la región Lambayeque.",
+          "tipo": "Traslado",
+          "coordenadas": {
+            "latitud": -6.787222,
+            "longitud": -79.828056
+          }
+        },
+        {
+          "id": "LAM-02",
+          "fecha": "2026-11-13",
+          "dia_semana": "Viernes",
+          "hora": "10:30",
+          "departamento": "Lambayeque",
+          "provincia": "Chiclayo",
+          "distrito": "Pimentel",
+          "lugar": "Explanada de las Pampas de Pimentel",
+          "titulo": "Santa Misa multitudinaria en Pampas de Pimentel",
+          "descripcion": "Celebración de la Santa Misa y homilía del Santo Padre ante delegaciones de todo el norte del país.",
+          "tipo": "Eucarístico / Masivo",
+          "coordenadas": {
+            "latitud": -6.833333,
+            "longitud": -79.933333
+          }
+        },
+        {
+          "id": "LAM-03",
+          "fecha": "2026-11-13",
+          "dia_semana": "Viernes",
+          "hora": "12:40",
+          "departamento": "Lambayeque",
+          "provincia": "Chiclayo",
+          "distrito": "Chiclayo",
+          "lugar": "Capilla San Óscar A. Romero",
+          "titulo": "Visita privada a la Capilla San Óscar A. Romero",
+          "descripcion": "Momento de recogimiento y oración privada en la Capilla con saludo especial del Santo Padre.",
+          "tipo": "Pastoral / Privado",
+          "coordenadas": {
+            "latitud": -6.771944,
+            "longitud": -79.839444
+          }
+        },
+        {
+          "id": "LAM-04",
+          "fecha": "2026-11-13",
+          "dia_semana": "Viernes",
+          "hora": "16:30",
+          "departamento": "Lambayeque",
+          "provincia": "Chiclayo",
+          "distrito": "Chiclayo",
+          "lugar": "Santuario de Nuestra Señora de la Paz",
+          "titulo": "Encuentro con obispos, sacerdotes y vida consagrada",
+          "descripcion": "Encuentro con sacerdotes, religiosos, religiosas, seminaristas y agentes pastorales del norte peruano.",
+          "tipo": "Pastoral / Eclesial",
+          "coordenadas": {
+            "latitud": -6.776389,
+            "longitud": -79.844444
+          }
+        },
+        {
+          "id": "LAM-05",
+          "fecha": "2026-11-13",
+          "dia_semana": "Viernes",
+          "hora": "17:45",
+          "departamento": "Lambayeque",
+          "provincia": "Chiclayo",
+          "distrito": "Chiclayo",
+          "lugar": "Universidad Católica Santo Toribio de Mogrovejo (USAT)",
+          "titulo": "Encuentro con la comunidad universitaria",
+          "descripcion": "Diálogo y reflexión con docentes, investigadores y estudiantes sobre el rol de la educación en el desarrollo humano integral.",
+          "tipo": "Académico / Educativo",
+          "coordenadas": {
+            "latitud": -6.761111,
+            "longitud": -79.866667
+          }
+        },
+        {
+          "id": "LAM-06",
+          "fecha": "2026-11-13",
+          "dia_semana": "Viernes",
+          "hora": "19:00",
+          "departamento": "Lambayeque",
+          "provincia": "Chiclayo",
+          "distrito": "Chiclayo",
+          "lugar": "Colegio Santo Toribio de Mogrovejo",
+          "titulo": "Cena fraternal con el presbiterio de Chiclayo",
+          "descripcion": "Cena comunitaria y espacio fraterno con los sacerdotes de la Diócesis de Chiclayo.",
+          "tipo": "Comunitario / Privado",
+          "coordenadas": {
+            "latitud": -6.773889,
+            "longitud": -79.840278
+          }
+        },
+        {
+          "id": "LAM-07",
+          "fecha": "2026-11-14",
+          "dia_semana": "Sábado",
+          "hora": "08:00",
+          "departamento": "Lambayeque",
+          "provincia": "Chiclayo",
+          "distrito": "Chiclayo",
+          "lugar": "Catedral de Santa María de Chiclayo",
+          "titulo": "Solemne Rito de Coronación de la Virgen Inmaculada",
+          "descripcion": "Coronación canónica pontificia de la venerada imagen de la Virgen Inmaculada en la Catedral.",
+          "tipo": "Mariano / Litúrgico",
+          "coordenadas": {
+            "latitud": -6.771389,
+            "longitud": -79.838889
+          }
+        },
+        {
+          "id": "LAM-08",
+          "fecha": "2026-11-14",
+          "dia_semana": "Sábado",
+          "hora": "09:10",
+          "departamento": "Lambayeque",
+          "provincia": "Chiclayo",
+          "distrito": "Chiclayo",
+          "lugar": "Base Aérea de Chiclayo",
+          "titulo": "Salida en helicóptero hacia Santa Cruz (Cajamarca)",
+          "descripcion": "Traslado en helicóptero desde la Base Aérea de Chiclayo hacia Santa Cruz de Succhabamba.",
+          "tipo": "Traslado",
+          "coordenadas": {
+            "latitud": -6.787222,
+            "longitud": -79.828056
+          }
+        },
+        {
+          "id": "LAM-09",
+          "fecha": "2026-11-14",
+          "dia_semana": "Sábado",
+          "hora": "14:00",
+          "departamento": "Lambayeque",
+          "provincia": "Chiclayo",
+          "distrito": "Chiclayo",
+          "lugar": "Base Aérea de Chiclayo Teniente Coronel Pedro Ruiz Gallo",
+          "titulo": "Retorno a Chiclayo desde Cajamarca",
+          "descripcion": "Aterrizaje en Chiclayo tras la jornada eucarística en la sierra de Cajamarca.",
+          "tipo": "Traslado",
+          "coordenadas": {
+            "latitud": -6.787222,
+            "longitud": -79.828056
+          }
+        },
+        {
+          "id": "LAM-10",
+          "fecha": "2026-11-14",
+          "dia_semana": "Sábado",
+          "hora": "17:30",
+          "departamento": "Lambayeque",
+          "provincia": "Chiclayo",
+          "distrito": "Zaña",
+          "lugar": "Santuario de Santo Toribio de Mogrovejo en Zaña",
+          "titulo": "Clausura del Año Jubilar de Santo Toribio de Mogrovejo",
+          "descripcion": "Encuentro solemne de oración con la comunidad católica en ocasión de la clausura del Año Jubilar de Santo Toribio de Mogrovejo.",
+          "tipo": "Oración / Jubileo",
+          "coordenadas": {
+            "latitud": -6.923889,
+            "longitud": -79.584722
+          }
+        },
+        {
+          "id": "LAM-11",
+          "fecha": "2026-11-15",
+          "dia_semana": "Domingo",
+          "hora": "07:50",
+          "departamento": "Lambayeque",
+          "provincia": "Chiclayo",
+          "distrito": "Chiclayo",
+          "lugar": "Base Aérea de Chiclayo",
+          "titulo": "Salida aérea hacia Cusco",
+          "descripcion": "Salida del vuelo pontificio desde la Base Aérea de Chiclayo rumbo a la ciudad imperial del Cusco.",
+          "tipo": "Traslado",
+          "coordenadas": {
+            "latitud": -6.787222,
+            "longitud": -79.828056
+          }
+        }
+      ]
+    },
+    {
+      "departamento": "Cajamarca",
+      "slug": "cajamarca",
+      "total_actividades": 3,
+      "centro_mapa": {
+        "latitud": -6.626111,
+        "longitud": -78.946389,
+        "zoom": 13
+      },
+      "cronograma": [
+        {
+          "id": "CAJ-01",
+          "fecha": "2026-11-14",
+          "dia_semana": "Sábado",
+          "hora": "09:50",
+          "departamento": "Cajamarca",
+          "provincia": "Santa Cruz",
+          "distrito": "Santa Cruz",
+          "lugar": "Helipuerto de Santa Cruz de Succhabamba",
+          "titulo": "Llegada a Santa Cruz de Succhabamba",
+          "descripcion": "Aterrizaje en el helipuerto de Santa Cruz de Succhabamba con calurosa bienvenida de los fieles cajamarquinos.",
+          "tipo": "Traslado",
+          "coordenadas": {
+            "latitud": -6.626111,
+            "longitud": -78.946389
+          }
+        },
+        {
+          "id": "CAJ-02",
+          "fecha": "2026-11-14",
+          "dia_semana": "Sábado",
+          "hora": "11:00",
+          "departamento": "Cajamarca",
+          "provincia": "Santa Cruz",
+          "distrito": "Santa Cruz",
+          "lugar": "Explanada de Santa Cruz de Succhabamba",
+          "titulo": "Santa Misa en la sierra de Santa Cruz",
+          "descripcion": "Santa Misa campal en la explanada de Santa Cruz de Succhabamba, con homilía del Santo Padre dirigida a las comunidades campesinas.",
+          "tipo": "Eucarístico / Masivo",
+          "coordenadas": {
+            "latitud": -6.624722,
+            "longitud": -78.945000
+          }
+        },
+        {
+          "id": "CAJ-03",
+          "fecha": "2026-11-14",
+          "dia_semana": "Sábado",
+          "hora": "13:15",
+          "departamento": "Cajamarca",
+          "provincia": "Santa Cruz",
+          "distrito": "Santa Cruz",
+          "lugar": "Helipuerto de Santa Cruz de Succhabamba",
+          "titulo": "Partida en helicóptero hacia Chiclayo",
+          "descripcion": "Despegue en helicóptero desde el helipuerto de Santa Cruz de Succhabamba de regreso a la costa de Chiclayo.",
+          "tipo": "Traslado",
+          "coordenadas": {
+            "latitud": -6.626111,
+            "longitud": -78.946389
+          }
+        }
+      ]
+    },
+    {
+      "departamento": "Cusco",
+      "slug": "cusco",
+      "total_actividades": 4,
+      "centro_mapa": {
+        "latitud": -13.516667,
+        "longitud": -71.978611,
+        "zoom": 13
+      },
+      "cronograma": [
+        {
+          "id": "CUZ-01",
+          "fecha": "2026-11-15",
+          "dia_semana": "Domingo",
+          "hora": "10:00",
+          "departamento": "Cusco",
+          "provincia": "Cusco",
+          "distrito": "Wanchaq",
+          "lugar": "Aeropuerto Internacional Alejandro Velasco Astete",
+          "titulo": "Llegada al Cusco",
+          "descripcion": "Llegada del Papa León XIV al Aeropuerto Internacional Alejandro Velasco Astete de la Ciudad Imperial.",
+          "tipo": "Traslado",
+          "coordenadas": {
+            "latitud": -13.535833,
+            "longitud": -71.938889
+          }
+        },
+        {
+          "id": "CUZ-02",
+          "fecha": "2026-11-15",
+          "dia_semana": "Domingo",
+          "hora": "10:30",
+          "departamento": "Cusco",
+          "provincia": "Cusco",
+          "distrito": "Cusco",
+          "lugar": "Parque Arqueológico Nacional de Saqsaywaman",
+          "titulo": "Encuentro con los fieles y la piedad popular andina",
+          "descripcion": "Emotivo encuentro multitudinario con cofradías, danzas tradicionales y representantes de la religiosidad popular andina.",
+          "tipo": "Pastoral / Piedad Popular",
+          "coordenadas": {
+            "latitud": -13.507500,
+            "longitud": -71.981944
+          }
+        },
+        {
+          "id": "CUZ-03",
+          "fecha": "2026-11-15",
+          "dia_semana": "Domingo",
+          "hora": "11:45",
+          "departamento": "Cusco",
+          "provincia": "Cusco",
+          "distrito": "Cusco",
+          "lugar": "Plaza de Armas / Basílica Catedral de la Asunción",
+          "titulo": "Rezo del Ángelus en la Plaza de Armas del Cusco",
+          "descripcion": "Rezo dominical del Ángelus desde el atrio de la Basílica Catedral de la Asunción de la Bienaventurada Virgen María.",
+          "tipo": "Mariano / Oración",
+          "coordenadas": {
+            "latitud": -13.516667,
+            "longitud": -71.978611
+          }
+        },
+        {
+          "id": "CUZ-04",
+          "fecha": "2026-11-15",
+          "dia_semana": "Domingo",
+          "hora": "13:05",
+          "departamento": "Cusco",
+          "provincia": "Cusco",
+          "distrito": "Wanchaq",
+          "lugar": "Aeropuerto Internacional Alejandro Velasco Astete",
+          "titulo": "Salida en avión hacia Pucallpa (Ucayali)",
+          "descripcion": "Salida en avión desde el Aeropuerto del Cusco con dirección a la Amazonía peruana.",
+          "tipo": "Traslado",
+          "coordenadas": {
+            "latitud": -13.535833,
+            "longitud": -71.938889
+          }
+        }
+      ]
+    },
+    {
+      "departamento": "Ucayali",
+      "slug": "ucayali",
+      "total_actividades": 4,
+      "centro_mapa": {
+        "latitud": -8.378056,
+        "longitud": -74.574167,
+        "zoom": 12
+      },
+      "cronograma": [
+        {
+          "id": "UCA-01",
+          "fecha": "2026-11-15",
+          "dia_semana": "Domingo",
+          "hora": "14:30",
+          "departamento": "Ucayali",
+          "provincia": "Coronel Portillo",
+          "distrito": "Yarinacocha",
+          "lugar": "Aeropuerto Internacional Capitán FAP David Abensur Rengifo",
+          "titulo": "Llegada a la Amazonía (Pucallpa)",
+          "descripcion": "Llegada al aeropuerto de Pucallpa y recepción con cantos y danzas tradicionales amazónicas.",
+          "tipo": "Traslado",
+          "coordenadas": {
+            "latitud": -8.378056,
+            "longitud": -74.574167
+          }
+        },
+        {
+          "id": "UCA-02",
+          "fecha": "2026-11-15",
+          "dia_semana": "Domingo",
+          "hora": "15:00",
+          "departamento": "Ucayali",
+          "provincia": "Coronel Portillo",
+          "distrito": "Yarinacocha",
+          "lugar": "Malecón Puerto Callao (Laguna de Yarinacocha)",
+          "titulo": "Encuentro con misioneros y comunidades de pueblos originarios",
+          "descripcion": "Histórico encuentro con sacerdotes y religiosas misioneras, sabios indígenas y líderes de las comunidades nativas de la Amazonía.",
+          "tipo": "Pastoral / Pueblos Indígenas",
+          "coordenadas": {
+            "latitud": -8.349444,
+            "longitud": -74.581667
+          }
+        },
+        {
+          "id": "UCA-03",
+          "fecha": "2026-11-15",
+          "dia_semana": "Domingo",
+          "hora": "16:45",
+          "departamento": "Ucayali",
+          "provincia": "Coronel Portillo",
+          "distrito": "Callería (Pucallpa)",
+          "lugar": "Villa Deportiva Regional de Ucayali",
+          "titulo": "Santa Misa por la Creación y la Amazonía",
+          "descripcion": "Santa Misa multitudinaria en la Villa Deportiva Regional Ucayali, con homilía del Papa León XIV centrada en el cuidado de la casa común.",
+          "tipo": "Eucarístico / Masivo",
+          "coordenadas": {
+            "latitud": -8.388889,
+            "longitud": -74.545833
+          }
+        },
+        {
+          "id": "UCA-04",
+          "fecha": "2026-11-15",
+          "dia_semana": "Domingo",
+          "hora": "19:05",
+          "departamento": "Ucayali",
+          "provincia": "Coronel Portillo",
+          "distrito": "Yarinacocha",
+          "lugar": "Aeropuerto Internacional Capitán FAP David Abensur Rengifo",
+          "titulo": "Salida aérea desde Pucallpa hacia Lima",
+          "descripcion": "Despegue del vuelo papal desde Pucallpa con destino final a la capital de la República.",
+          "tipo": "Traslado",
+          "coordenadas": {
+            "latitud": -8.378056,
+            "longitud": -74.574167
+          }
+        }
+      ]
+    }
+  ]
+}
