@@ -10,6 +10,8 @@ import { CustomSelect, SelectOption } from '../../components/CustomSelect';
 import { useLanguage } from '../../context/LanguageContext';
 import { cleanLabel, translateDayOfWeek, translatePapaActivityType } from '../../utils/minceturTranslate';
 import { DynamicText } from '../../utils/dynamicTranslate';
+import { AdsterraNativeBanner } from '../../components/AdsterraNativeBanner';
+import { ResponsiveLeaderboard } from '../../components/AdsterraDisplayBanner';
 
 // Carga dinámica del mapa interactivo con Leaflet
 const PapaOpenStreetMap = dynamic(
@@ -558,6 +560,9 @@ function RutaPapaPageContent() {
       {/* 3. ITINERARIO COMPLETO: CATÁLOGO DE ACTIVIDADES (ESTILO TURISMO) */}
       {/* ========================================================================= */}
       <div className="max-w-7xl mx-auto px-3.5 sm:px-6 lg:px-8 mt-6 w-full overflow-hidden">
+        {/* Banner Display Responsivo (728x90 en desktop, 320x50 en móvil) */}
+        <ResponsiveLeaderboard className="mb-8" />
+
         <section id="listado-actividades">
           {/* Header de resultados */}
           <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 pb-5 border-b border-slate-200 dark:border-slate-800 mb-8">
@@ -737,6 +742,9 @@ function RutaPapaPageContent() {
               </button>
             </div>
           )}
+
+          {/* Anuncio Nativo Adsterra Estratégico */}
+          <AdsterraNativeBanner label="Recomendaciones y Enlaces de Interés" />
         </section>
       </div>
     </main>

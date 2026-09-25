@@ -9,6 +9,8 @@ import { extractCodeFromSlug } from '../../../utils/slug';
 import { Icons } from '../../../components/Icons';
 import { useLanguage } from '../../../context/LanguageContext';
 import { DynamicText } from '../../../utils/dynamicTranslate';
+import { AdsterraNativeBanner } from '../../../components/AdsterraNativeBanner';
+import { AdsterraDisplayBanner, ResponsiveLeaderboard } from '../../../components/AdsterraDisplayBanner';
 
 const formatPhotoUrl = (url: string | null | undefined, cod?: number): string => {
   if (!url) {
@@ -763,6 +765,9 @@ function FichaTurismoContent({ params }: FichaTurismoPageProps) {
               </div>
             )}
 
+            {/* Banner Display Responsivo (728x90 en desktop, 320x50 en móvil) */}
+            <ResponsiveLeaderboard className="my-6" />
+
             {/* ========================================================================= */}
             {/* 4. DISTRIBUCIÓN EDITORIAL (NARRATIVO + PANEL TÉCNICO) */}
             {/* ========================================================================= */}
@@ -969,6 +974,9 @@ function FichaTurismoContent({ params }: FichaTurismoPageProps) {
                   </div>
                 </div>
 
+                {/* Banner Display 300x250 MPU en Sidebar */}
+                <AdsterraDisplayBanner size="300x250" className="my-2" />
+
                 {/* 2. Época Propicia y Horarios */}
                 {epocaPropicia.length > 0 && (
                   <div className="p-5 rounded-xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-sm space-y-3.5">
@@ -1063,6 +1071,8 @@ function FichaTurismoContent({ params }: FichaTurismoPageProps) {
                 )}
               </div>
             </div>
+            {/* Anuncio Nativo Adsterra Estratégico */}
+            <AdsterraNativeBanner label="Recomendaciones para tu Viaje" className="mt-8 mb-4 px-0" />
           </div>
         )}
       </div>

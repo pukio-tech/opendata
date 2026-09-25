@@ -12,6 +12,8 @@ import { DepartmentItem, CategoryItem, ActivityItem, ResourceItem } from '../typ
 import { createResourceSlug } from '../utils/slug';
 import { translateMinceturText, formatResourceCardDescription } from '../utils/minceturTranslate';
 import { DynamicText } from '../utils/dynamicTranslate';
+import { AdsterraNativeBanner } from '../components/AdsterraNativeBanner';
+import { AdsterraDisplayBanner, ResponsiveLeaderboard } from '../components/AdsterraDisplayBanner';
 
 const OpenStreetMap = dynamic(
   () => import('../components/OpenStreetMap').then((mod) => mod.OpenStreetMap),
@@ -464,6 +466,11 @@ export default function HomePage() {
               </div>
             </div>
           </div>
+
+          {/* Banner Leaderboard Responsivo dentro de la sección azul / Hero */}
+          <div className="mt-6 flex justify-center w-full">
+            <ResponsiveLeaderboard darkVariant={true} />
+          </div>
         </div>
       </section>
 
@@ -518,6 +525,9 @@ export default function HomePage() {
           </div>
         )}
       </section>
+
+      {/* Banner Nativo de Publicidad Adsterra */}
+      <AdsterraNativeBanner label="Destinos y Servicios Patrocinados" />
 
       {/* ========================================================================= */}
       {/* 3. GEOPORTAL NACIONAL: OPENSTREETMAP + INSPECTOR TÉCNICO */}
@@ -668,6 +678,11 @@ export default function HomePage() {
           </div>
         </div>
       </section>
+
+      {/* Banner Publicitario 468x60 */}
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 my-4 flex justify-center">
+        <AdsterraDisplayBanner size="468x60" />
+      </div>
 
       {/* ========================================================================= */}
       {/* 4. BANNER INSTITUCIONAL DE DATOS ABIERTOS */}

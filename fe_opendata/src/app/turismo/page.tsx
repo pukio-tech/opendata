@@ -15,6 +15,8 @@ import { Icons } from '../../components/Icons';
 import { CustomSelect, SelectOption } from '../../components/CustomSelect';
 import { useLanguage } from '../../context/LanguageContext';
 import { translateMinceturText, cleanLabel } from '../../utils/minceturTranslate';
+import { AdsterraNativeBanner } from '../../components/AdsterraNativeBanner';
+import { ResponsiveLeaderboard } from '../../components/AdsterraDisplayBanner';
 
 function TurismoPageContent() {
   const { language, t } = useLanguage();
@@ -536,6 +538,9 @@ function TurismoPageContent() {
       {/* 2. CATÁLOGO DE RECURSOS - ADAPTABLE DARK / LIGHT MODE */}
       {/* ========================================================================= */}
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mt-10">
+        {/* Banner Display Responsivo (728x90 en desktop, 320x50 en móvil) */}
+        <ResponsiveLeaderboard className="mb-8" />
+
         <section id="listado-atractivos">
           {/* Header de resultados */}
           <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 pb-5 border-b border-slate-200 dark:border-slate-800 mb-8">
@@ -599,6 +604,11 @@ function TurismoPageContent() {
                   if (el) el.scrollIntoView({ behavior: 'smooth' });
                 }}
               />
+
+              {/* Anuncio Nativo Adsterra no intrusivo (después de la paginación) */}
+              <div className="pt-6 border-t border-slate-200/50 dark:border-slate-800/50 mt-10">
+                <AdsterraNativeBanner label="Recomendaciones y Servicios Turísticos" />
+              </div>
             </>
           ) : (
             <div className="text-center py-20 bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-xl p-8 shadow-sm">
