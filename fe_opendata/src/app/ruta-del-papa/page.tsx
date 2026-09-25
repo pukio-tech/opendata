@@ -216,11 +216,11 @@ function RutaPapaPageContent() {
   const activeDeptName = departments.find((d) => d.slug === appliedFilters.dept)?.departamento;
 
   return (
-    <main className="flex-1 bg-slate-50 dark:bg-slate-950 text-slate-800 dark:text-slate-100 transition-colors duration-200 min-h-screen pb-24">
+    <main className="flex-1 bg-slate-50 dark:bg-slate-950 text-slate-800 dark:text-slate-100 transition-colors duration-200 min-h-screen pb-24 w-full overflow-x-hidden">
       {/* ========================================================================= */}
       {/* 1. HERO HEADER DE LA RUTA PAPAL - ESTILO INSTITUCIONAL TURISMO */}
       {/* ========================================================================= */}
-      <section className="relative pt-10 pb-16 px-4 sm:px-6 lg:px-8 border-b border-slate-200 dark:border-slate-800 bg-slate-950 text-white overflow-hidden">
+      <section className="relative pt-10 pb-16 px-3.5 sm:px-6 lg:px-8 border-b border-slate-200 dark:border-slate-800 bg-slate-950 text-white overflow-hidden w-full">
         {/* Fondo sutil con imagen del Perú */}
         <div className="absolute inset-0 overflow-hidden z-0 pointer-events-none opacity-25">
           <img
@@ -237,16 +237,18 @@ function RutaPapaPageContent() {
         <div className="max-w-7xl mx-auto relative z-10 w-full">
           <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 items-center">
             {/* Columna Izquierda: Textos, Títulos y Buscador */}
-            <div className="lg:col-span-8 text-left space-y-4">
+            <div className="lg:col-span-8 text-left space-y-4 min-w-0">
               {/* Badge superior oficial */}
-              <div className="inline-flex items-center gap-2 px-3 py-1.5 rounded-lg bg-slate-900/90 border border-slate-700/80 text-[11px] font-mono text-slate-300 backdrop-blur-md shadow-sm">
-                <span className="w-2 h-2 rounded-full bg-amber-400 animate-pulse" />
-                <span className="font-semibold text-slate-100">{t('papa.badge')}</span>
-                <span className="text-slate-500">•</span>
+              <div className="inline-flex flex-wrap items-center gap-1.5 sm:gap-2 px-2.5 sm:px-3 py-1.5 rounded-lg bg-slate-900/90 border border-slate-700/80 text-[10px] sm:text-[11px] font-mono text-slate-300 backdrop-blur-md shadow-sm max-w-full">
+                <div className="flex items-center gap-1.5">
+                  <span className="w-2 h-2 rounded-full bg-amber-400 animate-pulse shrink-0" />
+                  <span className="font-semibold text-slate-100">{t('papa.badge')}</span>
+                </div>
+                <span className="text-slate-500 hidden sm:inline">•</span>
                 <span className="text-amber-400 font-semibold">SANTA SEDE / IRTP</span>
               </div>
 
-              <h1 className="text-3xl sm:text-5xl font-extrabold tracking-tight text-white leading-tight">
+              <h1 className="text-3xl sm:text-5xl font-extrabold tracking-tight text-white leading-tight break-words">
                 {t('papa.title')}{' '}
                 <span className="text-transparent bg-clip-text bg-gradient-to-r from-amber-400 via-amber-300 to-amber-500">
                   {t('papa.titleHighlight')}
@@ -260,7 +262,7 @@ function RutaPapaPageContent() {
           {/* Caja de Búsqueda y Filtro por Departamento */}
           <div
             id="busqueda-avanzada"
-            className="max-w-4xl mx-auto bg-white/95 dark:bg-slate-900/95 border border-slate-200 dark:border-slate-800 rounded-xl p-4 sm:p-5 shadow-2xl backdrop-blur-md text-left space-y-3 transition-colors"
+            className="max-w-4xl mx-auto bg-white/95 dark:bg-slate-900/95 border border-slate-200 dark:border-slate-800 rounded-xl p-3.5 sm:p-5 shadow-2xl backdrop-blur-md text-left space-y-3 transition-colors w-full"
           >
             <form onSubmit={handleSearchSubmit} className="space-y-3">
               {/* Buscador de texto + Selector de Departamento + Botón Buscar */}
@@ -361,13 +363,13 @@ function RutaPapaPageContent() {
           {/* Resplandor áureo posterior */}
           <div className="absolute inset-0 bg-gradient-to-t from-amber-500/25 via-amber-400/10 to-transparent rounded-full blur-3xl -z-10 pointer-events-none" />
 
-          <div className="relative pointer-events-auto">
+          <div className="relative pointer-events-auto max-w-full">
             <img
               src="https://www.vatican.va/etc/designs/vatican/library/clientlibs/themes/vatican-v2/images/leo-xiv.png"
               alt="Papa León XIV"
               loading="eager"
               decoding="async"
-              className="h-72 sm:h-96 lg:h-[460px] xl:h-[500px] w-auto object-contain object-bottom drop-shadow-[0_25px_50px_rgba(0,0,0,0.85)] select-none block"
+              className="h-72 sm:h-96 lg:h-[460px] xl:h-[500px] w-auto max-w-full object-contain object-bottom drop-shadow-[0_25px_50px_rgba(0,0,0,0.85)] select-none block"
             />
           </div>
         </div>
@@ -378,7 +380,7 @@ function RutaPapaPageContent() {
       {/* ========================================================================= */}
       {/* 2. GEOPORTAL DE LA RUTA PAPAL: OPENSTREETMAP + INSPECTOR TÉCNICO */}
       {/* ========================================================================= */}
-      <section id="mapa-papa" className="py-16 px-4 sm:px-6 lg:px-8 max-w-7xl mx-auto">
+      <section id="mapa-papa" className="py-16 px-3.5 sm:px-6 lg:px-8 max-w-7xl mx-auto w-full overflow-hidden">
         <div className="border-b border-slate-200 dark:border-slate-800 pb-5 mb-8 flex flex-col md:flex-row md:items-end justify-between gap-4">
           <div>
             <div className="flex items-center gap-2 text-xs font-mono font-semibold text-amber-600 dark:text-amber-400 uppercase tracking-wider mb-1.5">
@@ -555,7 +557,7 @@ function RutaPapaPageContent() {
       {/* ========================================================================= */}
       {/* 3. ITINERARIO COMPLETO: CATÁLOGO DE ACTIVIDADES (ESTILO TURISMO) */}
       {/* ========================================================================= */}
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mt-6">
+      <div className="max-w-7xl mx-auto px-3.5 sm:px-6 lg:px-8 mt-6 w-full overflow-hidden">
         <section id="listado-actividades">
           {/* Header de resultados */}
           <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 pb-5 border-b border-slate-200 dark:border-slate-800 mb-8">

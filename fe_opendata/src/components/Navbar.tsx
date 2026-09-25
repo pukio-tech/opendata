@@ -51,18 +51,35 @@ export const Navbar = () => {
   const [isResultsMenuOpen, setIsResultsMenuOpen] = useState(false);
   const searchContainerRef = useRef<HTMLDivElement>(null);
   const searchInputRef = useRef<HTMLInputElement>(null);
+  const mobileSearchInputRef = useRef<HTMLInputElement>(null);
 
   const isHome = pathname === '/';
   const isTurismo = pathname === '/turismo';
   const isRutaPapa = pathname === '/ruta-del-papa';
 
-  // Soporte para atajo de teclado Ctrl+K o Cmd+K
+  // Foco automático en el buscador móvil al abrir
+  useEffect(() => {
+    if (isMobileSearchOpen) {
+      const timer = setTimeout(() => {
+        mobileSearchInputRef.current?.focus();
+      }, 60);
+      return () => clearTimeout(timer);
+    }
+  }, [isMobileSearchOpen]);
+
+  // Soporte para atajo de teclado Ctrl+K / Cmd+K y Escape
   useEffect(() => {
     const handleKeyDown = (e: KeyboardEvent) => {
       if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === 'k') {
         e.preventDefault();
         searchInputRef.current?.focus();
         setIsResultsMenuOpen(true);
+      }
+      if (e.key === 'Escape') {
+        setIsMobileMenuOpen(false);
+        setIsMobileSearchOpen(false);
+        setIsResultsMenuOpen(false);
+        setIsLangDropdownOpen(false);
       }
     };
     window.addEventListener('keydown', handleKeyDown);
@@ -135,41 +152,45 @@ export const Navbar = () => {
   };
 
   return (
-    <header className="sticky top-0 z-[999] w-full bg-white dark:bg-slate-900 border-b border-slate-200 dark:border-slate-800 text-slate-800 dark:text-white transition-colors duration-200 select-none shadow-sm">
+    <header className="sticky top-0 z-[999] w-full max-w-full bg-white dark:bg-slate-900 border-b border-slate-200 dark:border-slate-800 text-slate-800 dark:text-white transition-colors duration-200 select-none shadow-sm overflow-x-clip">
       {/* ========================================================================= */}
       {/* 2. BARRA DE NAVEGACIÓN PRINCIPAL (ESTRUCTURA INSTITUCIONAL) */}
       {/* ========================================================================= */}
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between gap-4 sm:gap-6">
+      <div className="max-w-7xl mx-auto px-3 sm:px-6 lg:px-8 h-14 sm:h-16 flex items-center justify-between gap-2 sm:gap-6 w-full">
         
-        {/* LOGO INSTITUCIONAL */}
-        <div className="flex items-center gap-3 shrink-0">
+        {/* LOGO INSTITUCIONAL Y BOTÓN DE MENÚ */}
+        <div className="flex items-center gap-1.5 sm:gap-3 min-w-0">
           <button
             type="button"
-            onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
-            className="md:hidden p-2 text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white rounded-lg hover:bg-slate-100 dark:hover:bg-slate-800 transition-colors"
-            aria-label="Abrir menú de navegación"
+            onClick={() => {
+              setIsMobileMenuOpen(!isMobileMenuOpen);
+              setIsMobileSearchOpen(false);
+            }}
+            className="md:hidden p-2 text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white rounded-lg hover:bg-slate-100 dark:hover:bg-slate-800 transition-colors shrink-0"
+            aria-label={isMobileMenuOpen ? 'Cerrar menú' : 'Abrir menú de navegación'}
+            aria-expanded={isMobileMenuOpen}
           >
             {isMobileMenuOpen ? (
-              <Icons.X className="w-5 h-5" />
+              <Icons.X className="w-5 h-5 text-slate-900 dark:text-white" />
             ) : (
-              <Icons.Sliders className="w-5 h-5 rotate-90" />
+              <Icons.Menu className="w-5 h-5" />
             )}
           </button>
 
-          <Link href="/" className="flex items-center gap-3 group">
-            <div className="w-9 h-9 rounded-lg bg-sky-600 text-white flex items-center justify-center shadow-sm">
-              <Icons.Database className="w-5 h-5 text-white" />
+          <Link href="/" className="flex items-center gap-2 sm:gap-3 group min-w-0">
+            <div className="w-8 h-8 sm:w-9 sm:h-9 rounded-lg bg-sky-600 text-white flex items-center justify-center shadow-sm shrink-0">
+              <Icons.Database className="w-4 h-4 sm:w-5 sm:h-5 text-white" />
             </div>
-            <div className="flex flex-col">
-              <div className="flex items-center gap-2 leading-none">
-                <span className="text-lg font-bold text-slate-900 dark:text-white tracking-tight">
+            <div className="flex flex-col min-w-0">
+              <div className="flex items-center gap-1.5 sm:gap-2 leading-none">
+                <span className="text-base sm:text-lg font-bold text-slate-900 dark:text-white tracking-tight truncate">
                   OPEN<span className="text-sky-600 dark:text-sky-400">DATA</span>
                 </span>
-                <span className="text-[10px] font-mono font-bold px-1.5 py-0.5 rounded bg-slate-100 dark:bg-slate-800 text-slate-700 dark:text-slate-300 border border-slate-200 dark:border-slate-700/80">
+                <span className="hidden min-[380px]:inline-block text-[9px] sm:text-[10px] font-mono font-bold px-1.5 py-0.5 rounded bg-slate-100 dark:bg-slate-800 text-slate-700 dark:text-slate-300 border border-slate-200 dark:border-slate-700/80 shrink-0">
                   TURISMO
                 </span>
               </div>
-              <p className="text-[10px] uppercase tracking-wider text-slate-500 dark:text-slate-400 font-medium mt-1 hidden xs:block">
+              <p className="text-[10px] uppercase tracking-wider text-slate-500 dark:text-slate-400 font-medium mt-1 hidden sm:block truncate">
                 Inventario Turístico Nacional
               </p>
             </div>
@@ -304,7 +325,7 @@ export const Navbar = () => {
         </div>
 
         {/* ENLACES Y ACCIONES DERECHAS */}
-        <div className="flex items-center gap-4 sm:gap-6">
+        <div className="flex items-center gap-1 sm:gap-6 shrink-0">
           {/* Navegación institucional seria */}
           <nav className="hidden md:flex items-center gap-5 text-xs font-semibold tracking-wide text-slate-600 dark:text-slate-300">
             <Link
@@ -343,19 +364,28 @@ export const Navbar = () => {
           </nav>
 
           {/* Controles de Utilidad (Idioma, Búsqueda móvil y Tema) */}
-          <div className="flex items-center gap-2 border-l border-slate-200 dark:border-slate-800 pl-3 sm:pl-4">
+          <div className="flex items-center gap-1 sm:gap-2 sm:border-l sm:border-slate-200 sm:dark:border-slate-800 sm:pl-4">
             {/* Botón de Búsqueda Móvil */}
             <button
               type="button"
-              onClick={() => setIsMobileSearchOpen(!isMobileSearchOpen)}
+              onClick={() => {
+                setIsMobileSearchOpen(!isMobileSearchOpen);
+                setIsMobileMenuOpen(false);
+              }}
               className="lg:hidden p-2 text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white rounded-lg hover:bg-slate-100 dark:hover:bg-slate-800 transition-colors"
               title="Buscar en inventario"
+              aria-label={isMobileSearchOpen ? 'Cerrar búsqueda' : 'Buscar en inventario'}
+              aria-expanded={isMobileSearchOpen}
             >
-              <Icons.Search className="w-4 h-4" />
+              {isMobileSearchOpen ? (
+                <Icons.X className="w-4 h-4 text-sky-600 dark:text-sky-400" />
+              ) : (
+                <Icons.Search className="w-4 h-4" />
+              )}
             </button>
 
-            {/* Selector de Idioma Formal */}
-            <div className="relative" ref={langDropdownRef}>
+            {/* Selector de Idioma Formal (Visible en pantallas medianas y grandes sm:block) */}
+            <div className="hidden sm:block relative" ref={langDropdownRef}>
               <button
                 type="button"
                 onClick={() => setIsLangDropdownOpen(!isLangDropdownOpen)}
@@ -410,30 +440,117 @@ export const Navbar = () => {
       </div>
 
       {/* ========================================================================= */}
-      {/* 3. BÚSQUEDA DESPLEGABLE EN MÓVIL */}
+      {/* 3. BÚSQUEDA DESPLEGABLE EN MÓVIL (CON RESULTADOS EN TIEMPO REAL) */}
       {/* ========================================================================= */}
       {isMobileSearchOpen && (
-        <div className="lg:hidden border-t border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-950 px-4 py-3 animate-fadeIn">
+        <div className="lg:hidden border-t border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-950 px-3.5 py-3 shadow-lg animate-fadeIn">
           <form onSubmit={handleSearchSubmit} className="relative">
-            <Icons.Search className="w-4 h-4 text-slate-400 absolute left-3 top-1/2 -translate-y-1/2" />
-            <input
-              type="text"
-              value={searchQuery}
-              onChange={(e) => setSearchQuery(e.target.value)}
-              placeholder="Buscar recurso, ubigeo o código..."
-              className="w-full bg-slate-50 dark:bg-slate-900 border border-slate-200 dark:border-slate-700 rounded-lg pl-9 pr-9 py-2 text-xs text-slate-900 dark:text-white placeholder-slate-400 focus:outline-none focus:border-sky-500"
-              autoFocus
-            />
-            {searchQuery && (
-              <button
-                type="button"
-                onClick={() => setSearchQuery('')}
-                className="absolute right-2.5 top-1/2 -translate-y-1/2 text-slate-400 hover:text-slate-700 dark:hover:text-white"
-              >
-                <Icons.X className="w-3.5 h-3.5" />
-              </button>
-            )}
+            <div className="relative flex items-center w-full">
+              <Icons.Search className="w-4 h-4 text-slate-400 absolute left-3 pointer-events-none" />
+              <input
+                ref={mobileSearchInputRef}
+                type="text"
+                value={searchQuery}
+                onChange={(e) => setSearchQuery(e.target.value)}
+                placeholder="Buscar por recurso, ubigeo o código..."
+                className="w-full bg-slate-50 dark:bg-slate-900 border border-slate-200 dark:border-slate-700 rounded-lg pl-9 pr-8 py-2 text-xs text-slate-900 dark:text-white placeholder-slate-400 focus:outline-none focus:border-sky-500 focus:ring-1 focus:ring-sky-500"
+              />
+              {searchQuery && (
+                <button
+                  type="button"
+                  onClick={() => setSearchQuery('')}
+                  className="absolute right-2.5 p-1 text-slate-400 hover:text-slate-700 dark:hover:text-white rounded transition-colors"
+                  aria-label="Limpiar búsqueda"
+                >
+                  <Icons.X className="w-3.5 h-3.5" />
+                </button>
+              )}
+            </div>
           </form>
+
+          {/* Resultados en tiempo real para móvil */}
+          {searchQuery.trim() && (
+            <div className="mt-2 pt-2 border-t border-slate-100 dark:border-slate-800/80">
+              {isSearching && (
+                <div className="p-3 text-center flex items-center justify-center gap-2 text-xs text-slate-500 dark:text-slate-400">
+                  <div className="w-3.5 h-3.5 border-2 border-sky-500 border-t-transparent rounded-full animate-spin" />
+                  <span>Consultando inventario nacional...</span>
+                </div>
+              )}
+
+              {!isSearching && searchResults.length > 0 && (
+                <div className="space-y-1">
+                  <div className="px-1 py-1 text-[10px] font-bold uppercase tracking-wider text-slate-500 dark:text-slate-400 flex justify-between items-center">
+                    <span>Resultados Encontrados</span>
+                    <span className="font-mono text-sky-600 dark:text-sky-400 font-semibold">{searchResults.length}</span>
+                  </div>
+
+                  <div className="max-h-60 overflow-y-auto space-y-1 py-1 divide-y divide-slate-100 dark:divide-slate-800/50">
+                    {searchResults.map((item) => {
+                      const itemSlug = createResourceSlug(item.nombre, item.codigo);
+                      const photoUrl = item.imagen || item.foto_url || getPhotoUrl(item.codigo);
+                      return (
+                        <Link
+                          key={item.codigo}
+                          href={`/turismo/${itemSlug}`}
+                          onClick={() => {
+                            setIsMobileSearchOpen(false);
+                            setSearchQuery('');
+                          }}
+                          className="flex items-center gap-2.5 p-1.5 rounded-lg hover:bg-slate-50 dark:hover:bg-slate-900 transition-colors group"
+                        >
+                          <div className="w-9 h-9 rounded overflow-hidden shrink-0 bg-slate-100 dark:bg-slate-800 border border-slate-200 dark:border-slate-700">
+                            <img
+                              src={photoUrl}
+                              alt={item.nombre}
+                              className="w-full h-full object-cover"
+                              onError={(e) => {
+                                e.currentTarget.onerror = null;
+                                e.currentTarget.src = 'https://images.unsplash.com/photo-1526392060635-9d6019884377?w=120&auto=format&fit=crop&q=60';
+                              }}
+                            />
+                          </div>
+
+                          <div className="flex-1 min-w-0">
+                            <h4 className="text-xs font-bold text-slate-900 dark:text-white group-hover:text-sky-600 dark:group-hover:text-sky-400 transition-colors truncate">
+                              {item.nombre}
+                            </h4>
+                            <div className="flex items-center gap-1.5 text-[10px] text-slate-500 dark:text-slate-400 truncate">
+                              <span className="truncate">{cleanLabel(item.desubigeo || item.desprov || item.desdpto || 'Perú')}</span>
+                            </div>
+                          </div>
+
+                          <span className="text-[10px] font-mono font-bold px-1.5 py-0.5 rounded bg-slate-100 dark:bg-slate-800 text-sky-600 dark:text-sky-400 border border-slate-200 dark:border-slate-700 shrink-0">
+                            #{item.codigo}
+                          </span>
+                        </Link>
+                      );
+                    })}
+                  </div>
+
+                  <button
+                    type="button"
+                    onClick={() => handleSearchSubmit()}
+                    className="w-full mt-1 pt-2 pb-1 text-center text-xs font-bold text-sky-600 dark:text-sky-400 hover:text-sky-500 flex items-center justify-center gap-1 transition-colors cursor-pointer border-t border-slate-100 dark:border-slate-800"
+                  >
+                    <span>Ver todos los resultados</span>
+                    <Icons.ArrowRight className="w-3.5 h-3.5" />
+                  </button>
+                </div>
+              )}
+
+              {!isSearching && searchResults.length === 0 && (
+                <div className="p-3 text-center">
+                  <p className="text-xs font-bold text-slate-800 dark:text-slate-300">
+                    No se encontraron registros
+                  </p>
+                  <p className="text-[11px] text-slate-500 dark:text-slate-400 mt-0.5">
+                    Presiona Buscar para ver coincidencias en el catálogo
+                  </p>
+                </div>
+              )}
+            </div>
+          )}
         </div>
       )}
 
@@ -441,60 +558,135 @@ export const Navbar = () => {
       {/* 4. MENÚ MÓVIL INSTITUCIONAL */}
       {/* ========================================================================= */}
       {isMobileMenuOpen && (
-        <div className="md:hidden border-t border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-950 px-4 py-3 space-y-1 animate-fadeIn">
-          <Link
-            href="/"
-            onClick={() => setIsMobileMenuOpen(false)}
-            className={`block px-3 py-2 rounded-lg text-sm font-semibold transition-colors ${
-              isHome ? 'bg-sky-50 dark:bg-sky-600/20 text-sky-600 dark:text-sky-400 font-bold' : 'text-slate-700 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-900 hover:text-slate-900 dark:hover:text-white'
-            }`}
-          >
-            {t('nav.inicio')}
-          </Link>
+        <div className="md:hidden border-t border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-950 px-4 py-3 space-y-3 shadow-xl animate-fadeIn">
+          {/* Navegación Principal con Iconos */}
+          <nav className="space-y-1">
+            <Link
+              href="/"
+              onClick={() => setIsMobileMenuOpen(false)}
+              className={`flex items-center gap-3 px-3 py-2.5 rounded-lg text-xs font-bold transition-colors ${
+                isHome
+                  ? 'bg-sky-50 dark:bg-sky-600/20 text-sky-600 dark:text-sky-400'
+                  : 'text-slate-700 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-900 hover:text-slate-900 dark:hover:text-white'
+              }`}
+            >
+              <Icons.Database className="w-4 h-4 shrink-0 text-sky-600 dark:text-sky-400" />
+              <span>{t('nav.inicio')}</span>
+            </Link>
 
-          <Link
-            href="/turismo"
-            onClick={() => setIsMobileMenuOpen(false)}
-            className={`block px-3 py-2 rounded-lg text-sm font-semibold transition-colors ${
-              isTurismo ? 'bg-sky-50 dark:bg-sky-600/20 text-sky-600 dark:text-sky-400 font-bold' : 'text-slate-700 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-900 hover:text-slate-900 dark:hover:text-white'
-            }`}
-          >
-            {t('nav.turismo')}
-          </Link>
+            <Link
+              href="/turismo"
+              onClick={() => setIsMobileMenuOpen(false)}
+              className={`flex items-center gap-3 px-3 py-2.5 rounded-lg text-xs font-bold transition-colors ${
+                isTurismo
+                  ? 'bg-sky-50 dark:bg-sky-600/20 text-sky-600 dark:text-sky-400'
+                  : 'text-slate-700 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-900 hover:text-slate-900 dark:hover:text-white'
+              }`}
+            >
+              <Icons.Compass className="w-4 h-4 shrink-0 text-sky-600 dark:text-sky-400" />
+              <span>{t('nav.turismo')}</span>
+            </Link>
 
-          <Link
-            href="/ruta-del-papa"
-            onClick={() => setIsMobileMenuOpen(false)}
-            className={`block px-3 py-2 rounded-lg text-sm font-semibold transition-colors ${
-              isRutaPapa ? 'bg-amber-50 dark:bg-amber-500/20 text-amber-600 dark:text-amber-400 font-bold' : 'text-slate-700 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-900 hover:text-slate-900 dark:hover:text-white'
-            }`}
-          >
-            🇻🇦 Ruta del Papa León XIV
-          </Link>
+            <Link
+              href="/ruta-del-papa"
+              onClick={() => setIsMobileMenuOpen(false)}
+              className={`flex items-center justify-between px-3 py-2.5 rounded-lg text-xs font-bold transition-colors ${
+                isRutaPapa
+                  ? 'bg-amber-50 dark:bg-amber-500/20 text-amber-600 dark:text-amber-400'
+                  : 'text-slate-700 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-900 hover:text-slate-900 dark:hover:text-white'
+              }`}
+            >
+              <div className="flex items-center gap-3">
+                <Icons.Award className="w-4 h-4 shrink-0 text-amber-500" />
+                <span>Ruta del Papa León XIV</span>
+              </div>
+              <span className="flex h-2 w-2 relative">
+                <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-amber-400 opacity-75" />
+                <span className="relative inline-flex rounded-full h-2 w-2 bg-amber-500" />
+              </span>
+            </Link>
 
-          <Link
-            href="/#mapa-preview"
-            onClick={() => setIsMobileMenuOpen(false)}
-            className="block px-3 py-2 rounded-lg text-sm font-semibold text-slate-700 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-900 hover:text-slate-900 dark:hover:text-white transition-colors"
-          >
-            Geoportal Turístico Nacional
-          </Link>
+            <Link
+              href="/#mapa-preview"
+              onClick={() => setIsMobileMenuOpen(false)}
+              className="flex items-center gap-3 px-3 py-2.5 rounded-lg text-xs font-bold text-slate-700 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-900 hover:text-slate-900 dark:hover:text-white transition-colors"
+            >
+              <Icons.MapPin className="w-4 h-4 shrink-0 text-emerald-500" />
+              <span>Geoportal Turístico Nacional</span>
+            </Link>
+          </nav>
 
-          <div className="pt-3 mt-2 border-t border-slate-200 dark:border-slate-800 flex items-center justify-between text-xs text-slate-500 dark:text-slate-400">
+          {/* Selector de Idioma en Móvil */}
+          <div className="pt-3 border-t border-slate-200 dark:border-slate-800">
+            <div className="flex items-center justify-between mb-2">
+              <span className="text-[10px] uppercase font-bold tracking-wider text-slate-400 dark:text-slate-500">
+                {t('nav.selectLang')}
+              </span>
+              <Icons.Globe className="w-3.5 h-3.5 text-slate-400" />
+            </div>
+            <div className="grid grid-cols-3 gap-1.5">
+              {LANGUAGES.map((lang) => {
+                const isActive = language === lang.code;
+                return (
+                  <button
+                    key={lang.code}
+                    type="button"
+                    onClick={() => {
+                      setLanguage(lang.code);
+                      setIsMobileMenuOpen(false);
+                    }}
+                    className={`flex flex-col items-center justify-center py-2 px-1 rounded-lg border text-center transition-colors cursor-pointer ${
+                      isActive
+                        ? 'bg-sky-50 dark:bg-sky-600/20 border-sky-500 text-sky-600 dark:text-sky-400 font-bold'
+                        : 'border-slate-200 dark:border-slate-800 bg-slate-50 dark:bg-slate-900/60 text-slate-600 dark:text-slate-400 hover:bg-slate-100 dark:hover:bg-slate-800'
+                    }`}
+                  >
+                    <span className="text-xs font-bold">{lang.code}</span>
+                    <span className="text-[10px] leading-tight text-slate-500 dark:text-slate-400 truncate max-w-full">
+                      {lang.name}
+                    </span>
+                  </button>
+                );
+              })}
+            </div>
+          </div>
+
+          {/* Pie de Menú: Tema y Estado Oficial */}
+          <div className="pt-3 border-t border-slate-200 dark:border-slate-800 flex items-center justify-between text-xs text-slate-500 dark:text-slate-400">
             <div className="flex items-center gap-1.5">
-              <span className="w-2 h-2 rounded-full bg-emerald-500 inline-block" />
-              <span>Inventario Nacional</span>
+              <span className="w-2 h-2 rounded-full bg-emerald-500 inline-block animate-pulse" />
+              <span className="text-[11px] font-medium">Inventario Oficial</span>
             </div>
             <button
               type="button"
               onClick={toggleTheme}
-              className="flex items-center gap-1.5 px-2.5 py-1 rounded bg-slate-100 dark:bg-slate-900 border border-slate-200 dark:border-slate-800 text-slate-700 dark:text-slate-300 font-semibold"
+              className="flex items-center gap-2 px-3 py-1.5 rounded-lg bg-slate-100 dark:bg-slate-900 border border-slate-200 dark:border-slate-800 text-slate-700 dark:text-slate-300 font-semibold text-xs transition-colors hover:bg-slate-200 dark:hover:bg-slate-800"
             >
-              {isDark ? <Icons.Sun className="w-3.5 h-3.5 text-amber-400" /> : <Icons.Moon className="w-3.5 h-3.5 text-sky-600" />}
-              <span>{isDark ? 'Modo Claro' : 'Modo Oscuro'}</span>
+              {isDark ? (
+                <>
+                  <Icons.Sun className="w-3.5 h-3.5 text-amber-400" />
+                  <span>Modo Claro</span>
+                </>
+              ) : (
+                <>
+                  <Icons.Moon className="w-3.5 h-3.5 text-sky-600" />
+                  <span>Modo Oscuro</span>
+                </>
+              )}
             </button>
           </div>
         </div>
+      )}
+
+      {/* Backdrop para cerrar al hacer clic afuera en móvil */}
+      {(isMobileMenuOpen || isMobileSearchOpen) && (
+        <div
+          className="fixed inset-0 bg-slate-950/40 backdrop-blur-sm z-[-1] md:hidden"
+          onClick={() => {
+            setIsMobileMenuOpen(false);
+            setIsMobileSearchOpen(false);
+          }}
+        />
       )}
     </header>
   );

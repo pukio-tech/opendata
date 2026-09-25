@@ -29,7 +29,10 @@
     --accent-glow: rgba(56, 189, 248, 0.25);
   }
 
+  html,
   body {
+    max-width: 100%;
+    overflow-x: hidden;
     background-color: var(--bg-primary);
     color: var(--text-primary);
     transition: background-color 0.3s ease, color 0.3s ease;

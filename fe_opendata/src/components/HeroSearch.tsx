@@ -76,7 +76,7 @@ export const HeroSearch: React.FC<HeroSearchProps> = ({
                 onChange={(e) => onDeptChange(e.target.value)}
                 className="w-full bg-transparent text-white text-xs font-medium focus:outline-none cursor-pointer"
               >
-                <option value="" className="bg-slate-900 text-white">Todas las regiones (25)</option>
+                <option value="" className="bg-slate-900 text-white">Todas las regiones</option>
                 {departments.map((d) => (
                   <option key={d.iddpto} value={d.iddpto} className="bg-slate-900 text-white">
                     {d.departamento} (Ubigeo {d.iddpto})

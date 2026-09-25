@@ -133,7 +133,7 @@ export default function RootLayout({
           <link rel="dns-prefetch" href="https://images.unsplash.com" />
           <link rel="dns-prefetch" href="https://consultasenlinea.mincetur.gob.pe" />
         </head>
-        <body className={`${montserrat.className} font-sans min-h-screen flex flex-col antialiased`} suppressHydrationWarning>
+        <body className={`${montserrat.className} font-sans min-h-screen flex flex-col antialiased overflow-x-hidden w-full max-w-full`} suppressHydrationWarning>
           <GoogleAnalytics gaId={GA_MEASUREMENT_ID} />
           <Script
             async
@@ -149,7 +149,7 @@ export default function RootLayout({
           <ThemeProvider>
             <LanguageProvider>
               <Navbar />
-              <div className="flex-1 flex flex-col">
+              <div className="flex-1 flex flex-col w-full max-w-full overflow-x-hidden">
                 {children}
               </div>
               <Footer />

@@ -2,6 +2,13 @@ import React from 'react';
 
 // Iconografía vectorial SVG moderna y limpia - ESTRICTAMENTE SIN EMOJIS
 export const Icons = {
+  Menu: ({ className = 'w-5 h-5' }: { className?: string }) => (
+    <svg className={className} fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.75}>
+      <line x1="3" y1="6" x2="21" y2="6" strokeLinecap="round" />
+      <line x1="3" y1="12" x2="21" y2="12" strokeLinecap="round" />
+      <line x1="3" y1="18" x2="21" y2="18" strokeLinecap="round" />
+    </svg>
+  ),
   Compass: ({ className = 'w-5 h-5' }: { className?: string }) => (
     <svg className={className} fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.75}>
       <circle cx="12" cy="12" r="10" />

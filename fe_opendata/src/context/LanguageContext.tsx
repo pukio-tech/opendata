@@ -120,7 +120,7 @@ export const translations = {
     'turismo.btnAdvanced': 'Avanzado (Código)',
     'turismo.btnSearch': 'Buscar',
     'turismo.filterRegion': 'Región / Departamento',
-    'turismo.allRegions': 'Todas las regiones (25)',
+    'turismo.allRegions': 'Todas las regiones',
     'turismo.filterCategory': 'Categoría',
     'turismo.allCategories': 'Todas las categorías',
     'turismo.filterActivity': 'Actividad',
