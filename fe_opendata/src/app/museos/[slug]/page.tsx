@@ -352,8 +352,9 @@ function MuseoDetailPageContent() {
                   alt={museo.nombre}
                   className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-[1.01]"
                   containerClassName="w-full h-full"
-                  fallbackText="Museos del Perú"
-                  entityCode={museo.id_museo ? `MUSEO-${museo.id_museo}` : undefined}
+                  category={museo.categoria || 'Museo'}
+                  code={museo.id_museo}
+                  source="MINCUL"
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-black/20 pointer-events-none" />
 
@@ -430,7 +431,8 @@ function MuseoDetailPageContent() {
                           alt=""
                           className="w-full h-full object-cover"
                           containerClassName="w-full h-full"
-                          fallbackText=""
+                          category="Museo"
+                          source="MINCUL"
                         />
                       </button>
                     );
@@ -917,7 +919,9 @@ function MuseoDetailPageContent() {
                               alt={rel.nombre}
                               className="w-full h-full object-cover group-hover:scale-105 transition-transform"
                               containerClassName="w-full h-full"
-                              fallbackText=""
+                              category={rel.categoria || 'Museo'}
+                              code={rel.id_museo}
+                              source="MINCUL"
                             />
                           </div>
                           <div className="min-w-0 flex-1">

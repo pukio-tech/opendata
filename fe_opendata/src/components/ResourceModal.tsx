@@ -130,7 +130,7 @@ export const ResourceModal: React.FC<ResourceModalProps> = ({ resource, onClose 
                       <InstitutionalImage
                         src={formatPhotoUrl(selectedPhoto)}
                         alt={resource.nombre}
-                        categoryName={resource.categoria || 'Recurso Turístico'}
+                        category={resource.categoria || 'Recurso Turístico'}
                         className="w-full h-full object-cover"
                       />
                     </div>
@@ -150,7 +150,7 @@ export const ResourceModal: React.FC<ResourceModalProps> = ({ resource, onClose 
                         <InstitutionalImage
                           src={formatPhotoUrl(photo)}
                           alt=""
-                          categoryName=""
+                          category={resource.categoria || 'Recurso Turístico'}
                           className="w-full h-full object-cover"
                         />
                       </button>

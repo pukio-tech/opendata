@@ -40,8 +40,9 @@ export const MuseoCard: React.FC<MuseoCardProps> = ({ museo }) => {
             alt={museo.nombre}
             className="w-full h-full object-cover group-hover:scale-105 transition-all duration-300 ease-out"
             containerClassName="w-full h-full"
-            fallbackText="Museos del Perú"
-            entityCode={museo.id_museo ? `MUSEO-${museo.id_museo}` : undefined}
+            category={museo.categoria || 'Museo'}
+            code={museo.id_museo}
+            source="MINCUL"
           />
 
           {/* Gradient shadow overlay */}

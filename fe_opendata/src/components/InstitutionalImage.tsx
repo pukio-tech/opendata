@@ -7,10 +7,12 @@ interface InstitutionalImageProps {
   src?: string | null;
   alt: string;
   category?: string;
+  categoryName?: string;
   code?: number | string;
   className?: string;
   containerClassName?: string;
   priority?: boolean;
+  source?: string;
 }
 
 function getCategoryIcon(cat: string = '') {
@@ -30,12 +32,15 @@ function getCategoryIcon(cat: string = '') {
 export const InstitutionalImage: React.FC<InstitutionalImageProps> = ({
   src,
   alt,
-  category = 'Recurso Turístico',
+  category,
+  categoryName,
   code,
   className = 'w-full h-full object-cover',
   containerClassName = 'w-full h-full',
   priority = false,
+  source = 'MINCETUR',
 }) => {
+  const resolvedCategory = category || categoryName || 'Recurso Turístico';
   const [hasError, setHasError] = useState<boolean>(!src || src.trim() === '');
   const [isLoaded, setIsLoaded] = useState<boolean>(false);
 
@@ -49,7 +54,7 @@ export const InstitutionalImage: React.FC<InstitutionalImageProps> = ({
     }
   }, [src]);
 
-  const CategoryIcon = getCategoryIcon(category);
+  const CategoryIcon = getCategoryIcon(resolvedCategory);
 
   return (
     <div
@@ -90,7 +95,7 @@ export const InstitutionalImage: React.FC<InstitutionalImageProps> = ({
         <div className="w-full h-full p-4 flex flex-col justify-between items-center text-center bg-slate-100 dark:bg-slate-800/90 text-slate-700 dark:text-slate-200 animate-fadeIn">
           {/* Fila superior: Badge de código */}
           <div className="w-full flex items-center justify-between text-[10px] font-mono text-slate-500 dark:text-slate-400">
-            <span className="font-semibold uppercase tracking-wider">Inventario MINCETUR</span>
+            <span className="font-semibold uppercase tracking-wider">Inventario {source}</span>
             {code && (
               <span className="font-bold px-1.5 py-0.5 rounded bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-700 text-slate-700 dark:text-slate-300">
                 #{code}
@@ -104,7 +109,7 @@ export const InstitutionalImage: React.FC<InstitutionalImageProps> = ({
               <CategoryIcon className="w-5 h-5" />
             </div>
             <span className="text-xs font-bold text-slate-800 dark:text-slate-200 line-clamp-1 max-w-[200px]">
-              {category}
+              {resolvedCategory}
             </span>
             <span className="text-[10px] text-slate-500 dark:text-slate-400 mt-0.5 font-medium">
               Ficha Técnica Oficial

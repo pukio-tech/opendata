@@ -573,7 +573,8 @@ function FichaTurismoContent({ params }: FichaTurismoPageProps) {
                 <InstitutionalImage
                   src={currentPhoto ? formatPhotoUrl(currentPhoto, ficha.cod_ficha) : undefined}
                   alt={ficha.nombre}
-                  categoryName={ficha.categoria || 'Recurso Turístico'}
+                  category={ficha.categoria || 'Recurso Turístico'}
+                  code={ficha.cod_ficha}
                   className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-[1.01]"
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-slate-950/70 via-transparent to-transparent pointer-events-none" />
@@ -648,7 +649,7 @@ function FichaTurismoContent({ params }: FichaTurismoPageProps) {
                         <InstitutionalImage
                           src={formatPhotoUrl(photo, ficha.cod_ficha)}
                           alt=""
-                          categoryName=""
+                          category={ficha.categoria || 'Recurso Turístico'}
                           className="w-full h-full object-cover"
                         />
                       </button>
