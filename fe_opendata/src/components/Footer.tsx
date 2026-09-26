@@ -44,6 +44,10 @@ export const Footer = () => {
                   <strong className="text-slate-800 dark:text-slate-200">SUNAT</strong>
                 </div>
                 <div className="flex items-center justify-between">
+                  <span>Guía de Museos:</span>
+                  <strong className="text-slate-800 dark:text-slate-200">MINCUL</strong>
+                </div>
+                <div className="flex items-center justify-between">
                   <span>Cronograma Estado:</span>
                   <strong className="text-slate-800 dark:text-slate-200">IRTP / Presidencia</strong>
                 </div>
@@ -93,6 +97,11 @@ export const Footer = () => {
               <li>
                 <Link href="/empresas" className="hover:text-[#0B3B60] dark:hover:text-white transition-colors">
                   Directorio de Empresas
+                </Link>
+              </li>
+              <li>
+                <Link href="/museos" className="hover:text-[#0B3B60] dark:hover:text-white transition-colors">
+                  Museos del Perú
                 </Link>
               </li>
               <li>

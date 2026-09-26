@@ -376,5 +376,15 @@ export const Icons = {
       <line x1="15.41" y1="6.51" x2="8.59" y2="10.49" />
     </svg>
   ),
+  Landmark: ({ className = 'w-5 h-5' }: { className?: string }) => (
+    <svg className={className} fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.75}>
+      <line x1="3" y1="22" x2="21" y2="22" strokeLinecap="round" />
+      <line x1="6" y1="18" x2="6" y2="11" strokeLinecap="round" />
+      <line x1="10" y1="18" x2="10" y2="11" strokeLinecap="round" />
+      <line x1="14" y1="18" x2="14" y2="11" strokeLinecap="round" />
+      <line x1="18" y1="18" x2="18" y2="11" strokeLinecap="round" />
+      <polygon points="12 2 20 7 4 7" strokeLinecap="round" strokeLinejoin="round" />
+    </svg>
+  ),
 };
 

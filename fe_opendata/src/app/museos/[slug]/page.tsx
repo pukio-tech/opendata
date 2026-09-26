@@ -13,6 +13,7 @@ import { AdsterraDisplayBanner, ResponsiveLeaderboard } from '../../../component
 import { OfficialBadge } from '../../../components/OfficialBadge';
 import { TrustVerificationBadge } from '../../../components/TrustVerificationBadge';
 import { InstitutionalImage } from '../../../components/InstitutionalImage';
+import { MuseoCard } from '../../../components/MuseoCard';
 
 const DynamicMuseoMap = dynamic(
   () => import('../../../components/MuseoOpenStreetMap').then((mod) => mod.MuseoOpenStreetMap),
@@ -43,6 +44,7 @@ function MuseoDetailPageContent() {
   const [copiedLink, setCopiedLink] = useState<boolean>(false);
   const [copiedCoords, setCopiedCoords] = useState<boolean>(false);
   const [relatedMuseos, setRelatedMuseos] = useState<MuseoItem[]>([]);
+  const [loadingRelated, setLoadingRelated] = useState<boolean>(false);
 
   useEffect(() => {
     if (!slug) return;
@@ -57,15 +59,30 @@ function MuseoDetailPageContent() {
           setActivePhotoIndex(0);
           setImgError(false);
 
-          // Cargar museos relacionados del mismo departamento
-          if (data.departamento) {
-            museosApi
-              .searchMuseos({ department: data.departamento, limit: 6 })
-              .then((res) => {
-                setRelatedMuseos(res.data.filter((m) => m.slug !== data.slug).slice(0, 4));
-              })
-              .catch(() => setRelatedMuseos([]));
-          }
+          // Cargar museos relacionados (del mismo departamento o catálogo general)
+          setLoadingRelated(true);
+          (async () => {
+            try {
+              let results: MuseoItem[] = [];
+              if (data.departamento) {
+                const resDept = await museosApi.searchMuseos({ department: data.departamento, limit: 8 });
+                results = (resDept?.data || []).filter((m) => m.slug !== data.slug);
+              }
+              if (results.length < 4) {
+                const resGeneral = await museosApi.searchMuseos({ limit: 8 });
+                const more = (resGeneral?.data || []).filter(
+                  (m) => m.slug !== data.slug && !results.some((r) => r.slug === m.slug)
+                );
+                results = [...results, ...more];
+              }
+              setRelatedMuseos(results.slice(0, 4));
+            } catch (e) {
+              console.error('Error al cargar museos relacionados:', e);
+              setRelatedMuseos([]);
+            } finally {
+              setLoadingRelated(false);
+            }
+          })();
         } else {
           setError('El museo solicitado no existe o no se encuentra disponible.');
         }
@@ -895,50 +912,72 @@ function MuseoDetailPageContent() {
 
                 {/* 2. Banner Display 300x250 MPU en Sidebar */}
                 <AdsterraDisplayBanner size="300x250" className="my-2" />
-
-                {/* 3. Otros Museos en la Región */}
-                {relatedMuseos.length > 0 && (
-                  <div className="p-5 rounded-lg bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-xs space-y-4">
-                    <div className="flex items-center justify-between pb-2 border-b border-slate-200 dark:border-slate-800">
-                      <span className="text-xs font-bold uppercase tracking-wider text-slate-700 dark:text-slate-300 flex items-center gap-2">
-                        <Icons.Building className="w-4 h-4 text-[#0B3B60] dark:text-slate-400" />
-                        <span>Otros Museos en {museo.departamento}</span>
-                      </span>
-                    </div>
-
-                    <div className="space-y-3">
-                      {relatedMuseos.map((rel) => (
-                        <Link
-                          key={rel.id_museo}
-                          href={`/museos/${rel.slug}`}
-                          className="group flex items-center gap-3 p-2 rounded-md hover:bg-slate-50 dark:hover:bg-slate-800/60 transition-colors"
-                        >
-                          <div className="w-16 h-12 rounded-md bg-slate-950 overflow-hidden shrink-0">
-                            <InstitutionalImage
-                              src={rel.imagen_tarjeta || rel.imagen_portada || ''}
-                              alt={rel.nombre}
-                              className="w-full h-full object-cover group-hover:scale-105 transition-transform"
-                              containerClassName="w-full h-full"
-                              category={rel.categoria || 'Museo'}
-                              code={rel.id_museo}
-                              source="MINCUL"
-                            />
-                          </div>
-                          <div className="min-w-0 flex-1">
-                            <h4 className="text-xs font-bold text-slate-900 dark:text-white truncate group-hover:text-[#0B3B60] dark:group-hover:text-white transition-colors">
-                              {rel.nombre}
-                            </h4>
-                            <p className="text-[11px] text-slate-500 truncate">
-                              {rel.distrito || rel.provincia || rel.departamento}
-                            </p>
-                          </div>
-                        </Link>
-                      ))}
-                    </div>
-                  </div>
-                )}
               </div>
             </div>
+
+            {/* Pie de navegación hacia catálogo */}
+            <div className="pt-4 flex items-center justify-between">
+              <Link
+                href="/museos"
+                className="inline-flex items-center gap-2 text-xs font-semibold text-slate-600 dark:text-slate-400 hover:text-[#0B3B60] dark:hover:text-white transition-colors"
+              >
+                <Icons.ChevronLeft className="w-4 h-4" />
+                <span>Explorar más museos en el catálogo</span>
+              </Link>
+            </div>
+
+            {/* MUSEOS RELACIONADOS (GRID DE 4 PARA MAYOR INTERACCIÓN) */}
+            {(loadingRelated || relatedMuseos.length > 0) && (
+              <section className="space-y-4 pt-6 border-t border-slate-200 dark:border-slate-800">
+                <div className="flex flex-wrap items-center justify-between gap-3">
+                  <div>
+                    <div className="flex items-center gap-2">
+                      <Icons.Landmark className="w-5 h-5 text-[#0B3B60] dark:text-slate-400" />
+                      <h2 className="text-base sm:text-lg font-bold text-slate-900 dark:text-white tracking-tight">
+                        Museos Relacionados
+                      </h2>
+                    </div>
+                    <p className="text-xs text-slate-500 dark:text-slate-400 mt-0.5">
+                      Otros museos y espacios culturales en {museo.departamento ? `${museo.departamento}` : 'el Perú'}.
+                    </p>
+                  </div>
+
+                  {museo.departamento && (
+                    <Link
+                      href={`/museos?departamento=${encodeURIComponent(museo.departamento)}`}
+                      className="inline-flex items-center gap-1.5 text-xs font-semibold text-[#0B3B60] dark:text-sky-400 hover:underline transition-colors"
+                    >
+                      <span>Ver más en {museo.departamento}</span>
+                      <Icons.ArrowRight className="w-3.5 h-3.5" />
+                    </Link>
+                  )}
+                </div>
+
+                {loadingRelated ? (
+                  <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 sm:gap-6">
+                    {[1, 2, 3, 4].map((i) => (
+                      <div
+                        key={i}
+                        className="h-72 rounded-lg bg-slate-100 dark:bg-slate-900 border border-slate-200 dark:border-slate-800 animate-pulse p-4 flex flex-col justify-between"
+                      >
+                        <div className="space-y-2">
+                          <div className="h-4 bg-slate-200 dark:bg-slate-800 rounded w-1/3" />
+                          <div className="h-5 bg-slate-200 dark:bg-slate-800 rounded w-3/4" />
+                          <div className="h-3 bg-slate-200 dark:bg-slate-800 rounded w-1/2" />
+                        </div>
+                        <div className="h-8 bg-slate-200 dark:bg-slate-800 rounded" />
+                      </div>
+                    ))}
+                  </div>
+                ) : (
+                  <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 sm:gap-6">
+                    {relatedMuseos.map((rel) => (
+                      <MuseoCard key={rel.id_museo} museo={rel} />
+                    ))}
+                  </div>
+                )}
+              </section>
+            )}
 
             {/* Anuncio Nativo Adsterra Estratégico */}
             <AdsterraNativeBanner className="mt-8 mb-4" />
