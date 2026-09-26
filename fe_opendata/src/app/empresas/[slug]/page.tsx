@@ -9,6 +9,8 @@ import { EmpresaCard } from '../../../components/EmpresaCard';
 import { Icons } from '../../../components/Icons';
 import { AdsterraNativeBanner } from '../../../components/AdsterraNativeBanner';
 import { ResponsiveLeaderboard } from '../../../components/AdsterraDisplayBanner';
+import { OfficialBadge } from '../../../components/OfficialBadge';
+import { TrustVerificationBadge } from '../../../components/TrustVerificationBadge';
 
 interface FichaEmpresaPageProps {
   params?: { slug?: string };
@@ -122,12 +124,12 @@ function FichaEmpresaContent({ params }: FichaEmpresaPageProps) {
         {/* ========================================================================= */}
         <div className="flex flex-wrap items-center justify-between gap-4 pb-5 border-b border-slate-200 dark:border-slate-800">
           <nav className="flex items-center gap-2 text-xs sm:text-sm text-slate-500 dark:text-slate-400">
-            <Link href="/" className="hover:text-sky-600 dark:hover:text-sky-400 transition-colors flex items-center gap-1.5 font-medium">
-              <Icons.Compass className="w-4 h-4 text-sky-600 dark:text-sky-400" />
+            <Link href="/" className="hover:text-[#0B3B60] dark:hover:text-white transition-colors flex items-center gap-1.5 font-medium">
+              <Icons.Compass className="w-4 h-4 text-[#0B3B60] dark:text-slate-400" />
               <span>Inicio</span>
             </Link>
             <span className="text-slate-300 dark:text-slate-700">/</span>
-            <Link href="/empresas" className="hover:text-sky-600 dark:hover:text-sky-400 transition-colors font-medium">
+            <Link href="/empresas" className="hover:text-[#0B3B60] dark:hover:text-white transition-colors font-medium">
               Empresas
             </Link>
             <span className="text-slate-300 dark:text-slate-700">/</span>
@@ -139,11 +141,11 @@ function FichaEmpresaContent({ params }: FichaEmpresaPageProps) {
           <div className="flex items-center gap-2">
             <button
               onClick={handleCopyLink}
-              className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-semibold bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 hover:bg-slate-100 dark:hover:bg-slate-800 text-slate-700 dark:text-slate-200 transition-colors cursor-pointer shadow-sm"
+              className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-md text-xs font-medium bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 hover:bg-slate-50 dark:hover:bg-slate-800 text-slate-700 dark:text-slate-200 transition-colors cursor-pointer shadow-xs"
             >
               {copiedLink ? (
                 <>
-                  <Icons.Check className="w-3.5 h-3.5 text-emerald-500" />
+                  <Icons.Check className="w-3.5 h-3.5 text-emerald-600" />
                   <span>Enlace copiado</span>
                 </>
               ) : (
@@ -156,12 +158,12 @@ function FichaEmpresaContent({ params }: FichaEmpresaPageProps) {
 
             <button
               onClick={handleCopySummary}
-              className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-semibold bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 hover:bg-slate-100 dark:hover:bg-slate-800 text-slate-700 dark:text-slate-200 transition-colors cursor-pointer shadow-sm"
+              className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-md text-xs font-medium bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 hover:bg-slate-50 dark:hover:bg-slate-800 text-slate-700 dark:text-slate-200 transition-colors cursor-pointer shadow-xs"
             >
               {copiedSummary ? (
                 <>
-                  <Icons.Check className="w-3.5 h-3.5 text-emerald-500" />
-                  <span className="text-emerald-600 dark:text-emerald-400">¡Ficha Copiada!</span>
+                  <Icons.Check className="w-3.5 h-3.5 text-emerald-600" />
+                  <span className="text-emerald-700 dark:text-emerald-400">¡Ficha Copiada!</span>
                 </>
               ) : (
                 <>
@@ -173,7 +175,7 @@ function FichaEmpresaContent({ params }: FichaEmpresaPageProps) {
 
             <button
               onClick={() => router.back()}
-              className="inline-flex items-center gap-1.5 px-3.5 py-1.5 rounded-lg text-xs font-semibold bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 hover:bg-slate-100 dark:hover:bg-slate-800 text-slate-800 dark:text-slate-200 transition-colors cursor-pointer shadow-sm"
+              className="inline-flex items-center gap-1.5 px-3.5 py-1.5 rounded-md text-xs font-medium bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 hover:bg-slate-50 dark:hover:bg-slate-800 text-slate-800 dark:text-slate-200 transition-colors cursor-pointer shadow-xs"
             >
               <Icons.ChevronLeft className="w-4 h-4" />
               <span>Volver</span>
@@ -184,8 +186,8 @@ function FichaEmpresaContent({ params }: FichaEmpresaPageProps) {
         {/* Loading State */}
         {loading && (
           <div className="py-36 flex flex-col items-center justify-center gap-4 text-center">
-            <div className="w-12 h-12 border-3 border-sky-500 border-t-transparent rounded-full animate-spin" />
-            <p className="text-sm font-semibold text-slate-500 dark:text-slate-400">
+            <div className="w-10 h-10 border-2 border-[#0B3B60] border-t-transparent rounded-full animate-spin" />
+            <p className="text-sm font-medium text-slate-600 dark:text-slate-400">
               Cargando información oficial del contribuyente...
             </p>
           </div>
@@ -193,13 +195,13 @@ function FichaEmpresaContent({ params }: FichaEmpresaPageProps) {
 
         {/* Error State */}
         {!loading && error && (
-          <div className="text-center py-20 bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-xl p-8 shadow-sm">
-            <Icons.Building className="w-12 h-12 text-rose-500 mx-auto mb-3" />
+          <div className="text-center py-20 bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-lg p-8 shadow-xs">
+            <Icons.Building className="w-12 h-12 text-[#D91023] mx-auto mb-3" />
             <h3 className="text-lg font-bold text-slate-900 dark:text-white mb-1">Empresa no encontrada</h3>
-            <p className="text-xs text-slate-500 dark:text-slate-400 max-w-md mx-auto mb-6">{error}</p>
+            <p className="text-xs text-slate-600 dark:text-slate-400 max-w-md mx-auto mb-6">{error}</p>
             <Link
               href="/empresas"
-              className="inline-flex items-center gap-2 px-5 py-2.5 rounded-lg bg-sky-600 hover:bg-sky-500 text-white font-semibold text-xs transition-colors cursor-pointer shadow-sm"
+              className="inline-flex items-center gap-2 px-4 py-2 rounded-md bg-[#0B3B60] hover:bg-[#082C48] text-white font-semibold text-xs transition-colors cursor-pointer shadow-xs"
             >
               <Icons.ChevronLeft className="w-4 h-4" />
               <span>Volver al directorio</span>
@@ -214,47 +216,49 @@ function FichaEmpresaContent({ params }: FichaEmpresaPageProps) {
             <ResponsiveLeaderboard className="my-2" />
 
             {/* HERO DE FICHA DE EMPRESA */}
-            <div className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-2xl p-6 sm:p-8 shadow-sm relative overflow-hidden">
-              <div className="absolute top-0 right-0 w-80 h-80 bg-gradient-to-bl from-sky-400/10 via-emerald-400/5 to-transparent rounded-full blur-3xl pointer-events-none" />
-
+            <div className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-lg p-6 sm:p-8 shadow-xs relative">
               <div className="relative z-10 space-y-4">
                 {/* Badges y RUC */}
                 <div className="flex flex-wrap items-center gap-2">
-                  <span className="font-mono text-sm font-black px-3 py-1 rounded-lg bg-sky-600 text-white shadow-sm">
+                  <OfficialBadge variant="code">
                     RUC {empresa.numero_documento}
-                  </span>
+                  </OfficialBadge>
 
-                  <span
-                    className={`text-xs font-bold px-2.5 py-1 rounded-lg ${
-                      empresa.estado_contribuyente === 'ACTIVO'
-                        ? 'bg-emerald-50 dark:bg-emerald-950/70 text-emerald-700 dark:text-emerald-400 border border-emerald-300 dark:border-emerald-800'
-                        : 'bg-rose-50 dark:bg-rose-950/70 text-rose-700 dark:text-rose-400 border border-rose-300 dark:border-rose-800'
-                    }`}
+                  <OfficialBadge
+                    variant={
+                      empresa.estado_contribuyente === 'ACTIVO' ? 'activo' : 'nohabido'
+                    }
                   >
                     ● {empresa.estado_contribuyente}
-                  </span>
+                  </OfficialBadge>
 
-                  <span className="text-xs font-bold px-2.5 py-1 rounded-lg bg-sky-50 dark:bg-sky-950/70 text-sky-700 dark:text-sky-300 border border-sky-300 dark:border-sky-800">
+                  <OfficialBadge
+                    variant={
+                      empresa.condicion_domicilio === 'HABIDO' ? 'habido' : 'pendiente'
+                    }
+                  >
                     DOMICILIO {empresa.condicion_domicilio}
-                  </span>
+                  </OfficialBadge>
 
                   {empresa.departamento && (
-                    <span className="text-xs font-bold uppercase tracking-wider px-2.5 py-1 rounded-lg bg-slate-100 dark:bg-slate-800 text-slate-700 dark:text-slate-300 border border-slate-200 dark:border-slate-700">
+                    <OfficialBadge variant="code">
                       {empresa.departamento}
-                    </span>
+                    </OfficialBadge>
                   )}
+
+                  <TrustVerificationBadge source="SUNAT" date="25/09/2026" />
                 </div>
 
                 {/* Título Principal: Razón Social */}
-                <h1 className="text-2xl sm:text-4xl font-extrabold text-slate-950 dark:text-white tracking-tight leading-tight">
+                <h1 className="text-2xl sm:text-3xl font-bold text-slate-900 dark:text-white tracking-tight leading-tight">
                   {empresa.razon_social}
                 </h1>
 
                 {/* Nombre Comercial si existe */}
                 {empresa.nombre_comercial && (
-                  <p className="text-sm sm:text-base text-slate-600 dark:text-slate-400 italic">
+                  <p className="text-sm text-slate-600 dark:text-slate-400">
                     Nombre Comercial:{' '}
-                    <strong className="text-slate-900 dark:text-slate-200 not-italic">
+                    <strong className="text-slate-900 dark:text-slate-200 font-semibold">
                       {empresa.nombre_comercial}
                     </strong>
                   </p>
@@ -262,8 +266,8 @@ function FichaEmpresaContent({ params }: FichaEmpresaPageProps) {
 
                 {/* Tipo Societario */}
                 {empresa.tipo_contribuyente && (
-                  <div className="inline-flex items-center gap-2 px-3 py-1 rounded-lg bg-slate-100 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 text-xs font-semibold text-slate-700 dark:text-slate-300">
-                    <Icons.Building className="w-3.5 h-3.5 text-sky-600" />
+                  <div className="inline-flex items-center gap-2 px-2.5 py-1 rounded-md bg-slate-100 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 text-xs font-medium text-slate-700 dark:text-slate-300">
+                    <Icons.Building className="w-3.5 h-3.5 text-[#0B3B60] dark:text-slate-400" />
                     <span>{empresa.tipo_contribuyente}</span>
                   </div>
                 )}
@@ -273,9 +277,9 @@ function FichaEmpresaContent({ params }: FichaEmpresaPageProps) {
             {/* SECCIÓN EN DOS COLUMNAS DE DETALLES */}
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
               {/* Columna 1: Información Tributaria SUNAT */}
-              <section className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-2xl p-6 shadow-sm space-y-4">
+              <section className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-lg p-6 shadow-xs space-y-4">
                 <div className="flex items-center gap-2 pb-3 border-b border-slate-100 dark:border-slate-800">
-                  <Icons.ShieldCheck className="w-5 h-5 text-sky-600" />
+                  <Icons.ShieldCheck className="w-5 h-5 text-[#0B3B60] dark:text-slate-400" />
                   <h2 className="text-sm font-bold uppercase tracking-wider text-slate-900 dark:text-white">
                     Datos Tributarios Oficiales
                   </h2>
@@ -296,12 +300,12 @@ function FichaEmpresaContent({ params }: FichaEmpresaPageProps) {
 
                   <div className="flex justify-between pt-2">
                     <dt className="text-slate-500 dark:text-slate-400 font-medium">Estado del Contribuyente:</dt>
-                    <dd className="font-bold text-emerald-600 dark:text-emerald-400">{empresa.estado_contribuyente}</dd>
+                    <dd className="font-bold text-emerald-700 dark:text-emerald-400">{empresa.estado_contribuyente}</dd>
                   </div>
 
                   <div className="flex justify-between pt-2">
                     <dt className="text-slate-500 dark:text-slate-400 font-medium">Condición de Domicilio:</dt>
-                    <dd className="font-bold text-sky-600 dark:text-sky-400">{empresa.condicion_domicilio}</dd>
+                    <dd className="font-bold text-slate-900 dark:text-white">{empresa.condicion_domicilio}</dd>
                   </div>
 
                   <div className="flex justify-between pt-2">
@@ -319,9 +323,9 @@ function FichaEmpresaContent({ params }: FichaEmpresaPageProps) {
               </section>
 
               {/* Columna 2: Domicilio Fiscal y Ubicación */}
-              <section className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-2xl p-6 shadow-sm space-y-4">
+              <section className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-lg p-6 shadow-xs space-y-4">
                 <div className="flex items-center gap-2 pb-3 border-b border-slate-100 dark:border-slate-800">
-                  <Icons.MapPin className="w-5 h-5 text-emerald-600" />
+                  <Icons.MapPin className="w-5 h-5 text-[#0B3B60] dark:text-slate-400" />
                   <h2 className="text-sm font-bold uppercase tracking-wider text-slate-900 dark:text-white">
                     Domicilio Fiscal y Ubicación
                   </h2>
@@ -350,7 +354,7 @@ function FichaEmpresaContent({ params }: FichaEmpresaPageProps) {
 
                   <div className="pt-2">
                     <dt className="text-slate-500 dark:text-slate-400 font-medium mb-1">Dirección declarada:</dt>
-                    <dd className="p-3 rounded-xl bg-slate-50 dark:bg-slate-950 font-mono text-slate-900 dark:text-white leading-relaxed border border-slate-100 dark:border-slate-800">
+                    <dd className="p-3 rounded-lg bg-slate-50 dark:bg-slate-950 font-mono text-xs text-slate-900 dark:text-white leading-relaxed border border-slate-200 dark:border-slate-800">
                       {empresa.direccion || 'Sin dirección registrada'}
                     </dd>
                   </div>
@@ -361,7 +365,7 @@ function FichaEmpresaContent({ params }: FichaEmpresaPageProps) {
                         href={googleMapsUrl}
                         target="_blank"
                         rel="noopener noreferrer"
-                        className="inline-flex items-center gap-1.5 text-xs font-semibold text-sky-600 dark:text-sky-400 hover:underline"
+                        className="inline-flex items-center gap-1.5 text-xs font-medium text-[#0B3B60] dark:text-sky-400 hover:underline"
                       >
                         <Icons.MapPin className="w-3.5 h-3.5" />
                         <span>Ver ubicación aproximada en Google Maps</span>
@@ -373,23 +377,23 @@ function FichaEmpresaContent({ params }: FichaEmpresaPageProps) {
               </section>
 
               {/* Fila Completa: Actividad Económica CIIU */}
-              <section className="md:col-span-2 bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-2xl p-6 shadow-sm space-y-3">
+              <section className="md:col-span-2 bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-lg p-6 shadow-xs space-y-3">
                 <div className="flex items-center gap-2 pb-3 border-b border-slate-100 dark:border-slate-800">
-                  <Icons.Briefcase className="w-5 h-5 text-indigo-600" />
+                  <Icons.Briefcase className="w-5 h-5 text-[#0B3B60] dark:text-slate-400" />
                   <h2 className="text-sm font-bold uppercase tracking-wider text-slate-900 dark:text-white">
                     Actividad Económica Principal (CIIU)
                   </h2>
                 </div>
 
-                <div className="flex items-start gap-4 p-4 rounded-xl bg-indigo-50/50 dark:bg-indigo-950/20 border border-indigo-100 dark:border-indigo-900/40">
-                  <span className="font-mono text-sm font-black px-3 py-1 rounded-lg bg-indigo-600 text-white shrink-0">
+                <div className="flex items-start gap-3 p-4 rounded-lg bg-slate-50 dark:bg-slate-800/60 border border-slate-200 dark:border-slate-700">
+                  <OfficialBadge variant="code" className="shrink-0">
                     CIIU {empresa.codigo_ciiu || 'N/A'}
-                  </span>
+                  </OfficialBadge>
                   <div>
-                    <h3 className="text-sm font-bold text-slate-900 dark:text-white">
+                    <h3 className="text-sm font-semibold text-slate-900 dark:text-white">
                       {empresa.actividad_economica || 'Actividad económica no registrada'}
                     </h3>
-                    <p className="text-xs text-slate-500 dark:text-slate-400 mt-1 leading-relaxed">
+                    <p className="text-xs text-slate-600 dark:text-slate-400 mt-1 leading-relaxed">
                       Clasificación Internacional Industrial Uniforme (CIIU Revisión 4) declarada por el contribuyente ante la Superintendencia Nacional de Aduanas y de Administración Tributaria (SUNAT).
                     </p>
                   </div>
@@ -403,7 +407,7 @@ function FichaEmpresaContent({ params }: FichaEmpresaPageProps) {
                 href="https://e-consultaruc.sunat.gob.pe/cl-ti-itmrconsruc/jcrS00Alias"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="inline-flex items-center gap-2 px-5 py-2.5 rounded-xl bg-sky-600 hover:bg-sky-500 text-white font-semibold text-xs shadow-sm transition-colors cursor-pointer"
+                className="inline-flex items-center gap-2 px-4 py-2 rounded-md bg-[#0B3B60] hover:bg-[#082C48] text-white font-semibold text-xs shadow-xs transition-colors cursor-pointer"
               >
                 <span>Validar en Consulta RUC SUNAT Oficial</span>
                 <Icons.ArrowRight className="w-3.5 h-3.5 -rotate-45" />
@@ -411,7 +415,7 @@ function FichaEmpresaContent({ params }: FichaEmpresaPageProps) {
 
               <Link
                 href="/empresas"
-                className="inline-flex items-center gap-2 text-xs font-semibold text-slate-600 dark:text-slate-400 hover:text-sky-600 dark:hover:text-sky-400 transition-colors"
+                className="inline-flex items-center gap-2 text-xs font-semibold text-slate-600 dark:text-slate-400 hover:text-[#0B3B60] dark:hover:text-white transition-colors"
               >
                 <Icons.ChevronLeft className="w-4 h-4" />
                 <span>Explorar más empresas en el catálogo</span>
@@ -424,7 +428,7 @@ function FichaEmpresaContent({ params }: FichaEmpresaPageProps) {
                 <div className="flex flex-wrap items-center justify-between gap-3">
                   <div>
                     <div className="flex items-center gap-2">
-                      <Icons.Building className="w-5 h-5 text-sky-600 dark:text-sky-400" />
+                      <Icons.Building className="w-5 h-5 text-[#0B3B60] dark:text-slate-400" />
                       <h2 className="text-base sm:text-lg font-bold text-slate-900 dark:text-white tracking-tight">
                         Empresas Relacionadas
                       </h2>
@@ -437,7 +441,7 @@ function FichaEmpresaContent({ params }: FichaEmpresaPageProps) {
                   {empresa.departamento && (
                     <Link
                       href={`/empresas?departamento=${encodeURIComponent(empresa.departamento)}`}
-                      className="inline-flex items-center gap-1.5 text-xs font-semibold text-sky-600 dark:text-sky-400 hover:text-sky-700 dark:hover:text-sky-300 transition-colors"
+                      className="inline-flex items-center gap-1.5 text-xs font-semibold text-[#0B3B60] dark:text-sky-400 hover:underline transition-colors"
                     >
                       <span>Ver más en {empresa.departamento}</span>
                       <Icons.ArrowRight className="w-3.5 h-3.5" />
@@ -450,7 +454,7 @@ function FichaEmpresaContent({ params }: FichaEmpresaPageProps) {
                     {[1, 2, 3, 4].map((i) => (
                       <div
                         key={i}
-                        className="h-72 rounded-xl bg-slate-100 dark:bg-slate-900 border border-slate-200 dark:border-slate-800 animate-pulse p-4 flex flex-col justify-between"
+                        className="h-72 rounded-lg bg-slate-100 dark:bg-slate-900 border border-slate-200 dark:border-slate-800 animate-pulse p-4 flex flex-col justify-between"
                       >
                         <div className="space-y-2">
                           <div className="h-4 bg-slate-200 dark:bg-slate-800 rounded w-1/3" />
@@ -485,7 +489,7 @@ export default function FichaEmpresaPage() {
     <Suspense
       fallback={
         <div className="min-h-screen flex items-center justify-center bg-slate-50 dark:bg-slate-950 py-24">
-          <div className="w-12 h-12 border-3 border-sky-500 border-t-transparent rounded-full animate-spin" />
+          <div className="w-10 h-10 border-2 border-[#0B3B60] border-t-transparent rounded-full animate-spin" />
         </div>
       }
     >

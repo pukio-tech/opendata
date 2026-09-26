@@ -10,14 +10,17 @@ import { Icons } from '../../../components/Icons';
 import { useLanguage } from '../../../context/LanguageContext';
 import { AdsterraNativeBanner } from '../../../components/AdsterraNativeBanner';
 import { AdsterraDisplayBanner, ResponsiveLeaderboard } from '../../../components/AdsterraDisplayBanner';
+import { OfficialBadge } from '../../../components/OfficialBadge';
+import { TrustVerificationBadge } from '../../../components/TrustVerificationBadge';
+import { InstitutionalImage } from '../../../components/InstitutionalImage';
 
 const DynamicMuseoMap = dynamic(
   () => import('../../../components/MuseoOpenStreetMap').then((mod) => mod.MuseoOpenStreetMap),
   {
     ssr: false,
     loading: () => (
-      <div className="w-full h-80 rounded-2xl bg-slate-100 dark:bg-slate-900 border border-slate-200 dark:border-slate-800 flex items-center justify-center">
-        <div className="w-8 h-8 border-3 border-sky-500 border-t-transparent rounded-full animate-spin" />
+      <div className="w-full h-80 rounded-lg bg-slate-100 dark:bg-slate-900 border border-slate-200 dark:border-slate-800 flex items-center justify-center">
+        <div className="w-8 h-8 border-2 border-[#0B3B60] border-t-transparent rounded-full animate-spin" />
       </div>
     ),
   }
@@ -182,12 +185,12 @@ function MuseoDetailPageContent() {
         {/* ========================================================================= */}
         <div className="flex flex-wrap items-center justify-between gap-4 pb-5 border-b border-slate-200 dark:border-slate-800">
           <nav className="flex items-center gap-2 text-xs sm:text-sm text-slate-500 dark:text-slate-400">
-            <Link href="/" className="hover:text-sky-600 dark:hover:text-sky-400 transition-colors flex items-center gap-1.5 font-medium">
-              <Icons.Compass className="w-4 h-4 text-sky-600 dark:text-sky-400" />
+            <Link href="/" className="hover:text-[#0B3B60] dark:hover:text-white transition-colors flex items-center gap-1.5 font-medium">
+              <Icons.Compass className="w-4 h-4 text-[#0B3B60] dark:text-slate-400" />
               <span>{t('ficha.breadcrumbHome') || 'Inicio'}</span>
             </Link>
             <span className="text-slate-300 dark:text-slate-700">/</span>
-            <Link href="/museos" className="hover:text-sky-600 dark:hover:text-sky-400 transition-colors font-medium">
+            <Link href="/museos" className="hover:text-[#0B3B60] dark:hover:text-white transition-colors font-medium">
               Museos
             </Link>
             {museo?.departamento && (
@@ -195,7 +198,7 @@ function MuseoDetailPageContent() {
                 <span className="text-slate-300 dark:text-slate-700">/</span>
                 <Link
                   href={`/museos?department=${encodeURIComponent(museo.departamento)}`}
-                  className="hover:text-sky-600 dark:hover:text-sky-400 transition-colors font-medium"
+                  className="hover:text-[#0B3B60] dark:hover:text-white transition-colors font-medium"
                 >
                   {museo.departamento}
                 </Link>
@@ -211,11 +214,11 @@ function MuseoDetailPageContent() {
             <button
               type="button"
               onClick={handleCopyLink}
-              className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-semibold bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 hover:bg-slate-100 dark:hover:bg-slate-800 text-slate-700 dark:text-slate-200 transition-colors cursor-pointer shadow-sm"
+              className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-md text-xs font-medium bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 hover:bg-slate-50 dark:hover:bg-slate-800 text-slate-700 dark:text-slate-200 transition-colors cursor-pointer shadow-xs"
             >
               {copiedLink ? (
                 <>
-                  <Icons.CheckCircle className="w-3.5 h-3.5 text-emerald-500" />
+                  <Icons.CheckCircle className="w-3.5 h-3.5 text-emerald-600" />
                   <span>Enlace Copiado</span>
                 </>
               ) : (
@@ -229,7 +232,7 @@ function MuseoDetailPageContent() {
             <button
               type="button"
               onClick={() => router.back()}
-              className="inline-flex items-center gap-1.5 px-3.5 py-1.5 rounded-lg text-xs font-semibold bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 hover:bg-slate-100 dark:hover:bg-slate-800 text-slate-800 dark:text-slate-200 transition-colors cursor-pointer shadow-sm"
+              className="inline-flex items-center gap-1.5 px-3.5 py-1.5 rounded-md text-xs font-medium bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 hover:bg-slate-50 dark:hover:bg-slate-800 text-slate-800 dark:text-slate-200 transition-colors cursor-pointer shadow-xs"
             >
               <Icons.ChevronLeft className="w-4 h-4" />
               <span>Volver al Catálogo</span>
@@ -240,8 +243,8 @@ function MuseoDetailPageContent() {
         {/* Loading State */}
         {loading && (
           <div className="py-36 flex flex-col items-center justify-center gap-4 text-center">
-            <div className="w-12 h-12 border-3 border-sky-500 border-t-transparent rounded-full animate-spin" />
-            <p className="text-sm font-semibold text-slate-500 dark:text-slate-400">
+            <div className="w-10 h-10 border-2 border-[#0B3B60] border-t-transparent rounded-full animate-spin" />
+            <p className="text-sm font-medium text-slate-600 dark:text-slate-400">
               Cargando ficha oficial del museo...
             </p>
           </div>
@@ -249,19 +252,19 @@ function MuseoDetailPageContent() {
 
         {/* Error State */}
         {!loading && (error || !museo) && (
-          <div className="py-24 text-center max-w-lg mx-auto p-8">
-            <div className="w-16 h-16 rounded-xl bg-rose-50 dark:bg-rose-500/10 border border-rose-200 dark:border-rose-500/20 flex items-center justify-center mx-auto mb-4 text-rose-500">
+          <div className="py-24 text-center max-w-lg mx-auto p-8 rounded-lg bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-xs">
+            <div className="w-16 h-16 rounded-md bg-rose-50 dark:bg-rose-500/10 border border-rose-200 dark:border-rose-500/20 flex items-center justify-center mx-auto mb-4 text-[#D91023]">
               <Icons.Building className="w-8 h-8" />
             </div>
             <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
               Museo no encontrado
             </h2>
-            <p className="text-sm text-slate-500 dark:text-slate-400 mb-6">
+            <p className="text-sm text-slate-600 dark:text-slate-400 mb-6">
               {error || 'No se encontró el registro solicitado en el inventario oficial de museos.'}
             </p>
             <Link
               href="/museos"
-              className="inline-flex items-center gap-2 px-6 py-2.5 rounded-lg bg-sky-600 hover:bg-sky-500 text-white font-semibold text-xs transition-colors shadow-sm"
+              className="inline-flex items-center gap-2 px-6 py-2.5 rounded-md bg-[#0B3B60] hover:bg-[#082C48] text-white font-semibold text-xs transition-colors shadow-xs"
             >
               Explorar otros museos
             </Link>
@@ -277,38 +280,33 @@ function MuseoDetailPageContent() {
             <div className="space-y-3">
               {/* Badges de Metadatos Oficiales */}
               <div className="flex flex-wrap items-center gap-2">
-                <span
-                  className={`text-xs font-bold px-3 py-1 rounded-md border flex items-center gap-1.5 ${
-                    isOpen
-                      ? 'bg-emerald-500/10 text-emerald-700 dark:text-emerald-400 border-emerald-500/20'
-                      : 'bg-rose-500/10 text-rose-700 dark:text-rose-400 border-rose-500/20'
-                  }`}
-                >
-                  <span className="w-1.5 h-1.5 rounded-full bg-current animate-pulse" />
-                  <span>{museo.estado || 'Abierto'}</span>
-                </span>
+                <OfficialBadge variant={isOpen ? 'activo' : 'nohabido'}>
+                  ● {museo.estado || 'Abierto'}
+                </OfficialBadge>
 
-                <span className="text-xs font-semibold px-3 py-1 rounded-md bg-white dark:bg-slate-900 text-slate-700 dark:text-slate-300 border border-slate-200 dark:border-slate-800 shadow-sm">
+                <OfficialBadge variant="code">
                   {museo.administracion || museo.categoria || 'Ministerio de Cultura'}
-                </span>
+                </OfficialBadge>
 
                 {museo.recorrido_virtual_url && (
-                  <span className="text-xs font-bold px-3 py-1 rounded-md bg-amber-500 text-slate-950 shadow-sm flex items-center gap-1">
+                  <span className="inline-flex items-center gap-1 px-2.5 py-1 rounded-md bg-amber-500 text-slate-950 text-xs font-bold shadow-xs">
                     <Icons.Eye className="w-3.5 h-3.5" />
                     <span>Recorrido 360° Disponible</span>
                   </span>
                 )}
+
+                <TrustVerificationBadge source="MINCUL" date="25/09/2026" />
               </div>
 
               {/* Título Principal */}
-              <h1 className="text-3xl sm:text-4xl lg:text-5xl font-bold tracking-tight text-slate-900 dark:text-white leading-tight">
+              <h1 className="text-2xl sm:text-3xl lg:text-4xl font-bold tracking-tight text-slate-900 dark:text-white leading-tight">
                 {museo.nombre}
               </h1>
 
               {/* Barra de Ubicación Geográfica Oficial */}
               <div className="flex flex-wrap items-center justify-between gap-4 pt-1">
                 <div className="flex items-center gap-2 text-sm sm:text-base text-slate-600 dark:text-slate-300 font-medium">
-                  <Icons.MapPin className="w-4 h-4 text-sky-600 dark:text-sky-400 flex-shrink-0" />
+                  <Icons.MapPin className="w-4 h-4 text-[#0B3B60] dark:text-slate-400 flex-shrink-0" />
                   <span>
                     <strong className="text-slate-900 dark:text-white">{museo.departamento || 'Perú'}</strong>
                     {museo.provincia && <span> • {museo.provincia}</span>}
@@ -321,7 +319,7 @@ function MuseoDetailPageContent() {
                     href={googleMapsLink}
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="inline-flex items-center gap-1.5 text-xs font-semibold text-sky-600 dark:text-sky-400 hover:underline"
+                    className="inline-flex items-center gap-1.5 text-xs font-semibold text-[#0B3B60] dark:text-sky-400 hover:underline"
                   >
                     <span>Ver en el mapa</span>
                     <Icons.ExternalLink className="w-3.5 h-3.5" />
@@ -331,7 +329,7 @@ function MuseoDetailPageContent() {
                       href={museo.url_origen}
                       target="_blank"
                       rel="noopener noreferrer"
-                      className="inline-flex items-center gap-1.5 text-xs font-semibold text-slate-600 dark:text-slate-400 hover:text-sky-600 dark:hover:text-sky-400 hover:underline ml-2"
+                      className="inline-flex items-center gap-1.5 text-xs font-semibold text-slate-600 dark:text-slate-400 hover:text-[#0B3B60] dark:hover:text-sky-400 hover:underline ml-2"
                     >
                       <span>Ficha Fuente MINCUL</span>
                       <Icons.ExternalLink className="w-3.5 h-3.5" />
@@ -347,23 +345,16 @@ function MuseoDetailPageContent() {
             <div className="space-y-4">
               <div
                 onClick={() => openLightbox(activePhotoIndex)}
-                className="relative w-full h-[340px] sm:h-[480px] lg:h-[520px] rounded-xl overflow-hidden bg-slate-950 shadow-lg border border-slate-200 dark:border-slate-800 flex items-center justify-center cursor-pointer group"
+                className="relative w-full h-[340px] sm:h-[480px] lg:h-[520px] rounded-lg overflow-hidden bg-slate-950 shadow-xs border border-slate-200 dark:border-slate-800 flex items-center justify-center cursor-pointer group"
               >
-                {currentPhoto && !imgError ? (
-                  <img
-                    src={currentPhoto}
-                    alt={museo.nombre}
-                    fetchPriority="high"
-                    decoding="async"
-                    className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-[1.01]"
-                    onError={() => setImgError(true)}
-                  />
-                ) : (
-                  <div className="text-center p-8 flex flex-col items-center justify-center text-white">
-                    <Icons.Building className="w-16 h-16 text-slate-500 mb-3" />
-                    <span className="text-sm font-semibold text-slate-300">Museos del Perú</span>
-                  </div>
-                )}
+                <InstitutionalImage
+                  src={currentPhoto || ''}
+                  alt={museo.nombre}
+                  className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-[1.01]"
+                  containerClassName="w-full h-full"
+                  fallbackText="Museos del Perú"
+                  entityCode={museo.id_museo ? `MUSEO-${museo.id_museo}` : undefined}
+                />
                 <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-black/20 pointer-events-none" />
 
                 {/* Botón Ver Pantalla Completa Superior Derecho */}
@@ -373,9 +364,9 @@ function MuseoDetailPageContent() {
                     e.stopPropagation();
                     openLightbox(activePhotoIndex);
                   }}
-                  className="absolute top-4 right-4 z-10 inline-flex items-center gap-2 px-3.5 py-2 rounded-lg bg-slate-950/80 hover:bg-slate-950 text-white text-xs font-semibold backdrop-blur-md border border-white/20 hover:border-sky-400/60 shadow-lg transition-all cursor-pointer"
+                  className="absolute top-4 right-4 z-10 inline-flex items-center gap-2 px-3.5 py-2 rounded-md bg-slate-950/80 hover:bg-slate-950 text-white text-xs font-medium backdrop-blur-md border border-white/20 hover:border-white/40 shadow-xs transition-all cursor-pointer"
                 >
-                  <Icons.Maximize className="w-4 h-4 text-sky-400" />
+                  <Icons.Maximize className="w-4 h-4 text-white" />
                   <span>Pantalla Completa</span>
                 </button>
 
@@ -385,7 +376,7 @@ function MuseoDetailPageContent() {
                     <button
                       type="button"
                       onClick={handlePrevPhoto}
-                      className="absolute left-3.5 top-1/2 -translate-y-1/2 z-10 p-2.5 sm:p-3 rounded-full bg-slate-950/70 hover:bg-slate-950 text-white backdrop-blur-md border border-white/15 hover:border-sky-400/60 transition-all hover:scale-105 shadow-lg cursor-pointer"
+                      className="absolute left-3.5 top-1/2 -translate-y-1/2 z-10 p-2.5 sm:p-3 rounded-full bg-slate-950/70 hover:bg-slate-950 text-white backdrop-blur-md border border-white/15 hover:border-white/30 transition-all hover:scale-105 shadow-md cursor-pointer"
                       aria-label="Foto anterior"
                     >
                       <Icons.ChevronLeft className="w-5 h-5 text-white" />
@@ -393,7 +384,7 @@ function MuseoDetailPageContent() {
                     <button
                       type="button"
                       onClick={handleNextPhoto}
-                      className="absolute right-3.5 top-1/2 -translate-y-1/2 z-10 p-2.5 sm:p-3 rounded-full bg-slate-950/70 hover:bg-slate-950 text-white backdrop-blur-md border border-white/15 hover:border-sky-400/60 transition-all hover:scale-105 shadow-lg cursor-pointer"
+                      className="absolute right-3.5 top-1/2 -translate-y-1/2 z-10 p-2.5 sm:p-3 rounded-full bg-slate-950/70 hover:bg-slate-950 text-white backdrop-blur-md border border-white/15 hover:border-white/30 transition-all hover:scale-105 shadow-md cursor-pointer"
                       aria-label="Siguiente foto"
                     >
                       <Icons.ChevronRight className="w-5 h-5 text-white" />
@@ -403,12 +394,12 @@ function MuseoDetailPageContent() {
 
                 {/* Subtítulo integrado en la foto */}
                 <div className="absolute bottom-4 left-6 right-6 flex items-center justify-between text-white text-xs pointer-events-none">
-                  <div className="flex items-center gap-2 bg-slate-950/80 backdrop-blur-md px-3 py-1.5 rounded-lg border border-white/10">
-                    <Icons.Camera className="w-3.5 h-3.5 text-sky-400" />
-                    <span className="font-semibold">Fotografía Oficial del Museo</span>
+                  <div className="flex items-center gap-2 bg-slate-950/80 backdrop-blur-md px-3 py-1.5 rounded-md border border-white/10">
+                    <Icons.Camera className="w-3.5 h-3.5 text-slate-300" />
+                    <span className="font-medium">Fotografía Oficial del Museo</span>
                   </div>
                   {allPhotos.length > 1 && (
-                    <span className="text-slate-200 bg-slate-950/80 backdrop-blur-md px-3 py-1.5 rounded-lg border border-white/10 font-mono text-[11px] font-semibold">
+                    <span className="text-slate-200 bg-slate-950/80 backdrop-blur-md px-3 py-1.5 rounded-md border border-white/10 font-mono text-[11px] font-medium">
                       {activePhotoIndex + 1} / {allPhotos.length} fotos
                     </span>
                   )}
@@ -428,18 +419,18 @@ function MuseoDetailPageContent() {
                           setActivePhotoIndex(index);
                           setImgError(false);
                         }}
-                        className={`relative w-24 sm:w-28 h-16 sm:h-20 rounded-lg overflow-hidden flex-shrink-0 border-2 transition-all cursor-pointer ${
+                        className={`relative w-24 sm:w-28 h-16 sm:h-20 rounded-md overflow-hidden flex-shrink-0 border-2 transition-all cursor-pointer ${
                           isCurrent
-                            ? 'border-sky-500 ring-2 ring-sky-400/40 shadow-sm'
+                            ? 'border-[#0B3B60] ring-1 ring-[#0B3B60]/40 shadow-xs'
                             : 'border-transparent opacity-60 hover:opacity-100'
                         }`}
                       >
-                        <img
+                        <InstitutionalImage
                           src={photo}
                           alt=""
-                          loading="lazy"
-                          decoding="async"
                           className="w-full h-full object-cover"
+                          containerClassName="w-full h-full"
+                          fallbackText=""
                         />
                       </button>
                     );
@@ -460,7 +451,7 @@ function MuseoDetailPageContent() {
                   onClick={(e) => e.stopPropagation()}
                 >
                   <div className="flex items-center gap-3 truncate">
-                    <span className="text-sm font-bold text-sky-400 truncate max-w-md">
+                    <span className="text-sm font-bold text-white truncate max-w-md">
                       {museo.nombre}
                     </span>
                     <span className="text-xs text-slate-400 hidden sm:inline">
@@ -469,13 +460,13 @@ function MuseoDetailPageContent() {
                   </div>
 
                   <div className="flex items-center gap-4 flex-shrink-0">
-                    <span className="text-xs font-mono font-medium px-3 py-1 rounded-full bg-white/10 border border-white/10 text-slate-200">
+                    <span className="text-xs font-mono font-medium px-3 py-1 rounded-md bg-white/10 border border-white/10 text-slate-200">
                       Foto {activePhotoIndex + 1} de {allPhotos.length}
                     </span>
                     <button
                       type="button"
                       onClick={closeLightbox}
-                      className="p-2 rounded-lg bg-white/10 hover:bg-rose-500/20 hover:text-rose-400 text-white transition-colors cursor-pointer"
+                      className="p-2 rounded-md bg-white/10 hover:bg-rose-500/20 hover:text-rose-400 text-white transition-colors cursor-pointer"
                       title="Cerrar visor (Esc)"
                     >
                       <Icons.X className="w-5 h-5" />
@@ -492,7 +483,7 @@ function MuseoDetailPageContent() {
                     <button
                       type="button"
                       onClick={handlePrevPhoto}
-                      className="absolute left-2 sm:left-4 z-20 p-3 sm:p-4 rounded-full bg-slate-900/80 hover:bg-slate-900 text-white border border-white/20 hover:border-sky-400/60 shadow-2xl transition-all hover:scale-105 cursor-pointer"
+                      className="absolute left-2 sm:left-4 z-20 p-3 sm:p-4 rounded-full bg-slate-900/80 hover:bg-slate-900 text-white border border-white/20 hover:border-white/40 shadow-2xl transition-all hover:scale-105 cursor-pointer"
                       title="Foto anterior (Flecha Izquierda)"
                     >
                       <Icons.ChevronLeft className="w-6 h-6 text-white" />
@@ -504,7 +495,7 @@ function MuseoDetailPageContent() {
                       <img
                         src={currentPhoto}
                         alt={museo.nombre}
-                        className="max-h-[75vh] max-w-[90vw] object-contain rounded-xl shadow-2xl transition-all duration-300"
+                        className="max-h-[75vh] max-w-[90vw] object-contain rounded-md shadow-2xl transition-all duration-300"
                       />
                     )}
                   </div>
@@ -513,7 +504,7 @@ function MuseoDetailPageContent() {
                     <button
                       type="button"
                       onClick={handleNextPhoto}
-                      className="absolute right-2 sm:right-4 z-20 p-3 sm:p-4 rounded-full bg-slate-900/80 hover:bg-slate-900 text-white border border-white/20 hover:border-sky-400/60 shadow-2xl transition-all hover:scale-105 cursor-pointer"
+                      className="absolute right-2 sm:right-4 z-20 p-3 sm:p-4 rounded-full bg-slate-900/80 hover:bg-slate-900 text-white border border-white/20 hover:border-white/40 shadow-2xl transition-all hover:scale-105 cursor-pointer"
                       title="Siguiente foto (Flecha Derecha)"
                     >
                       <Icons.ChevronRight className="w-6 h-6 text-white" />
@@ -535,9 +526,9 @@ function MuseoDetailPageContent() {
                           setActivePhotoIndex(idx);
                           setImgError(false);
                         }}
-                        className={`relative w-16 sm:w-20 h-11 sm:h-14 rounded-lg overflow-hidden flex-shrink-0 border-2 transition-all cursor-pointer ${
+                        className={`relative w-16 sm:w-20 h-11 sm:h-14 rounded-md overflow-hidden flex-shrink-0 border-2 transition-all cursor-pointer ${
                           activePhotoIndex === idx
-                            ? 'border-sky-500 ring-2 ring-sky-400/50 scale-105'
+                            ? 'border-[#0B3B60] ring-2 ring-white/30 scale-105'
                             : 'border-transparent opacity-50 hover:opacity-100'
                         }`}
                       >
@@ -566,9 +557,9 @@ function MuseoDetailPageContent() {
               <div className="lg:col-span-8 space-y-10">
                 {/* 1. SECCIÓN: HISTORIA Y COLECCIONES */}
                 {descriptionParagraphs.length > 0 && (
-                  <section className="p-6 rounded-xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-sm space-y-4">
+                  <section className="p-6 rounded-lg bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-xs space-y-4">
                     <div className="flex items-center gap-2 pb-3 border-b border-slate-100 dark:border-slate-800">
-                      <Icons.FileText className="w-4 h-4 text-sky-600 dark:text-sky-400" />
+                      <Icons.FileText className="w-4 h-4 text-[#0B3B60] dark:text-slate-400" />
                       <h2 className="text-base sm:text-lg font-bold tracking-tight text-slate-900 dark:text-white uppercase">
                         Historia y Colecciones
                       </h2>
@@ -582,7 +573,7 @@ function MuseoDetailPageContent() {
                             key={pIdx}
                             className={
                               isLead
-                                ? 'text-base sm:text-lg text-slate-800 dark:text-slate-200 leading-relaxed font-normal border-l-4 border-sky-500 pl-4 sm:pl-5'
+                                ? 'text-base sm:text-lg text-slate-800 dark:text-slate-200 leading-relaxed font-normal border-l-4 border-[#0B3B60] pl-4 sm:pl-5'
                                 : 'text-sm sm:text-base text-slate-600 dark:text-slate-300 leading-relaxed font-normal'
                             }
                           >
@@ -597,7 +588,7 @@ function MuseoDetailPageContent() {
                 {/* 2. SECCIÓN: PLANIFICA TU VISITA (Horarios, Tarifas, Servicios y Mapa) */}
                 <section className="space-y-6">
                   <div className="flex items-center gap-2 pb-2 border-b border-slate-200 dark:border-slate-800">
-                    <Icons.Calendar className="w-5 h-5 text-sky-600 dark:text-sky-400" />
+                    <Icons.Calendar className="w-5 h-5 text-[#0B3B60] dark:text-slate-400" />
                     <h2 className="text-lg font-bold tracking-tight text-slate-900 dark:text-white uppercase">
                       Planifica tu Visita
                     </h2>
@@ -606,9 +597,9 @@ function MuseoDetailPageContent() {
                   {/* Horarios y Tarifas */}
                   <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                     {/* Horario de Atención */}
-                    <div className="p-6 rounded-xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-sm space-y-3.5">
+                    <div className="p-6 rounded-lg bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-xs space-y-3.5">
                       <div className="flex items-center gap-2 pb-2 border-b border-slate-100 dark:border-slate-800">
-                        <Icons.Clock className="w-4 h-4 text-emerald-500" />
+                        <Icons.Clock className="w-4 h-4 text-emerald-600 dark:text-emerald-400" />
                         <h3 className="text-sm font-bold uppercase tracking-wider text-slate-900 dark:text-white">
                           Horario de Atención
                         </h3>
@@ -619,9 +610,9 @@ function MuseoDetailPageContent() {
                     </div>
 
                     {/* Tarifario Oficial */}
-                    <div className="p-6 rounded-xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-sm space-y-3.5">
+                    <div className="p-6 rounded-lg bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-xs space-y-3.5">
                       <div className="flex items-center gap-2 pb-2 border-b border-slate-100 dark:border-slate-800">
-                        <Icons.Tag className="w-4 h-4 text-amber-500" />
+                        <Icons.Tag className="w-4 h-4 text-amber-600 dark:text-amber-400" />
                         <h3 className="text-sm font-bold uppercase tracking-wider text-slate-900 dark:text-white">
                           Tarifario Oficial
                         </h3>
@@ -653,10 +644,10 @@ function MuseoDetailPageContent() {
 
                   {/* Servicios e Instalaciones Disponibles con Iconos Oficiales como Imágenes */}
                   {museo.servicios && museo.servicios.length > 0 && (
-                    <div className="p-6 rounded-xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-sm space-y-4">
+                    <div className="p-6 rounded-lg bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-xs space-y-4">
                       <div className="flex items-center justify-between pb-3 border-b border-slate-100 dark:border-slate-800">
                         <div className="flex items-center gap-2">
-                          <Icons.Award className="w-4 h-4 text-sky-600 dark:text-sky-400" />
+                          <Icons.Award className="w-4 h-4 text-[#0B3B60] dark:text-slate-400" />
                           <h3 className="text-sm font-bold tracking-tight text-slate-900 dark:text-white uppercase">
                             Servicios e Instalaciones Disponibles
                           </h3>
@@ -670,9 +661,9 @@ function MuseoDetailPageContent() {
                         {museo.servicios.map((srv, idx) => (
                           <div
                             key={idx}
-                            className="flex items-center gap-3 p-3 rounded-xl bg-slate-50 dark:bg-slate-800/70 border border-slate-200/80 dark:border-slate-700/80 text-xs font-medium text-slate-800 dark:text-slate-200 hover:border-sky-500/50 hover:bg-slate-100/80 dark:hover:bg-slate-800 transition-all shadow-sm"
+                            className="flex items-center gap-3 p-3 rounded-md bg-slate-50 dark:bg-slate-800/70 border border-slate-200/80 dark:border-slate-700/80 text-xs font-medium text-slate-800 dark:text-slate-200 hover:border-[#0B3B60]/50 hover:bg-slate-100/80 dark:hover:bg-slate-800 transition-all shadow-xs"
                           >
-                            <div className="w-8 h-8 rounded-lg bg-white dark:bg-slate-900 p-1 flex items-center justify-center shrink-0 border border-slate-200/80 dark:border-slate-700 shadow-xs">
+                            <div className="w-8 h-8 rounded-md bg-white dark:bg-slate-900 p-1 flex items-center justify-center shrink-0 border border-slate-200/80 dark:border-slate-700 shadow-xs">
                               {srv.icono_url ? (
                                 <img
                                   src={srv.icono_url}
@@ -681,7 +672,7 @@ function MuseoDetailPageContent() {
                                   loading="lazy"
                                 />
                               ) : (
-                                <Icons.CheckCircle className="w-4 h-4 text-emerald-500 shrink-0" />
+                                <Icons.CheckCircle className="w-4 h-4 text-emerald-600 shrink-0" />
                               )}
                             </div>
                             <span className="leading-snug">{srv.nombre}</span>
@@ -693,15 +684,15 @@ function MuseoDetailPageContent() {
 
                   {/* Mapa de Ubicación Geográfica Leaflet OpenStreetMap */}
                   {hasCoordinates && (
-                    <div className="p-6 rounded-xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-sm space-y-4">
+                    <div className="p-6 rounded-lg bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-xs space-y-4">
                       <div className="flex items-center justify-between pb-3 border-b border-slate-100 dark:border-slate-800">
                         <div className="flex items-center gap-2">
-                          <Icons.MapPin className="w-4 h-4 text-sky-600 dark:text-sky-400" />
+                          <Icons.MapPin className="w-4 h-4 text-[#0B3B60] dark:text-slate-400" />
                           <h3 className="text-sm font-bold tracking-tight text-slate-900 dark:text-white uppercase">
                             Ubicación Geográfica y Cómo Llegar
                           </h3>
                         </div>
-                        <span className="text-xs font-mono text-slate-400">
+                        <span className="text-xs font-mono text-slate-500 dark:text-slate-400">
                           {museo.latitud?.toFixed(4)}, {museo.longitud?.toFixed(4)}
                         </span>
                       </div>
@@ -720,15 +711,15 @@ function MuseoDetailPageContent() {
               {/* COLUMNA DERECHA: FICHA TÉCNICA OFICIAL STICKY (4 COLUMNAS) */}
               <div className="lg:col-span-4 lg:sticky lg:top-24 space-y-6">
                 {/* 1. Panel Técnico de Especificaciones + Acciones Oficiales */}
-                <div className="p-5 rounded-xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-sm space-y-4">
+                <div className="p-5 rounded-lg bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-xs space-y-4">
                   <div className="flex items-center justify-between pb-3 border-b border-slate-200 dark:border-slate-800">
                     <span className="text-xs font-bold uppercase tracking-wider text-slate-700 dark:text-slate-300 flex items-center gap-2">
-                      <Icons.Layers className="w-4 h-4 text-sky-600 dark:text-sky-400" />
+                      <Icons.Layers className="w-4 h-4 text-[#0B3B60] dark:text-slate-400" />
                       <span>Ficha Técnica Oficial</span>
                     </span>
-                    <span className="text-[10px] font-mono font-bold text-sky-600 dark:text-sky-400 bg-sky-50 dark:bg-sky-500/10 border border-sky-200 dark:border-sky-500/20 px-2 py-0.5 rounded">
+                    <OfficialBadge variant="code">
                       MINCUL
-                    </span>
+                    </OfficialBadge>
                   </div>
 
                   <dl className="divide-y divide-slate-100 dark:divide-slate-800 text-xs space-y-0">
@@ -749,7 +740,7 @@ function MuseoDetailPageContent() {
                     <div className="py-2.5 flex justify-between gap-3">
                       <dt className="text-slate-500 dark:text-slate-400">Estado Operativo</dt>
                       <dd className="font-semibold text-slate-900 dark:text-white text-right">
-                        <span className={isOpen ? 'text-emerald-600 dark:text-emerald-400' : 'text-rose-600 dark:text-rose-400'}>
+                        <span className={isOpen ? 'text-emerald-700 dark:text-emerald-400 font-bold' : 'text-rose-700 dark:text-rose-400 font-bold'}>
                           {museo.estado || 'Abierto'}
                         </span>
                       </dd>
@@ -796,14 +787,14 @@ function MuseoDetailPageContent() {
                           <button
                             type="button"
                             onClick={() => handleCopyCoords(`${museo.latitud}, ${museo.longitud}`)}
-                            className="inline-flex items-center gap-1 font-mono text-[11px] font-semibold text-slate-700 dark:text-slate-300 hover:text-sky-600 dark:hover:text-sky-400 transition-colors cursor-pointer"
+                            className="inline-flex items-center gap-1 font-mono text-[11px] font-semibold text-slate-700 dark:text-slate-300 hover:text-[#0B3B60] dark:hover:text-white transition-colors cursor-pointer"
                             title="Copiar coordenadas"
                           >
                             <span>
                               {museo.latitud?.toFixed(4)}, {museo.longitud?.toFixed(4)}
                             </span>
                             {copiedCoords ? (
-                              <Icons.CheckCircle className="w-3.5 h-3.5 text-emerald-500" />
+                              <Icons.CheckCircle className="w-3.5 h-3.5 text-emerald-600" />
                             ) : (
                               <Icons.Copy className="w-3 h-3 text-slate-400" />
                             )}
@@ -819,7 +810,7 @@ function MuseoDetailPageContent() {
                       href={googleMapsLink}
                       target="_blank"
                       rel="noopener noreferrer"
-                      className="w-full py-2.5 px-4 rounded-lg bg-sky-600 hover:bg-sky-500 text-white font-semibold text-xs transition-colors flex items-center justify-center gap-2 shadow-sm cursor-pointer"
+                      className="w-full py-2.5 px-4 rounded-md bg-[#0B3B60] hover:bg-[#082C48] text-white font-semibold text-xs transition-colors flex items-center justify-center gap-2 shadow-xs cursor-pointer"
                     >
                       <Icons.MapPin className="w-4 h-4 text-white flex-shrink-0" />
                       <span>Ver ubicación en Google Maps</span>
@@ -831,7 +822,7 @@ function MuseoDetailPageContent() {
                   {(museo.recorrido_virtual_url || museo.coleccion_virtual_url || museo.web_url || museo.url_origen) && (
                     <div className="pt-3 border-t border-slate-100 dark:border-slate-800 space-y-2.5">
                       <span className="text-[11px] font-bold tracking-wider text-slate-700 dark:text-slate-300 uppercase flex items-center gap-1.5">
-                        <Icons.Compass className="w-3.5 h-3.5 text-amber-500" />
+                        <Icons.Compass className="w-3.5 h-3.5 text-amber-600 dark:text-amber-400" />
                         <span>Explora en Línea</span>
                       </span>
 
@@ -841,7 +832,7 @@ function MuseoDetailPageContent() {
                             href={museo.recorrido_virtual_url}
                             target="_blank"
                             rel="noopener noreferrer"
-                            className="w-full py-2.5 px-3.5 rounded-lg bg-gradient-to-r from-amber-500 to-amber-600 hover:from-amber-600 hover:to-amber-700 text-slate-950 font-bold text-xs shadow-sm transition-all flex items-center justify-between group cursor-pointer"
+                            className="w-full py-2.5 px-3.5 rounded-md bg-amber-500 hover:bg-amber-600 text-slate-950 font-bold text-xs shadow-xs transition-all flex items-center justify-between group cursor-pointer"
                           >
                             <div className="flex items-center gap-2">
                               <Icons.Eye className="w-4 h-4 text-slate-950 shrink-0" />
@@ -856,10 +847,10 @@ function MuseoDetailPageContent() {
                             href={museo.coleccion_virtual_url}
                             target="_blank"
                             rel="noopener noreferrer"
-                            className="w-full py-2.5 px-3.5 rounded-lg bg-sky-50 dark:bg-sky-950/50 border border-sky-200 dark:border-sky-800/80 hover:bg-sky-100 dark:hover:bg-sky-900/50 text-sky-700 dark:text-sky-300 font-semibold text-xs transition-colors flex items-center justify-between group cursor-pointer"
+                            className="w-full py-2.5 px-3.5 rounded-md bg-slate-50 dark:bg-slate-800/80 border border-slate-200 dark:border-slate-700 hover:bg-slate-100 dark:hover:bg-slate-800 text-[#0B3B60] dark:text-slate-200 font-semibold text-xs transition-colors flex items-center justify-between group cursor-pointer"
                           >
                             <div className="flex items-center gap-2">
-                              <Icons.Layers className="w-4 h-4 text-sky-600 dark:text-sky-400 shrink-0" />
+                              <Icons.Layers className="w-4 h-4 text-[#0B3B60] dark:text-slate-400 shrink-0" />
                               <span>Colección en Línea</span>
                             </div>
                             <Icons.ArrowUpRight className="w-3.5 h-3.5 group-hover:translate-x-0.5 group-hover:-translate-y-0.5 transition-transform" />
@@ -871,7 +862,7 @@ function MuseoDetailPageContent() {
                             href={museo.web_url}
                             target="_blank"
                             rel="noopener noreferrer"
-                            className="w-full py-2.5 px-3.5 rounded-lg bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 hover:bg-slate-50 dark:hover:bg-slate-800 text-slate-800 dark:text-slate-200 font-semibold text-xs transition-colors flex items-center justify-between group cursor-pointer"
+                            className="w-full py-2.5 px-3.5 rounded-md bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 hover:bg-slate-50 dark:hover:bg-slate-800 text-slate-800 dark:text-slate-200 font-semibold text-xs transition-colors flex items-center justify-between group cursor-pointer"
                           >
                             <div className="flex items-center gap-2">
                               <Icons.Globe className="w-4 h-4 text-slate-500 shrink-0" />
@@ -886,7 +877,7 @@ function MuseoDetailPageContent() {
                             href={museo.url_origen}
                             target="_blank"
                             rel="noopener noreferrer"
-                            className="w-full py-2 px-3 rounded-lg bg-slate-50 dark:bg-slate-800/60 border border-slate-200 dark:border-slate-800 hover:bg-slate-100 dark:hover:bg-slate-800 text-slate-600 dark:text-slate-400 font-medium text-[11px] transition-colors flex items-center justify-between group cursor-pointer"
+                            className="w-full py-2 px-3 rounded-md bg-slate-50 dark:bg-slate-800/60 border border-slate-200 dark:border-slate-800 hover:bg-slate-100 dark:hover:bg-slate-800 text-slate-600 dark:text-slate-400 font-medium text-[11px] transition-colors flex items-center justify-between group cursor-pointer"
                           >
                             <div className="flex items-center gap-2">
                               <Icons.FileText className="w-3.5 h-3.5 text-slate-400 shrink-0" />
@@ -905,10 +896,10 @@ function MuseoDetailPageContent() {
 
                 {/* 3. Otros Museos en la Región */}
                 {relatedMuseos.length > 0 && (
-                  <div className="p-5 rounded-xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-sm space-y-4">
+                  <div className="p-5 rounded-lg bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-xs space-y-4">
                     <div className="flex items-center justify-between pb-2 border-b border-slate-200 dark:border-slate-800">
                       <span className="text-xs font-bold uppercase tracking-wider text-slate-700 dark:text-slate-300 flex items-center gap-2">
-                        <Icons.Building className="w-4 h-4 text-sky-600 dark:text-sky-400" />
+                        <Icons.Building className="w-4 h-4 text-[#0B3B60] dark:text-slate-400" />
                         <span>Otros Museos en {museo.departamento}</span>
                       </span>
                     </div>
@@ -918,23 +909,19 @@ function MuseoDetailPageContent() {
                         <Link
                           key={rel.id_museo}
                           href={`/museos/${rel.slug}`}
-                          className="group flex items-center gap-3 p-2 rounded-xl hover:bg-slate-50 dark:hover:bg-slate-800/60 transition-colors"
+                          className="group flex items-center gap-3 p-2 rounded-md hover:bg-slate-50 dark:hover:bg-slate-800/60 transition-colors"
                         >
-                          <div className="w-16 h-12 rounded-lg bg-slate-950 overflow-hidden shrink-0">
-                            {rel.imagen_tarjeta || rel.imagen_portada ? (
-                              <img
-                                src={rel.imagen_tarjeta || rel.imagen_portada}
-                                alt={rel.nombre}
-                                className="w-full h-full object-cover group-hover:scale-105 transition-transform"
-                              />
-                            ) : (
-                              <div className="w-full h-full flex items-center justify-center text-slate-600">
-                                <Icons.Building className="w-5 h-5" />
-                              </div>
-                            )}
+                          <div className="w-16 h-12 rounded-md bg-slate-950 overflow-hidden shrink-0">
+                            <InstitutionalImage
+                              src={rel.imagen_tarjeta || rel.imagen_portada || ''}
+                              alt={rel.nombre}
+                              className="w-full h-full object-cover group-hover:scale-105 transition-transform"
+                              containerClassName="w-full h-full"
+                              fallbackText=""
+                            />
                           </div>
                           <div className="min-w-0 flex-1">
-                            <h4 className="text-xs font-bold text-slate-900 dark:text-white truncate group-hover:text-sky-500 transition-colors">
+                            <h4 className="text-xs font-bold text-slate-900 dark:text-white truncate group-hover:text-[#0B3B60] dark:group-hover:text-white transition-colors">
                               {rel.nombre}
                             </h4>
                             <p className="text-[11px] text-slate-500 truncate">
@@ -963,7 +950,7 @@ export default function MuseoDetailPage() {
     <Suspense
       fallback={
         <div className="min-h-screen flex items-center justify-center bg-slate-50 dark:bg-slate-950 py-36">
-          <div className="w-12 h-12 border-3 border-sky-500 border-t-transparent rounded-full animate-spin" />
+          <div className="w-10 h-10 border-2 border-[#0B3B60] border-t-transparent rounded-full animate-spin" />
         </div>
       }
     >

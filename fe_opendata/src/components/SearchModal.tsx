@@ -58,7 +58,7 @@ export const SearchModal: React.FC<SearchModalProps> = ({ isOpen, onClose }) => 
       <div className="fixed inset-0" onClick={onClose} />
 
       {/* Modal Card */}
-      <div className="relative w-full max-w-2xl bg-slate-900/95 border border-slate-700/60 rounded-3xl shadow-2xl shadow-black/80 overflow-hidden z-10 backdrop-blur-2xl animate-scaleUp">
+      <div className="relative w-full max-w-2xl bg-slate-900 border border-slate-700 rounded-lg shadow-card overflow-hidden z-10 backdrop-blur-md animate-scaleUp">
         {/* Search input bar */}
         <form
           onSubmit={(e) => {
@@ -67,7 +67,7 @@ export const SearchModal: React.FC<SearchModalProps> = ({ isOpen, onClose }) => 
           }}
           className="flex items-center gap-3 px-6 py-4 border-b border-slate-800"
         >
-          <Icons.Search className="w-6 h-6 text-sky-400 shrink-0" />
+          <Icons.Search className="w-5 h-5 text-slate-400 shrink-0" />
           <input
             ref={inputRef}
             type="text"
@@ -80,7 +80,7 @@ export const SearchModal: React.FC<SearchModalProps> = ({ isOpen, onClose }) => 
             <button
               type="button"
               onClick={() => setQuery('')}
-              className="p-1 rounded-full text-slate-400 hover:text-white hover:bg-slate-800 transition-colors"
+              className="p-1 rounded-md text-slate-400 hover:text-white hover:bg-slate-800 transition-colors"
             >
               <Icons.X className="w-5 h-5" />
             </button>
@@ -88,7 +88,7 @@ export const SearchModal: React.FC<SearchModalProps> = ({ isOpen, onClose }) => 
           <button
             type="button"
             onClick={onClose}
-            className="text-xs font-semibold px-2.5 py-1 rounded-lg bg-slate-800 text-slate-400 hover:text-white border border-slate-700/50 transition-colors"
+            className="text-xs font-semibold px-2.5 py-1 rounded-md bg-slate-800 text-slate-400 hover:text-white border border-slate-700 transition-colors cursor-pointer"
           >
             ESC
           </button>
@@ -96,7 +96,7 @@ export const SearchModal: React.FC<SearchModalProps> = ({ isOpen, onClose }) => 
 
         {/* Quick Suggestions & Options */}
         <div className="p-6 space-y-4">
-          <div className="flex items-center justify-between text-xs font-medium text-slate-400">
+          <div className="flex items-center justify-between text-xs font-mono uppercase tracking-wider text-slate-400">
             <span>{t('search.popular')}</span>
             <span className="text-[11px] text-slate-500">{t('search.pressEnter')}</span>
           </div>
@@ -107,23 +107,23 @@ export const SearchModal: React.FC<SearchModalProps> = ({ isOpen, onClose }) => 
                 key={idx}
                 type="button"
                 onClick={() => handleSearch(item)}
-                className="inline-flex items-center gap-1.5 px-3.5 py-1.5 rounded-full bg-slate-800/80 hover:bg-sky-500/20 text-slate-300 hover:text-sky-300 border border-slate-700/60 hover:border-sky-500/40 text-xs font-medium transition-all"
+                className="inline-flex items-center gap-1.5 px-3 py-1 rounded-md bg-slate-800/80 hover:bg-slate-800 text-slate-300 hover:text-white border border-slate-700 hover:border-slate-500 text-xs font-mono transition-colors cursor-pointer"
               >
-                <Icons.Compass className="w-3.5 h-3.5 text-sky-400" />
+                <Icons.Compass className="w-3.5 h-3.5 text-slate-400" />
                 <span>{item}</span>
               </button>
             ))}
           </div>
 
           {/* Action button */}
-          <div className="pt-2 border-t border-slate-800/80 flex items-center justify-between">
+          <div className="pt-2 border-t border-slate-800 flex items-center justify-between">
             <button
               type="button"
               onClick={() => {
                 onClose();
                 router.push('/turismo');
               }}
-              className="text-xs text-slate-400 hover:text-sky-400 transition-colors flex items-center gap-1.5"
+              className="text-xs text-slate-400 hover:text-white transition-colors flex items-center gap-1.5 cursor-pointer"
             >
               <Icons.Sliders className="w-3.5 h-3.5" />
               <span>{t('nav.busquedaAvanzada')}</span>
@@ -132,7 +132,7 @@ export const SearchModal: React.FC<SearchModalProps> = ({ isOpen, onClose }) => 
             <button
               type="button"
               onClick={() => handleSearch(query || 'Perú')}
-              className="inline-flex items-center gap-2 px-5 py-2 rounded-xl bg-gradient-to-r from-sky-500 to-blue-600 hover:from-sky-400 hover:to-blue-500 text-white text-xs font-bold shadow-lg shadow-sky-500/20 transition-all"
+              className="inline-flex items-center gap-2 px-5 py-2 rounded-md bg-[#0B3B60] hover:bg-[#082C48] text-white text-xs font-bold transition-colors cursor-pointer shadow-xs"
             >
               <span>{t('search.exploreAll')}</span>
               <Icons.ArrowRight className="w-3.5 h-3.5" />

@@ -4,6 +4,9 @@ import React, { useEffect, useState } from 'react';
 import { Icons } from './Icons';
 import { FichaDetail, ResourceItem } from '../types/mincetur';
 import { apiService, API_BASE_URL } from '../services/api';
+import { OfficialBadge } from './OfficialBadge';
+import { TrustVerificationBadge } from './TrustVerificationBadge';
+import { InstitutionalImage } from './InstitutionalImage';
 
 interface ResourceModalProps {
   resource: ResourceItem | null;
@@ -74,34 +77,35 @@ export const ResourceModal: React.FC<ResourceModalProps> = ({ resource, onClose 
 
   return (
     <div className="fixed inset-0 z-50 overflow-y-auto bg-slate-950/85 backdrop-blur-md flex items-center justify-center p-3 sm:p-6 animate-fadeIn">
-      <div className="bg-slate-900 border border-slate-700/80 rounded-xl max-w-4xl w-full max-h-[92vh] overflow-hidden shadow-2xl flex flex-col text-slate-100">
+      <div className="bg-slate-900 border border-slate-700/80 rounded-lg max-w-4xl w-full max-h-[92vh] overflow-hidden shadow-card flex flex-col text-slate-100">
         {/* Modal Header */}
         <div className="p-6 border-b border-slate-800 flex items-start justify-between bg-slate-950/70">
           <div>
-            <h2 className="text-2xl sm:text-3xl font-black text-white tracking-tight">{resource.nombre}</h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-white tracking-tight">{resource.nombre}</h2>
             <p className="text-xs text-slate-400 flex items-center gap-1.5 mt-1.5">
-              <Icons.MapPin className="w-4 h-4 text-sky-400" />
+              <Icons.MapPin className="w-4 h-4 text-slate-400" />
               <span>
                 {resource.desdpto} &gt; {resource.desprov} &gt; {resource.desubigeo}
               </span>
             </p>
-            <div className="flex items-center gap-2 mt-2.5">
-              <span className="text-xs font-bold px-3 py-1 rounded-full bg-amber-500/20 text-amber-400 border border-amber-500/30">
-                Ficha N° {resource.codigo}
-              </span>
+            <div className="flex flex-wrap items-center gap-2 mt-2.5">
+              <OfficialBadge variant="code">
+                Ficha #{resource.codigo}
+              </OfficialBadge>
               {resource.desjerarquia && (
-                <span className="text-xs font-semibold px-3 py-1 rounded-full bg-slate-800 text-slate-300 border border-slate-700">
+                <span className="text-[11px] font-mono px-2 py-0.5 rounded bg-slate-800 text-slate-300 border border-slate-700">
                   Jerarquía {resource.desjerarquia}
                 </span>
               )}
+              <TrustVerificationBadge source="MINCETUR" date="25/09/2026" />
             </div>
           </div>
 
           <button
             onClick={onClose}
-            className="w-10 h-10 rounded-2xl bg-slate-800 hover:bg-slate-700 text-slate-300 flex items-center justify-center transition-colors border border-slate-700"
+            className="w-9 h-9 rounded-md bg-slate-800 hover:bg-slate-700 text-slate-300 flex items-center justify-center transition-colors border border-slate-700 cursor-pointer"
           >
-            <Icons.X className="w-5 h-5" />
+            <Icons.X className="w-4 h-4" />
           </button>
         </div>
 
@@ -109,21 +113,26 @@ export const ResourceModal: React.FC<ResourceModalProps> = ({ resource, onClose 
         <div className="p-6 overflow-y-auto space-y-6 flex-1">
           {loading ? (
             <div className="py-24 flex flex-col items-center justify-center gap-4">
-              <div className="w-10 h-10 border-3 border-sky-500 border-t-transparent rounded-full animate-spin" />
-              <p className="text-xs font-semibold text-slate-400">Cargando información del recurso...</p>
+              <div className="w-10 h-10 border-2 border-[#0B3B60] border-t-transparent rounded-full animate-spin" />
+              <p className="text-xs font-semibold text-slate-400">Cargando información oficial...</p>
             </div>
           ) : (
             <>
               {/* Photo Showcase */}
               {ficha?.galeria_fotos && ficha.galeria_fotos.length > 0 && (
                 <div>
-                  <h3 className="text-xs font-bold uppercase tracking-widest text-slate-400 mb-3 flex items-center gap-2">
-                    <Icons.Camera className="w-4 h-4 text-sky-400" />
-                    <span>Galería de Imágenes</span>
+                  <h3 className="text-xs font-mono font-semibold uppercase tracking-wider text-slate-400 mb-3 flex items-center gap-2">
+                    <Icons.Camera className="w-4 h-4 text-slate-400" />
+                    <span>Galería de Imágenes Oficiales</span>
                   </h3>
                   {selectedPhoto && (
-                    <div className="w-full h-72 sm:h-96 rounded-2xl overflow-hidden bg-slate-950 mb-3 border border-slate-800 shadow-2xl relative">
-                      <img src={formatPhotoUrl(selectedPhoto)} alt={resource.nombre} className="w-full h-full object-cover" />
+                    <div className="w-full h-72 sm:h-96 rounded-lg overflow-hidden bg-slate-100 dark:bg-slate-800 mb-3 border border-slate-200 dark:border-slate-800 relative">
+                      <InstitutionalImage
+                        src={formatPhotoUrl(selectedPhoto)}
+                        alt={resource.nombre}
+                        categoryName={resource.categoria || 'Recurso Turístico'}
+                        className="w-full h-full object-cover"
+                      />
                     </div>
                   )}
                   {/* Thumbnails row */}
@@ -132,13 +141,18 @@ export const ResourceModal: React.FC<ResourceModalProps> = ({ resource, onClose 
                       <button
                         key={index}
                         onClick={() => setSelectedPhoto(photo)}
-                        className={`relative w-24 h-16 rounded-xl overflow-hidden flex-shrink-0 border-2 transition-all cursor-pointer ${
+                        className={`relative w-24 h-16 rounded-md overflow-hidden flex-shrink-0 border-2 transition-all cursor-pointer ${
                           selectedPhoto === photo
-                            ? 'border-sky-400 ring-2 ring-sky-400/50 opacity-100 scale-105 shadow-lg z-10'
+                            ? 'border-[#0B3B60] ring-1 ring-[#0B3B60] opacity-100 shadow-xs z-10'
                             : 'border-slate-800 opacity-60 hover:opacity-100'
                         }`}
                       >
-                        <img src={formatPhotoUrl(photo)} alt="" className="w-full h-full object-cover" />
+                        <InstitutionalImage
+                          src={formatPhotoUrl(photo)}
+                          alt=""
+                          categoryName=""
+                          className="w-full h-full object-cover"
+                        />
                       </button>
                     ))}
                   </div>

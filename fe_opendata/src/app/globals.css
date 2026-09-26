@@ -4,29 +4,49 @@
 
 @layer base {
   :root {
-    --bg-primary: #f8fafc;
-    --bg-secondary: #ffffff;
-    --bg-card: #ffffff;
-    --bg-card-hover: #f1f5f9;
-    --text-primary: #0f172a;
+    --color-primary: #0B3B60;
+    --color-primary-hover: #082C48;
+    --color-primary-light: #124B78;
+    --color-accent: #D91023;
+    --color-accent-hover: #B70C1C;
+    --color-papa: #B45309;
+    --color-success: #15803D;
+    --color-warning: #B45309;
+    --color-danger: #B91C1C;
+
+    --bg-primary: #F8FAFC;
+    --bg-secondary: #FFFFFF;
+    --bg-card: #FFFFFF;
+    --bg-card-header: #F1F5F9;
+    --bg-card-hover: #F8FAFC;
+    --text-primary: #0F172A;
     --text-secondary: #475569;
-    --text-muted: #64748b;
-    --border-color: rgba(226, 232, 240, 0.8);
-    --border-card: #e2e8f0;
-    --accent-glow: rgba(2, 132, 199, 0.15);
+    --text-muted: #64748B;
+    --border-color: #E2E8F0;
+    --border-card: #E2E8F0;
   }
 
   .dark {
-    --bg-primary: #0b0f19;
+    --color-primary: #124B78;
+    --color-primary-hover: #175496;
+    --color-primary-light: #2B6EB3;
+    --color-accent: #EF4444;
+    --color-accent-hover: #DC2626;
+    --color-papa: #F59E0B;
+    --color-success: #22C55E;
+    --color-warning: #F59E0B;
+    --color-danger: #EF4444;
+
+    --bg-primary: #0B0F19;
     --bg-secondary: #111827;
-    --bg-card: #131b2e;
-    --bg-card-hover: #1e293b;
-    --text-primary: #f8fafc;
-    --text-secondary: #cbd5e1;
-    --text-muted: #94a3b8;
-    --border-color: rgba(51, 65, 85, 0.6);
-    --border-card: #1e293b;
-    --accent-glow: rgba(56, 189, 248, 0.25);
+    --bg-card: #111827;
+    --bg-card-header: #1E293B;
+    --bg-card-hover: #1A2234;
+    --text-primary: #F8FAFC;
+    --text-secondary: #CBD5E1;
+    --text-muted: #94A3B8;
+    --border-color: #1E293B;
+    --border-card: #1E293B;
   }
 
   html,
@@ -35,62 +55,43 @@
     overflow-x: hidden;
     background-color: var(--bg-primary);
     color: var(--text-primary);
-    transition: background-color 0.3s ease, color 0.3s ease;
-    @apply antialiased font-sans selection:bg-sky-500 selection:text-white;
+    transition: background-color 0.2s ease, color 0.2s ease;
+    @apply antialiased font-sans selection:bg-[#0B3B60] selection:text-white;
   }
 }
 
-/* Glassmorphism Styles */
-.glass-nav {
-  background: rgba(15, 23, 42, 0.82);
-  backdrop-filter: blur(20px);
-  -webkit-backdrop-filter: blur(20px);
-  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+/* Institutional Design System Tokens & Components */
+.gov-badge-code {
+  @apply font-mono text-[10px] sm:text-[11px] font-semibold px-2 py-0.5 rounded border border-slate-200 dark:border-slate-700 bg-slate-100 dark:bg-slate-800 text-slate-700 dark:text-slate-300;
 }
 
-.glass-search-capsule {
-  background: rgba(15, 23, 42, 0.72);
-  backdrop-filter: blur(24px);
-  -webkit-backdrop-filter: blur(24px);
-  border: 1px solid rgba(255, 255, 255, 0.18);
-  box-shadow: 0 20px 50px rgba(0, 0, 0, 0.45), inset 0 1px 0 rgba(255, 255, 255, 0.2);
+.gov-badge-status-activo,
+.gov-badge-status-habido {
+  @apply font-mono text-[10px] font-bold uppercase tracking-wider px-2 py-0.5 rounded-full border border-emerald-300 dark:border-emerald-800 bg-emerald-50 dark:bg-emerald-950/40 text-emerald-700 dark:text-emerald-300;
 }
 
-.glass-search-field {
-  background: rgba(30, 41, 59, 0.65);
-  backdrop-filter: blur(12px);
-  -webkit-backdrop-filter: blur(12px);
-  border: 1px solid rgba(255, 255, 255, 0.1);
-  transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+.gov-badge-status-pendiente {
+  @apply font-mono text-[10px] font-bold uppercase tracking-wider px-2 py-0.5 rounded-full border border-amber-300 dark:border-amber-800 bg-amber-50 dark:bg-amber-950/40 text-amber-700 dark:text-amber-300;
 }
 
-.glass-search-field:hover,
-.glass-search-field:focus-within {
-  background: rgba(30, 41, 59, 0.9);
-  border-color: rgba(56, 189, 248, 0.5);
-  box-shadow: 0 0 20px rgba(56, 189, 248, 0.2);
+.gov-badge-status-nohabido,
+.gov-badge-status-baja {
+  @apply font-mono text-[10px] font-bold uppercase tracking-wider px-2 py-0.5 rounded-full border border-rose-300 dark:border-rose-800 bg-rose-50 dark:bg-rose-950/40 text-rose-700 dark:text-rose-300;
 }
 
-.glass-card {
+.gov-card {
   background: var(--bg-card);
   border: 1px solid var(--border-card);
-  transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+  border-radius: 8px;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
 }
 
-.glass-card:hover {
-  border-color: rgba(56, 189, 248, 0.4);
-  box-shadow: 0 12px 30px -10px rgba(0, 0, 0, 0.15);
+.gov-card:hover {
+  border-color: #94A3B8;
 }
 
-.dark .glass-card:hover {
-  box-shadow: 0 12px 30px -10px rgba(0, 0, 0, 0.5);
-}
-
-.glass-overlay-stat {
-  background: rgba(15, 23, 42, 0.85);
-  backdrop-filter: blur(16px);
-  -webkit-backdrop-filter: blur(16px);
-  border: 1px solid rgba(255, 255, 255, 0.12);
+.dark .gov-card:hover {
+  border-color: #475569;
 }
 
 /* Custom Scrollbar */

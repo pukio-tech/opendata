@@ -103,6 +103,11 @@ export default function TurismoDetailLayout({
       description: `Ficha técnica oficial de ${nombreClean} en el inventario nacional de recursos turísticos del Perú.`,
       image: photoUrl,
       url: `${SITE_URL}/turismo/${params.slug}`,
+      provider: {
+        '@type': 'GovernmentOrganization',
+        name: 'MINCETUR - Ministerio de Comercio Exterior y Turismo del Perú',
+        url: 'https://www.gob.pe/mincetur',
+      },
       address: {
         '@type': 'PostalAddress',
         addressRegion: resource.d,

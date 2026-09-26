@@ -11,6 +11,9 @@ import { useLanguage } from '../../../context/LanguageContext';
 import { DynamicText } from '../../../utils/dynamicTranslate';
 import { AdsterraNativeBanner } from '../../../components/AdsterraNativeBanner';
 import { AdsterraDisplayBanner, ResponsiveLeaderboard } from '../../../components/AdsterraDisplayBanner';
+import { OfficialBadge } from '../../../components/OfficialBadge';
+import { TrustVerificationBadge } from '../../../components/TrustVerificationBadge';
+import { InstitutionalImage } from '../../../components/InstitutionalImage';
 
 const formatPhotoUrl = (url: string | null | undefined, cod?: number): string => {
   if (!url) {
@@ -426,12 +429,12 @@ function FichaTurismoContent({ params }: FichaTurismoPageProps) {
         {/* ========================================================================= */}
         <div className="flex flex-wrap items-center justify-between gap-4 pb-5 border-b border-slate-200 dark:border-slate-800">
           <nav className="flex items-center gap-2 text-xs sm:text-sm text-slate-500 dark:text-slate-400">
-            <Link href="/" className="hover:text-sky-600 dark:hover:text-sky-400 transition-colors flex items-center gap-1.5 font-medium">
-              <Icons.Compass className="w-4 h-4 text-sky-600 dark:text-sky-400" />
+            <Link href="/" className="hover:text-[#0B3B60] dark:hover:text-white transition-colors flex items-center gap-1.5 font-medium">
+              <Icons.Compass className="w-4 h-4 text-[#0B3B60] dark:text-slate-400" />
               <span>{t('ficha.breadcrumbHome')}</span>
             </Link>
             <span className="text-slate-300 dark:text-slate-700">/</span>
-            <Link href="/turismo" className="hover:text-sky-600 dark:hover:text-sky-400 transition-colors font-medium">
+            <Link href="/turismo" className="hover:text-[#0B3B60] dark:hover:text-white transition-colors font-medium">
               {t('ficha.breadcrumbTurismo')}
             </Link>
             <span className="text-slate-300 dark:text-slate-700">/</span>
@@ -443,7 +446,7 @@ function FichaTurismoContent({ params }: FichaTurismoPageProps) {
           <div className="flex items-center gap-2">
             <button
               onClick={handleCopyLink}
-              className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-semibold bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 hover:bg-slate-100 dark:hover:bg-slate-800 text-slate-700 dark:text-slate-200 transition-colors cursor-pointer shadow-sm"
+              className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-md text-xs font-semibold bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 hover:bg-slate-100 dark:hover:bg-slate-800 text-slate-700 dark:text-slate-200 transition-colors cursor-pointer shadow-xs"
             >
               {copiedLink ? (
                 <>
@@ -460,7 +463,7 @@ function FichaTurismoContent({ params }: FichaTurismoPageProps) {
 
             <button
               onClick={() => router.back()}
-              className="inline-flex items-center gap-1.5 px-3.5 py-1.5 rounded-lg text-xs font-semibold bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 hover:bg-slate-100 dark:hover:bg-slate-800 text-slate-800 dark:text-slate-200 transition-colors cursor-pointer shadow-sm"
+              className="inline-flex items-center gap-1.5 px-3.5 py-1.5 rounded-md text-xs font-semibold bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 hover:bg-slate-100 dark:hover:bg-slate-800 text-slate-800 dark:text-slate-200 transition-colors cursor-pointer shadow-xs"
             >
               <Icons.ChevronLeft className="w-4 h-4" />
               <span>{t('ficha.backToCatalog')}</span>
@@ -471,22 +474,22 @@ function FichaTurismoContent({ params }: FichaTurismoPageProps) {
         {/* Loading State */}
         {loading && (
           <div className="py-36 flex flex-col items-center justify-center gap-4 text-center">
-            <div className="w-12 h-12 border-3 border-sky-500 border-t-transparent rounded-full animate-spin" />
-            <p className="text-sm font-semibold text-slate-500 dark:text-slate-400">{t('ficha.loading')}</p>
+            <div className="w-10 h-10 border-2 border-[#0B3B60] border-t-transparent rounded-full animate-spin" />
+            <p className="text-xs font-semibold text-slate-500 dark:text-slate-400">{t('ficha.loading')}</p>
           </div>
         )}
 
         {/* Error State */}
         {!loading && error && (
-          <div className="py-24 text-center max-w-lg mx-auto p-8">
-            <div className="w-16 h-16 rounded-xl bg-rose-50 dark:bg-rose-500/10 border border-rose-200 dark:border-rose-500/20 flex items-center justify-center mx-auto mb-4 text-rose-500">
-              <Icons.Info className="w-8 h-8" />
+          <div className="py-24 text-center max-w-lg mx-auto p-8 bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-lg shadow-xs">
+            <div className="w-12 h-12 rounded-lg bg-rose-50 dark:bg-rose-500/10 border border-rose-200 dark:border-rose-500/20 flex items-center justify-center mx-auto mb-4 text-rose-500">
+              <Icons.Info className="w-6 h-6" />
             </div>
-            <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">{t('ficha.notFound')}</h2>
-            <p className="text-sm text-slate-500 dark:text-slate-400 mb-6">{t('ficha.notFoundDesc')}</p>
+            <h2 className="text-xl font-bold text-slate-900 dark:text-white mb-2">{t('ficha.notFound')}</h2>
+            <p className="text-xs text-slate-500 dark:text-slate-400 mb-6">{t('ficha.notFoundDesc')}</p>
             <Link
               href="/turismo"
-              className="inline-flex items-center gap-2 px-6 py-2.5 rounded-lg bg-sky-600 hover:bg-sky-500 text-white font-semibold text-xs transition-colors shadow-sm"
+              className="inline-flex items-center gap-2 px-5 py-2.5 rounded-md bg-[#0B3B60] hover:bg-[#082C48] text-white font-semibold text-xs transition-colors shadow-xs"
             >
               {t('ficha.exploreOther')}
             </Link>
@@ -500,32 +503,33 @@ function FichaTurismoContent({ params }: FichaTurismoPageProps) {
           <div className="space-y-8 animate-fadeIn">
             {/* Header del recurso turístico */}
             <div className="space-y-3">
-              {/* Badges de Metadatos Oficiales */}
+              {/* Badges de Metadatos Oficiales y Verificación */}
               <div className="flex flex-wrap items-center gap-2">
-                <span className="text-xs font-mono font-bold px-3 py-1 rounded-md bg-amber-500/10 text-amber-700 dark:text-amber-400 border border-amber-500/20">
+                <OfficialBadge variant="code">
                   {t('card.recordNum')} #{ficha.cod_ficha}
-                </span>
+                </OfficialBadge>
                 {ficha.categoria && (
-                  <span className="text-xs font-semibold px-3 py-1 rounded-md bg-white dark:bg-slate-900 text-slate-700 dark:text-slate-300 border border-slate-200 dark:border-slate-800 shadow-sm">
+                  <span className="gov-badge-code">
                     <DynamicText text={cleanLabel(ficha.categoria)} />
                   </span>
                 )}
                 {ficha.altitud && ficha.altitud !== '--' && (
-                  <span className="text-xs font-medium px-3 py-1 rounded-md bg-sky-50 dark:bg-sky-500/10 text-sky-700 dark:text-sky-300 border border-sky-200 dark:border-sky-500/20">
+                  <span className="gov-badge-code">
                     🏔️ {cleanAltitud(ficha.altitud)}
                   </span>
                 )}
+                <TrustVerificationBadge source="MINCETUR" date="25/09/2026" />
               </div>
 
               {/* Título Principal */}
-              <h1 className="text-3xl sm:text-4xl lg:text-5xl font-bold tracking-tight text-slate-900 dark:text-white leading-tight">
+              <h1 className="text-2xl sm:text-4xl font-bold tracking-tight text-slate-900 dark:text-white leading-tight">
                 {ficha.nombre}
               </h1>
 
               {/* Barra de Ubicación Geográfica Oficial */}
               <div className="flex flex-wrap items-center justify-between gap-4 pt-1">
-                <div className="flex items-center gap-2 text-sm sm:text-base text-slate-600 dark:text-slate-300 font-medium">
-                  <Icons.MapPin className="w-4 h-4 text-sky-600 dark:text-sky-400 flex-shrink-0" />
+                <div className="flex items-center gap-2 text-xs sm:text-sm text-slate-600 dark:text-slate-300 font-medium">
+                  <Icons.MapPin className="w-4 h-4 text-slate-500 dark:text-slate-400 flex-shrink-0" />
                   <span>
                     <strong className="text-slate-900 dark:text-white">{ficha.departamento}</strong>
                     {ficha.provincia && <span> • {ficha.provincia}</span>}
@@ -538,7 +542,7 @@ function FichaTurismoContent({ params }: FichaTurismoPageProps) {
                     href={googleMapsLink}
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="inline-flex items-center gap-1.5 text-xs font-semibold text-sky-600 dark:text-sky-400 hover:underline"
+                    className="inline-flex items-center gap-1.5 text-xs font-semibold text-[#0B3B60] dark:text-slate-300 hover:underline"
                   >
                     <span>{t('ficha.viewOnMap')}</span>
                     <Icons.ExternalLink className="w-3.5 h-3.5" />
@@ -548,7 +552,7 @@ function FichaTurismoContent({ params }: FichaTurismoPageProps) {
                       href={ficha.url_ficha}
                       target="_blank"
                       rel="noopener noreferrer"
-                      className="inline-flex items-center gap-1.5 text-xs font-semibold text-slate-600 dark:text-slate-400 hover:text-sky-600 dark:hover:text-sky-400 hover:underline ml-2"
+                      className="inline-flex items-center gap-1.5 text-xs font-semibold text-[#0B3B60] dark:text-slate-300 hover:underline ml-2"
                     >
                       <span>{t('ficha.sourceFile')}</span>
                       <Icons.ExternalLink className="w-3.5 h-3.5" />
@@ -564,24 +568,15 @@ function FichaTurismoContent({ params }: FichaTurismoPageProps) {
             <div className="space-y-4">
               <div
                 onClick={() => openLightbox(activePhotoIndex)}
-                className="relative w-full h-[340px] sm:h-[480px] lg:h-[520px] rounded-xl overflow-hidden bg-slate-950 shadow-lg border border-slate-200 dark:border-slate-800 flex items-center justify-center cursor-pointer group"
+                className="relative w-full h-[340px] sm:h-[480px] lg:h-[520px] rounded-lg overflow-hidden bg-slate-100 dark:bg-slate-900 shadow-card border border-slate-200 dark:border-slate-800 flex items-center justify-center cursor-pointer group"
               >
-                {currentPhoto && !imgError ? (
-                  <img
-                    src={formatPhotoUrl(currentPhoto, ficha.cod_ficha)}
-                    alt={ficha.nombre}
-                    fetchPriority="high"
-                    decoding="async"
-                    className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-[1.01]"
-                    onError={() => setImgError(true)}
-                  />
-                ) : (
-                  <div className="text-center p-8 flex flex-col items-center justify-center text-white">
-                    <Icons.Camera className="w-16 h-16 text-slate-500 mb-3" />
-                    <span className="text-sm font-semibold text-slate-300">{t('card.noPhoto')}</span>
-                  </div>
-                )}
-                <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-black/20 pointer-events-none" />
+                <InstitutionalImage
+                  src={currentPhoto ? formatPhotoUrl(currentPhoto, ficha.cod_ficha) : undefined}
+                  alt={ficha.nombre}
+                  categoryName={ficha.categoria || 'Recurso Turístico'}
+                  className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-[1.01]"
+                />
+                <div className="absolute inset-0 bg-gradient-to-t from-slate-950/70 via-transparent to-transparent pointer-events-none" />
 
                 {/* Botón Ver Pantalla Completa Superior Derecho */}
                 <button
@@ -590,9 +585,9 @@ function FichaTurismoContent({ params }: FichaTurismoPageProps) {
                     e.stopPropagation();
                     openLightbox(activePhotoIndex);
                   }}
-                  className="absolute top-4 right-4 z-10 inline-flex items-center gap-2 px-3.5 py-2 rounded-lg bg-slate-950/80 hover:bg-slate-950 text-white text-xs font-semibold backdrop-blur-md border border-white/20 hover:border-sky-400/60 shadow-lg transition-all cursor-pointer"
+                  className="absolute top-4 right-4 z-10 inline-flex items-center gap-2 px-3 py-1.5 rounded-md bg-slate-900/80 hover:bg-slate-900 text-white text-xs font-semibold backdrop-blur-md border border-white/20 hover:border-white/40 shadow-xs transition-all cursor-pointer"
                 >
-                  <Icons.Maximize className="w-4 h-4 text-sky-400" />
+                  <Icons.Maximize className="w-3.5 h-3.5 text-white" />
                   <span>{t('ficha.fullscreen')}</span>
                 </button>
 
@@ -602,7 +597,7 @@ function FichaTurismoContent({ params }: FichaTurismoPageProps) {
                     <button
                       type="button"
                       onClick={handlePrevPhoto}
-                      className="absolute left-3.5 top-1/2 -translate-y-1/2 z-10 p-2.5 sm:p-3 rounded-full bg-slate-950/70 hover:bg-slate-950 text-white backdrop-blur-md border border-white/15 hover:border-sky-400/60 transition-all hover:scale-105 shadow-lg cursor-pointer"
+                      className="absolute left-3.5 top-1/2 -translate-y-1/2 z-10 p-2 sm:p-2.5 rounded-md bg-slate-900/70 hover:bg-slate-900 text-white backdrop-blur-md border border-white/15 hover:border-white/40 transition-all shadow-xs cursor-pointer"
                       aria-label="Foto anterior"
                     >
                       <Icons.ChevronLeft className="w-5 h-5 text-white" />
@@ -610,7 +605,7 @@ function FichaTurismoContent({ params }: FichaTurismoPageProps) {
                     <button
                       type="button"
                       onClick={handleNextPhoto}
-                      className="absolute right-3.5 top-1/2 -translate-y-1/2 z-10 p-2.5 sm:p-3 rounded-full bg-slate-950/70 hover:bg-slate-950 text-white backdrop-blur-md border border-white/15 hover:border-sky-400/60 transition-all hover:scale-105 shadow-lg cursor-pointer"
+                      className="absolute right-3.5 top-1/2 -translate-y-1/2 z-10 p-2 sm:p-2.5 rounded-md bg-slate-900/70 hover:bg-slate-900 text-white backdrop-blur-md border border-white/15 hover:border-white/40 transition-all shadow-xs cursor-pointer"
                       aria-label="Siguiente foto"
                     >
                       <Icons.ChevronRight className="w-5 h-5 text-white" />
@@ -620,12 +615,12 @@ function FichaTurismoContent({ params }: FichaTurismoPageProps) {
 
                 {/* Subtítulo integrado en la foto */}
                 <div className="absolute bottom-4 left-6 right-6 flex items-center justify-between text-white text-xs pointer-events-none">
-                  <div className="flex items-center gap-2 bg-slate-950/80 backdrop-blur-md px-3 py-1.5 rounded-lg border border-white/10">
-                    <Icons.Camera className="w-3.5 h-3.5 text-sky-400" />
+                  <div className="flex items-center gap-2 bg-slate-900/80 backdrop-blur-md px-3 py-1.5 rounded-md border border-white/10">
+                    <Icons.Camera className="w-3.5 h-3.5 text-slate-300" />
                     <span className="font-semibold">{t('ficha.officialPhoto')}</span>
                   </div>
                   {allPhotos.length > 1 && (
-                    <span className="text-slate-200 bg-slate-950/80 backdrop-blur-md px-3 py-1.5 rounded-lg border border-white/10 font-mono text-[11px] font-semibold">
+                    <span className="text-slate-200 bg-slate-900/80 backdrop-blur-md px-3 py-1.5 rounded-md border border-white/10 font-mono text-[11px] font-semibold">
                       {activePhotoIndex + 1} / {allPhotos.length} {t('ficha.photos')}
                     </span>
                   )}
@@ -644,17 +639,16 @@ function FichaTurismoContent({ params }: FichaTurismoPageProps) {
                           setActivePhotoIndex(index);
                           setImgError(false);
                         }}
-                        className={`relative w-24 sm:w-28 h-16 sm:h-20 rounded-lg overflow-hidden flex-shrink-0 border-2 transition-all cursor-pointer ${
+                        className={`relative w-24 sm:w-28 h-16 sm:h-20 rounded-md overflow-hidden flex-shrink-0 border-2 transition-all cursor-pointer ${
                           isCurrent
-                            ? 'border-sky-500 ring-2 ring-sky-400/40 shadow-sm'
+                            ? 'border-[#0B3B60] ring-1 ring-[#0B3B60]'
                             : 'border-transparent opacity-60 hover:opacity-100'
                         }`}
                       >
-                        <img
+                        <InstitutionalImage
                           src={formatPhotoUrl(photo, ficha.cod_ficha)}
                           alt=""
-                          loading="lazy"
-                          decoding="async"
+                          categoryName=""
                           className="w-full h-full object-cover"
                         />
                       </button>
@@ -776,9 +770,9 @@ function FichaTurismoContent({ params }: FichaTurismoPageProps) {
               <div className="lg:col-span-8 space-y-10">
                 {/* 1. Descripción Editorial */}
                 {descriptionParagraphs.length > 0 && (
-                  <section className="p-6 rounded-xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-sm space-y-4">
+                  <section className="p-6 rounded-lg bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-xs space-y-4">
                     <div className="flex items-center gap-2 pb-3 border-b border-slate-100 dark:border-slate-800">
-                      <Icons.Info className="w-4 h-4 text-sky-600 dark:text-sky-400" />
+                      <Icons.Info className="w-4 h-4 text-[#0B3B60] dark:text-slate-400" />
                       <h2 className="text-base sm:text-lg font-bold tracking-tight text-slate-900 dark:text-white uppercase">
                         {t('ficha.officialDescription')}
                       </h2>
@@ -792,7 +786,7 @@ function FichaTurismoContent({ params }: FichaTurismoPageProps) {
                             key={pIdx}
                             className={
                               isLead
-                                ? 'text-base sm:text-lg text-slate-800 dark:text-slate-200 leading-relaxed font-normal border-l-4 border-sky-500 pl-4 sm:pl-5'
+                                ? 'text-base sm:text-lg text-slate-800 dark:text-slate-200 leading-relaxed font-normal border-l-4 border-[#0B3B60] pl-4 sm:pl-5'
                                 : 'text-sm sm:text-base text-slate-600 dark:text-slate-300 leading-relaxed font-normal'
                             }
                           >
@@ -806,15 +800,15 @@ function FichaTurismoContent({ params }: FichaTurismoPageProps) {
 
                 {/* 2. Ruta de Acceso como TIMELINE ITINERARIO */}
                 {rutasAcceso.length > 0 && (
-                  <section className="p-6 rounded-xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-sm space-y-6">
+                  <section className="p-6 rounded-lg bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-xs space-y-6">
                     <div className="flex items-center justify-between pb-3 border-b border-slate-100 dark:border-slate-800">
                       <div className="flex items-center gap-2">
-                        <Icons.Navigation className="w-4 h-4 text-sky-600 dark:text-sky-400" />
+                        <Icons.Navigation className="w-4 h-4 text-[#0B3B60] dark:text-slate-400" />
                         <h2 className="text-base sm:text-lg font-bold tracking-tight text-slate-900 dark:text-white uppercase">
                           {t('ficha.howToGet')}
                         </h2>
                       </div>
-                      <span className="text-xs font-mono font-semibold px-2.5 py-1 rounded-md bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-400">
+                      <span className="text-xs font-mono font-semibold px-2.5 py-1 rounded-md bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-400 border border-slate-200 dark:border-slate-700">
                         {rutasAcceso.length} tramos
                       </span>
                     </div>
@@ -824,7 +818,7 @@ function FichaTurismoContent({ params }: FichaTurismoPageProps) {
                       {rutasAcceso.map((ruta, idx) => (
                         <div key={idx} className="relative group">
                           {/* Nodo circular en la línea del timeline */}
-                          <div className="absolute -left-[31px] sm:-left-[39px] top-0 w-7 h-7 rounded-full bg-slate-100 dark:bg-slate-800 border-2 border-sky-500 text-sky-600 dark:text-sky-400 font-bold text-xs flex items-center justify-center shadow-sm group-hover:bg-sky-600 group-hover:text-white transition-colors">
+                          <div className="absolute -left-[31px] sm:-left-[39px] top-0 w-7 h-7 rounded-full bg-slate-100 dark:bg-slate-800 border-2 border-[#0B3B60] text-[#0B3B60] dark:text-slate-300 font-bold text-xs flex items-center justify-center shadow-xs group-hover:bg-[#0B3B60] group-hover:text-white transition-colors">
                             {idx + 1}
                           </div>
 
@@ -856,8 +850,8 @@ function FichaTurismoContent({ params }: FichaTurismoPageProps) {
                               )}
 
                               {ruta.distancia_tiempo && (
-                                <span className="inline-flex items-center gap-1 px-2.5 py-1 rounded-md bg-sky-50 dark:bg-sky-500/10 text-sky-700 dark:text-sky-300 text-xs font-semibold border border-sky-200 dark:border-sky-500/20">
-                                  <Icons.Clock className="w-3.5 h-3.5 text-sky-500" />
+                                <span className="inline-flex items-center gap-1 px-2.5 py-1 rounded-md bg-slate-100 dark:bg-slate-800 text-slate-800 dark:text-slate-200 text-xs font-mono font-semibold border border-slate-300 dark:border-slate-700">
+                                  <Icons.Clock className="w-3.5 h-3.5 text-slate-400" />
                                   <DynamicText text={ruta.distancia_tiempo} />
                                 </span>
                               )}
@@ -871,14 +865,14 @@ function FichaTurismoContent({ params }: FichaTurismoPageProps) {
 
                 {/* 3. Reproductor de Video Oficial (si existe) */}
                 {youtubeEmbedUrl && (
-                  <section className="p-6 rounded-xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-sm space-y-4">
+                  <section className="p-6 rounded-lg bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-xs space-y-4">
                     <div className="flex items-center gap-2 pb-3 border-b border-slate-100 dark:border-slate-800">
-                      <span className="w-2.5 h-2.5 rounded-full bg-red-500 animate-pulse" />
+                      <span className="w-2.5 h-2.5 rounded-full bg-red-600 animate-pulse" />
                       <h2 className="text-base sm:text-lg font-bold tracking-tight text-slate-900 dark:text-white uppercase">
                         {t('ficha.liveVideo')}
                       </h2>
                     </div>
-                    <div className="w-full aspect-video rounded-lg overflow-hidden border border-slate-200 dark:border-slate-800 bg-black shadow-md">
+                    <div className="w-full aspect-video rounded-lg overflow-hidden border border-slate-200 dark:border-slate-800 bg-black shadow-xs">
                       <iframe
                         src={youtubeEmbedUrl}
                         title={`Video de ${ficha.nombre}`}
@@ -894,15 +888,15 @@ function FichaTurismoContent({ params }: FichaTurismoPageProps) {
               {/* COLUMNA DERECHA: INSPECTOR TÉCNICO STICKY (4 COLUMNAS) */}
               <div className="lg:col-span-4 lg:sticky lg:top-24 space-y-6">
                 {/* 1. Panel Técnico de Especificaciones */}
-                <div className="p-5 rounded-xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-sm space-y-4">
+                <div className="p-5 rounded-lg bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-xs space-y-4">
                   <div className="flex items-center justify-between pb-3 border-b border-slate-200 dark:border-slate-800">
                     <span className="text-xs font-bold uppercase tracking-wider text-slate-700 dark:text-slate-300 flex items-center gap-2">
-                      <Icons.Layers className="w-4 h-4 text-sky-600 dark:text-sky-400" />
+                      <Icons.Layers className="w-4 h-4 text-[#0B3B60] dark:text-slate-400" />
                       <span>{t('ficha.techSpecs')}</span>
                     </span>
-                    <span className="text-[10px] font-mono font-bold text-sky-600 dark:text-sky-400 bg-sky-50 dark:bg-sky-500/10 border border-sky-200 dark:border-sky-500/20 px-2 py-0.5 rounded">
+                    <OfficialBadge variant="code">
                       OFICIAL
-                    </span>
+                    </OfficialBadge>
                   </div>
 
                   <dl className="divide-y divide-slate-100 dark:divide-slate-800 text-xs space-y-0">
@@ -929,7 +923,7 @@ function FichaTurismoContent({ params }: FichaTurismoPageProps) {
 
                     <div className="py-2.5 flex justify-between gap-3">
                       <dt className="text-slate-500 dark:text-slate-400">{t('ficha.altitude')}</dt>
-                      <dd className="font-semibold text-sky-600 dark:text-sky-400 text-right">
+                      <dd className="font-semibold text-slate-900 dark:text-white text-right font-mono">
                         {cleanAltitud(ficha.altitud)}
                       </dd>
                     </div>
@@ -940,7 +934,7 @@ function FichaTurismoContent({ params }: FichaTurismoPageProps) {
                         <dd className="text-right">
                           <button
                             onClick={() => handleCopyCoords(`${ficha.y}, ${ficha.x}`)}
-                            className="inline-flex items-center gap-1 font-mono text-[11px] font-semibold text-slate-700 dark:text-slate-300 hover:text-sky-600 dark:hover:text-sky-400 transition-colors cursor-pointer"
+                            className="inline-flex items-center gap-1 font-mono text-[11px] font-semibold text-slate-700 dark:text-slate-300 hover:text-[#0B3B60] dark:hover:text-white transition-colors cursor-pointer"
                             title="Copiar coordenadas"
                           >
                             <span>
@@ -965,7 +959,7 @@ function FichaTurismoContent({ params }: FichaTurismoPageProps) {
                       href={googleMapsLink}
                       target="_blank"
                       rel="noopener noreferrer"
-                      className="w-full py-2.5 px-4 rounded-lg bg-sky-600 hover:bg-sky-500 text-white font-semibold text-xs transition-colors flex items-center justify-center gap-2 shadow-sm cursor-pointer"
+                      className="w-full py-2.5 px-4 rounded-md bg-[#0B3B60] hover:bg-[#082C48] text-white font-semibold text-xs transition-colors flex items-center justify-center gap-2 shadow-xs cursor-pointer"
                     >
                       <Icons.MapPin className="w-4 h-4 text-white flex-shrink-0" />
                       <span>{t('ficha.viewOnMap')}</span>
@@ -979,10 +973,10 @@ function FichaTurismoContent({ params }: FichaTurismoPageProps) {
 
                 {/* 2. Época Propicia y Horarios */}
                 {epocaPropicia.length > 0 && (
-                  <div className="p-5 rounded-xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-sm space-y-3.5">
+                  <div className="p-5 rounded-lg bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-xs space-y-3.5">
                     <div className="flex items-center justify-between pb-2 border-b border-slate-200 dark:border-slate-800">
                       <span className="text-xs font-bold uppercase tracking-wider text-slate-700 dark:text-slate-300 flex items-center gap-2">
-                        <Icons.Calendar className="w-4 h-4 text-sky-600 dark:text-sky-400" />
+                        <Icons.Calendar className="w-4 h-4 text-[#0B3B60] dark:text-slate-400" />
                         <span>{t('ficha.seasonAndHours')}</span>
                       </span>
                     </div>
@@ -990,7 +984,7 @@ function FichaTurismoContent({ params }: FichaTurismoPageProps) {
                     {epocaPropicia.map((ep, idx) => (
                       <div key={idx} className="space-y-3 text-xs">
                         <div>
-                          <span className="text-[10px] font-bold text-sky-600 dark:text-sky-400 uppercase tracking-wider block mb-0.5">
+                          <span className="text-[10px] font-bold text-slate-500 dark:text-slate-400 uppercase tracking-wider block mb-0.5">
                             {t('ficha.recommendedSeason')}
                           </span>
                           <p className="font-semibold text-slate-900 dark:text-white text-sm">
@@ -1007,13 +1001,13 @@ function FichaTurismoContent({ params }: FichaTurismoPageProps) {
                           <span className="text-[10px] font-bold text-slate-500 dark:text-slate-400 uppercase tracking-wider block mb-0.5">
                             {t('ficha.visitingHours')}
                           </span>
-                          <p className="font-semibold text-slate-900 dark:text-white">
+                          <p className="font-semibold text-slate-900 dark:text-white font-mono">
                             {ep.horario || '08:00 a.m. - 05:00 p.m.'}
                           </p>
                         </div>
 
                         {ep.observaciones && (
-                          <div className="p-3 rounded-lg bg-sky-50 dark:bg-sky-500/10 border border-sky-200 dark:border-sky-500/20 text-sky-950 dark:text-sky-200 text-xs">
+                          <div className="p-3 rounded-md bg-slate-50 dark:bg-slate-800/80 border border-slate-200 dark:border-slate-700 text-slate-800 dark:text-slate-200 text-xs">
                             <span className="font-bold block mb-1">Recomendación:</span>
                             <p className="leading-relaxed">
                               <DynamicText text={ep.observaciones} />
@@ -1028,13 +1022,13 @@ function FichaTurismoContent({ params }: FichaTurismoPageProps) {
                 {/* 3. Actividades Permitidas */}
                 {((ficha.actividades_detalle && ficha.actividades_detalle.length > 0) ||
                   (ficha.actividades_permitidas && ficha.actividades_permitidas.length > 0)) && (
-                  <div className="p-5 rounded-xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-sm space-y-3.5">
+                  <div className="p-5 rounded-lg bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-xs space-y-3.5">
                     <div className="flex items-center justify-between pb-2 border-b border-slate-200 dark:border-slate-800">
                       <span className="text-xs font-bold uppercase tracking-wider text-slate-700 dark:text-slate-300 flex items-center gap-2">
-                        <Icons.Compass className="w-4 h-4 text-emerald-500" />
+                        <Icons.Compass className="w-4 h-4 text-[#0B3B60] dark:text-slate-400" />
                         <span>{t('ficha.activitiesInResource')}</span>
                       </span>
-                      <span className="text-[10px] font-mono font-semibold px-2 py-0.5 rounded-md bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-400">
+                      <span className="text-[10px] font-mono font-semibold px-2 py-0.5 rounded-md bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-400 border border-slate-200 dark:border-slate-700">
                         {(ficha.actividades_detalle || ficha.actividades_permitidas).length}
                       </span>
                     </div>
@@ -1046,7 +1040,7 @@ function FichaTurismoContent({ params }: FichaTurismoPageProps) {
                             return (
                               <div
                                 key={idx}
-                                className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-lg bg-slate-50 dark:bg-slate-800/80 border border-slate-200 dark:border-slate-700 text-xs font-medium text-slate-800 dark:text-slate-200 hover:border-sky-500 transition-colors shadow-sm"
+                                className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-md bg-slate-50 dark:bg-slate-800/80 border border-slate-200 dark:border-slate-700 text-xs font-medium text-slate-800 dark:text-slate-200 hover:border-slate-400 transition-colors shadow-xs"
                               >
                                 <SmallActivityIcon url={act.icono_url} name={actName} />
                                 <span>
@@ -1058,7 +1052,7 @@ function FichaTurismoContent({ params }: FichaTurismoPageProps) {
                         : ficha.actividades_permitidas.map((act, idx) => (
                             <div
                               key={idx}
-                              className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-lg bg-slate-50 dark:bg-slate-800/80 border border-slate-200 dark:border-slate-700 text-xs font-medium text-slate-800 dark:text-slate-200 hover:border-sky-500 transition-colors shadow-sm"
+                              className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-md bg-slate-50 dark:bg-slate-800/80 border border-slate-200 dark:border-slate-700 text-xs font-medium text-slate-800 dark:text-slate-200 hover:border-slate-400 transition-colors shadow-xs"
                             >
                               <SmallActivityIcon name={act} />
                               <span>
@@ -1085,7 +1079,7 @@ export default function FichaTurismoPage(props: FichaTurismoPageProps) {
     <Suspense
       fallback={
         <div className="min-h-screen flex items-center justify-center bg-slate-50 dark:bg-slate-950 py-36">
-          <div className="w-12 h-12 border-3 border-sky-500 border-t-transparent rounded-full animate-spin" />
+          <div className="w-10 h-10 border-2 border-[#0B3B60] border-t-transparent rounded-full animate-spin" />
         </div>
       }
     >

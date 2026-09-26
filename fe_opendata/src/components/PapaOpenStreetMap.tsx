@@ -104,29 +104,18 @@ export const PapaOpenStreetMap: React.FC<PapaOpenStreetMapProps> = ({
 
         const isSelected = selectedActivity?.id === item.id;
 
-        // Estilos diferenciados de marcadores papales
-        const isMass = item.tipo.toLowerCase().includes('masivo') || item.tipo.toLowerCase().includes('eucarístico');
-        const isYouth = item.tipo.toLowerCase().includes('juvenil');
-        const isTravel = item.tipo.toLowerCase().includes('traslado');
-
         const bgBadge = isSelected
-          ? 'bg-amber-500 text-slate-950 ring-4 ring-amber-400/50 scale-125 z-50'
-          : isMass
-          ? 'bg-rose-600 text-white shadow-rose-500/40'
-          : isYouth
-          ? 'bg-indigo-600 text-white shadow-indigo-500/40'
-          : isTravel
-          ? 'bg-sky-600 text-white shadow-sky-500/40'
-          : 'bg-amber-600 text-white shadow-amber-500/40';
+          ? 'bg-[#D91023] text-white ring-2 ring-[#D91023]/50 scale-125 z-50'
+          : 'bg-[#0B3B60] text-white shadow-xs';
 
         const customIcon = L.divIcon({
           className: 'custom-papa-marker',
           html: `
             <div class="relative flex items-center justify-center cursor-pointer transition-transform transform hover:scale-110">
-              <div class="w-8 h-8 rounded-full flex items-center justify-center font-bold text-xs shadow-lg border-2 border-white dark:border-slate-900 transition-all ${bgBadge}">
+              <div class="w-8 h-8 rounded-full flex items-center justify-center font-bold text-xs shadow-xs border-2 border-white dark:border-slate-900 transition-all ${bgBadge}">
                 ${index + 1}
               </div>
-              <div class="absolute -bottom-1 w-2 h-2 rotate-45 ${isSelected ? 'bg-amber-500' : isMass ? 'bg-rose-600' : isYouth ? 'bg-indigo-600' : isTravel ? 'bg-sky-600' : 'bg-amber-600'}"></div>
+              <div class="absolute -bottom-1 w-2 h-2 rotate-45 ${isSelected ? 'bg-[#D91023]' : 'bg-[#0B3B60]'}"></div>
             </div>
           `,
           iconSize: [32, 32],
@@ -142,10 +131,10 @@ export const PapaOpenStreetMap: React.FC<PapaOpenStreetMapProps> = ({
         popupContent.innerHTML = `
           <div class="space-y-1.5">
             <div class="flex items-center justify-between gap-2 border-b border-slate-200 dark:border-slate-700 pb-1.5">
-              <span class="text-[10px] font-bold px-2 py-0.5 rounded-full bg-amber-100 text-amber-900 dark:bg-amber-950/80 dark:text-amber-300 font-mono">
+              <span class="text-[10px] font-bold px-2 py-0.5 rounded border border-amber-300 dark:border-amber-800/80 bg-amber-50 dark:bg-amber-950/40 text-amber-800 dark:text-amber-300 font-mono">
                 ${item.hora} hrs
               </span>
-              <span class="text-[10px] text-slate-500 dark:text-slate-400 font-medium">
+              <span class="text-[10px] text-slate-500 dark:text-slate-400 font-mono">
                 ${item.dia_semana} ${item.fecha.slice(8, 10)} Nov
               </span>
             </div>
@@ -153,7 +142,7 @@ export const PapaOpenStreetMap: React.FC<PapaOpenStreetMapProps> = ({
               ${item.titulo}
             </h3>
             <div class="flex items-center gap-1 text-[11px] text-slate-600 dark:text-slate-300">
-              <svg class="w-3.5 h-3.5 shrink-0 text-amber-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <svg class="w-3.5 h-3.5 shrink-0 text-[#0B3B60]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"></path>
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"></path>
               </svg>
@@ -162,8 +151,9 @@ export const PapaOpenStreetMap: React.FC<PapaOpenStreetMapProps> = ({
             <p class="text-[10px] text-slate-500 dark:text-slate-400 line-clamp-2">
               ${item.descripcion}
             </p>
-            <div class="text-[10px] text-slate-400 dark:text-slate-500 font-semibold pt-1 border-t border-slate-100 dark:border-slate-800">
-              ${item.distrito ? `${item.distrito}, ` : ''}${item.departamento}
+            <div class="text-[10px] text-slate-500 font-mono font-medium pt-1 border-t border-slate-100 dark:border-slate-800 flex items-center justify-between">
+              <span>${item.distrito ? `${item.distrito}, ` : ''}${item.departamento}</span>
+              <span class="text-emerald-600 dark:text-emerald-400">✓ Verificado</span>
             </div>
           </div>
         `;

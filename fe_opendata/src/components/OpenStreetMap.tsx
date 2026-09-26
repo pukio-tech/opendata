@@ -101,15 +101,8 @@ export const OpenStreetMap: React.FC<OpenStreetMapProps> = ({
         const cat = (item.categoria || '').toUpperCase();
         const sub = (item.subtipo_categoria || item.tipo_categoria || '').toUpperCase();
 
-        // Color temático del marcador
-        let markerColor = '#0284c7'; // Sky default
-        if (cat.includes('NATURAL') || sub.includes('BOSQUE') || sub.includes('CERRO')) {
-          markerColor = '#10b981'; // Emerald
-        } else if (cat.includes('CULTURAL') || sub.includes('ARQUEOL') || sub.includes('TEMPLO')) {
-          markerColor = '#f59e0b'; // Amber
-        } else if (cat.includes('FOLK') || sub.includes('FESTIVIDAD')) {
-          markerColor = '#f43f5e'; // Rose
-        }
+        // Color temático del marcador institucional (Azul Gob #0B3B60 / Rojo Acento #D91023)
+        const markerColor = isSelected ? '#D91023' : '#0B3B60';
 
         const iconHtml = `
           <div style="
@@ -119,15 +112,15 @@ export const OpenStreetMap: React.FC<OpenStreetMapProps> = ({
             justify-content: center;
             width: ${isSelected ? '32px' : '26px'};
             height: ${isSelected ? '32px' : '26px'};
-            background-color: ${isSelected ? '#f59e0b' : markerColor};
+            background-color: ${markerColor};
             border: 2px solid white;
             border-radius: 50%;
-            box-shadow: 0 4px 10px rgba(0,0,0,0.35);
+            box-shadow: 0 2px 6px rgba(0,0,0,0.3);
             cursor: pointer;
             transition: transform 0.2s;
-            ${isSelected ? 'transform: scale(1.25); z-index: 1000; box-shadow: 0 0 15px rgba(245, 158, 11, 0.8);' : ''}
+            ${isSelected ? 'transform: scale(1.25); z-index: 1000; box-shadow: 0 0 10px rgba(217, 16, 35, 0.7);' : ''}
           ">
-            <svg style="width: 14px; height: 14px; color: ${isSelected ? '#0f172a' : '#ffffff'};" viewBox="0 0 24 24" fill="currentColor">
+            <svg style="width: 14px; height: 14px; color: #ffffff;" viewBox="0 0 24 24" fill="currentColor">
               <path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/>
             </svg>
           </div>
@@ -143,26 +136,24 @@ export const OpenStreetMap: React.FC<OpenStreetMapProps> = ({
         const marker = L.marker([latNum, lonNum], { icon: customIcon });
 
         const slug = createResourceSlug(item.nombre, item.codigo);
-        const photo = item.imagen || item.foto_url || `http://localhost:3001/api/photos/${item.codigo}`;
+        const photo = item.imagen || item.foto_url || `https://consultasenlinea.mincetur.gob.pe/fichaInventario/fotos/${item.codigo}p.jpg`;
 
         const popupContent = `
-          <div style="font-family: inherit; font-size: 12px; max-width: 220px; border-radius: 12px; overflow: hidden;">
-            ${photo ? `
-              <div style="height: 100px; width: 100%; overflow: hidden; background: #0f172a;">
-                <img src="${photo}" alt="${item.nombre}" style="width: 100%; height: 100%; object-fit: cover;" onerror="this.style.display='none'"/>
-              </div>
-            ` : ''}
+          <div style="font-family: inherit; font-size: 12px; max-width: 220px; border-radius: 8px; overflow: hidden; background: #ffffff; border: 1px solid #e2e8f0;">
+            <div style="height: 90px; width: 100%; overflow: hidden; background: #f1f5f9; position: relative; display: flex; align-items: center; justify-content: center;">
+              <img src="${photo}" alt="${item.nombre}" style="width: 100%; height: 100%; object-fit: cover; display: block;" onerror="this.parentElement.innerHTML='<div style=\\'display:flex;align-items:center;justify-content:center;height:100%;color:#64748b;font-size:10px;font-weight:600;font-family:monospace;\\'>MINCETUR OFICIAL</div>'"/>
+            </div>
             <div style="padding: 10px;">
-              <span style="font-size: 9px; font-weight: bold; text-transform: uppercase; color: #f59e0b; display: block; margin-bottom: 2px;">
+              <span style="font-size: 9px; font-weight: 700; font-family: monospace; text-transform: uppercase; color: #0B3B60; display: block; margin-bottom: 2px;">
                 ${item.desdpto || 'Perú'} • Ficha #${item.codigo}
               </span>
-              <strong style="font-size: 13px; color: #0f172a; line-height: 1.2; display: block; margin-bottom: 4px;">
+              <strong style="font-size: 12px; color: #0f172a; line-height: 1.3; display: block; margin-bottom: 4px;">
                 ${item.nombre}
               </strong>
-              <span style="font-size: 11px; color: #64748b; display: block; margin-bottom: 8px;">
+              <span style="font-size: 10px; color: #64748b; display: block; margin-bottom: 8px;">
                 ${item.categoria || 'Recurso Turístico'}
               </span>
-              <a href="/turismo/${slug}" style="display: inline-block; background: #0284c7; color: white; padding: 5px 10px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 11px; text-align: center; width: 100%; box-sizing: border-box;">
+              <a href="/turismo/${slug}" style="display: block; background: #0B3B60; color: #ffffff; padding: 6px 10px; border-radius: 6px; text-decoration: none; font-weight: 600; font-size: 11px; text-align: center; box-sizing: border-box;">
                 Ver Ficha Técnica &rarr;
               </a>
             </div>

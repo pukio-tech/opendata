@@ -98,7 +98,7 @@ export const MuseoOpenStreetMap: React.FC<MuseoOpenStreetMapProps> = ({
           <div style="
             width: ${isSelected ? '36px' : '28px'};
             height: ${isSelected ? '36px' : '28px'};
-            background: ${isSelected ? '#0284c7' : '#d97706'};
+            background: ${isSelected ? '#0B3B60' : '#475569'};
             border: 2px solid white;
             border-radius: 50%;
             display: flex;
@@ -125,14 +125,14 @@ export const MuseoOpenStreetMap: React.FC<MuseoOpenStreetMapProps> = ({
 
         // Popup interactivo
         const imgTag = museo.imagen_tarjeta || museo.imagen_portada
-          ? `<img src="${museo.imagen_tarjeta || museo.imagen_portada}" alt="${museo.nombre}" style="width:100%;height:100px;object-fit:cover;border-radius:8px 8px 0 0;"/>`
+          ? `<img src="${museo.imagen_tarjeta || museo.imagen_portada}" alt="${museo.nombre}" style="width:100%;height:100px;object-fit:cover;border-radius:6px 6px 0 0;"/>`
           : '';
 
         const popupContent = `
           <div style="width: 220px; font-family: inherit; font-size: 12px;">
             ${imgTag}
             <div style="padding: 10px;">
-              <span style="font-size: 10px; font-weight: 700; color: #0284c7; text-transform: uppercase;">
+              <span style="font-size: 10px; font-weight: 700; color: #0B3B60; text-transform: uppercase;">
                 ${museo.departamento || 'Perú'}
               </span>
               <h4 style="font-size: 13px; font-weight: 700; margin: 4px 0; color: #0f172a; line-height: 1.3;">
@@ -145,7 +145,7 @@ export const MuseoOpenStreetMap: React.FC<MuseoOpenStreetMapProps> = ({
                 id="btn-popup-${museo.id_museo}"
                 style="
                   width: 100%;
-                  background: #0284c7;
+                  background: #0B3B60;
                   color: white;
                   border: none;
                   padding: 6px 10px;
@@ -191,7 +191,7 @@ export const MuseoOpenStreetMap: React.FC<MuseoOpenStreetMapProps> = ({
   }, [mapReady, museos, selectedMuseo, onSelectMuseo]);
 
   return (
-    <div className={`relative w-full rounded-2xl overflow-hidden shadow-md border border-slate-200 dark:border-slate-800 ${className}`}>
+    <div className={`relative w-full rounded-lg overflow-hidden shadow-xs border border-slate-200 dark:border-slate-800 ${className}`}>
       <div ref={mapContainerRef} className="w-full h-full min-h-[420px]" />
     </div>
   );

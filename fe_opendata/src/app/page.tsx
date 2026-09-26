@@ -14,6 +14,9 @@ import { translateMinceturText, formatResourceCardDescription } from '../utils/m
 import { DynamicText } from '../utils/dynamicTranslate';
 import { AdsterraNativeBanner } from '../components/AdsterraNativeBanner';
 import { AdsterraDisplayBanner, ResponsiveLeaderboard } from '../components/AdsterraDisplayBanner';
+import { InstitutionalImage } from '../components/InstitutionalImage';
+import { OfficialBadge } from '../components/OfficialBadge';
+import { TrustVerificationBadge, OfficialSealBadge } from '../components/TrustVerificationBadge';
 
 const OpenStreetMap = dynamic(
   () => import('../components/OpenStreetMap').then((mod) => mod.OpenStreetMap),
@@ -146,7 +149,7 @@ export default function HomePage() {
     setLoadingFeatured(true);
     apiService
       .getFeaturedResources({
-        limit: 6,
+        limit: 8,
       })
       .then((items) => {
         setFeaturedResources(items || []);
@@ -280,42 +283,37 @@ export default function HomePage() {
         </div>
 
         {/* Barra superior de Estado y Metadatos de la Imagen */}
-        <div className="relative z-10 max-w-7xl mx-auto w-full flex items-center justify-between gap-4">
-          <div className="inline-flex items-center gap-2 px-3 py-1.5 rounded-lg bg-slate-900/90 border border-slate-700/80 text-[11px] font-mono text-slate-300 backdrop-blur-md shadow-sm">
-            <span className="w-2 h-2 rounded-full bg-emerald-400 animate-pulse" />
-            <span className="font-semibold text-slate-100">{t('hero.portalOpenData')}</span>
-            <span className="text-slate-500">•</span>
-            <span className="text-sky-400 font-semibold">{t('hero.republicPeru')}</span>
-          </div>
+        <div className="relative z-10 max-w-7xl mx-auto w-full flex flex-col sm:flex-row items-start sm:items-center justify-between gap-3">
+          <OfficialSealBadge source="MINCETUR • SUNAT • IRTP" />
 
           {activeHeroItem && (
-            <div className="hidden sm:flex items-center gap-2 px-3 py-1.5 rounded-lg bg-slate-900/90 border border-slate-700/80 text-xs text-slate-300 font-mono backdrop-blur-md shadow-sm">
-              <Icons.MapPin className="w-3.5 h-3.5 text-sky-400" />
+            <div className="flex items-center gap-2 px-3 py-1.5 rounded bg-slate-900/90 border border-slate-700/80 text-xs text-slate-300 font-mono backdrop-blur-md shadow-xs">
+              <Icons.MapPin className="w-3.5 h-3.5 text-slate-400" />
               <span className="text-white font-medium">{cleanLabel(activeHeroItem.nombre)}</span>
               <span className="text-slate-500">|</span>
               <span className="text-slate-400">{cleanLabel(activeHeroItem.desdpto)}</span>
-              <span className="text-[10px] text-amber-400 font-bold px-1.5 py-0.5 rounded bg-slate-950 border border-slate-800">
-                {t('card.recordNum')} #{activeHeroItem.codigo}
-              </span>
+              <OfficialBadge variant="code">
+                #{activeHeroItem.codigo}
+              </OfficialBadge>
             </div>
           )}
         </div>
 
         {/* Titular Principal & Consola de Búsqueda de Datos */}
-        <div className="relative z-10 max-w-6xl mx-auto text-center my-auto py-8 w-full">
-          <h1 className="text-3xl sm:text-5xl md:text-6xl font-extrabold tracking-tight text-white leading-tight">
+        <div className="relative z-10 max-w-5xl mx-auto text-center my-auto py-8 w-full">
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-bold tracking-tight text-white leading-tight">
             {t('hero.title1')}{' '}
-            <span className="text-transparent bg-clip-text bg-gradient-to-r from-sky-400 via-sky-300 to-sky-500">
+            <span className="text-white">
               {t('hero.titlePeru')}
             </span>
           </h1>
 
-          <p className="mt-4 text-sm sm:text-base md:text-lg text-slate-200 font-normal max-w-3xl mx-auto leading-relaxed">
+          <p className="mt-3 text-xs sm:text-base text-slate-200 font-normal max-w-3xl mx-auto leading-relaxed">
             {t('hero.subtitle')}
           </p>
 
           {/* Consola Técnica de Búsqueda y Filtros de Entrada */}
-          <div className="mt-8 bg-white/95 dark:bg-slate-900/95 border border-slate-200 dark:border-slate-800 rounded-xl p-4 sm:p-5 shadow-2xl backdrop-blur-md text-left transition-colors">
+          <div className="mt-8 bg-white/95 dark:bg-slate-900/95 border border-slate-200 dark:border-slate-800 rounded-lg p-4 sm:p-5 shadow-xs backdrop-blur-md text-left transition-colors">
             <form onSubmit={handleHeroSubmit} className="space-y-3">
               <div className="grid grid-cols-1 md:grid-cols-12 gap-3 items-center">
                 {/* Campo de búsqueda textual */}
@@ -326,7 +324,7 @@ export default function HomePage() {
                     value={heroSearch}
                     onChange={(e) => setHeroSearch(e.target.value)}
                     placeholder={t('turismo.searchPlaceholder')}
-                    className="w-full bg-slate-50 dark:bg-slate-950 border border-slate-200 dark:border-slate-700 rounded-lg pl-9 pr-3 py-2 text-xs sm:text-sm text-slate-900 dark:text-white placeholder-slate-400 focus:outline-none focus:border-sky-500 focus:ring-1 focus:ring-sky-500 font-sans transition-colors"
+                    className="w-full bg-slate-50 dark:bg-slate-950 border border-slate-200 dark:border-slate-700 rounded-md pl-9 pr-3 py-2 text-xs sm:text-sm text-slate-900 dark:text-white placeholder-slate-400 focus:outline-none focus:border-[#0B3B60] focus:ring-1 focus:ring-[#0B3B60] font-sans transition-colors"
                   />
                 </div>
 
@@ -334,14 +332,14 @@ export default function HomePage() {
                 <div className="md:col-span-3 min-w-0">
                   <CustomSelect
                     label=""
-                    icon={<Icons.MapPin className="w-3.5 h-3.5 text-sky-500 dark:text-sky-400" />}
+                    icon={<Icons.MapPin className="w-3.5 h-3.5 text-slate-400" />}
                     value={heroDept}
                     onChange={setHeroDept}
                     options={departmentOptions}
                     placeholder={t('turismo.allRegions')}
                     searchable
                     variant="default"
-                    buttonClassName="bg-slate-50 dark:bg-slate-950 border border-slate-200 dark:border-slate-700 px-3 py-2 rounded-lg text-slate-900 dark:text-white hover:border-sky-500/50 flex items-center justify-between text-xs sm:text-sm transition-colors"
+                    buttonClassName="bg-slate-50 dark:bg-slate-950 border border-slate-200 dark:border-slate-700 px-3 py-2 rounded-md text-slate-900 dark:text-white hover:border-slate-400 flex items-center justify-between text-xs sm:text-sm transition-colors"
                   />
                 </div>
 
@@ -349,14 +347,14 @@ export default function HomePage() {
                 <div className="md:col-span-3 min-w-0">
                   <CustomSelect
                     label=""
-                    icon={<Icons.Layers className="w-3.5 h-3.5 text-sky-500 dark:text-sky-400" />}
+                    icon={<Icons.Layers className="w-3.5 h-3.5 text-slate-400" />}
                     value={heroCategory}
                     onChange={setHeroCategory}
                     options={categoryOptions}
                     placeholder={t('turismo.allCategories')}
                     searchable
                     variant="default"
-                    buttonClassName="bg-slate-50 dark:bg-slate-950 border border-slate-200 dark:border-slate-700 px-3 py-2 rounded-lg text-slate-900 dark:text-white hover:border-sky-500/50 flex items-center justify-between text-xs sm:text-sm transition-colors"
+                    buttonClassName="bg-slate-50 dark:bg-slate-950 border border-slate-200 dark:border-slate-700 px-3 py-2 rounded-md text-slate-900 dark:text-white hover:border-slate-400 flex items-center justify-between text-xs sm:text-sm transition-colors"
                   />
                 </div>
 
@@ -364,7 +362,7 @@ export default function HomePage() {
                 <div className="md:col-span-2">
                   <button
                     type="submit"
-                    className="w-full py-2 sm:py-2.5 px-4 rounded-lg bg-sky-600 hover:bg-sky-500 text-white font-semibold text-xs sm:text-sm transition-colors flex items-center justify-center gap-2 cursor-pointer shadow-sm whitespace-nowrap"
+                    className="w-full py-2 sm:py-2.5 px-4 rounded-md bg-[#0B3B60] hover:bg-[#082C48] text-white font-semibold text-xs sm:text-sm transition-colors flex items-center justify-center gap-2 cursor-pointer shadow-xs whitespace-nowrap"
                   >
                     <Icons.Search className="w-4 h-4" />
                     <span>{t('turismo.btnSearch')}</span>
@@ -378,42 +376,42 @@ export default function HomePage() {
                 <button
                   type="button"
                   onClick={() => router.push('/turismo?category=1')}
-                  className="px-2 py-0.5 rounded bg-slate-100 dark:bg-slate-950 border border-slate-200 dark:border-slate-800 text-slate-700 dark:text-slate-300 hover:text-sky-600 dark:hover:text-sky-400 hover:border-sky-500/50 transition-colors"
+                  className="px-2 py-0.5 rounded bg-slate-100 dark:bg-slate-950 border border-slate-200 dark:border-slate-800 text-slate-700 dark:text-slate-300 hover:text-[#0B3B60] dark:hover:text-white transition-colors"
                 >
                   {t('hero.catNatural')}
                 </button>
                 <button
                   type="button"
                   onClick={() => router.push('/turismo?category=2')}
-                  className="px-2 py-0.5 rounded bg-slate-100 dark:bg-slate-950 border border-slate-200 dark:border-slate-800 text-slate-700 dark:text-slate-300 hover:text-sky-600 dark:hover:text-sky-400 hover:border-sky-500/50 transition-colors"
+                  className="px-2 py-0.5 rounded bg-slate-100 dark:bg-slate-950 border border-slate-200 dark:border-slate-800 text-slate-700 dark:text-slate-300 hover:text-[#0B3B60] dark:hover:text-white transition-colors"
                 >
                   {t('hero.catCultural')}
                 </button>
                 <button
                   type="button"
                   onClick={() => router.push('/turismo?category=3')}
-                  className="px-2 py-0.5 rounded bg-slate-100 dark:bg-slate-950 border border-slate-200 dark:border-slate-800 text-slate-700 dark:text-slate-300 hover:text-sky-600 dark:hover:text-sky-400 hover:border-sky-500/50 transition-colors"
+                  className="px-2 py-0.5 rounded bg-slate-100 dark:bg-slate-950 border border-slate-200 dark:border-slate-800 text-slate-700 dark:text-slate-300 hover:text-[#0B3B60] dark:hover:text-white transition-colors"
                 >
                   {t('hero.catFolklore')}
                 </button>
                 <button
                   type="button"
                   onClick={() => router.push('/turismo?department=08')}
-                  className="px-2 py-0.5 rounded bg-slate-100 dark:bg-slate-950 border border-slate-200 dark:border-slate-800 text-slate-700 dark:text-slate-300 hover:text-sky-600 dark:hover:text-sky-400 hover:border-sky-500/50 transition-colors"
+                  className="px-2 py-0.5 rounded bg-slate-100 dark:bg-slate-950 border border-slate-200 dark:border-slate-800 text-slate-700 dark:text-slate-300 hover:text-[#0B3B60] dark:hover:text-white transition-colors"
                 >
                   Cusco
                 </button>
                 <button
                   type="button"
                   onClick={() => router.push('/turismo?department=04')}
-                  className="px-2 py-0.5 rounded bg-slate-100 dark:bg-slate-950 border border-slate-200 dark:border-slate-800 text-slate-700 dark:text-slate-300 hover:text-sky-600 dark:hover:text-sky-400 hover:border-sky-500/50 transition-colors"
+                  className="px-2 py-0.5 rounded bg-slate-100 dark:bg-slate-950 border border-slate-200 dark:border-slate-800 text-slate-700 dark:text-slate-300 hover:text-[#0B3B60] dark:hover:text-white transition-colors"
                 >
                   Arequipa
                 </button>
                 <button
                   type="button"
                   onClick={() => router.push('/turismo?department=02')}
-                  className="px-2 py-0.5 rounded bg-slate-100 dark:bg-slate-950 border border-slate-200 dark:border-slate-800 text-slate-700 dark:text-slate-300 hover:text-sky-600 dark:hover:text-sky-400 hover:border-sky-500/50 transition-colors"
+                  className="px-2 py-0.5 rounded bg-slate-100 dark:bg-slate-950 border border-slate-200 dark:border-slate-800 text-slate-700 dark:text-slate-300 hover:text-[#0B3B60] dark:hover:text-white transition-colors"
                 >
                   Áncash
                 </button>
@@ -421,57 +419,57 @@ export default function HomePage() {
             </form>
           </div>
 
-          {/* Cuadrícula de Indicadores Cuantitativos Oficiales */}
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-3 sm:gap-4 max-w-6xl mx-auto mt-6 text-left">
-            <div className="bg-white/95 dark:bg-slate-900/90 border border-slate-200 dark:border-slate-800 rounded-xl p-4 shadow-sm dark:shadow-none flex flex-col justify-between transition-colors">
-              <div className="flex items-center justify-between text-slate-500 dark:text-slate-400 mb-1.5">
-                <span className="text-[10px] font-mono uppercase tracking-wider font-semibold">{t('home.totalResources')}</span>
-                <Icons.Database className="w-3.5 h-3.5 text-sky-600 dark:text-sky-400" />
+          {/* Cuadrícula de Indicadores Cuantitativos Oficiales (Estilo Estadística Oficial, Unicolor) */}
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-3 sm:gap-4 max-w-5xl mx-auto mt-6 text-left">
+            <div className="bg-white/95 dark:bg-slate-900/90 border border-slate-200 dark:border-slate-800 rounded-lg p-4 shadow-xs flex flex-col justify-between transition-colors">
+              <div className="flex items-center justify-between text-slate-400 dark:text-slate-500 mb-1.5">
+                <span className="text-[10px] font-mono uppercase tracking-wider font-semibold text-slate-600 dark:text-slate-400">{t('home.totalResources')}</span>
+                <Icons.Database className="w-3.5 h-3.5 text-slate-400 dark:text-slate-500" />
               </div>
               <div className="text-2xl sm:text-3xl font-mono font-bold text-slate-900 dark:text-white tracking-tight">
                 {totalResourcesCount > 0 ? totalResourcesCount.toLocaleString() : '2,291'}
               </div>
-              <div className="text-[11px] text-slate-500 dark:text-slate-400 mt-1 flex items-center gap-1.5">
+              <div className="text-[11px] font-mono text-slate-500 dark:text-slate-400 mt-1 flex items-center gap-1.5">
                 <span className="w-1.5 h-1.5 rounded-full bg-emerald-500" />
                 <span>{t('home.inventoryNational')}</span>
               </div>
             </div>
 
-            <div className="bg-white/95 dark:bg-slate-900/90 border border-slate-200 dark:border-slate-800 rounded-xl p-4 shadow-sm dark:shadow-none flex flex-col justify-between transition-colors">
-              <div className="flex items-center justify-between text-slate-500 dark:text-slate-400 mb-1.5">
-                <span className="text-[10px] font-mono uppercase tracking-wider font-semibold">{t('home.naturalSites')}</span>
-                <Icons.Compass className="w-3.5 h-3.5 text-emerald-600 dark:text-emerald-400" />
+            <div className="bg-white/95 dark:bg-slate-900/90 border border-slate-200 dark:border-slate-800 rounded-lg p-4 shadow-xs flex flex-col justify-between transition-colors">
+              <div className="flex items-center justify-between text-slate-400 dark:text-slate-500 mb-1.5">
+                <span className="text-[10px] font-mono uppercase tracking-wider font-semibold text-slate-600 dark:text-slate-400">{t('home.naturalSites')}</span>
+                <Icons.Trees className="w-3.5 h-3.5 text-slate-400 dark:text-slate-500" />
               </div>
               <div className="text-2xl sm:text-3xl font-mono font-bold text-slate-900 dark:text-white tracking-tight">
                 {naturalCount > 0 ? naturalCount.toLocaleString() : '1,080'}
               </div>
-              <div className="text-[11px] text-slate-500 dark:text-slate-400 mt-1">
+              <div className="text-[11px] font-mono text-slate-500 dark:text-slate-400 mt-1">
                 <span>{t('home.cat1Natural')}</span>
               </div>
             </div>
 
-            <div className="bg-white/95 dark:bg-slate-900/90 border border-slate-200 dark:border-slate-800 rounded-xl p-4 shadow-sm dark:shadow-none flex flex-col justify-between transition-colors">
-              <div className="flex items-center justify-between text-slate-500 dark:text-slate-400 mb-1.5">
-                <span className="text-[10px] font-mono uppercase tracking-wider font-semibold">{t('home.culturalHeritage')}</span>
-                <Icons.Layers className="w-3.5 h-3.5 text-amber-600 dark:text-amber-400" />
+            <div className="bg-white/95 dark:bg-slate-900/90 border border-slate-200 dark:border-slate-800 rounded-lg p-4 shadow-xs flex flex-col justify-between transition-colors">
+              <div className="flex items-center justify-between text-slate-400 dark:text-slate-500 mb-1.5">
+                <span className="text-[10px] font-mono uppercase tracking-wider font-semibold text-slate-600 dark:text-slate-400">{t('home.culturalHeritage')}</span>
+                <Icons.Layers className="w-3.5 h-3.5 text-slate-400 dark:text-slate-500" />
               </div>
               <div className="text-2xl sm:text-3xl font-mono font-bold text-slate-900 dark:text-white tracking-tight">
                 {culturalCount > 0 ? culturalCount.toLocaleString() : '840'}
               </div>
-              <div className="text-[11px] text-slate-500 dark:text-slate-400 mt-1">
+              <div className="text-[11px] font-mono text-slate-500 dark:text-slate-400 mt-1">
                 <span>{t('home.cat2Cultural')}</span>
               </div>
             </div>
 
-            <div className="bg-white/95 dark:bg-slate-900/90 border border-slate-200 dark:border-slate-800 rounded-xl p-4 shadow-sm dark:shadow-none flex flex-col justify-between transition-colors">
-              <div className="flex items-center justify-between text-slate-500 dark:text-slate-400 mb-1.5">
-                <span className="text-[10px] font-mono uppercase tracking-wider font-semibold">{t('home.folkloreTraditions')}</span>
-                <Icons.Sliders className="w-3.5 h-3.5 text-blue-600 dark:text-blue-400" />
+            <div className="bg-white/95 dark:bg-slate-900/90 border border-slate-200 dark:border-slate-800 rounded-lg p-4 shadow-xs flex flex-col justify-between transition-colors">
+              <div className="flex items-center justify-between text-slate-400 dark:text-slate-500 mb-1.5">
+                <span className="text-[10px] font-mono uppercase tracking-wider font-semibold text-slate-600 dark:text-slate-400">{t('home.folkloreTraditions')}</span>
+                <Icons.Award className="w-3.5 h-3.5 text-slate-400 dark:text-slate-500" />
               </div>
               <div className="text-2xl sm:text-3xl font-mono font-bold text-slate-900 dark:text-white tracking-tight">
                 {folkloreCount > 0 ? folkloreCount.toLocaleString() : '240'}
               </div>
-              <div className="text-[11px] text-slate-500 dark:text-slate-400 mt-1">
+              <div className="text-[11px] font-mono text-slate-500 dark:text-slate-400 mt-1">
                 <span>{t('home.cat3Folklore')}</span>
               </div>
             </div>
@@ -591,8 +589,8 @@ export default function HomePage() {
 
         {/* Cuadrícula de Destinos Reales */}
         {loadingFeatured ? (
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-            {[1, 2, 3, 4, 5, 6].map((n) => (
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
+            {[1, 2, 3, 4, 5, 6, 7, 8].map((n) => (
               <div
                 key={n}
                 className="h-80 rounded-xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 animate-pulse flex flex-col justify-between p-5"
@@ -606,7 +604,7 @@ export default function HomePage() {
             ))}
           </div>
         ) : (
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
             {featuredResources.map((item) => (
               <ResourceCard key={item.codigo} resource={item} />
             ))}
@@ -667,47 +665,48 @@ export default function HomePage() {
             <div className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-xl p-5 sm:p-6 h-full flex flex-col justify-between shadow-sm dark:shadow-none transition-colors">
               {selectedMapResource ? (
                 <div>
-                  {/* Foto del recurso activo en el mapa */}
-                  <div className="relative h-44 sm:h-48 w-full rounded-lg overflow-hidden mb-4 bg-slate-950 border border-slate-200 dark:border-slate-800">
-                    <img
+                  {/* Foto del recurso activo en el mapa con fallback institucional consistente */}
+                  <div className="relative h-44 sm:h-48 w-full rounded-lg overflow-hidden mb-3 border border-slate-200 dark:border-slate-800">
+                    <InstitutionalImage
                       src={selectedMapResource.imagen || selectedMapResource.foto_url || getPhotoUrl(selectedMapResource.codigo)}
                       alt={selectedMapResource.nombre}
-                      loading="lazy"
-                      decoding="async"
-                      onError={(e) => {
-                        e.currentTarget.src = FALLBACK_CARD_BG;
-                      }}
-                      className="w-full h-full object-cover"
+                      category={cleanLabel(selectedMapResource.categoria) || 'Recurso Turístico'}
+                      code={selectedMapResource.codigo}
+                      containerClassName="w-full h-full"
                     />
-                    <div className="absolute inset-0 bg-gradient-to-t from-slate-950 via-transparent to-transparent" />
-                    <div className="absolute bottom-2.5 left-2.5 right-2.5 flex items-center justify-between text-white">
-                      <span className="text-[10px] font-mono font-bold px-2 py-0.5 rounded bg-slate-900/90 border border-slate-700">
+                    <div className="absolute bottom-2 left-2 right-2 flex items-center justify-between z-10 pointer-events-none">
+                      <span className="text-[10px] font-mono font-bold px-2 py-0.5 rounded bg-slate-900/90 text-white border border-slate-700">
                         {cleanLabel(selectedMapResource.desdpto)}
                       </span>
-                      <span className="text-[10px] font-mono font-bold px-2 py-0.5 rounded bg-slate-900/90 text-amber-400 border border-slate-700">
-                        {t('card.recordNum')} #{selectedMapResource.codigo}
-                      </span>
+                      <OfficialBadge variant="code">
+                        #{selectedMapResource.codigo}
+                      </OfficialBadge>
                     </div>
                   </div>
 
-                  <div className="flex items-center gap-2 mb-1">
-                    <span className="w-2 h-2 rounded-full bg-emerald-500" />
-                    <span className="text-[10px] font-mono text-slate-500 dark:text-slate-400 uppercase tracking-wider">
-                      {t('home.activeInGeoportal')}
-                    </span>
+                  {/* Señal de verificación y estado en geoportal */}
+                  <div className="flex items-center justify-between gap-2 mb-2">
+                    <div className="flex items-center gap-1.5 text-[11px] font-mono text-slate-500 dark:text-slate-400 uppercase tracking-wider">
+                      <span className="w-2 h-2 rounded-full bg-emerald-500 shrink-0" />
+                      <span>{t('home.activeInGeoportal')}</span>
+                    </div>
+                    <TrustVerificationBadge
+                      source="MINCETUR"
+                      seedId={selectedMapResource.codigo}
+                    />
                   </div>
 
                   <h3 className="text-lg sm:text-xl font-bold text-slate-900 dark:text-white tracking-tight mb-1.5">
                     {cleanLabel(selectedMapResource.nombre)}
                   </h3>
 
-                  <p className="text-xs text-slate-600 dark:text-slate-400 mb-5 leading-relaxed">
+                  <p className="text-xs text-slate-600 dark:text-slate-400 mb-4 leading-relaxed">
                     {formatResourceCardDescription(selectedMapResource, language)}
                   </p>
 
                   {/* Cuadrícula de Datos Técnicos */}
-                  <div className="grid grid-cols-2 gap-2.5 mb-5 text-left font-mono">
-                    <div className="p-2.5 rounded-lg bg-slate-50 dark:bg-slate-950 border border-slate-200 dark:border-slate-800">
+                  <div className="grid grid-cols-2 gap-2.5 mb-4 text-left font-mono">
+                    <div className="p-2.5 rounded-md bg-slate-50 dark:bg-slate-950 border border-slate-200 dark:border-slate-800">
                       <span className="text-[10px] uppercase font-semibold text-slate-500 dark:text-slate-400 block mb-0.5">
                         {t('home.category')}
                       </span>
@@ -716,16 +715,16 @@ export default function HomePage() {
                       </span>
                     </div>
 
-                    <div className="p-2.5 rounded-lg bg-slate-50 dark:bg-slate-950 border border-slate-200 dark:border-slate-800">
+                    <div className="p-2.5 rounded-md bg-slate-50 dark:bg-slate-950 border border-slate-200 dark:border-slate-800">
                       <span className="text-[10px] uppercase font-semibold text-slate-500 dark:text-slate-400 block mb-0.5">
                         {t('home.provinceDistrict')}
                       </span>
-                      <span className="text-xs font-medium text-sky-600 dark:text-sky-400 truncate block">
+                      <span className="text-xs font-medium text-slate-800 dark:text-slate-200 truncate block">
                         {cleanLabel(selectedMapResource.desprov || selectedMapResource.desubigeo)}
                       </span>
                     </div>
 
-                    <div className="p-2.5 rounded-lg bg-slate-50 dark:bg-slate-950 border border-slate-200 dark:border-slate-800">
+                    <div className="p-2.5 rounded-md bg-slate-50 dark:bg-slate-950 border border-slate-200 dark:border-slate-800">
                       <span className="text-[10px] uppercase font-semibold text-slate-500 dark:text-slate-400 block mb-0.5">
                         {t('home.latitude')}
                       </span>
@@ -734,7 +733,7 @@ export default function HomePage() {
                       </span>
                     </div>
 
-                    <div className="p-2.5 rounded-lg bg-slate-50 dark:bg-slate-950 border border-slate-200 dark:border-slate-800">
+                    <div className="p-2.5 rounded-md bg-slate-50 dark:bg-slate-950 border border-slate-200 dark:border-slate-800">
                       <span className="text-[10px] uppercase font-semibold text-slate-500 dark:text-slate-400 block mb-0.5">
                         {t('home.longitude')}
                       </span>
@@ -755,7 +754,7 @@ export default function HomePage() {
                 <div className="pt-2">
                   <Link
                     href={`/turismo/${createResourceSlug(selectedMapResource.nombre, selectedMapResource.codigo)}`}
-                    className="w-full py-2.5 px-4 rounded-lg bg-sky-600 hover:bg-sky-500 text-white font-semibold text-xs uppercase tracking-wider text-center transition-colors flex items-center justify-center gap-2 cursor-pointer shadow-sm"
+                    className="w-full py-2.5 px-4 rounded-md bg-[#0B3B60] hover:bg-[#082C48] text-white font-semibold text-xs uppercase tracking-wider text-center transition-colors flex items-center justify-center gap-2 cursor-pointer shadow-xs"
                   >
                     <span>{t('home.viewFullTechSheet')}</span>
                     <Icons.ArrowRight className="w-3.5 h-3.5" />

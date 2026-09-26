@@ -11,6 +11,8 @@ import { CustomSelect, SelectOption } from '../../components/CustomSelect';
 import { useLanguage } from '../../context/LanguageContext';
 import { ResponsiveLeaderboard } from '../../components/AdsterraDisplayBanner';
 import { AdsterraNativeBanner } from '../../components/AdsterraNativeBanner';
+import { OfficialBadge } from '../../components/OfficialBadge';
+import { TrustVerificationBadge } from '../../components/TrustVerificationBadge';
 
 function MuseosPageContent() {
   const { t } = useLanguage();
@@ -206,24 +208,21 @@ function MuseosPageContent() {
 
         <div className="max-w-6xl mx-auto relative z-10 text-center w-full">
           <div className="flex flex-wrap items-center justify-center gap-2 mb-3">
-            <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-bold bg-sky-500/20 text-sky-300 border border-sky-500/30">
-              <Icons.Building className="w-3.5 h-3.5" />
-              <span>Directorio Oficial de Museos del Perú</span>
-            </span>
+            <OfficialBadge variant="code">
+              Directorio Oficial de Museos del Perú
+            </OfficialBadge>
 
             {stats && (
-              <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-bold bg-amber-500/20 text-amber-300 border border-amber-500/30">
-                <Icons.Eye className="w-3.5 h-3.5" />
-                <span>{stats.total_virtuales} con Recorrido 360°</span>
-              </span>
+              <OfficialBadge variant="code">
+                {stats.total_virtuales} con Recorrido 360°
+              </OfficialBadge>
             )}
+
+            <TrustVerificationBadge source="MINCUL" date="25/09/2026" />
           </div>
 
-          <h1 className="text-3xl sm:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            Museos del{' '}
-            <span className="text-transparent bg-clip-text bg-gradient-to-r from-sky-400 via-sky-300 to-sky-500">
-              Perú
-            </span>
+          <h1 className="text-3xl sm:text-5xl font-bold tracking-tight text-white leading-tight">
+            Museos del Perú
           </h1>
 
           <p className="mt-3 text-xs sm:text-base text-slate-200 font-normal max-w-2xl mx-auto mb-6 leading-relaxed">
@@ -233,7 +232,7 @@ function MuseosPageContent() {
           {/* Caja de Búsqueda y Filtros con Soporte Dark/Light Mode */}
           <div
             id="busqueda-avanzada"
-            className="max-w-6xl mx-auto bg-white/95 dark:bg-slate-900/95 border border-slate-200 dark:border-slate-800 rounded-xl p-4 sm:p-5 shadow-2xl backdrop-blur-md text-left space-y-3 transition-colors"
+            className="max-w-6xl mx-auto bg-white/95 dark:bg-slate-900/95 border border-slate-200 dark:border-slate-800 rounded-lg p-4 sm:p-5 shadow-xs text-left space-y-3 transition-colors"
           >
             <form onSubmit={handleSearchSubmit} className="space-y-3">
               {/* Fila 1: Buscador de texto + Botón Buscar */}
@@ -245,7 +244,7 @@ function MuseosPageContent() {
                     value={searchTerm}
                     onChange={(e) => setSearchTerm(e.target.value)}
                     placeholder="Buscar museo por nombre, distrito o palabra clave..."
-                    className="w-full bg-slate-50 dark:bg-slate-950 text-slate-900 dark:text-white placeholder-slate-400 text-xs sm:text-sm pl-9 pr-9 py-2 rounded-lg border border-slate-200 dark:border-slate-700 focus:outline-none focus:border-sky-500 focus:ring-1 focus:ring-sky-500 font-sans transition-colors"
+                    className="w-full bg-slate-50 dark:bg-slate-950 text-slate-900 dark:text-white placeholder-slate-400 text-xs sm:text-sm pl-9 pr-9 py-2 rounded-md border border-slate-200 dark:border-slate-700 focus:outline-none focus:border-[#0B3B60] focus:ring-1 focus:ring-[#0B3B60] font-sans transition-colors"
                   />
                   {searchTerm && (
                     <button
@@ -266,10 +265,10 @@ function MuseosPageContent() {
                       setOnlyVirtualTour(nextVal);
                       setAppliedFilters((prev) => ({ ...prev, virtualTour: nextVal }));
                     }}
-                    className={`py-2 px-3.5 rounded-lg text-xs font-semibold border transition-all flex items-center justify-center gap-2 flex-1 sm:flex-none cursor-pointer whitespace-nowrap ${
+                    className={`py-2 px-3.5 rounded-md text-xs font-semibold border transition-all flex items-center justify-center gap-2 flex-1 sm:flex-none cursor-pointer whitespace-nowrap ${
                       onlyVirtualTour
-                        ? 'bg-amber-50 dark:bg-amber-500/10 text-amber-700 dark:text-amber-400 border-amber-300 dark:border-amber-500/40 shadow-sm'
-                        : 'bg-slate-50 dark:bg-slate-950 text-slate-700 dark:text-slate-300 border-slate-200 dark:border-slate-700 hover:border-slate-300 dark:hover:border-slate-600'
+                        ? 'bg-amber-50 dark:bg-amber-500/10 text-amber-700 dark:text-amber-400 border-amber-300 dark:border-amber-500/40 shadow-xs'
+                        : 'bg-slate-50 dark:bg-slate-950 text-slate-700 dark:text-slate-300 border border-slate-200 dark:border-slate-700 hover:border-slate-300 dark:hover:border-slate-600'
                     }`}
                   >
                     <Icons.Eye className="w-3.5 h-3.5 text-amber-500" />
@@ -278,7 +277,7 @@ function MuseosPageContent() {
 
                   <button
                     type="submit"
-                    className="py-2 sm:py-2.5 px-6 rounded-lg bg-sky-600 hover:bg-sky-500 text-white font-semibold text-xs sm:text-sm transition-colors flex items-center justify-center gap-2 flex-1 sm:flex-none cursor-pointer shadow-sm whitespace-nowrap"
+                    className="py-2 sm:py-2.5 px-6 rounded-md bg-[#0B3B60] hover:bg-[#082C48] text-white font-semibold text-xs sm:text-sm transition-colors flex items-center justify-center gap-2 flex-1 sm:flex-none cursor-pointer shadow-xs whitespace-nowrap"
                   >
                     <Icons.Search className="w-4 h-4" />
                     <span>Buscar</span>
@@ -292,14 +291,14 @@ function MuseosPageContent() {
                 <div className="min-w-0">
                   <CustomSelect
                     label=""
-                    icon={<Icons.MapPin className="w-3.5 h-3.5 text-sky-500 dark:text-sky-400" />}
+                    icon={<Icons.MapPin className="w-3.5 h-3.5 text-[#0B3B60] dark:text-slate-400" />}
                     value={selectedDept}
                     onChange={handleSelectDept}
                     options={departmentOptions}
                     placeholder="Todos los Departamentos"
                     searchable
                     variant="default"
-                    buttonClassName="bg-slate-50 dark:bg-slate-950 border border-slate-200 dark:border-slate-700 px-3 py-2 rounded-lg text-slate-900 dark:text-white hover:border-sky-500/50 flex items-center justify-between text-xs sm:text-sm transition-colors"
+                    buttonClassName="bg-slate-50 dark:bg-slate-950 border border-slate-200 dark:border-slate-700 px-3 py-2 rounded-md text-slate-900 dark:text-white hover:border-[#0B3B60]/50 flex items-center justify-between text-xs sm:text-sm transition-colors"
                   />
                 </div>
 
@@ -307,14 +306,14 @@ function MuseosPageContent() {
                 <div className="min-w-0">
                   <CustomSelect
                     label=""
-                    icon={<Icons.Layers className="w-3.5 h-3.5 text-sky-500 dark:text-sky-400" />}
+                    icon={<Icons.Layers className="w-3.5 h-3.5 text-[#0B3B60] dark:text-slate-400" />}
                     value={selectedCategory}
                     onChange={handleSelectCategory}
                     options={categoryOptions}
                     placeholder="Todas las Categorías"
                     searchable
                     variant="default"
-                    buttonClassName="bg-slate-50 dark:bg-slate-950 border border-slate-200 dark:border-slate-700 px-3 py-2 rounded-lg text-slate-900 dark:text-white hover:border-sky-500/50 flex items-center justify-between text-xs sm:text-sm transition-colors"
+                    buttonClassName="bg-slate-50 dark:bg-slate-950 border border-slate-200 dark:border-slate-700 px-3 py-2 rounded-md text-slate-900 dark:text-white hover:border-[#0B3B60]/50 flex items-center justify-between text-xs sm:text-sm transition-colors"
                   />
                 </div>
               </div>
@@ -330,7 +329,7 @@ function MuseosPageContent() {
                       <button
                         type="button"
                         onClick={() => removeFilter('search')}
-                        className="inline-flex items-center gap-1 text-xs px-2.5 py-1 rounded-lg bg-slate-100 dark:bg-slate-800 text-slate-700 dark:text-slate-300 hover:bg-rose-50 hover:text-rose-600 dark:hover:bg-rose-500/20 dark:hover:text-rose-300 transition-colors"
+                        className="inline-flex items-center gap-1 text-xs px-2.5 py-1 rounded-md bg-slate-100 dark:bg-slate-800 text-slate-700 dark:text-slate-300 hover:bg-rose-50 hover:text-rose-600 dark:hover:bg-rose-500/20 dark:hover:text-rose-300 transition-colors"
                       >
                         <span>Búsqueda: &quot;{appliedFilters.search}&quot;</span>
                         <Icons.X className="w-3 h-3" />
@@ -340,7 +339,7 @@ function MuseosPageContent() {
                       <button
                         type="button"
                         onClick={() => removeFilter('dept')}
-                        className="inline-flex items-center gap-1 text-xs px-2.5 py-1 rounded-lg bg-sky-50 dark:bg-sky-500/10 text-sky-700 dark:text-sky-300 hover:bg-rose-50 hover:text-rose-600 dark:hover:bg-rose-500/20 dark:hover:text-rose-300 transition-colors"
+                        className="inline-flex items-center gap-1 text-xs px-2.5 py-1 rounded-md bg-slate-100 dark:bg-slate-800 text-slate-700 dark:text-slate-300 hover:bg-rose-50 hover:text-rose-600 dark:hover:bg-rose-500/20 dark:hover:text-rose-300 transition-colors"
                       >
                         <span>Región: {activeDeptName || appliedFilters.dept}</span>
                         <Icons.X className="w-3 h-3" />
@@ -350,7 +349,7 @@ function MuseosPageContent() {
                       <button
                         type="button"
                         onClick={() => removeFilter('category')}
-                        className="inline-flex items-center gap-1 text-xs px-2.5 py-1 rounded-lg bg-emerald-50 dark:bg-emerald-500/10 text-emerald-700 dark:text-emerald-300 hover:bg-rose-50 hover:text-rose-600 dark:hover:bg-rose-500/20 dark:hover:text-rose-300 transition-colors"
+                        className="inline-flex items-center gap-1 text-xs px-2.5 py-1 rounded-md bg-slate-100 dark:bg-slate-800 text-slate-700 dark:text-slate-300 hover:bg-rose-50 hover:text-rose-600 dark:hover:bg-rose-500/20 dark:hover:text-rose-300 transition-colors"
                       >
                         <span>Categoría: {appliedFilters.category}</span>
                         <Icons.X className="w-3 h-3" />
@@ -360,7 +359,7 @@ function MuseosPageContent() {
                       <button
                         type="button"
                         onClick={() => removeFilter('virtualTour')}
-                        className="inline-flex items-center gap-1 text-xs px-2.5 py-1 rounded-lg bg-amber-50 dark:bg-amber-500/10 text-amber-700 dark:text-amber-300 hover:bg-rose-50 hover:text-rose-600 dark:hover:bg-rose-500/20 dark:hover:text-rose-300 transition-colors"
+                        className="inline-flex items-center gap-1 text-xs px-2.5 py-1 rounded-md bg-amber-50 dark:bg-amber-500/10 text-amber-700 dark:text-amber-400 hover:bg-rose-50 hover:text-rose-600 dark:hover:bg-rose-500/20 dark:hover:text-rose-300 transition-colors"
                       >
                         <span>Recorrido 360°</span>
                         <Icons.X className="w-3 h-3" />
@@ -371,7 +370,7 @@ function MuseosPageContent() {
                   <button
                     type="button"
                     onClick={handleClearFilters}
-                    className="text-xs text-rose-600 dark:text-rose-400 hover:text-rose-700 dark:hover:text-rose-300 flex items-center gap-1.5 font-bold transition-colors cursor-pointer"
+                    className="text-xs text-[#D91023] hover:underline flex items-center gap-1.5 font-medium transition-colors cursor-pointer"
                   >
                     <Icons.X className="w-3.5 h-3.5" />
                     <span>Restablecer</span>
@@ -394,8 +393,8 @@ function MuseosPageContent() {
           {/* Header de resultados */}
           <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 pb-5 border-b border-slate-200 dark:border-slate-800 mb-8">
             <div>
-              <span className="text-xs font-mono font-semibold uppercase tracking-wider text-sky-600 dark:text-sky-400 flex items-center gap-1.5 mb-1">
-                <Icons.Building className="w-4 h-4" />
+              <span className="text-xs font-mono font-semibold uppercase tracking-wider text-[#0B3B60] dark:text-slate-400 flex items-center gap-1.5 mb-1">
+                <Icons.Building className="w-4 h-4 text-[#0B3B60] dark:text-slate-400" />
                 <span>Inventario Nacional de Museos</span>
               </span>
               <h2 className="text-2xl sm:text-3xl font-bold text-slate-900 dark:text-white tracking-tight">
@@ -408,13 +407,13 @@ function MuseosPageContent() {
             </div>
 
             <div className="flex items-center gap-3 self-start sm:self-auto">
-              <span className="text-xs font-mono font-semibold px-3 py-1.5 rounded-lg bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 text-slate-700 dark:text-slate-300 shadow-sm">
+              <span className="text-xs font-mono font-semibold px-3 py-1.5 rounded-md bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 text-slate-700 dark:text-slate-300 shadow-xs">
                 {total.toLocaleString()} museos encontrados
               </span>
               {hasActiveFilters && (
                 <button
                   onClick={handleClearFilters}
-                  className="text-xs font-semibold text-rose-600 dark:text-rose-400 hover:text-rose-700 bg-rose-50 dark:bg-rose-500/10 border border-rose-200 dark:border-rose-500/30 px-3 py-1.5 rounded-lg transition-colors flex items-center gap-1 cursor-pointer"
+                  className="text-xs font-medium text-[#D91023] hover:underline bg-rose-50 dark:bg-rose-500/10 border border-rose-200 dark:border-rose-500/30 px-3 py-1.5 rounded-md transition-colors flex items-center gap-1 cursor-pointer"
                 >
                   <Icons.X className="w-3.5 h-3.5" />
                   <span>Restablecer</span>
@@ -426,7 +425,7 @@ function MuseosPageContent() {
           {/* Grilla de Museos */}
           {loading ? (
             <div className="py-24 flex flex-col items-center justify-center gap-4">
-              <div className="w-12 h-12 border-3 border-sky-500 border-t-transparent rounded-full animate-spin" />
+              <div className="w-10 h-10 border-2 border-[#0B3B60] border-t-transparent rounded-full animate-spin" />
               <p className="text-xs font-semibold text-slate-500 dark:text-slate-400 tracking-wider">
                 Cargando directorio de museos...
               </p>
@@ -456,7 +455,7 @@ function MuseosPageContent() {
               <AdsterraNativeBanner className="mt-8" />
             </>
           ) : (
-            <div className="text-center py-20 bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-xl p-8 shadow-sm">
+            <div className="text-center py-20 bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-lg p-8 shadow-xs">
               <Icons.Building className="w-12 h-12 text-slate-400 mx-auto mb-3" />
               <h3 className="text-lg font-bold text-slate-900 dark:text-white mb-1">
                 No se encontraron museos con los filtros seleccionados
@@ -466,7 +465,7 @@ function MuseosPageContent() {
               </p>
               <button
                 onClick={handleClearFilters}
-                className="inline-flex items-center gap-2 px-5 py-2.5 rounded-lg bg-sky-600 hover:bg-sky-500 text-white font-semibold text-xs transition-colors cursor-pointer shadow-sm"
+                className="inline-flex items-center gap-2 px-5 py-2.5 rounded-md bg-[#0B3B60] hover:bg-[#082C48] text-white font-semibold text-xs transition-colors cursor-pointer shadow-xs"
               >
                 <Icons.X className="w-4 h-4" />
                 <span>Restablecer Filtros</span>
@@ -484,7 +483,7 @@ export default function MuseosPage() {
     <Suspense
       fallback={
         <div className="min-h-screen flex items-center justify-center bg-slate-50 dark:bg-slate-950 py-24">
-          <div className="w-12 h-12 border-3 border-sky-500 border-t-transparent rounded-full animate-spin" />
+          <div className="w-10 h-10 border-2 border-[#0B3B60] border-t-transparent rounded-full animate-spin" />
         </div>
       }
     >
