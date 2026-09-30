@@ -3,6 +3,9 @@ import { MinceturModule } from './mincetur/mincetur.module';
 import { PapaModule } from './papa/papa.module';
 import { EmpresasModule } from './empresas/empresas.module';
 import { MuseosModule } from './museos/museos.module';
+import { PrismaModule } from './prisma/prisma.module';
+import { AuthModule } from './auth/auth.module';
+import { AdminModule } from './admin/admin.module';
 import { ThrottlerModule, ThrottlerGuard } from '@nestjs/throttler';
 import { APP_GUARD } from '@nestjs/core';
 
@@ -15,6 +18,9 @@ import { APP_GUARD } from '@nestjs/core';
         limit: 1200,
       },
     ]),
+    PrismaModule,
+    AuthModule,
+    AdminModule,
     MinceturModule,
     PapaModule,
     EmpresasModule,

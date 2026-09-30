@@ -1,7 +1,7 @@
 import 'dotenv/config';
 import { NestFactory } from '@nestjs/core';
 import { AppModule } from './app.module';
-import { Logger } from '@nestjs/common';
+import { Logger, ValidationPipe } from '@nestjs/common';
 // eslint-disable-next-line @typescript-eslint/no-var-requires
 const compression = require('compression');
 // eslint-disable-next-line @typescript-eslint/no-var-requires
@@ -22,14 +22,29 @@ async function bootstrap() {
     }),
   );
 
-  // 3. CORS de alto rendimiento
+  // 3. CORS configurable para permitir comunicación con el panel de administración
+  const corsOriginEnv = process.env.CORS_ORIGIN || '*';
+  const allowedOrigins = corsOriginEnv.includes(',')
+    ? corsOriginEnv.split(',').map((o) => o.trim())
+    : corsOriginEnv;
+
   app.enableCors({
-    origin: '*',
-    methods: 'GET,HEAD,OPTIONS',
+    origin: allowedOrigins === '*' ? true : allowedOrigins,
+    methods: 'GET,HEAD,PUT,PATCH,POST,DELETE,OPTIONS',
     allowedHeaders: 'Content-Type, Accept, Authorization, X-Requested-With',
+    credentials: true,
   });
 
-  // 4. Logger Middleware de peticiones HTTP en vivo
+  // 4. Transformación y validación automática de DTOs
+  app.useGlobalPipes(
+    new ValidationPipe({
+      whitelist: true,
+      transform: true,
+      transformOptions: { enableImplicitConversion: true },
+    }),
+  );
+
+  // 5. Logger Middleware de peticiones HTTP en vivo
   app.use((req: any, res: any, next: any) => {
     const start = Date.now();
     const { method, originalUrl } = req;

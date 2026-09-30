@@ -1,0 +1,86 @@
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+enum Role {
+  ADMIN
+  EDITOR
+  USER
+}
+
+model User {
+  id        String     @id @default(uuid())
+  email     String     @unique
+  password  String
+  name      String?
+  role      Role       @default(ADMIN)
+  createdAt DateTime   @default(now())
+  updatedAt DateTime   @updatedAt
+  posts     BlogPost[]
+
+  @@map("users")
+}
+
+model TouristPlace {
+  id              String   @id @default(uuid())
+  name            String
+  slug            String   @unique
+  description     String?  @db.Text
+  category        String?
+  department      String?
+  province        String?
+  district        String?
+  address         String?
+  imageUrl        String?
+  gallery         String[] @default([])
+  rating          Float?   @default(0)
+  isPublished     Boolean  @default(true)
+
+  // Coordenadas geográficas
+  latitude        Float
+  longitude       Float
+
+  // Campos SEO
+  metaTitle       String?
+  metaDescription String?  @db.Text
+  keywords        String?
+  canonicalUrl    String?
+  ogImage         String?
+
+  createdAt       DateTime @default(now())
+  updatedAt       DateTime @updatedAt
+
+  @@map("tourist_places")
+}
+
+model BlogPost {
+  id              String    @id @default(uuid())
+  title           String
+  slug            String    @unique
+  content         String    @db.Text
+  summary         String?   @db.Text
+  coverImage      String?
+  isPublished     Boolean   @default(false)
+  publishedAt     DateTime?
+
+  // Relación con autor
+  authorId        String?
+  author          User?     @relation(fields: [authorId], references: [id], onDelete: SetNull)
+
+  // Campos SEO
+  metaTitle       String?
+  metaDescription String?   @db.Text
+  keywords        String?
+  canonicalUrl    String?
+  ogImage         String?
+
+  createdAt       DateTime  @default(now())
+  updatedAt       DateTime  @updatedAt
+
+  @@map("blog_posts")
+}
