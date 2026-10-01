@@ -66,7 +66,7 @@ export default async function BlogPage({ searchParams }: { searchParams: { page?
         </div>
       </section>
 
-      <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 pt-10">
+      <div className="max-w-7xl mx-auto relative z-10 text-center w-full pt-10">
         {posts.length === 0 ? (
           <div className="rounded-lg border border-dashed border-slate-300 dark:border-slate-700 bg-white dark:bg-slate-900 px-6 py-16 text-center">
             <p className="text-lg font-semibold text-slate-900 dark:text-white">

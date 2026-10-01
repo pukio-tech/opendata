@@ -73,7 +73,7 @@ export default async function BlogPostPage({ params }: Props) {
       <article>
         {/* Cabecera */}
         <header className="border-b border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-900/40">
-          <div className="max-w-3xl mx-auto px-4 sm:px-6 pt-8 pb-10">
+          <div className="max-w-5xl mx-auto px-4 sm:px-6 pt-8 pb-10">
             <nav aria-label="Ruta de navegación" className="text-xs text-slate-500 dark:text-slate-400">
               <Link href="/" className="hover:text-[#0B3B60] dark:hover:text-white">Inicio</Link>
               <span className="mx-1.5">/</span>
@@ -102,7 +102,7 @@ export default async function BlogPostPage({ params }: Props) {
 
         {/* Portada */}
         {post.coverImage && (
-          <div className="max-w-4xl mx-auto px-4 sm:px-6 -mb-2 pt-8">
+          <div className="max-w-5xl mx-auto px-4 sm:px-6 -mb-2 pt-8">
             {/* eslint-disable-next-line @next/next/no-img-element */}
             <img
               src={post.coverImage}
@@ -113,7 +113,7 @@ export default async function BlogPostPage({ params }: Props) {
         )}
 
         {/* Contenido */}
-        <div className="max-w-3xl mx-auto px-4 sm:px-6 pt-6">
+        <div className="max-w-5xl mx-auto px-4 sm:px-6 pt-6">
           <Markdown content={post.content} />
 
           {post.keywords && (
