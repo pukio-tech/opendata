@@ -105,6 +105,12 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       priority: 0.95,
     },
     {
+      url: `${baseUrl}/blog`,
+      lastModified: now,
+      changeFrequency: 'daily',
+      priority: 0.9,
+    },
+    {
       url: `${baseUrl}/politicas-de-privacidad`,
       lastModified: now,
       changeFrequency: 'monthly',
@@ -380,8 +386,34 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     });
   }
 
+  // 11. Artículos del blog
+  const blogRoutes: MetadataRoute.Sitemap = [];
+  try {
+    const controller = new AbortController();
+    const timeoutId = setTimeout(() => controller.abort(), 6000);
+    const res = await fetch(`${apiUrl}/blog/sitemap`, {
+      signal: controller.signal,
+      next: { revalidate: 3600 },
+    });
+    clearTimeout(timeoutId);
+    if (res.ok) {
+      const posts: Array<{ slug: string; updatedAt?: string }> = await res.json();
+      for (const p of posts) {
+        blogRoutes.push({
+          url: `${baseUrl}/blog/${encodeURIComponent(p.slug)}`,
+          lastModified: p.updatedAt ? new Date(p.updatedAt) : now,
+          changeFrequency: 'weekly',
+          priority: 0.8,
+        });
+      }
+    }
+  } catch {
+    // Si la API no responde, el sitemap se genera sin los artículos
+  }
+
   return [
     ...staticRoutes,
+    ...blogRoutes,
     ...turismoDepartmentRoutes,
     ...empresasDepartmentRoutes,
     ...empresasTipoRoutes,

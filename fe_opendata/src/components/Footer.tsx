@@ -105,6 +105,11 @@ export const Footer = () => {
                 </Link>
               </li>
               <li>
+                <Link href="/blog" className="hover:text-[#0B3B60] dark:hover:text-white transition-colors">
+                  Blog
+                </Link>
+              </li>
+              <li>
                 <Link href="/ruta-del-papa" className="hover:text-amber-800 dark:hover:text-amber-400 text-slate-600 dark:text-slate-400 flex items-center gap-1 transition-colors">
                   <span>Ruta del Papa León XIV</span>
                 </Link>

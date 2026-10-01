@@ -61,6 +61,7 @@ export const Navbar = () => {
   const isRutaPapa = pathname === '/ruta-del-papa';
   const isEmpresas = pathname.startsWith('/empresas');
   const isMuseos = pathname.startsWith('/museos');
+  const isBlog = pathname.startsWith('/blog');
 
   // Foco automático en el buscador móvil al abrir
   useEffect(() => {
@@ -462,6 +463,17 @@ export const Navbar = () => {
             </Link>
 
             <Link
+              href="/blog"
+              className={`py-1 transition-colors ${
+                isBlog
+                  ? 'text-[#0B3B60] dark:text-white border-b-2 border-[#0B3B60] dark:border-sky-400 font-bold'
+                  : 'hover:text-slate-900 dark:hover:text-white'
+              }`}
+            >
+              Blog
+            </Link>
+
+            <Link
               href="/ruta-del-papa"
               className={`py-1 transition-colors flex items-center gap-1.5 ${
                 isRutaPapa
@@ -798,6 +810,19 @@ export const Navbar = () => {
             >
               <Icons.Landmark className="w-4 h-4 shrink-0 text-sky-600 dark:text-sky-400" />
               <span>Museos del Perú</span>
+            </Link>
+
+            <Link
+              href="/blog"
+              onClick={() => setIsMobileMenuOpen(false)}
+              className={`flex items-center gap-3 px-3 py-2.5 rounded-lg text-xs font-bold transition-colors ${
+                isBlog
+                  ? 'bg-sky-50 dark:bg-sky-600/20 text-sky-600 dark:text-sky-400'
+                  : 'text-slate-700 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-900 hover:text-slate-900 dark:hover:text-white'
+              }`}
+            >
+              <Icons.FileText className="w-4 h-4 shrink-0 text-sky-600 dark:text-sky-400" />
+              <span>Blog</span>
             </Link>
 
             <Link
