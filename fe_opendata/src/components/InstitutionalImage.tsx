@@ -50,7 +50,6 @@ export const InstitutionalImage: React.FC<InstitutionalImageProps> = ({
       setIsLoaded(false);
     } else {
       setHasError(false);
-      setIsLoaded(false);
     }
   }, [src]);
 
@@ -60,13 +59,18 @@ export const InstitutionalImage: React.FC<InstitutionalImageProps> = ({
     <div
       className={`relative overflow-hidden bg-slate-100 dark:bg-slate-800/80 border-b border-slate-200 dark:border-slate-700/60 flex items-center justify-center select-none ${containerClassName}`}
     >
-      {/* 1. Imagen Real si existe y carga sin errores */}
+      {/* 1. Imagen Real si existe y no ha dado error */}
       {!hasError && src ? (
         <>
           {!isLoaded && (
-            <div className="absolute inset-0 bg-slate-200 dark:bg-slate-800 animate-pulse" />
+            <div className="absolute inset-0 bg-slate-200 dark:bg-slate-800 animate-pulse pointer-events-none" />
           )}
           <img
+            ref={(img) => {
+              if (img && img.complete && img.naturalWidth > 0 && !isLoaded) {
+                setIsLoaded(true);
+              }
+            }}
             src={src}
             alt={alt}
             loading={priority ? 'eager' : 'lazy'}
@@ -83,7 +87,7 @@ export const InstitutionalImage: React.FC<InstitutionalImageProps> = ({
               setHasError(true);
               setIsLoaded(false);
             }}
-            className={`${className} transition-opacity duration-300 ${
+            className={`${className} transition-opacity duration-200 ${
               isLoaded ? 'opacity-100' : 'opacity-0'
             }`}
           />

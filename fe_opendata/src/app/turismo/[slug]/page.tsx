@@ -14,6 +14,7 @@ import { AdsterraDisplayBanner, ResponsiveLeaderboard } from '../../../component
 import { OfficialBadge } from '../../../components/OfficialBadge';
 import { TrustVerificationBadge } from '../../../components/TrustVerificationBadge';
 import { InstitutionalImage } from '../../../components/InstitutionalImage';
+import { ShareBar } from '../../../components/ShareBar';
 
 const formatPhotoUrl = (url: string | null | undefined, cod?: number): string => {
   if (!url) {
@@ -759,6 +760,15 @@ function FichaTurismoContent({ params }: FichaTurismoPageProps) {
                 )}
               </div>
             )}
+
+            {/* Barra de Compartir Oficial */}
+            <ShareBar
+              title={`${ficha.nombre} (${cleanLabel(ficha.departamento)})`}
+              text={`Descubre ${ficha.nombre} en ${cleanLabel(ficha.departamento)}, Perú:`}
+              label="Compartir este atractivo:"
+              sublabel="Difunde este recurso turístico oficial del Perú"
+              className="rounded-lg border border-slate-200 dark:border-slate-800"
+            />
 
             {/* Banner Display Responsivo (728x90 en desktop, 320x50 en móvil) */}
             <ResponsiveLeaderboard className="my-6" />

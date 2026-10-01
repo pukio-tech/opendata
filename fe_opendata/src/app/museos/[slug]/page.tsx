@@ -14,6 +14,7 @@ import { OfficialBadge } from '../../../components/OfficialBadge';
 import { TrustVerificationBadge } from '../../../components/TrustVerificationBadge';
 import { InstitutionalImage } from '../../../components/InstitutionalImage';
 import { MuseoCard } from '../../../components/MuseoCard';
+import { ShareBar } from '../../../components/ShareBar';
 
 const DynamicMuseoMap = dynamic(
   () => import('../../../components/MuseoOpenStreetMap').then((mod) => mod.MuseoOpenStreetMap),
@@ -564,6 +565,15 @@ function MuseoDetailPageContent() {
                 )}
               </div>
             )}
+
+            {/* Barra de Compartir Oficial */}
+            <ShareBar
+              title={`${museo.nombre} (${museo.departamento || 'Perú'})`}
+              text={`Descubre ${museo.nombre} en ${museo.departamento || 'Perú'}, Sistema Nacional de Museos:`}
+              label="Compartir este museo:"
+              sublabel="Difunde el patrimonio cultural oficial del Perú"
+              className="rounded-lg border border-slate-200 dark:border-slate-800"
+            />
 
             {/* Banner Display Responsivo (728x90 en desktop, 320x50 en móvil) */}
             <ResponsiveLeaderboard className="my-6" />
