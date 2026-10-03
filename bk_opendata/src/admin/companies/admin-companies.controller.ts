@@ -20,6 +20,7 @@ import { CreateCompanyDto } from './dto/create-company.dto';
 import { UpdateCompanyDto } from './dto/update-company.dto';
 import { QueryCompanyDto } from './dto/query-company.dto';
 import { JwtAuthGuard } from '../../auth/guards/jwt-auth.guard';
+import { AppAccessGuard, RequireApp } from '../../auth/guards/app-access.guard';
 
 /**
  * Valida que el id sea un entero positivo (bigint) y lo deja como string:
@@ -36,7 +37,8 @@ class ParseBigIntIdPipe implements PipeTransform<string, string> {
 }
 
 @Controller('api/admin/companies')
-@UseGuards(JwtAuthGuard)
+@UseGuards(JwtAuthGuard, AppAccessGuard)
+@RequireApp('opendata')
 export class AdminCompaniesController {
   constructor(private readonly companiesService: AdminCompaniesService) {}
 

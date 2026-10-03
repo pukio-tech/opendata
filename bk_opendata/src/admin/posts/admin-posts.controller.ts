@@ -17,10 +17,12 @@ import { CreateBlogPostDto } from './dto/create-post.dto';
 import { UpdateBlogPostDto } from './dto/update-post.dto';
 import { QueryBlogPostDto } from './dto/query-post.dto';
 import { JwtAuthGuard } from '../../auth/guards/jwt-auth.guard';
+import { AppAccessGuard, RequireApp } from '../../auth/guards/app-access.guard';
 import { CurrentUser } from '../../auth/decorators/current-user.decorator';
 
 @Controller('api/admin/posts')
-@UseGuards(JwtAuthGuard)
+@UseGuards(JwtAuthGuard, AppAccessGuard)
+@RequireApp('opendata')
 export class AdminPostsController {
   constructor(private readonly postsService: AdminPostsService) {}
 
