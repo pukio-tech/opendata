@@ -15,17 +15,49 @@ enum Role {
   USER
 }
 
+/// Usuario del panel (Control Center).
+/// ADMIN = superadministrador: todas las apps + gestión de usuarios.
+/// EDITOR / USER = solo las apps asignadas en `user_apps`.
 model User {
-  id        String     @id @default(uuid())
-  email     String     @unique
-  password  String
-  name      String?
-  role      Role       @default(ADMIN)
-  createdAt DateTime   @default(now())
-  updatedAt DateTime   @updatedAt
-  posts     BlogPost[]
+  id          String     @id @default(uuid())
+  email       String     @unique
+  password    String
+  name        String?
+  role        Role       @default(EDITOR)
+  active      Boolean    @default(true)
+  lastLoginAt DateTime?  @map("last_login_at")
+  createdAt   DateTime   @default(now())
+  updatedAt   DateTime   @updatedAt
+  posts       BlogPost[]
+  apps        UserApp[]
 
   @@map("users")
+}
+
+/// Aplicaciones gestionadas desde el panel (opendata, gym, …). El id coincide con lib/apps.ts del panel.
+model PanelApp {
+  id          String    @id @db.VarChar(40)
+  name        String    @db.VarChar(100)
+  description String?   @db.VarChar(255)
+  active      Boolean   @default(true)
+  createdAt   DateTime  @default(now())
+  users       UserApp[]
+
+  @@map("panel_apps")
+}
+
+/// Acceso de un usuario a una app del panel (los ADMIN no lo necesitan: ven todas).
+model UserApp {
+  userId    String   @map("user_id")
+  appId     String   @map("app_id") @db.VarChar(40)
+  grantedBy String?  @map("granted_by")
+  createdAt DateTime @default(now()) @map("created_at")
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  app       PanelApp @relation(fields: [appId], references: [id], onDelete: Cascade)
+
+  @@id([userId, appId])
+  @@index([appId])
+  @@map("user_apps")
 }
 
 model TouristPlace {

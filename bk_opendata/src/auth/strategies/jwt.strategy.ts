@@ -2,6 +2,7 @@ import { Injectable, UnauthorizedException } from '@nestjs/common';
 import { PassportStrategy } from '@nestjs/passport';
 import { ExtractJwt, Strategy } from 'passport-jwt';
 import { PrismaService } from '../../prisma/prisma.service';
+import { appsDelUsuario } from '../access';
 
 export interface JwtPayload {
   sub: string;
@@ -27,6 +28,8 @@ export class JwtStrategy extends PassportStrategy(Strategy, 'jwt') {
         email: true,
         name: true,
         role: true,
+        active: true,
+        lastLoginAt: true,
         createdAt: true,
       },
     });
@@ -34,7 +37,11 @@ export class JwtStrategy extends PassportStrategy(Strategy, 'jwt') {
     if (!user) {
       throw new UnauthorizedException('Token inválido o el usuario ya no existe');
     }
+    // Desactivar un usuario corta su sesión de inmediato (no espera a que venza el token)
+    if (!user.active) {
+      throw new UnauthorizedException('Tu usuario está desactivado. Contacta al administrador.');
+    }
 
-    return user;
+    return { ...user, apps: await appsDelUsuario(this.prisma, user) };
   }
 }

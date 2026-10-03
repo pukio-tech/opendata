@@ -3,7 +3,22 @@ import * as bcrypt from 'bcryptjs';
 
 const prisma = new PrismaClient();
 
+/** Apps del panel (deben coincidir con los `id` de lib/apps.ts del panel). */
+const PANEL_APPS = [
+  { id: 'opendata', name: 'OpenData Perú', description: 'Turismo y datos abiertos' },
+  { id: 'gym', name: 'Gym Manager', description: 'Gestión de gimnasios (multiempresa)' },
+];
+
 async function main() {
+  for (const app of PANEL_APPS) {
+    await prisma.panelApp.upsert({
+      where: { id: app.id },
+      update: { name: app.name, description: app.description },
+      create: app,
+    });
+  }
+  console.log(`✅ Apps del panel: ${PANEL_APPS.map((a) => a.id).join(', ')}`);
+
   const adminEmail = process.env.INITIAL_ADMIN_EMAIL || 'admin@opendata.pe';
   const adminPassword = process.env.INITIAL_ADMIN_PASSWORD || 'Admin123456!';
 

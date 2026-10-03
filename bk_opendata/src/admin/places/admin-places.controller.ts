@@ -18,9 +18,11 @@ import { CreateTouristPlaceDto } from './dto/create-place.dto';
 import { UpdateTouristPlaceDto } from './dto/update-place.dto';
 import { QueryTouristPlaceDto } from './dto/query-place.dto';
 import { JwtAuthGuard } from '../../auth/guards/jwt-auth.guard';
+import { AppAccessGuard, RequireApp } from '../../auth/guards/app-access.guard';
 
 @Controller('api/admin/places')
-@UseGuards(JwtAuthGuard)
+@UseGuards(JwtAuthGuard, AppAccessGuard)
+@RequireApp('opendata')
 export class AdminPlacesController {
   constructor(private readonly placesService: AdminPlacesService) {}
 

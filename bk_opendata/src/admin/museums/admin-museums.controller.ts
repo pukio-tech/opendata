@@ -18,9 +18,11 @@ import { CreateMuseumDto } from './dto/create-museum.dto';
 import { UpdateMuseumDto } from './dto/update-museum.dto';
 import { QueryMuseumDto } from './dto/query-museum.dto';
 import { JwtAuthGuard } from '../../auth/guards/jwt-auth.guard';
+import { AppAccessGuard, RequireApp } from '../../auth/guards/app-access.guard';
 
 @Controller('api/admin/museums')
-@UseGuards(JwtAuthGuard)
+@UseGuards(JwtAuthGuard, AppAccessGuard)
+@RequireApp('opendata')
 export class AdminMuseumsController {
   constructor(private readonly museumsService: AdminMuseumsService) {}
 
